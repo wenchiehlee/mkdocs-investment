@@ -2,7 +2,7 @@
 title: "6510 精測 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
     - **產業別**: 半導體業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年
-    - **報告生成時間**: 2026-03-07 12:36:07 CST
+    - **報告生成時間**: 2026-03-21 12:43:04 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.49,
+        "pe_ratio": 40.61,
         "forward_return": 61.48,
         "start_price": 651.0,
         "start_year": 2016
@@ -48,7 +48,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 30.69,
+        "pe_ratio": 37.15,
         "forward_return": 138.87,
         "start_price": 615.0,
         "start_year": 2016
@@ -57,7 +57,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 35.98,
+        "pe_ratio": 42.2,
         "forward_return": 354.95,
         "start_price": 721.0,
         "start_year": 2016
@@ -66,7 +66,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 39.92,
         "forward_return": 684.23,
         "start_price": 703.0,
         "start_year": 2016
@@ -75,7 +75,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 37.82,
+        "pe_ratio": 41.6,
         "forward_return": 264.63,
         "start_price": 758.0,
         "start_year": 2016
@@ -84,7 +84,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 55.74,
         "forward_return": 45.46,
         "start_price": 1050.0,
         "start_year": 2016
@@ -93,7 +93,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 58.63,
+        "pe_ratio": 60.41,
         "forward_return": 5.22,
         "start_price": 1175.0,
         "start_year": 2016
@@ -102,7 +102,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 53.44,
         "forward_return": 24.68,
         "start_price": 1050.0,
         "start_year": 2016
@@ -111,7 +111,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 58.88,
+        "pe_ratio": 59.47,
         "forward_return": 54.05,
         "start_price": 1180.0,
         "start_year": 2016
@@ -129,7 +129,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 54.6,
+        "pe_ratio": 53.5,
         "forward_return": 79.41,
         "start_price": 1110.0,
         "start_year": 2017
@@ -138,7 +138,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 67.66,
+        "pe_ratio": 65.02,
         "forward_return": -13.77,
         "start_price": 1395.0,
         "start_year": 2017
@@ -147,7 +147,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 65.05,
+        "pe_ratio": 61.37,
         "forward_return": 15.73,
         "start_price": 1360.0,
         "start_year": 2017
@@ -156,7 +156,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 55.43,
+        "pe_ratio": 51.73,
         "forward_return": 118.74,
         "start_price": 1175.0,
         "start_year": 2017
@@ -165,7 +165,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 62.6,
+        "pe_ratio": 57.81,
         "forward_return": 26.84,
         "start_price": 1345.0,
         "start_year": 2017
@@ -174,7 +174,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 59.7,
+        "pe_ratio": 54.58,
         "forward_return": -12.22,
         "start_price": 1300.0,
         "start_year": 2017
@@ -183,7 +183,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 64.36,
+        "pe_ratio": 58.87,
         "forward_return": -64.36,
         "start_price": 1420.0,
         "start_year": 2017
@@ -192,7 +192,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 63.53,
+        "pe_ratio": 58.15,
         "forward_return": -47.5,
         "start_price": 1420.0,
         "start_year": 2017
@@ -201,7 +201,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 55.21,
+        "pe_ratio": 50.57,
         "forward_return": -29.68,
         "start_price": 1250.0,
         "start_year": 2017
@@ -210,7 +210,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 47.75,
+        "pe_ratio": 45.03,
         "forward_return": 39.14,
         "start_price": 1095.0,
         "start_year": 2017
@@ -219,7 +219,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 48.88,
+        "pe_ratio": 47.46,
         "forward_return": -65.78,
         "start_price": 1135.0,
         "start_year": 2017
@@ -237,7 +237,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 50.92,
+        "pe_ratio": 51.87,
         "forward_return": -69.34,
         "start_price": 1190.0,
         "start_year": 2018
@@ -246,7 +246,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 45.63,
+        "pe_ratio": 47.38,
         "forward_return": -66.94,
         "start_price": 1060.0,
         "start_year": 2018
@@ -255,7 +255,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 34.56,
+        "pe_ratio": 36.61,
         "forward_return": -2.97,
         "start_price": 798.0,
         "start_year": 2018
@@ -264,7 +264,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 33.2,
+        "pe_ratio": 34.92,
         "forward_return": 15.59,
         "start_price": 762.0,
         "start_year": 2018
@@ -273,7 +273,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.37,
+        "pe_ratio": 36.95,
         "forward_return": -64.66,
         "start_price": 807.0,
         "start_year": 2018
@@ -282,7 +282,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 35.59,
+        "pe_ratio": 36.92,
         "forward_return": -88.16,
         "start_price": 807.0,
         "start_year": 2018
@@ -291,7 +291,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 34.61,
+        "pe_ratio": 36.57,
         "forward_return": -91.68,
         "start_price": 780.0,
         "start_year": 2018
@@ -300,7 +300,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 29.38,
         "forward_return": -38.3,
         "start_price": 611.0,
         "start_year": 2018
@@ -309,7 +309,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 22.78,
         "forward_return": 61.45,
         "start_price": 461.5,
         "start_year": 2018
@@ -318,7 +318,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.85,
+        "pe_ratio": 20.06,
         "forward_return": 7.84,
         "start_price": 417.0,
         "start_year": 2018
@@ -327,7 +327,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.11,
+        "pe_ratio": 22.8,
         "forward_return": -34.7,
         "start_price": 486.0,
         "start_year": 2018
@@ -345,7 +345,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.67,
+        "pe_ratio": 20.15,
         "forward_return": -26.86,
         "start_price": 425.0,
         "start_year": 2019
@@ -354,7 +354,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.46,
+        "pe_ratio": 20.44,
         "forward_return": -28.12,
         "start_price": 416.0,
         "start_year": 2019
@@ -363,7 +363,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 21.55,
         "forward_return": 17.59,
         "start_price": 422.5,
         "start_year": 2019
@@ -372,7 +372,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.02,
+        "pe_ratio": 25.73,
         "forward_return": -26.46,
         "start_price": 481.5,
         "start_year": 2019
@@ -381,7 +381,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.54,
+        "pe_ratio": 21.52,
         "forward_return": 1491.67,
         "start_price": 383.5,
         "start_year": 2019
@@ -390,7 +390,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 24.51,
         "forward_return": 1234.04,
         "start_price": 415.0,
         "start_year": 2019
@@ -399,7 +399,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 21.56,
+        "pe_ratio": 24.73,
         "forward_return": 2371.28,
         "start_price": 436.0,
         "start_year": 2019
@@ -408,7 +408,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 38.01,
+        "pe_ratio": 41.46,
         "forward_return": 148.46,
         "start_price": 760.0,
         "start_year": 2019
@@ -417,7 +417,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 39.82,
+        "pe_ratio": 41.36,
         "forward_return": 194.48,
         "start_price": 787.0,
         "start_year": 2019
@@ -426,7 +426,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 50.07,
+        "pe_ratio": 51.36,
         "forward_return": -33.65,
         "start_price": 978.0,
         "start_year": 2019
@@ -435,7 +435,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 45.7,
+        "pe_ratio": 46.28,
         "forward_return": -46.03,
         "start_price": 882.0,
         "start_year": 2019
@@ -453,7 +453,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 44.42,
+        "pe_ratio": 44.25,
         "forward_return": -69.06,
         "start_price": 882.0,
         "start_year": 2020
@@ -462,7 +462,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 39.25,
+        "pe_ratio": 38.95,
         "forward_return": -70.42,
         "start_price": 810.0,
         "start_year": 2020
@@ -471,7 +471,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 33.56,
+        "pe_ratio": 33.19,
         "forward_return": 66.8,
         "start_price": 719.0,
         "start_year": 2020
@@ -480,7 +480,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 29.5,
+        "pe_ratio": 28.69,
         "forward_return": 188.67,
         "start_price": 655.0,
         "start_year": 2020
@@ -489,7 +489,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.01,
+        "pe_ratio": 24.92,
         "forward_return": 102.16,
         "start_price": 598.0,
         "start_year": 2020
@@ -498,7 +498,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 34.2,
+        "pe_ratio": 32.3,
         "forward_return": -40.94,
         "start_price": 813.0,
         "start_year": 2020
@@ -507,7 +507,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 34.33,
+        "pe_ratio": 32.97,
         "forward_return": -58.86,
         "start_price": 843.0,
         "start_year": 2020
@@ -516,7 +516,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.78,
+        "pe_ratio": 27.11,
         "forward_return": 27.74,
         "start_price": 704.0,
         "start_year": 2020
@@ -525,7 +525,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.87,
+        "pe_ratio": 26.62,
         "forward_return": 40.45,
         "start_price": 702.0,
         "start_year": 2020
@@ -534,7 +534,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.04,
+        "pe_ratio": 24.9,
         "forward_return": 198.84,
         "start_price": 674.0,
         "start_year": 2020
@@ -543,7 +543,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.98,
+        "pe_ratio": 27.9,
         "forward_return": 62.49,
         "start_price": 775.0,
         "start_year": 2020
@@ -561,7 +561,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.3,
+        "pe_ratio": 31.32,
         "forward_return": -55.22,
         "start_price": 888.0,
         "start_year": 2021
@@ -570,7 +570,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.84,
+        "pe_ratio": 31.88,
         "forward_return": -67.56,
         "start_price": 900.0,
         "start_year": 2021
@@ -579,7 +579,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 32.28,
+        "pe_ratio": 32.34,
         "forward_return": -58.06,
         "start_price": 909.0,
         "start_year": 2021
@@ -588,7 +588,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 26.52,
+        "pe_ratio": 26.62,
         "forward_return": -30.3,
         "start_price": 744.0,
         "start_year": 2021
@@ -597,7 +597,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.4,
+        "pe_ratio": 24.54,
         "forward_return": -42.99,
         "start_price": 682.0,
         "start_year": 2021
@@ -606,7 +606,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 23.38,
+        "pe_ratio": 23.56,
         "forward_return": 25.98,
         "start_price": 651.0,
         "start_year": 2021
@@ -615,7 +615,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.09,
+        "pe_ratio": 24.72,
         "forward_return": 97.59,
         "start_price": 668.0,
         "start_year": 2021
@@ -624,7 +624,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 20.99,
+        "pe_ratio": 21.96,
         "forward_return": 83.98,
         "start_price": 580.0,
         "start_year": 2021
@@ -633,7 +633,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.64,
+        "pe_ratio": 26.27,
         "forward_return": 21.02,
         "start_price": 678.0,
         "start_year": 2021
@@ -642,7 +642,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 28.93,
+        "pe_ratio": 30.18,
         "forward_return": -60.39,
         "start_price": 793.0,
         "start_year": 2021
@@ -651,7 +651,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.55,
         "forward_return": -31.56,
         "start_price": 683.0,
         "start_year": 2021
@@ -669,7 +669,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 23.57,
         "forward_return": -51.98,
         "start_price": 628.0,
         "start_year": 2022
@@ -678,7 +678,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.62,
+        "pe_ratio": 24.08,
         "forward_return": -62.4,
         "start_price": 628.0,
         "start_year": 2022
@@ -687,7 +687,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.63,
         "forward_return": -52.39,
         "start_price": 603.0,
         "start_year": 2022
@@ -696,7 +696,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.2,
+        "pe_ratio": 18.27,
         "forward_return": -1.6,
         "start_price": 472.5,
         "start_year": 2022
@@ -705,7 +705,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 18.83,
         "forward_return": -13.28,
         "start_price": 493.5,
         "start_year": 2022
@@ -714,7 +714,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 16.09,
+        "pe_ratio": 15.36,
         "forward_return": -8.38,
         "start_price": 408.0,
         "start_year": 2022
@@ -723,7 +723,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 17.2,
         "forward_return": -51.93,
         "start_price": 457.0,
         "start_year": 2022
@@ -732,7 +732,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.39,
         "forward_return": 1.95,
         "start_price": 462.5,
         "start_year": 2022
@@ -741,7 +741,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.78,
+        "pe_ratio": 14.49,
         "forward_return": 113.16,
         "start_price": 385.5,
         "start_year": 2022
@@ -750,7 +750,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 15.76,
+        "pe_ratio": 14.86,
         "forward_return": 294.71,
         "start_price": 380.0,
         "start_year": 2022
@@ -759,7 +759,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 21.84,
+        "pe_ratio": 21.19,
         "forward_return": 31.53,
         "start_price": 520.0,
         "start_year": 2022
@@ -777,7 +777,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.35,
         "forward_return": -20.51,
         "start_price": 537.0,
         "start_year": 2023
@@ -786,7 +786,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 29.83,
+        "pe_ratio": 28.58,
         "forward_return": -49.39,
         "start_price": 589.0,
         "start_year": 2023
@@ -795,7 +795,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 31.84,
+        "pe_ratio": 29.7,
         "forward_return": -20.63,
         "start_price": 569.0,
         "start_year": 2023
@@ -804,7 +804,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 28.41,
         "forward_return": 42.22,
         "start_price": 482.5,
         "start_year": 2023
@@ -813,7 +813,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 35.27,
+        "pe_ratio": 33.63,
         "forward_return": 22.16,
         "start_price": 498.0,
         "start_year": 2023
@@ -822,7 +822,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 47.86,
+        "pe_ratio": 46.4,
         "forward_return": 3.95,
         "start_price": 586.0,
         "start_year": 2023
@@ -831,7 +831,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 49.67,
+        "pe_ratio": 49.63,
         "forward_return": -13.86,
         "start_price": 515.0,
         "start_year": 2023
@@ -840,7 +840,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 63.03,
         "forward_return": 33.59,
         "start_price": 512.0,
         "start_year": 2023
@@ -849,7 +849,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 87.65,
+        "pe_ratio": 98.81,
         "forward_return": -10.62,
         "start_price": 580.0,
         "start_year": 2023
@@ -858,7 +858,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 104.6,
+        "pe_ratio": 116.9,
         "forward_return": 29.14,
         "start_price": 496.0,
         "start_year": 2023
@@ -867,7 +867,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 205.5,
+        "pe_ratio": 225.1,
         "forward_return": -31.75,
         "start_price": 589.0,
         "start_year": 2023
@@ -885,7 +885,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 240.1,
+        "pe_ratio": 364.0,
         "forward_return": -30.47,
         "start_price": 529.0,
         "start_year": 2024
@@ -894,7 +894,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 161.6,
+        "pe_ratio": 288.0,
         "forward_return": -48.0,
         "start_price": 552.0,
         "start_year": 2024
@@ -903,7 +903,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 112.1,
+        "pe_ratio": 218.1,
         "forward_return": -42.66,
         "start_price": 519.0,
         "start_year": 2024
@@ -912,7 +912,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 81.03,
+        "pe_ratio": 175.4,
         "forward_return": -31.44,
         "start_price": 473.5,
         "start_year": 2024
@@ -921,7 +921,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 66.46,
+        "pe_ratio": 155.3,
         "forward_return": 24.88,
         "start_price": 469.0,
         "start_year": 2024
@@ -930,7 +930,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 55.26,
+        "pe_ratio": 136.8,
         "forward_return": 71.49,
         "start_price": 457.0,
         "start_year": 2024
@@ -939,7 +939,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 45.4,
+        "pe_ratio": 99.88,
         "forward_return": 251.84,
         "start_price": 430.5,
         "start_year": 2024
@@ -948,7 +948,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 46.32,
+        "pe_ratio": 93.84,
         "forward_return": 462.0,
         "start_price": 495.5,
         "start_year": 2024
@@ -957,7 +957,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 43.91,
+        "pe_ratio": 83.68,
         "forward_return": 714.68,
         "start_price": 523.0,
         "start_year": 2024
@@ -966,7 +966,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 45.03,
+        "pe_ratio": 63.21,
         "forward_return": 246.13,
         "start_price": 591.0,
         "start_year": 2024
@@ -975,7 +975,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 50.92,
+        "pe_ratio": 58.63,
         "forward_return": -28.11,
         "start_price": 730.0,
         "start_year": 2024
@@ -993,7 +993,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 48.13,
+        "pe_ratio": 45.75,
         "forward_return": 34.21,
         "start_price": 808.0,
         "start_year": 2025
@@ -1002,7 +1002,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 42.71,
+        "pe_ratio": 38.95,
         "forward_return": 80.0,
         "start_price": 770.0,
         "start_year": 2025
@@ -1011,7 +1011,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 34.0,
+        "pe_ratio": 29.94,
         "forward_return": 126.6,
         "start_price": 655.0,
         "start_year": 2025
@@ -1020,7 +1020,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 35.51,
+        "pe_ratio": 31.13,
         "forward_return": 95.92,
         "start_price": 728.0,
         "start_year": 2025
@@ -1029,7 +1029,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 35.76,
         "forward_return": 288.62,
         "start_price": 890.0,
         "start_year": 2025
@@ -1038,7 +1038,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 36.42,
+        "pe_ratio": 31.72,
         "forward_return": 2673.2,
         "start_price": 837.0,
         "start_year": 2025
@@ -1047,7 +1047,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 35.22,
+        "pe_ratio": 30.35,
         "forward_return": 1145.26,
         "start_price": 853.0,
         "start_year": 2025
@@ -1056,7 +1056,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 48.91,
+        "pe_ratio": 41.74,
         "forward_return": 515.93,
         "start_price": 1245.0,
         "start_year": 2025
@@ -1065,7 +1065,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 72.11,
+        "pe_ratio": 61.01,
         "forward_return": 99.0,
         "start_price": 1925.0,
         "start_year": 2025
@@ -1074,7 +1074,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 57.64,
+        "pe_ratio": 51.65,
         "forward_return": 1637.98,
         "start_price": 1610.0,
         "start_year": 2025
@@ -1083,7 +1083,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.49,
+        "pe_ratio": 40.61,
         "forward_return": 128.33,
         "start_price": 651.0,
         "start_year": 2016
@@ -1092,7 +1092,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 30.69,
+        "pe_ratio": 37.15,
         "forward_return": 194.18,
         "start_price": 615.0,
         "start_year": 2016
@@ -1101,7 +1101,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 35.98,
+        "pe_ratio": 42.2,
         "forward_return": 137.22,
         "start_price": 721.0,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 39.92,
         "forward_return": 188.81,
         "start_price": 703.0,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 37.82,
+        "pe_ratio": 41.6,
         "forward_return": 113.22,
         "start_price": 758.0,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 55.74,
         "forward_return": 56.16,
         "start_price": 1050.0,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 58.63,
+        "pe_ratio": 60.41,
         "forward_return": 34.32,
         "start_price": 1175.0,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 53.44,
         "forward_return": 53.2,
         "start_price": 1050.0,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 58.88,
+        "pe_ratio": 59.47,
         "forward_return": 30.23,
         "start_price": 1180.0,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 54.6,
+        "pe_ratio": 53.5,
         "forward_return": 66.26,
         "start_price": 1110.0,
         "start_year": 2017
@@ -1182,7 +1182,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 67.66,
+        "pe_ratio": 65.02,
         "forward_return": 4.8,
         "start_price": 1395.0,
         "start_year": 2017
@@ -1191,7 +1191,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 65.05,
+        "pe_ratio": 61.37,
         "forward_return": -30.06,
         "start_price": 1360.0,
         "start_year": 2017
@@ -1200,7 +1200,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 55.43,
+        "pe_ratio": 51.73,
         "forward_return": -11.86,
         "start_price": 1175.0,
         "start_year": 2017
@@ -1209,7 +1209,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 62.6,
+        "pe_ratio": 57.81,
         "forward_return": -23.12,
         "start_price": 1345.0,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 59.7,
+        "pe_ratio": 54.58,
         "forward_return": -21.3,
         "start_price": 1300.0,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 64.36,
+        "pe_ratio": 58.87,
         "forward_return": -29.59,
         "start_price": 1420.0,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 63.53,
+        "pe_ratio": 58.15,
         "forward_return": -62.95,
         "start_price": 1420.0,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 55.21,
+        "pe_ratio": 50.57,
         "forward_return": -59.57,
         "start_price": 1250.0,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 47.75,
+        "pe_ratio": 45.03,
         "forward_return": -40.89,
         "start_price": 1095.0,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 48.88,
+        "pe_ratio": 47.46,
         "forward_return": -49.75,
         "start_price": 1135.0,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 50.92,
+        "pe_ratio": 51.87,
         "forward_return": -56.25,
         "start_price": 1190.0,
         "start_year": 2018
@@ -1290,7 +1290,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 45.63,
+        "pe_ratio": 47.38,
         "forward_return": -65.8,
         "start_price": 1060.0,
         "start_year": 2018
@@ -1299,7 +1299,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 34.56,
+        "pe_ratio": 36.61,
         "forward_return": -65.61,
         "start_price": 798.0,
         "start_year": 2018
@@ -1308,7 +1308,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 33.2,
+        "pe_ratio": 34.92,
         "forward_return": -68.52,
         "start_price": 762.0,
         "start_year": 2018
@@ -1317,7 +1317,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.37,
+        "pe_ratio": 36.95,
         "forward_return": -51.21,
         "start_price": 807.0,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 35.59,
+        "pe_ratio": 36.92,
         "forward_return": -56.79,
         "start_price": 807.0,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 34.61,
+        "pe_ratio": 36.57,
         "forward_return": -70.04,
         "start_price": 780.0,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 29.38,
         "forward_return": -47.04,
         "start_price": 611.0,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 22.78,
         "forward_return": -16.32,
         "start_price": 461.5,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.85,
+        "pe_ratio": 20.06,
         "forward_return": -13.44,
         "start_price": 417.0,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.11,
+        "pe_ratio": 22.8,
         "forward_return": -38.0,
         "start_price": 486.0,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.67,
+        "pe_ratio": 20.15,
         "forward_return": 10.22,
         "start_price": 425.0,
         "start_year": 2019
@@ -1398,7 +1398,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.46,
+        "pe_ratio": 20.44,
         "forward_return": 244.06,
         "start_price": 416.0,
         "start_year": 2019
@@ -1407,7 +1407,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 21.55,
         "forward_return": 326.27,
         "start_price": 422.5,
         "start_year": 2019
@@ -1416,7 +1416,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.02,
+        "pe_ratio": 25.73,
         "forward_return": 319.8,
         "start_price": 481.5,
         "start_year": 2019
@@ -1425,7 +1425,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.54,
+        "pe_ratio": 21.52,
         "forward_return": 448.9,
         "start_price": 383.5,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 24.51,
         "forward_return": 525.66,
         "start_price": 415.0,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 21.56,
+        "pe_ratio": 24.73,
         "forward_return": 304.94,
         "start_price": 436.0,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 38.01,
+        "pe_ratio": 41.46,
         "forward_return": -9.07,
         "start_price": 760.0,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 39.82,
+        "pe_ratio": 41.36,
         "forward_return": -16.59,
         "start_price": 787.0,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 50.07,
+        "pe_ratio": 51.36,
         "forward_return": -56.98,
         "start_price": 978.0,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 45.7,
+        "pe_ratio": 46.28,
         "forward_return": -54.15,
         "start_price": 882.0,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 44.42,
+        "pe_ratio": 44.25,
         "forward_return": -6.49,
         "start_price": 882.0,
         "start_year": 2020
@@ -1506,7 +1506,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 39.25,
+        "pe_ratio": 38.95,
         "forward_return": -22.26,
         "start_price": 810.0,
         "start_year": 2020
@@ -1515,7 +1515,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 33.56,
+        "pe_ratio": 33.19,
         "forward_return": -8.16,
         "start_price": 719.0,
         "start_year": 2020
@@ -1524,7 +1524,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 29.5,
+        "pe_ratio": 28.69,
         "forward_return": 9.03,
         "start_price": 655.0,
         "start_year": 2020
@@ -1533,7 +1533,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.01,
+        "pe_ratio": 24.92,
         "forward_return": 55.32,
         "start_price": 598.0,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 34.2,
+        "pe_ratio": 32.3,
         "forward_return": -9.35,
         "start_price": 813.0,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 34.33,
+        "pe_ratio": 32.97,
         "forward_return": 10.87,
         "start_price": 843.0,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.78,
+        "pe_ratio": 27.11,
         "forward_return": 55.32,
         "start_price": 704.0,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.87,
+        "pe_ratio": 26.62,
         "forward_return": 68.45,
         "start_price": 702.0,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.04,
+        "pe_ratio": 24.9,
         "forward_return": 2.05,
         "start_price": 674.0,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.98,
+        "pe_ratio": 27.9,
         "forward_return": -22.74,
         "start_price": 775.0,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.3,
+        "pe_ratio": 31.32,
         "forward_return": -41.64,
         "start_price": 888.0,
         "start_year": 2021
@@ -1614,7 +1614,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.84,
+        "pe_ratio": 31.88,
         "forward_return": -56.86,
         "start_price": 900.0,
         "start_year": 2021
@@ -1623,7 +1623,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 32.28,
+        "pe_ratio": 32.34,
         "forward_return": -18.73,
         "start_price": 909.0,
         "start_year": 2021
@@ -1632,7 +1632,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 26.52,
+        "pe_ratio": 26.62,
         "forward_return": 17.03,
         "start_price": 744.0,
         "start_year": 2021
@@ -1641,7 +1641,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.4,
+        "pe_ratio": 24.54,
         "forward_return": 10.48,
         "start_price": 682.0,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 23.38,
+        "pe_ratio": 23.56,
         "forward_return": 23.29,
         "start_price": 651.0,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.09,
+        "pe_ratio": 24.72,
         "forward_return": -11.54,
         "start_price": 668.0,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 20.99,
+        "pe_ratio": 21.96,
         "forward_return": 6.93,
         "start_price": 580.0,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.64,
+        "pe_ratio": 26.27,
         "forward_return": -21.07,
         "start_price": 678.0,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 28.93,
+        "pe_ratio": 30.18,
         "forward_return": -55.83,
         "start_price": 793.0,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.55,
         "forward_return": -48.1,
         "start_price": 683.0,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 23.57,
         "forward_return": -44.14,
         "start_price": 628.0,
         "start_year": 2022
@@ -1722,7 +1722,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.62,
+        "pe_ratio": 24.08,
         "forward_return": -42.63,
         "start_price": 628.0,
         "start_year": 2022
@@ -1731,7 +1731,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.63,
         "forward_return": -51.72,
         "start_price": 603.0,
         "start_year": 2022
@@ -1740,7 +1740,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.2,
+        "pe_ratio": 18.27,
         "forward_return": -30.56,
         "start_price": 472.5,
         "start_year": 2022
@@ -1749,7 +1749,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 18.83,
         "forward_return": -4.93,
         "start_price": 493.5,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 16.09,
+        "pe_ratio": 15.36,
         "forward_return": 37.8,
         "start_price": 408.0,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 17.2,
         "forward_return": 37.74,
         "start_price": 457.0,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.39,
         "forward_return": 42.91,
         "start_price": 462.5,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.78,
+        "pe_ratio": 14.49,
         "forward_return": 119.39,
         "start_price": 385.5,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 15.76,
+        "pe_ratio": 14.86,
         "forward_return": 59.35,
         "start_price": 380.0,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 21.84,
+        "pe_ratio": 21.19,
         "forward_return": -8.35,
         "start_price": 520.0,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.35,
         "forward_return": -3.81,
         "start_price": 537.0,
         "start_year": 2023
@@ -1830,7 +1830,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 29.83,
+        "pe_ratio": 28.58,
         "forward_return": -20.99,
         "start_price": 589.0,
         "start_year": 2023
@@ -1839,7 +1839,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 31.84,
+        "pe_ratio": 29.7,
         "forward_return": -17.67,
         "start_price": 569.0,
         "start_year": 2023
@@ -1848,7 +1848,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 28.41,
         "forward_return": 10.72,
         "start_price": 482.5,
         "start_year": 2023
@@ -1857,7 +1857,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 35.27,
+        "pe_ratio": 33.63,
         "forward_return": 28.1,
         "start_price": 498.0,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 47.86,
+        "pe_ratio": 46.4,
         "forward_return": -3.46,
         "start_price": 586.0,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 49.67,
+        "pe_ratio": 49.63,
         "forward_return": 5.47,
         "start_price": 515.0,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 63.03,
         "forward_return": 2.36,
         "start_price": 512.0,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 87.65,
+        "pe_ratio": 98.81,
         "forward_return": -19.99,
         "start_price": 580.0,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 104.6,
+        "pe_ratio": 116.9,
         "forward_return": -9.15,
         "start_price": 496.0,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 205.5,
+        "pe_ratio": 225.1,
         "forward_return": -36.7,
         "start_price": 589.0,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 240.1,
+        "pe_ratio": 364.0,
         "forward_return": -33.71,
         "start_price": 529.0,
         "start_year": 2024
@@ -1938,7 +1938,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 161.6,
+        "pe_ratio": 288.0,
         "forward_return": -19.23,
         "start_price": 552.0,
         "start_year": 2024
@@ -1947,7 +1947,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 112.1,
+        "pe_ratio": 218.1,
         "forward_return": 25.0,
         "start_price": 519.0,
         "start_year": 2024
@@ -1956,7 +1956,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 81.03,
+        "pe_ratio": 175.4,
         "forward_return": 55.91,
         "start_price": 473.5,
         "start_year": 2024
@@ -1965,7 +1965,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 66.46,
+        "pe_ratio": 155.3,
         "forward_return": 194.16,
         "start_price": 469.0,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 55.26,
+        "pe_ratio": 136.8,
         "forward_return": 271.9,
         "start_price": 457.0,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 45.4,
+        "pe_ratio": 99.88,
         "forward_return": 248.97,
         "start_price": 430.5,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 46.32,
+        "pe_ratio": 93.84,
         "forward_return": 61.74,
         "start_price": 495.5,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 43.91,
+        "pe_ratio": 83.68,
         "forward_return": 57.48,
         "start_price": 523.0,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 45.03,
+        "pe_ratio": 63.21,
         "forward_return": 102.46,
         "start_price": 591.0,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 50.92,
+        "pe_ratio": 58.63,
         "forward_return": 49.17,
         "start_price": 730.0,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 48.13,
+        "pe_ratio": 45.75,
         "forward_return": 13.63,
         "start_price": 808.0,
         "start_year": 2025
@@ -2046,7 +2046,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 42.71,
+        "pe_ratio": 38.95,
         "forward_return": 165.6,
         "start_price": 770.0,
         "start_year": 2025
@@ -2055,7 +2055,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 34.0,
+        "pe_ratio": 29.94,
         "forward_return": 367.98,
         "start_price": 655.0,
         "start_year": 2025
@@ -2064,7 +2064,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 35.51,
+        "pe_ratio": 31.13,
         "forward_return": 392.23,
         "start_price": 728.0,
         "start_year": 2025
@@ -2073,7 +2073,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 35.76,
         "forward_return": 402.86,
         "start_price": 890.0,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 36.42,
+        "pe_ratio": 31.72,
         "forward_return": 647.29,
         "start_price": 837.0,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 35.22,
+        "pe_ratio": 30.35,
         "forward_return": 1371.14,
         "start_price": 853.0,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.49,
+        "pe_ratio": 40.61,
         "forward_return": 109.94,
         "start_price": 651.0,
         "start_year": 2016
@@ -2109,7 +2109,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 30.69,
+        "pe_ratio": 37.15,
         "forward_return": 92.12,
         "start_price": 615.0,
         "start_year": 2016
@@ -2118,7 +2118,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 35.98,
+        "pe_ratio": 42.2,
         "forward_return": 87.46,
         "start_price": 721.0,
         "start_year": 2016
@@ -2127,7 +2127,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 39.92,
         "forward_return": 85.85,
         "start_price": 703.0,
         "start_year": 2016
@@ -2136,7 +2136,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 37.82,
+        "pe_ratio": 41.6,
         "forward_return": 88.47,
         "start_price": 758.0,
         "start_year": 2016
@@ -2145,7 +2145,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 55.74,
         "forward_return": 36.03,
         "start_price": 1050.0,
         "start_year": 2016
@@ -2154,7 +2154,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 58.63,
+        "pe_ratio": 60.41,
         "forward_return": 7.07,
         "start_price": 1175.0,
         "start_year": 2016
@@ -2163,7 +2163,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 53.44,
         "forward_return": 5.05,
         "start_price": 1050.0,
         "start_year": 2016
@@ -2172,7 +2172,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 58.88,
+        "pe_ratio": 59.47,
         "forward_return": -3.14,
         "start_price": 1180.0,
         "start_year": 2016
@@ -2190,7 +2190,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 54.6,
+        "pe_ratio": 53.5,
         "forward_return": 7.93,
         "start_price": 1110.0,
         "start_year": 2017
@@ -2199,7 +2199,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 67.66,
+        "pe_ratio": 65.02,
         "forward_return": -23.45,
         "start_price": 1395.0,
         "start_year": 2017
@@ -2208,7 +2208,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 65.05,
+        "pe_ratio": 61.37,
         "forward_return": -40.76,
         "start_price": 1360.0,
         "start_year": 2017
@@ -2217,7 +2217,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 55.43,
+        "pe_ratio": 51.73,
         "forward_return": -34.49,
         "start_price": 1175.0,
         "start_year": 2017
@@ -2226,7 +2226,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 62.6,
+        "pe_ratio": 57.81,
         "forward_return": -39.43,
         "start_price": 1345.0,
         "start_year": 2017
@@ -2235,7 +2235,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 59.7,
+        "pe_ratio": 54.58,
         "forward_return": -37.33,
         "start_price": 1300.0,
         "start_year": 2017
@@ -2244,7 +2244,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 64.36,
+        "pe_ratio": 58.87,
         "forward_return": -44.39,
         "start_price": 1420.0,
         "start_year": 2017
@@ -2253,7 +2253,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 63.53,
+        "pe_ratio": 58.15,
         "forward_return": -56.29,
         "start_price": 1420.0,
         "start_year": 2017
@@ -2262,7 +2262,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 55.21,
+        "pe_ratio": 50.57,
         "forward_return": -62.31,
         "start_price": 1250.0,
         "start_year": 2017
@@ -2271,7 +2271,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 47.75,
+        "pe_ratio": 45.03,
         "forward_return": -61.03,
         "start_price": 1095.0,
         "start_year": 2017
@@ -2280,7 +2280,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 48.88,
+        "pe_ratio": 47.46,
         "forward_return": -56.32,
         "start_price": 1135.0,
         "start_year": 2017
@@ -2298,7 +2298,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 50.92,
+        "pe_ratio": 51.87,
         "forward_return": -63.47,
         "start_price": 1190.0,
         "start_year": 2018
@@ -2307,7 +2307,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 45.63,
+        "pe_ratio": 47.38,
         "forward_return": -59.84,
         "start_price": 1060.0,
         "start_year": 2018
@@ -2316,7 +2316,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 34.56,
+        "pe_ratio": 36.61,
         "forward_return": -45.82,
         "start_price": 798.0,
         "start_year": 2018
@@ -2325,7 +2325,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 33.2,
+        "pe_ratio": 34.92,
         "forward_return": -35.52,
         "start_price": 762.0,
         "start_year": 2018
@@ -2334,7 +2334,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.37,
+        "pe_ratio": 36.95,
         "forward_return": -51.26,
         "start_price": 807.0,
         "start_year": 2018
@@ -2343,7 +2343,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 35.59,
+        "pe_ratio": 36.92,
         "forward_return": -47.36,
         "start_price": 807.0,
         "start_year": 2018
@@ -2352,7 +2352,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 34.61,
+        "pe_ratio": 36.57,
         "forward_return": -42.84,
         "start_price": 780.0,
         "start_year": 2018
@@ -2361,7 +2361,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 29.38,
         "forward_return": 26.04,
         "start_price": 611.0,
         "start_year": 2018
@@ -2370,7 +2370,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 22.78,
         "forward_return": 72.76,
         "start_price": 461.5,
         "start_year": 2018
@@ -2379,7 +2379,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.85,
+        "pe_ratio": 20.06,
         "forward_return": 137.07,
         "start_price": 417.0,
         "start_year": 2018
@@ -2388,7 +2388,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.11,
+        "pe_ratio": 22.8,
         "forward_return": 83.62,
         "start_price": 486.0,
         "start_year": 2018
@@ -2406,7 +2406,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.67,
+        "pe_ratio": 20.15,
         "forward_return": 109.99,
         "start_price": 425.0,
         "start_year": 2019
@@ -2415,7 +2415,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.46,
+        "pe_ratio": 20.44,
         "forward_return": 97.21,
         "start_price": 416.0,
         "start_year": 2019
@@ -2424,7 +2424,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 21.55,
         "forward_return": 72.35,
         "start_price": 422.5,
         "start_year": 2019
@@ -2433,7 +2433,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.02,
+        "pe_ratio": 25.73,
         "forward_return": 38.02,
         "start_price": 481.5,
         "start_year": 2019
@@ -2442,7 +2442,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.54,
+        "pe_ratio": 21.52,
         "forward_return": 58.39,
         "start_price": 383.5,
         "start_year": 2019
@@ -2451,7 +2451,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 24.51,
         "forward_return": 98.04,
         "start_price": 415.0,
         "start_year": 2019
@@ -2460,7 +2460,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 21.56,
+        "pe_ratio": 24.73,
         "forward_return": 95.37,
         "start_price": 436.0,
         "start_year": 2019
@@ -2469,7 +2469,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 38.01,
+        "pe_ratio": 41.46,
         "forward_return": -6.04,
         "start_price": 760.0,
         "start_year": 2019
@@ -2478,7 +2478,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 39.82,
+        "pe_ratio": 41.36,
         "forward_return": -9.51,
         "start_price": 787.0,
         "start_year": 2019
@@ -2487,7 +2487,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 50.07,
+        "pe_ratio": 51.36,
         "forward_return": -30.01,
         "start_price": 978.0,
         "start_year": 2019
@@ -2496,7 +2496,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 45.7,
+        "pe_ratio": 46.28,
         "forward_return": -10.98,
         "start_price": 882.0,
         "start_year": 2019
@@ -2514,7 +2514,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 44.42,
+        "pe_ratio": 44.25,
         "forward_return": 1.81,
         "start_price": 882.0,
         "start_year": 2020
@@ -2523,7 +2523,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 39.25,
+        "pe_ratio": 38.95,
         "forward_return": 12.38,
         "start_price": 810.0,
         "start_year": 2020
@@ -2532,7 +2532,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 33.56,
+        "pe_ratio": 33.19,
         "forward_return": 27.84,
         "start_price": 719.0,
         "start_year": 2020
@@ -2541,7 +2541,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 29.5,
+        "pe_ratio": 28.69,
         "forward_return": 15.13,
         "start_price": 655.0,
         "start_year": 2020
@@ -2550,7 +2550,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.01,
+        "pe_ratio": 24.92,
         "forward_return": 15.73,
         "start_price": 598.0,
         "start_year": 2020
@@ -2559,7 +2559,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 34.2,
+        "pe_ratio": 32.3,
         "forward_return": -18.71,
         "start_price": 813.0,
         "start_year": 2020
@@ -2568,7 +2568,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 34.33,
+        "pe_ratio": 32.97,
         "forward_return": -19.35,
         "start_price": 843.0,
         "start_year": 2020
@@ -2577,7 +2577,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.78,
+        "pe_ratio": 27.11,
         "forward_return": -15.92,
         "start_price": 704.0,
         "start_year": 2020
@@ -2586,7 +2586,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.87,
+        "pe_ratio": 26.62,
         "forward_return": -1.71,
         "start_price": 702.0,
         "start_year": 2020
@@ -2595,7 +2595,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.04,
+        "pe_ratio": 24.9,
         "forward_return": 19.45,
         "start_price": 674.0,
         "start_year": 2020
@@ -2604,7 +2604,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.98,
+        "pe_ratio": 27.9,
         "forward_return": -10.33,
         "start_price": 775.0,
         "start_year": 2020
@@ -2622,7 +2622,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.3,
+        "pe_ratio": 31.32,
         "forward_return": -27.94,
         "start_price": 888.0,
         "start_year": 2021
@@ -2631,7 +2631,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.84,
+        "pe_ratio": 31.88,
         "forward_return": -28.91,
         "start_price": 900.0,
         "start_year": 2021
@@ -2640,7 +2640,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 32.28,
+        "pe_ratio": 32.34,
         "forward_return": -32.36,
         "start_price": 909.0,
         "start_year": 2021
@@ -2649,7 +2649,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 26.52,
+        "pe_ratio": 26.62,
         "forward_return": -34.9,
         "start_price": 744.0,
         "start_year": 2021
@@ -2658,7 +2658,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.4,
+        "pe_ratio": 24.54,
         "forward_return": -25.89,
         "start_price": 682.0,
         "start_year": 2021
@@ -2667,7 +2667,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 23.38,
+        "pe_ratio": 23.56,
         "forward_return": -35.5,
         "start_price": 651.0,
         "start_year": 2021
@@ -2676,7 +2676,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.09,
+        "pe_ratio": 24.72,
         "forward_return": -29.57,
         "start_price": 668.0,
         "start_year": 2021
@@ -2685,7 +2685,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 20.99,
+        "pe_ratio": 21.96,
         "forward_return": -17.92,
         "start_price": 580.0,
         "start_year": 2021
@@ -2694,7 +2694,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.64,
+        "pe_ratio": 26.27,
         "forward_return": -41.16,
         "start_price": 678.0,
         "start_year": 2021
@@ -2703,7 +2703,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 28.93,
+        "pe_ratio": 30.18,
         "forward_return": -50.39,
         "start_price": 793.0,
         "start_year": 2021
@@ -2712,7 +2712,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.55,
         "forward_return": -21.89,
         "start_price": 683.0,
         "start_year": 2021
@@ -2730,7 +2730,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 23.57,
         "forward_return": -12.33,
         "start_price": 628.0,
         "start_year": 2022
@@ -2739,7 +2739,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.62,
+        "pe_ratio": 24.08,
         "forward_return": -4.05,
         "start_price": 628.0,
         "start_year": 2022
@@ -2748,7 +2748,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.63,
         "forward_return": -3.39,
         "start_price": 603.0,
         "start_year": 2022
@@ -2757,7 +2757,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.2,
+        "pe_ratio": 18.27,
         "forward_return": 5.0,
         "start_price": 472.5,
         "start_year": 2022
@@ -2766,7 +2766,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 18.83,
         "forward_return": 3.67,
         "start_price": 493.5,
         "start_year": 2022
@@ -2775,7 +2775,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 16.09,
+        "pe_ratio": 15.36,
         "forward_return": 47.0,
         "start_price": 408.0,
         "start_year": 2022
@@ -2784,7 +2784,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 17.2,
         "forward_return": 15.27,
         "start_price": 457.0,
         "start_year": 2022
@@ -2793,7 +2793,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.39,
         "forward_return": 13.25,
         "start_price": 462.5,
         "start_year": 2022
@@ -2802,7 +2802,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.78,
+        "pe_ratio": 14.49,
         "forward_return": 53.55,
         "start_price": 385.5,
         "start_year": 2022
@@ -2811,7 +2811,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 15.76,
+        "pe_ratio": 14.86,
         "forward_return": 33.64,
         "start_price": 380.0,
         "start_year": 2022
@@ -2820,7 +2820,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 21.84,
+        "pe_ratio": 21.19,
         "forward_return": 15.54,
         "start_price": 520.0,
         "start_year": 2022
@@ -2838,7 +2838,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.35,
         "forward_return": 0.7,
         "start_price": 537.0,
         "start_year": 2023
@@ -2847,7 +2847,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 29.83,
+        "pe_ratio": 28.58,
         "forward_return": -4.29,
         "start_price": 589.0,
         "start_year": 2023
@@ -2856,7 +2856,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 31.84,
+        "pe_ratio": 29.7,
         "forward_return": -6.71,
         "start_price": 569.0,
         "start_year": 2023
@@ -2865,7 +2865,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 28.41,
         "forward_return": 0.57,
         "start_price": 482.5,
         "start_year": 2023
@@ -2874,7 +2874,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 35.27,
+        "pe_ratio": 33.63,
         "forward_return": -3.46,
         "start_price": 498.0,
         "start_year": 2023
@@ -2883,7 +2883,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 47.86,
+        "pe_ratio": 46.4,
         "forward_return": -19.97,
         "start_price": 586.0,
         "start_year": 2023
@@ -2892,7 +2892,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 49.67,
+        "pe_ratio": 49.63,
         "forward_return": -16.28,
         "start_price": 515.0,
         "start_year": 2023
@@ -2901,7 +2901,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 63.03,
         "forward_return": -3.12,
         "start_price": 512.0,
         "start_year": 2023
@@ -2910,7 +2910,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 87.65,
+        "pe_ratio": 98.81,
         "forward_return": -9.72,
         "start_price": 580.0,
         "start_year": 2023
@@ -2919,7 +2919,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 104.6,
+        "pe_ratio": 116.9,
         "forward_return": 19.21,
         "start_price": 496.0,
         "start_year": 2023
@@ -2928,7 +2928,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 205.5,
+        "pe_ratio": 225.1,
         "forward_return": 23.97,
         "start_price": 589.0,
         "start_year": 2023
@@ -2946,7 +2946,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 240.1,
+        "pe_ratio": 364.0,
         "forward_return": 52.7,
         "start_price": 529.0,
         "start_year": 2024
@@ -2955,7 +2955,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 161.6,
+        "pe_ratio": 288.0,
         "forward_return": 17.22,
         "start_price": 552.0,
         "start_year": 2024
@@ -2964,7 +2964,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 112.1,
+        "pe_ratio": 218.1,
         "forward_return": 26.32,
         "start_price": 519.0,
         "start_year": 2024
@@ -2973,7 +2973,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 81.03,
+        "pe_ratio": 175.4,
         "forward_return": 53.9,
         "start_price": 473.5,
         "start_year": 2024
@@ -2982,7 +2982,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 66.46,
+        "pe_ratio": 155.3,
         "forward_return": 89.96,
         "start_price": 469.0,
         "start_year": 2024
@@ -2991,7 +2991,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 55.26,
+        "pe_ratio": 136.8,
         "forward_return": 83.34,
         "start_price": 457.0,
         "start_year": 2024
@@ -3000,7 +3000,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 45.4,
+        "pe_ratio": 99.88,
         "forward_return": 100.05,
         "start_price": 430.5,
         "start_year": 2024
@@ -3009,7 +3009,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 46.32,
+        "pe_ratio": 93.84,
         "forward_return": 153.0,
         "start_price": 495.5,
         "start_year": 2024
@@ -3018,7 +3018,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 43.91,
+        "pe_ratio": 83.68,
         "forward_return": 269.89,
         "start_price": 523.0,
         "start_year": 2024
@@ -3027,7 +3027,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 45.03,
+        "pe_ratio": 63.21,
         "forward_return": 173.93,
         "start_price": 591.0,
         "start_year": 2024
@@ -3036,7 +3036,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 50.92,
+        "pe_ratio": 58.63,
         "forward_return": 164.26,
         "start_price": 730.0,
         "start_year": 2024
@@ -3054,7 +3054,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 48.13,
+        "pe_ratio": 45.75,
         "forward_return": 310.4,
         "start_price": 808.0,
         "start_year": 2025
@@ -3063,7 +3063,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 42.71,
+        "pe_ratio": 38.95,
         "forward_return": 388.56,
         "start_price": 770.0,
         "start_year": 2025
@@ -3072,7 +3072,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.49,
+        "pe_ratio": 40.61,
         "forward_return": 11.69,
         "start_price": 651.0,
         "start_year": 2016
@@ -3081,7 +3081,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 30.69,
+        "pe_ratio": 37.15,
         "forward_return": 12.34,
         "start_price": 615.0,
         "start_year": 2016
@@ -3090,7 +3090,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 35.98,
+        "pe_ratio": 42.2,
         "forward_return": 6.71,
         "start_price": 721.0,
         "start_year": 2016
@@ -3099,7 +3099,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 39.92,
         "forward_return": 8.07,
         "start_price": 703.0,
         "start_year": 2016
@@ -3108,7 +3108,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 37.82,
+        "pe_ratio": 41.6,
         "forward_return": 2.61,
         "start_price": 758.0,
         "start_year": 2016
@@ -3117,7 +3117,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 55.74,
         "forward_return": -22.62,
         "start_price": 1050.0,
         "start_year": 2016
@@ -3126,7 +3126,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 58.63,
+        "pe_ratio": 60.41,
         "forward_return": -36.14,
         "start_price": 1175.0,
         "start_year": 2016
@@ -3135,7 +3135,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 53.44,
         "forward_return": -35.65,
         "start_price": 1050.0,
         "start_year": 2016
@@ -3144,7 +3144,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 58.88,
+        "pe_ratio": 59.47,
         "forward_return": -34.66,
         "start_price": 1180.0,
         "start_year": 2016
@@ -3162,7 +3162,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 54.6,
+        "pe_ratio": 53.5,
         "forward_return": -36.85,
         "start_price": 1110.0,
         "start_year": 2017
@@ -3171,7 +3171,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 67.66,
+        "pe_ratio": 65.02,
         "forward_return": -44.24,
         "start_price": 1395.0,
         "start_year": 2017
@@ -3180,7 +3180,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 65.05,
+        "pe_ratio": 61.37,
         "forward_return": -43.11,
         "start_price": 1360.0,
         "start_year": 2017
@@ -3189,7 +3189,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 55.43,
+        "pe_ratio": 51.73,
         "forward_return": -34.82,
         "start_price": 1175.0,
         "start_year": 2017
@@ -3198,7 +3198,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 62.6,
+        "pe_ratio": 57.81,
         "forward_return": -45.39,
         "start_price": 1345.0,
         "start_year": 2017
@@ -3207,7 +3207,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 59.7,
+        "pe_ratio": 54.58,
         "forward_return": -42.31,
         "start_price": 1300.0,
         "start_year": 2017
@@ -3216,7 +3216,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 64.36,
+        "pe_ratio": 58.87,
         "forward_return": -43.35,
         "start_price": 1420.0,
         "start_year": 2017
@@ -3225,7 +3225,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 63.53,
+        "pe_ratio": 58.15,
         "forward_return": -25.9,
         "start_price": 1420.0,
         "start_year": 2017
@@ -3234,7 +3234,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 55.21,
+        "pe_ratio": 50.57,
         "forward_return": -19.66,
         "start_price": 1250.0,
         "start_year": 2017
@@ -3243,7 +3243,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 47.75,
+        "pe_ratio": 45.03,
         "forward_return": -4.53,
         "start_price": 1095.0,
         "start_year": 2017
@@ -3252,7 +3252,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 48.88,
+        "pe_ratio": 47.46,
         "forward_return": -10.86,
         "start_price": 1135.0,
         "start_year": 2017
@@ -3270,7 +3270,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 50.92,
+        "pe_ratio": 51.87,
         "forward_return": -12.95,
         "start_price": 1190.0,
         "start_year": 2018
@@ -3279,7 +3279,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 45.63,
+        "pe_ratio": 47.38,
         "forward_return": -11.52,
         "start_price": 1060.0,
         "start_year": 2018
@@ -3288,7 +3288,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 34.56,
+        "pe_ratio": 36.61,
         "forward_return": -3.77,
         "start_price": 798.0,
         "start_year": 2018
@@ -3297,7 +3297,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 33.2,
+        "pe_ratio": 34.92,
         "forward_return": -5.88,
         "start_price": 762.0,
         "start_year": 2018
@@ -3306,7 +3306,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.37,
+        "pe_ratio": 36.95,
         "forward_return": -12.48,
         "start_price": 807.0,
         "start_year": 2018
@@ -3315,7 +3315,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 35.59,
+        "pe_ratio": 36.92,
         "forward_return": 1.6,
         "start_price": 807.0,
         "start_year": 2018
@@ -3324,7 +3324,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 34.61,
+        "pe_ratio": 36.57,
         "forward_return": 5.18,
         "start_price": 780.0,
         "start_year": 2018
@@ -3333,7 +3333,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 29.38,
         "forward_return": 8.85,
         "start_price": 611.0,
         "start_year": 2018
@@ -3342,7 +3342,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 22.78,
         "forward_return": 25.06,
         "start_price": 461.5,
         "start_year": 2018
@@ -3351,7 +3351,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.85,
+        "pe_ratio": 20.06,
         "forward_return": 28.98,
         "start_price": 417.0,
         "start_year": 2018
@@ -3360,7 +3360,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.11,
+        "pe_ratio": 22.8,
         "forward_return": 27.88,
         "start_price": 486.0,
         "start_year": 2018
@@ -3378,7 +3378,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.67,
+        "pe_ratio": 20.15,
         "forward_return": 46.13,
         "start_price": 425.0,
         "start_year": 2019
@@ -3387,7 +3387,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.46,
+        "pe_ratio": 20.44,
         "forward_return": 48.67,
         "start_price": 416.0,
         "start_year": 2019
@@ -3396,7 +3396,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 21.55,
         "forward_return": 48.24,
         "start_price": 422.5,
         "start_year": 2019
@@ -3405,7 +3405,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.02,
+        "pe_ratio": 25.73,
         "forward_return": 25.94,
         "start_price": 481.5,
         "start_year": 2019
@@ -3414,7 +3414,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.54,
+        "pe_ratio": 21.52,
         "forward_return": 35.27,
         "start_price": 383.5,
         "start_year": 2019
@@ -3423,7 +3423,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 24.51,
         "forward_return": 27.14,
         "start_price": 415.0,
         "start_year": 2019
@@ -3432,7 +3432,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 21.56,
+        "pe_ratio": 24.73,
         "forward_return": 25.78,
         "start_price": 436.0,
         "start_year": 2019
@@ -3441,7 +3441,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 38.01,
+        "pe_ratio": 41.46,
         "forward_return": -10.99,
         "start_price": 760.0,
         "start_year": 2019
@@ -3450,7 +3450,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 39.82,
+        "pe_ratio": 41.36,
         "forward_return": -5.69,
         "start_price": 787.0,
         "start_year": 2019
@@ -3459,7 +3459,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 50.07,
+        "pe_ratio": 51.36,
         "forward_return": -8.71,
         "start_price": 978.0,
         "start_year": 2019
@@ -3468,7 +3468,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 45.7,
+        "pe_ratio": 46.28,
         "forward_return": -10.59,
         "start_price": 882.0,
         "start_year": 2019
@@ -3486,7 +3486,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 44.42,
+        "pe_ratio": 44.25,
         "forward_return": -14.14,
         "start_price": 882.0,
         "start_year": 2020
@@ -3495,7 +3495,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 39.25,
+        "pe_ratio": 38.95,
         "forward_return": -11.72,
         "start_price": 810.0,
         "start_year": 2020
@@ -3504,7 +3504,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 33.56,
+        "pe_ratio": 33.19,
         "forward_return": -6.77,
         "start_price": 719.0,
         "start_year": 2020
@@ -3513,7 +3513,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 29.5,
+        "pe_ratio": 28.69,
         "forward_return": -13.12,
         "start_price": 655.0,
         "start_year": 2020
@@ -3522,7 +3522,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.01,
+        "pe_ratio": 24.92,
         "forward_return": -7.16,
         "start_price": 598.0,
         "start_year": 2020
@@ -3531,7 +3531,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 34.2,
+        "pe_ratio": 32.3,
         "forward_return": -27.29,
         "start_price": 813.0,
         "start_year": 2020
@@ -3540,7 +3540,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 34.33,
+        "pe_ratio": 32.97,
         "forward_return": -24.35,
         "start_price": 843.0,
         "start_year": 2020
@@ -3549,7 +3549,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.78,
+        "pe_ratio": 27.11,
         "forward_return": -16.74,
         "start_price": 704.0,
         "start_year": 2020
@@ -3558,7 +3558,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.87,
+        "pe_ratio": 26.62,
         "forward_return": -23.49,
         "start_price": 702.0,
         "start_year": 2020
@@ -3567,7 +3567,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.04,
+        "pe_ratio": 24.9,
         "forward_return": -22.44,
         "start_price": 674.0,
         "start_year": 2020
@@ -3576,7 +3576,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.98,
+        "pe_ratio": 27.9,
         "forward_return": -16.11,
         "start_price": 775.0,
         "start_year": 2020
@@ -3594,7 +3594,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.3,
+        "pe_ratio": 31.32,
         "forward_return": -20.42,
         "start_price": 888.0,
         "start_year": 2021
@@ -3603,7 +3603,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.84,
+        "pe_ratio": 31.88,
         "forward_return": -17.37,
         "start_price": 900.0,
         "start_year": 2021
@@ -3612,7 +3612,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 32.28,
+        "pe_ratio": 32.34,
         "forward_return": -19.13,
         "start_price": 909.0,
         "start_year": 2021
@@ -3621,7 +3621,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 26.52,
+        "pe_ratio": 26.62,
         "forward_return": -17.37,
         "start_price": 744.0,
         "start_year": 2021
@@ -3630,7 +3630,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.4,
+        "pe_ratio": 24.54,
         "forward_return": -12.39,
         "start_price": 682.0,
         "start_year": 2021
@@ -3639,7 +3639,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 23.38,
+        "pe_ratio": 23.56,
         "forward_return": -3.08,
         "start_price": 651.0,
         "start_year": 2021
@@ -3648,7 +3648,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.09,
+        "pe_ratio": 24.72,
         "forward_return": -10.07,
         "start_price": 668.0,
         "start_year": 2021
@@ -3657,7 +3657,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 20.99,
+        "pe_ratio": 21.96,
         "forward_return": -3.75,
         "start_price": 580.0,
         "start_year": 2021
@@ -3666,7 +3666,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.64,
+        "pe_ratio": 26.27,
         "forward_return": -5.51,
         "start_price": 678.0,
         "start_year": 2021
@@ -3675,7 +3675,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 28.93,
+        "pe_ratio": 30.18,
         "forward_return": -18.93,
         "start_price": 793.0,
         "start_year": 2021
@@ -3684,7 +3684,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.55,
         "forward_return": -5.16,
         "start_price": 683.0,
         "start_year": 2021
@@ -3702,7 +3702,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 23.57,
         "forward_return": -6.05,
         "start_price": 628.0,
         "start_year": 2022
@@ -3711,7 +3711,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.62,
+        "pe_ratio": 24.08,
         "forward_return": -4.12,
         "start_price": 628.0,
         "start_year": 2022
@@ -3720,7 +3720,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.63,
         "forward_return": -4.98,
         "start_price": 603.0,
         "start_year": 2022
@@ -3729,7 +3729,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.2,
+        "pe_ratio": 18.27,
         "forward_return": 2.75,
         "start_price": 472.5,
         "start_year": 2022
@@ -3738,7 +3738,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 18.83,
         "forward_return": 0.09,
         "start_price": 493.5,
         "start_year": 2022
@@ -3747,7 +3747,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 16.09,
+        "pe_ratio": 15.36,
         "forward_return": 8.72,
         "start_price": 408.0,
         "start_year": 2022
@@ -3756,7 +3756,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 17.2,
         "forward_return": -1.57,
         "start_price": 457.0,
         "start_year": 2022
@@ -3765,7 +3765,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.39,
         "forward_return": 4.77,
         "start_price": 462.5,
         "start_year": 2022
@@ -3774,7 +3774,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.78,
+        "pe_ratio": 14.49,
         "forward_return": 17.82,
         "start_price": 385.5,
         "start_year": 2022
@@ -3783,7 +3783,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 15.76,
+        "pe_ratio": 14.86,
         "forward_return": 25.98,
         "start_price": 380.0,
         "start_year": 2022
@@ -3792,7 +3792,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 21.84,
+        "pe_ratio": 21.19,
         "forward_return": 19.46,
         "start_price": 520.0,
         "start_year": 2022
@@ -3810,7 +3810,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.35,
         "forward_return": 23.57,
         "start_price": 537.0,
         "start_year": 2023
@@ -3819,7 +3819,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 29.83,
+        "pe_ratio": 28.58,
         "forward_return": 15.23,
         "start_price": 589.0,
         "start_year": 2023
@@ -3828,7 +3828,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 31.84,
+        "pe_ratio": 29.7,
         "forward_return": 8.28,
         "start_price": 569.0,
         "start_year": 2023
@@ -3837,7 +3837,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 28.41,
         "forward_return": 23.84,
         "start_price": 482.5,
         "start_year": 2023
@@ -3846,7 +3846,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 35.27,
+        "pe_ratio": 33.63,
         "forward_return": 34.57,
         "start_price": 498.0,
         "start_year": 2023
@@ -3855,7 +3855,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 47.86,
+        "pe_ratio": 46.4,
         "forward_return": 20.37,
         "start_price": 586.0,
         "start_year": 2023
@@ -3864,7 +3864,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 49.67,
+        "pe_ratio": 49.63,
         "forward_return": 29.3,
         "start_price": 515.0,
         "start_year": 2023
@@ -3873,7 +3873,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 63.03,
         "forward_return": 56.41,
         "start_price": 512.0,
         "start_year": 2023
@@ -3882,7 +3882,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 87.65,
+        "pe_ratio": 98.81,
         "forward_return": 82.5,
         "start_price": 580.0,
         "start_year": 2023
@@ -3891,7 +3891,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 104.6,
+        "pe_ratio": 116.9,
         "forward_return": 80.56,
         "start_price": 496.0,
         "start_year": 2023
@@ -3900,7 +3900,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 205.5,
+        "pe_ratio": 225.1,
         "forward_return": 80.86,
         "start_price": 589.0,
         "start_year": 2023
@@ -3918,7 +3918,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 240.1,
+        "pe_ratio": 364.0,
         "forward_return": 150.11,
         "start_price": 529.0,
         "start_year": 2024
@@ -3927,7 +3927,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.49,
+        "pe_ratio": 40.61,
         "forward_return": -11.82,
         "start_price": 651.0,
         "start_year": 2016
@@ -3936,7 +3936,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 30.69,
+        "pe_ratio": 37.15,
         "forward_return": -6.33,
         "start_price": 615.0,
         "start_year": 2016
@@ -3945,7 +3945,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 35.98,
+        "pe_ratio": 42.2,
         "forward_return": -17.33,
         "start_price": 721.0,
         "start_year": 2016
@@ -3954,7 +3954,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 39.92,
         "forward_return": -14.53,
         "start_price": 703.0,
         "start_year": 2016
@@ -3963,7 +3963,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 37.82,
+        "pe_ratio": 41.6,
         "forward_return": -15.1,
         "start_price": 758.0,
         "start_year": 2016
@@ -3972,7 +3972,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 55.74,
         "forward_return": -9.13,
         "start_price": 1050.0,
         "start_year": 2016
@@ -3981,7 +3981,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 58.63,
+        "pe_ratio": 60.41,
         "forward_return": -11.49,
         "start_price": 1175.0,
         "start_year": 2016
@@ -3990,7 +3990,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 53.44,
         "forward_return": -1.42,
         "start_price": 1050.0,
         "start_year": 2016
@@ -3999,7 +3999,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 58.88,
+        "pe_ratio": 59.47,
         "forward_return": -8.3,
         "start_price": 1180.0,
         "start_year": 2016
@@ -4017,7 +4017,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 54.6,
+        "pe_ratio": 53.5,
         "forward_return": -6.41,
         "start_price": 1110.0,
         "start_year": 2017
@@ -4026,7 +4026,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 67.66,
+        "pe_ratio": 65.02,
         "forward_return": -15.63,
         "start_price": 1395.0,
         "start_year": 2017
@@ -4035,7 +4035,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 65.05,
+        "pe_ratio": 61.37,
         "forward_return": -18.1,
         "start_price": 1360.0,
         "start_year": 2017
@@ -4044,7 +4044,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 55.43,
+        "pe_ratio": 51.73,
         "forward_return": -16.54,
         "start_price": 1175.0,
         "start_year": 2017
@@ -4053,7 +4053,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 62.6,
+        "pe_ratio": 57.81,
         "forward_return": -22.5,
         "start_price": 1345.0,
         "start_year": 2017
@@ -4062,7 +4062,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 59.7,
+        "pe_ratio": 54.58,
         "forward_return": -13.51,
         "start_price": 1300.0,
         "start_year": 2017
@@ -4071,7 +4071,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 64.36,
+        "pe_ratio": 58.87,
         "forward_return": -14.97,
         "start_price": 1420.0,
         "start_year": 2017
@@ -4080,7 +4080,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 63.53,
+        "pe_ratio": 58.15,
         "forward_return": -19.74,
         "start_price": 1420.0,
         "start_year": 2017
@@ -4089,7 +4089,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 55.21,
+        "pe_ratio": 50.57,
         "forward_return": -16.33,
         "start_price": 1250.0,
         "start_year": 2017
@@ -4098,7 +4098,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 47.75,
+        "pe_ratio": 45.03,
         "forward_return": -13.69,
         "start_price": 1095.0,
         "start_year": 2017
@@ -4107,7 +4107,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 48.88,
+        "pe_ratio": 47.46,
         "forward_return": -10.82,
         "start_price": 1135.0,
         "start_year": 2017
@@ -4125,7 +4125,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 50.92,
+        "pe_ratio": 51.87,
         "forward_return": -8.28,
         "start_price": 1190.0,
         "start_year": 2018
@@ -4134,7 +4134,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 45.63,
+        "pe_ratio": 47.38,
         "forward_return": -4.27,
         "start_price": 1060.0,
         "start_year": 2018
@@ -4143,7 +4143,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 34.56,
+        "pe_ratio": 36.61,
         "forward_return": 5.57,
         "start_price": 798.0,
         "start_year": 2018
@@ -4152,7 +4152,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 33.2,
+        "pe_ratio": 34.92,
         "forward_return": 0.52,
         "start_price": 762.0,
         "start_year": 2018
@@ -4161,7 +4161,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.37,
+        "pe_ratio": 36.95,
         "forward_return": -4.09,
         "start_price": 807.0,
         "start_year": 2018
@@ -4170,7 +4170,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 35.59,
+        "pe_ratio": 36.92,
         "forward_return": -5.5,
         "start_price": 807.0,
         "start_year": 2018
@@ -4179,7 +4179,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 34.61,
+        "pe_ratio": 36.57,
         "forward_return": -3.54,
         "start_price": 780.0,
         "start_year": 2018
@@ -4188,7 +4188,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 29.38,
         "forward_return": 0.05,
         "start_price": 611.0,
         "start_year": 2018
@@ -4197,7 +4197,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 22.78,
         "forward_return": 15.44,
         "start_price": 461.5,
         "start_year": 2018
@@ -4206,7 +4206,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.85,
+        "pe_ratio": 20.06,
         "forward_return": 25.53,
         "start_price": 417.0,
         "start_year": 2018
@@ -4215,7 +4215,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.11,
+        "pe_ratio": 22.8,
         "forward_return": 13.73,
         "start_price": 486.0,
         "start_year": 2018
@@ -4233,7 +4233,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.67,
+        "pe_ratio": 20.15,
         "forward_return": 15.8,
         "start_price": 425.0,
         "start_year": 2019
@@ -4242,7 +4242,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.46,
+        "pe_ratio": 20.44,
         "forward_return": 16.63,
         "start_price": 416.0,
         "start_year": 2019
@@ -4251,7 +4251,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 21.55,
         "forward_return": 14.54,
         "start_price": 422.5,
         "start_year": 2019
@@ -4260,7 +4260,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.02,
+        "pe_ratio": 25.73,
         "forward_return": 1.57,
         "start_price": 481.5,
         "start_year": 2019
@@ -4269,7 +4269,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.54,
+        "pe_ratio": 21.52,
         "forward_return": 11.07,
         "start_price": 383.5,
         "start_year": 2019
@@ -4278,7 +4278,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 24.51,
         "forward_return": 1.97,
         "start_price": 415.0,
         "start_year": 2019
@@ -4287,7 +4287,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 21.56,
+        "pe_ratio": 24.73,
         "forward_return": 4.15,
         "start_price": 436.0,
         "start_year": 2019
@@ -4296,7 +4296,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 38.01,
+        "pe_ratio": 41.46,
         "forward_return": -13.13,
         "start_price": 760.0,
         "start_year": 2019
@@ -4305,7 +4305,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 39.82,
+        "pe_ratio": 41.36,
         "forward_return": -18.81,
         "start_price": 787.0,
         "start_year": 2019
@@ -4314,7 +4314,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 50.07,
+        "pe_ratio": 51.36,
         "forward_return": -24.81,
         "start_price": 978.0,
         "start_year": 2019
@@ -4323,7 +4323,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 45.7,
+        "pe_ratio": 46.28,
         "forward_return": -14.27,
         "start_price": 882.0,
         "start_year": 2019
@@ -4341,7 +4341,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 44.42,
+        "pe_ratio": 44.25,
         "forward_return": -13.41,
         "start_price": 882.0,
         "start_year": 2020
@@ -4350,7 +4350,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 39.25,
+        "pe_ratio": 38.95,
         "forward_return": -9.06,
         "start_price": 810.0,
         "start_year": 2020
@@ -4359,7 +4359,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 33.56,
+        "pe_ratio": 33.19,
         "forward_return": -5.62,
         "start_price": 719.0,
         "start_year": 2020
@@ -4368,7 +4368,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 29.5,
+        "pe_ratio": 28.69,
         "forward_return": -7.52,
         "start_price": 655.0,
         "start_year": 2020
@@ -4377,7 +4377,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.01,
+        "pe_ratio": 24.92,
         "forward_return": -3.73,
         "start_price": 598.0,
         "start_year": 2020
@@ -4386,7 +4386,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 34.2,
+        "pe_ratio": 32.3,
         "forward_return": -8.56,
         "start_price": 813.0,
         "start_year": 2020
@@ -4395,7 +4395,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 34.33,
+        "pe_ratio": 32.97,
         "forward_return": -13.15,
         "start_price": 843.0,
         "start_year": 2020
@@ -4404,7 +4404,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.78,
+        "pe_ratio": 27.11,
         "forward_return": -7.94,
         "start_price": 704.0,
         "start_year": 2020
@@ -4413,7 +4413,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.87,
+        "pe_ratio": 26.62,
         "forward_return": -4.2,
         "start_price": 702.0,
         "start_year": 2020
@@ -4422,7 +4422,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.04,
+        "pe_ratio": 24.9,
         "forward_return": -7.51,
         "start_price": 674.0,
         "start_year": 2020
@@ -4431,7 +4431,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.98,
+        "pe_ratio": 27.9,
         "forward_return": -6.86,
         "start_price": 775.0,
         "start_year": 2020
@@ -4449,7 +4449,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.3,
+        "pe_ratio": 31.32,
         "forward_return": -13.93,
         "start_price": 888.0,
         "start_year": 2021
@@ -4458,7 +4458,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.84,
+        "pe_ratio": 31.88,
         "forward_return": -13.17,
         "start_price": 900.0,
         "start_year": 2021
@@ -4467,7 +4467,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 32.28,
+        "pe_ratio": 32.34,
         "forward_return": -15.09,
         "start_price": 909.0,
         "start_year": 2021
@@ -4476,7 +4476,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 26.52,
+        "pe_ratio": 26.62,
         "forward_return": -11.78,
         "start_price": 744.0,
         "start_year": 2021
@@ -4485,7 +4485,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.4,
+        "pe_ratio": 24.54,
         "forward_return": -9.45,
         "start_price": 682.0,
         "start_year": 2021
@@ -4494,7 +4494,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 23.38,
+        "pe_ratio": 23.56,
         "forward_return": -8.77,
         "start_price": 651.0,
         "start_year": 2021
@@ -4503,7 +4503,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.09,
+        "pe_ratio": 24.72,
         "forward_return": -11.92,
         "start_price": 668.0,
         "start_year": 2021
@@ -4512,7 +4512,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 20.99,
+        "pe_ratio": 21.96,
         "forward_return": -3.49,
         "start_price": 580.0,
         "start_year": 2021
@@ -4521,7 +4521,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.64,
+        "pe_ratio": 26.27,
         "forward_return": -6.8,
         "start_price": 678.0,
         "start_year": 2021
@@ -4530,7 +4530,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 28.93,
+        "pe_ratio": 30.18,
         "forward_return": -8.03,
         "start_price": 793.0,
         "start_year": 2021
@@ -4539,7 +4539,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.55,
         "forward_return": 3.44,
         "start_price": 683.0,
         "start_year": 2021
@@ -4557,7 +4557,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 23.57,
         "forward_return": 9.91,
         "start_price": 628.0,
         "start_year": 2022
@@ -4566,7 +4566,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.62,
+        "pe_ratio": 24.08,
         "forward_return": 8.21,
         "start_price": 628.0,
         "start_year": 2022
@@ -4575,7 +4575,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.63,
         "forward_return": 4.13,
         "start_price": 603.0,
         "start_year": 2022
@@ -4584,7 +4584,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.2,
+        "pe_ratio": 18.27,
         "forward_return": 16.85,
         "start_price": 472.5,
         "start_year": 2022
@@ -4593,7 +4593,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 18.83,
         "forward_return": 22.88,
         "start_price": 493.5,
         "start_year": 2022
@@ -4602,7 +4602,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 16.09,
+        "pe_ratio": 15.36,
         "forward_return": 28.35,
         "start_price": 408.0,
         "start_year": 2022
@@ -4611,7 +4611,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 17.2,
         "forward_return": 24.08,
         "start_price": 457.0,
         "start_year": 2022
@@ -4620,7 +4620,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.39,
         "forward_return": 39.84,
         "start_price": 462.5,
         "start_year": 2022
@@ -4629,7 +4629,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.78,
+        "pe_ratio": 14.49,
         "forward_return": 71.49,
         "start_price": 385.5,
         "start_year": 2022
@@ -4638,7 +4638,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 15.76,
+        "pe_ratio": 14.86,
         "forward_return": 62.46,
         "start_price": 380.0,
         "start_year": 2022
@@ -4647,7 +4647,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 21.84,
+        "pe_ratio": 21.19,
         "forward_return": 55.08,
         "start_price": 520.0,
         "start_year": 2022
@@ -4665,7 +4665,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.35,
         "forward_return": 83.6,
         "start_price": 537.0,
         "start_year": 2023
@@ -4674,7 +4674,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 29.83,
+        "pe_ratio": 28.58,
         "forward_return": 85.64,
         "start_price": 589.0,
         "start_year": 2023
@@ -4683,7 +4683,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.49,
+        "pe_ratio": 40.61,
         "forward_return": 3.71,
         "start_price": 651.0,
         "start_year": 2016
@@ -4692,7 +4692,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 30.69,
+        "pe_ratio": 37.15,
         "forward_return": 2.88,
         "start_price": 615.0,
         "start_year": 2016
@@ -4701,7 +4701,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 35.98,
+        "pe_ratio": 42.2,
         "forward_return": -3.24,
         "start_price": 721.0,
         "start_year": 2016
@@ -4710,7 +4710,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 39.92,
         "forward_return": 4.77,
         "start_price": 703.0,
         "start_year": 2016
@@ -4719,7 +4719,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 37.82,
+        "pe_ratio": 41.6,
         "forward_return": 3.83,
         "start_price": 758.0,
         "start_year": 2016
@@ -4728,7 +4728,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 55.74,
         "forward_return": -8.31,
         "start_price": 1050.0,
         "start_year": 2016
@@ -4737,7 +4737,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 58.63,
+        "pe_ratio": 60.41,
         "forward_return": -10.92,
         "start_price": 1175.0,
         "start_year": 2016
@@ -4746,7 +4746,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 53.44,
         "forward_return": -9.26,
         "start_price": 1050.0,
         "start_year": 2016
@@ -4755,7 +4755,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 58.88,
+        "pe_ratio": 59.47,
         "forward_return": -8.89,
         "start_price": 1180.0,
         "start_year": 2016
@@ -4773,7 +4773,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 54.6,
+        "pe_ratio": 53.5,
         "forward_return": -4.43,
         "start_price": 1110.0,
         "start_year": 2017
@@ -4782,7 +4782,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 67.66,
+        "pe_ratio": 65.02,
         "forward_return": -9.45,
         "start_price": 1395.0,
         "start_year": 2017
@@ -4791,7 +4791,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 65.05,
+        "pe_ratio": 61.37,
         "forward_return": -8.65,
         "start_price": 1360.0,
         "start_year": 2017
@@ -4800,7 +4800,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 55.43,
+        "pe_ratio": 51.73,
         "forward_return": -9.68,
         "start_price": 1175.0,
         "start_year": 2017
@@ -4809,7 +4809,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 62.6,
+        "pe_ratio": 57.81,
         "forward_return": -14.46,
         "start_price": 1345.0,
         "start_year": 2017
@@ -4818,7 +4818,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 59.7,
+        "pe_ratio": 54.58,
         "forward_return": -14.68,
         "start_price": 1300.0,
         "start_year": 2017
@@ -4827,7 +4827,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 64.36,
+        "pe_ratio": 58.87,
         "forward_return": -15.91,
         "start_price": 1420.0,
         "start_year": 2017
@@ -4836,7 +4836,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 63.53,
+        "pe_ratio": 58.15,
         "forward_return": -18.65,
         "start_price": 1420.0,
         "start_year": 2017
@@ -4845,7 +4845,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 55.21,
+        "pe_ratio": 50.57,
         "forward_return": -12.88,
         "start_price": 1250.0,
         "start_year": 2017
@@ -4854,7 +4854,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 47.75,
+        "pe_ratio": 45.03,
         "forward_return": -6.55,
         "start_price": 1095.0,
         "start_year": 2017
@@ -4863,7 +4863,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 48.88,
+        "pe_ratio": 47.46,
         "forward_return": -10.6,
         "start_price": 1135.0,
         "start_year": 2017
@@ -4881,7 +4881,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 50.92,
+        "pe_ratio": 51.87,
         "forward_return": -13.38,
         "start_price": 1190.0,
         "start_year": 2018
@@ -4890,7 +4890,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 45.63,
+        "pe_ratio": 47.38,
         "forward_return": -10.84,
         "start_price": 1060.0,
         "start_year": 2018
@@ -4899,7 +4899,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 34.56,
+        "pe_ratio": 36.61,
         "forward_return": -5.18,
         "start_price": 798.0,
         "start_year": 2018
@@ -4908,7 +4908,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 33.2,
+        "pe_ratio": 34.92,
         "forward_return": -9.35,
         "start_price": 762.0,
         "start_year": 2018
@@ -4917,7 +4917,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.37,
+        "pe_ratio": 36.95,
         "forward_return": -9.74,
         "start_price": 807.0,
         "start_year": 2018
@@ -4926,7 +4926,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 35.59,
+        "pe_ratio": 36.92,
         "forward_return": -13.59,
         "start_price": 807.0,
         "start_year": 2018
@@ -4935,7 +4935,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 34.61,
+        "pe_ratio": 36.57,
         "forward_return": -10.41,
         "start_price": 780.0,
         "start_year": 2018
@@ -4944,7 +4944,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 29.38,
         "forward_return": -4.51,
         "start_price": 611.0,
         "start_year": 2018
@@ -4953,7 +4953,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 22.78,
         "forward_return": -1.69,
         "start_price": 461.5,
         "start_year": 2018
@@ -4962,7 +4962,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.85,
+        "pe_ratio": 20.06,
         "forward_return": 0.51,
         "start_price": 417.0,
         "start_year": 2018
@@ -4971,7 +4971,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.11,
+        "pe_ratio": 22.8,
         "forward_return": 3.86,
         "start_price": 486.0,
         "start_year": 2018
@@ -4989,7 +4989,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.67,
+        "pe_ratio": 20.15,
         "forward_return": 8.2,
         "start_price": 425.0,
         "start_year": 2019
@@ -4998,7 +4998,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.46,
+        "pe_ratio": 20.44,
         "forward_return": 11.14,
         "start_price": 416.0,
         "start_year": 2019
@@ -5007,7 +5007,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 21.55,
         "forward_return": 9.82,
         "start_price": 422.5,
         "start_year": 2019
@@ -5016,7 +5016,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.02,
+        "pe_ratio": 25.73,
         "forward_return": 2.34,
         "start_price": 481.5,
         "start_year": 2019
@@ -5025,7 +5025,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.54,
+        "pe_ratio": 21.52,
         "forward_return": 9.11,
         "start_price": 383.5,
         "start_year": 2019
@@ -5034,7 +5034,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 24.51,
         "forward_return": 11.07,
         "start_price": 415.0,
         "start_year": 2019
@@ -5043,7 +5043,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 21.56,
+        "pe_ratio": 24.73,
         "forward_return": 6.57,
         "start_price": 436.0,
         "start_year": 2019
@@ -5052,7 +5052,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 38.01,
+        "pe_ratio": 41.46,
         "forward_return": -7.38,
         "start_price": 760.0,
         "start_year": 2019
@@ -5061,7 +5061,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 39.82,
+        "pe_ratio": 41.36,
         "forward_return": -5.51,
         "start_price": 787.0,
         "start_year": 2019
@@ -5070,7 +5070,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 50.07,
+        "pe_ratio": 51.36,
         "forward_return": -13.67,
         "start_price": 978.0,
         "start_year": 2019
@@ -5079,7 +5079,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 45.7,
+        "pe_ratio": 46.28,
         "forward_return": -7.84,
         "start_price": 882.0,
         "start_year": 2019
@@ -5097,7 +5097,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 44.42,
+        "pe_ratio": 44.25,
         "forward_return": -10.09,
         "start_price": 882.0,
         "start_year": 2020
@@ -5106,7 +5106,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 39.25,
+        "pe_ratio": 38.95,
         "forward_return": -7.25,
         "start_price": 810.0,
         "start_year": 2020
@@ -5115,7 +5115,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 33.56,
+        "pe_ratio": 33.19,
         "forward_return": -5.79,
         "start_price": 719.0,
         "start_year": 2020
@@ -5124,7 +5124,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 29.5,
+        "pe_ratio": 28.69,
         "forward_return": -5.57,
         "start_price": 655.0,
         "start_year": 2020
@@ -5133,7 +5133,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.01,
+        "pe_ratio": 24.92,
         "forward_return": -3.6,
         "start_price": 598.0,
         "start_year": 2020
@@ -5142,7 +5142,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 34.2,
+        "pe_ratio": 32.3,
         "forward_return": -11.25,
         "start_price": 813.0,
         "start_year": 2020
@@ -5151,7 +5151,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 34.33,
+        "pe_ratio": 32.97,
         "forward_return": -13.67,
         "start_price": 843.0,
         "start_year": 2020
@@ -5160,7 +5160,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.78,
+        "pe_ratio": 27.11,
         "forward_return": -6.7,
         "start_price": 704.0,
         "start_year": 2020
@@ -5169,7 +5169,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.87,
+        "pe_ratio": 26.62,
         "forward_return": -5.46,
         "start_price": 702.0,
         "start_year": 2020
@@ -5178,7 +5178,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.04,
+        "pe_ratio": 24.9,
         "forward_return": -1.72,
         "start_price": 674.0,
         "start_year": 2020
@@ -5187,7 +5187,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.98,
+        "pe_ratio": 27.9,
         "forward_return": -0.23,
         "start_price": 775.0,
         "start_year": 2020
@@ -5205,7 +5205,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.3,
+        "pe_ratio": 31.32,
         "forward_return": -1.21,
         "start_price": 888.0,
         "start_year": 2021
@@ -5214,7 +5214,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.84,
+        "pe_ratio": 31.88,
         "forward_return": -2.66,
         "start_price": 900.0,
         "start_year": 2021
@@ -5223,7 +5223,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 32.28,
+        "pe_ratio": 32.34,
         "forward_return": -6.56,
         "start_price": 909.0,
         "start_year": 2021
@@ -5232,7 +5232,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 26.52,
+        "pe_ratio": 26.62,
         "forward_return": 0.73,
         "start_price": 744.0,
         "start_year": 2021
@@ -5241,7 +5241,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.4,
+        "pe_ratio": 24.54,
         "forward_return": 8.0,
         "start_price": 682.0,
         "start_year": 2021
@@ -5250,7 +5250,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 23.38,
+        "pe_ratio": 23.56,
         "forward_return": 7.67,
         "start_price": 651.0,
         "start_year": 2021
@@ -5259,7 +5259,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.09,
+        "pe_ratio": 24.72,
         "forward_return": 7.34,
         "start_price": 668.0,
         "start_year": 2021
@@ -5268,7 +5268,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 20.99,
+        "pe_ratio": 21.96,
         "forward_return": 21.85,
         "start_price": 580.0,
         "start_year": 2021
@@ -5277,7 +5277,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.64,
+        "pe_ratio": 26.27,
         "forward_return": 30.37,
         "start_price": 678.0,
         "start_year": 2021
@@ -5286,7 +5286,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 28.93,
+        "pe_ratio": 30.18,
         "forward_return": 19.99,
         "start_price": 793.0,
         "start_year": 2021
@@ -5295,7 +5295,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.55,
         "forward_return": 30.05,
         "start_price": 683.0,
         "start_year": 2021
@@ -5313,7 +5313,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 23.57,
         "forward_return": 51.85,
         "start_price": 628.0,
         "start_year": 2022
@@ -5322,7 +5322,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.62,
+        "pe_ratio": 24.08,
         "forward_return": 56.67,
         "start_price": 628.0,
         "start_year": 2022
@@ -5331,7 +5331,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.49,
+        "pe_ratio": 40.61,
         "forward_return": 7.92,
         "start_price": 651.0,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 30.69,
+        "pe_ratio": 37.15,
         "forward_return": 5.08,
         "start_price": 615.0,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 35.98,
+        "pe_ratio": 42.2,
         "forward_return": 0.14,
         "start_price": 721.0,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 39.92,
         "forward_return": -0.23,
         "start_price": 703.0,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 37.82,
+        "pe_ratio": 41.6,
         "forward_return": -1.08,
         "start_price": 758.0,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 55.74,
         "forward_return": -9.71,
         "start_price": 1050.0,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 58.63,
+        "pe_ratio": 60.41,
         "forward_return": -9.13,
         "start_price": 1175.0,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 53.44,
         "forward_return": -4.3,
         "start_price": 1050.0,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 58.88,
+        "pe_ratio": 59.47,
         "forward_return": -9.08,
         "start_price": 1180.0,
         "start_year": 2016
@@ -5421,7 +5421,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 54.6,
+        "pe_ratio": 53.5,
         "forward_return": -9.39,
         "start_price": 1110.0,
         "start_year": 2017
@@ -5430,7 +5430,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 67.66,
+        "pe_ratio": 65.02,
         "forward_return": -13.44,
         "start_price": 1395.0,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 65.05,
+        "pe_ratio": 61.37,
         "forward_return": -13.65,
         "start_price": 1360.0,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 55.43,
+        "pe_ratio": 51.73,
         "forward_return": -14.96,
         "start_price": 1175.0,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 62.6,
+        "pe_ratio": 57.81,
         "forward_return": -16.58,
         "start_price": 1345.0,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 59.7,
+        "pe_ratio": 54.58,
         "forward_return": -18.83,
         "start_price": 1300.0,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 64.36,
+        "pe_ratio": 58.87,
         "forward_return": -18.44,
         "start_price": 1420.0,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 63.53,
+        "pe_ratio": 58.15,
         "forward_return": -18.26,
         "start_price": 1420.0,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 55.21,
+        "pe_ratio": 50.57,
         "forward_return": -18.81,
         "start_price": 1250.0,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 47.75,
+        "pe_ratio": 45.03,
         "forward_return": -16.84,
         "start_price": 1095.0,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 48.88,
+        "pe_ratio": 47.46,
         "forward_return": -12.7,
         "start_price": 1135.0,
         "start_year": 2017
@@ -5529,7 +5529,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 50.92,
+        "pe_ratio": 51.87,
         "forward_return": -13.02,
         "start_price": 1190.0,
         "start_year": 2018
@@ -5538,7 +5538,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 45.63,
+        "pe_ratio": 47.38,
         "forward_return": -9.47,
         "start_price": 1060.0,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 34.56,
+        "pe_ratio": 36.61,
         "forward_return": -4.78,
         "start_price": 798.0,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 33.2,
+        "pe_ratio": 34.92,
         "forward_return": -6.72,
         "start_price": 762.0,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.37,
+        "pe_ratio": 36.95,
         "forward_return": -7.26,
         "start_price": 807.0,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 35.59,
+        "pe_ratio": 36.92,
         "forward_return": -4.48,
         "start_price": 807.0,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 34.61,
+        "pe_ratio": 36.57,
         "forward_return": -6.0,
         "start_price": 780.0,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 29.38,
         "forward_return": -1.4,
         "start_price": 611.0,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 22.78,
         "forward_return": 6.67,
         "start_price": 461.5,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.85,
+        "pe_ratio": 20.06,
         "forward_return": 5.82,
         "start_price": 417.0,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.11,
+        "pe_ratio": 22.8,
         "forward_return": 5.87,
         "start_price": 486.0,
         "start_year": 2018
@@ -5637,7 +5637,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.67,
+        "pe_ratio": 20.15,
         "forward_return": 6.65,
         "start_price": 425.0,
         "start_year": 2019
@@ -5646,7 +5646,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.46,
+        "pe_ratio": 20.44,
         "forward_return": 7.93,
         "start_price": 416.0,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 21.55,
         "forward_return": 6.4,
         "start_price": 422.5,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.02,
+        "pe_ratio": 25.73,
         "forward_return": 1.97,
         "start_price": 481.5,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.54,
+        "pe_ratio": 21.52,
         "forward_return": 6.53,
         "start_price": 383.5,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 24.51,
         "forward_return": 4.38,
         "start_price": 415.0,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 21.56,
+        "pe_ratio": 24.73,
         "forward_return": 1.87,
         "start_price": 436.0,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 38.01,
+        "pe_ratio": 41.46,
         "forward_return": -6.49,
         "start_price": 760.0,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 39.82,
+        "pe_ratio": 41.36,
         "forward_return": -6.22,
         "start_price": 787.0,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 50.07,
+        "pe_ratio": 51.36,
         "forward_return": -8.16,
         "start_price": 978.0,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 45.7,
+        "pe_ratio": 46.28,
         "forward_return": -2.48,
         "start_price": 882.0,
         "start_year": 2019
@@ -5745,7 +5745,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 44.42,
+        "pe_ratio": 44.25,
         "forward_return": -0.6,
         "start_price": 882.0,
         "start_year": 2020
@@ -5754,7 +5754,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 39.25,
+        "pe_ratio": 38.95,
         "forward_return": -2.75,
         "start_price": 810.0,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 33.56,
+        "pe_ratio": 33.19,
         "forward_return": -0.45,
         "start_price": 719.0,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 29.5,
+        "pe_ratio": 28.69,
         "forward_return": 3.44,
         "start_price": 655.0,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.01,
+        "pe_ratio": 24.92,
         "forward_return": 9.42,
         "start_price": 598.0,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 34.2,
+        "pe_ratio": 32.3,
         "forward_return": 1.71,
         "start_price": 813.0,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 34.33,
+        "pe_ratio": 32.97,
         "forward_return": 1.29,
         "start_price": 843.0,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.78,
+        "pe_ratio": 27.11,
         "forward_return": 12.89,
         "start_price": 704.0,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.87,
+        "pe_ratio": 26.62,
         "forward_return": 22.93,
         "start_price": 702.0,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.04,
+        "pe_ratio": 24.9,
         "forward_return": 19.69,
         "start_price": 674.0,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.98,
+        "pe_ratio": 27.9,
         "forward_return": 20.46,
         "start_price": 775.0,
         "start_year": 2020
@@ -5853,7 +5853,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.3,
+        "pe_ratio": 31.32,
         "forward_return": 30.42,
         "start_price": 888.0,
         "start_year": 2021
@@ -5862,7 +5862,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.84,
+        "pe_ratio": 31.88,
         "forward_return": 33.36,
         "start_price": 900.0,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.49,
+        "pe_ratio": 40.61,
         "forward_return": 0.2,
         "start_price": 651.0,
         "start_year": 2016
@@ -5880,7 +5880,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 30.69,
+        "pe_ratio": 37.15,
         "forward_return": -2.5,
         "start_price": 615.0,
         "start_year": 2016
@@ -5889,7 +5889,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 35.98,
+        "pe_ratio": 42.2,
         "forward_return": -4.43,
         "start_price": 721.0,
         "start_year": 2016
@@ -5898,7 +5898,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 39.92,
         "forward_return": -6.69,
         "start_price": 703.0,
         "start_year": 2016
@@ -5907,7 +5907,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 37.82,
+        "pe_ratio": 41.6,
         "forward_return": -6.07,
         "start_price": 758.0,
         "start_year": 2016
@@ -5916,7 +5916,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 55.74,
         "forward_return": -10.88,
         "start_price": 1050.0,
         "start_year": 2016
@@ -5925,7 +5925,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 58.63,
+        "pe_ratio": 60.41,
         "forward_return": -14.81,
         "start_price": 1175.0,
         "start_year": 2016
@@ -5934,7 +5934,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 53.44,
         "forward_return": -13.38,
         "start_price": 1050.0,
         "start_year": 2016
@@ -5943,7 +5943,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 58.88,
+        "pe_ratio": 59.47,
         "forward_return": -11.07,
         "start_price": 1180.0,
         "start_year": 2016
@@ -5961,7 +5961,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 54.6,
+        "pe_ratio": 53.5,
         "forward_return": -9.73,
         "start_price": 1110.0,
         "start_year": 2017
@@ -5970,7 +5970,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 67.66,
+        "pe_ratio": 65.02,
         "forward_return": -11.9,
         "start_price": 1395.0,
         "start_year": 2017
@@ -5979,7 +5979,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 65.05,
+        "pe_ratio": 61.37,
         "forward_return": -11.98,
         "start_price": 1360.0,
         "start_year": 2017
@@ -5988,7 +5988,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 55.43,
+        "pe_ratio": 51.73,
         "forward_return": -11.99,
         "start_price": 1175.0,
         "start_year": 2017
@@ -5997,7 +5997,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 62.6,
+        "pe_ratio": 57.81,
         "forward_return": -13.55,
         "start_price": 1345.0,
         "start_year": 2017
@@ -6006,7 +6006,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 59.7,
+        "pe_ratio": 54.58,
         "forward_return": -10.92,
         "start_price": 1300.0,
         "start_year": 2017
@@ -6015,7 +6015,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 64.36,
+        "pe_ratio": 58.87,
         "forward_return": -13.81,
         "start_price": 1420.0,
         "start_year": 2017
@@ -6024,7 +6024,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 63.53,
+        "pe_ratio": 58.15,
         "forward_return": -13.88,
         "start_price": 1420.0,
         "start_year": 2017
@@ -6033,7 +6033,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 55.21,
+        "pe_ratio": 50.57,
         "forward_return": -10.39,
         "start_price": 1250.0,
         "start_year": 2017
@@ -6042,7 +6042,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 47.75,
+        "pe_ratio": 45.03,
         "forward_return": -10.49,
         "start_price": 1095.0,
         "start_year": 2017
@@ -6051,7 +6051,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 48.88,
+        "pe_ratio": 47.46,
         "forward_return": -8.73,
         "start_price": 1135.0,
         "start_year": 2017
@@ -6069,7 +6069,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 50.92,
+        "pe_ratio": 51.87,
         "forward_return": -10.88,
         "start_price": 1190.0,
         "start_year": 2018
@@ -6078,7 +6078,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 45.63,
+        "pe_ratio": 47.38,
         "forward_return": -8.57,
         "start_price": 1060.0,
         "start_year": 2018
@@ -6087,7 +6087,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 34.56,
+        "pe_ratio": 36.61,
         "forward_return": -5.01,
         "start_price": 798.0,
         "start_year": 2018
@@ -6096,7 +6096,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 33.2,
+        "pe_ratio": 34.92,
         "forward_return": -5.55,
         "start_price": 762.0,
         "start_year": 2018
@@ -6105,7 +6105,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.37,
+        "pe_ratio": 36.95,
         "forward_return": -6.58,
         "start_price": 807.0,
         "start_year": 2018
@@ -6114,7 +6114,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 35.59,
+        "pe_ratio": 36.92,
         "forward_return": -6.93,
         "start_price": 807.0,
         "start_year": 2018
@@ -6123,7 +6123,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 34.61,
+        "pe_ratio": 36.57,
         "forward_return": -7.51,
         "start_price": 780.0,
         "start_year": 2018
@@ -6132,7 +6132,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 29.38,
         "forward_return": -1.64,
         "start_price": 611.0,
         "start_year": 2018
@@ -6141,7 +6141,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 22.78,
         "forward_return": 3.91,
         "start_price": 461.5,
         "start_year": 2018
@@ -6150,7 +6150,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.85,
+        "pe_ratio": 20.06,
         "forward_return": 7.65,
         "start_price": 417.0,
         "start_year": 2018
@@ -6159,7 +6159,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.11,
+        "pe_ratio": 22.8,
         "forward_return": 8.38,
         "start_price": 486.0,
         "start_year": 2018
@@ -6177,7 +6177,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.67,
+        "pe_ratio": 20.15,
         "forward_return": 12.59,
         "start_price": 425.0,
         "start_year": 2019
@@ -6186,7 +6186,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.46,
+        "pe_ratio": 20.44,
         "forward_return": 12.15,
         "start_price": 416.0,
         "start_year": 2019
@@ -6195,7 +6195,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 21.55,
         "forward_return": 9.11,
         "start_price": 422.5,
         "start_year": 2019
@@ -6204,7 +6204,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.02,
+        "pe_ratio": 25.73,
         "forward_return": 8.5,
         "start_price": 481.5,
         "start_year": 2019
@@ -6213,7 +6213,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.54,
+        "pe_ratio": 21.52,
         "forward_return": 16.27,
         "start_price": 383.5,
         "start_year": 2019
@@ -6222,7 +6222,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 24.51,
         "forward_return": 13.66,
         "start_price": 415.0,
         "start_year": 2019
@@ -6231,7 +6231,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 21.56,
+        "pe_ratio": 24.73,
         "forward_return": 13.02,
         "start_price": 436.0,
         "start_year": 2019
@@ -6240,7 +6240,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 38.01,
+        "pe_ratio": 41.46,
         "forward_return": 9.37,
         "start_price": 760.0,
         "start_year": 2019
@@ -6249,7 +6249,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 39.82,
+        "pe_ratio": 41.36,
         "forward_return": 16.62,
         "start_price": 787.0,
         "start_year": 2019
@@ -6258,7 +6258,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 50.07,
+        "pe_ratio": 51.36,
         "forward_return": 9.28,
         "start_price": 978.0,
         "start_year": 2019
@@ -6267,7 +6267,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 45.7,
+        "pe_ratio": 46.28,
         "forward_return": 14.38,
         "start_price": 882.0,
         "start_year": 2019
@@ -6285,7 +6285,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 44.42,
+        "pe_ratio": 44.25,
         "forward_return": 24.97,
         "start_price": 882.0,
         "start_year": 2020
@@ -6294,7 +6294,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.49,
+        "pe_ratio": 40.61,
         "forward_return": -1.01,
         "start_price": 651.0,
         "start_year": 2016
@@ -6303,7 +6303,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 30.69,
+        "pe_ratio": 37.15,
         "forward_return": -1.28,
         "start_price": 615.0,
         "start_year": 2016
@@ -6312,7 +6312,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 35.98,
+        "pe_ratio": 42.2,
         "forward_return": -3.32,
         "start_price": 721.0,
         "start_year": 2016
@@ -6321,7 +6321,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 39.92,
         "forward_return": -3.28,
         "start_price": 703.0,
         "start_year": 2016
@@ -6330,7 +6330,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 37.82,
+        "pe_ratio": 41.6,
         "forward_return": -4.92,
         "start_price": 758.0,
         "start_year": 2016
@@ -6339,7 +6339,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 55.74,
         "forward_return": -7.32,
         "start_price": 1050.0,
         "start_year": 2016
@@ -6348,7 +6348,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 58.63,
+        "pe_ratio": 60.41,
         "forward_return": -8.08,
         "start_price": 1175.0,
         "start_year": 2016
@@ -6357,7 +6357,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 52.4,
+        "pe_ratio": 53.44,
         "forward_return": -5.52,
         "start_price": 1050.0,
         "start_year": 2016
@@ -6366,7 +6366,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 58.88,
+        "pe_ratio": 59.47,
         "forward_return": -4.66,
         "start_price": 1180.0,
         "start_year": 2016
@@ -6384,7 +6384,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 54.6,
+        "pe_ratio": 53.5,
         "forward_return": -2.81,
         "start_price": 1110.0,
         "start_year": 2017
@@ -6393,7 +6393,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 67.66,
+        "pe_ratio": 65.02,
         "forward_return": -6.06,
         "start_price": 1395.0,
         "start_year": 2017
@@ -6402,7 +6402,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 65.05,
+        "pe_ratio": 61.37,
         "forward_return": -7.47,
         "start_price": 1360.0,
         "start_year": 2017
@@ -6411,7 +6411,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 55.43,
+        "pe_ratio": 51.73,
         "forward_return": -4.63,
         "start_price": 1175.0,
         "start_year": 2017
@@ -6420,7 +6420,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 62.6,
+        "pe_ratio": 57.81,
         "forward_return": -4.05,
         "start_price": 1345.0,
         "start_year": 2017
@@ -6429,7 +6429,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 59.7,
+        "pe_ratio": 54.58,
         "forward_return": -4.32,
         "start_price": 1300.0,
         "start_year": 2017
@@ -6438,7 +6438,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 64.36,
+        "pe_ratio": 58.87,
         "forward_return": -5.17,
         "start_price": 1420.0,
         "start_year": 2017
@@ -6447,7 +6447,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 63.53,
+        "pe_ratio": 58.15,
         "forward_return": -0.9,
         "start_price": 1420.0,
         "start_year": 2017
@@ -6456,7 +6456,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 55.21,
+        "pe_ratio": 50.57,
         "forward_return": 6.06,
         "start_price": 1250.0,
         "start_year": 2017
@@ -6465,7 +6465,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 47.75,
+        "pe_ratio": 45.03,
         "forward_return": 5.54,
         "start_price": 1095.0,
         "start_year": 2017
@@ -6474,7 +6474,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 48.88,
+        "pe_ratio": 47.46,
         "forward_return": 7.31,
         "start_price": 1135.0,
         "start_year": 2017
@@ -6492,7 +6492,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 50.92,
+        "pe_ratio": 51.87,
         "forward_return": 13.94,
         "start_price": 1190.0,
         "start_year": 2018
@@ -6501,7 +6501,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 45.63,
+        "pe_ratio": 47.38,
         "forward_return": 17.4,
         "start_price": 1060.0,
         "start_year": 2018
@@ -6706,7 +6706,7 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 20.0倍、25.0倍、35.4倍、54.2倍、68.1倍"
+!!! note "本益比河流帶水位: 21.5倍、25.7倍、36.9倍、56.0倍、98.9倍"
 
 ```vegalite
 {
@@ -6717,1202 +6717,1202 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
       {
         "date": "2016-03-16",
         "price": 651.0,
-        "pe": 32.49,
-        "pe_10": 400.0,
-        "pe_25": 501.57,
-        "pe_50": 710.11,
-        "pe_75": 1085.15,
-        "pe_90": 1364.62
+        "pe": 40.61,
+        "pe_10": 344.45,
+        "pe_25": 411.74,
+        "pe_50": 592.09,
+        "pe_75": 897.47,
+        "pe_90": 1585.69
       },
       {
         "date": "2016-04-15",
         "price": 615.0,
-        "pe": 30.69,
-        "pe_10": 400.04,
-        "pe_25": 501.63,
-        "pe_50": 710.19,
-        "pe_75": 1085.27,
-        "pe_90": 1364.76
+        "pe": 37.15,
+        "pe_10": 355.71,
+        "pe_25": 425.2,
+        "pe_50": 611.44,
+        "pe_75": 926.8,
+        "pe_90": 1637.52
       },
       {
         "date": "2016-05-16",
         "price": 721.0,
-        "pe": 35.98,
-        "pe_10": 400.04,
-        "pe_25": 501.62,
-        "pe_50": 710.18,
-        "pe_75": 1085.26,
-        "pe_90": 1364.75
+        "pe": 42.2,
+        "pe_10": 367.11,
+        "pe_25": 438.84,
+        "pe_50": 631.05,
+        "pe_75": 956.52,
+        "pe_90": 1690.03
       },
       {
         "date": "2016-06-15",
         "price": 703.0,
-        "pe": 35.08,
-        "pe_10": 400.06,
-        "pe_25": 501.65,
-        "pe_50": 710.21,
-        "pe_75": 1085.31,
-        "pe_90": 1364.82
+        "pe": 39.92,
+        "pe_10": 378.39,
+        "pe_25": 452.32,
+        "pe_50": 650.43,
+        "pe_75": 985.91,
+        "pe_90": 1741.95
       },
       {
         "date": "2016-07-16",
         "price": 758.0,
-        "pe": 37.82,
-        "pe_10": 400.1,
-        "pe_25": 501.71,
-        "pe_50": 710.3,
-        "pe_75": 1085.44,
-        "pe_90": 1364.98
+        "pe": 41.6,
+        "pe_10": 391.52,
+        "pe_25": 468.01,
+        "pe_50": 673.0,
+        "pe_75": 1020.11,
+        "pe_90": 1802.38
       },
       {
         "date": "2016-08-16",
         "price": 1050.0,
-        "pe": 52.4,
-        "pe_10": 400.02,
-        "pe_25": 501.61,
-        "pe_50": 710.15,
-        "pe_75": 1085.22,
-        "pe_90": 1364.7
+        "pe": 55.74,
+        "pe_10": 404.76,
+        "pe_25": 483.84,
+        "pe_50": 695.76,
+        "pe_75": 1054.62,
+        "pe_90": 1863.34
       },
       {
         "date": "2016-09-15",
         "price": 1175.0,
-        "pe": 58.63,
-        "pe_10": 400.08,
-        "pe_25": 501.67,
-        "pe_50": 710.25,
-        "pe_75": 1085.37,
-        "pe_90": 1364.89
+        "pe": 60.41,
+        "pe_10": 417.93,
+        "pe_25": 499.58,
+        "pe_50": 718.4,
+        "pe_75": 1088.93,
+        "pe_90": 1923.98
       },
       {
         "date": "2016-10-16",
         "price": 1050.0,
-        "pe": 52.4,
-        "pe_10": 400.02,
-        "pe_25": 501.61,
-        "pe_50": 710.15,
-        "pe_75": 1085.22,
-        "pe_90": 1364.7
+        "pe": 53.44,
+        "pe_10": 422.18,
+        "pe_25": 504.66,
+        "pe_50": 725.71,
+        "pe_75": 1100.0,
+        "pe_90": 1943.54
       },
       {
         "date": "2016-11-15",
         "price": 1180.0,
-        "pe": 58.88,
-        "pe_10": 400.07,
-        "pe_25": 501.67,
-        "pe_50": 710.24,
-        "pe_75": 1085.36,
-        "pe_90": 1364.88
+        "pe": 59.47,
+        "pe_10": 426.34,
+        "pe_25": 509.64,
+        "pe_50": 732.86,
+        "pe_75": 1110.85,
+        "pe_90": 1962.7
       },
       {
         "date": "2016-12-16",
         "price": 1190.0,
         "pe": 59.38,
-        "pe_10": 400.07,
-        "pe_25": 501.66,
-        "pe_50": 710.23,
-        "pe_75": 1085.34,
-        "pe_90": 1364.85
+        "pe_10": 430.61,
+        "pe_25": 514.74,
+        "pe_50": 740.19,
+        "pe_75": 1121.96,
+        "pe_90": 1982.34
       },
       {
         "date": "2017-01-16",
         "price": 1110.0,
-        "pe": 54.6,
-        "pe_10": 405.84,
-        "pe_25": 508.9,
-        "pe_50": 720.48,
-        "pe_75": 1101.0,
-        "pe_90": 1384.55
+        "pe": 53.5,
+        "pe_10": 445.81,
+        "pe_25": 532.9,
+        "pe_50": 766.31,
+        "pe_75": 1161.56,
+        "pe_90": 2052.3
       },
       {
         "date": "2017-02-14",
         "price": 1395.0,
-        "pe": 67.66,
-        "pe_10": 411.59,
-        "pe_25": 516.11,
-        "pe_50": 730.69,
-        "pe_75": 1116.61,
-        "pe_90": 1404.17
+        "pe": 65.02,
+        "pe_10": 461.0,
+        "pe_25": 551.07,
+        "pe_50": 792.44,
+        "pe_75": 1201.15,
+        "pe_90": 2122.26
       },
       {
         "date": "2017-03-16",
         "price": 1360.0,
-        "pe": 65.05,
-        "pe_10": 417.37,
-        "pe_25": 523.35,
-        "pe_50": 740.94,
-        "pe_75": 1132.27,
-        "pe_90": 1423.87
+        "pe": 61.37,
+        "pe_10": 476.17,
+        "pe_25": 569.2,
+        "pe_50": 818.5,
+        "pe_75": 1240.66,
+        "pe_90": 2192.07
       },
       {
         "date": "2017-04-15",
         "price": 1175.0,
-        "pe": 55.43,
-        "pe_10": 423.17,
-        "pe_25": 530.64,
-        "pe_50": 751.25,
-        "pe_75": 1148.03,
-        "pe_90": 1443.68
+        "pe": 51.73,
+        "pe_10": 488.06,
+        "pe_25": 583.41,
+        "pe_50": 838.95,
+        "pe_75": 1271.65,
+        "pe_90": 2246.81
       },
       {
         "date": "2017-05-16",
         "price": 1345.0,
-        "pe": 62.6,
-        "pe_10": 428.92,
-        "pe_25": 537.84,
-        "pe_50": 761.45,
-        "pe_75": 1163.61,
-        "pe_90": 1463.28
+        "pe": 57.81,
+        "pe_10": 499.91,
+        "pe_25": 597.58,
+        "pe_50": 859.32,
+        "pe_75": 1302.54,
+        "pe_90": 2301.39
       },
       {
         "date": "2017-06-15",
         "price": 1300.0,
-        "pe": 59.7,
-        "pe_10": 434.71,
-        "pe_25": 545.1,
-        "pe_50": 771.73,
-        "pe_75": 1179.31,
-        "pe_90": 1483.02
+        "pe": 54.58,
+        "pe_10": 511.78,
+        "pe_25": 611.77,
+        "pe_50": 879.73,
+        "pe_75": 1333.46,
+        "pe_90": 2356.03
       },
       {
         "date": "2017-07-16",
         "price": 1420.0,
-        "pe": 64.36,
-        "pe_10": 440.45,
-        "pe_25": 552.3,
-        "pe_50": 781.93,
-        "pe_75": 1194.9,
-        "pe_90": 1502.63
+        "pe": 58.87,
+        "pe_10": 518.29,
+        "pe_25": 619.55,
+        "pe_50": 890.91,
+        "pe_75": 1350.41,
+        "pe_90": 2385.97
       },
       {
         "date": "2017-08-16",
         "price": 1420.0,
-        "pe": 63.53,
-        "pe_10": 446.21,
-        "pe_25": 559.52,
-        "pe_50": 792.14,
-        "pe_75": 1210.51,
-        "pe_90": 1522.26
+        "pe": 58.15,
+        "pe_10": 524.7,
+        "pe_25": 627.22,
+        "pe_50": 901.94,
+        "pe_75": 1367.13,
+        "pe_90": 2415.51
       },
       {
         "date": "2017-09-15",
         "price": 1250.0,
-        "pe": 55.21,
-        "pe_10": 451.98,
-        "pe_25": 566.76,
-        "pe_50": 802.39,
-        "pe_75": 1226.17,
-        "pe_90": 1541.95
+        "pe": 50.57,
+        "pe_10": 531.12,
+        "pe_25": 634.89,
+        "pe_50": 912.97,
+        "pe_75": 1383.85,
+        "pe_90": 2445.05
       },
       {
         "date": "2017-10-16",
         "price": 1095.0,
-        "pe": 47.75,
-        "pe_10": 457.79,
-        "pe_25": 574.04,
-        "pe_50": 812.71,
-        "pe_75": 1241.94,
-        "pe_90": 1561.78
+        "pe": 45.03,
+        "pe_10": 522.5,
+        "pe_25": 624.59,
+        "pe_50": 898.15,
+        "pe_75": 1361.39,
+        "pe_90": 2405.38
       },
       {
         "date": "2017-11-15",
         "price": 1135.0,
-        "pe": 48.88,
-        "pe_10": 463.54,
-        "pe_25": 581.26,
-        "pe_50": 822.92,
-        "pe_75": 1257.54,
-        "pe_90": 1581.41
+        "pe": 47.46,
+        "pe_10": 513.86,
+        "pe_25": 614.25,
+        "pe_50": 883.3,
+        "pe_75": 1338.87,
+        "pe_90": 2365.59
       },
       {
         "date": "2017-12-16",
         "price": 1145.0,
         "pe": 48.7,
-        "pe_10": 469.36,
-        "pe_25": 588.55,
-        "pe_50": 833.24,
-        "pe_75": 1273.31,
-        "pe_90": 1601.24
+        "pe_10": 505.19,
+        "pe_25": 603.89,
+        "pe_50": 868.39,
+        "pe_75": 1316.28,
+        "pe_90": 2325.67
       },
       {
         "date": "2018-01-16",
         "price": 1190.0,
-        "pe": 50.92,
-        "pe_10": 466.54,
-        "pe_25": 585.01,
-        "pe_50": 828.23,
-        "pe_75": 1265.66,
-        "pe_90": 1591.61
+        "pe": 51.87,
+        "pe_10": 492.95,
+        "pe_25": 589.26,
+        "pe_50": 847.36,
+        "pe_75": 1284.41,
+        "pe_90": 2269.35
       },
       {
         "date": "2018-02-14",
         "price": 1060.0,
-        "pe": 45.63,
-        "pe_10": 463.75,
-        "pe_25": 581.51,
-        "pe_50": 823.28,
-        "pe_75": 1258.1,
-        "pe_90": 1582.1
+        "pe": 47.38,
+        "pe_10": 480.71,
+        "pe_25": 574.63,
+        "pe_50": 826.32,
+        "pe_75": 1252.51,
+        "pe_90": 2213.0
       },
       {
         "date": "2018-03-16",
         "price": 798.0,
-        "pe": 34.56,
-        "pe_10": 460.95,
-        "pe_25": 578.01,
-        "pe_50": 818.32,
-        "pe_75": 1250.51,
-        "pe_90": 1572.56
+        "pe": 36.61,
+        "pe_10": 468.36,
+        "pe_25": 559.86,
+        "pe_50": 805.08,
+        "pe_75": 1220.32,
+        "pe_90": 2156.13
       },
       {
         "date": "2018-04-15",
         "price": 762.0,
-        "pe": 33.2,
-        "pe_10": 458.19,
-        "pe_25": 574.54,
-        "pe_50": 813.41,
-        "pe_75": 1243.01,
-        "pe_90": 1563.13
+        "pe": 34.92,
+        "pe_10": 468.87,
+        "pe_25": 560.48,
+        "pe_50": 805.97,
+        "pe_75": 1221.67,
+        "pe_90": 2158.5
       },
       {
         "date": "2018-05-16",
         "price": 807.0,
-        "pe": 35.37,
-        "pe_10": 455.47,
-        "pe_25": 571.14,
-        "pe_50": 808.6,
-        "pe_75": 1235.65,
-        "pe_90": 1553.88
+        "pe": 36.95,
+        "pe_10": 469.28,
+        "pe_25": 560.97,
+        "pe_50": 806.67,
+        "pe_75": 1222.73,
+        "pe_90": 2160.38
       },
       {
         "date": "2018-06-15",
         "price": 807.0,
-        "pe": 35.59,
-        "pe_10": 452.66,
-        "pe_25": 567.61,
-        "pe_50": 803.6,
-        "pe_75": 1228.02,
-        "pe_90": 1544.27
+        "pe": 36.92,
+        "pe_10": 469.66,
+        "pe_25": 561.42,
+        "pe_50": 807.33,
+        "pe_75": 1223.72,
+        "pe_90": 2162.13
       },
       {
         "date": "2018-07-16",
         "price": 780.0,
-        "pe": 34.61,
-        "pe_10": 449.9,
-        "pe_25": 564.15,
-        "pe_50": 798.71,
-        "pe_75": 1220.54,
-        "pe_90": 1534.87
+        "pe": 36.57,
+        "pe_10": 458.3,
+        "pe_25": 547.83,
+        "pe_50": 787.79,
+        "pe_75": 1194.1,
+        "pe_90": 2109.8
       },
       {
         "date": "2018-08-16",
         "price": 611.0,
-        "pe": 27.28,
-        "pe_10": 447.12,
-        "pe_25": 560.66,
-        "pe_50": 793.76,
-        "pe_75": 1212.99,
-        "pe_90": 1525.37
+        "pe": 29.38,
+        "pe_10": 446.85,
+        "pe_25": 534.16,
+        "pe_50": 768.12,
+        "pe_75": 1164.29,
+        "pe_90": 2057.12
       },
       {
         "date": "2018-09-15",
         "price": 461.5,
-        "pe": 20.73,
-        "pe_10": 444.42,
-        "pe_25": 557.28,
-        "pe_50": 788.98,
-        "pe_75": 1205.68,
-        "pe_90": 1516.18
+        "pe": 22.78,
+        "pe_10": 435.31,
+        "pe_25": 520.35,
+        "pe_50": 748.27,
+        "pe_75": 1134.2,
+        "pe_90": 2003.96
       },
       {
         "date": "2018-10-16",
         "price": 417.0,
-        "pe": 18.85,
-        "pe_10": 441.62,
-        "pe_25": 553.77,
-        "pe_50": 784.0,
-        "pe_75": 1198.07,
-        "pe_90": 1506.62
+        "pe": 20.06,
+        "pe_10": 446.66,
+        "pe_25": 533.93,
+        "pe_50": 767.79,
+        "pe_75": 1163.8,
+        "pe_90": 2056.25
       },
       {
         "date": "2018-11-15",
         "price": 486.0,
-        "pe": 22.11,
-        "pe_10": 438.81,
-        "pe_25": 550.24,
-        "pe_50": 779.01,
-        "pe_75": 1190.44,
-        "pe_90": 1497.02
+        "pe": 22.8,
+        "pe_10": 458.01,
+        "pe_25": 547.5,
+        "pe_50": 787.3,
+        "pe_75": 1193.36,
+        "pe_90": 2108.49
       },
       {
         "date": "2018-12-16",
         "price": 520.0,
         "pe": 23.81,
-        "pe_10": 435.98,
-        "pe_25": 546.7,
-        "pe_50": 773.99,
-        "pe_75": 1182.78,
-        "pe_90": 1487.38
+        "pe_10": 469.27,
+        "pe_25": 560.95,
+        "pe_50": 806.64,
+        "pe_75": 1222.69,
+        "pe_90": 2160.3
       },
       {
         "date": "2019-01-16",
         "price": 425.0,
-        "pe": 19.67,
-        "pe_10": 431.33,
-        "pe_25": 540.86,
-        "pe_50": 765.73,
-        "pe_75": 1170.15,
-        "pe_90": 1471.51
+        "pe": 20.15,
+        "pe_10": 453.2,
+        "pe_25": 541.74,
+        "pe_50": 779.03,
+        "pe_75": 1180.83,
+        "pe_90": 2086.34
       },
       {
         "date": "2019-02-14",
         "price": 416.0,
-        "pe": 19.46,
-        "pe_10": 426.75,
-        "pe_25": 535.12,
-        "pe_50": 757.61,
-        "pe_75": 1157.73,
-        "pe_90": 1455.89
+        "pe": 20.44,
+        "pe_10": 437.31,
+        "pe_25": 522.75,
+        "pe_50": 751.71,
+        "pe_75": 1139.42,
+        "pe_90": 2013.18
       },
       {
         "date": "2019-03-16",
         "price": 422.5,
-        "pe": 19.98,
-        "pe_10": 422.14,
-        "pe_25": 529.34,
-        "pe_50": 749.42,
-        "pe_75": 1145.22,
-        "pe_90": 1440.16
+        "pe": 21.55,
+        "pe_10": 421.26,
+        "pe_25": 503.57,
+        "pe_50": 724.13,
+        "pe_75": 1097.62,
+        "pe_90": 1939.32
       },
       {
         "date": "2019-04-15",
         "price": 481.5,
-        "pe": 23.02,
-        "pe_10": 417.56,
-        "pe_25": 523.59,
-        "pe_50": 741.28,
-        "pe_75": 1132.79,
-        "pe_90": 1424.52
+        "pe": 25.73,
+        "pe_10": 402.1,
+        "pe_25": 480.66,
+        "pe_50": 691.19,
+        "pe_75": 1047.68,
+        "pe_90": 1851.09
       },
       {
         "date": "2019-05-16",
         "price": 383.5,
-        "pe": 18.54,
-        "pe_10": 412.93,
-        "pe_25": 517.8,
-        "pe_50": 733.08,
-        "pe_75": 1120.25,
-        "pe_90": 1408.75
+        "pe": 21.52,
+        "pe_10": 382.91,
+        "pe_25": 457.72,
+        "pe_50": 658.21,
+        "pe_75": 997.69,
+        "pe_90": 1762.76
       },
       {
         "date": "2019-06-15",
         "price": 415.0,
-        "pe": 20.29,
-        "pe_10": 408.31,
-        "pe_25": 512.0,
-        "pe_50": 724.87,
-        "pe_75": 1107.71,
-        "pe_90": 1392.98
+        "pe": 24.51,
+        "pe_10": 363.81,
+        "pe_25": 434.89,
+        "pe_50": 625.38,
+        "pe_75": 947.93,
+        "pe_90": 1674.85
       },
       {
         "date": "2019-07-16",
         "price": 436.0,
-        "pe": 21.56,
-        "pe_10": 403.7,
-        "pe_25": 506.22,
-        "pe_50": 716.69,
-        "pe_75": 1095.21,
-        "pe_90": 1377.26
+        "pe": 24.73,
+        "pe_10": 378.82,
+        "pe_25": 452.84,
+        "pe_50": 651.18,
+        "pe_75": 987.04,
+        "pe_90": 1743.95
       },
       {
         "date": "2019-08-16",
         "price": 760.0,
-        "pe": 38.01,
-        "pe_10": 399.15,
-        "pe_25": 500.52,
-        "pe_50": 708.61,
-        "pe_75": 1082.87,
-        "pe_90": 1361.74
+        "pe": 41.46,
+        "pe_10": 393.88,
+        "pe_25": 470.83,
+        "pe_50": 677.05,
+        "pe_75": 1026.26,
+        "pe_90": 1813.24
       },
       {
         "date": "2019-09-15",
         "price": 787.0,
-        "pe": 39.82,
-        "pe_10": 394.55,
-        "pe_25": 494.74,
-        "pe_50": 700.43,
-        "pe_75": 1070.37,
-        "pe_90": 1346.02
+        "pe": 41.36,
+        "pe_10": 408.86,
+        "pe_25": 488.74,
+        "pe_50": 702.8,
+        "pe_75": 1065.29,
+        "pe_90": 1882.2
       },
       {
         "date": "2019-10-16",
         "price": 978.0,
-        "pe": 50.07,
-        "pe_10": 389.93,
-        "pe_25": 488.95,
-        "pe_50": 692.24,
-        "pe_75": 1057.84,
-        "pe_90": 1330.27
+        "pe": 51.36,
+        "pe_10": 409.16,
+        "pe_25": 489.1,
+        "pe_50": 703.32,
+        "pe_75": 1066.07,
+        "pe_90": 1883.58
       },
       {
         "date": "2019-11-15",
         "price": 882.0,
-        "pe": 45.7,
-        "pe_10": 385.28,
-        "pe_25": 483.12,
-        "pe_50": 683.98,
-        "pe_75": 1045.23,
-        "pe_90": 1314.41
+        "pe": 46.28,
+        "pe_10": 409.5,
+        "pe_25": 489.5,
+        "pe_50": 703.9,
+        "pe_75": 1066.96,
+        "pe_90": 1885.15
       },
       {
         "date": "2019-12-16",
         "price": 1030.0,
         "pe": 54.01,
-        "pe_10": 380.71,
-        "pe_25": 477.38,
-        "pe_50": 675.86,
-        "pe_75": 1032.81,
-        "pe_90": 1298.8
+        "pe_10": 409.77,
+        "pe_25": 489.83,
+        "pe_50": 704.37,
+        "pe_75": 1067.66,
+        "pe_90": 1886.4
       },
       {
         "date": "2020-01-16",
         "price": 882.0,
-        "pe": 44.42,
-        "pe_10": 396.38,
-        "pe_25": 497.04,
-        "pe_50": 703.69,
-        "pe_75": 1075.35,
-        "pe_90": 1352.29
+        "pe": 44.25,
+        "pe_10": 428.28,
+        "pe_25": 511.96,
+        "pe_50": 736.2,
+        "pe_75": 1115.9,
+        "pe_90": 1971.63
       },
       {
         "date": "2020-02-15",
         "price": 810.0,
-        "pe": 39.25,
-        "pe_10": 411.98,
-        "pe_25": 516.59,
-        "pe_50": 731.37,
-        "pe_75": 1117.65,
-        "pe_90": 1405.48
+        "pe": 38.95,
+        "pe_10": 446.84,
+        "pe_25": 534.14,
+        "pe_50": 768.1,
+        "pe_75": 1164.26,
+        "pe_90": 2057.07
       },
       {
         "date": "2020-03-16",
         "price": 719.0,
-        "pe": 33.56,
-        "pe_10": 427.69,
-        "pe_25": 536.3,
-        "pe_50": 759.28,
-        "pe_75": 1160.29,
-        "pe_90": 1459.1
+        "pe": 33.19,
+        "pe_10": 465.48,
+        "pe_25": 556.42,
+        "pe_50": 800.13,
+        "pe_75": 1212.81,
+        "pe_90": 2142.85
       },
       {
         "date": "2020-04-15",
         "price": 655.0,
-        "pe": 29.5,
-        "pe_10": 443.25,
-        "pe_25": 555.81,
-        "pe_50": 786.89,
-        "pe_75": 1202.48,
-        "pe_90": 1512.16
+        "pe": 28.69,
+        "pe_10": 490.55,
+        "pe_25": 586.4,
+        "pe_50": 843.24,
+        "pe_75": 1278.15,
+        "pe_90": 2258.3
       },
       {
         "date": "2020-05-16",
         "price": 598.0,
-        "pe": 26.01,
-        "pe_10": 458.97,
-        "pe_25": 575.53,
-        "pe_50": 814.81,
-        "pe_75": 1245.14,
-        "pe_90": 1565.81
+        "pe": 24.92,
+        "pe_10": 515.62,
+        "pe_25": 616.36,
+        "pe_50": 886.32,
+        "pe_75": 1343.46,
+        "pe_90": 2373.69
       },
       {
         "date": "2020-06-15",
         "price": 813.0,
-        "pe": 34.2,
-        "pe_10": 474.56,
-        "pe_25": 595.07,
-        "pe_50": 842.48,
-        "pe_75": 1287.43,
-        "pe_90": 1618.99
+        "pe": 32.3,
+        "pe_10": 540.83,
+        "pe_25": 646.5,
+        "pe_50": 929.66,
+        "pe_75": 1409.16,
+        "pe_90": 2489.77
       },
       {
         "date": "2020-07-16",
         "price": 843.0,
-        "pe": 34.33,
-        "pe_10": 490.21,
-        "pe_25": 614.69,
-        "pe_50": 870.26,
-        "pe_75": 1329.88,
-        "pe_90": 1672.37
+        "pe": 32.97,
+        "pe_10": 549.39,
+        "pe_25": 656.73,
+        "pe_50": 944.38,
+        "pe_75": 1431.46,
+        "pe_90": 2529.18
       },
       {
         "date": "2020-08-16",
         "price": 704.0,
-        "pe": 27.78,
-        "pe_10": 505.9,
-        "pe_25": 634.37,
-        "pe_50": 898.12,
-        "pe_75": 1372.46,
-        "pe_90": 1725.92
+        "pe": 27.11,
+        "pe_10": 557.98,
+        "pe_25": 667.0,
+        "pe_50": 959.14,
+        "pe_75": 1453.83,
+        "pe_90": 2568.7
       },
       {
         "date": "2020-09-15",
         "price": 702.0,
-        "pe": 26.87,
-        "pe_10": 521.55,
-        "pe_25": 653.99,
-        "pe_50": 925.9,
-        "pe_75": 1414.91,
-        "pe_90": 1779.3
+        "pe": 26.62,
+        "pe_10": 566.64,
+        "pe_25": 677.34,
+        "pe_50": 974.02,
+        "pe_75": 1476.39,
+        "pe_90": 2608.55
       },
       {
         "date": "2020-10-16",
         "price": 674.0,
-        "pe": 25.04,
-        "pe_10": 537.34,
-        "pe_25": 673.8,
-        "pe_50": 953.94,
-        "pe_75": 1457.75,
-        "pe_90": 1833.18
+        "pe": 24.9,
+        "pe_10": 581.62,
+        "pe_25": 695.25,
+        "pe_50": 999.77,
+        "pe_75": 1515.42,
+        "pe_90": 2677.51
       },
       {
         "date": "2020-11-15",
         "price": 775.0,
-        "pe": 27.98,
-        "pe_10": 552.94,
-        "pe_25": 693.36,
-        "pe_50": 981.63,
-        "pe_75": 1500.07,
-        "pe_90": 1886.4
+        "pe": 27.9,
+        "pe_10": 596.86,
+        "pe_25": 713.47,
+        "pe_50": 1025.97,
+        "pe_75": 1555.14,
+        "pe_90": 2747.69
       },
       {
         "date": "2020-12-16",
         "price": 764.0,
         "pe": 26.83,
-        "pe_10": 568.46,
-        "pe_25": 712.82,
-        "pe_50": 1009.17,
-        "pe_75": 1542.17,
-        "pe_90": 1939.33
+        "pe_10": 611.85,
+        "pe_25": 731.4,
+        "pe_50": 1051.75,
+        "pe_75": 1594.21,
+        "pe_90": 2816.72
       },
       {
         "date": "2021-01-16",
         "price": 888.0,
-        "pe": 31.3,
-        "pe_10": 566.36,
-        "pe_25": 710.19,
-        "pe_50": 1005.45,
-        "pe_75": 1536.48,
-        "pe_90": 1932.18
+        "pe": 31.32,
+        "pe_10": 609.21,
+        "pe_25": 728.23,
+        "pe_50": 1047.2,
+        "pe_75": 1587.31,
+        "pe_90": 2804.54
       },
       {
         "date": "2021-02-14",
         "price": 900.0,
-        "pe": 31.84,
-        "pe_10": 564.28,
-        "pe_25": 707.58,
-        "pe_50": 1001.76,
-        "pe_75": 1530.83,
-        "pe_90": 1925.08
+        "pe": 31.88,
+        "pe_10": 606.6,
+        "pe_25": 725.11,
+        "pe_50": 1042.71,
+        "pe_75": 1580.51,
+        "pe_90": 2792.51
       },
       {
         "date": "2021-03-16",
         "price": 909.0,
-        "pe": 32.28,
-        "pe_10": 562.16,
-        "pe_25": 704.91,
-        "pe_50": 997.99,
-        "pe_75": 1525.07,
-        "pe_90": 1917.83
+        "pe": 32.34,
+        "pe_10": 603.95,
+        "pe_25": 721.94,
+        "pe_50": 1038.15,
+        "pe_75": 1573.6,
+        "pe_90": 2780.32
       },
       {
         "date": "2021-04-15",
         "price": 744.0,
-        "pe": 26.52,
-        "pe_10": 560.05,
-        "pe_25": 702.27,
-        "pe_50": 994.24,
-        "pe_75": 1519.35,
-        "pe_90": 1910.64
+        "pe": 26.62,
+        "pe_10": 600.54,
+        "pe_25": 717.87,
+        "pe_50": 1032.29,
+        "pe_75": 1564.72,
+        "pe_90": 2764.62
       },
       {
         "date": "2021-05-16",
         "price": 682.0,
-        "pe": 24.4,
-        "pe_10": 557.98,
-        "pe_25": 699.68,
-        "pe_50": 990.58,
-        "pe_75": 1513.75,
-        "pe_90": 1903.59
+        "pe": 24.54,
+        "pe_10": 597.15,
+        "pe_25": 713.82,
+        "pe_50": 1026.47,
+        "pe_75": 1555.9,
+        "pe_90": 2749.04
       },
       {
         "date": "2021-06-15",
         "price": 651.0,
-        "pe": 23.38,
-        "pe_10": 555.86,
-        "pe_25": 697.01,
-        "pe_50": 986.8,
-        "pe_75": 1507.98,
-        "pe_90": 1896.34
+        "pe": 23.56,
+        "pe_10": 593.72,
+        "pe_25": 709.72,
+        "pe_50": 1020.57,
+        "pe_75": 1546.95,
+        "pe_90": 2733.23
       },
       {
         "date": "2021-07-16",
         "price": 668.0,
-        "pe": 24.09,
-        "pe_10": 553.56,
-        "pe_25": 694.13,
-        "pe_50": 982.73,
-        "pe_75": 1501.75,
-        "pe_90": 1888.51
+        "pe": 24.72,
+        "pe_10": 580.64,
+        "pe_25": 694.08,
+        "pe_50": 998.08,
+        "pe_75": 1512.86,
+        "pe_90": 2673.0
       },
       {
         "date": "2021-08-16",
         "price": 580.0,
-        "pe": 20.99,
-        "pe_10": 551.62,
-        "pe_25": 691.7,
-        "pe_50": 979.29,
-        "pe_75": 1496.49,
-        "pe_90": 1881.89
+        "pe": 21.96,
+        "pe_10": 567.51,
+        "pe_25": 678.38,
+        "pe_50": 975.51,
+        "pe_75": 1478.66,
+        "pe_90": 2612.56
       },
       {
         "date": "2021-09-15",
         "price": 678.0,
-        "pe": 24.64,
-        "pe_10": 549.31,
-        "pe_25": 688.8,
-        "pe_50": 975.18,
-        "pe_75": 1490.21,
-        "pe_90": 1873.99
+        "pe": 26.27,
+        "pe_10": 554.56,
+        "pe_25": 662.9,
+        "pe_50": 953.25,
+        "pe_75": 1444.91,
+        "pe_90": 2552.94
       },
       {
         "date": "2021-10-16",
         "price": 793.0,
-        "pe": 28.93,
-        "pe_10": 547.21,
-        "pe_25": 686.17,
-        "pe_50": 971.45,
-        "pe_75": 1484.51,
-        "pe_90": 1866.83
+        "pe": 30.18,
+        "pe_10": 564.59,
+        "pe_25": 674.89,
+        "pe_50": 970.49,
+        "pe_75": 1471.04,
+        "pe_90": 2599.11
       },
       {
         "date": "2021-11-15",
         "price": 683.0,
-        "pe": 25.01,
-        "pe_10": 545.17,
-        "pe_25": 683.61,
-        "pe_50": 967.83,
-        "pe_75": 1478.99,
-        "pe_90": 1859.88
+        "pe": 25.55,
+        "pe_10": 574.39,
+        "pe_25": 686.61,
+        "pe_50": 987.34,
+        "pe_75": 1496.59,
+        "pe_90": 2644.24
       },
       {
         "date": "2021-12-16",
         "price": 711.0,
         "pe": 26.14,
-        "pe_10": 542.99,
-        "pe_25": 680.88,
-        "pe_50": 963.96,
-        "pe_75": 1473.07,
-        "pe_90": 1852.44
+        "pe_10": 584.44,
+        "pe_25": 698.62,
+        "pe_50": 1004.62,
+        "pe_75": 1522.77,
+        "pe_90": 2690.51
       },
       {
         "date": "2022-01-16",
         "price": 628.0,
-        "pe": 23.35,
-        "pe_10": 536.91,
-        "pe_25": 673.25,
-        "pe_50": 953.16,
-        "pe_75": 1456.57,
-        "pe_90": 1831.69
+        "pe": 23.57,
+        "pe_10": 572.5,
+        "pe_25": 684.35,
+        "pe_50": 984.1,
+        "pe_75": 1491.67,
+        "pe_90": 2635.55
       },
       {
         "date": "2022-02-14",
         "price": 628.0,
-        "pe": 23.62,
-        "pe_10": 530.77,
-        "pe_25": 665.56,
-        "pe_50": 942.27,
-        "pe_75": 1439.92,
-        "pe_90": 1810.75
+        "pe": 24.08,
+        "pe_10": 560.38,
+        "pe_25": 669.86,
+        "pe_50": 963.25,
+        "pe_75": 1460.07,
+        "pe_90": 2579.73
       },
       {
         "date": "2022-03-16",
         "price": 603.0,
-        "pe": 22.95,
-        "pe_10": 524.52,
-        "pe_25": 657.72,
-        "pe_50": 931.17,
-        "pe_75": 1422.96,
-        "pe_90": 1789.43
+        "pe": 23.63,
+        "pe_10": 548.31,
+        "pe_25": 655.44,
+        "pe_50": 942.52,
+        "pe_75": 1428.65,
+        "pe_90": 2524.2
       },
       {
         "date": "2022-04-15",
         "price": 472.5,
-        "pe": 18.2,
-        "pe_10": 518.27,
-        "pe_25": 649.88,
-        "pe_50": 920.08,
-        "pe_75": 1406.01,
-        "pe_90": 1768.11
+        "pe": 18.27,
+        "pe_10": 555.7,
+        "pe_25": 664.27,
+        "pe_50": 955.22,
+        "pe_75": 1447.89,
+        "pe_90": 2558.2
       },
       {
         "date": "2022-05-16",
         "price": 493.5,
-        "pe": 19.23,
-        "pe_10": 512.31,
-        "pe_25": 642.41,
-        "pe_50": 909.5,
-        "pe_75": 1389.85,
-        "pe_90": 1747.78
+        "pe": 18.83,
+        "pe_10": 563.14,
+        "pe_25": 673.16,
+        "pe_50": 968.0,
+        "pe_75": 1467.26,
+        "pe_90": 2592.43
       },
       {
         "date": "2022-06-15",
         "price": 408.0,
-        "pe": 16.09,
-        "pe_10": 506.21,
-        "pe_25": 634.76,
-        "pe_50": 898.67,
-        "pe_75": 1373.29,
-        "pe_90": 1726.96
+        "pe": 15.36,
+        "pe_10": 570.75,
+        "pe_25": 682.26,
+        "pe_50": 981.09,
+        "pe_75": 1487.1,
+        "pe_90": 2627.48
       },
       {
         "date": "2022-07-16",
         "price": 457.0,
-        "pe": 18.25,
-        "pe_10": 499.9,
-        "pe_25": 626.84,
-        "pe_50": 887.46,
-        "pe_75": 1356.16,
-        "pe_90": 1705.42
+        "pe": 17.2,
+        "pe_10": 570.9,
+        "pe_25": 682.44,
+        "pe_50": 981.35,
+        "pe_75": 1487.51,
+        "pe_90": 2628.2
       },
       {
         "date": "2022-08-16",
         "price": 462.5,
-        "pe": 18.7,
-        "pe_10": 493.74,
-        "pe_25": 619.12,
-        "pe_50": 876.52,
-        "pe_75": 1339.46,
-        "pe_90": 1684.42
+        "pe": 17.39,
+        "pe_10": 571.46,
+        "pe_25": 683.11,
+        "pe_50": 982.31,
+        "pe_75": 1488.96,
+        "pe_90": 2630.77
       },
       {
         "date": "2022-09-15",
         "price": 385.5,
-        "pe": 15.78,
-        "pe_10": 487.69,
-        "pe_25": 611.54,
-        "pe_50": 865.79,
-        "pe_75": 1323.05,
-        "pe_90": 1663.78
+        "pe": 14.49,
+        "pe_10": 571.65,
+        "pe_25": 683.34,
+        "pe_50": 982.64,
+        "pe_75": 1489.46,
+        "pe_90": 2631.64
       },
       {
         "date": "2022-10-16",
         "price": 380.0,
-        "pe": 15.76,
-        "pe_10": 481.34,
-        "pe_25": 603.58,
-        "pe_50": 854.52,
-        "pe_75": 1305.83,
-        "pe_90": 1642.13
+        "pe": 14.86,
+        "pe_10": 549.47,
+        "pe_25": 656.82,
+        "pe_50": 944.5,
+        "pe_75": 1431.65,
+        "pe_90": 2529.51
       },
       {
         "date": "2022-11-15",
         "price": 520.0,
-        "pe": 21.84,
-        "pe_10": 475.31,
-        "pe_25": 596.01,
-        "pe_50": 843.81,
-        "pe_75": 1289.46,
-        "pe_90": 1621.55
+        "pe": 21.19,
+        "pe_10": 527.29,
+        "pe_25": 630.31,
+        "pe_50": 906.38,
+        "pe_75": 1373.87,
+        "pe_90": 2427.41
       },
       {
         "date": "2022-12-16",
         "price": 465.5,
         "pe": 19.81,
-        "pe_10": 469.1,
-        "pe_25": 588.22,
-        "pe_50": 832.78,
-        "pe_75": 1272.61,
-        "pe_90": 1600.35
+        "pe_10": 504.91,
+        "pe_25": 603.55,
+        "pe_50": 867.91,
+        "pe_75": 1315.55,
+        "pe_90": 2324.37
       },
       {
         "date": "2023-01-16",
         "price": 537.0,
-        "pe": 24.83,
-        "pe_10": 431.74,
-        "pe_25": 541.38,
-        "pe_50": 766.46,
-        "pe_75": 1171.27,
-        "pe_90": 1472.91
+        "pe": 24.35,
+        "pe_10": 473.86,
+        "pe_25": 566.44,
+        "pe_50": 814.54,
+        "pe_75": 1234.66,
+        "pe_90": 2181.45
       },
       {
         "date": "2023-02-14",
         "price": 589.0,
-        "pe": 29.83,
-        "pe_10": 394.17,
-        "pe_25": 494.27,
-        "pe_50": 699.77,
-        "pe_75": 1069.35,
-        "pe_90": 1344.75
+        "pe": 28.58,
+        "pe_10": 442.82,
+        "pe_25": 529.34,
+        "pe_50": 761.19,
+        "pe_75": 1153.78,
+        "pe_90": 2038.56
       },
       {
         "date": "2023-03-16",
         "price": 569.0,
-        "pe": 31.84,
-        "pe_10": 356.75,
-        "pe_25": 447.35,
-        "pe_50": 633.33,
-        "pe_75": 967.83,
-        "pe_90": 1217.08
+        "pe": 29.7,
+        "pe_10": 411.65,
+        "pe_25": 492.08,
+        "pe_50": 707.61,
+        "pe_75": 1072.57,
+        "pe_90": 1895.08
       },
       {
         "date": "2023-04-15",
         "price": 482.5,
-        "pe": 30.16,
-        "pe_10": 319.37,
-        "pe_25": 400.47,
-        "pe_50": 566.97,
-        "pe_75": 866.41,
-        "pe_90": 1089.54
+        "pe": 28.41,
+        "pe_10": 364.92,
+        "pe_25": 436.22,
+        "pe_50": 627.28,
+        "pe_75": 950.82,
+        "pe_90": 1679.95
       },
       {
         "date": "2023-05-16",
         "price": 498.0,
-        "pe": 35.27,
-        "pe_10": 281.87,
-        "pe_25": 353.45,
-        "pe_50": 500.4,
-        "pe_75": 764.68,
-        "pe_90": 961.62
+        "pe": 33.63,
+        "pe_10": 318.18,
+        "pe_25": 380.35,
+        "pe_50": 546.94,
+        "pe_75": 829.04,
+        "pe_90": 1464.78
       },
       {
         "date": "2023-06-15",
         "price": 586.0,
-        "pe": 47.86,
-        "pe_10": 244.43,
-        "pe_25": 306.5,
-        "pe_50": 433.93,
-        "pe_75": 663.11,
-        "pe_90": 833.88
+        "pe": 46.4,
+        "pe_10": 271.37,
+        "pe_25": 324.38,
+        "pe_50": 466.46,
+        "pe_75": 707.05,
+        "pe_90": 1249.25
       },
       {
         "date": "2023-07-16",
         "price": 515.0,
-        "pe": 49.67,
-        "pe_10": 206.99,
-        "pe_25": 259.55,
-        "pe_50": 367.46,
-        "pe_75": 561.53,
-        "pe_90": 706.14
+        "pe": 49.63,
+        "pe_10": 222.97,
+        "pe_25": 266.53,
+        "pe_50": 383.27,
+        "pe_75": 580.94,
+        "pe_90": 1026.44
       },
       {
         "date": "2023-08-16",
         "price": 512.0,
-        "pe": 60.28,
-        "pe_10": 169.56,
-        "pe_25": 212.62,
-        "pe_50": 301.02,
-        "pe_75": 460.0,
-        "pe_90": 578.46
+        "pe": 63.03,
+        "pe_10": 174.54,
+        "pe_25": 208.64,
+        "pe_50": 300.03,
+        "pe_75": 454.77,
+        "pe_90": 803.51
       },
       {
         "date": "2023-09-15",
         "price": 580.0,
-        "pe": 87.65,
-        "pe_10": 132.1,
-        "pe_25": 165.65,
-        "pe_50": 234.51,
-        "pe_75": 358.37,
-        "pe_90": 450.67
+        "pe": 98.81,
+        "pe_10": 126.13,
+        "pe_25": 150.77,
+        "pe_50": 216.8,
+        "pe_75": 328.62,
+        "pe_90": 580.63
       },
       {
         "date": "2023-10-16",
         "price": 496.0,
-        "pe": 104.6,
-        "pe_10": 94.66,
-        "pe_25": 118.7,
-        "pe_50": 168.05,
-        "pe_75": 256.81,
-        "pe_90": 322.95
+        "pe": 116.9,
+        "pe_10": 91.17,
+        "pe_25": 108.98,
+        "pe_50": 156.71,
+        "pe_75": 237.54,
+        "pe_90": 419.7
       },
       {
         "date": "2023-11-15",
         "price": 589.0,
-        "pe": 205.5,
-        "pe_10": 57.22,
-        "pe_25": 71.75,
-        "pe_50": 101.58,
-        "pe_75": 155.23,
-        "pe_90": 195.2
+        "pe": 225.1,
+        "pe_10": 56.22,
+        "pe_25": 67.21,
+        "pe_50": 96.64,
+        "pe_75": 146.49,
+        "pe_90": 258.83
       },
       {
         "date": "2023-12-16",
         "price": 564.0,
         "pe": 569.7,
-        "pe_10": 19.76,
-        "pe_25": 24.78,
-        "pe_50": 35.09,
-        "pe_75": 53.62,
-        "pe_90": 67.42
+        "pe_10": 21.27,
+        "pe_25": 25.43,
+        "pe_50": 36.57,
+        "pe_75": 55.42,
+        "pe_90": 97.93
       },
       {
         "date": "2024-01-16",
         "price": 529.0,
-        "pe": 240.1,
-        "pe_10": 43.98,
-        "pe_25": 55.15,
-        "pe_50": 78.08,
-        "pe_75": 119.32,
-        "pe_90": 150.05
+        "pe": 364.0,
+        "pe_10": 31.23,
+        "pe_25": 37.33,
+        "pe_50": 53.68,
+        "pe_75": 81.36,
+        "pe_90": 143.76
       },
       {
         "date": "2024-02-15",
         "price": 552.0,
-        "pe": 161.6,
-        "pe_10": 68.19,
-        "pe_25": 85.51,
-        "pe_50": 121.06,
-        "pe_75": 184.99,
-        "pe_90": 232.64
+        "pe": 288.0,
+        "pe_10": 41.18,
+        "pe_25": 49.23,
+        "pe_50": 70.79,
+        "pe_75": 107.3,
+        "pe_90": 189.59
       },
       {
         "date": "2024-03-16",
         "price": 519.0,
-        "pe": 112.1,
-        "pe_10": 92.42,
-        "pe_25": 115.9,
-        "pe_50": 164.08,
-        "pe_75": 250.74,
-        "pe_90": 315.31
+        "pe": 218.1,
+        "pe_10": 51.13,
+        "pe_25": 61.12,
+        "pe_50": 87.89,
+        "pe_75": 133.22,
+        "pe_90": 235.39
       },
       {
         "date": "2024-04-15",
         "price": 473.5,
-        "pe": 81.03,
-        "pe_10": 116.65,
-        "pe_25": 146.28,
-        "pe_50": 207.09,
-        "pe_75": 316.47,
-        "pe_90": 397.97
+        "pe": 175.4,
+        "pe_10": 58.01,
+        "pe_25": 69.34,
+        "pe_50": 99.71,
+        "pe_75": 151.13,
+        "pe_90": 267.03
       },
       {
         "date": "2024-05-16",
         "price": 469.0,
-        "pe": 66.46,
-        "pe_10": 140.88,
-        "pe_25": 176.65,
-        "pe_50": 250.1,
-        "pe_75": 382.18,
-        "pe_90": 480.61
+        "pe": 155.3,
+        "pe_10": 64.89,
+        "pe_25": 77.57,
+        "pe_50": 111.54,
+        "pe_75": 169.07,
+        "pe_90": 298.73
       },
       {
         "date": "2024-06-15",
         "price": 457.0,
-        "pe": 55.26,
-        "pe_10": 165.09,
-        "pe_25": 207.02,
-        "pe_50": 293.09,
-        "pe_75": 447.88,
-        "pe_90": 563.23
+        "pe": 136.8,
+        "pe_10": 71.78,
+        "pe_25": 85.8,
+        "pe_50": 123.39,
+        "pe_75": 187.03,
+        "pe_90": 330.45
       },
       {
         "date": "2024-07-16",
         "price": 430.5,
-        "pe": 45.4,
-        "pe_10": 189.3,
-        "pe_25": 237.37,
-        "pe_50": 336.06,
-        "pe_75": 513.54,
-        "pe_90": 645.8
+        "pe": 99.88,
+        "pe_10": 92.61,
+        "pe_25": 110.71,
+        "pe_50": 159.2,
+        "pe_75": 241.3,
+        "pe_90": 426.35
       },
       {
         "date": "2024-08-16",
         "price": 495.5,
-        "pe": 46.32,
-        "pe_10": 213.55,
-        "pe_25": 267.78,
-        "pe_50": 379.11,
-        "pe_75": 579.34,
-        "pe_90": 728.54
+        "pe": 93.84,
+        "pe_10": 113.46,
+        "pe_25": 135.62,
+        "pe_50": 195.03,
+        "pe_75": 295.62,
+        "pe_90": 522.31
       },
       {
         "date": "2024-09-15",
         "price": 523.0,
-        "pe": 43.91,
-        "pe_10": 237.77,
-        "pe_25": 298.16,
-        "pe_50": 422.12,
-        "pe_75": 645.06,
-        "pe_90": 811.18
+        "pe": 83.68,
+        "pe_10": 134.29,
+        "pe_25": 160.53,
+        "pe_50": 230.84,
+        "pe_75": 349.91,
+        "pe_90": 618.23
       },
       {
         "date": "2024-10-16",
         "price": 591.0,
-        "pe": 45.03,
-        "pe_10": 262.01,
-        "pe_25": 328.54,
-        "pe_50": 465.14,
-        "pe_75": 710.79,
-        "pe_90": 893.85
+        "pe": 63.21,
+        "pe_10": 200.9,
+        "pe_25": 240.15,
+        "pe_50": 345.33,
+        "pe_75": 523.45,
+        "pe_90": 924.85
       },
       {
         "date": "2024-11-15",
         "price": 730.0,
-        "pe": 50.92,
-        "pe_10": 286.19,
-        "pe_25": 358.87,
-        "pe_50": 508.08,
-        "pe_75": 776.41,
-        "pe_90": 976.37
+        "pe": 58.63,
+        "pe_10": 267.53,
+        "pe_25": 319.8,
+        "pe_50": 459.88,
+        "pe_75": 697.07,
+        "pe_90": 1231.61
       },
       {
         "date": "2024-12-16",
         "price": 882.0,
         "pe": 56.72,
-        "pe_10": 310.43,
-        "pe_25": 389.26,
-        "pe_50": 551.09,
-        "pe_75": 842.15,
-        "pe_90": 1059.04
+        "pe_10": 334.12,
+        "pe_25": 399.4,
+        "pe_50": 574.34,
+        "pe_75": 870.57,
+        "pe_90": 1538.17
       },
       {
         "date": "2025-01-16",
         "price": 808.0,
-        "pe": 48.13,
-        "pe_10": 335.14,
-        "pe_25": 420.24,
-        "pe_50": 594.96,
-        "pe_75": 909.19,
-        "pe_90": 1143.34
+        "pe": 45.75,
+        "pe_10": 379.49,
+        "pe_25": 453.63,
+        "pe_50": 652.32,
+        "pe_75": 988.76,
+        "pe_90": 1746.99
       },
       {
         "date": "2025-02-14",
         "price": 770.0,
-        "pe": 42.71,
-        "pe_10": 359.9,
-        "pe_25": 451.3,
-        "pe_50": 638.93,
-        "pe_75": 976.38,
-        "pe_90": 1227.84
+        "pe": 38.95,
+        "pe_10": 424.78,
+        "pe_25": 507.77,
+        "pe_50": 730.17,
+        "pe_75": 1106.76,
+        "pe_90": 1955.48
       },
       {
         "date": "2025-03-16",
         "price": 655.0,
-        "pe": 34.0,
-        "pe_10": 384.58,
-        "pe_25": 482.24,
-        "pe_50": 682.74,
-        "pe_75": 1043.33,
-        "pe_90": 1312.02
+        "pe": 29.94,
+        "pe_10": 470.07,
+        "pe_25": 561.91,
+        "pe_50": 808.03,
+        "pe_75": 1224.79,
+        "pe_90": 2164.02
       },
       {
         "date": "2025-04-15",
         "price": 728.0,
-        "pe": 35.51,
-        "pe_10": 409.27,
-        "pe_25": 513.2,
-        "pe_50": 726.56,
-        "pe_75": 1110.3,
-        "pe_90": 1396.24
+        "pe": 31.13,
+        "pe_10": 502.49,
+        "pe_25": 600.66,
+        "pe_50": 863.75,
+        "pe_75": 1309.25,
+        "pe_90": 2313.25
       },
       {
         "date": "2025-05-16",
         "price": 890.0,
-        "pe": 40.94,
-        "pe_10": 433.98,
-        "pe_25": 544.18,
-        "pe_50": 770.43,
-        "pe_75": 1177.34,
-        "pe_90": 1480.54
+        "pe": 35.76,
+        "pe_10": 534.77,
+        "pe_25": 639.25,
+        "pe_50": 919.24,
+        "pe_75": 1393.36,
+        "pe_90": 2461.86
       },
       {
         "date": "2025-06-15",
         "price": 837.0,
-        "pe": 36.42,
-        "pe_10": 458.79,
-        "pe_25": 575.29,
-        "pe_50": 814.48,
-        "pe_75": 1244.64,
-        "pe_90": 1565.18
+        "pe": 31.72,
+        "pe_10": 566.98,
+        "pe_25": 677.75,
+        "pe_50": 974.61,
+        "pe_75": 1477.28,
+        "pe_90": 2610.14
       },
       {
         "date": "2025-07-16",
         "price": 853.0,
-        "pe": 35.22,
-        "pe_10": 483.49,
-        "pe_25": 606.27,
-        "pe_50": 858.33,
-        "pe_75": 1311.65,
-        "pe_90": 1649.45
+        "pe": 30.35,
+        "pe_10": 603.9,
+        "pe_25": 721.89,
+        "pe_50": 1038.07,
+        "pe_75": 1573.48,
+        "pe_90": 2780.11
       },
       {
         "date": "2025-08-16",
         "price": 1245.0,
-        "pe": 48.91,
-        "pe_10": 508.16,
-        "pe_25": 637.2,
-        "pe_50": 902.12,
-        "pe_75": 1378.57,
-        "pe_90": 1733.61
+        "pe": 41.74,
+        "pe_10": 640.9,
+        "pe_25": 766.12,
+        "pe_50": 1101.68,
+        "pe_75": 1669.89,
+        "pe_90": 2950.45
       },
       {
         "date": "2025-09-15",
         "price": 1925.0,
-        "pe": 72.11,
-        "pe_10": 532.92,
-        "pe_25": 668.25,
-        "pe_50": 946.08,
-        "pe_75": 1445.75,
-        "pe_90": 1818.09
+        "pe": 61.01,
+        "pe_10": 677.96,
+        "pe_25": 810.42,
+        "pe_50": 1165.38,
+        "pe_75": 1766.45,
+        "pe_90": 3121.05
       },
       {
         "date": "2025-10-16",
         "price": 1610.0,
-        "pe": 57.64,
-        "pe_10": 557.61,
-        "pe_25": 699.21,
-        "pe_50": 989.91,
-        "pe_75": 1512.73,
-        "pe_90": 1902.31
+        "pe": 51.65,
+        "pe_10": 669.78,
+        "pe_25": 800.64,
+        "pe_50": 1151.31,
+        "pe_75": 1745.13,
+        "pe_90": 3083.38
       },
       {
         "date": "2025-11-15",
         "price": 1920.0,
-        "pe": 65.82,
-        "pe_10": 582.33,
-        "pe_25": 730.21,
-        "pe_50": 1033.8,
-        "pe_75": 1579.8,
-        "pe_90": 1986.65
+        "pe": 62.36,
+        "pe_10": 661.56,
+        "pe_25": 790.81,
+        "pe_50": 1137.19,
+        "pe_75": 1723.72,
+        "pe_90": 3045.55
       },
       {
         "date": "2025-12-16",
         "price": 2285.0,
         "pe": 75.14,
-        "pe_10": 607.07,
-        "pe_25": 761.24,
-        "pe_50": 1077.73,
-        "pe_75": 1646.92,
-        "pe_90": 2071.07
+        "pe_10": 653.42,
+        "pe_25": 781.08,
+        "pe_50": 1123.19,
+        "pe_75": 1702.5,
+        "pe_90": 3008.06
       },
       {
         "date": "2026-01-16",
         "price": 3305.0,
         "pe": 108.7,
-        "pe_10": 606.97,
-        "pe_25": 761.11,
-        "pe_50": 1077.55,
-        "pe_75": 1646.65,
-        "pe_90": 2070.72
+        "pe_10": 653.31,
+        "pe_25": 780.95,
+        "pe_50": 1123.0,
+        "pe_75": 1702.21,
+        "pe_90": 3007.55
       },
       {
         "date": "2026-02-14",
         "price": 3750.0,
         "pe": 123.3,
-        "pe_10": 607.15,
-        "pe_25": 761.33,
-        "pe_50": 1077.86,
-        "pe_75": 1647.13,
-        "pe_90": 2071.32
+        "pe_10": 653.5,
+        "pe_25": 781.17,
+        "pe_50": 1123.33,
+        "pe_75": 1702.71,
+        "pe_90": 3008.42
       }
     ]
   },
@@ -8045,19 +8045,19 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (20.0倍)",
+            "title": "PE 10% (21.5倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (35.4倍)",
+            "title": "PE 50% (36.9倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (68.1倍)",
+            "title": "PE 90% (98.9倍)",
             "format": ".1f"
           }
         ]
@@ -8756,15 +8756,15 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 48.0 | +132.3% | 0.007 | 2025-06 (+2673.2%) | 2018-07 (-91.7%) |
-| 6個月 | 47.6 | +56.5% | 0.012 | 2025-07 (+1371.1%) | 2018-07 (-70.0%) |
-| 1年 | 48.2 | +23.0% | 0.001 | 2025-02 (+388.6%) | 2018-01 (-63.5%) |
-| 2年 | 45.8 | +2.8% | 0.208 | 2024-01 (+150.1%) | 2017-05 (-45.4%) |
-| 3年 | 34.3 | +1.7% | 0.307 | 2023-02 (+85.6%) | 2019-10 (-24.8%) |
-| 4年 | 36.7 | -0.6% | 0.366 | 2022-02 (+56.7%) | 2017-08 (-18.6%) |
-| 5年 | 39.0 | -1.0% | 0.540 | 2021-02 (+33.4%) | 2017-06 (-18.8%) |
-| 6年 | 41.4 | -1.4% | 0.438 | 2020-01 (+25.0%) | 2016-09 (-14.8%) |
-| 8年 | 51.8 | -0.7% | 0.064 | 2018-02 (+17.4%) | 2016-09 (-8.1%) |
+| 3個月 | 54.9 | +132.3% | 0.008 | 2025-06 (+2673.2%) | 2018-07 (-91.7%) |
+| 6個月 | 55.0 | +56.5% | 0.007 | 2025-07 (+1371.1%) | 2018-07 (-70.0%) |
+| 1年 | 56.0 | +23.0% | 0.010 | 2025-02 (+388.6%) | 2018-01 (-63.5%) |
+| 2年 | 47.8 | +2.8% | 0.281 | 2024-01 (+150.1%) | 2017-05 (-45.4%) |
+| 3年 | 34.7 | +1.7% | 0.346 | 2023-02 (+85.6%) | 2019-10 (-24.8%) |
+| 4年 | 37.2 | -0.6% | 0.359 | 2022-02 (+56.7%) | 2017-08 (-18.6%) |
+| 5年 | 39.5 | -1.0% | 0.536 | 2021-02 (+33.4%) | 2017-06 (-18.8%) |
+| 6年 | 42.1 | -1.4% | 0.440 | 2020-01 (+25.0%) | 2016-09 (-14.8%) |
+| 8年 | 51.8 | -0.7% | 0.121 | 2018-02 (+17.4%) | 2016-09 (-8.1%) |
 
 
 ## 🎯 使用說明
@@ -8783,4 +8783,4 @@ description: "6510 精測 (半導體業) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:36:07 CST*
+*數據更新時間: 2026-03-21 12:43:04 CST*

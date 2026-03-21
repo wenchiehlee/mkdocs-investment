@@ -2,7 +2,7 @@
 title: "6751 智聯服務 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
     - **產業別**: 資訊服務業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年
-    - **報告生成時間**: 2026-03-07 12:36:21 CST
+    - **報告生成時間**: 2026-03-21 12:43:19 CST
 
 ## 📈 互動式圖表
 
@@ -48,7 +48,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 28.72,
         "forward_return": -36.33,
         "start_price": 74.0,
         "start_year": 2021
@@ -57,7 +57,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.08,
+        "pe_ratio": 32.88,
         "forward_return": -57.34,
         "start_price": 78.7,
         "start_year": 2021
@@ -66,7 +66,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.99,
+        "pe_ratio": 35.16,
         "forward_return": -37.53,
         "start_price": 77.7,
         "start_year": 2021
@@ -75,7 +75,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.34,
+        "pe_ratio": 33.67,
         "forward_return": -39.32,
         "start_price": 75.2,
         "start_year": 2021
@@ -84,7 +84,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 28.27,
         "forward_return": -15.77,
         "start_price": 63.8,
         "start_year": 2021
@@ -93,7 +93,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.23,
+        "pe_ratio": 27.63,
         "forward_return": -23.45,
         "start_price": 63.0,
         "start_year": 2021
@@ -102,7 +102,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.99,
+        "pe_ratio": 28.75,
         "forward_return": -34.95,
         "start_price": 64.3,
         "start_year": 2021
@@ -111,7 +111,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 26.9,
         "forward_return": -40.16,
         "start_price": 59.0,
         "start_year": 2021
@@ -120,7 +120,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 22.54,
+        "pe_ratio": 26.42,
         "forward_return": -41.49,
         "start_price": 56.8,
         "start_year": 2021
@@ -129,7 +129,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 23.14,
+        "pe_ratio": 25.68,
         "forward_return": -47.31,
         "start_price": 57.7,
         "start_year": 2021
@@ -138,7 +138,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 20.35,
+        "pe_ratio": 21.42,
         "forward_return": -30.95,
         "start_price": 50.2,
         "start_year": 2021
@@ -156,7 +156,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 19.07,
+        "pe_ratio": 20.57,
         "forward_return": -39.84,
         "start_price": 49.1,
         "start_year": 2022
@@ -165,7 +165,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 17.46,
+        "pe_ratio": 20.27,
         "forward_return": -40.9,
         "start_price": 47.3,
         "start_year": 2022
@@ -174,7 +174,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 19.5,
         "forward_return": -20.33,
         "start_price": 44.45,
         "start_year": 2022
@@ -183,7 +183,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 18.61,
         "forward_return": -7.43,
         "start_price": 42.0,
         "start_year": 2022
@@ -192,7 +192,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.36,
+        "pe_ratio": 18.6,
         "forward_return": 84.79,
         "start_price": 41.55,
         "start_year": 2022
@@ -201,7 +201,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 18.33,
         "forward_return": 5.5,
         "start_price": 40.5,
         "start_year": 2022
@@ -210,7 +210,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 11.57,
+        "pe_ratio": 15.66,
         "forward_return": -2.51,
         "start_price": 39.1,
         "start_year": 2022
@@ -219,7 +219,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 13.21,
+        "pe_ratio": 16.67,
         "forward_return": -20.93,
         "start_price": 46.4,
         "start_year": 2022
@@ -228,7 +228,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 10.68,
+        "pe_ratio": 12.69,
         "forward_return": 47.36,
         "start_price": 38.95,
         "start_year": 2022
@@ -237,7 +237,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.44,
         "forward_return": 104.13,
         "start_price": 38.85,
         "start_year": 2022
@@ -246,7 +246,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 11.21,
+        "pe_ratio": 11.79,
         "forward_return": 948.2,
         "start_price": 43.9,
         "start_year": 2022
@@ -264,7 +264,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.72,
+        "pe_ratio": 11.07,
         "forward_return": 1332.46,
         "start_price": 46.5,
         "start_year": 2023
@@ -273,7 +273,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 15.59,
+        "pe_ratio": 13.93,
         "forward_return": 1087.56,
         "start_price": 60.6,
         "start_year": 2023
@@ -282,7 +282,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 24.97,
+        "pe_ratio": 21.11,
         "forward_return": 27.39,
         "start_price": 95.0,
         "start_year": 2023
@@ -291,7 +291,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 37.33,
+        "pe_ratio": 30.68,
         "forward_return": -69.97,
         "start_price": 139.0,
         "start_year": 2023
@@ -300,7 +300,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 30.62,
+        "pe_ratio": 24.45,
         "forward_return": -62.83,
         "start_price": 111.5,
         "start_year": 2023
@@ -309,7 +309,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 28.65,
+        "pe_ratio": 22.22,
         "forward_return": -37.81,
         "start_price": 102.0,
         "start_year": 2023
@@ -318,7 +318,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 28.75,
+        "pe_ratio": 22.68,
         "forward_return": -52.28,
         "start_price": 100.0,
         "start_year": 2023
@@ -327,7 +327,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.7,
+        "pe_ratio": 19.83,
         "forward_return": -3.87,
         "start_price": 83.9,
         "start_year": 2023
@@ -336,7 +336,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 26.4,
+        "pe_ratio": 21.6,
         "forward_return": -19.88,
         "start_price": 87.5,
         "start_year": 2023
@@ -345,7 +345,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 25.67,
+        "pe_ratio": 22.29,
         "forward_return": -15.3,
         "start_price": 83.0,
         "start_year": 2023
@@ -354,7 +354,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 26.14,
+        "pe_ratio": 24.26,
         "forward_return": -35.66,
         "start_price": 82.4,
         "start_year": 2023
@@ -372,7 +372,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 27.61,
+        "pe_ratio": 29.92,
         "forward_return": -48.72,
         "start_price": 79.6,
         "start_year": 2024
@@ -381,7 +381,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 29.67,
+        "pe_ratio": 35.56,
         "forward_return": -59.68,
         "start_price": 80.0,
         "start_year": 2024
@@ -390,7 +390,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 28.37,
+        "pe_ratio": 38.7,
         "forward_return": -8.97,
         "start_price": 71.2,
         "start_year": 2024
@@ -399,7 +399,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 27.76,
+        "pe_ratio": 34.49,
         "forward_return": 31.09,
         "start_price": 64.5,
         "start_year": 2024
@@ -408,7 +408,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 29.86,
+        "pe_ratio": 33.58,
         "forward_return": -42.5,
         "start_price": 63.8,
         "start_year": 2024
@@ -417,7 +417,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 35.9,
+        "pe_ratio": 36.27,
         "forward_return": -62.16,
         "start_price": 70.0,
         "start_year": 2024
@@ -426,7 +426,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 38.0,
+        "pe_ratio": 41.88,
         "forward_return": -41.64,
         "start_price": 67.0,
         "start_year": 2024
@@ -435,7 +435,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 42.13,
         "forward_return": 16.5,
         "start_price": 53.5,
         "start_year": 2024
@@ -444,7 +444,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 37.99,
+        "pe_ratio": 56.17,
         "forward_return": 29.38,
         "start_price": 52.8,
         "start_year": 2024
@@ -453,7 +453,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 48.61,
+        "pe_ratio": 64.76,
         "forward_return": -28.29,
         "start_price": 58.5,
         "start_year": 2024
@@ -462,7 +462,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 54.69,
+        "pe_ratio": 64.15,
         "forward_return": -17.47,
         "start_price": 55.6,
         "start_year": 2024
@@ -480,7 +480,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 43.74,
+        "pe_ratio": 58.69,
         "forward_return": -31.99,
         "start_price": 53.8,
         "start_year": 2025
@@ -489,7 +489,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 34.48,
+        "pe_ratio": 56.01,
         "forward_return": -49.9,
         "start_price": 56.2,
         "start_year": 2025
@@ -498,7 +498,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 25.71,
+        "pe_ratio": 47.89,
         "forward_return": -35.88,
         "start_price": 52.2,
         "start_year": 2025
@@ -507,7 +507,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 49.76,
         "forward_return": -29.53,
         "start_price": 49.1,
         "start_year": 2025
@@ -516,7 +516,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 16.75,
+        "pe_ratio": 53.66,
         "forward_return": 9.54,
         "start_price": 47.4,
         "start_year": 2025
@@ -525,7 +525,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 13.62,
+        "pe_ratio": 56.41,
         "forward_return": 17.25,
         "start_price": 44.0,
         "start_year": 2025
@@ -534,7 +534,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 18.36,
         "forward_return": -1.79,
         "start_price": 44.0,
         "start_year": 2025
@@ -543,7 +543,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 11.79,
+        "pe_ratio": 11.84,
         "forward_return": 55.1,
         "start_price": 47.5,
         "start_year": 2025
@@ -552,7 +552,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 10.11,
+        "pe_ratio": 7.96,
         "forward_return": 127.8,
         "start_price": 44.8,
         "start_year": 2025
@@ -561,7 +561,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 7.98,
         "forward_return": 350.71,
         "start_price": 43.8,
         "start_year": 2025
@@ -579,7 +579,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 28.72,
         "forward_return": -19.64,
         "start_price": 74.0,
         "start_year": 2021
@@ -588,7 +588,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.08,
+        "pe_ratio": 32.88,
         "forward_return": -39.83,
         "start_price": 78.7,
         "start_year": 2021
@@ -597,7 +597,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.99,
+        "pe_ratio": 35.16,
         "forward_return": -36.04,
         "start_price": 77.7,
         "start_year": 2021
@@ -606,7 +606,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.34,
+        "pe_ratio": 33.67,
         "forward_return": -36.7,
         "start_price": 75.2,
         "start_year": 2021
@@ -615,7 +615,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 28.27,
         "forward_return": -29.93,
         "start_price": 63.8,
         "start_year": 2021
@@ -624,7 +624,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.23,
+        "pe_ratio": 27.63,
         "forward_return": -32.34,
         "start_price": 63.0,
         "start_year": 2021
@@ -633,7 +633,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.99,
+        "pe_ratio": 28.75,
         "forward_return": -41.45,
         "start_price": 64.3,
         "start_year": 2021
@@ -642,7 +642,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 26.9,
         "forward_return": -38.61,
         "start_price": 59.0,
         "start_year": 2021
@@ -651,7 +651,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 22.54,
+        "pe_ratio": 26.42,
         "forward_return": -39.03,
         "start_price": 56.8,
         "start_year": 2021
@@ -660,7 +660,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 23.14,
+        "pe_ratio": 25.68,
         "forward_return": -43.21,
         "start_price": 57.7,
         "start_year": 2021
@@ -669,7 +669,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 20.35,
+        "pe_ratio": 21.42,
         "forward_return": -31.73,
         "start_price": 50.2,
         "start_year": 2021
@@ -687,7 +687,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 19.07,
+        "pe_ratio": 20.57,
         "forward_return": -29.81,
         "start_price": 49.1,
         "start_year": 2022
@@ -696,7 +696,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 17.46,
+        "pe_ratio": 20.27,
         "forward_return": 5.16,
         "start_price": 47.3,
         "start_year": 2022
@@ -705,7 +705,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 19.5,
         "forward_return": -13.06,
         "start_price": 44.45,
         "start_year": 2022
@@ -714,7 +714,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 18.61,
         "forward_return": -4.93,
         "start_price": 42.0,
         "start_year": 2022
@@ -723,7 +723,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.36,
+        "pe_ratio": 18.6,
         "forward_return": 14.58,
         "start_price": 41.55,
         "start_year": 2022
@@ -732,7 +732,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 18.33,
         "forward_return": 23.4,
         "start_price": 40.5,
         "start_year": 2022
@@ -741,7 +741,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 11.57,
+        "pe_ratio": 15.66,
         "forward_return": 41.07,
         "start_price": 39.1,
         "start_year": 2022
@@ -750,7 +750,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 13.21,
+        "pe_ratio": 16.67,
         "forward_return": 243.69,
         "start_price": 46.4,
         "start_year": 2022
@@ -759,7 +759,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 10.68,
+        "pe_ratio": 12.69,
         "forward_return": 504.48,
         "start_price": 38.95,
         "start_year": 2022
@@ -768,7 +768,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.44,
         "forward_return": 515.0,
         "start_price": 38.85,
         "start_year": 2022
@@ -777,7 +777,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 11.21,
+        "pe_ratio": 11.79,
         "forward_return": 555.98,
         "start_price": 43.9,
         "start_year": 2022
@@ -795,7 +795,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.72,
+        "pe_ratio": 11.07,
         "forward_return": 397.7,
         "start_price": 46.5,
         "start_year": 2023
@@ -804,7 +804,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 15.59,
+        "pe_ratio": 13.93,
         "forward_return": 106.14,
         "start_price": 60.6,
         "start_year": 2023
@@ -813,7 +813,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 24.97,
+        "pe_ratio": 21.11,
         "forward_return": -15.62,
         "start_price": 95.0,
         "start_year": 2023
@@ -822,7 +822,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 37.33,
+        "pe_ratio": 30.68,
         "forward_return": -61.65,
         "start_price": 139.0,
         "start_year": 2023
@@ -831,7 +831,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 30.62,
+        "pe_ratio": 24.45,
         "forward_return": -36.06,
         "start_price": 111.5,
         "start_year": 2023
@@ -840,7 +840,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 28.65,
+        "pe_ratio": 22.22,
         "forward_return": -29.19,
         "start_price": 102.0,
         "start_year": 2023
@@ -849,7 +849,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 28.75,
+        "pe_ratio": 22.68,
         "forward_return": -36.42,
         "start_price": 100.0,
         "start_year": 2023
@@ -858,7 +858,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.7,
+        "pe_ratio": 19.83,
         "forward_return": -24.53,
         "start_price": 83.9,
         "start_year": 2023
@@ -867,7 +867,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 26.4,
+        "pe_ratio": 21.6,
         "forward_return": -33.88,
         "start_price": 87.5,
         "start_year": 2023
@@ -876,7 +876,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 25.67,
+        "pe_ratio": 22.29,
         "forward_return": -36.31,
         "start_price": 83.0,
         "start_year": 2023
@@ -885,7 +885,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 26.14,
+        "pe_ratio": 24.26,
         "forward_return": -40.16,
         "start_price": 82.4,
         "start_year": 2023
@@ -903,7 +903,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 27.61,
+        "pe_ratio": 29.92,
         "forward_return": -24.93,
         "start_price": 79.6,
         "start_year": 2024
@@ -912,7 +912,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 29.67,
+        "pe_ratio": 35.56,
         "forward_return": -51.8,
         "start_price": 80.0,
         "start_year": 2024
@@ -921,7 +921,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 28.37,
+        "pe_ratio": 38.7,
         "forward_return": -24.27,
         "start_price": 71.2,
         "start_year": 2024
@@ -930,7 +930,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 27.76,
+        "pe_ratio": 34.49,
         "forward_return": -12.0,
         "start_price": 64.5,
         "start_year": 2024
@@ -939,7 +939,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 29.86,
+        "pe_ratio": 33.58,
         "forward_return": -14.26,
         "start_price": 63.8,
         "start_year": 2024
@@ -948,7 +948,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 35.9,
+        "pe_ratio": 36.27,
         "forward_return": -30.58,
         "start_price": 70.0,
         "start_year": 2024
@@ -957,7 +957,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 38.0,
+        "pe_ratio": 41.88,
         "forward_return": -35.31,
         "start_price": 67.0,
         "start_year": 2024
@@ -966,7 +966,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 42.13,
         "forward_return": -4.15,
         "start_price": 53.5,
         "start_year": 2024
@@ -975,7 +975,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 37.99,
+        "pe_ratio": 56.17,
         "forward_return": -2.28,
         "start_price": 52.8,
         "start_year": 2024
@@ -984,7 +984,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 48.61,
+        "pe_ratio": 64.76,
         "forward_return": -30.41,
         "start_price": 58.5,
         "start_year": 2024
@@ -993,7 +993,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 54.69,
+        "pe_ratio": 64.15,
         "forward_return": -27.53,
         "start_price": 55.6,
         "start_year": 2024
@@ -1011,7 +1011,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 43.74,
+        "pe_ratio": 58.69,
         "forward_return": -30.26,
         "start_price": 53.8,
         "start_year": 2025
@@ -1020,7 +1020,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 34.48,
+        "pe_ratio": 56.01,
         "forward_return": -25.6,
         "start_price": 56.2,
         "start_year": 2025
@@ -1029,7 +1029,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 25.71,
+        "pe_ratio": 47.89,
         "forward_return": -22.97,
         "start_price": 52.2,
         "start_year": 2025
@@ -1038,7 +1038,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 49.76,
         "forward_return": -16.72,
         "start_price": 49.1,
         "start_year": 2025
@@ -1047,7 +1047,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 16.75,
+        "pe_ratio": 53.66,
         "forward_return": 32.92,
         "start_price": 47.4,
         "start_year": 2025
@@ -1056,7 +1056,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 13.62,
+        "pe_ratio": 56.41,
         "forward_return": 61.82,
         "start_price": 44.0,
         "start_year": 2025
@@ -1065,7 +1065,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 18.36,
         "forward_return": 110.39,
         "start_price": 44.0,
         "start_year": 2025
@@ -1083,7 +1083,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 28.72,
         "forward_return": -30.83,
         "start_price": 74.0,
         "start_year": 2021
@@ -1092,7 +1092,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.08,
+        "pe_ratio": 32.88,
         "forward_return": -37.25,
         "start_price": 78.7,
         "start_year": 2021
@@ -1101,7 +1101,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.99,
+        "pe_ratio": 35.16,
         "forward_return": -40.11,
         "start_price": 77.7,
         "start_year": 2021
@@ -1110,7 +1110,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.34,
+        "pe_ratio": 33.67,
         "forward_return": -41.38,
         "start_price": 75.2,
         "start_year": 2021
@@ -1119,7 +1119,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 28.27,
         "forward_return": -31.6,
         "start_price": 63.8,
         "start_year": 2021
@@ -1128,7 +1128,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.23,
+        "pe_ratio": 27.63,
         "forward_return": -32.4,
         "start_price": 63.0,
         "start_year": 2021
@@ -1137,7 +1137,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.99,
+        "pe_ratio": 28.75,
         "forward_return": -35.94,
         "start_price": 64.3,
         "start_year": 2021
@@ -1146,7 +1146,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 26.9,
         "forward_return": -17.81,
         "start_price": 59.0,
         "start_year": 2021
@@ -1155,7 +1155,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 22.54,
+        "pe_ratio": 26.42,
         "forward_return": -27.74,
         "start_price": 56.8,
         "start_year": 2021
@@ -1164,7 +1164,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 23.14,
+        "pe_ratio": 25.68,
         "forward_return": -29.05,
         "start_price": 57.7,
         "start_year": 2021
@@ -1173,7 +1173,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 20.35,
+        "pe_ratio": 21.42,
         "forward_return": -8.37,
         "start_price": 50.2,
         "start_year": 2021
@@ -1191,7 +1191,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 19.07,
+        "pe_ratio": 20.57,
         "forward_return": -1.02,
         "start_price": 49.1,
         "start_year": 2022
@@ -1200,7 +1200,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 17.46,
+        "pe_ratio": 20.27,
         "forward_return": 32.58,
         "start_price": 47.3,
         "start_year": 2022
@@ -1209,7 +1209,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 19.5,
         "forward_return": 118.56,
         "start_price": 44.45,
         "start_year": 2022
@@ -1218,7 +1218,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 18.61,
         "forward_return": 236.23,
         "start_price": 42.0,
         "start_year": 2022
@@ -1227,7 +1227,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.36,
+        "pe_ratio": 18.6,
         "forward_return": 173.59,
         "start_price": 41.55,
         "start_year": 2022
@@ -1236,7 +1236,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 18.33,
         "forward_return": 157.2,
         "start_price": 40.5,
         "start_year": 2022
@@ -1245,7 +1245,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 11.57,
+        "pe_ratio": 15.66,
         "forward_return": 163.6,
         "start_price": 39.1,
         "start_year": 2022
@@ -1254,7 +1254,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 13.21,
+        "pe_ratio": 16.67,
         "forward_return": 87.36,
         "start_price": 46.4,
         "start_year": 2022
@@ -1263,7 +1263,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 10.68,
+        "pe_ratio": 12.69,
         "forward_return": 132.48,
         "start_price": 38.95,
         "start_year": 2022
@@ -1272,7 +1272,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.44,
         "forward_return": 121.48,
         "start_price": 38.85,
         "start_year": 2022
@@ -1281,7 +1281,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 11.21,
+        "pe_ratio": 11.79,
         "forward_return": 94.62,
         "start_price": 43.9,
         "start_year": 2022
@@ -1299,7 +1299,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.72,
+        "pe_ratio": 11.07,
         "forward_return": 77.7,
         "start_price": 46.5,
         "start_year": 2023
@@ -1308,7 +1308,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 15.59,
+        "pe_ratio": 13.93,
         "forward_return": 36.99,
         "start_price": 60.6,
         "start_year": 2023
@@ -1317,7 +1317,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 24.97,
+        "pe_ratio": 21.11,
         "forward_return": -21.86,
         "start_price": 95.0,
         "start_year": 2023
@@ -1326,7 +1326,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 37.33,
+        "pe_ratio": 30.68,
         "forward_return": -51.37,
         "start_price": 139.0,
         "start_year": 2023
@@ -1335,7 +1335,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 30.62,
+        "pe_ratio": 24.45,
         "forward_return": -40.03,
         "start_price": 111.5,
         "start_year": 2023
@@ -1344,7 +1344,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 28.65,
+        "pe_ratio": 22.22,
         "forward_return": -28.38,
         "start_price": 102.0,
         "start_year": 2023
@@ -1353,7 +1353,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 28.75,
+        "pe_ratio": 22.68,
         "forward_return": -30.95,
         "start_price": 100.0,
         "start_year": 2023
@@ -1362,7 +1362,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.7,
+        "pe_ratio": 19.83,
         "forward_return": -33.79,
         "start_price": 83.9,
         "start_year": 2023
@@ -1371,7 +1371,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 26.4,
+        "pe_ratio": 21.6,
         "forward_return": -37.31,
         "start_price": 87.5,
         "start_year": 2023
@@ -1380,7 +1380,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 25.67,
+        "pe_ratio": 22.29,
         "forward_return": -27.06,
         "start_price": 83.0,
         "start_year": 2023
@@ -1389,7 +1389,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 26.14,
+        "pe_ratio": 24.26,
         "forward_return": -30.05,
         "start_price": 82.4,
         "start_year": 2023
@@ -1407,7 +1407,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 27.61,
+        "pe_ratio": 29.92,
         "forward_return": -29.85,
         "start_price": 79.6,
         "start_year": 2024
@@ -1416,7 +1416,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 29.67,
+        "pe_ratio": 35.56,
         "forward_return": -30.23,
         "start_price": 80.0,
         "start_year": 2024
@@ -1425,7 +1425,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 28.37,
+        "pe_ratio": 38.7,
         "forward_return": -23.89,
         "start_price": 71.2,
         "start_year": 2024
@@ -1434,7 +1434,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 27.76,
+        "pe_ratio": 34.49,
         "forward_return": -20.79,
         "start_price": 64.5,
         "start_year": 2024
@@ -1443,7 +1443,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 29.86,
+        "pe_ratio": 33.58,
         "forward_return": -22.58,
         "start_price": 63.8,
         "start_year": 2024
@@ -1452,7 +1452,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 35.9,
+        "pe_ratio": 36.27,
         "forward_return": -34.3,
         "start_price": 70.0,
         "start_year": 2024
@@ -1461,7 +1461,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 38.0,
+        "pe_ratio": 41.88,
         "forward_return": -32.85,
         "start_price": 67.0,
         "start_year": 2024
@@ -1470,7 +1470,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 42.13,
         "forward_return": -9.35,
         "start_price": 53.5,
         "start_year": 2024
@@ -1479,7 +1479,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 37.99,
+        "pe_ratio": 56.17,
         "forward_return": -13.27,
         "start_price": 52.8,
         "start_year": 2024
@@ -1488,7 +1488,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 48.61,
+        "pe_ratio": 64.76,
         "forward_return": -23.43,
         "start_price": 58.5,
         "start_year": 2024
@@ -1497,7 +1497,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 54.69,
+        "pe_ratio": 64.15,
         "forward_return": 2.88,
         "start_price": 55.6,
         "start_year": 2024
@@ -1515,7 +1515,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 43.74,
+        "pe_ratio": 58.69,
         "forward_return": 20.83,
         "start_price": 53.8,
         "start_year": 2025
@@ -1524,7 +1524,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 34.48,
+        "pe_ratio": 56.01,
         "forward_return": 3.56,
         "start_price": 56.2,
         "start_year": 2025
@@ -1542,7 +1542,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 28.72,
         "forward_return": -17.24,
         "start_price": 74.0,
         "start_year": 2021
@@ -1551,7 +1551,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.08,
+        "pe_ratio": 32.88,
         "forward_return": -9.27,
         "start_price": 78.7,
         "start_year": 2021
@@ -1560,7 +1560,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.99,
+        "pe_ratio": 35.16,
         "forward_return": 13.0,
         "start_price": 77.7,
         "start_year": 2021
@@ -1569,7 +1569,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.34,
+        "pe_ratio": 33.67,
         "forward_return": 38.03,
         "start_price": 75.2,
         "start_year": 2021
@@ -1578,7 +1578,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 28.27,
         "forward_return": 34.69,
         "start_price": 63.8,
         "start_year": 2021
@@ -1587,7 +1587,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.23,
+        "pe_ratio": 27.63,
         "forward_return": 29.86,
         "start_price": 63.0,
         "start_year": 2021
@@ -1596,7 +1596,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.99,
+        "pe_ratio": 28.75,
         "forward_return": 27.87,
         "start_price": 64.3,
         "start_year": 2021
@@ -1605,7 +1605,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 26.9,
         "forward_return": 22.84,
         "start_price": 59.0,
         "start_year": 2021
@@ -1614,7 +1614,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 22.54,
+        "pe_ratio": 26.42,
         "forward_return": 27.7,
         "start_price": 56.8,
         "start_year": 2021
@@ -1623,7 +1623,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 23.14,
+        "pe_ratio": 25.68,
         "forward_return": 23.58,
         "start_price": 57.7,
         "start_year": 2021
@@ -1632,7 +1632,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 20.35,
+        "pe_ratio": 21.42,
         "forward_return": 32.05,
         "start_price": 50.2,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 19.07,
+        "pe_ratio": 20.57,
         "forward_return": 31.37,
         "start_price": 49.1,
         "start_year": 2022
@@ -1659,7 +1659,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 17.46,
+        "pe_ratio": 20.27,
         "forward_return": 34.16,
         "start_price": 47.3,
         "start_year": 2022
@@ -1668,7 +1668,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 19.5,
         "forward_return": 30.99,
         "start_price": 44.45,
         "start_year": 2022
@@ -1677,7 +1677,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 18.61,
         "forward_return": 28.71,
         "start_price": 42.0,
         "start_year": 2022
@@ -1686,7 +1686,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.36,
+        "pe_ratio": 18.6,
         "forward_return": 28.75,
         "start_price": 41.55,
         "start_year": 2022
@@ -1695,7 +1695,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 18.33,
         "forward_return": 36.14,
         "start_price": 40.5,
         "start_year": 2022
@@ -1704,7 +1704,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 11.57,
+        "pe_ratio": 15.66,
         "forward_return": 35.67,
         "start_price": 39.1,
         "start_year": 2022
@@ -1713,7 +1713,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 13.21,
+        "pe_ratio": 16.67,
         "forward_return": 12.28,
         "start_price": 46.4,
         "start_year": 2022
@@ -1722,7 +1722,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 10.68,
+        "pe_ratio": 12.69,
         "forward_return": 21.8,
         "start_price": 38.95,
         "start_year": 2022
@@ -1731,7 +1731,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.44,
         "forward_return": 27.83,
         "start_price": 38.85,
         "start_year": 2022
@@ -1740,7 +1740,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 11.21,
+        "pe_ratio": 11.79,
         "forward_return": 17.48,
         "start_price": 43.9,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.72,
+        "pe_ratio": 11.07,
         "forward_return": 12.44,
         "start_price": 46.5,
         "start_year": 2023
@@ -1767,7 +1767,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 15.59,
+        "pe_ratio": 13.93,
         "forward_return": 0.49,
         "start_price": 60.6,
         "start_year": 2023
@@ -1776,7 +1776,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 24.97,
+        "pe_ratio": 21.11,
         "forward_return": -22.39,
         "start_price": 95.0,
         "start_year": 2023
@@ -1785,7 +1785,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 37.33,
+        "pe_ratio": 30.68,
         "forward_return": -37.59,
         "start_price": 139.0,
         "start_year": 2023
@@ -1794,7 +1794,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 30.62,
+        "pe_ratio": 24.45,
         "forward_return": -31.43,
         "start_price": 111.5,
         "start_year": 2023
@@ -1803,7 +1803,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 28.65,
+        "pe_ratio": 22.22,
         "forward_return": -30.67,
         "start_price": 102.0,
         "start_year": 2023
@@ -1812,7 +1812,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 28.75,
+        "pe_ratio": 22.68,
         "forward_return": -31.43,
         "start_price": 100.0,
         "start_year": 2023
@@ -1821,7 +1821,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.7,
+        "pe_ratio": 19.83,
         "forward_return": -22.4,
         "start_price": 83.9,
         "start_year": 2023
@@ -1830,7 +1830,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 26.4,
+        "pe_ratio": 21.6,
         "forward_return": -26.07,
         "start_price": 87.5,
         "start_year": 2023
@@ -1839,7 +1839,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 25.67,
+        "pe_ratio": 22.29,
         "forward_return": -24.89,
         "start_price": 83.0,
         "start_year": 2023
@@ -1848,7 +1848,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 26.14,
+        "pe_ratio": 24.26,
         "forward_return": -15.23,
         "start_price": 82.4,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 27.61,
+        "pe_ratio": 29.92,
         "forward_return": -8.25,
         "start_price": 79.6,
         "start_year": 2024
@@ -1884,7 +1884,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 28.72,
         "forward_return": 5.47,
         "start_price": 74.0,
         "start_year": 2021
@@ -1893,7 +1893,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.08,
+        "pe_ratio": 32.88,
         "forward_return": 3.48,
         "start_price": 78.7,
         "start_year": 2021
@@ -1902,7 +1902,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.99,
+        "pe_ratio": 35.16,
         "forward_return": 0.3,
         "start_price": 77.7,
         "start_year": 2021
@@ -1911,7 +1911,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.34,
+        "pe_ratio": 33.67,
         "forward_return": -1.58,
         "start_price": 75.2,
         "start_year": 2021
@@ -1920,7 +1920,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 28.27,
         "forward_return": 3.63,
         "start_price": 63.8,
         "start_year": 2021
@@ -1929,7 +1929,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.23,
+        "pe_ratio": 27.63,
         "forward_return": 7.01,
         "start_price": 63.0,
         "start_year": 2021
@@ -1938,7 +1938,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.99,
+        "pe_ratio": 28.75,
         "forward_return": 4.84,
         "start_price": 64.3,
         "start_year": 2021
@@ -1947,7 +1947,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 26.9,
         "forward_return": 0.9,
         "start_price": 59.0,
         "start_year": 2021
@@ -1956,7 +1956,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 22.54,
+        "pe_ratio": 26.42,
         "forward_return": 1.79,
         "start_price": 56.8,
         "start_year": 2021
@@ -1965,7 +1965,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 23.14,
+        "pe_ratio": 25.68,
         "forward_return": 4.37,
         "start_price": 57.7,
         "start_year": 2021
@@ -1974,7 +1974,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 20.35,
+        "pe_ratio": 21.42,
         "forward_return": 7.69,
         "start_price": 50.2,
         "start_year": 2021
@@ -1992,7 +1992,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 19.07,
+        "pe_ratio": 20.57,
         "forward_return": 7.44,
         "start_price": 49.1,
         "start_year": 2022
@@ -2001,7 +2001,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 17.46,
+        "pe_ratio": 20.27,
         "forward_return": 10.2,
         "start_price": 47.3,
         "start_year": 2022
@@ -2010,7 +2010,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 19.5,
         "forward_return": 10.08,
         "start_price": 44.45,
         "start_year": 2022
@@ -2019,7 +2019,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 18.61,
         "forward_return": 10.19,
         "start_price": 42.0,
         "start_year": 2022
@@ -2028,7 +2028,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.36,
+        "pe_ratio": 18.6,
         "forward_return": 9.46,
         "start_price": 41.55,
         "start_year": 2022
@@ -2037,7 +2037,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 18.33,
         "forward_return": 8.06,
         "start_price": 40.5,
         "start_year": 2022
@@ -2046,7 +2046,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 11.57,
+        "pe_ratio": 15.66,
         "forward_return": 8.54,
         "start_price": 39.1,
         "start_year": 2022
@@ -2055,7 +2055,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 13.21,
+        "pe_ratio": 16.67,
         "forward_return": 4.86,
         "start_price": 46.4,
         "start_year": 2022
@@ -2064,7 +2064,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 10.68,
+        "pe_ratio": 12.69,
         "forward_return": 9.26,
         "start_price": 38.95,
         "start_year": 2022
@@ -2073,7 +2073,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.44,
         "forward_return": 8.63,
         "start_price": 38.85,
         "start_year": 2022
@@ -2082,7 +2082,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 11.21,
+        "pe_ratio": 11.79,
         "forward_return": 12.31,
         "start_price": 43.9,
         "start_year": 2022
@@ -2100,7 +2100,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.72,
+        "pe_ratio": 11.07,
         "forward_return": 14.6,
         "start_price": 46.5,
         "start_year": 2023
@@ -2109,7 +2109,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 15.59,
+        "pe_ratio": 13.93,
         "forward_return": 1.41,
         "start_price": 60.6,
         "start_year": 2023
@@ -2127,7 +2127,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 28.72,
         "forward_return": -3.94,
         "start_price": 74.0,
         "start_year": 2021
@@ -2136,7 +2136,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.08,
+        "pe_ratio": 32.88,
         "forward_return": -4.52,
         "start_price": 78.7,
         "start_year": 2021
@@ -2145,7 +2145,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.99,
+        "pe_ratio": 35.16,
         "forward_return": -5.72,
         "start_price": 77.7,
         "start_year": 2021
@@ -2154,7 +2154,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.34,
+        "pe_ratio": 33.67,
         "forward_return": -6.17,
         "start_price": 75.2,
         "start_year": 2021
@@ -2163,7 +2163,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 28.27,
         "forward_return": -2.95,
         "start_price": 63.8,
         "start_year": 2021
@@ -2172,7 +2172,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.23,
+        "pe_ratio": 27.63,
         "forward_return": -4.14,
         "start_price": 63.0,
         "start_year": 2021
@@ -2181,7 +2181,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.99,
+        "pe_ratio": 28.75,
         "forward_return": -5.12,
         "start_price": 64.3,
         "start_year": 2021
@@ -2190,7 +2190,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 26.9,
         "forward_return": -1.47,
         "start_price": 59.0,
         "start_year": 2021
@@ -2199,7 +2199,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 22.54,
+        "pe_ratio": 26.42,
         "forward_return": -1.76,
         "start_price": 56.8,
         "start_year": 2021
@@ -2208,7 +2208,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 23.14,
+        "pe_ratio": 25.68,
         "forward_return": -2.61,
         "start_price": 57.7,
         "start_year": 2021
@@ -2217,7 +2217,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 20.35,
+        "pe_ratio": 21.42,
         "forward_return": 6.38,
         "start_price": 50.2,
         "start_year": 2021
@@ -2235,7 +2235,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 19.07,
+        "pe_ratio": 20.57,
         "forward_return": 10.08,
         "start_price": 49.1,
         "start_year": 2022
@@ -2244,7 +2244,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 17.46,
+        "pe_ratio": 20.27,
         "forward_return": 8.4,
         "start_price": 47.3,
         "start_year": 2022
@@ -2262,7 +2262,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 28.72,
         "forward_return": 0.05,
         "start_price": 74.0,
         "start_year": 2021
@@ -2271,7 +2271,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.08,
+        "pe_ratio": 32.88,
         "forward_return": -3.05,
         "start_price": 78.7,
         "start_year": 2021
@@ -2472,7 +2472,7 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 10.7倍、13.3倍、24.3倍、28.7倍、37.0倍"
+!!! note "本益比河流帶水位: 11.1倍、18.3倍、24.4倍、34.8倍、55.5倍"
 
 ```vegalite
 {
@@ -2484,631 +2484,631 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
         "date": "2020-12-16",
         "price": 78.0,
         "pe": 28.26,
-        "pe_10": 29.52,
-        "pe_25": 36.67,
-        "pe_50": 67.04,
-        "pe_75": 79.21,
-        "pe_90": 102.24
+        "pe_10": 30.76,
+        "pe_25": 50.63,
+        "pe_50": 67.48,
+        "pe_75": 96.12,
+        "pe_90": 153.3
       },
       {
         "date": "2021-01-16",
         "price": 74.0,
-        "pe": 27.07,
-        "pe_10": 29.23,
-        "pe_25": 36.32,
-        "pe_50": 66.4,
-        "pe_75": 78.46,
-        "pe_90": 101.27
+        "pe": 28.72,
+        "pe_10": 28.71,
+        "pe_25": 47.27,
+        "pe_50": 63.0,
+        "pe_75": 89.73,
+        "pe_90": 143.1
       },
       {
         "date": "2021-02-14",
         "price": 78.7,
-        "pe": 29.08,
-        "pe_10": 28.94,
-        "pe_25": 35.95,
-        "pe_50": 65.74,
-        "pe_75": 77.67,
-        "pe_90": 100.25
+        "pe": 32.88,
+        "pe_10": 26.67,
+        "pe_25": 43.91,
+        "pe_50": 58.52,
+        "pe_75": 83.36,
+        "pe_90": 132.94
       },
       {
         "date": "2021-03-16",
         "price": 77.7,
-        "pe": 28.99,
-        "pe_10": 28.66,
-        "pe_25": 35.61,
-        "pe_50": 65.1,
-        "pe_75": 76.92,
-        "pe_90": 99.29
+        "pe": 35.16,
+        "pe_10": 24.63,
+        "pe_25": 40.54,
+        "pe_50": 54.03,
+        "pe_75": 76.96,
+        "pe_90": 122.74
       },
       {
         "date": "2021-04-15",
         "price": 75.2,
-        "pe": 28.34,
-        "pe_10": 28.38,
-        "pe_25": 35.25,
-        "pe_50": 64.45,
-        "pe_75": 76.16,
-        "pe_90": 98.3
+        "pe": 33.67,
+        "pe_10": 24.89,
+        "pe_25": 40.97,
+        "pe_50": 54.61,
+        "pe_75": 77.78,
+        "pe_90": 124.05
       },
       {
         "date": "2021-05-16",
         "price": 63.8,
-        "pe": 24.29,
-        "pe_10": 28.09,
-        "pe_25": 34.89,
-        "pe_50": 63.8,
-        "pe_75": 75.38,
-        "pe_90": 97.3
+        "pe": 28.27,
+        "pe_10": 25.15,
+        "pe_25": 41.4,
+        "pe_50": 55.18,
+        "pe_75": 78.59,
+        "pe_90": 125.34
       },
       {
         "date": "2021-06-15",
         "price": 63.0,
-        "pe": 24.23,
-        "pe_10": 27.81,
-        "pe_25": 34.54,
-        "pe_50": 63.16,
-        "pe_75": 74.62,
-        "pe_90": 96.32
+        "pe": 27.63,
+        "pe_10": 25.41,
+        "pe_25": 41.83,
+        "pe_50": 55.75,
+        "pe_75": 79.41,
+        "pe_90": 126.64
       },
       {
         "date": "2021-07-16",
         "price": 64.3,
-        "pe": 24.99,
-        "pe_10": 27.52,
-        "pe_25": 34.18,
-        "pe_50": 62.5,
-        "pe_75": 73.85,
-        "pe_90": 95.32
+        "pe": 28.75,
+        "pe_10": 24.92,
+        "pe_25": 41.03,
+        "pe_50": 54.68,
+        "pe_75": 77.89,
+        "pe_90": 124.22
       },
       {
         "date": "2021-08-16",
         "price": 59.0,
-        "pe": 23.17,
-        "pe_10": 27.23,
-        "pe_25": 33.83,
-        "pe_50": 61.85,
-        "pe_75": 73.08,
-        "pe_90": 94.33
+        "pe": 26.9,
+        "pe_10": 24.44,
+        "pe_25": 40.24,
+        "pe_50": 53.63,
+        "pe_75": 76.38,
+        "pe_90": 121.82
       },
       {
         "date": "2021-09-15",
         "price": 56.8,
-        "pe": 22.54,
-        "pe_10": 26.95,
-        "pe_25": 33.48,
-        "pe_50": 61.21,
-        "pe_75": 72.32,
-        "pe_90": 93.35
+        "pe": 26.42,
+        "pe_10": 23.96,
+        "pe_25": 39.44,
+        "pe_50": 52.56,
+        "pe_75": 74.87,
+        "pe_90": 119.4
       },
       {
         "date": "2021-10-16",
         "price": 57.7,
-        "pe": 23.14,
-        "pe_10": 26.67,
-        "pe_25": 33.13,
-        "pe_50": 60.57,
-        "pe_75": 71.56,
-        "pe_90": 92.37
+        "pe": 25.68,
+        "pe_10": 25.04,
+        "pe_25": 41.22,
+        "pe_50": 54.94,
+        "pe_75": 78.25,
+        "pe_90": 124.79
       },
       {
         "date": "2021-11-15",
         "price": 50.2,
-        "pe": 20.35,
-        "pe_10": 26.38,
-        "pe_25": 32.77,
-        "pe_50": 59.92,
-        "pe_75": 70.8,
-        "pe_90": 91.38
+        "pe": 21.42,
+        "pe_10": 26.12,
+        "pe_25": 42.99,
+        "pe_50": 57.3,
+        "pe_75": 81.62,
+        "pe_90": 130.16
       },
       {
         "date": "2021-12-16",
         "price": 49.7,
         "pe": 20.37,
-        "pe_10": 26.09,
-        "pe_25": 32.41,
-        "pe_50": 59.26,
-        "pe_75": 70.02,
-        "pe_90": 90.38
+        "pe_10": 27.19,
+        "pe_25": 44.76,
+        "pe_50": 59.65,
+        "pe_75": 84.97,
+        "pe_90": 135.51
       },
       {
         "date": "2022-01-16",
         "price": 49.1,
-        "pe": 19.07,
-        "pe_10": 27.53,
-        "pe_25": 34.21,
-        "pe_50": 62.54,
-        "pe_75": 73.89,
-        "pe_90": 95.38
+        "pe": 20.57,
+        "pe_10": 26.6,
+        "pe_25": 43.79,
+        "pe_50": 58.36,
+        "pe_75": 83.13,
+        "pe_90": 132.57
       },
       {
         "date": "2022-02-14",
         "price": 47.3,
-        "pe": 17.46,
-        "pe_10": 28.97,
-        "pe_25": 35.99,
-        "pe_50": 65.8,
-        "pe_75": 77.75,
-        "pe_90": 100.35
+        "pe": 20.27,
+        "pe_10": 26.0,
+        "pe_25": 42.81,
+        "pe_50": 57.05,
+        "pe_75": 81.26,
+        "pe_90": 129.6
       },
       {
         "date": "2022-03-16",
         "price": 44.45,
-        "pe": 15.64,
-        "pe_10": 30.39,
-        "pe_25": 37.76,
-        "pe_50": 69.03,
-        "pe_75": 81.57,
-        "pe_90": 105.28
+        "pe": 19.5,
+        "pe_10": 25.4,
+        "pe_25": 41.82,
+        "pe_50": 55.73,
+        "pe_75": 79.38,
+        "pe_90": 126.6
       },
       {
         "date": "2022-04-15",
         "price": 42.0,
-        "pe": 14.11,
-        "pe_10": 31.83,
-        "pe_25": 39.54,
-        "pe_50": 72.3,
-        "pe_75": 85.43,
-        "pe_90": 110.27
+        "pe": 18.61,
+        "pe_10": 25.15,
+        "pe_25": 41.4,
+        "pe_50": 55.18,
+        "pe_75": 78.59,
+        "pe_90": 125.35
       },
       {
         "date": "2022-05-16",
         "price": 41.55,
-        "pe": 13.36,
-        "pe_10": 33.26,
-        "pe_25": 41.32,
-        "pe_50": 75.54,
-        "pe_75": 89.26,
-        "pe_90": 115.21
+        "pe": 18.6,
+        "pe_10": 24.89,
+        "pe_25": 40.98,
+        "pe_50": 54.62,
+        "pe_75": 77.79,
+        "pe_90": 124.07
       },
       {
         "date": "2022-06-15",
         "price": 40.5,
-        "pe": 12.48,
-        "pe_10": 34.7,
-        "pe_25": 43.11,
-        "pe_50": 78.83,
-        "pe_75": 93.14,
-        "pe_90": 120.21
+        "pe": 18.33,
+        "pe_10": 24.62,
+        "pe_25": 40.53,
+        "pe_50": 54.02,
+        "pe_75": 76.95,
+        "pe_90": 122.72
       },
       {
         "date": "2022-07-16",
         "price": 39.1,
-        "pe": 11.57,
-        "pe_10": 36.14,
-        "pe_25": 44.9,
-        "pe_50": 82.09,
-        "pe_75": 96.99,
-        "pe_90": 125.19
+        "pe": 15.66,
+        "pe_10": 27.82,
+        "pe_25": 45.8,
+        "pe_50": 61.05,
+        "pe_75": 86.95,
+        "pe_90": 138.67
       },
       {
         "date": "2022-08-16",
         "price": 46.4,
-        "pe": 13.21,
-        "pe_10": 37.56,
-        "pe_25": 46.66,
-        "pe_50": 85.32,
-        "pe_75": 100.81,
-        "pe_90": 130.12
+        "pe": 16.67,
+        "pe_10": 31.02,
+        "pe_25": 51.06,
+        "pe_50": 68.06,
+        "pe_75": 96.93,
+        "pe_90": 154.59
       },
       {
         "date": "2022-09-15",
         "price": 38.95,
-        "pe": 10.68,
-        "pe_10": 39.0,
-        "pe_25": 48.45,
-        "pe_50": 88.59,
-        "pe_75": 104.67,
-        "pe_90": 135.1
+        "pe": 12.69,
+        "pe_10": 34.2,
+        "pe_25": 56.31,
+        "pe_50": 75.05,
+        "pe_75": 106.89,
+        "pe_90": 170.47
       },
       {
         "date": "2022-10-16",
         "price": 38.85,
-        "pe": 10.27,
-        "pe_10": 40.45,
-        "pe_25": 50.26,
-        "pe_50": 91.89,
-        "pe_75": 108.57,
-        "pe_90": 140.13
+        "pe": 11.44,
+        "pe_10": 37.84,
+        "pe_25": 62.3,
+        "pe_50": 83.03,
+        "pe_75": 118.26,
+        "pe_90": 188.61
       },
       {
         "date": "2022-11-15",
         "price": 43.9,
-        "pe": 11.21,
-        "pe_10": 41.88,
-        "pe_25": 52.03,
-        "pe_50": 95.12,
-        "pe_75": 112.39,
-        "pe_90": 145.07
+        "pe": 11.79,
+        "pe_10": 41.49,
+        "pe_25": 68.31,
+        "pe_50": 91.04,
+        "pe_75": 129.67,
+        "pe_90": 206.8
       },
       {
         "date": "2022-12-16",
         "price": 42.9,
         "pe": 10.59,
-        "pe_10": 43.32,
-        "pe_25": 53.82,
-        "pe_50": 98.4,
-        "pe_75": 116.26,
-        "pe_90": 150.06
+        "pe_10": 45.14,
+        "pe_25": 74.32,
+        "pe_50": 99.05,
+        "pe_75": 141.08,
+        "pe_90": 224.99
       },
       {
         "date": "2023-01-16",
         "price": 46.5,
-        "pe": 11.72,
-        "pe_10": 42.43,
-        "pe_25": 52.71,
-        "pe_50": 96.37,
-        "pe_75": 113.87,
-        "pe_90": 146.97
+        "pe": 11.07,
+        "pe_10": 46.81,
+        "pe_25": 77.06,
+        "pe_50": 102.7,
+        "pe_75": 146.28,
+        "pe_90": 233.3
       },
       {
         "date": "2023-02-14",
         "price": 60.6,
-        "pe": 15.59,
-        "pe_10": 41.57,
-        "pe_25": 51.64,
-        "pe_50": 94.42,
-        "pe_75": 111.56,
-        "pe_90": 143.99
+        "pe": 13.93,
+        "pe_10": 48.48,
+        "pe_25": 79.81,
+        "pe_50": 106.37,
+        "pe_75": 151.5,
+        "pe_90": 241.62
       },
       {
         "date": "2023-03-16",
         "price": 95.0,
-        "pe": 24.97,
-        "pe_10": 40.69,
-        "pe_25": 50.54,
-        "pe_50": 92.41,
-        "pe_75": 109.19,
-        "pe_90": 140.94
+        "pe": 21.11,
+        "pe_10": 50.15,
+        "pe_25": 82.56,
+        "pe_50": 110.03,
+        "pe_75": 156.72,
+        "pe_90": 249.94
       },
       {
         "date": "2023-04-15",
         "price": 139.0,
-        "pe": 37.33,
-        "pe_10": 39.82,
-        "pe_25": 49.47,
-        "pe_50": 90.44,
-        "pe_75": 106.87,
-        "pe_90": 137.94
+        "pe": 30.68,
+        "pe_10": 50.49,
+        "pe_25": 83.11,
+        "pe_50": 110.77,
+        "pe_75": 157.78,
+        "pe_90": 251.63
       },
       {
         "date": "2023-05-16",
         "price": 111.5,
-        "pe": 30.62,
-        "pe_10": 38.94,
-        "pe_25": 48.38,
-        "pe_50": 88.45,
-        "pe_75": 104.51,
-        "pe_90": 134.89
+        "pe": 24.45,
+        "pe_10": 50.82,
+        "pe_25": 83.66,
+        "pe_50": 111.5,
+        "pe_75": 158.81,
+        "pe_90": 253.28
       },
       {
         "date": "2023-06-15",
         "price": 102.0,
-        "pe": 28.65,
-        "pe_10": 38.07,
-        "pe_25": 47.3,
-        "pe_50": 86.48,
-        "pe_75": 102.18,
-        "pe_90": 131.88
+        "pe": 22.22,
+        "pe_10": 51.16,
+        "pe_25": 84.21,
+        "pe_50": 112.24,
+        "pe_75": 159.86,
+        "pe_90": 254.95
       },
       {
         "date": "2023-07-16",
         "price": 100.0,
-        "pe": 28.75,
-        "pe_10": 37.2,
-        "pe_25": 46.21,
-        "pe_50": 84.49,
-        "pe_75": 99.83,
-        "pe_90": 128.85
+        "pe": 22.68,
+        "pe_10": 49.14,
+        "pe_25": 80.89,
+        "pe_50": 107.8,
+        "pe_75": 153.55,
+        "pe_90": 244.89
       },
       {
         "date": "2023-08-16",
         "price": 83.9,
-        "pe": 24.7,
-        "pe_10": 36.32,
-        "pe_25": 45.13,
-        "pe_50": 82.51,
-        "pe_75": 97.49,
-        "pe_90": 125.83
+        "pe": 19.83,
+        "pe_10": 47.15,
+        "pe_25": 77.62,
+        "pe_50": 103.45,
+        "pe_75": 147.34,
+        "pe_90": 234.99
       },
       {
         "date": "2023-09-15",
         "price": 87.5,
-        "pe": 26.4,
-        "pe_10": 35.44,
-        "pe_25": 44.03,
-        "pe_50": 80.51,
-        "pe_75": 95.12,
-        "pe_90": 122.78
+        "pe": 21.6,
+        "pe_10": 45.14,
+        "pe_25": 74.31,
+        "pe_50": 99.05,
+        "pe_75": 141.07,
+        "pe_90": 224.99
       },
       {
         "date": "2023-10-16",
         "price": 83.0,
-        "pe": 25.67,
-        "pe_10": 34.58,
-        "pe_25": 42.96,
-        "pe_50": 78.54,
-        "pe_75": 92.8,
-        "pe_90": 119.78
+        "pe": 22.29,
+        "pe_10": 41.5,
+        "pe_25": 68.31,
+        "pe_50": 91.04,
+        "pe_75": 129.68,
+        "pe_90": 206.81
       },
       {
         "date": "2023-11-15",
         "price": 82.4,
-        "pe": 26.14,
-        "pe_10": 33.71,
-        "pe_25": 41.88,
-        "pe_50": 76.57,
-        "pe_75": 90.47,
-        "pe_90": 116.77
+        "pe": 24.26,
+        "pe_10": 37.85,
+        "pe_25": 62.31,
+        "pe_50": 83.05,
+        "pe_75": 118.28,
+        "pe_90": 188.64
       },
       {
         "date": "2023-12-16",
         "price": 82.8,
         "pe": 26.97,
-        "pe_10": 32.83,
-        "pe_25": 40.79,
-        "pe_50": 74.57,
-        "pe_75": 88.11,
-        "pe_90": 113.73
+        "pe_10": 34.21,
+        "pe_25": 56.32,
+        "pe_50": 75.06,
+        "pe_75": 106.92,
+        "pe_90": 170.51
       },
       {
         "date": "2024-01-16",
         "price": 79.6,
-        "pe": 27.61,
-        "pe_10": 30.83,
-        "pe_25": 38.3,
-        "pe_50": 70.03,
-        "pe_75": 82.74,
-        "pe_90": 106.8
+        "pe": 29.92,
+        "pe_10": 29.65,
+        "pe_25": 48.81,
+        "pe_50": 65.05,
+        "pe_75": 92.65,
+        "pe_90": 147.76
       },
       {
         "date": "2024-02-15",
         "price": 80.0,
-        "pe": 29.67,
-        "pe_10": 28.83,
-        "pe_25": 35.82,
-        "pe_50": 65.49,
-        "pe_75": 77.38,
-        "pe_90": 99.88
+        "pe": 35.56,
+        "pe_10": 25.07,
+        "pe_25": 41.27,
+        "pe_50": 55.01,
+        "pe_75": 78.35,
+        "pe_90": 124.95
       },
       {
         "date": "2024-03-16",
         "price": 71.2,
-        "pe": 28.37,
-        "pe_10": 26.84,
-        "pe_25": 33.34,
-        "pe_50": 60.96,
-        "pe_75": 72.03,
-        "pe_90": 92.97
+        "pe": 38.7,
+        "pe_10": 20.5,
+        "pe_25": 33.75,
+        "pe_50": 44.98,
+        "pe_75": 64.07,
+        "pe_90": 102.18
       },
       {
         "date": "2024-04-15",
         "price": 64.5,
-        "pe": 27.76,
-        "pe_10": 24.85,
-        "pe_25": 30.87,
-        "pe_50": 56.44,
-        "pe_75": 66.68,
-        "pe_90": 86.07
+        "pe": 34.49,
+        "pe_10": 20.84,
+        "pe_25": 34.31,
+        "pe_50": 45.72,
+        "pe_75": 65.13,
+        "pe_90": 103.87
       },
       {
         "date": "2024-05-16",
         "price": 63.8,
-        "pe": 29.86,
-        "pe_10": 22.85,
-        "pe_25": 28.39,
-        "pe_50": 51.9,
-        "pe_75": 61.32,
-        "pe_90": 79.15
+        "pe": 33.58,
+        "pe_10": 21.17,
+        "pe_25": 34.85,
+        "pe_50": 46.45,
+        "pe_75": 66.17,
+        "pe_90": 105.52
       },
       {
         "date": "2024-06-15",
         "price": 70.0,
-        "pe": 35.9,
-        "pe_10": 20.85,
-        "pe_25": 25.9,
-        "pe_50": 47.36,
-        "pe_75": 55.96,
-        "pe_90": 72.23
+        "pe": 36.27,
+        "pe_10": 21.51,
+        "pe_25": 35.41,
+        "pe_50": 47.19,
+        "pe_75": 67.21,
+        "pe_90": 107.19
       },
       {
         "date": "2024-07-16",
         "price": 67.0,
-        "pe": 38.0,
-        "pe_10": 18.86,
-        "pe_25": 23.42,
-        "pe_50": 42.83,
-        "pe_75": 50.6,
-        "pe_90": 65.31
+        "pe": 41.88,
+        "pe_10": 17.83,
+        "pe_25": 29.35,
+        "pe_50": 39.12,
+        "pe_75": 55.71,
+        "pe_90": 88.85
       },
       {
         "date": "2024-08-16",
         "price": 53.5,
-        "pe": 33.93,
-        "pe_10": 16.86,
-        "pe_25": 20.95,
-        "pe_50": 38.3,
-        "pe_75": 45.25,
-        "pe_90": 58.41
+        "pe": 42.13,
+        "pe_10": 14.15,
+        "pe_25": 23.3,
+        "pe_50": 31.05,
+        "pe_75": 44.22,
+        "pe_90": 70.53
       },
       {
         "date": "2024-09-15",
         "price": 52.8,
-        "pe": 37.99,
-        "pe_10": 14.86,
-        "pe_25": 18.46,
-        "pe_50": 33.76,
-        "pe_75": 39.89,
-        "pe_90": 51.49
+        "pe": 56.17,
+        "pe_10": 10.48,
+        "pe_25": 17.24,
+        "pe_50": 22.98,
+        "pe_75": 32.74,
+        "pe_90": 52.21
       },
       {
         "date": "2024-10-16",
         "price": 58.5,
-        "pe": 48.61,
-        "pe_10": 12.87,
-        "pe_25": 15.99,
-        "pe_50": 29.23,
-        "pe_75": 34.54,
-        "pe_90": 44.58
+        "pe": 64.76,
+        "pe_10": 10.07,
+        "pe_25": 16.57,
+        "pe_50": 22.09,
+        "pe_75": 31.46,
+        "pe_90": 50.17
       },
       {
         "date": "2024-11-15",
         "price": 55.6,
-        "pe": 54.69,
-        "pe_10": 10.87,
-        "pe_25": 13.51,
-        "pe_50": 24.69,
-        "pe_75": 29.18,
-        "pe_90": 37.66
+        "pe": 64.15,
+        "pe_10": 9.66,
+        "pe_25": 15.9,
+        "pe_50": 21.19,
+        "pe_75": 30.18,
+        "pe_90": 48.14
       },
       {
         "date": "2024-12-16",
         "price": 56.3,
         "pe": 67.83,
-        "pe_10": 8.88,
-        "pe_25": 11.03,
-        "pe_50": 20.16,
-        "pe_75": 23.82,
-        "pe_90": 30.75
+        "pe_10": 9.25,
+        "pe_25": 15.23,
+        "pe_50": 20.29,
+        "pe_75": 28.91,
+        "pe_90": 46.1
       },
       {
         "date": "2025-01-16",
         "price": 53.8,
-        "pe": 43.74,
-        "pe_10": 13.15,
-        "pe_25": 16.34,
-        "pe_50": 29.88,
-        "pe_75": 35.3,
-        "pe_90": 45.56
+        "pe": 58.69,
+        "pe_10": 10.22,
+        "pe_25": 16.82,
+        "pe_50": 22.41,
+        "pe_75": 31.92,
+        "pe_90": 50.91
       },
       {
         "date": "2025-02-14",
         "price": 56.2,
-        "pe": 34.48,
-        "pe_10": 17.43,
-        "pe_25": 21.65,
-        "pe_50": 39.59,
-        "pe_75": 46.78,
-        "pe_90": 60.38
+        "pe": 56.01,
+        "pe_10": 11.18,
+        "pe_25": 18.41,
+        "pe_50": 24.53,
+        "pe_75": 34.94,
+        "pe_90": 55.73
       },
       {
         "date": "2025-03-16",
         "price": 52.2,
-        "pe": 25.71,
-        "pe_10": 21.71,
-        "pe_25": 26.97,
-        "pe_50": 49.32,
-        "pe_75": 58.27,
-        "pe_90": 75.21
+        "pe": 47.89,
+        "pe_10": 12.15,
+        "pe_25": 20.0,
+        "pe_50": 26.65,
+        "pe_75": 37.96,
+        "pe_90": 60.54
       },
       {
         "date": "2025-04-15",
         "price": 49.1,
-        "pe": 20.21,
-        "pe_10": 25.98,
-        "pe_25": 32.28,
-        "pe_50": 59.01,
-        "pe_75": 69.73,
-        "pe_90": 90.0
+        "pe": 49.76,
+        "pe_10": 11.0,
+        "pe_25": 18.1,
+        "pe_50": 24.13,
+        "pe_75": 34.36,
+        "pe_90": 54.8
       },
       {
         "date": "2025-05-16",
         "price": 47.4,
-        "pe": 16.75,
-        "pe_10": 30.26,
-        "pe_25": 37.59,
-        "pe_50": 68.74,
-        "pe_75": 81.22,
-        "pe_90": 104.83
+        "pe": 53.66,
+        "pe_10": 9.84,
+        "pe_25": 16.2,
+        "pe_50": 21.6,
+        "pe_75": 30.76,
+        "pe_90": 49.06
       },
       {
         "date": "2025-06-15",
         "price": 44.0,
-        "pe": 13.62,
-        "pe_10": 34.55,
-        "pe_25": 42.92,
-        "pe_50": 78.47,
-        "pe_75": 92.72,
-        "pe_90": 119.67
+        "pe": 56.41,
+        "pe_10": 8.69,
+        "pe_25": 14.31,
+        "pe_50": 19.07,
+        "pe_75": 27.16,
+        "pe_90": 43.32
       },
       {
         "date": "2025-07-16",
         "price": 44.0,
-        "pe": 12.12,
-        "pe_10": 38.82,
-        "pe_25": 48.23,
-        "pe_50": 88.18,
-        "pe_75": 104.19,
-        "pe_90": 134.48
+        "pe": 18.36,
+        "pe_10": 26.71,
+        "pe_25": 43.96,
+        "pe_50": 58.59,
+        "pe_75": 83.46,
+        "pe_90": 133.1
       },
       {
         "date": "2025-08-16",
         "price": 47.5,
-        "pe": 11.79,
-        "pe_10": 43.08,
-        "pe_25": 53.52,
-        "pe_50": 97.86,
-        "pe_75": 115.63,
-        "pe_90": 149.24
+        "pe": 11.84,
+        "pe_10": 44.71,
+        "pe_25": 73.6,
+        "pe_50": 98.09,
+        "pe_75": 139.71,
+        "pe_90": 222.82
       },
       {
         "date": "2025-09-15",
         "price": 44.8,
-        "pe": 10.11,
-        "pe_10": 47.39,
-        "pe_25": 58.87,
-        "pe_50": 107.64,
-        "pe_75": 127.18,
-        "pe_90": 164.15
+        "pe": 7.96,
+        "pe_10": 62.72,
+        "pe_25": 103.25,
+        "pe_50": 137.61,
+        "pe_75": 196.0,
+        "pe_90": 312.59
       },
       {
         "date": "2025-10-16",
         "price": 43.8,
-        "pe": 9.07,
-        "pe_10": 51.64,
-        "pe_25": 64.15,
-        "pe_50": 117.3,
-        "pe_75": 138.6,
-        "pe_90": 178.89
+        "pe": 7.98,
+        "pe_10": 61.17,
+        "pe_25": 100.69,
+        "pe_50": 134.2,
+        "pe_75": 191.14,
+        "pe_90": 304.84
       },
       {
         "date": "2025-11-15",
         "price": 56.2,
-        "pe": 10.75,
-        "pe_10": 55.91,
-        "pe_25": 69.45,
-        "pe_50": 126.99,
-        "pe_75": 150.04,
-        "pe_90": 193.66
+        "pe": 10.52,
+        "pe_10": 59.53,
+        "pe_25": 98.0,
+        "pe_50": 130.62,
+        "pe_75": 186.04,
+        "pe_90": 296.71
       },
       {
         "date": "2025-12-16",
         "price": 55.0,
-        "pe": 9.77,
-        "pe_10": 60.2,
-        "pe_25": 74.79,
-        "pe_50": 136.74,
-        "pe_75": 161.57,
-        "pe_90": 208.54
+        "pe": 10.58,
+        "pe_10": 57.93,
+        "pe_25": 95.37,
+        "pe_50": 127.1,
+        "pe_75": 181.04,
+        "pe_90": 288.72
       },
       {
         "date": "2026-01-16",
         "price": 64.0,
-        "pe": 11.37,
-        "pe_10": 60.19,
-        "pe_25": 74.78,
-        "pe_50": 136.72,
-        "pe_75": 161.55,
-        "pe_90": 208.52
+        "pe": 12.31,
+        "pe_10": 57.94,
+        "pe_25": 95.38,
+        "pe_50": 127.12,
+        "pe_75": 181.06,
+        "pe_90": 288.75
       },
       {
         "date": "2026-02-14",
         "price": 57.2,
-        "pe": 10.16,
-        "pe_10": 60.21,
-        "pe_25": 74.79,
-        "pe_50": 136.75,
-        "pe_75": 161.58,
-        "pe_90": 208.55
+        "pe": 11.0,
+        "pe_10": 57.95,
+        "pe_25": 95.39,
+        "pe_50": 127.14,
+        "pe_75": 181.09,
+        "pe_90": 288.81
       }
     ]
   },
@@ -3241,19 +3241,19 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (10.7倍)",
+            "title": "PE 10% (11.1倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (24.3倍)",
+            "title": "PE 50% (24.4倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (37.0倍)",
+            "title": "PE 90% (55.5倍)",
             "format": ".1f"
           }
         ]
@@ -3728,13 +3728,13 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 24.6 | +89.7% | 0.113 | 2022-12 (+2418.9%) | 2023-04 (-70.0%) |
-| 6個月 | 25.3 | +31.3% | 0.262 | 2022-11 (+556.0%) | 2023-04 (-61.6%) |
-| 1年 | 26.1 | +12.0% | 0.325 | 2022-04 (+236.2%) | 2023-04 (-51.4%) |
-| 2年 | 21.6 | +8.0% | 0.411 | 2021-04 (+38.0%) | 2023-04 (-37.6%) |
-| 3年 | 18.9 | +6.6% | 0.536 | 2023-01 (+14.6%) | 2021-04 (-1.6%) |
-| 4年 | 24.1 | -0.8% | 0.795 | 2022-01 (+10.1%) | 2021-04 (-6.2%) |
-| 5年 | 28.1 | -2.2% | 0.737 | 2021-01 (+0.1%) | 2020-12 (-3.5%) |
+| 3個月 | 29.4 | +89.7% | 0.114 | 2022-12 (+2418.9%) | 2023-04 (-70.0%) |
+| 6個月 | 30.5 | +31.3% | 0.185 | 2022-11 (+556.0%) | 2023-04 (-61.6%) |
+| 1年 | 29.0 | +12.0% | 0.173 | 2022-04 (+236.2%) | 2023-04 (-51.4%) |
+| 2年 | 22.4 | +8.0% | 0.052 | 2021-04 (+38.0%) | 2023-04 (-37.6%) |
+| 3年 | 21.6 | +6.6% | 0.567 | 2023-01 (+14.6%) | 2021-04 (-1.6%) |
+| 4年 | 27.0 | -0.8% | 0.816 | 2022-01 (+10.1%) | 2021-04 (-6.2%) |
+| 5年 | 29.9 | -2.2% | 0.094 | 2021-01 (+0.1%) | 2020-12 (-3.5%) |
 
 
 ## 🎯 使用說明
@@ -3753,4 +3753,4 @@ description: "6751 智聯服務 (資訊服務業) 本益比與未來報酬率關
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:36:21 CST*
+*數據更新時間: 2026-03-21 12:43:19 CST*

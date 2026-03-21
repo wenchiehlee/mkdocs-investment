@@ -2,7 +2,7 @@
 title: "6123 上奇 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
     - **產業別**: 資訊服務業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:35:14 CST
+    - **報告生成時間**: 2026-03-21 12:42:01 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.97,
         "forward_return": 181.9,
         "start_price": 11.0,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 7.34,
+        "pe_ratio": 9.78,
         "forward_return": 54.62,
         "start_price": 13.95,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 10.89,
         "forward_return": -41.87,
         "start_price": 16.05,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.76,
+        "pe_ratio": 10.95,
         "forward_return": 89.17,
         "start_price": 16.65,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 8.16,
+        "pe_ratio": 10.06,
         "forward_return": 67.48,
         "start_price": 15.5,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 7.34,
+        "pe_ratio": 8.94,
         "forward_return": 312.82,
         "start_price": 13.95,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.26,
+        "pe_ratio": 12.34,
         "forward_return": 74.45,
         "start_price": 19.5,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 9.29,
+        "pe_ratio": 10.46,
         "forward_return": 477.37,
         "start_price": 17.65,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 10.01,
         "forward_return": 236.79,
         "start_price": 17.95,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.81,
         "forward_return": -31.43,
         "start_price": 27.45,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.25,
+        "pe_ratio": 14.34,
         "forward_return": -23.44,
         "start_price": 25.9,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 15.2,
         "forward_return": 60.01,
         "start_price": 26.75,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.84,
         "forward_return": 125.79,
         "start_price": 25.55,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.9,
+        "pe_ratio": 12.54,
         "forward_return": 89.81,
         "start_price": 24.25,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 13.14,
         "forward_return": 27.01,
         "start_price": 26.55,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.48,
+        "pe_ratio": 14.88,
         "forward_return": -51.51,
         "start_price": 30.3,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.39,
         "forward_return": -66.94,
         "start_price": 27.5,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 12.67,
+        "pe_ratio": 13.14,
         "forward_return": -76.31,
         "start_price": 27.2,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.89,
         "forward_return": -84.45,
         "start_price": 25.25,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.01,
+        "pe_ratio": 9.12,
         "forward_return": 14.32,
         "start_price": 19.85,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.53,
         "forward_return": 339.39,
         "start_price": 15.8,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.69,
+        "pe_ratio": 6.7,
         "forward_return": 374.94,
         "start_price": 17.5,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.03,
+        "pe_ratio": 7.41,
         "forward_return": 41.17,
         "start_price": 20.75,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.23,
         "forward_return": -52.99,
         "start_price": 28.1,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.58,
         "forward_return": -37.35,
         "start_price": 25.8,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 9.6,
+        "pe_ratio": 8.6,
         "forward_return": -56.72,
         "start_price": 22.7,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 8.0,
         "forward_return": -55.56,
         "start_price": 21.65,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.84,
+        "pe_ratio": 7.68,
         "forward_return": -78.74,
         "start_price": 21.3,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.89,
+        "pe_ratio": 5.9,
         "forward_return": -67.08,
         "start_price": 16.75,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 7.19,
+        "pe_ratio": 6.47,
         "forward_return": -74.18,
         "start_price": 17.65,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.78,
+        "pe_ratio": 4.53,
         "forward_return": 84.83,
         "start_price": 11.85,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.16,
+        "pe_ratio": 5.65,
         "forward_return": 117.5,
         "start_price": 12.55,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 5.66,
+        "pe_ratio": 6.91,
         "forward_return": 116.0,
         "start_price": 13.4,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 6.3,
+        "pe_ratio": 8.73,
         "forward_return": 112.45,
         "start_price": 14.5,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 7.24,
+        "pe_ratio": 10.66,
         "forward_return": 75.99,
         "start_price": 16.2,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 7.46,
+        "pe_ratio": 11.74,
         "forward_return": 37.41,
         "start_price": 16.2,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.15,
+        "pe_ratio": 12.14,
         "forward_return": 476.75,
         "start_price": 15.05,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 13.56,
         "forward_return": 71.86,
         "start_price": 17.45,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 12.26,
         "forward_return": 296.39,
         "start_price": 16.35,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.64,
+        "pe_ratio": 16.09,
         "forward_return": 85.66,
         "start_price": 22.2,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 13.42,
         "forward_return": 11.37,
         "start_price": 20.0,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.75,
         "forward_return": 134.27,
         "start_price": 22.0,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.5,
         "forward_return": 189.82,
         "start_price": 20.55,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.62,
         "forward_return": 234.39,
         "start_price": 21.65,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 15.0,
         "forward_return": 260.28,
         "start_price": 29.1,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.68,
         "forward_return": 532.46,
         "start_price": 28.2,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.63,
         "forward_return": 201.77,
         "start_price": 29.15,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.33,
         "forward_return": 94.74,
         "start_price": 37.2,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.75,
+        "pe_ratio": 15.35,
         "forward_return": -7.51,
         "start_price": 43.65,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.95,
         "forward_return": 155.52,
         "start_price": 37.5,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.58,
         "forward_return": 103.07,
         "start_price": 43.0,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 13.26,
+        "pe_ratio": 13.62,
         "forward_return": 248.13,
         "start_price": 42.8,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.16,
         "forward_return": 147.18,
         "start_price": 43.9,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.65,
         "forward_return": -54.32,
         "start_price": 58.6,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.52,
+        "pe_ratio": 18.95,
         "forward_return": -78.94,
         "start_price": 66.5,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 16.89,
         "forward_return": -73.66,
         "start_price": 59.1,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.72,
+        "pe_ratio": 15.99,
         "forward_return": -71.17,
         "start_price": 51.6,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 15.34,
         "forward_return": -59.84,
         "start_price": 45.3,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 14.2,
         "forward_return": -8.58,
         "start_price": 38.05,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.31,
+        "pe_ratio": 12.7,
         "forward_return": 11.2,
         "start_price": 35.05,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.69,
         "forward_return": 31.72,
         "start_price": 33.2,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 11.78,
         "forward_return": 25.46,
         "start_price": 34.4,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.36,
+        "pe_ratio": 12.51,
         "forward_return": -7.5,
         "start_price": 36.0,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.57,
+        "pe_ratio": 11.65,
         "forward_return": 92.56,
         "start_price": 33.0,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.39,
         "forward_return": 49.16,
         "start_price": 35.3,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.76,
         "forward_return": -40.42,
         "start_price": 45.85,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 13.8,
         "forward_return": -20.97,
         "start_price": 41.0,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 11.9,
         "forward_return": -5.12,
         "start_price": 38.4,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 11.57,
         "forward_return": -0.98,
         "start_price": 40.3,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.08,
+        "pe_ratio": 10.68,
         "forward_return": -18.02,
         "start_price": 39.95,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 10.06,
         "forward_return": -58.82,
         "start_price": 35.2,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 11.5,
         "forward_return": -59.4,
         "start_price": 37.5,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.68,
+        "pe_ratio": 11.69,
         "forward_return": -61.94,
         "start_price": 35.3,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.88,
         "forward_return": 9.49,
         "start_price": 28.15,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.52,
         "forward_return": -4.78,
         "start_price": 28.2,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 11.72,
         "forward_return": -14.55,
         "start_price": 28.8,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.78,
         "forward_return": -12.94,
         "start_price": 28.3,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 11.81,
         "forward_return": 151.27,
         "start_price": 27.75,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 12.53,
         "forward_return": 236.55,
         "start_price": 27.9,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.0,
         "forward_return": 164.71,
         "start_price": 27.35,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 18.89,
         "forward_return": 15.12,
         "start_price": 37.4,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.75,
         "forward_return": 7.46,
         "start_price": 35.55,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 19.08,
+        "pe_ratio": 20.22,
         "forward_return": 20.45,
         "start_price": 32.75,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 25.38,
         "forward_return": -17.4,
         "start_price": 36.55,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 23.84,
+        "pe_ratio": 25.86,
         "forward_return": -29.07,
         "start_price": 36.2,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 24.66,
+        "pe_ratio": 25.74,
         "forward_return": -12.88,
         "start_price": 35.0,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 24.58,
+        "pe_ratio": 28.14,
         "forward_return": -25.04,
         "start_price": 33.2,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 23.88,
+        "pe_ratio": 31.73,
         "forward_return": -30.22,
         "start_price": 33.0,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 37.17,
         "forward_return": -25.63,
         "start_price": 33.45,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 31.2,
         "forward_return": 6.19,
         "start_price": 29.85,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 29.8,
         "forward_return": -5.16,
         "start_price": 30.2,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 20.23,
+        "pe_ratio": 28.46,
         "forward_return": -22.57,
         "start_price": 30.45,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 22.72,
         "forward_return": -18.42,
         "start_price": 29.0,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 19.21,
         "forward_return": -1.57,
         "start_price": 28.5,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.12,
         "forward_return": 17.21,
         "start_price": 27.25,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.3,
         "forward_return": 33.86,
         "start_price": 27.55,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 16.27,
         "forward_return": 12.08,
         "start_price": 27.5,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 17.07,
+        "pe_ratio": 17.48,
         "forward_return": -45.77,
         "start_price": 29.65,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.91,
         "forward_return": -50.24,
         "start_price": 28.8,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.6,
+        "pe_ratio": 16.7,
         "forward_return": -14.39,
         "start_price": 28.55,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.23,
+        "pe_ratio": 16.21,
         "forward_return": 6.24,
         "start_price": 26.7,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 15.32,
         "forward_return": 10.3,
         "start_price": 24.25,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.13,
+        "pe_ratio": 15.72,
         "forward_return": 35.61,
         "start_price": 23.9,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 16.07,
         "forward_return": 20.84,
         "start_price": 25.6,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.32,
+        "pe_ratio": 14.01,
         "forward_return": 66.77,
         "start_price": 23.35,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 13.97,
         "forward_return": 69.15,
         "start_price": 24.3,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.06,
         "forward_return": 2.99,
         "start_price": 26.85,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.19,
         "forward_return": 108.77,
         "start_price": 25.35,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.38,
         "forward_return": 65.29,
         "start_price": 27.05,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 10.6,
         "forward_return": 7.22,
         "start_price": 31.4,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 9.74,
         "forward_return": 42.73,
         "start_price": 32.35,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 10.45,
         "forward_return": 16.13,
         "start_price": 35.1,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.17,
+        "pe_ratio": 9.4,
         "forward_return": 32.27,
         "start_price": 31.95,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 9.45,
         "forward_return": 23.61,
         "start_price": 32.5,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 10.18,
         "forward_return": -29.99,
         "start_price": 34.35,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 11.3,
+        "pe_ratio": 9.74,
         "forward_return": -0.46,
         "start_price": 32.2,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.94,
         "forward_return": -0.62,
         "start_price": 32.2,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.47,
+        "pe_ratio": 9.78,
         "forward_return": 33.97,
         "start_price": 31.4,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.7,
         "forward_return": 39.31,
         "start_price": 30.85,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 11.72,
         "forward_return": -4.43,
         "start_price": 33.8,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 10.33,
+        "pe_ratio": 12.38,
         "forward_return": 11.76,
         "start_price": 32.4,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.64,
         "forward_return": 48.99,
         "start_price": 34.4,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.64,
+        "pe_ratio": 13.7,
         "forward_return": 96.8,
         "start_price": 33.2,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 13.34,
         "forward_return": 179.76,
         "start_price": 33.3,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.11,
         "forward_return": 84.1,
         "start_price": 33.7,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 11.88,
+        "pe_ratio": 13.97,
         "forward_return": 57.33,
         "start_price": 36.8,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 13.16,
+        "pe_ratio": 15.07,
         "forward_return": 17.5,
         "start_price": 40.65,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 11.94,
+        "pe_ratio": 13.33,
         "forward_return": 85.08,
         "start_price": 36.8,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.41,
+        "pe_ratio": 14.42,
         "forward_return": 294.9,
         "start_price": 41.25,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.78,
         "forward_return": 63.31,
         "start_price": 43.75,
         "start_year": 2017
@@ -1317,7 +1317,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.33,
         "forward_return": -27.73,
         "start_price": 58.3,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.55,
         "forward_return": 8.99,
         "start_price": 51.3,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.01,
+        "pe_ratio": 15.03,
         "forward_return": -5.43,
         "start_price": 51.4,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.65,
         "forward_return": -40.84,
         "start_price": 57.5,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.03,
         "forward_return": -40.89,
         "start_price": 52.4,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.8,
         "forward_return": -55.03,
         "start_price": 52.1,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 13.45,
         "forward_return": -66.04,
         "start_price": 47.45,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.14,
         "forward_return": -28.79,
         "start_price": 42.9,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.19,
         "forward_return": -12.54,
         "start_price": 39.6,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.1,
         "forward_return": 52.44,
         "start_price": 36.15,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.08,
         "forward_return": 55.41,
         "start_price": 40.1,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 10.81,
         "forward_return": 46.76,
         "start_price": 40.2,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.08,
         "forward_return": 40.98,
         "start_price": 41.9,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.07,
         "forward_return": -3.2,
         "start_price": 46.35,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 12.73,
+        "pe_ratio": 12.61,
         "forward_return": -7.51,
         "start_price": 46.75,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.76,
         "forward_return": -20.06,
         "start_price": 45.6,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 12.44,
         "forward_return": 0.93,
         "start_price": 42.8,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.33,
+        "pe_ratio": 12.05,
         "forward_return": -7.39,
         "start_price": 41.75,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 11.19,
         "forward_return": 12.79,
         "start_price": 39.0,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.05,
         "forward_return": 19.96,
         "start_price": 38.8,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 11.46,
         "forward_return": 10.05,
         "start_price": 40.95,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.47,
         "forward_return": -31.71,
         "start_price": 41.7,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 11.31,
         "forward_return": 1.45,
         "start_price": 41.95,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.37,
         "forward_return": -1.42,
         "start_price": 42.3,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.85,
         "forward_return": 69.69,
         "start_price": 36.75,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.67,
         "forward_return": 34.88,
         "start_price": 40.7,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 10.82,
         "forward_return": 36.66,
         "start_price": 42.15,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.05,
         "forward_return": -5.82,
         "start_price": 40.0,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.01,
+        "pe_ratio": 9.84,
         "forward_return": -27.64,
         "start_price": 40.25,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 10.0,
         "forward_return": -12.94,
         "start_price": 42.0,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.71,
+        "pe_ratio": 8.31,
         "forward_return": 57.66,
         "start_price": 35.8,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.65,
         "forward_return": 60.57,
         "start_price": 37.1,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 9.26,
+        "pe_ratio": 9.12,
         "forward_return": 165.77,
         "start_price": 38.95,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 9.6,
         "forward_return": 81.04,
         "start_price": 41.8,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.05,
+        "pe_ratio": 10.79,
         "forward_return": 24.81,
         "start_price": 48.1,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 11.78,
         "forward_return": -1.24,
         "start_price": 53.7,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.25,
         "forward_return": 7.68,
         "start_price": 52.5,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 10.64,
         "forward_return": 18.57,
         "start_price": 50.8,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.0,
         "forward_return": 44.35,
         "start_price": 48.8,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.07,
         "forward_return": 6.6,
         "start_price": 49.3,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 9.96,
         "forward_return": 5.94,
         "start_price": 48.85,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 10.03,
         "forward_return": 3.71,
         "start_price": 49.35,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 10.22,
         "forward_return": 6.49,
         "start_price": 50.1,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.29,
         "forward_return": 30.52,
         "start_price": 50.3,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.43,
         "forward_return": 25.2,
         "start_price": 50.9,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.62,
+        "pe_ratio": 10.8,
         "forward_return": 16.29,
         "start_price": 52.8,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.2,
         "forward_return": 15.77,
         "start_price": 54.9,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.78,
         "forward_return": 33.98,
         "start_price": 53.6,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.86,
         "forward_return": 46.69,
         "start_price": 54.8,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.0,
         "forward_return": 79.78,
         "start_price": 51.2,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.25,
         "forward_return": -8.68,
         "start_price": 53.1,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.65,
         "forward_return": -11.35,
         "start_price": 55.8,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 10.34,
         "forward_return": -8.5,
         "start_price": 54.8,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.63,
+        "pe_ratio": 9.68,
         "forward_return": 38.14,
         "start_price": 51.9,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.17,
         "forward_return": 92.91,
         "start_price": 55.2,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.49,
         "forward_return": 123.25,
         "start_price": 56.3,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.93,
         "forward_return": 37.24,
         "start_price": 67.8,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.38,
         "forward_return": 22.73,
         "start_price": 68.5,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.89,
         "forward_return": 19.27,
         "start_price": 70.2,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 15.12,
+        "pe_ratio": 14.7,
         "forward_return": -17.42,
         "start_price": 73.3,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 14.07,
         "forward_return": 27.38,
         "start_price": 69.2,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 14.92,
+        "pe_ratio": 14.19,
         "forward_return": -8.96,
         "start_price": 68.5,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 14.56,
+        "pe_ratio": 13.73,
         "forward_return": 5.63,
         "start_price": 65.0,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 15.85,
+        "pe_ratio": 14.81,
         "forward_return": -13.82,
         "start_price": 68.7,
         "start_year": 2023
@@ -1938,7 +1938,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 15.17,
         "forward_return": 7.94,
         "start_price": 66.9,
         "start_year": 2023
@@ -1947,7 +1947,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.15,
         "forward_return": 15.01,
         "start_price": 67.5,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 17.52,
         "forward_return": 35.39,
         "start_price": 68.2,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 18.06,
         "forward_return": 40.3,
         "start_price": 69.3,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 18.7,
         "forward_return": -15.62,
         "start_price": 70.7,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 18.97,
         "forward_return": -19.46,
         "start_price": 70.5,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 19.71,
+        "pe_ratio": 20.64,
         "forward_return": -40.7,
         "start_price": 75.4,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.94,
         "forward_return": -18.42,
         "start_price": 68.0,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 16.66,
+        "pe_ratio": 17.92,
         "forward_return": -15.99,
         "start_price": 62.9,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 18.13,
         "forward_return": -27.75,
         "start_price": 62.2,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 18.12,
         "forward_return": -28.67,
         "start_price": 60.7,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 17.45,
         "forward_return": -30.14,
         "start_price": 60.2,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.83,
         "forward_return": 4.95,
         "start_price": 56.2,
         "start_year": 2024
@@ -2073,7 +2073,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.32,
+        "pe_ratio": 15.43,
         "forward_return": -7.02,
         "start_price": 55.0,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 16.26,
+        "pe_ratio": 16.51,
         "forward_return": -23.69,
         "start_price": 57.4,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 16.46,
+        "pe_ratio": 16.84,
         "forward_return": -7.91,
         "start_price": 57.1,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.87,
         "forward_return": 22.6,
         "start_price": 52.8,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 16.03,
+        "pe_ratio": 16.46,
         "forward_return": 4.89,
         "start_price": 53.7,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 17.03,
         "forward_return": 32.92,
         "start_price": 54.5,
         "start_year": 2025
@@ -2127,7 +2127,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 15.94,
+        "pe_ratio": 16.56,
         "forward_return": 19.82,
         "start_price": 51.5,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 16.66,
         "forward_return": -13.07,
         "start_price": 50.3,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 17.52,
+        "pe_ratio": 18.6,
         "forward_return": -39.94,
         "start_price": 54.5,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 18.82,
         "forward_return": -52.43,
         "start_price": 53.9,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.97,
         "forward_return": 125.21,
         "start_price": 11.0,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 7.34,
+        "pe_ratio": 9.78,
         "forward_return": 60.83,
         "start_price": 13.95,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 10.89,
         "forward_return": 77.32,
         "start_price": 16.05,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.76,
+        "pe_ratio": 10.95,
         "forward_return": 81.58,
         "start_price": 16.65,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 8.16,
+        "pe_ratio": 10.06,
         "forward_return": 210.97,
         "start_price": 15.5,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 7.34,
+        "pe_ratio": 8.94,
         "forward_return": 207.0,
         "start_price": 13.95,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.26,
+        "pe_ratio": 12.34,
         "forward_return": 89.25,
         "start_price": 19.5,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 9.29,
+        "pe_ratio": 10.46,
         "forward_return": 72.86,
         "start_price": 17.65,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 10.01,
         "forward_return": 83.5,
         "start_price": 17.95,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.81,
         "forward_return": 30.31,
         "start_price": 27.45,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.25,
+        "pe_ratio": 14.34,
         "forward_return": 21.15,
         "start_price": 25.9,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 15.2,
         "forward_return": -3.18,
         "start_price": 26.75,
         "start_year": 2007
@@ -2280,7 +2280,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.84,
         "forward_return": 5.53,
         "start_price": 25.55,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.9,
+        "pe_ratio": 12.54,
         "forward_return": -28.04,
         "start_price": 24.25,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 13.14,
         "forward_return": -43.2,
         "start_price": 26.55,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.48,
+        "pe_ratio": 14.88,
         "forward_return": -72.54,
         "start_price": 30.3,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.39,
         "forward_return": -38.3,
         "start_price": 27.5,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 12.67,
+        "pe_ratio": 13.14,
         "forward_return": -41.91,
         "start_price": 27.2,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.89,
         "forward_return": 3.76,
         "start_price": 25.25,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.01,
+        "pe_ratio": 9.12,
         "forward_return": 69.24,
         "start_price": 19.85,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.53,
         "forward_return": 117.73,
         "start_price": 15.8,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.69,
+        "pe_ratio": 6.7,
         "forward_return": 71.54,
         "start_price": 17.5,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.03,
+        "pe_ratio": 7.41,
         "forward_return": -11.76,
         "start_price": 20.75,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.23,
         "forward_return": -52.84,
         "start_price": 28.1,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.58,
         "forward_return": -63.33,
         "start_price": 25.8,
         "start_year": 2008
@@ -2406,7 +2406,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 9.6,
+        "pe_ratio": 8.6,
         "forward_return": -60.06,
         "start_price": 22.7,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 8.0,
         "forward_return": -66.12,
         "start_price": 21.65,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.84,
+        "pe_ratio": 7.68,
         "forward_return": -48.45,
         "start_price": 21.3,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.89,
+        "pe_ratio": 5.9,
         "forward_return": -25.26,
         "start_price": 16.75,
         "start_year": 2008
@@ -2442,7 +2442,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 7.19,
+        "pe_ratio": 6.47,
         "forward_return": -13.73,
         "start_price": 17.65,
         "start_year": 2008
@@ -2451,7 +2451,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.78,
+        "pe_ratio": 4.53,
         "forward_return": 87.95,
         "start_price": 11.85,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.16,
+        "pe_ratio": 5.65,
         "forward_return": 122.41,
         "start_price": 12.55,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 5.66,
+        "pe_ratio": 6.91,
         "forward_return": 71.85,
         "start_price": 13.4,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 6.3,
+        "pe_ratio": 8.73,
         "forward_return": 91.23,
         "start_price": 14.5,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 7.24,
+        "pe_ratio": 10.66,
         "forward_return": 71.07,
         "start_price": 16.2,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 7.46,
+        "pe_ratio": 11.74,
         "forward_return": 140.65,
         "start_price": 16.2,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.15,
+        "pe_ratio": 12.14,
         "forward_return": 223.46,
         "start_price": 15.05,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 13.56,
         "forward_return": 38.35,
         "start_price": 17.45,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 12.26,
         "forward_return": 170.0,
         "start_price": 16.35,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.64,
+        "pe_ratio": 16.09,
         "forward_return": 72.66,
         "start_price": 22.2,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 13.42,
         "forward_return": 91.37,
         "start_price": 20.0,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.75,
         "forward_return": 76.45,
         "start_price": 22.0,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.5,
         "forward_return": 378.71,
         "start_price": 20.55,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.62,
         "forward_return": 217.48,
         "start_price": 21.65,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 15.0,
         "forward_return": 100.95,
         "start_price": 29.1,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.68,
         "forward_return": 140.81,
         "start_price": 28.2,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.63,
         "forward_return": 171.2,
         "start_price": 29.15,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.33,
         "forward_return": 97.38,
         "start_price": 37.2,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.75,
+        "pe_ratio": 15.35,
         "forward_return": 79.44,
         "start_price": 43.65,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.95,
         "forward_return": 118.96,
         "start_price": 37.5,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.58,
         "forward_return": 89.98,
         "start_price": 43.0,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 13.26,
+        "pe_ratio": 13.62,
         "forward_return": 10.27,
         "start_price": 42.8,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.16,
         "forward_return": 6.54,
         "start_price": 43.9,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.65,
         "forward_return": -58.61,
         "start_price": 58.6,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.52,
+        "pe_ratio": 18.95,
         "forward_return": -70.82,
         "start_price": 66.5,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 16.89,
         "forward_return": -51.24,
         "start_price": 59.1,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.72,
+        "pe_ratio": 15.99,
         "forward_return": -43.39,
         "start_price": 51.6,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 15.34,
         "forward_return": -21.87,
         "start_price": 45.3,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 14.2,
         "forward_return": 6.12,
         "start_price": 38.05,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.31,
+        "pe_ratio": 12.7,
         "forward_return": 1.42,
         "start_price": 35.05,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.69,
         "forward_return": 43.6,
         "start_price": 33.2,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 11.78,
         "forward_return": 42.22,
         "start_price": 34.4,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.36,
+        "pe_ratio": 12.51,
         "forward_return": 21.35,
         "start_price": 36.0,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.57,
+        "pe_ratio": 11.65,
         "forward_return": 49.34,
         "start_price": 33.0,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.39,
         "forward_return": 15.33,
         "start_price": 35.3,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.76,
         "forward_return": -23.09,
         "start_price": 45.85,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 13.8,
         "forward_return": -38.46,
         "start_price": 41.0,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 11.9,
         "forward_return": -35.4,
         "start_price": 38.4,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 11.57,
         "forward_return": -38.02,
         "start_price": 40.3,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.08,
+        "pe_ratio": 10.68,
         "forward_return": -41.84,
         "start_price": 39.95,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 10.06,
         "forward_return": -32.86,
         "start_price": 35.2,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 11.5,
         "forward_return": -40.47,
         "start_price": 37.5,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.68,
+        "pe_ratio": 11.69,
         "forward_return": -38.47,
         "start_price": 35.3,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.88,
         "forward_return": -4.85,
         "start_price": 28.15,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.52,
         "forward_return": -5.99,
         "start_price": 28.2,
         "start_year": 2012
@@ -2901,7 +2901,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 11.72,
         "forward_return": 72.65,
         "start_price": 28.8,
         "start_year": 2013
@@ -2910,7 +2910,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.78,
         "forward_return": 52.74,
         "start_price": 28.3,
         "start_year": 2013
@@ -2919,7 +2919,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 11.81,
         "forward_return": 74.09,
         "start_price": 27.75,
         "start_year": 2013
@@ -2928,7 +2928,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 12.53,
         "forward_return": 89.18,
         "start_price": 27.9,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.0,
         "forward_return": 67.88,
         "start_price": 27.35,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 18.89,
         "forward_return": -1.86,
         "start_price": 37.4,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.75,
         "forward_return": -12.69,
         "start_price": 35.55,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 19.08,
+        "pe_ratio": 20.22,
         "forward_return": 3.71,
         "start_price": 32.75,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 25.38,
         "forward_return": -16.38,
         "start_price": 36.55,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 23.84,
+        "pe_ratio": 25.86,
         "forward_return": -26.82,
         "start_price": 36.2,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 24.66,
+        "pe_ratio": 25.74,
         "forward_return": -25.74,
         "start_price": 35.0,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 24.58,
+        "pe_ratio": 28.14,
         "forward_return": -16.84,
         "start_price": 33.2,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 23.88,
+        "pe_ratio": 31.73,
         "forward_return": -18.51,
         "start_price": 33.0,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 37.17,
         "forward_return": -22.31,
         "start_price": 33.45,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 31.2,
         "forward_return": -6.57,
         "start_price": 29.85,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 29.8,
         "forward_return": -3.09,
         "start_price": 30.2,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 20.23,
+        "pe_ratio": 28.46,
         "forward_return": -5.18,
         "start_price": 30.45,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 22.72,
         "forward_return": 4.5,
         "start_price": 29.0,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 19.21,
         "forward_return": 0.3,
         "start_price": 28.5,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.12,
         "forward_return": 9.86,
         "start_price": 27.25,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.3,
         "forward_return": -19.73,
         "start_price": 27.55,
         "start_year": 2014
@@ -3099,7 +3099,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 16.27,
         "forward_return": -22.42,
         "start_price": 27.5,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 17.07,
+        "pe_ratio": 17.48,
         "forward_return": -16.56,
         "start_price": 29.65,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.91,
         "forward_return": -25.59,
         "start_price": 28.8,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.6,
+        "pe_ratio": 16.7,
         "forward_return": -1.16,
         "start_price": 28.55,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.23,
+        "pe_ratio": 16.21,
         "forward_return": 12.76,
         "start_price": 26.7,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 15.32,
         "forward_return": 37.35,
         "start_price": 24.25,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.13,
+        "pe_ratio": 15.72,
         "forward_return": 49.21,
         "start_price": 23.9,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 16.07,
         "forward_return": 11.56,
         "start_price": 25.6,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.32,
+        "pe_ratio": 14.01,
         "forward_return": 74.9,
         "start_price": 23.35,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 13.97,
         "forward_return": 77.58,
         "start_price": 24.3,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.06,
         "forward_return": 34.74,
         "start_price": 26.85,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.19,
         "forward_return": 59.1,
         "start_price": 25.35,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.38,
         "forward_return": 81.77,
         "start_price": 27.05,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 10.6,
         "forward_return": 19.16,
         "start_price": 31.4,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 9.74,
         "forward_return": 6.05,
         "start_price": 32.35,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 10.45,
         "forward_return": -8.99,
         "start_price": 35.1,
         "start_year": 2016
@@ -3261,7 +3261,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.17,
+        "pe_ratio": 9.4,
         "forward_return": 12.5,
         "start_price": 31.95,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 9.45,
         "forward_return": 10.92,
         "start_price": 32.5,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 10.18,
         "forward_return": -3.15,
         "start_price": 34.35,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 11.3,
+        "pe_ratio": 9.74,
         "forward_return": 12.06,
         "start_price": 32.2,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.94,
         "forward_return": 14.27,
         "start_price": 32.2,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.47,
+        "pe_ratio": 9.78,
         "forward_return": 10.65,
         "start_price": 31.4,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.7,
         "forward_return": 16.67,
         "start_price": 30.85,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 11.72,
         "forward_return": 35.56,
         "start_price": 33.8,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 10.33,
+        "pe_ratio": 12.38,
         "forward_return": 77.72,
         "start_price": 32.4,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.64,
         "forward_return": 50.74,
         "start_price": 34.4,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.64,
+        "pe_ratio": 13.7,
         "forward_return": 73.46,
         "start_price": 33.2,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 13.34,
         "forward_return": 69.73,
         "start_price": 33.3,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.11,
         "forward_return": 81.27,
         "start_price": 33.7,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 11.88,
+        "pe_ratio": 13.97,
         "forward_return": 149.26,
         "start_price": 36.8,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 13.16,
+        "pe_ratio": 15.07,
         "forward_return": 49.82,
         "start_price": 40.65,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 11.94,
+        "pe_ratio": 13.33,
         "forward_return": 96.26,
         "start_price": 36.8,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.41,
+        "pe_ratio": 14.42,
         "forward_return": 51.01,
         "start_price": 41.25,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.78,
         "forward_return": 43.92,
         "start_price": 43.75,
         "start_year": 2017
@@ -3441,7 +3441,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.33,
         "forward_return": -25.31,
         "start_price": 58.3,
         "start_year": 2018
@@ -3450,7 +3450,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.55,
         "forward_return": -20.01,
         "start_price": 51.3,
         "start_year": 2018
@@ -3459,7 +3459,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.01,
+        "pe_ratio": 15.03,
         "forward_return": -37.16,
         "start_price": 51.4,
         "start_year": 2018
@@ -3468,7 +3468,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.65,
         "forward_return": -53.57,
         "start_price": 57.5,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.03,
         "forward_return": -33.39,
         "start_price": 52.4,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.8,
         "forward_return": -37.1,
         "start_price": 52.1,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 13.45,
         "forward_return": -28.05,
         "start_price": 47.45,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.14,
         "forward_return": 14.26,
         "start_price": 42.9,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.19,
         "forward_return": 37.38,
         "start_price": 39.6,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.1,
         "forward_return": 49.2,
         "start_price": 36.15,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.08,
         "forward_return": 29.61,
         "start_price": 40.1,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 10.81,
         "forward_return": 30.39,
         "start_price": 40.2,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.08,
         "forward_return": 5.83,
         "start_price": 41.9,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.07,
         "forward_return": -4.74,
         "start_price": 46.35,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 12.73,
+        "pe_ratio": 12.61,
         "forward_return": -7.13,
         "start_price": 46.75,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.76,
         "forward_return": -3.35,
         "start_price": 45.6,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 12.44,
         "forward_return": 9.06,
         "start_price": 42.8,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.33,
+        "pe_ratio": 12.05,
         "forward_return": 0.95,
         "start_price": 41.75,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 11.19,
         "forward_return": -9.69,
         "start_price": 39.0,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.05,
         "forward_return": -10.32,
         "start_price": 38.8,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 11.46,
         "forward_return": 5.08,
         "start_price": 40.95,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.47,
         "forward_return": 2.18,
         "start_price": 41.7,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 11.31,
         "forward_return": 9.3,
         "start_price": 41.95,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.37,
         "forward_return": 16.18,
         "start_price": 42.3,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.85,
         "forward_return": 19.03,
         "start_price": 36.75,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.67,
         "forward_return": 0.0,
         "start_price": 40.7,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 10.82,
         "forward_return": 6.36,
         "start_price": 42.15,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.05,
         "forward_return": 19.31,
         "start_price": 40.0,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.01,
+        "pe_ratio": 9.84,
         "forward_return": 7.79,
         "start_price": 40.25,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 10.0,
         "forward_return": 52.71,
         "start_price": 42.0,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.71,
+        "pe_ratio": 8.31,
         "forward_return": 126.64,
         "start_price": 35.8,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.65,
         "forward_return": 71.85,
         "start_price": 37.1,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 9.26,
+        "pe_ratio": 9.12,
         "forward_return": 70.92,
         "start_price": 38.95,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 9.6,
         "forward_return": 64.4,
         "start_price": 41.8,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.05,
+        "pe_ratio": 10.79,
         "forward_return": 21.62,
         "start_price": 48.1,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 11.78,
         "forward_return": 1.84,
         "start_price": 53.7,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.25,
         "forward_return": 6.87,
         "start_price": 52.5,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 10.64,
         "forward_return": 10.91,
         "start_price": 50.8,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.0,
         "forward_return": 22.29,
         "start_price": 48.8,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.07,
         "forward_return": 6.55,
         "start_price": 49.3,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 9.96,
         "forward_return": 22.28,
         "start_price": 48.85,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 10.03,
         "forward_return": 23.99,
         "start_price": 49.35,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 10.22,
         "forward_return": 16.71,
         "start_price": 50.1,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.29,
         "forward_return": 18.88,
         "start_price": 50.3,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.43,
         "forward_return": 28.58,
         "start_price": 50.9,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.62,
+        "pe_ratio": 10.8,
         "forward_return": 30.77,
         "start_price": 52.8,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.2,
         "forward_return": 4.87,
         "start_price": 54.9,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.78,
         "forward_return": 10.9,
         "start_price": 53.6,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.86,
         "forward_return": 10.66,
         "start_price": 54.8,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.0,
         "forward_return": 28.93,
         "start_price": 51.2,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.25,
         "forward_return": 12.32,
         "start_price": 53.1,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.65,
         "forward_return": 42.37,
         "start_price": 55.8,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 10.34,
         "forward_return": 56.88,
         "start_price": 54.8,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.63,
+        "pe_ratio": 9.68,
         "forward_return": 81.27,
         "start_price": 51.9,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.17,
         "forward_return": 77.23,
         "start_price": 55.2,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.49,
         "forward_return": 70.55,
         "start_price": 56.3,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.93,
         "forward_return": 6.16,
         "start_price": 67.8,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.38,
         "forward_return": 8.23,
         "start_price": 68.5,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.89,
         "forward_return": 4.46,
         "start_price": 70.2,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 15.12,
+        "pe_ratio": 14.7,
         "forward_return": -5.18,
         "start_price": 73.3,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 14.07,
         "forward_return": 5.41,
         "start_price": 69.2,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 14.92,
+        "pe_ratio": 14.19,
         "forward_return": -0.87,
         "start_price": 68.5,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 14.56,
+        "pe_ratio": 13.73,
         "forward_return": 15.5,
         "start_price": 65.0,
         "start_year": 2023
@@ -4053,7 +4053,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 15.85,
+        "pe_ratio": 14.81,
         "forward_return": 5.93,
         "start_price": 68.7,
         "start_year": 2023
@@ -4062,7 +4062,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 15.17,
         "forward_return": 22.77,
         "start_price": 66.9,
         "start_year": 2023
@@ -4071,7 +4071,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.15,
         "forward_return": 24.87,
         "start_price": 67.5,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 17.52,
         "forward_return": -4.08,
         "start_price": 68.2,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 18.06,
         "forward_return": -9.0,
         "start_price": 69.3,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 18.7,
         "forward_return": -15.4,
         "start_price": 70.7,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 18.97,
         "forward_return": -17.3,
         "start_price": 70.5,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 19.71,
+        "pe_ratio": 20.64,
         "forward_return": -32.87,
         "start_price": 75.4,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.94,
         "forward_return": -22.88,
         "start_price": 68.0,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 16.66,
+        "pe_ratio": 17.92,
         "forward_return": -23.39,
         "start_price": 62.9,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 18.13,
         "forward_return": -13.7,
         "start_price": 62.2,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 18.12,
         "forward_return": -11.61,
         "start_price": 60.7,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 17.45,
         "forward_return": -17.87,
         "start_price": 60.2,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.83,
         "forward_return": -8.77,
         "start_price": 56.2,
         "start_year": 2024
@@ -4197,7 +4197,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.32,
+        "pe_ratio": 15.43,
         "forward_return": 2.03,
         "start_price": 55.0,
         "start_year": 2025
@@ -4206,7 +4206,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 16.26,
+        "pe_ratio": 16.51,
         "forward_return": -10.38,
         "start_price": 57.4,
         "start_year": 2025
@@ -4215,7 +4215,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 16.46,
+        "pe_ratio": 16.84,
         "forward_return": 2.55,
         "start_price": 57.1,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.87,
         "forward_return": 20.41,
         "start_price": 52.8,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 16.03,
+        "pe_ratio": 16.46,
         "forward_return": -5.19,
         "start_price": 53.7,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 17.03,
         "forward_return": -8.77,
         "start_price": 54.5,
         "start_year": 2025
@@ -4251,7 +4251,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 15.94,
+        "pe_ratio": 16.56,
         "forward_return": -24.5,
         "start_price": 51.5,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.97,
         "forward_return": 143.79,
         "start_price": 11.0,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 7.34,
+        "pe_ratio": 9.78,
         "forward_return": 83.59,
         "start_price": 13.95,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 10.89,
         "forward_return": 51.44,
         "start_price": 16.05,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.76,
+        "pe_ratio": 10.95,
         "forward_return": 59.81,
         "start_price": 16.65,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 8.16,
+        "pe_ratio": 10.06,
         "forward_return": 102.02,
         "start_price": 15.5,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 7.34,
+        "pe_ratio": 8.94,
         "forward_return": 104.39,
         "start_price": 13.95,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.26,
+        "pe_ratio": 12.34,
         "forward_return": 44.64,
         "start_price": 19.5,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 9.29,
+        "pe_ratio": 10.46,
         "forward_return": 48.75,
         "start_price": 17.65,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 10.01,
         "forward_return": 16.16,
         "start_price": 17.95,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.81,
         "forward_return": -38.83,
         "start_price": 27.45,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.25,
+        "pe_ratio": 14.34,
         "forward_return": -28.6,
         "start_price": 25.9,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 15.2,
         "forward_return": -18.66,
         "start_price": 26.75,
         "start_year": 2007
@@ -4377,7 +4377,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.84,
         "forward_return": 13.86,
         "start_price": 25.55,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.9,
+        "pe_ratio": 12.54,
         "forward_return": 10.48,
         "start_price": 24.25,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 13.14,
         "forward_return": -10.72,
         "start_price": 26.55,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.48,
+        "pe_ratio": 14.88,
         "forward_return": -23.12,
         "start_price": 30.3,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.39,
         "forward_return": -16.58,
         "start_price": 27.5,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 12.67,
+        "pe_ratio": 13.14,
         "forward_return": -32.36,
         "start_price": 27.2,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.89,
         "forward_return": -23.59,
         "start_price": 25.25,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.01,
+        "pe_ratio": 9.12,
         "forward_return": -32.02,
         "start_price": 19.85,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.53,
         "forward_return": -10.21,
         "start_price": 15.8,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.69,
+        "pe_ratio": 6.7,
         "forward_return": -7.24,
         "start_price": 17.5,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.03,
+        "pe_ratio": 7.41,
         "forward_return": -22.26,
         "start_price": 20.75,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.23,
         "forward_return": -36.56,
         "start_price": 28.1,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.58,
         "forward_return": -30.9,
         "start_price": 25.8,
         "start_year": 2008
@@ -4503,7 +4503,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 9.6,
+        "pe_ratio": 8.6,
         "forward_return": -26.52,
         "start_price": 22.7,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 8.0,
         "forward_return": -13.87,
         "start_price": 21.65,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.84,
+        "pe_ratio": 7.68,
         "forward_return": -17.62,
         "start_price": 21.3,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.89,
+        "pe_ratio": 5.9,
         "forward_return": 39.73,
         "start_price": 16.75,
         "start_year": 2008
@@ -4539,7 +4539,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 7.19,
+        "pe_ratio": 6.47,
         "forward_return": 20.13,
         "start_price": 17.65,
         "start_year": 2008
@@ -4548,7 +4548,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.78,
+        "pe_ratio": 4.53,
         "forward_return": 95.87,
         "start_price": 11.85,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.16,
+        "pe_ratio": 5.65,
         "forward_return": 73.37,
         "start_price": 12.55,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 5.66,
+        "pe_ratio": 6.91,
         "forward_return": 70.58,
         "start_price": 13.4,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 6.3,
+        "pe_ratio": 8.73,
         "forward_return": 109.07,
         "start_price": 14.5,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 7.24,
+        "pe_ratio": 10.66,
         "forward_return": 81.56,
         "start_price": 16.2,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 7.46,
+        "pe_ratio": 11.74,
         "forward_return": 87.43,
         "start_price": 16.2,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.15,
+        "pe_ratio": 12.14,
         "forward_return": 155.31,
         "start_price": 15.05,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 13.56,
         "forward_return": 156.04,
         "start_price": 17.45,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 12.26,
         "forward_return": 135.61,
         "start_price": 16.35,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.64,
+        "pe_ratio": 16.09,
         "forward_return": 98.29,
         "start_price": 22.2,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 13.42,
         "forward_return": 119.12,
         "start_price": 20.0,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.75,
         "forward_return": 104.19,
         "start_price": 22.0,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.5,
         "forward_return": 190.24,
         "start_price": 20.55,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.62,
         "forward_return": 212.02,
         "start_price": 21.65,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 15.0,
         "forward_return": 106.63,
         "start_price": 29.1,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.68,
         "forward_return": 86.6,
         "start_price": 28.2,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.63,
         "forward_return": 58.88,
         "start_price": 29.15,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.33,
         "forward_return": 4.98,
         "start_price": 37.2,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.75,
+        "pe_ratio": 15.35,
         "forward_return": -13.3,
         "start_price": 43.65,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.95,
         "forward_return": -4.0,
         "start_price": 37.5,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.58,
         "forward_return": -13.5,
         "start_price": 43.0,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 13.26,
+        "pe_ratio": 13.62,
         "forward_return": -9.35,
         "start_price": 42.8,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.16,
         "forward_return": -18.46,
         "start_price": 43.9,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.65,
         "forward_return": -35.0,
         "start_price": 58.6,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.52,
+        "pe_ratio": 18.95,
         "forward_return": -26.86,
         "start_price": 66.5,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 16.89,
         "forward_return": -25.84,
         "start_price": 59.1,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.72,
+        "pe_ratio": 15.99,
         "forward_return": -20.12,
         "start_price": 51.6,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 15.34,
         "forward_return": -4.85,
         "start_price": 45.3,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 14.2,
         "forward_return": 12.33,
         "start_price": 38.05,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.31,
+        "pe_ratio": 12.7,
         "forward_return": 8.11,
         "start_price": 35.05,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.69,
         "forward_return": 21.04,
         "start_price": 33.2,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 11.78,
         "forward_return": 10.44,
         "start_price": 34.4,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.36,
+        "pe_ratio": 12.51,
         "forward_return": -14.28,
         "start_price": 36.0,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.57,
+        "pe_ratio": 11.65,
         "forward_return": -6.35,
         "start_price": 33.0,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.39,
         "forward_return": -10.74,
         "start_price": 35.3,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.76,
         "forward_return": -31.51,
         "start_price": 45.85,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 13.8,
         "forward_return": -25.75,
         "start_price": 41.0,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 11.9,
         "forward_return": -20.32,
         "start_price": 38.4,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 11.57,
         "forward_return": -25.45,
         "start_price": 40.3,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.08,
+        "pe_ratio": 10.68,
         "forward_return": 0.38,
         "start_price": 39.95,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 10.06,
         "forward_return": 7.25,
         "start_price": 35.2,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 11.5,
         "forward_return": -6.8,
         "start_price": 37.5,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.68,
+        "pe_ratio": 11.69,
         "forward_return": 9.78,
         "start_price": 35.3,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.88,
         "forward_return": 36.44,
         "start_price": 28.15,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.52,
         "forward_return": 31.94,
         "start_price": 28.2,
         "start_year": 2012
@@ -4998,7 +4998,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 11.72,
         "forward_return": 22.93,
         "start_price": 28.8,
         "start_year": 2013
@@ -5007,7 +5007,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.78,
         "forward_return": 24.4,
         "start_price": 28.3,
         "start_year": 2013
@@ -5016,7 +5016,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 11.81,
         "forward_return": 28.49,
         "start_price": 27.75,
         "start_year": 2013
@@ -5025,7 +5025,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 12.53,
         "forward_return": 14.89,
         "start_price": 27.9,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.0,
         "forward_return": 18.48,
         "start_price": 27.35,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 18.89,
         "forward_return": -12.71,
         "start_price": 37.4,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.75,
         "forward_return": -14.78,
         "start_price": 35.55,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 19.08,
+        "pe_ratio": 20.22,
         "forward_return": -9.01,
         "start_price": 32.75,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 25.38,
         "forward_return": -21.9,
         "start_price": 36.55,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 23.84,
+        "pe_ratio": 25.86,
         "forward_return": -20.32,
         "start_price": 36.2,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 24.66,
+        "pe_ratio": 25.74,
         "forward_return": -17.73,
         "start_price": 35.0,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 24.58,
+        "pe_ratio": 28.14,
         "forward_return": -6.78,
         "start_price": 33.2,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 23.88,
+        "pe_ratio": 31.73,
         "forward_return": -8.79,
         "start_price": 33.0,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 37.17,
         "forward_return": -10.77,
         "start_price": 33.45,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 31.2,
         "forward_return": -6.2,
         "start_price": 29.85,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 29.8,
         "forward_return": -15.41,
         "start_price": 30.2,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 20.23,
+        "pe_ratio": 28.46,
         "forward_return": -17.25,
         "start_price": 30.45,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 22.72,
         "forward_return": -6.54,
         "start_price": 29.0,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 19.21,
         "forward_return": -12.79,
         "start_price": 28.5,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.12,
         "forward_return": -5.3,
         "start_price": 27.25,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.3,
         "forward_return": 2.93,
         "start_price": 27.55,
         "start_year": 2014
@@ -5196,7 +5196,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 16.27,
         "forward_return": -2.34,
         "start_price": 27.5,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 17.07,
+        "pe_ratio": 17.48,
         "forward_return": -3.69,
         "start_price": 29.65,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.91,
         "forward_return": 14.27,
         "start_price": 28.8,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.6,
+        "pe_ratio": 16.7,
         "forward_return": 18.54,
         "start_price": 28.55,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.23,
+        "pe_ratio": 16.21,
         "forward_return": 37.01,
         "start_price": 26.7,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 15.32,
         "forward_return": 37.87,
         "start_price": 24.25,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.13,
+        "pe_ratio": 15.72,
         "forward_return": 42.18,
         "start_price": 23.9,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 16.07,
         "forward_return": 42.21,
         "start_price": 25.6,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.32,
+        "pe_ratio": 14.01,
         "forward_return": 46.7,
         "start_price": 23.35,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 13.97,
         "forward_return": 40.98,
         "start_price": 24.3,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.06,
         "forward_return": 24.64,
         "start_price": 26.85,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.19,
         "forward_return": 29.84,
         "start_price": 25.35,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.38,
         "forward_return": 32.57,
         "start_price": 27.05,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 10.6,
         "forward_return": 14.88,
         "start_price": 31.4,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 9.74,
         "forward_return": 12.78,
         "start_price": 32.35,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 10.45,
         "forward_return": 0.52,
         "start_price": 35.1,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.17,
+        "pe_ratio": 9.4,
         "forward_return": 10.75,
         "start_price": 31.95,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 9.45,
         "forward_return": 10.11,
         "start_price": 32.5,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 10.18,
         "forward_return": 14.42,
         "start_price": 34.35,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 11.3,
+        "pe_ratio": 9.74,
         "forward_return": 34.03,
         "start_price": 32.2,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.94,
         "forward_return": 22.07,
         "start_price": 32.2,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.47,
+        "pe_ratio": 9.78,
         "forward_return": 39.36,
         "start_price": 31.4,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.7,
         "forward_return": 49.96,
         "start_price": 30.85,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 11.72,
         "forward_return": 79.95,
         "start_price": 33.8,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 10.33,
+        "pe_ratio": 12.38,
         "forward_return": 66.11,
         "start_price": 32.4,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.64,
         "forward_return": 56.73,
         "start_price": 34.4,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.64,
+        "pe_ratio": 13.7,
         "forward_return": 80.8,
         "start_price": 33.2,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 13.34,
         "forward_return": 64.92,
         "start_price": 33.3,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.11,
         "forward_return": 62.07,
         "start_price": 33.7,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 11.88,
+        "pe_ratio": 13.97,
         "forward_return": 37.12,
         "start_price": 36.8,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 13.16,
+        "pe_ratio": 15.07,
         "forward_return": 12.92,
         "start_price": 40.65,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 11.94,
+        "pe_ratio": 13.33,
         "forward_return": 15.77,
         "start_price": 36.8,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.41,
+        "pe_ratio": 14.42,
         "forward_return": -5.09,
         "start_price": 41.25,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.78,
         "forward_return": -1.49,
         "start_price": 43.75,
         "start_year": 2017
@@ -5538,7 +5538,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.33,
         "forward_return": -25.92,
         "start_price": 58.3,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.55,
         "forward_return": -12.48,
         "start_price": 51.3,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.01,
+        "pe_ratio": 15.03,
         "forward_return": -3.99,
         "start_price": 51.4,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.65,
         "forward_return": -13.49,
         "start_price": 57.5,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.03,
         "forward_return": -7.26,
         "start_price": 52.4,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.8,
         "forward_return": -12.1,
         "start_price": 52.1,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 13.45,
         "forward_return": -3.37,
         "start_price": 47.45,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.14,
         "forward_return": 0.47,
         "start_price": 42.9,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.19,
         "forward_return": 8.34,
         "start_price": 39.6,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.1,
         "forward_return": 24.64,
         "start_price": 36.15,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.08,
         "forward_return": 14.22,
         "start_price": 40.1,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 10.81,
         "forward_return": 14.56,
         "start_price": 40.2,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.08,
         "forward_return": 10.75,
         "start_price": 41.9,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.07,
         "forward_return": -11.84,
         "start_price": 46.35,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 12.73,
+        "pe_ratio": 12.61,
         "forward_return": -4.16,
         "start_price": 46.75,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.76,
         "forward_return": 1.42,
         "start_price": 45.6,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 12.44,
         "forward_return": 3.03,
         "start_price": 42.8,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.33,
+        "pe_ratio": 12.05,
         "forward_return": 5.02,
         "start_price": 41.75,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 11.19,
         "forward_return": 16.89,
         "start_price": 39.0,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.05,
         "forward_return": 1.54,
         "start_price": 38.8,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 11.46,
         "forward_return": -0.61,
         "start_price": 40.95,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.47,
         "forward_return": 2.03,
         "start_price": 41.7,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 11.31,
         "forward_return": 8.21,
         "start_price": 41.95,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.37,
         "forward_return": 32.4,
         "start_price": 42.3,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.85,
         "forward_return": 55.97,
         "start_price": 36.75,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.67,
         "forward_return": 37.87,
         "start_price": 40.7,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 10.82,
         "forward_return": 29.09,
         "start_price": 42.15,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.05,
         "forward_return": 31.02,
         "start_price": 40.0,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.01,
+        "pe_ratio": 9.84,
         "forward_return": 32.89,
         "start_price": 40.25,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 10.0,
         "forward_return": 26.27,
         "start_price": 42.0,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.71,
+        "pe_ratio": 8.31,
         "forward_return": 49.56,
         "start_price": 35.8,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.65,
         "forward_return": 46.34,
         "start_price": 37.1,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 9.26,
+        "pe_ratio": 9.12,
         "forward_return": 39.9,
         "start_price": 38.95,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 9.6,
         "forward_return": 31.79,
         "start_price": 41.8,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.05,
+        "pe_ratio": 10.79,
         "forward_return": 18.47,
         "start_price": 48.1,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 11.78,
         "forward_return": 10.02,
         "start_price": 53.7,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.25,
         "forward_return": 10.06,
         "start_price": 52.5,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 10.64,
         "forward_return": 16.11,
         "start_price": 50.8,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.0,
         "forward_return": 13.49,
         "start_price": 48.8,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.07,
         "forward_return": 16.95,
         "start_price": 49.3,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 9.96,
         "forward_return": 23.56,
         "start_price": 48.85,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 10.03,
         "forward_return": 20.28,
         "start_price": 49.35,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 10.22,
         "forward_return": 12.69,
         "start_price": 50.1,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.29,
         "forward_return": 18.81,
         "start_price": 50.3,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.43,
         "forward_return": 19.57,
         "start_price": 50.9,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.62,
+        "pe_ratio": 10.8,
         "forward_return": 37.06,
         "start_price": 52.8,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.2,
         "forward_return": 33.09,
         "start_price": 54.9,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.78,
         "forward_return": 39.49,
         "start_price": 53.6,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.86,
         "forward_return": 42.1,
         "start_price": 54.8,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.0,
         "forward_return": 44.08,
         "start_price": 51.2,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.25,
         "forward_return": 38.17,
         "start_price": 53.1,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.65,
         "forward_return": 25.2,
         "start_price": 55.8,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 10.34,
         "forward_return": 34.24,
         "start_price": 54.8,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.63,
+        "pe_ratio": 9.68,
         "forward_return": 38.28,
         "start_price": 51.9,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.17,
         "forward_return": 31.09,
         "start_price": 55.2,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.49,
         "forward_return": 29.77,
         "start_price": 56.3,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.93,
         "forward_return": 9.37,
         "start_price": 67.8,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.38,
         "forward_return": 10.27,
         "start_price": 68.5,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.89,
         "forward_return": 7.32,
         "start_price": 70.2,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 15.12,
+        "pe_ratio": 14.7,
         "forward_return": 9.46,
         "start_price": 73.3,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 14.07,
         "forward_return": 5.26,
         "start_price": 69.2,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 14.92,
+        "pe_ratio": 14.19,
         "forward_return": -2.48,
         "start_price": 68.5,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 14.56,
+        "pe_ratio": 13.73,
         "forward_return": 1.69,
         "start_price": 65.0,
         "start_year": 2023
@@ -6150,7 +6150,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 15.85,
+        "pe_ratio": 14.81,
         "forward_return": -5.96,
         "start_price": 68.7,
         "start_year": 2023
@@ -6159,7 +6159,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 15.17,
         "forward_return": -4.18,
         "start_price": 66.9,
         "start_year": 2023
@@ -6168,7 +6168,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.15,
         "forward_return": -10.94,
         "start_price": 67.5,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 17.52,
         "forward_return": -13.61,
         "start_price": 68.2,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 18.06,
         "forward_return": -11.13,
         "start_price": 69.3,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 18.7,
         "forward_return": -13.73,
         "start_price": 70.7,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 18.97,
         "forward_return": -19.59,
         "start_price": 70.5,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 19.71,
+        "pe_ratio": 20.64,
         "forward_return": -23.62,
         "start_price": 75.4,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.94,
         "forward_return": -14.13,
         "start_price": 68.0,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 16.66,
+        "pe_ratio": 17.92,
         "forward_return": -11.69,
         "start_price": 62.9,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 18.13,
         "forward_return": -12.63,
         "start_price": 62.2,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 18.12,
         "forward_return": -3.54,
         "start_price": 60.7,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 17.45,
         "forward_return": -3.74,
         "start_price": 60.2,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.83,
         "forward_return": -2.58,
         "start_price": 56.2,
         "start_year": 2024
@@ -6294,7 +6294,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.32,
+        "pe_ratio": 15.43,
         "forward_return": -11.37,
         "start_price": 55.0,
         "start_year": 2025
@@ -6303,7 +6303,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 16.26,
+        "pe_ratio": 16.51,
         "forward_return": -16.3,
         "start_price": 57.4,
         "start_year": 2025
@@ -6312,7 +6312,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.97,
         "forward_return": 40.74,
         "start_price": 11.0,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 7.34,
+        "pe_ratio": 9.78,
         "forward_return": 44.51,
         "start_price": 13.95,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 10.89,
         "forward_return": 29.31,
         "start_price": 16.05,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.76,
+        "pe_ratio": 10.95,
         "forward_return": 19.41,
         "start_price": 16.65,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 8.16,
+        "pe_ratio": 10.06,
         "forward_return": 25.14,
         "start_price": 15.5,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 7.34,
+        "pe_ratio": 8.94,
         "forward_return": 30.95,
         "start_price": 13.95,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.26,
+        "pe_ratio": 12.34,
         "forward_return": -0.31,
         "start_price": 19.5,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 9.29,
+        "pe_ratio": 10.46,
         "forward_return": 7.19,
         "start_price": 17.65,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 10.01,
         "forward_return": -10.17,
         "start_price": 17.95,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.81,
         "forward_return": -25.62,
         "start_price": 27.45,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.25,
+        "pe_ratio": 14.34,
         "forward_return": -21.31,
         "start_price": 25.9,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 15.2,
         "forward_return": -19.96,
         "start_price": 26.75,
         "start_year": 2007
@@ -6429,7 +6429,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.84,
         "forward_return": -14.14,
         "start_price": 25.55,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.9,
+        "pe_ratio": 12.54,
         "forward_return": -11.87,
         "start_price": 24.25,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 13.14,
         "forward_return": -18.38,
         "start_price": 26.55,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.48,
+        "pe_ratio": 14.88,
         "forward_return": -18.17,
         "start_price": 30.3,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.39,
         "forward_return": -16.47,
         "start_price": 27.5,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 12.67,
+        "pe_ratio": 13.14,
         "forward_return": -4.06,
         "start_price": 27.2,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.89,
         "forward_return": -4.9,
         "start_price": 25.25,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.01,
+        "pe_ratio": 9.12,
         "forward_return": 11.84,
         "start_price": 19.85,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.53,
         "forward_return": 21.64,
         "start_price": 15.8,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.69,
+        "pe_ratio": 6.7,
         "forward_return": 33.52,
         "start_price": 17.5,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.03,
+        "pe_ratio": 7.41,
         "forward_return": 24.07,
         "start_price": 20.75,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.23,
         "forward_return": 5.09,
         "start_price": 28.1,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.58,
         "forward_return": 11.35,
         "start_price": 25.8,
         "start_year": 2008
@@ -6555,7 +6555,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 9.6,
+        "pe_ratio": 8.6,
         "forward_return": 32.83,
         "start_price": 22.7,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 8.0,
         "forward_return": 45.56,
         "start_price": 21.65,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.84,
+        "pe_ratio": 7.68,
         "forward_return": 36.55,
         "start_price": 21.3,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.89,
+        "pe_ratio": 5.9,
         "forward_return": 64.33,
         "start_price": 16.75,
         "start_year": 2008
@@ -6591,7 +6591,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 7.19,
+        "pe_ratio": 6.47,
         "forward_return": 59.73,
         "start_price": 17.65,
         "start_year": 2008
@@ -6600,7 +6600,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.78,
+        "pe_ratio": 4.53,
         "forward_return": 97.33,
         "start_price": 11.85,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.16,
+        "pe_ratio": 5.65,
         "forward_return": 120.22,
         "start_price": 12.55,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 5.66,
+        "pe_ratio": 6.91,
         "forward_return": 126.55,
         "start_price": 13.4,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 6.3,
+        "pe_ratio": 8.73,
         "forward_return": 105.71,
         "start_price": 14.5,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 7.24,
+        "pe_ratio": 10.66,
         "forward_return": 82.31,
         "start_price": 16.2,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 7.46,
+        "pe_ratio": 11.74,
         "forward_return": 71.3,
         "start_price": 16.2,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.15,
+        "pe_ratio": 12.14,
         "forward_return": 63.59,
         "start_price": 15.05,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 13.56,
         "forward_return": 49.25,
         "start_price": 17.45,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 12.26,
         "forward_return": 50.47,
         "start_price": 16.35,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.64,
+        "pe_ratio": 16.09,
         "forward_return": 31.2,
         "start_price": 22.2,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 13.42,
         "forward_return": 41.1,
         "start_price": 20.0,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.75,
         "forward_return": 29.36,
         "start_price": 22.0,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.5,
         "forward_return": 37.97,
         "start_price": 20.55,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.62,
         "forward_return": 51.48,
         "start_price": 21.65,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 15.0,
         "forward_return": 24.06,
         "start_price": 29.1,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.68,
         "forward_return": 22.31,
         "start_price": 28.2,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.63,
         "forward_return": 22.98,
         "start_price": 29.15,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.33,
         "forward_return": 8.44,
         "start_price": 37.2,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.75,
+        "pe_ratio": 15.35,
         "forward_return": -3.44,
         "start_price": 43.65,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.95,
         "forward_return": 7.08,
         "start_price": 37.5,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.58,
         "forward_return": -2.59,
         "start_price": 43.0,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 13.26,
+        "pe_ratio": 13.62,
         "forward_return": -11.32,
         "start_price": 42.8,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.16,
         "forward_return": -12.38,
         "start_price": 43.9,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.65,
         "forward_return": -23.48,
         "start_price": 58.6,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.52,
+        "pe_ratio": 18.95,
         "forward_return": -28.69,
         "start_price": 66.5,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 16.89,
         "forward_return": -24.98,
         "start_price": 59.1,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.72,
+        "pe_ratio": 15.99,
         "forward_return": -19.53,
         "start_price": 51.6,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 15.34,
         "forward_return": -14.83,
         "start_price": 45.3,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 14.2,
         "forward_return": 6.18,
         "start_price": 38.05,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.31,
+        "pe_ratio": 12.7,
         "forward_return": 7.42,
         "start_price": 35.05,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.69,
         "forward_return": 6.49,
         "start_price": 33.2,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 11.78,
         "forward_return": 9.76,
         "start_price": 34.4,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.36,
+        "pe_ratio": 12.51,
         "forward_return": 6.84,
         "start_price": 36.0,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.57,
+        "pe_ratio": 11.65,
         "forward_return": 9.95,
         "start_price": 33.0,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.39,
         "forward_return": 3.89,
         "start_price": 35.3,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.76,
         "forward_return": -8.23,
         "start_price": 45.85,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 13.8,
         "forward_return": -3.29,
         "start_price": 41.0,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 11.9,
         "forward_return": -4.87,
         "start_price": 38.4,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 11.57,
         "forward_return": -6.68,
         "start_price": 40.3,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.08,
+        "pe_ratio": 10.68,
         "forward_return": -5.94,
         "start_price": 39.95,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 10.06,
         "forward_return": -3.91,
         "start_price": 35.2,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 11.5,
         "forward_return": -7.63,
         "start_price": 37.5,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.68,
+        "pe_ratio": 11.69,
         "forward_return": -6.67,
         "start_price": 35.3,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.88,
         "forward_return": 5.03,
         "start_price": 28.15,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.52,
         "forward_return": 4.85,
         "start_price": 28.2,
         "start_year": 2012
@@ -7050,7 +7050,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 11.72,
         "forward_return": 7.29,
         "start_price": 28.8,
         "start_year": 2013
@@ -7059,7 +7059,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.78,
         "forward_return": 6.84,
         "start_price": 28.3,
         "start_year": 2013
@@ -7068,7 +7068,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 11.81,
         "forward_return": 7.47,
         "start_price": 27.75,
         "start_year": 2013
@@ -7077,7 +7077,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 12.53,
         "forward_return": 4.04,
         "start_price": 27.9,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.0,
         "forward_return": 0.73,
         "start_price": 27.35,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 18.89,
         "forward_return": -14.42,
         "start_price": 37.4,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.75,
         "forward_return": -10.62,
         "start_price": 35.55,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 19.08,
+        "pe_ratio": 20.22,
         "forward_return": -10.64,
         "start_price": 32.75,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 25.38,
         "forward_return": -13.89,
         "start_price": 36.55,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 23.84,
+        "pe_ratio": 25.86,
         "forward_return": -9.5,
         "start_price": 36.2,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 24.66,
+        "pe_ratio": 25.74,
         "forward_return": -10.32,
         "start_price": 35.0,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 24.58,
+        "pe_ratio": 28.14,
         "forward_return": -5.17,
         "start_price": 33.2,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 23.88,
+        "pe_ratio": 31.73,
         "forward_return": 1.81,
         "start_price": 33.0,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 37.17,
         "forward_return": 2.52,
         "start_price": 33.45,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 31.2,
         "forward_return": 12.68,
         "start_price": 29.85,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 29.8,
         "forward_return": 7.27,
         "start_price": 30.2,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 20.23,
+        "pe_ratio": 28.46,
         "forward_return": 7.67,
         "start_price": 30.45,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 22.72,
         "forward_return": 14.37,
         "start_price": 29.0,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 19.21,
         "forward_return": 12.05,
         "start_price": 28.5,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.12,
         "forward_return": 14.59,
         "start_price": 27.25,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.3,
         "forward_return": 12.68,
         "start_price": 27.55,
         "start_year": 2014
@@ -7248,7 +7248,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 16.27,
         "forward_return": 11.9,
         "start_price": 27.5,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 17.07,
+        "pe_ratio": 17.48,
         "forward_return": 12.28,
         "start_price": 29.65,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.91,
         "forward_return": 11.78,
         "start_price": 28.8,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.6,
+        "pe_ratio": 16.7,
         "forward_return": 15.34,
         "start_price": 28.55,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.23,
+        "pe_ratio": 16.21,
         "forward_return": 17.37,
         "start_price": 26.7,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 15.32,
         "forward_return": 23.32,
         "start_price": 24.25,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.13,
+        "pe_ratio": 15.72,
         "forward_return": 24.89,
         "start_price": 23.9,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 16.07,
         "forward_return": 27.12,
         "start_price": 25.6,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.32,
+        "pe_ratio": 14.01,
         "forward_return": 39.15,
         "start_price": 23.35,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 13.97,
         "forward_return": 30.47,
         "start_price": 24.3,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.06,
         "forward_return": 30.63,
         "start_price": 26.85,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.19,
         "forward_return": 38.05,
         "start_price": 25.35,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.38,
         "forward_return": 52.42,
         "start_price": 27.05,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 10.6,
         "forward_return": 32.03,
         "start_price": 31.4,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 9.74,
         "forward_return": 31.57,
         "start_price": 32.35,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 10.45,
         "forward_return": 33.02,
         "start_price": 35.1,
         "start_year": 2016
@@ -7410,7 +7410,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.17,
+        "pe_ratio": 9.4,
         "forward_return": 33.57,
         "start_price": 31.95,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 9.45,
         "forward_return": 32.09,
         "start_price": 32.5,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 10.18,
         "forward_return": 24.17,
         "start_price": 34.35,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 11.3,
+        "pe_ratio": 9.74,
         "forward_return": 22.62,
         "start_price": 32.2,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.94,
         "forward_return": 18.36,
         "start_price": 32.2,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.47,
+        "pe_ratio": 9.78,
         "forward_return": 15.18,
         "start_price": 31.4,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.7,
         "forward_return": 21.59,
         "start_price": 30.85,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 11.72,
         "forward_return": 16.29,
         "start_price": 33.8,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 10.33,
+        "pe_ratio": 12.38,
         "forward_return": 20.97,
         "start_price": 32.4,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.64,
         "forward_return": 22.79,
         "start_price": 34.4,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.64,
+        "pe_ratio": 13.7,
         "forward_return": 25.47,
         "start_price": 33.2,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 13.34,
         "forward_return": 23.89,
         "start_price": 33.3,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.11,
         "forward_return": 19.73,
         "start_price": 33.7,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 11.88,
+        "pe_ratio": 13.97,
         "forward_return": 15.23,
         "start_price": 36.8,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 13.16,
+        "pe_ratio": 15.07,
         "forward_return": 6.5,
         "start_price": 40.65,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 11.94,
+        "pe_ratio": 13.33,
         "forward_return": 11.69,
         "start_price": 36.8,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.41,
+        "pe_ratio": 14.42,
         "forward_return": 7.93,
         "start_price": 41.25,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.78,
         "forward_return": 5.62,
         "start_price": 43.75,
         "start_year": 2017
@@ -7590,7 +7590,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.33,
         "forward_return": -8.28,
         "start_price": 58.3,
         "start_year": 2018
@@ -7599,7 +7599,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.55,
         "forward_return": -1.87,
         "start_price": 51.3,
         "start_year": 2018
@@ -7608,7 +7608,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.01,
+        "pe_ratio": 15.03,
         "forward_return": -7.63,
         "start_price": 51.4,
         "start_year": 2018
@@ -7617,7 +7617,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.65,
         "forward_return": -8.82,
         "start_price": 57.5,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.03,
         "forward_return": -3.05,
         "start_price": 52.4,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.8,
         "forward_return": -4.92,
         "start_price": 52.1,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 13.45,
         "forward_return": 0.53,
         "start_price": 47.45,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.14,
         "forward_return": 7.63,
         "start_price": 42.9,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.19,
         "forward_return": 4.81,
         "start_price": 39.6,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.1,
         "forward_return": 11.31,
         "start_price": 36.15,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.08,
         "forward_return": 7.85,
         "start_price": 40.1,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 10.81,
         "forward_return": 10.96,
         "start_price": 40.2,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.08,
         "forward_return": 15.39,
         "start_price": 41.9,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.07,
         "forward_return": 15.08,
         "start_price": 46.35,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 12.73,
+        "pe_ratio": 12.61,
         "forward_return": 13.47,
         "start_price": 46.75,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.76,
         "forward_return": 13.26,
         "start_price": 45.6,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 12.44,
         "forward_return": 14.88,
         "start_price": 42.8,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.33,
+        "pe_ratio": 12.05,
         "forward_return": 16.91,
         "start_price": 41.75,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 11.19,
         "forward_return": 20.48,
         "start_price": 39.0,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.05,
         "forward_return": 21.32,
         "start_price": 38.8,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 11.46,
         "forward_return": 18.87,
         "start_price": 40.95,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.47,
         "forward_return": 18.0,
         "start_price": 41.7,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 11.31,
         "forward_return": 18.25,
         "start_price": 41.95,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.37,
         "forward_return": 20.8,
         "start_price": 42.3,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.85,
         "forward_return": 30.62,
         "start_price": 36.75,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.67,
         "forward_return": 22.82,
         "start_price": 40.7,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 10.82,
         "forward_return": 21.86,
         "start_price": 42.15,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.05,
         "forward_return": 21.44,
         "start_price": 40.0,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.01,
+        "pe_ratio": 9.84,
         "forward_return": 23.96,
         "start_price": 40.25,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 10.0,
         "forward_return": 23.97,
         "start_price": 42.0,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.71,
+        "pe_ratio": 8.31,
         "forward_return": 33.24,
         "start_price": 35.8,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.65,
         "forward_return": 27.86,
         "start_price": 37.1,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 9.26,
+        "pe_ratio": 9.12,
         "forward_return": 28.14,
         "start_price": 38.95,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 9.6,
         "forward_return": 24.75,
         "start_price": 41.8,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.05,
+        "pe_ratio": 10.79,
         "forward_return": 26.16,
         "start_price": 48.1,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 11.78,
         "forward_return": 19.94,
         "start_price": 53.7,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.25,
         "forward_return": 22.63,
         "start_price": 52.5,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 10.64,
         "forward_return": 27.09,
         "start_price": 50.8,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.0,
         "forward_return": 26.39,
         "start_price": 48.8,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.07,
         "forward_return": 25.72,
         "start_price": 49.3,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 9.96,
         "forward_return": 23.43,
         "start_price": 48.85,
         "start_year": 2021
@@ -7986,7 +7986,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 10.03,
         "forward_return": 25.82,
         "start_price": 49.35,
         "start_year": 2021
@@ -7995,7 +7995,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 10.22,
         "forward_return": 23.43,
         "start_price": 50.1,
         "start_year": 2021
@@ -8004,7 +8004,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.29,
         "forward_return": 23.67,
         "start_price": 50.3,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.43,
         "forward_return": 23.49,
         "start_price": 50.9,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.62,
+        "pe_ratio": 10.8,
         "forward_return": 22.11,
         "start_price": 52.8,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.2,
         "forward_return": 20.78,
         "start_price": 54.9,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.78,
         "forward_return": 22.08,
         "start_price": 53.6,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.86,
         "forward_return": 24.38,
         "start_price": 54.8,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.0,
         "forward_return": 22.94,
         "start_price": 51.2,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.25,
         "forward_return": 16.15,
         "start_price": 53.1,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.65,
         "forward_return": 12.75,
         "start_price": 55.8,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 10.34,
         "forward_return": 12.57,
         "start_price": 54.8,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.63,
+        "pe_ratio": 9.68,
         "forward_return": 15.25,
         "start_price": 51.9,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.17,
         "forward_return": 8.47,
         "start_price": 55.2,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.49,
         "forward_return": 6.41,
         "start_price": 56.3,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.93,
         "forward_return": -1.22,
         "start_price": 67.8,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.38,
         "forward_return": -1.95,
         "start_price": 68.5,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.89,
         "forward_return": -6.36,
         "start_price": 70.2,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 15.12,
+        "pe_ratio": 14.7,
         "forward_return": -7.69,
         "start_price": 73.3,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 14.07,
         "forward_return": -4.39,
         "start_price": 69.2,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 14.92,
+        "pe_ratio": 14.19,
         "forward_return": -6.84,
         "start_price": 68.5,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 14.56,
+        "pe_ratio": 13.73,
         "forward_return": -5.33,
         "start_price": 65.0,
         "start_year": 2023
@@ -8202,7 +8202,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 15.85,
+        "pe_ratio": 14.81,
         "forward_return": -4.65,
         "start_price": 68.7,
         "start_year": 2023
@@ -8211,7 +8211,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 15.17,
         "forward_return": -3.85,
         "start_price": 66.9,
         "start_year": 2023
@@ -8220,7 +8220,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.15,
         "forward_return": -6.78,
         "start_price": 67.5,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 17.52,
         "forward_return": -12.13,
         "start_price": 68.2,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.97,
         "forward_return": 16.02,
         "start_price": 11.0,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 7.34,
+        "pe_ratio": 9.78,
         "forward_return": 10.61,
         "start_price": 13.95,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 10.89,
         "forward_return": 5.56,
         "start_price": 16.05,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.76,
+        "pe_ratio": 10.95,
         "forward_return": 2.12,
         "start_price": 16.65,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 8.16,
+        "pe_ratio": 10.06,
         "forward_return": 11.14,
         "start_price": 15.5,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 7.34,
+        "pe_ratio": 8.94,
         "forward_return": 13.1,
         "start_price": 13.95,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.26,
+        "pe_ratio": 12.34,
         "forward_return": 10.11,
         "start_price": 19.5,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 9.29,
+        "pe_ratio": 10.46,
         "forward_return": 10.52,
         "start_price": 17.65,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 10.01,
         "forward_return": 12.9,
         "start_price": 17.95,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.81,
         "forward_return": -3.87,
         "start_price": 27.45,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.25,
+        "pe_ratio": 14.34,
         "forward_return": -0.54,
         "start_price": 25.9,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 15.2,
         "forward_return": 7.17,
         "start_price": 26.75,
         "start_year": 2007
@@ -8364,7 +8364,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.84,
         "forward_return": 7.82,
         "start_price": 25.55,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.9,
+        "pe_ratio": 12.54,
         "forward_return": 10.79,
         "start_price": 24.25,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 13.14,
         "forward_return": 15.61,
         "start_price": 26.55,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.48,
+        "pe_ratio": 14.88,
         "forward_return": 16.15,
         "start_price": 30.3,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.39,
         "forward_return": 14.54,
         "start_price": 27.5,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 12.67,
+        "pe_ratio": 13.14,
         "forward_return": 19.85,
         "start_price": 27.2,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.89,
         "forward_return": 22.68,
         "start_price": 25.25,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.01,
+        "pe_ratio": 9.12,
         "forward_return": 33.96,
         "start_price": 19.85,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.53,
         "forward_return": 58.08,
         "start_price": 15.8,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.69,
+        "pe_ratio": 6.7,
         "forward_return": 51.52,
         "start_price": 17.5,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.03,
+        "pe_ratio": 7.41,
         "forward_return": 44.79,
         "start_price": 20.75,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.23,
         "forward_return": 25.44,
         "start_price": 28.1,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.58,
         "forward_return": 23.97,
         "start_price": 25.8,
         "start_year": 2008
@@ -8490,7 +8490,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 9.6,
+        "pe_ratio": 8.6,
         "forward_return": 22.67,
         "start_price": 22.7,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 8.0,
         "forward_return": 22.77,
         "start_price": 21.65,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.84,
+        "pe_ratio": 7.68,
         "forward_return": 21.51,
         "start_price": 21.3,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.89,
+        "pe_ratio": 5.9,
         "forward_return": 33.02,
         "start_price": 16.75,
         "start_year": 2008
@@ -8526,7 +8526,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 7.19,
+        "pe_ratio": 6.47,
         "forward_return": 32.46,
         "start_price": 17.65,
         "start_year": 2008
@@ -8535,7 +8535,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.78,
+        "pe_ratio": 4.53,
         "forward_return": 47.5,
         "start_price": 11.85,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.16,
+        "pe_ratio": 5.65,
         "forward_return": 47.57,
         "start_price": 12.55,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 5.66,
+        "pe_ratio": 6.91,
         "forward_return": 56.03,
         "start_price": 13.4,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 6.3,
+        "pe_ratio": 8.73,
         "forward_return": 46.92,
         "start_price": 14.5,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 7.24,
+        "pe_ratio": 10.66,
         "forward_return": 38.88,
         "start_price": 16.2,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 7.46,
+        "pe_ratio": 11.74,
         "forward_return": 40.87,
         "start_price": 16.2,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.15,
+        "pe_ratio": 12.14,
         "forward_return": 44.0,
         "start_price": 15.05,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 13.56,
         "forward_return": 33.69,
         "start_price": 17.45,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 12.26,
         "forward_return": 39.08,
         "start_price": 16.35,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.64,
+        "pe_ratio": 16.09,
         "forward_return": 23.48,
         "start_price": 22.2,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 13.42,
         "forward_return": 20.1,
         "start_price": 20.0,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.75,
         "forward_return": 16.4,
         "start_price": 22.0,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.5,
         "forward_return": 19.76,
         "start_price": 20.55,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.62,
         "forward_return": 17.14,
         "start_price": 21.65,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 15.0,
         "forward_return": 5.58,
         "start_price": 29.1,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.68,
         "forward_return": 6.85,
         "start_price": 28.2,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.63,
         "forward_return": 5.11,
         "start_price": 29.15,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.33,
         "forward_return": 5.67,
         "start_price": 37.2,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.75,
+        "pe_ratio": 15.35,
         "forward_return": -0.31,
         "start_price": 43.65,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.95,
         "forward_return": 2.56,
         "start_price": 37.5,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.58,
         "forward_return": 0.96,
         "start_price": 43.0,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 13.26,
+        "pe_ratio": 13.62,
         "forward_return": 0.85,
         "start_price": 42.8,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.16,
         "forward_return": -0.92,
         "start_price": 43.9,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.65,
         "forward_return": -11.29,
         "start_price": 58.6,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.52,
+        "pe_ratio": 18.95,
         "forward_return": -15.09,
         "start_price": 66.5,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 16.89,
         "forward_return": -11.36,
         "start_price": 59.1,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.72,
+        "pe_ratio": 15.99,
         "forward_return": -10.05,
         "start_price": 51.6,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 15.34,
         "forward_return": -5.77,
         "start_price": 45.3,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 14.2,
         "forward_return": 0.09,
         "start_price": 38.05,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.31,
+        "pe_ratio": 12.7,
         "forward_return": 0.14,
         "start_price": 35.05,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.69,
         "forward_return": 1.48,
         "start_price": 33.2,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 11.78,
         "forward_return": -0.93,
         "start_price": 34.4,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.36,
+        "pe_ratio": 12.51,
         "forward_return": -2.13,
         "start_price": 36.0,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.57,
+        "pe_ratio": 11.65,
         "forward_return": 0.7,
         "start_price": 33.0,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.39,
         "forward_return": 0.52,
         "start_price": 35.3,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.76,
         "forward_return": -8.61,
         "start_price": 45.85,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 13.8,
         "forward_return": -5.37,
         "start_price": 41.0,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 11.9,
         "forward_return": -5.03,
         "start_price": 38.4,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 11.57,
         "forward_return": -8.92,
         "start_price": 40.3,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.08,
+        "pe_ratio": 10.68,
         "forward_return": -9.01,
         "start_price": 39.95,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 10.06,
         "forward_return": -4.56,
         "start_price": 35.2,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 11.5,
         "forward_return": -8.9,
         "start_price": 37.5,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.68,
+        "pe_ratio": 11.69,
         "forward_return": -6.02,
         "start_price": 35.3,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.88,
         "forward_return": 4.21,
         "start_price": 28.15,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.52,
         "forward_return": 2.49,
         "start_price": 28.2,
         "start_year": 2012
@@ -8985,7 +8985,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 11.72,
         "forward_return": 3.64,
         "start_price": 28.8,
         "start_year": 2013
@@ -8994,7 +8994,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.78,
         "forward_return": 8.76,
         "start_price": 28.3,
         "start_year": 2013
@@ -9003,7 +9003,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 11.81,
         "forward_return": 10.41,
         "start_price": 27.75,
         "start_year": 2013
@@ -9012,7 +9012,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 12.53,
         "forward_return": 12.86,
         "start_price": 27.9,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.0,
         "forward_return": 10.55,
         "start_price": 27.35,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 18.89,
         "forward_return": 0.09,
         "start_price": 37.4,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.75,
         "forward_return": 3.34,
         "start_price": 35.55,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 19.08,
+        "pe_ratio": 20.22,
         "forward_return": 4.23,
         "start_price": 32.75,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 25.38,
         "forward_return": 0.49,
         "start_price": 36.55,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 23.84,
+        "pe_ratio": 25.86,
         "forward_return": 0.08,
         "start_price": 36.2,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 24.66,
+        "pe_ratio": 25.74,
         "forward_return": 0.7,
         "start_price": 35.0,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 24.58,
+        "pe_ratio": 28.14,
         "forward_return": 5.23,
         "start_price": 33.2,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 23.88,
+        "pe_ratio": 31.73,
         "forward_return": 4.16,
         "start_price": 33.0,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 37.17,
         "forward_return": 5.51,
         "start_price": 33.45,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 31.2,
         "forward_return": 8.46,
         "start_price": 29.85,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 29.8,
         "forward_return": 8.13,
         "start_price": 30.2,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 20.23,
+        "pe_ratio": 28.46,
         "forward_return": 8.21,
         "start_price": 30.45,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 22.72,
         "forward_return": 13.93,
         "start_price": 29.0,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 19.21,
         "forward_return": 17.92,
         "start_price": 28.5,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.12,
         "forward_return": 16.32,
         "start_price": 27.25,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.3,
         "forward_return": 19.77,
         "start_price": 27.55,
         "start_year": 2014
@@ -9183,7 +9183,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 16.27,
         "forward_return": 21.91,
         "start_price": 27.5,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 17.07,
+        "pe_ratio": 17.48,
         "forward_return": 29.49,
         "start_price": 29.65,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.91,
         "forward_return": 25.83,
         "start_price": 28.8,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.6,
+        "pe_ratio": 16.7,
         "forward_return": 26.27,
         "start_price": 28.55,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.23,
+        "pe_ratio": 16.21,
         "forward_return": 33.53,
         "start_price": 26.7,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 15.32,
         "forward_return": 34.1,
         "start_price": 24.25,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.13,
+        "pe_ratio": 15.72,
         "forward_return": 34.52,
         "start_price": 23.9,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 16.07,
         "forward_return": 29.05,
         "start_price": 25.6,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.32,
+        "pe_ratio": 14.01,
         "forward_return": 29.3,
         "start_price": 23.35,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 13.97,
         "forward_return": 24.75,
         "start_price": 24.3,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.06,
         "forward_return": 17.65,
         "start_price": 26.85,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.19,
         "forward_return": 23.43,
         "start_price": 25.35,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.38,
         "forward_return": 20.88,
         "start_price": 27.05,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 10.6,
         "forward_return": 19.2,
         "start_price": 31.4,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 9.74,
         "forward_return": 18.59,
         "start_price": 32.35,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 10.45,
         "forward_return": 15.69,
         "start_price": 35.1,
         "start_year": 2016
@@ -9345,7 +9345,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.17,
+        "pe_ratio": 9.4,
         "forward_return": 18.53,
         "start_price": 31.95,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 9.45,
         "forward_return": 15.75,
         "start_price": 32.5,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 10.18,
         "forward_return": 14.35,
         "start_price": 34.35,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 11.3,
+        "pe_ratio": 9.74,
         "forward_return": 14.72,
         "start_price": 32.2,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.94,
         "forward_return": 14.56,
         "start_price": 32.2,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.47,
+        "pe_ratio": 9.78,
         "forward_return": 17.21,
         "start_price": 31.4,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.7,
         "forward_return": 18.49,
         "start_price": 30.85,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 11.72,
         "forward_return": 15.12,
         "start_price": 33.8,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 10.33,
+        "pe_ratio": 12.38,
         "forward_return": 17.02,
         "start_price": 32.4,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.64,
         "forward_return": 10.45,
         "start_price": 34.4,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.64,
+        "pe_ratio": 13.7,
         "forward_return": 14.85,
         "start_price": 33.2,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 13.34,
         "forward_return": 15.83,
         "start_price": 33.3,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.11,
         "forward_return": 13.75,
         "start_price": 33.7,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 11.88,
+        "pe_ratio": 13.97,
         "forward_return": 11.45,
         "start_price": 36.8,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 13.16,
+        "pe_ratio": 15.07,
         "forward_return": 9.04,
         "start_price": 40.65,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 11.94,
+        "pe_ratio": 13.33,
         "forward_return": 8.11,
         "start_price": 36.8,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.41,
+        "pe_ratio": 14.42,
         "forward_return": 5.03,
         "start_price": 41.25,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.78,
         "forward_return": 4.31,
         "start_price": 43.75,
         "start_year": 2017
@@ -9525,7 +9525,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.33,
         "forward_return": -3.43,
         "start_price": 58.3,
         "start_year": 2018
@@ -9534,7 +9534,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.55,
         "forward_return": 4.65,
         "start_price": 51.3,
         "start_year": 2018
@@ -9543,7 +9543,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.01,
+        "pe_ratio": 15.03,
         "forward_return": 7.8,
         "start_price": 51.4,
         "start_year": 2018
@@ -9552,7 +9552,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.65,
         "forward_return": 3.2,
         "start_price": 57.5,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.03,
         "forward_return": 5.48,
         "start_price": 52.4,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.8,
         "forward_return": 4.53,
         "start_price": 52.1,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 13.45,
         "forward_return": 8.84,
         "start_price": 47.45,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.14,
         "forward_return": 12.28,
         "start_price": 42.9,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.19,
         "forward_return": 15.63,
         "start_price": 39.6,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.1,
         "forward_return": 19.68,
         "start_price": 36.15,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.08,
         "forward_return": 15.74,
         "start_price": 40.1,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 10.81,
         "forward_return": 16.01,
         "start_price": 40.2,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.08,
         "forward_return": 15.57,
         "start_price": 41.9,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.07,
         "forward_return": 12.94,
         "start_price": 46.35,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 12.73,
+        "pe_ratio": 12.61,
         "forward_return": 11.88,
         "start_price": 46.75,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.76,
         "forward_return": 13.5,
         "start_price": 45.6,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 12.44,
         "forward_return": 13.8,
         "start_price": 42.8,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.33,
+        "pe_ratio": 12.05,
         "forward_return": 16.15,
         "start_price": 41.75,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 11.19,
         "forward_return": 20.43,
         "start_price": 39.0,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.05,
         "forward_return": 20.04,
         "start_price": 38.8,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 11.46,
         "forward_return": 16.18,
         "start_price": 40.95,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.47,
         "forward_return": 17.43,
         "start_price": 41.7,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 11.31,
         "forward_return": 17.83,
         "start_price": 41.95,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.37,
         "forward_return": 23.4,
         "start_price": 42.3,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.85,
         "forward_return": 30.07,
         "start_price": 36.75,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.67,
         "forward_return": 26.59,
         "start_price": 40.7,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 10.82,
         "forward_return": 26.67,
         "start_price": 42.15,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.05,
         "forward_return": 26.81,
         "start_price": 40.0,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.01,
+        "pe_ratio": 9.84,
         "forward_return": 26.83,
         "start_price": 40.25,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 10.0,
         "forward_return": 23.24,
         "start_price": 42.0,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.71,
+        "pe_ratio": 8.31,
         "forward_return": 31.99,
         "start_price": 35.8,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.65,
         "forward_return": 29.47,
         "start_price": 37.1,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 9.26,
+        "pe_ratio": 9.12,
         "forward_return": 27.7,
         "start_price": 38.95,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 9.6,
         "forward_return": 25.09,
         "start_price": 41.8,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.05,
+        "pe_ratio": 10.79,
         "forward_return": 19.9,
         "start_price": 48.1,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 11.78,
         "forward_return": 16.21,
         "start_price": 53.7,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.25,
         "forward_return": 16.99,
         "start_price": 52.5,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 10.64,
         "forward_return": 20.54,
         "start_price": 50.8,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.0,
         "forward_return": 18.68,
         "start_price": 48.8,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.07,
         "forward_return": 15.62,
         "start_price": 49.3,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 9.96,
         "forward_return": 15.62,
         "start_price": 48.85,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 10.03,
         "forward_return": 14.46,
         "start_price": 49.35,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 10.22,
         "forward_return": 13.63,
         "start_price": 50.1,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.29,
         "forward_return": 11.38,
         "start_price": 50.3,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.43,
         "forward_return": 10.3,
         "start_price": 50.9,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.62,
+        "pe_ratio": 10.8,
         "forward_return": 10.22,
         "start_price": 52.8,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.2,
         "forward_return": 8.64,
         "start_price": 54.9,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.78,
         "forward_return": 7.24,
         "start_price": 53.6,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.86,
         "forward_return": 6.93,
         "start_price": 54.8,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.0,
         "forward_return": 9.81,
         "start_price": 51.2,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.25,
         "forward_return": 6.59,
         "start_price": 53.1,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.65,
         "forward_return": 4.18,
         "start_price": 55.8,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 10.34,
         "forward_return": 7.09,
         "start_price": 54.8,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.63,
+        "pe_ratio": 9.68,
         "forward_return": 8.72,
         "start_price": 51.9,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.17,
         "forward_return": 4.78,
         "start_price": 55.2,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.49,
         "forward_return": 0.71,
         "start_price": 56.3,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.93,
         "forward_return": -5.73,
         "start_price": 67.8,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.97,
         "forward_return": 31.59,
         "start_price": 11.0,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 7.34,
+        "pe_ratio": 9.78,
         "forward_return": 23.15,
         "start_price": 13.95,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 10.89,
         "forward_return": 19.77,
         "start_price": 16.05,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.76,
+        "pe_ratio": 10.95,
         "forward_return": 25.33,
         "start_price": 16.65,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 8.16,
+        "pe_ratio": 10.06,
         "forward_return": 32.99,
         "start_price": 15.5,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 7.34,
+        "pe_ratio": 8.94,
         "forward_return": 31.98,
         "start_price": 13.95,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.26,
+        "pe_ratio": 12.34,
         "forward_return": 25.15,
         "start_price": 19.5,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 9.29,
+        "pe_ratio": 10.46,
         "forward_return": 28.17,
         "start_price": 17.65,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 10.01,
         "forward_return": 28.36,
         "start_price": 17.95,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.81,
         "forward_return": 23.29,
         "start_price": 27.45,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.25,
+        "pe_ratio": 14.34,
         "forward_return": 28.82,
         "start_price": 25.9,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 15.2,
         "forward_return": 24.34,
         "start_price": 26.75,
         "start_year": 2007
@@ -10200,7 +10200,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.84,
         "forward_return": 21.91,
         "start_price": 25.55,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.9,
+        "pe_ratio": 12.54,
         "forward_return": 19.91,
         "start_price": 24.25,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 13.14,
         "forward_return": 12.73,
         "start_price": 26.55,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.48,
+        "pe_ratio": 14.88,
         "forward_return": 8.3,
         "start_price": 30.3,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.39,
         "forward_return": 9.71,
         "start_price": 27.5,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 12.67,
+        "pe_ratio": 13.14,
         "forward_return": 10.83,
         "start_price": 27.2,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.89,
         "forward_return": 13.99,
         "start_price": 25.25,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.01,
+        "pe_ratio": 9.12,
         "forward_return": 18.87,
         "start_price": 19.85,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.53,
         "forward_return": 27.64,
         "start_price": 15.8,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.69,
+        "pe_ratio": 6.7,
         "forward_return": 31.6,
         "start_price": 17.5,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.03,
+        "pe_ratio": 7.41,
         "forward_return": 23.09,
         "start_price": 20.75,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.23,
         "forward_return": 12.51,
         "start_price": 28.1,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.58,
         "forward_return": 16.14,
         "start_price": 25.8,
         "start_year": 2008
@@ -10326,7 +10326,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 9.6,
+        "pe_ratio": 8.6,
         "forward_return": 19.69,
         "start_price": 22.7,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 8.0,
         "forward_return": 18.65,
         "start_price": 21.65,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.84,
+        "pe_ratio": 7.68,
         "forward_return": 20.7,
         "start_price": 21.3,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.89,
+        "pe_ratio": 5.9,
         "forward_return": 26.58,
         "start_price": 16.75,
         "start_year": 2008
@@ -10362,7 +10362,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 7.19,
+        "pe_ratio": 6.47,
         "forward_return": 19.38,
         "start_price": 17.65,
         "start_year": 2008
@@ -10371,7 +10371,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.78,
+        "pe_ratio": 4.53,
         "forward_return": 31.93,
         "start_price": 11.85,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.16,
+        "pe_ratio": 5.65,
         "forward_return": 30.59,
         "start_price": 12.55,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 5.66,
+        "pe_ratio": 6.91,
         "forward_return": 28.03,
         "start_price": 13.4,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 6.3,
+        "pe_ratio": 8.73,
         "forward_return": 25.04,
         "start_price": 14.5,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 7.24,
+        "pe_ratio": 10.66,
         "forward_return": 21.75,
         "start_price": 16.2,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 7.46,
+        "pe_ratio": 11.74,
         "forward_return": 21.28,
         "start_price": 16.2,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.15,
+        "pe_ratio": 12.14,
         "forward_return": 31.57,
         "start_price": 15.05,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 13.56,
         "forward_return": 26.19,
         "start_price": 17.45,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 12.26,
         "forward_return": 26.18,
         "start_price": 16.35,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.64,
+        "pe_ratio": 16.09,
         "forward_return": 19.49,
         "start_price": 22.2,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 13.42,
         "forward_return": 22.41,
         "start_price": 20.0,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.75,
         "forward_return": 18.72,
         "start_price": 22.0,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.5,
         "forward_return": 19.5,
         "start_price": 20.55,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.62,
         "forward_return": 17.81,
         "start_price": 21.65,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 15.0,
         "forward_return": 9.7,
         "start_price": 29.1,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.68,
         "forward_return": 8.13,
         "start_price": 28.2,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.63,
         "forward_return": 7.48,
         "start_price": 29.15,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.33,
         "forward_return": 1.29,
         "start_price": 37.2,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.75,
+        "pe_ratio": 15.35,
         "forward_return": -3.41,
         "start_price": 43.65,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.95,
         "forward_return": 0.0,
         "start_price": 37.5,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.58,
         "forward_return": -4.18,
         "start_price": 43.0,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 13.26,
+        "pe_ratio": 13.62,
         "forward_return": -3.87,
         "start_price": 42.8,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.16,
         "forward_return": -4.51,
         "start_price": 43.9,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.65,
         "forward_return": -9.88,
         "start_price": 58.6,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.52,
+        "pe_ratio": 18.95,
         "forward_return": -13.17,
         "start_price": 66.5,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 16.89,
         "forward_return": -10.72,
         "start_price": 59.1,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.72,
+        "pe_ratio": 15.99,
         "forward_return": -8.8,
         "start_price": 51.6,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 15.34,
         "forward_return": -7.44,
         "start_price": 45.3,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 14.2,
         "forward_return": -3.57,
         "start_price": 38.05,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.31,
+        "pe_ratio": 12.7,
         "forward_return": -1.27,
         "start_price": 35.05,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.69,
         "forward_return": -1.66,
         "start_price": 33.2,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 11.78,
         "forward_return": -1.79,
         "start_price": 34.4,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.36,
+        "pe_ratio": 12.51,
         "forward_return": -1.02,
         "start_price": 36.0,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.57,
+        "pe_ratio": 11.65,
         "forward_return": 0.04,
         "start_price": 33.0,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.39,
         "forward_return": -0.39,
         "start_price": 35.3,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.76,
         "forward_return": -3.9,
         "start_price": 45.85,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 13.8,
         "forward_return": -0.58,
         "start_price": 41.0,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 11.9,
         "forward_return": 2.75,
         "start_price": 38.4,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 11.57,
         "forward_return": -0.4,
         "start_price": 40.3,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.08,
+        "pe_ratio": 10.68,
         "forward_return": 0.16,
         "start_price": 39.95,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 10.06,
         "forward_return": 4.16,
         "start_price": 35.2,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 11.5,
         "forward_return": 1.17,
         "start_price": 37.5,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.68,
+        "pe_ratio": 11.69,
         "forward_return": 2.71,
         "start_price": 35.3,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.88,
         "forward_return": 8.13,
         "start_price": 28.15,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.52,
         "forward_return": 7.7,
         "start_price": 28.2,
         "start_year": 2012
@@ -10821,7 +10821,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 11.72,
         "forward_return": 9.16,
         "start_price": 28.8,
         "start_year": 2013
@@ -10830,7 +10830,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.78,
         "forward_return": 8.69,
         "start_price": 28.3,
         "start_year": 2013
@@ -10839,7 +10839,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 11.81,
         "forward_return": 10.58,
         "start_price": 27.75,
         "start_year": 2013
@@ -10848,7 +10848,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 12.53,
         "forward_return": 9.62,
         "start_price": 27.9,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.0,
         "forward_return": 10.24,
         "start_price": 27.35,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 18.89,
         "forward_return": 2.19,
         "start_price": 37.4,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.75,
         "forward_return": 5.59,
         "start_price": 35.55,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 19.08,
+        "pe_ratio": 20.22,
         "forward_return": 10.05,
         "start_price": 32.75,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 25.38,
         "forward_return": 4.86,
         "start_price": 36.55,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 23.84,
+        "pe_ratio": 25.86,
         "forward_return": 7.66,
         "start_price": 36.2,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 24.66,
+        "pe_ratio": 25.74,
         "forward_return": 9.94,
         "start_price": 35.0,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 24.58,
+        "pe_ratio": 28.14,
         "forward_return": 18.6,
         "start_price": 33.2,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 23.88,
+        "pe_ratio": 31.73,
         "forward_return": 15.48,
         "start_price": 33.0,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 37.17,
         "forward_return": 15.14,
         "start_price": 33.45,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 31.2,
         "forward_return": 21.42,
         "start_price": 29.85,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 29.8,
         "forward_return": 18.62,
         "start_price": 30.2,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 20.23,
+        "pe_ratio": 28.46,
         "forward_return": 18.23,
         "start_price": 30.45,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 22.72,
         "forward_return": 18.16,
         "start_price": 29.0,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 19.21,
         "forward_return": 16.22,
         "start_price": 28.5,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.12,
         "forward_return": 15.61,
         "start_price": 27.25,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.3,
         "forward_return": 13.2,
         "start_price": 27.55,
         "start_year": 2014
@@ -11019,7 +11019,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 16.27,
         "forward_return": 15.65,
         "start_price": 27.5,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 17.07,
+        "pe_ratio": 17.48,
         "forward_return": 13.55,
         "start_price": 29.65,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.91,
         "forward_return": 15.35,
         "start_price": 28.8,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.6,
+        "pe_ratio": 16.7,
         "forward_return": 18.05,
         "start_price": 28.55,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.23,
+        "pe_ratio": 16.21,
         "forward_return": 20.26,
         "start_price": 26.7,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 15.32,
         "forward_return": 22.54,
         "start_price": 24.25,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.13,
+        "pe_ratio": 15.72,
         "forward_return": 21.39,
         "start_price": 23.9,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 16.07,
         "forward_return": 20.2,
         "start_price": 25.6,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.32,
+        "pe_ratio": 14.01,
         "forward_return": 21.38,
         "start_price": 23.35,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 13.97,
         "forward_return": 20.06,
         "start_price": 24.3,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.06,
         "forward_return": 18.32,
         "start_price": 26.85,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.19,
         "forward_return": 20.46,
         "start_price": 25.35,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.38,
         "forward_return": 18.66,
         "start_price": 27.05,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 10.6,
         "forward_return": 14.51,
         "start_price": 31.4,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 9.74,
         "forward_return": 10.62,
         "start_price": 32.35,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 10.45,
         "forward_return": 10.53,
         "start_price": 35.1,
         "start_year": 2016
@@ -11181,7 +11181,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.17,
+        "pe_ratio": 9.4,
         "forward_return": 13.93,
         "start_price": 31.95,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 9.45,
         "forward_return": 12.3,
         "start_price": 32.5,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 10.18,
         "forward_return": 11.69,
         "start_price": 34.35,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 11.3,
+        "pe_ratio": 9.74,
         "forward_return": 14.42,
         "start_price": 32.2,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.94,
         "forward_return": 11.07,
         "start_price": 32.2,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.47,
+        "pe_ratio": 9.78,
         "forward_return": 12.5,
         "start_price": 31.4,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.7,
         "forward_return": 14.02,
         "start_price": 30.85,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 11.72,
         "forward_return": 12.94,
         "start_price": 33.8,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 10.33,
+        "pe_ratio": 12.38,
         "forward_return": 17.28,
         "start_price": 32.4,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.64,
         "forward_return": 18.09,
         "start_price": 34.4,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.64,
+        "pe_ratio": 13.7,
         "forward_return": 18.61,
         "start_price": 33.2,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 13.34,
         "forward_return": 17.74,
         "start_price": 33.3,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.11,
         "forward_return": 16.46,
         "start_price": 33.7,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 11.88,
+        "pe_ratio": 13.97,
         "forward_return": 14.92,
         "start_price": 36.8,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 13.16,
+        "pe_ratio": 15.07,
         "forward_return": 11.9,
         "start_price": 40.65,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 11.94,
+        "pe_ratio": 13.33,
         "forward_return": 14.94,
         "start_price": 36.8,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.41,
+        "pe_ratio": 14.42,
         "forward_return": 12.03,
         "start_price": 41.25,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.78,
         "forward_return": 10.48,
         "start_price": 43.75,
         "start_year": 2017
@@ -11361,7 +11361,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.33,
         "forward_return": 3.06,
         "start_price": 58.3,
         "start_year": 2018
@@ -11370,7 +11370,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.55,
         "forward_return": 7.17,
         "start_price": 51.3,
         "start_year": 2018
@@ -11379,7 +11379,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.01,
+        "pe_ratio": 15.03,
         "forward_return": 7.94,
         "start_price": 51.4,
         "start_year": 2018
@@ -11388,7 +11388,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.65,
         "forward_return": 4.46,
         "start_price": 57.5,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.03,
         "forward_return": 7.38,
         "start_price": 52.4,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.8,
         "forward_return": 6.12,
         "start_price": 52.1,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 13.45,
         "forward_return": 10.02,
         "start_price": 47.45,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.14,
         "forward_return": 13.91,
         "start_price": 42.9,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.19,
         "forward_return": 15.81,
         "start_price": 39.6,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.1,
         "forward_return": 17.25,
         "start_price": 36.15,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.08,
         "forward_return": 15.61,
         "start_price": 40.1,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 10.81,
         "forward_return": 15.98,
         "start_price": 40.2,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.08,
         "forward_return": 19.07,
         "start_price": 41.9,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.07,
         "forward_return": 16.35,
         "start_price": 46.35,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 12.73,
+        "pe_ratio": 12.61,
         "forward_return": 16.67,
         "start_price": 46.75,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.76,
         "forward_return": 18.44,
         "start_price": 45.6,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 12.44,
         "forward_return": 18.93,
         "start_price": 42.8,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.33,
+        "pe_ratio": 12.05,
         "forward_return": 19.69,
         "start_price": 41.75,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 11.19,
         "forward_return": 20.48,
         "start_price": 39.0,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.05,
         "forward_return": 21.97,
         "start_price": 38.8,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 11.46,
         "forward_return": 19.7,
         "start_price": 40.95,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.47,
         "forward_return": 19.37,
         "start_price": 41.7,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 11.31,
         "forward_return": 19.44,
         "start_price": 41.95,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.37,
         "forward_return": 19.58,
         "start_price": 42.3,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.85,
         "forward_return": 24.35,
         "start_price": 36.75,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.67,
         "forward_return": 21.15,
         "start_price": 40.7,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 10.82,
         "forward_return": 21.74,
         "start_price": 42.15,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.05,
         "forward_return": 20.8,
         "start_price": 40.0,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.01,
+        "pe_ratio": 9.84,
         "forward_return": 18.88,
         "start_price": 40.25,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 10.0,
         "forward_return": 17.36,
         "start_price": 42.0,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.71,
+        "pe_ratio": 8.31,
         "forward_return": 21.56,
         "start_price": 35.8,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.65,
         "forward_return": 20.29,
         "start_price": 37.1,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 9.26,
+        "pe_ratio": 9.12,
         "forward_return": 17.28,
         "start_price": 38.95,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 9.6,
         "forward_return": 14.75,
         "start_price": 41.8,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.05,
+        "pe_ratio": 10.79,
         "forward_return": 11.7,
         "start_price": 48.1,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 11.78,
         "forward_return": 8.56,
         "start_price": 53.7,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.25,
         "forward_return": 7.56,
         "start_price": 52.5,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 10.64,
         "forward_return": 8.8,
         "start_price": 50.8,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.0,
         "forward_return": 10.2,
         "start_price": 48.8,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 10.07,
         "forward_return": 8.71,
         "start_price": 49.3,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 9.96,
         "forward_return": 8.48,
         "start_price": 48.85,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 10.03,
         "forward_return": 9.85,
         "start_price": 49.35,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 10.22,
         "forward_return": 9.2,
         "start_price": 50.1,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.29,
         "forward_return": 7.85,
         "start_price": 50.3,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.43,
         "forward_return": 5.08,
         "start_price": 50.9,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.62,
+        "pe_ratio": 10.8,
         "forward_return": 3.82,
         "start_price": 52.8,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.97,
         "forward_return": 42.22,
         "start_price": 11.0,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 7.34,
+        "pe_ratio": 9.78,
         "forward_return": 32.28,
         "start_price": 13.95,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 10.89,
         "forward_return": 25.61,
         "start_price": 16.05,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.76,
+        "pe_ratio": 10.95,
         "forward_return": 20.86,
         "start_price": 16.65,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 8.16,
+        "pe_ratio": 10.06,
         "forward_return": 22.46,
         "start_price": 15.5,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 7.34,
+        "pe_ratio": 8.94,
         "forward_return": 23.96,
         "start_price": 13.95,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.26,
+        "pe_ratio": 12.34,
         "forward_return": 16.6,
         "start_price": 19.5,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 9.29,
+        "pe_ratio": 10.46,
         "forward_return": 19.85,
         "start_price": 17.65,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 10.01,
         "forward_return": 17.75,
         "start_price": 17.95,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.81,
         "forward_return": 9.36,
         "start_price": 27.45,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.25,
+        "pe_ratio": 14.34,
         "forward_return": 15.61,
         "start_price": 25.9,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 15.2,
         "forward_return": 12.69,
         "start_price": 26.75,
         "start_year": 2007
@@ -11928,7 +11928,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.84,
         "forward_return": 12.49,
         "start_price": 25.55,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.9,
+        "pe_ratio": 12.54,
         "forward_return": 14.59,
         "start_price": 24.25,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 13.14,
         "forward_return": 12.37,
         "start_price": 26.55,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.48,
+        "pe_ratio": 14.88,
         "forward_return": 8.0,
         "start_price": 30.3,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.39,
         "forward_return": 11.23,
         "start_price": 27.5,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 12.67,
+        "pe_ratio": 13.14,
         "forward_return": 10.41,
         "start_price": 27.2,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.89,
         "forward_return": 8.22,
         "start_price": 25.25,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.01,
+        "pe_ratio": 9.12,
         "forward_return": 13.58,
         "start_price": 19.85,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.53,
         "forward_return": 19.26,
         "start_price": 15.8,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.69,
+        "pe_ratio": 6.7,
         "forward_return": 15.93,
         "start_price": 17.5,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.03,
+        "pe_ratio": 7.41,
         "forward_return": 12.32,
         "start_price": 20.75,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.23,
         "forward_return": 5.79,
         "start_price": 28.1,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.58,
         "forward_return": 7.29,
         "start_price": 25.8,
         "start_year": 2008
@@ -12054,7 +12054,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 9.6,
+        "pe_ratio": 8.6,
         "forward_return": 15.54,
         "start_price": 22.7,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 8.0,
         "forward_return": 15.99,
         "start_price": 21.65,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.84,
+        "pe_ratio": 7.68,
         "forward_return": 14.9,
         "start_price": 21.3,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.89,
+        "pe_ratio": 5.9,
         "forward_return": 22.63,
         "start_price": 16.75,
         "start_year": 2008
@@ -12090,7 +12090,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 7.19,
+        "pe_ratio": 6.47,
         "forward_return": 21.17,
         "start_price": 17.65,
         "start_year": 2008
@@ -12099,7 +12099,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.78,
+        "pe_ratio": 4.53,
         "forward_return": 30.53,
         "start_price": 11.85,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.16,
+        "pe_ratio": 5.65,
         "forward_return": 27.99,
         "start_price": 12.55,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 5.66,
+        "pe_ratio": 6.91,
         "forward_return": 26.21,
         "start_price": 13.4,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 6.3,
+        "pe_ratio": 8.73,
         "forward_return": 24.49,
         "start_price": 14.5,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 7.24,
+        "pe_ratio": 10.66,
         "forward_return": 19.67,
         "start_price": 16.2,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 7.46,
+        "pe_ratio": 11.74,
         "forward_return": 19.88,
         "start_price": 16.2,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.15,
+        "pe_ratio": 12.14,
         "forward_return": 21.81,
         "start_price": 15.05,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 13.56,
         "forward_return": 17.45,
         "start_price": 17.45,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 12.26,
         "forward_return": 18.69,
         "start_price": 16.35,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.64,
+        "pe_ratio": 16.09,
         "forward_return": 10.91,
         "start_price": 22.2,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 13.42,
         "forward_return": 13.43,
         "start_price": 20.0,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.75,
         "forward_return": 11.26,
         "start_price": 22.0,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.5,
         "forward_return": 14.05,
         "start_price": 20.55,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.62,
         "forward_return": 12.38,
         "start_price": 21.65,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 15.0,
         "forward_return": 5.79,
         "start_price": 29.1,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.68,
         "forward_return": 5.41,
         "start_price": 28.2,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.63,
         "forward_return": 3.28,
         "start_price": 29.15,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.33,
         "forward_return": -1.84,
         "start_price": 37.2,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.75,
+        "pe_ratio": 15.35,
         "forward_return": -3.72,
         "start_price": 43.65,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.95,
         "forward_return": -2.02,
         "start_price": 37.5,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.58,
         "forward_return": -4.14,
         "start_price": 43.0,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 13.26,
+        "pe_ratio": 13.62,
         "forward_return": -2.68,
         "start_price": 42.8,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.16,
         "forward_return": -3.97,
         "start_price": 43.9,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.65,
         "forward_return": -8.51,
         "start_price": 58.6,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.52,
+        "pe_ratio": 18.95,
         "forward_return": -8.82,
         "start_price": 66.5,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 16.89,
         "forward_return": -6.22,
         "start_price": 59.1,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.72,
+        "pe_ratio": 15.99,
         "forward_return": -2.44,
         "start_price": 51.6,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 15.34,
         "forward_return": -1.29,
         "start_price": 45.3,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 14.2,
         "forward_return": 2.48,
         "start_price": 38.05,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.31,
+        "pe_ratio": 12.7,
         "forward_return": 4.72,
         "start_price": 35.05,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.69,
         "forward_return": 4.81,
         "start_price": 33.2,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 11.78,
         "forward_return": 4.07,
         "start_price": 34.4,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.36,
+        "pe_ratio": 12.51,
         "forward_return": 2.73,
         "start_price": 36.0,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.57,
+        "pe_ratio": 11.65,
         "forward_return": 4.25,
         "start_price": 33.0,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.39,
         "forward_return": 4.31,
         "start_price": 35.3,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.76,
         "forward_return": -0.72,
         "start_price": 45.85,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 13.8,
         "forward_return": 1.51,
         "start_price": 41.0,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 11.9,
         "forward_return": 2.28,
         "start_price": 38.4,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 11.57,
         "forward_return": 1.35,
         "start_price": 40.3,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.08,
+        "pe_ratio": 10.68,
         "forward_return": 1.71,
         "start_price": 39.95,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 10.06,
         "forward_return": 5.68,
         "start_price": 35.2,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 11.5,
         "forward_return": 6.02,
         "start_price": 37.5,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.68,
+        "pe_ratio": 11.69,
         "forward_return": 5.62,
         "start_price": 35.3,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.88,
         "forward_return": 12.55,
         "start_price": 28.15,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.52,
         "forward_return": 13.6,
         "start_price": 28.2,
         "start_year": 2012
@@ -12549,7 +12549,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 11.72,
         "forward_return": 18.71,
         "start_price": 28.8,
         "start_year": 2013
@@ -12558,7 +12558,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.78,
         "forward_return": 16.56,
         "start_price": 28.3,
         "start_year": 2013
@@ -12567,7 +12567,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 11.81,
         "forward_return": 17.06,
         "start_price": 27.75,
         "start_year": 2013
@@ -12576,7 +12576,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 12.53,
         "forward_return": 19.18,
         "start_price": 27.9,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.0,
         "forward_return": 17.78,
         "start_price": 27.35,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 18.89,
         "forward_return": 10.53,
         "start_price": 37.4,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.75,
         "forward_return": 10.23,
         "start_price": 35.55,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 19.08,
+        "pe_ratio": 20.22,
         "forward_return": 10.23,
         "start_price": 32.75,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 25.38,
         "forward_return": 6.46,
         "start_price": 36.55,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 23.84,
+        "pe_ratio": 25.86,
         "forward_return": 5.15,
         "start_price": 36.2,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 24.66,
+        "pe_ratio": 25.74,
         "forward_return": 7.6,
         "start_price": 35.0,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 24.58,
+        "pe_ratio": 28.14,
         "forward_return": 8.79,
         "start_price": 33.2,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 23.88,
+        "pe_ratio": 31.73,
         "forward_return": 9.64,
         "start_price": 33.0,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 37.17,
         "forward_return": 11.15,
         "start_price": 33.45,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 31.2,
         "forward_return": 13.87,
         "start_price": 29.85,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 29.8,
         "forward_return": 13.14,
         "start_price": 30.2,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 20.23,
+        "pe_ratio": 28.46,
         "forward_return": 11.8,
         "start_price": 30.45,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 22.72,
         "forward_return": 13.63,
         "start_price": 29.0,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 19.21,
         "forward_return": 12.86,
         "start_price": 28.5,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.12,
         "forward_return": 13.79,
         "start_price": 27.25,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.3,
         "forward_return": 14.47,
         "start_price": 27.55,
         "start_year": 2014
@@ -12747,7 +12747,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 16.27,
         "forward_return": 14.83,
         "start_price": 27.5,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 17.07,
+        "pe_ratio": 17.48,
         "forward_return": 13.21,
         "start_price": 29.65,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.91,
         "forward_return": 14.02,
         "start_price": 28.8,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.6,
+        "pe_ratio": 16.7,
         "forward_return": 11.83,
         "start_price": 28.55,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.23,
+        "pe_ratio": 16.21,
         "forward_return": 15.07,
         "start_price": 26.7,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 15.32,
         "forward_return": 17.93,
         "start_price": 24.25,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.13,
+        "pe_ratio": 15.72,
         "forward_return": 17.34,
         "start_price": 23.9,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 16.07,
         "forward_return": 16.74,
         "start_price": 25.6,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.32,
+        "pe_ratio": 14.01,
         "forward_return": 19.65,
         "start_price": 23.35,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 13.97,
         "forward_return": 16.01,
         "start_price": 24.3,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.06,
         "forward_return": 14.29,
         "start_price": 26.85,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.19,
         "forward_return": 16.42,
         "start_price": 25.35,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.38,
         "forward_return": 16.1,
         "start_price": 27.05,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 10.6,
         "forward_return": 16.75,
         "start_price": 31.4,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 9.74,
         "forward_return": 16.35,
         "start_price": 32.35,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 10.45,
         "forward_return": 14.07,
         "start_price": 35.1,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.17,
+        "pe_ratio": 9.4,
         "forward_return": 15.65,
         "start_price": 31.95,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 9.45,
         "forward_return": 14.55,
         "start_price": 32.5,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 10.18,
         "forward_return": 14.19,
         "start_price": 34.35,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 11.3,
+        "pe_ratio": 9.74,
         "forward_return": 15.52,
         "start_price": 32.2,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.94,
         "forward_return": 15.69,
         "start_price": 32.2,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.47,
+        "pe_ratio": 9.78,
         "forward_return": 16.53,
         "start_price": 31.4,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.7,
         "forward_return": 17.02,
         "start_price": 30.85,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 11.72,
         "forward_return": 15.1,
         "start_price": 33.8,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 10.33,
+        "pe_ratio": 12.38,
         "forward_return": 16.72,
         "start_price": 32.4,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.64,
         "forward_return": 16.01,
         "start_price": 34.4,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.64,
+        "pe_ratio": 13.7,
         "forward_return": 16.41,
         "start_price": 33.2,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 13.34,
         "forward_return": 16.73,
         "start_price": 33.3,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.11,
         "forward_return": 15.27,
         "start_price": 33.7,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 11.88,
+        "pe_ratio": 13.97,
         "forward_return": 14.54,
         "start_price": 36.8,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 13.16,
+        "pe_ratio": 15.07,
         "forward_return": 13.1,
         "start_price": 40.65,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 11.94,
+        "pe_ratio": 13.33,
         "forward_return": 15.07,
         "start_price": 36.8,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.41,
+        "pe_ratio": 14.42,
         "forward_return": 11.58,
         "start_price": 41.25,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.78,
         "forward_return": 11.27,
         "start_price": 43.75,
         "start_year": 2017
@@ -13089,7 +13089,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.33,
         "forward_return": 5.37,
         "start_price": 58.3,
         "start_year": 2018
@@ -13098,7 +13098,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.55,
         "forward_return": 11.2,
         "start_price": 51.3,
         "start_year": 2018
@@ -13107,7 +13107,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.01,
+        "pe_ratio": 15.03,
         "forward_return": 11.34,
         "start_price": 51.4,
         "start_year": 2018
@@ -13116,7 +13116,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.65,
         "forward_return": 9.29,
         "start_price": 57.5,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.03,
         "forward_return": 12.09,
         "start_price": 52.4,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.8,
         "forward_return": 11.21,
         "start_price": 52.1,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 13.45,
         "forward_return": 13.6,
         "start_price": 47.45,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.14,
         "forward_return": 15.0,
         "start_price": 42.9,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.19,
         "forward_return": 17.84,
         "start_price": 39.6,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.1,
         "forward_return": 19.53,
         "start_price": 36.15,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.08,
         "forward_return": 17.23,
         "start_price": 40.1,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 10.81,
         "forward_return": 17.36,
         "start_price": 40.2,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.08,
         "forward_return": 16.67,
         "start_price": 41.9,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.07,
         "forward_return": 14.68,
         "start_price": 46.35,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 12.73,
+        "pe_ratio": 12.61,
         "forward_return": 14.44,
         "start_price": 46.75,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.76,
         "forward_return": 16.21,
         "start_price": 45.6,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 12.44,
         "forward_return": 15.83,
         "start_price": 42.8,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.33,
+        "pe_ratio": 12.05,
         "forward_return": 14.99,
         "start_price": 41.75,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 11.19,
         "forward_return": 16.38,
         "start_price": 39.0,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.05,
         "forward_return": 16.07,
         "start_price": 38.8,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 11.46,
         "forward_return": 14.69,
         "start_price": 40.95,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.47,
         "forward_return": 13.13,
         "start_price": 41.7,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 11.31,
         "forward_return": 12.64,
         "start_price": 41.95,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.37,
         "forward_return": 12.85,
         "start_price": 42.3,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.85,
         "forward_return": 16.3,
         "start_price": 36.75,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.67,
         "forward_return": 12.67,
         "start_price": 40.7,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 10.82,
         "forward_return": 12.15,
         "start_price": 42.15,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.05,
         "forward_return": 13.57,
         "start_price": 40.0,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.01,
+        "pe_ratio": 9.84,
         "forward_return": 12.66,
         "start_price": 40.25,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 10.0,
         "forward_return": 11.33,
         "start_price": 42.0,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.71,
+        "pe_ratio": 8.31,
         "forward_return": 16.26,
         "start_price": 35.8,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.65,
         "forward_return": 15.25,
         "start_price": 37.1,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 9.26,
+        "pe_ratio": 9.12,
         "forward_return": 13.15,
         "start_price": 38.95,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 9.6,
         "forward_return": 9.64,
         "start_price": 41.8,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.05,
+        "pe_ratio": 10.79,
         "forward_return": 6.38,
         "start_price": 48.1,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.97,
         "forward_return": 28.13,
         "start_price": 11.0,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 7.34,
+        "pe_ratio": 9.78,
         "forward_return": 22.03,
         "start_price": 13.95,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 10.89,
         "forward_return": 20.02,
         "start_price": 16.05,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.76,
+        "pe_ratio": 10.95,
         "forward_return": 19.14,
         "start_price": 16.65,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 8.16,
+        "pe_ratio": 10.06,
         "forward_return": 19.67,
         "start_price": 15.5,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 7.34,
+        "pe_ratio": 8.94,
         "forward_return": 22.79,
         "start_price": 13.95,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.26,
+        "pe_ratio": 12.34,
         "forward_return": 15.22,
         "start_price": 19.5,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 9.29,
+        "pe_ratio": 10.46,
         "forward_return": 13.87,
         "start_price": 17.65,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 10.01,
         "forward_return": 13.57,
         "start_price": 17.95,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.81,
         "forward_return": 6.09,
         "start_price": 27.45,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.25,
+        "pe_ratio": 14.34,
         "forward_return": 6.89,
         "start_price": 25.9,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 15.2,
         "forward_return": 6.06,
         "start_price": 26.75,
         "start_year": 2007
@@ -13548,7 +13548,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.84,
         "forward_return": 6.95,
         "start_price": 25.55,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.9,
+        "pe_ratio": 12.54,
         "forward_return": 7.62,
         "start_price": 24.25,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 13.14,
         "forward_return": 10.27,
         "start_price": 26.55,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.48,
+        "pe_ratio": 14.88,
         "forward_return": 7.62,
         "start_price": 30.3,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.39,
         "forward_return": 8.26,
         "start_price": 27.5,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 12.67,
+        "pe_ratio": 13.14,
         "forward_return": 9.96,
         "start_price": 27.2,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.89,
         "forward_return": 11.19,
         "start_price": 25.25,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.01,
+        "pe_ratio": 9.12,
         "forward_return": 15.25,
         "start_price": 19.85,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.53,
         "forward_return": 18.94,
         "start_price": 15.8,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.69,
+        "pe_ratio": 6.7,
         "forward_return": 16.8,
         "start_price": 17.5,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.03,
+        "pe_ratio": 7.41,
         "forward_return": 13.77,
         "start_price": 20.75,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.23,
         "forward_return": 6.67,
         "start_price": 28.1,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.58,
         "forward_return": 8.35,
         "start_price": 25.8,
         "start_year": 2008
@@ -13674,7 +13674,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 9.6,
+        "pe_ratio": 8.6,
         "forward_return": 10.79,
         "start_price": 22.7,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 8.0,
         "forward_return": 10.87,
         "start_price": 21.65,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.84,
+        "pe_ratio": 7.68,
         "forward_return": 10.94,
         "start_price": 21.3,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.89,
+        "pe_ratio": 5.9,
         "forward_return": 14.86,
         "start_price": 16.75,
         "start_year": 2008
@@ -13710,7 +13710,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 7.19,
+        "pe_ratio": 6.47,
         "forward_return": 14.01,
         "start_price": 17.65,
         "start_year": 2008
@@ -13719,7 +13719,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.78,
+        "pe_ratio": 4.53,
         "forward_return": 21.81,
         "start_price": 11.85,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.16,
+        "pe_ratio": 5.65,
         "forward_return": 21.74,
         "start_price": 12.55,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 5.66,
+        "pe_ratio": 6.91,
         "forward_return": 20.0,
         "start_price": 13.4,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 6.3,
+        "pe_ratio": 8.73,
         "forward_return": 18.31,
         "start_price": 14.5,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 7.24,
+        "pe_ratio": 10.66,
         "forward_return": 15.22,
         "start_price": 16.2,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 7.46,
+        "pe_ratio": 11.74,
         "forward_return": 13.95,
         "start_price": 16.2,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.15,
+        "pe_ratio": 12.14,
         "forward_return": 15.16,
         "start_price": 15.05,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 13.56,
         "forward_return": 13.4,
         "start_price": 17.45,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 12.26,
         "forward_return": 13.45,
         "start_price": 16.35,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.64,
+        "pe_ratio": 16.09,
         "forward_return": 8.29,
         "start_price": 22.2,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 13.42,
         "forward_return": 11.47,
         "start_price": 20.0,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.75,
         "forward_return": 8.98,
         "start_price": 22.0,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.5,
         "forward_return": 11.06,
         "start_price": 20.55,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.62,
         "forward_return": 12.08,
         "start_price": 21.65,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 15.0,
         "forward_return": 7.07,
         "start_price": 29.1,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.68,
         "forward_return": 8.73,
         "start_price": 28.2,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.63,
         "forward_return": 6.88,
         "start_price": 29.15,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.33,
         "forward_return": 2.84,
         "start_price": 37.2,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.75,
+        "pe_ratio": 15.35,
         "forward_return": 1.22,
         "start_price": 43.65,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.95,
         "forward_return": 3.0,
         "start_price": 37.5,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.58,
         "forward_return": 0.68,
         "start_price": 43.0,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 13.26,
+        "pe_ratio": 13.62,
         "forward_return": 0.46,
         "start_price": 42.8,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.16,
         "forward_return": -0.18,
         "start_price": 43.9,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.65,
         "forward_return": -3.82,
         "start_price": 58.6,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.52,
+        "pe_ratio": 18.95,
         "forward_return": -6.3,
         "start_price": 66.5,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 16.89,
         "forward_return": -3.75,
         "start_price": 59.1,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.72,
+        "pe_ratio": 15.99,
         "forward_return": -1.97,
         "start_price": 51.6,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 15.34,
         "forward_return": 0.22,
         "start_price": 45.3,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 14.2,
         "forward_return": 3.32,
         "start_price": 38.05,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.31,
+        "pe_ratio": 12.7,
         "forward_return": 5.77,
         "start_price": 35.05,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.69,
         "forward_return": 8.08,
         "start_price": 33.2,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 11.78,
         "forward_return": 6.1,
         "start_price": 34.4,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.36,
+        "pe_ratio": 12.51,
         "forward_return": 6.84,
         "start_price": 36.0,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.57,
+        "pe_ratio": 11.65,
         "forward_return": 9.22,
         "start_price": 33.0,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.39,
         "forward_return": 12.24,
         "start_price": 35.3,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.76,
         "forward_return": 5.55,
         "start_price": 45.85,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 13.8,
         "forward_return": 7.62,
         "start_price": 41.0,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 11.9,
         "forward_return": 10.47,
         "start_price": 38.4,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 11.57,
         "forward_return": 8.21,
         "start_price": 40.3,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.08,
+        "pe_ratio": 10.68,
         "forward_return": 8.28,
         "start_price": 39.95,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 10.06,
         "forward_return": 9.31,
         "start_price": 35.2,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 11.5,
         "forward_return": 6.75,
         "start_price": 37.5,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.68,
+        "pe_ratio": 11.69,
         "forward_return": 6.73,
         "start_price": 35.3,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.88,
         "forward_return": 9.58,
         "start_price": 28.15,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.52,
         "forward_return": 10.98,
         "start_price": 28.2,
         "start_year": 2012
@@ -14169,7 +14169,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 11.72,
         "forward_return": 10.63,
         "start_price": 28.8,
         "start_year": 2013
@@ -14178,7 +14178,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.78,
         "forward_return": 11.54,
         "start_price": 28.3,
         "start_year": 2013
@@ -14187,7 +14187,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 11.81,
         "forward_return": 13.38,
         "start_price": 27.75,
         "start_year": 2013
@@ -14196,7 +14196,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 12.53,
         "forward_return": 13.41,
         "start_price": 27.9,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.0,
         "forward_return": 13.41,
         "start_price": 27.35,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 18.89,
         "forward_return": 6.77,
         "start_price": 37.4,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.75,
         "forward_return": 7.95,
         "start_price": 35.55,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 19.08,
+        "pe_ratio": 20.22,
         "forward_return": 8.52,
         "start_price": 32.75,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 25.38,
         "forward_return": 6.49,
         "start_price": 36.55,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 23.84,
+        "pe_ratio": 25.86,
         "forward_return": 7.36,
         "start_price": 36.2,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 24.66,
+        "pe_ratio": 25.74,
         "forward_return": 8.21,
         "start_price": 35.0,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 24.58,
+        "pe_ratio": 28.14,
         "forward_return": 9.25,
         "start_price": 33.2,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 23.88,
+        "pe_ratio": 31.73,
         "forward_return": 9.47,
         "start_price": 33.0,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 37.17,
         "forward_return": 7.36,
         "start_price": 33.45,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 31.2,
         "forward_return": 10.78,
         "start_price": 29.85,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 29.8,
         "forward_return": 11.05,
         "start_price": 30.2,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 20.23,
+        "pe_ratio": 28.46,
         "forward_return": 10.18,
         "start_price": 30.45,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 22.72,
         "forward_return": 11.93,
         "start_price": 29.0,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 19.21,
         "forward_return": 12.82,
         "start_price": 28.5,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.12,
         "forward_return": 11.58,
         "start_price": 27.25,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.3,
         "forward_return": 11.83,
         "start_price": 27.55,
         "start_year": 2014
@@ -14367,7 +14367,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 16.27,
         "forward_return": 12.49,
         "start_price": 27.5,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 17.07,
+        "pe_ratio": 17.48,
         "forward_return": 12.02,
         "start_price": 29.65,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.91,
         "forward_return": 14.49,
         "start_price": 28.8,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.6,
+        "pe_ratio": 16.7,
         "forward_return": 16.25,
         "start_price": 28.55,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.23,
+        "pe_ratio": 16.21,
         "forward_return": 17.22,
         "start_price": 26.7,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 15.32,
         "forward_return": 18.62,
         "start_price": 24.25,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.13,
+        "pe_ratio": 15.72,
         "forward_return": 18.32,
         "start_price": 23.9,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 16.07,
         "forward_return": 17.9,
         "start_price": 25.6,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.32,
+        "pe_ratio": 14.01,
         "forward_return": 19.59,
         "start_price": 23.35,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 13.97,
         "forward_return": 18.94,
         "start_price": 24.3,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.06,
         "forward_return": 17.19,
         "start_price": 26.85,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.19,
         "forward_return": 18.37,
         "start_price": 25.35,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.38,
         "forward_return": 17.27,
         "start_price": 27.05,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 10.6,
         "forward_return": 15.23,
         "start_price": 31.4,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 9.74,
         "forward_return": 14.88,
         "start_price": 32.35,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 10.45,
         "forward_return": 13.0,
         "start_price": 35.1,
         "start_year": 2016
@@ -14529,7 +14529,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.17,
+        "pe_ratio": 9.4,
         "forward_return": 15.1,
         "start_price": 31.95,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 9.45,
         "forward_return": 13.82,
         "start_price": 32.5,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 10.18,
         "forward_return": 13.91,
         "start_price": 34.35,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 11.3,
+        "pe_ratio": 9.74,
         "forward_return": 15.83,
         "start_price": 32.2,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.94,
         "forward_return": 15.58,
         "start_price": 32.2,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.47,
+        "pe_ratio": 9.78,
         "forward_return": 15.32,
         "start_price": 31.4,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.7,
         "forward_return": 16.5,
         "start_price": 30.85,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 11.72,
         "forward_return": 15.02,
         "start_price": 33.8,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 10.33,
+        "pe_ratio": 12.38,
         "forward_return": 18.51,
         "start_price": 32.4,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.64,
         "forward_return": 17.48,
         "start_price": 34.4,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.64,
+        "pe_ratio": 13.7,
         "forward_return": 18.55,
         "start_price": 33.2,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 13.34,
         "forward_return": 19.14,
         "start_price": 33.3,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.11,
         "forward_return": 18.04,
         "start_price": 33.7,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 11.88,
+        "pe_ratio": 13.97,
         "forward_return": 16.67,
         "start_price": 36.8,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 13.16,
+        "pe_ratio": 15.07,
         "forward_return": 14.01,
         "start_price": 40.65,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 11.94,
+        "pe_ratio": 13.33,
         "forward_return": 16.71,
         "start_price": 36.8,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.41,
+        "pe_ratio": 14.42,
         "forward_return": 14.14,
         "start_price": 41.25,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.78,
         "forward_return": 13.15,
         "start_price": 43.75,
         "start_year": 2017
@@ -14709,7 +14709,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.33,
         "forward_return": 7.99,
         "start_price": 58.3,
         "start_year": 2018
@@ -14718,7 +14718,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.55,
         "forward_return": 10.54,
         "start_price": 51.3,
         "start_year": 2018
@@ -14727,7 +14727,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.01,
+        "pe_ratio": 15.03,
         "forward_return": 10.77,
         "start_price": 51.4,
         "start_year": 2018
@@ -14736,7 +14736,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.65,
         "forward_return": 8.68,
         "start_price": 57.5,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.03,
         "forward_return": 11.31,
         "start_price": 52.4,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.8,
         "forward_return": 9.99,
         "start_price": 52.1,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 13.45,
         "forward_return": 10.86,
         "start_price": 47.45,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.14,
         "forward_return": 12.58,
         "start_price": 42.9,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.19,
         "forward_return": 13.77,
         "start_price": 39.6,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 10.1,
         "forward_return": 15.4,
         "start_price": 36.15,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.08,
         "forward_return": 12.52,
         "start_price": 40.1,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 10.81,
         "forward_return": 12.19,
         "start_price": 40.2,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.08,
         "forward_return": 11.97,
         "start_price": 41.9,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.07,
         "forward_return": 10.03,
         "start_price": 46.35,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 12.73,
+        "pe_ratio": 12.61,
         "forward_return": 8.9,
         "start_price": 46.75,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.76,
         "forward_return": 9.56,
         "start_price": 45.6,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 12.44,
         "forward_return": 10.91,
         "start_price": 42.8,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.33,
+        "pe_ratio": 12.05,
         "forward_return": 10.65,
         "start_price": 41.75,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 11.19,
         "forward_return": 11.62,
         "start_price": 39.0,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.05,
         "forward_return": 12.73,
         "start_price": 38.8,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 11.46,
         "forward_return": 11.58,
         "start_price": 40.95,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.47,
         "forward_return": 10.48,
         "start_price": 41.7,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 11.31,
         "forward_return": 8.86,
         "start_price": 41.95,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.97,
         "forward_return": 19.59,
         "start_price": 11.0,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 7.34,
+        "pe_ratio": 9.78,
         "forward_return": 14.92,
         "start_price": 13.95,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 10.89,
         "forward_return": 13.04,
         "start_price": 16.05,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.76,
+        "pe_ratio": 10.95,
         "forward_return": 12.6,
         "start_price": 16.65,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 8.16,
+        "pe_ratio": 10.06,
         "forward_return": 13.55,
         "start_price": 15.5,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 7.34,
+        "pe_ratio": 8.94,
         "forward_return": 14.88,
         "start_price": 13.95,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.26,
+        "pe_ratio": 12.34,
         "forward_return": 9.76,
         "start_price": 19.5,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 9.29,
+        "pe_ratio": 10.46,
         "forward_return": 11.24,
         "start_price": 17.65,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 10.01,
         "forward_return": 10.99,
         "start_price": 17.95,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.81,
         "forward_return": 5.92,
         "start_price": 27.45,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.25,
+        "pe_ratio": 14.34,
         "forward_return": 6.43,
         "start_price": 25.9,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 15.2,
         "forward_return": 5.92,
         "start_price": 26.75,
         "start_year": 2007
@@ -15051,7 +15051,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.84,
         "forward_return": 5.94,
         "start_price": 25.55,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.9,
+        "pe_ratio": 12.54,
         "forward_return": 5.8,
         "start_price": 24.25,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 13.14,
         "forward_return": 4.49,
         "start_price": 26.55,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.48,
+        "pe_ratio": 14.88,
         "forward_return": 3.51,
         "start_price": 30.3,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.39,
         "forward_return": 4.02,
         "start_price": 27.5,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 12.67,
+        "pe_ratio": 13.14,
         "forward_return": 4.49,
         "start_price": 27.2,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.89,
         "forward_return": 6.31,
         "start_price": 25.25,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.01,
+        "pe_ratio": 9.12,
         "forward_return": 9.05,
         "start_price": 19.85,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.53,
         "forward_return": 12.79,
         "start_price": 15.8,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.69,
+        "pe_ratio": 6.7,
         "forward_return": 12.76,
         "start_price": 17.5,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.03,
+        "pe_ratio": 7.41,
         "forward_return": 10.67,
         "start_price": 20.75,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.23,
         "forward_return": 7.32,
         "start_price": 28.1,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.58,
         "forward_return": 7.58,
         "start_price": 25.8,
         "start_year": 2008
@@ -15177,7 +15177,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 9.6,
+        "pe_ratio": 8.6,
         "forward_return": 9.48,
         "start_price": 22.7,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 8.0,
         "forward_return": 10.79,
         "start_price": 21.65,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.84,
+        "pe_ratio": 7.68,
         "forward_return": 10.4,
         "start_price": 21.3,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.89,
+        "pe_ratio": 5.9,
         "forward_return": 13.76,
         "start_price": 16.75,
         "start_year": 2008
@@ -15213,7 +15213,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 7.19,
+        "pe_ratio": 6.47,
         "forward_return": 12.78,
         "start_price": 17.65,
         "start_year": 2008
@@ -15222,7 +15222,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.78,
+        "pe_ratio": 4.53,
         "forward_return": 18.36,
         "start_price": 11.85,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.16,
+        "pe_ratio": 5.65,
         "forward_return": 18.44,
         "start_price": 12.55,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 5.66,
+        "pe_ratio": 6.91,
         "forward_return": 17.04,
         "start_price": 13.4,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 6.3,
+        "pe_ratio": 8.73,
         "forward_return": 16.5,
         "start_price": 14.5,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 7.24,
+        "pe_ratio": 10.66,
         "forward_return": 14.54,
         "start_price": 16.2,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 7.46,
+        "pe_ratio": 11.74,
         "forward_return": 14.57,
         "start_price": 16.2,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.15,
+        "pe_ratio": 12.14,
         "forward_return": 15.75,
         "start_price": 15.05,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 13.56,
         "forward_return": 14.87,
         "start_price": 17.45,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 12.26,
         "forward_return": 16.83,
         "start_price": 16.35,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.64,
+        "pe_ratio": 16.09,
         "forward_return": 11.46,
         "start_price": 22.2,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 13.42,
         "forward_return": 14.07,
         "start_price": 20.0,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.75,
         "forward_return": 13.32,
         "start_price": 22.0,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.5,
         "forward_return": 17.45,
         "start_price": 20.55,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.62,
         "forward_return": 15.25,
         "start_price": 21.65,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 15.0,
         "forward_return": 11.09,
         "start_price": 29.1,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.68,
         "forward_return": 12.74,
         "start_price": 28.2,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.63,
         "forward_return": 11.27,
         "start_price": 29.15,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.33,
         "forward_return": 7.87,
         "start_price": 37.2,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.75,
+        "pe_ratio": 15.35,
         "forward_return": 5.21,
         "start_price": 43.65,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.95,
         "forward_return": 6.27,
         "start_price": 37.5,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.58,
         "forward_return": 3.74,
         "start_price": 43.0,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 13.26,
+        "pe_ratio": 13.62,
         "forward_return": 3.0,
         "start_price": 42.8,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.16,
         "forward_return": 3.58,
         "start_price": 43.9,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.65,
         "forward_return": -0.07,
         "start_price": 58.6,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.52,
+        "pe_ratio": 18.95,
         "forward_return": -1.28,
         "start_price": 66.5,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 16.89,
         "forward_return": 1.09,
         "start_price": 59.1,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.72,
+        "pe_ratio": 15.99,
         "forward_return": 2.9,
         "start_price": 51.6,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 15.34,
         "forward_return": 4.35,
         "start_price": 45.3,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 14.2,
         "forward_return": 6.05,
         "start_price": 38.05,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.31,
+        "pe_ratio": 12.7,
         "forward_return": 7.2,
         "start_price": 35.05,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.69,
         "forward_return": 7.31,
         "start_price": 33.2,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 11.78,
         "forward_return": 6.79,
         "start_price": 34.4,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.36,
+        "pe_ratio": 12.51,
         "forward_return": 6.67,
         "start_price": 36.0,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.57,
+        "pe_ratio": 11.65,
         "forward_return": 8.0,
         "start_price": 33.0,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.39,
         "forward_return": 7.15,
         "start_price": 35.3,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.76,
         "forward_return": 3.78,
         "start_price": 45.85,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 13.8,
         "forward_return": 4.01,
         "start_price": 41.0,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 11.9,
         "forward_return": 5.76,
         "start_price": 38.4,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 11.57,
         "forward_return": 5.43,
         "start_price": 40.3,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.08,
+        "pe_ratio": 10.68,
         "forward_return": 5.08,
         "start_price": 39.95,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 10.06,
         "forward_return": 7.01,
         "start_price": 35.2,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 11.5,
         "forward_return": 6.55,
         "start_price": 37.5,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.68,
+        "pe_ratio": 11.69,
         "forward_return": 5.96,
         "start_price": 35.3,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.88,
         "forward_return": 9.31,
         "start_price": 28.15,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.52,
         "forward_return": 9.72,
         "start_price": 28.2,
         "start_year": 2012
@@ -15672,7 +15672,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 11.72,
         "forward_return": 10.08,
         "start_price": 28.8,
         "start_year": 2013
@@ -15681,7 +15681,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.78,
         "forward_return": 11.66,
         "start_price": 28.3,
         "start_year": 2013
@@ -15690,7 +15690,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 11.81,
         "forward_return": 13.04,
         "start_price": 27.75,
         "start_year": 2013
@@ -15699,7 +15699,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 12.53,
         "forward_return": 12.73,
         "start_price": 27.9,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.0,
         "forward_return": 12.68,
         "start_price": 27.35,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 18.89,
         "forward_return": 7.97,
         "start_price": 37.4,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.75,
         "forward_return": 9.14,
         "start_price": 35.55,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 19.08,
+        "pe_ratio": 20.22,
         "forward_return": 10.18,
         "start_price": 32.75,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 25.38,
         "forward_return": 8.77,
         "start_price": 36.55,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 23.84,
+        "pe_ratio": 25.86,
         "forward_return": 9.04,
         "start_price": 36.2,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 24.66,
+        "pe_ratio": 25.74,
         "forward_return": 9.54,
         "start_price": 35.0,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 24.58,
+        "pe_ratio": 28.14,
         "forward_return": 10.38,
         "start_price": 33.2,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 23.88,
+        "pe_ratio": 31.73,
         "forward_return": 10.82,
         "start_price": 33.0,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 37.17,
         "forward_return": 11.01,
         "start_price": 33.45,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 31.2,
         "forward_return": 12.37,
         "start_price": 29.85,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 29.8,
         "forward_return": 12.42,
         "start_price": 30.2,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 20.23,
+        "pe_ratio": 28.46,
         "forward_return": 11.64,
         "start_price": 30.45,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 22.72,
         "forward_return": 13.28,
         "start_price": 29.0,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 19.21,
         "forward_return": 14.0,
         "start_price": 28.5,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.12,
         "forward_return": 14.47,
         "start_price": 27.25,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.3,
         "forward_return": 13.79,
         "start_price": 27.55,
         "start_year": 2014
@@ -15870,7 +15870,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 16.27,
         "forward_return": 14.41,
         "start_price": 27.5,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 17.07,
+        "pe_ratio": 17.48,
         "forward_return": 13.53,
         "start_price": 29.65,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.91,
         "forward_return": 15.83,
         "start_price": 28.8,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.6,
+        "pe_ratio": 16.7,
         "forward_return": 16.06,
         "start_price": 28.55,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.23,
+        "pe_ratio": 16.21,
         "forward_return": 17.3,
         "start_price": 26.7,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 15.32,
         "forward_return": 19.2,
         "start_price": 24.25,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.13,
+        "pe_ratio": 15.72,
         "forward_return": 18.78,
         "start_price": 23.9,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 16.07,
         "forward_return": 18.17,
         "start_price": 25.6,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.32,
+        "pe_ratio": 14.01,
         "forward_return": 18.99,
         "start_price": 23.35,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 13.97,
         "forward_return": 18.98,
         "start_price": 24.3,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.06,
         "forward_return": 17.23,
         "start_price": 26.85,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.19,
         "forward_return": 18.17,
         "start_price": 25.35,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.38,
         "forward_return": 17.32,
         "start_price": 27.05,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 10.6,
         "forward_return": 15.31,
         "start_price": 31.4,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 9.74,
         "forward_return": 15.09,
         "start_price": 32.35,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 10.45,
         "forward_return": 13.89,
         "start_price": 35.1,
         "start_year": 2016
@@ -16032,7 +16032,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.17,
+        "pe_ratio": 9.4,
         "forward_return": 15.93,
         "start_price": 31.95,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 9.45,
         "forward_return": 14.63,
         "start_price": 32.5,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 10.18,
         "forward_return": 13.35,
         "start_price": 34.35,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 11.3,
+        "pe_ratio": 9.74,
         "forward_return": 14.16,
         "start_price": 32.2,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.94,
         "forward_return": 13.93,
         "start_price": 32.2,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.47,
+        "pe_ratio": 9.78,
         "forward_return": 14.21,
         "start_price": 31.4,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.7,
         "forward_return": 13.82,
         "start_price": 30.85,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 11.72,
         "forward_return": 12.33,
         "start_price": 33.8,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 10.33,
+        "pe_ratio": 12.38,
         "forward_return": 13.32,
         "start_price": 32.4,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.64,
         "forward_return": 12.42,
         "start_price": 34.4,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.64,
+        "pe_ratio": 13.7,
         "forward_return": 12.22,
         "start_price": 33.2,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 13.34,
         "forward_return": 12.32,
         "start_price": 33.3,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.11,
         "forward_return": 12.29,
         "start_price": 33.7,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 11.88,
+        "pe_ratio": 13.97,
         "forward_return": 10.82,
         "start_price": 36.8,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 13.16,
+        "pe_ratio": 15.07,
         "forward_return": 9.26,
         "start_price": 40.65,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 11.94,
+        "pe_ratio": 13.33,
         "forward_return": 11.31,
         "start_price": 36.8,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.41,
+        "pe_ratio": 14.42,
         "forward_return": 9.64,
         "start_price": 41.25,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.78,
         "forward_return": 8.32,
         "start_price": 43.75,
         "start_year": 2017
@@ -16212,7 +16212,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.33,
         "forward_return": 3.53,
         "start_price": 58.3,
         "start_year": 2018
@@ -16221,7 +16221,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.55,
         "forward_return": 5.08,
         "start_price": 51.3,
         "start_year": 2018
@@ -16230,7 +16230,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.97,
         "forward_return": 15.81,
         "start_price": 11.0,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 7.34,
+        "pe_ratio": 9.78,
         "forward_return": 13.72,
         "start_price": 13.95,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 10.89,
         "forward_return": 11.42,
         "start_price": 16.05,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.76,
+        "pe_ratio": 10.95,
         "forward_return": 11.14,
         "start_price": 16.65,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 8.16,
+        "pe_ratio": 10.06,
         "forward_return": 12.81,
         "start_price": 15.5,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 7.34,
+        "pe_ratio": 8.94,
         "forward_return": 13.53,
         "start_price": 13.95,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.26,
+        "pe_ratio": 12.34,
         "forward_return": 9.79,
         "start_price": 19.5,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 9.29,
+        "pe_ratio": 10.46,
         "forward_return": 10.71,
         "start_price": 17.65,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 10.01,
         "forward_return": 10.4,
         "start_price": 17.95,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.81,
         "forward_return": 6.44,
         "start_price": 27.45,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.25,
+        "pe_ratio": 14.34,
         "forward_return": 6.76,
         "start_price": 25.9,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 15.2,
         "forward_return": 6.83,
         "start_price": 26.75,
         "start_year": 2007
@@ -16347,7 +16347,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.84,
         "forward_return": 7.08,
         "start_price": 25.55,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.9,
+        "pe_ratio": 12.54,
         "forward_return": 7.66,
         "start_price": 24.25,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 13.14,
         "forward_return": 6.77,
         "start_price": 26.55,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.48,
+        "pe_ratio": 14.88,
         "forward_return": 6.28,
         "start_price": 30.3,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.39,
         "forward_return": 8.04,
         "start_price": 27.5,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 12.67,
+        "pe_ratio": 13.14,
         "forward_return": 7.43,
         "start_price": 27.2,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.89,
         "forward_return": 9.07,
         "start_price": 25.25,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.01,
+        "pe_ratio": 9.12,
         "forward_return": 12.18,
         "start_price": 19.85,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.53,
         "forward_return": 17.19,
         "start_price": 15.8,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.69,
+        "pe_ratio": 6.7,
         "forward_return": 14.79,
         "start_price": 17.5,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.03,
+        "pe_ratio": 7.41,
         "forward_return": 12.98,
         "start_price": 20.75,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.23,
         "forward_return": 10.52,
         "start_price": 28.1,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.58,
         "forward_return": 10.7,
         "start_price": 25.8,
         "start_year": 2008
@@ -16473,7 +16473,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 9.6,
+        "pe_ratio": 8.6,
         "forward_return": 12.08,
         "start_price": 22.7,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 9.07,
+        "pe_ratio": 8.0,
         "forward_return": 12.08,
         "start_price": 21.65,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.84,
+        "pe_ratio": 7.68,
         "forward_return": 11.49,
         "start_price": 21.3,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.89,
+        "pe_ratio": 5.9,
         "forward_return": 13.59,
         "start_price": 16.75,
         "start_year": 2008
@@ -16509,7 +16509,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 7.19,
+        "pe_ratio": 6.47,
         "forward_return": 12.33,
         "start_price": 17.65,
         "start_year": 2008
@@ -16518,7 +16518,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.78,
+        "pe_ratio": 4.53,
         "forward_return": 17.69,
         "start_price": 11.85,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.16,
+        "pe_ratio": 5.65,
         "forward_return": 17.03,
         "start_price": 12.55,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 5.66,
+        "pe_ratio": 6.91,
         "forward_return": 16.59,
         "start_price": 13.4,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 6.3,
+        "pe_ratio": 8.73,
         "forward_return": 16.48,
         "start_price": 14.5,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 7.24,
+        "pe_ratio": 10.66,
         "forward_return": 15.26,
         "start_price": 16.2,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 7.46,
+        "pe_ratio": 11.74,
         "forward_return": 15.06,
         "start_price": 16.2,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.15,
+        "pe_ratio": 12.14,
         "forward_return": 15.41,
         "start_price": 15.05,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 13.56,
         "forward_return": 14.05,
         "start_price": 17.45,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 12.26,
         "forward_return": 14.29,
         "start_price": 16.35,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.64,
+        "pe_ratio": 16.09,
         "forward_return": 10.82,
         "start_price": 22.2,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 13.42,
         "forward_return": 12.36,
         "start_price": 20.0,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.75,
         "forward_return": 11.42,
         "start_price": 22.0,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.5,
         "forward_return": 12.23,
         "start_price": 20.55,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.62,
         "forward_return": 11.71,
         "start_price": 21.65,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 15.0,
         "forward_return": 7.49,
         "start_price": 29.1,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.68,
         "forward_return": 8.52,
         "start_price": 28.2,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.63,
         "forward_return": 8.4,
         "start_price": 29.15,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.33,
         "forward_return": 5.44,
         "start_price": 37.2,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.75,
+        "pe_ratio": 15.35,
         "forward_return": 4.23,
         "start_price": 43.65,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.95,
         "forward_return": 6.1,
         "start_price": 37.5,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.58,
         "forward_return": 3.66,
         "start_price": 43.0,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 13.26,
+        "pe_ratio": 13.62,
         "forward_return": 3.92,
         "start_price": 42.8,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.16,
         "forward_return": 3.96,
         "start_price": 43.9,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.65,
         "forward_return": 1.44,
         "start_price": 58.6,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.52,
+        "pe_ratio": 18.95,
         "forward_return": 1.06,
         "start_price": 66.5,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.67,
+        "pe_ratio": 16.89,
         "forward_return": 3.01,
         "start_price": 59.1,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.72,
+        "pe_ratio": 15.99,
         "forward_return": 4.26,
         "start_price": 51.6,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 15.34,
         "forward_return": 5.39,
         "start_price": 45.3,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 14.2,
         "forward_return": 6.96,
         "start_price": 38.05,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.31,
+        "pe_ratio": 12.7,
         "forward_return": 8.11,
         "start_price": 35.05,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.69,
         "forward_return": 8.64,
         "start_price": 33.2,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 11.78,
         "forward_return": 8.32,
         "start_price": 34.4,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.36,
+        "pe_ratio": 12.51,
         "forward_return": 7.94,
         "start_price": 36.0,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.57,
+        "pe_ratio": 11.65,
         "forward_return": 8.91,
         "start_price": 33.0,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.39,
         "forward_return": 8.26,
         "start_price": 35.3,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.76,
         "forward_return": 5.94,
         "start_price": 45.85,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 13.8,
         "forward_return": 7.19,
         "start_price": 41.0,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 11.9,
         "forward_return": 7.72,
         "start_price": 38.4,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.07,
+        "pe_ratio": 11.57,
         "forward_return": 7.36,
         "start_price": 40.3,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.08,
+        "pe_ratio": 10.68,
         "forward_return": 6.97,
         "start_price": 39.95,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 10.06,
         "forward_return": 8.84,
         "start_price": 35.2,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 11.5,
         "forward_return": 8.51,
         "start_price": 37.5,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.68,
+        "pe_ratio": 11.69,
         "forward_return": 9.03,
         "start_price": 35.3,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.01,
+        "pe_ratio": 9.88,
         "forward_return": 11.14,
         "start_price": 28.15,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.52,
         "forward_return": 11.56,
         "start_price": 28.2,
         "start_year": 2012
@@ -16968,7 +16968,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 11.72,
         "forward_return": 11.47,
         "start_price": 28.8,
         "start_year": 2013
@@ -16977,7 +16977,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.78,
         "forward_return": 13.09,
         "start_price": 28.3,
         "start_year": 2013
@@ -16986,7 +16986,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 11.81,
         "forward_return": 13.39,
         "start_price": 27.75,
         "start_year": 2013
@@ -16995,7 +16995,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 12.53,
         "forward_return": 13.53,
         "start_price": 27.9,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.0,
         "forward_return": 14.11,
         "start_price": 27.35,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 18.89,
         "forward_return": 10.14,
         "start_price": 37.4,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.75,
         "forward_return": 10.92,
         "start_price": 35.55,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 19.08,
+        "pe_ratio": 20.22,
         "forward_return": 11.43,
         "start_price": 32.75,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 25.38,
         "forward_return": 10.63,
         "start_price": 36.55,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 23.84,
+        "pe_ratio": 25.86,
         "forward_return": 10.54,
         "start_price": 36.2,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 24.66,
+        "pe_ratio": 25.74,
         "forward_return": 10.98,
         "start_price": 35.0,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 24.58,
+        "pe_ratio": 28.14,
         "forward_return": 11.64,
         "start_price": 33.2,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 23.88,
+        "pe_ratio": 31.73,
         "forward_return": 11.83,
         "start_price": 33.0,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 37.17,
         "forward_return": 11.83,
         "start_price": 33.45,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 31.2,
         "forward_return": 13.09,
         "start_price": 29.85,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 29.8,
         "forward_return": 13.49,
         "start_price": 30.2,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 20.23,
+        "pe_ratio": 28.46,
         "forward_return": 12.59,
         "start_price": 30.45,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 22.72,
         "forward_return": 12.85,
         "start_price": 29.0,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 19.21,
         "forward_return": 12.97,
         "start_price": 28.5,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.12,
         "forward_return": 13.3,
         "start_price": 27.25,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.3,
         "forward_return": 13.11,
         "start_price": 27.55,
         "start_year": 2014
@@ -17166,7 +17166,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 16.57,
+        "pe_ratio": 16.27,
         "forward_return": 12.64,
         "start_price": 27.5,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 17.07,
+        "pe_ratio": 17.48,
         "forward_return": 11.65,
         "start_price": 29.65,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.91,
         "forward_return": 12.27,
         "start_price": 28.8,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.6,
+        "pe_ratio": 16.7,
         "forward_return": 12.33,
         "start_price": 28.55,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.23,
+        "pe_ratio": 16.21,
         "forward_return": 12.55,
         "start_price": 26.7,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 15.32,
         "forward_return": 13.75,
         "start_price": 24.25,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.13,
+        "pe_ratio": 15.72,
         "forward_return": 14.02,
         "start_price": 23.9,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 16.07,
         "forward_return": 13.18,
         "start_price": 25.6,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.32,
+        "pe_ratio": 14.01,
         "forward_return": 14.07,
         "start_price": 23.35,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 13.97,
         "forward_return": 14.15,
         "start_price": 24.3,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.06,
         "forward_return": 12.94,
         "start_price": 26.85,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.19,
         "forward_return": 13.19,
         "start_price": 25.35,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.38,
         "forward_return": 11.66,
         "start_price": 27.05,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 9.0倍、10.6倍、12.3倍、15.3倍、17.6倍"
+!!! note "本益比河流帶水位: 9.6倍、10.5倍、12.5倍、15.5倍、18.1倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
       {
         "date": "2006-03-16",
         "price": 11.0,
-        "pe": 5.79,
-        "pe_10": 17.1,
-        "pe_25": 20.06,
-        "pe_50": 23.32,
-        "pe_75": 29.06,
-        "pe_90": 33.52
+        "pe": 7.97,
+        "pe_10": 13.25,
+        "pe_25": 14.44,
+        "pe_50": 17.28,
+        "pe_75": 21.34,
+        "pe_90": 25.02
       },
       {
         "date": "2006-04-15",
         "price": 13.95,
-        "pe": 7.34,
-        "pe_10": 17.11,
-        "pe_25": 20.07,
-        "pe_50": 23.33,
-        "pe_75": 29.07,
-        "pe_90": 33.53
+        "pe": 9.78,
+        "pe_10": 13.69,
+        "pe_25": 14.92,
+        "pe_50": 17.86,
+        "pe_75": 22.05,
+        "pe_90": 25.86
       },
       {
         "date": "2006-05-16",
         "price": 16.05,
-        "pe": 8.45,
-        "pe_10": 17.1,
-        "pe_25": 20.06,
-        "pe_50": 23.32,
-        "pe_75": 29.06,
-        "pe_90": 33.51
+        "pe": 10.89,
+        "pe_10": 14.15,
+        "pe_25": 15.42,
+        "pe_50": 18.45,
+        "pe_75": 22.79,
+        "pe_90": 26.72
       },
       {
         "date": "2006-06-15",
         "price": 16.65,
-        "pe": 8.76,
-        "pe_10": 17.11,
-        "pe_25": 20.07,
-        "pe_50": 23.33,
-        "pe_75": 29.08,
-        "pe_90": 33.53
+        "pe": 10.95,
+        "pe_10": 14.59,
+        "pe_25": 15.9,
+        "pe_50": 19.04,
+        "pe_75": 23.51,
+        "pe_90": 27.57
       },
       {
         "date": "2006-07-16",
         "price": 15.5,
-        "pe": 8.16,
-        "pe_10": 17.1,
-        "pe_25": 20.06,
-        "pe_50": 23.32,
-        "pe_75": 29.06,
-        "pe_90": 33.51
+        "pe": 10.06,
+        "pe_10": 14.79,
+        "pe_25": 16.12,
+        "pe_50": 19.29,
+        "pe_75": 23.82,
+        "pe_90": 27.93
       },
       {
         "date": "2006-08-16",
         "price": 13.95,
-        "pe": 7.34,
-        "pe_10": 17.11,
-        "pe_25": 20.07,
-        "pe_50": 23.33,
-        "pe_75": 29.07,
-        "pe_90": 33.53
+        "pe": 8.94,
+        "pe_10": 14.98,
+        "pe_25": 16.32,
+        "pe_50": 19.54,
+        "pe_75": 24.12,
+        "pe_90": 28.29
       },
       {
         "date": "2006-09-15",
         "price": 19.5,
-        "pe": 10.26,
-        "pe_10": 17.11,
-        "pe_25": 20.07,
-        "pe_50": 23.33,
-        "pe_75": 29.07,
-        "pe_90": 33.53
+        "pe": 12.34,
+        "pe_10": 15.17,
+        "pe_25": 16.53,
+        "pe_50": 19.78,
+        "pe_75": 24.43,
+        "pe_90": 28.65
       },
       {
         "date": "2006-10-16",
         "price": 17.65,
-        "pe": 9.29,
-        "pe_10": 17.1,
-        "pe_25": 20.06,
-        "pe_50": 23.32,
-        "pe_75": 29.06,
-        "pe_90": 33.52
+        "pe": 10.46,
+        "pe_10": 16.2,
+        "pe_25": 17.65,
+        "pe_50": 21.13,
+        "pe_75": 26.09,
+        "pe_90": 30.59
       },
       {
         "date": "2006-11-15",
         "price": 17.95,
-        "pe": 9.45,
-        "pe_10": 17.1,
-        "pe_25": 20.06,
-        "pe_50": 23.32,
-        "pe_75": 29.06,
-        "pe_90": 33.51
+        "pe": 10.01,
+        "pe_10": 17.21,
+        "pe_25": 18.76,
+        "pe_50": 22.45,
+        "pe_75": 27.72,
+        "pe_90": 32.51
       },
       {
         "date": "2006-12-16",
         "price": 22.4,
         "pe": 11.79,
-        "pe_10": 17.1,
-        "pe_25": 20.06,
-        "pe_50": 23.32,
-        "pe_75": 29.06,
-        "pe_90": 33.52
+        "pe_10": 18.24,
+        "pe_25": 19.87,
+        "pe_50": 23.79,
+        "pe_75": 29.37,
+        "pe_90": 34.45
       },
       {
         "date": "2007-01-16",
         "price": 27.45,
-        "pe": 14.24,
-        "pe_10": 17.35,
-        "pe_25": 20.36,
-        "pe_50": 23.66,
-        "pe_75": 29.49,
-        "pe_90": 34.01
+        "pe": 14.81,
+        "pe_10": 17.79,
+        "pe_25": 19.39,
+        "pe_50": 23.21,
+        "pe_75": 28.65,
+        "pe_90": 33.6
       },
       {
         "date": "2007-02-14",
         "price": 25.9,
-        "pe": 13.25,
-        "pe_10": 17.59,
-        "pe_25": 20.64,
-        "pe_50": 23.99,
-        "pe_75": 29.9,
-        "pe_90": 34.49
+        "pe": 14.34,
+        "pe_10": 17.34,
+        "pe_25": 18.89,
+        "pe_50": 22.61,
+        "pe_75": 27.92,
+        "pe_90": 32.75
       },
       {
         "date": "2007-03-16",
         "price": 26.75,
-        "pe": 13.49,
-        "pe_10": 17.85,
-        "pe_25": 20.94,
-        "pe_50": 24.34,
-        "pe_75": 30.33,
-        "pe_90": 34.99
+        "pe": 15.2,
+        "pe_10": 16.89,
+        "pe_25": 18.41,
+        "pe_50": 22.03,
+        "pe_75": 27.21,
+        "pe_90": 31.91
       },
       {
         "date": "2007-04-15",
         "price": 25.55,
-        "pe": 12.71,
-        "pe_10": 18.09,
-        "pe_25": 21.23,
-        "pe_50": 24.68,
-        "pe_75": 30.75,
-        "pe_90": 35.47
+        "pe": 13.84,
+        "pe_10": 17.72,
+        "pe_25": 19.31,
+        "pe_50": 23.11,
+        "pe_75": 28.54,
+        "pe_90": 33.47
       },
       {
         "date": "2007-05-16",
         "price": 24.25,
-        "pe": 11.9,
-        "pe_10": 18.34,
-        "pe_25": 21.52,
-        "pe_50": 25.01,
-        "pe_75": 31.17,
-        "pe_90": 35.95
+        "pe": 12.54,
+        "pe_10": 18.56,
+        "pe_25": 20.23,
+        "pe_50": 24.21,
+        "pe_75": 29.9,
+        "pe_90": 35.06
       },
       {
         "date": "2007-06-15",
         "price": 26.55,
-        "pe": 12.86,
-        "pe_10": 18.58,
-        "pe_25": 21.8,
-        "pe_50": 25.34,
-        "pe_75": 31.58,
-        "pe_90": 36.42
+        "pe": 13.14,
+        "pe_10": 19.39,
+        "pe_25": 21.13,
+        "pe_50": 25.3,
+        "pe_75": 31.24,
+        "pe_90": 36.63
       },
       {
         "date": "2007-07-16",
         "price": 30.3,
-        "pe": 14.48,
-        "pe_10": 18.83,
-        "pe_25": 22.1,
-        "pe_50": 25.69,
-        "pe_75": 32.01,
+        "pe": 14.88,
+        "pe_10": 19.54,
+        "pe_25": 21.3,
+        "pe_50": 25.49,
+        "pe_75": 31.48,
         "pe_90": 36.92
       },
       {
         "date": "2007-08-16",
         "price": 27.5,
-        "pe": 12.97,
-        "pe_10": 19.08,
-        "pe_25": 22.39,
-        "pe_50": 26.03,
-        "pe_75": 32.43,
-        "pe_90": 37.41
+        "pe": 13.39,
+        "pe_10": 19.71,
+        "pe_25": 21.48,
+        "pe_50": 25.71,
+        "pe_75": 31.75,
+        "pe_90": 37.23
       },
       {
         "date": "2007-09-15",
         "price": 27.2,
-        "pe": 12.67,
-        "pe_10": 19.32,
-        "pe_25": 22.67,
-        "pe_50": 26.35,
-        "pe_75": 32.84,
-        "pe_90": 37.88
+        "pe": 13.14,
+        "pe_10": 19.87,
+        "pe_25": 21.65,
+        "pe_50": 25.92,
+        "pe_75": 32.0,
+        "pe_90": 37.53
       },
       {
         "date": "2007-10-16",
         "price": 25.25,
-        "pe": 11.61,
-        "pe_10": 19.58,
-        "pe_25": 22.97,
-        "pe_50": 26.7,
-        "pe_75": 33.27,
-        "pe_90": 38.37
+        "pe": 11.89,
+        "pe_10": 20.38,
+        "pe_25": 22.21,
+        "pe_50": 26.59,
+        "pe_75": 32.83,
+        "pe_90": 38.5
       },
       {
         "date": "2007-11-15",
         "price": 19.85,
-        "pe": 9.01,
-        "pe_10": 19.83,
-        "pe_25": 23.26,
-        "pe_50": 27.04,
-        "pe_75": 33.7,
-        "pe_90": 38.87
+        "pe": 9.12,
+        "pe_10": 20.89,
+        "pe_25": 22.77,
+        "pe_50": 27.25,
+        "pe_75": 33.65,
+        "pe_90": 39.46
       },
       {
         "date": "2007-12-16",
         "price": 19.0,
         "pe": 8.52,
-        "pe_10": 20.07,
-        "pe_25": 23.55,
-        "pe_50": 27.37,
-        "pe_75": 34.11,
-        "pe_90": 39.34
+        "pe_10": 21.4,
+        "pe_25": 23.33,
+        "pe_50": 27.92,
+        "pe_75": 34.48,
+        "pe_90": 40.43
       },
       {
         "date": "2008-01-16",
         "price": 15.8,
-        "pe": 7.01,
-        "pe_10": 20.29,
-        "pe_25": 23.8,
-        "pe_50": 27.67,
-        "pe_75": 34.48,
-        "pe_90": 39.77
+        "pe": 6.53,
+        "pe_10": 23.22,
+        "pe_25": 25.31,
+        "pe_50": 30.29,
+        "pe_75": 37.41,
+        "pe_90": 43.87
       },
       {
         "date": "2008-02-15",
         "price": 17.5,
-        "pe": 7.69,
-        "pe_10": 20.48,
-        "pe_25": 24.03,
-        "pe_50": 27.93,
-        "pe_75": 34.81,
-        "pe_90": 40.15
+        "pe": 6.7,
+        "pe_10": 25.07,
+        "pe_25": 27.32,
+        "pe_50": 32.7,
+        "pe_75": 40.38,
+        "pe_90": 47.35
       },
       {
         "date": "2008-03-16",
         "price": 20.75,
-        "pe": 9.03,
-        "pe_10": 20.68,
-        "pe_25": 24.27,
-        "pe_50": 28.21,
-        "pe_75": 35.15,
-        "pe_90": 40.54
+        "pe": 7.41,
+        "pe_10": 26.88,
+        "pe_25": 29.29,
+        "pe_50": 35.06,
+        "pe_75": 43.29,
+        "pe_90": 50.77
       },
       {
         "date": "2008-04-15",
         "price": 28.1,
-        "pe": 12.11,
-        "pe_10": 20.89,
-        "pe_25": 24.5,
-        "pe_50": 28.48,
-        "pe_75": 35.5,
-        "pe_90": 40.94
+        "pe": 10.23,
+        "pe_10": 26.36,
+        "pe_25": 28.73,
+        "pe_50": 34.39,
+        "pe_75": 42.47,
+        "pe_90": 49.8
       },
       {
         "date": "2008-05-16",
         "price": 25.8,
-        "pe": 11.01,
-        "pe_10": 21.09,
-        "pe_25": 24.75,
-        "pe_50": 28.76,
-        "pe_75": 35.85,
-        "pe_90": 41.34
+        "pe": 9.58,
+        "pe_10": 25.85,
+        "pe_25": 28.17,
+        "pe_50": 33.72,
+        "pe_75": 41.64,
+        "pe_90": 48.83
       },
       {
         "date": "2008-06-15",
         "price": 22.7,
-        "pe": 9.6,
-        "pe_10": 21.28,
-        "pe_25": 24.97,
-        "pe_50": 29.03,
-        "pe_75": 36.17,
-        "pe_90": 41.72
+        "pe": 8.6,
+        "pe_10": 25.33,
+        "pe_25": 27.61,
+        "pe_50": 33.05,
+        "pe_75": 40.81,
+        "pe_90": 47.85
       },
       {
         "date": "2008-07-16",
         "price": 21.65,
-        "pe": 9.07,
-        "pe_10": 21.49,
-        "pe_25": 25.21,
-        "pe_50": 29.3,
-        "pe_75": 36.51,
-        "pe_90": 42.11
+        "pe": 8.0,
+        "pe_10": 25.97,
+        "pe_25": 28.31,
+        "pe_50": 33.88,
+        "pe_75": 41.84,
+        "pe_90": 49.06
       },
       {
         "date": "2008-08-16",
         "price": 21.3,
-        "pe": 8.84,
-        "pe_10": 21.69,
-        "pe_25": 25.44,
-        "pe_50": 29.58,
-        "pe_75": 36.86,
-        "pe_90": 42.51
+        "pe": 7.68,
+        "pe_10": 26.62,
+        "pe_25": 29.01,
+        "pe_50": 34.72,
+        "pe_75": 42.88,
+        "pe_90": 50.28
       },
       {
         "date": "2008-09-15",
         "price": 16.75,
-        "pe": 6.89,
-        "pe_10": 21.88,
-        "pe_25": 25.67,
-        "pe_50": 29.84,
-        "pe_75": 37.19,
-        "pe_90": 42.89
+        "pe": 5.9,
+        "pe_10": 27.25,
+        "pe_25": 29.7,
+        "pe_50": 35.54,
+        "pe_75": 43.89,
+        "pe_90": 51.47
       },
       {
         "date": "2008-10-16",
         "price": 17.65,
-        "pe": 7.19,
-        "pe_10": 22.1,
-        "pe_25": 25.92,
-        "pe_50": 30.13,
-        "pe_75": 37.55,
-        "pe_90": 43.31
+        "pe": 6.47,
+        "pe_10": 26.18,
+        "pe_25": 28.53,
+        "pe_50": 34.15,
+        "pe_75": 42.17,
+        "pe_90": 49.46
       },
       {
         "date": "2008-11-15",
         "price": 11.85,
-        "pe": 4.78,
-        "pe_10": 22.31,
-        "pe_25": 26.18,
-        "pe_50": 30.43,
-        "pe_75": 37.92,
-        "pe_90": 43.74
+        "pe": 4.53,
+        "pe_10": 25.11,
+        "pe_25": 27.36,
+        "pe_50": 32.75,
+        "pe_75": 40.44,
+        "pe_90": 47.43
       },
       {
         "date": "2008-12-16",
         "price": 12.7,
         "pe": 5.08,
-        "pe_10": 22.5,
-        "pe_25": 26.4,
-        "pe_50": 30.69,
-        "pe_75": 38.24,
-        "pe_90": 44.11
+        "pe_10": 23.99,
+        "pe_25": 26.15,
+        "pe_50": 31.3,
+        "pe_75": 38.65,
+        "pe_90": 45.32
       },
       {
         "date": "2009-01-16",
         "price": 12.55,
-        "pe": 5.16,
-        "pe_10": 21.89,
-        "pe_25": 25.68,
-        "pe_50": 29.85,
-        "pe_75": 37.21,
-        "pe_90": 42.91
+        "pe": 5.65,
+        "pe_10": 21.32,
+        "pe_25": 23.23,
+        "pe_50": 27.81,
+        "pe_75": 34.34,
+        "pe_90": 40.27
       },
       {
         "date": "2009-02-14",
         "price": 13.4,
-        "pe": 5.66,
-        "pe_10": 21.31,
-        "pe_25": 25.0,
-        "pe_50": 29.06,
-        "pe_75": 36.22,
-        "pe_90": 41.77
+        "pe": 6.91,
+        "pe_10": 18.61,
+        "pe_25": 20.28,
+        "pe_50": 24.28,
+        "pe_75": 29.98,
+        "pe_90": 35.16
       },
       {
         "date": "2009-03-16",
         "price": 14.5,
-        "pe": 6.3,
-        "pe_10": 20.72,
-        "pe_25": 24.3,
-        "pe_50": 28.25,
-        "pe_75": 35.21,
-        "pe_90": 40.61
+        "pe": 8.73,
+        "pe_10": 15.94,
+        "pe_25": 17.37,
+        "pe_50": 20.79,
+        "pe_75": 25.68,
+        "pe_90": 30.11
       },
       {
         "date": "2009-04-15",
         "price": 16.2,
-        "pe": 7.24,
-        "pe_10": 20.14,
-        "pe_25": 23.63,
-        "pe_50": 27.47,
-        "pe_75": 34.23,
-        "pe_90": 39.48
+        "pe": 10.66,
+        "pe_10": 14.59,
+        "pe_25": 15.9,
+        "pe_50": 19.03,
+        "pe_75": 23.49,
+        "pe_90": 27.55
       },
       {
         "date": "2009-05-16",
         "price": 16.2,
-        "pe": 7.46,
-        "pe_10": 19.55,
-        "pe_25": 22.93,
-        "pe_50": 26.66,
-        "pe_75": 33.22,
-        "pe_90": 38.31
+        "pe": 11.74,
+        "pe_10": 13.24,
+        "pe_25": 14.43,
+        "pe_50": 17.28,
+        "pe_75": 21.33,
+        "pe_90": 25.02
       },
       {
         "date": "2009-06-15",
         "price": 15.05,
-        "pe": 7.15,
-        "pe_10": 18.95,
-        "pe_25": 22.23,
-        "pe_50": 25.84,
-        "pe_75": 32.2,
-        "pe_90": 37.14
+        "pe": 12.14,
+        "pe_10": 11.9,
+        "pe_25": 12.97,
+        "pe_50": 15.52,
+        "pe_75": 19.17,
+        "pe_90": 22.48
       },
       {
         "date": "2009-07-16",
         "price": 17.45,
-        "pe": 8.56,
-        "pe_10": 18.35,
-        "pe_25": 21.53,
-        "pe_50": 25.02,
-        "pe_75": 31.18,
-        "pe_90": 35.97
+        "pe": 13.56,
+        "pe_10": 12.35,
+        "pe_25": 13.46,
+        "pe_50": 16.11,
+        "pe_75": 19.9,
+        "pe_90": 23.33
       },
       {
         "date": "2009-08-16",
         "price": 16.35,
-        "pe": 8.29,
-        "pe_10": 17.75,
-        "pe_25": 20.83,
-        "pe_50": 24.21,
-        "pe_75": 30.17,
-        "pe_90": 34.8
+        "pe": 12.26,
+        "pe_10": 12.8,
+        "pe_25": 13.95,
+        "pe_50": 16.7,
+        "pe_75": 20.62,
+        "pe_90": 24.18
       },
       {
         "date": "2009-09-15",
         "price": 22.2,
-        "pe": 11.64,
-        "pe_10": 17.17,
-        "pe_25": 20.14,
-        "pe_50": 23.41,
-        "pe_75": 29.18,
-        "pe_90": 33.65
+        "pe": 16.09,
+        "pe_10": 13.24,
+        "pe_25": 14.43,
+        "pe_50": 17.27,
+        "pe_75": 21.33,
+        "pe_90": 25.01
       },
       {
         "date": "2009-10-16",
         "price": 20.0,
-        "pe": 10.86,
-        "pe_10": 16.58,
-        "pe_25": 19.45,
-        "pe_50": 22.61,
-        "pe_75": 28.17,
-        "pe_90": 32.49
+        "pe": 13.42,
+        "pe_10": 14.3,
+        "pe_25": 15.59,
+        "pe_50": 18.66,
+        "pe_75": 23.04,
+        "pe_90": 27.02
       },
       {
         "date": "2009-11-15",
         "price": 22.0,
-        "pe": 12.39,
-        "pe_10": 15.98,
-        "pe_25": 18.75,
-        "pe_50": 21.8,
-        "pe_75": 27.16,
-        "pe_90": 31.33
+        "pe": 13.75,
+        "pe_10": 15.36,
+        "pe_25": 16.74,
+        "pe_50": 20.03,
+        "pe_75": 24.74,
+        "pe_90": 29.01
       },
       {
         "date": "2009-12-16",
         "price": 25.9,
         "pe": 15.15,
-        "pe_10": 15.39,
-        "pe_25": 18.05,
-        "pe_50": 20.98,
-        "pe_75": 26.15,
-        "pe_90": 30.16
+        "pe_10": 16.41,
+        "pe_25": 17.88,
+        "pe_50": 21.4,
+        "pe_75": 26.43,
+        "pe_90": 30.99
       },
       {
         "date": "2010-01-16",
         "price": 20.55,
-        "pe": 11.04,
-        "pe_10": 16.75,
-        "pe_25": 19.66,
-        "pe_50": 22.85,
-        "pe_75": 28.47,
-        "pe_90": 32.84
+        "pe": 11.5,
+        "pe_10": 17.15,
+        "pe_25": 18.69,
+        "pe_50": 22.37,
+        "pe_75": 27.63,
+        "pe_90": 32.4
       },
       {
         "date": "2010-02-14",
         "price": 21.65,
-        "pe": 10.75,
-        "pe_10": 18.13,
-        "pe_25": 21.27,
-        "pe_50": 24.72,
-        "pe_75": 30.81,
-        "pe_90": 35.53
+        "pe": 11.62,
+        "pe_10": 17.88,
+        "pe_25": 19.49,
+        "pe_50": 23.33,
+        "pe_75": 28.8,
+        "pe_90": 33.78
       },
       {
         "date": "2010-03-16",
         "price": 29.1,
-        "pe": 13.44,
-        "pe_10": 19.49,
-        "pe_25": 22.86,
-        "pe_50": 26.58,
-        "pe_75": 33.12,
-        "pe_90": 38.2
+        "pe": 15.0,
+        "pe_10": 18.62,
+        "pe_25": 20.29,
+        "pe_50": 24.29,
+        "pe_75": 29.99,
+        "pe_90": 35.17
       },
       {
         "date": "2010-04-15",
         "price": 28.2,
-        "pe": 12.17,
-        "pe_10": 20.86,
-        "pe_25": 24.47,
-        "pe_50": 28.44,
-        "pe_75": 35.45,
-        "pe_90": 40.88
+        "pe": 12.68,
+        "pe_10": 21.35,
+        "pe_25": 23.26,
+        "pe_50": 27.84,
+        "pe_75": 34.38,
+        "pe_90": 40.32
       },
       {
         "date": "2010-05-16",
         "price": 29.15,
-        "pe": 11.81,
-        "pe_10": 22.22,
-        "pe_25": 26.06,
-        "pe_50": 30.3,
-        "pe_75": 37.76,
-        "pe_90": 43.55
+        "pe": 11.63,
+        "pe_10": 24.06,
+        "pe_25": 26.22,
+        "pe_50": 31.38,
+        "pe_75": 38.75,
+        "pe_90": 45.44
       },
       {
         "date": "2010-06-15",
         "price": 37.2,
-        "pe": 14.2,
-        "pe_10": 23.58,
-        "pe_25": 27.66,
-        "pe_50": 32.16,
-        "pe_75": 40.08,
-        "pe_90": 46.22
+        "pe": 13.33,
+        "pe_10": 26.79,
+        "pe_25": 29.19,
+        "pe_50": 34.94,
+        "pe_75": 43.14,
+        "pe_90": 50.6
       },
       {
         "date": "2010-07-16",
         "price": 43.65,
-        "pe": 15.75,
-        "pe_10": 24.95,
-        "pe_25": 29.27,
-        "pe_50": 34.02,
-        "pe_75": 42.4,
-        "pe_90": 48.9
+        "pe": 15.35,
+        "pe_10": 27.29,
+        "pe_25": 29.74,
+        "pe_50": 35.6,
+        "pe_75": 43.96,
+        "pe_90": 51.56
       },
       {
         "date": "2010-08-16",
         "price": 37.5,
-        "pe": 12.83,
-        "pe_10": 26.31,
-        "pe_25": 30.87,
-        "pe_50": 35.88,
-        "pe_75": 44.71,
-        "pe_90": 51.57
+        "pe": 12.95,
+        "pe_10": 27.79,
+        "pe_25": 30.29,
+        "pe_50": 36.25,
+        "pe_75": 44.77,
+        "pe_90": 52.5
       },
       {
         "date": "2010-09-15",
         "price": 43.0,
-        "pe": 13.98,
-        "pe_10": 27.69,
-        "pe_25": 32.48,
-        "pe_50": 37.76,
-        "pe_75": 47.05,
-        "pe_90": 54.27
+        "pe": 14.58,
+        "pe_10": 28.31,
+        "pe_25": 30.85,
+        "pe_50": 36.92,
+        "pe_75": 45.6,
+        "pe_90": 53.47
       },
       {
         "date": "2010-10-16",
         "price": 42.8,
-        "pe": 13.26,
-        "pe_10": 29.05,
-        "pe_25": 34.09,
-        "pe_50": 39.62,
-        "pe_75": 49.38,
-        "pe_90": 56.95
+        "pe": 13.62,
+        "pe_10": 30.16,
+        "pe_25": 32.87,
+        "pe_50": 39.34,
+        "pe_75": 48.58,
+        "pe_90": 56.97
       },
       {
         "date": "2010-11-15",
         "price": 43.9,
-        "pe": 12.99,
-        "pe_10": 30.42,
-        "pe_25": 35.69,
-        "pe_50": 41.48,
-        "pe_75": 51.7,
-        "pe_90": 59.62
+        "pe": 13.16,
+        "pe_10": 32.02,
+        "pe_25": 34.89,
+        "pe_50": 41.77,
+        "pe_75": 51.57,
+        "pe_90": 60.48
       },
       {
         "date": "2010-12-16",
         "price": 51.3,
         "pe": 14.53,
-        "pe_10": 31.78,
-        "pe_25": 37.28,
-        "pe_50": 43.34,
-        "pe_75": 54.01,
-        "pe_90": 62.29
+        "pe_10": 33.89,
+        "pe_25": 36.93,
+        "pe_50": 44.2,
+        "pe_75": 54.58,
+        "pe_90": 64.01
       },
       {
         "date": "2011-01-16",
         "price": 58.6,
-        "pe": 16.9,
-        "pe_10": 31.21,
-        "pe_25": 36.62,
-        "pe_50": 42.56,
-        "pe_75": 53.04,
-        "pe_90": 61.18
+        "pe": 16.65,
+        "pe_10": 33.78,
+        "pe_25": 36.81,
+        "pe_50": 44.06,
+        "pe_75": 54.41,
+        "pe_90": 63.81
       },
       {
         "date": "2011-02-14",
         "price": 66.5,
-        "pe": 19.52,
-        "pe_10": 30.66,
-        "pe_25": 35.98,
-        "pe_50": 41.82,
-        "pe_75": 52.11,
-        "pe_90": 60.11
+        "pe": 18.95,
+        "pe_10": 33.68,
+        "pe_25": 36.71,
+        "pe_50": 43.94,
+        "pe_75": 54.25,
+        "pe_90": 63.62
       },
       {
         "date": "2011-03-16",
         "price": 59.1,
-        "pe": 17.67,
-        "pe_10": 30.11,
-        "pe_25": 35.32,
-        "pe_50": 41.06,
-        "pe_75": 51.16,
-        "pe_90": 59.01
+        "pe": 16.89,
+        "pe_10": 33.58,
+        "pe_25": 36.6,
+        "pe_50": 43.81,
+        "pe_75": 54.1,
+        "pe_90": 63.44
       },
       {
         "date": "2011-04-15",
         "price": 51.6,
-        "pe": 15.72,
-        "pe_10": 29.55,
-        "pe_25": 34.66,
-        "pe_50": 40.29,
-        "pe_75": 50.21,
-        "pe_90": 57.91
+        "pe": 15.99,
+        "pe_10": 30.97,
+        "pe_25": 33.75,
+        "pe_50": 40.4,
+        "pe_75": 49.89,
+        "pe_90": 58.51
       },
       {
         "date": "2011-05-16",
         "price": 45.3,
-        "pe": 14.06,
-        "pe_10": 29.0,
-        "pe_25": 34.02,
-        "pe_50": 39.55,
-        "pe_75": 49.29,
-        "pe_90": 56.84
+        "pe": 15.34,
+        "pe_10": 28.34,
+        "pe_25": 30.89,
+        "pe_50": 36.97,
+        "pe_75": 45.65,
+        "pe_90": 53.54
       },
       {
         "date": "2011-06-15",
         "price": 38.05,
-        "pe": 12.04,
-        "pe_10": 28.45,
-        "pe_25": 33.37,
-        "pe_50": 38.79,
-        "pe_75": 48.34,
-        "pe_90": 55.76
+        "pe": 14.2,
+        "pe_10": 25.72,
+        "pe_25": 28.03,
+        "pe_50": 33.55,
+        "pe_75": 41.43,
+        "pe_90": 48.58
       },
       {
         "date": "2011-07-16",
         "price": 35.05,
-        "pe": 11.31,
-        "pe_10": 27.89,
-        "pe_25": 32.73,
-        "pe_50": 38.04,
-        "pe_75": 47.41,
-        "pe_90": 54.68
+        "pe": 12.7,
+        "pe_10": 26.49,
+        "pe_25": 28.87,
+        "pe_50": 34.55,
+        "pe_75": 42.67,
+        "pe_90": 50.04
       },
       {
         "date": "2011-08-16",
         "price": 33.2,
-        "pe": 10.93,
-        "pe_10": 27.34,
-        "pe_25": 32.08,
-        "pe_50": 37.29,
-        "pe_75": 46.47,
-        "pe_90": 53.59
+        "pe": 11.69,
+        "pe_10": 27.26,
+        "pe_25": 29.71,
+        "pe_50": 35.56,
+        "pe_75": 43.91,
+        "pe_90": 51.49
       },
       {
         "date": "2011-09-15",
         "price": 34.4,
-        "pe": 11.56,
-        "pe_10": 26.78,
-        "pe_25": 31.42,
-        "pe_50": 36.53,
-        "pe_75": 45.52,
-        "pe_90": 52.5
+        "pe": 11.78,
+        "pe_10": 28.03,
+        "pe_25": 30.55,
+        "pe_50": 36.56,
+        "pe_75": 45.15,
+        "pe_90": 52.94
       },
       {
         "date": "2011-10-16",
         "price": 36.0,
-        "pe": 12.36,
-        "pe_10": 26.22,
-        "pe_25": 30.76,
-        "pe_50": 35.75,
-        "pe_75": 44.56,
-        "pe_90": 51.39
+        "pe": 12.51,
+        "pe_10": 27.62,
+        "pe_25": 30.1,
+        "pe_50": 36.03,
+        "pe_75": 44.49,
+        "pe_90": 52.17
       },
       {
         "date": "2011-11-15",
         "price": 33.0,
-        "pe": 11.57,
-        "pe_10": 25.67,
-        "pe_25": 30.12,
-        "pe_50": 35.01,
-        "pe_75": 43.63,
-        "pe_90": 50.32
+        "pe": 11.65,
+        "pe_10": 27.19,
+        "pe_25": 29.63,
+        "pe_50": 35.46,
+        "pe_75": 43.79,
+        "pe_90": 51.36
       },
       {
         "date": "2011-12-16",
         "price": 36.4,
         "pe": 13.05,
-        "pe_10": 25.11,
-        "pe_25": 29.45,
-        "pe_50": 34.24,
-        "pe_75": 42.67,
-        "pe_90": 49.21
+        "pe_10": 26.77,
+        "pe_25": 29.18,
+        "pe_50": 34.92,
+        "pe_75": 43.12,
+        "pe_90": 50.57
       },
       {
         "date": "2012-01-16",
         "price": 35.3,
-        "pe": 12.76,
-        "pe_10": 24.9,
-        "pe_25": 29.21,
-        "pe_50": 33.96,
-        "pe_75": 42.32,
-        "pe_90": 48.81
+        "pe": 12.39,
+        "pe_10": 27.35,
+        "pe_25": 29.8,
+        "pe_50": 35.67,
+        "pe_75": 44.05,
+        "pe_90": 51.65
       },
       {
         "date": "2012-02-15",
         "price": 45.85,
-        "pe": 16.71,
-        "pe_10": 24.7,
-        "pe_25": 28.98,
-        "pe_50": 33.68,
-        "pe_75": 41.97,
-        "pe_90": 48.41
+        "pe": 15.76,
+        "pe_10": 27.92,
+        "pe_25": 30.43,
+        "pe_50": 36.42,
+        "pe_75": 44.98,
+        "pe_90": 52.74
       },
       {
         "date": "2012-03-16",
         "price": 41.0,
-        "pe": 15.07,
-        "pe_10": 24.49,
-        "pe_25": 28.73,
-        "pe_50": 33.4,
-        "pe_75": 41.62,
-        "pe_90": 48.0
+        "pe": 13.8,
+        "pe_10": 28.52,
+        "pe_25": 31.08,
+        "pe_50": 37.2,
+        "pe_75": 45.93,
+        "pe_90": 53.86
       },
       {
         "date": "2012-04-15",
         "price": 38.4,
-        "pe": 14.24,
-        "pe_10": 24.27,
-        "pe_25": 28.48,
-        "pe_50": 33.1,
-        "pe_75": 41.25,
-        "pe_90": 47.58
+        "pe": 11.9,
+        "pe_10": 30.97,
+        "pe_25": 33.75,
+        "pe_50": 40.4,
+        "pe_75": 49.89,
+        "pe_90": 58.5
       },
       {
         "date": "2012-05-16",
         "price": 40.3,
-        "pe": 15.07,
-        "pe_10": 24.07,
-        "pe_25": 28.24,
-        "pe_50": 32.83,
-        "pe_75": 40.91,
-        "pe_90": 47.18
+        "pe": 11.57,
+        "pe_10": 33.43,
+        "pe_25": 36.43,
+        "pe_50": 43.61,
+        "pe_75": 53.85,
+        "pe_90": 63.15
       },
       {
         "date": "2012-06-15",
         "price": 39.95,
-        "pe": 15.08,
-        "pe_10": 23.85,
-        "pe_25": 27.98,
-        "pe_50": 32.52,
-        "pe_75": 40.53,
-        "pe_90": 46.74
+        "pe": 10.68,
+        "pe_10": 35.9,
+        "pe_25": 39.13,
+        "pe_50": 46.83,
+        "pe_75": 57.83,
+        "pe_90": 67.82
       },
       {
         "date": "2012-07-16",
         "price": 35.2,
-        "pe": 13.4,
-        "pe_10": 23.64,
-        "pe_25": 27.74,
-        "pe_50": 32.24,
-        "pe_75": 40.18,
-        "pe_90": 46.35
+        "pe": 10.06,
+        "pe_10": 33.58,
+        "pe_25": 36.6,
+        "pe_50": 43.81,
+        "pe_75": 54.09,
+        "pe_90": 63.44
       },
       {
         "date": "2012-08-16",
         "price": 37.5,
-        "pe": 14.4,
-        "pe_10": 23.44,
-        "pe_25": 27.5,
-        "pe_50": 31.97,
-        "pe_75": 39.84,
-        "pe_90": 45.95
+        "pe": 11.5,
+        "pe_10": 31.3,
+        "pe_25": 34.11,
+        "pe_50": 40.83,
+        "pe_75": 50.41,
+        "pe_90": 59.12
       },
       {
         "date": "2012-09-15",
         "price": 35.3,
-        "pe": 13.68,
-        "pe_10": 23.23,
-        "pe_25": 27.25,
-        "pe_50": 31.67,
-        "pe_75": 39.47,
-        "pe_90": 45.53
+        "pe": 11.69,
+        "pe_10": 28.98,
+        "pe_25": 31.59,
+        "pe_50": 37.81,
+        "pe_75": 46.68,
+        "pe_90": 54.75
       },
       {
         "date": "2012-10-16",
         "price": 28.15,
-        "pe": 11.01,
-        "pe_10": 23.01,
-        "pe_25": 27.0,
-        "pe_50": 31.38,
-        "pe_75": 39.11,
-        "pe_90": 45.11
+        "pe": 9.88,
+        "pe_10": 27.35,
+        "pe_25": 29.8,
+        "pe_50": 35.67,
+        "pe_75": 44.05,
+        "pe_90": 51.66
       },
       {
         "date": "2012-11-15",
         "price": 28.2,
-        "pe": 11.13,
-        "pe_10": 22.81,
-        "pe_25": 26.76,
-        "pe_50": 31.1,
-        "pe_75": 38.76,
-        "pe_90": 44.7
+        "pe": 10.52,
+        "pe_10": 25.73,
+        "pe_25": 28.04,
+        "pe_50": 33.56,
+        "pe_75": 41.44,
+        "pe_90": 48.6
       },
       {
         "date": "2012-12-16",
         "price": 27.75,
         "pe": 11.06,
-        "pe_10": 22.58,
-        "pe_25": 26.5,
-        "pe_50": 30.8,
-        "pe_75": 38.38,
-        "pe_90": 44.27
+        "pe_10": 24.08,
+        "pe_25": 26.24,
+        "pe_50": 31.41,
+        "pe_75": 38.79,
+        "pe_90": 45.49
       },
       {
         "date": "2013-01-16",
         "price": 28.8,
-        "pe": 11.95,
-        "pe_10": 21.69,
-        "pe_25": 25.45,
-        "pe_50": 29.58,
-        "pe_75": 36.87,
-        "pe_90": 42.52
+        "pe": 11.72,
+        "pe_10": 23.59,
+        "pe_25": 25.7,
+        "pe_50": 30.77,
+        "pe_75": 37.99,
+        "pe_90": 44.55
       },
       {
         "date": "2013-02-14",
         "price": 28.3,
-        "pe": 12.24,
-        "pe_10": 20.81,
-        "pe_25": 24.42,
-        "pe_50": 28.38,
-        "pe_75": 35.37,
-        "pe_90": 40.79
+        "pe": 11.78,
+        "pe_10": 23.06,
+        "pe_25": 25.13,
+        "pe_50": 30.08,
+        "pe_75": 37.14,
+        "pe_90": 43.56
       },
       {
         "date": "2013-03-16",
         "price": 27.75,
-        "pe": 12.54,
-        "pe_10": 19.92,
-        "pe_25": 23.37,
-        "pe_50": 27.16,
-        "pe_75": 33.85,
-        "pe_90": 39.04
+        "pe": 11.81,
+        "pe_10": 22.55,
+        "pe_25": 24.58,
+        "pe_50": 29.42,
+        "pe_75": 36.33,
+        "pe_90": 42.6
       },
       {
         "date": "2013-04-15",
         "price": 27.9,
-        "pe": 13.2,
-        "pe_10": 19.02,
-        "pe_25": 22.32,
-        "pe_50": 25.94,
-        "pe_75": 32.33,
-        "pe_90": 37.29
+        "pe": 12.53,
+        "pe_10": 21.37,
+        "pe_25": 23.29,
+        "pe_50": 27.88,
+        "pe_75": 34.42,
+        "pe_90": 40.37
       },
       {
         "date": "2013-05-16",
         "price": 27.35,
-        "pe": 13.58,
-        "pe_10": 18.13,
-        "pe_25": 21.27,
-        "pe_50": 24.72,
-        "pe_75": 30.81,
-        "pe_90": 35.53
+        "pe": 13.0,
+        "pe_10": 20.19,
+        "pe_25": 22.01,
+        "pe_50": 26.34,
+        "pe_75": 32.53,
+        "pe_90": 38.14
       },
       {
         "date": "2013-06-15",
         "price": 37.4,
-        "pe": 19.53,
-        "pe_10": 17.24,
-        "pe_25": 20.22,
-        "pe_50": 23.51,
-        "pe_75": 29.29,
-        "pe_90": 33.79
+        "pe": 18.89,
+        "pe_10": 19.0,
+        "pe_25": 20.71,
+        "pe_50": 24.79,
+        "pe_75": 30.61,
+        "pe_90": 35.9
       },
       {
         "date": "2013-07-16",
         "price": 35.55,
-        "pe": 19.58,
-        "pe_10": 16.34,
-        "pe_25": 19.17,
-        "pe_50": 22.29,
-        "pe_75": 27.77,
-        "pe_90": 32.03
+        "pe": 19.75,
+        "pe_10": 17.28,
+        "pe_25": 18.83,
+        "pe_50": 22.54,
+        "pe_75": 27.83,
+        "pe_90": 32.63
       },
       {
         "date": "2013-08-16",
         "price": 32.75,
-        "pe": 19.08,
-        "pe_10": 15.45,
-        "pe_25": 18.13,
-        "pe_50": 21.07,
-        "pe_75": 26.26,
-        "pe_90": 30.28
+        "pe": 20.22,
+        "pe_10": 15.55,
+        "pe_25": 16.94,
+        "pe_50": 20.28,
+        "pe_75": 25.04,
+        "pe_90": 29.36
       },
       {
         "date": "2013-09-15",
         "price": 36.55,
-        "pe": 22.6,
-        "pe_10": 14.56,
-        "pe_25": 17.08,
-        "pe_50": 19.85,
-        "pe_75": 24.74,
-        "pe_90": 28.53
+        "pe": 25.38,
+        "pe_10": 13.82,
+        "pe_25": 15.06,
+        "pe_50": 18.03,
+        "pe_75": 22.26,
+        "pe_90": 26.11
       },
       {
         "date": "2013-10-16",
         "price": 36.2,
-        "pe": 23.84,
-        "pe_10": 13.67,
-        "pe_25": 16.03,
-        "pe_50": 18.64,
-        "pe_75": 23.23,
-        "pe_90": 26.79
+        "pe": 25.86,
+        "pe_10": 13.44,
+        "pe_25": 14.64,
+        "pe_50": 17.53,
+        "pe_75": 21.64,
+        "pe_90": 25.38
       },
       {
         "date": "2013-11-15",
         "price": 35.0,
-        "pe": 24.66,
-        "pe_10": 12.78,
-        "pe_25": 14.99,
-        "pe_50": 17.42,
-        "pe_75": 21.71,
-        "pe_90": 25.04
+        "pe": 25.74,
+        "pe_10": 13.05,
+        "pe_25": 14.22,
+        "pe_50": 17.02,
+        "pe_75": 21.02,
+        "pe_90": 24.65
       },
       {
         "date": "2013-12-16",
         "price": 34.85,
         "pe": 26.4,
-        "pe_10": 11.88,
-        "pe_25": 13.94,
-        "pe_50": 16.2,
-        "pe_75": 20.19,
-        "pe_90": 23.29
+        "pe_10": 12.67,
+        "pe_25": 13.81,
+        "pe_50": 16.53,
+        "pe_75": 20.41,
+        "pe_90": 23.93
       },
       {
         "date": "2014-01-16",
         "price": 33.2,
-        "pe": 24.58,
-        "pe_10": 12.16,
-        "pe_25": 14.26,
-        "pe_50": 16.58,
-        "pe_75": 20.66,
-        "pe_90": 23.83
+        "pe": 28.14,
+        "pe_10": 11.32,
+        "pe_25": 12.34,
+        "pe_50": 14.77,
+        "pe_75": 18.24,
+        "pe_90": 21.39
       },
       {
         "date": "2014-02-14",
         "price": 33.0,
-        "pe": 23.88,
-        "pe_10": 12.44,
-        "pe_25": 14.59,
-        "pe_50": 16.96,
-        "pe_75": 21.14,
-        "pe_90": 24.38
+        "pe": 31.73,
+        "pe_10": 9.98,
+        "pe_25": 10.88,
+        "pe_50": 13.02,
+        "pe_75": 16.08,
+        "pe_90": 18.86
       },
       {
         "date": "2014-03-16",
         "price": 33.45,
-        "pe": 23.68,
-        "pe_10": 12.71,
-        "pe_25": 14.92,
-        "pe_50": 17.34,
-        "pe_75": 21.61,
-        "pe_90": 24.92
+        "pe": 37.17,
+        "pe_10": 8.64,
+        "pe_25": 9.41,
+        "pe_50": 11.27,
+        "pe_75": 13.91,
+        "pe_90": 16.32
       },
       {
         "date": "2014-04-15",
         "price": 29.85,
-        "pe": 20.68,
-        "pe_10": 12.99,
-        "pe_25": 15.24,
-        "pe_50": 17.72,
-        "pe_75": 22.08,
-        "pe_90": 25.47
+        "pe": 31.2,
+        "pe_10": 9.18,
+        "pe_25": 10.01,
+        "pe_50": 11.98,
+        "pe_75": 14.79,
+        "pe_90": 17.35
       },
       {
         "date": "2014-05-16",
         "price": 30.2,
-        "pe": 20.49,
-        "pe_10": 13.27,
-        "pe_25": 15.56,
-        "pe_50": 18.09,
-        "pe_75": 22.55,
-        "pe_90": 26.0
+        "pe": 29.8,
+        "pe_10": 9.73,
+        "pe_25": 10.6,
+        "pe_50": 12.69,
+        "pe_75": 15.67,
+        "pe_90": 18.37
       },
       {
         "date": "2014-06-15",
         "price": 30.45,
-        "pe": 20.23,
-        "pe_10": 13.55,
-        "pe_25": 15.89,
-        "pe_50": 18.48,
-        "pe_75": 23.03,
-        "pe_90": 26.56
+        "pe": 28.46,
+        "pe_10": 10.27,
+        "pe_25": 11.19,
+        "pe_50": 13.4,
+        "pe_75": 16.54,
+        "pe_90": 19.4
       },
       {
         "date": "2014-07-16",
         "price": 29.0,
-        "pe": 18.88,
-        "pe_10": 13.83,
-        "pe_25": 16.22,
-        "pe_50": 18.85,
-        "pe_75": 23.5,
-        "pe_90": 27.1
+        "pe": 22.72,
+        "pe_10": 12.25,
+        "pe_25": 13.35,
+        "pe_50": 15.98,
+        "pe_75": 19.73,
+        "pe_90": 23.14
       },
       {
         "date": "2014-08-16",
         "price": 28.5,
-        "pe": 18.19,
-        "pe_10": 14.1,
-        "pe_25": 16.55,
-        "pe_50": 19.23,
-        "pe_75": 23.97,
-        "pe_90": 27.64
+        "pe": 19.21,
+        "pe_10": 14.24,
+        "pe_25": 15.52,
+        "pe_50": 18.57,
+        "pe_75": 22.94,
+        "pe_90": 26.9
       },
       {
         "date": "2014-09-15",
         "price": 27.25,
-        "pe": 17.06,
-        "pe_10": 14.38,
-        "pe_25": 16.87,
-        "pe_50": 19.61,
-        "pe_75": 24.43,
-        "pe_90": 28.18
+        "pe": 16.12,
+        "pe_10": 16.22,
+        "pe_25": 17.68,
+        "pe_50": 21.16,
+        "pe_75": 26.13,
+        "pe_90": 30.65
       },
       {
         "date": "2014-10-16",
         "price": 27.55,
-        "pe": 16.92,
-        "pe_10": 14.66,
-        "pe_25": 17.19,
-        "pe_50": 19.99,
-        "pe_75": 24.91,
-        "pe_90": 28.73
+        "pe": 16.3,
+        "pe_10": 16.22,
+        "pe_25": 17.68,
+        "pe_50": 21.16,
+        "pe_75": 26.13,
+        "pe_90": 30.64
       },
       {
         "date": "2014-11-15",
         "price": 27.5,
-        "pe": 16.57,
-        "pe_10": 14.94,
-        "pe_25": 17.53,
-        "pe_50": 20.37,
-        "pe_75": 25.39,
-        "pe_90": 29.28
+        "pe": 16.27,
+        "pe_10": 16.22,
+        "pe_25": 17.68,
+        "pe_50": 21.16,
+        "pe_75": 26.13,
+        "pe_90": 30.64
       },
       {
         "date": "2014-12-16",
         "price": 28.35,
         "pe": 16.78,
-        "pe_10": 15.21,
-        "pe_25": 17.84,
-        "pe_50": 20.74,
-        "pe_75": 25.85,
-        "pe_90": 29.81
+        "pe_10": 16.22,
+        "pe_25": 17.67,
+        "pe_50": 21.15,
+        "pe_75": 26.12,
+        "pe_90": 30.63
       },
       {
         "date": "2015-01-16",
         "price": 29.65,
-        "pe": 17.07,
-        "pe_10": 15.63,
-        "pe_25": 18.34,
-        "pe_50": 21.32,
-        "pe_75": 26.57,
-        "pe_90": 30.65
+        "pe": 17.48,
+        "pe_10": 16.28,
+        "pe_25": 17.74,
+        "pe_50": 21.24,
+        "pe_75": 26.22,
+        "pe_90": 30.75
       },
       {
         "date": "2015-02-14",
         "price": 28.8,
-        "pe": 16.15,
-        "pe_10": 16.05,
-        "pe_25": 18.83,
-        "pe_50": 21.89,
-        "pe_75": 27.28,
-        "pe_90": 31.46
+        "pe": 16.91,
+        "pe_10": 16.35,
+        "pe_25": 17.81,
+        "pe_50": 21.32,
+        "pe_75": 26.33,
+        "pe_90": 30.88
       },
       {
         "date": "2015-03-16",
         "price": 28.55,
-        "pe": 15.6,
-        "pe_10": 16.47,
-        "pe_25": 19.33,
-        "pe_50": 22.46,
-        "pe_75": 28.0,
-        "pe_90": 32.29
+        "pe": 16.7,
+        "pe_10": 16.41,
+        "pe_25": 17.88,
+        "pe_50": 21.4,
+        "pe_75": 26.43,
+        "pe_90": 30.99
       },
       {
         "date": "2015-04-15",
         "price": 26.7,
-        "pe": 14.23,
-        "pe_10": 16.89,
-        "pe_25": 19.81,
-        "pe_50": 23.03,
-        "pe_75": 28.7,
-        "pe_90": 33.1
+        "pe": 16.21,
+        "pe_10": 15.81,
+        "pe_25": 17.23,
+        "pe_50": 20.62,
+        "pe_75": 25.46,
+        "pe_90": 29.86
       },
       {
         "date": "2015-05-16",
         "price": 24.25,
-        "pe": 12.61,
-        "pe_10": 17.31,
-        "pe_25": 20.31,
-        "pe_50": 23.61,
-        "pe_75": 29.42,
-        "pe_90": 33.93
+        "pe": 15.32,
+        "pe_10": 15.19,
+        "pe_25": 16.56,
+        "pe_50": 19.82,
+        "pe_75": 24.47,
+        "pe_90": 28.7
       },
       {
         "date": "2015-06-15",
         "price": 23.9,
-        "pe": 12.13,
-        "pe_10": 17.73,
-        "pe_25": 20.81,
-        "pe_50": 24.19,
-        "pe_75": 30.14,
-        "pe_90": 34.76
+        "pe": 15.72,
+        "pe_10": 14.59,
+        "pe_25": 15.9,
+        "pe_50": 19.03,
+        "pe_75": 23.5,
+        "pe_90": 27.56
       },
       {
         "date": "2015-07-16",
         "price": 25.6,
-        "pe": 12.69,
-        "pe_10": 18.16,
-        "pe_25": 21.3,
-        "pe_50": 24.76,
-        "pe_75": 30.86,
-        "pe_90": 35.59
+        "pe": 16.07,
+        "pe_10": 15.29,
+        "pe_25": 16.66,
+        "pe_50": 19.94,
+        "pe_75": 24.63,
+        "pe_90": 28.88
       },
       {
         "date": "2015-08-16",
         "price": 23.35,
-        "pe": 11.32,
-        "pe_10": 18.57,
-        "pe_25": 21.78,
-        "pe_50": 25.32,
-        "pe_75": 31.55,
-        "pe_90": 36.39
+        "pe": 14.01,
+        "pe_10": 16.0,
+        "pe_25": 17.43,
+        "pe_50": 20.87,
+        "pe_75": 25.77,
+        "pe_90": 30.22
       },
       {
         "date": "2015-09-15",
         "price": 24.3,
-        "pe": 11.52,
-        "pe_10": 18.99,
-        "pe_25": 22.28,
-        "pe_50": 25.89,
-        "pe_75": 32.27,
-        "pe_90": 37.22
+        "pe": 13.97,
+        "pe_10": 16.7,
+        "pe_25": 18.19,
+        "pe_50": 21.78,
+        "pe_75": 26.89,
+        "pe_90": 31.54
       },
       {
         "date": "2015-10-16",
         "price": 26.85,
-        "pe": 12.45,
-        "pe_10": 19.41,
-        "pe_25": 22.77,
-        "pe_50": 26.47,
-        "pe_75": 32.99,
-        "pe_90": 38.05
+        "pe": 14.06,
+        "pe_10": 18.33,
+        "pe_25": 19.98,
+        "pe_50": 23.91,
+        "pe_75": 29.52,
+        "pe_90": 34.62
       },
       {
         "date": "2015-11-15",
         "price": 25.35,
-        "pe": 11.51,
-        "pe_10": 19.82,
-        "pe_25": 23.26,
-        "pe_50": 27.03,
-        "pe_75": 33.69,
-        "pe_90": 38.86
+        "pe": 12.19,
+        "pe_10": 19.96,
+        "pe_25": 21.75,
+        "pe_50": 26.04,
+        "pe_75": 32.15,
+        "pe_90": 37.7
       },
       {
         "date": "2015-12-16",
         "price": 27.7,
         "pe": 12.31,
-        "pe_10": 20.25,
-        "pe_25": 23.76,
-        "pe_50": 27.62,
-        "pe_75": 34.42,
-        "pe_90": 39.7
+        "pe_10": 21.6,
+        "pe_25": 23.54,
+        "pe_50": 28.17,
+        "pe_75": 34.79,
+        "pe_90": 40.8
       },
       {
         "date": "2016-01-16",
         "price": 27.05,
-        "pe": 11.63,
-        "pe_10": 20.94,
-        "pe_25": 24.56,
-        "pe_50": 28.55,
-        "pe_75": 35.58,
-        "pe_90": 41.04
+        "pe": 10.38,
+        "pe_10": 25.01,
+        "pe_25": 27.26,
+        "pe_50": 32.63,
+        "pe_75": 40.29,
+        "pe_90": 47.25
       },
       {
         "date": "2016-02-15",
         "price": 31.4,
-        "pe": 13.08,
-        "pe_10": 21.61,
-        "pe_25": 25.35,
-        "pe_50": 29.47,
-        "pe_75": 36.72,
-        "pe_90": 42.35
+        "pe": 10.6,
+        "pe_10": 28.43,
+        "pe_25": 30.99,
+        "pe_50": 37.09,
+        "pe_75": 45.8,
+        "pe_90": 53.71
       },
       {
         "date": "2016-03-16",
         "price": 32.35,
-        "pe": 13.07,
-        "pe_10": 22.28,
-        "pe_25": 26.14,
-        "pe_50": 30.38,
-        "pe_75": 37.86,
-        "pe_90": 43.67
+        "pe": 9.74,
+        "pe_10": 31.88,
+        "pe_25": 34.74,
+        "pe_50": 41.58,
+        "pe_75": 51.35,
+        "pe_90": 60.22
       },
       {
         "date": "2016-04-15",
         "price": 35.1,
-        "pe": 13.76,
-        "pe_10": 22.96,
-        "pe_25": 26.94,
-        "pe_50": 31.31,
-        "pe_75": 39.02,
-        "pe_90": 45.01
+        "pe": 10.45,
+        "pe_10": 32.24,
+        "pe_25": 35.13,
+        "pe_50": 42.05,
+        "pe_75": 51.93,
+        "pe_90": 60.9
       },
       {
         "date": "2016-05-16",
         "price": 31.95,
-        "pe": 12.17,
-        "pe_10": 23.63,
-        "pe_25": 27.72,
-        "pe_50": 32.23,
-        "pe_75": 40.16,
-        "pe_90": 46.32
+        "pe": 9.4,
+        "pe_10": 32.62,
+        "pe_25": 35.55,
+        "pe_50": 42.55,
+        "pe_75": 52.55,
+        "pe_90": 61.62
       },
       {
         "date": "2016-06-15",
         "price": 32.5,
-        "pe": 12.04,
-        "pe_10": 24.3,
-        "pe_25": 28.5,
-        "pe_50": 33.13,
-        "pe_75": 41.29,
-        "pe_90": 47.62
+        "pe": 9.45,
+        "pe_10": 33.01,
+        "pe_25": 35.97,
+        "pe_50": 43.06,
+        "pe_75": 53.17,
+        "pe_90": 62.35
       },
       {
         "date": "2016-07-16",
         "price": 34.35,
-        "pe": 12.38,
-        "pe_10": 24.97,
-        "pe_25": 29.3,
-        "pe_50": 34.06,
-        "pe_75": 42.45,
-        "pe_90": 48.95
+        "pe": 10.18,
+        "pe_10": 32.39,
+        "pe_25": 35.29,
+        "pe_50": 42.25,
+        "pe_75": 52.17,
+        "pe_90": 61.18
       },
       {
         "date": "2016-08-16",
         "price": 32.2,
-        "pe": 11.3,
-        "pe_10": 25.65,
-        "pe_25": 30.09,
-        "pe_50": 34.98,
-        "pe_75": 43.59,
-        "pe_90": 50.27
+        "pe": 9.74,
+        "pe_10": 31.73,
+        "pe_25": 34.58,
+        "pe_50": 41.39,
+        "pe_75": 51.11,
+        "pe_90": 59.94
       },
       {
         "date": "2016-09-15",
         "price": 32.2,
-        "pe": 11.01,
-        "pe_10": 26.32,
-        "pe_25": 30.88,
-        "pe_50": 35.9,
-        "pe_75": 44.74,
-        "pe_90": 51.6
+        "pe": 9.94,
+        "pe_10": 31.09,
+        "pe_25": 33.88,
+        "pe_50": 40.56,
+        "pe_75": 50.08,
+        "pe_90": 58.73
       },
       {
         "date": "2016-10-16",
         "price": 31.4,
-        "pe": 10.47,
-        "pe_10": 26.99,
-        "pe_25": 31.67,
-        "pe_50": 36.81,
-        "pe_75": 45.88,
-        "pe_90": 52.91
+        "pe": 9.78,
+        "pe_10": 30.82,
+        "pe_25": 33.58,
+        "pe_50": 40.2,
+        "pe_75": 49.64,
+        "pe_90": 58.21
       },
       {
         "date": "2016-11-15",
         "price": 30.85,
-        "pe": 10.03,
-        "pe_10": 27.69,
-        "pe_25": 32.48,
-        "pe_50": 37.76,
-        "pe_75": 47.05,
-        "pe_90": 54.27
+        "pe": 9.7,
+        "pe_10": 30.53,
+        "pe_25": 33.27,
+        "pe_50": 39.82,
+        "pe_75": 49.17,
+        "pe_90": 57.66
       },
       {
         "date": "2016-12-16",
         "price": 32.15,
         "pe": 10.21,
-        "pe_10": 28.34,
-        "pe_25": 33.25,
-        "pe_50": 38.65,
-        "pe_75": 48.17,
-        "pe_90": 55.56
+        "pe_10": 30.22,
+        "pe_25": 32.94,
+        "pe_50": 39.42,
+        "pe_75": 48.68,
+        "pe_90": 57.09
       },
       {
         "date": "2017-01-16",
         "price": 33.8,
-        "pe": 10.76,
-        "pe_10": 28.27,
-        "pe_25": 33.17,
-        "pe_50": 38.56,
-        "pe_75": 48.05,
-        "pe_90": 55.42
+        "pe": 11.72,
+        "pe_10": 27.68,
+        "pe_25": 30.17,
+        "pe_50": 36.11,
+        "pe_75": 44.59,
+        "pe_90": 52.29
       },
       {
         "date": "2017-02-14",
         "price": 32.4,
-        "pe": 10.33,
-        "pe_10": 28.23,
-        "pe_25": 33.12,
-        "pe_50": 38.5,
-        "pe_75": 47.98,
-        "pe_90": 55.34
+        "pe": 12.38,
+        "pe_10": 25.12,
+        "pe_25": 27.38,
+        "pe_50": 32.77,
+        "pe_75": 40.46,
+        "pe_90": 47.45
       },
       {
         "date": "2017-03-16",
         "price": 34.4,
-        "pe": 11.0,
-        "pe_10": 28.15,
-        "pe_25": 33.02,
-        "pe_50": 38.39,
-        "pe_75": 47.84,
-        "pe_90": 55.17
+        "pe": 14.64,
+        "pe_10": 22.55,
+        "pe_25": 24.58,
+        "pe_50": 29.42,
+        "pe_75": 36.33,
+        "pe_90": 42.6
       },
       {
         "date": "2017-04-15",
         "price": 33.2,
-        "pe": 10.64,
-        "pe_10": 28.09,
-        "pe_25": 32.95,
-        "pe_50": 38.3,
-        "pe_75": 47.73,
-        "pe_90": 55.05
+        "pe": 13.7,
+        "pe_10": 23.26,
+        "pe_25": 25.35,
+        "pe_50": 30.34,
+        "pe_75": 37.47,
+        "pe_90": 43.94
       },
       {
         "date": "2017-05-16",
         "price": 33.3,
-        "pe": 10.7,
-        "pe_10": 28.01,
-        "pe_25": 32.86,
-        "pe_50": 38.2,
-        "pe_75": 47.61,
-        "pe_90": 54.91
+        "pe": 13.34,
+        "pe_10": 23.96,
+        "pe_25": 26.11,
+        "pe_50": 31.25,
+        "pe_75": 38.59,
+        "pe_90": 45.26
       },
       {
         "date": "2017-06-15",
         "price": 33.7,
-        "pe": 10.85,
-        "pe_10": 27.96,
-        "pe_25": 32.8,
-        "pe_50": 38.13,
-        "pe_75": 47.51,
-        "pe_90": 54.8
+        "pe": 13.11,
+        "pe_10": 24.67,
+        "pe_25": 26.89,
+        "pe_50": 32.18,
+        "pe_75": 39.74,
+        "pe_90": 46.6
       },
       {
         "date": "2017-07-16",
         "price": 36.8,
-        "pe": 11.88,
-        "pe_10": 27.88,
-        "pe_25": 32.71,
-        "pe_50": 38.02,
-        "pe_75": 47.39,
-        "pe_90": 54.65
+        "pe": 13.97,
+        "pe_10": 25.28,
+        "pe_25": 27.55,
+        "pe_50": 32.98,
+        "pe_75": 40.72,
+        "pe_90": 47.76
       },
       {
         "date": "2017-08-16",
         "price": 40.65,
-        "pe": 13.16,
-        "pe_10": 27.8,
-        "pe_25": 32.62,
-        "pe_50": 37.92,
-        "pe_75": 47.25,
-        "pe_90": 54.5
+        "pe": 15.07,
+        "pe_10": 25.89,
+        "pe_25": 28.21,
+        "pe_50": 33.77,
+        "pe_75": 41.7,
+        "pe_90": 48.9
       },
       {
         "date": "2017-09-15",
         "price": 36.8,
-        "pe": 11.94,
-        "pe_10": 27.74,
-        "pe_25": 32.55,
-        "pe_50": 37.83,
-        "pe_75": 47.15,
-        "pe_90": 54.38
+        "pe": 13.33,
+        "pe_10": 26.5,
+        "pe_25": 28.88,
+        "pe_50": 34.56,
+        "pe_75": 42.68,
+        "pe_90": 50.05
       },
       {
         "date": "2017-10-16",
         "price": 41.25,
-        "pe": 13.41,
-        "pe_10": 27.69,
-        "pe_25": 32.48,
-        "pe_50": 37.76,
-        "pe_75": 47.06,
-        "pe_90": 54.27
+        "pe": 14.42,
+        "pe_10": 27.46,
+        "pe_25": 29.92,
+        "pe_50": 35.81,
+        "pe_75": 44.23,
+        "pe_90": 51.86
       },
       {
         "date": "2017-11-15",
         "price": 43.75,
-        "pe": 14.26,
-        "pe_10": 27.62,
-        "pe_25": 32.4,
-        "pe_50": 37.66,
-        "pe_75": 46.93,
-        "pe_90": 54.13
+        "pe": 14.78,
+        "pe_10": 28.41,
+        "pe_25": 30.96,
+        "pe_50": 37.06,
+        "pe_75": 45.76,
+        "pe_90": 53.67
       },
       {
         "date": "2017-12-16",
         "price": 42.9,
         "pe": 14.02,
-        "pe_10": 27.54,
-        "pe_25": 32.31,
-        "pe_50": 37.56,
-        "pe_75": 46.81,
-        "pe_90": 53.99
+        "pe_10": 29.37,
+        "pe_25": 32.01,
+        "pe_50": 38.31,
+        "pe_75": 47.31,
+        "pe_90": 55.48
       },
       {
         "date": "2018-01-16",
         "price": 58.3,
-        "pe": 18.75,
-        "pe_10": 27.99,
-        "pe_25": 32.83,
-        "pe_50": 38.17,
-        "pe_75": 47.57,
-        "pe_90": 54.86
+        "pe": 18.33,
+        "pe_10": 30.53,
+        "pe_25": 33.27,
+        "pe_50": 39.82,
+        "pe_75": 49.17,
+        "pe_90": 57.66
       },
       {
         "date": "2018-02-14",
         "price": 51.3,
-        "pe": 16.23,
-        "pe_10": 28.45,
-        "pe_25": 33.38,
-        "pe_50": 38.8,
-        "pe_75": 48.35,
-        "pe_90": 55.77
+        "pe": 15.55,
+        "pe_10": 31.66,
+        "pe_25": 34.51,
+        "pe_50": 41.3,
+        "pe_75": 51.0,
+        "pe_90": 59.81
       },
       {
         "date": "2018-03-16",
         "price": 51.4,
-        "pe": 16.01,
-        "pe_10": 28.9,
-        "pe_25": 33.9,
-        "pe_50": 39.41,
-        "pe_75": 49.11,
-        "pe_90": 56.64
+        "pe": 15.03,
+        "pe_10": 32.82,
+        "pe_25": 35.77,
+        "pe_50": 42.82,
+        "pe_75": 52.87,
+        "pe_90": 62.0
       },
       {
         "date": "2018-04-15",
         "price": 57.5,
-        "pe": 17.64,
-        "pe_10": 29.34,
-        "pe_25": 34.42,
-        "pe_50": 40.01,
-        "pe_75": 49.86,
-        "pe_90": 57.51
+        "pe": 16.65,
+        "pe_10": 33.15,
+        "pe_25": 36.12,
+        "pe_50": 43.24,
+        "pe_75": 53.39,
+        "pe_90": 62.61
       },
       {
         "date": "2018-05-16",
         "price": 52.4,
-        "pe": 15.83,
-        "pe_10": 29.79,
-        "pe_25": 34.96,
-        "pe_50": 40.63,
-        "pe_75": 50.64,
-        "pe_90": 58.4
+        "pe": 15.03,
+        "pe_10": 33.46,
+        "pe_25": 36.47,
+        "pe_50": 43.65,
+        "pe_75": 53.9,
+        "pe_90": 63.21
       },
       {
         "date": "2018-06-15",
         "price": 52.1,
-        "pe": 15.51,
-        "pe_10": 30.24,
-        "pe_25": 35.47,
-        "pe_50": 41.23,
-        "pe_75": 51.39,
-        "pe_90": 59.27
+        "pe": 14.8,
+        "pe_10": 33.79,
+        "pe_25": 36.82,
+        "pe_50": 44.07,
+        "pe_75": 54.42,
+        "pe_90": 63.82
       },
       {
         "date": "2018-07-16",
         "price": 47.45,
-        "pe": 13.91,
-        "pe_10": 30.7,
-        "pe_25": 36.02,
-        "pe_50": 41.87,
-        "pe_75": 52.18,
-        "pe_90": 60.18
+        "pe": 13.45,
+        "pe_10": 33.86,
+        "pe_25": 36.9,
+        "pe_50": 44.17,
+        "pe_75": 54.54,
+        "pe_90": 63.96
       },
       {
         "date": "2018-08-16",
         "price": 42.9,
-        "pe": 12.4,
-        "pe_10": 31.14,
-        "pe_25": 36.53,
-        "pe_50": 42.47,
-        "pe_75": 52.92,
-        "pe_90": 61.04
+        "pe": 12.14,
+        "pe_10": 33.92,
+        "pe_25": 36.96,
+        "pe_50": 44.24,
+        "pe_75": 54.63,
+        "pe_90": 64.07
       },
       {
         "date": "2018-09-15",
         "price": 39.6,
-        "pe": 11.28,
-        "pe_10": 31.6,
-        "pe_25": 37.07,
-        "pe_50": 43.09,
-        "pe_75": 53.7,
-        "pe_90": 61.94
+        "pe": 11.19,
+        "pe_10": 33.97,
+        "pe_25": 37.02,
+        "pe_50": 44.31,
+        "pe_75": 54.71,
+        "pe_90": 64.16
       },
       {
         "date": "2018-10-16",
         "price": 36.15,
-        "pe": 10.15,
-        "pe_10": 32.06,
-        "pe_25": 37.61,
-        "pe_50": 43.72,
-        "pe_75": 54.48,
-        "pe_90": 62.84
+        "pe": 10.1,
+        "pe_10": 34.35,
+        "pe_25": 37.44,
+        "pe_50": 44.81,
+        "pe_75": 55.33,
+        "pe_90": 64.89
       },
       {
         "date": "2018-11-15",
         "price": 40.1,
-        "pe": 11.11,
-        "pe_10": 32.49,
-        "pe_25": 38.11,
-        "pe_50": 44.3,
-        "pe_75": 55.21,
-        "pe_90": 63.68
+        "pe": 11.08,
+        "pe_10": 34.74,
+        "pe_25": 37.86,
+        "pe_50": 45.31,
+        "pe_75": 55.95,
+        "pe_90": 65.61
       },
       {
         "date": "2018-12-16",
         "price": 38.3,
         "pe": 10.46,
-        "pe_10": 32.96,
-        "pe_25": 38.67,
-        "pe_50": 44.95,
-        "pe_75": 56.01,
-        "pe_90": 64.6
+        "pe_10": 35.14,
+        "pe_25": 38.3,
+        "pe_50": 45.84,
+        "pe_75": 56.61,
+        "pe_90": 66.38
       },
       {
         "date": "2019-01-16",
         "price": 40.2,
-        "pe": 10.97,
-        "pe_10": 32.98,
-        "pe_25": 38.7,
-        "pe_50": 44.98,
-        "pe_75": 56.06,
-        "pe_90": 64.65
+        "pe": 10.81,
+        "pe_10": 35.69,
+        "pe_25": 38.9,
+        "pe_50": 46.56,
+        "pe_75": 57.49,
+        "pe_90": 67.42
       },
       {
         "date": "2019-02-14",
         "price": 41.9,
-        "pe": 11.43,
-        "pe_10": 33.0,
-        "pe_25": 38.71,
-        "pe_50": 45.0,
-        "pe_75": 56.08,
-        "pe_90": 64.68
+        "pe": 11.08,
+        "pe_10": 36.3,
+        "pe_25": 39.56,
+        "pe_50": 47.35,
+        "pe_75": 58.46,
+        "pe_90": 68.56
       },
       {
         "date": "2019-03-16",
         "price": 46.35,
-        "pe": 12.63,
-        "pe_10": 33.03,
-        "pe_25": 38.75,
-        "pe_50": 45.05,
-        "pe_75": 56.14,
-        "pe_90": 64.75
+        "pe": 12.07,
+        "pe_10": 36.86,
+        "pe_25": 40.17,
+        "pe_50": 48.08,
+        "pe_75": 59.37,
+        "pe_90": 69.62
       },
       {
         "date": "2019-04-15",
         "price": 46.75,
-        "pe": 12.73,
-        "pe_10": 33.06,
+        "pe": 12.61,
+        "pe_10": 35.58,
         "pe_25": 38.78,
-        "pe_50": 45.08,
-        "pe_75": 56.18,
-        "pe_90": 64.79
+        "pe_50": 46.42,
+        "pe_75": 57.32,
+        "pe_90": 67.21
       },
       {
         "date": "2019-05-16",
         "price": 45.6,
-        "pe": 12.4,
-        "pe_10": 33.1,
-        "pe_25": 38.83,
-        "pe_50": 45.14,
-        "pe_75": 56.26,
-        "pe_90": 64.88
+        "pe": 12.76,
+        "pe_10": 34.3,
+        "pe_25": 37.38,
+        "pe_50": 44.74,
+        "pe_75": 55.25,
+        "pe_90": 64.79
       },
       {
         "date": "2019-06-15",
         "price": 42.8,
-        "pe": 11.63,
-        "pe_10": 33.12,
-        "pe_25": 38.86,
-        "pe_50": 45.17,
-        "pe_75": 56.3,
-        "pe_90": 64.93
+        "pe": 12.44,
+        "pe_10": 33.02,
+        "pe_25": 35.99,
+        "pe_50": 43.08,
+        "pe_75": 53.19,
+        "pe_90": 62.38
       },
       {
         "date": "2019-07-16",
         "price": 41.75,
-        "pe": 11.33,
-        "pe_10": 33.17,
-        "pe_25": 38.91,
-        "pe_50": 45.23,
-        "pe_75": 56.37,
-        "pe_90": 65.01
+        "pe": 12.05,
+        "pe_10": 33.25,
+        "pe_25": 36.24,
+        "pe_50": 43.38,
+        "pe_75": 53.56,
+        "pe_90": 62.82
       },
       {
         "date": "2019-08-16",
         "price": 39.0,
-        "pe": 10.58,
-        "pe_10": 33.18,
-        "pe_25": 38.93,
-        "pe_50": 45.25,
-        "pe_75": 56.39,
-        "pe_90": 65.04
+        "pe": 11.19,
+        "pe_10": 33.45,
+        "pe_25": 36.46,
+        "pe_50": 43.64,
+        "pe_75": 53.88,
+        "pe_90": 63.19
       },
       {
         "date": "2019-09-15",
         "price": 38.8,
-        "pe": 10.51,
-        "pe_10": 33.23,
-        "pe_25": 38.98,
-        "pe_50": 45.32,
-        "pe_75": 56.47,
-        "pe_90": 65.13
+        "pe": 11.05,
+        "pe_10": 33.7,
+        "pe_25": 36.73,
+        "pe_50": 43.96,
+        "pe_75": 54.28,
+        "pe_90": 63.66
       },
       {
         "date": "2019-10-16",
         "price": 40.95,
-        "pe": 11.09,
-        "pe_10": 33.24,
-        "pe_25": 38.99,
-        "pe_50": 45.33,
-        "pe_75": 56.49,
-        "pe_90": 65.15
+        "pe": 11.46,
+        "pe_10": 34.3,
+        "pe_25": 37.38,
+        "pe_50": 44.74,
+        "pe_75": 55.24,
+        "pe_90": 64.78
       },
       {
         "date": "2019-11-15",
         "price": 41.7,
-        "pe": 11.28,
-        "pe_10": 33.27,
-        "pe_25": 39.04,
-        "pe_50": 45.38,
-        "pe_75": 56.55,
-        "pe_90": 65.22
+        "pe": 11.47,
+        "pe_10": 34.89,
+        "pe_25": 38.03,
+        "pe_50": 45.52,
+        "pe_75": 56.21,
+        "pe_90": 65.91
       },
       {
         "date": "2019-12-16",
         "price": 40.6,
         "pe": 10.97,
-        "pe_10": 33.31,
-        "pe_25": 39.08,
-        "pe_50": 45.43,
-        "pe_75": 56.62,
-        "pe_90": 65.3
+        "pe_10": 35.52,
+        "pe_25": 38.71,
+        "pe_50": 46.34,
+        "pe_75": 57.22,
+        "pe_90": 67.1
       },
       {
         "date": "2020-01-16",
         "price": 41.95,
-        "pe": 11.2,
-        "pe_10": 33.71,
-        "pe_25": 39.55,
-        "pe_50": 45.98,
-        "pe_75": 57.3,
-        "pe_90": 66.08
+        "pe": 11.31,
+        "pe_10": 35.6,
+        "pe_25": 38.8,
+        "pe_50": 46.44,
+        "pe_75": 57.34,
+        "pe_90": 67.25
       },
       {
         "date": "2020-02-15",
         "price": 42.3,
-        "pe": 11.16,
-        "pe_10": 34.12,
-        "pe_25": 40.03,
-        "pe_50": 46.53,
-        "pe_75": 57.98,
-        "pe_90": 66.87
+        "pe": 11.37,
+        "pe_10": 35.71,
+        "pe_25": 38.91,
+        "pe_50": 46.58,
+        "pe_75": 57.52,
+        "pe_90": 67.45
       },
       {
         "date": "2020-03-16",
         "price": 36.75,
-        "pe": 9.58,
-        "pe_10": 34.53,
-        "pe_25": 40.51,
-        "pe_50": 47.09,
-        "pe_75": 58.68,
-        "pe_90": 67.68
+        "pe": 9.85,
+        "pe_10": 35.81,
+        "pe_25": 39.03,
+        "pe_50": 46.71,
+        "pe_75": 57.68,
+        "pe_90": 67.64
       },
       {
         "date": "2020-04-15",
         "price": 40.7,
-        "pe": 10.48,
-        "pe_10": 34.96,
-        "pe_25": 41.01,
-        "pe_50": 47.67,
-        "pe_75": 59.41,
-        "pe_90": 68.52
+        "pe": 10.67,
+        "pe_10": 36.61,
+        "pe_25": 39.9,
+        "pe_50": 47.76,
+        "pe_75": 58.97,
+        "pe_90": 69.16
       },
       {
         "date": "2020-05-16",
         "price": 42.15,
-        "pe": 10.73,
-        "pe_10": 35.36,
-        "pe_25": 41.48,
-        "pe_50": 48.22,
-        "pe_75": 60.09,
-        "pe_90": 69.31
+        "pe": 10.82,
+        "pe_10": 37.39,
+        "pe_25": 40.75,
+        "pe_50": 48.77,
+        "pe_75": 60.23,
+        "pe_90": 70.63
       },
       {
         "date": "2020-06-15",
         "price": 40.0,
-        "pe": 10.06,
-        "pe_10": 35.79,
-        "pe_25": 41.99,
-        "pe_50": 48.81,
-        "pe_75": 60.83,
-        "pe_90": 70.15
+        "pe": 10.05,
+        "pe_10": 38.2,
+        "pe_25": 41.63,
+        "pe_50": 49.83,
+        "pe_75": 61.53,
+        "pe_90": 72.16
       },
       {
         "date": "2020-07-16",
         "price": 40.25,
-        "pe": 10.01,
-        "pe_10": 36.19,
-        "pe_25": 42.46,
-        "pe_50": 49.36,
-        "pe_75": 61.51,
-        "pe_90": 70.94
+        "pe": 9.84,
+        "pe_10": 39.26,
+        "pe_25": 42.79,
+        "pe_50": 51.21,
+        "pe_75": 63.24,
+        "pe_90": 74.16
       },
       {
         "date": "2020-08-16",
         "price": 42.0,
-        "pe": 10.33,
-        "pe_10": 36.6,
-        "pe_25": 42.94,
-        "pe_50": 49.91,
-        "pe_75": 62.2,
-        "pe_90": 71.73
+        "pe": 10.0,
+        "pe_10": 40.31,
+        "pe_25": 43.93,
+        "pe_50": 52.58,
+        "pe_75": 64.93,
+        "pe_90": 76.15
       },
       {
         "date": "2020-09-15",
         "price": 35.8,
-        "pe": 8.71,
-        "pe_10": 37.0,
-        "pe_25": 43.4,
-        "pe_50": 50.45,
-        "pe_75": 62.88,
-        "pe_90": 72.52
+        "pe": 8.31,
+        "pe_10": 41.35,
+        "pe_25": 45.06,
+        "pe_50": 53.94,
+        "pe_75": 66.6,
+        "pe_90": 78.11
       },
       {
         "date": "2020-10-16",
         "price": 37.1,
-        "pe": 8.92,
-        "pe_10": 37.44,
-        "pe_25": 43.92,
-        "pe_50": 51.05,
-        "pe_75": 63.63,
-        "pe_90": 73.38
+        "pe": 8.65,
+        "pe_10": 41.17,
+        "pe_25": 44.86,
+        "pe_50": 53.7,
+        "pe_75": 66.31,
+        "pe_90": 77.76
       },
       {
         "date": "2020-11-15",
         "price": 38.95,
-        "pe": 9.26,
-        "pe_10": 37.86,
-        "pe_25": 44.42,
-        "pe_50": 51.63,
-        "pe_75": 64.35,
-        "pe_90": 74.21
+        "pe": 9.12,
+        "pe_10": 40.99,
+        "pe_25": 44.67,
+        "pe_50": 53.47,
+        "pe_75": 66.03,
+        "pe_90": 77.43
       },
       {
         "date": "2020-12-16",
         "price": 40.1,
         "pe": 9.44,
-        "pe_10": 38.24,
-        "pe_25": 44.86,
-        "pe_50": 52.14,
-        "pe_75": 64.98,
-        "pe_90": 74.95
+        "pe_10": 40.77,
+        "pe_25": 44.43,
+        "pe_50": 53.18,
+        "pe_75": 65.67,
+        "pe_90": 77.01
       },
       {
         "date": "2021-01-16",
         "price": 41.8,
-        "pe": 9.72,
-        "pe_10": 38.71,
-        "pe_25": 45.41,
-        "pe_50": 52.79,
-        "pe_75": 65.79,
-        "pe_90": 75.87
+        "pe": 9.6,
+        "pe_10": 41.79,
+        "pe_25": 45.54,
+        "pe_50": 54.51,
+        "pe_75": 67.32,
+        "pe_90": 78.94
       },
       {
         "date": "2021-02-14",
         "price": 48.1,
-        "pe": 11.05,
-        "pe_10": 39.18,
-        "pe_25": 45.97,
-        "pe_50": 53.43,
-        "pe_75": 66.59,
-        "pe_90": 76.8
+        "pe": 10.79,
+        "pe_10": 42.79,
+        "pe_25": 46.63,
+        "pe_50": 55.81,
+        "pe_75": 68.92,
+        "pe_90": 80.82
       },
       {
         "date": "2021-03-16",
         "price": 53.7,
-        "pe": 12.19,
-        "pe_10": 39.65,
-        "pe_25": 46.52,
-        "pe_50": 54.07,
-        "pe_75": 67.39,
-        "pe_90": 77.72
+        "pe": 11.78,
+        "pe_10": 43.75,
+        "pe_25": 47.68,
+        "pe_50": 57.07,
+        "pe_75": 70.48,
+        "pe_90": 82.65
       },
       {
         "date": "2021-04-15",
         "price": 52.5,
-        "pe": 11.78,
-        "pe_10": 40.11,
-        "pe_25": 47.06,
-        "pe_50": 54.71,
-        "pe_75": 68.18,
-        "pe_90": 78.63
+        "pe": 11.25,
+        "pe_10": 44.79,
+        "pe_25": 48.81,
+        "pe_50": 58.43,
+        "pe_75": 72.15,
+        "pe_90": 84.61
       },
       {
         "date": "2021-05-16",
         "price": 50.8,
-        "pe": 11.27,
-        "pe_10": 40.57,
-        "pe_25": 47.6,
-        "pe_50": 55.33,
-        "pe_75": 68.95,
-        "pe_90": 79.53
+        "pe": 10.64,
+        "pe_10": 45.83,
+        "pe_25": 49.94,
+        "pe_50": 59.78,
+        "pe_75": 73.81,
+        "pe_90": 86.56
       },
       {
         "date": "2021-06-15",
         "price": 48.8,
-        "pe": 10.7,
-        "pe_10": 41.05,
-        "pe_25": 48.16,
-        "pe_50": 55.98,
-        "pe_75": 69.77,
-        "pe_90": 80.47
+        "pe": 10.0,
+        "pe_10": 46.84,
+        "pe_25": 51.04,
+        "pe_50": 61.1,
+        "pe_75": 75.44,
+        "pe_90": 88.47
       },
       {
         "date": "2021-07-16",
         "price": 49.3,
-        "pe": 10.69,
-        "pe_10": 41.51,
-        "pe_25": 48.7,
-        "pe_50": 56.61,
-        "pe_75": 70.55,
-        "pe_90": 81.37
+        "pe": 10.07,
+        "pe_10": 46.99,
+        "pe_25": 51.21,
+        "pe_50": 61.29,
+        "pe_75": 75.69,
+        "pe_90": 88.76
       },
       {
         "date": "2021-08-16",
         "price": 48.85,
-        "pe": 10.48,
-        "pe_10": 41.96,
-        "pe_25": 49.22,
-        "pe_50": 57.22,
-        "pe_75": 71.31,
-        "pe_90": 82.24
+        "pe": 9.96,
+        "pe_10": 47.07,
+        "pe_25": 51.3,
+        "pe_50": 61.41,
+        "pe_75": 75.83,
+        "pe_90": 88.92
       },
       {
         "date": "2021-09-15",
         "price": 49.35,
-        "pe": 10.47,
-        "pe_10": 42.43,
-        "pe_25": 49.77,
-        "pe_50": 57.86,
-        "pe_75": 72.1,
-        "pe_90": 83.16
+        "pe": 10.03,
+        "pe_10": 47.22,
+        "pe_25": 51.47,
+        "pe_50": 61.6,
+        "pe_75": 76.07,
+        "pe_90": 89.2
       },
       {
         "date": "2021-10-16",
         "price": 50.1,
-        "pe": 10.51,
-        "pe_10": 42.91,
-        "pe_25": 50.34,
-        "pe_50": 58.51,
-        "pe_75": 72.92,
-        "pe_90": 84.1
+        "pe": 10.22,
+        "pe_10": 47.05,
+        "pe_25": 51.28,
+        "pe_50": 61.37,
+        "pe_75": 75.79,
+        "pe_90": 88.88
       },
       {
         "date": "2021-11-15",
         "price": 50.3,
-        "pe": 10.44,
-        "pe_10": 43.37,
-        "pe_25": 50.88,
-        "pe_50": 59.14,
-        "pe_75": 73.7,
-        "pe_90": 85.0
+        "pe": 10.29,
+        "pe_10": 46.92,
+        "pe_25": 51.13,
+        "pe_50": 61.2,
+        "pe_75": 75.57,
+        "pe_90": 88.62
       },
       {
         "date": "2021-12-16",
         "price": 49.8,
         "pe": 10.23,
-        "pe_10": 43.82,
-        "pe_25": 51.41,
-        "pe_50": 59.76,
-        "pe_75": 74.47,
-        "pe_90": 85.89
+        "pe_10": 46.72,
+        "pe_25": 50.92,
+        "pe_50": 60.95,
+        "pe_75": 75.26,
+        "pe_90": 88.26
       },
       {
         "date": "2022-01-16",
         "price": 50.9,
-        "pe": 10.34,
-        "pe_10": 44.31,
-        "pe_25": 51.98,
-        "pe_50": 60.43,
-        "pe_75": 75.3,
-        "pe_90": 86.85
+        "pe": 10.43,
+        "pe_10": 46.84,
+        "pe_25": 51.05,
+        "pe_50": 61.1,
+        "pe_75": 75.45,
+        "pe_90": 88.48
       },
       {
         "date": "2022-02-14",
         "price": 52.8,
-        "pe": 10.62,
-        "pe_10": 44.75,
-        "pe_25": 52.5,
-        "pe_50": 61.03,
-        "pe_75": 76.06,
-        "pe_90": 87.72
+        "pe": 10.8,
+        "pe_10": 46.92,
+        "pe_25": 51.14,
+        "pe_50": 61.21,
+        "pe_75": 75.58,
+        "pe_90": 88.64
       },
       {
         "date": "2022-03-16",
         "price": 54.9,
-        "pe": 10.93,
-        "pe_10": 45.21,
-        "pe_25": 53.04,
-        "pe_50": 61.66,
-        "pe_75": 76.84,
-        "pe_90": 88.62
+        "pe": 11.2,
+        "pe_10": 47.05,
+        "pe_25": 51.27,
+        "pe_50": 61.37,
+        "pe_75": 75.78,
+        "pe_90": 88.87
       },
       {
         "date": "2022-04-15",
         "price": 53.6,
-        "pe": 10.56,
-        "pe_10": 45.69,
-        "pe_25": 53.6,
-        "pe_50": 62.3,
-        "pe_75": 77.65,
-        "pe_90": 89.55
+        "pe": 10.78,
+        "pe_10": 47.72,
+        "pe_25": 52.01,
+        "pe_50": 62.25,
+        "pe_75": 76.87,
+        "pe_90": 90.15
       },
       {
         "date": "2022-05-16",
         "price": 54.8,
-        "pe": 10.69,
-        "pe_10": 46.14,
-        "pe_25": 54.13,
-        "pe_50": 62.93,
-        "pe_75": 78.42,
-        "pe_90": 90.44
+        "pe": 10.86,
+        "pe_10": 48.43,
+        "pe_25": 52.78,
+        "pe_50": 63.18,
+        "pe_75": 78.01,
+        "pe_90": 91.48
       },
       {
         "date": "2022-06-15",
         "price": 51.2,
-        "pe": 9.88,
-        "pe_10": 46.64,
-        "pe_25": 54.72,
-        "pe_50": 63.61,
-        "pe_75": 79.27,
-        "pe_90": 91.43
+        "pe": 10.0,
+        "pe_10": 49.14,
+        "pe_25": 53.56,
+        "pe_50": 64.1,
+        "pe_75": 79.16,
+        "pe_90": 92.83
       },
       {
         "date": "2022-07-16",
         "price": 53.1,
-        "pe": 10.15,
-        "pe_10": 47.09,
-        "pe_25": 55.24,
-        "pe_50": 64.22,
-        "pe_75": 80.03,
-        "pe_90": 92.3
+        "pe": 10.25,
+        "pe_10": 49.72,
+        "pe_25": 54.19,
+        "pe_50": 64.86,
+        "pe_75": 80.09,
+        "pe_90": 93.92
       },
       {
         "date": "2022-08-16",
         "price": 55.8,
-        "pe": 10.56,
-        "pe_10": 47.56,
-        "pe_25": 55.8,
-        "pe_50": 64.86,
-        "pe_75": 80.83,
-        "pe_90": 93.23
+        "pe": 10.65,
+        "pe_10": 50.29,
+        "pe_25": 54.8,
+        "pe_50": 65.6,
+        "pe_75": 81.0,
+        "pe_90": 94.99
       },
       {
         "date": "2022-09-15",
         "price": 54.8,
-        "pe": 10.27,
-        "pe_10": 48.03,
-        "pe_25": 56.35,
-        "pe_50": 65.5,
-        "pe_75": 81.63,
-        "pe_90": 94.14
+        "pe": 10.34,
+        "pe_10": 50.87,
+        "pe_25": 55.44,
+        "pe_50": 66.35,
+        "pe_75": 81.94,
+        "pe_90": 96.09
       },
       {
         "date": "2022-10-16",
         "price": 51.9,
-        "pe": 9.63,
-        "pe_10": 48.51,
-        "pe_25": 56.91,
-        "pe_50": 66.15,
-        "pe_75": 82.44,
-        "pe_90": 95.09
+        "pe": 9.68,
+        "pe_10": 51.46,
+        "pe_25": 56.08,
+        "pe_50": 67.13,
+        "pe_75": 82.89,
+        "pe_90": 97.21
       },
       {
         "date": "2022-11-15",
         "price": 55.2,
-        "pe": 10.15,
-        "pe_10": 48.95,
-        "pe_25": 57.43,
-        "pe_50": 66.76,
-        "pe_75": 83.19,
-        "pe_90": 95.95
+        "pe": 10.17,
+        "pe_10": 52.1,
+        "pe_25": 56.77,
+        "pe_50": 67.96,
+        "pe_75": 83.91,
+        "pe_90": 98.4
       },
       {
         "date": "2022-12-16",
         "price": 53.6,
         "pe": 9.76,
-        "pe_10": 49.43,
-        "pe_25": 57.99,
-        "pe_50": 67.41,
-        "pe_75": 84.01,
-        "pe_90": 96.89
+        "pe_10": 52.71,
+        "pe_25": 57.44,
+        "pe_50": 68.76,
+        "pe_75": 84.9,
+        "pe_90": 99.57
       },
       {
         "date": "2023-01-16",
         "price": 56.3,
-        "pe": 10.5,
-        "pe_10": 48.26,
-        "pe_25": 56.62,
-        "pe_50": 65.82,
-        "pe_75": 82.02,
-        "pe_90": 94.6
+        "pe": 10.49,
+        "pe_10": 51.51,
+        "pe_25": 56.14,
+        "pe_50": 67.2,
+        "pe_75": 82.97,
+        "pe_90": 97.3
       },
       {
         "date": "2023-02-14",
         "price": 67.8,
-        "pe": 12.96,
-        "pe_10": 47.09,
-        "pe_25": 55.24,
-        "pe_50": 64.22,
-        "pe_75": 80.03,
-        "pe_90": 92.3
+        "pe": 12.93,
+        "pe_10": 50.33,
+        "pe_25": 54.85,
+        "pe_50": 65.65,
+        "pe_75": 81.07,
+        "pe_90": 95.07
       },
       {
         "date": "2023-03-16",
         "price": 68.5,
-        "pe": 13.42,
-        "pe_10": 45.94,
-        "pe_25": 53.9,
-        "pe_50": 62.66,
-        "pe_75": 78.08,
-        "pe_90": 90.06
+        "pe": 13.38,
+        "pe_10": 49.14,
+        "pe_25": 53.55,
+        "pe_50": 64.1,
+        "pe_75": 79.15,
+        "pe_90": 92.82
       },
       {
         "date": "2023-04-15",
         "price": 70.2,
-        "pe": 14.11,
-        "pe_10": 44.78,
-        "pe_25": 52.54,
-        "pe_50": 61.07,
-        "pe_75": 76.11,
-        "pe_90": 87.78
+        "pe": 13.89,
+        "pe_10": 48.51,
+        "pe_25": 52.86,
+        "pe_50": 63.28,
+        "pe_75": 78.13,
+        "pe_90": 91.63
       },
       {
         "date": "2023-05-16",
         "price": 73.3,
-        "pe": 15.12,
-        "pe_10": 43.64,
-        "pe_25": 51.19,
-        "pe_50": 59.51,
-        "pe_75": 74.16,
-        "pe_90": 85.53
+        "pe": 14.7,
+        "pe_10": 47.86,
+        "pe_25": 52.16,
+        "pe_50": 62.43,
+        "pe_75": 77.09,
+        "pe_90": 90.4
       },
       {
         "date": "2023-06-15",
         "price": 69.2,
-        "pe": 14.66,
-        "pe_10": 42.49,
-        "pe_25": 49.85,
-        "pe_50": 57.94,
-        "pe_75": 72.21,
-        "pe_90": 83.28
+        "pe": 14.07,
+        "pe_10": 47.21,
+        "pe_25": 51.45,
+        "pe_50": 61.58,
+        "pe_75": 76.04,
+        "pe_90": 89.17
       },
       {
         "date": "2023-07-16",
         "price": 68.5,
-        "pe": 14.92,
-        "pe_10": 41.32,
-        "pe_25": 48.48,
-        "pe_50": 56.36,
-        "pe_75": 70.23,
-        "pe_90": 81.0
+        "pe": 14.19,
+        "pe_10": 46.33,
+        "pe_25": 50.49,
+        "pe_50": 60.44,
+        "pe_75": 74.63,
+        "pe_90": 87.52
       },
       {
         "date": "2023-08-16",
         "price": 65.0,
-        "pe": 14.56,
-        "pe_10": 40.18,
-        "pe_25": 47.14,
-        "pe_50": 54.8,
-        "pe_75": 68.29,
-        "pe_90": 78.76
+        "pe": 13.73,
+        "pe_10": 45.44,
+        "pe_25": 49.52,
+        "pe_50": 59.27,
+        "pe_75": 73.19,
+        "pe_90": 85.83
       },
       {
         "date": "2023-09-15",
         "price": 68.7,
-        "pe": 15.85,
-        "pe_10": 39.01,
-        "pe_25": 45.77,
-        "pe_50": 53.2,
-        "pe_75": 66.31,
-        "pe_90": 76.47
+        "pe": 14.81,
+        "pe_10": 44.52,
+        "pe_25": 48.52,
+        "pe_50": 58.08,
+        "pe_75": 71.72,
+        "pe_90": 84.1
       },
       {
         "date": "2023-10-16",
         "price": 66.9,
-        "pe": 15.9,
-        "pe_10": 37.87,
-        "pe_25": 44.43,
-        "pe_50": 51.65,
-        "pe_75": 64.36,
-        "pe_90": 74.23
+        "pe": 15.17,
+        "pe_10": 42.33,
+        "pe_25": 46.13,
+        "pe_50": 55.21,
+        "pe_75": 68.18,
+        "pe_90": 79.95
       },
       {
         "date": "2023-11-15",
         "price": 67.5,
-        "pe": 16.55,
-        "pe_10": 36.71,
-        "pe_25": 43.07,
-        "pe_50": 50.06,
-        "pe_75": 62.39,
-        "pe_90": 71.96
+        "pe": 16.15,
+        "pe_10": 40.12,
+        "pe_25": 43.72,
+        "pe_50": 52.33,
+        "pe_75": 64.62,
+        "pe_90": 75.78
       },
       {
         "date": "2023-12-16",
         "price": 66.2,
         "pe": 16.76,
-        "pe_10": 35.55,
-        "pe_25": 41.71,
-        "pe_50": 48.48,
-        "pe_75": 60.42,
-        "pe_90": 69.69
+        "pe_10": 37.91,
+        "pe_25": 41.32,
+        "pe_50": 49.45,
+        "pe_75": 61.07,
+        "pe_90": 71.61
       },
       {
         "date": "2024-01-16",
         "price": 68.2,
-        "pe": 17.38,
-        "pe_10": 35.32,
-        "pe_25": 41.44,
-        "pe_50": 48.17,
-        "pe_75": 60.03,
-        "pe_90": 69.23
+        "pe": 17.52,
+        "pe_10": 37.36,
+        "pe_25": 40.72,
+        "pe_50": 48.74,
+        "pe_75": 60.18,
+        "pe_90": 70.57
       },
       {
         "date": "2024-02-15",
         "price": 69.3,
-        "pe": 17.77,
-        "pe_10": 35.1,
-        "pe_25": 41.18,
-        "pe_50": 47.87,
-        "pe_75": 59.66,
-        "pe_90": 68.8
+        "pe": 18.06,
+        "pe_10": 36.83,
+        "pe_25": 40.14,
+        "pe_50": 48.04,
+        "pe_75": 59.32,
+        "pe_90": 69.57
       },
       {
         "date": "2024-03-16",
         "price": 70.7,
-        "pe": 18.25,
-        "pe_10": 34.87,
-        "pe_25": 40.91,
-        "pe_50": 47.55,
-        "pe_75": 59.26,
-        "pe_90": 68.35
+        "pe": 18.7,
+        "pe_10": 36.29,
+        "pe_25": 39.55,
+        "pe_50": 47.33,
+        "pe_75": 58.45,
+        "pe_90": 68.54
       },
       {
         "date": "2024-04-15",
         "price": 70.5,
-        "pe": 18.31,
-        "pe_10": 34.66,
-        "pe_25": 40.66,
-        "pe_50": 47.26,
-        "pe_75": 58.9,
-        "pe_90": 67.93
+        "pe": 18.97,
+        "pe_10": 35.67,
+        "pe_25": 38.87,
+        "pe_50": 46.53,
+        "pe_75": 57.46,
+        "pe_90": 67.38
       },
       {
         "date": "2024-05-16",
         "price": 75.4,
-        "pe": 19.71,
-        "pe_10": 34.43,
-        "pe_25": 40.4,
-        "pe_50": 46.96,
-        "pe_75": 58.52,
-        "pe_90": 67.49
+        "pe": 20.64,
+        "pe_10": 35.06,
+        "pe_25": 38.21,
+        "pe_50": 45.74,
+        "pe_75": 56.48,
+        "pe_90": 66.23
       },
       {
         "date": "2024-06-15",
         "price": 68.0,
-        "pe": 17.89,
-        "pe_10": 34.21,
-        "pe_25": 40.14,
-        "pe_50": 46.66,
-        "pe_75": 58.15,
-        "pe_90": 67.06
+        "pe": 18.94,
+        "pe_10": 34.46,
+        "pe_25": 37.55,
+        "pe_50": 44.95,
+        "pe_75": 55.51,
+        "pe_90": 65.09
       },
       {
         "date": "2024-07-16",
         "price": 62.9,
-        "pe": 16.66,
-        "pe_10": 33.98,
-        "pe_25": 39.87,
-        "pe_50": 46.34,
-        "pe_75": 57.76,
-        "pe_90": 66.61
+        "pe": 17.92,
+        "pe_10": 33.69,
+        "pe_25": 36.72,
+        "pe_50": 43.95,
+        "pe_75": 54.27,
+        "pe_90": 63.64
       },
       {
         "date": "2024-08-16",
         "price": 62.2,
-        "pe": 16.59,
-        "pe_10": 33.75,
-        "pe_25": 39.59,
-        "pe_50": 46.02,
-        "pe_75": 57.35,
-        "pe_90": 66.15
+        "pe": 18.13,
+        "pe_10": 32.93,
+        "pe_25": 35.89,
+        "pe_50": 42.95,
+        "pe_75": 53.04,
+        "pe_90": 62.2
       },
       {
         "date": "2024-09-15",
         "price": 60.7,
-        "pe": 16.3,
-        "pe_10": 33.52,
-        "pe_25": 39.32,
-        "pe_50": 45.71,
-        "pe_75": 56.97,
-        "pe_90": 65.7
+        "pe": 18.12,
+        "pe_10": 32.15,
+        "pe_25": 35.04,
+        "pe_50": 41.94,
+        "pe_75": 51.79,
+        "pe_90": 60.73
       },
       {
         "date": "2024-10-16",
         "price": 60.2,
-        "pe": 16.27,
-        "pe_10": 33.3,
-        "pe_25": 39.07,
-        "pe_50": 45.42,
-        "pe_75": 56.6,
-        "pe_90": 65.28
+        "pe": 17.45,
+        "pe_10": 33.11,
+        "pe_25": 36.09,
+        "pe_50": 43.19,
+        "pe_75": 53.33,
+        "pe_90": 62.55
       },
       {
         "date": "2024-11-15",
         "price": 56.2,
-        "pe": 15.29,
-        "pe_10": 33.08,
-        "pe_25": 38.81,
-        "pe_50": 45.12,
-        "pe_75": 56.23,
-        "pe_90": 64.85
+        "pe": 15.83,
+        "pe_10": 34.08,
+        "pe_25": 37.14,
+        "pe_50": 44.45,
+        "pe_75": 54.89,
+        "pe_90": 64.37
       },
       {
         "date": "2024-12-16",
         "price": 55.8,
         "pe": 15.29,
-        "pe_10": 32.85,
-        "pe_25": 38.54,
-        "pe_50": 44.8,
-        "pe_75": 55.83,
-        "pe_90": 64.39
+        "pe_10": 35.03,
+        "pe_25": 38.17,
+        "pe_50": 45.69,
+        "pe_75": 56.42,
+        "pe_90": 66.16
       },
       {
         "date": "2025-01-16",
         "price": 55.0,
-        "pe": 15.32,
-        "pe_10": 32.31,
-        "pe_25": 37.91,
-        "pe_50": 44.07,
-        "pe_75": 54.92,
-        "pe_90": 63.34
+        "pe": 15.43,
+        "pe_10": 34.21,
+        "pe_25": 37.28,
+        "pe_50": 44.63,
+        "pe_75": 55.11,
+        "pe_90": 64.62
       },
       {
         "date": "2025-02-14",
         "price": 57.4,
-        "pe": 16.26,
-        "pe_10": 31.77,
-        "pe_25": 37.28,
-        "pe_50": 43.33,
-        "pe_75": 54.0,
-        "pe_90": 62.28
+        "pe": 16.51,
+        "pe_10": 33.37,
+        "pe_25": 36.37,
+        "pe_50": 43.53,
+        "pe_75": 53.75,
+        "pe_90": 63.03
       },
       {
         "date": "2025-03-16",
         "price": 57.1,
-        "pe": 16.46,
-        "pe_10": 31.22,
-        "pe_25": 36.63,
-        "pe_50": 42.58,
-        "pe_75": 53.07,
-        "pe_90": 61.2
+        "pe": 16.84,
+        "pe_10": 32.54,
+        "pe_25": 35.47,
+        "pe_50": 42.45,
+        "pe_75": 52.42,
+        "pe_90": 61.47
       },
       {
         "date": "2025-04-15",
         "price": 52.8,
-        "pe": 15.48,
-        "pe_10": 30.7,
-        "pe_25": 36.02,
-        "pe_50": 41.87,
-        "pe_75": 52.18,
-        "pe_90": 60.18
+        "pe": 15.87,
+        "pe_10": 31.93,
+        "pe_25": 34.8,
+        "pe_50": 41.65,
+        "pe_75": 51.44,
+        "pe_90": 60.32
       },
       {
         "date": "2025-05-16",
         "price": 53.7,
-        "pe": 16.03,
-        "pe_10": 30.15,
-        "pe_25": 35.38,
-        "pe_50": 41.12,
-        "pe_75": 51.25,
-        "pe_90": 59.1
+        "pe": 16.46,
+        "pe_10": 31.31,
+        "pe_25": 34.13,
+        "pe_50": 40.85,
+        "pe_75": 50.44,
+        "pe_90": 59.15
       },
       {
         "date": "2025-06-15",
         "price": 54.5,
-        "pe": 16.57,
-        "pe_10": 29.6,
-        "pe_25": 34.73,
-        "pe_50": 40.37,
-        "pe_75": 50.31,
-        "pe_90": 58.03
+        "pe": 17.03,
+        "pe_10": 30.72,
+        "pe_25": 33.47,
+        "pe_50": 40.07,
+        "pe_75": 49.48,
+        "pe_90": 58.02
       },
       {
         "date": "2025-07-16",
         "price": 51.5,
-        "pe": 15.94,
-        "pe_10": 29.08,
-        "pe_25": 34.12,
-        "pe_50": 39.66,
-        "pe_75": 49.42,
-        "pe_90": 57.0
+        "pe": 16.56,
+        "pe_10": 29.85,
+        "pe_25": 32.53,
+        "pe_50": 38.94,
+        "pe_75": 48.08,
+        "pe_90": 56.38
       },
       {
         "date": "2025-08-16",
         "price": 50.3,
-        "pe": 15.87,
-        "pe_10": 28.53,
-        "pe_25": 33.47,
-        "pe_50": 38.91,
-        "pe_75": 48.49,
-        "pe_90": 55.92
+        "pe": 16.66,
+        "pe_10": 28.98,
+        "pe_25": 31.58,
+        "pe_50": 37.8,
+        "pe_75": 46.68,
+        "pe_90": 54.74
       },
       {
         "date": "2025-09-15",
         "price": 54.5,
-        "pe": 17.52,
-        "pe_10": 28.0,
-        "pe_25": 32.85,
-        "pe_50": 38.18,
-        "pe_75": 47.59,
-        "pe_90": 54.88
+        "pe": 18.6,
+        "pe_10": 28.12,
+        "pe_25": 30.65,
+        "pe_50": 36.68,
+        "pe_75": 45.3,
+        "pe_90": 53.12
       },
       {
         "date": "2025-10-16",
         "price": 53.9,
-        "pe": 17.67,
-        "pe_10": 27.46,
-        "pe_25": 32.21,
-        "pe_50": 37.44,
-        "pe_75": 46.66,
-        "pe_90": 53.82
+        "pe": 18.82,
+        "pe_10": 27.49,
+        "pe_25": 29.96,
+        "pe_50": 35.86,
+        "pe_75": 44.28,
+        "pe_90": 51.92
       },
       {
         "date": "2025-11-15",
         "price": 50.7,
-        "pe": 16.96,
-        "pe_10": 26.91,
-        "pe_25": 31.57,
-        "pe_50": 36.69,
-        "pe_75": 45.73,
-        "pe_90": 52.74
+        "pe": 18.13,
+        "pe_10": 26.84,
+        "pe_25": 29.25,
+        "pe_50": 35.01,
+        "pe_75": 43.23,
+        "pe_90": 50.7
       },
       {
         "date": "2025-12-16",
         "price": 48.0,
-        "pe": 16.38,
-        "pe_10": 26.38,
-        "pe_25": 30.95,
-        "pe_50": 35.97,
-        "pe_75": 44.83,
-        "pe_90": 51.7
+        "pe": 17.58,
+        "pe_10": 26.21,
+        "pe_25": 28.56,
+        "pe_50": 34.18,
+        "pe_75": 42.21,
+        "pe_90": 49.5
       },
       {
         "date": "2026-01-16",
         "price": 44.7,
-        "pe": 15.26,
-        "pe_10": 26.37,
-        "pe_25": 30.93,
-        "pe_50": 35.96,
-        "pe_75": 44.81,
-        "pe_90": 51.68
+        "pe": 16.37,
+        "pe_10": 26.21,
+        "pe_25": 28.56,
+        "pe_50": 34.19,
+        "pe_75": 42.22,
+        "pe_90": 49.51
       },
       {
         "date": "2026-02-14",
         "price": 44.0,
-        "pe": 15.02,
-        "pe_10": 26.37,
-        "pe_25": 30.93,
-        "pe_50": 35.96,
-        "pe_75": 44.81,
-        "pe_90": 51.68
+        "pe": 16.12,
+        "pe_10": 26.2,
+        "pe_25": 28.55,
+        "pe_50": 34.17,
+        "pe_75": 42.2,
+        "pe_90": 49.49
       }
     ]
   },
@@ -20038,19 +20038,19 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (9.0倍)",
+            "title": "PE 10% (9.6倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (12.3倍)",
+            "title": "PE 50% (12.5倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (17.6倍)",
+            "title": "PE 90% (18.1倍)",
             "format": ".1f"
           }
         ]
@@ -20902,6 +20902,10 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
       {
         "date": "2026-01-16",
         "revenue_yoy": -6.09
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": -5.23
       }
     ]
   },
@@ -20969,16 +20973,16 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 12.9 | +38.3% | 0.141 | 2010-04 (+532.5%) | 2007-10 (-84.5%) |
-| 6個月 | 12.9 | +26.2% | 0.236 | 2010-01 (+378.7%) | 2007-07 (-72.5%) |
-| 1年 | 12.8 | +18.7% | 0.303 | 2010-02 (+212.0%) | 2007-01 (-38.8%) |
-| 2年 | 12.6 | +15.1% | 0.409 | 2009-02 (+126.5%) | 2011-02 (-28.7%) |
-| 3年 | 12.4 | +14.1% | 0.298 | 2008-01 (+58.1%) | 2011-02 (-15.1%) |
-| 4年 | 12.5 | +13.7% | 0.217 | 2006-07 (+33.0%) | 2011-02 (-13.2%) |
-| 5年 | 12.6 | +12.6% | 0.291 | 2006-03 (+42.2%) | 2011-02 (-8.8%) |
-| 6年 | 12.8 | +11.5% | 0.275 | 2006-03 (+28.1%) | 2011-02 (-6.3%) |
-| 8年 | 12.9 | +10.8% | 0.132 | 2006-03 (+19.6%) | 2011-02 (-1.3%) |
-| 10年 | 13.1 | +10.6% | 0.121 | 2008-11 (+17.7%) | 2011-02 (+1.1%) |
+| 3個月 | 13.4 | +38.3% | 0.066 | 2010-04 (+532.5%) | 2007-10 (-84.5%) |
+| 6個月 | 13.4 | +26.2% | 0.096 | 2010-01 (+378.7%) | 2007-07 (-72.5%) |
+| 1年 | 13.3 | +18.7% | 0.116 | 2010-02 (+212.0%) | 2007-01 (-38.8%) |
+| 2年 | 13.0 | +15.1% | 0.211 | 2009-02 (+126.5%) | 2011-02 (-28.7%) |
+| 3年 | 12.9 | +14.1% | 0.149 | 2008-01 (+58.1%) | 2011-02 (-15.1%) |
+| 4年 | 13.1 | +13.7% | 0.051 | 2006-07 (+33.0%) | 2011-02 (-13.2%) |
+| 5年 | 13.2 | +12.6% | 0.119 | 2006-03 (+42.2%) | 2011-02 (-8.8%) |
+| 6年 | 13.5 | +11.5% | 0.126 | 2006-03 (+28.1%) | 2011-02 (-6.3%) |
+| 8年 | 13.7 | +10.8% | 0.032 | 2006-03 (+19.6%) | 2011-02 (-1.3%) |
+| 10年 | 14.0 | +10.6% | 0.021 | 2008-11 (+17.7%) | 2011-02 (+1.1%) |
 
 
 ## 🎯 使用說明
@@ -20997,4 +21001,4 @@ description: "6123 上奇 (資訊服務業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:35:14 CST*
+*數據更新時間: 2026-03-21 12:42:01 CST*

@@ -2,7 +2,7 @@
 title: "3035 智原 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
     - **產業別**: 半導體業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:33:07 CST
+    - **報告生成時間**: 2026-03-21 12:39:32 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 9.83,
         "forward_return": 8.78,
         "start_price": 52.6,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 10.78,
         "forward_return": -18.91,
         "start_price": 57.0,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.37,
         "forward_return": -33.0,
         "start_price": 59.4,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.77,
+        "pe_ratio": 10.81,
         "forward_return": -4.89,
         "start_price": 55.8,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 10.19,
         "forward_return": -24.04,
         "start_price": 50.8,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.49,
         "forward_return": 281.15,
         "start_price": 50.4,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.19,
         "forward_return": 438.63,
         "start_price": 51.8,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.16,
         "forward_return": 483.04,
         "start_price": 47.4,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 12.5,
         "forward_return": 650.17,
         "start_price": 58.8,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.95,
         "forward_return": 354.2,
         "start_price": 73.9,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 19.17,
+        "pe_ratio": 17.84,
         "forward_return": 211.91,
         "start_price": 91.8,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 21.31,
         "forward_return": 162.05,
         "start_price": 114.0,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 18.73,
         "forward_return": 515.61,
         "start_price": 100.0,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.0,
+        "pe_ratio": 22.8,
         "forward_return": -29.47,
         "start_price": 121.5,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 26.92,
+        "pe_ratio": 24.72,
         "forward_return": -39.69,
         "start_price": 131.5,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 31.37,
+        "pe_ratio": 29.52,
         "forward_return": -85.61,
         "start_price": 154.0,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.89,
+        "pe_ratio": 21.12,
         "forward_return": -69.67,
         "start_price": 108.0,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 22.69,
+        "pe_ratio": 22.46,
         "forward_return": -82.86,
         "start_price": 112.5,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.84,
         "forward_return": -92.39,
         "start_price": 94.5,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.78,
         "forward_return": -54.8,
         "start_price": 84.3,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.6,
         "forward_return": 80.73,
         "start_price": 49.4,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 13.92,
+        "pe_ratio": 14.69,
         "forward_return": -17.23,
         "start_price": 63.0,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 16.53,
         "forward_return": -21.4,
         "start_price": 64.8,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.24,
         "forward_return": -21.95,
         "start_price": 63.6,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 17.37,
         "forward_return": -13.22,
         "start_price": 60.1,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.93,
         "forward_return": -57.43,
         "start_price": 45.0,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.34,
         "forward_return": -85.02,
         "start_price": 56.3,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 18.73,
         "forward_return": -89.03,
         "start_price": 54.5,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.93,
         "forward_return": -60.34,
         "start_price": 32.8,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.96,
         "forward_return": -67.96,
         "start_price": 34.9,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.54,
+        "pe_ratio": 11.56,
         "forward_return": 408.05,
         "start_price": 26.0,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 14.06,
         "forward_return": 1059.0,
         "start_price": 26.2,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.58,
+        "pe_ratio": 21.72,
         "forward_return": 512.03,
         "start_price": 37.5,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 21.87,
+        "pe_ratio": 27.89,
         "forward_return": 152.04,
         "start_price": 44.35,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 22.41,
+        "pe_ratio": 26.85,
         "forward_return": 207.53,
         "start_price": 45.65,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 28.64,
+        "pe_ratio": 32.38,
         "forward_return": -28.8,
         "start_price": 58.6,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 23.16,
+        "pe_ratio": 24.79,
         "forward_return": 144.04,
         "start_price": 47.6,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 28.53,
+        "pe_ratio": 30.0,
         "forward_return": -40.41,
         "start_price": 58.9,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 25.23,
+        "pe_ratio": 26.06,
         "forward_return": 131.24,
         "start_price": 52.3,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 27.9,
+        "pe_ratio": 28.34,
         "forward_return": 101.73,
         "start_price": 58.1,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.98,
         "forward_return": 117.82,
         "start_price": 51.7,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 26.7,
         "forward_return": 18.5,
         "start_price": 55.8,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 29.54,
+        "pe_ratio": 28.04,
         "forward_return": -42.98,
         "start_price": 62.9,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 25.74,
+        "pe_ratio": 23.27,
         "forward_return": -20.26,
         "start_price": 55.3,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 27.22,
+        "pe_ratio": 23.51,
         "forward_return": -21.58,
         "start_price": 59.0,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 25.34,
+        "pe_ratio": 22.13,
         "forward_return": -7.06,
         "start_price": 55.4,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 20.95,
         "forward_return": 16.05,
         "start_price": 52.3,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 22.47,
+        "pe_ratio": 20.08,
         "forward_return": 139.42,
         "start_price": 50.0,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 21.21,
         "forward_return": 74.63,
         "start_price": 52.4,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 23.11,
+        "pe_ratio": 21.35,
         "forward_return": 29.39,
         "start_price": 52.3,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 26.42,
+        "pe_ratio": 24.81,
         "forward_return": -20.22,
         "start_price": 60.3,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 26.2,
+        "pe_ratio": 25.12,
         "forward_return": 20.5,
         "start_price": 60.3,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 25.38,
+        "pe_ratio": 24.85,
         "forward_return": -56.67,
         "start_price": 58.9,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 29.12,
+        "pe_ratio": 28.21,
         "forward_return": -62.97,
         "start_price": 63.2,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 24.93,
+        "pe_ratio": 23.29,
         "forward_return": -30.35,
         "start_price": 49.85,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 24.45,
+        "pe_ratio": 21.94,
         "forward_return": -34.79,
         "start_price": 44.75,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 25.63,
+        "pe_ratio": 23.42,
         "forward_return": -30.98,
         "start_price": 42.55,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 30.6,
+        "pe_ratio": 28.62,
         "forward_return": -79.49,
         "start_price": 45.6,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 32.92,
+        "pe_ratio": 31.72,
         "forward_return": -72.82,
         "start_price": 43.45,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 32.43,
+        "pe_ratio": 35.52,
         "forward_return": -69.97,
         "start_price": 37.3,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.69,
+        "pe_ratio": 39.86,
         "forward_return": -2.55,
         "start_price": 29.1,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 36.79,
+        "pe_ratio": 72.68,
         "forward_return": -12.19,
         "start_price": 29.8,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 43.05,
+        "pe_ratio": 73.79,
         "forward_return": 428.36,
         "start_price": 27.55,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 47.77,
+        "pe_ratio": 66.68,
         "forward_return": 818.38,
         "start_price": 22.45,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 84.82,
+        "pe_ratio": 103.9,
         "forward_return": -28.46,
         "start_price": 41.9,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 70.94,
+        "pe_ratio": 96.32,
         "forward_return": -65.26,
         "start_price": 48.8,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 53.07,
+        "pe_ratio": 76.72,
         "forward_return": -25.08,
         "start_price": 46.8,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 38.06,
+        "pe_ratio": 48.94,
         "forward_return": 16.05,
         "start_price": 40.95,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 35.27,
         "forward_return": 87.73,
         "start_price": 37.5,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 28.08,
+        "pe_ratio": 31.86,
         "forward_return": 77.59,
         "start_price": 41.1,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 25.31,
         "forward_return": -41.63,
         "start_price": 41.0,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 22.92,
+        "pe_ratio": 21.77,
         "forward_return": -26.22,
         "start_price": 42.45,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 22.49,
+        "pe_ratio": 20.18,
         "forward_return": -51.81,
         "start_price": 46.0,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 14.94,
         "forward_return": 13.98,
         "start_price": 35.8,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.15,
+        "pe_ratio": 15.65,
         "forward_return": -32.73,
         "start_price": 39.3,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.26,
         "forward_return": -21.3,
         "start_price": 37.0,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.3,
+        "pe_ratio": 13.11,
         "forward_return": 7.45,
         "start_price": 33.6,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.64,
         "forward_return": 16.44,
         "start_price": 34.5,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.53,
+        "pe_ratio": 13.35,
         "forward_return": 50.21,
         "start_price": 32.8,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.35,
         "forward_return": 45.67,
         "start_price": 34.2,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.35,
         "forward_return": 61.32,
         "start_price": 30.85,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 15.09,
+        "pe_ratio": 15.5,
         "forward_return": -8.94,
         "start_price": 34.3,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.82,
         "forward_return": 60.56,
         "start_price": 35.6,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.1,
+        "pe_ratio": 16.24,
         "forward_return": 162.11,
         "start_price": 32.8,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.58,
         "forward_return": 66.67,
         "start_price": 33.5,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 16.96,
         "forward_return": 115.84,
         "start_price": 34.25,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 19.15,
+        "pe_ratio": 19.24,
         "forward_return": 28.77,
         "start_price": 38.1,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.37,
+        "pe_ratio": 22.58,
         "forward_return": -20.44,
         "start_price": 43.8,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.88,
+        "pe_ratio": 23.21,
         "forward_return": -24.8,
         "start_price": 44.1,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 21.64,
+        "pe_ratio": 21.57,
         "forward_return": -9.01,
         "start_price": 41.05,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 21.71,
         "forward_return": -31.07,
         "start_price": 41.4,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 22.56,
+        "pe_ratio": 21.68,
         "forward_return": -39.71,
         "start_price": 41.4,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 20.56,
         "forward_return": -48.09,
         "start_price": 38.1,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 20.13,
+        "pe_ratio": 19.87,
         "forward_return": 10.4,
         "start_price": 35.7,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 19.77,
+        "pe_ratio": 19.8,
         "forward_return": 31.75,
         "start_price": 34.45,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.89,
         "forward_return": 104.97,
         "start_price": 32.3,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 23.27,
         "forward_return": 20.1,
         "start_price": 38.7,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 25.65,
+        "pe_ratio": 24.24,
         "forward_return": 4.57,
         "start_price": 40.65,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.31,
+        "pe_ratio": 26.92,
         "forward_return": -59.77,
         "start_price": 45.5,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 27.83,
+        "pe_ratio": 25.38,
         "forward_return": -60.47,
         "start_price": 42.3,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 27.63,
+        "pe_ratio": 25.01,
         "forward_return": -72.21,
         "start_price": 41.1,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.08,
+        "pe_ratio": 23.43,
         "forward_return": 49.82,
         "start_price": 37.95,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 22.53,
+        "pe_ratio": 19.27,
         "forward_return": 642.18,
         "start_price": 32.05,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 20.32,
+        "pe_ratio": 16.55,
         "forward_return": 297.69,
         "start_price": 28.25,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 29.83,
+        "pe_ratio": 23.14,
         "forward_return": 49.93,
         "start_price": 40.5,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 40.08,
+        "pe_ratio": 33.47,
         "forward_return": -33.03,
         "start_price": 53.1,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 34.39,
+        "pe_ratio": 31.23,
         "forward_return": -16.03,
         "start_price": 44.45,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 38.4,
+        "pe_ratio": 36.92,
         "forward_return": -65.62,
         "start_price": 48.0,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 37.5,
+        "pe_ratio": 34.7,
         "forward_return": -72.53,
         "start_price": 46.5,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 34.11,
+        "pe_ratio": 30.4,
         "forward_return": -17.12,
         "start_price": 41.95,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 35.49,
+        "pe_ratio": 32.97,
         "forward_return": -31.53,
         "start_price": 43.3,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.03,
         "forward_return": -1.17,
         "start_price": 33.7,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.12,
+        "pe_ratio": 28.6,
         "forward_return": 4.79,
         "start_price": 33.75,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 31.43,
+        "pe_ratio": 36.67,
         "forward_return": -49.74,
         "start_price": 37.4,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 26.78,
+        "pe_ratio": 36.74,
         "forward_return": -11.38,
         "start_price": 31.6,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 27.48,
+        "pe_ratio": 45.93,
         "forward_return": -20.65,
         "start_price": 32.15,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 27.11,
+        "pe_ratio": 37.15,
         "forward_return": 9.13,
         "start_price": 31.45,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 29.7,
         "forward_return": 107.58,
         "start_price": 29.5,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 24.2,
+        "pe_ratio": 18.41,
         "forward_return": 49.61,
         "start_price": 32.15,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 23.74,
+        "pe_ratio": 15.3,
         "forward_return": 8.13,
         "start_price": 36.0,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 12.67,
         "forward_return": 44.44,
         "start_price": 37.5,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.36,
+        "pe_ratio": 12.24,
         "forward_return": 79.49,
         "start_price": 36.65,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.63,
+        "pe_ratio": 12.13,
         "forward_return": 159.2,
         "start_price": 36.7,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 16.94,
+        "pe_ratio": 12.57,
         "forward_return": 62.48,
         "start_price": 38.45,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.84,
+        "pe_ratio": 13.1,
         "forward_return": 56.58,
         "start_price": 41.4,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.25,
+        "pe_ratio": 14.0,
         "forward_return": 103.74,
         "start_price": 45.65,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 12.63,
         "forward_return": 247.58,
         "start_price": 42.45,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.74,
         "forward_return": 853.76,
         "start_price": 46.35,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 19.9,
+        "pe_ratio": 18.87,
         "forward_return": 28.57,
         "start_price": 63.9,
         "start_year": 2017
@@ -1317,7 +1317,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.52,
+        "pe_ratio": 29.35,
         "forward_return": -53.96,
         "start_price": 81.8,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.56,
+        "pe_ratio": 31.24,
         "forward_return": -24.29,
         "start_price": 67.9,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 44.49,
         "forward_return": -26.21,
         "start_price": 69.4,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.57,
+        "pe_ratio": 48.2,
         "forward_return": -23.37,
         "start_price": 67.0,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 26.14,
+        "pe_ratio": 51.97,
         "forward_return": 87.73,
         "start_price": 63.4,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 26.82,
+        "pe_ratio": 56.95,
         "forward_return": -16.18,
         "start_price": 59.8,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 29.48,
+        "pe_ratio": 59.8,
         "forward_return": -91.76,
         "start_price": 60.0,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 74.84,
         "forward_return": -79.31,
         "start_price": 71.6,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 33.13,
+        "pe_ratio": 59.89,
         "forward_return": -63.84,
         "start_price": 54.5,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 22.07,
+        "pe_ratio": 33.33,
         "forward_return": 223.18,
         "start_price": 32.0,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 32.59,
+        "pe_ratio": 40.5,
         "forward_return": 29.72,
         "start_price": 40.9,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 39.51,
+        "pe_ratio": 39.09,
         "forward_return": 6.51,
         "start_price": 43.0,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 41.15,
+        "pe_ratio": 40.31,
         "forward_return": -16.91,
         "start_price": 45.95,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 37.75,
         "forward_return": 191.69,
         "start_price": 44.55,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 43.38,
+        "pe_ratio": 42.07,
         "forward_return": 146.05,
         "start_price": 50.9,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 36.53,
+        "pe_ratio": 35.4,
         "forward_return": 193.97,
         "start_price": 43.9,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 39.27,
+        "pe_ratio": 38.03,
         "forward_return": 115.42,
         "start_price": 48.3,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 49.99,
+        "pe_ratio": 46.48,
         "forward_return": -27.53,
         "start_price": 62.9,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 44.15,
+        "pe_ratio": 39.54,
         "forward_return": -2.61,
         "start_price": 56.8,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 43.95,
+        "pe_ratio": 38.03,
         "forward_return": -10.02,
         "start_price": 57.8,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 43.18,
+        "pe_ratio": 39.19,
         "forward_return": -46.91,
         "start_price": 58.0,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 40.46,
+        "pe_ratio": 38.54,
         "forward_return": -72.24,
         "start_price": 55.5,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 36.01,
+        "pe_ratio": 37.18,
         "forward_return": -31.62,
         "start_price": 49.45,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 32.71,
+        "pe_ratio": 34.96,
         "forward_return": -4.04,
         "start_price": 44.05,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 30.5,
         "forward_return": 132.98,
         "start_price": 36.3,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 33.52,
+        "pe_ratio": 33.26,
         "forward_return": 52.42,
         "start_price": 43.35,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 34.42,
+        "pe_ratio": 30.78,
         "forward_return": 8.45,
         "start_price": 43.6,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 37.42,
+        "pe_ratio": 30.33,
         "forward_return": -11.84,
         "start_price": 46.4,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 38.78,
+        "pe_ratio": 33.21,
         "forward_return": -38.37,
         "start_price": 47.05,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 36.57,
+        "pe_ratio": 33.3,
         "forward_return": 61.16,
         "start_price": 43.4,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 37.8,
+        "pe_ratio": 36.85,
         "forward_return": 81.92,
         "start_price": 43.85,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 36.75,
+        "pe_ratio": 36.11,
         "forward_return": 145.07,
         "start_price": 41.65,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 43.33,
+        "pe_ratio": 42.94,
         "forward_return": 28.74,
         "start_price": 47.95,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 37.89,
+        "pe_ratio": 41.65,
         "forward_return": 127.66,
         "start_price": 52.2,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.64,
+        "pe_ratio": 37.15,
         "forward_return": 181.57,
         "start_price": 53.0,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 26.41,
+        "pe_ratio": 32.56,
         "forward_return": 928.95,
         "start_price": 52.1,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.82,
+        "pe_ratio": 45.06,
         "forward_return": 441.84,
         "start_price": 74.5,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.64,
+        "pe_ratio": 40.08,
         "forward_return": 355.29,
         "start_price": 68.4,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 43.24,
         "forward_return": 433.12,
         "start_price": 76.1,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.57,
+        "pe_ratio": 53.32,
         "forward_return": 901.48,
         "start_price": 112.5,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 28.67,
+        "pe_ratio": 40.33,
         "forward_return": 1290.95,
         "start_price": 99.2,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 30.61,
+        "pe_ratio": 40.93,
         "forward_return": 1784.36,
         "start_price": 115.0,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 49.57,
+        "pe_ratio": 58.71,
         "forward_return": -2.93,
         "start_price": 201.0,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 42.73,
+        "pe_ratio": 46.08,
         "forward_return": 352.82,
         "start_price": 186.0,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 39.23,
+        "pe_ratio": 37.48,
         "forward_return": 76.63,
         "start_price": 199.5,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 49.35,
+        "pe_ratio": 45.44,
         "forward_return": -39.77,
         "start_price": 272.5,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 51.28,
+        "pe_ratio": 45.8,
         "forward_return": -85.77,
         "start_price": 305.5,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 40.75,
+        "pe_ratio": 35.62,
         "forward_return": -86.11,
         "start_price": 260.5,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 35.22,
+        "pe_ratio": 30.23,
         "forward_return": -60.52,
         "start_price": 240.5,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 22.21,
         "forward_return": -73.03,
         "start_price": 191.0,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 20.26,
+        "pe_ratio": 17.4,
         "forward_return": -31.15,
         "start_price": 156.0,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 22.98,
+        "pe_ratio": 20.04,
         "forward_return": -55.68,
         "start_price": 187.0,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 13.81,
         "forward_return": 28.0,
         "start_price": 134.0,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 15.76,
+        "pe_ratio": 14.55,
         "forward_return": 101.94,
         "start_price": 142.0,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 17.84,
+        "pe_ratio": 17.16,
         "forward_return": 59.66,
         "start_price": 168.5,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.56,
         "forward_return": 3.63,
         "start_price": 169.5,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 19.95,
+        "pe_ratio": 19.68,
         "forward_return": -27.27,
         "start_price": 185.5,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 21.82,
+        "pe_ratio": 21.36,
         "forward_return": 376.44,
         "start_price": 196.5,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 18.81,
+        "pe_ratio": 18.5,
         "forward_return": 1575.43,
         "start_price": 164.0,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 20.35,
+        "pe_ratio": 20.11,
         "forward_return": 1598.07,
         "start_price": 171.5,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 25.94,
+        "pe_ratio": 25.76,
         "forward_return": 366.53,
         "start_price": 211.0,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 41.56,
+        "pe_ratio": 41.44,
         "forward_return": -26.18,
         "start_price": 326.0,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 45.68,
+        "pe_ratio": 45.74,
         "forward_return": 10.78,
         "start_price": 345.0,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 42.13,
+        "pe_ratio": 42.38,
         "forward_return": 85.66,
         "start_price": 306.0,
         "start_year": 2023
@@ -1938,7 +1938,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 43.32,
+        "pe_ratio": 43.49,
         "forward_return": 258.31,
         "start_price": 302.0,
         "start_year": 2023
@@ -1947,7 +1947,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 57.7,
+        "pe_ratio": 57.82,
         "forward_return": -29.09,
         "start_price": 385.5,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 67.24,
+        "pe_ratio": 68.32,
         "forward_return": -63.78,
         "start_price": 416.5,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 64.52,
+        "pe_ratio": 66.69,
         "forward_return": -65.2,
         "start_price": 387.0,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 59.28,
+        "pe_ratio": 62.43,
         "forward_return": -33.09,
         "start_price": 344.0,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 52.44,
+        "pe_ratio": 55.89,
         "forward_return": 9.6,
         "start_price": 294.0,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 54.98,
+        "pe_ratio": 59.38,
         "forward_return": 15.2,
         "start_price": 297.5,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 64.43,
+        "pe_ratio": 70.59,
         "forward_return": -57.85,
         "start_price": 336.0,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 59.07,
+        "pe_ratio": 63.95,
         "forward_return": -60.6,
         "start_price": 296.5,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 63.03,
+        "pe_ratio": 67.36,
         "forward_return": -50.11,
         "start_price": 304.0,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 57.48,
+        "pe_ratio": 60.59,
         "forward_return": -32.71,
         "start_price": 266.0,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 52.91,
+        "pe_ratio": 54.88,
         "forward_return": -15.14,
         "start_price": 234.5,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 52.41,
+        "pe_ratio": 53.41,
         "forward_return": -12.46,
         "start_price": 222.0,
         "start_year": 2024
@@ -2073,7 +2073,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 57.14,
+        "pe_ratio": 54.74,
         "forward_return": -52.65,
         "start_price": 225.0,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 62.19,
+        "pe_ratio": 57.06,
         "forward_return": -70.87,
         "start_price": 238.5,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 56.93,
+        "pe_ratio": 50.0,
         "forward_return": -60.74,
         "start_price": 212.5,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 45.57,
         "forward_return": -44.41,
         "start_price": 180.0,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 49.89,
+        "pe_ratio": 48.22,
         "forward_return": -29.79,
         "start_price": 176.0,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 54.16,
+        "pe_ratio": 55.37,
         "forward_return": -42.31,
         "start_price": 185.5,
         "start_year": 2025
@@ -2127,7 +2127,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 45.9,
+        "pe_ratio": 47.56,
         "forward_return": 104.0,
         "start_price": 152.5,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 49.07,
+        "pe_ratio": 51.58,
         "forward_return": 25.6,
         "start_price": 158.0,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 50.84,
+        "pe_ratio": 54.28,
         "forward_return": 34.03,
         "start_price": 158.5,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 60.53,
+        "pe_ratio": 63.29,
         "forward_return": -29.7,
         "start_price": 182.5,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 9.83,
         "forward_return": -6.09,
         "start_price": 52.6,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 10.78,
         "forward_return": -20.85,
         "start_price": 57.0,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.37,
         "forward_return": 73.74,
         "start_price": 59.4,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.77,
+        "pe_ratio": 10.81,
         "forward_return": 116.14,
         "start_price": 55.8,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 10.19,
         "forward_return": 110.44,
         "start_price": 50.8,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.49,
         "forward_return": 308.05,
         "start_price": 50.4,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.19,
         "forward_return": 391.25,
         "start_price": 51.8,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.16,
         "forward_return": 406.18,
         "start_price": 47.4,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 12.5,
         "forward_return": 332.57,
         "start_price": 58.8,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.95,
         "forward_return": 359.1,
         "start_price": 73.9,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 19.17,
+        "pe_ratio": 17.84,
         "forward_return": 47.12,
         "start_price": 91.8,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 21.31,
         "forward_return": -23.06,
         "start_price": 114.0,
         "start_year": 2007
@@ -2280,7 +2280,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 18.73,
         "forward_return": -4.4,
         "start_price": 100.0,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.0,
+        "pe_ratio": 22.8,
         "forward_return": -55.33,
         "start_price": 121.5,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 26.92,
+        "pe_ratio": 24.72,
         "forward_return": -66.72,
         "start_price": 131.5,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 31.37,
+        "pe_ratio": 29.52,
         "forward_return": -89.53,
         "start_price": 154.0,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.89,
+        "pe_ratio": 21.12,
         "forward_return": -58.35,
         "start_price": 108.0,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 22.69,
+        "pe_ratio": 22.46,
         "forward_return": -66.95,
         "start_price": 112.5,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.84,
         "forward_return": -53.98,
         "start_price": 94.5,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.78,
         "forward_return": -49.29,
         "start_price": 84.3,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.6,
         "forward_return": 46.69,
         "start_price": 49.4,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 13.92,
+        "pe_ratio": 14.69,
         "forward_return": -15.24,
         "start_price": 63.0,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 16.53,
         "forward_return": -59.08,
         "start_price": 64.8,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.24,
         "forward_return": -63.49,
         "start_price": 63.6,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 17.37,
         "forward_return": -70.25,
         "start_price": 60.1,
         "start_year": 2008
@@ -2406,7 +2406,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.93,
         "forward_return": -56.83,
         "start_price": 45.0,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.34,
         "forward_return": -78.09,
         "start_price": 56.3,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 18.73,
         "forward_return": -29.89,
         "start_price": 54.5,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.93,
         "forward_return": 83.82,
         "start_price": 32.8,
         "start_year": 2008
@@ -2442,7 +2442,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.96,
         "forward_return": 144.21,
         "start_price": 34.9,
         "start_year": 2008
@@ -2451,7 +2451,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.54,
+        "pe_ratio": 11.56,
         "forward_return": 415.45,
         "start_price": 26.0,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 14.06,
         "forward_return": 439.38,
         "start_price": 26.2,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.58,
+        "pe_ratio": 21.72,
         "forward_return": 106.29,
         "start_price": 37.5,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 21.87,
+        "pe_ratio": 27.89,
         "forward_return": 36.39,
         "start_price": 44.35,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 22.41,
+        "pe_ratio": 26.85,
         "forward_return": 35.7,
         "start_price": 45.65,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 28.64,
+        "pe_ratio": 32.38,
         "forward_return": 37.75,
         "start_price": 58.6,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 23.16,
+        "pe_ratio": 24.79,
         "forward_return": 120.22,
         "start_price": 47.6,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 28.53,
+        "pe_ratio": 30.0,
         "forward_return": 13.93,
         "start_price": 58.9,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 25.23,
+        "pe_ratio": 26.06,
         "forward_return": 23.08,
         "start_price": 52.3,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 27.9,
+        "pe_ratio": 28.34,
         "forward_return": 3.15,
         "start_price": 58.1,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.98,
         "forward_return": 2.01,
         "start_price": 51.7,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 26.7,
         "forward_return": -12.25,
         "start_price": 55.8,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 29.54,
+        "pe_ratio": 28.04,
         "forward_return": -25.4,
         "start_price": 62.9,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 25.74,
+        "pe_ratio": 23.27,
         "forward_return": -3.6,
         "start_price": 55.3,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 27.22,
+        "pe_ratio": 23.51,
         "forward_return": 9.73,
         "start_price": 59.0,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 25.34,
+        "pe_ratio": 22.13,
         "forward_return": 26.39,
         "start_price": 55.4,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 20.95,
         "forward_return": 22.84,
         "start_price": 52.3,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 22.47,
+        "pe_ratio": 20.08,
         "forward_return": 39.14,
         "start_price": 50.0,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 21.21,
         "forward_return": 45.06,
         "start_price": 52.4,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 23.11,
+        "pe_ratio": 21.35,
         "forward_return": -23.56,
         "start_price": 52.3,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 26.42,
+        "pe_ratio": 24.81,
         "forward_return": -45.22,
         "start_price": 60.3,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 26.2,
+        "pe_ratio": 25.12,
         "forward_return": -38.21,
         "start_price": 60.3,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 25.38,
+        "pe_ratio": 24.85,
         "forward_return": -40.34,
         "start_price": 58.9,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 29.12,
+        "pe_ratio": 28.21,
         "forward_return": -62.65,
         "start_price": 63.2,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 24.93,
+        "pe_ratio": 23.29,
         "forward_return": -62.46,
         "start_price": 49.85,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 24.45,
+        "pe_ratio": 21.94,
         "forward_return": -52.18,
         "start_price": 44.75,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 25.63,
+        "pe_ratio": 23.42,
         "forward_return": -53.33,
         "start_price": 42.55,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 30.6,
+        "pe_ratio": 28.62,
         "forward_return": -50.1,
         "start_price": 45.6,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 32.92,
+        "pe_ratio": 31.72,
         "forward_return": -51.15,
         "start_price": 43.45,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 32.43,
+        "pe_ratio": 35.52,
         "forward_return": 25.97,
         "start_price": 37.3,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.69,
+        "pe_ratio": 39.86,
         "forward_return": 125.87,
         "start_price": 29.1,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 36.79,
+        "pe_ratio": 72.68,
         "forward_return": 147.4,
         "start_price": 29.8,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 43.05,
+        "pe_ratio": 73.79,
         "forward_return": 69.68,
         "start_price": 27.55,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 47.77,
+        "pe_ratio": 66.68,
         "forward_return": 180.0,
         "start_price": 22.45,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 84.82,
+        "pe_ratio": 103.9,
         "forward_return": 2.88,
         "start_price": 41.9,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 70.94,
+        "pe_ratio": 96.32,
         "forward_return": -18.87,
         "start_price": 48.8,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 53.07,
+        "pe_ratio": 76.72,
         "forward_return": -32.12,
         "start_price": 46.8,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 38.06,
+        "pe_ratio": 48.94,
         "forward_return": -17.01,
         "start_price": 40.95,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 35.27,
         "forward_return": 10.92,
         "start_price": 37.5,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 28.08,
+        "pe_ratio": 31.86,
         "forward_return": -5.99,
         "start_price": 41.1,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 25.31,
         "forward_return": -18.44,
         "start_price": 41.0,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 22.92,
+        "pe_ratio": 21.77,
         "forward_return": -30.04,
         "start_price": 42.45,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 22.49,
+        "pe_ratio": 20.18,
         "forward_return": -44.04,
         "start_price": 46.0,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 14.94,
         "forward_return": -7.58,
         "start_price": 35.8,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.15,
+        "pe_ratio": 15.65,
         "forward_return": -24.46,
         "start_price": 39.3,
         "start_year": 2012
@@ -2901,7 +2901,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.26,
         "forward_return": -3.79,
         "start_price": 37.0,
         "start_year": 2013
@@ -2910,7 +2910,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.3,
+        "pe_ratio": 13.11,
         "forward_return": 25.32,
         "start_price": 33.6,
         "start_year": 2013
@@ -2919,7 +2919,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.64,
         "forward_return": 4.99,
         "start_price": 34.5,
         "start_year": 2013
@@ -2928,7 +2928,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.53,
+        "pe_ratio": 13.35,
         "forward_return": 17.1,
         "start_price": 32.8,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.35,
         "forward_return": 51.94,
         "start_price": 34.2,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.35,
         "forward_return": 100.36,
         "start_price": 30.85,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 15.09,
+        "pe_ratio": 15.5,
         "forward_return": 23.19,
         "start_price": 34.3,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.82,
         "forward_return": 44.61,
         "start_price": 35.6,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.1,
+        "pe_ratio": 16.24,
         "forward_return": 81.73,
         "start_price": 32.8,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.58,
         "forward_return": 44.02,
         "start_price": 33.5,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 16.96,
         "forward_return": 46.61,
         "start_price": 34.25,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 19.15,
+        "pe_ratio": 19.24,
         "forward_return": 10.85,
         "start_price": 38.1,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.37,
+        "pe_ratio": 22.58,
         "forward_return": -26.01,
         "start_price": 43.8,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.88,
+        "pe_ratio": 23.21,
         "forward_return": -34.89,
         "start_price": 44.1,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 21.64,
+        "pe_ratio": 21.57,
         "forward_return": -30.15,
         "start_price": 41.05,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 21.71,
         "forward_return": -10.1,
         "start_price": 41.4,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 22.56,
+        "pe_ratio": 21.68,
         "forward_return": -11.71,
         "start_price": 41.4,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 20.56,
         "forward_return": 3.15,
         "start_price": 38.1,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 20.13,
+        "pe_ratio": 19.87,
         "forward_return": 51.88,
         "start_price": 35.7,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 19.77,
+        "pe_ratio": 19.8,
         "forward_return": 75.31,
         "start_price": 34.45,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.89,
         "forward_return": 51.45,
         "start_price": 32.3,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 23.27,
         "forward_return": -24.96,
         "start_price": 38.7,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 25.65,
+        "pe_ratio": 24.24,
         "forward_return": -46.49,
         "start_price": 40.65,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.31,
+        "pe_ratio": 26.92,
         "forward_return": 36.58,
         "start_price": 45.5,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 27.83,
+        "pe_ratio": 25.38,
         "forward_return": 66.55,
         "start_price": 42.3,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 27.63,
+        "pe_ratio": 25.01,
         "forward_return": 22.63,
         "start_price": 41.1,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.08,
+        "pe_ratio": 23.43,
         "forward_return": 48.84,
         "start_price": 37.95,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 22.53,
+        "pe_ratio": 19.27,
         "forward_return": 122.95,
         "start_price": 32.05,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 20.32,
+        "pe_ratio": 16.55,
         "forward_return": 96.99,
         "start_price": 28.25,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 29.83,
+        "pe_ratio": 23.14,
         "forward_return": 7.31,
         "start_price": 40.5,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 40.08,
+        "pe_ratio": 33.47,
         "forward_return": -54.14,
         "start_price": 53.1,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 34.39,
+        "pe_ratio": 31.23,
         "forward_return": -42.63,
         "start_price": 44.45,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 38.4,
+        "pe_ratio": 36.92,
         "forward_return": -32.71,
         "start_price": 48.0,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 37.5,
+        "pe_ratio": 34.7,
         "forward_return": -47.72,
         "start_price": 46.5,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 34.11,
+        "pe_ratio": 30.4,
         "forward_return": -32.05,
         "start_price": 41.95,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 35.49,
+        "pe_ratio": 32.97,
         "forward_return": -40.26,
         "start_price": 43.3,
         "start_year": 2016
@@ -3261,7 +3261,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.03,
         "forward_return": -6.74,
         "start_price": 33.7,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.12,
+        "pe_ratio": 28.6,
         "forward_return": -8.11,
         "start_price": 33.75,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 31.43,
+        "pe_ratio": 36.67,
         "forward_return": -25.94,
         "start_price": 37.4,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 26.78,
+        "pe_ratio": 36.74,
         "forward_return": 34.3,
         "start_price": 31.6,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 27.48,
+        "pe_ratio": 45.93,
         "forward_return": 36.43,
         "start_price": 32.15,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 27.11,
+        "pe_ratio": 37.15,
         "forward_return": 30.47,
         "start_price": 31.45,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 29.7,
         "forward_return": 55.38,
         "start_price": 29.5,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 24.2,
+        "pe_ratio": 18.41,
         "forward_return": 74.79,
         "start_price": 32.15,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 23.74,
+        "pe_ratio": 15.3,
         "forward_return": 68.22,
         "start_price": 36.0,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 12.67,
         "forward_return": 48.89,
         "start_price": 37.5,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.36,
+        "pe_ratio": 12.24,
         "forward_return": 66.74,
         "start_price": 36.65,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.63,
+        "pe_ratio": 12.13,
         "forward_return": 124.21,
         "start_price": 36.7,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 16.94,
+        "pe_ratio": 12.57,
         "forward_return": 134.25,
         "start_price": 38.45,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.84,
+        "pe_ratio": 13.1,
         "forward_return": 286.44,
         "start_price": 41.4,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.25,
+        "pe_ratio": 14.0,
         "forward_return": 105.79,
         "start_price": 45.65,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 12.63,
         "forward_return": 169.65,
         "start_price": 42.45,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.74,
         "forward_return": 71.55,
         "start_price": 46.35,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 19.9,
+        "pe_ratio": 18.87,
         "forward_return": -1.57,
         "start_price": 63.9,
         "start_year": 2017
@@ -3441,7 +3441,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.52,
+        "pe_ratio": 29.35,
         "forward_return": -41.53,
         "start_price": 81.8,
         "start_year": 2018
@@ -3450,7 +3450,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.56,
+        "pe_ratio": 31.24,
         "forward_return": 19.81,
         "start_price": 67.9,
         "start_year": 2018
@@ -3459,7 +3459,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 44.49,
         "forward_return": -69.37,
         "start_price": 69.4,
         "start_year": 2018
@@ -3468,7 +3468,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.57,
+        "pe_ratio": 48.2,
         "forward_return": -73.1,
         "start_price": 67.0,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 26.14,
+        "pe_ratio": 51.97,
         "forward_return": -44.29,
         "start_price": 63.4,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 26.82,
+        "pe_ratio": 56.95,
         "forward_return": -43.31,
         "start_price": 59.8,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 29.48,
+        "pe_ratio": 59.8,
         "forward_return": -48.38,
         "start_price": 60.0,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 74.84,
         "forward_return": -55.85,
         "start_price": 71.6,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 33.13,
+        "pe_ratio": 59.89,
         "forward_return": -33.42,
         "start_price": 54.5,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 22.07,
+        "pe_ratio": 33.33,
         "forward_return": 72.42,
         "start_price": 32.0,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 32.59,
+        "pe_ratio": 40.5,
         "forward_return": 15.35,
         "start_price": 40.9,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 39.51,
+        "pe_ratio": 39.09,
         "forward_return": 121.01,
         "start_price": 43.0,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 41.15,
+        "pe_ratio": 40.31,
         "forward_return": 57.38,
         "start_price": 45.95,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 37.75,
         "forward_return": 60.59,
         "start_price": 44.55,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 43.38,
+        "pe_ratio": 42.07,
         "forward_return": 33.37,
         "start_price": 50.9,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 36.53,
+        "pe_ratio": 35.4,
         "forward_return": 56.63,
         "start_price": 43.9,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 39.27,
+        "pe_ratio": 38.03,
         "forward_return": 39.66,
         "start_price": 48.3,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 49.99,
+        "pe_ratio": 46.48,
         "forward_return": -37.97,
         "start_price": 62.9,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 44.15,
+        "pe_ratio": 39.54,
         "forward_return": -53.59,
         "start_price": 56.8,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 43.95,
+        "pe_ratio": 38.03,
         "forward_return": -60.68,
         "start_price": 57.8,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 43.18,
+        "pe_ratio": 39.19,
         "forward_return": -38.7,
         "start_price": 58.0,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 40.46,
+        "pe_ratio": 38.54,
         "forward_return": -38.39,
         "start_price": 55.5,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 36.01,
+        "pe_ratio": 37.18,
         "forward_return": -5.21,
         "start_price": 49.45,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 32.71,
+        "pe_ratio": 34.96,
         "forward_return": 2.05,
         "start_price": 44.05,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 30.5,
         "forward_return": 32.2,
         "start_price": 36.3,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 33.52,
+        "pe_ratio": 33.26,
         "forward_return": -2.74,
         "start_price": 43.35,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 34.42,
+        "pe_ratio": 30.78,
         "forward_return": 35.08,
         "start_price": 43.6,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 37.42,
+        "pe_ratio": 30.33,
         "forward_return": 25.54,
         "start_price": 46.4,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 38.78,
+        "pe_ratio": 33.21,
         "forward_return": 22.9,
         "start_price": 47.05,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 36.57,
+        "pe_ratio": 33.3,
         "forward_return": 37.0,
         "start_price": 43.4,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 37.8,
+        "pe_ratio": 36.85,
         "forward_return": 41.61,
         "start_price": 43.85,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 36.75,
+        "pe_ratio": 36.11,
         "forward_return": 135.06,
         "start_price": 41.65,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 43.33,
+        "pe_ratio": 42.94,
         "forward_return": 104.79,
         "start_price": 47.95,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 37.89,
+        "pe_ratio": 41.65,
         "forward_return": 379.41,
         "start_price": 52.2,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.64,
+        "pe_ratio": 37.15,
         "forward_return": 258.99,
         "start_price": 53.0,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 26.41,
+        "pe_ratio": 32.56,
         "forward_return": 910.32,
         "start_price": 52.1,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.82,
+        "pe_ratio": 45.06,
         "forward_return": 632.17,
         "start_price": 74.5,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.64,
+        "pe_ratio": 40.08,
         "forward_return": 752.04,
         "start_price": 68.4,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 43.24,
         "forward_return": 889.94,
         "start_price": 76.1,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.57,
+        "pe_ratio": 53.32,
         "forward_return": 211.79,
         "start_price": 112.5,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 28.67,
+        "pe_ratio": 40.33,
         "forward_return": 594.42,
         "start_price": 99.2,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 30.61,
+        "pe_ratio": 40.93,
         "forward_return": 618.2,
         "start_price": 115.0,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 49.57,
+        "pe_ratio": 58.71,
         "forward_return": 36.22,
         "start_price": 201.0,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 42.73,
+        "pe_ratio": 46.08,
         "forward_return": 67.96,
         "start_price": 186.0,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 39.23,
+        "pe_ratio": 37.48,
         "forward_return": -36.5,
         "start_price": 199.5,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 49.35,
+        "pe_ratio": 45.44,
         "forward_return": -51.35,
         "start_price": 272.5,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 51.28,
+        "pe_ratio": 45.8,
         "forward_return": -71.87,
         "start_price": 305.5,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 40.75,
+        "pe_ratio": 35.62,
         "forward_return": -68.81,
         "start_price": 260.5,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 35.22,
+        "pe_ratio": 30.23,
         "forward_return": -57.44,
         "start_price": 240.5,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 22.21,
         "forward_return": -41.67,
         "start_price": 191.0,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 20.26,
+        "pe_ratio": 17.4,
         "forward_return": 17.91,
         "start_price": 156.0,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 22.98,
+        "pe_ratio": 20.04,
         "forward_return": 8.91,
         "start_price": 187.0,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 13.81,
         "forward_return": 116.52,
         "start_price": 134.0,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 15.76,
+        "pe_ratio": 14.55,
         "forward_return": 38.43,
         "start_price": 142.0,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 17.84,
+        "pe_ratio": 17.16,
         "forward_return": 3.63,
         "start_price": 168.5,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.56,
         "forward_return": 285.95,
         "start_price": 169.5,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 19.95,
+        "pe_ratio": 19.68,
         "forward_return": 257.55,
         "start_price": 185.5,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 21.82,
+        "pe_ratio": 21.36,
         "forward_return": 114.16,
         "start_price": 196.5,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 18.81,
+        "pe_ratio": 18.5,
         "forward_return": 249.52,
         "start_price": 164.0,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 20.35,
+        "pe_ratio": 20.11,
         "forward_return": 257.89,
         "start_price": 171.5,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 25.94,
+        "pe_ratio": 25.76,
         "forward_return": 193.69,
         "start_price": 211.0,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 41.56,
+        "pe_ratio": 41.44,
         "forward_return": 62.63,
         "start_price": 326.0,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 45.68,
+        "pe_ratio": 45.74,
         "forward_return": -0.5,
         "start_price": 345.0,
         "start_year": 2023
@@ -4053,7 +4053,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 42.13,
+        "pe_ratio": 42.38,
         "forward_return": 26.48,
         "start_price": 306.0,
         "start_year": 2023
@@ -4062,7 +4062,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 43.32,
+        "pe_ratio": 43.49,
         "forward_return": -2.54,
         "start_price": 302.0,
         "start_year": 2023
@@ -4071,7 +4071,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 57.7,
+        "pe_ratio": 57.82,
         "forward_return": -40.55,
         "start_price": 385.5,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 67.24,
+        "pe_ratio": 68.32,
         "forward_return": -47.96,
         "start_price": 416.5,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 64.52,
+        "pe_ratio": 66.69,
         "forward_return": -36.48,
         "start_price": 387.0,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 59.28,
+        "pe_ratio": 62.43,
         "forward_return": -46.37,
         "start_price": 344.0,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 52.44,
+        "pe_ratio": 55.89,
         "forward_return": -33.97,
         "start_price": 294.0,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 54.98,
+        "pe_ratio": 59.38,
         "forward_return": -28.06,
         "start_price": 297.5,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 64.43,
+        "pe_ratio": 70.59,
         "forward_return": -46.64,
         "start_price": 336.0,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 59.07,
+        "pe_ratio": 63.95,
         "forward_return": -42.18,
         "start_price": 296.5,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 63.03,
+        "pe_ratio": 67.36,
         "forward_return": -46.04,
         "start_price": 304.0,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 57.48,
+        "pe_ratio": 60.59,
         "forward_return": -36.44,
         "start_price": 266.0,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 52.91,
+        "pe_ratio": 54.88,
         "forward_return": -39.01,
         "start_price": 234.5,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 52.41,
+        "pe_ratio": 53.41,
         "forward_return": -37.41,
         "start_price": 222.0,
         "start_year": 2024
@@ -4197,7 +4197,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 57.14,
+        "pe_ratio": 54.74,
         "forward_return": -52.55,
         "start_price": 225.0,
         "start_year": 2025
@@ -4206,7 +4206,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 62.19,
+        "pe_ratio": 57.06,
         "forward_return": -54.55,
         "start_price": 238.5,
         "start_year": 2025
@@ -4215,7 +4215,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 56.93,
+        "pe_ratio": 50.0,
         "forward_return": -20.7,
         "start_price": 212.5,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 45.57,
         "forward_return": 6.19,
         "start_price": 180.0,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 49.89,
+        "pe_ratio": 48.22,
         "forward_return": -2.41,
         "start_price": 176.0,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 54.16,
+        "pe_ratio": 55.37,
         "forward_return": -12.5,
         "start_price": 185.5,
         "start_year": 2025
@@ -4251,7 +4251,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 45.9,
+        "pe_ratio": 47.56,
         "forward_return": 19.76,
         "start_price": 152.5,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 9.83,
         "forward_return": 123.13,
         "start_price": 52.6,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 10.78,
         "forward_return": 81.3,
         "start_price": 57.0,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.37,
         "forward_return": 110.21,
         "start_price": 59.4,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.77,
+        "pe_ratio": 10.81,
         "forward_return": 141.72,
         "start_price": 55.8,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 10.19,
         "forward_return": 209.83,
         "start_price": 50.8,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.49,
         "forward_return": 120.9,
         "start_price": 50.4,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.19,
         "forward_return": 123.62,
         "start_price": 51.8,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.16,
         "forward_return": 106.37,
         "start_price": 47.4,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 12.5,
         "forward_return": 48.97,
         "start_price": 58.8,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.95,
         "forward_return": -28.74,
         "start_price": 73.9,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 19.17,
+        "pe_ratio": 17.84,
         "forward_return": -27.82,
         "start_price": 91.8,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 21.31,
         "forward_return": -40.22,
         "start_price": 114.0,
         "start_year": 2007
@@ -4377,7 +4377,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 18.73,
         "forward_return": -33.07,
         "start_price": 100.0,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.0,
+        "pe_ratio": 22.8,
         "forward_return": -47.77,
         "start_price": 121.5,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 26.92,
+        "pe_ratio": 24.72,
         "forward_return": -63.22,
         "start_price": 131.5,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 31.37,
+        "pe_ratio": 29.52,
         "forward_return": -61.1,
         "start_price": 154.0,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.89,
+        "pe_ratio": 21.12,
         "forward_return": -46.24,
         "start_price": 108.0,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 22.69,
+        "pe_ratio": 22.46,
         "forward_return": -67.67,
         "start_price": 112.5,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.84,
         "forward_return": -59.3,
         "start_price": 94.5,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.78,
         "forward_return": -64.94,
         "start_price": 84.3,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.6,
         "forward_return": -39.83,
         "start_price": 49.4,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 13.92,
+        "pe_ratio": 14.69,
         "forward_return": -22.47,
         "start_price": 63.0,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 16.53,
         "forward_return": -26.19,
         "start_price": 64.8,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.24,
         "forward_return": -22.75,
         "start_price": 63.6,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 17.37,
         "forward_return": 3.32,
         "start_price": 60.1,
         "start_year": 2008
@@ -4503,7 +4503,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.93,
         "forward_return": 13.55,
         "start_price": 45.0,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.34,
         "forward_return": 7.28,
         "start_price": 56.3,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 18.73,
         "forward_return": -1.3,
         "start_price": 54.5,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.93,
         "forward_return": 81.76,
         "start_price": 32.8,
         "start_year": 2008
@@ -4539,7 +4539,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.96,
         "forward_return": 52.46,
         "start_price": 34.9,
         "start_year": 2008
@@ -4548,7 +4548,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.54,
+        "pe_ratio": 11.56,
         "forward_return": 120.48,
         "start_price": 26.0,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 14.06,
         "forward_return": 145.93,
         "start_price": 26.2,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.58,
+        "pe_ratio": 21.72,
         "forward_return": 51.49,
         "start_price": 37.5,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 21.87,
+        "pe_ratio": 27.89,
         "forward_return": 36.43,
         "start_price": 44.35,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 22.41,
+        "pe_ratio": 26.85,
         "forward_return": 24.65,
         "start_price": 45.65,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 28.64,
+        "pe_ratio": 32.38,
         "forward_return": -8.21,
         "start_price": 58.6,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 23.16,
+        "pe_ratio": 24.79,
         "forward_return": 8.19,
         "start_price": 47.6,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 28.53,
+        "pe_ratio": 30.0,
         "forward_return": -7.65,
         "start_price": 58.9,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 25.23,
+        "pe_ratio": 26.06,
         "forward_return": 3.82,
         "start_price": 52.3,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 27.9,
+        "pe_ratio": 28.34,
         "forward_return": 7.23,
         "start_price": 58.1,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.98,
         "forward_return": 20.51,
         "start_price": 51.7,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 26.7,
         "forward_return": 9.14,
         "start_price": 55.8,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 29.54,
+        "pe_ratio": 28.04,
         "forward_return": 3.66,
         "start_price": 62.9,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 25.74,
+        "pe_ratio": 23.27,
         "forward_return": -6.25,
         "start_price": 55.3,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 27.22,
+        "pe_ratio": 23.51,
         "forward_return": -20.78,
         "start_price": 59.0,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 25.34,
+        "pe_ratio": 22.13,
         "forward_return": -19.6,
         "start_price": 55.4,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 20.95,
         "forward_return": -9.0,
         "start_price": 52.3,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 22.47,
+        "pe_ratio": 20.08,
         "forward_return": -9.11,
         "start_price": 50.0,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 21.21,
         "forward_return": -25.98,
         "start_price": 52.4,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 23.11,
+        "pe_ratio": 21.35,
         "forward_return": -41.52,
         "start_price": 52.3,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 26.42,
+        "pe_ratio": 24.81,
         "forward_return": -48.12,
         "start_price": 60.3,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 26.2,
+        "pe_ratio": 25.12,
         "forward_return": -51.86,
         "start_price": 60.3,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 25.38,
+        "pe_ratio": 24.85,
         "forward_return": -59.37,
         "start_price": 58.9,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 29.12,
+        "pe_ratio": 28.21,
         "forward_return": -31.35,
         "start_price": 63.2,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 24.93,
+        "pe_ratio": 23.29,
         "forward_return": 0.89,
         "start_price": 49.85,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 24.45,
+        "pe_ratio": 21.94,
         "forward_return": 7.9,
         "start_price": 44.75,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 25.63,
+        "pe_ratio": 23.42,
         "forward_return": -0.25,
         "start_price": 42.55,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 30.6,
+        "pe_ratio": 28.62,
         "forward_return": -14.46,
         "start_price": 45.6,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 32.92,
+        "pe_ratio": 31.72,
         "forward_return": -1.96,
         "start_price": 43.45,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 32.43,
+        "pe_ratio": 35.52,
         "forward_return": 13.9,
         "start_price": 37.3,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.69,
+        "pe_ratio": 39.86,
         "forward_return": 50.89,
         "start_price": 29.1,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 36.79,
+        "pe_ratio": 72.68,
         "forward_return": 59.23,
         "start_price": 29.8,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 43.05,
+        "pe_ratio": 73.79,
         "forward_return": 35.3,
         "start_price": 27.55,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 47.77,
+        "pe_ratio": 66.68,
         "forward_return": 81.5,
         "start_price": 22.45,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 84.82,
+        "pe_ratio": 103.9,
         "forward_return": -8.11,
         "start_price": 41.9,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 70.94,
+        "pe_ratio": 96.32,
         "forward_return": -24.53,
         "start_price": 48.8,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 53.07,
+        "pe_ratio": 76.72,
         "forward_return": -23.1,
         "start_price": 46.8,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 38.06,
+        "pe_ratio": 48.94,
         "forward_return": -16.26,
         "start_price": 40.95,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 35.27,
         "forward_return": -4.81,
         "start_price": 37.5,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 28.08,
+        "pe_ratio": 31.86,
         "forward_return": -21.31,
         "start_price": 41.1,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 25.31,
         "forward_return": -11.47,
         "start_price": 41.0,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 22.92,
+        "pe_ratio": 21.77,
         "forward_return": -11.43,
         "start_price": 42.45,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 22.49,
+        "pe_ratio": 20.18,
         "forward_return": -24.36,
         "start_price": 46.0,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 14.94,
         "forward_return": -0.84,
         "start_price": 35.8,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.15,
+        "pe_ratio": 15.65,
         "forward_return": -7.77,
         "start_price": 39.3,
         "start_year": 2012
@@ -4998,7 +4998,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.26,
         "forward_return": 8.38,
         "start_price": 37.0,
         "start_year": 2013
@@ -5007,7 +5007,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.3,
+        "pe_ratio": 13.11,
         "forward_return": 36.34,
         "start_price": 33.6,
         "start_year": 2013
@@ -5016,7 +5016,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.64,
         "forward_return": 33.65,
         "start_price": 34.5,
         "start_year": 2013
@@ -5025,7 +5025,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.53,
+        "pe_ratio": 13.35,
         "forward_return": 31.27,
         "start_price": 32.8,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.35,
         "forward_return": 26.92,
         "start_price": 34.2,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.35,
         "forward_return": 40.71,
         "start_price": 30.85,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 15.09,
+        "pe_ratio": 15.5,
         "forward_return": 16.91,
         "start_price": 34.3,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.82,
         "forward_return": 5.89,
         "start_price": 35.6,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.1,
+        "pe_ratio": 16.24,
         "forward_return": 11.12,
         "start_price": 32.8,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.58,
         "forward_return": 2.38,
         "start_price": 33.5,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 16.96,
         "forward_return": -4.83,
         "start_price": 34.25,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 19.15,
+        "pe_ratio": 19.24,
         "forward_return": 6.82,
         "start_price": 38.1,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.37,
+        "pe_ratio": 22.58,
         "forward_return": -2.64,
         "start_price": 43.8,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.88,
+        "pe_ratio": 23.21,
         "forward_return": 7.71,
         "start_price": 44.1,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 21.64,
+        "pe_ratio": 21.57,
         "forward_return": 7.91,
         "start_price": 41.05,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 21.71,
         "forward_return": 4.1,
         "start_price": 41.4,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 22.56,
+        "pe_ratio": 21.68,
         "forward_return": -3.51,
         "start_price": 41.4,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 20.56,
         "forward_return": -11.9,
         "start_price": 38.1,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 20.13,
+        "pe_ratio": 19.87,
         "forward_return": -16.63,
         "start_price": 35.7,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 19.77,
+        "pe_ratio": 19.8,
         "forward_return": 21.98,
         "start_price": 34.45,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.89,
         "forward_return": 69.16,
         "start_price": 32.3,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 23.27,
         "forward_return": 27.98,
         "start_price": 38.7,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 25.65,
+        "pe_ratio": 24.24,
         "forward_return": 18.14,
         "start_price": 40.65,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.31,
+        "pe_ratio": 26.92,
         "forward_return": -4.46,
         "start_price": 45.5,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 27.83,
+        "pe_ratio": 25.38,
         "forward_return": 5.94,
         "start_price": 42.3,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 27.63,
+        "pe_ratio": 25.01,
         "forward_return": -14.28,
         "start_price": 41.1,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.08,
+        "pe_ratio": 23.43,
         "forward_return": -7.05,
         "start_price": 37.95,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 22.53,
+        "pe_ratio": 19.27,
         "forward_return": 22.88,
         "start_price": 32.05,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 20.32,
+        "pe_ratio": 16.55,
         "forward_return": 18.9,
         "start_price": 28.25,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 29.83,
+        "pe_ratio": 23.14,
         "forward_return": -15.65,
         "start_price": 40.5,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 40.08,
+        "pe_ratio": 33.47,
         "forward_return": -36.95,
         "start_price": 53.1,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 34.39,
+        "pe_ratio": 31.23,
         "forward_return": -29.08,
         "start_price": 44.45,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 38.4,
+        "pe_ratio": 36.92,
         "forward_return": -28.8,
         "start_price": 48.0,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 37.5,
+        "pe_ratio": 34.7,
         "forward_return": -14.0,
         "start_price": 46.5,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 34.11,
+        "pe_ratio": 30.4,
         "forward_return": -5.84,
         "start_price": 41.95,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 35.49,
+        "pe_ratio": 32.97,
         "forward_return": -10.75,
         "start_price": 43.3,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.03,
         "forward_return": 14.85,
         "start_price": 33.7,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.12,
+        "pe_ratio": 28.6,
         "forward_return": 19.87,
         "start_price": 33.75,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 31.43,
+        "pe_ratio": 36.67,
         "forward_return": 13.38,
         "start_price": 37.4,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 26.78,
+        "pe_ratio": 36.74,
         "forward_return": 47.67,
         "start_price": 31.6,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 27.48,
+        "pe_ratio": 45.93,
         "forward_return": 35.18,
         "start_price": 32.15,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 27.11,
+        "pe_ratio": 37.15,
         "forward_return": 50.6,
         "start_price": 31.45,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 29.7,
         "forward_return": 120.12,
         "start_price": 29.5,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 24.2,
+        "pe_ratio": 18.41,
         "forward_return": 157.71,
         "start_price": 32.15,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 23.74,
+        "pe_ratio": 15.3,
         "forward_return": 91.47,
         "start_price": 36.0,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 12.67,
         "forward_return": 87.81,
         "start_price": 37.5,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.36,
+        "pe_ratio": 12.24,
         "forward_return": 85.62,
         "start_price": 36.65,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.63,
+        "pe_ratio": 12.13,
         "forward_return": 75.54,
         "start_price": 36.7,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 16.94,
+        "pe_ratio": 12.57,
         "forward_return": 58.18,
         "start_price": 38.45,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.84,
+        "pe_ratio": 13.1,
         "forward_return": 51.49,
         "start_price": 41.4,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.25,
+        "pe_ratio": 14.0,
         "forward_return": 62.81,
         "start_price": 45.65,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 12.63,
         "forward_return": 34.77,
         "start_price": 42.45,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.74,
         "forward_return": -25.15,
         "start_price": 46.35,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 19.9,
+        "pe_ratio": 18.87,
         "forward_return": -31.79,
         "start_price": 63.9,
         "start_year": 2017
@@ -5538,7 +5538,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.52,
+        "pe_ratio": 29.35,
         "forward_return": -44.15,
         "start_price": 81.8,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.56,
+        "pe_ratio": 31.24,
         "forward_return": -28.37,
         "start_price": 67.9,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 44.49,
         "forward_return": -31.93,
         "start_price": 69.4,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.57,
+        "pe_ratio": 48.2,
         "forward_return": -20.01,
         "start_price": 67.0,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 26.14,
+        "pe_ratio": 51.97,
         "forward_return": -26.51,
         "start_price": 63.4,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 26.82,
+        "pe_ratio": 56.95,
         "forward_return": -14.73,
         "start_price": 59.8,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 29.48,
+        "pe_ratio": 59.8,
         "forward_return": 6.17,
         "start_price": 60.0,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 74.84,
         "forward_return": -19.57,
         "start_price": 71.6,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 33.13,
+        "pe_ratio": 59.89,
         "forward_return": 7.53,
         "start_price": 54.5,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 22.07,
+        "pe_ratio": 33.33,
         "forward_return": 83.83,
         "start_price": 32.0,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 32.59,
+        "pe_ratio": 40.5,
         "forward_return": 37.68,
         "start_price": 40.9,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 39.51,
+        "pe_ratio": 39.09,
         "forward_return": 16.87,
         "start_price": 43.0,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 41.15,
+        "pe_ratio": 40.31,
         "forward_return": -2.4,
         "start_price": 45.95,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 37.75,
         "forward_return": -16.69,
         "start_price": 44.55,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 43.38,
+        "pe_ratio": 42.07,
         "forward_return": -13.24,
         "start_price": 50.9,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 36.53,
+        "pe_ratio": 35.4,
         "forward_return": 1.14,
         "start_price": 43.9,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 39.27,
+        "pe_ratio": 38.03,
         "forward_return": -2.27,
         "start_price": 48.3,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 49.99,
+        "pe_ratio": 46.48,
         "forward_return": -23.41,
         "start_price": 62.9,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 44.15,
+        "pe_ratio": 39.54,
         "forward_return": -21.62,
         "start_price": 56.8,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 43.95,
+        "pe_ratio": 38.03,
         "forward_return": -22.19,
         "start_price": 57.8,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 43.18,
+        "pe_ratio": 39.19,
         "forward_return": -26.25,
         "start_price": 58.0,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 40.46,
+        "pe_ratio": 38.54,
         "forward_return": -11.6,
         "start_price": 55.5,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 36.01,
+        "pe_ratio": 37.18,
         "forward_return": 7.77,
         "start_price": 49.45,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 32.71,
+        "pe_ratio": 34.96,
         "forward_return": 19.07,
         "start_price": 44.05,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 30.5,
         "forward_return": 46.59,
         "start_price": 36.3,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 33.52,
+        "pe_ratio": 33.26,
         "forward_return": 74.46,
         "start_price": 43.35,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 34.42,
+        "pe_ratio": 30.78,
         "forward_return": 59.45,
         "start_price": 43.6,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 37.42,
+        "pe_ratio": 30.33,
         "forward_return": 66.44,
         "start_price": 46.4,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 38.78,
+        "pe_ratio": 33.21,
         "forward_return": 141.38,
         "start_price": 47.05,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 36.57,
+        "pe_ratio": 33.3,
         "forward_return": 131.01,
         "start_price": 43.4,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 37.8,
+        "pe_ratio": 36.85,
         "forward_return": 164.71,
         "start_price": 43.85,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 36.75,
+        "pe_ratio": 36.11,
         "forward_return": 385.52,
         "start_price": 41.65,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 43.33,
+        "pe_ratio": 42.94,
         "forward_return": 290.35,
         "start_price": 47.95,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 37.89,
+        "pe_ratio": 41.65,
         "forward_return": 284.45,
         "start_price": 52.2,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.64,
+        "pe_ratio": 37.15,
         "forward_return": 416.62,
         "start_price": 53.0,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 26.41,
+        "pe_ratio": 32.56,
         "forward_return": 489.01,
         "start_price": 52.1,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.82,
+        "pe_ratio": 45.06,
         "forward_return": 251.31,
         "start_price": 74.5,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.64,
+        "pe_ratio": 40.08,
         "forward_return": 253.38,
         "start_price": 68.4,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 43.24,
         "forward_return": 152.46,
         "start_price": 76.1,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.57,
+        "pe_ratio": 53.32,
         "forward_return": 41.63,
         "start_price": 112.5,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 28.67,
+        "pe_ratio": 40.33,
         "forward_return": 91.92,
         "start_price": 99.2,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 30.61,
+        "pe_ratio": 40.93,
         "forward_return": 19.41,
         "start_price": 115.0,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 49.57,
+        "pe_ratio": 58.71,
         "forward_return": -27.73,
         "start_price": 201.0,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 42.73,
+        "pe_ratio": 46.08,
         "forward_return": -7.64,
         "start_price": 186.0,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 39.23,
+        "pe_ratio": 37.48,
         "forward_return": -13.39,
         "start_price": 199.5,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 49.35,
+        "pe_ratio": 45.44,
         "forward_return": -30.73,
         "start_price": 272.5,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 51.28,
+        "pe_ratio": 45.8,
         "forward_return": -34.62,
         "start_price": 305.5,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 40.75,
+        "pe_ratio": 35.62,
         "forward_return": -35.8,
         "start_price": 260.5,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 35.22,
+        "pe_ratio": 30.23,
         "forward_return": -27.33,
         "start_price": 240.5,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 22.21,
         "forward_return": 12.21,
         "start_price": 191.0,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 20.26,
+        "pe_ratio": 17.4,
         "forward_return": 112.29,
         "start_price": 156.0,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 22.98,
+        "pe_ratio": 20.04,
         "forward_return": 87.25,
         "start_price": 187.0,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 13.81,
         "forward_return": 132.22,
         "start_price": 134.0,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 15.76,
+        "pe_ratio": 14.55,
         "forward_return": 116.31,
         "start_price": 142.0,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 17.84,
+        "pe_ratio": 17.16,
         "forward_return": 131.88,
         "start_price": 168.5,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.56,
         "forward_return": 148.83,
         "start_price": 169.5,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 19.95,
+        "pe_ratio": 19.68,
         "forward_return": 111.43,
         "start_price": 185.5,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 21.82,
+        "pe_ratio": 21.36,
         "forward_return": 77.4,
         "start_price": 196.5,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 18.81,
+        "pe_ratio": 18.5,
         "forward_return": 82.09,
         "start_price": 164.0,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 20.35,
+        "pe_ratio": 20.11,
         "forward_return": 76.18,
         "start_price": 171.5,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 25.94,
+        "pe_ratio": 25.76,
         "forward_return": 61.45,
         "start_price": 211.0,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 41.56,
+        "pe_ratio": 41.44,
         "forward_return": -7.72,
         "start_price": 326.0,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 45.68,
+        "pe_ratio": 45.74,
         "forward_return": -10.62,
         "start_price": 345.0,
         "start_year": 2023
@@ -6150,7 +6150,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 42.13,
+        "pe_ratio": 42.38,
         "forward_return": -11.65,
         "start_price": 306.0,
         "start_year": 2023
@@ -6159,7 +6159,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 43.32,
+        "pe_ratio": 43.49,
         "forward_return": -20.89,
         "start_price": 302.0,
         "start_year": 2023
@@ -6168,7 +6168,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 57.7,
+        "pe_ratio": 57.82,
         "forward_return": -41.23,
         "start_price": 385.5,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 67.24,
+        "pe_ratio": 68.32,
         "forward_return": -44.88,
         "start_price": 416.5,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 64.52,
+        "pe_ratio": 66.69,
         "forward_return": -41.48,
         "start_price": 387.0,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 59.28,
+        "pe_ratio": 62.43,
         "forward_return": -37.0,
         "start_price": 344.0,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 52.44,
+        "pe_ratio": 55.89,
         "forward_return": -37.34,
         "start_price": 294.0,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 54.98,
+        "pe_ratio": 59.38,
         "forward_return": -39.42,
         "start_price": 297.5,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 64.43,
+        "pe_ratio": 70.59,
         "forward_return": -43.54,
         "start_price": 336.0,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 59.07,
+        "pe_ratio": 63.95,
         "forward_return": -47.58,
         "start_price": 296.5,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 63.03,
+        "pe_ratio": 67.36,
         "forward_return": -47.06,
         "start_price": 304.0,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 57.48,
+        "pe_ratio": 60.59,
         "forward_return": -39.31,
         "start_price": 266.0,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 52.91,
+        "pe_ratio": 54.88,
         "forward_return": -20.91,
         "start_price": 234.5,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 52.41,
+        "pe_ratio": 53.41,
         "forward_return": -20.28,
         "start_price": 222.0,
         "start_year": 2024
@@ -6294,7 +6294,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 57.14,
+        "pe_ratio": 54.74,
         "forward_return": -24.46,
         "start_price": 225.0,
         "start_year": 2025
@@ -6303,7 +6303,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 62.19,
+        "pe_ratio": 57.06,
         "forward_return": -28.32,
         "start_price": 238.5,
         "start_year": 2025
@@ -6312,7 +6312,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 9.83,
         "forward_return": 16.47,
         "start_price": 52.6,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 10.78,
         "forward_return": 10.95,
         "start_price": 57.0,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.37,
         "forward_return": 5.94,
         "start_price": 59.4,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.77,
+        "pe_ratio": 10.81,
         "forward_return": -3.86,
         "start_price": 55.8,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 10.19,
         "forward_return": 11.41,
         "start_price": 50.8,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.49,
         "forward_return": 10.24,
         "start_price": 50.4,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.19,
         "forward_return": -12.6,
         "start_price": 51.8,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.16,
         "forward_return": -6.24,
         "start_price": 47.4,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 12.5,
         "forward_return": -25.34,
         "start_price": 58.8,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.95,
         "forward_return": -33.19,
         "start_price": 73.9,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 19.17,
+        "pe_ratio": 17.84,
         "forward_return": -30.54,
         "start_price": 91.8,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 21.31,
         "forward_return": -33.02,
         "start_price": 114.0,
         "start_year": 2007
@@ -6429,7 +6429,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 18.73,
         "forward_return": -27.59,
         "start_price": 100.0,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.0,
+        "pe_ratio": 22.8,
         "forward_return": -26.64,
         "start_price": 121.5,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 26.92,
+        "pe_ratio": 24.72,
         "forward_return": -35.68,
         "start_price": 131.5,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 31.37,
+        "pe_ratio": 29.52,
         "forward_return": -35.57,
         "start_price": 154.0,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.89,
+        "pe_ratio": 21.12,
         "forward_return": -27.15,
         "start_price": 108.0,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 22.69,
+        "pe_ratio": 22.46,
         "forward_return": -25.1,
         "start_price": 112.5,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.84,
         "forward_return": -22.54,
         "start_price": 94.5,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.78,
         "forward_return": -15.08,
         "start_price": 84.3,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.6,
         "forward_return": 17.21,
         "start_price": 49.4,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 13.92,
+        "pe_ratio": 14.69,
         "forward_return": 0.75,
         "start_price": 63.0,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 16.53,
         "forward_return": -0.63,
         "start_price": 64.8,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.24,
         "forward_return": -2.56,
         "start_price": 63.6,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 17.37,
         "forward_return": -2.37,
         "start_price": 60.1,
         "start_year": 2008
@@ -6555,7 +6555,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.93,
         "forward_return": 10.55,
         "start_price": 45.0,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.34,
         "forward_return": -0.36,
         "start_price": 56.3,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 18.73,
         "forward_return": 1.18,
         "start_price": 54.5,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.93,
         "forward_return": 39.49,
         "start_price": 32.8,
         "start_year": 2008
@@ -6591,7 +6591,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.96,
         "forward_return": 35.23,
         "start_price": 34.9,
         "start_year": 2008
@@ -6600,7 +6600,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.54,
+        "pe_ratio": 11.56,
         "forward_return": 54.96,
         "start_price": 26.0,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 14.06,
         "forward_return": 59.6,
         "start_price": 26.2,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.58,
+        "pe_ratio": 21.72,
         "forward_return": 19.28,
         "start_price": 37.5,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 21.87,
+        "pe_ratio": 27.89,
         "forward_return": 4.3,
         "start_price": 44.35,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 22.41,
+        "pe_ratio": 26.85,
         "forward_return": 0.43,
         "start_price": 45.65,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 28.64,
+        "pe_ratio": 32.38,
         "forward_return": -8.48,
         "start_price": 58.6,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 23.16,
+        "pe_ratio": 24.79,
         "forward_return": -0.69,
         "start_price": 47.6,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 28.53,
+        "pe_ratio": 30.0,
         "forward_return": -16.79,
         "start_price": 58.9,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 25.23,
+        "pe_ratio": 26.06,
         "forward_return": -21.07,
         "start_price": 52.3,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 27.9,
+        "pe_ratio": 28.34,
         "forward_return": -24.32,
         "start_price": 58.1,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.98,
         "forward_return": -22.53,
         "start_price": 51.7,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 26.7,
         "forward_return": -31.83,
         "start_price": 55.8,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 29.54,
+        "pe_ratio": 28.04,
         "forward_return": -15.06,
         "start_price": 62.9,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 25.74,
+        "pe_ratio": 23.27,
         "forward_return": -2.76,
         "start_price": 55.3,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 27.22,
+        "pe_ratio": 23.51,
         "forward_return": -7.67,
         "start_price": 59.0,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 25.34,
+        "pe_ratio": 22.13,
         "forward_return": -10.43,
         "start_price": 55.4,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 20.95,
         "forward_return": -11.46,
         "start_price": 52.3,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 22.47,
+        "pe_ratio": 20.08,
         "forward_return": -5.56,
         "start_price": 50.0,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 21.21,
         "forward_return": -8.37,
         "start_price": 52.4,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 23.11,
+        "pe_ratio": 21.35,
         "forward_return": -6.78,
         "start_price": 52.3,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 26.42,
+        "pe_ratio": 24.81,
         "forward_return": -9.86,
         "start_price": 60.3,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 26.2,
+        "pe_ratio": 25.12,
         "forward_return": -19.78,
         "start_price": 60.3,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 25.38,
+        "pe_ratio": 24.85,
         "forward_return": -15.25,
         "start_price": 58.9,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 29.12,
+        "pe_ratio": 28.21,
         "forward_return": -20.44,
         "start_price": 63.2,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 24.93,
+        "pe_ratio": 23.29,
         "forward_return": -14.31,
         "start_price": 49.85,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 24.45,
+        "pe_ratio": 21.94,
         "forward_return": -8.46,
         "start_price": 44.75,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 25.63,
+        "pe_ratio": 23.42,
         "forward_return": -8.28,
         "start_price": 42.55,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 30.6,
+        "pe_ratio": 28.62,
         "forward_return": -9.68,
         "start_price": 45.6,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 32.92,
+        "pe_ratio": 31.72,
         "forward_return": -11.74,
         "start_price": 43.45,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 32.43,
+        "pe_ratio": 35.52,
         "forward_return": 0.66,
         "start_price": 37.3,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.69,
+        "pe_ratio": 39.86,
         "forward_return": 15.9,
         "start_price": 29.1,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 36.79,
+        "pe_ratio": 72.68,
         "forward_return": 10.35,
         "start_price": 29.8,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 43.05,
+        "pe_ratio": 73.79,
         "forward_return": 15.87,
         "start_price": 27.55,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 47.77,
+        "pe_ratio": 66.68,
         "forward_return": 29.64,
         "start_price": 22.45,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 84.82,
+        "pe_ratio": 103.9,
         "forward_return": -0.36,
         "start_price": 41.9,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 70.94,
+        "pe_ratio": 96.32,
         "forward_return": -1.19,
         "start_price": 48.8,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 53.07,
+        "pe_ratio": 76.72,
         "forward_return": 0.85,
         "start_price": 46.8,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 38.06,
+        "pe_ratio": 48.94,
         "forward_return": 4.3,
         "start_price": 40.95,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 35.27,
         "forward_return": 9.42,
         "start_price": 37.5,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 28.08,
+        "pe_ratio": 31.86,
         "forward_return": 4.52,
         "start_price": 41.1,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 25.31,
         "forward_return": 1.33,
         "start_price": 41.0,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 22.92,
+        "pe_ratio": 21.77,
         "forward_return": -3.3,
         "start_price": 42.45,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 22.49,
+        "pe_ratio": 20.18,
         "forward_return": -8.59,
         "start_price": 46.0,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 14.94,
         "forward_return": 0.69,
         "start_price": 35.8,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.15,
+        "pe_ratio": 15.65,
         "forward_return": -6.18,
         "start_price": 39.3,
         "start_year": 2012
@@ -7050,7 +7050,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.26,
         "forward_return": 7.43,
         "start_price": 37.0,
         "start_year": 2013
@@ -7059,7 +7059,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.3,
+        "pe_ratio": 13.11,
         "forward_return": 15.28,
         "start_price": 33.6,
         "start_year": 2013
@@ -7068,7 +7068,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.64,
         "forward_return": 19.79,
         "start_price": 34.5,
         "start_year": 2013
@@ -7077,7 +7077,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.53,
+        "pe_ratio": 13.35,
         "forward_return": 18.82,
         "start_price": 32.8,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.35,
         "forward_return": 14.84,
         "start_price": 34.2,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.35,
         "forward_return": 16.62,
         "start_price": 30.85,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 15.09,
+        "pe_ratio": 15.5,
         "forward_return": 1.83,
         "start_price": 34.3,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.82,
         "forward_return": -5.54,
         "start_price": 35.6,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.1,
+        "pe_ratio": 16.24,
         "forward_return": 15.85,
         "start_price": 32.8,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.58,
         "forward_return": 30.02,
         "start_price": 33.5,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 16.96,
         "forward_return": 18.35,
         "start_price": 34.25,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 19.15,
+        "pe_ratio": 19.24,
         "forward_return": 16.29,
         "start_price": 38.1,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.37,
+        "pe_ratio": 22.58,
         "forward_return": 6.86,
         "start_price": 43.8,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.88,
+        "pe_ratio": 23.21,
         "forward_return": 1.53,
         "start_price": 44.1,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 21.64,
+        "pe_ratio": 21.57,
         "forward_return": 6.79,
         "start_price": 41.05,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 21.71,
         "forward_return": -5.19,
         "start_price": 41.4,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 22.56,
+        "pe_ratio": 21.68,
         "forward_return": -5.12,
         "start_price": 41.4,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 20.56,
         "forward_return": 3.63,
         "start_price": 38.1,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 20.13,
+        "pe_ratio": 19.87,
         "forward_return": -0.82,
         "start_price": 35.7,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 19.77,
+        "pe_ratio": 19.8,
         "forward_return": 1.75,
         "start_price": 34.45,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.89,
         "forward_return": 4.05,
         "start_price": 32.3,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 23.27,
         "forward_return": -3.99,
         "start_price": 38.7,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 25.65,
+        "pe_ratio": 24.24,
         "forward_return": -1.4,
         "start_price": 40.65,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.31,
+        "pe_ratio": 26.92,
         "forward_return": -5.05,
         "start_price": 45.5,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 27.83,
+        "pe_ratio": 25.38,
         "forward_return": -2.55,
         "start_price": 42.3,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 27.63,
+        "pe_ratio": 25.01,
         "forward_return": -1.08,
         "start_price": 41.1,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.08,
+        "pe_ratio": 23.43,
         "forward_return": 5.16,
         "start_price": 37.95,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 22.53,
+        "pe_ratio": 19.27,
         "forward_return": 17.69,
         "start_price": 32.05,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 20.32,
+        "pe_ratio": 16.55,
         "forward_return": 31.21,
         "start_price": 28.25,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 29.83,
+        "pe_ratio": 23.14,
         "forward_return": 5.93,
         "start_price": 40.5,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 40.08,
+        "pe_ratio": 33.47,
         "forward_return": -3.59,
         "start_price": 53.1,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 34.39,
+        "pe_ratio": 31.23,
         "forward_return": 22.66,
         "start_price": 44.45,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 38.4,
+        "pe_ratio": 36.92,
         "forward_return": 32.89,
         "start_price": 48.0,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 37.5,
+        "pe_ratio": 34.7,
         "forward_return": 23.71,
         "start_price": 46.5,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 34.11,
+        "pe_ratio": 30.4,
         "forward_return": 31.4,
         "start_price": 41.95,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 35.49,
+        "pe_ratio": 32.97,
         "forward_return": 27.17,
         "start_price": 43.3,
         "start_year": 2016
@@ -7410,7 +7410,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.03,
         "forward_return": 40.4,
         "start_price": 33.7,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.12,
+        "pe_ratio": 28.6,
         "forward_return": 36.44,
         "start_price": 33.75,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 31.43,
+        "pe_ratio": 36.67,
         "forward_return": 30.53,
         "start_price": 37.4,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 26.78,
+        "pe_ratio": 36.74,
         "forward_return": 54.41,
         "start_price": 31.6,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 27.48,
+        "pe_ratio": 45.93,
         "forward_return": 34.57,
         "start_price": 32.15,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 27.11,
+        "pe_ratio": 37.15,
         "forward_return": 6.55,
         "start_price": 31.45,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 29.7,
         "forward_return": 22.98,
         "start_price": 29.5,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 24.2,
+        "pe_ratio": 18.41,
         "forward_return": 20.54,
         "start_price": 32.15,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 23.74,
+        "pe_ratio": 15.3,
         "forward_return": 17.45,
         "start_price": 36.0,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 12.67,
         "forward_return": 13.44,
         "start_price": 37.5,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.36,
+        "pe_ratio": 12.24,
         "forward_return": 22.07,
         "start_price": 36.65,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.63,
+        "pe_ratio": 12.13,
         "forward_return": 13.9,
         "start_price": 36.7,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 16.94,
+        "pe_ratio": 12.57,
         "forward_return": 16.31,
         "start_price": 38.45,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.84,
+        "pe_ratio": 13.1,
         "forward_return": 26.66,
         "start_price": 41.4,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.25,
+        "pe_ratio": 14.0,
         "forward_return": 14.94,
         "start_price": 45.65,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 12.63,
         "forward_return": 20.18,
         "start_price": 42.45,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.74,
         "forward_return": 15.2,
         "start_price": 46.35,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 19.9,
+        "pe_ratio": 18.87,
         "forward_return": -3.91,
         "start_price": 63.9,
         "start_year": 2017
@@ -7590,7 +7590,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.52,
+        "pe_ratio": 29.35,
         "forward_return": -19.56,
         "start_price": 81.8,
         "start_year": 2018
@@ -7599,7 +7599,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.56,
+        "pe_ratio": 31.24,
         "forward_return": -16.33,
         "start_price": 67.9,
         "start_year": 2018
@@ -7608,7 +7608,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 44.49,
         "forward_return": -24.26,
         "start_price": 69.4,
         "start_year": 2018
@@ -7617,7 +7617,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.57,
+        "pe_ratio": 48.2,
         "forward_return": -16.37,
         "start_price": 67.0,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 26.14,
+        "pe_ratio": 51.97,
         "forward_return": -13.8,
         "start_price": 63.4,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 26.82,
+        "pe_ratio": 56.95,
         "forward_return": -8.65,
         "start_price": 59.8,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 29.48,
+        "pe_ratio": 59.8,
         "forward_return": -9.67,
         "start_price": 60.0,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 74.84,
         "forward_return": -20.45,
         "start_price": 71.6,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 33.13,
+        "pe_ratio": 59.89,
         "forward_return": -8.37,
         "start_price": 54.5,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 22.07,
+        "pe_ratio": 33.33,
         "forward_return": 16.65,
         "start_price": 32.0,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 32.59,
+        "pe_ratio": 40.5,
         "forward_return": 10.39,
         "start_price": 40.9,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 39.51,
+        "pe_ratio": 39.09,
         "forward_return": 12.16,
         "start_price": 43.0,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 41.15,
+        "pe_ratio": 40.31,
         "forward_return": 9.3,
         "start_price": 45.95,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 37.75,
         "forward_return": 10.09,
         "start_price": 44.55,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 43.38,
+        "pe_ratio": 42.07,
         "forward_return": 22.5,
         "start_price": 50.9,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 36.53,
+        "pe_ratio": 35.4,
         "forward_return": 26.52,
         "start_price": 43.9,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 39.27,
+        "pe_ratio": 38.03,
         "forward_return": 27.06,
         "start_price": 48.3,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 49.99,
+        "pe_ratio": 46.48,
         "forward_return": 34.95,
         "start_price": 62.9,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 44.15,
+        "pe_ratio": 39.54,
         "forward_return": 33.52,
         "start_price": 56.8,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 43.95,
+        "pe_ratio": 38.03,
         "forward_return": 42.3,
         "start_price": 57.8,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 43.18,
+        "pe_ratio": 39.19,
         "forward_return": 87.05,
         "start_price": 58.0,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 40.46,
+        "pe_ratio": 38.54,
         "forward_return": 84.02,
         "start_price": 55.5,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 36.01,
+        "pe_ratio": 37.18,
         "forward_return": 101.81,
         "start_price": 49.45,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 32.71,
+        "pe_ratio": 34.96,
         "forward_return": 154.47,
         "start_price": 44.05,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 30.5,
         "forward_return": 191.31,
         "start_price": 36.3,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 33.52,
+        "pe_ratio": 33.26,
         "forward_return": 146.28,
         "start_price": 43.35,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 34.42,
+        "pe_ratio": 30.78,
         "forward_return": 136.02,
         "start_price": 43.6,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 37.42,
+        "pe_ratio": 30.33,
         "forward_return": 104.1,
         "start_price": 46.4,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 38.78,
+        "pe_ratio": 33.21,
         "forward_return": 84.66,
         "start_price": 47.05,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 36.57,
+        "pe_ratio": 33.3,
         "forward_return": 110.06,
         "start_price": 43.4,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 37.8,
+        "pe_ratio": 36.85,
         "forward_return": 77.66,
         "start_price": 43.85,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 36.75,
+        "pe_ratio": 36.11,
         "forward_return": 87.5,
         "start_price": 41.65,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 43.33,
+        "pe_ratio": 42.94,
         "forward_return": 89.92,
         "start_price": 47.95,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 37.89,
+        "pe_ratio": 41.65,
         "forward_return": 82.54,
         "start_price": 52.2,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.64,
+        "pe_ratio": 37.15,
         "forward_return": 89.32,
         "start_price": 53.0,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 26.41,
+        "pe_ratio": 32.56,
         "forward_return": 96.41,
         "start_price": 52.1,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.82,
+        "pe_ratio": 45.06,
         "forward_return": 50.34,
         "start_price": 74.5,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.64,
+        "pe_ratio": 40.08,
         "forward_return": 60.37,
         "start_price": 68.4,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 43.24,
         "forward_return": 68.26,
         "start_price": 76.1,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.57,
+        "pe_ratio": 53.32,
         "forward_return": 72.45,
         "start_price": 112.5,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 28.67,
+        "pe_ratio": 40.33,
         "forward_return": 88.8,
         "start_price": 99.2,
         "start_year": 2021
@@ -7986,7 +7986,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 30.61,
+        "pe_ratio": 40.93,
         "forward_return": 65.38,
         "start_price": 115.0,
         "start_year": 2021
@@ -7995,7 +7995,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 49.57,
+        "pe_ratio": 58.71,
         "forward_return": 24.27,
         "start_price": 201.0,
         "start_year": 2021
@@ -8004,7 +8004,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 42.73,
+        "pe_ratio": 46.08,
         "forward_return": 45.54,
         "start_price": 186.0,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 39.23,
+        "pe_ratio": 37.48,
         "forward_return": 45.96,
         "start_price": 199.5,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 49.35,
+        "pe_ratio": 45.44,
         "forward_return": 20.46,
         "start_price": 272.5,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 51.28,
+        "pe_ratio": 45.8,
         "forward_return": 7.38,
         "start_price": 305.5,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 40.75,
+        "pe_ratio": 35.62,
         "forward_return": 7.72,
         "start_price": 260.5,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 35.22,
+        "pe_ratio": 30.23,
         "forward_return": 12.75,
         "start_price": 240.5,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 22.21,
         "forward_return": 34.23,
         "start_price": 191.0,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 20.26,
+        "pe_ratio": 17.4,
         "forward_return": 39.98,
         "start_price": 156.0,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 22.98,
+        "pe_ratio": 20.04,
         "forward_return": 29.41,
         "start_price": 187.0,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 13.81,
         "forward_return": 43.3,
         "start_price": 134.0,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 15.76,
+        "pe_ratio": 14.55,
         "forward_return": 31.0,
         "start_price": 142.0,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 17.84,
+        "pe_ratio": 17.16,
         "forward_return": 17.15,
         "start_price": 168.5,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.56,
         "forward_return": 17.56,
         "start_price": 169.5,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 19.95,
+        "pe_ratio": 19.68,
         "forward_return": 15.57,
         "start_price": 185.5,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 21.82,
+        "pe_ratio": 21.36,
         "forward_return": 6.24,
         "start_price": 196.5,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 18.81,
+        "pe_ratio": 18.5,
         "forward_return": 7.43,
         "start_price": 164.0,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 20.35,
+        "pe_ratio": 20.11,
         "forward_return": 3.94,
         "start_price": 171.5,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 25.94,
+        "pe_ratio": 25.76,
         "forward_return": -3.91,
         "start_price": 211.0,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 41.56,
+        "pe_ratio": 41.44,
         "forward_return": -29.97,
         "start_price": 326.0,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 45.68,
+        "pe_ratio": 45.74,
         "forward_return": -30.76,
         "start_price": 345.0,
         "start_year": 2023
@@ -8202,7 +8202,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 42.13,
+        "pe_ratio": 42.38,
         "forward_return": -26.38,
         "start_price": 306.0,
         "start_year": 2023
@@ -8211,7 +8211,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 43.32,
+        "pe_ratio": 43.49,
         "forward_return": -20.71,
         "start_price": 302.0,
         "start_year": 2023
@@ -8220,7 +8220,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 57.7,
+        "pe_ratio": 57.82,
         "forward_return": -31.41,
         "start_price": 385.5,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 67.24,
+        "pe_ratio": 68.32,
         "forward_return": -35.29,
         "start_price": 416.5,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 9.83,
         "forward_return": 1.14,
         "start_price": 52.6,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 10.78,
         "forward_return": -0.76,
         "start_price": 57.0,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.37,
         "forward_return": 4.95,
         "start_price": 59.4,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.77,
+        "pe_ratio": 10.81,
         "forward_return": 1.1,
         "start_price": 55.8,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 10.19,
         "forward_return": 9.75,
         "start_price": 50.8,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.49,
         "forward_return": 6.31,
         "start_price": 50.4,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.19,
         "forward_return": 8.6,
         "start_price": 51.8,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.16,
         "forward_return": 8.15,
         "start_price": 47.4,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 12.5,
         "forward_return": 2.89,
         "start_price": 58.8,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.95,
         "forward_return": -1.25,
         "start_price": 73.9,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 19.17,
+        "pe_ratio": 17.84,
         "forward_return": -11.53,
         "start_price": 91.8,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 21.31,
         "forward_return": -16.13,
         "start_price": 114.0,
         "start_year": 2007
@@ -8364,7 +8364,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 18.73,
         "forward_return": -13.97,
         "start_price": 100.0,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.0,
+        "pe_ratio": 22.8,
         "forward_return": -20.71,
         "start_price": 121.5,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 26.92,
+        "pe_ratio": 24.72,
         "forward_return": -23.76,
         "start_price": 131.5,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 31.37,
+        "pe_ratio": 29.52,
         "forward_return": -27.21,
         "start_price": 154.0,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.89,
+        "pe_ratio": 21.12,
         "forward_return": -18.12,
         "start_price": 108.0,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 22.69,
+        "pe_ratio": 22.46,
         "forward_return": -15.74,
         "start_price": 112.5,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.84,
         "forward_return": -10.7,
         "start_price": 94.5,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.78,
         "forward_return": -7.89,
         "start_price": 84.3,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.6,
         "forward_return": 12.41,
         "start_price": 49.4,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 13.92,
+        "pe_ratio": 14.69,
         "forward_return": -6.2,
         "start_price": 63.0,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 16.53,
         "forward_return": -7.24,
         "start_price": 64.8,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.24,
         "forward_return": -8.0,
         "start_price": 63.6,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 17.37,
         "forward_return": -4.36,
         "start_price": 60.1,
         "start_year": 2008
@@ -8490,7 +8490,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.93,
         "forward_return": 3.88,
         "start_price": 45.0,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.34,
         "forward_return": -9.11,
         "start_price": 56.3,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 18.73,
         "forward_return": -14.49,
         "start_price": 54.5,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.93,
         "forward_return": 1.98,
         "start_price": 32.8,
         "start_year": 2008
@@ -8526,7 +8526,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.96,
         "forward_return": -2.31,
         "start_price": 34.9,
         "start_year": 2008
@@ -8535,7 +8535,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.54,
+        "pe_ratio": 11.56,
         "forward_return": 1.81,
         "start_price": 26.0,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 14.06,
         "forward_return": 21.42,
         "start_price": 26.2,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.58,
+        "pe_ratio": 21.72,
         "forward_return": 12.78,
         "start_price": 37.5,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 21.87,
+        "pe_ratio": 27.89,
         "forward_return": 5.3,
         "start_price": 44.35,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 22.41,
+        "pe_ratio": 26.85,
         "forward_return": 0.21,
         "start_price": 45.65,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 28.64,
+        "pe_ratio": 32.38,
         "forward_return": -10.16,
         "start_price": 58.6,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 23.16,
+        "pe_ratio": 24.79,
         "forward_return": -1.07,
         "start_price": 47.6,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 28.53,
+        "pe_ratio": 30.0,
         "forward_return": -7.91,
         "start_price": 58.9,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 25.23,
+        "pe_ratio": 26.06,
         "forward_return": -3.2,
         "start_price": 52.3,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 27.9,
+        "pe_ratio": 28.34,
         "forward_return": -4.26,
         "start_price": 58.1,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.98,
         "forward_return": -7.59,
         "start_price": 51.7,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 26.7,
         "forward_return": -7.41,
         "start_price": 55.8,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 29.54,
+        "pe_ratio": 28.04,
         "forward_return": -12.6,
         "start_price": 62.9,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 25.74,
+        "pe_ratio": 23.27,
         "forward_return": -11.3,
         "start_price": 55.3,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 27.22,
+        "pe_ratio": 23.51,
         "forward_return": -12.52,
         "start_price": 59.0,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 25.34,
+        "pe_ratio": 22.13,
         "forward_return": -11.97,
         "start_price": 55.4,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 20.95,
         "forward_return": -9.17,
         "start_price": 52.3,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 22.47,
+        "pe_ratio": 20.08,
         "forward_return": -10.5,
         "start_price": 50.0,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 21.21,
         "forward_return": -9.15,
         "start_price": 52.4,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 23.11,
+        "pe_ratio": 21.35,
         "forward_return": -8.1,
         "start_price": 52.3,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 26.42,
+        "pe_ratio": 24.81,
         "forward_return": -14.42,
         "start_price": 60.3,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 26.2,
+        "pe_ratio": 25.12,
         "forward_return": -13.89,
         "start_price": 60.3,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 25.38,
+        "pe_ratio": 24.85,
         "forward_return": -12.66,
         "start_price": 58.9,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 29.12,
+        "pe_ratio": 28.21,
         "forward_return": -11.98,
         "start_price": 63.2,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 24.93,
+        "pe_ratio": 23.29,
         "forward_return": -0.71,
         "start_price": 49.85,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 24.45,
+        "pe_ratio": 21.94,
         "forward_return": 3.13,
         "start_price": 44.75,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 25.63,
+        "pe_ratio": 23.42,
         "forward_return": 2.66,
         "start_price": 42.55,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 30.6,
+        "pe_ratio": 28.62,
         "forward_return": 0.57,
         "start_price": 45.6,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 32.92,
+        "pe_ratio": 31.72,
         "forward_return": 2.21,
         "start_price": 43.45,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 32.43,
+        "pe_ratio": 35.52,
         "forward_return": 5.33,
         "start_price": 37.3,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.69,
+        "pe_ratio": 39.86,
         "forward_return": 12.28,
         "start_price": 29.1,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 36.79,
+        "pe_ratio": 72.68,
         "forward_return": 10.25,
         "start_price": 29.8,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 43.05,
+        "pe_ratio": 73.79,
         "forward_return": 11.11,
         "start_price": 27.55,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 47.77,
+        "pe_ratio": 66.68,
         "forward_return": 17.14,
         "start_price": 22.45,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 84.82,
+        "pe_ratio": 103.9,
         "forward_return": 1.79,
         "start_price": 41.9,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 70.94,
+        "pe_ratio": 96.32,
         "forward_return": 1.44,
         "start_price": 48.8,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 53.07,
+        "pe_ratio": 76.72,
         "forward_return": 2.9,
         "start_price": 46.8,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 38.06,
+        "pe_ratio": 48.94,
         "forward_return": 5.29,
         "start_price": 40.95,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 35.27,
         "forward_return": 7.51,
         "start_price": 37.5,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 28.08,
+        "pe_ratio": 31.86,
         "forward_return": 1.87,
         "start_price": 41.1,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 25.31,
         "forward_return": -2.88,
         "start_price": 41.0,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 22.92,
+        "pe_ratio": 21.77,
         "forward_return": -7.35,
         "start_price": 42.45,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 22.49,
+        "pe_ratio": 20.18,
         "forward_return": 0.01,
         "start_price": 46.0,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 14.94,
         "forward_return": 17.87,
         "start_price": 35.8,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.15,
+        "pe_ratio": 15.65,
         "forward_return": 8.34,
         "start_price": 39.3,
         "start_year": 2012
@@ -8985,7 +8985,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.26,
         "forward_return": 13.1,
         "start_price": 37.0,
         "start_year": 2013
@@ -8994,7 +8994,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.3,
+        "pe_ratio": 13.11,
         "forward_return": 15.69,
         "start_price": 33.6,
         "start_year": 2013
@@ -9003,7 +9003,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.64,
         "forward_return": 11.22,
         "start_price": 34.5,
         "start_year": 2013
@@ -9012,7 +9012,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.53,
+        "pe_ratio": 13.35,
         "forward_return": 14.17,
         "start_price": 32.8,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.35,
         "forward_return": 4.66,
         "start_price": 34.2,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.35,
         "forward_return": 8.37,
         "start_price": 30.85,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 15.09,
+        "pe_ratio": 15.5,
         "forward_return": 7.75,
         "start_price": 34.3,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.82,
         "forward_return": 1.4,
         "start_price": 35.6,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.1,
+        "pe_ratio": 16.24,
         "forward_return": 4.72,
         "start_price": 32.8,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.58,
         "forward_return": 3.33,
         "start_price": 33.5,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 16.96,
         "forward_return": 0.74,
         "start_price": 34.25,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 19.15,
+        "pe_ratio": 19.24,
         "forward_return": -0.38,
         "start_price": 38.1,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.37,
+        "pe_ratio": 22.58,
         "forward_return": -1.77,
         "start_price": 43.8,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.88,
+        "pe_ratio": 23.21,
         "forward_return": -0.83,
         "start_price": 44.1,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 21.64,
+        "pe_ratio": 21.57,
         "forward_return": 0.9,
         "start_price": 41.05,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 21.71,
         "forward_return": 0.65,
         "start_price": 41.4,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 22.56,
+        "pe_ratio": 21.68,
         "forward_return": 2.02,
         "start_price": 41.4,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 20.56,
         "forward_return": 6.42,
         "start_price": 38.1,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 20.13,
+        "pe_ratio": 19.87,
         "forward_return": 12.01,
         "start_price": 35.7,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 19.77,
+        "pe_ratio": 19.8,
         "forward_return": 10.88,
         "start_price": 34.45,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.89,
         "forward_return": 16.34,
         "start_price": 32.3,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 23.27,
         "forward_return": 30.65,
         "start_price": 38.7,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 25.65,
+        "pe_ratio": 24.24,
         "forward_return": 21.22,
         "start_price": 40.65,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.31,
+        "pe_ratio": 26.92,
         "forward_return": 17.55,
         "start_price": 45.5,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 27.83,
+        "pe_ratio": 25.38,
         "forward_return": 19.13,
         "start_price": 42.3,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 27.63,
+        "pe_ratio": 25.01,
         "forward_return": 18.22,
         "start_price": 41.1,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.08,
+        "pe_ratio": 23.43,
         "forward_return": 19.22,
         "start_price": 37.95,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 22.53,
+        "pe_ratio": 19.27,
         "forward_return": 27.02,
         "start_price": 32.05,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 20.32,
+        "pe_ratio": 16.55,
         "forward_return": 39.86,
         "start_price": 28.25,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 29.83,
+        "pe_ratio": 23.14,
         "forward_return": 14.12,
         "start_price": 40.5,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 40.08,
+        "pe_ratio": 33.47,
         "forward_return": -10.79,
         "start_price": 53.1,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 34.39,
+        "pe_ratio": 31.23,
         "forward_return": 1.59,
         "start_price": 44.45,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 38.4,
+        "pe_ratio": 36.92,
         "forward_return": 0.48,
         "start_price": 48.0,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 37.5,
+        "pe_ratio": 34.7,
         "forward_return": 2.55,
         "start_price": 46.5,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 34.11,
+        "pe_ratio": 30.4,
         "forward_return": 6.21,
         "start_price": 41.95,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 35.49,
+        "pe_ratio": 32.97,
         "forward_return": 9.35,
         "start_price": 43.3,
         "start_year": 2016
@@ -9345,7 +9345,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.03,
         "forward_return": 13.76,
         "start_price": 33.7,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.12,
+        "pe_ratio": 28.6,
         "forward_return": 16.97,
         "start_price": 33.75,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 31.43,
+        "pe_ratio": 36.67,
         "forward_return": 21.71,
         "start_price": 37.4,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 26.78,
+        "pe_ratio": 36.74,
         "forward_return": 24.74,
         "start_price": 31.6,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 27.48,
+        "pe_ratio": 45.93,
         "forward_return": 24.69,
         "start_price": 32.15,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 27.11,
+        "pe_ratio": 37.15,
         "forward_return": 25.74,
         "start_price": 31.45,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 29.7,
         "forward_return": 26.72,
         "start_price": 29.5,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 24.2,
+        "pe_ratio": 18.41,
         "forward_return": 18.85,
         "start_price": 32.15,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 23.74,
+        "pe_ratio": 15.3,
         "forward_return": 10.49,
         "start_price": 36.0,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 12.67,
         "forward_return": 2.85,
         "start_price": 37.5,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.36,
+        "pe_ratio": 12.24,
         "forward_return": 9.29,
         "start_price": 36.65,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.63,
+        "pe_ratio": 12.13,
         "forward_return": 9.43,
         "start_price": 36.7,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 16.94,
+        "pe_ratio": 12.57,
         "forward_return": 9.8,
         "start_price": 38.45,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.84,
+        "pe_ratio": 13.1,
         "forward_return": 7.65,
         "start_price": 41.4,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.25,
+        "pe_ratio": 14.0,
         "forward_return": 1.69,
         "start_price": 45.65,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 12.63,
         "forward_return": 4.5,
         "start_price": 42.45,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.74,
         "forward_return": -0.07,
         "start_price": 46.35,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 19.9,
+        "pe_ratio": 18.87,
         "forward_return": -6.31,
         "start_price": 63.9,
         "start_year": 2017
@@ -9525,7 +9525,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.52,
+        "pe_ratio": 29.35,
         "forward_return": -11.45,
         "start_price": 81.8,
         "start_year": 2018
@@ -9534,7 +9534,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.56,
+        "pe_ratio": 31.24,
         "forward_return": -5.33,
         "start_price": 67.9,
         "start_year": 2018
@@ -9543,7 +9543,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 44.49,
         "forward_return": -6.51,
         "start_price": 69.4,
         "start_year": 2018
@@ -9552,7 +9552,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.57,
+        "pe_ratio": 48.2,
         "forward_return": 5.69,
         "start_price": 67.0,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 26.14,
+        "pe_ratio": 51.97,
         "forward_return": 4.81,
         "start_price": 63.4,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 26.82,
+        "pe_ratio": 56.95,
         "forward_return": 10.5,
         "start_price": 59.8,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 29.48,
+        "pe_ratio": 59.8,
         "forward_return": 24.36,
         "start_price": 60.0,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 74.84,
         "forward_return": 12.55,
         "start_price": 71.6,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 33.13,
+        "pe_ratio": 59.89,
         "forward_return": 29.32,
         "start_price": 54.5,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 22.07,
+        "pe_ratio": 33.33,
         "forward_return": 85.37,
         "start_price": 32.0,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 32.59,
+        "pe_ratio": 40.5,
         "forward_return": 66.51,
         "start_price": 40.9,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 39.51,
+        "pe_ratio": 39.09,
         "forward_return": 67.57,
         "start_price": 43.0,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 41.15,
+        "pe_ratio": 40.31,
         "forward_return": 81.62,
         "start_price": 45.95,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 37.75,
         "forward_return": 90.56,
         "start_price": 44.55,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 43.38,
+        "pe_ratio": 42.07,
         "forward_return": 72.95,
         "start_price": 50.9,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 36.53,
+        "pe_ratio": 35.4,
         "forward_return": 76.97,
         "start_price": 43.9,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 39.27,
+        "pe_ratio": 38.03,
         "forward_return": 58.91,
         "start_price": 48.3,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 49.99,
+        "pe_ratio": 46.48,
         "forward_return": 36.89,
         "start_price": 62.9,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 44.15,
+        "pe_ratio": 39.54,
         "forward_return": 50.17,
         "start_price": 56.8,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 43.95,
+        "pe_ratio": 38.03,
         "forward_return": 34.1,
         "start_price": 57.8,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 43.18,
+        "pe_ratio": 39.19,
         "forward_return": 36.46,
         "start_price": 58.0,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 40.46,
+        "pe_ratio": 38.54,
         "forward_return": 46.32,
         "start_price": 55.5,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 36.01,
+        "pe_ratio": 37.18,
         "forward_return": 52.35,
         "start_price": 49.45,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 32.71,
+        "pe_ratio": 34.96,
         "forward_return": 63.93,
         "start_price": 44.05,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 30.5,
         "forward_return": 77.25,
         "start_price": 36.3,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 33.52,
+        "pe_ratio": 33.26,
         "forward_return": 57.56,
         "start_price": 43.35,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 34.42,
+        "pe_ratio": 30.78,
         "forward_return": 59.55,
         "start_price": 43.6,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 37.42,
+        "pe_ratio": 30.33,
         "forward_return": 67.13,
         "start_price": 46.4,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 38.78,
+        "pe_ratio": 33.21,
         "forward_return": 92.52,
         "start_price": 47.05,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 36.57,
+        "pe_ratio": 33.3,
         "forward_return": 101.45,
         "start_price": 43.4,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 37.8,
+        "pe_ratio": 36.85,
         "forward_return": 93.1,
         "start_price": 43.85,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 36.75,
+        "pe_ratio": 36.11,
         "forward_return": 95.61,
         "start_price": 41.65,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 43.33,
+        "pe_ratio": 42.94,
         "forward_return": 102.03,
         "start_price": 47.95,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 37.89,
+        "pe_ratio": 41.65,
         "forward_return": 101.4,
         "start_price": 52.2,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.64,
+        "pe_ratio": 37.15,
         "forward_return": 95.64,
         "start_price": 53.0,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 26.41,
+        "pe_ratio": 32.56,
         "forward_return": 89.25,
         "start_price": 52.1,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.82,
+        "pe_ratio": 45.06,
         "forward_return": 59.66,
         "start_price": 74.5,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.64,
+        "pe_ratio": 40.08,
         "forward_return": 64.9,
         "start_price": 68.4,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 43.24,
         "forward_return": 65.53,
         "start_price": 76.1,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.57,
+        "pe_ratio": 53.32,
         "forward_return": 40.05,
         "start_price": 112.5,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 28.67,
+        "pe_ratio": 40.33,
         "forward_return": 47.22,
         "start_price": 99.2,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 30.61,
+        "pe_ratio": 40.93,
         "forward_return": 34.3,
         "start_price": 115.0,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 49.57,
+        "pe_ratio": 58.71,
         "forward_return": 7.12,
         "start_price": 201.0,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 42.73,
+        "pe_ratio": 46.08,
         "forward_return": 8.04,
         "start_price": 186.0,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 39.23,
+        "pe_ratio": 37.48,
         "forward_return": 6.0,
         "start_price": 199.5,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 49.35,
+        "pe_ratio": 45.44,
         "forward_return": -2.69,
         "start_price": 272.5,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 51.28,
+        "pe_ratio": 45.8,
         "forward_return": -9.68,
         "start_price": 305.5,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 40.75,
+        "pe_ratio": 35.62,
         "forward_return": -9.58,
         "start_price": 260.5,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 35.22,
+        "pe_ratio": 30.23,
         "forward_return": -7.78,
         "start_price": 240.5,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 22.21,
         "forward_return": 1.22,
         "start_price": 191.0,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 20.26,
+        "pe_ratio": 17.4,
         "forward_return": 1.84,
         "start_price": 156.0,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 22.98,
+        "pe_ratio": 20.04,
         "forward_return": -3.07,
         "start_price": 187.0,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 13.81,
         "forward_return": 8.42,
         "start_price": 134.0,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 15.76,
+        "pe_ratio": 14.55,
         "forward_return": 11.11,
         "start_price": 142.0,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 17.84,
+        "pe_ratio": 17.16,
         "forward_return": 3.4,
         "start_price": 168.5,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.56,
         "forward_return": 1.89,
         "start_price": 169.5,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 19.95,
+        "pe_ratio": 19.68,
         "forward_return": -0.94,
         "start_price": 185.5,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 9.83,
         "forward_return": 7.62,
         "start_price": 52.6,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 10.78,
         "forward_return": 4.11,
         "start_price": 57.0,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.37,
         "forward_return": 1.83,
         "start_price": 59.4,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.77,
+        "pe_ratio": 10.81,
         "forward_return": 2.49,
         "start_price": 55.8,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 10.19,
         "forward_return": 5.38,
         "start_price": 50.8,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.49,
         "forward_return": 5.55,
         "start_price": 50.4,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.19,
         "forward_return": 8.03,
         "start_price": 51.8,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.16,
         "forward_return": 10.46,
         "start_price": 47.4,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 12.5,
         "forward_return": 4.14,
         "start_price": 58.8,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.95,
         "forward_return": -0.15,
         "start_price": 73.9,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 19.17,
+        "pe_ratio": 17.84,
         "forward_return": -10.05,
         "start_price": 91.8,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 21.31,
         "forward_return": -16.66,
         "start_price": 114.0,
         "start_year": 2007
@@ -10200,7 +10200,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 18.73,
         "forward_return": -14.76,
         "start_price": 100.0,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.0,
+        "pe_ratio": 22.8,
         "forward_return": -17.66,
         "start_price": 121.5,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 26.92,
+        "pe_ratio": 24.72,
         "forward_return": -20.06,
         "start_price": 131.5,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 31.37,
+        "pe_ratio": 29.52,
         "forward_return": -26.16,
         "start_price": 154.0,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.89,
+        "pe_ratio": 21.12,
         "forward_return": -23.2,
         "start_price": 108.0,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 22.69,
+        "pe_ratio": 22.46,
         "forward_return": -23.63,
         "start_price": 112.5,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.84,
         "forward_return": -21.42,
         "start_price": 94.5,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.78,
         "forward_return": -22.17,
         "start_price": 84.3,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.6,
         "forward_return": 0.49,
         "start_price": 49.4,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 13.92,
+        "pe_ratio": 14.69,
         "forward_return": -2.35,
         "start_price": 63.0,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 16.53,
         "forward_return": -3.9,
         "start_price": 64.8,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.24,
         "forward_return": -6.11,
         "start_price": 63.6,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 17.37,
         "forward_return": -6.48,
         "start_price": 60.1,
         "start_year": 2008
@@ -10326,7 +10326,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.93,
         "forward_return": 2.45,
         "start_price": 45.0,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.34,
         "forward_return": -4.17,
         "start_price": 56.3,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 18.73,
         "forward_return": -2.66,
         "start_price": 54.5,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.93,
         "forward_return": 12.47,
         "start_price": 32.8,
         "start_year": 2008
@@ -10362,7 +10362,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.96,
         "forward_return": 4.92,
         "start_price": 34.9,
         "start_year": 2008
@@ -10371,7 +10371,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.54,
+        "pe_ratio": 11.56,
         "forward_return": 15.2,
         "start_price": 26.0,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 14.06,
         "forward_return": 13.5,
         "start_price": 26.2,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.58,
+        "pe_ratio": 21.72,
         "forward_return": 1.68,
         "start_price": 37.5,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 21.87,
+        "pe_ratio": 27.89,
         "forward_return": -1.95,
         "start_price": 44.35,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 22.41,
+        "pe_ratio": 26.85,
         "forward_return": -3.69,
         "start_price": 45.65,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 28.64,
+        "pe_ratio": 32.38,
         "forward_return": -8.72,
         "start_price": 58.6,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 23.16,
+        "pe_ratio": 24.79,
         "forward_return": -5.89,
         "start_price": 47.6,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 28.53,
+        "pe_ratio": 30.0,
         "forward_return": -8.5,
         "start_price": 58.9,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 25.23,
+        "pe_ratio": 26.06,
         "forward_return": -5.01,
         "start_price": 52.3,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 27.9,
+        "pe_ratio": 28.34,
         "forward_return": -9.03,
         "start_price": 58.1,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.98,
         "forward_return": -5.93,
         "start_price": 51.7,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 26.7,
         "forward_return": -7.28,
         "start_price": 55.8,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 29.54,
+        "pe_ratio": 28.04,
         "forward_return": -7.99,
         "start_price": 62.9,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 25.74,
+        "pe_ratio": 23.27,
         "forward_return": -2.1,
         "start_price": 55.3,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 27.22,
+        "pe_ratio": 23.51,
         "forward_return": -3.54,
         "start_price": 59.0,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 25.34,
+        "pe_ratio": 22.13,
         "forward_return": -3.5,
         "start_price": 55.4,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 20.95,
         "forward_return": -1.92,
         "start_price": 52.3,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 22.47,
+        "pe_ratio": 20.08,
         "forward_return": -0.82,
         "start_price": 50.0,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 21.21,
         "forward_return": -3.69,
         "start_price": 52.4,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 23.11,
+        "pe_ratio": 21.35,
         "forward_return": -4.95,
         "start_price": 52.3,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 26.42,
+        "pe_ratio": 24.81,
         "forward_return": -8.95,
         "start_price": 60.3,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 26.2,
+        "pe_ratio": 25.12,
         "forward_return": -10.16,
         "start_price": 60.3,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 25.38,
+        "pe_ratio": 24.85,
         "forward_return": -10.62,
         "start_price": 58.9,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 29.12,
+        "pe_ratio": 28.21,
         "forward_return": -7.79,
         "start_price": 63.2,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 24.93,
+        "pe_ratio": 23.29,
         "forward_return": -1.13,
         "start_price": 49.85,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 24.45,
+        "pe_ratio": 21.94,
         "forward_return": 4.07,
         "start_price": 44.75,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 25.63,
+        "pe_ratio": 23.42,
         "forward_return": 3.74,
         "start_price": 42.55,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 30.6,
+        "pe_ratio": 28.62,
         "forward_return": 1.34,
         "start_price": 45.6,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 32.92,
+        "pe_ratio": 31.72,
         "forward_return": 0.84,
         "start_price": 43.45,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 32.43,
+        "pe_ratio": 35.52,
         "forward_return": 1.16,
         "start_price": 37.3,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.69,
+        "pe_ratio": 39.86,
         "forward_return": 4.92,
         "start_price": 29.1,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 36.79,
+        "pe_ratio": 72.68,
         "forward_return": 12.37,
         "start_price": 29.8,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 43.05,
+        "pe_ratio": 73.79,
         "forward_return": 21.54,
         "start_price": 27.55,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 47.77,
+        "pe_ratio": 66.68,
         "forward_return": 23.04,
         "start_price": 22.45,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 84.82,
+        "pe_ratio": 103.9,
         "forward_return": 7.04,
         "start_price": 41.9,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 70.94,
+        "pe_ratio": 96.32,
         "forward_return": 2.33,
         "start_price": 48.8,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 53.07,
+        "pe_ratio": 76.72,
         "forward_return": 1.13,
         "start_price": 46.8,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 38.06,
+        "pe_ratio": 48.94,
         "forward_return": 5.28,
         "start_price": 40.95,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 35.27,
         "forward_return": 2.07,
         "start_price": 37.5,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 28.08,
+        "pe_ratio": 31.86,
         "forward_return": -0.21,
         "start_price": 41.1,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 25.31,
         "forward_return": 2.31,
         "start_price": 41.0,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 22.92,
+        "pe_ratio": 21.77,
         "forward_return": -2.03,
         "start_price": 42.45,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 22.49,
+        "pe_ratio": 20.18,
         "forward_return": -3.64,
         "start_price": 46.0,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 14.94,
         "forward_return": 2.14,
         "start_price": 35.8,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.15,
+        "pe_ratio": 15.65,
         "forward_return": -1.49,
         "start_price": 39.3,
         "start_year": 2012
@@ -10821,7 +10821,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.26,
         "forward_return": 1.75,
         "start_price": 37.0,
         "start_year": 2013
@@ -10830,7 +10830,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.3,
+        "pe_ratio": 13.11,
         "forward_return": 6.68,
         "start_price": 33.6,
         "start_year": 2013
@@ -10839,7 +10839,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.64,
         "forward_return": 6.88,
         "start_price": 34.5,
         "start_year": 2013
@@ -10848,7 +10848,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.53,
+        "pe_ratio": 13.35,
         "forward_return": 7.72,
         "start_price": 32.8,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.35,
         "forward_return": 6.63,
         "start_price": 34.2,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.35,
         "forward_return": 10.48,
         "start_price": 30.85,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 15.09,
+        "pe_ratio": 15.5,
         "forward_return": 8.72,
         "start_price": 34.3,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.82,
         "forward_return": 10.02,
         "start_price": 35.6,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.1,
+        "pe_ratio": 16.24,
         "forward_return": 10.54,
         "start_price": 32.8,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.58,
         "forward_return": 12.08,
         "start_price": 33.5,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 16.96,
         "forward_return": 19.74,
         "start_price": 34.25,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 19.15,
+        "pe_ratio": 19.24,
         "forward_return": 23.39,
         "start_price": 38.1,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.37,
+        "pe_ratio": 22.58,
         "forward_return": 14.17,
         "start_price": 43.8,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.88,
+        "pe_ratio": 23.21,
         "forward_return": 14.54,
         "start_price": 44.1,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 21.64,
+        "pe_ratio": 21.57,
         "forward_return": 15.68,
         "start_price": 41.05,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 21.71,
         "forward_return": 14.0,
         "start_price": 41.4,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 22.56,
+        "pe_ratio": 21.68,
         "forward_return": 12.5,
         "start_price": 41.4,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 20.56,
         "forward_return": 15.25,
         "start_price": 38.1,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 20.13,
+        "pe_ratio": 19.87,
         "forward_return": 21.9,
         "start_price": 35.7,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 19.77,
+        "pe_ratio": 19.8,
         "forward_return": 15.69,
         "start_price": 34.45,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.89,
         "forward_return": 4.97,
         "start_price": 32.3,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 23.27,
         "forward_return": 6.73,
         "start_price": 38.7,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 25.65,
+        "pe_ratio": 24.24,
         "forward_return": 6.94,
         "start_price": 40.65,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.31,
+        "pe_ratio": 26.92,
         "forward_return": 3.28,
         "start_price": 45.5,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 27.83,
+        "pe_ratio": 25.38,
         "forward_return": 8.27,
         "start_price": 42.3,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 27.63,
+        "pe_ratio": 25.01,
         "forward_return": 5.6,
         "start_price": 41.1,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.08,
+        "pe_ratio": 23.43,
         "forward_return": 9.98,
         "start_price": 37.95,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 22.53,
+        "pe_ratio": 19.27,
         "forward_return": 21.31,
         "start_price": 32.05,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 20.32,
+        "pe_ratio": 16.55,
         "forward_return": 22.35,
         "start_price": 28.25,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 29.83,
+        "pe_ratio": 23.14,
         "forward_return": 12.25,
         "start_price": 40.5,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 40.08,
+        "pe_ratio": 33.47,
         "forward_return": 4.98,
         "start_price": 53.1,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 34.39,
+        "pe_ratio": 31.23,
         "forward_return": 8.68,
         "start_price": 44.45,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 38.4,
+        "pe_ratio": 36.92,
         "forward_return": 3.91,
         "start_price": 48.0,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 37.5,
+        "pe_ratio": 34.7,
         "forward_return": 2.11,
         "start_price": 46.5,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 34.11,
+        "pe_ratio": 30.4,
         "forward_return": 0.5,
         "start_price": 41.95,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 35.49,
+        "pe_ratio": 32.97,
         "forward_return": 3.58,
         "start_price": 43.3,
         "start_year": 2016
@@ -11181,7 +11181,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.03,
         "forward_return": 10.42,
         "start_price": 33.7,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.12,
+        "pe_ratio": 28.6,
         "forward_return": 11.89,
         "start_price": 33.75,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 31.43,
+        "pe_ratio": 36.67,
         "forward_return": 8.93,
         "start_price": 37.4,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 26.78,
+        "pe_ratio": 36.74,
         "forward_return": 11.59,
         "start_price": 31.6,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 27.48,
+        "pe_ratio": 45.93,
         "forward_return": 11.36,
         "start_price": 32.15,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 27.11,
+        "pe_ratio": 37.15,
         "forward_return": 10.71,
         "start_price": 31.45,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 29.7,
         "forward_return": 16.07,
         "start_price": 29.5,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 24.2,
+        "pe_ratio": 18.41,
         "forward_return": 15.79,
         "start_price": 32.15,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 23.74,
+        "pe_ratio": 15.3,
         "forward_return": 12.95,
         "start_price": 36.0,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 12.67,
         "forward_return": 11.37,
         "start_price": 37.5,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.36,
+        "pe_ratio": 12.24,
         "forward_return": 21.59,
         "start_price": 36.65,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.63,
+        "pe_ratio": 12.13,
         "forward_return": 19.16,
         "start_price": 36.7,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 16.94,
+        "pe_ratio": 12.57,
         "forward_return": 20.73,
         "start_price": 38.45,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.84,
+        "pe_ratio": 13.1,
         "forward_return": 29.96,
         "start_price": 41.4,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.25,
+        "pe_ratio": 14.0,
         "forward_return": 23.09,
         "start_price": 45.65,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 12.63,
         "forward_return": 29.83,
         "start_price": 42.45,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.74,
         "forward_return": 45.3,
         "start_price": 46.35,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 19.9,
+        "pe_ratio": 18.87,
         "forward_return": 31.59,
         "start_price": 63.9,
         "start_year": 2017
@@ -11361,7 +11361,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.52,
+        "pe_ratio": 29.35,
         "forward_return": 25.84,
         "start_price": 81.8,
         "start_year": 2018
@@ -11370,7 +11370,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.56,
+        "pe_ratio": 31.24,
         "forward_return": 42.26,
         "start_price": 67.9,
         "start_year": 2018
@@ -11379,7 +11379,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 44.49,
         "forward_return": 45.51,
         "start_price": 69.4,
         "start_year": 2018
@@ -11388,7 +11388,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.57,
+        "pe_ratio": 48.2,
         "forward_return": 41.17,
         "start_price": 67.0,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 26.14,
+        "pe_ratio": 51.97,
         "forward_return": 40.36,
         "start_price": 63.4,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 26.82,
+        "pe_ratio": 56.95,
         "forward_return": 34.65,
         "start_price": 59.8,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 29.48,
+        "pe_ratio": 59.8,
         "forward_return": 28.23,
         "start_price": 60.0,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 74.84,
         "forward_return": 28.17,
         "start_price": 71.6,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 33.13,
+        "pe_ratio": 59.89,
         "forward_return": 26.64,
         "start_price": 54.5,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 22.07,
+        "pe_ratio": 33.33,
         "forward_return": 46.7,
         "start_price": 32.0,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 32.59,
+        "pe_ratio": 40.5,
         "forward_return": 43.76,
         "start_price": 40.9,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 39.51,
+        "pe_ratio": 39.09,
         "forward_return": 42.18,
         "start_price": 43.0,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 41.15,
+        "pe_ratio": 40.31,
         "forward_return": 42.92,
         "start_price": 45.95,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 37.75,
         "forward_return": 46.05,
         "start_price": 44.55,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 43.38,
+        "pe_ratio": 42.07,
         "forward_return": 35.23,
         "start_price": 50.9,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 36.53,
+        "pe_ratio": 35.4,
         "forward_return": 41.84,
         "start_price": 43.9,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 39.27,
+        "pe_ratio": 38.03,
         "forward_return": 45.62,
         "start_price": 48.3,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 49.99,
+        "pe_ratio": 46.48,
         "forward_return": 52.07,
         "start_price": 62.9,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 44.15,
+        "pe_ratio": 39.54,
         "forward_return": 58.16,
         "start_price": 56.8,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 43.95,
+        "pe_ratio": 38.03,
         "forward_return": 52.96,
         "start_price": 57.8,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 43.18,
+        "pe_ratio": 39.19,
         "forward_return": 52.34,
         "start_price": 58.0,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 40.46,
+        "pe_ratio": 38.54,
         "forward_return": 63.43,
         "start_price": 55.5,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 36.01,
+        "pe_ratio": 37.18,
         "forward_return": 71.41,
         "start_price": 49.45,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 32.71,
+        "pe_ratio": 34.96,
         "forward_return": 73.31,
         "start_price": 44.05,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 30.5,
         "forward_return": 76.77,
         "start_price": 36.3,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 33.52,
+        "pe_ratio": 33.26,
         "forward_return": 62.78,
         "start_price": 43.35,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 34.42,
+        "pe_ratio": 30.78,
         "forward_return": 63.02,
         "start_price": 43.6,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 37.42,
+        "pe_ratio": 30.33,
         "forward_return": 65.3,
         "start_price": 46.4,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 38.78,
+        "pe_ratio": 33.21,
         "forward_return": 60.23,
         "start_price": 47.05,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 36.57,
+        "pe_ratio": 33.3,
         "forward_return": 64.47,
         "start_price": 43.4,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 37.8,
+        "pe_ratio": 36.85,
         "forward_return": 58.91,
         "start_price": 43.85,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 36.75,
+        "pe_ratio": 36.11,
         "forward_return": 56.22,
         "start_price": 41.65,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 43.33,
+        "pe_ratio": 42.94,
         "forward_return": 48.88,
         "start_price": 47.95,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 37.89,
+        "pe_ratio": 41.65,
         "forward_return": 46.22,
         "start_price": 52.2,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.64,
+        "pe_ratio": 37.15,
         "forward_return": 47.68,
         "start_price": 53.0,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 26.41,
+        "pe_ratio": 32.56,
         "forward_return": 44.33,
         "start_price": 52.1,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.82,
+        "pe_ratio": 45.06,
         "forward_return": 26.96,
         "start_price": 74.5,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.64,
+        "pe_ratio": 40.08,
         "forward_return": 29.03,
         "start_price": 68.4,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 43.24,
         "forward_return": 27.18,
         "start_price": 76.1,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.57,
+        "pe_ratio": 53.32,
         "forward_return": 10.56,
         "start_price": 112.5,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 28.67,
+        "pe_ratio": 40.33,
         "forward_return": 15.02,
         "start_price": 99.2,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 30.61,
+        "pe_ratio": 40.93,
         "forward_return": 10.92,
         "start_price": 115.0,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 49.57,
+        "pe_ratio": 58.71,
         "forward_return": -0.36,
         "start_price": 201.0,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 42.73,
+        "pe_ratio": 46.08,
         "forward_return": 0.48,
         "start_price": 186.0,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 39.23,
+        "pe_ratio": 37.48,
         "forward_return": -2.19,
         "start_price": 199.5,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 49.35,
+        "pe_ratio": 45.44,
         "forward_return": -9.4,
         "start_price": 272.5,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 9.83,
         "forward_return": 2.08,
         "start_price": 52.6,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 10.78,
         "forward_return": -0.32,
         "start_price": 57.0,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.37,
         "forward_return": -0.08,
         "start_price": 59.4,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.77,
+        "pe_ratio": 10.81,
         "forward_return": 0.43,
         "start_price": 55.8,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 10.19,
         "forward_return": -0.7,
         "start_price": 50.8,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.49,
         "forward_return": -4.12,
         "start_price": 50.4,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.19,
         "forward_return": -4.31,
         "start_price": 51.8,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.16,
         "forward_return": -3.68,
         "start_price": 47.4,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 12.5,
         "forward_return": -10.27,
         "start_price": 58.8,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.95,
         "forward_return": -6.2,
         "start_price": 73.9,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 19.17,
+        "pe_ratio": 17.84,
         "forward_return": -7.99,
         "start_price": 91.8,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 21.31,
         "forward_return": -12.47,
         "start_price": 114.0,
         "start_year": 2007
@@ -11928,7 +11928,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 18.73,
         "forward_return": -12.02,
         "start_price": 100.0,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.0,
+        "pe_ratio": 22.8,
         "forward_return": -16.52,
         "start_price": 121.5,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 26.92,
+        "pe_ratio": 24.72,
         "forward_return": -16.66,
         "start_price": 131.5,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 31.37,
+        "pe_ratio": 29.52,
         "forward_return": -19.83,
         "start_price": 154.0,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.89,
+        "pe_ratio": 21.12,
         "forward_return": -13.45,
         "start_price": 108.0,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 22.69,
+        "pe_ratio": 22.46,
         "forward_return": -13.03,
         "start_price": 112.5,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.84,
         "forward_return": -13.49,
         "start_price": 94.5,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.78,
         "forward_return": -10.18,
         "start_price": 84.3,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.6,
         "forward_return": -1.0,
         "start_price": 49.4,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 13.92,
+        "pe_ratio": 14.69,
         "forward_return": -6.62,
         "start_price": 63.0,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 16.53,
         "forward_return": -7.25,
         "start_price": 64.8,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.24,
         "forward_return": -7.63,
         "start_price": 63.6,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 17.37,
         "forward_return": -5.97,
         "start_price": 60.1,
         "start_year": 2008
@@ -12054,7 +12054,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.93,
         "forward_return": -1.93,
         "start_price": 45.0,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.34,
         "forward_return": -5.34,
         "start_price": 56.3,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 18.73,
         "forward_return": -4.15,
         "start_price": 54.5,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.93,
         "forward_return": 4.71,
         "start_price": 32.8,
         "start_year": 2008
@@ -12090,7 +12090,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.96,
         "forward_return": 3.77,
         "start_price": 34.9,
         "start_year": 2008
@@ -12099,7 +12099,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.54,
+        "pe_ratio": 11.56,
         "forward_return": 10.45,
         "start_price": 26.0,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 14.06,
         "forward_return": 12.2,
         "start_price": 26.2,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.58,
+        "pe_ratio": 21.72,
         "forward_return": 6.87,
         "start_price": 37.5,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 21.87,
+        "pe_ratio": 27.89,
         "forward_return": 3.46,
         "start_price": 44.35,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 22.41,
+        "pe_ratio": 26.85,
         "forward_return": 1.65,
         "start_price": 45.65,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 28.64,
+        "pe_ratio": 32.38,
         "forward_return": -3.17,
         "start_price": 58.6,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 23.16,
+        "pe_ratio": 24.79,
         "forward_return": 0.94,
         "start_price": 47.6,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 28.53,
+        "pe_ratio": 30.0,
         "forward_return": -4.38,
         "start_price": 58.9,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 25.23,
+        "pe_ratio": 26.06,
         "forward_return": -3.1,
         "start_price": 52.3,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 27.9,
+        "pe_ratio": 28.34,
         "forward_return": -5.65,
         "start_price": 58.1,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.98,
         "forward_return": -4.4,
         "start_price": 51.7,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 26.7,
         "forward_return": -6.64,
         "start_price": 55.8,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 29.54,
+        "pe_ratio": 28.04,
         "forward_return": -5.39,
         "start_price": 62.9,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 25.74,
+        "pe_ratio": 23.27,
         "forward_return": -2.14,
         "start_price": 55.3,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 27.22,
+        "pe_ratio": 23.51,
         "forward_return": -1.58,
         "start_price": 59.0,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 25.34,
+        "pe_ratio": 22.13,
         "forward_return": -1.53,
         "start_price": 55.4,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 20.95,
         "forward_return": -0.86,
         "start_price": 52.3,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 22.47,
+        "pe_ratio": 20.08,
         "forward_return": -1.26,
         "start_price": 50.0,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 21.21,
         "forward_return": -5.0,
         "start_price": 52.4,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 23.11,
+        "pe_ratio": 21.35,
         "forward_return": -6.81,
         "start_price": 52.3,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 26.42,
+        "pe_ratio": 24.81,
         "forward_return": -4.06,
         "start_price": 60.3,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 26.2,
+        "pe_ratio": 25.12,
         "forward_return": 0.43,
         "start_price": 60.3,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 25.38,
+        "pe_ratio": 24.85,
         "forward_return": -2.11,
         "start_price": 58.9,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 29.12,
+        "pe_ratio": 28.21,
         "forward_return": -2.21,
         "start_price": 63.2,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 24.93,
+        "pe_ratio": 23.29,
         "forward_return": 1.99,
         "start_price": 49.85,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 24.45,
+        "pe_ratio": 21.94,
         "forward_return": 2.43,
         "start_price": 44.75,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 25.63,
+        "pe_ratio": 23.42,
         "forward_return": 4.01,
         "start_price": 42.55,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 30.6,
+        "pe_ratio": 28.62,
         "forward_return": -1.53,
         "start_price": 45.6,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 32.92,
+        "pe_ratio": 31.72,
         "forward_return": -0.56,
         "start_price": 43.45,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 32.43,
+        "pe_ratio": 35.52,
         "forward_return": 4.47,
         "start_price": 37.3,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.69,
+        "pe_ratio": 39.86,
         "forward_return": 6.89,
         "start_price": 29.1,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 36.79,
+        "pe_ratio": 72.68,
         "forward_return": 6.67,
         "start_price": 29.8,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 43.05,
+        "pe_ratio": 73.79,
         "forward_return": 7.99,
         "start_price": 27.55,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 47.77,
+        "pe_ratio": 66.68,
         "forward_return": 11.39,
         "start_price": 22.45,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 84.82,
+        "pe_ratio": 103.9,
         "forward_return": -0.36,
         "start_price": 41.9,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 70.94,
+        "pe_ratio": 96.32,
         "forward_return": -0.94,
         "start_price": 48.8,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 53.07,
+        "pe_ratio": 76.72,
         "forward_return": -0.12,
         "start_price": 46.8,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 38.06,
+        "pe_ratio": 48.94,
         "forward_return": 2.2,
         "start_price": 40.95,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 35.27,
         "forward_return": 4.04,
         "start_price": 37.5,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 28.08,
+        "pe_ratio": 31.86,
         "forward_return": 2.92,
         "start_price": 41.1,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 25.31,
         "forward_return": 4.01,
         "start_price": 41.0,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 22.92,
+        "pe_ratio": 21.77,
         "forward_return": 4.99,
         "start_price": 42.45,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 22.49,
+        "pe_ratio": 20.18,
         "forward_return": 2.07,
         "start_price": 46.0,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 14.94,
         "forward_return": 8.91,
         "start_price": 35.8,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.15,
+        "pe_ratio": 15.65,
         "forward_return": 13.0,
         "start_price": 39.3,
         "start_year": 2012
@@ -12549,7 +12549,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.26,
         "forward_return": 19.54,
         "start_price": 37.0,
         "start_year": 2013
@@ -12558,7 +12558,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.3,
+        "pe_ratio": 13.11,
         "forward_return": 17.86,
         "start_price": 33.6,
         "start_year": 2013
@@ -12567,7 +12567,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.64,
         "forward_return": 17.7,
         "start_price": 34.5,
         "start_year": 2013
@@ -12576,7 +12576,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.53,
+        "pe_ratio": 13.35,
         "forward_return": 18.15,
         "start_price": 32.8,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.35,
         "forward_return": 16.03,
         "start_price": 34.2,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.35,
         "forward_return": 17.24,
         "start_price": 30.85,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 15.09,
+        "pe_ratio": 15.5,
         "forward_return": 15.08,
         "start_price": 34.3,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.82,
         "forward_return": 17.82,
         "start_price": 35.6,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.1,
+        "pe_ratio": 16.24,
         "forward_return": 14.2,
         "start_price": 32.8,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.58,
         "forward_return": 4.23,
         "start_price": 33.5,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 16.96,
         "forward_return": 7.91,
         "start_price": 34.25,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 19.15,
+        "pe_ratio": 19.24,
         "forward_return": 6.51,
         "start_price": 38.1,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.37,
+        "pe_ratio": 22.58,
         "forward_return": 4.72,
         "start_price": 43.8,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.88,
+        "pe_ratio": 23.21,
         "forward_return": 4.04,
         "start_price": 44.1,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 21.64,
+        "pe_ratio": 21.57,
         "forward_return": 7.93,
         "start_price": 41.05,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 21.71,
         "forward_return": 5.11,
         "start_price": 41.4,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 22.56,
+        "pe_ratio": 21.68,
         "forward_return": 6.8,
         "start_price": 41.4,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 20.56,
         "forward_return": 13.23,
         "start_price": 38.1,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 20.13,
+        "pe_ratio": 19.87,
         "forward_return": 12.67,
         "start_price": 35.7,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 19.77,
+        "pe_ratio": 19.8,
         "forward_return": 13.83,
         "start_price": 34.45,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.89,
         "forward_return": 15.37,
         "start_price": 32.3,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 23.27,
         "forward_return": 8.23,
         "start_price": 38.7,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 25.65,
+        "pe_ratio": 24.24,
         "forward_return": 5.08,
         "start_price": 40.65,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.31,
+        "pe_ratio": 26.92,
         "forward_return": -0.52,
         "start_price": 45.5,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 27.83,
+        "pe_ratio": 25.38,
         "forward_return": 3.96,
         "start_price": 42.3,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 27.63,
+        "pe_ratio": 25.01,
         "forward_return": 4.66,
         "start_price": 41.1,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.08,
+        "pe_ratio": 23.43,
         "forward_return": 7.47,
         "start_price": 37.95,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 22.53,
+        "pe_ratio": 19.27,
         "forward_return": 11.26,
         "start_price": 32.05,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 20.32,
+        "pe_ratio": 16.55,
         "forward_return": 12.54,
         "start_price": 28.25,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 29.83,
+        "pe_ratio": 23.14,
         "forward_return": 4.9,
         "start_price": 40.5,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 40.08,
+        "pe_ratio": 33.47,
         "forward_return": -1.49,
         "start_price": 53.1,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 34.39,
+        "pe_ratio": 31.23,
         "forward_return": 4.56,
         "start_price": 44.45,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 38.4,
+        "pe_ratio": 36.92,
         "forward_return": 4.49,
         "start_price": 48.0,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 37.5,
+        "pe_ratio": 34.7,
         "forward_return": 5.04,
         "start_price": 46.5,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 34.11,
+        "pe_ratio": 30.4,
         "forward_return": 7.31,
         "start_price": 41.95,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 35.49,
+        "pe_ratio": 32.97,
         "forward_return": 13.65,
         "start_price": 43.3,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.03,
         "forward_return": 17.66,
         "start_price": 33.7,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.12,
+        "pe_ratio": 28.6,
         "forward_return": 19.92,
         "start_price": 33.75,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 31.43,
+        "pe_ratio": 36.67,
         "forward_return": 26.07,
         "start_price": 37.4,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 26.78,
+        "pe_ratio": 36.74,
         "forward_return": 27.34,
         "start_price": 31.6,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 27.48,
+        "pe_ratio": 45.93,
         "forward_return": 30.49,
         "start_price": 32.15,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 27.11,
+        "pe_ratio": 37.15,
         "forward_return": 45.86,
         "start_price": 31.45,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 29.7,
         "forward_return": 45.54,
         "start_price": 29.5,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 24.2,
+        "pe_ratio": 18.41,
         "forward_return": 45.01,
         "start_price": 32.15,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 23.74,
+        "pe_ratio": 15.3,
         "forward_return": 50.63,
         "start_price": 36.0,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 12.67,
         "forward_return": 52.78,
         "start_price": 37.5,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.36,
+        "pe_ratio": 12.24,
         "forward_return": 48.78,
         "start_price": 36.65,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.63,
+        "pe_ratio": 12.13,
         "forward_return": 46.44,
         "start_price": 36.7,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 16.94,
+        "pe_ratio": 12.57,
         "forward_return": 38.74,
         "start_price": 38.45,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.84,
+        "pe_ratio": 13.1,
         "forward_return": 31.84,
         "start_price": 41.4,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.25,
+        "pe_ratio": 14.0,
         "forward_return": 33.82,
         "start_price": 45.65,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 12.63,
         "forward_return": 27.48,
         "start_price": 42.45,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.74,
         "forward_return": 26.63,
         "start_price": 46.35,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 19.9,
+        "pe_ratio": 18.87,
         "forward_return": 22.66,
         "start_price": 63.9,
         "start_year": 2017
@@ -13089,7 +13089,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.52,
+        "pe_ratio": 29.35,
         "forward_return": 16.88,
         "start_price": 81.8,
         "start_year": 2018
@@ -13098,7 +13098,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.56,
+        "pe_ratio": 31.24,
         "forward_return": 23.42,
         "start_price": 67.9,
         "start_year": 2018
@@ -13107,7 +13107,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 44.49,
         "forward_return": 24.24,
         "start_price": 69.4,
         "start_year": 2018
@@ -13116,7 +13116,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.57,
+        "pe_ratio": 48.2,
         "forward_return": 20.88,
         "start_price": 67.0,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 26.14,
+        "pe_ratio": 51.97,
         "forward_return": 23.27,
         "start_price": 63.4,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 26.82,
+        "pe_ratio": 56.95,
         "forward_return": 29.75,
         "start_price": 59.8,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 29.48,
+        "pe_ratio": 59.8,
         "forward_return": 41.24,
         "start_price": 60.0,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 74.84,
         "forward_return": 37.84,
         "start_price": 71.6,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 33.13,
+        "pe_ratio": 59.89,
         "forward_return": 42.24,
         "start_price": 54.5,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 22.07,
+        "pe_ratio": 33.33,
         "forward_return": 57.82,
         "start_price": 32.0,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 32.59,
+        "pe_ratio": 40.5,
         "forward_return": 57.53,
         "start_price": 40.9,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 39.51,
+        "pe_ratio": 39.09,
         "forward_return": 58.33,
         "start_price": 43.0,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 41.15,
+        "pe_ratio": 40.31,
         "forward_return": 54.02,
         "start_price": 45.95,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 37.75,
         "forward_return": 51.44,
         "start_price": 44.55,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 43.38,
+        "pe_ratio": 42.07,
         "forward_return": 43.06,
         "start_price": 50.9,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 36.53,
+        "pe_ratio": 35.4,
         "forward_return": 47.69,
         "start_price": 43.9,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 39.27,
+        "pe_ratio": 38.03,
         "forward_return": 48.34,
         "start_price": 48.3,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 49.99,
+        "pe_ratio": 46.48,
         "forward_return": 37.66,
         "start_price": 62.9,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 44.15,
+        "pe_ratio": 39.54,
         "forward_return": 41.17,
         "start_price": 56.8,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 43.95,
+        "pe_ratio": 38.03,
         "forward_return": 37.15,
         "start_price": 57.8,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 43.18,
+        "pe_ratio": 39.19,
         "forward_return": 33.83,
         "start_price": 58.0,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 40.46,
+        "pe_ratio": 38.54,
         "forward_return": 33.64,
         "start_price": 55.5,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 36.01,
+        "pe_ratio": 37.18,
         "forward_return": 37.1,
         "start_price": 49.45,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 32.71,
+        "pe_ratio": 34.96,
         "forward_return": 38.1,
         "start_price": 44.05,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 30.5,
         "forward_return": 44.32,
         "start_price": 36.3,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 33.52,
+        "pe_ratio": 33.26,
         "forward_return": 35.05,
         "start_price": 43.35,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 34.42,
+        "pe_ratio": 30.78,
         "forward_return": 34.33,
         "start_price": 43.6,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 37.42,
+        "pe_ratio": 30.33,
         "forward_return": 33.97,
         "start_price": 46.4,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 38.78,
+        "pe_ratio": 33.21,
         "forward_return": 29.16,
         "start_price": 47.05,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 36.57,
+        "pe_ratio": 33.3,
         "forward_return": 32.11,
         "start_price": 43.4,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 37.8,
+        "pe_ratio": 36.85,
         "forward_return": 31.91,
         "start_price": 43.85,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 36.75,
+        "pe_ratio": 36.11,
         "forward_return": 36.74,
         "start_price": 41.65,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 43.33,
+        "pe_ratio": 42.94,
         "forward_return": 31.79,
         "start_price": 47.95,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 37.89,
+        "pe_ratio": 41.65,
         "forward_return": 28.6,
         "start_price": 52.2,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 31.64,
+        "pe_ratio": 37.15,
         "forward_return": 28.35,
         "start_price": 53.0,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 9.83,
         "forward_return": 2.74,
         "start_price": 52.6,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 10.78,
         "forward_return": -0.29,
         "start_price": 57.0,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.37,
         "forward_return": -2.02,
         "start_price": 59.4,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.77,
+        "pe_ratio": 10.81,
         "forward_return": 0.1,
         "start_price": 55.8,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 10.19,
         "forward_return": 1.1,
         "start_price": 50.8,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.49,
         "forward_return": 1.68,
         "start_price": 50.4,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.19,
         "forward_return": 2.26,
         "start_price": 51.8,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.16,
         "forward_return": 0.57,
         "start_price": 47.4,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 12.5,
         "forward_return": -1.86,
         "start_price": 58.8,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.95,
         "forward_return": -6.23,
         "start_price": 73.9,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 19.17,
+        "pe_ratio": 17.84,
         "forward_return": -10.6,
         "start_price": 91.8,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 21.31,
         "forward_return": -13.5,
         "start_price": 114.0,
         "start_year": 2007
@@ -13548,7 +13548,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 18.73,
         "forward_return": -12.12,
         "start_price": 100.0,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.0,
+        "pe_ratio": 22.8,
         "forward_return": -14.5,
         "start_price": 121.5,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 26.92,
+        "pe_ratio": 24.72,
         "forward_return": -16.64,
         "start_price": 131.5,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 31.37,
+        "pe_ratio": 29.52,
         "forward_return": -18.16,
         "start_price": 154.0,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.89,
+        "pe_ratio": 21.12,
         "forward_return": -12.77,
         "start_price": 108.0,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 22.69,
+        "pe_ratio": 22.46,
         "forward_return": -14.23,
         "start_price": 112.5,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.84,
         "forward_return": -11.47,
         "start_price": 94.5,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.78,
         "forward_return": -9.53,
         "start_price": 84.3,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.6,
         "forward_return": 0.23,
         "start_price": 49.4,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 13.92,
+        "pe_ratio": 14.69,
         "forward_return": -1.9,
         "start_price": 63.0,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 16.53,
         "forward_return": -2.38,
         "start_price": 64.8,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.24,
         "forward_return": -2.99,
         "start_price": 63.6,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 17.37,
         "forward_return": -1.96,
         "start_price": 60.1,
         "start_year": 2008
@@ -13674,7 +13674,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.93,
         "forward_return": 2.89,
         "start_price": 45.0,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.34,
         "forward_return": -2.43,
         "start_price": 56.3,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 18.73,
         "forward_return": -2.72,
         "start_price": 54.5,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.93,
         "forward_return": 5.39,
         "start_price": 32.8,
         "start_year": 2008
@@ -13710,7 +13710,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.96,
         "forward_return": 3.45,
         "start_price": 34.9,
         "start_year": 2008
@@ -13719,7 +13719,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.54,
+        "pe_ratio": 11.56,
         "forward_return": 7.92,
         "start_price": 26.0,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 14.06,
         "forward_return": 11.07,
         "start_price": 26.2,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.58,
+        "pe_ratio": 21.72,
         "forward_return": 5.3,
         "start_price": 37.5,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 21.87,
+        "pe_ratio": 27.89,
         "forward_return": 3.96,
         "start_price": 44.35,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 22.41,
+        "pe_ratio": 26.85,
         "forward_return": 2.45,
         "start_price": 45.65,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 28.64,
+        "pe_ratio": 32.38,
         "forward_return": -2.11,
         "start_price": 58.6,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 23.16,
+        "pe_ratio": 24.79,
         "forward_return": 0.29,
         "start_price": 47.6,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 28.53,
+        "pe_ratio": 30.0,
         "forward_return": -5.28,
         "start_price": 58.9,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 25.23,
+        "pe_ratio": 26.06,
         "forward_return": -4.87,
         "start_price": 52.3,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 27.9,
+        "pe_ratio": 28.34,
         "forward_return": -2.15,
         "start_price": 58.1,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.98,
         "forward_return": 3.51,
         "start_price": 51.7,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 26.7,
         "forward_return": -0.25,
         "start_price": 55.8,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 29.54,
+        "pe_ratio": 28.04,
         "forward_return": -1.2,
         "start_price": 62.9,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 25.74,
+        "pe_ratio": 23.27,
         "forward_return": 0.51,
         "start_price": 55.3,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 27.22,
+        "pe_ratio": 23.51,
         "forward_return": -1.94,
         "start_price": 59.0,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 25.34,
+        "pe_ratio": 22.13,
         "forward_return": -0.49,
         "start_price": 55.4,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 20.95,
         "forward_return": -2.76,
         "start_price": 52.3,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 22.47,
+        "pe_ratio": 20.08,
         "forward_return": -2.01,
         "start_price": 50.0,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 21.21,
         "forward_return": -1.48,
         "start_price": 52.4,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 23.11,
+        "pe_ratio": 21.35,
         "forward_return": -3.55,
         "start_price": 52.3,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 26.42,
+        "pe_ratio": 24.81,
         "forward_return": -5.61,
         "start_price": 60.3,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 26.2,
+        "pe_ratio": 25.12,
         "forward_return": -5.87,
         "start_price": 60.3,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 25.38,
+        "pe_ratio": 24.85,
         "forward_return": -6.24,
         "start_price": 58.9,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 29.12,
+        "pe_ratio": 28.21,
         "forward_return": -6.34,
         "start_price": 63.2,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 24.93,
+        "pe_ratio": 23.29,
         "forward_return": -1.15,
         "start_price": 49.85,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 24.45,
+        "pe_ratio": 21.94,
         "forward_return": 1.18,
         "start_price": 44.75,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 25.63,
+        "pe_ratio": 23.42,
         "forward_return": 1.73,
         "start_price": 42.55,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 30.6,
+        "pe_ratio": 28.62,
         "forward_return": 0.58,
         "start_price": 45.6,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 32.92,
+        "pe_ratio": 31.72,
         "forward_return": 2.01,
         "start_price": 43.45,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 32.43,
+        "pe_ratio": 35.52,
         "forward_return": 5.49,
         "start_price": 37.3,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.69,
+        "pe_ratio": 39.86,
         "forward_return": 11.41,
         "start_price": 29.1,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 36.79,
+        "pe_ratio": 72.68,
         "forward_return": 9.88,
         "start_price": 29.8,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 43.05,
+        "pe_ratio": 73.79,
         "forward_return": 12.67,
         "start_price": 27.55,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 47.77,
+        "pe_ratio": 66.68,
         "forward_return": 21.96,
         "start_price": 22.45,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 84.82,
+        "pe_ratio": 103.9,
         "forward_return": 13.96,
         "start_price": 41.9,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 70.94,
+        "pe_ratio": 96.32,
         "forward_return": 8.34,
         "start_price": 48.8,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 53.07,
+        "pe_ratio": 76.72,
         "forward_return": 9.21,
         "start_price": 46.8,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 38.06,
+        "pe_ratio": 48.94,
         "forward_return": 11.1,
         "start_price": 40.95,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 35.27,
         "forward_return": 11.85,
         "start_price": 37.5,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 28.08,
+        "pe_ratio": 31.86,
         "forward_return": 9.23,
         "start_price": 41.1,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 25.31,
         "forward_return": 9.64,
         "start_price": 41.0,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 22.92,
+        "pe_ratio": 21.77,
         "forward_return": 11.78,
         "start_price": 42.45,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 22.49,
+        "pe_ratio": 20.18,
         "forward_return": 6.13,
         "start_price": 46.0,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 14.94,
         "forward_return": 3.19,
         "start_price": 35.8,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.15,
+        "pe_ratio": 15.65,
         "forward_return": 4.82,
         "start_price": 39.3,
         "start_year": 2012
@@ -14169,7 +14169,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.26,
         "forward_return": 6.58,
         "start_price": 37.0,
         "start_year": 2013
@@ -14178,7 +14178,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.3,
+        "pe_ratio": 13.11,
         "forward_return": 9.26,
         "start_price": 33.6,
         "start_year": 2013
@@ -14187,7 +14187,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.64,
         "forward_return": 8.33,
         "start_price": 34.5,
         "start_year": 2013
@@ -14196,7 +14196,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.53,
+        "pe_ratio": 13.35,
         "forward_return": 11.23,
         "start_price": 32.8,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.35,
         "forward_return": 8.28,
         "start_price": 34.2,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.35,
         "forward_return": 11.58,
         "start_price": 30.85,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 15.09,
+        "pe_ratio": 15.5,
         "forward_return": 13.4,
         "start_price": 34.3,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.82,
         "forward_return": 11.07,
         "start_price": 35.6,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.1,
+        "pe_ratio": 16.24,
         "forward_return": 12.87,
         "start_price": 32.8,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.58,
         "forward_return": 12.53,
         "start_price": 33.5,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 16.96,
         "forward_return": 11.42,
         "start_price": 34.25,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 19.15,
+        "pe_ratio": 19.24,
         "forward_return": 7.7,
         "start_price": 38.1,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.37,
+        "pe_ratio": 22.58,
         "forward_return": 3.57,
         "start_price": 43.8,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.88,
+        "pe_ratio": 23.21,
         "forward_return": 0.82,
         "start_price": 44.1,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 21.64,
+        "pe_ratio": 21.57,
         "forward_return": 4.47,
         "start_price": 41.05,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 21.71,
         "forward_return": 4.4,
         "start_price": 41.4,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 22.56,
+        "pe_ratio": 21.68,
         "forward_return": 5.29,
         "start_price": 41.4,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 20.56,
         "forward_return": 6.68,
         "start_price": 38.1,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 20.13,
+        "pe_ratio": 19.87,
         "forward_return": 6.64,
         "start_price": 35.7,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 19.77,
+        "pe_ratio": 19.8,
         "forward_return": 7.43,
         "start_price": 34.45,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.89,
         "forward_return": 7.83,
         "start_price": 32.3,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 23.27,
         "forward_return": 7.97,
         "start_price": 38.7,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 25.65,
+        "pe_ratio": 24.24,
         "forward_return": 7.32,
         "start_price": 40.65,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.31,
+        "pe_ratio": 26.92,
         "forward_return": 5.07,
         "start_price": 45.5,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 27.83,
+        "pe_ratio": 25.38,
         "forward_return": 12.03,
         "start_price": 42.3,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 27.63,
+        "pe_ratio": 25.01,
         "forward_return": 11.15,
         "start_price": 41.1,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.08,
+        "pe_ratio": 23.43,
         "forward_return": 14.43,
         "start_price": 37.95,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 22.53,
+        "pe_ratio": 19.27,
         "forward_return": 24.8,
         "start_price": 32.05,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 20.32,
+        "pe_ratio": 16.55,
         "forward_return": 25.0,
         "start_price": 28.25,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 29.83,
+        "pe_ratio": 23.14,
         "forward_return": 20.43,
         "start_price": 40.5,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 40.08,
+        "pe_ratio": 33.47,
         "forward_return": 25.71,
         "start_price": 53.1,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 34.39,
+        "pe_ratio": 31.23,
         "forward_return": 27.9,
         "start_price": 44.45,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 38.4,
+        "pe_ratio": 36.92,
         "forward_return": 27.69,
         "start_price": 48.0,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 37.5,
+        "pe_ratio": 34.7,
         "forward_return": 36.91,
         "start_price": 46.5,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 34.11,
+        "pe_ratio": 30.4,
         "forward_return": 39.88,
         "start_price": 41.95,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 35.49,
+        "pe_ratio": 32.97,
         "forward_return": 35.6,
         "start_price": 43.3,
         "start_year": 2016
@@ -14529,7 +14529,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.03,
         "forward_return": 39.58,
         "start_price": 33.7,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.12,
+        "pe_ratio": 28.6,
         "forward_return": 34.49,
         "start_price": 33.75,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 31.43,
+        "pe_ratio": 36.67,
         "forward_return": 28.19,
         "start_price": 37.4,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 26.78,
+        "pe_ratio": 36.74,
         "forward_return": 35.66,
         "start_price": 31.6,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 27.48,
+        "pe_ratio": 45.93,
         "forward_return": 28.38,
         "start_price": 32.15,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 27.11,
+        "pe_ratio": 37.15,
         "forward_return": 30.02,
         "start_price": 31.45,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 29.7,
         "forward_return": 34.99,
         "start_price": 29.5,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 24.2,
+        "pe_ratio": 18.41,
         "forward_return": 33.19,
         "start_price": 32.15,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 23.74,
+        "pe_ratio": 15.3,
         "forward_return": 32.58,
         "start_price": 36.0,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 12.67,
         "forward_return": 32.88,
         "start_price": 37.5,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.36,
+        "pe_ratio": 12.24,
         "forward_return": 29.64,
         "start_price": 36.65,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.63,
+        "pe_ratio": 12.13,
         "forward_return": 30.52,
         "start_price": 36.7,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 16.94,
+        "pe_ratio": 12.57,
         "forward_return": 33.84,
         "start_price": 38.45,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.84,
+        "pe_ratio": 13.1,
         "forward_return": 42.05,
         "start_price": 41.4,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.25,
+        "pe_ratio": 14.0,
         "forward_return": 41.02,
         "start_price": 45.65,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 12.63,
         "forward_return": 40.03,
         "start_price": 42.45,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.74,
         "forward_return": 37.7,
         "start_price": 46.35,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 19.9,
+        "pe_ratio": 18.87,
         "forward_return": 35.73,
         "start_price": 63.9,
         "start_year": 2017
@@ -14709,7 +14709,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.52,
+        "pe_ratio": 29.35,
         "forward_return": 31.89,
         "start_price": 81.8,
         "start_year": 2018
@@ -14718,7 +14718,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.56,
+        "pe_ratio": 31.24,
         "forward_return": 34.45,
         "start_price": 67.9,
         "start_year": 2018
@@ -14727,7 +14727,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 44.49,
         "forward_return": 31.43,
         "start_price": 69.4,
         "start_year": 2018
@@ -14736,7 +14736,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.57,
+        "pe_ratio": 48.2,
         "forward_return": 28.93,
         "start_price": 67.0,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 26.14,
+        "pe_ratio": 51.97,
         "forward_return": 30.37,
         "start_price": 63.4,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 26.82,
+        "pe_ratio": 56.95,
         "forward_return": 34.23,
         "start_price": 59.8,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 29.48,
+        "pe_ratio": 59.8,
         "forward_return": 31.61,
         "start_price": 60.0,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 74.84,
         "forward_return": 28.3,
         "start_price": 71.6,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 33.13,
+        "pe_ratio": 59.89,
         "forward_return": 31.47,
         "start_price": 54.5,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 22.07,
+        "pe_ratio": 33.33,
         "forward_return": 40.85,
         "start_price": 32.0,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 32.59,
+        "pe_ratio": 40.5,
         "forward_return": 34.06,
         "start_price": 40.9,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 39.51,
+        "pe_ratio": 39.09,
         "forward_return": 33.22,
         "start_price": 43.0,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 41.15,
+        "pe_ratio": 40.31,
         "forward_return": 32.96,
         "start_price": 45.95,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 37.75,
         "forward_return": 31.27,
         "start_price": 44.55,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 43.38,
+        "pe_ratio": 42.07,
         "forward_return": 25.14,
         "start_price": 50.9,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 36.53,
+        "pe_ratio": 35.4,
         "forward_return": 27.82,
         "start_price": 43.9,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 39.27,
+        "pe_ratio": 38.03,
         "forward_return": 26.82,
         "start_price": 48.3,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 49.99,
+        "pe_ratio": 46.48,
         "forward_return": 18.04,
         "start_price": 62.9,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 44.15,
+        "pe_ratio": 39.54,
         "forward_return": 20.7,
         "start_price": 56.8,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 43.95,
+        "pe_ratio": 38.03,
         "forward_return": 20.41,
         "start_price": 57.8,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 43.18,
+        "pe_ratio": 39.19,
         "forward_return": 22.93,
         "start_price": 58.0,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 40.46,
+        "pe_ratio": 38.54,
         "forward_return": 22.94,
         "start_price": 55.5,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 36.01,
+        "pe_ratio": 37.18,
         "forward_return": 24.55,
         "start_price": 49.45,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 9.83,
         "forward_return": 2.21,
         "start_price": 52.6,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 10.78,
         "forward_return": 0.56,
         "start_price": 57.0,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.37,
         "forward_return": 0.11,
         "start_price": 59.4,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.77,
+        "pe_ratio": 10.81,
         "forward_return": 0.9,
         "start_price": 55.8,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 10.19,
         "forward_return": 1.08,
         "start_price": 50.8,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.49,
         "forward_return": 0.62,
         "start_price": 50.4,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.19,
         "forward_return": -0.03,
         "start_price": 51.8,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.16,
         "forward_return": 0.55,
         "start_price": 47.4,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 12.5,
         "forward_return": -2.55,
         "start_price": 58.8,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.95,
         "forward_return": -3.42,
         "start_price": 73.9,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 19.17,
+        "pe_ratio": 17.84,
         "forward_return": -5.6,
         "start_price": 91.8,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 21.31,
         "forward_return": -7.19,
         "start_price": 114.0,
         "start_year": 2007
@@ -15051,7 +15051,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 18.73,
         "forward_return": -6.28,
         "start_price": 100.0,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.0,
+        "pe_ratio": 22.8,
         "forward_return": -8.76,
         "start_price": 121.5,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 26.92,
+        "pe_ratio": 24.72,
         "forward_return": -10.28,
         "start_price": 131.5,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 31.37,
+        "pe_ratio": 29.52,
         "forward_return": -13.66,
         "start_price": 154.0,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.89,
+        "pe_ratio": 21.12,
         "forward_return": -10.68,
         "start_price": 108.0,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 22.69,
+        "pe_ratio": 22.46,
         "forward_return": -8.35,
         "start_price": 112.5,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.84,
         "forward_return": -3.93,
         "start_price": 94.5,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.78,
         "forward_return": -4.17,
         "start_price": 84.3,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.6,
         "forward_return": 3.19,
         "start_price": 49.4,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 13.92,
+        "pe_ratio": 14.69,
         "forward_return": -0.2,
         "start_price": 63.0,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 16.53,
         "forward_return": -1.5,
         "start_price": 64.8,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.24,
         "forward_return": -0.98,
         "start_price": 63.6,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 17.37,
         "forward_return": -2.47,
         "start_price": 60.1,
         "start_year": 2008
@@ -15177,7 +15177,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.93,
         "forward_return": 1.13,
         "start_price": 45.0,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.34,
         "forward_return": -1.13,
         "start_price": 56.3,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 18.73,
         "forward_return": -2.2,
         "start_price": 54.5,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.93,
         "forward_return": 4.36,
         "start_price": 32.8,
         "start_year": 2008
@@ -15213,7 +15213,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.96,
         "forward_return": 3.36,
         "start_price": 34.9,
         "start_year": 2008
@@ -15222,7 +15222,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.54,
+        "pe_ratio": 11.56,
         "forward_return": 6.64,
         "start_price": 26.0,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 14.06,
         "forward_return": 7.33,
         "start_price": 26.2,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.58,
+        "pe_ratio": 21.72,
         "forward_return": 3.66,
         "start_price": 37.5,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 21.87,
+        "pe_ratio": 27.89,
         "forward_return": 1.89,
         "start_price": 44.35,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 22.41,
+        "pe_ratio": 26.85,
         "forward_return": 1.31,
         "start_price": 45.65,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 28.64,
+        "pe_ratio": 32.38,
         "forward_return": -1.79,
         "start_price": 58.6,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 23.16,
+        "pe_ratio": 24.79,
         "forward_return": 1.22,
         "start_price": 47.6,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 28.53,
+        "pe_ratio": 30.0,
         "forward_return": -0.87,
         "start_price": 58.9,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 25.23,
+        "pe_ratio": 26.06,
         "forward_return": 1.55,
         "start_price": 52.3,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 27.9,
+        "pe_ratio": 28.34,
         "forward_return": -0.47,
         "start_price": 58.1,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.98,
         "forward_return": 1.85,
         "start_price": 51.7,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 26.7,
         "forward_return": 4.18,
         "start_price": 55.8,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 29.54,
+        "pe_ratio": 28.04,
         "forward_return": 5.33,
         "start_price": 62.9,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 25.74,
+        "pe_ratio": 23.27,
         "forward_return": 4.95,
         "start_price": 55.3,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 27.22,
+        "pe_ratio": 23.51,
         "forward_return": 4.34,
         "start_price": 59.0,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 25.34,
+        "pe_ratio": 22.13,
         "forward_return": 4.78,
         "start_price": 55.4,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 20.95,
         "forward_return": 4.94,
         "start_price": 52.3,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 22.47,
+        "pe_ratio": 20.08,
         "forward_return": 4.9,
         "start_price": 50.0,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 21.21,
         "forward_return": 4.45,
         "start_price": 52.4,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 23.11,
+        "pe_ratio": 21.35,
         "forward_return": 6.38,
         "start_price": 52.3,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 26.42,
+        "pe_ratio": 24.81,
         "forward_return": 1.64,
         "start_price": 60.3,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 26.2,
+        "pe_ratio": 25.12,
         "forward_return": -3.27,
         "start_price": 60.3,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 25.38,
+        "pe_ratio": 24.85,
         "forward_return": -0.83,
         "start_price": 58.9,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 29.12,
+        "pe_ratio": 28.21,
         "forward_return": -1.24,
         "start_price": 63.2,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 24.93,
+        "pe_ratio": 23.29,
         "forward_return": 2.38,
         "start_price": 49.85,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 24.45,
+        "pe_ratio": 21.94,
         "forward_return": 3.46,
         "start_price": 44.75,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 25.63,
+        "pe_ratio": 23.42,
         "forward_return": 5.46,
         "start_price": 42.55,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 30.6,
+        "pe_ratio": 28.62,
         "forward_return": 3.08,
         "start_price": 45.6,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 32.92,
+        "pe_ratio": 31.72,
         "forward_return": 4.65,
         "start_price": 43.45,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 32.43,
+        "pe_ratio": 35.52,
         "forward_return": 9.38,
         "start_price": 37.3,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.69,
+        "pe_ratio": 39.86,
         "forward_return": 11.66,
         "start_price": 29.1,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 36.79,
+        "pe_ratio": 72.68,
         "forward_return": 11.52,
         "start_price": 29.8,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 43.05,
+        "pe_ratio": 73.79,
         "forward_return": 12.66,
         "start_price": 27.55,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 47.77,
+        "pe_ratio": 66.68,
         "forward_return": 15.07,
         "start_price": 22.45,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 84.82,
+        "pe_ratio": 103.9,
         "forward_return": 5.22,
         "start_price": 41.9,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 70.94,
+        "pe_ratio": 96.32,
         "forward_return": 2.09,
         "start_price": 48.8,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 53.07,
+        "pe_ratio": 76.72,
         "forward_return": 0.78,
         "start_price": 46.8,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 38.06,
+        "pe_ratio": 48.94,
         "forward_return": 4.19,
         "start_price": 40.95,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 35.27,
         "forward_return": 5.4,
         "start_price": 37.5,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 28.08,
+        "pe_ratio": 31.86,
         "forward_return": 4.82,
         "start_price": 41.1,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 25.31,
         "forward_return": 4.91,
         "start_price": 41.0,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 22.92,
+        "pe_ratio": 21.77,
         "forward_return": 3.64,
         "start_price": 42.45,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 22.49,
+        "pe_ratio": 20.18,
         "forward_return": 2.71,
         "start_price": 46.0,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 14.94,
         "forward_return": 5.46,
         "start_price": 35.8,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.15,
+        "pe_ratio": 15.65,
         "forward_return": 5.66,
         "start_price": 39.3,
         "start_year": 2012
@@ -15672,7 +15672,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.26,
         "forward_return": 7.36,
         "start_price": 37.0,
         "start_year": 2013
@@ -15681,7 +15681,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.3,
+        "pe_ratio": 13.11,
         "forward_return": 8.83,
         "start_price": 33.6,
         "start_year": 2013
@@ -15690,7 +15690,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.64,
         "forward_return": 8.28,
         "start_price": 34.5,
         "start_year": 2013
@@ -15699,7 +15699,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.53,
+        "pe_ratio": 13.35,
         "forward_return": 13.07,
         "start_price": 32.8,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.35,
         "forward_return": 11.47,
         "start_price": 34.2,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.35,
         "forward_return": 14.19,
         "start_price": 30.85,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 15.09,
+        "pe_ratio": 15.5,
         "forward_return": 17.5,
         "start_price": 34.3,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.82,
         "forward_return": 15.32,
         "start_price": 35.6,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.1,
+        "pe_ratio": 16.24,
         "forward_return": 18.45,
         "start_price": 32.8,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.58,
         "forward_return": 26.02,
         "start_price": 33.5,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 16.96,
         "forward_return": 24.53,
         "start_price": 34.25,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 19.15,
+        "pe_ratio": 19.24,
         "forward_return": 23.9,
         "start_price": 38.1,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.37,
+        "pe_ratio": 22.58,
         "forward_return": 26.36,
         "start_price": 43.8,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.88,
+        "pe_ratio": 23.21,
         "forward_return": 27.99,
         "start_price": 44.1,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 21.64,
+        "pe_ratio": 21.57,
         "forward_return": 26.7,
         "start_price": 41.05,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 21.71,
         "forward_return": 25.37,
         "start_price": 41.4,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 22.56,
+        "pe_ratio": 21.68,
         "forward_return": 22.0,
         "start_price": 41.4,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 20.56,
         "forward_return": 20.5,
         "start_price": 38.1,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 20.13,
+        "pe_ratio": 19.87,
         "forward_return": 24.07,
         "start_price": 35.7,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 19.77,
+        "pe_ratio": 19.8,
         "forward_return": 19.93,
         "start_price": 34.45,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.89,
         "forward_return": 21.7,
         "start_price": 32.3,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 23.27,
         "forward_return": 21.43,
         "start_price": 38.7,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 25.65,
+        "pe_ratio": 24.24,
         "forward_return": 21.96,
         "start_price": 40.65,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.31,
+        "pe_ratio": 26.92,
         "forward_return": 21.06,
         "start_price": 45.5,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 27.83,
+        "pe_ratio": 25.38,
         "forward_return": 19.63,
         "start_price": 42.3,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 27.63,
+        "pe_ratio": 25.01,
         "forward_return": 20.68,
         "start_price": 41.1,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.08,
+        "pe_ratio": 23.43,
         "forward_return": 24.88,
         "start_price": 37.95,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 22.53,
+        "pe_ratio": 19.27,
         "forward_return": 34.48,
         "start_price": 32.05,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 20.32,
+        "pe_ratio": 16.55,
         "forward_return": 37.55,
         "start_price": 28.25,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 29.83,
+        "pe_ratio": 23.14,
         "forward_return": 29.63,
         "start_price": 40.5,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 40.08,
+        "pe_ratio": 33.47,
         "forward_return": 25.12,
         "start_price": 53.1,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 34.39,
+        "pe_ratio": 31.23,
         "forward_return": 31.7,
         "start_price": 44.45,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 38.4,
+        "pe_ratio": 36.92,
         "forward_return": 31.66,
         "start_price": 48.0,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 37.5,
+        "pe_ratio": 34.7,
         "forward_return": 31.02,
         "start_price": 46.5,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 34.11,
+        "pe_ratio": 30.4,
         "forward_return": 30.87,
         "start_price": 41.95,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 35.49,
+        "pe_ratio": 32.97,
         "forward_return": 27.94,
         "start_price": 43.3,
         "start_year": 2016
@@ -16032,7 +16032,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.03,
         "forward_return": 32.2,
         "start_price": 33.7,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.12,
+        "pe_ratio": 28.6,
         "forward_return": 34.1,
         "start_price": 33.75,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 31.43,
+        "pe_ratio": 36.67,
         "forward_return": 30.56,
         "start_price": 37.4,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 26.78,
+        "pe_ratio": 36.74,
         "forward_return": 33.73,
         "start_price": 31.6,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 27.48,
+        "pe_ratio": 45.93,
         "forward_return": 31.37,
         "start_price": 32.15,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 27.11,
+        "pe_ratio": 37.15,
         "forward_return": 29.82,
         "start_price": 31.45,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 29.7,
         "forward_return": 30.04,
         "start_price": 29.5,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 24.2,
+        "pe_ratio": 18.41,
         "forward_return": 28.85,
         "start_price": 32.15,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 23.74,
+        "pe_ratio": 15.3,
         "forward_return": 27.89,
         "start_price": 36.0,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 12.67,
         "forward_return": 25.56,
         "start_price": 37.5,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.36,
+        "pe_ratio": 12.24,
         "forward_return": 23.57,
         "start_price": 36.65,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.63,
+        "pe_ratio": 12.13,
         "forward_return": 23.23,
         "start_price": 36.7,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 16.94,
+        "pe_ratio": 12.57,
         "forward_return": 23.25,
         "start_price": 38.45,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.84,
+        "pe_ratio": 13.1,
         "forward_return": 19.63,
         "start_price": 41.4,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.25,
+        "pe_ratio": 14.0,
         "forward_return": 18.64,
         "start_price": 45.65,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 12.63,
         "forward_return": 19.77,
         "start_price": 42.45,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.74,
         "forward_return": 20.33,
         "start_price": 46.35,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 19.9,
+        "pe_ratio": 18.87,
         "forward_return": 14.98,
         "start_price": 63.9,
         "start_year": 2017
@@ -16212,7 +16212,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.52,
+        "pe_ratio": 29.35,
         "forward_return": 10.98,
         "start_price": 81.8,
         "start_year": 2018
@@ -16221,7 +16221,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.56,
+        "pe_ratio": 31.24,
         "forward_return": 13.67,
         "start_price": 67.9,
         "start_year": 2018
@@ -16230,7 +16230,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 9.83,
         "forward_return": 1.98,
         "start_price": 52.6,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 10.78,
         "forward_return": 1.38,
         "start_price": 57.0,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.37,
         "forward_return": -0.63,
         "start_price": 59.4,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.77,
+        "pe_ratio": 10.81,
         "forward_return": 0.0,
         "start_price": 55.8,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 10.19,
         "forward_return": 1.36,
         "start_price": 50.8,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.49,
         "forward_return": 0.38,
         "start_price": 50.4,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.19,
         "forward_return": 0.21,
         "start_price": 51.8,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.16,
         "forward_return": 0.97,
         "start_price": 47.4,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 12.5,
         "forward_return": -1.56,
         "start_price": 58.8,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 14.95,
         "forward_return": -3.29,
         "start_price": 73.9,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 19.17,
+        "pe_ratio": 17.84,
         "forward_return": -4.69,
         "start_price": 91.8,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 21.31,
         "forward_return": -6.49,
         "start_price": 114.0,
         "start_year": 2007
@@ -16347,7 +16347,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.68,
+        "pe_ratio": 18.73,
         "forward_return": -5.4,
         "start_price": 100.0,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.0,
+        "pe_ratio": 22.8,
         "forward_return": -7.21,
         "start_price": 121.5,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 26.92,
+        "pe_ratio": 24.72,
         "forward_return": -7.67,
         "start_price": 131.5,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 31.37,
+        "pe_ratio": 29.52,
         "forward_return": -9.01,
         "start_price": 154.0,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.89,
+        "pe_ratio": 21.12,
         "forward_return": -5.08,
         "start_price": 108.0,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 22.69,
+        "pe_ratio": 22.46,
         "forward_return": -5.95,
         "start_price": 112.5,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.84,
         "forward_return": -3.7,
         "start_price": 94.5,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.78,
         "forward_return": -0.23,
         "start_price": 84.3,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.6,
         "forward_return": 7.34,
         "start_price": 49.4,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 13.92,
+        "pe_ratio": 14.69,
         "forward_return": 3.36,
         "start_price": 63.0,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 16.53,
         "forward_return": 3.09,
         "start_price": 64.8,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.24,
         "forward_return": 3.0,
         "start_price": 63.6,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 17.37,
         "forward_return": 3.14,
         "start_price": 60.1,
         "start_year": 2008
@@ -16473,7 +16473,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.93,
         "forward_return": 5.69,
         "start_price": 45.0,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.34,
         "forward_return": 3.27,
         "start_price": 56.3,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 18.73,
         "forward_return": 5.06,
         "start_price": 54.5,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.93,
         "forward_return": 8.21,
         "start_price": 32.8,
         "start_year": 2008
@@ -16509,7 +16509,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.96,
         "forward_return": 3.6,
         "start_price": 34.9,
         "start_year": 2008
@@ -16518,7 +16518,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.54,
+        "pe_ratio": 11.56,
         "forward_return": 8.47,
         "start_price": 26.0,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 14.06,
         "forward_return": 8.77,
         "start_price": 26.2,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.58,
+        "pe_ratio": 21.72,
         "forward_return": 5.43,
         "start_price": 37.5,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 21.87,
+        "pe_ratio": 27.89,
         "forward_return": 3.45,
         "start_price": 44.35,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 22.41,
+        "pe_ratio": 26.85,
         "forward_return": 4.16,
         "start_price": 45.65,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 28.64,
+        "pe_ratio": 32.38,
         "forward_return": 0.5,
         "start_price": 58.6,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 23.16,
+        "pe_ratio": 24.79,
         "forward_return": 3.32,
         "start_price": 47.6,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 28.53,
+        "pe_ratio": 30.0,
         "forward_return": 3.1,
         "start_price": 58.9,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 25.23,
+        "pe_ratio": 26.06,
         "forward_return": 3.5,
         "start_price": 52.3,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 27.9,
+        "pe_ratio": 28.34,
         "forward_return": 2.56,
         "start_price": 58.1,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.98,
         "forward_return": 3.79,
         "start_price": 51.7,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 26.56,
+        "pe_ratio": 26.7,
         "forward_return": 2.65,
         "start_price": 55.8,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 29.54,
+        "pe_ratio": 28.04,
         "forward_return": 0.55,
         "start_price": 62.9,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 25.74,
+        "pe_ratio": 23.27,
         "forward_return": 0.99,
         "start_price": 55.3,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 27.22,
+        "pe_ratio": 23.51,
         "forward_return": -1.01,
         "start_price": 59.0,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 25.34,
+        "pe_ratio": 22.13,
         "forward_return": 0.86,
         "start_price": 55.4,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 20.95,
         "forward_return": 1.48,
         "start_price": 52.3,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 22.47,
+        "pe_ratio": 20.08,
         "forward_return": 2.4,
         "start_price": 50.0,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 23.35,
+        "pe_ratio": 21.21,
         "forward_return": 1.88,
         "start_price": 52.4,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 23.11,
+        "pe_ratio": 21.35,
         "forward_return": 1.3,
         "start_price": 52.3,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 26.42,
+        "pe_ratio": 24.81,
         "forward_return": -0.06,
         "start_price": 60.3,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 26.2,
+        "pe_ratio": 25.12,
         "forward_return": -0.43,
         "start_price": 60.3,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 25.38,
+        "pe_ratio": 24.85,
         "forward_return": 0.84,
         "start_price": 58.9,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 29.12,
+        "pe_ratio": 28.21,
         "forward_return": 0.78,
         "start_price": 63.2,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 24.93,
+        "pe_ratio": 23.29,
         "forward_return": 3.32,
         "start_price": 49.85,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 24.45,
+        "pe_ratio": 21.94,
         "forward_return": 4.3,
         "start_price": 44.75,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 25.63,
+        "pe_ratio": 23.42,
         "forward_return": 7.85,
         "start_price": 42.55,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 30.6,
+        "pe_ratio": 28.62,
         "forward_return": 6.36,
         "start_price": 45.6,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 32.92,
+        "pe_ratio": 31.72,
         "forward_return": 7.81,
         "start_price": 43.45,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 32.43,
+        "pe_ratio": 35.52,
         "forward_return": 13.13,
         "start_price": 37.3,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.69,
+        "pe_ratio": 39.86,
         "forward_return": 14.71,
         "start_price": 29.1,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 36.79,
+        "pe_ratio": 72.68,
         "forward_return": 15.92,
         "start_price": 29.8,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 43.05,
+        "pe_ratio": 73.79,
         "forward_return": 22.9,
         "start_price": 27.55,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 47.77,
+        "pe_ratio": 66.68,
         "forward_return": 24.54,
         "start_price": 22.45,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 84.82,
+        "pe_ratio": 103.9,
         "forward_return": 17.77,
         "start_price": 41.9,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 70.94,
+        "pe_ratio": 96.32,
         "forward_return": 20.55,
         "start_price": 48.8,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 53.07,
+        "pe_ratio": 76.72,
         "forward_return": 21.24,
         "start_price": 46.8,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 38.06,
+        "pe_ratio": 48.94,
         "forward_return": 21.03,
         "start_price": 40.95,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 35.27,
         "forward_return": 21.19,
         "start_price": 37.5,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 28.08,
+        "pe_ratio": 31.86,
         "forward_return": 17.53,
         "start_price": 41.1,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 25.31,
         "forward_return": 15.51,
         "start_price": 41.0,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 22.92,
+        "pe_ratio": 21.77,
         "forward_return": 17.02,
         "start_price": 42.45,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 22.49,
+        "pe_ratio": 20.18,
         "forward_return": 12.65,
         "start_price": 46.0,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 14.94,
         "forward_return": 16.11,
         "start_price": 35.8,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.15,
+        "pe_ratio": 15.65,
         "forward_return": 16.82,
         "start_price": 39.3,
         "start_year": 2012
@@ -16968,7 +16968,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.26,
         "forward_return": 17.59,
         "start_price": 37.0,
         "start_year": 2013
@@ -16977,7 +16977,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.3,
+        "pe_ratio": 13.11,
         "forward_return": 19.7,
         "start_price": 33.6,
         "start_year": 2013
@@ -16986,7 +16986,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.64,
         "forward_return": 20.02,
         "start_price": 34.5,
         "start_year": 2013
@@ -16995,7 +16995,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 13.53,
+        "pe_ratio": 13.35,
         "forward_return": 18.66,
         "start_price": 32.8,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.35,
         "forward_return": 18.64,
         "start_price": 34.2,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.35,
         "forward_return": 22.17,
         "start_price": 30.85,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 15.09,
+        "pe_ratio": 15.5,
         "forward_return": 26.02,
         "start_price": 34.3,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.82,
         "forward_return": 26.23,
         "start_price": 35.6,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.1,
+        "pe_ratio": 16.24,
         "forward_return": 25.84,
         "start_price": 32.8,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.58,
         "forward_return": 25.42,
         "start_price": 33.5,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 16.96,
         "forward_return": 28.05,
         "start_price": 34.25,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 19.15,
+        "pe_ratio": 19.24,
         "forward_return": 27.63,
         "start_price": 38.1,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.37,
+        "pe_ratio": 22.58,
         "forward_return": 24.99,
         "start_price": 43.8,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.88,
+        "pe_ratio": 23.21,
         "forward_return": 23.51,
         "start_price": 44.1,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 21.64,
+        "pe_ratio": 21.57,
         "forward_return": 22.58,
         "start_price": 41.05,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 21.71,
         "forward_return": 22.61,
         "start_price": 41.4,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 22.56,
+        "pe_ratio": 21.68,
         "forward_return": 24.02,
         "start_price": 41.4,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 20.56,
         "forward_return": 23.68,
         "start_price": 38.1,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 20.13,
+        "pe_ratio": 19.87,
         "forward_return": 24.78,
         "start_price": 35.7,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 19.77,
+        "pe_ratio": 19.8,
         "forward_return": 23.68,
         "start_price": 34.45,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.89,
         "forward_return": 23.05,
         "start_price": 32.3,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 23.27,
         "forward_return": 20.4,
         "start_price": 38.7,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 25.65,
+        "pe_ratio": 24.24,
         "forward_return": 20.44,
         "start_price": 40.65,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.31,
+        "pe_ratio": 26.92,
         "forward_return": 17.85,
         "start_price": 45.5,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 27.83,
+        "pe_ratio": 25.38,
         "forward_return": 16.96,
         "start_price": 42.3,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 27.63,
+        "pe_ratio": 25.01,
         "forward_return": 17.07,
         "start_price": 41.1,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.08,
+        "pe_ratio": 23.43,
         "forward_return": 18.55,
         "start_price": 37.95,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 22.53,
+        "pe_ratio": 19.27,
         "forward_return": 18.61,
         "start_price": 32.05,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 20.32,
+        "pe_ratio": 16.55,
         "forward_return": 20.49,
         "start_price": 28.25,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 29.83,
+        "pe_ratio": 23.14,
         "forward_return": 16.26,
         "start_price": 40.5,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 40.08,
+        "pe_ratio": 33.47,
         "forward_return": 14.56,
         "start_price": 53.1,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 34.39,
+        "pe_ratio": 31.23,
         "forward_return": 16.12,
         "start_price": 44.45,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 38.4,
+        "pe_ratio": 36.92,
         "forward_return": 14.82,
         "start_price": 48.0,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 14.4倍、19.7倍、26.5倍、38.9倍、52.9倍"
+!!! note "本益比河流帶水位: 13.8倍、18.7倍、27.5倍、41.5倍、58.8倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
       {
         "date": "2006-03-16",
         "price": 52.6,
-        "pe": 11.1,
-        "pe_10": 68.33,
-        "pe_25": 93.2,
-        "pe_50": 125.53,
-        "pe_75": 184.38,
-        "pe_90": 250.8
+        "pe": 9.83,
+        "pe_10": 73.86,
+        "pe_25": 99.92,
+        "pe_50": 146.94,
+        "pe_75": 222.02,
+        "pe_90": 314.51
       },
       {
         "date": "2006-04-15",
         "price": 57.0,
-        "pe": 12.03,
-        "pe_10": 68.32,
-        "pe_25": 93.19,
-        "pe_50": 125.51,
-        "pe_75": 184.36,
-        "pe_90": 250.77
+        "pe": 10.78,
+        "pe_10": 72.98,
+        "pe_25": 98.73,
+        "pe_50": 145.2,
+        "pe_75": 219.39,
+        "pe_90": 310.79
       },
       {
         "date": "2006-05-16",
         "price": 59.4,
-        "pe": 12.53,
-        "pe_10": 68.36,
-        "pe_25": 93.24,
-        "pe_50": 125.58,
-        "pe_75": 184.46,
-        "pe_90": 250.9
+        "pe": 11.37,
+        "pe_10": 72.11,
+        "pe_25": 97.55,
+        "pe_50": 143.46,
+        "pe_75": 216.77,
+        "pe_90": 307.07
       },
       {
         "date": "2006-06-15",
         "price": 55.8,
-        "pe": 11.77,
-        "pe_10": 68.36,
-        "pe_25": 93.24,
-        "pe_50": 125.59,
-        "pe_75": 184.47,
-        "pe_90": 250.92
+        "pe": 10.81,
+        "pe_10": 71.25,
+        "pe_25": 96.39,
+        "pe_50": 141.75,
+        "pe_75": 214.18,
+        "pe_90": 303.4
       },
       {
         "date": "2006-07-16",
         "price": 50.8,
-        "pe": 10.72,
-        "pe_10": 68.33,
-        "pe_25": 93.2,
-        "pe_50": 125.53,
-        "pe_75": 184.39,
-        "pe_90": 250.81
+        "pe": 10.19,
+        "pe_10": 68.81,
+        "pe_25": 93.09,
+        "pe_50": 136.9,
+        "pe_75": 206.85,
+        "pe_90": 293.02
       },
       {
         "date": "2006-08-16",
         "price": 50.4,
-        "pe": 10.63,
-        "pe_10": 68.36,
-        "pe_25": 93.25,
-        "pe_50": 125.6,
-        "pe_75": 184.48,
-        "pe_90": 250.94
+        "pe": 10.49,
+        "pe_10": 66.32,
+        "pe_25": 89.71,
+        "pe_50": 131.93,
+        "pe_75": 199.35,
+        "pe_90": 282.4
       },
       {
         "date": "2006-09-15",
         "price": 51.8,
-        "pe": 10.93,
-        "pe_10": 68.34,
-        "pe_25": 93.21,
-        "pe_50": 125.54,
-        "pe_75": 184.4,
-        "pe_90": 250.83
+        "pe": 11.19,
+        "pe_10": 63.9,
+        "pe_25": 86.44,
+        "pe_50": 127.12,
+        "pe_75": 192.07,
+        "pe_90": 272.09
       },
       {
         "date": "2006-10-16",
         "price": 47.4,
-        "pe": 10.0,
-        "pe_10": 68.35,
-        "pe_25": 93.22,
-        "pe_50": 125.56,
-        "pe_75": 184.43,
-        "pe_90": 250.87
+        "pe": 10.16,
+        "pe_10": 64.4,
+        "pe_25": 87.11,
+        "pe_50": 128.11,
+        "pe_75": 193.58,
+        "pe_90": 274.22
       },
       {
         "date": "2006-11-15",
         "price": 58.8,
-        "pe": 12.41,
-        "pe_10": 68.32,
-        "pe_25": 93.19,
-        "pe_50": 125.51,
-        "pe_75": 184.36,
-        "pe_90": 250.77
+        "pe": 12.5,
+        "pe_10": 64.93,
+        "pe_25": 87.84,
+        "pe_50": 129.17,
+        "pe_75": 195.18,
+        "pe_90": 276.49
       },
       {
         "date": "2006-12-16",
         "price": 78.8,
         "pe": 16.62,
-        "pe_10": 68.36,
-        "pe_25": 93.25,
-        "pe_50": 125.6,
-        "pe_75": 184.48,
-        "pe_90": 250.94
+        "pe_10": 65.44,
+        "pe_25": 88.53,
+        "pe_50": 130.2,
+        "pe_75": 196.73,
+        "pe_90": 278.68
       },
       {
         "date": "2007-01-16",
         "price": 73.9,
-        "pe": 15.51,
-        "pe_10": 68.7,
-        "pe_25": 93.71,
-        "pe_50": 126.22,
-        "pe_75": 185.39,
-        "pe_90": 252.17
+        "pe": 14.95,
+        "pe_10": 68.23,
+        "pe_25": 92.3,
+        "pe_50": 135.74,
+        "pe_75": 205.1,
+        "pe_90": 290.54
       },
       {
         "date": "2007-02-14",
         "price": 91.8,
-        "pe": 19.17,
-        "pe_10": 69.05,
-        "pe_25": 94.18,
-        "pe_50": 126.85,
-        "pe_75": 186.33,
-        "pe_90": 253.45
+        "pe": 17.84,
+        "pe_10": 71.03,
+        "pe_25": 96.08,
+        "pe_50": 141.3,
+        "pe_75": 213.51,
+        "pe_90": 302.45
       },
       {
         "date": "2007-03-16",
         "price": 114.0,
-        "pe": 23.69,
-        "pe_10": 69.39,
-        "pe_25": 94.64,
-        "pe_50": 127.47,
-        "pe_75": 187.24,
-        "pe_90": 254.69
+        "pe": 21.31,
+        "pe_10": 73.84,
+        "pe_25": 99.89,
+        "pe_50": 146.9,
+        "pe_75": 221.97,
+        "pe_90": 314.43
       },
       {
         "date": "2007-04-15",
         "price": 100.0,
-        "pe": 20.68,
-        "pe_10": 69.72,
-        "pe_25": 95.1,
-        "pe_50": 128.09,
-        "pe_75": 188.15,
-        "pe_90": 255.93
+        "pe": 18.73,
+        "pe_10": 73.69,
+        "pe_25": 99.69,
+        "pe_50": 146.61,
+        "pe_75": 221.53,
+        "pe_90": 313.81
       },
       {
         "date": "2007-05-16",
         "price": 121.5,
-        "pe": 25.0,
-        "pe_10": 70.08,
-        "pe_25": 95.58,
-        "pe_50": 128.74,
-        "pe_75": 189.1,
-        "pe_90": 257.22
+        "pe": 22.8,
+        "pe_10": 73.56,
+        "pe_25": 99.5,
+        "pe_50": 146.33,
+        "pe_75": 221.11,
+        "pe_90": 313.22
       },
       {
         "date": "2007-06-15",
         "price": 131.5,
-        "pe": 26.92,
-        "pe_10": 70.43,
-        "pe_25": 96.07,
-        "pe_50": 129.4,
-        "pe_75": 190.07,
-        "pe_90": 258.54
+        "pe": 24.72,
+        "pe_10": 73.43,
+        "pe_25": 99.33,
+        "pe_50": 146.08,
+        "pe_75": 220.72,
+        "pe_90": 312.67
       },
       {
         "date": "2007-07-16",
         "price": 154.0,
-        "pe": 31.37,
-        "pe_10": 70.79,
-        "pe_25": 96.55,
-        "pe_50": 130.04,
-        "pe_75": 191.01,
-        "pe_90": 259.82
+        "pe": 29.52,
+        "pe_10": 72.01,
+        "pe_25": 97.41,
+        "pe_50": 143.25,
+        "pe_75": 216.46,
+        "pe_90": 306.63
       },
       {
         "date": "2007-08-16",
         "price": 108.0,
-        "pe": 21.89,
-        "pe_10": 71.14,
-        "pe_25": 97.03,
-        "pe_50": 130.7,
-        "pe_75": 191.97,
-        "pe_90": 261.12
+        "pe": 21.12,
+        "pe_10": 70.58,
+        "pe_25": 95.48,
+        "pe_50": 140.42,
+        "pe_75": 212.18,
+        "pe_90": 300.56
       },
       {
         "date": "2007-09-15",
         "price": 112.5,
-        "pe": 22.69,
-        "pe_10": 71.49,
-        "pe_25": 97.51,
-        "pe_50": 131.34,
-        "pe_75": 192.92,
-        "pe_90": 262.41
+        "pe": 22.46,
+        "pe_10": 69.14,
+        "pe_25": 93.53,
+        "pe_50": 137.54,
+        "pe_75": 207.83,
+        "pe_90": 294.41
       },
       {
         "date": "2007-10-16",
         "price": 94.5,
-        "pe": 18.97,
-        "pe_10": 71.83,
-        "pe_25": 97.97,
-        "pe_50": 131.96,
-        "pe_75": 193.83,
-        "pe_90": 263.65
+        "pe": 18.84,
+        "pe_10": 69.23,
+        "pe_25": 93.66,
+        "pe_50": 137.74,
+        "pe_75": 208.12,
+        "pe_90": 294.82
       },
       {
         "date": "2007-11-15",
         "price": 84.3,
-        "pe": 16.84,
-        "pe_10": 72.18,
-        "pe_25": 98.45,
-        "pe_50": 132.61,
-        "pe_75": 194.78,
-        "pe_90": 264.94
+        "pe": 16.78,
+        "pe_10": 69.34,
+        "pe_25": 93.81,
+        "pe_50": 137.95,
+        "pe_75": 208.45,
+        "pe_90": 295.29
       },
       {
         "date": "2007-12-16",
         "price": 72.5,
         "pe": 14.41,
-        "pe_10": 72.55,
-        "pe_25": 98.95,
-        "pe_50": 133.28,
-        "pe_75": 195.77,
-        "pe_90": 266.28
+        "pe_10": 69.45,
+        "pe_25": 93.95,
+        "pe_50": 138.16,
+        "pe_75": 208.76,
+        "pe_90": 295.72
       },
       {
         "date": "2008-01-16",
         "price": 49.4,
-        "pe": 10.34,
-        "pe_10": 68.89,
-        "pe_25": 93.96,
-        "pe_50": 126.56,
-        "pe_75": 185.89,
-        "pe_90": 252.86
+        "pe": 10.6,
+        "pe_10": 64.33,
+        "pe_25": 87.02,
+        "pe_50": 127.97,
+        "pe_75": 193.37,
+        "pe_90": 273.92
       },
       {
         "date": "2008-02-15",
         "price": 63.0,
-        "pe": 13.92,
-        "pe_10": 65.26,
-        "pe_25": 89.01,
-        "pe_50": 119.89,
-        "pe_75": 176.1,
-        "pe_90": 239.54
+        "pe": 14.69,
+        "pe_10": 59.2,
+        "pe_25": 80.08,
+        "pe_50": 117.77,
+        "pe_75": 177.95,
+        "pe_90": 252.07
       },
       {
         "date": "2008-03-16",
         "price": 64.8,
-        "pe": 15.17,
-        "pe_10": 61.59,
-        "pe_25": 84.01,
-        "pe_50": 113.15,
-        "pe_75": 166.21,
-        "pe_90": 226.08
+        "pe": 16.53,
+        "pe_10": 54.11,
+        "pe_25": 73.2,
+        "pe_50": 107.65,
+        "pe_75": 162.66,
+        "pe_90": 230.41
       },
       {
         "date": "2008-04-15",
         "price": 63.6,
-        "pe": 15.82,
-        "pe_10": 57.97,
-        "pe_25": 79.07,
-        "pe_50": 106.5,
-        "pe_75": 156.43,
-        "pe_90": 212.77
+        "pe": 17.24,
+        "pe_10": 50.92,
+        "pe_25": 68.88,
+        "pe_50": 101.3,
+        "pe_75": 153.07,
+        "pe_90": 216.83
       },
       {
         "date": "2008-05-16",
         "price": 60.1,
-        "pe": 15.95,
-        "pe_10": 54.33,
-        "pe_25": 74.11,
-        "pe_50": 99.81,
-        "pe_75": 146.61,
-        "pe_90": 199.43
+        "pe": 17.37,
+        "pe_10": 47.76,
+        "pe_25": 64.61,
+        "pe_50": 95.01,
+        "pe_75": 143.56,
+        "pe_90": 203.37
       },
       {
         "date": "2008-06-15",
         "price": 45.0,
-        "pe": 12.8,
-        "pe_10": 50.69,
-        "pe_25": 69.14,
-        "pe_50": 93.13,
-        "pe_75": 136.79,
-        "pe_90": 186.07
+        "pe": 13.93,
+        "pe_10": 44.59,
+        "pe_25": 60.32,
+        "pe_50": 88.71,
+        "pe_75": 134.04,
+        "pe_90": 189.88
       },
       {
         "date": "2008-07-16",
         "price": 56.3,
-        "pe": 17.26,
-        "pe_10": 47.03,
-        "pe_25": 64.15,
-        "pe_50": 86.41,
-        "pe_75": 126.92,
-        "pe_90": 172.64
+        "pe": 18.34,
+        "pe_10": 42.37,
+        "pe_25": 57.32,
+        "pe_50": 84.3,
+        "pe_75": 127.37,
+        "pe_90": 180.43
       },
       {
         "date": "2008-08-16",
         "price": 54.5,
-        "pe": 18.11,
-        "pe_10": 43.39,
-        "pe_25": 59.19,
-        "pe_50": 79.72,
-        "pe_75": 117.1,
-        "pe_90": 159.27
+        "pe": 18.73,
+        "pe_10": 40.16,
+        "pe_25": 54.33,
+        "pe_50": 79.9,
+        "pe_75": 120.73,
+        "pe_90": 171.03
       },
       {
         "date": "2008-09-15",
         "price": 32.8,
-        "pe": 11.89,
-        "pe_10": 39.78,
-        "pe_25": 54.26,
-        "pe_50": 73.08,
-        "pe_75": 107.34,
-        "pe_90": 146.0
+        "pe": 11.93,
+        "pe_10": 37.95,
+        "pe_25": 51.34,
+        "pe_50": 75.5,
+        "pe_75": 114.08,
+        "pe_90": 161.6
       },
       {
         "date": "2008-10-16",
         "price": 34.9,
-        "pe": 13.93,
-        "pe_10": 36.13,
-        "pe_25": 49.27,
-        "pe_50": 66.37,
-        "pe_75": 97.48,
-        "pe_90": 132.6
+        "pe": 13.96,
+        "pe_10": 34.51,
+        "pe_25": 46.68,
+        "pe_50": 68.65,
+        "pe_75": 103.73,
+        "pe_90": 146.94
       },
       {
         "date": "2008-11-15",
         "price": 26.0,
-        "pe": 11.54,
-        "pe_10": 32.49,
-        "pe_25": 44.31,
-        "pe_50": 59.68,
-        "pe_75": 87.67,
-        "pe_90": 119.24
+        "pe": 11.56,
+        "pe_10": 31.04,
+        "pe_25": 42.0,
+        "pe_50": 61.76,
+        "pe_75": 93.32,
+        "pe_90": 132.2
       },
       {
         "date": "2008-12-16",
         "price": 26.05,
         "pe": 13.02,
-        "pe_10": 28.85,
-        "pe_25": 39.35,
-        "pe_50": 53.0,
-        "pe_75": 77.85,
-        "pe_90": 105.89
+        "pe_10": 27.62,
+        "pe_25": 37.36,
+        "pe_50": 54.94,
+        "pe_75": 83.02,
+        "pe_90": 117.6
       },
       {
         "date": "2009-01-16",
         "price": 26.2,
-        "pe": 13.04,
-        "pe_10": 28.97,
-        "pe_25": 39.52,
-        "pe_50": 53.22,
-        "pe_75": 78.18,
-        "pe_90": 106.34
+        "pe": 14.06,
+        "pe_10": 25.72,
+        "pe_25": 34.8,
+        "pe_50": 51.17,
+        "pe_75": 77.32,
+        "pe_90": 109.53
       },
       {
         "date": "2009-02-14",
         "price": 37.5,
-        "pe": 18.58,
-        "pe_10": 29.1,
-        "pe_25": 39.69,
-        "pe_50": 53.46,
-        "pe_75": 78.53,
-        "pe_90": 106.82
+        "pe": 21.72,
+        "pe_10": 23.83,
+        "pe_25": 32.24,
+        "pe_50": 47.41,
+        "pe_75": 71.64,
+        "pe_90": 101.48
       },
       {
         "date": "2009-03-16",
         "price": 44.35,
-        "pe": 21.87,
-        "pe_10": 29.24,
-        "pe_25": 39.88,
-        "pe_50": 53.72,
-        "pe_75": 78.91,
-        "pe_90": 107.33
+        "pe": 27.89,
+        "pe_10": 21.95,
+        "pe_25": 29.69,
+        "pe_50": 43.67,
+        "pe_75": 65.98,
+        "pe_90": 93.47
       },
       {
         "date": "2009-04-15",
         "price": 45.65,
-        "pe": 22.41,
-        "pe_10": 29.37,
-        "pe_25": 40.06,
-        "pe_50": 53.96,
-        "pe_75": 79.26,
-        "pe_90": 107.81
+        "pe": 26.85,
+        "pe_10": 23.47,
+        "pe_25": 31.75,
+        "pe_50": 46.69,
+        "pe_75": 70.54,
+        "pe_90": 99.93
       },
       {
         "date": "2009-05-16",
         "price": 58.6,
-        "pe": 28.64,
-        "pe_10": 29.5,
-        "pe_25": 40.24,
-        "pe_50": 54.2,
-        "pe_75": 79.61,
-        "pe_90": 108.29
+        "pe": 32.38,
+        "pe_10": 24.98,
+        "pe_25": 33.79,
+        "pe_50": 49.7,
+        "pe_75": 75.09,
+        "pe_90": 106.37
       },
       {
         "date": "2009-06-15",
         "price": 47.6,
-        "pe": 23.16,
-        "pe_10": 29.63,
-        "pe_25": 40.42,
-        "pe_50": 54.44,
-        "pe_75": 79.97,
-        "pe_90": 108.78
+        "pe": 24.79,
+        "pe_10": 26.5,
+        "pe_25": 35.85,
+        "pe_50": 52.73,
+        "pe_75": 79.67,
+        "pe_90": 112.86
       },
       {
         "date": "2009-07-16",
         "price": 58.9,
-        "pe": 28.53,
-        "pe_10": 29.77,
-        "pe_25": 40.6,
-        "pe_50": 54.69,
-        "pe_75": 80.33,
-        "pe_90": 109.27
+        "pe": 30.0,
+        "pe_10": 27.1,
+        "pe_25": 36.66,
+        "pe_50": 53.91,
+        "pe_75": 81.46,
+        "pe_90": 115.4
       },
       {
         "date": "2009-08-16",
         "price": 52.3,
-        "pe": 25.23,
-        "pe_10": 29.89,
-        "pe_25": 40.77,
-        "pe_50": 54.91,
-        "pe_75": 80.66,
-        "pe_90": 109.71
+        "pe": 26.06,
+        "pe_10": 27.7,
+        "pe_25": 37.47,
+        "pe_50": 55.11,
+        "pe_75": 83.27,
+        "pe_90": 117.96
       },
       {
         "date": "2009-09-15",
         "price": 58.1,
-        "pe": 27.9,
-        "pe_10": 30.03,
-        "pe_25": 40.96,
-        "pe_50": 55.16,
-        "pe_75": 81.03,
-        "pe_90": 110.22
+        "pe": 28.34,
+        "pe_10": 28.3,
+        "pe_25": 38.28,
+        "pe_50": 56.3,
+        "pe_75": 85.06,
+        "pe_90": 120.5
       },
       {
         "date": "2009-10-16",
         "price": 51.7,
-        "pe": 24.72,
-        "pe_10": 30.16,
-        "pe_25": 41.13,
-        "pe_50": 55.4,
-        "pe_75": 81.38,
-        "pe_90": 110.69
+        "pe": 24.98,
+        "pe_10": 28.57,
+        "pe_25": 38.65,
+        "pe_50": 56.83,
+        "pe_75": 85.88,
+        "pe_90": 121.65
       },
       {
         "date": "2009-11-15",
         "price": 55.8,
-        "pe": 26.56,
-        "pe_10": 30.29,
-        "pe_25": 41.32,
-        "pe_50": 55.65,
-        "pe_75": 81.75,
-        "pe_90": 111.19
+        "pe": 26.7,
+        "pe_10": 28.85,
+        "pe_25": 39.02,
+        "pe_50": 57.39,
+        "pe_75": 86.71,
+        "pe_90": 122.84
       },
       {
         "date": "2009-12-16",
         "price": 69.2,
         "pe": 32.8,
-        "pe_10": 30.42,
-        "pe_25": 41.49,
-        "pe_50": 55.89,
-        "pe_75": 82.09,
-        "pe_90": 111.66
+        "pe_10": 29.12,
+        "pe_25": 39.39,
+        "pe_50": 57.93,
+        "pe_75": 87.54,
+        "pe_90": 124.01
       },
       {
         "date": "2010-01-16",
         "price": 62.9,
-        "pe": 29.54,
-        "pe_10": 30.7,
-        "pe_25": 41.88,
-        "pe_50": 56.41,
-        "pe_75": 82.85,
-        "pe_90": 112.7
+        "pe": 28.04,
+        "pe_10": 30.96,
+        "pe_25": 41.89,
+        "pe_50": 61.6,
+        "pe_75": 93.08,
+        "pe_90": 131.85
       },
       {
         "date": "2010-02-14",
         "price": 55.3,
-        "pe": 25.74,
-        "pe_10": 30.98,
-        "pe_25": 42.25,
-        "pe_50": 56.91,
-        "pe_75": 83.59,
-        "pe_90": 113.71
+        "pe": 23.27,
+        "pe_10": 32.8,
+        "pe_25": 44.37,
+        "pe_50": 65.26,
+        "pe_75": 98.6,
+        "pe_90": 139.68
       },
       {
         "date": "2010-03-16",
         "price": 59.0,
-        "pe": 27.22,
-        "pe_10": 31.25,
-        "pe_25": 42.63,
-        "pe_50": 57.42,
-        "pe_75": 84.34,
-        "pe_90": 114.72
+        "pe": 23.51,
+        "pe_10": 34.64,
+        "pe_25": 46.86,
+        "pe_50": 68.91,
+        "pe_75": 104.13,
+        "pe_90": 147.51
       },
       {
         "date": "2010-04-15",
         "price": 55.4,
-        "pe": 25.34,
-        "pe_10": 31.52,
-        "pe_25": 43.0,
-        "pe_50": 57.91,
-        "pe_75": 85.07,
-        "pe_90": 115.71
+        "pe": 22.13,
+        "pe_10": 34.55,
+        "pe_25": 46.74,
+        "pe_50": 68.74,
+        "pe_75": 103.87,
+        "pe_90": 147.14
       },
       {
         "date": "2010-05-16",
         "price": 52.3,
-        "pe": 23.71,
-        "pe_10": 31.81,
-        "pe_25": 43.38,
-        "pe_50": 58.43,
-        "pe_75": 85.83,
-        "pe_90": 116.75
+        "pe": 20.95,
+        "pe_10": 34.46,
+        "pe_25": 46.61,
+        "pe_50": 68.55,
+        "pe_75": 103.58,
+        "pe_90": 146.73
       },
       {
         "date": "2010-06-15",
         "price": 50.0,
-        "pe": 22.47,
-        "pe_10": 32.09,
-        "pe_25": 43.76,
-        "pe_50": 58.95,
-        "pe_75": 86.58,
-        "pe_90": 117.77
+        "pe": 20.08,
+        "pe_10": 34.37,
+        "pe_25": 46.5,
+        "pe_50": 68.38,
+        "pe_75": 103.32,
+        "pe_90": 146.36
       },
       {
         "date": "2010-07-16",
         "price": 52.4,
-        "pe": 23.35,
-        "pe_10": 32.36,
-        "pe_25": 44.14,
-        "pe_50": 59.45,
-        "pe_75": 87.32,
-        "pe_90": 118.77
+        "pe": 21.21,
+        "pe_10": 34.1,
+        "pe_25": 46.13,
+        "pe_50": 67.84,
+        "pe_75": 102.51,
+        "pe_90": 145.21
       },
       {
         "date": "2010-08-16",
         "price": 52.3,
-        "pe": 23.11,
-        "pe_10": 32.63,
-        "pe_25": 44.51,
-        "pe_50": 59.95,
-        "pe_75": 88.06,
-        "pe_90": 119.78
+        "pe": 21.35,
+        "pe_10": 33.81,
+        "pe_25": 45.74,
+        "pe_50": 67.27,
+        "pe_75": 101.64,
+        "pe_90": 143.98
       },
       {
         "date": "2010-09-15",
         "price": 60.3,
-        "pe": 26.42,
-        "pe_10": 32.91,
-        "pe_25": 44.89,
-        "pe_50": 60.46,
-        "pe_75": 88.81,
-        "pe_90": 120.8
+        "pe": 24.81,
+        "pe_10": 33.55,
+        "pe_25": 45.38,
+        "pe_50": 66.74,
+        "pe_75": 100.85,
+        "pe_90": 142.86
       },
       {
         "date": "2010-10-16",
         "price": 60.3,
-        "pe": 26.2,
-        "pe_10": 33.19,
-        "pe_25": 45.27,
-        "pe_50": 60.97,
-        "pe_75": 89.55,
-        "pe_90": 121.81
+        "pe": 25.12,
+        "pe_10": 33.13,
+        "pe_25": 44.82,
+        "pe_50": 65.92,
+        "pe_75": 99.6,
+        "pe_90": 141.09
       },
       {
         "date": "2010-11-15",
         "price": 58.9,
-        "pe": 25.38,
-        "pe_10": 33.46,
-        "pe_25": 45.64,
-        "pe_50": 61.48,
-        "pe_75": 90.3,
-        "pe_90": 122.83
+        "pe": 24.85,
+        "pe_10": 32.72,
+        "pe_25": 44.26,
+        "pe_50": 65.09,
+        "pe_75": 98.35,
+        "pe_90": 139.31
       },
       {
         "date": "2010-12-16",
         "price": 57.0,
         "pe": 24.36,
-        "pe_10": 33.74,
-        "pe_25": 46.02,
-        "pe_50": 61.98,
-        "pe_75": 91.05,
-        "pe_90": 123.84
+        "pe_10": 32.3,
+        "pe_25": 43.69,
+        "pe_50": 64.25,
+        "pe_75": 97.09,
+        "pe_90": 137.53
       },
       {
         "date": "2011-01-16",
         "price": 63.2,
-        "pe": 29.12,
-        "pe_10": 31.29,
-        "pe_25": 42.68,
-        "pe_50": 57.49,
-        "pe_75": 84.45,
-        "pe_90": 114.87
+        "pe": 28.21,
+        "pe_10": 30.92,
+        "pe_25": 41.83,
+        "pe_50": 61.52,
+        "pe_75": 92.96,
+        "pe_90": 131.68
       },
       {
         "date": "2011-02-14",
         "price": 49.85,
-        "pe": 24.93,
-        "pe_10": 28.83,
-        "pe_25": 39.33,
-        "pe_50": 52.97,
-        "pe_75": 77.8,
-        "pe_90": 105.83
+        "pe": 23.29,
+        "pe_10": 29.54,
+        "pe_25": 39.97,
+        "pe_50": 58.78,
+        "pe_75": 88.81,
+        "pe_90": 125.81
       },
       {
         "date": "2011-03-16",
         "price": 44.75,
-        "pe": 24.45,
-        "pe_10": 26.39,
-        "pe_25": 36.0,
-        "pe_50": 48.48,
-        "pe_75": 71.22,
-        "pe_90": 96.87
+        "pe": 21.94,
+        "pe_10": 28.15,
+        "pe_25": 38.09,
+        "pe_50": 56.01,
+        "pe_75": 84.63,
+        "pe_90": 119.88
       },
       {
         "date": "2011-04-15",
         "price": 42.55,
-        "pe": 25.63,
-        "pe_10": 23.94,
-        "pe_25": 32.65,
-        "pe_50": 43.98,
-        "pe_75": 64.6,
-        "pe_90": 87.87
+        "pe": 23.42,
+        "pe_10": 25.08,
+        "pe_25": 33.92,
+        "pe_50": 49.89,
+        "pe_75": 75.38,
+        "pe_90": 106.79
       },
       {
         "date": "2011-05-16",
         "price": 45.6,
-        "pe": 30.6,
-        "pe_10": 21.49,
-        "pe_25": 29.31,
-        "pe_50": 39.48,
-        "pe_75": 57.98,
-        "pe_90": 78.87
+        "pe": 28.62,
+        "pe_10": 21.99,
+        "pe_25": 29.75,
+        "pe_50": 43.75,
+        "pe_75": 66.11,
+        "pe_90": 93.65
       },
       {
         "date": "2011-06-15",
         "price": 43.45,
-        "pe": 32.92,
-        "pe_10": 19.03,
-        "pe_25": 25.96,
-        "pe_50": 34.96,
-        "pe_75": 51.36,
-        "pe_90": 69.86
+        "pe": 31.72,
+        "pe_10": 18.91,
+        "pe_25": 25.58,
+        "pe_50": 37.61,
+        "pe_75": 56.84,
+        "pe_90": 80.51
       },
       {
         "date": "2011-07-16",
         "price": 37.3,
-        "pe": 32.43,
-        "pe_10": 16.58,
-        "pe_25": 22.62,
-        "pe_50": 30.47,
-        "pe_75": 44.75,
-        "pe_90": 60.87
+        "pe": 35.52,
+        "pe_10": 14.49,
+        "pe_25": 19.61,
+        "pe_50": 28.84,
+        "pe_75": 43.57,
+        "pe_90": 61.72
       },
       {
         "date": "2011-08-16",
         "price": 29.1,
-        "pe": 29.69,
-        "pe_10": 14.13,
-        "pe_25": 19.28,
-        "pe_50": 25.96,
-        "pe_75": 38.14,
-        "pe_90": 51.87
+        "pe": 39.86,
+        "pe_10": 10.08,
+        "pe_25": 13.63,
+        "pe_50": 20.05,
+        "pe_75": 30.29,
+        "pe_90": 42.91
       },
       {
         "date": "2011-09-15",
         "price": 29.8,
-        "pe": 36.79,
-        "pe_10": 11.68,
-        "pe_25": 15.93,
-        "pe_50": 21.46,
-        "pe_75": 31.52,
-        "pe_90": 42.87
+        "pe": 72.68,
+        "pe_10": 5.66,
+        "pe_25": 7.66,
+        "pe_50": 11.26,
+        "pe_75": 17.01,
+        "pe_90": 24.1
       },
       {
         "date": "2011-10-16",
         "price": 27.55,
-        "pe": 43.05,
-        "pe_10": 9.23,
-        "pe_25": 12.59,
-        "pe_50": 16.95,
-        "pe_75": 24.9,
-        "pe_90": 33.87
+        "pe": 73.79,
+        "pe_10": 5.15,
+        "pe_25": 6.97,
+        "pe_50": 10.25,
+        "pe_75": 15.49,
+        "pe_90": 21.94
       },
       {
         "date": "2011-11-15",
         "price": 22.45,
-        "pe": 47.77,
-        "pe_10": 6.78,
-        "pe_25": 9.24,
-        "pe_50": 12.45,
-        "pe_75": 18.29,
-        "pe_90": 24.87
+        "pe": 66.68,
+        "pe_10": 4.65,
+        "pe_25": 6.29,
+        "pe_50": 9.25,
+        "pe_75": 13.97,
+        "pe_90": 19.79
       },
       {
         "date": "2011-12-16",
         "price": 28.85,
         "pe": 96.17,
-        "pe_10": 4.33,
-        "pe_25": 5.9,
-        "pe_50": 7.95,
-        "pe_75": 11.67,
-        "pe_90": 15.88
+        "pe_10": 4.14,
+        "pe_25": 5.6,
+        "pe_50": 8.24,
+        "pe_75": 12.45,
+        "pe_90": 17.63
       },
       {
         "date": "2012-01-16",
         "price": 41.9,
-        "pe": 84.82,
-        "pe_10": 7.12,
-        "pe_25": 9.72,
-        "pe_50": 13.09,
-        "pe_75": 19.22,
-        "pe_90": 26.14
+        "pe": 103.9,
+        "pe_10": 5.57,
+        "pe_25": 7.53,
+        "pe_50": 11.07,
+        "pe_75": 16.73,
+        "pe_90": 23.7
       },
       {
         "date": "2012-02-15",
         "price": 48.8,
-        "pe": 70.94,
-        "pe_10": 9.92,
-        "pe_25": 13.53,
-        "pe_50": 18.22,
-        "pe_75": 26.77,
-        "pe_90": 36.41
+        "pe": 96.32,
+        "pe_10": 6.99,
+        "pe_25": 9.46,
+        "pe_50": 13.91,
+        "pe_75": 21.02,
+        "pe_90": 29.78
       },
       {
         "date": "2012-03-16",
         "price": 46.8,
-        "pe": 53.07,
-        "pe_10": 12.72,
-        "pe_25": 17.34,
-        "pe_50": 23.36,
-        "pe_75": 34.31,
-        "pe_90": 46.67
+        "pe": 76.72,
+        "pe_10": 8.42,
+        "pe_25": 11.39,
+        "pe_50": 16.75,
+        "pe_75": 25.31,
+        "pe_90": 35.85
       },
       {
         "date": "2012-04-15",
         "price": 40.95,
-        "pe": 38.06,
-        "pe_10": 15.51,
-        "pe_25": 21.16,
-        "pe_50": 28.5,
-        "pe_75": 41.86,
-        "pe_90": 56.94
+        "pe": 48.94,
+        "pe_10": 11.55,
+        "pe_25": 15.62,
+        "pe_50": 22.98,
+        "pe_75": 34.72,
+        "pe_90": 49.18
       },
       {
         "date": "2012-05-16",
         "price": 37.5,
-        "pe": 29.53,
-        "pe_10": 18.31,
-        "pe_25": 24.98,
-        "pe_50": 33.64,
-        "pe_75": 49.41,
-        "pe_90": 67.21
+        "pe": 35.27,
+        "pe_10": 14.68,
+        "pe_25": 19.85,
+        "pe_50": 29.2,
+        "pe_75": 44.12,
+        "pe_90": 62.49
       },
       {
         "date": "2012-06-15",
         "price": 41.1,
-        "pe": 28.08,
-        "pe_10": 21.1,
-        "pe_25": 28.79,
-        "pe_50": 38.77,
-        "pe_75": 56.95,
-        "pe_90": 77.47
+        "pe": 31.86,
+        "pe_10": 17.81,
+        "pe_25": 24.09,
+        "pe_50": 35.42,
+        "pe_75": 53.53,
+        "pe_90": 75.82
       },
       {
         "date": "2012-07-16",
         "price": 41.0,
-        "pe": 24.73,
-        "pe_10": 23.91,
-        "pe_25": 32.61,
-        "pe_50": 43.92,
-        "pe_75": 64.51,
-        "pe_90": 87.75
+        "pe": 25.31,
+        "pe_10": 22.36,
+        "pe_25": 30.25,
+        "pe_50": 44.48,
+        "pe_75": 67.21,
+        "pe_90": 95.21
       },
       {
         "date": "2012-08-16",
         "price": 42.45,
-        "pe": 22.92,
-        "pe_10": 26.71,
-        "pe_25": 36.43,
-        "pe_50": 49.06,
-        "pe_75": 72.06,
-        "pe_90": 98.02
+        "pe": 21.77,
+        "pe_10": 26.91,
+        "pe_25": 36.41,
+        "pe_50": 53.55,
+        "pe_75": 80.91,
+        "pe_90": 114.61
       },
       {
         "date": "2012-09-15",
         "price": 46.0,
-        "pe": 22.49,
-        "pe_10": 29.49,
-        "pe_25": 40.23,
-        "pe_50": 54.18,
-        "pe_75": 79.58,
-        "pe_90": 108.25
+        "pe": 20.18,
+        "pe_10": 31.46,
+        "pe_25": 42.56,
+        "pe_50": 62.59,
+        "pe_75": 94.58,
+        "pe_90": 133.98
       },
       {
         "date": "2012-10-16",
         "price": 35.8,
-        "pe": 15.98,
-        "pe_10": 32.3,
-        "pe_25": 44.06,
-        "pe_50": 59.35,
-        "pe_75": 87.17,
-        "pe_90": 118.57
+        "pe": 14.94,
+        "pe_10": 33.08,
+        "pe_25": 44.74,
+        "pe_50": 65.8,
+        "pe_75": 99.43,
+        "pe_90": 140.84
       },
       {
         "date": "2012-11-15",
         "price": 39.3,
-        "pe": 16.15,
-        "pe_10": 35.09,
-        "pe_25": 47.86,
-        "pe_50": 64.46,
-        "pe_75": 94.69,
-        "pe_90": 128.79
+        "pe": 15.65,
+        "pe_10": 34.66,
+        "pe_25": 46.89,
+        "pe_50": 68.96,
+        "pe_75": 104.2,
+        "pe_90": 147.6
       },
       {
         "date": "2012-12-16",
         "price": 38.35,
         "pe": 14.59,
-        "pe_10": 37.9,
-        "pe_25": 51.7,
-        "pe_50": 69.63,
-        "pe_75": 102.28,
-        "pe_90": 139.12
+        "pe_10": 36.28,
+        "pe_25": 49.08,
+        "pe_50": 72.18,
+        "pe_75": 109.06,
+        "pe_90": 154.5
       },
       {
         "date": "2013-01-16",
         "price": 37.0,
-        "pe": 14.36,
-        "pe_10": 37.15,
-        "pe_25": 50.68,
-        "pe_50": 68.25,
-        "pe_75": 100.26,
-        "pe_90": 136.37
+        "pe": 14.26,
+        "pe_10": 35.81,
+        "pe_25": 48.45,
+        "pe_50": 71.25,
+        "pe_75": 107.66,
+        "pe_90": 152.51
       },
       {
         "date": "2013-02-14",
         "price": 33.6,
-        "pe": 13.3,
-        "pe_10": 36.43,
-        "pe_25": 49.69,
-        "pe_50": 66.92,
-        "pe_75": 98.3,
-        "pe_90": 133.71
+        "pe": 13.11,
+        "pe_10": 35.38,
+        "pe_25": 47.86,
+        "pe_50": 70.38,
+        "pe_75": 106.34,
+        "pe_90": 150.64
       },
       {
         "date": "2013-03-16",
         "price": 34.5,
-        "pe": 13.94,
-        "pe_10": 35.69,
-        "pe_25": 48.67,
-        "pe_50": 65.56,
-        "pe_75": 96.3,
-        "pe_90": 130.99
+        "pe": 13.64,
+        "pe_10": 34.91,
+        "pe_25": 47.23,
+        "pe_50": 69.46,
+        "pe_75": 104.95,
+        "pe_90": 148.67
       },
       {
         "date": "2013-04-15",
         "price": 32.8,
-        "pe": 13.53,
-        "pe_10": 34.96,
-        "pe_25": 47.68,
-        "pe_50": 64.22,
-        "pe_75": 94.33,
-        "pe_90": 128.31
+        "pe": 13.35,
+        "pe_10": 33.91,
+        "pe_25": 45.88,
+        "pe_50": 67.47,
+        "pe_75": 101.94,
+        "pe_90": 144.41
       },
       {
         "date": "2013-05-16",
         "price": 34.2,
-        "pe": 14.4,
-        "pe_10": 34.25,
-        "pe_25": 46.71,
-        "pe_50": 62.91,
-        "pe_75": 92.41,
-        "pe_90": 125.7
+        "pe": 14.35,
+        "pe_10": 32.9,
+        "pe_25": 44.5,
+        "pe_50": 65.44,
+        "pe_75": 98.89,
+        "pe_90": 140.08
       },
       {
         "date": "2013-06-15",
         "price": 30.85,
-        "pe": 13.28,
-        "pe_10": 33.5,
-        "pe_25": 45.69,
-        "pe_50": 61.54,
-        "pe_75": 90.39,
-        "pe_90": 122.95
+        "pe": 13.35,
+        "pe_10": 31.9,
+        "pe_25": 43.15,
+        "pe_50": 63.46,
+        "pe_75": 95.88,
+        "pe_90": 135.83
       },
       {
         "date": "2013-07-16",
         "price": 34.3,
-        "pe": 15.09,
-        "pe_10": 32.77,
-        "pe_25": 44.7,
-        "pe_50": 60.21,
-        "pe_75": 88.44,
-        "pe_90": 120.3
+        "pe": 15.5,
+        "pe_10": 30.54,
+        "pe_25": 41.32,
+        "pe_50": 60.77,
+        "pe_75": 91.82,
+        "pe_90": 130.07
       },
       {
         "date": "2013-08-16",
         "price": 35.6,
-        "pe": 16.02,
-        "pe_10": 32.04,
-        "pe_25": 43.71,
-        "pe_50": 58.87,
-        "pe_75": 86.47,
-        "pe_90": 117.61
+        "pe": 16.82,
+        "pe_10": 29.21,
+        "pe_25": 39.52,
+        "pe_50": 58.12,
+        "pe_75": 87.82,
+        "pe_90": 124.4
       },
       {
         "date": "2013-09-15",
         "price": 32.8,
-        "pe": 15.1,
-        "pe_10": 31.32,
-        "pe_25": 42.72,
-        "pe_50": 57.54,
-        "pe_75": 84.52,
-        "pe_90": 114.97
+        "pe": 16.24,
+        "pe_10": 27.88,
+        "pe_25": 37.71,
+        "pe_50": 55.46,
+        "pe_75": 83.8,
+        "pe_90": 118.71
       },
       {
         "date": "2013-10-16",
         "price": 33.5,
-        "pe": 15.79,
-        "pe_10": 30.59,
-        "pe_25": 41.73,
-        "pe_50": 56.2,
-        "pe_75": 82.55,
-        "pe_90": 112.29
+        "pe": 16.58,
+        "pe_10": 27.89,
+        "pe_25": 37.73,
+        "pe_50": 55.48,
+        "pe_75": 83.84,
+        "pe_90": 118.76
       },
       {
         "date": "2013-11-15",
         "price": 34.25,
-        "pe": 16.54,
-        "pe_10": 29.86,
-        "pe_25": 40.73,
-        "pe_50": 54.85,
-        "pe_75": 80.57,
-        "pe_90": 109.6
+        "pe": 16.96,
+        "pe_10": 27.87,
+        "pe_25": 37.71,
+        "pe_50": 55.45,
+        "pe_75": 83.79,
+        "pe_90": 118.7
       },
       {
         "date": "2013-12-16",
         "price": 41.7,
         "pe": 20.64,
-        "pe_10": 29.13,
-        "pe_25": 39.74,
-        "pe_50": 53.52,
-        "pe_75": 78.61,
-        "pe_90": 106.93
+        "pe_10": 27.89,
+        "pe_25": 37.72,
+        "pe_50": 55.48,
+        "pe_75": 83.83,
+        "pe_90": 118.75
       },
       {
         "date": "2014-01-16",
         "price": 38.1,
-        "pe": 19.15,
-        "pe_10": 28.69,
-        "pe_25": 39.13,
-        "pe_50": 52.7,
-        "pe_75": 77.41,
-        "pe_90": 105.3
+        "pe": 19.24,
+        "pe_10": 27.33,
+        "pe_25": 36.98,
+        "pe_50": 54.38,
+        "pe_75": 82.17,
+        "pe_90": 116.39
       },
       {
         "date": "2014-02-14",
         "price": 43.8,
-        "pe": 22.37,
-        "pe_10": 28.23,
-        "pe_25": 38.51,
-        "pe_50": 51.87,
-        "pe_75": 76.18,
-        "pe_90": 103.63
+        "pe": 22.58,
+        "pe_10": 26.77,
+        "pe_25": 36.22,
+        "pe_50": 53.27,
+        "pe_75": 80.49,
+        "pe_90": 114.01
       },
       {
         "date": "2014-03-16",
         "price": 44.1,
-        "pe": 22.88,
-        "pe_10": 27.79,
-        "pe_25": 37.91,
-        "pe_50": 51.06,
-        "pe_75": 75.0,
-        "pe_90": 102.01
+        "pe": 23.21,
+        "pe_10": 26.23,
+        "pe_25": 35.48,
+        "pe_50": 52.18,
+        "pe_75": 78.84,
+        "pe_90": 111.68
       },
       {
         "date": "2014-04-15",
         "price": 41.05,
-        "pe": 21.64,
-        "pe_10": 27.35,
-        "pe_25": 37.31,
-        "pe_50": 50.25,
-        "pe_75": 73.81,
-        "pe_90": 100.4
+        "pe": 21.57,
+        "pe_10": 26.27,
+        "pe_25": 35.54,
+        "pe_50": 52.26,
+        "pe_75": 78.96,
+        "pe_90": 111.86
       },
       {
         "date": "2014-05-16",
         "price": 41.4,
-        "pe": 22.19,
-        "pe_10": 26.9,
-        "pe_25": 36.69,
-        "pe_50": 49.42,
-        "pe_75": 72.59,
-        "pe_90": 98.74
+        "pe": 21.71,
+        "pe_10": 26.32,
+        "pe_25": 35.61,
+        "pe_50": 52.36,
+        "pe_75": 79.12,
+        "pe_90": 112.09
       },
       {
         "date": "2014-06-15",
         "price": 41.4,
-        "pe": 22.56,
-        "pe_10": 26.46,
-        "pe_25": 36.09,
-        "pe_50": 48.61,
-        "pe_75": 71.4,
-        "pe_90": 97.12
+        "pe": 21.68,
+        "pe_10": 26.36,
+        "pe_25": 35.66,
+        "pe_50": 52.44,
+        "pe_75": 79.23,
+        "pe_90": 112.24
       },
       {
         "date": "2014-07-16",
         "price": 38.1,
-        "pe": 21.12,
-        "pe_10": 26.01,
-        "pe_25": 35.48,
-        "pe_50": 47.79,
-        "pe_75": 70.19,
-        "pe_90": 95.48
+        "pe": 20.56,
+        "pe_10": 25.58,
+        "pe_25": 34.6,
+        "pe_50": 50.89,
+        "pe_75": 76.89,
+        "pe_90": 108.92
       },
       {
         "date": "2014-08-16",
         "price": 35.7,
-        "pe": 20.13,
-        "pe_10": 25.57,
-        "pe_25": 34.88,
-        "pe_50": 46.98,
-        "pe_75": 69.01,
-        "pe_90": 93.86
+        "pe": 19.87,
+        "pe_10": 24.8,
+        "pe_25": 33.55,
+        "pe_50": 49.34,
+        "pe_75": 74.55,
+        "pe_90": 105.6
       },
       {
         "date": "2014-09-15",
         "price": 34.45,
-        "pe": 19.77,
-        "pe_10": 25.13,
-        "pe_25": 34.27,
-        "pe_50": 46.16,
-        "pe_75": 67.8,
-        "pe_90": 92.23
+        "pe": 19.8,
+        "pe_10": 24.02,
+        "pe_25": 32.49,
+        "pe_50": 47.78,
+        "pe_75": 72.19,
+        "pe_90": 102.27
       },
       {
         "date": "2014-10-16",
         "price": 32.3,
-        "pe": 18.87,
-        "pe_10": 24.68,
-        "pe_25": 33.67,
-        "pe_50": 45.34,
-        "pe_75": 66.6,
-        "pe_90": 90.59
+        "pe": 18.89,
+        "pe_10": 23.6,
+        "pe_25": 31.93,
+        "pe_50": 46.95,
+        "pe_75": 70.95,
+        "pe_90": 100.5
       },
       {
         "date": "2014-11-15",
         "price": 30.6,
         "pe": 18.21,
-        "pe_10": 24.23,
-        "pe_25": 33.05,
-        "pe_50": 44.51,
-        "pe_75": 65.38,
-        "pe_90": 88.94
+        "pe_10": 23.19,
+        "pe_25": 31.38,
+        "pe_50": 46.14,
+        "pe_75": 69.72,
+        "pe_90": 98.77
       },
       {
         "date": "2014-12-16",
         "price": 36.9,
         "pe": 22.36,
-        "pe_10": 23.8,
-        "pe_25": 32.46,
-        "pe_50": 43.72,
-        "pe_75": 64.21,
-        "pe_90": 87.34
+        "pe_10": 22.78,
+        "pe_25": 30.81,
+        "pe_50": 45.32,
+        "pe_75": 68.47,
+        "pe_90": 97.0
       },
       {
         "date": "2015-01-16",
         "price": 38.7,
-        "pe": 23.93,
-        "pe_10": 23.32,
-        "pe_25": 31.81,
-        "pe_50": 42.84,
-        "pe_75": 62.93,
-        "pe_90": 85.59
+        "pe": 23.27,
+        "pe_10": 22.96,
+        "pe_25": 31.05,
+        "pe_50": 45.67,
+        "pe_75": 69.01,
+        "pe_90": 97.75
       },
       {
         "date": "2015-02-14",
         "price": 40.65,
-        "pe": 25.65,
-        "pe_10": 22.85,
-        "pe_25": 31.17,
-        "pe_50": 41.98,
-        "pe_75": 61.66,
-        "pe_90": 83.88
+        "pe": 24.24,
+        "pe_10": 23.15,
+        "pe_25": 31.31,
+        "pe_50": 46.05,
+        "pe_75": 69.58,
+        "pe_90": 98.57
       },
       {
         "date": "2015-03-16",
         "price": 45.5,
-        "pe": 29.31,
-        "pe_10": 22.38,
-        "pe_25": 30.53,
-        "pe_50": 41.12,
-        "pe_75": 60.4,
-        "pe_90": 82.16
+        "pe": 26.92,
+        "pe_10": 23.33,
+        "pe_25": 31.56,
+        "pe_50": 46.41,
+        "pe_75": 70.13,
+        "pe_90": 99.34
       },
       {
         "date": "2015-04-15",
         "price": 42.3,
-        "pe": 27.83,
-        "pe_10": 21.92,
-        "pe_25": 29.89,
-        "pe_50": 40.26,
-        "pe_75": 59.14,
-        "pe_90": 80.44
+        "pe": 25.38,
+        "pe_10": 23.0,
+        "pe_25": 31.12,
+        "pe_50": 45.77,
+        "pe_75": 69.15,
+        "pe_90": 97.96
       },
       {
         "date": "2015-05-16",
         "price": 41.1,
-        "pe": 27.63,
-        "pe_10": 21.45,
-        "pe_25": 29.26,
-        "pe_50": 39.4,
-        "pe_75": 57.88,
-        "pe_90": 78.73
+        "pe": 25.01,
+        "pe_10": 22.68,
+        "pe_25": 30.69,
+        "pe_50": 45.13,
+        "pe_75": 68.19,
+        "pe_90": 96.59
       },
       {
         "date": "2015-06-15",
         "price": 37.95,
-        "pe": 26.08,
-        "pe_10": 20.98,
-        "pe_25": 28.62,
-        "pe_50": 38.55,
-        "pe_75": 56.62,
-        "pe_90": 77.01
+        "pe": 23.43,
+        "pe_10": 22.36,
+        "pe_25": 30.24,
+        "pe_50": 44.48,
+        "pe_75": 67.21,
+        "pe_90": 95.2
       },
       {
         "date": "2015-07-16",
         "price": 32.05,
-        "pe": 22.53,
-        "pe_10": 20.51,
-        "pe_25": 27.98,
-        "pe_50": 37.68,
-        "pe_75": 55.35,
-        "pe_90": 75.29
+        "pe": 19.27,
+        "pe_10": 22.96,
+        "pe_25": 31.06,
+        "pe_50": 45.67,
+        "pe_75": 69.01,
+        "pe_90": 97.76
       },
       {
         "date": "2015-08-16",
         "price": 28.25,
-        "pe": 20.32,
-        "pe_10": 20.05,
-        "pe_25": 27.34,
-        "pe_50": 36.83,
-        "pe_75": 54.09,
-        "pe_90": 73.58
+        "pe": 16.55,
+        "pe_10": 23.56,
+        "pe_25": 31.87,
+        "pe_50": 46.87,
+        "pe_75": 70.83,
+        "pe_90": 100.33
       },
       {
         "date": "2015-09-15",
         "price": 40.5,
-        "pe": 29.83,
-        "pe_10": 19.58,
-        "pe_25": 26.7,
-        "pe_50": 35.97,
-        "pe_75": 52.83,
-        "pe_90": 71.86
+        "pe": 23.14,
+        "pe_10": 24.16,
+        "pe_25": 32.68,
+        "pe_50": 48.06,
+        "pe_75": 72.62,
+        "pe_90": 102.87
       },
       {
         "date": "2015-10-16",
         "price": 53.1,
-        "pe": 40.08,
-        "pe_10": 19.1,
-        "pe_25": 26.06,
-        "pe_50": 35.1,
-        "pe_75": 51.55,
-        "pe_90": 70.12
+        "pe": 33.47,
+        "pe_10": 21.9,
+        "pe_25": 29.62,
+        "pe_50": 43.57,
+        "pe_75": 65.83,
+        "pe_90": 93.25
       },
       {
         "date": "2015-11-15",
         "price": 44.45,
-        "pe": 34.39,
-        "pe_10": 18.64,
-        "pe_25": 25.42,
-        "pe_50": 34.24,
-        "pe_75": 50.29,
-        "pe_90": 68.41
+        "pe": 31.23,
+        "pe_10": 19.65,
+        "pe_25": 26.58,
+        "pe_50": 39.08,
+        "pe_75": 59.06,
+        "pe_90": 83.66
       },
       {
         "date": "2015-12-16",
         "price": 44.8,
         "pe": 35.56,
-        "pe_10": 18.17,
-        "pe_25": 24.78,
-        "pe_50": 33.37,
-        "pe_75": 49.02,
-        "pe_90": 66.68
+        "pe_10": 17.39,
+        "pe_25": 23.52,
+        "pe_50": 34.6,
+        "pe_75": 52.27,
+        "pe_90": 74.05
       },
       {
         "date": "2016-01-16",
         "price": 48.0,
-        "pe": 38.4,
-        "pe_10": 18.02,
-        "pe_25": 24.58,
-        "pe_50": 33.11,
-        "pe_75": 48.64,
-        "pe_90": 66.16
+        "pe": 36.92,
+        "pe_10": 17.95,
+        "pe_25": 24.28,
+        "pe_50": 35.7,
+        "pe_75": 53.94,
+        "pe_90": 76.42
       },
       {
         "date": "2016-02-15",
         "price": 46.5,
-        "pe": 37.5,
-        "pe_10": 17.88,
-        "pe_25": 24.39,
-        "pe_50": 32.85,
-        "pe_75": 48.25,
-        "pe_90": 65.63
+        "pe": 34.7,
+        "pe_10": 18.5,
+        "pe_25": 25.02,
+        "pe_50": 36.8,
+        "pe_75": 55.6,
+        "pe_90": 78.76
       },
       {
         "date": "2016-03-16",
         "price": 41.95,
-        "pe": 34.11,
-        "pe_10": 17.73,
-        "pe_25": 24.19,
-        "pe_50": 32.58,
-        "pe_75": 47.85,
-        "pe_90": 65.09
+        "pe": 30.4,
+        "pe_10": 19.05,
+        "pe_25": 25.77,
+        "pe_50": 37.89,
+        "pe_75": 57.26,
+        "pe_90": 81.11
       },
       {
         "date": "2016-04-15",
         "price": 43.3,
-        "pe": 35.49,
-        "pe_10": 17.59,
-        "pe_25": 24.0,
-        "pe_50": 32.32,
-        "pe_75": 47.47,
-        "pe_90": 64.57
+        "pe": 32.97,
+        "pe_10": 18.13,
+        "pe_25": 24.52,
+        "pe_50": 36.06,
+        "pe_75": 54.49,
+        "pe_90": 77.19
       },
       {
         "date": "2016-05-16",
         "price": 33.7,
-        "pe": 27.85,
-        "pe_10": 17.45,
-        "pe_25": 23.8,
-        "pe_50": 32.05,
-        "pe_75": 47.08,
-        "pe_90": 64.04
+        "pe": 27.03,
+        "pe_10": 17.21,
+        "pe_25": 23.28,
+        "pe_50": 34.24,
+        "pe_75": 51.73,
+        "pe_90": 73.28
       },
       {
         "date": "2016-06-15",
         "price": 33.75,
-        "pe": 28.12,
-        "pe_10": 17.31,
-        "pe_25": 23.61,
-        "pe_50": 31.79,
-        "pe_75": 46.7,
-        "pe_90": 63.52
+        "pe": 28.6,
+        "pe_10": 16.29,
+        "pe_25": 22.03,
+        "pe_50": 32.4,
+        "pe_75": 48.96,
+        "pe_90": 69.36
       },
       {
         "date": "2016-07-16",
         "price": 37.4,
-        "pe": 31.43,
-        "pe_10": 17.16,
-        "pe_25": 23.4,
-        "pe_50": 31.52,
-        "pe_75": 46.3,
-        "pe_90": 62.98
+        "pe": 36.67,
+        "pe_10": 14.08,
+        "pe_25": 19.04,
+        "pe_50": 28.01,
+        "pe_75": 42.32,
+        "pe_90": 59.95
       },
       {
         "date": "2016-08-16",
         "price": 31.6,
-        "pe": 26.78,
-        "pe_10": 17.01,
-        "pe_25": 23.21,
-        "pe_50": 31.26,
-        "pe_75": 45.91,
-        "pe_90": 62.45
+        "pe": 36.74,
+        "pe_10": 11.87,
+        "pe_25": 16.06,
+        "pe_50": 23.62,
+        "pe_75": 35.69,
+        "pe_90": 50.55
       },
       {
         "date": "2016-09-15",
         "price": 32.15,
-        "pe": 27.48,
-        "pe_10": 16.87,
-        "pe_25": 23.01,
-        "pe_50": 30.99,
-        "pe_75": 45.52,
-        "pe_90": 61.92
+        "pe": 45.93,
+        "pe_10": 9.66,
+        "pe_25": 13.07,
+        "pe_50": 19.22,
+        "pe_75": 29.04,
+        "pe_90": 41.14
       },
       {
         "date": "2016-10-16",
         "price": 31.45,
-        "pe": 27.11,
-        "pe_10": 16.73,
-        "pe_25": 22.82,
-        "pe_50": 30.73,
-        "pe_75": 45.14,
-        "pe_90": 61.4
+        "pe": 37.15,
+        "pe_10": 11.69,
+        "pe_25": 15.81,
+        "pe_50": 23.25,
+        "pe_75": 35.13,
+        "pe_90": 49.76
       },
       {
         "date": "2016-11-15",
         "price": 29.5,
-        "pe": 25.65,
-        "pe_10": 16.58,
-        "pe_25": 22.62,
-        "pe_50": 30.47,
-        "pe_75": 44.75,
-        "pe_90": 60.87
+        "pe": 29.7,
+        "pe_10": 13.71,
+        "pe_25": 18.55,
+        "pe_50": 27.28,
+        "pe_75": 41.21,
+        "pe_90": 58.38
       },
       {
         "date": "2016-12-16",
         "price": 30.35,
         "pe": 26.62,
-        "pe_10": 16.44,
-        "pe_25": 22.42,
-        "pe_50": 30.2,
-        "pe_75": 44.36,
-        "pe_90": 60.34
+        "pe_10": 15.74,
+        "pe_25": 21.29,
+        "pe_50": 31.31,
+        "pe_75": 47.31,
+        "pe_90": 67.01
       },
       {
         "date": "2017-01-16",
         "price": 32.15,
-        "pe": 24.2,
-        "pe_10": 19.16,
-        "pe_25": 26.13,
-        "pe_50": 35.19,
-        "pe_75": 51.69,
-        "pe_90": 70.31
+        "pe": 18.41,
+        "pe_10": 24.1,
+        "pe_25": 32.61,
+        "pe_50": 47.95,
+        "pe_75": 72.46,
+        "pe_90": 102.64
       },
       {
         "date": "2017-02-14",
         "price": 36.0,
-        "pe": 23.74,
-        "pe_10": 21.87,
-        "pe_25": 29.82,
-        "pe_50": 40.17,
-        "pe_75": 59.0,
-        "pe_90": 80.26
+        "pe": 15.3,
+        "pe_10": 32.48,
+        "pe_25": 43.94,
+        "pe_50": 64.61,
+        "pe_75": 97.63,
+        "pe_90": 138.3
       },
       {
         "date": "2017-03-16",
         "price": 37.5,
-        "pe": 21.99,
-        "pe_10": 24.59,
-        "pe_25": 33.54,
-        "pe_50": 45.17,
-        "pe_75": 66.35,
-        "pe_90": 90.26
+        "pe": 12.67,
+        "pe_10": 40.85,
+        "pe_25": 55.27,
+        "pe_50": 81.27,
+        "pe_75": 122.81,
+        "pe_90": 173.97
       },
       {
         "date": "2017-04-15",
         "price": 36.65,
-        "pe": 19.36,
-        "pe_10": 27.3,
-        "pe_25": 37.23,
-        "pe_50": 50.15,
-        "pe_75": 73.66,
-        "pe_90": 100.19
+        "pe": 12.24,
+        "pe_10": 41.33,
+        "pe_25": 55.91,
+        "pe_50": 82.22,
+        "pe_75": 124.24,
+        "pe_90": 175.99
       },
       {
         "date": "2017-05-16",
         "price": 36.7,
-        "pe": 17.63,
-        "pe_10": 30.02,
-        "pe_25": 40.94,
-        "pe_50": 55.14,
-        "pe_75": 81.0,
-        "pe_90": 110.17
+        "pe": 12.13,
+        "pe_10": 41.76,
+        "pe_25": 56.49,
+        "pe_50": 83.08,
+        "pe_75": 125.54,
+        "pe_90": 177.83
       },
       {
         "date": "2017-06-15",
         "price": 38.45,
-        "pe": 16.94,
-        "pe_10": 32.73,
-        "pe_25": 44.64,
-        "pe_50": 60.13,
-        "pe_75": 88.32,
-        "pe_90": 120.13
+        "pe": 12.57,
+        "pe_10": 42.22,
+        "pe_25": 57.12,
+        "pe_50": 84.0,
+        "pe_75": 126.92,
+        "pe_90": 179.79
       },
       {
         "date": "2017-07-16",
         "price": 41.4,
-        "pe": 16.84,
-        "pe_10": 35.45,
-        "pe_25": 48.35,
-        "pe_50": 65.12,
-        "pe_75": 95.66,
-        "pe_90": 130.11
+        "pe": 13.1,
+        "pe_10": 43.62,
+        "pe_25": 59.01,
+        "pe_50": 86.78,
+        "pe_75": 131.13,
+        "pe_90": 185.75
       },
       {
         "date": "2017-08-16",
         "price": 45.65,
-        "pe": 17.25,
-        "pe_10": 38.16,
-        "pe_25": 52.05,
-        "pe_50": 70.1,
-        "pe_75": 102.97,
-        "pe_90": 140.06
+        "pe": 14.0,
+        "pe_10": 45.01,
+        "pe_25": 60.89,
+        "pe_50": 89.54,
+        "pe_75": 135.3,
+        "pe_90": 191.66
       },
       {
         "date": "2017-09-15",
         "price": 42.45,
-        "pe": 14.97,
-        "pe_10": 40.89,
-        "pe_25": 55.77,
-        "pe_50": 75.12,
-        "pe_75": 110.34,
-        "pe_90": 150.08
+        "pe": 12.63,
+        "pe_10": 46.39,
+        "pe_25": 62.76,
+        "pe_50": 92.29,
+        "pe_75": 139.46,
+        "pe_90": 197.55
       },
       {
         "date": "2017-10-16",
         "price": 46.35,
-        "pe": 15.33,
-        "pe_10": 43.6,
-        "pe_25": 59.46,
-        "pe_50": 80.09,
-        "pe_75": 117.64,
-        "pe_90": 160.02
+        "pe": 13.74,
+        "pe_10": 46.56,
+        "pe_25": 62.99,
+        "pe_50": 92.63,
+        "pe_75": 139.97,
+        "pe_90": 198.28
       },
       {
         "date": "2017-11-15",
         "price": 63.9,
-        "pe": 19.9,
-        "pe_10": 46.3,
-        "pe_25": 63.15,
-        "pe_50": 85.06,
-        "pe_75": 124.94,
-        "pe_90": 169.95
+        "pe": 18.87,
+        "pe_10": 46.74,
+        "pe_25": 63.23,
+        "pe_50": 92.99,
+        "pe_75": 140.51,
+        "pe_90": 199.04
       },
       {
         "date": "2017-12-16",
         "price": 57.9,
         "pe": 17.03,
-        "pe_10": 49.02,
-        "pe_25": 66.87,
-        "pe_50": 90.06,
-        "pe_75": 132.29,
-        "pe_90": 179.94
+        "pe_10": 46.93,
+        "pe_25": 63.48,
+        "pe_50": 93.36,
+        "pe_75": 141.07,
+        "pe_90": 199.83
       },
       {
         "date": "2018-01-16",
         "price": 81.8,
-        "pe": 25.52,
-        "pe_10": 46.22,
-        "pe_25": 63.04,
-        "pe_50": 84.91,
-        "pe_75": 124.72,
-        "pe_90": 169.65
+        "pe": 29.35,
+        "pe_10": 38.47,
+        "pe_25": 52.04,
+        "pe_50": 76.53,
+        "pe_75": 115.64,
+        "pe_90": 163.81
       },
       {
         "date": "2018-02-14",
         "price": 67.9,
-        "pe": 22.56,
-        "pe_10": 43.4,
-        "pe_25": 59.19,
-        "pe_50": 79.73,
-        "pe_75": 117.11,
-        "pe_90": 159.29
+        "pe": 31.24,
+        "pe_10": 30.0,
+        "pe_25": 40.58,
+        "pe_50": 59.68,
+        "pe_75": 90.18,
+        "pe_90": 127.75
       },
       {
         "date": "2018-03-16",
         "price": 69.4,
-        "pe": 24.65,
-        "pe_10": 40.6,
-        "pe_25": 55.37,
-        "pe_50": 74.58,
-        "pe_75": 109.55,
-        "pe_90": 149.01
+        "pe": 44.49,
+        "pe_10": 21.53,
+        "pe_25": 29.13,
+        "pe_50": 42.83,
+        "pe_75": 64.72,
+        "pe_90": 91.69
       },
       {
         "date": "2018-04-15",
         "price": 67.0,
-        "pe": 25.57,
-        "pe_10": 37.78,
-        "pe_25": 51.53,
-        "pe_50": 69.41,
-        "pe_75": 101.95,
-        "pe_90": 138.68
+        "pe": 48.2,
+        "pe_10": 19.19,
+        "pe_25": 25.96,
+        "pe_50": 38.17,
+        "pe_75": 57.68,
+        "pe_90": 81.7
       },
       {
         "date": "2018-05-16",
         "price": 63.4,
-        "pe": 26.14,
-        "pe_10": 34.97,
-        "pe_25": 47.7,
-        "pe_50": 64.25,
-        "pe_75": 94.37,
-        "pe_90": 128.37
+        "pe": 51.97,
+        "pe_10": 16.84,
+        "pe_25": 22.78,
+        "pe_50": 33.5,
+        "pe_75": 50.62,
+        "pe_90": 71.7
       },
       {
         "date": "2018-06-15",
         "price": 59.8,
-        "pe": 26.82,
-        "pe_10": 32.15,
-        "pe_25": 43.85,
-        "pe_50": 59.06,
-        "pe_75": 86.76,
-        "pe_90": 118.01
+        "pe": 56.95,
+        "pe_10": 14.49,
+        "pe_25": 19.61,
+        "pe_50": 28.83,
+        "pe_75": 43.57,
+        "pe_90": 61.72
       },
       {
         "date": "2018-07-16",
         "price": 60.0,
-        "pe": 29.48,
-        "pe_10": 29.35,
-        "pe_25": 40.03,
-        "pe_50": 53.91,
-        "pe_75": 79.19,
-        "pe_90": 107.72
+        "pe": 59.8,
+        "pe_10": 13.85,
+        "pe_25": 18.73,
+        "pe_50": 27.55,
+        "pe_75": 41.63,
+        "pe_90": 58.97
       },
       {
         "date": "2018-08-16",
         "price": 71.6,
-        "pe": 38.91,
-        "pe_10": 26.53,
-        "pe_25": 36.19,
-        "pe_50": 48.75,
-        "pe_75": 71.6,
-        "pe_90": 97.39
+        "pe": 74.84,
+        "pe_10": 13.21,
+        "pe_25": 17.86,
+        "pe_50": 26.27,
+        "pe_75": 39.7,
+        "pe_90": 56.23
       },
       {
         "date": "2018-09-15",
         "price": 54.5,
-        "pe": 33.13,
-        "pe_10": 23.72,
-        "pe_25": 32.35,
-        "pe_50": 43.58,
-        "pe_75": 64.01,
-        "pe_90": 87.07
+        "pe": 59.89,
+        "pe_10": 12.56,
+        "pe_25": 16.99,
+        "pe_50": 24.99,
+        "pe_75": 37.76,
+        "pe_90": 53.49
       },
       {
         "date": "2018-10-16",
         "price": 32.0,
-        "pe": 22.07,
-        "pe_10": 20.91,
-        "pe_25": 28.52,
-        "pe_50": 38.41,
-        "pe_75": 56.42,
-        "pe_90": 76.74
+        "pe": 33.33,
+        "pe_10": 13.25,
+        "pe_25": 17.93,
+        "pe_50": 26.36,
+        "pe_75": 39.84,
+        "pe_90": 56.43
       },
       {
         "date": "2018-11-15",
         "price": 40.9,
-        "pe": 32.59,
-        "pe_10": 18.1,
-        "pe_25": 24.68,
-        "pe_50": 33.24,
-        "pe_75": 48.83,
-        "pe_90": 66.42
+        "pe": 40.5,
+        "pe_10": 13.94,
+        "pe_25": 18.86,
+        "pe_50": 27.73,
+        "pe_75": 41.9,
+        "pe_90": 59.36
       },
       {
         "date": "2018-12-16",
         "price": 42.3,
         "pe": 39.91,
-        "pe_10": 15.28,
-        "pe_25": 20.85,
-        "pe_50": 28.08,
-        "pe_75": 41.24,
-        "pe_90": 56.1
+        "pe_10": 14.63,
+        "pe_25": 19.79,
+        "pe_50": 29.1,
+        "pe_75": 43.98,
+        "pe_90": 62.3
       },
       {
         "date": "2019-01-16",
         "price": 43.0,
-        "pe": 39.51,
-        "pe_10": 15.69,
-        "pe_25": 21.4,
-        "pe_50": 28.83,
-        "pe_75": 42.35,
-        "pe_90": 57.6
+        "pe": 39.09,
+        "pe_10": 15.18,
+        "pe_25": 20.54,
+        "pe_50": 30.21,
+        "pe_75": 45.64,
+        "pe_90": 64.66
       },
       {
         "date": "2019-02-14",
         "price": 45.95,
-        "pe": 41.15,
-        "pe_10": 16.1,
-        "pe_25": 21.96,
-        "pe_50": 29.58,
-        "pe_75": 43.45,
-        "pe_90": 59.1
+        "pe": 40.31,
+        "pe_10": 15.73,
+        "pe_25": 21.29,
+        "pe_50": 31.3,
+        "pe_75": 47.3,
+        "pe_90": 67.0
       },
       {
         "date": "2019-03-16",
         "price": 44.55,
-        "pe": 38.91,
-        "pe_10": 16.51,
-        "pe_25": 22.52,
-        "pe_50": 30.33,
-        "pe_75": 44.55,
-        "pe_90": 60.6
+        "pe": 37.75,
+        "pe_10": 16.29,
+        "pe_25": 22.04,
+        "pe_50": 32.41,
+        "pe_75": 48.97,
+        "pe_90": 69.36
       },
       {
         "date": "2019-04-15",
         "price": 50.9,
-        "pe": 43.38,
-        "pe_10": 16.92,
-        "pe_25": 23.08,
-        "pe_50": 31.08,
-        "pe_75": 45.66,
-        "pe_90": 62.1
+        "pe": 42.07,
+        "pe_10": 16.7,
+        "pe_25": 22.59,
+        "pe_50": 33.22,
+        "pe_75": 50.2,
+        "pe_90": 71.11
       },
       {
         "date": "2019-05-16",
         "price": 43.9,
-        "pe": 36.53,
-        "pe_10": 17.33,
-        "pe_25": 23.64,
-        "pe_50": 31.83,
-        "pe_75": 46.76,
-        "pe_90": 63.6
+        "pe": 35.4,
+        "pe_10": 17.12,
+        "pe_25": 23.16,
+        "pe_50": 34.05,
+        "pe_75": 51.46,
+        "pe_90": 72.89
       },
       {
         "date": "2019-06-15",
         "price": 48.3,
-        "pe": 39.27,
-        "pe_10": 17.73,
-        "pe_25": 24.19,
-        "pe_50": 32.58,
-        "pe_75": 47.86,
-        "pe_90": 65.1
+        "pe": 38.03,
+        "pe_10": 17.53,
+        "pe_25": 23.72,
+        "pe_50": 34.88,
+        "pe_75": 52.7,
+        "pe_90": 74.65
       },
       {
         "date": "2019-07-16",
         "price": 62.9,
-        "pe": 49.99,
-        "pe_10": 18.14,
-        "pe_25": 24.75,
-        "pe_50": 33.33,
-        "pe_75": 48.96,
-        "pe_90": 66.59
+        "pe": 46.48,
+        "pe_10": 18.68,
+        "pe_25": 25.27,
+        "pe_50": 37.16,
+        "pe_75": 56.15,
+        "pe_90": 79.54
       },
       {
         "date": "2019-08-16",
         "price": 56.8,
-        "pe": 44.15,
-        "pe_10": 18.55,
-        "pe_25": 25.3,
-        "pe_50": 34.08,
-        "pe_75": 50.06,
-        "pe_90": 68.09
+        "pe": 39.54,
+        "pe_10": 19.83,
+        "pe_25": 26.82,
+        "pe_50": 39.45,
+        "pe_75": 59.6,
+        "pe_90": 84.43
       },
       {
         "date": "2019-09-15",
         "price": 57.8,
-        "pe": 43.95,
-        "pe_10": 18.96,
-        "pe_25": 25.87,
-        "pe_50": 34.84,
-        "pe_75": 51.17,
-        "pe_90": 69.6
+        "pe": 38.03,
+        "pe_10": 20.98,
+        "pe_25": 28.38,
+        "pe_50": 41.74,
+        "pe_75": 63.06,
+        "pe_90": 89.33
       },
       {
         "date": "2019-10-16",
         "price": 58.0,
-        "pe": 43.18,
-        "pe_10": 19.37,
-        "pe_25": 26.42,
-        "pe_50": 35.58,
-        "pe_75": 52.26,
-        "pe_90": 71.09
+        "pe": 39.19,
+        "pe_10": 20.43,
+        "pe_25": 27.63,
+        "pe_50": 40.64,
+        "pe_75": 61.41,
+        "pe_90": 86.99
       },
       {
         "date": "2019-11-15",
         "price": 55.5,
-        "pe": 40.46,
-        "pe_10": 19.78,
-        "pe_25": 26.98,
-        "pe_50": 36.34,
-        "pe_75": 53.37,
-        "pe_90": 72.6
+        "pe": 38.54,
+        "pe_10": 19.88,
+        "pe_25": 26.89,
+        "pe_50": 39.54,
+        "pe_75": 59.75,
+        "pe_90": 84.64
       },
       {
         "date": "2019-12-16",
         "price": 56.3,
         "pe": 40.21,
-        "pe_10": 20.19,
-        "pe_25": 27.54,
-        "pe_50": 37.09,
-        "pe_75": 54.48,
-        "pe_90": 74.1
+        "pe_10": 19.33,
+        "pe_25": 26.14,
+        "pe_50": 38.45,
+        "pe_75": 58.1,
+        "pe_90": 82.3
       },
       {
         "date": "2020-01-16",
         "price": 49.45,
-        "pe": 36.01,
-        "pe_10": 19.8,
-        "pe_25": 27.01,
-        "pe_50": 36.38,
-        "pe_75": 53.43,
-        "pe_90": 72.68
+        "pe": 37.18,
+        "pe_10": 18.36,
+        "pe_25": 24.83,
+        "pe_50": 36.52,
+        "pe_75": 55.19,
+        "pe_90": 78.17
       },
       {
         "date": "2020-02-15",
         "price": 44.05,
-        "pe": 32.71,
-        "pe_10": 19.42,
-        "pe_25": 26.49,
-        "pe_50": 35.67,
-        "pe_75": 52.4,
-        "pe_90": 71.27
+        "pe": 34.96,
+        "pe_10": 17.39,
+        "pe_25": 23.53,
+        "pe_50": 34.6,
+        "pe_75": 52.28,
+        "pe_90": 74.06
       },
       {
         "date": "2020-03-16",
         "price": 36.3,
-        "pe": 27.5,
-        "pe_10": 19.03,
-        "pe_25": 25.96,
-        "pe_50": 34.97,
-        "pe_75": 51.36,
-        "pe_90": 69.86
+        "pe": 30.5,
+        "pe_10": 16.43,
+        "pe_25": 22.22,
+        "pe_50": 32.68,
+        "pe_75": 49.38,
+        "pe_90": 69.95
       },
       {
         "date": "2020-04-15",
         "price": 43.35,
-        "pe": 33.52,
-        "pe_10": 18.65,
-        "pe_25": 25.44,
-        "pe_50": 34.26,
-        "pe_75": 50.32,
-        "pe_90": 68.45
+        "pe": 33.26,
+        "pe_10": 17.99,
+        "pe_25": 24.34,
+        "pe_50": 35.79,
+        "pe_75": 54.08,
+        "pe_90": 76.61
       },
       {
         "date": "2020-05-16",
         "price": 43.6,
-        "pe": 34.42,
-        "pe_10": 18.26,
-        "pe_25": 24.91,
-        "pe_50": 33.56,
-        "pe_75": 49.29,
-        "pe_90": 67.04
+        "pe": 30.78,
+        "pe_10": 19.55,
+        "pe_25": 26.45,
+        "pe_50": 38.9,
+        "pe_75": 58.77,
+        "pe_90": 83.26
       },
       {
         "date": "2020-06-15",
         "price": 46.4,
-        "pe": 37.42,
-        "pe_10": 17.88,
-        "pe_25": 24.39,
-        "pe_50": 32.85,
-        "pe_75": 48.25,
-        "pe_90": 65.63
+        "pe": 30.33,
+        "pe_10": 21.12,
+        "pe_25": 28.57,
+        "pe_50": 42.01,
+        "pe_75": 63.48,
+        "pe_90": 89.92
       },
       {
         "date": "2020-07-16",
         "price": 47.05,
-        "pe": 38.78,
-        "pe_10": 17.49,
-        "pe_25": 23.86,
-        "pe_50": 32.14,
-        "pe_75": 47.21,
-        "pe_90": 64.21
+        "pe": 33.21,
+        "pe_10": 19.56,
+        "pe_25": 26.45,
+        "pe_50": 38.9,
+        "pe_75": 58.78,
+        "pe_90": 83.27
       },
       {
         "date": "2020-08-16",
         "price": 43.4,
-        "pe": 36.57,
-        "pe_10": 17.11,
-        "pe_25": 23.34,
-        "pe_50": 31.44,
-        "pe_75": 46.18,
-        "pe_90": 62.81
+        "pe": 33.3,
+        "pe_10": 17.99,
+        "pe_25": 24.34,
+        "pe_50": 35.79,
+        "pe_75": 54.08,
+        "pe_90": 76.6
       },
       {
         "date": "2020-09-15",
         "price": 43.85,
-        "pe": 37.8,
-        "pe_10": 16.73,
-        "pe_25": 22.82,
-        "pe_50": 30.73,
-        "pe_75": 45.14,
-        "pe_90": 61.4
+        "pe": 36.85,
+        "pe_10": 16.43,
+        "pe_25": 22.22,
+        "pe_50": 32.68,
+        "pe_75": 49.37,
+        "pe_90": 69.94
       },
       {
         "date": "2020-10-16",
         "price": 41.65,
-        "pe": 36.75,
-        "pe_10": 16.34,
-        "pe_25": 22.29,
-        "pe_50": 30.02,
-        "pe_75": 44.1,
-        "pe_90": 59.98
+        "pe": 36.11,
+        "pe_10": 15.92,
+        "pe_25": 21.54,
+        "pe_50": 31.67,
+        "pe_75": 47.86,
+        "pe_90": 67.79
       },
       {
         "date": "2020-11-15",
         "price": 47.95,
-        "pe": 43.33,
-        "pe_10": 15.96,
-        "pe_25": 21.76,
-        "pe_50": 29.31,
-        "pe_75": 43.06,
-        "pe_90": 58.57
+        "pe": 42.94,
+        "pe_10": 15.41,
+        "pe_25": 20.85,
+        "pe_50": 30.66,
+        "pe_75": 46.33,
+        "pe_90": 65.63
       },
       {
         "date": "2020-12-16",
         "price": 50.9,
         "pe": 47.13,
-        "pe_10": 15.57,
-        "pe_25": 21.24,
-        "pe_50": 28.61,
-        "pe_75": 42.02,
-        "pe_90": 57.16
+        "pe_10": 14.91,
+        "pe_25": 20.17,
+        "pe_50": 29.66,
+        "pe_75": 44.81,
+        "pe_90": 63.48
       },
       {
         "date": "2021-01-16",
         "price": 52.2,
-        "pe": 37.89,
-        "pe_10": 19.86,
-        "pe_25": 27.1,
-        "pe_50": 36.49,
-        "pe_75": 53.61,
-        "pe_90": 72.91
+        "pe": 41.65,
+        "pe_10": 17.3,
+        "pe_25": 23.4,
+        "pe_50": 34.42,
+        "pe_75": 52.0,
+        "pe_90": 73.67
       },
       {
         "date": "2021-02-14",
         "price": 53.0,
-        "pe": 31.64,
-        "pe_10": 24.15,
-        "pe_25": 32.94,
-        "pe_50": 44.37,
-        "pe_75": 65.18,
-        "pe_90": 88.66
+        "pe": 37.15,
+        "pe_10": 19.69,
+        "pe_25": 26.64,
+        "pe_50": 39.18,
+        "pe_75": 59.2,
+        "pe_90": 83.85
       },
       {
         "date": "2021-03-16",
         "price": 52.1,
-        "pe": 26.41,
-        "pe_10": 28.44,
-        "pe_25": 38.8,
-        "pe_50": 52.26,
-        "pe_75": 76.76,
-        "pe_90": 104.41
+        "pe": 32.56,
+        "pe_10": 22.09,
+        "pe_25": 29.88,
+        "pe_50": 43.94,
+        "pe_75": 66.39,
+        "pe_90": 94.05
       },
       {
         "date": "2021-04-15",
         "price": 74.5,
-        "pe": 32.82,
-        "pe_10": 32.73,
-        "pe_25": 44.64,
-        "pe_50": 60.13,
-        "pe_75": 88.32,
-        "pe_90": 120.14
+        "pe": 45.06,
+        "pe_10": 22.82,
+        "pe_25": 30.87,
+        "pe_50": 45.4,
+        "pe_75": 68.6,
+        "pe_90": 97.18
       },
       {
         "date": "2021-05-16",
         "price": 68.4,
-        "pe": 26.64,
-        "pe_10": 37.02,
-        "pe_25": 50.5,
-        "pe_50": 68.01,
-        "pe_75": 99.9,
-        "pe_90": 135.89
+        "pe": 40.08,
+        "pe_10": 23.56,
+        "pe_25": 31.87,
+        "pe_50": 46.86,
+        "pe_75": 70.81,
+        "pe_90": 100.31
       },
       {
         "date": "2021-06-15",
         "price": 76.1,
-        "pe": 26.56,
-        "pe_10": 41.31,
-        "pe_25": 56.35,
-        "pe_50": 75.9,
-        "pe_75": 111.49,
-        "pe_90": 151.64
+        "pe": 43.24,
+        "pe_10": 24.29,
+        "pe_25": 32.86,
+        "pe_50": 48.33,
+        "pe_75": 73.02,
+        "pe_90": 103.44
       },
       {
         "date": "2021-07-16",
         "price": 112.5,
-        "pe": 35.57,
-        "pe_10": 45.6,
-        "pe_25": 62.2,
-        "pe_50": 83.78,
-        "pe_75": 123.06,
-        "pe_90": 167.39
+        "pe": 53.32,
+        "pe_10": 29.12,
+        "pe_25": 39.4,
+        "pe_50": 57.94,
+        "pe_75": 87.55,
+        "pe_90": 124.01
       },
       {
         "date": "2021-08-16",
         "price": 99.2,
-        "pe": 28.67,
-        "pe_10": 49.89,
-        "pe_25": 68.05,
-        "pe_50": 91.66,
-        "pe_75": 134.63,
-        "pe_90": 183.13
+        "pe": 40.33,
+        "pe_10": 33.95,
+        "pe_25": 45.93,
+        "pe_50": 67.54,
+        "pe_75": 102.06,
+        "pe_90": 144.57
       },
       {
         "date": "2021-09-15",
         "price": 115.0,
-        "pe": 30.61,
-        "pe_10": 54.17,
-        "pe_25": 73.89,
-        "pe_50": 99.52,
-        "pe_75": 146.18,
-        "pe_90": 198.84
+        "pe": 40.93,
+        "pe_10": 38.78,
+        "pe_25": 52.46,
+        "pe_50": 77.15,
+        "pe_75": 116.58,
+        "pe_90": 165.14
       },
       {
         "date": "2021-10-16",
         "price": 201.0,
-        "pe": 49.57,
-        "pe_10": 58.47,
-        "pe_25": 79.75,
-        "pe_50": 107.41,
-        "pe_75": 157.78,
-        "pe_90": 214.61
+        "pe": 58.71,
+        "pe_10": 47.26,
+        "pe_25": 63.93,
+        "pe_50": 94.01,
+        "pe_75": 142.05,
+        "pe_90": 201.23
       },
       {
         "date": "2021-11-15",
         "price": 186.0,
-        "pe": 42.73,
-        "pe_10": 62.76,
-        "pe_25": 85.61,
-        "pe_50": 115.31,
-        "pe_75": 169.37,
-        "pe_90": 230.38
+        "pe": 46.08,
+        "pe_10": 55.72,
+        "pe_25": 75.37,
+        "pe_50": 110.84,
+        "pe_75": 167.48,
+        "pe_90": 237.25
       },
       {
         "date": "2021-12-16",
         "price": 239.0,
         "pe": 51.4,
-        "pe_10": 67.05,
-        "pe_25": 91.45,
-        "pe_50": 123.17,
-        "pe_75": 180.92,
-        "pe_90": 246.1
+        "pe_10": 64.18,
+        "pe_25": 86.82,
+        "pe_50": 127.68,
+        "pe_75": 192.93,
+        "pe_90": 273.3
       },
       {
         "date": "2022-01-16",
         "price": 199.5,
-        "pe": 39.23,
-        "pe_10": 73.33,
-        "pe_25": 100.02,
-        "pe_50": 134.71,
-        "pe_75": 197.87,
-        "pe_90": 269.15
+        "pe": 37.48,
+        "pe_10": 73.47,
+        "pe_25": 99.39,
+        "pe_50": 146.17,
+        "pe_75": 220.86,
+        "pe_90": 312.86
       },
       {
         "date": "2022-02-14",
         "price": 272.5,
-        "pe": 49.35,
-        "pe_10": 79.62,
-        "pe_25": 108.6,
-        "pe_50": 146.27,
-        "pe_75": 214.85,
-        "pe_90": 292.25
+        "pe": 45.44,
+        "pe_10": 82.78,
+        "pe_25": 111.98,
+        "pe_50": 164.68,
+        "pe_75": 248.83,
+        "pe_90": 352.48
       },
       {
         "date": "2022-03-16",
         "price": 305.5,
-        "pe": 51.28,
-        "pe_10": 85.9,
-        "pe_25": 117.17,
-        "pe_50": 157.81,
-        "pe_75": 231.81,
-        "pe_90": 315.31
+        "pe": 45.8,
+        "pe_10": 92.07,
+        "pe_25": 124.55,
+        "pe_50": 183.17,
+        "pe_75": 276.77,
+        "pe_90": 392.06
       },
       {
         "date": "2022-04-15",
         "price": 260.5,
-        "pe": 40.75,
-        "pe_10": 92.18,
-        "pe_25": 125.73,
-        "pe_50": 169.34,
-        "pe_75": 248.74,
-        "pe_90": 338.34
+        "pe": 35.62,
+        "pe_10": 100.95,
+        "pe_25": 136.56,
+        "pe_50": 200.82,
+        "pe_75": 303.45,
+        "pe_90": 429.85
       },
       {
         "date": "2022-05-16",
         "price": 240.5,
-        "pe": 35.22,
-        "pe_10": 98.46,
-        "pe_25": 134.3,
-        "pe_50": 180.89,
-        "pe_75": 265.7,
-        "pe_90": 361.41
+        "pe": 30.23,
+        "pe_10": 109.81,
+        "pe_25": 148.55,
+        "pe_50": 218.46,
+        "pe_75": 330.1,
+        "pe_90": 467.61
       },
       {
         "date": "2022-06-15",
         "price": 191.0,
-        "pe": 26.29,
-        "pe_10": 104.76,
-        "pe_25": 142.89,
-        "pe_50": 192.45,
-        "pe_75": 282.69,
-        "pe_90": 384.51
+        "pe": 22.21,
+        "pe_10": 118.7,
+        "pe_25": 160.58,
+        "pe_50": 236.15,
+        "pe_75": 356.82,
+        "pe_90": 505.47
       },
       {
         "date": "2022-07-16",
         "price": 156.0,
-        "pe": 20.26,
-        "pe_10": 111.02,
-        "pe_25": 151.44,
-        "pe_50": 203.97,
-        "pe_75": 299.6,
-        "pe_90": 407.52
+        "pe": 17.4,
+        "pe_10": 123.75,
+        "pe_25": 167.41,
+        "pe_50": 246.19,
+        "pe_75": 372.0,
+        "pe_90": 526.97
       },
       {
         "date": "2022-08-16",
         "price": 187.0,
-        "pe": 22.98,
-        "pe_10": 117.33,
-        "pe_25": 160.04,
-        "pe_50": 215.56,
-        "pe_75": 316.63,
-        "pe_90": 430.69
+        "pe": 20.04,
+        "pe_10": 128.8,
+        "pe_25": 174.24,
+        "pe_50": 256.24,
+        "pe_75": 387.18,
+        "pe_90": 548.47
       },
       {
         "date": "2022-09-15",
         "price": 134.0,
-        "pe": 15.63,
-        "pe_10": 123.62,
-        "pe_25": 168.61,
-        "pe_50": 227.11,
-        "pe_75": 333.59,
-        "pe_90": 453.75
+        "pe": 13.81,
+        "pe_10": 133.93,
+        "pe_25": 181.18,
+        "pe_50": 266.45,
+        "pe_75": 402.61,
+        "pe_90": 570.32
       },
       {
         "date": "2022-10-16",
         "price": 142.0,
-        "pe": 15.76,
-        "pe_10": 129.92,
-        "pe_25": 177.21,
-        "pe_50": 238.68,
-        "pe_75": 350.59,
-        "pe_90": 476.87
+        "pe": 14.55,
+        "pe_10": 134.71,
+        "pe_25": 182.23,
+        "pe_50": 267.99,
+        "pe_75": 404.94,
+        "pe_90": 573.63
       },
       {
         "date": "2022-11-15",
         "price": 168.5,
-        "pe": 17.84,
-        "pe_10": 136.19,
-        "pe_25": 185.76,
-        "pe_50": 250.2,
-        "pe_75": 367.51,
-        "pe_90": 499.89
+        "pe": 17.16,
+        "pe_10": 135.54,
+        "pe_25": 183.35,
+        "pe_50": 269.64,
+        "pe_75": 407.43,
+        "pe_90": 577.15
       },
       {
         "date": "2022-12-16",
         "price": 142.5,
         "pe": 14.42,
-        "pe_10": 142.49,
-        "pe_25": 194.36,
-        "pe_50": 261.78,
-        "pe_75": 384.51,
-        "pe_90": 523.02
+        "pe_10": 136.4,
+        "pe_25": 184.52,
+        "pe_50": 271.36,
+        "pe_75": 410.03,
+        "pe_90": 580.84
       },
       {
         "date": "2023-01-16",
         "price": 169.5,
-        "pe": 17.68,
-        "pe_10": 138.24,
-        "pe_25": 188.55,
-        "pe_50": 253.96,
-        "pe_75": 373.03,
-        "pe_90": 507.41
+        "pe": 17.56,
+        "pe_10": 133.24,
+        "pe_25": 180.24,
+        "pe_50": 265.06,
+        "pe_75": 400.51,
+        "pe_90": 567.35
       },
       {
         "date": "2023-02-14",
         "price": 185.5,
-        "pe": 19.95,
-        "pe_10": 134.07,
-        "pe_25": 182.87,
-        "pe_50": 246.31,
-        "pe_75": 361.79,
-        "pe_90": 492.12
+        "pe": 19.68,
+        "pe_10": 130.1,
+        "pe_25": 176.0,
+        "pe_50": 258.83,
+        "pe_75": 391.1,
+        "pe_90": 554.02
       },
       {
         "date": "2023-03-16",
         "price": 196.5,
-        "pe": 21.82,
-        "pe_10": 129.85,
-        "pe_25": 177.12,
-        "pe_50": 238.56,
-        "pe_75": 350.4,
-        "pe_90": 476.63
+        "pe": 21.36,
+        "pe_10": 126.98,
+        "pe_25": 171.78,
+        "pe_50": 252.62,
+        "pe_75": 381.71,
+        "pe_90": 540.72
       },
       {
         "date": "2023-04-15",
         "price": 164.0,
-        "pe": 18.81,
-        "pe_10": 125.72,
-        "pe_25": 171.48,
-        "pe_50": 230.96,
-        "pe_75": 339.25,
-        "pe_90": 461.45
+        "pe": 18.5,
+        "pe_10": 122.36,
+        "pe_25": 165.53,
+        "pe_50": 243.43,
+        "pe_75": 367.83,
+        "pe_90": 521.05
       },
       {
         "date": "2023-05-16",
         "price": 171.5,
-        "pe": 20.35,
-        "pe_10": 121.52,
-        "pe_25": 165.75,
-        "pe_50": 223.24,
-        "pe_75": 327.91,
-        "pe_90": 446.03
+        "pe": 20.11,
+        "pe_10": 117.71,
+        "pe_25": 159.24,
+        "pe_50": 234.18,
+        "pe_75": 353.85,
+        "pe_90": 501.26
       },
       {
         "date": "2023-06-15",
         "price": 211.0,
-        "pe": 25.94,
-        "pe_10": 117.29,
-        "pe_25": 159.98,
-        "pe_50": 215.47,
-        "pe_75": 316.5,
-        "pe_90": 430.51
+        "pe": 25.76,
+        "pe_10": 113.06,
+        "pe_25": 152.95,
+        "pe_50": 224.92,
+        "pe_75": 339.86,
+        "pe_90": 481.44
       },
       {
         "date": "2023-07-16",
         "price": 326.0,
-        "pe": 41.56,
-        "pe_10": 113.1,
-        "pe_25": 154.27,
-        "pe_50": 207.79,
-        "pe_75": 305.21,
-        "pe_90": 415.16
+        "pe": 41.44,
+        "pe_10": 108.59,
+        "pe_25": 146.89,
+        "pe_50": 216.02,
+        "pe_75": 326.41,
+        "pe_90": 462.39
       },
       {
         "date": "2023-08-16",
         "price": 345.0,
-        "pe": 45.68,
-        "pe_10": 108.9,
-        "pe_25": 148.54,
-        "pe_50": 200.07,
-        "pe_75": 293.87,
-        "pe_90": 399.73
+        "pe": 45.74,
+        "pe_10": 104.11,
+        "pe_25": 140.84,
+        "pe_50": 207.12,
+        "pe_75": 312.96,
+        "pe_90": 443.33
       },
       {
         "date": "2023-09-15",
         "price": 306.0,
-        "pe": 42.13,
-        "pe_10": 104.73,
-        "pe_25": 142.85,
-        "pe_50": 192.4,
-        "pe_75": 282.61,
-        "pe_90": 384.41
+        "pe": 42.38,
+        "pe_10": 99.66,
+        "pe_25": 134.82,
+        "pe_50": 198.27,
+        "pe_75": 299.59,
+        "pe_90": 424.39
       },
       {
         "date": "2023-10-16",
         "price": 302.0,
-        "pe": 43.32,
-        "pe_10": 100.52,
-        "pe_25": 137.11,
-        "pe_50": 184.67,
-        "pe_75": 271.26,
-        "pe_90": 368.97
+        "pe": 43.49,
+        "pe_10": 95.85,
+        "pe_25": 129.66,
+        "pe_50": 190.69,
+        "pe_75": 288.13,
+        "pe_90": 408.15
       },
       {
         "date": "2023-11-15",
         "price": 385.5,
-        "pe": 57.7,
-        "pe_10": 96.33,
-        "pe_25": 131.4,
-        "pe_50": 176.98,
-        "pe_75": 259.96,
-        "pe_90": 353.6
+        "pe": 57.82,
+        "pe_10": 92.03,
+        "pe_25": 124.49,
+        "pe_50": 183.08,
+        "pe_75": 276.64,
+        "pe_90": 391.88
       },
       {
         "date": "2023-12-16",
         "price": 357.0,
         "pe": 55.87,
-        "pe_10": 92.14,
-        "pe_25": 125.67,
-        "pe_50": 169.27,
-        "pe_75": 248.63,
-        "pe_90": 338.19
+        "pe_10": 88.2,
+        "pe_25": 119.31,
+        "pe_50": 175.46,
+        "pe_75": 265.13,
+        "pe_90": 375.58
       },
       {
         "date": "2024-01-16",
         "price": 416.5,
-        "pe": 67.24,
-        "pe_10": 89.31,
-        "pe_25": 121.83,
-        "pe_50": 164.09,
-        "pe_75": 241.02,
-        "pe_90": 327.84
+        "pe": 68.32,
+        "pe_10": 84.15,
+        "pe_25": 113.83,
+        "pe_50": 167.4,
+        "pe_75": 252.95,
+        "pe_90": 358.32
       },
       {
         "date": "2024-02-15",
         "price": 387.0,
-        "pe": 64.52,
-        "pe_10": 86.49,
-        "pe_25": 117.97,
-        "pe_50": 158.89,
-        "pe_75": 233.39,
-        "pe_90": 317.46
+        "pe": 66.69,
+        "pe_10": 80.1,
+        "pe_25": 108.36,
+        "pe_50": 159.35,
+        "pe_75": 240.78,
+        "pe_90": 341.08
       },
       {
         "date": "2024-03-16",
         "price": 344.0,
-        "pe": 59.28,
-        "pe_10": 83.67,
-        "pe_25": 114.13,
-        "pe_50": 153.72,
-        "pe_75": 225.79,
-        "pe_90": 307.13
+        "pe": 62.43,
+        "pe_10": 76.06,
+        "pe_25": 102.89,
+        "pe_50": 151.31,
+        "pe_75": 228.63,
+        "pe_90": 323.87
       },
       {
         "date": "2024-04-15",
         "price": 294.0,
-        "pe": 52.44,
-        "pe_10": 80.84,
-        "pe_25": 110.26,
-        "pe_50": 148.51,
-        "pe_75": 218.15,
-        "pe_90": 296.72
+        "pe": 55.89,
+        "pe_10": 72.61,
+        "pe_25": 98.22,
+        "pe_50": 144.45,
+        "pe_75": 218.26,
+        "pe_90": 309.19
       },
       {
         "date": "2024-05-16",
         "price": 297.5,
-        "pe": 54.98,
-        "pe_10": 78.02,
-        "pe_25": 106.42,
-        "pe_50": 143.34,
-        "pe_75": 210.54,
-        "pe_90": 286.39
+        "pe": 59.38,
+        "pe_10": 69.15,
+        "pe_25": 93.55,
+        "pe_50": 137.58,
+        "pe_75": 207.88,
+        "pe_90": 294.48
       },
       {
         "date": "2024-06-15",
         "price": 336.0,
-        "pe": 64.43,
-        "pe_10": 75.19,
-        "pe_25": 102.57,
-        "pe_50": 138.14,
-        "pe_75": 202.91,
-        "pe_90": 276.01
+        "pe": 70.59,
+        "pe_10": 65.7,
+        "pe_25": 88.88,
+        "pe_50": 130.71,
+        "pe_75": 197.5,
+        "pe_90": 279.77
       },
       {
         "date": "2024-07-16",
         "price": 296.5,
-        "pe": 59.07,
-        "pe_10": 72.38,
-        "pe_25": 98.72,
-        "pe_50": 132.97,
-        "pe_75": 195.31,
-        "pe_90": 265.66
+        "pe": 63.95,
+        "pe_10": 64.0,
+        "pe_25": 86.57,
+        "pe_50": 127.32,
+        "pe_75": 192.38,
+        "pe_90": 272.52
       },
       {
         "date": "2024-08-16",
         "price": 304.0,
-        "pe": 63.03,
-        "pe_10": 69.54,
-        "pe_25": 94.86,
-        "pe_50": 127.76,
-        "pe_75": 187.67,
-        "pe_90": 255.27
+        "pe": 67.36,
+        "pe_10": 62.29,
+        "pe_25": 84.27,
+        "pe_50": 123.93,
+        "pe_75": 187.26,
+        "pe_90": 265.26
       },
       {
         "date": "2024-09-15",
         "price": 266.0,
-        "pe": 57.48,
-        "pe_10": 66.73,
-        "pe_25": 91.02,
-        "pe_50": 122.59,
-        "pe_75": 180.06,
-        "pe_90": 244.93
+        "pe": 60.59,
+        "pe_10": 60.6,
+        "pe_25": 81.98,
+        "pe_50": 120.55,
+        "pe_75": 182.16,
+        "pe_90": 258.04
       },
       {
         "date": "2024-10-16",
         "price": 234.5,
-        "pe": 52.91,
-        "pe_10": 63.91,
-        "pe_25": 87.17,
-        "pe_50": 117.41,
-        "pe_75": 172.45,
-        "pe_90": 234.57
+        "pe": 54.88,
+        "pe_10": 58.98,
+        "pe_25": 79.79,
+        "pe_50": 117.34,
+        "pe_75": 177.3,
+        "pe_90": 251.15
       },
       {
         "date": "2024-11-15",
         "price": 222.0,
-        "pe": 52.41,
-        "pe_10": 61.08,
-        "pe_25": 83.31,
-        "pe_50": 112.21,
-        "pe_75": 164.82,
-        "pe_90": 224.19
+        "pe": 53.41,
+        "pe_10": 57.37,
+        "pe_25": 77.61,
+        "pe_50": 114.14,
+        "pe_75": 172.46,
+        "pe_90": 244.31
       },
       {
         "date": "2024-12-16",
         "price": 241.0,
         "pe": 59.65,
-        "pe_10": 58.26,
-        "pe_25": 79.46,
-        "pe_50": 107.03,
-        "pe_75": 157.21,
-        "pe_90": 213.83
+        "pe_10": 55.77,
+        "pe_25": 75.44,
+        "pe_50": 110.94,
+        "pe_75": 167.64,
+        "pe_90": 237.47
       },
       {
         "date": "2025-01-16",
         "price": 225.0,
-        "pe": 57.14,
-        "pe_10": 56.78,
-        "pe_25": 77.44,
-        "pe_50": 104.31,
-        "pe_75": 153.22,
-        "pe_90": 208.41
+        "pe": 54.74,
+        "pe_10": 56.74,
+        "pe_25": 76.75,
+        "pe_50": 112.87,
+        "pe_75": 170.55,
+        "pe_90": 241.59
       },
       {
         "date": "2025-02-14",
         "price": 238.5,
-        "pe": 62.19,
-        "pe_10": 55.3,
-        "pe_25": 75.43,
-        "pe_50": 101.59,
-        "pe_75": 149.22,
-        "pe_90": 202.97
+        "pe": 57.06,
+        "pe_10": 57.69,
+        "pe_25": 78.05,
+        "pe_50": 114.78,
+        "pe_75": 173.43,
+        "pe_90": 245.68
       },
       {
         "date": "2025-03-16",
         "price": 212.5,
-        "pe": 56.93,
-        "pe_10": 53.82,
-        "pe_25": 73.41,
-        "pe_50": 98.88,
-        "pe_75": 145.24,
-        "pe_90": 197.55
+        "pe": 50.0,
+        "pe_10": 58.66,
+        "pe_25": 79.36,
+        "pe_50": 116.7,
+        "pe_75": 176.34,
+        "pe_90": 249.8
       },
       {
         "date": "2025-04-15",
         "price": 180.0,
-        "pe": 49.59,
-        "pe_10": 52.34,
-        "pe_25": 71.39,
-        "pe_50": 96.15,
-        "pe_75": 141.23,
-        "pe_90": 192.11
+        "pe": 45.57,
+        "pe_10": 54.52,
+        "pe_25": 73.76,
+        "pe_50": 108.47,
+        "pe_75": 163.89,
+        "pe_90": 232.17
       },
       {
         "date": "2025-05-16",
         "price": 176.0,
-        "pe": 49.89,
-        "pe_10": 50.87,
-        "pe_25": 69.38,
-        "pe_50": 93.45,
-        "pe_75": 137.27,
-        "pe_90": 186.71
+        "pe": 48.22,
+        "pe_10": 50.38,
+        "pe_25": 68.15,
+        "pe_50": 100.23,
+        "pe_75": 151.45,
+        "pe_90": 214.53
       },
       {
         "date": "2025-06-15",
         "price": 185.5,
-        "pe": 54.16,
-        "pe_10": 49.39,
-        "pe_25": 67.36,
-        "pe_50": 90.73,
-        "pe_75": 133.27,
-        "pe_90": 181.27
+        "pe": 55.37,
+        "pe_10": 46.24,
+        "pe_25": 62.56,
+        "pe_50": 92.0,
+        "pe_75": 139.01,
+        "pe_90": 196.91
       },
       {
         "date": "2025-07-16",
         "price": 152.5,
-        "pe": 45.9,
-        "pe_10": 47.91,
-        "pe_25": 65.34,
-        "pe_50": 88.01,
-        "pe_75": 129.28,
-        "pe_90": 175.84
+        "pe": 47.56,
+        "pe_10": 44.26,
+        "pe_25": 59.87,
+        "pe_50": 88.05,
+        "pe_75": 133.04,
+        "pe_90": 188.47
       },
       {
         "date": "2025-08-16",
         "price": 158.0,
-        "pe": 49.07,
-        "pe_10": 46.43,
-        "pe_25": 63.33,
-        "pe_50": 85.29,
-        "pe_75": 125.29,
-        "pe_90": 170.42
+        "pe": 51.58,
+        "pe_10": 42.28,
+        "pe_25": 57.2,
+        "pe_50": 84.12,
+        "pe_75": 127.1,
+        "pe_90": 180.05
       },
       {
         "date": "2025-09-15",
         "price": 158.5,
-        "pe": 50.84,
-        "pe_10": 44.95,
-        "pe_25": 61.32,
-        "pe_50": 82.59,
-        "pe_75": 121.31,
-        "pe_90": 165.0
+        "pe": 54.28,
+        "pe_10": 40.31,
+        "pe_25": 54.52,
+        "pe_50": 80.18,
+        "pe_75": 121.16,
+        "pe_90": 171.63
       },
       {
         "date": "2025-10-16",
         "price": 182.5,
-        "pe": 60.53,
-        "pe_10": 43.47,
-        "pe_25": 59.3,
-        "pe_50": 79.87,
-        "pe_75": 117.31,
-        "pe_90": 159.57
+        "pe": 63.29,
+        "pe_10": 39.8,
+        "pe_25": 53.84,
+        "pe_50": 79.18,
+        "pe_75": 119.65,
+        "pe_90": 169.49
       },
       {
         "date": "2025-11-15",
         "price": 174.0,
-        "pe": 59.74,
-        "pe_10": 42.0,
-        "pe_25": 57.28,
-        "pe_50": 77.16,
-        "pe_75": 113.33,
-        "pe_90": 154.15
+        "pe": 61.12,
+        "pe_10": 39.3,
+        "pe_25": 53.16,
+        "pe_50": 78.17,
+        "pe_75": 118.12,
+        "pe_90": 167.33
       },
       {
         "date": "2025-12-16",
         "price": 170.5,
         "pe": 60.68,
-        "pe_10": 40.51,
-        "pe_25": 55.26,
-        "pe_50": 74.43,
-        "pe_75": 109.33,
-        "pe_90": 148.71
+        "pe_10": 38.78,
+        "pe_25": 52.47,
+        "pe_50": 77.16,
+        "pe_75": 116.59,
+        "pe_90": 165.15
       },
       {
         "date": "2026-01-16",
         "price": 167.0,
         "pe": 59.43,
-        "pe_10": 40.52,
-        "pe_25": 55.27,
-        "pe_50": 74.44,
-        "pe_75": 109.34,
-        "pe_90": 148.72
+        "pe_10": 38.79,
+        "pe_25": 52.47,
+        "pe_50": 77.16,
+        "pe_75": 116.6,
+        "pe_90": 165.17
       },
       {
         "date": "2026-02-14",
         "price": 168.0,
         "pe": 59.79,
-        "pe_10": 40.52,
-        "pe_25": 55.26,
-        "pe_50": 74.43,
-        "pe_75": 109.33,
-        "pe_90": 148.71
+        "pe_10": 38.78,
+        "pe_25": 52.47,
+        "pe_50": 77.16,
+        "pe_75": 116.59,
+        "pe_90": 165.15
       }
     ]
   },
@@ -20038,19 +20038,19 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (14.4倍)",
+            "title": "PE 10% (13.8倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (26.5倍)",
+            "title": "PE 50% (27.5倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (52.9倍)",
+            "title": "PE 90% (58.8倍)",
             "format": ".1f"
           }
         ]
@@ -20962,6 +20962,10 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
       {
         "date": "2026-01-16",
         "revenue_yoy": -29.8
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": -74.0
       }
     ]
   },
@@ -21029,16 +21033,16 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 30.1 | +95.1% | 0.021 | 2021-09 (+1784.4%) | 2007-10 (-92.4%) |
-| 6個月 | 29.8 | +52.3% | 0.046 | 2021-03 (+910.3%) | 2007-07 (-89.5%) |
-| 1年 | 29.3 | +27.2% | 0.033 | 2021-03 (+489.0%) | 2007-09 (-67.7%) |
-| 2年 | 27.6 | +14.8% | 0.019 | 2020-03 (+191.3%) | 2007-06 (-35.7%) |
-| 3年 | 26.9 | +14.8% | 0.098 | 2020-11 (+102.0%) | 2007-07 (-27.2%) |
-| 4年 | 27.0 | +14.0% | 0.079 | 2020-03 (+76.8%) | 2007-07 (-26.2%) |
-| 5年 | 26.4 | +13.3% | 0.060 | 2019-01 (+58.3%) | 2007-07 (-19.8%) |
-| 6年 | 25.6 | +11.9% | 0.066 | 2017-07 (+42.0%) | 2007-07 (-18.2%) |
-| 8年 | 23.8 | +11.0% | 0.012 | 2015-08 (+37.5%) | 2007-07 (-13.7%) |
-| 10年 | 23.8 | +10.1% | 0.046 | 2013-11 (+28.1%) | 2007-07 (-9.0%) |
+| 3個月 | 31.8 | +95.1% | 0.005 | 2021-09 (+1784.4%) | 2007-10 (-92.4%) |
+| 6個月 | 31.4 | +52.3% | 0.014 | 2021-03 (+910.3%) | 2007-07 (-89.5%) |
+| 1年 | 31.0 | +27.2% | 0.019 | 2021-03 (+489.0%) | 2007-09 (-67.7%) |
+| 2年 | 29.3 | +14.8% | 0.009 | 2020-03 (+191.3%) | 2007-06 (-35.7%) |
+| 3年 | 28.7 | +14.8% | 0.078 | 2020-11 (+102.0%) | 2007-07 (-27.2%) |
+| 4年 | 29.1 | +14.0% | 0.071 | 2020-03 (+76.8%) | 2007-07 (-26.2%) |
+| 5年 | 28.0 | +13.3% | 0.052 | 2019-01 (+58.3%) | 2007-07 (-19.8%) |
+| 6年 | 27.4 | +11.9% | 0.080 | 2017-07 (+42.0%) | 2007-07 (-18.2%) |
+| 8年 | 24.7 | +11.0% | 0.003 | 2015-08 (+37.5%) | 2007-07 (-13.7%) |
+| 10年 | 24.9 | +10.1% | 0.066 | 2013-11 (+28.1%) | 2007-07 (-9.0%) |
 
 
 ## 🎯 使用說明
@@ -21057,4 +21061,4 @@ description: "3035 智原 (半導體業) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:33:07 CST*
+*數據更新時間: 2026-03-21 12:39:32 CST*

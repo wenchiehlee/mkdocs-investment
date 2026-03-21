@@ -3,7 +3,7 @@
     "stock_code": "6035",
     "company_name": "悠遊卡",
     "industry": "金融保險業",
-    "generated_at": "2026-03-07T12:35:07.123782",
+    "generated_at": "2026-03-21T12:41:52.963983",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -1630,6 +1630,10 @@
     {
       "date": "2026-01-16",
       "revenue_yoy": 13.1
+    },
+    {
+      "date": "2026-02-14",
+      "revenue_yoy": -3.57
     }
   ]
 }

@@ -2,7 +2,7 @@
 title: "8454 富邦媒 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
     - **產業別**: 數位雲端
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:36:57 CST
+    - **報告生成時間**: 2026-03-21 12:44:00 CST
 
 ## 📈 互動式圖表
 
@@ -48,7 +48,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 34.38,
+        "pe_ratio": 34.34,
         "forward_return": -16.72,
         "start_price": 308.5,
         "start_year": 2015
@@ -57,7 +57,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 35.3,
+        "pe_ratio": 35.23,
         "forward_return": -25.16,
         "start_price": 312.0,
         "start_year": 2015
@@ -66,7 +66,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 29.73,
         "forward_return": -21.86,
         "start_price": 259.5,
         "start_year": 2015
@@ -75,7 +75,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 34.47,
         "forward_return": -60.12,
         "start_price": 300.5,
         "start_year": 2015
@@ -84,7 +84,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 34.46,
+        "pe_ratio": 33.38,
         "forward_return": -74.46,
         "start_price": 290.5,
         "start_year": 2015
@@ -93,7 +93,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 31.01,
         "forward_return": -67.23,
         "start_price": 269.5,
         "start_year": 2015
@@ -102,7 +102,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 28.25,
+        "pe_ratio": 27.31,
         "forward_return": -57.33,
         "start_price": 230.5,
         "start_year": 2015
@@ -111,7 +111,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 24.62,
+        "pe_ratio": 24.11,
         "forward_return": 26.27,
         "start_price": 197.5,
         "start_year": 2015
@@ -120,7 +120,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.56,
         "forward_return": 43.88,
         "start_price": 195.0,
         "start_year": 2015
@@ -129,7 +129,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 23.99,
+        "pe_ratio": 23.89,
         "forward_return": 68.11,
         "start_price": 186.0,
         "start_year": 2015
@@ -138,7 +138,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 28.56,
+        "pe_ratio": 28.49,
         "forward_return": -4.78,
         "start_price": 217.5,
         "start_year": 2015
@@ -156,7 +156,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 28.04,
+        "pe_ratio": 27.63,
         "forward_return": 28.73,
         "start_price": 212.0,
         "start_year": 2016
@@ -165,7 +165,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 28.0,
+        "pe_ratio": 27.2,
         "forward_return": 34.73,
         "start_price": 214.0,
         "start_year": 2016
@@ -174,7 +174,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 27.71,
+        "pe_ratio": 26.55,
         "forward_return": 16.19,
         "start_price": 214.0,
         "start_year": 2016
@@ -183,7 +183,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 25.84,
         "forward_return": 31.91,
         "start_price": 210.0,
         "start_year": 2016
@@ -192,7 +192,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 29.24,
+        "pe_ratio": 28.13,
         "forward_return": 5.27,
         "start_price": 230.5,
         "start_year": 2016
@@ -201,7 +201,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 25.73,
         "forward_return": 9.67,
         "start_price": 212.5,
         "start_year": 2016
@@ -210,7 +210,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 27.09,
+        "pe_ratio": 26.42,
         "forward_return": -21.66,
         "start_price": 218.0,
         "start_year": 2016
@@ -219,7 +219,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 27.87,
+        "pe_ratio": 27.49,
         "forward_return": -37.11,
         "start_price": 226.5,
         "start_year": 2016
@@ -228,7 +228,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.58,
         "forward_return": -27.94,
         "start_price": 210.5,
         "start_year": 2016
@@ -237,7 +237,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 24.69,
         "forward_return": -28.33,
         "start_price": 205.0,
         "start_year": 2016
@@ -246,7 +246,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 23.24,
+        "pe_ratio": 23.22,
         "forward_return": 37.59,
         "start_price": 194.5,
         "start_year": 2016
@@ -264,7 +264,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.53,
         "forward_return": 79.63,
         "start_price": 188.5,
         "start_year": 2017
@@ -273,7 +273,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 22.68,
+        "pe_ratio": 23.42,
         "forward_return": 94.31,
         "start_price": 194.0,
         "start_year": 2017
@@ -282,7 +282,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 25.1,
+        "pe_ratio": 26.34,
         "forward_return": 8.55,
         "start_price": 216.0,
         "start_year": 2017
@@ -291,7 +291,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 24.95,
+        "pe_ratio": 25.92,
         "forward_return": 11.62,
         "start_price": 216.0,
         "start_year": 2017
@@ -300,7 +300,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 26.99,
         "forward_return": -16.28,
         "start_price": 228.5,
         "start_year": 2017
@@ -309,7 +309,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.03,
+        "pe_ratio": 24.48,
         "forward_return": 25.74,
         "start_price": 210.5,
         "start_year": 2017
@@ -318,7 +318,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 24.94,
         "forward_return": 17.77,
         "start_price": 214.0,
         "start_year": 2017
@@ -327,7 +327,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 23.75,
+        "pe_ratio": 24.59,
         "forward_return": 10.29,
         "start_price": 210.5,
         "start_year": 2017
@@ -336,7 +336,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.12,
+        "pe_ratio": 25.18,
         "forward_return": 4.75,
         "start_price": 215.0,
         "start_year": 2017
@@ -345,7 +345,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.87,
+        "pe_ratio": 25.58,
         "forward_return": 93.97,
         "start_price": 223.0,
         "start_year": 2017
@@ -354,7 +354,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.28,
         "forward_return": 127.05,
         "start_price": 207.0,
         "start_year": 2017
@@ -372,7 +372,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 29.07,
         "forward_return": -36.48,
         "start_price": 263.5,
         "start_year": 2018
@@ -381,7 +381,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 32.32,
+        "pe_ratio": 33.12,
         "forward_return": -67.75,
         "start_price": 300.0,
         "start_year": 2018
@@ -390,7 +390,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 29.94,
         "forward_return": -54.71,
         "start_price": 271.0,
         "start_year": 2018
@@ -399,7 +399,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 26.75,
         "forward_return": -49.42,
         "start_price": 246.5,
         "start_year": 2018
@@ -408,7 +408,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 24.19,
         "forward_return": -36.46,
         "start_price": 227.0,
         "start_year": 2018
@@ -417,7 +417,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.25,
+        "pe_ratio": 22.62,
         "forward_return": -45.36,
         "start_price": 216.0,
         "start_year": 2018
@@ -426,7 +426,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.37,
+        "pe_ratio": 20.6,
         "forward_return": -24.23,
         "start_price": 200.0,
         "start_year": 2018
@@ -435,7 +435,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.6,
+        "pe_ratio": 19.71,
         "forward_return": -9.68,
         "start_price": 194.5,
         "start_year": 2018
@@ -480,7 +480,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 21.95,
+        "pe_ratio": 21.44,
         "forward_return": 55.76,
         "start_price": 226.5,
         "start_year": 2019
@@ -489,7 +489,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.92,
+        "pe_ratio": 22.83,
         "forward_return": 29.14,
         "start_price": 246.0,
         "start_year": 2019
@@ -498,7 +498,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 23.16,
         "forward_return": 20.69,
         "start_price": 254.5,
         "start_year": 2019
@@ -507,7 +507,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.97,
+        "pe_ratio": 25.69,
         "forward_return": -6.4,
         "start_price": 275.5,
         "start_year": 2019
@@ -516,7 +516,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.73,
+        "pe_ratio": 25.06,
         "forward_return": 8.6,
         "start_price": 262.0,
         "start_year": 2019
@@ -525,7 +525,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.86,
+        "pe_ratio": 25.76,
         "forward_return": 12.66,
         "start_price": 262.5,
         "start_year": 2019
@@ -534,7 +534,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 25.9,
+        "pe_ratio": 25.97,
         "forward_return": 3.07,
         "start_price": 262.0,
         "start_year": 2019
@@ -543,7 +543,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.89,
         "forward_return": 41.09,
         "start_price": 258.5,
         "start_year": 2019
@@ -552,7 +552,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.02,
+        "pe_ratio": 26.47,
         "forward_return": 51.47,
         "start_price": 261.5,
         "start_year": 2019
@@ -561,7 +561,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.66,
         "forward_return": 79.7,
         "start_price": 264.0,
         "start_year": 2019
@@ -570,7 +570,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.21,
         "forward_return": 157.43,
         "start_price": 280.0,
         "start_year": 2019
@@ -588,7 +588,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 29.78,
+        "pe_ratio": 30.41,
         "forward_return": 553.86,
         "start_price": 306.0,
         "start_year": 2020
@@ -597,7 +597,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 33.34,
+        "pe_ratio": 34.74,
         "forward_return": 580.44,
         "start_price": 353.5,
         "start_year": 2020
@@ -606,7 +606,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 35.04,
+        "pe_ratio": 37.22,
         "forward_return": 406.55,
         "start_price": 383.0,
         "start_year": 2020
@@ -615,7 +615,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 42.69,
+        "pe_ratio": 45.06,
         "forward_return": 254.27,
         "start_price": 480.5,
         "start_year": 2020
@@ -624,7 +624,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 49.21,
+        "pe_ratio": 51.65,
         "forward_return": 178.1,
         "start_price": 570.0,
         "start_year": 2020
@@ -633,7 +633,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 60.12,
+        "pe_ratio": 62.75,
         "forward_return": -2.47,
         "start_price": 716.0,
         "start_year": 2020
@@ -642,7 +642,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 53.12,
+        "pe_ratio": 55.21,
         "forward_return": 22.44,
         "start_price": 650.0,
         "start_year": 2020
@@ -651,7 +651,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 58.03,
+        "pe_ratio": 60.07,
         "forward_return": -33.23,
         "start_price": 729.0,
         "start_year": 2020
@@ -660,7 +660,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 54.54,
+        "pe_ratio": 56.24,
         "forward_return": -32.68,
         "start_price": 703.0,
         "start_year": 2020
@@ -669,7 +669,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 51.75,
+        "pe_ratio": 52.79,
         "forward_return": 75.41,
         "start_price": 684.0,
         "start_year": 2020
@@ -678,7 +678,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 45.78,
+        "pe_ratio": 46.22,
         "forward_return": 315.55,
         "start_price": 620.0,
         "start_year": 2020
@@ -696,7 +696,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 55.43,
+        "pe_ratio": 53.7,
         "forward_return": 297.47,
         "start_price": 788.0,
         "start_year": 2021
@@ -705,7 +705,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 66.41,
+        "pe_ratio": 62.48,
         "forward_return": 174.33,
         "start_price": 967.0,
         "start_year": 2021
@@ -714,7 +714,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 66.41,
+        "pe_ratio": 60.81,
         "forward_return": 297.71,
         "start_price": 990.0,
         "start_year": 2021
@@ -723,7 +723,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 67.53,
+        "pe_ratio": 65.22,
         "forward_return": 442.96,
         "start_price": 1030.0,
         "start_year": 2021
@@ -732,7 +732,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 79.49,
+        "pe_ratio": 81.01,
         "forward_return": 270.84,
         "start_price": 1240.0,
         "start_year": 2021
@@ -741,7 +741,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 118.2,
+        "pe_ratio": 127.2,
         "forward_return": -43.84,
         "start_price": 1885.0,
         "start_year": 2021
@@ -750,7 +750,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 95.76,
+        "pe_ratio": 101.8,
         "forward_return": 72.63,
         "start_price": 1560.0,
         "start_year": 2021
@@ -759,7 +759,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 103.1,
+        "pe_ratio": 108.3,
         "forward_return": -14.9,
         "start_price": 1715.0,
         "start_year": 2021
@@ -768,7 +768,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 95.39,
+        "pe_ratio": 99.14,
         "forward_return": 1.24,
         "start_price": 1620.0,
         "start_year": 2021
@@ -777,7 +777,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 103.3,
+        "pe_ratio": 105.9,
         "forward_return": -84.73,
         "start_price": 1790.0,
         "start_year": 2021
@@ -786,7 +786,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 100.7,
+        "pe_ratio": 101.9,
         "forward_return": -85.63,
         "start_price": 1780.0,
         "start_year": 2021
@@ -804,7 +804,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 62.54,
+        "pe_ratio": 61.61,
         "forward_return": -58.53,
         "start_price": 1115.0,
         "start_year": 2022
@@ -813,7 +813,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 55.74,
+        "pe_ratio": 54.09,
         "forward_return": -48.43,
         "start_price": 983.0,
         "start_year": 2022
@@ -822,7 +822,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 51.56,
         "forward_return": -31.32,
         "start_price": 941.0,
         "start_year": 2022
@@ -831,7 +831,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 45.85,
+        "pe_ratio": 46.1,
         "forward_return": 21.31,
         "start_price": 791.0,
         "start_year": 2022
@@ -840,7 +840,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 48.94,
+        "pe_ratio": 51.96,
         "forward_return": -37.09,
         "start_price": 835.0,
         "start_year": 2022
@@ -849,7 +849,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 37.82,
+        "pe_ratio": 42.59,
         "forward_return": -45.72,
         "start_price": 638.0,
         "start_year": 2022
@@ -858,7 +858,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 48.99,
+        "pe_ratio": 54.21,
         "forward_return": -87.64,
         "start_price": 817.0,
         "start_year": 2022
@@ -867,7 +867,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 44.28,
+        "pe_ratio": 48.15,
         "forward_return": -31.93,
         "start_price": 730.0,
         "start_year": 2022
@@ -876,7 +876,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 32.77,
+        "pe_ratio": 35.02,
         "forward_return": 109.45,
         "start_price": 534.0,
         "start_year": 2022
@@ -885,7 +885,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 29.96,
+        "pe_ratio": 31.32,
         "forward_return": 618.88,
         "start_price": 482.5,
         "start_year": 2022
@@ -894,7 +894,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 37.71,
+        "pe_ratio": 38.55,
         "forward_return": 247.04,
         "start_price": 600.0,
         "start_year": 2022
@@ -912,7 +912,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 50.61,
+        "pe_ratio": 50.13,
         "forward_return": -31.89,
         "start_price": 793.0,
         "start_year": 2023
@@ -921,7 +921,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 50.84,
+        "pe_ratio": 49.87,
         "forward_return": -40.38,
         "start_price": 794.0,
         "start_year": 2023
@@ -930,7 +930,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 58.01,
+        "pe_ratio": 56.37,
         "forward_return": -68.49,
         "start_price": 903.0,
         "start_year": 2023
@@ -939,7 +939,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 53.44,
+        "pe_ratio": 51.72,
         "forward_return": -70.03,
         "start_price": 829.0,
         "start_year": 2023
@@ -948,7 +948,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 45.21,
+        "pe_ratio": 43.58,
         "forward_return": -65.41,
         "start_price": 699.0,
         "start_year": 2023
@@ -957,7 +957,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 44.65,
+        "pe_ratio": 42.87,
         "forward_return": -67.84,
         "start_price": 688.0,
         "start_year": 2023
@@ -966,7 +966,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 39.0,
+        "pe_ratio": 38.51,
         "forward_return": -37.09,
         "start_price": 599.0,
         "start_year": 2023
@@ -975,7 +975,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 33.97,
+        "pe_ratio": 34.54,
         "forward_return": -6.2,
         "start_price": 520.0,
         "start_year": 2023
@@ -984,7 +984,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 32.91,
+        "pe_ratio": 34.48,
         "forward_return": 5.72,
         "start_price": 502.0,
         "start_year": 2023
@@ -993,7 +993,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 35.06,
+        "pe_ratio": 36.16,
         "forward_return": -54.96,
         "start_price": 533.0,
         "start_year": 2023
@@ -1002,7 +1002,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 34.19,
+        "pe_ratio": 34.72,
         "forward_return": -58.52,
         "start_price": 518.0,
         "start_year": 2023
@@ -1020,7 +1020,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 28.83,
         "forward_return": 2.09,
         "start_price": 436.0,
         "start_year": 2024
@@ -1029,7 +1029,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 29.9,
+        "pe_ratio": 29.35,
         "forward_return": -4.87,
         "start_price": 444.5,
         "start_year": 2024
@@ -1038,7 +1038,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 25.51,
         "forward_return": 39.78,
         "start_price": 387.0,
         "start_year": 2024
@@ -1047,7 +1047,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 30.21,
+        "pe_ratio": 29.33,
         "forward_return": -8.1,
         "start_price": 442.0,
         "start_year": 2024
@@ -1056,7 +1056,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 30.25,
+        "pe_ratio": 29.33,
         "forward_return": -27.53,
         "start_price": 439.0,
         "start_year": 2024
@@ -1065,7 +1065,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 29.84,
+        "pe_ratio": 28.88,
         "forward_return": -17.81,
         "start_price": 429.5,
         "start_year": 2024
@@ -1074,7 +1074,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 29.28,
+        "pe_ratio": 28.77,
         "forward_return": -34.67,
         "start_price": 418.0,
         "start_year": 2024
@@ -1083,7 +1083,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 27.54,
+        "pe_ratio": 27.5,
         "forward_return": -37.41,
         "start_price": 390.0,
         "start_year": 2024
@@ -1092,7 +1092,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 28.06,
+        "pe_ratio": 28.47,
         "forward_return": -48.78,
         "start_price": 394.0,
         "start_year": 2024
@@ -1101,7 +1101,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 26.97,
+        "pe_ratio": 27.23,
         "forward_return": -22.19,
         "start_price": 375.5,
         "start_year": 2024
@@ -1110,7 +1110,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 26.33,
+        "pe_ratio": 26.46,
         "forward_return": -12.8,
         "start_price": 363.5,
         "start_year": 2024
@@ -1128,7 +1128,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 26.02,
+        "pe_ratio": 25.86,
         "forward_return": -35.63,
         "start_price": 352.5,
         "start_year": 2025
@@ -1137,7 +1137,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 28.83,
+        "pe_ratio": 28.48,
         "forward_return": -61.75,
         "start_price": 386.5,
         "start_year": 2025
@@ -1146,7 +1146,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 26.19,
+        "pe_ratio": 25.72,
         "forward_return": -38.26,
         "start_price": 347.5,
         "start_year": 2025
@@ -1155,7 +1155,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 24.61,
+        "pe_ratio": 24.19,
         "forward_return": -29.75,
         "start_price": 323.0,
         "start_year": 2025
@@ -1164,7 +1164,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 23.49,
+        "pe_ratio": 23.12,
         "forward_return": -42.08,
         "start_price": 305.0,
         "start_year": 2025
@@ -1173,7 +1173,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 20.64,
         "forward_return": -20.0,
         "start_price": 269.0,
         "start_year": 2025
@@ -1182,7 +1182,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 22.31,
         "forward_return": -53.39,
         "start_price": 283.0,
         "start_year": 2025
@@ -1191,7 +1191,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 20.5,
         "forward_return": -44.76,
         "start_price": 253.0,
         "start_year": 2025
@@ -1200,7 +1200,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 19.44,
+        "pe_ratio": 20.12,
         "forward_return": -45.61,
         "start_price": 241.5,
         "start_year": 2025
@@ -1209,7 +1209,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 19.01,
+        "pe_ratio": 19.85,
         "forward_return": -57.26,
         "start_price": 233.5,
         "start_year": 2025
@@ -1227,7 +1227,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 34.38,
+        "pe_ratio": 34.34,
         "forward_return": -40.27,
         "start_price": 308.5,
         "start_year": 2015
@@ -1236,7 +1236,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 35.3,
+        "pe_ratio": 35.23,
         "forward_return": -56.54,
         "start_price": 312.0,
         "start_year": 2015
@@ -1245,7 +1245,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 29.73,
         "forward_return": -38.88,
         "start_price": 259.5,
         "start_year": 2015
@@ -1254,7 +1254,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 34.47,
         "forward_return": -58.04,
         "start_price": 300.5,
         "start_year": 2015
@@ -1263,7 +1263,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 34.46,
+        "pe_ratio": 33.38,
         "forward_return": -36.82,
         "start_price": 290.5,
         "start_year": 2015
@@ -1272,7 +1272,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 31.01,
         "forward_return": -32.1,
         "start_price": 269.5,
         "start_year": 2015
@@ -1281,7 +1281,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 28.25,
+        "pe_ratio": 27.31,
         "forward_return": -15.3,
         "start_price": 230.5,
         "start_year": 2015
@@ -1290,7 +1290,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 24.62,
+        "pe_ratio": 24.11,
         "forward_return": 14.75,
         "start_price": 197.5,
         "start_year": 2015
@@ -1299,7 +1299,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.56,
         "forward_return": 20.51,
         "start_price": 195.0,
         "start_year": 2015
@@ -1308,7 +1308,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 23.99,
+        "pe_ratio": 23.89,
         "forward_return": 44.46,
         "start_price": 186.0,
         "start_year": 2015
@@ -1317,7 +1317,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 28.56,
+        "pe_ratio": 28.49,
         "forward_return": 12.36,
         "start_price": 217.5,
         "start_year": 2015
@@ -1335,7 +1335,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 28.04,
+        "pe_ratio": 27.63,
         "forward_return": 12.69,
         "start_price": 212.0,
         "start_year": 2016
@@ -1344,7 +1344,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 28.0,
+        "pe_ratio": 27.2,
         "forward_return": 19.01,
         "start_price": 214.0,
         "start_year": 2016
@@ -1353,7 +1353,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 27.71,
+        "pe_ratio": 26.55,
         "forward_return": -1.59,
         "start_price": 214.0,
         "start_year": 2016
@@ -1362,7 +1362,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 25.84,
         "forward_return": 1.91,
         "start_price": 210.0,
         "start_year": 2016
@@ -1371,7 +1371,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 29.24,
+        "pe_ratio": 28.13,
         "forward_return": -20.84,
         "start_price": 230.5,
         "start_year": 2016
@@ -1380,7 +1380,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 25.73,
         "forward_return": -10.51,
         "start_price": 212.5,
         "start_year": 2016
@@ -1389,7 +1389,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 27.09,
+        "pe_ratio": 26.42,
         "forward_return": -25.07,
         "start_price": 218.0,
         "start_year": 2016
@@ -1398,7 +1398,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 27.87,
+        "pe_ratio": 27.49,
         "forward_return": -7.85,
         "start_price": 226.5,
         "start_year": 2016
@@ -1407,7 +1407,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.58,
         "forward_return": 5.34,
         "start_price": 210.5,
         "start_year": 2016
@@ -1416,7 +1416,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 24.69,
         "forward_return": 20.56,
         "start_price": 205.0,
         "start_year": 2016
@@ -1425,7 +1425,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 23.24,
+        "pe_ratio": 23.22,
         "forward_return": 38.42,
         "start_price": 194.5,
         "start_year": 2016
@@ -1443,7 +1443,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.53,
         "forward_return": 39.11,
         "start_price": 188.5,
         "start_year": 2017
@@ -1452,7 +1452,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 22.68,
+        "pe_ratio": 23.42,
         "forward_return": 26.96,
         "start_price": 194.0,
         "start_year": 2017
@@ -1461,7 +1461,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 25.1,
+        "pe_ratio": 26.34,
         "forward_return": 12.14,
         "start_price": 216.0,
         "start_year": 2017
@@ -1470,7 +1470,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 24.95,
+        "pe_ratio": 25.92,
         "forward_return": 14.34,
         "start_price": 216.0,
         "start_year": 2017
@@ -1479,7 +1479,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 26.99,
         "forward_return": -2.23,
         "start_price": 228.5,
         "start_year": 2017
@@ -1488,7 +1488,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.03,
+        "pe_ratio": 24.48,
         "forward_return": 14.73,
         "start_price": 210.5,
         "start_year": 2017
@@ -1497,7 +1497,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 24.94,
         "forward_return": 51.14,
         "start_price": 214.0,
         "start_year": 2017
@@ -1506,7 +1506,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 23.75,
+        "pe_ratio": 24.59,
         "forward_return": 54.54,
         "start_price": 210.5,
         "start_year": 2017
@@ -1515,7 +1515,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.12,
+        "pe_ratio": 25.18,
         "forward_return": 59.54,
         "start_price": 215.0,
         "start_year": 2017
@@ -1524,7 +1524,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.87,
+        "pe_ratio": 25.58,
         "forward_return": 3.11,
         "start_price": 223.0,
         "start_year": 2017
@@ -1533,7 +1533,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.28,
         "forward_return": 20.46,
         "start_price": 207.0,
         "start_year": 2017
@@ -1551,7 +1551,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 29.07,
         "forward_return": -37.95,
         "start_price": 263.5,
         "start_year": 2018
@@ -1560,7 +1560,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 32.32,
+        "pe_ratio": 33.12,
         "forward_return": -54.56,
         "start_price": 300.0,
         "start_year": 2018
@@ -1569,7 +1569,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 29.94,
         "forward_return": -43.23,
         "start_price": 271.0,
         "start_year": 2018
@@ -1578,7 +1578,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 26.75,
         "forward_return": -37.68,
         "start_price": 246.5,
         "start_year": 2018
@@ -1587,7 +1587,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 24.19,
         "forward_return": -22.17,
         "start_price": 227.0,
         "start_year": 2018
@@ -1596,7 +1596,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.25,
+        "pe_ratio": 22.62,
         "forward_return": -17.63,
         "start_price": 216.0,
         "start_year": 2018
@@ -1605,7 +1605,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.37,
+        "pe_ratio": 20.6,
         "forward_return": 28.02,
         "start_price": 200.0,
         "start_year": 2018
@@ -1614,7 +1614,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.6,
+        "pe_ratio": 19.71,
         "forward_return": 58.92,
         "start_price": 194.5,
         "start_year": 2018
@@ -1659,7 +1659,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 21.95,
+        "pe_ratio": 21.44,
         "forward_return": 43.62,
         "start_price": 226.5,
         "start_year": 2019
@@ -1668,7 +1668,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.92,
+        "pe_ratio": 22.83,
         "forward_return": 18.31,
         "start_price": 246.0,
         "start_year": 2019
@@ -1677,7 +1677,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 23.16,
         "forward_return": 12.72,
         "start_price": 254.5,
         "start_year": 2019
@@ -1686,7 +1686,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.97,
+        "pe_ratio": 25.69,
         "forward_return": -1.8,
         "start_price": 275.5,
         "start_year": 2019
@@ -1695,7 +1695,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.73,
+        "pe_ratio": 25.06,
         "forward_return": 25.29,
         "start_price": 262.0,
         "start_year": 2019
@@ -1704,7 +1704,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.86,
+        "pe_ratio": 25.76,
         "forward_return": 29.67,
         "start_price": 262.5,
         "start_year": 2019
@@ -1713,7 +1713,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 25.9,
+        "pe_ratio": 25.97,
         "forward_return": 36.09,
         "start_price": 262.0,
         "start_year": 2019
@@ -1722,7 +1722,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.89,
         "forward_return": 96.24,
         "start_price": 258.5,
         "start_year": 2019
@@ -1731,7 +1731,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.02,
+        "pe_ratio": 26.47,
         "forward_return": 115.08,
         "start_price": 261.5,
         "start_year": 2019
@@ -1740,7 +1740,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.66,
         "forward_return": 274.29,
         "start_price": 264.0,
         "start_year": 2019
@@ -1749,7 +1749,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.21,
         "forward_return": 316.44,
         "start_price": 280.0,
         "start_year": 2019
@@ -1767,7 +1767,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 29.78,
+        "pe_ratio": 30.41,
         "forward_return": 365.54,
         "start_price": 306.0,
         "start_year": 2020
@@ -1776,7 +1776,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 33.34,
+        "pe_ratio": 34.74,
         "forward_return": 333.95,
         "start_price": 353.5,
         "start_year": 2020
@@ -1785,7 +1785,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 35.04,
+        "pe_ratio": 37.22,
         "forward_return": 174.8,
         "start_price": 383.0,
         "start_year": 2020
@@ -1794,7 +1794,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 42.69,
+        "pe_ratio": 45.06,
         "forward_return": 107.4,
         "start_price": 480.5,
         "start_year": 2020
@@ -1803,7 +1803,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 49.21,
+        "pe_ratio": 51.65,
         "forward_return": 23.65,
         "start_price": 570.0,
         "start_year": 2020
@@ -1812,7 +1812,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 60.12,
+        "pe_ratio": 62.75,
         "forward_return": -18.69,
         "start_price": 716.0,
         "start_year": 2020
@@ -1821,7 +1821,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 53.12,
+        "pe_ratio": 55.21,
         "forward_return": 46.55,
         "start_price": 650.0,
         "start_year": 2020
@@ -1830,7 +1830,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 58.03,
+        "pe_ratio": 60.07,
         "forward_return": 69.43,
         "start_price": 729.0,
         "start_year": 2020
@@ -1839,7 +1839,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 54.54,
+        "pe_ratio": 56.24,
         "forward_return": 99.54,
         "start_price": 703.0,
         "start_year": 2020
@@ -1848,7 +1848,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 51.75,
+        "pe_ratio": 52.79,
         "forward_return": 178.7,
         "start_price": 684.0,
         "start_year": 2020
@@ -1857,7 +1857,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 45.78,
+        "pe_ratio": 46.22,
         "forward_return": 305.01,
         "start_price": 620.0,
         "start_year": 2020
@@ -1875,7 +1875,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 55.43,
+        "pe_ratio": 53.7,
         "forward_return": 301.9,
         "start_price": 788.0,
         "start_year": 2021
@@ -1884,7 +1884,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 66.41,
+        "pe_ratio": 62.48,
         "forward_return": 219.49,
         "start_price": 967.0,
         "start_year": 2021
@@ -1893,7 +1893,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 66.41,
+        "pe_ratio": 60.81,
         "forward_return": 177.42,
         "start_price": 990.0,
         "start_year": 2021
@@ -1902,7 +1902,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 67.53,
+        "pe_ratio": 65.22,
         "forward_return": 204.7,
         "start_price": 1030.0,
         "start_year": 2021
@@ -1911,7 +1911,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 79.49,
+        "pe_ratio": 81.01,
         "forward_return": 60.32,
         "start_price": 1240.0,
         "start_year": 2021
@@ -1920,7 +1920,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 118.2,
+        "pe_ratio": 127.2,
         "forward_return": -24.72,
         "start_price": 1885.0,
         "start_year": 2021
@@ -1929,7 +1929,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 95.76,
+        "pe_ratio": 101.8,
         "forward_return": -48.66,
         "start_price": 1560.0,
         "start_year": 2021
@@ -1938,7 +1938,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 103.1,
+        "pe_ratio": 108.3,
         "forward_return": -64.45,
         "start_price": 1715.0,
         "start_year": 2021
@@ -1947,7 +1947,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 95.39,
+        "pe_ratio": 99.14,
         "forward_return": -66.59,
         "start_price": 1620.0,
         "start_year": 2021
@@ -1956,7 +1956,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 103.3,
+        "pe_ratio": 105.9,
         "forward_return": -73.12,
         "start_price": 1790.0,
         "start_year": 2021
@@ -1965,7 +1965,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 100.7,
+        "pe_ratio": 101.9,
         "forward_return": -78.29,
         "start_price": 1780.0,
         "start_year": 2021
@@ -1983,7 +1983,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 62.54,
+        "pe_ratio": 61.61,
         "forward_return": -44.88,
         "start_price": 1115.0,
         "start_year": 2022
@@ -1992,7 +1992,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 55.74,
+        "pe_ratio": 54.09,
         "forward_return": -42.98,
         "start_price": 983.0,
         "start_year": 2022
@@ -2001,7 +2001,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 51.56,
         "forward_return": -66.54,
         "start_price": 941.0,
         "start_year": 2022
@@ -2010,7 +2010,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 45.85,
+        "pe_ratio": 46.1,
         "forward_return": -60.68,
         "start_price": 791.0,
         "start_year": 2022
@@ -2019,7 +2019,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 48.94,
+        "pe_ratio": 51.96,
         "forward_return": -33.93,
         "start_price": 835.0,
         "start_year": 2022
@@ -2028,7 +2028,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 37.82,
+        "pe_ratio": 42.59,
         "forward_return": 5.39,
         "start_price": 638.0,
         "start_year": 2022
@@ -2037,7 +2037,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 48.99,
+        "pe_ratio": 54.21,
         "forward_return": -5.75,
         "start_price": 817.0,
         "start_year": 2022
@@ -2046,7 +2046,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 44.28,
+        "pe_ratio": 48.15,
         "forward_return": 44.26,
         "start_price": 730.0,
         "start_year": 2022
@@ -2055,7 +2055,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 32.77,
+        "pe_ratio": 35.02,
         "forward_return": 188.66,
         "start_price": 534.0,
         "start_year": 2022
@@ -2064,7 +2064,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 29.96,
+        "pe_ratio": 31.32,
         "forward_return": 89.39,
         "start_price": 482.5,
         "start_year": 2022
@@ -2073,7 +2073,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 37.71,
+        "pe_ratio": 38.55,
         "forward_return": 36.1,
         "start_price": 600.0,
         "start_year": 2022
@@ -2091,7 +2091,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 50.61,
+        "pe_ratio": 50.13,
         "forward_return": -40.32,
         "start_price": 793.0,
         "start_year": 2023
@@ -2100,7 +2100,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 50.84,
+        "pe_ratio": 49.87,
         "forward_return": -54.72,
         "start_price": 794.0,
         "start_year": 2023
@@ -2109,7 +2109,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 58.01,
+        "pe_ratio": 56.37,
         "forward_return": -57.36,
         "start_price": 903.0,
         "start_year": 2023
@@ -2118,7 +2118,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 53.44,
+        "pe_ratio": 51.72,
         "forward_return": -56.23,
         "start_price": 829.0,
         "start_year": 2023
@@ -2127,7 +2127,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 45.21,
+        "pe_ratio": 43.58,
         "forward_return": -38.85,
         "start_price": 699.0,
         "start_year": 2023
@@ -2136,7 +2136,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 44.65,
+        "pe_ratio": 42.87,
         "forward_return": -41.93,
         "start_price": 688.0,
         "start_year": 2023
@@ -2145,7 +2145,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 39.0,
+        "pe_ratio": 38.51,
         "forward_return": -46.77,
         "start_price": 599.0,
         "start_year": 2023
@@ -2154,7 +2154,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 33.97,
+        "pe_ratio": 34.54,
         "forward_return": -39.74,
         "start_price": 520.0,
         "start_year": 2023
@@ -2163,7 +2163,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 32.91,
+        "pe_ratio": 34.48,
         "forward_return": -40.67,
         "start_price": 502.0,
         "start_year": 2023
@@ -2172,7 +2172,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 35.06,
+        "pe_ratio": 36.16,
         "forward_return": -28.3,
         "start_price": 533.0,
         "start_year": 2023
@@ -2181,7 +2181,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 34.19,
+        "pe_ratio": 34.72,
         "forward_return": -28.26,
         "start_price": 518.0,
         "start_year": 2023
@@ -2199,7 +2199,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 28.83,
         "forward_return": -1.47,
         "start_price": 436.0,
         "start_year": 2024
@@ -2208,7 +2208,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 29.9,
+        "pe_ratio": 29.35,
         "forward_return": -17.03,
         "start_price": 444.5,
         "start_year": 2024
@@ -2217,7 +2217,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 25.51,
         "forward_return": 1.46,
         "start_price": 387.0,
         "start_year": 2024
@@ -2226,7 +2226,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 30.21,
+        "pe_ratio": 29.33,
         "forward_return": -21.99,
         "start_price": 442.0,
         "start_year": 2024
@@ -2235,7 +2235,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 30.25,
+        "pe_ratio": 29.33,
         "forward_return": -32.63,
         "start_price": 439.0,
         "start_year": 2024
@@ -2244,7 +2244,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 29.84,
+        "pe_ratio": 28.88,
         "forward_return": -34.18,
         "start_price": 429.5,
         "start_year": 2024
@@ -2253,7 +2253,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 29.28,
+        "pe_ratio": 28.77,
         "forward_return": -28.7,
         "start_price": 418.0,
         "start_year": 2024
@@ -2262,7 +2262,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 27.54,
+        "pe_ratio": 27.5,
         "forward_return": -18.03,
         "start_price": 390.0,
         "start_year": 2024
@@ -2271,7 +2271,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 28.06,
+        "pe_ratio": 28.47,
         "forward_return": -22.39,
         "start_price": 394.0,
         "start_year": 2024
@@ -2280,7 +2280,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 26.97,
+        "pe_ratio": 27.23,
         "forward_return": -30.11,
         "start_price": 375.5,
         "start_year": 2024
@@ -2289,7 +2289,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 26.33,
+        "pe_ratio": 26.46,
         "forward_return": -29.82,
         "start_price": 363.5,
         "start_year": 2024
@@ -2307,7 +2307,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 26.02,
+        "pe_ratio": 25.86,
         "forward_return": -29.8,
         "start_price": 352.5,
         "start_year": 2025
@@ -2316,7 +2316,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 28.83,
+        "pe_ratio": 28.48,
         "forward_return": -52.83,
         "start_price": 386.5,
         "start_year": 2025
@@ -2325,7 +2325,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 26.19,
+        "pe_ratio": 25.72,
         "forward_return": -44.43,
         "start_price": 347.5,
         "start_year": 2025
@@ -2334,7 +2334,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 24.61,
+        "pe_ratio": 24.19,
         "forward_return": -41.79,
         "start_price": 323.0,
         "start_year": 2025
@@ -2343,7 +2343,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 23.49,
+        "pe_ratio": 23.12,
         "forward_return": -42.61,
         "start_price": 305.0,
         "start_year": 2025
@@ -2352,7 +2352,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 20.64,
         "forward_return": -32.88,
         "start_price": 269.0,
         "start_year": 2025
@@ -2361,7 +2361,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 22.31,
         "forward_return": -55.36,
         "start_price": 283.0,
         "start_year": 2025
@@ -2379,7 +2379,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 34.38,
+        "pe_ratio": 34.34,
         "forward_return": -28.55,
         "start_price": 308.5,
         "start_year": 2015
@@ -2388,7 +2388,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 35.3,
+        "pe_ratio": 35.23,
         "forward_return": -28.71,
         "start_price": 312.0,
         "start_year": 2015
@@ -2397,7 +2397,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 29.73,
         "forward_return": -14.24,
         "start_price": 259.5,
         "start_year": 2015
@@ -2406,7 +2406,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 34.47,
         "forward_return": -27.25,
         "start_price": 300.5,
         "start_year": 2015
@@ -2415,7 +2415,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 34.46,
+        "pe_ratio": 33.38,
         "forward_return": -17.7,
         "start_price": 290.5,
         "start_year": 2015
@@ -2424,7 +2424,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 31.01,
         "forward_return": -17.97,
         "start_price": 269.5,
         "start_year": 2015
@@ -2433,7 +2433,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 28.25,
+        "pe_ratio": 27.31,
         "forward_return": -2.38,
         "start_price": 230.5,
         "start_year": 2015
@@ -2442,7 +2442,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 24.62,
+        "pe_ratio": 24.11,
         "forward_return": 18.19,
         "start_price": 197.5,
         "start_year": 2015
@@ -2451,7 +2451,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.56,
         "forward_return": 11.51,
         "start_price": 195.0,
         "start_year": 2015
@@ -2460,7 +2460,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 23.99,
+        "pe_ratio": 23.89,
         "forward_return": 13.95,
         "start_price": 186.0,
         "start_year": 2015
@@ -2469,7 +2469,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 28.56,
+        "pe_ratio": 28.49,
         "forward_return": -7.34,
         "start_price": 217.5,
         "start_year": 2015
@@ -2487,7 +2487,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 28.04,
+        "pe_ratio": 27.63,
         "forward_return": -7.77,
         "start_price": 212.0,
         "start_year": 2016
@@ -2496,7 +2496,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 28.0,
+        "pe_ratio": 27.2,
         "forward_return": 3.88,
         "start_price": 214.0,
         "start_year": 2016
@@ -2505,7 +2505,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 27.71,
+        "pe_ratio": 26.55,
         "forward_return": 4.21,
         "start_price": 214.0,
         "start_year": 2016
@@ -2514,7 +2514,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 25.84,
         "forward_return": 6.19,
         "start_price": 210.0,
         "start_year": 2016
@@ -2523,7 +2523,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 29.24,
+        "pe_ratio": 28.13,
         "forward_return": 2.17,
         "start_price": 230.5,
         "start_year": 2016
@@ -2532,7 +2532,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 25.73,
         "forward_return": 2.35,
         "start_price": 212.5,
         "start_year": 2016
@@ -2541,7 +2541,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 27.09,
+        "pe_ratio": 26.42,
         "forward_return": 1.84,
         "start_price": 218.0,
         "start_year": 2016
@@ -2550,7 +2550,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 27.87,
+        "pe_ratio": 27.49,
         "forward_return": -3.53,
         "start_price": 226.5,
         "start_year": 2016
@@ -2559,7 +2559,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.58,
         "forward_return": 5.94,
         "start_price": 210.5,
         "start_year": 2016
@@ -2568,7 +2568,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 24.69,
         "forward_return": 12.69,
         "start_price": 205.0,
         "start_year": 2016
@@ -2577,7 +2577,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 23.24,
+        "pe_ratio": 23.22,
         "forward_return": 10.55,
         "start_price": 194.5,
         "start_year": 2016
@@ -2595,7 +2595,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.53,
         "forward_return": 44.07,
         "start_price": 188.5,
         "start_year": 2017
@@ -2604,7 +2604,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 22.68,
+        "pe_ratio": 23.42,
         "forward_return": 58.81,
         "start_price": 194.0,
         "start_year": 2017
@@ -2613,7 +2613,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 25.1,
+        "pe_ratio": 26.34,
         "forward_return": 29.19,
         "start_price": 216.0,
         "start_year": 2017
@@ -2622,7 +2622,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 24.95,
+        "pe_ratio": 25.92,
         "forward_return": 17.84,
         "start_price": 216.0,
         "start_year": 2017
@@ -2631,7 +2631,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 26.99,
         "forward_return": 2.85,
         "start_price": 228.5,
         "start_year": 2017
@@ -2640,7 +2640,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.03,
+        "pe_ratio": 24.48,
         "forward_return": 6.42,
         "start_price": 210.5,
         "start_year": 2017
@@ -2649,7 +2649,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 24.94,
         "forward_return": -2.81,
         "start_price": 214.0,
         "start_year": 2017
@@ -2658,7 +2658,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 23.75,
+        "pe_ratio": 24.59,
         "forward_return": -3.8,
         "start_price": 210.5,
         "start_year": 2017
@@ -2667,7 +2667,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.12,
+        "pe_ratio": 25.18,
         "forward_return": -13.73,
         "start_price": 215.0,
         "start_year": 2017
@@ -2676,7 +2676,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.87,
+        "pe_ratio": 25.58,
         "forward_return": -12.79,
         "start_price": 223.0,
         "start_year": 2017
@@ -2685,7 +2685,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.28,
         "forward_return": -0.97,
         "start_price": 207.0,
         "start_year": 2017
@@ -2703,7 +2703,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 29.07,
         "forward_return": -11.01,
         "start_price": 263.5,
         "start_year": 2018
@@ -2712,7 +2712,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 32.32,
+        "pe_ratio": 33.12,
         "forward_return": -15.34,
         "start_price": 300.0,
         "start_year": 2018
@@ -2721,7 +2721,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 29.94,
         "forward_return": -3.14,
         "start_price": 271.0,
         "start_year": 2018
@@ -2730,7 +2730,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 26.75,
         "forward_return": 15.02,
         "start_price": 246.5,
         "start_year": 2018
@@ -2739,7 +2739,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 24.19,
         "forward_return": 18.96,
         "start_price": 227.0,
         "start_year": 2018
@@ -2748,7 +2748,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.25,
+        "pe_ratio": 22.62,
         "forward_return": 25.25,
         "start_price": 216.0,
         "start_year": 2018
@@ -2757,7 +2757,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.37,
+        "pe_ratio": 20.6,
         "forward_return": 35.53,
         "start_price": 200.0,
         "start_year": 2018
@@ -2766,7 +2766,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.6,
+        "pe_ratio": 19.71,
         "forward_return": 37.56,
         "start_price": 194.5,
         "start_year": 2018
@@ -2811,7 +2811,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 21.95,
+        "pe_ratio": 21.44,
         "forward_return": 39.1,
         "start_price": 226.5,
         "start_year": 2019
@@ -2820,7 +2820,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.92,
+        "pe_ratio": 22.83,
         "forward_return": 47.4,
         "start_price": 246.0,
         "start_year": 2019
@@ -2829,7 +2829,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 23.16,
         "forward_return": 53.89,
         "start_price": 254.5,
         "start_year": 2019
@@ -2838,7 +2838,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.97,
+        "pe_ratio": 25.69,
         "forward_return": 77.47,
         "start_price": 275.5,
         "start_year": 2019
@@ -2847,7 +2847,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.73,
+        "pe_ratio": 25.06,
         "forward_return": 120.63,
         "start_price": 262.0,
         "start_year": 2019
@@ -2856,7 +2856,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.86,
+        "pe_ratio": 25.76,
         "forward_return": 175.62,
         "start_price": 262.5,
         "start_year": 2019
@@ -2865,7 +2865,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 25.9,
+        "pe_ratio": 25.97,
         "forward_return": 150.86,
         "start_price": 262.0,
         "start_year": 2019
@@ -2874,7 +2874,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.89,
         "forward_return": 184.69,
         "start_price": 258.5,
         "start_year": 2019
@@ -2883,7 +2883,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.02,
+        "pe_ratio": 26.47,
         "forward_return": 171.53,
         "start_price": 261.5,
         "start_year": 2019
@@ -2892,7 +2892,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.66,
         "forward_return": 161.79,
         "start_price": 264.0,
         "start_year": 2019
@@ -2901,7 +2901,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.21,
         "forward_return": 124.09,
         "start_price": 280.0,
         "start_year": 2019
@@ -2919,7 +2919,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 29.78,
+        "pe_ratio": 30.41,
         "forward_return": 159.78,
         "start_price": 306.0,
         "start_year": 2020
@@ -2928,7 +2928,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 33.34,
+        "pe_ratio": 34.74,
         "forward_return": 161.21,
         "start_price": 353.5,
         "start_year": 2020
@@ -2937,7 +2937,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 35.04,
+        "pe_ratio": 37.22,
         "forward_return": 160.88,
         "start_price": 383.0,
         "start_year": 2020
@@ -2946,7 +2946,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 42.69,
+        "pe_ratio": 45.06,
         "forward_return": 116.24,
         "start_price": 480.5,
         "start_year": 2020
@@ -2955,7 +2955,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 49.21,
+        "pe_ratio": 51.65,
         "forward_return": 119.15,
         "start_price": 570.0,
         "start_year": 2020
@@ -2964,7 +2964,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 60.12,
+        "pe_ratio": 62.75,
         "forward_return": 164.63,
         "start_price": 716.0,
         "start_year": 2020
@@ -2973,7 +2973,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 53.12,
+        "pe_ratio": 55.21,
         "forward_return": 141.68,
         "start_price": 650.0,
         "start_year": 2020
@@ -2982,7 +2982,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 58.03,
+        "pe_ratio": 60.07,
         "forward_return": 136.77,
         "start_price": 729.0,
         "start_year": 2020
@@ -2991,7 +2991,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 54.54,
+        "pe_ratio": 56.24,
         "forward_return": 132.0,
         "start_price": 703.0,
         "start_year": 2020
@@ -3000,7 +3000,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 51.75,
+        "pe_ratio": 52.79,
         "forward_return": 163.33,
         "start_price": 684.0,
         "start_year": 2020
@@ -3009,7 +3009,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 45.78,
+        "pe_ratio": 46.22,
         "forward_return": 188.92,
         "start_price": 620.0,
         "start_year": 2020
@@ -3027,7 +3027,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 55.43,
+        "pe_ratio": 53.7,
         "forward_return": 42.8,
         "start_price": 788.0,
         "start_year": 2021
@@ -3036,7 +3036,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 66.41,
+        "pe_ratio": 62.48,
         "forward_return": 2.69,
         "start_price": 967.0,
         "start_year": 2021
@@ -3045,7 +3045,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 66.41,
+        "pe_ratio": 60.81,
         "forward_return": -3.94,
         "start_price": 990.0,
         "start_year": 2021
@@ -3054,7 +3054,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 67.53,
+        "pe_ratio": 65.22,
         "forward_return": -22.25,
         "start_price": 1030.0,
         "start_year": 2021
@@ -3063,7 +3063,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 79.49,
+        "pe_ratio": 81.01,
         "forward_return": -31.87,
         "start_price": 1240.0,
         "start_year": 2021
@@ -3072,7 +3072,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 118.2,
+        "pe_ratio": 127.2,
         "forward_return": -65.65,
         "start_price": 1885.0,
         "start_year": 2021
@@ -3081,7 +3081,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 95.76,
+        "pe_ratio": 101.8,
         "forward_return": -46.82,
         "start_price": 1560.0,
         "start_year": 2021
@@ -3090,7 +3090,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 103.1,
+        "pe_ratio": 108.3,
         "forward_return": -56.7,
         "start_price": 1715.0,
         "start_year": 2021
@@ -3099,7 +3099,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 95.39,
+        "pe_ratio": 99.14,
         "forward_return": -66.26,
         "start_price": 1620.0,
         "start_year": 2021
@@ -3108,7 +3108,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 103.3,
+        "pe_ratio": 105.9,
         "forward_return": -72.34,
         "start_price": 1790.0,
         "start_year": 2021
@@ -3117,7 +3117,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 100.7,
+        "pe_ratio": 101.9,
         "forward_return": -65.59,
         "start_price": 1780.0,
         "start_year": 2021
@@ -3135,7 +3135,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 62.54,
+        "pe_ratio": 61.61,
         "forward_return": -27.73,
         "start_price": 1115.0,
         "start_year": 2022
@@ -3144,7 +3144,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 55.74,
+        "pe_ratio": 54.09,
         "forward_return": -17.92,
         "start_price": 983.0,
         "start_year": 2022
@@ -3153,7 +3153,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 51.56,
         "forward_return": -2.66,
         "start_price": 941.0,
         "start_year": 2022
@@ -3162,7 +3162,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 45.85,
+        "pe_ratio": 46.1,
         "forward_return": 6.45,
         "start_price": 791.0,
         "start_year": 2022
@@ -3171,7 +3171,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 48.94,
+        "pe_ratio": 51.96,
         "forward_return": -14.74,
         "start_price": 835.0,
         "start_year": 2022
@@ -3180,7 +3180,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 37.82,
+        "pe_ratio": 42.59,
         "forward_return": 9.88,
         "start_price": 638.0,
         "start_year": 2022
@@ -3189,7 +3189,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 48.99,
+        "pe_ratio": 54.21,
         "forward_return": -24.86,
         "start_price": 817.0,
         "start_year": 2022
@@ -3198,7 +3198,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 44.28,
+        "pe_ratio": 48.15,
         "forward_return": -26.73,
         "start_price": 730.0,
         "start_year": 2022
@@ -3207,7 +3207,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 32.77,
+        "pe_ratio": 35.02,
         "forward_return": -3.19,
         "start_price": 534.0,
         "start_year": 2022
@@ -3216,7 +3216,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 29.96,
+        "pe_ratio": 31.32,
         "forward_return": 13.59,
         "start_price": 482.5,
         "start_year": 2022
@@ -3225,7 +3225,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 37.71,
+        "pe_ratio": 38.55,
         "forward_return": -11.17,
         "start_price": 600.0,
         "start_year": 2022
@@ -3243,7 +3243,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 50.61,
+        "pe_ratio": 50.13,
         "forward_return": -43.15,
         "start_price": 793.0,
         "start_year": 2023
@@ -3252,7 +3252,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 50.84,
+        "pe_ratio": 49.87,
         "forward_return": -42.15,
         "start_price": 794.0,
         "start_year": 2023
@@ -3261,7 +3261,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 58.01,
+        "pe_ratio": 56.37,
         "forward_return": -55.41,
         "start_price": 903.0,
         "start_year": 2023
@@ -3270,7 +3270,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 53.44,
+        "pe_ratio": 51.72,
         "forward_return": -44.81,
         "start_price": 829.0,
         "start_year": 2023
@@ -3279,7 +3279,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 45.21,
+        "pe_ratio": 43.58,
         "forward_return": -34.99,
         "start_price": 699.0,
         "start_year": 2023
@@ -3288,7 +3288,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 44.65,
+        "pe_ratio": 42.87,
         "forward_return": -35.33,
         "start_price": 688.0,
         "start_year": 2023
@@ -3297,7 +3297,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 39.0,
+        "pe_ratio": 38.51,
         "forward_return": -27.7,
         "start_price": 599.0,
         "start_year": 2023
@@ -3306,7 +3306,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 33.97,
+        "pe_ratio": 34.54,
         "forward_return": -22.11,
         "start_price": 520.0,
         "start_year": 2023
@@ -3315,7 +3315,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 32.91,
+        "pe_ratio": 34.48,
         "forward_return": -18.53,
         "start_price": 502.0,
         "start_year": 2023
@@ -3324,7 +3324,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 35.06,
+        "pe_ratio": 36.16,
         "forward_return": -26.73,
         "start_price": 533.0,
         "start_year": 2023
@@ -3333,7 +3333,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 34.19,
+        "pe_ratio": 34.72,
         "forward_return": -26.92,
         "start_price": 518.0,
         "start_year": 2023
@@ -3351,7 +3351,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 28.83,
         "forward_return": -15.73,
         "start_price": 436.0,
         "start_year": 2024
@@ -3360,7 +3360,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 29.9,
+        "pe_ratio": 29.35,
         "forward_return": -17.23,
         "start_price": 444.5,
         "start_year": 2024
@@ -3369,7 +3369,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 25.51,
         "forward_return": -6.39,
         "start_price": 387.0,
         "start_year": 2024
@@ -3378,7 +3378,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 30.21,
+        "pe_ratio": 29.33,
         "forward_return": -23.59,
         "start_price": 442.0,
         "start_year": 2024
@@ -3387,7 +3387,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 30.25,
+        "pe_ratio": 29.33,
         "forward_return": -27.17,
         "start_price": 439.0,
         "start_year": 2024
@@ -3396,7 +3396,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 29.84,
+        "pe_ratio": 28.88,
         "forward_return": -33.94,
         "start_price": 429.5,
         "start_year": 2024
@@ -3405,7 +3405,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 29.28,
+        "pe_ratio": 28.77,
         "forward_return": -29.25,
         "start_price": 418.0,
         "start_year": 2024
@@ -3414,7 +3414,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 27.54,
+        "pe_ratio": 27.5,
         "forward_return": -31.86,
         "start_price": 390.0,
         "start_year": 2024
@@ -3423,7 +3423,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 28.06,
+        "pe_ratio": 28.47,
         "forward_return": -35.48,
         "start_price": 394.0,
         "start_year": 2024
@@ -3432,7 +3432,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 26.97,
+        "pe_ratio": 27.23,
         "forward_return": -34.43,
         "start_price": 375.5,
         "start_year": 2024
@@ -3441,7 +3441,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 26.33,
+        "pe_ratio": 26.46,
         "forward_return": -34.05,
         "start_price": 363.5,
         "start_year": 2024
@@ -3459,7 +3459,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 26.02,
+        "pe_ratio": 25.86,
         "forward_return": -42.92,
         "start_price": 352.5,
         "start_year": 2025
@@ -3468,7 +3468,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 28.83,
+        "pe_ratio": 28.48,
         "forward_return": -46.91,
         "start_price": 386.5,
         "start_year": 2025
@@ -3486,7 +3486,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 34.38,
+        "pe_ratio": 34.34,
         "forward_return": -18.67,
         "start_price": 308.5,
         "start_year": 2015
@@ -3495,7 +3495,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 35.3,
+        "pe_ratio": 35.23,
         "forward_return": -18.05,
         "start_price": 312.0,
         "start_year": 2015
@@ -3504,7 +3504,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 29.73,
         "forward_return": -5.55,
         "start_price": 259.5,
         "start_year": 2015
@@ -3513,7 +3513,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 34.47,
         "forward_return": -12.22,
         "start_price": 300.5,
         "start_year": 2015
@@ -3522,7 +3522,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 34.46,
+        "pe_ratio": 33.38,
         "forward_return": -8.35,
         "start_price": 290.5,
         "start_year": 2015
@@ -3531,7 +3531,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 31.01,
         "forward_return": -8.42,
         "start_price": 269.5,
         "start_year": 2015
@@ -3540,7 +3540,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 28.25,
+        "pe_ratio": 27.31,
         "forward_return": -0.33,
         "start_price": 230.5,
         "start_year": 2015
@@ -3549,7 +3549,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 24.62,
+        "pe_ratio": 24.11,
         "forward_return": 6.85,
         "start_price": 197.5,
         "start_year": 2015
@@ -3558,7 +3558,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.56,
         "forward_return": 8.6,
         "start_price": 195.0,
         "start_year": 2015
@@ -3567,7 +3567,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 23.99,
+        "pe_ratio": 23.89,
         "forward_return": 13.11,
         "start_price": 186.0,
         "start_year": 2015
@@ -3576,7 +3576,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 28.56,
+        "pe_ratio": 28.49,
         "forward_return": 1.03,
         "start_price": 217.5,
         "start_year": 2015
@@ -3594,7 +3594,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 28.04,
+        "pe_ratio": 27.63,
         "forward_return": 14.61,
         "start_price": 212.0,
         "start_year": 2016
@@ -3603,7 +3603,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 28.0,
+        "pe_ratio": 27.2,
         "forward_return": 14.96,
         "start_price": 214.0,
         "start_year": 2016
@@ -3612,7 +3612,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 27.71,
+        "pe_ratio": 26.55,
         "forward_return": 15.62,
         "start_price": 214.0,
         "start_year": 2016
@@ -3621,7 +3621,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 25.84,
         "forward_return": 11.6,
         "start_price": 210.0,
         "start_year": 2016
@@ -3630,7 +3630,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 29.24,
+        "pe_ratio": 28.13,
         "forward_return": 2.47,
         "start_price": 230.5,
         "start_year": 2016
@@ -3639,7 +3639,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 25.73,
         "forward_return": 4.27,
         "start_price": 212.5,
         "start_year": 2016
@@ -3648,7 +3648,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 27.09,
+        "pe_ratio": 26.42,
         "forward_return": -0.46,
         "start_price": 218.0,
         "start_year": 2016
@@ -3657,7 +3657,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 27.87,
+        "pe_ratio": 27.49,
         "forward_return": -3.6,
         "start_price": 226.5,
         "start_year": 2016
@@ -3666,7 +3666,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.58,
         "forward_return": -4.13,
         "start_price": 210.5,
         "start_year": 2016
@@ -3675,7 +3675,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 24.69,
         "forward_return": -0.61,
         "start_price": 205.0,
         "start_year": 2016
@@ -3684,7 +3684,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 23.24,
+        "pe_ratio": 23.22,
         "forward_return": 4.65,
         "start_price": 194.5,
         "start_year": 2016
@@ -3702,7 +3702,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.53,
         "forward_return": 13.43,
         "start_price": 188.5,
         "start_year": 2017
@@ -3711,7 +3711,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 22.68,
+        "pe_ratio": 23.42,
         "forward_return": 16.22,
         "start_price": 194.0,
         "start_year": 2017
@@ -3720,7 +3720,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 25.1,
+        "pe_ratio": 26.34,
         "forward_return": 11.92,
         "start_price": 216.0,
         "start_year": 2017
@@ -3729,7 +3729,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 24.95,
+        "pe_ratio": 25.92,
         "forward_return": 16.18,
         "start_price": 216.0,
         "start_year": 2017
@@ -3738,7 +3738,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 26.99,
         "forward_return": 10.31,
         "start_price": 228.5,
         "start_year": 2017
@@ -3747,7 +3747,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.03,
+        "pe_ratio": 24.48,
         "forward_return": 15.03,
         "start_price": 210.5,
         "start_year": 2017
@@ -3756,7 +3756,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 24.94,
         "forward_return": 14.19,
         "start_price": 214.0,
         "start_year": 2017
@@ -3765,7 +3765,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 23.75,
+        "pe_ratio": 24.59,
         "forward_return": 14.41,
         "start_price": 210.5,
         "start_year": 2017
@@ -3774,7 +3774,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.12,
+        "pe_ratio": 25.18,
         "forward_return": 13.82,
         "start_price": 215.0,
         "start_year": 2017
@@ -3783,7 +3783,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.87,
+        "pe_ratio": 25.58,
         "forward_return": 12.26,
         "start_price": 223.0,
         "start_year": 2017
@@ -3792,7 +3792,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.28,
         "forward_return": 19.8,
         "start_price": 207.0,
         "start_year": 2017
@@ -3810,7 +3810,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 29.07,
         "forward_return": 10.72,
         "start_price": 263.5,
         "start_year": 2018
@@ -3819,7 +3819,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 32.32,
+        "pe_ratio": 33.12,
         "forward_return": 11.14,
         "start_price": 300.0,
         "start_year": 2018
@@ -3828,7 +3828,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 29.94,
         "forward_return": 21.48,
         "start_price": 271.0,
         "start_year": 2018
@@ -3837,7 +3837,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 26.75,
         "forward_return": 42.03,
         "start_price": 246.5,
         "start_year": 2018
@@ -3846,7 +3846,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 24.19,
         "forward_return": 60.76,
         "start_price": 227.0,
         "start_year": 2018
@@ -3855,7 +3855,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.25,
+        "pe_ratio": 22.62,
         "forward_return": 84.14,
         "start_price": 216.0,
         "start_year": 2018
@@ -3864,7 +3864,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.37,
+        "pe_ratio": 20.6,
         "forward_return": 82.61,
         "start_price": 200.0,
         "start_year": 2018
@@ -3873,7 +3873,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.6,
+        "pe_ratio": 19.71,
         "forward_return": 95.82,
         "start_price": 194.5,
         "start_year": 2018
@@ -3918,7 +3918,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 21.95,
+        "pe_ratio": 21.44,
         "forward_return": 88.5,
         "start_price": 226.5,
         "start_year": 2019
@@ -3927,7 +3927,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.92,
+        "pe_ratio": 22.83,
         "forward_return": 99.96,
         "start_price": 246.0,
         "start_year": 2019
@@ -3936,7 +3936,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 23.16,
         "forward_return": 98.87,
         "start_price": 254.5,
         "start_year": 2019
@@ -3945,7 +3945,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.97,
+        "pe_ratio": 25.69,
         "forward_return": 94.9,
         "start_price": 275.5,
         "start_year": 2019
@@ -3954,7 +3954,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.73,
+        "pe_ratio": 25.06,
         "forward_return": 118.96,
         "start_price": 262.0,
         "start_year": 2019
@@ -3963,7 +3963,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.86,
+        "pe_ratio": 25.76,
         "forward_return": 169.03,
         "start_price": 262.5,
         "start_year": 2019
@@ -3972,7 +3972,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 25.9,
+        "pe_ratio": 25.97,
         "forward_return": 145.3,
         "start_price": 262.0,
         "start_year": 2019
@@ -3981,7 +3981,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.89,
         "forward_return": 158.79,
         "start_price": 258.5,
         "start_year": 2019
@@ -3990,7 +3990,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.02,
+        "pe_ratio": 26.47,
         "forward_return": 150.16,
         "start_price": 261.5,
         "start_year": 2019
@@ -3999,7 +3999,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.66,
         "forward_return": 161.56,
         "start_price": 264.0,
         "start_year": 2019
@@ -4008,7 +4008,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.21,
         "forward_return": 153.28,
         "start_price": 280.0,
         "start_year": 2019
@@ -4026,7 +4026,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 29.78,
+        "pe_ratio": 30.41,
         "forward_return": 92.38,
         "start_price": 306.0,
         "start_year": 2020
@@ -4035,7 +4035,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 33.34,
+        "pe_ratio": 34.74,
         "forward_return": 61.59,
         "start_price": 353.5,
         "start_year": 2020
@@ -4044,7 +4044,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 35.04,
+        "pe_ratio": 37.22,
         "forward_return": 58.33,
         "start_price": 383.0,
         "start_year": 2020
@@ -4053,7 +4053,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 42.69,
+        "pe_ratio": 45.06,
         "forward_return": 29.82,
         "start_price": 480.5,
         "start_year": 2020
@@ -4062,7 +4062,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 49.21,
+        "pe_ratio": 51.65,
         "forward_return": 22.38,
         "start_price": 570.0,
         "start_year": 2020
@@ -4071,7 +4071,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 60.12,
+        "pe_ratio": 62.75,
         "forward_return": -4.25,
         "start_price": 716.0,
         "start_year": 2020
@@ -4080,7 +4080,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 53.12,
+        "pe_ratio": 55.21,
         "forward_return": 13.69,
         "start_price": 650.0,
         "start_year": 2020
@@ -4089,7 +4089,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 58.03,
+        "pe_ratio": 60.07,
         "forward_return": 1.63,
         "start_price": 729.0,
         "start_year": 2020
@@ -4098,7 +4098,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 54.54,
+        "pe_ratio": 56.24,
         "forward_return": -10.99,
         "start_price": 703.0,
         "start_year": 2020
@@ -4107,7 +4107,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 51.75,
+        "pe_ratio": 52.79,
         "forward_return": -14.04,
         "start_price": 684.0,
         "start_year": 2020
@@ -4116,7 +4116,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 45.78,
+        "pe_ratio": 46.22,
         "forward_return": 0.24,
         "start_price": 620.0,
         "start_year": 2020
@@ -4134,7 +4134,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 55.43,
+        "pe_ratio": 53.7,
         "forward_return": 1.76,
         "start_price": 788.0,
         "start_year": 2021
@@ -4143,7 +4143,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 66.41,
+        "pe_ratio": 62.48,
         "forward_return": -8.09,
         "start_price": 967.0,
         "start_year": 2021
@@ -4152,7 +4152,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 66.41,
+        "pe_ratio": 60.81,
         "forward_return": -3.29,
         "start_price": 990.0,
         "start_year": 2021
@@ -4161,7 +4161,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 67.53,
+        "pe_ratio": 65.22,
         "forward_return": -9.06,
         "start_price": 1030.0,
         "start_year": 2021
@@ -4170,7 +4170,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 79.49,
+        "pe_ratio": 81.01,
         "forward_return": -23.71,
         "start_price": 1240.0,
         "start_year": 2021
@@ -4179,7 +4179,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 118.2,
+        "pe_ratio": 127.2,
         "forward_return": -38.6,
         "start_price": 1885.0,
         "start_year": 2021
@@ -4188,7 +4188,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 95.76,
+        "pe_ratio": 101.8,
         "forward_return": -36.62,
         "start_price": 1560.0,
         "start_year": 2021
@@ -4197,7 +4197,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 103.1,
+        "pe_ratio": 108.3,
         "forward_return": -43.49,
         "start_price": 1715.0,
         "start_year": 2021
@@ -4206,7 +4206,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 95.39,
+        "pe_ratio": 99.14,
         "forward_return": -42.82,
         "start_price": 1620.0,
         "start_year": 2021
@@ -4215,7 +4215,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 103.3,
+        "pe_ratio": 105.9,
         "forward_return": -44.04,
         "start_price": 1790.0,
         "start_year": 2021
@@ -4224,7 +4224,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 100.7,
+        "pe_ratio": 101.9,
         "forward_return": -44.64,
         "start_price": 1780.0,
         "start_year": 2021
@@ -4242,7 +4242,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 62.54,
+        "pe_ratio": 61.61,
         "forward_return": -35.51,
         "start_price": 1115.0,
         "start_year": 2022
@@ -4251,7 +4251,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 55.74,
+        "pe_ratio": 54.09,
         "forward_return": -30.69,
         "start_price": 983.0,
         "start_year": 2022
@@ -4260,7 +4260,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 51.56,
         "forward_return": -33.57,
         "start_price": 941.0,
         "start_year": 2022
@@ -4269,7 +4269,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 45.85,
+        "pe_ratio": 46.1,
         "forward_return": -22.9,
         "start_price": 791.0,
         "start_year": 2022
@@ -4278,7 +4278,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 48.94,
+        "pe_ratio": 51.96,
         "forward_return": -25.2,
         "start_price": 835.0,
         "start_year": 2022
@@ -4287,7 +4287,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 37.82,
+        "pe_ratio": 42.59,
         "forward_return": -15.31,
         "start_price": 638.0,
         "start_year": 2022
@@ -4296,7 +4296,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 48.99,
+        "pe_ratio": 54.21,
         "forward_return": -25.95,
         "start_price": 817.0,
         "start_year": 2022
@@ -4305,7 +4305,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 44.28,
+        "pe_ratio": 48.15,
         "forward_return": -24.15,
         "start_price": 730.0,
         "start_year": 2022
@@ -4314,7 +4314,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 32.77,
+        "pe_ratio": 35.02,
         "forward_return": -10.91,
         "start_price": 534.0,
         "start_year": 2022
@@ -4323,7 +4323,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 29.96,
+        "pe_ratio": 31.32,
         "forward_return": -8.34,
         "start_price": 482.5,
         "start_year": 2022
@@ -4332,7 +4332,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 37.71,
+        "pe_ratio": 38.55,
         "forward_return": -19.03,
         "start_price": 600.0,
         "start_year": 2022
@@ -4350,7 +4350,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 50.61,
+        "pe_ratio": 50.13,
         "forward_return": -30.55,
         "start_price": 793.0,
         "start_year": 2023
@@ -4359,7 +4359,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 50.84,
+        "pe_ratio": 49.87,
         "forward_return": -27.57,
         "start_price": 794.0,
         "start_year": 2023
@@ -4368,7 +4368,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 58.01,
+        "pe_ratio": 56.37,
         "forward_return": -35.34,
         "start_price": 903.0,
         "start_year": 2023
@@ -4377,7 +4377,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 53.44,
+        "pe_ratio": 51.72,
         "forward_return": -34.74,
         "start_price": 829.0,
         "start_year": 2023
@@ -4386,7 +4386,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 45.21,
+        "pe_ratio": 43.58,
         "forward_return": -30.77,
         "start_price": 699.0,
         "start_year": 2023
@@ -4395,7 +4395,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 44.65,
+        "pe_ratio": 42.87,
         "forward_return": -34.08,
         "start_price": 688.0,
         "start_year": 2023
@@ -4404,7 +4404,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 39.0,
+        "pe_ratio": 38.51,
         "forward_return": -27.97,
         "start_price": 599.0,
         "start_year": 2023
@@ -4413,7 +4413,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 33.97,
+        "pe_ratio": 34.54,
         "forward_return": -26.53,
         "start_price": 520.0,
         "start_year": 2023
@@ -4422,7 +4422,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 32.91,
+        "pe_ratio": 34.48,
         "forward_return": -26.77,
         "start_price": 502.0,
         "start_year": 2023
@@ -4431,7 +4431,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 35.06,
+        "pe_ratio": 36.16,
         "forward_return": -29.99,
         "start_price": 533.0,
         "start_year": 2023
@@ -4440,7 +4440,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 34.19,
+        "pe_ratio": 34.72,
         "forward_return": -29.88,
         "start_price": 518.0,
         "start_year": 2023
@@ -4458,7 +4458,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 28.83,
         "forward_return": -29.58,
         "start_price": 436.0,
         "start_year": 2024
@@ -4476,7 +4476,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 34.38,
+        "pe_ratio": 34.34,
         "forward_return": -2.38,
         "start_price": 308.5,
         "start_year": 2015
@@ -4485,7 +4485,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 35.3,
+        "pe_ratio": 35.23,
         "forward_return": 1.21,
         "start_price": 312.0,
         "start_year": 2015
@@ -4494,7 +4494,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 29.73,
         "forward_return": 4.3,
         "start_price": 259.5,
         "start_year": 2015
@@ -4503,7 +4503,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 34.47,
         "forward_return": -3.51,
         "start_price": 300.5,
         "start_year": 2015
@@ -4512,7 +4512,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 34.46,
+        "pe_ratio": 33.38,
         "forward_return": -4.82,
         "start_price": 290.5,
         "start_year": 2015
@@ -4521,7 +4521,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 31.01,
         "forward_return": -3.86,
         "start_price": 269.5,
         "start_year": 2015
@@ -4530,7 +4530,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 28.25,
+        "pe_ratio": 27.31,
         "forward_return": -1.1,
         "start_price": 230.5,
         "start_year": 2015
@@ -4539,7 +4539,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 24.62,
+        "pe_ratio": 24.11,
         "forward_return": 3.27,
         "start_price": 197.5,
         "start_year": 2015
@@ -4548,7 +4548,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.56,
         "forward_return": 0.93,
         "start_price": 195.0,
         "start_year": 2015
@@ -4557,7 +4557,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 23.99,
+        "pe_ratio": 23.89,
         "forward_return": 4.04,
         "start_price": 186.0,
         "start_year": 2015
@@ -4566,7 +4566,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 28.56,
+        "pe_ratio": 28.49,
         "forward_return": 0.38,
         "start_price": 217.5,
         "start_year": 2015
@@ -4584,7 +4584,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 28.04,
+        "pe_ratio": 27.63,
         "forward_return": 5.58,
         "start_price": 212.0,
         "start_year": 2016
@@ -4593,7 +4593,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 28.0,
+        "pe_ratio": 27.2,
         "forward_return": 8.8,
         "start_price": 214.0,
         "start_year": 2016
@@ -4602,7 +4602,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 27.71,
+        "pe_ratio": 26.55,
         "forward_return": 9.05,
         "start_price": 214.0,
         "start_year": 2016
@@ -4611,7 +4611,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 25.84,
         "forward_return": 12.45,
         "start_price": 210.0,
         "start_year": 2016
@@ -4620,7 +4620,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 29.24,
+        "pe_ratio": 28.13,
         "forward_return": 7.34,
         "start_price": 230.5,
         "start_year": 2016
@@ -4629,7 +4629,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 25.73,
         "forward_return": 10.35,
         "start_price": 212.5,
         "start_year": 2016
@@ -4638,7 +4638,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 27.09,
+        "pe_ratio": 26.42,
         "forward_return": 9.61,
         "start_price": 218.0,
         "start_year": 2016
@@ -4647,7 +4647,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 27.87,
+        "pe_ratio": 27.49,
         "forward_return": 7.77,
         "start_price": 226.5,
         "start_year": 2016
@@ -4656,7 +4656,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.58,
         "forward_return": 10.83,
         "start_price": 210.5,
         "start_year": 2016
@@ -4665,7 +4665,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 24.69,
         "forward_return": 12.14,
         "start_price": 205.0,
         "start_year": 2016
@@ -4674,7 +4674,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 23.24,
+        "pe_ratio": 23.22,
         "forward_return": 16.19,
         "start_price": 194.5,
         "start_year": 2016
@@ -4692,7 +4692,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.53,
         "forward_return": 20.66,
         "start_price": 188.5,
         "start_year": 2017
@@ -4701,7 +4701,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 22.68,
+        "pe_ratio": 23.42,
         "forward_return": 24.97,
         "start_price": 194.0,
         "start_year": 2017
@@ -4710,7 +4710,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 25.1,
+        "pe_ratio": 26.34,
         "forward_return": 23.61,
         "start_price": 216.0,
         "start_year": 2017
@@ -4719,7 +4719,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 24.95,
+        "pe_ratio": 25.92,
         "forward_return": 32.76,
         "start_price": 216.0,
         "start_year": 2017
@@ -4728,7 +4728,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 26.99,
         "forward_return": 37.57,
         "start_price": 228.5,
         "start_year": 2017
@@ -4737,7 +4737,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.03,
+        "pe_ratio": 24.48,
         "forward_return": 52.11,
         "start_price": 210.5,
         "start_year": 2017
@@ -4746,7 +4746,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 24.94,
         "forward_return": 46.68,
         "start_price": 214.0,
         "start_year": 2017
@@ -4755,7 +4755,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 23.75,
+        "pe_ratio": 24.59,
         "forward_return": 53.02,
         "start_price": 210.5,
         "start_year": 2017
@@ -4764,7 +4764,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.12,
+        "pe_ratio": 25.18,
         "forward_return": 50.18,
         "start_price": 215.0,
         "start_year": 2017
@@ -4773,7 +4773,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.87,
+        "pe_ratio": 25.58,
         "forward_return": 47.07,
         "start_price": 223.0,
         "start_year": 2017
@@ -4782,7 +4782,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.28,
         "forward_return": 46.08,
         "start_price": 207.0,
         "start_year": 2017
@@ -4800,7 +4800,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 29.07,
         "forward_return": 45.6,
         "start_price": 263.5,
         "start_year": 2018
@@ -4809,7 +4809,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 32.32,
+        "pe_ratio": 33.12,
         "forward_return": 48.99,
         "start_price": 300.0,
         "start_year": 2018
@@ -4818,7 +4818,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 29.94,
         "forward_return": 55.31,
         "start_price": 271.0,
         "start_year": 2018
@@ -4827,7 +4827,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 26.75,
         "forward_return": 62.37,
         "start_price": 246.5,
         "start_year": 2018
@@ -4836,7 +4836,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 24.19,
         "forward_return": 77.29,
         "start_price": 227.0,
         "start_year": 2018
@@ -4845,7 +4845,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.25,
+        "pe_ratio": 22.62,
         "forward_return": 106.77,
         "start_price": 216.0,
         "start_year": 2018
@@ -4854,7 +4854,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.37,
+        "pe_ratio": 20.6,
         "forward_return": 99.45,
         "start_price": 200.0,
         "start_year": 2018
@@ -4863,7 +4863,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.6,
+        "pe_ratio": 19.71,
         "forward_return": 107.66,
         "start_price": 194.5,
         "start_year": 2018
@@ -4908,7 +4908,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 21.95,
+        "pe_ratio": 21.44,
         "forward_return": 71.48,
         "start_price": 226.5,
         "start_year": 2019
@@ -4917,7 +4917,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.92,
+        "pe_ratio": 22.83,
         "forward_return": 60.14,
         "start_price": 246.0,
         "start_year": 2019
@@ -4926,7 +4926,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 23.16,
         "forward_return": 56.11,
         "start_price": 254.5,
         "start_year": 2019
@@ -4935,7 +4935,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.97,
+        "pe_ratio": 25.69,
         "forward_return": 43.75,
         "start_price": 275.5,
         "start_year": 2019
@@ -4944,7 +4944,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.73,
+        "pe_ratio": 25.06,
         "forward_return": 48.75,
         "start_price": 262.0,
         "start_year": 2019
@@ -4953,7 +4953,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.86,
+        "pe_ratio": 25.76,
         "forward_return": 36.35,
         "start_price": 262.5,
         "start_year": 2019
@@ -4962,7 +4962,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 25.9,
+        "pe_ratio": 25.97,
         "forward_return": 47.94,
         "start_price": 262.0,
         "start_year": 2019
@@ -4971,7 +4971,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.89,
         "forward_return": 43.34,
         "start_price": 258.5,
         "start_year": 2019
@@ -4980,7 +4980,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.02,
+        "pe_ratio": 26.47,
         "forward_return": 29.31,
         "start_price": 261.5,
         "start_year": 2019
@@ -4989,7 +4989,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.66,
         "forward_return": 24.86,
         "start_price": 264.0,
         "start_year": 2019
@@ -4998,7 +4998,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.21,
         "forward_return": 31.13,
         "start_price": 280.0,
         "start_year": 2019
@@ -5016,7 +5016,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 29.78,
+        "pe_ratio": 30.41,
         "forward_return": 39.14,
         "start_price": 306.0,
         "start_year": 2020
@@ -5025,7 +5025,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 33.34,
+        "pe_ratio": 34.74,
         "forward_return": 37.11,
         "start_price": 353.5,
         "start_year": 2020
@@ -5034,7 +5034,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 35.04,
+        "pe_ratio": 37.22,
         "forward_return": 34.65,
         "start_price": 383.0,
         "start_year": 2020
@@ -5043,7 +5043,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 42.69,
+        "pe_ratio": 45.06,
         "forward_return": 21.45,
         "start_price": 480.5,
         "start_year": 2020
@@ -5052,7 +5052,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 49.21,
+        "pe_ratio": 51.65,
         "forward_return": 8.63,
         "start_price": 570.0,
         "start_year": 2020
@@ -5061,7 +5061,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 60.12,
+        "pe_ratio": 62.75,
         "forward_return": 0.16,
         "start_price": 716.0,
         "start_year": 2020
@@ -5070,7 +5070,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 53.12,
+        "pe_ratio": 55.21,
         "forward_return": -0.67,
         "start_price": 650.0,
         "start_year": 2020
@@ -5079,7 +5079,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 58.03,
+        "pe_ratio": 60.07,
         "forward_return": -8.53,
         "start_price": 729.0,
         "start_year": 2020
@@ -5088,7 +5088,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 54.54,
+        "pe_ratio": 56.24,
         "forward_return": -8.42,
         "start_price": 703.0,
         "start_year": 2020
@@ -5097,7 +5097,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 51.75,
+        "pe_ratio": 52.79,
         "forward_return": -5.85,
         "start_price": 684.0,
         "start_year": 2020
@@ -5106,7 +5106,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 45.78,
+        "pe_ratio": 46.22,
         "forward_return": -3.57,
         "start_price": 620.0,
         "start_year": 2020
@@ -5124,7 +5124,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 55.43,
+        "pe_ratio": 53.7,
         "forward_return": -15.6,
         "start_price": 788.0,
         "start_year": 2021
@@ -5133,7 +5133,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 66.41,
+        "pe_ratio": 62.48,
         "forward_return": -20.7,
         "start_price": 967.0,
         "start_year": 2021
@@ -5142,7 +5142,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 66.41,
+        "pe_ratio": 60.81,
         "forward_return": -24.56,
         "start_price": 990.0,
         "start_year": 2021
@@ -5151,7 +5151,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 67.53,
+        "pe_ratio": 65.22,
         "forward_return": -22.47,
         "start_price": 1030.0,
         "start_year": 2021
@@ -5160,7 +5160,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 79.49,
+        "pe_ratio": 81.01,
         "forward_return": -27.27,
         "start_price": 1240.0,
         "start_year": 2021
@@ -5169,7 +5169,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 118.2,
+        "pe_ratio": 127.2,
         "forward_return": -37.16,
         "start_price": 1885.0,
         "start_year": 2021
@@ -5178,7 +5178,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 95.76,
+        "pe_ratio": 101.8,
         "forward_return": -33.4,
         "start_price": 1560.0,
         "start_year": 2021
@@ -5187,7 +5187,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 103.1,
+        "pe_ratio": 108.3,
         "forward_return": -36.8,
         "start_price": 1715.0,
         "start_year": 2021
@@ -5196,7 +5196,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 95.39,
+        "pe_ratio": 99.14,
         "forward_return": -35.39,
         "start_price": 1620.0,
         "start_year": 2021
@@ -5205,7 +5205,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 103.3,
+        "pe_ratio": 105.9,
         "forward_return": -38.4,
         "start_price": 1790.0,
         "start_year": 2021
@@ -5214,7 +5214,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 100.7,
+        "pe_ratio": 101.9,
         "forward_return": -38.88,
         "start_price": 1780.0,
         "start_year": 2021
@@ -5232,7 +5232,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 62.54,
+        "pe_ratio": 61.61,
         "forward_return": -29.22,
         "start_price": 1115.0,
         "start_year": 2022
@@ -5241,7 +5241,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 55.74,
+        "pe_ratio": 54.09,
         "forward_return": -24.13,
         "start_price": 983.0,
         "start_year": 2022
@@ -5250,7 +5250,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 51.56,
         "forward_return": -25.42,
         "start_price": 941.0,
         "start_year": 2022
@@ -5259,7 +5259,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 45.85,
+        "pe_ratio": 46.1,
         "forward_return": -22.66,
         "start_price": 791.0,
         "start_year": 2022
@@ -5268,7 +5268,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 48.94,
+        "pe_ratio": 51.96,
         "forward_return": -25.31,
         "start_price": 835.0,
         "start_year": 2022
@@ -5277,7 +5277,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 37.82,
+        "pe_ratio": 42.59,
         "forward_return": -21.23,
         "start_price": 638.0,
         "start_year": 2022
@@ -5286,7 +5286,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 48.99,
+        "pe_ratio": 54.21,
         "forward_return": -26.4,
         "start_price": 817.0,
         "start_year": 2022
@@ -5295,7 +5295,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 44.28,
+        "pe_ratio": 48.15,
         "forward_return": -26.01,
         "start_price": 730.0,
         "start_year": 2022
@@ -5304,7 +5304,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 32.77,
+        "pe_ratio": 35.02,
         "forward_return": -18.97,
         "start_price": 534.0,
         "start_year": 2022
@@ -5313,7 +5313,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 29.96,
+        "pe_ratio": 31.32,
         "forward_return": -16.98,
         "start_price": 482.5,
         "start_year": 2022
@@ -5322,7 +5322,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 37.71,
+        "pe_ratio": 38.55,
         "forward_return": -23.4,
         "start_price": 600.0,
         "start_year": 2022
@@ -5340,7 +5340,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 50.61,
+        "pe_ratio": 50.13,
         "forward_return": -33.69,
         "start_price": 793.0,
         "start_year": 2023
@@ -5349,7 +5349,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 50.84,
+        "pe_ratio": 49.87,
         "forward_return": -33.34,
         "start_price": 794.0,
         "start_year": 2023
@@ -5367,7 +5367,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 34.38,
+        "pe_ratio": 34.34,
         "forward_return": -4.37,
         "start_price": 308.5,
         "start_year": 2015
@@ -5376,7 +5376,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 35.3,
+        "pe_ratio": 35.23,
         "forward_return": -2.89,
         "start_price": 312.0,
         "start_year": 2015
@@ -5385,7 +5385,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 29.73,
         "forward_return": 2.46,
         "start_price": 259.5,
         "start_year": 2015
@@ -5394,7 +5394,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 34.47,
         "forward_return": 0.53,
         "start_price": 300.5,
         "start_year": 2015
@@ -5403,7 +5403,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 34.46,
+        "pe_ratio": 33.38,
         "forward_return": 0.26,
         "start_price": 290.5,
         "start_year": 2015
@@ -5412,7 +5412,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 31.01,
         "forward_return": 2.2,
         "start_price": 269.5,
         "start_year": 2015
@@ -5421,7 +5421,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 28.25,
+        "pe_ratio": 27.31,
         "forward_return": 6.27,
         "start_price": 230.5,
         "start_year": 2015
@@ -5430,7 +5430,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 24.62,
+        "pe_ratio": 24.11,
         "forward_return": 10.13,
         "start_price": 197.5,
         "start_year": 2015
@@ -5439,7 +5439,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.56,
         "forward_return": 10.76,
         "start_price": 195.0,
         "start_year": 2015
@@ -5448,7 +5448,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 23.99,
+        "pe_ratio": 23.89,
         "forward_return": 12.32,
         "start_price": 186.0,
         "start_year": 2015
@@ -5457,7 +5457,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 28.56,
+        "pe_ratio": 28.49,
         "forward_return": 9.44,
         "start_price": 217.5,
         "start_year": 2015
@@ -5475,7 +5475,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 28.04,
+        "pe_ratio": 27.63,
         "forward_return": 12.37,
         "start_price": 212.0,
         "start_year": 2016
@@ -5484,7 +5484,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 28.0,
+        "pe_ratio": 27.2,
         "forward_return": 15.85,
         "start_price": 214.0,
         "start_year": 2016
@@ -5493,7 +5493,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 27.71,
+        "pe_ratio": 26.55,
         "forward_return": 18.01,
         "start_price": 214.0,
         "start_year": 2016
@@ -5502,7 +5502,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 25.84,
         "forward_return": 24.99,
         "start_price": 210.0,
         "start_year": 2016
@@ -5511,7 +5511,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 29.24,
+        "pe_ratio": 28.13,
         "forward_return": 27.13,
         "start_price": 230.5,
         "start_year": 2016
@@ -5520,7 +5520,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 25.73,
         "forward_return": 36.97,
         "start_price": 212.5,
         "start_year": 2016
@@ -5529,7 +5529,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 27.09,
+        "pe_ratio": 26.42,
         "forward_return": 33.07,
         "start_price": 218.0,
         "start_year": 2016
@@ -5538,7 +5538,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 27.87,
+        "pe_ratio": 27.49,
         "forward_return": 35.45,
         "start_price": 226.5,
         "start_year": 2016
@@ -5547,7 +5547,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.58,
         "forward_return": 36.77,
         "start_price": 210.5,
         "start_year": 2016
@@ -5556,7 +5556,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 24.69,
         "forward_return": 36.78,
         "start_price": 205.0,
         "start_year": 2016
@@ -5565,7 +5565,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 23.24,
+        "pe_ratio": 23.22,
         "forward_return": 35.39,
         "start_price": 194.5,
         "start_year": 2016
@@ -5583,7 +5583,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.53,
         "forward_return": 44.49,
         "start_price": 188.5,
         "start_year": 2017
@@ -5592,7 +5592,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 22.68,
+        "pe_ratio": 23.42,
         "forward_return": 50.7,
         "start_price": 194.0,
         "start_year": 2017
@@ -5601,7 +5601,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 25.1,
+        "pe_ratio": 26.34,
         "forward_return": 47.54,
         "start_price": 216.0,
         "start_year": 2017
@@ -5610,7 +5610,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 24.95,
+        "pe_ratio": 25.92,
         "forward_return": 48.96,
         "start_price": 216.0,
         "start_year": 2017
@@ -5619,7 +5619,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 26.99,
         "forward_return": 53.65,
         "start_price": 228.5,
         "start_year": 2017
@@ -5628,7 +5628,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.03,
+        "pe_ratio": 24.48,
         "forward_return": 73.75,
         "start_price": 210.5,
         "start_year": 2017
@@ -5637,7 +5637,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 24.94,
         "forward_return": 65.24,
         "start_price": 214.0,
         "start_year": 2017
@@ -5646,7 +5646,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 23.75,
+        "pe_ratio": 24.59,
         "forward_return": 69.82,
         "start_price": 210.5,
         "start_year": 2017
@@ -5655,7 +5655,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.12,
+        "pe_ratio": 25.18,
         "forward_return": 66.58,
         "start_price": 215.0,
         "start_year": 2017
@@ -5664,7 +5664,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.87,
+        "pe_ratio": 25.58,
         "forward_return": 69.15,
         "start_price": 223.0,
         "start_year": 2017
@@ -5673,7 +5673,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.28,
         "forward_return": 72.09,
         "start_price": 207.0,
         "start_year": 2017
@@ -5691,7 +5691,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 29.07,
         "forward_return": 44.55,
         "start_price": 263.5,
         "start_year": 2018
@@ -5700,7 +5700,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 32.32,
+        "pe_ratio": 33.12,
         "forward_return": 35.74,
         "start_price": 300.0,
         "start_year": 2018
@@ -5709,7 +5709,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 29.94,
         "forward_return": 37.78,
         "start_price": 271.0,
         "start_year": 2018
@@ -5718,7 +5718,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 26.75,
         "forward_return": 35.32,
         "start_price": 246.5,
         "start_year": 2018
@@ -5727,7 +5727,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 24.19,
         "forward_return": 39.94,
         "start_price": 227.0,
         "start_year": 2018
@@ -5736,7 +5736,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.25,
+        "pe_ratio": 22.62,
         "forward_return": 32.88,
         "start_price": 216.0,
         "start_year": 2018
@@ -5745,7 +5745,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.37,
+        "pe_ratio": 20.6,
         "forward_return": 43.9,
         "start_price": 200.0,
         "start_year": 2018
@@ -5754,7 +5754,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.6,
+        "pe_ratio": 19.71,
         "forward_return": 41.08,
         "start_price": 194.5,
         "start_year": 2018
@@ -5799,7 +5799,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 21.95,
+        "pe_ratio": 21.44,
         "forward_return": 38.5,
         "start_price": 226.5,
         "start_year": 2019
@@ -5808,7 +5808,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.92,
+        "pe_ratio": 22.83,
         "forward_return": 35.71,
         "start_price": 246.0,
         "start_year": 2019
@@ -5817,7 +5817,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 23.16,
         "forward_return": 38.76,
         "start_price": 254.5,
         "start_year": 2019
@@ -5826,7 +5826,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.97,
+        "pe_ratio": 25.69,
         "forward_return": 33.29,
         "start_price": 275.5,
         "start_year": 2019
@@ -5835,7 +5835,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.73,
+        "pe_ratio": 25.06,
         "forward_return": 29.62,
         "start_price": 262.0,
         "start_year": 2019
@@ -5844,7 +5844,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.86,
+        "pe_ratio": 25.76,
         "forward_return": 29.07,
         "start_price": 262.5,
         "start_year": 2019
@@ -5853,7 +5853,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 25.9,
+        "pe_ratio": 25.97,
         "forward_return": 25.28,
         "start_price": 262.0,
         "start_year": 2019
@@ -5862,7 +5862,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.89,
         "forward_return": 21.67,
         "start_price": 258.5,
         "start_year": 2019
@@ -5871,7 +5871,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.02,
+        "pe_ratio": 26.47,
         "forward_return": 20.34,
         "start_price": 261.5,
         "start_year": 2019
@@ -5880,7 +5880,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.66,
         "forward_return": 21.72,
         "start_price": 264.0,
         "start_year": 2019
@@ -5889,7 +5889,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.21,
         "forward_return": 19.16,
         "start_price": 280.0,
         "start_year": 2019
@@ -5907,7 +5907,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 29.78,
+        "pe_ratio": 30.41,
         "forward_return": 12.06,
         "start_price": 306.0,
         "start_year": 2020
@@ -5916,7 +5916,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 33.34,
+        "pe_ratio": 34.74,
         "forward_return": 8.56,
         "start_price": 353.5,
         "start_year": 2020
@@ -5925,7 +5925,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 35.04,
+        "pe_ratio": 37.22,
         "forward_return": 3.14,
         "start_price": 383.0,
         "start_year": 2020
@@ -5934,7 +5934,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 42.69,
+        "pe_ratio": 45.06,
         "forward_return": 0.41,
         "start_price": 480.5,
         "start_year": 2020
@@ -5943,7 +5943,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 49.21,
+        "pe_ratio": 51.65,
         "forward_return": -3.93,
         "start_price": 570.0,
         "start_year": 2020
@@ -5952,7 +5952,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 60.12,
+        "pe_ratio": 62.75,
         "forward_return": -9.7,
         "start_price": 716.0,
         "start_year": 2020
@@ -5961,7 +5961,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 53.12,
+        "pe_ratio": 55.21,
         "forward_return": -7.75,
         "start_price": 650.0,
         "start_year": 2020
@@ -5970,7 +5970,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 58.03,
+        "pe_ratio": 60.07,
         "forward_return": -11.72,
         "start_price": 729.0,
         "start_year": 2020
@@ -5979,7 +5979,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 54.54,
+        "pe_ratio": 56.24,
         "forward_return": -10.71,
         "start_price": 703.0,
         "start_year": 2020
@@ -5988,7 +5988,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 51.75,
+        "pe_ratio": 52.79,
         "forward_return": -11.04,
         "start_price": 684.0,
         "start_year": 2020
@@ -5997,7 +5997,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 45.78,
+        "pe_ratio": 46.22,
         "forward_return": -9.48,
         "start_price": 620.0,
         "start_year": 2020
@@ -6015,7 +6015,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 55.43,
+        "pe_ratio": 53.7,
         "forward_return": -15.31,
         "start_price": 788.0,
         "start_year": 2021
@@ -6024,7 +6024,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 66.41,
+        "pe_ratio": 62.48,
         "forward_return": -17.9,
         "start_price": 967.0,
         "start_year": 2021
@@ -6033,7 +6033,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 66.41,
+        "pe_ratio": 60.81,
         "forward_return": -20.26,
         "start_price": 990.0,
         "start_year": 2021
@@ -6042,7 +6042,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 67.53,
+        "pe_ratio": 65.22,
         "forward_return": -22.28,
         "start_price": 1030.0,
         "start_year": 2021
@@ -6051,7 +6051,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 79.49,
+        "pe_ratio": 81.01,
         "forward_return": -26.71,
         "start_price": 1240.0,
         "start_year": 2021
@@ -6060,7 +6060,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 118.2,
+        "pe_ratio": 127.2,
         "forward_return": -35.72,
         "start_price": 1885.0,
         "start_year": 2021
@@ -6069,7 +6069,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 95.76,
+        "pe_ratio": 101.8,
         "forward_return": -31.74,
         "start_price": 1560.0,
         "start_year": 2021
@@ -6078,7 +6078,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 103.1,
+        "pe_ratio": 108.3,
         "forward_return": -34.87,
         "start_price": 1715.0,
         "start_year": 2021
@@ -6087,7 +6087,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 95.39,
+        "pe_ratio": 99.14,
         "forward_return": -34.56,
         "start_price": 1620.0,
         "start_year": 2021
@@ -6096,7 +6096,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 103.3,
+        "pe_ratio": 105.9,
         "forward_return": -36.61,
         "start_price": 1790.0,
         "start_year": 2021
@@ -6105,7 +6105,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 100.7,
+        "pe_ratio": 101.9,
         "forward_return": -36.88,
         "start_price": 1780.0,
         "start_year": 2021
@@ -6123,7 +6123,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 62.54,
+        "pe_ratio": 61.61,
         "forward_return": -31.6,
         "start_price": 1115.0,
         "start_year": 2022
@@ -6132,7 +6132,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 55.74,
+        "pe_ratio": 54.09,
         "forward_return": -29.12,
         "start_price": 983.0,
         "start_year": 2022
@@ -6150,7 +6150,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 34.38,
+        "pe_ratio": 34.34,
         "forward_return": 2.35,
         "start_price": 308.5,
         "start_year": 2015
@@ -6159,7 +6159,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 35.3,
+        "pe_ratio": 35.23,
         "forward_return": 4.78,
         "start_price": 312.0,
         "start_year": 2015
@@ -6168,7 +6168,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 29.73,
         "forward_return": 10.29,
         "start_price": 259.5,
         "start_year": 2015
@@ -6177,7 +6177,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 34.47,
         "forward_return": 11.63,
         "start_price": 300.5,
         "start_year": 2015
@@ -6186,7 +6186,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 34.46,
+        "pe_ratio": 33.38,
         "forward_return": 16.01,
         "start_price": 290.5,
         "start_year": 2015
@@ -6195,7 +6195,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 31.01,
         "forward_return": 22.92,
         "start_price": 269.5,
         "start_year": 2015
@@ -6204,7 +6204,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 28.25,
+        "pe_ratio": 27.31,
         "forward_return": 24.53,
         "start_price": 230.5,
         "start_year": 2015
@@ -6213,7 +6213,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 24.62,
+        "pe_ratio": 24.11,
         "forward_return": 31.24,
         "start_price": 197.5,
         "start_year": 2015
@@ -6222,7 +6222,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.56,
         "forward_return": 30.68,
         "start_price": 195.0,
         "start_year": 2015
@@ -6231,7 +6231,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 23.99,
+        "pe_ratio": 23.89,
         "forward_return": 31.24,
         "start_price": 186.0,
         "start_year": 2015
@@ -6240,7 +6240,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 28.56,
+        "pe_ratio": 28.49,
         "forward_return": 24.87,
         "start_price": 217.5,
         "start_year": 2015
@@ -6258,7 +6258,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 28.04,
+        "pe_ratio": 27.63,
         "forward_return": 31.32,
         "start_price": 212.0,
         "start_year": 2016
@@ -6267,7 +6267,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 28.0,
+        "pe_ratio": 27.2,
         "forward_return": 36.25,
         "start_price": 214.0,
         "start_year": 2016
@@ -6276,7 +6276,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 27.71,
+        "pe_ratio": 26.55,
         "forward_return": 36.94,
         "start_price": 214.0,
         "start_year": 2016
@@ -6285,7 +6285,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 25.84,
         "forward_return": 38.51,
         "start_price": 210.0,
         "start_year": 2016
@@ -6294,7 +6294,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 29.24,
+        "pe_ratio": 28.13,
         "forward_return": 40.92,
         "start_price": 230.5,
         "start_year": 2016
@@ -6303,7 +6303,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 25.73,
         "forward_return": 55.4,
         "start_price": 212.5,
         "start_year": 2016
@@ -6312,7 +6312,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 27.09,
+        "pe_ratio": 26.42,
         "forward_return": 49.05,
         "start_price": 218.0,
         "start_year": 2016
@@ -6321,7 +6321,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 27.87,
+        "pe_ratio": 27.49,
         "forward_return": 50.67,
         "start_price": 226.5,
         "start_year": 2016
@@ -6330,7 +6330,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.58,
         "forward_return": 51.21,
         "start_price": 210.5,
         "start_year": 2016
@@ -6339,7 +6339,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 24.69,
         "forward_return": 55.0,
         "start_price": 205.0,
         "start_year": 2016
@@ -6348,7 +6348,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 23.24,
+        "pe_ratio": 23.22,
         "forward_return": 56.47,
         "start_price": 194.5,
         "start_year": 2016
@@ -6366,7 +6366,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.53,
         "forward_return": 43.79,
         "start_price": 188.5,
         "start_year": 2017
@@ -6375,7 +6375,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 22.68,
+        "pe_ratio": 23.42,
         "forward_return": 39.55,
         "start_price": 194.0,
         "start_year": 2017
@@ -6384,7 +6384,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 25.1,
+        "pe_ratio": 26.34,
         "forward_return": 35.45,
         "start_price": 216.0,
         "start_year": 2017
@@ -6393,7 +6393,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 24.95,
+        "pe_ratio": 25.92,
         "forward_return": 31.04,
         "start_price": 216.0,
         "start_year": 2017
@@ -6402,7 +6402,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 26.99,
         "forward_return": 30.91,
         "start_price": 228.5,
         "start_year": 2017
@@ -6411,7 +6411,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.03,
+        "pe_ratio": 24.48,
         "forward_return": 26.49,
         "start_price": 210.5,
         "start_year": 2017
@@ -6420,7 +6420,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 24.94,
         "forward_return": 32.25,
         "start_price": 214.0,
         "start_year": 2017
@@ -6429,7 +6429,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 23.75,
+        "pe_ratio": 24.59,
         "forward_return": 29.9,
         "start_price": 210.5,
         "start_year": 2017
@@ -6438,7 +6438,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.12,
+        "pe_ratio": 25.18,
         "forward_return": 22.06,
         "start_price": 215.0,
         "start_year": 2017
@@ -6447,7 +6447,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.87,
+        "pe_ratio": 25.58,
         "forward_return": 18.95,
         "start_price": 223.0,
         "start_year": 2017
@@ -6456,7 +6456,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.28,
         "forward_return": 25.66,
         "start_price": 207.0,
         "start_year": 2017
@@ -6474,7 +6474,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 29.07,
         "forward_return": 26.14,
         "start_price": 263.5,
         "start_year": 2018
@@ -6483,7 +6483,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 32.32,
+        "pe_ratio": 33.12,
         "forward_return": 22.94,
         "start_price": 300.0,
         "start_year": 2018
@@ -6492,7 +6492,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 29.94,
         "forward_return": 28.56,
         "start_price": 271.0,
         "start_year": 2018
@@ -6501,7 +6501,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 26.75,
         "forward_return": 28.91,
         "start_price": 246.5,
         "start_year": 2018
@@ -6510,7 +6510,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 24.19,
         "forward_return": 26.92,
         "start_price": 227.0,
         "start_year": 2018
@@ -6519,7 +6519,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.25,
+        "pe_ratio": 22.62,
         "forward_return": 27.81,
         "start_price": 216.0,
         "start_year": 2018
@@ -6528,7 +6528,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.37,
+        "pe_ratio": 20.6,
         "forward_return": 26.76,
         "start_price": 200.0,
         "start_year": 2018
@@ -6537,7 +6537,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.6,
+        "pe_ratio": 19.71,
         "forward_return": 24.23,
         "start_price": 194.5,
         "start_year": 2018
@@ -6582,7 +6582,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 21.95,
+        "pe_ratio": 21.44,
         "forward_return": 16.76,
         "start_price": 226.5,
         "start_year": 2019
@@ -6591,7 +6591,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.92,
+        "pe_ratio": 22.83,
         "forward_return": 15.24,
         "start_price": 246.0,
         "start_year": 2019
@@ -6600,7 +6600,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 23.16,
         "forward_return": 11.69,
         "start_price": 254.5,
         "start_year": 2019
@@ -6609,7 +6609,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.97,
+        "pe_ratio": 25.69,
         "forward_return": 12.54,
         "start_price": 275.5,
         "start_year": 2019
@@ -6618,7 +6618,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.73,
+        "pe_ratio": 25.06,
         "forward_return": 13.54,
         "start_price": 262.0,
         "start_year": 2019
@@ -6627,7 +6627,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.86,
+        "pe_ratio": 25.76,
         "forward_return": 13.06,
         "start_price": 262.5,
         "start_year": 2019
@@ -6636,7 +6636,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 25.9,
+        "pe_ratio": 25.97,
         "forward_return": 12.83,
         "start_price": 262.0,
         "start_year": 2019
@@ -6645,7 +6645,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.89,
         "forward_return": 11.78,
         "start_price": 258.5,
         "start_year": 2019
@@ -6654,7 +6654,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.02,
+        "pe_ratio": 26.47,
         "forward_return": 11.72,
         "start_price": 261.5,
         "start_year": 2019
@@ -6663,7 +6663,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.66,
         "forward_return": 10.59,
         "start_price": 264.0,
         "start_year": 2019
@@ -6672,7 +6672,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.21,
         "forward_return": 8.69,
         "start_price": 280.0,
         "start_year": 2019
@@ -6690,7 +6690,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 29.78,
+        "pe_ratio": 30.41,
         "forward_return": 6.22,
         "start_price": 306.0,
         "start_year": 2020
@@ -6699,7 +6699,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 33.34,
+        "pe_ratio": 34.74,
         "forward_return": 2.9,
         "start_price": 353.5,
         "start_year": 2020
@@ -6708,7 +6708,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 35.04,
+        "pe_ratio": 37.22,
         "forward_return": 1.31,
         "start_price": 383.0,
         "start_year": 2020
@@ -6717,7 +6717,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 42.69,
+        "pe_ratio": 45.06,
         "forward_return": -4.37,
         "start_price": 480.5,
         "start_year": 2020
@@ -6726,7 +6726,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 49.21,
+        "pe_ratio": 51.65,
         "forward_return": -8.47,
         "start_price": 570.0,
         "start_year": 2020
@@ -6735,7 +6735,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 60.12,
+        "pe_ratio": 62.75,
         "forward_return": -14.34,
         "start_price": 716.0,
         "start_year": 2020
@@ -6744,7 +6744,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 53.12,
+        "pe_ratio": 55.21,
         "forward_return": -11.72,
         "start_price": 650.0,
         "start_year": 2020
@@ -6753,7 +6753,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 58.03,
+        "pe_ratio": 60.07,
         "forward_return": -15.26,
         "start_price": 729.0,
         "start_year": 2020
@@ -6762,7 +6762,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 54.54,
+        "pe_ratio": 56.24,
         "forward_return": -15.27,
         "start_price": 703.0,
         "start_year": 2020
@@ -6771,7 +6771,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 51.75,
+        "pe_ratio": 52.79,
         "forward_return": -15.25,
         "start_price": 684.0,
         "start_year": 2020
@@ -6780,7 +6780,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 45.78,
+        "pe_ratio": 46.22,
         "forward_return": -13.95,
         "start_price": 620.0,
         "start_year": 2020
@@ -6798,7 +6798,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 55.43,
+        "pe_ratio": 53.7,
         "forward_return": -20.26,
         "start_price": 788.0,
         "start_year": 2021
@@ -6807,7 +6807,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 66.41,
+        "pe_ratio": 62.48,
         "forward_return": -23.22,
         "start_price": 967.0,
         "start_year": 2021
@@ -6825,7 +6825,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 34.38,
+        "pe_ratio": 34.34,
         "forward_return": 18.09,
         "start_price": 308.5,
         "start_year": 2015
@@ -6834,7 +6834,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 35.3,
+        "pe_ratio": 35.23,
         "forward_return": 21.74,
         "start_price": 312.0,
         "start_year": 2015
@@ -6843,7 +6843,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 29.73,
         "forward_return": 26.01,
         "start_price": 259.5,
         "start_year": 2015
@@ -6852,7 +6852,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 34.47,
         "forward_return": 23.74,
         "start_price": 300.5,
         "start_year": 2015
@@ -6861,7 +6861,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 34.46,
+        "pe_ratio": 33.38,
         "forward_return": 28.18,
         "start_price": 290.5,
         "start_year": 2015
@@ -6870,7 +6870,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 31.01,
         "forward_return": 38.87,
         "start_price": 269.5,
         "start_year": 2015
@@ -6879,7 +6879,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 28.25,
+        "pe_ratio": 27.31,
         "forward_return": 38.26,
         "start_price": 230.5,
         "start_year": 2015
@@ -6888,7 +6888,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 24.62,
+        "pe_ratio": 24.11,
         "forward_return": 44.05,
         "start_price": 197.5,
         "start_year": 2015
@@ -6897,7 +6897,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.56,
         "forward_return": 43.03,
         "start_price": 195.0,
         "start_year": 2015
@@ -6906,7 +6906,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 23.99,
+        "pe_ratio": 23.89,
         "forward_return": 46.51,
         "start_price": 186.0,
         "start_year": 2015
@@ -6915,7 +6915,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 28.56,
+        "pe_ratio": 28.49,
         "forward_return": 42.61,
         "start_price": 217.5,
         "start_year": 2015
@@ -6933,7 +6933,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 28.04,
+        "pe_ratio": 27.63,
         "forward_return": 32.84,
         "start_price": 212.0,
         "start_year": 2016
@@ -6942,7 +6942,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 28.0,
+        "pe_ratio": 27.2,
         "forward_return": 28.68,
         "start_price": 214.0,
         "start_year": 2016
@@ -6951,7 +6951,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 27.71,
+        "pe_ratio": 26.55,
         "forward_return": 29.12,
         "start_price": 214.0,
         "start_year": 2016
@@ -6960,7 +6960,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 25.84,
         "forward_return": 26.04,
         "start_price": 210.0,
         "start_year": 2016
@@ -6969,7 +6969,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 29.24,
+        "pe_ratio": 28.13,
         "forward_return": 25.15,
         "start_price": 230.5,
         "start_year": 2016
@@ -6978,7 +6978,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 25.73,
         "forward_return": 21.65,
         "start_price": 212.5,
         "start_year": 2016
@@ -6987,7 +6987,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 27.09,
+        "pe_ratio": 26.42,
         "forward_return": 26.03,
         "start_price": 218.0,
         "start_year": 2016
@@ -6996,7 +6996,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 27.87,
+        "pe_ratio": 27.49,
         "forward_return": 23.06,
         "start_price": 226.5,
         "start_year": 2016
@@ -7005,7 +7005,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.58,
         "forward_return": 18.76,
         "start_price": 210.5,
         "start_year": 2016
@@ -7014,7 +7014,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 24.69,
         "forward_return": 17.49,
         "start_price": 205.0,
         "start_year": 2016
@@ -7023,7 +7023,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 23.24,
+        "pe_ratio": 23.22,
         "forward_return": 22.48,
         "start_price": 194.5,
         "start_year": 2016
@@ -7041,7 +7041,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.53,
         "forward_return": 28.53,
         "start_price": 188.5,
         "start_year": 2017
@@ -7050,7 +7050,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 22.68,
+        "pe_ratio": 23.42,
         "forward_return": 27.94,
         "start_price": 194.0,
         "start_year": 2017
@@ -7059,7 +7059,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 25.1,
+        "pe_ratio": 26.34,
         "forward_return": 28.22,
         "start_price": 216.0,
         "start_year": 2017
@@ -7068,7 +7068,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 24.95,
+        "pe_ratio": 25.92,
         "forward_return": 26.52,
         "start_price": 216.0,
         "start_year": 2017
@@ -7077,7 +7077,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 26.99,
         "forward_return": 22.06,
         "start_price": 228.5,
         "start_year": 2017
@@ -7086,7 +7086,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.03,
+        "pe_ratio": 24.48,
         "forward_return": 23.44,
         "start_price": 210.5,
         "start_year": 2017
@@ -7095,7 +7095,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 24.94,
         "forward_return": 20.73,
         "start_price": 214.0,
         "start_year": 2017
@@ -7104,7 +7104,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 23.75,
+        "pe_ratio": 24.59,
         "forward_return": 18.53,
         "start_price": 210.5,
         "start_year": 2017
@@ -7113,7 +7113,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.12,
+        "pe_ratio": 25.18,
         "forward_return": 17.49,
         "start_price": 215.0,
         "start_year": 2017
@@ -7122,7 +7122,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.87,
+        "pe_ratio": 25.58,
         "forward_return": 17.82,
         "start_price": 223.0,
         "start_year": 2017
@@ -7131,7 +7131,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.28,
         "forward_return": 18.79,
         "start_price": 207.0,
         "start_year": 2017
@@ -7149,7 +7149,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 29.07,
         "forward_return": 11.25,
         "start_price": 263.5,
         "start_year": 2018
@@ -7158,7 +7158,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 32.32,
+        "pe_ratio": 33.12,
         "forward_return": 9.18,
         "start_price": 300.0,
         "start_year": 2018
@@ -7167,7 +7167,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 29.94,
         "forward_return": 8.84,
         "start_price": 271.0,
         "start_year": 2018
@@ -7176,7 +7176,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 26.75,
         "forward_return": 12.71,
         "start_price": 246.5,
         "start_year": 2018
@@ -7185,7 +7185,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 24.19,
         "forward_return": 14.16,
         "start_price": 227.0,
         "start_year": 2018
@@ -7194,7 +7194,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.25,
+        "pe_ratio": 22.62,
         "forward_return": 14.74,
         "start_price": 216.0,
         "start_year": 2018
@@ -7203,7 +7203,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.37,
+        "pe_ratio": 20.6,
         "forward_return": 16.04,
         "start_price": 200.0,
         "start_year": 2018
@@ -7212,7 +7212,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.6,
+        "pe_ratio": 19.71,
         "forward_return": 15.44,
         "start_price": 194.5,
         "start_year": 2018
@@ -7257,7 +7257,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 21.95,
+        "pe_ratio": 21.44,
         "forward_return": 10.96,
         "start_price": 226.5,
         "start_year": 2019
@@ -7266,7 +7266,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.92,
+        "pe_ratio": 22.83,
         "forward_return": 10.86,
         "start_price": 246.0,
         "start_year": 2019
@@ -7275,7 +7275,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 23.16,
         "forward_return": 8.61,
         "start_price": 254.5,
         "start_year": 2019
@@ -7284,7 +7284,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.97,
+        "pe_ratio": 25.69,
         "forward_return": 6.11,
         "start_price": 275.5,
         "start_year": 2019
@@ -7293,7 +7293,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.73,
+        "pe_ratio": 25.06,
         "forward_return": 6.17,
         "start_price": 262.0,
         "start_year": 2019
@@ -7302,7 +7302,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.86,
+        "pe_ratio": 25.76,
         "forward_return": 4.37,
         "start_price": 262.5,
         "start_year": 2019
@@ -7311,7 +7311,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 25.9,
+        "pe_ratio": 25.97,
         "forward_return": 5.3,
         "start_price": 262.0,
         "start_year": 2019
@@ -7320,7 +7320,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.89,
         "forward_return": 4.0,
         "start_price": 258.5,
         "start_year": 2019
@@ -7329,7 +7329,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.02,
+        "pe_ratio": 26.47,
         "forward_return": 3.18,
         "start_price": 261.5,
         "start_year": 2019
@@ -7338,7 +7338,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.66,
         "forward_return": 2.58,
         "start_price": 264.0,
         "start_year": 2019
@@ -7347,7 +7347,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.21,
         "forward_return": 1.22,
         "start_price": 280.0,
         "start_year": 2019
@@ -7365,7 +7365,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 29.78,
+        "pe_ratio": 30.41,
         "forward_return": -2.52,
         "start_price": 306.0,
         "start_year": 2020
@@ -7383,7 +7383,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 34.38,
+        "pe_ratio": 34.34,
         "forward_return": 13.75,
         "start_price": 308.5,
         "start_year": 2015
@@ -7392,7 +7392,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 35.3,
+        "pe_ratio": 35.23,
         "forward_return": 13.61,
         "start_price": 312.0,
         "start_year": 2015
@@ -7401,7 +7401,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 29.73,
         "forward_return": 17.99,
         "start_price": 259.5,
         "start_year": 2015
@@ -7410,7 +7410,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 34.47,
         "forward_return": 14.71,
         "start_price": 300.5,
         "start_year": 2015
@@ -7419,7 +7419,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 34.46,
+        "pe_ratio": 33.38,
         "forward_return": 12.98,
         "start_price": 290.5,
         "start_year": 2015
@@ -7428,7 +7428,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 31.01,
         "forward_return": 13.84,
         "start_price": 269.5,
         "start_year": 2015
@@ -7437,7 +7437,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 28.25,
+        "pe_ratio": 27.31,
         "forward_return": 14.43,
         "start_price": 230.5,
         "start_year": 2015
@@ -7446,7 +7446,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 24.62,
+        "pe_ratio": 24.11,
         "forward_return": 14.86,
         "start_price": 197.5,
         "start_year": 2015
@@ -7455,7 +7455,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.56,
         "forward_return": 14.61,
         "start_price": 195.0,
         "start_year": 2015
@@ -7464,7 +7464,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 23.99,
+        "pe_ratio": 23.89,
         "forward_return": 16.04,
         "start_price": 186.0,
         "start_year": 2015
@@ -7473,7 +7473,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 28.56,
+        "pe_ratio": 28.49,
         "forward_return": 13.44,
         "start_price": 217.5,
         "start_year": 2015
@@ -7491,7 +7491,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 28.04,
+        "pe_ratio": 27.63,
         "forward_return": 11.72,
         "start_price": 212.0,
         "start_year": 2016
@@ -7500,7 +7500,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 28.0,
+        "pe_ratio": 27.2,
         "forward_return": 11.82,
         "start_price": 214.0,
         "start_year": 2016
@@ -7509,7 +7509,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 27.71,
+        "pe_ratio": 26.55,
         "forward_return": 10.2,
         "start_price": 214.0,
         "start_year": 2016
@@ -7518,7 +7518,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 25.84,
         "forward_return": 12.01,
         "start_price": 210.0,
         "start_year": 2016
@@ -7527,7 +7527,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 29.24,
+        "pe_ratio": 28.13,
         "forward_return": 10.64,
         "start_price": 230.5,
         "start_year": 2016
@@ -7536,7 +7536,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 25.73,
         "forward_return": 11.51,
         "start_price": 212.5,
         "start_year": 2016
@@ -7545,7 +7545,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 27.09,
+        "pe_ratio": 26.42,
         "forward_return": 11.05,
         "start_price": 218.0,
         "start_year": 2016
@@ -7554,7 +7554,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 27.87,
+        "pe_ratio": 27.49,
         "forward_return": 9.74,
         "start_price": 226.5,
         "start_year": 2016
@@ -7563,7 +7563,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.58,
         "forward_return": 10.86,
         "start_price": 210.5,
         "start_year": 2016
@@ -7572,7 +7572,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 24.73,
+        "pe_ratio": 24.69,
         "forward_return": 10.68,
         "start_price": 205.0,
         "start_year": 2016
@@ -7581,7 +7581,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 23.24,
+        "pe_ratio": 23.22,
         "forward_return": 11.05,
         "start_price": 194.5,
         "start_year": 2016
@@ -7599,7 +7599,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.53,
         "forward_return": 11.14,
         "start_price": 188.5,
         "start_year": 2017
@@ -7608,7 +7608,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 22.68,
+        "pe_ratio": 23.42,
         "forward_return": 11.78,
         "start_price": 194.0,
         "start_year": 2017
@@ -7617,7 +7617,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 25.1,
+        "pe_ratio": 26.34,
         "forward_return": 9.11,
         "start_price": 216.0,
         "start_year": 2017
@@ -7626,7 +7626,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 24.95,
+        "pe_ratio": 25.92,
         "forward_return": 8.32,
         "start_price": 216.0,
         "start_year": 2017
@@ -7635,7 +7635,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 26.24,
+        "pe_ratio": 26.99,
         "forward_return": 6.96,
         "start_price": 228.5,
         "start_year": 2017
@@ -7644,7 +7644,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.03,
+        "pe_ratio": 24.48,
         "forward_return": 6.76,
         "start_price": 210.5,
         "start_year": 2017
@@ -7653,7 +7653,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 24.94,
         "forward_return": 7.23,
         "start_price": 214.0,
         "start_year": 2017
@@ -7662,7 +7662,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 23.75,
+        "pe_ratio": 24.59,
         "forward_return": 6.34,
         "start_price": 210.5,
         "start_year": 2017
@@ -7671,7 +7671,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.12,
+        "pe_ratio": 25.18,
         "forward_return": 5.61,
         "start_price": 215.0,
         "start_year": 2017
@@ -7680,7 +7680,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.87,
+        "pe_ratio": 25.58,
         "forward_return": 4.8,
         "start_price": 223.0,
         "start_year": 2017
@@ -7689,7 +7689,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 23.28,
         "forward_return": 5.52,
         "start_price": 207.0,
         "start_year": 2017
@@ -7707,7 +7707,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 29.07,
         "forward_return": 0.74,
         "start_price": 263.5,
         "start_year": 2018
@@ -7716,7 +7716,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 32.32,
+        "pe_ratio": 33.12,
         "forward_return": -0.7,
         "start_price": 300.0,
         "start_year": 2018
@@ -7734,7 +7734,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 34.38,
+        "pe_ratio": 34.34,
         "forward_return": 3.95,
         "start_price": 308.5,
         "start_year": 2015
@@ -7743,7 +7743,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 35.3,
+        "pe_ratio": 35.23,
         "forward_return": 4.58,
         "start_price": 312.0,
         "start_year": 2015
@@ -7752,7 +7752,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 29.73,
         "forward_return": 5.64,
         "start_price": 259.5,
         "start_year": 2015
@@ -7761,7 +7761,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 35.08,
+        "pe_ratio": 34.47,
         "forward_return": 3.52,
         "start_price": 300.5,
         "start_year": 2015
@@ -7770,7 +7770,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 34.46,
+        "pe_ratio": 33.38,
         "forward_return": 3.42,
         "start_price": 290.5,
         "start_year": 2015
@@ -7779,7 +7779,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 31.01,
         "forward_return": 3.24,
         "start_price": 269.5,
         "start_year": 2015
@@ -7788,7 +7788,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 28.25,
+        "pe_ratio": 27.31,
         "forward_return": 5.37,
         "start_price": 230.5,
         "start_year": 2015
@@ -7797,7 +7797,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 24.62,
+        "pe_ratio": 24.11,
         "forward_return": 6.16,
         "start_price": 197.5,
         "start_year": 2015
@@ -7806,7 +7806,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 24.72,
+        "pe_ratio": 24.56,
         "forward_return": 5.95,
         "start_price": 195.0,
         "start_year": 2015
@@ -7815,7 +7815,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 23.99,
+        "pe_ratio": 23.89,
         "forward_return": 6.2,
         "start_price": 186.0,
         "start_year": 2015
@@ -7824,7 +7824,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 28.56,
+        "pe_ratio": 28.49,
         "forward_return": 4.35,
         "start_price": 217.5,
         "start_year": 2015
@@ -7842,7 +7842,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 28.04,
+        "pe_ratio": 27.63,
         "forward_return": 3.34,
         "start_price": 212.0,
         "start_year": 2016
@@ -8049,7 +8049,7 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 21.3倍、24.7倍、28.6倍、41.8倍、58.0倍"
+!!! note "本益比河流帶水位: 21.0倍、24.6倍、28.5倍、42.7倍、58.6倍"
 
 ```vegalite
 {
@@ -8061,1351 +8061,1351 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
         "date": "2014-12-16",
         "price": 335.5,
         "pe": 36.83,
-        "pe_10": 194.43,
-        "pe_25": 224.73,
-        "pe_50": 260.17,
-        "pe_75": 380.45,
-        "pe_90": 528.55
+        "pe_10": 190.93,
+        "pe_25": 224.46,
+        "pe_50": 259.44,
+        "pe_75": 389.25,
+        "pe_90": 533.72
       },
       {
         "date": "2015-01-16",
         "price": 308.5,
-        "pe": 34.38,
-        "pe_10": 191.52,
-        "pe_25": 221.37,
-        "pe_50": 256.28,
-        "pe_75": 374.77,
-        "pe_90": 520.65
+        "pe": 34.34,
+        "pe_10": 188.3,
+        "pe_25": 221.36,
+        "pe_50": 255.86,
+        "pe_75": 383.87,
+        "pe_90": 526.35
       },
       {
         "date": "2015-02-14",
         "price": 312.0,
-        "pe": 35.3,
-        "pe_10": 188.65,
-        "pe_25": 218.05,
-        "pe_50": 252.43,
-        "pe_75": 369.14,
-        "pe_90": 512.83
+        "pe": 35.23,
+        "pe_10": 185.62,
+        "pe_25": 218.21,
+        "pe_50": 252.22,
+        "pe_75": 378.42,
+        "pe_90": 518.88
       },
       {
         "date": "2015-03-16",
         "price": 259.5,
-        "pe": 29.82,
-        "pe_10": 185.74,
-        "pe_25": 214.68,
-        "pe_50": 248.54,
-        "pe_75": 363.45,
-        "pe_90": 504.92
+        "pe": 29.73,
+        "pe_10": 182.95,
+        "pe_25": 215.07,
+        "pe_50": 248.59,
+        "pe_75": 372.97,
+        "pe_90": 511.41
       },
       {
         "date": "2015-04-15",
         "price": 300.5,
-        "pe": 35.08,
-        "pe_10": 182.84,
-        "pe_25": 211.33,
-        "pe_50": 244.65,
-        "pe_75": 357.76,
-        "pe_90": 497.02
+        "pe": 34.47,
+        "pe_10": 182.72,
+        "pe_25": 214.8,
+        "pe_50": 248.28,
+        "pe_75": 372.51,
+        "pe_90": 510.77
       },
       {
         "date": "2015-05-16",
         "price": 290.5,
-        "pe": 34.46,
-        "pe_10": 179.93,
-        "pe_25": 207.97,
-        "pe_50": 240.76,
-        "pe_75": 352.08,
-        "pe_90": 489.13
+        "pe": 33.38,
+        "pe_10": 182.41,
+        "pe_25": 214.44,
+        "pe_50": 247.86,
+        "pe_75": 371.87,
+        "pe_90": 509.9
       },
       {
         "date": "2015-06-15",
         "price": 269.5,
-        "pe": 32.49,
-        "pe_10": 177.05,
-        "pe_25": 204.63,
-        "pe_50": 236.9,
-        "pe_75": 346.43,
-        "pe_90": 481.28
+        "pe": 31.01,
+        "pe_10": 182.16,
+        "pe_25": 214.14,
+        "pe_50": 247.51,
+        "pe_75": 371.36,
+        "pe_90": 509.19
       },
       {
         "date": "2015-07-16",
         "price": 230.5,
-        "pe": 28.25,
-        "pe_10": 174.15,
-        "pe_25": 201.29,
-        "pe_50": 233.03,
-        "pe_75": 340.77,
-        "pe_90": 473.42
+        "pe": 27.31,
+        "pe_10": 176.91,
+        "pe_25": 207.96,
+        "pe_50": 240.37,
+        "pe_75": 360.65,
+        "pe_90": 494.51
       },
       {
         "date": "2015-08-16",
         "price": 197.5,
-        "pe": 24.62,
-        "pe_10": 171.22,
-        "pe_25": 197.9,
-        "pe_50": 229.11,
-        "pe_75": 335.04,
-        "pe_90": 465.45
+        "pe": 24.11,
+        "pe_10": 171.7,
+        "pe_25": 201.84,
+        "pe_50": 233.3,
+        "pe_75": 350.03,
+        "pe_90": 479.95
       },
       {
         "date": "2015-09-15",
         "price": 195.0,
-        "pe": 24.72,
-        "pe_10": 168.37,
-        "pe_25": 194.61,
-        "pe_50": 225.29,
-        "pe_75": 329.46,
-        "pe_90": 457.7
+        "pe": 24.56,
+        "pe_10": 166.42,
+        "pe_25": 195.64,
+        "pe_50": 226.12,
+        "pe_75": 339.27,
+        "pe_90": 465.19
       },
       {
         "date": "2015-10-16",
         "price": 186.0,
-        "pe": 23.99,
-        "pe_10": 165.48,
-        "pe_25": 191.27,
-        "pe_50": 221.43,
-        "pe_75": 323.81,
-        "pe_90": 449.86
+        "pe": 23.89,
+        "pe_10": 163.19,
+        "pe_25": 191.84,
+        "pe_50": 221.74,
+        "pe_75": 332.68,
+        "pe_90": 456.16
       },
       {
         "date": "2015-11-15",
         "price": 217.5,
-        "pe": 28.56,
-        "pe_10": 162.55,
-        "pe_25": 187.88,
-        "pe_50": 217.5,
-        "pe_75": 318.06,
-        "pe_90": 441.87
+        "pe": 28.49,
+        "pe_10": 160.01,
+        "pe_25": 188.11,
+        "pe_50": 217.42,
+        "pe_75": 326.21,
+        "pe_90": 447.29
       },
       {
         "date": "2015-12-16",
         "price": 213.5,
         "pe": 28.54,
-        "pe_10": 159.67,
-        "pe_25": 184.55,
-        "pe_50": 213.65,
-        "pe_75": 312.43,
-        "pe_90": 434.05
+        "pe_10": 156.8,
+        "pe_25": 184.33,
+        "pe_50": 213.05,
+        "pe_75": 319.65,
+        "pe_90": 438.3
       },
       {
         "date": "2016-01-16",
         "price": 212.0,
-        "pe": 28.04,
-        "pe_10": 161.37,
-        "pe_25": 186.52,
-        "pe_50": 215.93,
-        "pe_75": 315.77,
-        "pe_90": 438.68
+        "pe": 27.63,
+        "pe_10": 160.82,
+        "pe_25": 189.06,
+        "pe_50": 218.52,
+        "pe_75": 327.86,
+        "pe_90": 449.55
       },
       {
         "date": "2016-02-15",
         "price": 214.0,
-        "pe": 28.0,
-        "pe_10": 163.13,
-        "pe_25": 188.55,
-        "pe_50": 218.28,
-        "pe_75": 319.2,
-        "pe_90": 443.45
+        "pe": 27.2,
+        "pe_10": 164.91,
+        "pe_25": 193.86,
+        "pe_50": 224.07,
+        "pe_75": 336.18,
+        "pe_90": 460.97
       },
       {
         "date": "2016-03-16",
         "price": 214.0,
-        "pe": 27.71,
-        "pe_10": 164.84,
-        "pe_25": 190.52,
-        "pe_50": 220.56,
-        "pe_75": 322.54,
-        "pe_90": 448.09
+        "pe": 26.55,
+        "pe_10": 168.94,
+        "pe_25": 198.6,
+        "pe_50": 229.56,
+        "pe_75": 344.42,
+        "pe_90": 472.25
       },
       {
         "date": "2016-04-15",
         "price": 210.0,
-        "pe": 26.91,
-        "pe_10": 166.56,
-        "pe_25": 192.52,
-        "pe_50": 222.88,
-        "pe_75": 325.93,
-        "pe_90": 452.79
+        "pe": 25.84,
+        "pe_10": 170.34,
+        "pe_25": 200.25,
+        "pe_50": 231.46,
+        "pe_75": 347.26,
+        "pe_90": 476.16
       },
       {
         "date": "2016-05-16",
         "price": 230.5,
-        "pe": 29.24,
-        "pe_10": 168.26,
-        "pe_25": 194.47,
-        "pe_50": 225.14,
-        "pe_75": 329.24,
-        "pe_90": 457.39
+        "pe": 28.13,
+        "pe_10": 171.75,
+        "pe_25": 201.9,
+        "pe_50": 233.37,
+        "pe_75": 350.13,
+        "pe_90": 480.09
       },
       {
         "date": "2016-06-15",
         "price": 212.5,
-        "pe": 26.68,
-        "pe_10": 170.0,
-        "pe_25": 196.49,
-        "pe_50": 227.47,
-        "pe_75": 332.65,
-        "pe_90": 462.13
+        "pe": 25.73,
+        "pe_10": 173.11,
+        "pe_25": 203.5,
+        "pe_50": 235.21,
+        "pe_75": 352.9,
+        "pe_90": 483.89
       },
       {
         "date": "2016-07-16",
         "price": 218.0,
-        "pe": 27.09,
-        "pe_10": 171.76,
-        "pe_25": 198.53,
-        "pe_50": 229.83,
-        "pe_75": 336.09,
-        "pe_90": 466.92
+        "pe": 26.42,
+        "pe_10": 172.95,
+        "pe_25": 203.31,
+        "pe_50": 235.0,
+        "pe_75": 352.58,
+        "pe_90": 483.45
       },
       {
         "date": "2016-08-16",
         "price": 226.5,
-        "pe": 27.87,
-        "pe_10": 173.46,
-        "pe_25": 200.49,
-        "pe_50": 232.11,
-        "pe_75": 339.42,
-        "pe_90": 471.55
+        "pe": 27.49,
+        "pe_10": 172.7,
+        "pe_25": 203.02,
+        "pe_50": 234.66,
+        "pe_75": 352.07,
+        "pe_90": 482.74
       },
       {
         "date": "2016-09-15",
         "price": 210.5,
-        "pe": 25.65,
-        "pe_10": 175.16,
-        "pe_25": 202.46,
-        "pe_50": 234.38,
-        "pe_75": 342.75,
-        "pe_90": 476.16
+        "pe": 25.58,
+        "pe_10": 172.48,
+        "pe_25": 202.76,
+        "pe_50": 234.36,
+        "pe_75": 351.63,
+        "pe_90": 482.14
       },
       {
         "date": "2016-10-16",
         "price": 205.0,
-        "pe": 24.73,
-        "pe_10": 176.93,
-        "pe_25": 204.5,
-        "pe_50": 236.75,
-        "pe_75": 346.21,
-        "pe_90": 480.97
+        "pe": 24.69,
+        "pe_10": 174.03,
+        "pe_25": 204.58,
+        "pe_50": 236.47,
+        "pe_75": 354.79,
+        "pe_90": 486.47
       },
       {
         "date": "2016-11-15",
         "price": 194.5,
-        "pe": 23.24,
-        "pe_10": 178.63,
-        "pe_25": 206.47,
-        "pe_50": 239.02,
-        "pe_75": 349.54,
-        "pe_90": 485.6
+        "pe": 23.22,
+        "pe_10": 175.57,
+        "pe_25": 206.39,
+        "pe_50": 238.56,
+        "pe_75": 357.92,
+        "pe_90": 490.77
       },
       {
         "date": "2016-12-16",
         "price": 194.0,
         "pe": 22.96,
-        "pe_10": 180.35,
-        "pe_25": 208.45,
-        "pe_50": 241.32,
-        "pe_75": 352.89,
-        "pe_90": 490.26
+        "pe_10": 177.1,
+        "pe_25": 208.2,
+        "pe_50": 240.64,
+        "pe_75": 361.05,
+        "pe_90": 495.05
       },
       {
         "date": "2017-01-16",
         "price": 188.5,
-        "pe": 22.17,
-        "pe_10": 181.48,
-        "pe_25": 209.76,
-        "pe_50": 242.83,
-        "pe_75": 355.11,
-        "pe_90": 493.33
+        "pe": 22.53,
+        "pe_10": 175.36,
+        "pe_25": 206.15,
+        "pe_50": 238.28,
+        "pe_75": 357.51,
+        "pe_90": 490.2
       },
       {
         "date": "2017-02-14",
         "price": 194.0,
-        "pe": 22.68,
-        "pe_10": 182.57,
-        "pe_25": 211.02,
-        "pe_50": 244.3,
-        "pe_75": 357.25,
-        "pe_90": 496.31
+        "pe": 23.42,
+        "pe_10": 173.62,
+        "pe_25": 204.11,
+        "pe_50": 235.91,
+        "pe_75": 353.95,
+        "pe_90": 485.33
       },
       {
         "date": "2017-03-16",
         "price": 216.0,
-        "pe": 25.1,
-        "pe_10": 183.68,
-        "pe_25": 212.3,
-        "pe_50": 245.78,
-        "pe_75": 359.41,
-        "pe_90": 499.31
+        "pe": 26.34,
+        "pe_10": 171.88,
+        "pe_25": 202.06,
+        "pe_50": 233.55,
+        "pe_75": 350.41,
+        "pe_90": 480.46
       },
       {
         "date": "2017-04-15",
         "price": 216.0,
-        "pe": 24.95,
-        "pe_10": 184.78,
-        "pe_25": 213.58,
-        "pe_50": 247.25,
-        "pe_75": 361.57,
-        "pe_90": 502.31
+        "pe": 25.92,
+        "pe_10": 174.67,
+        "pe_25": 205.33,
+        "pe_50": 237.33,
+        "pe_75": 356.08,
+        "pe_90": 488.25
       },
       {
         "date": "2017-05-16",
         "price": 228.5,
-        "pe": 26.24,
-        "pe_10": 185.87,
-        "pe_25": 214.83,
-        "pe_50": 248.7,
-        "pe_75": 363.69,
-        "pe_90": 505.26
+        "pe": 26.99,
+        "pe_10": 177.45,
+        "pe_25": 208.6,
+        "pe_50": 241.11,
+        "pe_75": 361.76,
+        "pe_90": 496.03
       },
       {
         "date": "2017-06-15",
         "price": 210.5,
-        "pe": 24.03,
-        "pe_10": 186.97,
-        "pe_25": 216.11,
-        "pe_50": 250.18,
-        "pe_75": 365.86,
-        "pe_90": 508.27
+        "pe": 24.48,
+        "pe_10": 180.23,
+        "pe_25": 211.88,
+        "pe_50": 244.9,
+        "pe_75": 367.43,
+        "pe_90": 503.81
       },
       {
         "date": "2017-07-16",
         "price": 214.0,
-        "pe": 24.29,
-        "pe_10": 188.05,
-        "pe_25": 217.35,
-        "pe_50": 251.62,
-        "pe_75": 367.96,
-        "pe_90": 511.19
+        "pe": 24.94,
+        "pe_10": 179.85,
+        "pe_25": 211.43,
+        "pe_50": 244.38,
+        "pe_75": 366.65,
+        "pe_90": 502.74
       },
       {
         "date": "2017-08-16",
         "price": 210.5,
-        "pe": 23.75,
-        "pe_10": 189.18,
-        "pe_25": 218.65,
-        "pe_50": 253.13,
-        "pe_75": 370.17,
-        "pe_90": 514.26
+        "pe": 24.59,
+        "pe_10": 179.43,
+        "pe_25": 210.93,
+        "pe_50": 243.8,
+        "pe_75": 365.79,
+        "pe_90": 501.55
       },
       {
         "date": "2017-09-15",
         "price": 215.0,
-        "pe": 24.12,
-        "pe_10": 190.26,
-        "pe_25": 219.9,
-        "pe_50": 254.58,
-        "pe_75": 372.28,
-        "pe_90": 517.19
+        "pe": 25.18,
+        "pe_10": 178.97,
+        "pe_25": 210.39,
+        "pe_50": 243.18,
+        "pe_75": 364.85,
+        "pe_90": 500.27
       },
       {
         "date": "2017-10-16",
         "price": 223.0,
-        "pe": 24.87,
-        "pe_10": 191.38,
-        "pe_25": 221.21,
-        "pe_50": 256.09,
-        "pe_75": 374.49,
-        "pe_90": 520.26
+        "pe": 25.58,
+        "pe_10": 182.72,
+        "pe_25": 214.81,
+        "pe_50": 248.28,
+        "pe_75": 372.51,
+        "pe_90": 510.77
       },
       {
         "date": "2017-11-15",
         "price": 207.0,
-        "pe": 22.95,
-        "pe_10": 192.51,
-        "pe_25": 222.51,
-        "pe_50": 257.6,
-        "pe_75": 376.7,
-        "pe_90": 523.34
+        "pe": 23.28,
+        "pe_10": 186.37,
+        "pe_25": 219.09,
+        "pe_50": 253.24,
+        "pe_75": 379.94,
+        "pe_90": 520.97
       },
       {
         "date": "2017-12-16",
         "price": 217.5,
         "pe": 23.98,
-        "pe_10": 193.59,
-        "pe_25": 223.76,
-        "pe_50": 259.04,
-        "pe_75": 378.81,
-        "pe_90": 526.26
+        "pe_10": 190.11,
+        "pe_25": 223.49,
+        "pe_50": 258.32,
+        "pe_75": 387.56,
+        "pe_90": 531.41
       },
       {
         "date": "2018-01-16",
         "price": 263.5,
-        "pe": 28.71,
-        "pe_10": 195.89,
-        "pe_25": 226.42,
-        "pe_50": 262.12,
-        "pe_75": 383.32,
-        "pe_90": 532.53
+        "pe": 29.07,
+        "pe_10": 189.99,
+        "pe_25": 223.35,
+        "pe_50": 258.15,
+        "pe_75": 387.32,
+        "pe_90": 531.08
       },
       {
         "date": "2018-02-14",
         "price": 300.0,
-        "pe": 32.32,
-        "pe_10": 198.12,
-        "pe_25": 228.99,
-        "pe_50": 265.1,
-        "pe_75": 387.67,
-        "pe_90": 538.57
+        "pe": 33.12,
+        "pe_10": 189.86,
+        "pe_25": 223.19,
+        "pe_50": 257.97,
+        "pe_75": 387.05,
+        "pe_90": 530.71
       },
       {
         "date": "2018-03-16",
         "price": 271.0,
-        "pe": 28.86,
-        "pe_10": 200.42,
-        "pe_25": 231.66,
-        "pe_50": 268.18,
-        "pe_75": 392.18,
-        "pe_90": 544.84
+        "pe": 29.94,
+        "pe_10": 189.72,
+        "pe_25": 223.03,
+        "pe_50": 257.78,
+        "pe_75": 386.77,
+        "pe_90": 530.32
       },
       {
         "date": "2018-04-15",
         "price": 246.5,
-        "pe": 25.96,
-        "pe_10": 202.67,
-        "pe_25": 234.25,
-        "pe_50": 271.19,
-        "pe_75": 396.57,
-        "pe_90": 550.94
+        "pe": 26.75,
+        "pe_10": 193.15,
+        "pe_25": 227.06,
+        "pe_50": 262.44,
+        "pe_75": 393.75,
+        "pe_90": 539.9
       },
       {
         "date": "2018-05-16",
         "price": 227.0,
-        "pe": 23.64,
-        "pe_10": 204.95,
-        "pe_25": 236.89,
-        "pe_50": 274.24,
-        "pe_75": 401.04,
-        "pe_90": 557.15
+        "pe": 24.19,
+        "pe_10": 196.69,
+        "pe_25": 231.22,
+        "pe_50": 267.26,
+        "pe_75": 400.98,
+        "pe_90": 549.81
       },
       {
         "date": "2018-06-15",
         "price": 216.0,
-        "pe": 22.25,
-        "pe_10": 207.2,
-        "pe_25": 239.49,
-        "pe_50": 277.26,
-        "pe_75": 405.45,
-        "pe_90": 563.27
+        "pe": 22.62,
+        "pe_10": 200.15,
+        "pe_25": 235.29,
+        "pe_50": 271.96,
+        "pe_75": 408.03,
+        "pe_90": 559.48
       },
       {
         "date": "2018-07-16",
         "price": 200.0,
-        "pe": 20.37,
-        "pe_10": 209.56,
-        "pe_25": 242.22,
-        "pe_50": 280.41,
-        "pe_75": 410.06,
-        "pe_90": 569.68
+        "pe": 20.6,
+        "pe_10": 203.5,
+        "pe_25": 239.22,
+        "pe_50": 276.5,
+        "pe_75": 414.85,
+        "pe_90": 568.83
       },
       {
         "date": "2018-08-16",
         "price": 194.5,
-        "pe": 19.6,
-        "pe_10": 211.81,
-        "pe_25": 244.81,
-        "pe_50": 283.41,
-        "pe_75": 414.45,
-        "pe_90": 575.78
+        "pe": 19.71,
+        "pe_10": 206.84,
+        "pe_25": 243.15,
+        "pe_50": 281.04,
+        "pe_75": 421.66,
+        "pe_90": 578.17
       },
       {
         "date": "2018-09-15",
         "price": 177.5,
         "pe": 17.7,
-        "pe_10": 214.04,
-        "pe_25": 247.4,
-        "pe_50": 286.41,
-        "pe_75": 418.83,
-        "pe_90": 581.86
+        "pe_10": 210.19,
+        "pe_25": 247.1,
+        "pe_50": 285.6,
+        "pe_75": 428.51,
+        "pe_90": 587.56
       },
       {
         "date": "2018-10-16",
         "price": 186.5,
         "pe": 18.4,
-        "pe_10": 216.34,
-        "pe_25": 250.05,
-        "pe_50": 289.48,
-        "pe_75": 423.32,
-        "pe_90": 588.1
+        "pe_10": 212.45,
+        "pe_25": 249.75,
+        "pe_50": 288.67,
+        "pe_75": 433.11,
+        "pe_90": 593.86
       },
       {
         "date": "2018-11-15",
         "price": 197.0,
         "pe": 19.23,
-        "pe_10": 218.66,
-        "pe_25": 252.73,
-        "pe_50": 292.58,
-        "pe_75": 427.86,
-        "pe_90": 594.4
+        "pe_10": 214.72,
+        "pe_25": 252.42,
+        "pe_50": 291.76,
+        "pe_75": 437.74,
+        "pe_90": 600.22
       },
       {
         "date": "2018-12-16",
         "price": 188.0,
         "pe": 18.16,
-        "pe_10": 220.96,
-        "pe_25": 255.39,
-        "pe_50": 295.67,
-        "pe_75": 432.37,
-        "pe_90": 600.67
+        "pe_10": 216.99,
+        "pe_25": 255.08,
+        "pe_50": 294.84,
+        "pe_75": 442.36,
+        "pe_90": 606.55
       },
       {
         "date": "2019-01-16",
         "price": 226.5,
-        "pe": 21.95,
-        "pe_10": 220.25,
-        "pe_25": 254.57,
-        "pe_50": 294.71,
-        "pe_75": 430.97,
-        "pe_90": 598.72
+        "pe": 21.44,
+        "pe_10": 221.43,
+        "pe_25": 260.31,
+        "pe_50": 300.87,
+        "pe_75": 451.42,
+        "pe_90": 618.97
       },
       {
         "date": "2019-02-14",
         "price": 246.0,
-        "pe": 23.92,
-        "pe_10": 219.51,
-        "pe_25": 253.71,
-        "pe_50": 293.72,
-        "pe_75": 429.52,
-        "pe_90": 596.71
+        "pe": 22.83,
+        "pe_10": 225.85,
+        "pe_25": 265.5,
+        "pe_50": 306.88,
+        "pe_75": 460.43,
+        "pe_90": 631.32
       },
       {
         "date": "2019-03-16",
         "price": 254.5,
-        "pe": 24.83,
-        "pe_10": 218.77,
-        "pe_25": 252.86,
-        "pe_50": 292.73,
-        "pe_75": 428.08,
-        "pe_90": 594.71
+        "pe": 23.16,
+        "pe_10": 230.32,
+        "pe_25": 270.76,
+        "pe_50": 312.96,
+        "pe_75": 469.55,
+        "pe_90": 643.83
       },
       {
         "date": "2019-04-15",
         "price": 275.5,
-        "pe": 26.97,
-        "pe_10": 218.03,
-        "pe_25": 252.01,
-        "pe_50": 291.74,
-        "pe_75": 426.63,
-        "pe_90": 592.7
+        "pe": 25.69,
+        "pe_10": 224.78,
+        "pe_25": 264.24,
+        "pe_50": 305.42,
+        "pe_75": 458.24,
+        "pe_90": 628.32
       },
       {
         "date": "2019-05-16",
         "price": 262.0,
-        "pe": 25.73,
-        "pe_10": 217.34,
-        "pe_25": 251.21,
-        "pe_50": 290.82,
-        "pe_75": 425.28,
-        "pe_90": 590.82
+        "pe": 25.06,
+        "pe_10": 219.13,
+        "pe_25": 257.61,
+        "pe_50": 297.76,
+        "pe_75": 446.74,
+        "pe_90": 612.55
       },
       {
         "date": "2019-06-15",
         "price": 262.5,
-        "pe": 25.86,
-        "pe_10": 216.66,
-        "pe_25": 250.42,
-        "pe_50": 289.91,
-        "pe_75": 423.95,
-        "pe_90": 588.97
+        "pe": 25.76,
+        "pe_10": 213.59,
+        "pe_25": 251.09,
+        "pe_50": 290.22,
+        "pe_75": 435.43,
+        "pe_90": 597.04
       },
       {
         "date": "2019-07-16",
         "price": 262.0,
-        "pe": 25.9,
-        "pe_10": 215.91,
-        "pe_25": 249.56,
-        "pe_50": 288.91,
-        "pe_75": 422.49,
-        "pe_90": 586.94
+        "pe": 25.97,
+        "pe_10": 211.46,
+        "pe_25": 248.58,
+        "pe_50": 287.32,
+        "pe_75": 431.08,
+        "pe_90": 591.09
       },
       {
         "date": "2019-08-16",
         "price": 258.5,
-        "pe": 25.64,
-        "pe_10": 215.19,
-        "pe_25": 248.72,
-        "pe_50": 287.94,
-        "pe_75": 421.07,
-        "pe_90": 584.97
+        "pe": 25.89,
+        "pe_10": 209.28,
+        "pe_25": 246.02,
+        "pe_50": 284.36,
+        "pe_75": 426.64,
+        "pe_90": 584.99
       },
       {
         "date": "2019-09-15",
         "price": 261.5,
-        "pe": 26.02,
-        "pe_10": 214.51,
-        "pe_25": 247.93,
-        "pe_50": 287.03,
-        "pe_75": 419.74,
-        "pe_90": 583.12
+        "pe": 26.47,
+        "pe_10": 207.07,
+        "pe_25": 243.42,
+        "pe_50": 281.36,
+        "pe_75": 422.13,
+        "pe_90": 578.82
       },
       {
         "date": "2019-10-16",
         "price": 264.0,
-        "pe": 26.36,
-        "pe_10": 213.76,
-        "pe_25": 247.07,
-        "pe_50": 286.03,
-        "pe_75": 418.28,
-        "pe_90": 581.1
+        "pe": 26.66,
+        "pe_10": 207.56,
+        "pe_25": 244.0,
+        "pe_50": 282.02,
+        "pe_75": 423.13,
+        "pe_90": 580.19
       },
       {
         "date": "2019-11-15",
         "price": 280.0,
-        "pe": 28.05,
-        "pe_10": 213.06,
-        "pe_25": 246.26,
-        "pe_50": 285.09,
-        "pe_75": 416.91,
-        "pe_90": 579.19
+        "pe": 28.21,
+        "pe_10": 208.04,
+        "pe_25": 244.57,
+        "pe_50": 282.68,
+        "pe_75": 424.12,
+        "pe_90": 581.54
       },
       {
         "date": "2019-12-16",
         "price": 290.0,
         "pe": 29.15,
-        "pe_10": 212.34,
-        "pe_25": 245.43,
-        "pe_50": 284.13,
-        "pe_75": 415.5,
-        "pe_90": 577.23
+        "pe_10": 208.52,
+        "pe_25": 245.13,
+        "pe_50": 283.33,
+        "pe_75": 425.1,
+        "pe_90": 582.89
       },
       {
         "date": "2020-01-16",
         "price": 306.0,
-        "pe": 29.78,
-        "pe_10": 219.32,
-        "pe_25": 253.49,
-        "pe_50": 293.46,
-        "pe_75": 429.15,
-        "pe_90": 596.2
+        "pe": 30.41,
+        "pe_10": 210.91,
+        "pe_25": 247.94,
+        "pe_50": 286.58,
+        "pe_75": 429.97,
+        "pe_90": 589.56
       },
       {
         "date": "2020-02-15",
         "price": 353.5,
-        "pe": 33.34,
-        "pe_10": 226.31,
-        "pe_25": 261.57,
-        "pe_50": 302.82,
-        "pe_75": 442.83,
-        "pe_90": 615.2
+        "pe": 34.74,
+        "pe_10": 213.28,
+        "pe_25": 250.73,
+        "pe_50": 289.8,
+        "pe_75": 434.8,
+        "pe_90": 596.19
       },
       {
         "date": "2020-03-16",
         "price": 383.0,
-        "pe": 35.04,
-        "pe_10": 233.3,
-        "pe_25": 269.65,
-        "pe_50": 312.17,
-        "pe_75": 456.51,
-        "pe_90": 634.2
+        "pe": 37.22,
+        "pe_10": 215.68,
+        "pe_25": 253.55,
+        "pe_50": 293.06,
+        "pe_75": 439.7,
+        "pe_90": 602.9
       },
       {
         "date": "2020-04-15",
         "price": 480.5,
-        "pe": 42.69,
-        "pe_10": 240.24,
-        "pe_25": 277.67,
-        "pe_50": 321.46,
-        "pe_75": 470.09,
-        "pe_90": 653.07
+        "pe": 45.06,
+        "pe_10": 223.51,
+        "pe_25": 262.75,
+        "pe_50": 303.7,
+        "pe_75": 455.65,
+        "pe_90": 624.78
       },
       {
         "date": "2020-05-16",
         "price": 570.0,
-        "pe": 49.21,
-        "pe_10": 247.23,
-        "pe_25": 285.75,
-        "pe_50": 330.81,
-        "pe_75": 483.76,
-        "pe_90": 672.07
+        "pe": 51.65,
+        "pe_10": 231.31,
+        "pe_25": 271.92,
+        "pe_50": 314.3,
+        "pe_75": 471.56,
+        "pe_90": 646.59
       },
       {
         "date": "2020-06-15",
         "price": 716.0,
-        "pe": 60.12,
-        "pe_10": 254.2,
-        "pe_25": 293.81,
-        "pe_50": 340.14,
-        "pe_75": 497.4,
-        "pe_90": 691.01
+        "pe": 62.75,
+        "pe_10": 239.16,
+        "pe_25": 281.15,
+        "pe_50": 324.97,
+        "pe_75": 487.56,
+        "pe_90": 668.53
       },
       {
         "date": "2020-07-16",
         "price": 650.0,
-        "pe": 53.12,
-        "pe_10": 261.17,
-        "pe_25": 301.87,
-        "pe_50": 349.47,
-        "pe_75": 511.06,
-        "pe_90": 709.98
+        "pe": 55.21,
+        "pe_10": 246.77,
+        "pe_25": 290.09,
+        "pe_50": 335.3,
+        "pe_75": 503.07,
+        "pe_90": 689.79
       },
       {
         "date": "2020-08-16",
         "price": 729.0,
-        "pe": 58.03,
-        "pe_10": 268.13,
-        "pe_25": 309.92,
-        "pe_50": 358.78,
-        "pe_75": 524.67,
-        "pe_90": 728.9
+        "pe": 60.07,
+        "pe_10": 254.37,
+        "pe_25": 299.03,
+        "pe_50": 345.63,
+        "pe_75": 518.56,
+        "pe_90": 711.04
       },
       {
         "date": "2020-09-15",
         "price": 703.0,
-        "pe": 54.54,
-        "pe_10": 275.12,
-        "pe_25": 317.99,
-        "pe_50": 368.13,
-        "pe_75": 538.34,
-        "pe_90": 747.88
+        "pe": 56.24,
+        "pe_10": 262.0,
+        "pe_25": 308.0,
+        "pe_50": 356.0,
+        "pe_75": 534.12,
+        "pe_90": 732.38
       },
       {
         "date": "2020-10-16",
         "price": 684.0,
-        "pe": 51.75,
-        "pe_10": 282.11,
-        "pe_25": 326.07,
-        "pe_50": 377.49,
-        "pe_75": 552.02,
-        "pe_90": 766.9
+        "pe": 52.79,
+        "pe_10": 271.58,
+        "pe_25": 319.26,
+        "pe_50": 369.02,
+        "pe_75": 553.65,
+        "pe_90": 759.15
       },
       {
         "date": "2020-11-15",
         "price": 620.0,
-        "pe": 45.78,
-        "pe_10": 289.06,
-        "pe_25": 334.11,
-        "pe_50": 386.79,
-        "pe_75": 565.62,
-        "pe_90": 785.79
+        "pe": 46.22,
+        "pe_10": 281.16,
+        "pe_25": 330.52,
+        "pe_50": 382.03,
+        "pe_75": 573.18,
+        "pe_90": 785.93
       },
       {
         "date": "2020-12-16",
         "price": 637.0,
         "pe": 45.93,
-        "pe_10": 296.02,
-        "pe_25": 342.15,
-        "pe_50": 396.1,
-        "pe_75": 579.24,
-        "pe_90": 804.7
+        "pe_10": 290.69,
+        "pe_25": 341.73,
+        "pe_50": 394.99,
+        "pe_75": 592.62,
+        "pe_90": 812.58
       },
       {
         "date": "2021-01-16",
         "price": 788.0,
-        "pe": 55.43,
-        "pe_10": 303.43,
-        "pe_25": 350.71,
-        "pe_50": 406.01,
-        "pe_75": 593.74,
-        "pe_90": 824.85
+        "pe": 53.7,
+        "pe_10": 307.57,
+        "pe_25": 361.57,
+        "pe_50": 417.92,
+        "pe_75": 627.02,
+        "pe_90": 859.76
       },
       {
         "date": "2021-02-14",
         "price": 967.0,
-        "pe": 66.41,
-        "pe_10": 310.79,
-        "pe_25": 359.22,
-        "pe_50": 415.86,
-        "pe_75": 608.14,
-        "pe_90": 844.86
+        "pe": 62.48,
+        "pe_10": 324.4,
+        "pe_25": 381.35,
+        "pe_50": 440.78,
+        "pe_75": 661.33,
+        "pe_90": 906.79
       },
       {
         "date": "2021-03-16",
         "price": 990.0,
-        "pe": 66.41,
-        "pe_10": 318.18,
-        "pe_25": 367.77,
-        "pe_50": 425.76,
-        "pe_75": 622.61,
-        "pe_90": 864.96
+        "pe": 60.81,
+        "pe_10": 341.23,
+        "pe_25": 401.14,
+        "pe_50": 463.66,
+        "pe_75": 695.65,
+        "pe_90": 953.86
       },
       {
         "date": "2021-04-15",
         "price": 1030.0,
-        "pe": 67.53,
-        "pe_10": 325.55,
-        "pe_25": 376.28,
-        "pe_50": 435.61,
-        "pe_75": 637.02,
-        "pe_90": 884.98
+        "pe": 65.22,
+        "pe_10": 331.02,
+        "pe_25": 389.13,
+        "pe_50": 449.78,
+        "pe_75": 674.82,
+        "pe_90": 925.29
       },
       {
         "date": "2021-05-16",
         "price": 1240.0,
-        "pe": 79.49,
-        "pe_10": 332.95,
-        "pe_25": 384.84,
-        "pe_50": 445.52,
-        "pe_75": 651.51,
-        "pe_90": 905.11
+        "pe": 81.01,
+        "pe_10": 320.83,
+        "pe_25": 377.16,
+        "pe_50": 435.94,
+        "pe_75": 654.06,
+        "pe_90": 896.82
       },
       {
         "date": "2021-06-15",
         "price": 1885.0,
-        "pe": 118.2,
-        "pe_10": 340.38,
-        "pe_25": 393.43,
-        "pe_50": 455.46,
-        "pe_75": 666.05,
-        "pe_90": 925.31
+        "pe": 127.2,
+        "pe_10": 310.61,
+        "pe_25": 365.14,
+        "pe_50": 422.05,
+        "pe_75": 633.22,
+        "pe_90": 868.26
       },
       {
         "date": "2021-07-16",
         "price": 1560.0,
-        "pe": 95.76,
-        "pe_10": 347.71,
-        "pe_25": 401.89,
-        "pe_50": 465.26,
-        "pe_75": 680.38,
-        "pe_90": 945.22
+        "pe": 101.8,
+        "pe_10": 321.19,
+        "pe_25": 377.59,
+        "pe_50": 436.43,
+        "pe_75": 654.8,
+        "pe_90": 897.84
       },
       {
         "date": "2021-08-16",
         "price": 1715.0,
-        "pe": 103.1,
-        "pe_10": 355.04,
-        "pe_25": 410.37,
-        "pe_50": 475.08,
-        "pe_75": 694.73,
-        "pe_90": 965.16
+        "pe": 108.3,
+        "pe_10": 331.92,
+        "pe_25": 390.19,
+        "pe_50": 451.0,
+        "pe_75": 676.66,
+        "pe_90": 927.81
       },
       {
         "date": "2021-09-15",
         "price": 1620.0,
-        "pe": 95.39,
-        "pe_10": 362.48,
-        "pe_25": 418.97,
-        "pe_50": 485.03,
-        "pe_75": 709.29,
-        "pe_90": 985.38
+        "pe": 99.14,
+        "pe_10": 342.5,
+        "pe_25": 402.63,
+        "pe_50": 465.38,
+        "pe_75": 698.23,
+        "pe_90": 957.39
       },
       {
         "date": "2021-10-16",
         "price": 1790.0,
-        "pe": 103.3,
-        "pe_10": 369.85,
-        "pe_25": 427.49,
-        "pe_50": 494.89,
-        "pe_75": 723.71,
-        "pe_90": 1005.42
+        "pe": 105.9,
+        "pe_10": 354.28,
+        "pe_25": 416.48,
+        "pe_50": 481.39,
+        "pe_75": 722.25,
+        "pe_90": 990.33
       },
       {
         "date": "2021-11-15",
         "price": 1780.0,
-        "pe": 100.7,
-        "pe_10": 377.28,
-        "pe_25": 436.07,
-        "pe_50": 504.83,
-        "pe_75": 738.25,
-        "pe_90": 1025.61
+        "pe": 101.9,
+        "pe_10": 366.13,
+        "pe_25": 430.41,
+        "pe_50": 497.49,
+        "pe_75": 746.41,
+        "pe_90": 1023.46
       },
       {
         "date": "2021-12-16",
         "price": 1625.0,
         "pe": 90.18,
-        "pe_10": 384.61,
-        "pe_25": 444.54,
-        "pe_50": 514.64,
-        "pe_75": 752.59,
-        "pe_90": 1045.53
+        "pe_10": 377.69,
+        "pe_25": 444.0,
+        "pe_50": 513.2,
+        "pe_75": 769.97,
+        "pe_90": 1055.76
       },
       {
         "date": "2022-01-16",
         "price": 1115.0,
-        "pe": 62.54,
-        "pe_10": 380.53,
-        "pe_25": 439.83,
-        "pe_50": 509.18,
-        "pe_75": 744.61,
-        "pe_90": 1034.45
+        "pe": 61.61,
+        "pe_10": 379.33,
+        "pe_25": 445.93,
+        "pe_50": 515.42,
+        "pe_75": 773.32,
+        "pe_90": 1060.34
       },
       {
         "date": "2022-02-14",
         "price": 983.0,
-        "pe": 55.74,
-        "pe_10": 376.41,
-        "pe_25": 435.07,
-        "pe_50": 503.67,
-        "pe_75": 736.54,
-        "pe_90": 1023.24
+        "pe": 54.09,
+        "pe_10": 380.91,
+        "pe_25": 447.79,
+        "pe_50": 517.58,
+        "pe_75": 776.55,
+        "pe_90": 1064.78
       },
       {
         "date": "2022-03-16",
         "price": 941.0,
-        "pe": 53.94,
-        "pe_10": 372.35,
-        "pe_25": 430.38,
-        "pe_50": 498.24,
-        "pe_75": 728.6,
-        "pe_90": 1012.21
+        "pe": 51.56,
+        "pe_10": 382.53,
+        "pe_25": 449.69,
+        "pe_50": 519.78,
+        "pe_75": 779.85,
+        "pe_90": 1069.3
       },
       {
         "date": "2022-04-15",
         "price": 791.0,
-        "pe": 45.85,
-        "pe_10": 368.22,
-        "pe_25": 425.6,
-        "pe_50": 492.71,
-        "pe_75": 720.53,
-        "pe_90": 1000.99
+        "pe": 46.1,
+        "pe_10": 359.64,
+        "pe_25": 422.78,
+        "pe_50": 488.67,
+        "pe_75": 733.18,
+        "pe_90": 1005.31
       },
       {
         "date": "2022-05-16",
         "price": 835.0,
-        "pe": 48.94,
-        "pe_10": 364.17,
-        "pe_25": 420.91,
-        "pe_50": 487.28,
-        "pe_75": 712.58,
-        "pe_90": 989.95
+        "pe": 51.96,
+        "pe_10": 336.83,
+        "pe_25": 395.97,
+        "pe_50": 457.68,
+        "pe_75": 686.67,
+        "pe_90": 941.54
       },
       {
         "date": "2022-06-15",
         "price": 638.0,
-        "pe": 37.82,
-        "pe_10": 360.06,
-        "pe_25": 416.17,
-        "pe_50": 481.79,
-        "pe_75": 704.55,
-        "pe_90": 978.8
+        "pe": 42.59,
+        "pe_10": 313.98,
+        "pe_25": 369.11,
+        "pe_50": 426.63,
+        "pe_75": 640.1,
+        "pe_90": 877.68
       },
       {
         "date": "2022-07-16",
         "price": 817.0,
-        "pe": 48.99,
-        "pe_10": 355.95,
-        "pe_25": 411.42,
-        "pe_50": 476.29,
-        "pe_75": 696.51,
-        "pe_90": 967.63
+        "pe": 54.21,
+        "pe_10": 315.89,
+        "pe_25": 371.35,
+        "pe_50": 429.22,
+        "pe_75": 643.98,
+        "pe_90": 883.01
       },
       {
         "date": "2022-08-16",
         "price": 730.0,
-        "pe": 44.28,
-        "pe_10": 351.88,
-        "pe_25": 406.71,
-        "pe_50": 470.84,
-        "pe_75": 688.54,
-        "pe_90": 956.55
+        "pe": 48.15,
+        "pe_10": 317.77,
+        "pe_25": 373.57,
+        "pe_50": 431.78,
+        "pe_75": 647.83,
+        "pe_90": 888.28
       },
       {
         "date": "2022-09-15",
         "price": 534.0,
-        "pe": 32.77,
-        "pe_10": 347.81,
-        "pe_25": 402.01,
-        "pe_50": 465.4,
-        "pe_75": 680.58,
-        "pe_90": 945.49
+        "pe": 35.02,
+        "pe_10": 319.61,
+        "pe_25": 375.72,
+        "pe_50": 434.28,
+        "pe_75": 651.57,
+        "pe_90": 893.41
       },
       {
         "date": "2022-10-16",
         "price": 482.5,
-        "pe": 29.96,
-        "pe_10": 343.74,
-        "pe_25": 397.31,
-        "pe_50": 459.95,
-        "pe_75": 672.62,
-        "pe_90": 934.43
+        "pe": 31.32,
+        "pe_10": 322.9,
+        "pe_25": 379.59,
+        "pe_50": 438.75,
+        "pe_75": 658.28,
+        "pe_90": 902.61
       },
       {
         "date": "2022-11-15",
         "price": 600.0,
-        "pe": 37.71,
-        "pe_10": 339.6,
-        "pe_25": 392.52,
-        "pe_50": 454.42,
-        "pe_75": 664.52,
-        "pe_90": 923.18
+        "pe": 38.55,
+        "pe_10": 326.23,
+        "pe_25": 383.5,
+        "pe_50": 443.27,
+        "pe_75": 665.06,
+        "pe_90": 911.91
       },
       {
         "date": "2022-12-16",
         "price": 642.0,
         "pe": 40.84,
-        "pe_10": 335.53,
-        "pe_25": 387.81,
-        "pe_50": 448.96,
-        "pe_75": 656.54,
-        "pe_90": 912.1
+        "pe_10": 329.49,
+        "pe_25": 387.34,
+        "pe_50": 447.7,
+        "pe_75": 671.71,
+        "pe_90": 921.03
       },
       {
         "date": "2023-01-16",
         "price": 793.0,
-        "pe": 50.61,
-        "pe_10": 334.44,
-        "pe_25": 386.55,
-        "pe_50": 447.5,
-        "pe_75": 654.41,
-        "pe_90": 909.14
+        "pe": 50.13,
+        "pe_10": 331.56,
+        "pe_25": 389.78,
+        "pe_50": 450.52,
+        "pe_75": 675.94,
+        "pe_90": 926.83
       },
       {
         "date": "2023-02-14",
         "price": 794.0,
-        "pe": 50.84,
-        "pe_10": 333.34,
-        "pe_25": 385.29,
-        "pe_50": 446.04,
-        "pe_75": 652.27,
-        "pe_90": 906.17
+        "pe": 49.87,
+        "pe_10": 333.71,
+        "pe_25": 392.3,
+        "pe_50": 453.44,
+        "pe_75": 680.32,
+        "pe_90": 932.83
       },
       {
         "date": "2023-03-16",
         "price": 903.0,
-        "pe": 58.01,
-        "pe_10": 332.25,
-        "pe_25": 384.02,
-        "pe_50": 444.57,
-        "pe_75": 650.13,
-        "pe_90": 903.19
+        "pe": 56.37,
+        "pe_10": 335.76,
+        "pe_25": 394.71,
+        "pe_50": 456.23,
+        "pe_75": 684.5,
+        "pe_90": 938.56
       },
       {
         "date": "2023-04-15",
         "price": 829.0,
-        "pe": 53.44,
-        "pe_10": 331.1,
-        "pe_25": 382.7,
-        "pe_50": 443.04,
-        "pe_75": 647.89,
-        "pe_90": 900.08
+        "pe": 51.72,
+        "pe_10": 335.96,
+        "pe_25": 394.95,
+        "pe_50": 456.49,
+        "pe_75": 684.9,
+        "pe_90": 939.12
       },
       {
         "date": "2023-05-16",
         "price": 699.0,
-        "pe": 45.21,
-        "pe_10": 330.0,
-        "pe_25": 381.43,
-        "pe_50": 441.57,
-        "pe_75": 645.74,
-        "pe_90": 897.09
+        "pe": 43.58,
+        "pe_10": 336.19,
+        "pe_25": 395.21,
+        "pe_50": 456.8,
+        "pe_75": 685.37,
+        "pe_90": 939.75
       },
       {
         "date": "2023-06-15",
         "price": 688.0,
-        "pe": 44.65,
-        "pe_10": 328.88,
-        "pe_25": 380.13,
-        "pe_50": 440.07,
-        "pe_75": 643.55,
-        "pe_90": 894.05
+        "pe": 42.87,
+        "pe_10": 336.38,
+        "pe_25": 395.44,
+        "pe_50": 457.06,
+        "pe_75": 685.75,
+        "pe_90": 940.28
       },
       {
         "date": "2023-07-16",
         "price": 599.0,
-        "pe": 39.0,
-        "pe_10": 327.82,
-        "pe_25": 378.91,
-        "pe_50": 438.65,
-        "pe_75": 641.47,
-        "pe_90": 891.16
+        "pe": 38.51,
+        "pe_10": 326.02,
+        "pe_25": 383.26,
+        "pe_50": 442.99,
+        "pe_75": 664.64,
+        "pe_90": 911.33
       },
       {
         "date": "2023-08-16",
         "price": 520.0,
-        "pe": 33.97,
-        "pe_10": 326.73,
-        "pe_25": 377.64,
-        "pe_50": 437.19,
-        "pe_75": 639.32,
-        "pe_90": 888.18
+        "pe": 34.54,
+        "pe_10": 315.55,
+        "pe_25": 370.96,
+        "pe_50": 428.77,
+        "pe_75": 643.3,
+        "pe_90": 882.07
       },
       {
         "date": "2023-09-15",
         "price": 502.0,
-        "pe": 32.91,
-        "pe_10": 325.58,
-        "pe_25": 376.31,
-        "pe_50": 435.65,
-        "pe_75": 637.07,
-        "pe_90": 885.05
+        "pe": 34.48,
+        "pe_10": 305.16,
+        "pe_25": 358.74,
+        "pe_50": 414.65,
+        "pe_75": 622.11,
+        "pe_90": 853.02
       },
       {
         "date": "2023-10-16",
         "price": 533.0,
-        "pe": 35.06,
-        "pe_10": 324.48,
-        "pe_25": 375.05,
-        "pe_50": 434.18,
-        "pe_75": 634.93,
-        "pe_90": 882.08
+        "pe": 36.16,
+        "pe_10": 308.95,
+        "pe_25": 363.19,
+        "pe_50": 419.8,
+        "pe_75": 629.84,
+        "pe_90": 863.62
       },
       {
         "date": "2023-11-15",
         "price": 518.0,
-        "pe": 34.19,
-        "pe_10": 323.38,
-        "pe_25": 373.77,
-        "pe_50": 432.7,
-        "pe_75": 632.77,
-        "pe_90": 879.07
+        "pe": 34.72,
+        "pe_10": 312.71,
+        "pe_25": 367.61,
+        "pe_50": 424.9,
+        "pe_75": 637.5,
+        "pe_90": 874.13
       },
       {
         "date": "2023-12-16",
         "price": 509.0,
         "pe": 33.71,
-        "pe_10": 322.28,
-        "pe_25": 372.5,
-        "pe_50": 431.24,
-        "pe_75": 630.63,
-        "pe_90": 876.1
+        "pe_10": 316.48,
+        "pe_25": 372.05,
+        "pe_50": 430.03,
+        "pe_75": 645.2,
+        "pe_90": 884.67
       },
       {
         "date": "2024-01-16",
         "price": 436.0,
-        "pe": 29.1,
-        "pe_10": 319.79,
-        "pe_25": 369.63,
-        "pe_50": 427.91,
-        "pe_75": 625.76,
-        "pe_90": 869.33
+        "pe": 28.83,
+        "pe_10": 316.98,
+        "pe_25": 372.63,
+        "pe_50": 430.71,
+        "pe_75": 646.21,
+        "pe_90": 886.06
       },
       {
         "date": "2024-02-15",
         "price": 444.5,
-        "pe": 29.9,
-        "pe_10": 317.3,
-        "pe_25": 366.75,
-        "pe_50": 424.58,
-        "pe_75": 620.89,
-        "pe_90": 862.57
+        "pe": 29.35,
+        "pe_10": 317.44,
+        "pe_25": 373.17,
+        "pe_50": 431.32,
+        "pe_75": 647.14,
+        "pe_90": 887.33
       },
       {
         "date": "2024-03-16",
         "price": 387.0,
-        "pe": 26.24,
-        "pe_10": 314.79,
-        "pe_25": 363.84,
-        "pe_50": 421.22,
-        "pe_75": 615.97,
-        "pe_90": 855.74
+        "pe": 25.51,
+        "pe_10": 317.97,
+        "pe_25": 373.8,
+        "pe_50": 432.06,
+        "pe_75": 648.24,
+        "pe_90": 888.84
       },
       {
         "date": "2024-04-15",
         "price": 442.0,
-        "pe": 30.21,
-        "pe_10": 312.28,
-        "pe_25": 360.94,
-        "pe_50": 417.86,
-        "pe_75": 611.06,
-        "pe_90": 848.92
+        "pe": 29.33,
+        "pe_10": 315.86,
+        "pe_25": 371.32,
+        "pe_50": 429.19,
+        "pe_75": 643.94,
+        "pe_90": 882.95
       },
       {
         "date": "2024-05-16",
         "price": 439.0,
-        "pe": 30.25,
-        "pe_10": 309.75,
-        "pe_25": 358.02,
-        "pe_50": 414.47,
-        "pe_75": 606.11,
-        "pe_90": 842.04
+        "pe": 29.33,
+        "pe_10": 313.72,
+        "pe_25": 368.8,
+        "pe_50": 426.28,
+        "pe_75": 639.57,
+        "pe_90": 876.95
       },
       {
         "date": "2024-06-15",
         "price": 429.5,
-        "pe": 29.84,
-        "pe_10": 307.21,
-        "pe_25": 355.09,
-        "pe_50": 411.08,
-        "pe_75": 601.14,
-        "pe_90": 835.14
+        "pe": 28.88,
+        "pe_10": 311.71,
+        "pe_25": 366.44,
+        "pe_50": 423.55,
+        "pe_75": 635.48,
+        "pe_90": 871.34
       },
       {
         "date": "2024-07-16",
         "price": 418.0,
-        "pe": 29.28,
-        "pe_10": 304.71,
-        "pe_25": 352.19,
-        "pe_50": 407.72,
-        "pe_75": 596.24,
-        "pe_90": 828.32
+        "pe": 28.77,
+        "pe_10": 304.53,
+        "pe_25": 358.0,
+        "pe_50": 413.79,
+        "pe_75": 620.83,
+        "pe_90": 851.26
       },
       {
         "date": "2024-08-16",
         "price": 390.0,
-        "pe": 27.54,
-        "pe_10": 302.26,
-        "pe_25": 349.36,
-        "pe_50": 404.44,
-        "pe_75": 591.44,
-        "pe_90": 821.66
+        "pe": 27.5,
+        "pe_10": 297.25,
+        "pe_25": 349.44,
+        "pe_50": 403.9,
+        "pe_75": 605.99,
+        "pe_90": 830.91
       },
       {
         "date": "2024-09-15",
         "price": 394.0,
-        "pe": 28.06,
-        "pe_10": 299.7,
-        "pe_25": 346.4,
-        "pe_50": 401.02,
-        "pe_75": 586.44,
-        "pe_90": 814.71
+        "pe": 28.47,
+        "pe_10": 290.07,
+        "pe_25": 341.0,
+        "pe_50": 394.14,
+        "pe_75": 591.35,
+        "pe_90": 810.83
       },
       {
         "date": "2024-10-16",
         "price": 375.5,
-        "pe": 26.97,
-        "pe_10": 297.17,
-        "pe_25": 343.48,
-        "pe_50": 397.64,
-        "pe_75": 581.49,
-        "pe_90": 807.83
+        "pe": 27.23,
+        "pe_10": 289.04,
+        "pe_25": 339.78,
+        "pe_50": 392.74,
+        "pe_75": 589.24,
+        "pe_90": 807.95
       },
       {
         "date": "2024-11-15",
         "price": 363.5,
-        "pe": 26.33,
-        "pe_10": 294.67,
-        "pe_25": 340.58,
-        "pe_50": 394.29,
-        "pe_75": 576.59,
-        "pe_90": 801.03
+        "pe": 26.46,
+        "pe_10": 287.94,
+        "pe_25": 338.5,
+        "pe_50": 391.25,
+        "pe_75": 587.01,
+        "pe_90": 804.89
       },
       {
         "date": "2024-12-16",
         "price": 333.5,
         "pe": 24.36,
-        "pe_10": 292.21,
-        "pe_25": 337.74,
-        "pe_50": 391.0,
-        "pe_75": 571.78,
-        "pe_90": 794.35
+        "pe_10": 286.95,
+        "pe_25": 337.33,
+        "pe_50": 389.9,
+        "pe_75": 584.99,
+        "pe_90": 802.13
       },
       {
         "date": "2025-01-16",
         "price": 352.5,
-        "pe": 26.02,
-        "pe_10": 289.15,
-        "pe_25": 334.21,
-        "pe_50": 386.91,
-        "pe_75": 565.8,
-        "pe_90": 786.04
+        "pe": 25.86,
+        "pe_10": 285.71,
+        "pe_25": 335.87,
+        "pe_50": 388.21,
+        "pe_75": 582.46,
+        "pe_90": 798.65
       },
       {
         "date": "2025-02-14",
         "price": 386.5,
-        "pe": 28.83,
-        "pe_10": 286.14,
-        "pe_25": 330.73,
-        "pe_50": 382.88,
-        "pe_75": 559.91,
-        "pe_90": 777.85
+        "pe": 28.48,
+        "pe_10": 284.45,
+        "pe_25": 334.39,
+        "pe_50": 386.5,
+        "pe_75": 579.89,
+        "pe_90": 795.12
       },
       {
         "date": "2025-03-16",
         "price": 347.5,
-        "pe": 26.19,
-        "pe_10": 283.2,
-        "pe_25": 327.33,
-        "pe_50": 378.95,
-        "pe_75": 554.16,
-        "pe_90": 769.86
+        "pe": 25.72,
+        "pe_10": 283.19,
+        "pe_25": 332.91,
+        "pe_50": 384.79,
+        "pe_75": 577.32,
+        "pe_90": 791.6
       },
       {
         "date": "2025-04-15",
         "price": 323.0,
-        "pe": 24.61,
-        "pe_10": 280.13,
-        "pe_25": 323.79,
-        "pe_50": 374.84,
-        "pe_75": 548.16,
-        "pe_90": 761.52
+        "pe": 24.19,
+        "pe_10": 279.87,
+        "pe_25": 329.01,
+        "pe_50": 380.28,
+        "pe_75": 570.56,
+        "pe_90": 782.33
       },
       {
         "date": "2025-05-16",
         "price": 305.0,
-        "pe": 23.49,
-        "pe_10": 277.14,
-        "pe_25": 320.32,
-        "pe_50": 370.83,
-        "pe_75": 542.29,
-        "pe_90": 753.37
+        "pe": 23.12,
+        "pe_10": 276.51,
+        "pe_25": 325.05,
+        "pe_50": 375.71,
+        "pe_75": 563.7,
+        "pe_90": 772.92
       },
       {
         "date": "2025-06-15",
         "price": 269.0,
-        "pe": 20.94,
-        "pe_10": 274.19,
-        "pe_25": 316.92,
-        "pe_50": 366.89,
-        "pe_75": 536.52,
-        "pe_90": 745.36
+        "pe": 20.64,
+        "pe_10": 273.17,
+        "pe_25": 321.13,
+        "pe_50": 371.18,
+        "pe_75": 556.9,
+        "pe_90": 763.6
       },
       {
         "date": "2025-07-16",
         "price": 283.0,
-        "pe": 22.28,
-        "pe_10": 271.11,
-        "pe_25": 313.36,
-        "pe_50": 362.77,
-        "pe_75": 530.5,
-        "pe_90": 736.99
+        "pe": 22.31,
+        "pe_10": 265.88,
+        "pe_25": 312.56,
+        "pe_50": 361.27,
+        "pe_75": 542.03,
+        "pe_90": 743.21
       },
       {
         "date": "2025-08-16",
         "price": 253.0,
-        "pe": 20.14,
-        "pe_10": 268.12,
-        "pe_25": 309.91,
-        "pe_50": 358.77,
-        "pe_75": 524.65,
-        "pe_90": 728.88
+        "pe": 20.5,
+        "pe_10": 258.68,
+        "pe_25": 304.09,
+        "pe_50": 351.48,
+        "pe_75": 527.35,
+        "pe_90": 723.09
       },
       {
         "date": "2025-09-15",
         "price": 241.5,
-        "pe": 19.44,
-        "pe_10": 265.15,
-        "pe_25": 306.47,
-        "pe_50": 354.8,
-        "pe_75": 518.84,
-        "pe_90": 720.8
+        "pe": 20.12,
+        "pe_10": 251.58,
+        "pe_25": 295.75,
+        "pe_50": 341.84,
+        "pe_75": 512.89,
+        "pe_90": 703.25
       },
       {
         "date": "2025-10-16",
         "price": 233.5,
-        "pe": 19.01,
-        "pe_10": 262.17,
-        "pe_25": 303.02,
-        "pe_50": 350.8,
-        "pe_75": 513.0,
-        "pe_90": 712.68
+        "pe": 19.85,
+        "pe_10": 246.56,
+        "pe_25": 289.85,
+        "pe_50": 335.02,
+        "pe_75": 502.64,
+        "pe_90": 689.21
       },
       {
         "date": "2025-11-15",
         "price": 227.0,
-        "pe": 18.7,
-        "pe_10": 259.1,
-        "pe_25": 299.47,
-        "pe_50": 346.69,
-        "pe_75": 506.99,
-        "pe_90": 704.33
+        "pe": 19.69,
+        "pe_10": 241.64,
+        "pe_25": 284.07,
+        "pe_50": 328.34,
+        "pe_75": 492.62,
+        "pe_90": 675.47
       },
       {
         "date": "2025-12-16",
         "price": 207.5,
-        "pe": 17.29,
-        "pe_10": 256.15,
-        "pe_25": 296.07,
-        "pe_50": 342.75,
-        "pe_75": 501.23,
-        "pe_90": 696.33
+        "pe": 18.38,
+        "pe_10": 236.63,
+        "pe_25": 278.17,
+        "pe_50": 321.52,
+        "pe_75": 482.4,
+        "pe_90": 661.45
       },
       {
         "date": "2026-01-16",
         "price": 188.5,
-        "pe": 15.71,
-        "pe_10": 256.1,
-        "pe_25": 296.01,
-        "pe_50": 342.68,
-        "pe_75": 501.13,
-        "pe_90": 696.19
+        "pe": 16.7,
+        "pe_10": 236.58,
+        "pe_25": 278.12,
+        "pe_50": 321.47,
+        "pe_75": 482.31,
+        "pe_90": 661.33
       },
       {
         "date": "2026-02-14",
         "price": 192.5,
-        "pe": 16.04,
-        "pe_10": 256.15,
-        "pe_25": 296.07,
-        "pe_50": 342.76,
-        "pe_75": 501.23,
-        "pe_90": 696.34
+        "pe": 17.05,
+        "pe_10": 236.65,
+        "pe_25": 278.19,
+        "pe_50": 321.55,
+        "pe_75": 482.44,
+        "pe_90": 661.5
       }
     ]
   },
@@ -9538,19 +9538,19 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (21.3倍)",
+            "title": "PE 10% (21.0倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (28.6倍)",
+            "title": "PE 50% (28.5倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (58.0倍)",
+            "title": "PE 90% (58.6倍)",
             "format": ".1f"
           }
         ]
@@ -10226,6 +10226,10 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
       {
         "date": "2026-01-16",
         "revenue_yoy": 1.9
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": -2.06
       }
     ]
   },
@@ -10293,16 +10297,16 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 36.7 | +39.4% | 0.000 | 2022-10 (+618.9%) | 2021-12 (-89.1%) |
-| 6個月 | 37.1 | +25.6% | 0.006 | 2020-12 (+373.1%) | 2021-11 (-78.3%) |
-| 1年 | 37.7 | +17.8% | 0.058 | 2020-11 (+188.9%) | 2021-10 (-72.3%) |
-| 2年 | 38.8 | +16.1% | 0.270 | 2019-06 (+169.0%) | 2021-11 (-44.6%) |
-| 3年 | 38.7 | +15.7% | 0.469 | 2018-10 (+113.6%) | 2021-11 (-38.9%) |
-| 4年 | 38.0 | +16.6% | 0.662 | 2017-06 (+73.8%) | 2021-11 (-36.9%) |
-| 5年 | 30.3 | +19.5% | 0.598 | 2016-11 (+56.5%) | 2021-02 (-23.2%) |
-| 6年 | 26.1 | +19.5% | 0.005 | 2015-10 (+46.5%) | 2020-01 (-2.5%) |
-| 8年 | 27.3 | +10.3% | 0.053 | 2015-03 (+18.0%) | 2018-02 (-0.7%) |
-| 10年 | 30.4 | +4.5% | 0.588 | 2015-10 (+6.2%) | 2014-12 (+2.6%) |
+| 3個月 | 37.0 | +39.4% | 0.000 | 2022-10 (+618.9%) | 2021-12 (-89.1%) |
+| 6個月 | 37.4 | +25.6% | 0.006 | 2020-12 (+373.1%) | 2021-11 (-78.3%) |
+| 1年 | 38.0 | +17.8% | 0.052 | 2020-11 (+188.9%) | 2021-10 (-72.3%) |
+| 2年 | 39.2 | +16.1% | 0.263 | 2019-06 (+169.0%) | 2021-11 (-44.6%) |
+| 3年 | 39.2 | +15.7% | 0.454 | 2018-10 (+113.6%) | 2021-11 (-38.9%) |
+| 4年 | 38.4 | +16.6% | 0.636 | 2017-06 (+73.8%) | 2021-11 (-36.9%) |
+| 5年 | 30.4 | +19.5% | 0.605 | 2016-11 (+56.5%) | 2021-02 (-23.2%) |
+| 6年 | 26.1 | +19.5% | 0.001 | 2015-10 (+46.5%) | 2020-01 (-2.5%) |
+| 8年 | 27.2 | +10.3% | 0.020 | 2015-03 (+18.0%) | 2018-02 (-0.7%) |
+| 10年 | 30.0 | +4.5% | 0.560 | 2015-10 (+6.2%) | 2014-12 (+2.6%) |
 
 
 ## 🎯 使用說明
@@ -10321,4 +10325,4 @@ description: "8454 富邦媒 (數位雲端) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:36:57 CST*
+*數據更新時間: 2026-03-21 12:44:00 CST*

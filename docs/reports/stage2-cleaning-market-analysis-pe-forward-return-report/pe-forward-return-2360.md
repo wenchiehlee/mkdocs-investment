@@ -2,7 +2,7 @@
 title: "2360 致茂 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
     - **產業別**: 其他電子業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:29:52 CST
+    - **報告生成時間**: 2026-03-21 12:35:43 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.64,
         "forward_return": 35.02,
         "start_price": 32.3,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.99,
         "forward_return": -9.44,
         "start_price": 36.6,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.27,
         "forward_return": 26.96,
         "start_price": 34.0,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.82,
         "forward_return": 168.08,
         "start_price": 32.3,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 9.23,
+        "pe_ratio": 9.9,
         "forward_return": 39.67,
         "start_price": 33.6,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.72,
         "forward_return": 37.33,
         "start_price": 34.0,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 10.92,
         "forward_return": -14.46,
         "start_price": 39.3,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.04,
+        "pe_ratio": 10.12,
         "forward_return": 47.37,
         "start_price": 36.55,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 10.23,
         "forward_return": 137.59,
         "start_price": 37.1,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.64,
         "forward_return": 145.06,
         "start_price": 40.3,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 11.98,
+        "pe_ratio": 11.89,
         "forward_return": 80.87,
         "start_price": 46.75,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 12.22,
+        "pe_ratio": 12.08,
         "forward_return": 366.34,
         "start_price": 49.3,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 12.72,
         "forward_return": 514.02,
         "start_price": 54.1,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 15.99,
         "forward_return": 87.01,
         "start_price": 69.4,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.75,
         "forward_return": -13.64,
         "start_price": 80.0,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.76,
         "forward_return": -50.56,
         "start_price": 83.0,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 16.33,
+        "pe_ratio": 16.28,
         "forward_return": -52.09,
         "start_price": 78.8,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 15.52,
         "forward_return": -76.21,
         "start_price": 77.1,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.27,
         "forward_return": -21.18,
         "start_price": 77.8,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.37,
         "forward_return": 158.97,
         "start_price": 53.7,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.37,
         "forward_return": 80.84,
         "start_price": 63.5,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.11,
+        "pe_ratio": 14.13,
         "forward_return": -47.19,
         "start_price": 71.9,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 14.51,
         "forward_return": -57.74,
         "start_price": 72.0,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.22,
         "forward_return": -69.68,
         "start_price": 73.6,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 14.77,
+        "pe_ratio": 13.48,
         "forward_return": -81.09,
         "start_price": 63.5,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 13.14,
+        "pe_ratio": 11.89,
         "forward_return": -90.84,
         "start_price": 54.5,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.75,
+        "pe_ratio": 11.42,
         "forward_return": -93.19,
         "start_price": 50.9,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 8.81,
         "forward_return": -91.32,
         "start_price": 38.15,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.1,
+        "pe_ratio": 7.44,
         "forward_return": -87.58,
         "start_price": 29.85,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.25,
+        "pe_ratio": 5.98,
         "forward_return": 41.16,
         "start_price": 22.1,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.34,
+        "pe_ratio": 5.66,
         "forward_return": 790.31,
         "start_price": 17.65,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.08,
+        "pe_ratio": 8.03,
         "forward_return": 541.35,
         "start_price": 22.9,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 9.56,
         "forward_return": 850.7,
         "start_price": 24.75,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 13.62,
         "forward_return": 658.24,
         "start_price": 31.7,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 17.54,
         "forward_return": 173.98,
         "start_price": 36.2,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 18.89,
         "forward_return": 1187.27,
         "start_price": 34.0,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 29.36,
         "forward_return": 151.41,
         "start_price": 50.5,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 27.23,
         "forward_return": 330.37,
         "start_price": 44.65,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.05,
+        "pe_ratio": 40.19,
         "forward_return": 81.11,
         "start_price": 62.7,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.07,
+        "pe_ratio": 34.0,
         "forward_return": -4.29,
         "start_price": 63.7,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 30.55,
         "forward_return": 10.37,
         "start_price": 66.8,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 23.23,
+        "pe_ratio": 22.99,
         "forward_return": -4.75,
         "start_price": 63.0,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.31,
         "forward_return": -9.25,
         "start_price": 63.5,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 21.43,
         "forward_return": -11.26,
         "start_price": 69.0,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.24,
+        "pe_ratio": 19.08,
         "forward_return": -8.59,
         "start_price": 67.8,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.95,
         "forward_return": 119.76,
         "start_price": 62.0,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 16.45,
+        "pe_ratio": 14.72,
         "forward_return": 128.86,
         "start_price": 62.1,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 14.14,
         "forward_return": 124.19,
         "start_price": 64.3,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 15.1,
         "forward_return": 65.57,
         "start_price": 73.6,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 16.88,
+        "pe_ratio": 14.33,
         "forward_return": 87.23,
         "start_price": 74.5,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 15.3,
         "forward_return": 69.49,
         "start_price": 78.8,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.27,
         "forward_return": 82.95,
         "start_price": 77.9,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.64,
         "forward_return": 6.21,
         "start_price": 90.0,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.1,
         "forward_return": 17.63,
         "start_price": 88.2,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 19.78,
+        "pe_ratio": 18.23,
         "forward_return": -48.12,
         "start_price": 95.0,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 20.02,
+        "pe_ratio": 18.48,
         "forward_return": -57.63,
         "start_price": 94.5,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.8,
+        "pe_ratio": 18.3,
         "forward_return": -50.24,
         "start_price": 91.8,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 18.58,
         "forward_return": -70.86,
         "start_price": 91.4,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.21,
+        "pe_ratio": 15.31,
         "forward_return": -51.56,
         "start_price": 72.5,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 16.67,
+        "pe_ratio": 16.08,
         "forward_return": -46.5,
         "start_price": 73.2,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.67,
+        "pe_ratio": 14.46,
         "forward_return": -22.03,
         "start_price": 63.2,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.16,
         "forward_return": 57.3,
         "start_price": 60.4,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.37,
         "forward_return": 62.71,
         "start_price": 64.0,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 17.83,
         "forward_return": -2.65,
         "start_price": 67.7,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 19.08,
         "forward_return": -1.77,
         "start_price": 67.4,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 20.55,
+        "pe_ratio": 23.0,
         "forward_return": -21.02,
         "start_price": 75.2,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.9,
+        "pe_ratio": 21.67,
         "forward_return": 18.66,
         "start_price": 66.6,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.79,
+        "pe_ratio": 23.33,
         "forward_return": -11.32,
         "start_price": 67.1,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 25.26,
         "forward_return": -19.0,
         "start_price": 67.7,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 21.45,
+        "pe_ratio": 25.97,
         "forward_return": -52.31,
         "start_price": 67.0,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 25.24,
         "forward_return": 10.38,
         "start_price": 62.6,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 21.61,
+        "pe_ratio": 25.92,
         "forward_return": 20.99,
         "start_price": 61.7,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 23.12,
         "forward_return": 67.35,
         "start_price": 55.6,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 25.89,
+        "pe_ratio": 27.58,
         "forward_return": 20.84,
         "start_price": 67.0,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 25.15,
+        "pe_ratio": 24.96,
         "forward_return": -6.12,
         "start_price": 63.3,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 26.4,
+        "pe_ratio": 26.01,
         "forward_return": -31.67,
         "start_price": 68.1,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 26.41,
         "forward_return": -25.23,
         "start_price": 71.3,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 23.39,
+        "pe_ratio": 22.34,
         "forward_return": 9.18,
         "start_price": 63.3,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.39,
+        "pe_ratio": 20.9,
         "forward_return": 74.17,
         "start_price": 62.0,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.45,
         "forward_return": 224.46,
         "start_price": 51.0,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.66,
+        "pe_ratio": 20.47,
         "forward_return": -0.63,
         "start_price": 62.7,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 22.9,
         "forward_return": -26.6,
         "start_price": 69.3,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.05,
+        "pe_ratio": 22.27,
         "forward_return": -22.51,
         "start_price": 66.6,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.44,
         "forward_return": 16.11,
         "start_price": 62.6,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 19.07,
+        "pe_ratio": 19.13,
         "forward_return": 78.64,
         "start_price": 60.0,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.42,
         "forward_return": 53.96,
         "start_price": 65.0,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.26,
+        "pe_ratio": 23.0,
         "forward_return": 13.49,
         "start_price": 72.6,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.09,
+        "pe_ratio": 23.19,
         "forward_return": 46.63,
         "start_price": 72.6,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 23.46,
+        "pe_ratio": 25.62,
         "forward_return": 27.2,
         "start_price": 77.7,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.44,
+        "pe_ratio": 25.51,
         "forward_return": 111.94,
         "start_price": 74.9,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.86,
+        "pe_ratio": 29.44,
         "forward_return": 17.15,
         "start_price": 83.6,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 26.4,
         "forward_return": -19.7,
         "start_price": 80.0,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 25.78,
+        "pe_ratio": 27.33,
         "forward_return": -18.76,
         "start_price": 88.0,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.57,
+        "pe_ratio": 24.78,
         "forward_return": -10.92,
         "start_price": 84.5,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 21.85,
+        "pe_ratio": 21.97,
         "forward_return": 17.87,
         "start_price": 75.7,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 23.96,
+        "pe_ratio": 24.02,
         "forward_return": -19.97,
         "start_price": 83.6,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 22.74,
         "forward_return": -33.21,
         "start_price": 78.9,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.56,
         "forward_return": -46.73,
         "start_price": 80.7,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.99,
         "forward_return": -36.95,
         "start_price": 77.7,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 21.53,
+        "pe_ratio": 21.68,
         "forward_return": -34.46,
         "start_price": 74.0,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 20.22,
+        "pe_ratio": 20.05,
         "forward_return": -55.33,
         "start_price": 69.1,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 19.6,
         "forward_return": -44.1,
         "start_price": 68.2,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.95,
+        "pe_ratio": 18.41,
         "forward_return": -32.35,
         "start_price": 64.0,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.49,
         "forward_return": 67.38,
         "start_price": 53.8,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 16.86,
+        "pe_ratio": 16.22,
         "forward_return": 66.24,
         "start_price": 56.3,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 17.47,
+        "pe_ratio": 17.03,
         "forward_return": 60.1,
         "start_price": 58.0,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 17.49,
+        "pe_ratio": 17.26,
         "forward_return": 73.08,
         "start_price": 57.7,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 19.3,
+        "pe_ratio": 18.91,
         "forward_return": 72.32,
         "start_price": 65.3,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.44,
         "forward_return": 51.6,
         "start_price": 70.5,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 19.26,
+        "pe_ratio": 18.21,
         "forward_return": 71.57,
         "start_price": 69.2,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 19.37,
+        "pe_ratio": 18.58,
         "forward_return": 79.83,
         "start_price": 71.6,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.57,
+        "pe_ratio": 20.02,
         "forward_return": 35.21,
         "start_price": 78.2,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.39,
         "forward_return": 61.63,
         "start_price": 76.8,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.93,
         "forward_return": -1.96,
         "start_price": 80.5,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 19.94,
+        "pe_ratio": 19.9,
         "forward_return": -22.21,
         "start_price": 82.0,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 19.99,
+        "pe_ratio": 20.07,
         "forward_return": -36.1,
         "start_price": 84.3,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.58,
         "forward_return": 9.22,
         "start_price": 80.1,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 17.85,
+        "pe_ratio": 17.87,
         "forward_return": 58.47,
         "start_price": 79.0,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 18.25,
         "forward_return": 53.59,
         "start_price": 81.9,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 21.11,
         "forward_return": 2.18,
         "start_price": 93.8,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 20.89,
         "forward_return": 23.91,
         "start_price": 91.9,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 21.31,
         "forward_return": 19.68,
         "start_price": 94.4,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.75,
+        "pe_ratio": 21.14,
         "forward_return": 63.44,
         "start_price": 94.3,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.92,
+        "pe_ratio": 21.83,
         "forward_return": 51.01,
         "start_price": 98.0,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 20.2,
         "forward_return": 454.19,
         "start_price": 95.5,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.9,
+        "pe_ratio": 20.85,
         "forward_return": 282.41,
         "start_price": 103.5,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 20.29,
         "forward_return": 459.25,
         "start_price": 105.5,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.11,
+        "pe_ratio": 26.23,
         "forward_return": 62.03,
         "start_price": 147.0,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 29.38,
         "forward_return": -12.38,
         "start_price": 176.5,
         "start_year": 2017
@@ -1317,7 +1317,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.59,
         "forward_return": -27.29,
         "start_price": 166.0,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 25.08,
+        "pe_ratio": 24.38,
         "forward_return": -24.08,
         "start_price": 160.0,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 26.56,
+        "pe_ratio": 25.45,
         "forward_return": 14.8,
         "start_price": 169.0,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 21.28,
         "forward_return": 94.21,
         "start_price": 150.0,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 20.04,
         "forward_return": 82.56,
         "start_price": 149.5,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 25.97,
+        "pe_ratio": 20.84,
         "forward_return": -28.0,
         "start_price": 164.0,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 22.53,
         "forward_return": -84.13,
         "start_price": 172.5,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 22.77,
         "forward_return": -66.19,
         "start_price": 169.5,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.37,
+        "pe_ratio": 20.26,
         "forward_return": -58.04,
         "start_price": 146.5,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.36,
+        "pe_ratio": 15.74,
         "forward_return": 49.18,
         "start_price": 108.5,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 19.08,
+        "pe_ratio": 18.15,
         "forward_return": 88.29,
         "start_price": 119.0,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.75,
+        "pe_ratio": 19.66,
         "forward_return": 27.59,
         "start_price": 120.0,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.59,
+        "pe_ratio": 21.38,
         "forward_return": 6.49,
         "start_price": 128.0,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 24.96,
         "forward_return": 9.87,
         "start_price": 146.5,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.15,
+        "pe_ratio": 27.23,
         "forward_return": 10.39,
         "start_price": 147.5,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 23.66,
+        "pe_ratio": 26.19,
         "forward_return": 107.17,
         "start_price": 130.0,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 30.6,
         "forward_return": 43.63,
         "start_price": 138.0,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 28.24,
+        "pe_ratio": 33.38,
         "forward_return": 15.7,
         "start_price": 147.0,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 30.04,
+        "pe_ratio": 35.38,
         "forward_return": -13.16,
         "start_price": 152.0,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 29.91,
+        "pe_ratio": 35.08,
         "forward_return": -5.35,
         "start_price": 147.0,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.97,
+        "pe_ratio": 35.58,
         "forward_return": -5.11,
         "start_price": 152.5,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 31.83,
         "forward_return": -29.06,
         "start_price": 139.5,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 32.93,
+        "pe_ratio": 32.65,
         "forward_return": -34.22,
         "start_price": 150.5,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 30.47,
+        "pe_ratio": 29.96,
         "forward_return": -27.65,
         "start_price": 142.0,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.56,
         "forward_return": 143.11,
         "start_price": 124.5,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.72,
+        "pe_ratio": 28.04,
         "forward_return": 111.44,
         "start_price": 139.0,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.57,
+        "pe_ratio": 25.97,
         "forward_return": 144.03,
         "start_price": 131.0,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 30.18,
+        "pe_ratio": 29.53,
         "forward_return": 12.34,
         "start_price": 151.5,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 32.19,
+        "pe_ratio": 31.57,
         "forward_return": -53.01,
         "start_price": 164.5,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 30.96,
+        "pe_ratio": 30.43,
         "forward_return": 13.59,
         "start_price": 161.0,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 28.92,
+        "pe_ratio": 28.49,
         "forward_return": 45.56,
         "start_price": 153.0,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.28,
+        "pe_ratio": 25.03,
         "forward_return": 269.33,
         "start_price": 136.0,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.29,
         "forward_return": 100.45,
         "start_price": 150.0,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.89,
+        "pe_ratio": 27.13,
         "forward_return": -0.8,
         "start_price": 189.0,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 32.49,
+        "pe_ratio": 24.42,
         "forward_return": -28.15,
         "start_price": 204.5,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.3,
+        "pe_ratio": 19.27,
         "forward_return": 21.19,
         "start_price": 188.5,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.01,
         "forward_return": 15.29,
         "start_price": 194.0,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.5,
+        "pe_ratio": 19.62,
         "forward_return": -9.15,
         "start_price": 188.5,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.68,
+        "pe_ratio": 20.12,
         "forward_return": -20.93,
         "start_price": 191.5,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.18,
+        "pe_ratio": 20.28,
         "forward_return": -27.83,
         "start_price": 196.5,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.13,
+        "pe_ratio": 18.2,
         "forward_return": 38.23,
         "start_price": 179.5,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.86,
+        "pe_ratio": 17.55,
         "forward_return": 67.04,
         "start_price": 176.0,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 19.62,
+        "pe_ratio": 18.09,
         "forward_return": 87.32,
         "start_price": 181.0,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.34,
+        "pe_ratio": 18.58,
         "forward_return": -8.75,
         "start_price": 185.5,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.9,
+        "pe_ratio": 23.95,
         "forward_return": -52.07,
         "start_price": 212.0,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 18.26,
+        "pe_ratio": 24.33,
         "forward_return": -39.57,
         "start_price": 188.5,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 27.11,
         "forward_return": -1.69,
         "start_price": 180.0,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 15.58,
+        "pe_ratio": 21.99,
         "forward_return": 33.66,
         "start_price": 166.5,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.32,
+        "pe_ratio": 19.59,
         "forward_return": 89.09,
         "start_price": 166.5,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 13.85,
+        "pe_ratio": 16.22,
         "forward_return": 121.73,
         "start_price": 153.0,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 15.31,
+        "pe_ratio": 16.91,
         "forward_return": 10.8,
         "start_price": 172.0,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 16.52,
+        "pe_ratio": 17.28,
         "forward_return": -11.45,
         "start_price": 188.5,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.45,
         "forward_return": 2.25,
         "start_price": 180.0,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.94,
         "forward_return": 20.53,
         "start_price": 176.5,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 16.57,
         "forward_return": -28.85,
         "start_price": 198.5,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 15.53,
+        "pe_ratio": 15.15,
         "forward_return": 101.81,
         "start_price": 185.0,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 15.78,
+        "pe_ratio": 15.02,
         "forward_return": 157.84,
         "start_price": 184.5,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 14.36,
         "forward_return": 308.42,
         "start_price": 177.5,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.04,
         "forward_return": 401.95,
         "start_price": 190.0,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.14,
+        "pe_ratio": 20.56,
         "forward_return": 131.95,
         "start_price": 233.0,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 23.21,
+        "pe_ratio": 23.15,
         "forward_return": 64.6,
         "start_price": 250.5,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 26.11,
+        "pe_ratio": 26.5,
         "forward_return": -60.8,
         "start_price": 276.0,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 27.06,
+        "pe_ratio": 27.96,
         "forward_return": -55.9,
         "start_price": 280.0,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 27.27,
+        "pe_ratio": 28.72,
         "forward_return": -64.65,
         "start_price": 276.0,
         "start_year": 2023
@@ -1938,7 +1938,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.81,
         "forward_return": -28.27,
         "start_price": 218.0,
         "start_year": 2023
@@ -1947,7 +1947,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 22.22,
+        "pe_ratio": 22.62,
         "forward_return": 67.37,
         "start_price": 215.0,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 20.66,
+        "pe_ratio": 21.18,
         "forward_return": 189.09,
         "start_price": 200.5,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 23.4,
+        "pe_ratio": 24.57,
         "forward_return": 124.47,
         "start_price": 233.0,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 24.98,
+        "pe_ratio": 26.84,
         "forward_return": 75.32,
         "start_price": 255.0,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 25.47,
+        "pe_ratio": 27.18,
         "forward_return": 77.83,
         "start_price": 266.5,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 28.18,
         "forward_return": 85.74,
         "start_price": 285.0,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 28.99,
+        "pe_ratio": 30.52,
         "forward_return": 103.03,
         "start_price": 318.0,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 26.82,
+        "pe_ratio": 28.45,
         "forward_return": 259.61,
         "start_price": 301.0,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 30.4,
         "forward_return": 96.3,
         "start_price": 326.5,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.27,
         "forward_return": 43.97,
         "start_price": 373.5,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 34.67,
+        "pe_ratio": 36.35,
         "forward_return": -30.22,
         "start_price": 415.5,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.49,
         "forward_return": -67.55,
         "start_price": 412.5,
         "start_year": 2024
@@ -2073,7 +2073,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 28.01,
+        "pe_ratio": 28.31,
         "forward_return": -31.28,
         "start_price": 379.5,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.7,
         "forward_return": -4.7,
         "start_price": 339.5,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 18.2,
+        "pe_ratio": 18.7,
         "forward_return": 265.75,
         "start_price": 285.0,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.65,
         "forward_return": 412.58,
         "start_price": 292.5,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 20.81,
         "forward_return": 840.39,
         "start_price": 335.5,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 23.5,
+        "pe_ratio": 26.72,
         "forward_return": 209.15,
         "start_price": 442.5,
         "start_year": 2025
@@ -2127,7 +2127,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 21.65,
+        "pe_ratio": 22.16,
         "forward_return": 1184.97,
         "start_price": 430.5,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 27.74,
+        "pe_ratio": 26.05,
         "forward_return": 136.92,
         "start_price": 581.0,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 26.32,
+        "pe_ratio": 23.0,
         "forward_return": 222.28,
         "start_price": 579.0,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 35.52,
+        "pe_ratio": 31.48,
         "forward_return": 103.91,
         "start_price": 819.0,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.64,
         "forward_return": 35.89,
         "start_price": 32.3,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.99,
         "forward_return": 11.53,
         "start_price": 36.6,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.27,
         "forward_return": 31.44,
         "start_price": 34.0,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.82,
         "forward_return": 52.52,
         "start_price": 32.3,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 9.23,
+        "pe_ratio": 9.9,
         "forward_return": 43.47,
         "start_price": 33.6,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.72,
         "forward_return": 89.68,
         "start_price": 34.0,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 10.92,
         "forward_return": 58.01,
         "start_price": 39.3,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.04,
+        "pe_ratio": 10.12,
         "forward_return": 96.53,
         "start_price": 36.55,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 10.23,
         "forward_return": 114.09,
         "start_price": 37.1,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.64,
         "forward_return": 324.02,
         "start_price": 40.3,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 11.98,
+        "pe_ratio": 11.89,
         "forward_return": 235.5,
         "start_price": 46.75,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 12.22,
+        "pe_ratio": 12.08,
         "forward_return": 126.3,
         "start_price": 49.3,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 12.72,
         "forward_return": 47.94,
         "start_price": 54.1,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 15.99,
         "forward_return": -3.84,
         "start_price": 69.4,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.75,
         "forward_return": -54.67,
         "start_price": 80.0,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.76,
         "forward_return": -21.82,
         "start_price": 83.0,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 16.33,
+        "pe_ratio": 16.28,
         "forward_return": -16.8,
         "start_price": 78.8,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 15.52,
         "forward_return": -7.66,
         "start_price": 77.1,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.27,
         "forward_return": -10.54,
         "start_price": 77.8,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.37,
         "forward_return": 17.09,
         "start_price": 53.7,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.37,
         "forward_return": -26.31,
         "start_price": 63.5,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.11,
+        "pe_ratio": 14.13,
         "forward_return": -72.92,
         "start_price": 71.9,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 14.51,
         "forward_return": -78.36,
         "start_price": 72.0,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.22,
         "forward_return": -84.87,
         "start_price": 73.6,
         "start_year": 2008
@@ -2406,7 +2406,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 14.77,
+        "pe_ratio": 13.48,
         "forward_return": -85.25,
         "start_price": 63.5,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 13.14,
+        "pe_ratio": 11.89,
         "forward_return": -89.33,
         "start_price": 54.5,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.75,
+        "pe_ratio": 11.42,
         "forward_return": -71.13,
         "start_price": 50.9,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 8.81,
         "forward_return": -58.24,
         "start_price": 38.15,
         "start_year": 2008
@@ -2442,7 +2442,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.1,
+        "pe_ratio": 7.44,
         "forward_return": 39.42,
         "start_price": 29.85,
         "start_year": 2008
@@ -2451,7 +2451,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.25,
+        "pe_ratio": 5.98,
         "forward_return": 170.7,
         "start_price": 22.1,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.34,
+        "pe_ratio": 5.66,
         "forward_return": 802.67,
         "start_price": 17.65,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.08,
+        "pe_ratio": 8.03,
         "forward_return": 317.23,
         "start_price": 22.9,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 9.56,
         "forward_return": 429.41,
         "start_price": 24.75,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 13.62,
         "forward_return": 328.42,
         "start_price": 31.7,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 17.54,
         "forward_return": 244.42,
         "start_price": 36.2,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 18.89,
         "forward_return": 381.31,
         "start_price": 34.0,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 29.36,
         "forward_return": 55.12,
         "start_price": 50.5,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 27.23,
         "forward_return": 111.68,
         "start_price": 44.65,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.05,
+        "pe_ratio": 40.19,
         "forward_return": 21.31,
         "start_price": 62.7,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.07,
+        "pe_ratio": 34.0,
         "forward_return": -4.55,
         "start_price": 63.7,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 30.55,
         "forward_return": -13.97,
         "start_price": 66.8,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 23.23,
+        "pe_ratio": 22.99,
         "forward_return": 10.85,
         "start_price": 63.0,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.31,
         "forward_return": 41.91,
         "start_price": 63.5,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 21.43,
         "forward_return": 30.92,
         "start_price": 69.0,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.24,
+        "pe_ratio": 19.08,
         "forward_return": 41.92,
         "start_price": 67.8,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.95,
         "forward_return": 85.69,
         "start_price": 62.0,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 16.45,
+        "pe_ratio": 14.72,
         "forward_return": 105.56,
         "start_price": 62.1,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 14.14,
         "forward_return": 94.93,
         "start_price": 64.3,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 15.1,
         "forward_return": 55.23,
         "start_price": 73.6,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 16.88,
+        "pe_ratio": 14.33,
         "forward_return": 63.32,
         "start_price": 74.5,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 15.3,
         "forward_return": 30.09,
         "start_price": 78.8,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.27,
         "forward_return": 39.28,
         "start_price": 77.9,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.64,
         "forward_return": -28.34,
         "start_price": 90.0,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.1,
         "forward_return": -23.86,
         "start_price": 88.2,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 19.78,
+        "pe_ratio": 18.23,
         "forward_return": -48.77,
         "start_price": 95.0,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 20.02,
+        "pe_ratio": 18.48,
         "forward_return": -53.77,
         "start_price": 94.5,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.8,
+        "pe_ratio": 18.3,
         "forward_return": -47.12,
         "start_price": 91.8,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 18.58,
         "forward_return": -52.12,
         "start_price": 91.4,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.21,
+        "pe_ratio": 15.31,
         "forward_return": -12.71,
         "start_price": 72.5,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 16.67,
+        "pe_ratio": 16.08,
         "forward_return": 4.73,
         "start_price": 73.2,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.67,
+        "pe_ratio": 14.46,
         "forward_return": 41.75,
         "start_price": 63.2,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.16,
         "forward_return": 19.77,
         "start_price": 60.4,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.37,
         "forward_return": 9.96,
         "start_price": 64.0,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 17.83,
         "forward_return": 5.41,
         "start_price": 67.7,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 19.08,
         "forward_return": -6.7,
         "start_price": 67.4,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 20.55,
+        "pe_ratio": 23.0,
         "forward_return": -35.62,
         "start_price": 75.2,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.9,
+        "pe_ratio": 21.67,
         "forward_return": -23.85,
         "start_price": 66.6,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.79,
+        "pe_ratio": 23.33,
         "forward_return": 0.25,
         "start_price": 67.1,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 25.26,
         "forward_return": -1.47,
         "start_price": 67.7,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 21.45,
+        "pe_ratio": 25.97,
         "forward_return": -10.66,
         "start_price": 67.0,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 25.24,
         "forward_return": 25.13,
         "start_price": 62.6,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 21.61,
+        "pe_ratio": 25.92,
         "forward_return": 33.89,
         "start_price": 61.7,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 23.12,
         "forward_return": 20.65,
         "start_price": 55.6,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 25.89,
+        "pe_ratio": 27.58,
         "forward_return": -14.49,
         "start_price": 67.0,
         "start_year": 2012
@@ -2901,7 +2901,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 25.15,
+        "pe_ratio": 24.96,
         "forward_return": 4.51,
         "start_price": 63.3,
         "start_year": 2013
@@ -2910,7 +2910,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 26.4,
+        "pe_ratio": 26.01,
         "forward_return": 9.65,
         "start_price": 68.1,
         "start_year": 2013
@@ -2919,7 +2919,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 26.41,
         "forward_return": -15.5,
         "start_price": 71.3,
         "start_year": 2013
@@ -2928,7 +2928,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 23.39,
+        "pe_ratio": 22.34,
         "forward_return": 4.14,
         "start_price": 63.3,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.39,
+        "pe_ratio": 20.9,
         "forward_return": 6.98,
         "start_price": 62.0,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.45,
         "forward_return": 59.79,
         "start_price": 51.0,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.66,
+        "pe_ratio": 20.47,
         "forward_return": 7.41,
         "start_price": 62.7,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 22.9,
         "forward_return": 8.34,
         "start_price": 69.3,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.05,
+        "pe_ratio": 22.27,
         "forward_return": 19.01,
         "start_price": 66.6,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.44,
         "forward_return": 36.22,
         "start_price": 62.6,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 19.07,
+        "pe_ratio": 19.13,
         "forward_return": 56.46,
         "start_price": 60.0,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.42,
         "forward_return": 61.79,
         "start_price": 65.0,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.26,
+        "pe_ratio": 23.0,
         "forward_return": 55.63,
         "start_price": 72.6,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.09,
+        "pe_ratio": 23.19,
         "forward_return": 13.52,
         "start_price": 72.6,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 23.46,
+        "pe_ratio": 25.62,
         "forward_return": 1.29,
         "start_price": 77.7,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.44,
+        "pe_ratio": 25.51,
         "forward_return": 23.1,
         "start_price": 74.9,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.86,
+        "pe_ratio": 29.44,
         "forward_return": 2.4,
         "start_price": 83.6,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 26.4,
         "forward_return": -2.71,
         "start_price": 80.0,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 25.78,
+        "pe_ratio": 27.33,
         "forward_return": -19.3,
         "start_price": 88.0,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.57,
+        "pe_ratio": 24.78,
         "forward_return": -15.57,
         "start_price": 84.5,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 21.85,
+        "pe_ratio": 21.97,
         "forward_return": -14.54,
         "start_price": 75.7,
         "start_year": 2014
@@ -3099,7 +3099,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 23.96,
+        "pe_ratio": 24.02,
         "forward_return": -31.91,
         "start_price": 83.6,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 22.74,
         "forward_return": -28.95,
         "start_price": 78.9,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.56,
         "forward_return": -51.26,
         "start_price": 80.7,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.99,
         "forward_return": -34.56,
         "start_price": 77.7,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 21.53,
+        "pe_ratio": 21.68,
         "forward_return": -32.87,
         "start_price": 74.0,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 20.22,
+        "pe_ratio": 20.05,
         "forward_return": -6.32,
         "start_price": 69.1,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 19.6,
         "forward_return": -4.89,
         "start_price": 68.2,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.95,
+        "pe_ratio": 18.41,
         "forward_return": 4.07,
         "start_price": 64.0,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.49,
         "forward_return": 53.98,
         "start_price": 53.8,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 16.86,
+        "pe_ratio": 16.22,
         "forward_return": 51.29,
         "start_price": 56.3,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 17.47,
+        "pe_ratio": 17.03,
         "forward_return": 66.93,
         "start_price": 58.0,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 17.49,
+        "pe_ratio": 17.26,
         "forward_return": 84.06,
         "start_price": 57.7,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 19.3,
+        "pe_ratio": 18.91,
         "forward_return": 61.33,
         "start_price": 65.3,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.44,
         "forward_return": 43.12,
         "start_price": 70.5,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 19.26,
+        "pe_ratio": 18.21,
         "forward_return": 34.92,
         "start_price": 69.2,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 19.37,
+        "pe_ratio": 18.58,
         "forward_return": 32.6,
         "start_price": 71.6,
         "start_year": 2016
@@ -3261,7 +3261,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.57,
+        "pe_ratio": 20.02,
         "forward_return": -0.93,
         "start_price": 78.2,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.39,
         "forward_return": 2.54,
         "start_price": 76.8,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.93,
         "forward_return": 3.48,
         "start_price": 80.5,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 19.94,
+        "pe_ratio": 19.9,
         "forward_return": 21.7,
         "start_price": 82.0,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 19.99,
+        "pe_ratio": 20.07,
         "forward_return": 19.03,
         "start_price": 84.3,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.58,
         "forward_return": 32.47,
         "start_price": 80.1,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 17.85,
+        "pe_ratio": 17.87,
         "forward_return": 42.94,
         "start_price": 79.0,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 18.25,
         "forward_return": 45.78,
         "start_price": 81.9,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 21.11,
         "forward_return": 29.56,
         "start_price": 93.8,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 20.89,
         "forward_return": 131.34,
         "start_price": 91.9,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 21.31,
         "forward_return": 152.75,
         "start_price": 94.4,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.75,
+        "pe_ratio": 21.14,
         "forward_return": 160.43,
         "start_price": 94.3,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.92,
+        "pe_ratio": 21.83,
         "forward_return": 183.63,
         "start_price": 98.0,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 20.2,
         "forward_return": 199.65,
         "start_price": 95.5,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.9,
+        "pe_ratio": 20.85,
         "forward_return": 132.75,
         "start_price": 103.5,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 20.29,
         "forward_return": 158.79,
         "start_price": 105.5,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.11,
+        "pe_ratio": 26.23,
         "forward_return": 2.95,
         "start_price": 147.0,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 29.38,
         "forward_return": -28.47,
         "start_price": 176.5,
         "start_year": 2017
@@ -3441,7 +3441,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.59,
         "forward_return": 13.79,
         "start_price": 166.0,
         "start_year": 2018
@@ -3450,7 +3450,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 25.08,
+        "pe_ratio": 24.38,
         "forward_return": 18.3,
         "start_price": 160.0,
         "start_year": 2018
@@ -3459,7 +3459,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 26.56,
+        "pe_ratio": 25.45,
         "forward_return": -49.71,
         "start_price": 169.0,
         "start_year": 2018
@@ -3468,7 +3468,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 21.28,
         "forward_return": -43.21,
         "start_price": 150.0,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 20.04,
         "forward_return": -28.85,
         "start_price": 149.5,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 25.97,
+        "pe_ratio": 20.84,
         "forward_return": -44.16,
         "start_price": 164.0,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 22.53,
         "forward_return": -51.34,
         "start_price": 172.5,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 22.77,
         "forward_return": -22.22,
         "start_price": 169.5,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.37,
+        "pe_ratio": 20.26,
         "forward_return": 0.0,
         "start_price": 146.5,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.36,
+        "pe_ratio": 15.74,
         "forward_return": 36.54,
         "start_price": 108.5,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 19.08,
+        "pe_ratio": 18.15,
         "forward_return": 19.53,
         "start_price": 119.0,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.75,
+        "pe_ratio": 19.66,
         "forward_return": 59.37,
         "start_price": 120.0,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.59,
+        "pe_ratio": 21.38,
         "forward_return": 49.08,
         "start_price": 128.0,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 24.96,
         "forward_return": 12.15,
         "start_price": 146.5,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.15,
+        "pe_ratio": 27.23,
         "forward_return": 12.8,
         "start_price": 147.5,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 23.66,
+        "pe_ratio": 26.19,
         "forward_return": 26.47,
         "start_price": 130.0,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 30.6,
         "forward_return": 16.82,
         "start_price": 138.0,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 28.24,
+        "pe_ratio": 33.38,
         "forward_return": 4.78,
         "start_price": 147.0,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 30.04,
+        "pe_ratio": 35.38,
         "forward_return": -28.98,
         "start_price": 152.0,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 29.91,
+        "pe_ratio": 35.08,
         "forward_return": -28.35,
         "start_price": 147.0,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.97,
+        "pe_ratio": 35.58,
         "forward_return": -22.94,
         "start_price": 152.5,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 31.83,
         "forward_return": -11.85,
         "start_price": 139.5,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 32.93,
+        "pe_ratio": 32.65,
         "forward_return": 23.97,
         "start_price": 150.5,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 30.47,
+        "pe_ratio": 29.96,
         "forward_return": 33.32,
         "start_price": 142.0,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.56,
         "forward_return": 20.7,
         "start_price": 124.5,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.72,
+        "pe_ratio": 28.04,
         "forward_return": 0.01,
         "start_price": 139.0,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.57,
+        "pe_ratio": 25.97,
         "forward_return": 57.6,
         "start_price": 131.0,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 30.18,
+        "pe_ratio": 29.53,
         "forward_return": 27.35,
         "start_price": 151.5,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 32.19,
+        "pe_ratio": 31.57,
         "forward_return": 31.73,
         "start_price": 164.5,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 30.96,
+        "pe_ratio": 30.43,
         "forward_return": 31.22,
         "start_price": 161.0,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 28.92,
+        "pe_ratio": 28.49,
         "forward_return": 52.36,
         "start_price": 153.0,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.28,
+        "pe_ratio": 25.03,
         "forward_return": 75.49,
         "start_price": 136.0,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.29,
         "forward_return": 58.57,
         "start_price": 150.0,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.89,
+        "pe_ratio": 27.13,
         "forward_return": 13.23,
         "start_price": 189.0,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 32.49,
+        "pe_ratio": 24.42,
         "forward_return": -19.1,
         "start_price": 204.5,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.3,
+        "pe_ratio": 19.27,
         "forward_return": -2.7,
         "start_price": 188.5,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.01,
         "forward_return": -8.55,
         "start_price": 194.0,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.5,
+        "pe_ratio": 19.62,
         "forward_return": 14.92,
         "start_price": 188.5,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.68,
+        "pe_ratio": 20.12,
         "forward_return": 14.01,
         "start_price": 191.5,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.18,
+        "pe_ratio": 20.28,
         "forward_return": 16.27,
         "start_price": 196.5,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.13,
+        "pe_ratio": 18.2,
         "forward_return": 0.48,
         "start_price": 179.5,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.86,
+        "pe_ratio": 17.55,
         "forward_return": 4.64,
         "start_price": 176.0,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 19.62,
+        "pe_ratio": 18.09,
         "forward_return": -13.4,
         "start_price": 181.0,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.34,
+        "pe_ratio": 18.58,
         "forward_return": -19.59,
         "start_price": 185.5,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.9,
+        "pe_ratio": 23.95,
         "forward_return": -28.94,
         "start_price": 212.0,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 18.26,
+        "pe_ratio": 24.33,
         "forward_return": 7.57,
         "start_price": 188.5,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 27.11,
         "forward_return": 3.32,
         "start_price": 180.0,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 15.58,
+        "pe_ratio": 21.99,
         "forward_return": 21.39,
         "start_price": 166.5,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.32,
+        "pe_ratio": 19.59,
         "forward_return": 23.01,
         "start_price": 166.5,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 13.85,
+        "pe_ratio": 16.22,
         "forward_return": 50.83,
         "start_price": 153.0,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 15.31,
+        "pe_ratio": 16.91,
         "forward_return": 15.56,
         "start_price": 172.0,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 16.52,
+        "pe_ratio": 17.28,
         "forward_return": -9.84,
         "start_price": 188.5,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.45,
         "forward_return": -2.78,
         "start_price": 180.0,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.94,
         "forward_return": 61.36,
         "start_price": 176.5,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 16.57,
         "forward_return": 38.18,
         "start_price": 198.5,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 15.53,
+        "pe_ratio": 15.15,
         "forward_return": 137.49,
         "start_price": 185.0,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 15.78,
+        "pe_ratio": 15.02,
         "forward_return": 144.41,
         "start_price": 184.5,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 14.36,
         "forward_return": 51.03,
         "start_price": 177.5,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.04,
         "forward_return": 41.39,
         "start_price": 190.0,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.14,
+        "pe_ratio": 20.56,
         "forward_return": -8.63,
         "start_price": 233.0,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 23.21,
+        "pe_ratio": 23.15,
         "forward_return": -22.13,
         "start_price": 250.5,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 26.11,
+        "pe_ratio": 26.5,
         "forward_return": -46.97,
         "start_price": 276.0,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 27.06,
+        "pe_ratio": 27.96,
         "forward_return": -14.82,
         "start_price": 280.0,
         "start_year": 2023
@@ -4053,7 +4053,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 27.27,
+        "pe_ratio": 28.72,
         "forward_return": -14.68,
         "start_price": 276.0,
         "start_year": 2023
@@ -4062,7 +4062,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.81,
         "forward_return": 58.34,
         "start_price": 218.0,
         "start_year": 2023
@@ -4071,7 +4071,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 22.22,
+        "pe_ratio": 22.62,
         "forward_return": 76.06,
         "start_price": 215.0,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 20.66,
+        "pe_ratio": 21.18,
         "forward_return": 136.06,
         "start_price": 200.5,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 23.4,
+        "pe_ratio": 24.57,
         "forward_return": 104.08,
         "start_price": 233.0,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 24.98,
+        "pe_ratio": 26.84,
         "forward_return": 136.36,
         "start_price": 255.0,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 25.47,
+        "pe_ratio": 27.18,
         "forward_return": 150.39,
         "start_price": 266.5,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 28.18,
         "forward_return": 90.38,
         "start_price": 285.0,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 28.99,
+        "pe_ratio": 30.52,
         "forward_return": 70.62,
         "start_price": 318.0,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 26.82,
+        "pe_ratio": 28.45,
         "forward_return": 58.41,
         "start_price": 301.0,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 30.4,
         "forward_return": -20.88,
         "start_price": 326.5,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.27,
         "forward_return": -42.06,
         "start_price": 373.5,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 34.67,
+        "pe_ratio": 36.35,
         "forward_return": -30.82,
         "start_price": 415.5,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.49,
         "forward_return": -34.09,
         "start_price": 412.5,
         "start_year": 2024
@@ -4197,7 +4197,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 28.01,
+        "pe_ratio": 28.31,
         "forward_return": 34.47,
         "start_price": 379.5,
         "start_year": 2025
@@ -4206,7 +4206,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.7,
         "forward_return": 203.16,
         "start_price": 339.5,
         "start_year": 2025
@@ -4215,7 +4215,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 18.2,
+        "pe_ratio": 18.7,
         "forward_return": 517.38,
         "start_price": 285.0,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.65,
         "forward_return": 697.92,
         "start_price": 292.5,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 18.88,
+        "pe_ratio": 20.81,
         "forward_return": 325.75,
         "start_price": 335.5,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 23.5,
+        "pe_ratio": 26.72,
         "forward_return": 213.18,
         "start_price": 442.5,
         "start_year": 2025
@@ -4251,7 +4251,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 21.65,
+        "pe_ratio": 22.16,
         "forward_return": 411.88,
         "start_price": 430.5,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.64,
         "forward_return": 59.21,
         "start_price": 32.3,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.99,
         "forward_return": 42.95,
         "start_price": 36.6,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.27,
         "forward_return": 65.37,
         "start_price": 34.0,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.82,
         "forward_return": 121.5,
         "start_price": 32.3,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 9.23,
+        "pe_ratio": 9.9,
         "forward_return": 145.55,
         "start_price": 33.6,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.72,
         "forward_return": 151.49,
         "start_price": 34.0,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 10.92,
         "forward_return": 106.85,
         "start_price": 39.3,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.04,
+        "pe_ratio": 10.12,
         "forward_return": 117.77,
         "start_price": 36.55,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 10.23,
         "forward_return": 116.43,
         "start_price": 37.1,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.64,
         "forward_return": 39.37,
         "start_price": 40.3,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 11.98,
+        "pe_ratio": 11.89,
         "forward_return": 41.11,
         "start_price": 46.75,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 12.22,
+        "pe_ratio": 12.08,
         "forward_return": 50.69,
         "start_price": 49.3,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 12.72,
         "forward_return": 40.48,
         "start_price": 54.1,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 15.99,
         "forward_return": -4.96,
         "start_price": 69.4,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.75,
         "forward_return": -27.34,
         "start_price": 80.0,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.76,
         "forward_return": -34.29,
         "start_price": 83.0,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 16.33,
+        "pe_ratio": 16.28,
         "forward_return": -46.96,
         "start_price": 78.8,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 15.52,
         "forward_return": -56.55,
         "start_price": 77.1,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.27,
         "forward_return": -66.9,
         "start_price": 77.8,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.37,
         "forward_return": -60.37,
         "start_price": 53.7,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.37,
         "forward_return": -52.57,
         "start_price": 63.5,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.11,
+        "pe_ratio": 14.13,
         "forward_return": -60.61,
         "start_price": 71.9,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 14.51,
         "forward_return": -51.01,
         "start_price": 72.0,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.22,
         "forward_return": -45.96,
         "start_price": 73.6,
         "start_year": 2008
@@ -4503,7 +4503,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 14.77,
+        "pe_ratio": 13.48,
         "forward_return": -40.82,
         "start_price": 63.5,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 13.14,
+        "pe_ratio": 11.89,
         "forward_return": -3.65,
         "start_price": 54.5,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.75,
+        "pe_ratio": 11.42,
         "forward_return": -8.33,
         "start_price": 50.9,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 8.81,
         "forward_return": 69.69,
         "start_price": 38.15,
         "start_year": 2008
@@ -4539,7 +4539,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.1,
+        "pe_ratio": 7.44,
         "forward_return": 120.26,
         "start_price": 29.85,
         "start_year": 2008
@@ -4548,7 +4548,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.25,
+        "pe_ratio": 5.98,
         "forward_return": 211.61,
         "start_price": 22.1,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.34,
+        "pe_ratio": 5.66,
         "forward_return": 268.67,
         "start_price": 17.65,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.08,
+        "pe_ratio": 8.03,
         "forward_return": 186.28,
         "start_price": 22.9,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 9.56,
         "forward_return": 187.12,
         "start_price": 24.75,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 13.62,
         "forward_return": 120.35,
         "start_price": 31.7,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 17.54,
         "forward_return": 76.9,
         "start_price": 36.2,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 18.89,
         "forward_return": 88.65,
         "start_price": 34.0,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 29.36,
         "forward_return": 31.31,
         "start_price": 50.5,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 27.23,
         "forward_return": 69.38,
         "start_price": 44.65,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.05,
+        "pe_ratio": 40.19,
         "forward_return": 22.03,
         "start_price": 62.7,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.07,
+        "pe_ratio": 34.0,
         "forward_return": 26.87,
         "start_price": 63.7,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 30.55,
         "forward_return": 19.63,
         "start_price": 66.8,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 23.23,
+        "pe_ratio": 22.99,
         "forward_return": 46.07,
         "start_price": 63.0,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.31,
         "forward_return": 42.08,
         "start_price": 63.5,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 21.43,
         "forward_return": 40.61,
         "start_price": 69.0,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.24,
+        "pe_ratio": 19.08,
         "forward_return": 42.36,
         "start_price": 67.8,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.95,
         "forward_return": 51.33,
         "start_price": 62.0,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 16.45,
+        "pe_ratio": 14.72,
         "forward_return": 50.44,
         "start_price": 62.1,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 14.14,
         "forward_return": 18.68,
         "start_price": 64.3,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 15.1,
         "forward_return": 4.62,
         "start_price": 73.6,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 16.88,
+        "pe_ratio": 14.33,
         "forward_return": -10.07,
         "start_price": 74.5,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 15.3,
         "forward_return": -18.54,
         "start_price": 78.8,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.27,
         "forward_return": -12.97,
         "start_price": 77.9,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.64,
         "forward_return": -20.57,
         "start_price": 90.0,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.1,
         "forward_return": -19.29,
         "start_price": 88.2,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 19.78,
+        "pe_ratio": 18.23,
         "forward_return": -16.81,
         "start_price": 95.0,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 20.02,
+        "pe_ratio": 18.48,
         "forward_return": -25.46,
         "start_price": 94.5,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.8,
+        "pe_ratio": 18.3,
         "forward_return": -22.73,
         "start_price": 91.8,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 18.58,
         "forward_return": -21.73,
         "start_price": 91.4,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.21,
+        "pe_ratio": 15.31,
         "forward_return": -4.13,
         "start_price": 72.5,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 16.67,
+        "pe_ratio": 16.08,
         "forward_return": -11.04,
         "start_price": 73.2,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.67,
+        "pe_ratio": 14.46,
         "forward_return": 1.58,
         "start_price": 63.2,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.16,
         "forward_return": -3.8,
         "start_price": 60.4,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.37,
         "forward_return": 8.58,
         "start_price": 64.0,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 17.83,
         "forward_return": -2.8,
         "start_price": 67.7,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 19.08,
         "forward_return": 8.75,
         "start_price": 67.4,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 20.55,
+        "pe_ratio": 23.0,
         "forward_return": -1.86,
         "start_price": 75.2,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.9,
+        "pe_ratio": 21.67,
         "forward_return": -1.2,
         "start_price": 66.6,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.79,
+        "pe_ratio": 23.33,
         "forward_return": -3.88,
         "start_price": 67.1,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 25.26,
         "forward_return": -20.99,
         "start_price": 67.7,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 21.45,
+        "pe_ratio": 25.97,
         "forward_return": -3.44,
         "start_price": 67.0,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 25.24,
         "forward_return": 13.91,
         "start_price": 62.6,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 21.61,
+        "pe_ratio": 25.92,
         "forward_return": 11.19,
         "start_price": 61.7,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 23.12,
         "forward_return": 16.2,
         "start_price": 55.6,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 25.89,
+        "pe_ratio": 27.58,
         "forward_return": -7.47,
         "start_price": 67.0,
         "start_year": 2012
@@ -4998,7 +4998,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 25.15,
+        "pe_ratio": 24.96,
         "forward_return": 5.85,
         "start_price": 63.3,
         "start_year": 2013
@@ -5007,7 +5007,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 26.4,
+        "pe_ratio": 26.01,
         "forward_return": 9.55,
         "start_price": 68.1,
         "start_year": 2013
@@ -5016,7 +5016,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 26.41,
         "forward_return": 4.63,
         "start_price": 71.3,
         "start_year": 2013
@@ -5025,7 +5025,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 23.39,
+        "pe_ratio": 22.34,
         "forward_return": 25.93,
         "start_price": 63.3,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.39,
+        "pe_ratio": 20.9,
         "forward_return": 24.05,
         "start_price": 62.0,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.45,
         "forward_return": 67.9,
         "start_price": 51.0,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.66,
+        "pe_ratio": 20.47,
         "forward_return": 31.6,
         "start_price": 62.7,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 22.9,
         "forward_return": 30.62,
         "start_price": 69.3,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.05,
+        "pe_ratio": 22.27,
         "forward_return": 30.65,
         "start_price": 66.6,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.44,
         "forward_return": 24.94,
         "start_price": 62.6,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 19.07,
+        "pe_ratio": 19.13,
         "forward_return": 43.54,
         "start_price": 60.0,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.42,
         "forward_return": 25.25,
         "start_price": 65.0,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.26,
+        "pe_ratio": 23.0,
         "forward_return": 14.61,
         "start_price": 72.6,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.09,
+        "pe_ratio": 23.19,
         "forward_return": 10.48,
         "start_price": 72.6,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 23.46,
+        "pe_ratio": 25.62,
         "forward_return": -1.55,
         "start_price": 77.7,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.44,
+        "pe_ratio": 25.51,
         "forward_return": -4.41,
         "start_price": 74.9,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.86,
+        "pe_ratio": 29.44,
         "forward_return": -15.44,
         "start_price": 83.6,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 26.4,
         "forward_return": -16.75,
         "start_price": 80.0,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 25.78,
+        "pe_ratio": 27.33,
         "forward_return": -35.92,
         "start_price": 88.0,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.57,
+        "pe_ratio": 24.78,
         "forward_return": -30.3,
         "start_price": 84.5,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 21.85,
+        "pe_ratio": 21.97,
         "forward_return": -19.95,
         "start_price": 75.7,
         "start_year": 2014
@@ -5196,7 +5196,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 23.96,
+        "pe_ratio": 24.02,
         "forward_return": -27.88,
         "start_price": 83.6,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 22.74,
         "forward_return": -13.94,
         "start_price": 78.9,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.56,
         "forward_return": -9.42,
         "start_price": 80.7,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.99,
         "forward_return": -7.57,
         "start_price": 77.7,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 21.53,
+        "pe_ratio": 21.68,
         "forward_return": 0.28,
         "start_price": 74.0,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 20.22,
+        "pe_ratio": 20.05,
         "forward_return": 16.9,
         "start_price": 69.1,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 19.6,
         "forward_return": 16.4,
         "start_price": 68.2,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.95,
+        "pe_ratio": 18.41,
         "forward_return": 29.42,
         "start_price": 64.0,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.49,
         "forward_return": 56.68,
         "start_price": 53.8,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 16.86,
+        "pe_ratio": 16.22,
         "forward_return": 53.81,
         "start_price": 56.3,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 17.47,
+        "pe_ratio": 17.03,
         "forward_return": 42.09,
         "start_price": 58.0,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 17.49,
+        "pe_ratio": 17.26,
         "forward_return": 40.93,
         "start_price": 57.7,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 19.3,
+        "pe_ratio": 18.91,
         "forward_return": 28.99,
         "start_price": 65.3,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.44,
         "forward_return": 30.83,
         "start_price": 70.5,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 19.26,
+        "pe_ratio": 18.21,
         "forward_return": 36.26,
         "start_price": 69.2,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 19.37,
+        "pe_ratio": 18.58,
         "forward_return": 35.19,
         "start_price": 71.6,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.57,
+        "pe_ratio": 20.02,
         "forward_return": 23.64,
         "start_price": 78.2,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.39,
         "forward_return": 30.72,
         "start_price": 76.8,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.93,
         "forward_return": 22.65,
         "start_price": 80.5,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 19.94,
+        "pe_ratio": 19.9,
         "forward_return": 30.17,
         "start_price": 82.0,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 19.99,
+        "pe_ratio": 20.07,
         "forward_return": 28.99,
         "start_price": 84.3,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.58,
         "forward_return": 87.62,
         "start_price": 80.1,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 17.85,
+        "pe_ratio": 17.87,
         "forward_return": 127.62,
         "start_price": 79.0,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 18.25,
         "forward_return": 106.72,
         "start_price": 81.9,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 21.11,
         "forward_return": 74.08,
         "start_price": 93.8,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 20.89,
         "forward_return": 87.48,
         "start_price": 91.9,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 21.31,
         "forward_return": 62.36,
         "start_price": 94.4,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.75,
+        "pe_ratio": 21.14,
         "forward_return": 62.01,
         "start_price": 94.3,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.92,
+        "pe_ratio": 21.83,
         "forward_return": 70.7,
         "start_price": 98.0,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 20.2,
         "forward_return": 85.39,
         "start_price": 95.5,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.9,
+        "pe_ratio": 20.85,
         "forward_return": 68.15,
         "start_price": 103.5,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 20.29,
         "forward_return": 43.14,
         "start_price": 105.5,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.11,
+        "pe_ratio": 26.23,
         "forward_return": -23.16,
         "start_price": 147.0,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 29.38,
         "forward_return": -30.06,
         "start_price": 176.5,
         "start_year": 2017
@@ -5538,7 +5538,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.59,
         "forward_return": -25.03,
         "start_price": 166.0,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 25.08,
+        "pe_ratio": 24.38,
         "forward_return": -17.21,
         "start_price": 160.0,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 26.56,
+        "pe_ratio": 25.45,
         "forward_return": -10.67,
         "start_price": 169.0,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 21.28,
         "forward_return": 1.32,
         "start_price": 150.0,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 20.04,
         "forward_return": -10.06,
         "start_price": 149.5,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 25.97,
+        "pe_ratio": 20.84,
         "forward_return": -13.13,
         "start_price": 164.0,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 22.53,
         "forward_return": -12.37,
         "start_price": 172.5,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 22.77,
         "forward_return": -7.86,
         "start_price": 169.5,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.37,
+        "pe_ratio": 20.26,
         "forward_return": 3.2,
         "start_price": 146.5,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.36,
+        "pe_ratio": 15.74,
         "forward_return": 44.44,
         "start_price": 108.5,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 19.08,
+        "pe_ratio": 18.15,
         "forward_return": 20.75,
         "start_price": 119.0,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.75,
+        "pe_ratio": 19.66,
         "forward_return": 28.92,
         "start_price": 120.0,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.59,
+        "pe_ratio": 21.38,
         "forward_return": 14.21,
         "start_price": 128.0,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 24.96,
         "forward_return": -12.14,
         "start_price": 146.5,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.15,
+        "pe_ratio": 27.23,
         "forward_return": -2.92,
         "start_price": 147.5,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 23.66,
+        "pe_ratio": 26.19,
         "forward_return": 3.97,
         "start_price": 130.0,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 30.6,
         "forward_return": 12.78,
         "start_price": 138.0,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 28.24,
+        "pe_ratio": 33.38,
         "forward_return": 13.92,
         "start_price": 147.0,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 30.04,
+        "pe_ratio": 35.38,
         "forward_return": 7.88,
         "start_price": 152.0,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 29.91,
+        "pe_ratio": 35.08,
         "forward_return": 6.11,
         "start_price": 147.0,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.97,
+        "pe_ratio": 35.58,
         "forward_return": -8.83,
         "start_price": 152.5,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 31.83,
         "forward_return": 9.66,
         "start_price": 139.5,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 32.93,
+        "pe_ratio": 32.65,
         "forward_return": 27.52,
         "start_price": 150.5,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 30.47,
+        "pe_ratio": 29.96,
         "forward_return": 31.86,
         "start_price": 142.0,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.56,
         "forward_return": 53.87,
         "start_price": 124.5,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.72,
+        "pe_ratio": 28.04,
         "forward_return": 41.77,
         "start_price": 139.0,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.57,
+        "pe_ratio": 25.97,
         "forward_return": 46.23,
         "start_price": 131.0,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 30.18,
+        "pe_ratio": 29.53,
         "forward_return": 28.41,
         "start_price": 151.5,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 32.19,
+        "pe_ratio": 31.57,
         "forward_return": 22.21,
         "start_price": 164.5,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 30.96,
+        "pe_ratio": 30.43,
         "forward_return": 14.3,
         "start_price": 161.0,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 28.92,
+        "pe_ratio": 28.49,
         "forward_return": 17.99,
         "start_price": 153.0,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.28,
+        "pe_ratio": 25.03,
         "forward_return": 36.43,
         "start_price": 136.0,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.29,
         "forward_return": 26.69,
         "start_price": 150.0,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.89,
+        "pe_ratio": 27.13,
         "forward_return": 14.56,
         "start_price": 189.0,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 32.49,
+        "pe_ratio": 24.42,
         "forward_return": -5.63,
         "start_price": 204.5,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.3,
+        "pe_ratio": 19.27,
         "forward_return": -2.12,
         "start_price": 188.5,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.01,
         "forward_return": -11.86,
         "start_price": 194.0,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.5,
+        "pe_ratio": 19.62,
         "forward_return": -9.29,
         "start_price": 188.5,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.68,
+        "pe_ratio": 20.12,
         "forward_return": -17.77,
         "start_price": 191.5,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.18,
+        "pe_ratio": 20.28,
         "forward_return": -8.92,
         "start_price": 196.5,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.13,
+        "pe_ratio": 18.2,
         "forward_return": 8.91,
         "start_price": 179.5,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.86,
+        "pe_ratio": 17.55,
         "forward_return": 6.24,
         "start_price": 176.0,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 19.62,
+        "pe_ratio": 18.09,
         "forward_return": 1.37,
         "start_price": 181.0,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.34,
+        "pe_ratio": 18.58,
         "forward_return": 10.78,
         "start_price": 185.5,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.9,
+        "pe_ratio": 23.95,
         "forward_return": -9.45,
         "start_price": 212.0,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 18.26,
+        "pe_ratio": 24.33,
         "forward_return": 1.58,
         "start_price": 188.5,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 27.11,
         "forward_return": 2.49,
         "start_price": 180.0,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 15.58,
+        "pe_ratio": 21.99,
         "forward_return": 18.32,
         "start_price": 166.5,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.32,
+        "pe_ratio": 19.59,
         "forward_return": 44.17,
         "start_price": 166.5,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 13.85,
+        "pe_ratio": 16.22,
         "forward_return": 68.35,
         "start_price": 153.0,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 15.31,
+        "pe_ratio": 16.91,
         "forward_return": 65.17,
         "start_price": 172.0,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 16.52,
+        "pe_ratio": 17.28,
         "forward_return": 52.83,
         "start_price": 188.5,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.45,
         "forward_return": 57.83,
         "start_price": 180.0,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.94,
         "forward_return": 28.07,
         "start_price": 176.5,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 16.57,
         "forward_return": 12.35,
         "start_price": 198.5,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 15.53,
+        "pe_ratio": 15.15,
         "forward_return": 12.71,
         "start_price": 185.0,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 15.78,
+        "pe_ratio": 15.02,
         "forward_return": 30.65,
         "start_price": 184.5,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 14.36,
         "forward_return": 48.05,
         "start_price": 177.5,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.04,
         "forward_return": 44.37,
         "start_price": 190.0,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.14,
+        "pe_ratio": 20.56,
         "forward_return": 25.69,
         "start_price": 233.0,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 23.21,
+        "pe_ratio": 23.15,
         "forward_return": 30.07,
         "start_price": 250.5,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 26.11,
+        "pe_ratio": 26.5,
         "forward_return": 11.42,
         "start_price": 276.0,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 27.06,
+        "pe_ratio": 27.96,
         "forward_return": 18.92,
         "start_price": 280.0,
         "start_year": 2023
@@ -6150,7 +6150,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 27.27,
+        "pe_ratio": 28.72,
         "forward_return": 37.63,
         "start_price": 276.0,
         "start_year": 2023
@@ -6159,7 +6159,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.81,
         "forward_return": 93.36,
         "start_price": 218.0,
         "start_year": 2023
@@ -6168,7 +6168,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 22.22,
+        "pe_ratio": 22.62,
         "forward_return": 94.66,
         "start_price": 215.0,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 20.66,
+        "pe_ratio": 21.18,
         "forward_return": 92.31,
         "start_price": 200.5,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 23.4,
+        "pe_ratio": 24.57,
         "forward_return": 23.05,
         "start_price": 233.0,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 24.98,
+        "pe_ratio": 26.84,
         "forward_return": 14.36,
         "start_price": 255.0,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 25.47,
+        "pe_ratio": 27.18,
         "forward_return": 12.24,
         "start_price": 266.5,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 28.18,
         "forward_return": 20.05,
         "start_price": 285.0,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 28.99,
+        "pe_ratio": 30.52,
         "forward_return": 41.26,
         "start_price": 318.0,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 26.82,
+        "pe_ratio": 28.45,
         "forward_return": 46.05,
         "start_price": 301.0,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 30.4,
         "forward_return": 80.78,
         "start_price": 326.5,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.27,
         "forward_return": 57.48,
         "start_price": 373.5,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 34.67,
+        "pe_ratio": 36.35,
         "forward_return": 99.37,
         "start_price": 415.5,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.49,
         "forward_return": 100.82,
         "start_price": 412.5,
         "start_year": 2024
@@ -6294,7 +6294,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 28.01,
+        "pe_ratio": 28.31,
         "forward_return": 160.78,
         "start_price": 379.5,
         "start_year": 2025
@@ -6303,7 +6303,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.7,
         "forward_return": 309.53,
         "start_price": 339.5,
         "start_year": 2025
@@ -6312,7 +6312,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.64,
         "forward_return": 53.81,
         "start_price": 32.3,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.99,
         "forward_return": 44.59,
         "start_price": 36.6,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.27,
         "forward_return": 51.58,
         "start_price": 34.0,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.82,
         "forward_return": 45.12,
         "start_price": 32.3,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 9.23,
+        "pe_ratio": 9.9,
         "forward_return": 34.21,
         "start_price": 33.6,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.72,
         "forward_return": 29.39,
         "start_price": 34.0,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 10.92,
         "forward_return": 6.04,
         "start_price": 39.3,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.04,
+        "pe_ratio": 10.12,
         "forward_return": -0.9,
         "start_price": 36.55,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 10.23,
         "forward_return": -12.89,
         "start_price": 37.1,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.64,
         "forward_return": -23.31,
         "start_price": 40.3,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 11.98,
+        "pe_ratio": 11.89,
         "forward_return": -21.3,
         "start_price": 46.75,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 12.22,
+        "pe_ratio": 12.08,
         "forward_return": -20.95,
         "start_price": 49.3,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 12.72,
         "forward_return": -11.62,
         "start_price": 54.1,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 15.99,
         "forward_return": -24.02,
         "start_price": 69.4,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.75,
         "forward_return": -16.25,
         "start_price": 80.0,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.76,
         "forward_return": -22.17,
         "start_price": 83.0,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 16.33,
+        "pe_ratio": 16.28,
         "forward_return": -6.89,
         "start_price": 78.8,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 15.52,
         "forward_return": -5.19,
         "start_price": 77.1,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.27,
         "forward_return": -3.53,
         "start_price": 77.8,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.37,
         "forward_return": 13.02,
         "start_price": 53.7,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.37,
         "forward_return": 8.05,
         "start_price": 63.5,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.11,
+        "pe_ratio": 14.13,
         "forward_return": 1.87,
         "start_price": 71.9,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 14.51,
         "forward_return": 0.97,
         "start_price": 72.0,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.22,
         "forward_return": -4.16,
         "start_price": 73.6,
         "start_year": 2008
@@ -6555,7 +6555,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 14.77,
+        "pe_ratio": 13.48,
         "forward_return": 3.26,
         "start_price": 63.5,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 13.14,
+        "pe_ratio": 11.89,
         "forward_return": 11.97,
         "start_price": 54.5,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.75,
+        "pe_ratio": 11.42,
         "forward_return": 23.5,
         "start_price": 50.9,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 8.81,
         "forward_return": 43.49,
         "start_price": 38.15,
         "start_year": 2008
@@ -6591,7 +6591,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.1,
+        "pe_ratio": 7.44,
         "forward_return": 66.62,
         "start_price": 29.85,
         "start_year": 2008
@@ -6600,7 +6600,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.25,
+        "pe_ratio": 5.98,
         "forward_return": 92.61,
         "start_price": 22.1,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.34,
+        "pe_ratio": 5.66,
         "forward_return": 130.92,
         "start_price": 17.65,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.08,
+        "pe_ratio": 8.03,
         "forward_return": 100.76,
         "start_price": 22.9,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 9.56,
         "forward_return": 100.11,
         "start_price": 24.75,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 13.62,
         "forward_return": 76.35,
         "start_price": 31.7,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 17.54,
         "forward_return": 62.74,
         "start_price": 36.2,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 18.89,
         "forward_return": 67.58,
         "start_price": 34.0,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 29.36,
         "forward_return": 24.54,
         "start_price": 50.5,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 27.23,
         "forward_return": 33.04,
         "start_price": 44.65,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.05,
+        "pe_ratio": 40.19,
         "forward_return": 4.91,
         "start_price": 62.7,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.07,
+        "pe_ratio": 34.0,
         "forward_return": 1.94,
         "start_price": 63.7,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 30.55,
         "forward_return": 2.22,
         "start_price": 66.8,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 23.23,
+        "pe_ratio": 22.99,
         "forward_return": 8.02,
         "start_price": 63.0,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.31,
         "forward_return": 7.37,
         "start_price": 63.5,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 21.43,
         "forward_return": 8.34,
         "start_price": 69.0,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.24,
+        "pe_ratio": 19.08,
         "forward_return": 3.33,
         "start_price": 67.8,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.95,
         "forward_return": 8.43,
         "start_price": 62.0,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 16.45,
+        "pe_ratio": 14.72,
         "forward_return": 8.79,
         "start_price": 62.1,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 14.14,
         "forward_return": 6.76,
         "start_price": 64.3,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 15.1,
         "forward_return": -3.24,
         "start_price": 73.6,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 16.88,
+        "pe_ratio": 14.33,
         "forward_return": -4.46,
         "start_price": 74.5,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 15.3,
         "forward_return": -11.36,
         "start_price": 78.8,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.27,
         "forward_return": -3.0,
         "start_price": 77.9,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.64,
         "forward_return": -12.05,
         "start_price": 90.0,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.1,
         "forward_return": -8.15,
         "start_price": 88.2,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 19.78,
+        "pe_ratio": 18.23,
         "forward_return": -9.61,
         "start_price": 95.0,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 20.02,
+        "pe_ratio": 18.48,
         "forward_return": -14.17,
         "start_price": 94.5,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.8,
+        "pe_ratio": 18.3,
         "forward_return": -13.74,
         "start_price": 91.8,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 18.58,
         "forward_return": -20.81,
         "start_price": 91.4,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.21,
+        "pe_ratio": 15.31,
         "forward_return": -3.72,
         "start_price": 72.5,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 16.67,
+        "pe_ratio": 16.08,
         "forward_return": 0.41,
         "start_price": 73.2,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.67,
+        "pe_ratio": 14.46,
         "forward_return": 6.06,
         "start_price": 63.2,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.16,
         "forward_return": 5.4,
         "start_price": 60.4,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.37,
         "forward_return": 0.39,
         "start_price": 64.0,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 17.83,
         "forward_return": 1.32,
         "start_price": 67.7,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 19.08,
         "forward_return": 6.68,
         "start_price": 67.4,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 20.55,
+        "pe_ratio": 23.0,
         "forward_return": 1.26,
         "start_price": 75.2,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.9,
+        "pe_ratio": 21.67,
         "forward_return": 11.1,
         "start_price": 66.6,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.79,
+        "pe_ratio": 23.33,
         "forward_return": 8.79,
         "start_price": 67.1,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 25.26,
         "forward_return": 14.09,
         "start_price": 67.7,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 21.45,
+        "pe_ratio": 25.97,
         "forward_return": 12.31,
         "start_price": 67.0,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 25.24,
         "forward_return": 21.57,
         "start_price": 62.6,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 21.61,
+        "pe_ratio": 25.92,
         "forward_return": 20.12,
         "start_price": 61.7,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 23.12,
         "forward_return": 20.12,
         "start_price": 55.6,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 25.89,
+        "pe_ratio": 27.58,
         "forward_return": 14.68,
         "start_price": 67.0,
         "start_year": 2012
@@ -7050,7 +7050,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 25.15,
+        "pe_ratio": 24.96,
         "forward_return": 14.79,
         "start_price": 63.3,
         "start_year": 2013
@@ -7059,7 +7059,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 26.4,
+        "pe_ratio": 26.01,
         "forward_return": 11.86,
         "start_price": 68.1,
         "start_year": 2013
@@ -7068,7 +7068,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 26.41,
         "forward_return": 7.38,
         "start_price": 71.3,
         "start_year": 2013
@@ -7077,7 +7077,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 23.39,
+        "pe_ratio": 22.34,
         "forward_return": 11.37,
         "start_price": 63.3,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.39,
+        "pe_ratio": 20.9,
         "forward_return": 8.96,
         "start_price": 62.0,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.45,
         "forward_return": 19.41,
         "start_price": 51.0,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.66,
+        "pe_ratio": 20.47,
         "forward_return": 4.99,
         "start_price": 62.7,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 22.9,
         "forward_return": -7.81,
         "start_price": 69.3,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.05,
+        "pe_ratio": 22.27,
         "forward_return": -3.98,
         "start_price": 66.6,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.44,
         "forward_return": 0.4,
         "start_price": 62.6,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 19.07,
+        "pe_ratio": 19.13,
         "forward_return": 2.31,
         "start_price": 60.0,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.42,
         "forward_return": 4.08,
         "start_price": 65.0,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.26,
+        "pe_ratio": 23.0,
         "forward_return": 2.05,
         "start_price": 72.6,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.09,
+        "pe_ratio": 23.19,
         "forward_return": 1.17,
         "start_price": 72.6,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 23.46,
+        "pe_ratio": 25.62,
         "forward_return": -0.64,
         "start_price": 77.7,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.44,
+        "pe_ratio": 25.51,
         "forward_return": 5.46,
         "start_price": 74.9,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.86,
+        "pe_ratio": 29.44,
         "forward_return": -1.02,
         "start_price": 83.6,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 26.4,
         "forward_return": 3.37,
         "start_price": 80.0,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 25.78,
+        "pe_ratio": 27.33,
         "forward_return": -0.58,
         "start_price": 88.0,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.57,
+        "pe_ratio": 24.78,
         "forward_return": 2.79,
         "start_price": 84.5,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 21.85,
+        "pe_ratio": 21.97,
         "forward_return": 6.01,
         "start_price": 75.7,
         "start_year": 2014
@@ -7248,7 +7248,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 23.96,
+        "pe_ratio": 24.02,
         "forward_return": 0.23,
         "start_price": 83.6,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 22.74,
         "forward_return": 4.93,
         "start_price": 78.9,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.56,
         "forward_return": 10.63,
         "start_price": 80.7,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.99,
         "forward_return": 11.65,
         "start_price": 77.7,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 21.53,
+        "pe_ratio": 21.68,
         "forward_return": 15.88,
         "start_price": 74.0,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 20.22,
+        "pe_ratio": 20.05,
         "forward_return": 19.85,
         "start_price": 69.1,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 19.6,
         "forward_return": 22.86,
         "start_price": 68.2,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.95,
+        "pe_ratio": 18.41,
         "forward_return": 25.66,
         "start_price": 64.0,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.49,
         "forward_return": 42.37,
         "start_price": 53.8,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 16.86,
+        "pe_ratio": 16.22,
         "forward_return": 40.44,
         "start_price": 56.3,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 17.47,
+        "pe_ratio": 17.03,
         "forward_return": 62.15,
         "start_price": 58.0,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 17.49,
+        "pe_ratio": 17.26,
         "forward_return": 77.58,
         "start_price": 57.7,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 19.3,
+        "pe_ratio": 18.91,
         "forward_return": 62.05,
         "start_price": 65.3,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.44,
         "forward_return": 54.62,
         "start_price": 70.5,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 19.26,
+        "pe_ratio": 18.21,
         "forward_return": 58.89,
         "start_price": 69.2,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 19.37,
+        "pe_ratio": 18.58,
         "forward_return": 47.45,
         "start_price": 71.6,
         "start_year": 2016
@@ -7410,7 +7410,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.57,
+        "pe_ratio": 20.02,
         "forward_return": 40.86,
         "start_price": 78.2,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.39,
         "forward_return": 48.64,
         "start_price": 76.8,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.93,
         "forward_return": 49.66,
         "start_price": 80.5,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 19.94,
+        "pe_ratio": 19.9,
         "forward_return": 47.04,
         "start_price": 82.0,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 19.99,
+        "pe_ratio": 20.07,
         "forward_return": 35.27,
         "start_price": 84.3,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.58,
         "forward_return": 20.46,
         "start_price": 80.1,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 17.85,
+        "pe_ratio": 17.87,
         "forward_return": 26.66,
         "start_price": 79.0,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 18.25,
         "forward_return": 24.89,
         "start_price": 81.9,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 21.11,
         "forward_return": 20.29,
         "start_price": 93.8,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 20.89,
         "forward_return": 29.56,
         "start_price": 91.9,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 21.31,
         "forward_return": 28.24,
         "start_price": 94.4,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.75,
+        "pe_ratio": 21.14,
         "forward_return": 20.85,
         "start_price": 94.3,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.92,
+        "pe_ratio": 21.83,
         "forward_return": 21.95,
         "start_price": 98.0,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 20.2,
         "forward_return": 27.69,
         "start_price": 95.5,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.9,
+        "pe_ratio": 20.85,
         "forward_return": 24.61,
         "start_price": 103.5,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 20.29,
         "forward_return": 21.48,
         "start_price": 105.5,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.11,
+        "pe_ratio": 26.23,
         "forward_return": 4.71,
         "start_price": 147.0,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 29.38,
         "forward_return": -8.39,
         "start_price": 176.5,
         "start_year": 2017
@@ -7590,7 +7590,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.59,
         "forward_return": -2.09,
         "start_price": 166.0,
         "start_year": 2018
@@ -7599,7 +7599,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 25.08,
+        "pe_ratio": 24.38,
         "forward_return": -2.97,
         "start_price": 160.0,
         "start_year": 2018
@@ -7608,7 +7608,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 26.56,
+        "pe_ratio": 25.45,
         "forward_return": -11.23,
         "start_price": 169.0,
         "start_year": 2018
@@ -7617,7 +7617,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 21.28,
         "forward_return": -0.78,
         "start_price": 150.0,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 20.04,
         "forward_return": -3.35,
         "start_price": 149.5,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 25.97,
+        "pe_ratio": 20.84,
         "forward_return": -1.18,
         "start_price": 164.0,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 22.53,
         "forward_return": -0.24,
         "start_price": 172.5,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 22.77,
         "forward_return": -0.39,
         "start_price": 169.5,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.37,
+        "pe_ratio": 20.26,
         "forward_return": 4.56,
         "start_price": 146.5,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.36,
+        "pe_ratio": 15.74,
         "forward_return": 14.87,
         "start_price": 108.5,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 19.08,
+        "pe_ratio": 18.15,
         "forward_return": 14.92,
         "start_price": 119.0,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.75,
+        "pe_ratio": 19.66,
         "forward_return": 27.84,
         "start_price": 120.0,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.59,
+        "pe_ratio": 21.38,
         "forward_return": 28.58,
         "start_price": 128.0,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 24.96,
         "forward_return": 15.56,
         "start_price": 146.5,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.15,
+        "pe_ratio": 27.23,
         "forward_return": 16.78,
         "start_price": 147.5,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 23.66,
+        "pe_ratio": 26.19,
         "forward_return": 22.67,
         "start_price": 130.0,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 30.6,
         "forward_return": 19.97,
         "start_price": 138.0,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 28.24,
+        "pe_ratio": 33.38,
         "forward_return": 17.79,
         "start_price": 147.0,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 30.04,
+        "pe_ratio": 35.38,
         "forward_return": 10.91,
         "start_price": 152.0,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 29.91,
+        "pe_ratio": 35.08,
         "forward_return": 11.72,
         "start_price": 147.0,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.97,
+        "pe_ratio": 35.58,
         "forward_return": 11.17,
         "start_price": 152.5,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 31.83,
         "forward_return": 17.61,
         "start_price": 139.5,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 32.93,
+        "pe_ratio": 32.65,
         "forward_return": 20.75,
         "start_price": 150.5,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 30.47,
+        "pe_ratio": 29.96,
         "forward_return": 14.29,
         "start_price": 142.0,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.56,
         "forward_return": 22.74,
         "start_price": 124.5,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.72,
+        "pe_ratio": 28.04,
         "forward_return": 11.89,
         "start_price": 139.0,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.57,
+        "pe_ratio": 25.97,
         "forward_return": 15.26,
         "start_price": 131.0,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 30.18,
+        "pe_ratio": 29.53,
         "forward_return": 2.93,
         "start_price": 151.5,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 32.19,
+        "pe_ratio": 31.57,
         "forward_return": 5.62,
         "start_price": 164.5,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 30.96,
+        "pe_ratio": 30.43,
         "forward_return": 11.46,
         "start_price": 161.0,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 28.92,
+        "pe_ratio": 28.49,
         "forward_return": 11.88,
         "start_price": 153.0,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.28,
+        "pe_ratio": 25.03,
         "forward_return": 17.58,
         "start_price": 136.0,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.29,
         "forward_return": 18.33,
         "start_price": 150.0,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.89,
+        "pe_ratio": 27.13,
         "forward_return": 1.96,
         "start_price": 189.0,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 32.49,
+        "pe_ratio": 24.42,
         "forward_return": -2.11,
         "start_price": 204.5,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.3,
+        "pe_ratio": 19.27,
         "forward_return": 0.13,
         "start_price": 188.5,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.01,
         "forward_return": 1.91,
         "start_price": 194.0,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.5,
+        "pe_ratio": 19.62,
         "forward_return": 13.9,
         "start_price": 188.5,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.68,
+        "pe_ratio": 20.12,
         "forward_return": 16.98,
         "start_price": 191.5,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.18,
+        "pe_ratio": 20.28,
         "forward_return": 21.71,
         "start_price": 196.5,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.13,
+        "pe_ratio": 18.2,
         "forward_return": 28.22,
         "start_price": 179.5,
         "start_year": 2021
@@ -7986,7 +7986,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.86,
+        "pe_ratio": 17.55,
         "forward_return": 28.6,
         "start_price": 176.0,
         "start_year": 2021
@@ -7995,7 +7995,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 19.62,
+        "pe_ratio": 18.09,
         "forward_return": 13.46,
         "start_price": 181.0,
         "start_year": 2021
@@ -8004,7 +8004,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.34,
+        "pe_ratio": 18.58,
         "forward_return": 11.35,
         "start_price": 185.5,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.9,
+        "pe_ratio": 23.95,
         "forward_return": 0.82,
         "start_price": 212.0,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 18.26,
+        "pe_ratio": 24.33,
         "forward_return": 14.71,
         "start_price": 188.5,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 27.11,
         "forward_return": 22.45,
         "start_price": 180.0,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 15.58,
+        "pe_ratio": 21.99,
         "forward_return": 30.0,
         "start_price": 166.5,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.32,
+        "pe_ratio": 19.59,
         "forward_return": 34.2,
         "start_price": 166.5,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 13.85,
+        "pe_ratio": 16.22,
         "forward_return": 47.49,
         "start_price": 153.0,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 15.31,
+        "pe_ratio": 16.91,
         "forward_return": 35.43,
         "start_price": 172.0,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 16.52,
+        "pe_ratio": 17.28,
         "forward_return": 34.49,
         "start_price": 188.5,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.45,
         "forward_return": 46.8,
         "start_price": 180.0,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.94,
         "forward_return": 56.06,
         "start_price": 176.5,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 16.57,
         "forward_return": 46.65,
         "start_price": 198.5,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 15.53,
+        "pe_ratio": 15.15,
         "forward_return": 45.92,
         "start_price": 185.0,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 15.78,
+        "pe_ratio": 15.02,
         "forward_return": 38.51,
         "start_price": 184.5,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 14.36,
         "forward_return": 29.9,
         "start_price": 177.5,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.04,
         "forward_return": 27.11,
         "start_price": 190.0,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.14,
+        "pe_ratio": 20.56,
         "forward_return": 22.56,
         "start_price": 233.0,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 23.21,
+        "pe_ratio": 23.15,
         "forward_return": 35.06,
         "start_price": 250.5,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 26.11,
+        "pe_ratio": 26.5,
         "forward_return": 27.11,
         "start_price": 276.0,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 27.06,
+        "pe_ratio": 27.96,
         "forward_return": 45.93,
         "start_price": 280.0,
         "start_year": 2023
@@ -8202,7 +8202,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 27.27,
+        "pe_ratio": 28.72,
         "forward_return": 46.74,
         "start_price": 276.0,
         "start_year": 2023
@@ -8211,7 +8211,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.81,
         "forward_return": 95.57,
         "start_price": 218.0,
         "start_year": 2023
@@ -8220,7 +8220,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 22.22,
+        "pe_ratio": 22.62,
         "forward_return": 96.93,
         "start_price": 215.0,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 20.66,
+        "pe_ratio": 21.18,
         "forward_return": 122.71,
         "start_price": 200.5,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.64,
         "forward_return": 0.62,
         "start_price": 32.3,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.99,
         "forward_return": 2.88,
         "start_price": 36.6,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.27,
         "forward_return": 9.26,
         "start_price": 34.0,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.82,
         "forward_return": 9.28,
         "start_price": 32.3,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 9.23,
+        "pe_ratio": 9.9,
         "forward_return": 20.34,
         "start_price": 33.6,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.72,
         "forward_return": 15.73,
         "start_price": 34.0,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 10.92,
         "forward_return": 21.65,
         "start_price": 39.3,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.04,
+        "pe_ratio": 10.12,
         "forward_return": 25.21,
         "start_price": 36.55,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 10.23,
         "forward_return": 26.36,
         "start_price": 37.1,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.64,
         "forward_return": 20.8,
         "start_price": 40.3,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 11.98,
+        "pe_ratio": 11.89,
         "forward_return": 15.24,
         "start_price": 46.75,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 12.22,
+        "pe_ratio": 12.08,
         "forward_return": 16.05,
         "start_price": 49.3,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 12.72,
         "forward_return": 9.0,
         "start_price": 54.1,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 15.99,
         "forward_return": 0.36,
         "start_price": 69.4,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.75,
         "forward_return": -3.49,
         "start_price": 80.0,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.76,
         "forward_return": -0.73,
         "start_price": 83.0,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 16.33,
+        "pe_ratio": 16.28,
         "forward_return": 1.38,
         "start_price": 78.8,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 15.52,
         "forward_return": 3.87,
         "start_price": 77.1,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.27,
         "forward_return": 3.2,
         "start_price": 77.8,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.37,
         "forward_return": 22.03,
         "start_price": 53.7,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.37,
         "forward_return": 16.86,
         "start_price": 63.5,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.11,
+        "pe_ratio": 14.13,
         "forward_return": 12.59,
         "start_price": 71.9,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 14.51,
         "forward_return": 12.36,
         "start_price": 72.0,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.22,
         "forward_return": 10.55,
         "start_price": 73.6,
         "start_year": 2008
@@ -8490,7 +8490,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 14.77,
+        "pe_ratio": 13.48,
         "forward_return": 15.97,
         "start_price": 63.5,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 13.14,
+        "pe_ratio": 11.89,
         "forward_return": 13.81,
         "start_price": 54.5,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.75,
+        "pe_ratio": 11.42,
         "forward_return": 16.77,
         "start_price": 50.9,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 8.81,
         "forward_return": 23.03,
         "start_price": 38.15,
         "start_year": 2008
@@ -8526,7 +8526,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.1,
+        "pe_ratio": 7.44,
         "forward_return": 31.74,
         "start_price": 29.85,
         "start_year": 2008
@@ -8535,7 +8535,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.25,
+        "pe_ratio": 5.98,
         "forward_return": 48.16,
         "start_price": 22.1,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.34,
+        "pe_ratio": 5.66,
         "forward_return": 62.39,
         "start_price": 17.65,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.08,
+        "pe_ratio": 8.03,
         "forward_return": 48.69,
         "start_price": 22.9,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 9.56,
         "forward_return": 49.67,
         "start_price": 24.75,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 13.62,
         "forward_return": 32.89,
         "start_price": 31.7,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 17.54,
         "forward_return": 27.43,
         "start_price": 36.2,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 18.89,
         "forward_return": 30.46,
         "start_price": 34.0,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 29.36,
         "forward_return": 14.24,
         "start_price": 50.5,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 27.23,
         "forward_return": 16.66,
         "start_price": 44.65,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.05,
+        "pe_ratio": 40.19,
         "forward_return": 3.74,
         "start_price": 62.7,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.07,
+        "pe_ratio": 34.0,
         "forward_return": 0.1,
         "start_price": 63.7,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 30.55,
         "forward_return": 4.07,
         "start_price": 66.8,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 23.23,
+        "pe_ratio": 22.99,
         "forward_return": 4.36,
         "start_price": 63.0,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.31,
         "forward_return": 6.36,
         "start_price": 63.5,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 21.43,
         "forward_return": 4.88,
         "start_price": 69.0,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.24,
+        "pe_ratio": 19.08,
         "forward_return": 1.83,
         "start_price": 67.8,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.95,
         "forward_return": 4.28,
         "start_price": 62.0,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 16.45,
+        "pe_ratio": 14.72,
         "forward_return": -1.53,
         "start_price": 62.1,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 14.14,
         "forward_return": 3.36,
         "start_price": 64.3,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 15.1,
         "forward_return": 1.78,
         "start_price": 73.6,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 16.88,
+        "pe_ratio": 14.33,
         "forward_return": 0.18,
         "start_price": 74.5,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 15.3,
         "forward_return": -3.46,
         "start_price": 78.8,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.27,
         "forward_return": -4.29,
         "start_price": 77.9,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.64,
         "forward_return": -6.61,
         "start_price": 90.0,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.1,
         "forward_return": -2.84,
         "start_price": 88.2,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 19.78,
+        "pe_ratio": 18.23,
         "forward_return": -5.21,
         "start_price": 95.0,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 20.02,
+        "pe_ratio": 18.48,
         "forward_return": -3.09,
         "start_price": 94.5,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.8,
+        "pe_ratio": 18.3,
         "forward_return": -3.22,
         "start_price": 91.8,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 18.58,
         "forward_return": 0.18,
         "start_price": 91.4,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.21,
+        "pe_ratio": 15.31,
         "forward_return": 6.26,
         "start_price": 72.5,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 16.67,
+        "pe_ratio": 16.08,
         "forward_return": 9.08,
         "start_price": 73.2,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.67,
+        "pe_ratio": 14.46,
         "forward_return": 13.12,
         "start_price": 63.2,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.16,
         "forward_return": 11.04,
         "start_price": 60.4,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.37,
         "forward_return": 12.28,
         "start_price": 64.0,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 17.83,
         "forward_return": 8.26,
         "start_price": 67.7,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 19.08,
         "forward_return": 7.7,
         "start_price": 67.4,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 20.55,
+        "pe_ratio": 23.0,
         "forward_return": 4.05,
         "start_price": 75.2,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.9,
+        "pe_ratio": 21.67,
         "forward_return": 6.75,
         "start_price": 66.6,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.79,
+        "pe_ratio": 23.33,
         "forward_return": 4.29,
         "start_price": 67.1,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 25.26,
         "forward_return": 3.57,
         "start_price": 67.7,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 21.45,
+        "pe_ratio": 25.97,
         "forward_return": 2.0,
         "start_price": 67.0,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 25.24,
         "forward_return": -0.91,
         "start_price": 62.6,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 21.61,
+        "pe_ratio": 25.92,
         "forward_return": 0.91,
         "start_price": 61.7,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 23.12,
         "forward_return": 5.41,
         "start_price": 55.6,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 25.89,
+        "pe_ratio": 27.58,
         "forward_return": -1.1,
         "start_price": 67.0,
         "start_year": 2012
@@ -8985,7 +8985,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 25.15,
+        "pe_ratio": 24.96,
         "forward_return": 4.59,
         "start_price": 63.3,
         "start_year": 2013
@@ -8994,7 +8994,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 26.4,
+        "pe_ratio": 26.01,
         "forward_return": 4.46,
         "start_price": 68.1,
         "start_year": 2013
@@ -9003,7 +9003,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 26.41,
         "forward_return": 2.29,
         "start_price": 71.3,
         "start_year": 2013
@@ -9012,7 +9012,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 23.39,
+        "pe_ratio": 22.34,
         "forward_return": 7.53,
         "start_price": 63.3,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.39,
+        "pe_ratio": 20.9,
         "forward_return": 11.22,
         "start_price": 62.0,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.45,
         "forward_return": 18.05,
         "start_price": 51.0,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.66,
+        "pe_ratio": 20.47,
         "forward_return": 11.95,
         "start_price": 62.7,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 22.9,
         "forward_return": 8.89,
         "start_price": 69.3,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.05,
+        "pe_ratio": 22.27,
         "forward_return": 11.28,
         "start_price": 66.6,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.44,
         "forward_return": 11.84,
         "start_price": 62.6,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 19.07,
+        "pe_ratio": 19.13,
         "forward_return": 12.96,
         "start_price": 60.0,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.42,
         "forward_return": 11.2,
         "start_price": 65.0,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.26,
+        "pe_ratio": 23.0,
         "forward_return": 11.73,
         "start_price": 72.6,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.09,
+        "pe_ratio": 23.19,
         "forward_return": 11.03,
         "start_price": 72.6,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 23.46,
+        "pe_ratio": 25.62,
         "forward_return": 9.45,
         "start_price": 77.7,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.44,
+        "pe_ratio": 25.51,
         "forward_return": 10.76,
         "start_price": 74.9,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.86,
+        "pe_ratio": 29.44,
         "forward_return": 8.06,
         "start_price": 83.6,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 26.4,
         "forward_return": 9.03,
         "start_price": 80.0,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 25.78,
+        "pe_ratio": 27.33,
         "forward_return": 8.27,
         "start_price": 88.0,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.57,
+        "pe_ratio": 24.78,
         "forward_return": 10.4,
         "start_price": 84.5,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 21.85,
+        "pe_ratio": 21.97,
         "forward_return": 27.03,
         "start_price": 75.7,
         "start_year": 2014
@@ -9183,7 +9183,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 23.96,
+        "pe_ratio": 24.02,
         "forward_return": 30.24,
         "start_price": 83.6,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 22.74,
         "forward_return": 30.21,
         "start_price": 78.9,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.56,
         "forward_return": 27.73,
         "start_price": 80.7,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.99,
         "forward_return": 31.62,
         "start_price": 77.7,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 21.53,
+        "pe_ratio": 21.68,
         "forward_return": 28.82,
         "start_price": 74.0,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 20.22,
+        "pe_ratio": 20.05,
         "forward_return": 31.65,
         "start_price": 69.1,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 19.6,
         "forward_return": 36.16,
         "start_price": 68.2,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.95,
+        "pe_ratio": 18.41,
         "forward_return": 41.81,
         "start_price": 64.0,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.49,
         "forward_return": 49.43,
         "start_price": 53.8,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 16.86,
+        "pe_ratio": 16.22,
         "forward_return": 40.62,
         "start_price": 56.3,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 17.47,
+        "pe_ratio": 17.03,
         "forward_return": 26.91,
         "start_price": 58.0,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 17.49,
+        "pe_ratio": 17.26,
         "forward_return": 30.77,
         "start_price": 57.7,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 19.3,
+        "pe_ratio": 18.91,
         "forward_return": 25.81,
         "start_price": 65.3,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.44,
         "forward_return": 29.57,
         "start_price": 70.5,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 19.26,
+        "pe_ratio": 18.21,
         "forward_return": 31.3,
         "start_price": 69.2,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 19.37,
+        "pe_ratio": 18.58,
         "forward_return": 30.1,
         "start_price": 71.6,
         "start_year": 2016
@@ -9345,7 +9345,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.57,
+        "pe_ratio": 20.02,
         "forward_return": 21.46,
         "start_price": 78.2,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.39,
         "forward_return": 24.48,
         "start_price": 76.8,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.93,
         "forward_return": 25.45,
         "start_price": 80.5,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 19.94,
+        "pe_ratio": 19.9,
         "forward_return": 25.98,
         "start_price": 82.0,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 19.99,
+        "pe_ratio": 20.07,
         "forward_return": 23.54,
         "start_price": 84.3,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.58,
         "forward_return": 27.1,
         "start_price": 80.1,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 17.85,
+        "pe_ratio": 17.87,
         "forward_return": 24.22,
         "start_price": 79.0,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 18.25,
         "forward_return": 25.65,
         "start_price": 81.9,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 21.11,
         "forward_return": 17.95,
         "start_price": 93.8,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 20.89,
         "forward_return": 14.06,
         "start_price": 91.9,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 21.31,
         "forward_return": 16.91,
         "start_price": 94.4,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.75,
+        "pe_ratio": 21.14,
         "forward_return": 14.85,
         "start_price": 94.3,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.92,
+        "pe_ratio": 21.83,
         "forward_return": 18.57,
         "start_price": 98.0,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 20.2,
         "forward_return": 22.63,
         "start_price": 95.5,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.9,
+        "pe_ratio": 20.85,
         "forward_return": 18.6,
         "start_price": 103.5,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 20.29,
         "forward_return": 15.99,
         "start_price": 105.5,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.11,
+        "pe_ratio": 26.23,
         "forward_return": 0.15,
         "start_price": 147.0,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 29.38,
         "forward_return": -2.88,
         "start_price": 176.5,
         "start_year": 2017
@@ -9525,7 +9525,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.59,
         "forward_return": 6.52,
         "start_price": 166.0,
         "start_year": 2018
@@ -9534,7 +9534,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 25.08,
+        "pe_ratio": 24.38,
         "forward_return": 10.55,
         "start_price": 160.0,
         "start_year": 2018
@@ -9543,7 +9543,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 26.56,
+        "pe_ratio": 25.45,
         "forward_return": 5.8,
         "start_price": 169.0,
         "start_year": 2018
@@ -9552,7 +9552,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 21.28,
         "forward_return": 11.09,
         "start_price": 150.0,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 20.04,
         "forward_return": 10.21,
         "start_price": 149.5,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 25.97,
+        "pe_ratio": 20.84,
         "forward_return": 7.4,
         "start_price": 164.0,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 22.53,
         "forward_return": 6.47,
         "start_price": 172.5,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 22.77,
         "forward_return": 4.09,
         "start_price": 169.5,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.37,
+        "pe_ratio": 20.26,
         "forward_return": 8.61,
         "start_price": 146.5,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.36,
+        "pe_ratio": 15.74,
         "forward_return": 21.09,
         "start_price": 108.5,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 19.08,
+        "pe_ratio": 18.15,
         "forward_return": 18.33,
         "start_price": 119.0,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.75,
+        "pe_ratio": 19.66,
         "forward_return": 23.06,
         "start_price": 120.0,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.59,
+        "pe_ratio": 21.38,
         "forward_return": 16.07,
         "start_price": 128.0,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 24.96,
         "forward_return": 9.37,
         "start_price": 146.5,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.15,
+        "pe_ratio": 27.23,
         "forward_return": 6.5,
         "start_price": 147.5,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 23.66,
+        "pe_ratio": 26.19,
         "forward_return": 11.08,
         "start_price": 130.0,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 30.6,
         "forward_return": 6.07,
         "start_price": 138.0,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 28.24,
+        "pe_ratio": 33.38,
         "forward_return": 8.25,
         "start_price": 147.0,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 30.04,
+        "pe_ratio": 35.38,
         "forward_return": 10.12,
         "start_price": 152.0,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 29.91,
+        "pe_ratio": 35.08,
         "forward_return": 9.78,
         "start_price": 147.0,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.97,
+        "pe_ratio": 35.58,
         "forward_return": 7.79,
         "start_price": 152.5,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 31.83,
         "forward_return": 15.15,
         "start_price": 139.5,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 32.93,
+        "pe_ratio": 32.65,
         "forward_return": 9.85,
         "start_price": 150.5,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 30.47,
+        "pe_ratio": 29.96,
         "forward_return": 10.29,
         "start_price": 142.0,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.56,
         "forward_return": 15.54,
         "start_price": 124.5,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.72,
+        "pe_ratio": 28.04,
         "forward_return": 13.74,
         "start_price": 139.0,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.57,
+        "pe_ratio": 25.97,
         "forward_return": 23.64,
         "start_price": 131.0,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 30.18,
+        "pe_ratio": 29.53,
         "forward_return": 20.5,
         "start_price": 151.5,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 32.19,
+        "pe_ratio": 31.57,
         "forward_return": 21.58,
         "start_price": 164.5,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 30.96,
+        "pe_ratio": 30.43,
         "forward_return": 23.0,
         "start_price": 161.0,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 28.92,
+        "pe_ratio": 28.49,
         "forward_return": 24.55,
         "start_price": 153.0,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.28,
+        "pe_ratio": 25.03,
         "forward_return": 20.43,
         "start_price": 136.0,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.29,
         "forward_return": 16.07,
         "start_price": 150.0,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.89,
+        "pe_ratio": 27.13,
         "forward_return": 5.19,
         "start_price": 189.0,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 32.49,
+        "pe_ratio": 24.42,
         "forward_return": 7.28,
         "start_price": 204.5,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.3,
+        "pe_ratio": 19.27,
         "forward_return": 13.34,
         "start_price": 188.5,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.01,
         "forward_return": 13.81,
         "start_price": 194.0,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.5,
+        "pe_ratio": 19.62,
         "forward_return": 17.33,
         "start_price": 188.5,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.68,
+        "pe_ratio": 20.12,
         "forward_return": 20.78,
         "start_price": 191.5,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.18,
+        "pe_ratio": 20.28,
         "forward_return": 17.96,
         "start_price": 196.5,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.13,
+        "pe_ratio": 18.2,
         "forward_return": 24.7,
         "start_price": 179.5,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.86,
+        "pe_ratio": 17.55,
         "forward_return": 30.93,
         "start_price": 176.0,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 19.62,
+        "pe_ratio": 18.09,
         "forward_return": 34.15,
         "start_price": 181.0,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.34,
+        "pe_ratio": 18.58,
         "forward_return": 32.75,
         "start_price": 185.5,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.9,
+        "pe_ratio": 23.95,
         "forward_return": 23.67,
         "start_price": 212.0,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 18.26,
+        "pe_ratio": 24.33,
         "forward_return": 24.19,
         "start_price": 188.5,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 27.11,
         "forward_return": 19.42,
         "start_price": 180.0,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 15.58,
+        "pe_ratio": 21.99,
         "forward_return": 23.55,
         "start_price": 166.5,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.32,
+        "pe_ratio": 19.59,
         "forward_return": 28.95,
         "start_price": 166.5,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 13.85,
+        "pe_ratio": 16.22,
         "forward_return": 44.74,
         "start_price": 153.0,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 15.31,
+        "pe_ratio": 16.91,
         "forward_return": 38.2,
         "start_price": 172.0,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 16.52,
+        "pe_ratio": 17.28,
         "forward_return": 47.46,
         "start_price": 188.5,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.45,
         "forward_return": 49.58,
         "start_price": 180.0,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.94,
         "forward_return": 68.36,
         "start_price": 176.5,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 16.57,
         "forward_return": 61.9,
         "start_price": 198.5,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 15.53,
+        "pe_ratio": 15.15,
         "forward_return": 75.69,
         "start_price": 185.0,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 15.78,
+        "pe_ratio": 15.02,
         "forward_return": 96.64,
         "start_price": 184.5,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.64,
         "forward_return": 25.12,
         "start_price": 32.3,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.99,
         "forward_return": 20.81,
         "start_price": 36.6,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.27,
         "forward_return": 20.7,
         "start_price": 34.0,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.82,
         "forward_return": 22.3,
         "start_price": 32.3,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 9.23,
+        "pe_ratio": 9.9,
         "forward_return": 21.97,
         "start_price": 33.6,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.72,
         "forward_return": 25.24,
         "start_price": 34.0,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 10.92,
         "forward_return": 21.11,
         "start_price": 39.3,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.04,
+        "pe_ratio": 10.12,
         "forward_return": 24.87,
         "start_price": 36.55,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 10.23,
         "forward_return": 24.09,
         "start_price": 37.1,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.64,
         "forward_return": 25.53,
         "start_price": 40.3,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 11.98,
+        "pe_ratio": 11.89,
         "forward_return": 20.41,
         "start_price": 46.75,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 12.22,
+        "pe_ratio": 12.08,
         "forward_return": 20.82,
         "start_price": 49.3,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 12.72,
         "forward_return": 17.14,
         "start_price": 54.1,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 15.99,
         "forward_return": 9.96,
         "start_price": 69.4,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.75,
         "forward_return": 1.2,
         "start_price": 80.0,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.76,
         "forward_return": 0.48,
         "start_price": 83.0,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 16.33,
+        "pe_ratio": 16.28,
         "forward_return": -1.36,
         "start_price": 78.8,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 15.52,
         "forward_return": -1.76,
         "start_price": 77.1,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.27,
         "forward_return": -0.78,
         "start_price": 77.8,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.37,
         "forward_return": 10.17,
         "start_price": 53.7,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.37,
         "forward_return": 5.55,
         "start_price": 63.5,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.11,
+        "pe_ratio": 14.13,
         "forward_return": 4.76,
         "start_price": 71.9,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 14.51,
         "forward_return": 2.02,
         "start_price": 72.0,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.22,
         "forward_return": 1.63,
         "start_price": 73.6,
         "start_year": 2008
@@ -10326,7 +10326,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 14.77,
+        "pe_ratio": 13.48,
         "forward_return": 5.65,
         "start_price": 63.5,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 13.14,
+        "pe_ratio": 11.89,
         "forward_return": 9.13,
         "start_price": 54.5,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.75,
+        "pe_ratio": 11.42,
         "forward_return": 9.4,
         "start_price": 50.9,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 8.81,
         "forward_return": 17.21,
         "start_price": 38.15,
         "start_year": 2008
@@ -10362,7 +10362,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.1,
+        "pe_ratio": 7.44,
         "forward_return": 21.9,
         "start_price": 29.85,
         "start_year": 2008
@@ -10371,7 +10371,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.25,
+        "pe_ratio": 5.98,
         "forward_return": 36.76,
         "start_price": 22.1,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.34,
+        "pe_ratio": 5.66,
         "forward_return": 42.91,
         "start_price": 17.65,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.08,
+        "pe_ratio": 8.03,
         "forward_return": 36.03,
         "start_price": 22.9,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 9.56,
         "forward_return": 34.75,
         "start_price": 24.75,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 13.62,
         "forward_return": 23.44,
         "start_price": 31.7,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 17.54,
         "forward_return": 18.88,
         "start_price": 36.2,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 18.89,
         "forward_return": 15.88,
         "start_price": 34.0,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 29.36,
         "forward_return": 9.65,
         "start_price": 50.5,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 27.23,
         "forward_return": 15.55,
         "start_price": 44.65,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.05,
+        "pe_ratio": 40.19,
         "forward_return": 5.24,
         "start_price": 62.7,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.07,
+        "pe_ratio": 34.0,
         "forward_return": 3.43,
         "start_price": 63.7,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 30.55,
         "forward_return": 1.28,
         "start_price": 66.8,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 23.23,
+        "pe_ratio": 22.99,
         "forward_return": 4.56,
         "start_price": 63.0,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.31,
         "forward_return": 6.89,
         "start_price": 63.5,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 21.43,
         "forward_return": 4.7,
         "start_price": 69.0,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.24,
+        "pe_ratio": 19.08,
         "forward_return": 6.74,
         "start_price": 67.8,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.95,
         "forward_return": 8.27,
         "start_price": 62.0,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 16.45,
+        "pe_ratio": 14.72,
         "forward_return": 10.89,
         "start_price": 62.1,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 14.14,
         "forward_return": 9.01,
         "start_price": 64.3,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 15.1,
         "forward_return": 7.64,
         "start_price": 73.6,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 16.88,
+        "pe_ratio": 14.33,
         "forward_return": 6.35,
         "start_price": 74.5,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 15.3,
         "forward_return": 2.36,
         "start_price": 78.8,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.27,
         "forward_return": 4.92,
         "start_price": 77.9,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.64,
         "forward_return": -0.08,
         "start_price": 90.0,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.1,
         "forward_return": 0.92,
         "start_price": 88.2,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 19.78,
+        "pe_ratio": 18.23,
         "forward_return": -1.76,
         "start_price": 95.0,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 20.02,
+        "pe_ratio": 18.48,
         "forward_return": -2.67,
         "start_price": 94.5,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.8,
+        "pe_ratio": 18.3,
         "forward_return": -3.41,
         "start_price": 91.8,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 18.58,
         "forward_return": -3.58,
         "start_price": 91.4,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.21,
+        "pe_ratio": 15.31,
         "forward_return": 0.38,
         "start_price": 72.5,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 16.67,
+        "pe_ratio": 16.08,
         "forward_return": -3.53,
         "start_price": 73.2,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.67,
+        "pe_ratio": 14.46,
         "forward_return": 1.05,
         "start_price": 63.2,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.16,
         "forward_return": 2.86,
         "start_price": 60.4,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.37,
         "forward_return": 1.27,
         "start_price": 64.0,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 17.83,
         "forward_return": 2.56,
         "start_price": 67.7,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 19.08,
         "forward_return": 4.41,
         "start_price": 67.4,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 20.55,
+        "pe_ratio": 23.0,
         "forward_return": 1.18,
         "start_price": 75.2,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.9,
+        "pe_ratio": 21.67,
         "forward_return": 5.08,
         "start_price": 66.6,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.79,
+        "pe_ratio": 23.33,
         "forward_return": 6.96,
         "start_price": 67.1,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 25.26,
         "forward_return": 6.29,
         "start_price": 67.7,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 21.45,
+        "pe_ratio": 25.97,
         "forward_return": 7.65,
         "start_price": 67.0,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 25.24,
         "forward_return": 9.95,
         "start_price": 62.6,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 21.61,
+        "pe_ratio": 25.92,
         "forward_return": 11.03,
         "start_price": 61.7,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 23.12,
         "forward_return": 12.66,
         "start_price": 55.6,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 25.89,
+        "pe_ratio": 27.58,
         "forward_return": 7.2,
         "start_price": 67.0,
         "start_year": 2012
@@ -10821,7 +10821,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 25.15,
+        "pe_ratio": 24.96,
         "forward_return": 9.61,
         "start_price": 63.3,
         "start_year": 2013
@@ -10830,7 +10830,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 26.4,
+        "pe_ratio": 26.01,
         "forward_return": 10.97,
         "start_price": 68.1,
         "start_year": 2013
@@ -10839,7 +10839,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 26.41,
         "forward_return": 9.2,
         "start_price": 71.3,
         "start_year": 2013
@@ -10848,7 +10848,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 23.39,
+        "pe_ratio": 22.34,
         "forward_return": 13.18,
         "start_price": 63.3,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.39,
+        "pe_ratio": 20.9,
         "forward_return": 13.74,
         "start_price": 62.0,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.45,
         "forward_return": 20.49,
         "start_price": 51.0,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.66,
+        "pe_ratio": 20.47,
         "forward_return": 14.08,
         "start_price": 62.7,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 22.9,
         "forward_return": 13.3,
         "start_price": 69.3,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.05,
+        "pe_ratio": 22.27,
         "forward_return": 14.93,
         "start_price": 66.6,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.44,
         "forward_return": 25.98,
         "start_price": 62.6,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 19.07,
+        "pe_ratio": 19.13,
         "forward_return": 32.9,
         "start_price": 60.0,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.42,
         "forward_return": 28.4,
         "start_price": 65.0,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.26,
+        "pe_ratio": 23.0,
         "forward_return": 23.83,
         "start_price": 72.6,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.09,
+        "pe_ratio": 23.19,
         "forward_return": 25.43,
         "start_price": 72.6,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 23.46,
+        "pe_ratio": 25.62,
         "forward_return": 19.92,
         "start_price": 77.7,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.44,
+        "pe_ratio": 25.51,
         "forward_return": 20.93,
         "start_price": 74.9,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.86,
+        "pe_ratio": 29.44,
         "forward_return": 20.23,
         "start_price": 83.6,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 26.4,
         "forward_return": 23.35,
         "start_price": 80.0,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 25.78,
+        "pe_ratio": 27.33,
         "forward_return": 19.95,
         "start_price": 88.0,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.57,
+        "pe_ratio": 24.78,
         "forward_return": 17.15,
         "start_price": 84.5,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 21.85,
+        "pe_ratio": 21.97,
         "forward_return": 12.48,
         "start_price": 75.7,
         "start_year": 2014
@@ -11019,7 +11019,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 23.96,
+        "pe_ratio": 24.02,
         "forward_return": 12.03,
         "start_price": 83.6,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 22.74,
         "forward_return": 13.88,
         "start_price": 78.9,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.56,
         "forward_return": 14.9,
         "start_price": 80.7,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.99,
         "forward_return": 19.64,
         "start_price": 77.7,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 21.53,
+        "pe_ratio": 21.68,
         "forward_return": 21.29,
         "start_price": 74.0,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 20.22,
+        "pe_ratio": 20.05,
         "forward_return": 19.87,
         "start_price": 69.1,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 19.6,
         "forward_return": 21.92,
         "start_price": 68.2,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.95,
+        "pe_ratio": 18.41,
         "forward_return": 25.99,
         "start_price": 64.0,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.49,
         "forward_return": 32.58,
         "start_price": 53.8,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 16.86,
+        "pe_ratio": 16.22,
         "forward_return": 30.09,
         "start_price": 56.3,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 17.47,
+        "pe_ratio": 17.03,
         "forward_return": 30.21,
         "start_price": 58.0,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 17.49,
+        "pe_ratio": 17.26,
         "forward_return": 27.76,
         "start_price": 57.7,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 19.3,
+        "pe_ratio": 18.91,
         "forward_return": 26.03,
         "start_price": 65.3,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.44,
         "forward_return": 22.01,
         "start_price": 70.5,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 19.26,
+        "pe_ratio": 18.21,
         "forward_return": 19.0,
         "start_price": 69.2,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 19.37,
+        "pe_ratio": 18.58,
         "forward_return": 20.95,
         "start_price": 71.6,
         "start_year": 2016
@@ -11181,7 +11181,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.57,
+        "pe_ratio": 20.02,
         "forward_return": 16.74,
         "start_price": 78.2,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.39,
         "forward_return": 21.21,
         "start_price": 76.8,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.93,
         "forward_return": 22.18,
         "start_price": 80.5,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 19.94,
+        "pe_ratio": 19.9,
         "forward_return": 21.02,
         "start_price": 82.0,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 19.99,
+        "pe_ratio": 20.07,
         "forward_return": 18.79,
         "start_price": 84.3,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.58,
         "forward_return": 17.15,
         "start_price": 80.1,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 17.85,
+        "pe_ratio": 17.87,
         "forward_return": 20.19,
         "start_price": 79.0,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 18.25,
         "forward_return": 25.61,
         "start_price": 81.9,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 21.11,
         "forward_return": 23.67,
         "start_price": 93.8,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 20.89,
         "forward_return": 21.97,
         "start_price": 91.9,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 21.31,
         "forward_return": 21.96,
         "start_price": 94.4,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.75,
+        "pe_ratio": 21.14,
         "forward_return": 21.19,
         "start_price": 94.3,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.92,
+        "pe_ratio": 21.83,
         "forward_return": 20.47,
         "start_price": 98.0,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 20.2,
         "forward_return": 22.16,
         "start_price": 95.5,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.9,
+        "pe_ratio": 20.85,
         "forward_return": 17.26,
         "start_price": 103.5,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 20.29,
         "forward_return": 16.17,
         "start_price": 105.5,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.11,
+        "pe_ratio": 26.23,
         "forward_return": 7.62,
         "start_price": 147.0,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 29.38,
         "forward_return": 3.39,
         "start_price": 176.5,
         "start_year": 2017
@@ -11361,7 +11361,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.59,
         "forward_return": 8.28,
         "start_price": 166.0,
         "start_year": 2018
@@ -11370,7 +11370,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 25.08,
+        "pe_ratio": 24.38,
         "forward_return": 6.35,
         "start_price": 160.0,
         "start_year": 2018
@@ -11379,7 +11379,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 26.56,
+        "pe_ratio": 25.45,
         "forward_return": 3.8,
         "start_price": 169.0,
         "start_year": 2018
@@ -11388,7 +11388,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 21.28,
         "forward_return": 5.05,
         "start_price": 150.0,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 20.04,
         "forward_return": 5.14,
         "start_price": 149.5,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 25.97,
+        "pe_ratio": 20.84,
         "forward_return": 0.78,
         "start_price": 164.0,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 22.53,
         "forward_return": 2.53,
         "start_price": 172.5,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 22.77,
         "forward_return": 5.14,
         "start_price": 169.5,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.37,
+        "pe_ratio": 20.26,
         "forward_return": 7.91,
         "start_price": 146.5,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.36,
+        "pe_ratio": 15.74,
         "forward_return": 15.81,
         "start_price": 108.5,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 19.08,
+        "pe_ratio": 18.15,
         "forward_return": 16.23,
         "start_price": 119.0,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.75,
+        "pe_ratio": 19.66,
         "forward_return": 14.14,
         "start_price": 120.0,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.59,
+        "pe_ratio": 21.38,
         "forward_return": 12.24,
         "start_price": 128.0,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 24.96,
         "forward_return": 7.57,
         "start_price": 146.5,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.15,
+        "pe_ratio": 27.23,
         "forward_return": 9.06,
         "start_price": 147.5,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 23.66,
+        "pe_ratio": 26.19,
         "forward_return": 17.96,
         "start_price": 130.0,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 30.6,
         "forward_return": 18.18,
         "start_price": 138.0,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 28.24,
+        "pe_ratio": 33.38,
         "forward_return": 19.37,
         "start_price": 147.0,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 30.04,
+        "pe_ratio": 35.38,
         "forward_return": 18.77,
         "start_price": 152.0,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 29.91,
+        "pe_ratio": 35.08,
         "forward_return": 19.37,
         "start_price": 147.0,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.97,
+        "pe_ratio": 35.58,
         "forward_return": 12.06,
         "start_price": 152.5,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 31.83,
         "forward_return": 14.23,
         "start_price": 139.5,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 32.93,
+        "pe_ratio": 32.65,
         "forward_return": 10.33,
         "start_price": 150.5,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 30.47,
+        "pe_ratio": 29.96,
         "forward_return": 15.82,
         "start_price": 142.0,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.56,
         "forward_return": 22.19,
         "start_price": 124.5,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.72,
+        "pe_ratio": 28.04,
         "forward_return": 20.08,
         "start_price": 139.0,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.57,
+        "pe_ratio": 25.97,
         "forward_return": 23.78,
         "start_price": 131.0,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 30.18,
+        "pe_ratio": 29.53,
         "forward_return": 22.44,
         "start_price": 151.5,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 32.19,
+        "pe_ratio": 31.57,
         "forward_return": 18.75,
         "start_price": 164.5,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 30.96,
+        "pe_ratio": 30.43,
         "forward_return": 21.65,
         "start_price": 161.0,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 28.92,
+        "pe_ratio": 28.49,
         "forward_return": 27.12,
         "start_price": 153.0,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.28,
+        "pe_ratio": 25.03,
         "forward_return": 34.24,
         "start_price": 136.0,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.29,
         "forward_return": 30.76,
         "start_price": 150.0,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.89,
+        "pe_ratio": 27.13,
         "forward_return": 21.03,
         "start_price": 189.0,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 32.49,
+        "pe_ratio": 24.42,
         "forward_return": 15.63,
         "start_price": 204.5,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.3,
+        "pe_ratio": 19.27,
         "forward_return": 13.34,
         "start_price": 188.5,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.01,
         "forward_return": 13.2,
         "start_price": 194.0,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.5,
+        "pe_ratio": 19.62,
         "forward_return": 17.69,
         "start_price": 188.5,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 24.68,
+        "pe_ratio": 20.12,
         "forward_return": 25.07,
         "start_price": 191.5,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 24.18,
+        "pe_ratio": 20.28,
         "forward_return": 23.77,
         "start_price": 196.5,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.13,
+        "pe_ratio": 18.2,
         "forward_return": 35.86,
         "start_price": 179.5,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.86,
+        "pe_ratio": 17.55,
         "forward_return": 36.42,
         "start_price": 176.0,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 19.62,
+        "pe_ratio": 18.09,
         "forward_return": 47.19,
         "start_price": 181.0,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.34,
+        "pe_ratio": 18.58,
         "forward_return": 46.29,
         "start_price": 185.5,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.9,
+        "pe_ratio": 23.95,
         "forward_return": 47.76,
         "start_price": 212.0,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 18.26,
+        "pe_ratio": 24.33,
         "forward_return": 65.39,
         "start_price": 188.5,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.64,
         "forward_return": 27.11,
         "start_price": 32.3,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.99,
         "forward_return": 23.86,
         "start_price": 36.6,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.27,
         "forward_return": 25.05,
         "start_price": 34.0,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.82,
         "forward_return": 26.25,
         "start_price": 32.3,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 9.23,
+        "pe_ratio": 9.9,
         "forward_return": 20.78,
         "start_price": 33.6,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.72,
         "forward_return": 20.69,
         "start_price": 34.0,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 10.92,
         "forward_return": 14.42,
         "start_price": 39.3,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.04,
+        "pe_ratio": 10.12,
         "forward_return": 15.23,
         "start_price": 36.55,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 10.23,
         "forward_return": 15.98,
         "start_price": 37.1,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.64,
         "forward_return": 15.14,
         "start_price": 40.3,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 11.98,
+        "pe_ratio": 11.89,
         "forward_return": 11.69,
         "start_price": 46.75,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 12.22,
+        "pe_ratio": 12.08,
         "forward_return": 12.55,
         "start_price": 49.3,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 12.72,
         "forward_return": 8.39,
         "start_price": 54.1,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 15.99,
         "forward_return": 3.28,
         "start_price": 69.4,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.75,
         "forward_return": 0.23,
         "start_price": 80.0,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.76,
         "forward_return": -1.62,
         "start_price": 83.0,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 16.33,
+        "pe_ratio": 16.28,
         "forward_return": -0.82,
         "start_price": 78.8,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 15.52,
         "forward_return": -2.05,
         "start_price": 77.1,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.27,
         "forward_return": 0.79,
         "start_price": 77.8,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.37,
         "forward_return": 7.53,
         "start_price": 53.7,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.37,
         "forward_return": 5.96,
         "start_price": 63.5,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.11,
+        "pe_ratio": 14.13,
         "forward_return": 3.45,
         "start_price": 71.9,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 14.51,
         "forward_return": 1.41,
         "start_price": 72.0,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.22,
         "forward_return": 0.62,
         "start_price": 73.6,
         "start_year": 2008
@@ -12054,7 +12054,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 14.77,
+        "pe_ratio": 13.48,
         "forward_return": 0.44,
         "start_price": 63.5,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 13.14,
+        "pe_ratio": 11.89,
         "forward_return": 6.6,
         "start_price": 54.5,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.75,
+        "pe_ratio": 11.42,
         "forward_return": 9.9,
         "start_price": 50.9,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 8.81,
         "forward_return": 15.65,
         "start_price": 38.15,
         "start_year": 2008
@@ -12090,7 +12090,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.1,
+        "pe_ratio": 7.44,
         "forward_return": 20.21,
         "start_price": 29.85,
         "start_year": 2008
@@ -12099,7 +12099,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.25,
+        "pe_ratio": 5.98,
         "forward_return": 26.76,
         "start_price": 22.1,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.34,
+        "pe_ratio": 5.66,
         "forward_return": 34.37,
         "start_price": 17.65,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.08,
+        "pe_ratio": 8.03,
         "forward_return": 29.97,
         "start_price": 22.9,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 9.56,
         "forward_return": 27.97,
         "start_price": 24.75,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 13.62,
         "forward_return": 23.21,
         "start_price": 31.7,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 17.54,
         "forward_return": 19.23,
         "start_price": 36.2,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 18.89,
         "forward_return": 23.05,
         "start_price": 34.0,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 29.36,
         "forward_return": 12.94,
         "start_price": 50.5,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 27.23,
         "forward_return": 17.69,
         "start_price": 44.65,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.05,
+        "pe_ratio": 40.19,
         "forward_return": 9.19,
         "start_price": 62.7,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.07,
+        "pe_ratio": 34.0,
         "forward_return": 6.8,
         "start_price": 63.7,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 30.55,
         "forward_return": 7.61,
         "start_price": 66.8,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 23.23,
+        "pe_ratio": 22.99,
         "forward_return": 7.8,
         "start_price": 63.0,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.31,
         "forward_return": 8.05,
         "start_price": 63.5,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 21.43,
         "forward_return": 5.58,
         "start_price": 69.0,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.24,
+        "pe_ratio": 19.08,
         "forward_return": 5.07,
         "start_price": 67.8,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.95,
         "forward_return": 5.73,
         "start_price": 62.0,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 16.45,
+        "pe_ratio": 14.72,
         "forward_return": 5.46,
         "start_price": 62.1,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 14.14,
         "forward_return": 3.78,
         "start_price": 64.3,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 15.1,
         "forward_return": -1.8,
         "start_price": 73.6,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 16.88,
+        "pe_ratio": 14.33,
         "forward_return": -1.32,
         "start_price": 74.5,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 15.3,
         "forward_return": -1.95,
         "start_price": 78.8,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.27,
         "forward_return": -1.81,
         "start_price": 77.9,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.64,
         "forward_return": -2.65,
         "start_price": 90.0,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.1,
         "forward_return": -0.99,
         "start_price": 88.2,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 19.78,
+        "pe_ratio": 18.23,
         "forward_return": -2.76,
         "start_price": 95.0,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 20.02,
+        "pe_ratio": 18.48,
         "forward_return": -2.09,
         "start_price": 94.5,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.8,
+        "pe_ratio": 18.3,
         "forward_return": -0.04,
         "start_price": 91.8,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 18.58,
         "forward_return": -0.26,
         "start_price": 91.4,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.21,
+        "pe_ratio": 15.31,
         "forward_return": 4.99,
         "start_price": 72.5,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 16.67,
+        "pe_ratio": 16.08,
         "forward_return": 5.12,
         "start_price": 73.2,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.67,
+        "pe_ratio": 14.46,
         "forward_return": 8.78,
         "start_price": 63.2,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.16,
         "forward_return": 8.8,
         "start_price": 60.4,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.37,
         "forward_return": 7.29,
         "start_price": 64.0,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 17.83,
         "forward_return": 6.75,
         "start_price": 67.7,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 19.08,
         "forward_return": 8.89,
         "start_price": 67.4,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 20.55,
+        "pe_ratio": 23.0,
         "forward_return": 6.68,
         "start_price": 75.2,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.9,
+        "pe_ratio": 21.67,
         "forward_return": 9.82,
         "start_price": 66.6,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.79,
+        "pe_ratio": 23.33,
         "forward_return": 9.64,
         "start_price": 67.1,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 25.26,
         "forward_return": 10.19,
         "start_price": 67.7,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 21.45,
+        "pe_ratio": 25.97,
         "forward_return": 10.06,
         "start_price": 67.0,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 25.24,
         "forward_return": 13.17,
         "start_price": 62.6,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 21.61,
+        "pe_ratio": 25.92,
         "forward_return": 13.89,
         "start_price": 61.7,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 23.12,
         "forward_return": 23.5,
         "start_price": 55.6,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 25.89,
+        "pe_ratio": 27.58,
         "forward_return": 23.08,
         "start_price": 67.0,
         "start_year": 2012
@@ -12549,7 +12549,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 25.15,
+        "pe_ratio": 24.96,
         "forward_return": 23.07,
         "start_price": 63.3,
         "start_year": 2013
@@ -12558,7 +12558,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 26.4,
+        "pe_ratio": 26.01,
         "forward_return": 20.46,
         "start_price": 68.1,
         "start_year": 2013
@@ -12567,7 +12567,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 26.41,
         "forward_return": 20.58,
         "start_price": 71.3,
         "start_year": 2013
@@ -12576,7 +12576,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 23.39,
+        "pe_ratio": 22.34,
         "forward_return": 20.78,
         "start_price": 63.3,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.39,
+        "pe_ratio": 20.9,
         "forward_return": 21.21,
         "start_price": 62.0,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.45,
         "forward_return": 28.22,
         "start_price": 51.0,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.66,
+        "pe_ratio": 20.47,
         "forward_return": 24.52,
         "start_price": 62.7,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 22.9,
         "forward_return": 21.66,
         "start_price": 69.3,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.05,
+        "pe_ratio": 22.27,
         "forward_return": 19.41,
         "start_price": 66.6,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.44,
         "forward_return": 14.59,
         "start_price": 62.6,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 19.07,
+        "pe_ratio": 19.13,
         "forward_return": 17.47,
         "start_price": 60.0,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.42,
         "forward_return": 15.77,
         "start_price": 65.0,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.26,
+        "pe_ratio": 23.0,
         "forward_return": 14.55,
         "start_price": 72.6,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.09,
+        "pe_ratio": 23.19,
         "forward_return": 17.37,
         "start_price": 72.6,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 23.46,
+        "pe_ratio": 25.62,
         "forward_return": 15.93,
         "start_price": 77.7,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.44,
+        "pe_ratio": 25.51,
         "forward_return": 14.15,
         "start_price": 74.9,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.86,
+        "pe_ratio": 29.44,
         "forward_return": 12.88,
         "start_price": 83.6,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 26.4,
         "forward_return": 15.42,
         "start_price": 80.0,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 25.78,
+        "pe_ratio": 27.33,
         "forward_return": 13.92,
         "start_price": 88.0,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.57,
+        "pe_ratio": 24.78,
         "forward_return": 14.16,
         "start_price": 84.5,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 21.85,
+        "pe_ratio": 21.97,
         "forward_return": 17.48,
         "start_price": 75.7,
         "start_year": 2014
@@ -12747,7 +12747,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 23.96,
+        "pe_ratio": 24.02,
         "forward_return": 13.34,
         "start_price": 83.6,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 22.74,
         "forward_return": 16.23,
         "start_price": 78.9,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.56,
         "forward_return": 14.51,
         "start_price": 80.7,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.99,
         "forward_return": 12.71,
         "start_price": 77.7,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 21.53,
+        "pe_ratio": 21.68,
         "forward_return": 16.06,
         "start_price": 74.0,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 20.22,
+        "pe_ratio": 20.05,
         "forward_return": 16.42,
         "start_price": 69.1,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 19.6,
         "forward_return": 19.8,
         "start_price": 68.2,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.95,
+        "pe_ratio": 18.41,
         "forward_return": 23.2,
         "start_price": 64.0,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.49,
         "forward_return": 27.06,
         "start_price": 53.8,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 16.86,
+        "pe_ratio": 16.22,
         "forward_return": 24.76,
         "start_price": 56.3,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 17.47,
+        "pe_ratio": 17.03,
         "forward_return": 21.44,
         "start_price": 58.0,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 17.49,
+        "pe_ratio": 17.26,
         "forward_return": 23.71,
         "start_price": 57.7,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 19.3,
+        "pe_ratio": 18.91,
         "forward_return": 25.85,
         "start_price": 65.3,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.44,
         "forward_return": 23.46,
         "start_price": 70.5,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 19.26,
+        "pe_ratio": 18.21,
         "forward_return": 24.35,
         "start_price": 69.2,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 19.37,
+        "pe_ratio": 18.58,
         "forward_return": 24.16,
         "start_price": 71.6,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.57,
+        "pe_ratio": 20.02,
         "forward_return": 21.35,
         "start_price": 78.2,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.39,
         "forward_return": 22.14,
         "start_price": 76.8,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.93,
         "forward_return": 21.81,
         "start_price": 80.5,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 19.94,
+        "pe_ratio": 19.9,
         "forward_return": 19.39,
         "start_price": 82.0,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 19.99,
+        "pe_ratio": 20.07,
         "forward_return": 18.31,
         "start_price": 84.3,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.58,
         "forward_return": 20.13,
         "start_price": 80.1,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 17.85,
+        "pe_ratio": 17.87,
         "forward_return": 21.0,
         "start_price": 79.0,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 18.25,
         "forward_return": 23.09,
         "start_price": 81.9,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 21.11,
         "forward_return": 17.26,
         "start_price": 93.8,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 20.89,
         "forward_return": 16.76,
         "start_price": 91.9,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 21.31,
         "forward_return": 14.51,
         "start_price": 94.4,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.75,
+        "pe_ratio": 21.14,
         "forward_return": 14.54,
         "start_price": 94.3,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.92,
+        "pe_ratio": 21.83,
         "forward_return": 11.96,
         "start_price": 98.0,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 20.2,
         "forward_return": 15.37,
         "start_price": 95.5,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.9,
+        "pe_ratio": 20.85,
         "forward_return": 15.38,
         "start_price": 103.5,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 20.29,
         "forward_return": 14.0,
         "start_price": 105.5,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.11,
+        "pe_ratio": 26.23,
         "forward_return": 6.31,
         "start_price": 147.0,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 29.38,
         "forward_return": 4.66,
         "start_price": 176.5,
         "start_year": 2017
@@ -13089,7 +13089,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.59,
         "forward_return": 4.63,
         "start_price": 166.0,
         "start_year": 2018
@@ -13098,7 +13098,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 25.08,
+        "pe_ratio": 24.38,
         "forward_return": 5.35,
         "start_price": 160.0,
         "start_year": 2018
@@ -13107,7 +13107,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 26.56,
+        "pe_ratio": 25.45,
         "forward_return": 3.49,
         "start_price": 169.0,
         "start_year": 2018
@@ -13116,7 +13116,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 21.28,
         "forward_return": 7.28,
         "start_price": 150.0,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 20.04,
         "forward_return": 11.37,
         "start_price": 149.5,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 25.97,
+        "pe_ratio": 20.84,
         "forward_return": 10.78,
         "start_price": 164.0,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 22.53,
         "forward_return": 11.9,
         "start_price": 172.5,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 22.77,
         "forward_return": 12.59,
         "start_price": 169.5,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.37,
+        "pe_ratio": 20.26,
         "forward_return": 15.62,
         "start_price": 146.5,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.36,
+        "pe_ratio": 15.74,
         "forward_return": 17.66,
         "start_price": 108.5,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 19.08,
+        "pe_ratio": 18.15,
         "forward_return": 15.22,
         "start_price": 119.0,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.75,
+        "pe_ratio": 19.66,
         "forward_return": 13.62,
         "start_price": 120.0,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.59,
+        "pe_ratio": 21.38,
         "forward_return": 15.2,
         "start_price": 128.0,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 24.96,
         "forward_return": 13.96,
         "start_price": 146.5,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.15,
+        "pe_ratio": 27.23,
         "forward_return": 14.72,
         "start_price": 147.5,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 23.66,
+        "pe_ratio": 26.19,
         "forward_return": 19.1,
         "start_price": 130.0,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 30.6,
         "forward_return": 20.08,
         "start_price": 138.0,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 28.24,
+        "pe_ratio": 33.38,
         "forward_return": 17.55,
         "start_price": 147.0,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 30.04,
+        "pe_ratio": 35.38,
         "forward_return": 18.52,
         "start_price": 152.0,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 29.91,
+        "pe_ratio": 35.08,
         "forward_return": 22.31,
         "start_price": 147.0,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.97,
+        "pe_ratio": 35.58,
         "forward_return": 23.85,
         "start_price": 152.5,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 31.83,
         "forward_return": 25.91,
         "start_price": 139.5,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 32.93,
+        "pe_ratio": 32.65,
         "forward_return": 22.1,
         "start_price": 150.5,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 30.47,
+        "pe_ratio": 29.96,
         "forward_return": 16.91,
         "start_price": 142.0,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.56,
         "forward_return": 20.33,
         "start_price": 124.5,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.72,
+        "pe_ratio": 28.04,
         "forward_return": 18.27,
         "start_price": 139.0,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 26.57,
+        "pe_ratio": 25.97,
         "forward_return": 22.72,
         "start_price": 131.0,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 30.18,
+        "pe_ratio": 29.53,
         "forward_return": 25.5,
         "start_price": 151.5,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 32.19,
+        "pe_ratio": 31.57,
         "forward_return": 23.13,
         "start_price": 164.5,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 30.96,
+        "pe_ratio": 30.43,
         "forward_return": 30.79,
         "start_price": 161.0,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 28.92,
+        "pe_ratio": 28.49,
         "forward_return": 32.05,
         "start_price": 153.0,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 25.28,
+        "pe_ratio": 25.03,
         "forward_return": 44.42,
         "start_price": 136.0,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.29,
         "forward_return": 41.61,
         "start_price": 150.0,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 31.89,
+        "pe_ratio": 27.13,
         "forward_return": 39.97,
         "start_price": 189.0,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 32.49,
+        "pe_ratio": 24.42,
         "forward_return": 47.25,
         "start_price": 204.5,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.64,
         "forward_return": 18.87,
         "start_price": 32.3,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.99,
         "forward_return": 14.52,
         "start_price": 36.6,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.27,
         "forward_return": 16.05,
         "start_price": 34.0,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.82,
         "forward_return": 17.19,
         "start_price": 32.3,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 9.23,
+        "pe_ratio": 9.9,
         "forward_return": 16.35,
         "start_price": 33.6,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.72,
         "forward_return": 15.07,
         "start_price": 34.0,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 10.92,
         "forward_return": 12.11,
         "start_price": 39.3,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.04,
+        "pe_ratio": 10.12,
         "forward_return": 11.95,
         "start_price": 36.55,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 10.23,
         "forward_return": 14.44,
         "start_price": 37.1,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.64,
         "forward_return": 12.02,
         "start_price": 40.3,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 11.98,
+        "pe_ratio": 11.89,
         "forward_return": 10.36,
         "start_price": 46.75,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 12.22,
+        "pe_ratio": 12.08,
         "forward_return": 10.06,
         "start_price": 49.3,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 12.72,
         "forward_return": 6.37,
         "start_price": 54.1,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 15.99,
         "forward_return": -0.5,
         "start_price": 69.4,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.75,
         "forward_return": -0.29,
         "start_price": 80.0,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.76,
         "forward_return": 0.44,
         "start_price": 83.0,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 16.33,
+        "pe_ratio": 16.28,
         "forward_return": 0.77,
         "start_price": 78.8,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 15.52,
         "forward_return": 0.3,
         "start_price": 77.1,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.27,
         "forward_return": -0.41,
         "start_price": 77.8,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.37,
         "forward_return": 7.07,
         "start_price": 53.7,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.37,
         "forward_return": 5.61,
         "start_price": 63.5,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.11,
+        "pe_ratio": 14.13,
         "forward_return": 3.52,
         "start_price": 71.9,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 14.51,
         "forward_return": 4.47,
         "start_price": 72.0,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.22,
         "forward_return": 3.56,
         "start_price": 73.6,
         "start_year": 2008
@@ -13674,7 +13674,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 14.77,
+        "pe_ratio": 13.48,
         "forward_return": 7.78,
         "start_price": 63.5,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 13.14,
+        "pe_ratio": 11.89,
         "forward_return": 9.67,
         "start_price": 54.5,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.75,
+        "pe_ratio": 11.42,
         "forward_return": 12.43,
         "start_price": 50.9,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 8.81,
         "forward_return": 17.29,
         "start_price": 38.15,
         "start_year": 2008
@@ -13710,7 +13710,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.1,
+        "pe_ratio": 7.44,
         "forward_return": 20.31,
         "start_price": 29.85,
         "start_year": 2008
@@ -13719,7 +13719,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.25,
+        "pe_ratio": 5.98,
         "forward_return": 28.27,
         "start_price": 22.1,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.34,
+        "pe_ratio": 5.66,
         "forward_return": 32.09,
         "start_price": 17.65,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.08,
+        "pe_ratio": 8.03,
         "forward_return": 26.88,
         "start_price": 22.9,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 9.56,
         "forward_return": 24.58,
         "start_price": 24.75,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 13.62,
         "forward_return": 18.74,
         "start_price": 31.7,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 17.54,
         "forward_return": 15.04,
         "start_price": 36.2,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 18.89,
         "forward_return": 16.04,
         "start_price": 34.0,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 29.36,
         "forward_return": 7.84,
         "start_price": 50.5,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 27.23,
         "forward_return": 7.58,
         "start_price": 44.65,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.05,
+        "pe_ratio": 40.19,
         "forward_return": 2.26,
         "start_price": 62.7,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.07,
+        "pe_ratio": 34.0,
         "forward_return": 2.39,
         "start_price": 63.7,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 30.55,
         "forward_return": 1.52,
         "start_price": 66.8,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 23.23,
+        "pe_ratio": 22.99,
         "forward_return": 4.22,
         "start_price": 63.0,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.31,
         "forward_return": 5.17,
         "start_price": 63.5,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 21.43,
         "forward_return": 3.46,
         "start_price": 69.0,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.24,
+        "pe_ratio": 19.08,
         "forward_return": 4.24,
         "start_price": 67.8,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.95,
         "forward_return": 7.11,
         "start_price": 62.0,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 16.45,
+        "pe_ratio": 14.72,
         "forward_return": 6.81,
         "start_price": 62.1,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 14.14,
         "forward_return": 6.96,
         "start_price": 64.3,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 15.1,
         "forward_return": 4.85,
         "start_price": 73.6,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 16.88,
+        "pe_ratio": 14.33,
         "forward_return": 5.04,
         "start_price": 74.5,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 15.3,
         "forward_return": 3.32,
         "start_price": 78.8,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.27,
         "forward_return": 3.32,
         "start_price": 77.9,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.64,
         "forward_return": 1.37,
         "start_price": 90.0,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.1,
         "forward_return": 3.68,
         "start_price": 88.2,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 19.78,
+        "pe_ratio": 18.23,
         "forward_return": 2.11,
         "start_price": 95.0,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 20.02,
+        "pe_ratio": 18.48,
         "forward_return": 2.59,
         "start_price": 94.5,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.8,
+        "pe_ratio": 18.3,
         "forward_return": 3.07,
         "start_price": 91.8,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 18.58,
         "forward_return": 3.72,
         "start_price": 91.4,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.21,
+        "pe_ratio": 15.31,
         "forward_return": 7.31,
         "start_price": 72.5,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 16.67,
+        "pe_ratio": 16.08,
         "forward_return": 8.39,
         "start_price": 73.2,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.67,
+        "pe_ratio": 14.46,
         "forward_return": 11.38,
         "start_price": 63.2,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.16,
         "forward_return": 17.89,
         "start_price": 60.4,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.37,
         "forward_return": 20.06,
         "start_price": 64.0,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 17.83,
         "forward_return": 17.83,
         "start_price": 67.7,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 19.08,
         "forward_return": 17.98,
         "start_price": 67.4,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 20.55,
+        "pe_ratio": 23.0,
         "forward_return": 16.11,
         "start_price": 75.2,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.9,
+        "pe_ratio": 21.67,
         "forward_return": 16.35,
         "start_price": 66.6,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.79,
+        "pe_ratio": 23.33,
         "forward_return": 16.15,
         "start_price": 67.1,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 25.26,
         "forward_return": 17.62,
         "start_price": 67.7,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 21.45,
+        "pe_ratio": 25.97,
         "forward_return": 18.94,
         "start_price": 67.0,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 25.24,
         "forward_return": 19.98,
         "start_price": 62.6,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 21.61,
+        "pe_ratio": 25.92,
         "forward_return": 17.66,
         "start_price": 61.7,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 23.12,
         "forward_return": 14.56,
         "start_price": 55.6,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 25.89,
+        "pe_ratio": 27.58,
         "forward_return": 12.55,
         "start_price": 67.0,
         "start_year": 2012
@@ -14169,7 +14169,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 25.15,
+        "pe_ratio": 24.96,
         "forward_return": 13.76,
         "start_price": 63.3,
         "start_year": 2013
@@ -14178,7 +14178,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 26.4,
+        "pe_ratio": 26.01,
         "forward_return": 13.45,
         "start_price": 68.1,
         "start_year": 2013
@@ -14187,7 +14187,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 26.41,
         "forward_return": 14.86,
         "start_price": 71.3,
         "start_year": 2013
@@ -14196,7 +14196,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 23.39,
+        "pe_ratio": 22.34,
         "forward_return": 17.28,
         "start_price": 63.3,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.39,
+        "pe_ratio": 20.9,
         "forward_return": 15.5,
         "start_price": 62.0,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.45,
         "forward_return": 20.38,
         "start_price": 51.0,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.66,
+        "pe_ratio": 20.47,
         "forward_return": 17.66,
         "start_price": 62.7,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 22.9,
         "forward_return": 16.29,
         "start_price": 69.3,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.05,
+        "pe_ratio": 22.27,
         "forward_return": 16.49,
         "start_price": 66.6,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.44,
         "forward_return": 18.34,
         "start_price": 62.6,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 19.07,
+        "pe_ratio": 19.13,
         "forward_return": 17.62,
         "start_price": 60.0,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.42,
         "forward_return": 17.37,
         "start_price": 65.0,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.26,
+        "pe_ratio": 23.0,
         "forward_return": 14.24,
         "start_price": 72.6,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.09,
+        "pe_ratio": 23.19,
         "forward_return": 12.07,
         "start_price": 72.6,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 23.46,
+        "pe_ratio": 25.62,
         "forward_return": 12.6,
         "start_price": 77.7,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.44,
+        "pe_ratio": 25.51,
         "forward_return": 12.31,
         "start_price": 74.9,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.86,
+        "pe_ratio": 29.44,
         "forward_return": 12.65,
         "start_price": 83.6,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 26.4,
         "forward_return": 14.93,
         "start_price": 80.0,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 25.78,
+        "pe_ratio": 27.33,
         "forward_return": 12.75,
         "start_price": 88.0,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.57,
+        "pe_ratio": 24.78,
         "forward_return": 12.67,
         "start_price": 84.5,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 21.85,
+        "pe_ratio": 21.97,
         "forward_return": 12.79,
         "start_price": 75.7,
         "start_year": 2014
@@ -14367,7 +14367,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 23.96,
+        "pe_ratio": 24.02,
         "forward_return": 12.54,
         "start_price": 83.6,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 22.74,
         "forward_return": 17.61,
         "start_price": 78.9,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.56,
         "forward_return": 18.58,
         "start_price": 80.7,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.99,
         "forward_return": 17.86,
         "start_price": 77.7,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 21.53,
+        "pe_ratio": 21.68,
         "forward_return": 19.34,
         "start_price": 74.0,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 20.22,
+        "pe_ratio": 20.05,
         "forward_return": 20.19,
         "start_price": 69.1,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 19.6,
         "forward_return": 20.74,
         "start_price": 68.2,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.95,
+        "pe_ratio": 18.41,
         "forward_return": 22.68,
         "start_price": 64.0,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.49,
         "forward_return": 24.59,
         "start_price": 53.8,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 16.86,
+        "pe_ratio": 16.22,
         "forward_return": 23.29,
         "start_price": 56.3,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 17.47,
+        "pe_ratio": 17.03,
         "forward_return": 23.19,
         "start_price": 58.0,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 17.49,
+        "pe_ratio": 17.26,
         "forward_return": 23.75,
         "start_price": 57.7,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 19.3,
+        "pe_ratio": 18.91,
         "forward_return": 23.68,
         "start_price": 65.3,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.44,
         "forward_return": 18.88,
         "start_price": 70.5,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 19.26,
+        "pe_ratio": 18.21,
         "forward_return": 19.53,
         "start_price": 69.2,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 19.37,
+        "pe_ratio": 18.58,
         "forward_return": 17.49,
         "start_price": 71.6,
         "start_year": 2016
@@ -14529,7 +14529,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.57,
+        "pe_ratio": 20.02,
         "forward_return": 15.77,
         "start_price": 78.2,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.39,
         "forward_return": 14.69,
         "start_price": 76.8,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.93,
         "forward_return": 16.22,
         "start_price": 80.5,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 19.94,
+        "pe_ratio": 19.9,
         "forward_return": 17.42,
         "start_price": 82.0,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 19.99,
+        "pe_ratio": 20.07,
         "forward_return": 16.1,
         "start_price": 84.3,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.58,
         "forward_return": 16.76,
         "start_price": 80.1,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 17.85,
+        "pe_ratio": 17.87,
         "forward_return": 19.05,
         "start_price": 79.0,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 18.25,
         "forward_return": 17.12,
         "start_price": 81.9,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 21.11,
         "forward_return": 14.46,
         "start_price": 93.8,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 20.89,
         "forward_return": 14.2,
         "start_price": 91.9,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 21.31,
         "forward_return": 14.83,
         "start_price": 94.4,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.75,
+        "pe_ratio": 21.14,
         "forward_return": 18.37,
         "start_price": 94.3,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.92,
+        "pe_ratio": 21.83,
         "forward_return": 18.9,
         "start_price": 98.0,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 20.2,
         "forward_return": 21.5,
         "start_price": 95.5,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.9,
+        "pe_ratio": 20.85,
         "forward_return": 20.14,
         "start_price": 103.5,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 20.29,
         "forward_return": 19.5,
         "start_price": 105.5,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.11,
+        "pe_ratio": 26.23,
         "forward_return": 9.19,
         "start_price": 147.0,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 29.38,
         "forward_return": 5.7,
         "start_price": 176.5,
         "start_year": 2017
@@ -14709,7 +14709,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.59,
         "forward_return": 5.71,
         "start_price": 166.0,
         "start_year": 2018
@@ -14718,7 +14718,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 25.08,
+        "pe_ratio": 24.38,
         "forward_return": 8.72,
         "start_price": 160.0,
         "start_year": 2018
@@ -14727,7 +14727,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 26.56,
+        "pe_ratio": 25.45,
         "forward_return": 9.17,
         "start_price": 169.0,
         "start_year": 2018
@@ -14736,7 +14736,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 21.28,
         "forward_return": 12.1,
         "start_price": 150.0,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 20.04,
         "forward_return": 13.29,
         "start_price": 149.5,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 25.97,
+        "pe_ratio": 20.84,
         "forward_return": 13.42,
         "start_price": 164.0,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 22.53,
         "forward_return": 11.65,
         "start_price": 172.5,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 22.77,
         "forward_return": 13.36,
         "start_price": 169.5,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.37,
+        "pe_ratio": 20.26,
         "forward_return": 18.55,
         "start_price": 146.5,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.36,
+        "pe_ratio": 15.74,
         "forward_return": 26.69,
         "start_price": 108.5,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 19.08,
+        "pe_ratio": 18.15,
         "forward_return": 24.62,
         "start_price": 119.0,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 19.75,
+        "pe_ratio": 19.66,
         "forward_return": 22.86,
         "start_price": 120.0,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.59,
+        "pe_ratio": 21.38,
         "forward_return": 19.5,
         "start_price": 128.0,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 24.96,
         "forward_return": 13.8,
         "start_price": 146.5,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.15,
+        "pe_ratio": 27.23,
         "forward_return": 14.11,
         "start_price": 147.5,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 23.66,
+        "pe_ratio": 26.19,
         "forward_return": 18.97,
         "start_price": 130.0,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 30.6,
         "forward_return": 22.9,
         "start_price": 138.0,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 28.24,
+        "pe_ratio": 33.38,
         "forward_return": 21.31,
         "start_price": 147.0,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 30.04,
+        "pe_ratio": 35.38,
         "forward_return": 26.37,
         "start_price": 152.0,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 29.91,
+        "pe_ratio": 35.08,
         "forward_return": 27.0,
         "start_price": 147.0,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.97,
+        "pe_ratio": 35.58,
         "forward_return": 33.33,
         "start_price": 152.5,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 30.16,
+        "pe_ratio": 31.83,
         "forward_return": 35.33,
         "start_price": 139.5,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 32.93,
+        "pe_ratio": 32.65,
         "forward_return": 37.51,
         "start_price": 150.5,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.64,
         "forward_return": 14.14,
         "start_price": 32.3,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.99,
         "forward_return": 13.13,
         "start_price": 36.6,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.27,
         "forward_return": 13.76,
         "start_price": 34.0,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.82,
         "forward_return": 15.75,
         "start_price": 32.3,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 9.23,
+        "pe_ratio": 9.9,
         "forward_return": 14.73,
         "start_price": 33.6,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.72,
         "forward_return": 15.66,
         "start_price": 34.0,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 10.92,
         "forward_return": 13.12,
         "start_price": 39.3,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.04,
+        "pe_ratio": 10.12,
         "forward_return": 12.91,
         "start_price": 36.55,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 10.23,
         "forward_return": 13.81,
         "start_price": 37.1,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.64,
         "forward_return": 12.0,
         "start_price": 40.3,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 11.98,
+        "pe_ratio": 11.89,
         "forward_return": 10.18,
         "start_price": 46.75,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 12.22,
+        "pe_ratio": 12.08,
         "forward_return": 9.04,
         "start_price": 49.3,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 12.72,
         "forward_return": 6.56,
         "start_price": 54.1,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 15.99,
         "forward_return": 3.17,
         "start_price": 69.4,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.75,
         "forward_return": 0.76,
         "start_price": 80.0,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.76,
         "forward_return": -1.29,
         "start_price": 83.0,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 16.33,
+        "pe_ratio": 16.28,
         "forward_return": -0.24,
         "start_price": 78.8,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 15.52,
         "forward_return": 0.31,
         "start_price": 77.1,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.27,
         "forward_return": 0.15,
         "start_price": 77.8,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.37,
         "forward_return": 6.11,
         "start_price": 53.7,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.37,
         "forward_return": 4.67,
         "start_price": 63.5,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.11,
+        "pe_ratio": 14.13,
         "forward_return": 2.88,
         "start_price": 71.9,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 14.51,
         "forward_return": 3.2,
         "start_price": 72.0,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.22,
         "forward_return": 3.8,
         "start_price": 73.6,
         "start_year": 2008
@@ -15177,7 +15177,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 14.77,
+        "pe_ratio": 13.48,
         "forward_return": 5.55,
         "start_price": 63.5,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 13.14,
+        "pe_ratio": 11.89,
         "forward_return": 7.92,
         "start_price": 54.5,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.75,
+        "pe_ratio": 11.42,
         "forward_return": 9.05,
         "start_price": 50.9,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 8.81,
         "forward_return": 13.37,
         "start_price": 38.15,
         "start_year": 2008
@@ -15213,7 +15213,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.1,
+        "pe_ratio": 7.44,
         "forward_return": 16.3,
         "start_price": 29.85,
         "start_year": 2008
@@ -15222,7 +15222,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.25,
+        "pe_ratio": 5.98,
         "forward_return": 20.58,
         "start_price": 22.1,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.34,
+        "pe_ratio": 5.66,
         "forward_return": 24.47,
         "start_price": 17.65,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.08,
+        "pe_ratio": 8.03,
         "forward_return": 22.16,
         "start_price": 22.9,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 9.56,
         "forward_return": 20.73,
         "start_price": 24.75,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 13.62,
         "forward_return": 17.37,
         "start_price": 31.7,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 17.54,
         "forward_return": 15.43,
         "start_price": 36.2,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 18.89,
         "forward_return": 16.8,
         "start_price": 34.0,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 29.36,
         "forward_return": 11.01,
         "start_price": 50.5,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 27.23,
         "forward_return": 13.68,
         "start_price": 44.65,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.05,
+        "pe_ratio": 40.19,
         "forward_return": 9.17,
         "start_price": 62.7,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.07,
+        "pe_ratio": 34.0,
         "forward_return": 12.89,
         "start_price": 63.7,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 30.55,
         "forward_return": 14.51,
         "start_price": 66.8,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 23.23,
+        "pe_ratio": 22.99,
         "forward_return": 14.57,
         "start_price": 63.0,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.31,
         "forward_return": 13.99,
         "start_price": 63.5,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 21.43,
         "forward_return": 13.5,
         "start_price": 69.0,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.24,
+        "pe_ratio": 19.08,
         "forward_return": 12.26,
         "start_price": 67.8,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.95,
         "forward_return": 13.48,
         "start_price": 62.0,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 16.45,
+        "pe_ratio": 14.72,
         "forward_return": 14.62,
         "start_price": 62.1,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 14.14,
         "forward_return": 14.95,
         "start_price": 64.3,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 15.1,
         "forward_return": 12.8,
         "start_price": 73.6,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 16.88,
+        "pe_ratio": 14.33,
         "forward_return": 10.86,
         "start_price": 74.5,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 15.3,
         "forward_return": 6.66,
         "start_price": 78.8,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.27,
         "forward_return": 7.84,
         "start_price": 77.9,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.64,
         "forward_return": 6.0,
         "start_price": 90.0,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.1,
         "forward_return": 6.99,
         "start_price": 88.2,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 19.78,
+        "pe_ratio": 18.23,
         "forward_return": 7.54,
         "start_price": 95.0,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 20.02,
+        "pe_ratio": 18.48,
         "forward_return": 7.69,
         "start_price": 94.5,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.8,
+        "pe_ratio": 18.3,
         "forward_return": 6.63,
         "start_price": 91.8,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 18.58,
         "forward_return": 7.37,
         "start_price": 91.4,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.21,
+        "pe_ratio": 15.31,
         "forward_return": 11.31,
         "start_price": 72.5,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 16.67,
+        "pe_ratio": 16.08,
         "forward_return": 11.58,
         "start_price": 73.2,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.67,
+        "pe_ratio": 14.46,
         "forward_return": 13.24,
         "start_price": 63.2,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.16,
         "forward_return": 14.33,
         "start_price": 60.4,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.37,
         "forward_return": 12.43,
         "start_price": 64.0,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 17.83,
         "forward_return": 12.55,
         "start_price": 67.7,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 19.08,
         "forward_return": 11.91,
         "start_price": 67.4,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 20.55,
+        "pe_ratio": 23.0,
         "forward_return": 8.86,
         "start_price": 75.2,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.9,
+        "pe_ratio": 21.67,
         "forward_return": 11.83,
         "start_price": 66.6,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.79,
+        "pe_ratio": 23.33,
         "forward_return": 11.02,
         "start_price": 67.1,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 25.26,
         "forward_return": 12.63,
         "start_price": 67.7,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 21.45,
+        "pe_ratio": 25.97,
         "forward_return": 13.83,
         "start_price": 67.0,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 25.24,
         "forward_return": 14.53,
         "start_price": 62.6,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 21.61,
+        "pe_ratio": 25.92,
         "forward_return": 14.11,
         "start_price": 61.7,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 23.12,
         "forward_return": 14.16,
         "start_price": 55.6,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 25.89,
+        "pe_ratio": 27.58,
         "forward_return": 12.7,
         "start_price": 67.0,
         "start_year": 2012
@@ -15672,7 +15672,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 25.15,
+        "pe_ratio": 24.96,
         "forward_return": 16.4,
         "start_price": 63.3,
         "start_year": 2013
@@ -15681,7 +15681,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 26.4,
+        "pe_ratio": 26.01,
         "forward_return": 16.36,
         "start_price": 68.1,
         "start_year": 2013
@@ -15690,7 +15690,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 26.41,
         "forward_return": 14.65,
         "start_price": 71.3,
         "start_year": 2013
@@ -15699,7 +15699,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 23.39,
+        "pe_ratio": 22.34,
         "forward_return": 16.74,
         "start_price": 63.3,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.39,
+        "pe_ratio": 20.9,
         "forward_return": 16.67,
         "start_price": 62.0,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.45,
         "forward_return": 19.76,
         "start_price": 51.0,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.66,
+        "pe_ratio": 20.47,
         "forward_return": 17.21,
         "start_price": 62.7,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 22.9,
         "forward_return": 14.61,
         "start_price": 69.3,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.05,
+        "pe_ratio": 22.27,
         "forward_return": 14.94,
         "start_price": 66.6,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.44,
         "forward_return": 16.18,
         "start_price": 62.6,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 19.07,
+        "pe_ratio": 19.13,
         "forward_return": 17.12,
         "start_price": 60.0,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.42,
         "forward_return": 17.67,
         "start_price": 65.0,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.26,
+        "pe_ratio": 23.0,
         "forward_return": 14.56,
         "start_price": 72.6,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.09,
+        "pe_ratio": 23.19,
         "forward_return": 13.98,
         "start_price": 72.6,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 23.46,
+        "pe_ratio": 25.62,
         "forward_return": 12.07,
         "start_price": 77.7,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.44,
+        "pe_ratio": 25.51,
         "forward_return": 12.59,
         "start_price": 74.9,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.86,
+        "pe_ratio": 29.44,
         "forward_return": 10.05,
         "start_price": 83.6,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 26.4,
         "forward_return": 12.37,
         "start_price": 80.0,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 25.78,
+        "pe_ratio": 27.33,
         "forward_return": 12.13,
         "start_price": 88.0,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.57,
+        "pe_ratio": 24.78,
         "forward_return": 12.14,
         "start_price": 84.5,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 21.85,
+        "pe_ratio": 21.97,
         "forward_return": 13.46,
         "start_price": 75.7,
         "start_year": 2014
@@ -15870,7 +15870,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 23.96,
+        "pe_ratio": 24.02,
         "forward_return": 13.48,
         "start_price": 83.6,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 22.74,
         "forward_return": 13.44,
         "start_price": 78.9,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.56,
         "forward_return": 13.09,
         "start_price": 80.7,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.99,
         "forward_return": 13.16,
         "start_price": 77.7,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 21.53,
+        "pe_ratio": 21.68,
         "forward_return": 14.68,
         "start_price": 74.0,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 20.22,
+        "pe_ratio": 20.05,
         "forward_return": 18.26,
         "start_price": 69.1,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 19.6,
         "forward_return": 19.41,
         "start_price": 68.2,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.95,
+        "pe_ratio": 18.41,
         "forward_return": 21.93,
         "start_price": 64.0,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.49,
         "forward_return": 24.81,
         "start_price": 53.8,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 16.86,
+        "pe_ratio": 16.22,
         "forward_return": 23.9,
         "start_price": 56.3,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 17.47,
+        "pe_ratio": 17.03,
         "forward_return": 20.32,
         "start_price": 58.0,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 17.49,
+        "pe_ratio": 17.26,
         "forward_return": 20.22,
         "start_price": 57.7,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 19.3,
+        "pe_ratio": 18.91,
         "forward_return": 17.5,
         "start_price": 65.3,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.44,
         "forward_return": 18.26,
         "start_price": 70.5,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 19.26,
+        "pe_ratio": 18.21,
         "forward_return": 19.7,
         "start_price": 69.2,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 19.37,
+        "pe_ratio": 18.58,
         "forward_return": 19.77,
         "start_price": 71.6,
         "start_year": 2016
@@ -16032,7 +16032,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.57,
+        "pe_ratio": 20.02,
         "forward_return": 19.34,
         "start_price": 78.2,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.39,
         "forward_return": 21.08,
         "start_price": 76.8,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.93,
         "forward_return": 19.82,
         "start_price": 80.5,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 19.94,
+        "pe_ratio": 19.9,
         "forward_return": 20.62,
         "start_price": 82.0,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 19.99,
+        "pe_ratio": 20.07,
         "forward_return": 22.03,
         "start_price": 84.3,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.58,
         "forward_return": 24.3,
         "start_price": 80.1,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 17.85,
+        "pe_ratio": 17.87,
         "forward_return": 24.41,
         "start_price": 79.0,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 18.25,
         "forward_return": 22.69,
         "start_price": 81.9,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 21.11,
         "forward_return": 19.13,
         "start_price": 93.8,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 20.89,
         "forward_return": 17.15,
         "start_price": 91.9,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 18.31,
+        "pe_ratio": 21.31,
         "forward_return": 17.09,
         "start_price": 94.4,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.75,
+        "pe_ratio": 21.14,
         "forward_return": 18.89,
         "start_price": 94.3,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.92,
+        "pe_ratio": 21.83,
         "forward_return": 22.08,
         "start_price": 98.0,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 20.2,
         "forward_return": 22.28,
         "start_price": 95.5,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 17.9,
+        "pe_ratio": 20.85,
         "forward_return": 25.27,
         "start_price": 103.5,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 20.29,
         "forward_return": 24.92,
         "start_price": 105.5,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 24.11,
+        "pe_ratio": 26.23,
         "forward_return": 24.81,
         "start_price": 147.0,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 29.38,
         "forward_return": 21.99,
         "start_price": 176.5,
         "start_year": 2017
@@ -16212,7 +16212,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.59,
         "forward_return": 25.58,
         "start_price": 166.0,
         "start_year": 2018
@@ -16221,7 +16221,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 25.08,
+        "pe_ratio": 24.38,
         "forward_return": 31.46,
         "start_price": 160.0,
         "start_year": 2018
@@ -16230,7 +16230,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.64,
         "forward_return": 11.36,
         "start_price": 32.3,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.99,
         "forward_return": 10.26,
         "start_price": 36.6,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.27,
         "forward_return": 11.8,
         "start_price": 34.0,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.82,
         "forward_return": 12.23,
         "start_price": 32.3,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 9.23,
+        "pe_ratio": 9.9,
         "forward_return": 12.21,
         "start_price": 33.6,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.72,
         "forward_return": 12.23,
         "start_price": 34.0,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 10.92,
         "forward_return": 10.85,
         "start_price": 39.3,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 10.04,
+        "pe_ratio": 10.12,
         "forward_return": 11.23,
         "start_price": 36.55,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 10.23,
         "forward_return": 10.95,
         "start_price": 37.1,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.64,
         "forward_return": 10.33,
         "start_price": 40.3,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 11.98,
+        "pe_ratio": 11.89,
         "forward_return": 9.85,
         "start_price": 46.75,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 12.22,
+        "pe_ratio": 12.08,
         "forward_return": 9.09,
         "start_price": 49.3,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 12.72,
         "forward_return": 8.3,
         "start_price": 54.1,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 15.99,
         "forward_return": 5.96,
         "start_price": 69.4,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.75,
         "forward_return": 4.32,
         "start_price": 80.0,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 17.68,
+        "pe_ratio": 17.76,
         "forward_return": 4.6,
         "start_price": 83.0,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 16.33,
+        "pe_ratio": 16.28,
         "forward_return": 5.3,
         "start_price": 78.8,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 15.52,
         "forward_return": 8.45,
         "start_price": 77.1,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 15.27,
         "forward_return": 10.07,
         "start_price": 77.8,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.37,
         "forward_return": 13.62,
         "start_price": 53.7,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.37,
         "forward_return": 11.81,
         "start_price": 63.5,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.11,
+        "pe_ratio": 14.13,
         "forward_return": 10.53,
         "start_price": 71.9,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 14.51,
         "forward_return": 9.39,
         "start_price": 72.0,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.22,
         "forward_return": 9.12,
         "start_price": 73.6,
         "start_year": 2008
@@ -16473,7 +16473,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 14.77,
+        "pe_ratio": 13.48,
         "forward_return": 11.62,
         "start_price": 63.5,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 13.14,
+        "pe_ratio": 11.89,
         "forward_return": 13.89,
         "start_price": 54.5,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.75,
+        "pe_ratio": 11.42,
         "forward_return": 14.49,
         "start_price": 50.9,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 8.81,
         "forward_return": 16.39,
         "start_price": 38.15,
         "start_year": 2008
@@ -16509,7 +16509,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.1,
+        "pe_ratio": 7.44,
         "forward_return": 16.38,
         "start_price": 29.85,
         "start_year": 2008
@@ -16518,7 +16518,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.25,
+        "pe_ratio": 5.98,
         "forward_return": 20.82,
         "start_price": 22.1,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.34,
+        "pe_ratio": 5.66,
         "forward_return": 23.66,
         "start_price": 17.65,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.08,
+        "pe_ratio": 8.03,
         "forward_return": 21.11,
         "start_price": 22.9,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 9.56,
         "forward_return": 21.54,
         "start_price": 24.75,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 13.62,
         "forward_return": 18.63,
         "start_price": 31.7,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 17.54,
         "forward_return": 15.84,
         "start_price": 36.2,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 11.56,
+        "pe_ratio": 18.89,
         "forward_return": 17.15,
         "start_price": 34.0,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 29.36,
         "forward_return": 13.34,
         "start_price": 50.5,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 27.23,
         "forward_return": 15.07,
         "start_price": 44.65,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.05,
+        "pe_ratio": 40.19,
         "forward_return": 10.92,
         "start_price": 62.7,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 24.07,
+        "pe_ratio": 34.0,
         "forward_return": 11.08,
         "start_price": 63.7,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 30.55,
         "forward_return": 9.74,
         "start_price": 66.8,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 23.23,
+        "pe_ratio": 22.99,
         "forward_return": 11.08,
         "start_price": 63.0,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.31,
         "forward_return": 10.46,
         "start_price": 63.5,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 21.99,
+        "pe_ratio": 21.43,
         "forward_return": 8.37,
         "start_price": 69.0,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.24,
+        "pe_ratio": 19.08,
         "forward_return": 9.54,
         "start_price": 67.8,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.95,
         "forward_return": 9.99,
         "start_price": 62.0,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 16.45,
+        "pe_ratio": 14.72,
         "forward_return": 11.3,
         "start_price": 62.1,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 14.14,
         "forward_return": 11.74,
         "start_price": 64.3,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 15.1,
         "forward_return": 10.04,
         "start_price": 73.6,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 16.88,
+        "pe_ratio": 14.33,
         "forward_return": 9.44,
         "start_price": 74.5,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 15.3,
         "forward_return": 7.78,
         "start_price": 78.8,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.27,
         "forward_return": 8.77,
         "start_price": 77.9,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.64,
         "forward_return": 9.33,
         "start_price": 90.0,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.1,
         "forward_return": 10.3,
         "start_price": 88.2,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 19.78,
+        "pe_ratio": 18.23,
         "forward_return": 8.72,
         "start_price": 95.0,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 20.02,
+        "pe_ratio": 18.48,
         "forward_return": 9.04,
         "start_price": 94.5,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.8,
+        "pe_ratio": 18.3,
         "forward_return": 9.09,
         "start_price": 91.8,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 18.58,
         "forward_return": 9.29,
         "start_price": 91.4,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.21,
+        "pe_ratio": 15.31,
         "forward_return": 12.13,
         "start_price": 72.5,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 16.67,
+        "pe_ratio": 16.08,
         "forward_return": 11.16,
         "start_price": 73.2,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.67,
+        "pe_ratio": 14.46,
         "forward_return": 12.61,
         "start_price": 63.2,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.16,
         "forward_return": 13.4,
         "start_price": 60.4,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.37,
         "forward_return": 12.98,
         "start_price": 64.0,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 17.83,
         "forward_return": 13.65,
         "start_price": 67.7,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 17.77,
+        "pe_ratio": 19.08,
         "forward_return": 12.01,
         "start_price": 67.4,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 20.55,
+        "pe_ratio": 23.0,
         "forward_return": 10.89,
         "start_price": 75.2,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.9,
+        "pe_ratio": 21.67,
         "forward_return": 11.51,
         "start_price": 66.6,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.79,
+        "pe_ratio": 23.33,
         "forward_return": 11.42,
         "start_price": 67.1,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 25.26,
         "forward_return": 10.54,
         "start_price": 67.7,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 21.45,
+        "pe_ratio": 25.97,
         "forward_return": 11.99,
         "start_price": 67.0,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 25.24,
         "forward_return": 13.62,
         "start_price": 62.6,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 21.61,
+        "pe_ratio": 25.92,
         "forward_return": 13.34,
         "start_price": 61.7,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 23.12,
         "forward_return": 14.34,
         "start_price": 55.6,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 25.89,
+        "pe_ratio": 27.58,
         "forward_return": 13.34,
         "start_price": 67.0,
         "start_year": 2012
@@ -16968,7 +16968,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 25.15,
+        "pe_ratio": 24.96,
         "forward_return": 13.31,
         "start_price": 63.3,
         "start_year": 2013
@@ -16977,7 +16977,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 26.4,
+        "pe_ratio": 26.01,
         "forward_return": 12.46,
         "start_price": 68.1,
         "start_year": 2013
@@ -16986,7 +16986,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.98,
+        "pe_ratio": 26.41,
         "forward_return": 11.58,
         "start_price": 71.3,
         "start_year": 2013
@@ -16995,7 +16995,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 23.39,
+        "pe_ratio": 22.34,
         "forward_return": 13.57,
         "start_price": 63.3,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.39,
+        "pe_ratio": 20.9,
         "forward_return": 15.8,
         "start_price": 62.0,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.45,
         "forward_return": 18.83,
         "start_price": 51.0,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.66,
+        "pe_ratio": 20.47,
         "forward_return": 17.63,
         "start_price": 62.7,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 22.9,
         "forward_return": 16.6,
         "start_price": 69.3,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 22.05,
+        "pe_ratio": 22.27,
         "forward_return": 16.92,
         "start_price": 66.6,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.44,
         "forward_return": 15.3,
         "start_price": 62.6,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 19.07,
+        "pe_ratio": 19.13,
         "forward_return": 15.65,
         "start_price": 60.0,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.42,
         "forward_return": 14.07,
         "start_price": 65.0,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 22.26,
+        "pe_ratio": 23.0,
         "forward_return": 14.24,
         "start_price": 72.6,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 22.09,
+        "pe_ratio": 23.19,
         "forward_return": 15.12,
         "start_price": 72.6,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 23.46,
+        "pe_ratio": 25.62,
         "forward_return": 14.78,
         "start_price": 77.7,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 22.44,
+        "pe_ratio": 25.51,
         "forward_return": 15.87,
         "start_price": 74.9,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.86,
+        "pe_ratio": 29.44,
         "forward_return": 15.71,
         "start_price": 83.6,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 26.4,
         "forward_return": 15.8,
         "start_price": 80.0,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 25.78,
+        "pe_ratio": 27.33,
         "forward_return": 15.52,
         "start_price": 88.0,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.57,
+        "pe_ratio": 24.78,
         "forward_return": 17.37,
         "start_price": 84.5,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 21.85,
+        "pe_ratio": 21.97,
         "forward_return": 19.81,
         "start_price": 75.7,
         "start_year": 2014
@@ -17166,7 +17166,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 23.96,
+        "pe_ratio": 24.02,
         "forward_return": 18.55,
         "start_price": 83.6,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 22.74,
         "forward_return": 18.35,
         "start_price": 78.9,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.56,
         "forward_return": 16.92,
         "start_price": 80.7,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.99,
         "forward_return": 15.59,
         "start_price": 77.7,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 21.53,
+        "pe_ratio": 21.68,
         "forward_return": 16.42,
         "start_price": 74.0,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 20.22,
+        "pe_ratio": 20.05,
         "forward_return": 18.63,
         "start_price": 69.1,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 19.6,
         "forward_return": 21.76,
         "start_price": 68.2,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.95,
+        "pe_ratio": 18.41,
         "forward_return": 22.39,
         "start_price": 64.0,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.49,
         "forward_return": 27.96,
         "start_price": 53.8,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 16.86,
+        "pe_ratio": 16.22,
         "forward_return": 27.34,
         "start_price": 56.3,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 17.47,
+        "pe_ratio": 17.03,
         "forward_return": 31.12,
         "start_price": 58.0,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 17.49,
+        "pe_ratio": 17.26,
         "forward_return": 31.19,
         "start_price": 57.7,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 19.3,
+        "pe_ratio": 18.91,
         "forward_return": 31.79,
         "start_price": 65.3,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 12.2倍、16.6倍、20.1倍、25.2倍、28.9倍"
+!!! note "本益比河流帶水位: 12.3倍、16.4倍、20.4倍、25.6倍、30.0倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
       {
         "date": "2006-03-16",
         "price": 32.3,
-        "pe": 8.87,
-        "pe_10": 44.44,
-        "pe_25": 60.56,
-        "pe_50": 73.12,
-        "pe_75": 91.69,
-        "pe_90": 105.34
+        "pe": 9.64,
+        "pe_10": 41.35,
+        "pe_25": 54.98,
+        "pe_50": 68.45,
+        "pe_75": 85.77,
+        "pe_90": 100.47
       },
       {
         "date": "2006-04-15",
         "price": 36.6,
-        "pe": 10.05,
-        "pe_10": 44.44,
-        "pe_25": 60.56,
-        "pe_50": 73.13,
-        "pe_75": 91.7,
-        "pe_90": 105.35
+        "pe": 10.99,
+        "pe_10": 41.1,
+        "pe_25": 54.64,
+        "pe_50": 68.04,
+        "pe_75": 85.25,
+        "pe_90": 99.86
       },
       {
         "date": "2006-05-16",
         "price": 34.0,
-        "pe": 9.34,
-        "pe_10": 44.42,
-        "pe_25": 60.54,
-        "pe_50": 73.1,
-        "pe_75": 91.66,
-        "pe_90": 105.3
+        "pe": 10.27,
+        "pe_10": 40.86,
+        "pe_25": 54.32,
+        "pe_50": 67.64,
+        "pe_75": 84.74,
+        "pe_90": 99.27
       },
       {
         "date": "2006-06-15",
         "price": 32.3,
-        "pe": 8.87,
-        "pe_10": 44.44,
-        "pe_25": 60.56,
-        "pe_50": 73.12,
-        "pe_75": 91.69,
-        "pe_90": 105.34
+        "pe": 9.82,
+        "pe_10": 40.59,
+        "pe_25": 53.97,
+        "pe_50": 67.2,
+        "pe_75": 84.2,
+        "pe_90": 98.63
       },
       {
         "date": "2006-07-16",
         "price": 33.6,
-        "pe": 9.23,
-        "pe_10": 44.42,
-        "pe_25": 60.54,
-        "pe_50": 73.1,
-        "pe_75": 91.66,
-        "pe_90": 105.3
+        "pe": 9.9,
+        "pe_10": 41.88,
+        "pe_25": 55.69,
+        "pe_50": 69.34,
+        "pe_75": 86.88,
+        "pe_90": 101.77
       },
       {
         "date": "2006-08-16",
         "price": 34.0,
-        "pe": 9.34,
-        "pe_10": 44.42,
-        "pe_25": 60.54,
-        "pe_50": 73.1,
-        "pe_75": 91.66,
-        "pe_90": 105.3
+        "pe": 9.72,
+        "pe_10": 43.17,
+        "pe_25": 57.39,
+        "pe_50": 71.46,
+        "pe_75": 89.54,
+        "pe_90": 104.89
       },
       {
         "date": "2006-09-15",
         "price": 39.3,
-        "pe": 10.8,
+        "pe": 10.92,
         "pe_10": 44.41,
-        "pe_25": 60.51,
-        "pe_50": 73.07,
-        "pe_75": 91.63,
-        "pe_90": 105.26
+        "pe_25": 59.05,
+        "pe_50": 73.53,
+        "pe_75": 92.12,
+        "pe_90": 107.92
       },
       {
         "date": "2006-10-16",
         "price": 36.55,
-        "pe": 10.04,
-        "pe_10": 44.42,
-        "pe_25": 60.54,
-        "pe_50": 73.1,
-        "pe_75": 91.67,
-        "pe_90": 105.31
+        "pe": 10.12,
+        "pe_10": 44.57,
+        "pe_25": 59.26,
+        "pe_50": 73.79,
+        "pe_75": 92.45,
+        "pe_90": 108.3
       },
       {
         "date": "2006-11-15",
         "price": 37.1,
-        "pe": 10.19,
-        "pe_10": 44.43,
-        "pe_25": 60.55,
-        "pe_50": 73.11,
-        "pe_75": 91.68,
-        "pe_90": 105.32
+        "pe": 10.23,
+        "pe_10": 44.76,
+        "pe_25": 59.5,
+        "pe_50": 74.09,
+        "pe_75": 92.83,
+        "pe_90": 108.75
       },
       {
         "date": "2006-12-16",
         "price": 37.8,
         "pe": 10.38,
-        "pe_10": 44.44,
-        "pe_25": 60.56,
-        "pe_50": 73.12,
-        "pe_75": 91.7,
-        "pe_90": 105.34
+        "pe_10": 44.94,
+        "pe_25": 59.75,
+        "pe_50": 74.4,
+        "pe_75": 93.22,
+        "pe_90": 109.2
       },
       {
         "date": "2007-01-16",
         "price": 40.3,
-        "pe": 10.68,
-        "pe_10": 46.05,
-        "pe_25": 62.75,
-        "pe_50": 75.77,
-        "pe_75": 95.01,
-        "pe_90": 109.15
+        "pe": 10.64,
+        "pe_10": 46.74,
+        "pe_25": 62.14,
+        "pe_50": 77.38,
+        "pe_75": 96.95,
+        "pe_90": 113.57
       },
       {
         "date": "2007-02-14",
         "price": 46.75,
-        "pe": 11.98,
-        "pe_10": 47.62,
-        "pe_25": 64.9,
-        "pe_50": 78.36,
-        "pe_75": 98.26,
-        "pe_90": 112.88
+        "pe": 11.89,
+        "pe_10": 48.52,
+        "pe_25": 64.51,
+        "pe_50": 80.33,
+        "pe_75": 100.65,
+        "pe_90": 117.9
       },
       {
         "date": "2007-03-16",
         "price": 49.3,
-        "pe": 12.22,
-        "pe_10": 49.23,
-        "pe_25": 67.09,
-        "pe_50": 81.01,
-        "pe_75": 101.59,
-        "pe_90": 116.7
+        "pe": 12.08,
+        "pe_10": 50.37,
+        "pe_25": 66.96,
+        "pe_50": 83.38,
+        "pe_75": 104.47,
+        "pe_90": 122.38
       },
       {
         "date": "2007-04-15",
         "price": 50.2,
         "pe": 12.05,
-        "pe_10": 50.84,
-        "pe_25": 69.28,
-        "pe_50": 83.65,
-        "pe_75": 104.9,
-        "pe_90": 120.51
+        "pe_10": 51.41,
+        "pe_25": 68.35,
+        "pe_50": 85.11,
+        "pe_75": 106.64,
+        "pe_90": 124.92
       },
       {
         "date": "2007-05-16",
         "price": 54.1,
-        "pe": 12.59,
-        "pe_10": 52.44,
-        "pe_25": 71.46,
-        "pe_50": 86.28,
-        "pe_75": 108.2,
-        "pe_90": 124.3
+        "pe": 12.72,
+        "pe_10": 52.49,
+        "pe_25": 69.78,
+        "pe_50": 86.89,
+        "pe_75": 108.87,
+        "pe_90": 127.53
       },
       {
         "date": "2007-06-15",
         "price": 69.4,
-        "pe": 15.67,
-        "pe_10": 54.05,
-        "pe_25": 73.65,
-        "pe_50": 88.93,
-        "pe_75": 111.52,
-        "pe_90": 128.11
+        "pe": 15.99,
+        "pe_10": 53.56,
+        "pe_25": 71.21,
+        "pe_50": 88.67,
+        "pe_75": 111.1,
+        "pe_90": 130.15
       },
       {
         "date": "2007-07-16",
         "price": 80.0,
-        "pe": 17.54,
-        "pe_10": 55.66,
-        "pe_25": 75.85,
-        "pe_50": 91.58,
-        "pe_75": 114.85,
-        "pe_90": 131.94
+        "pe": 17.75,
+        "pe_10": 55.62,
+        "pe_25": 73.95,
+        "pe_50": 92.08,
+        "pe_75": 115.37,
+        "pe_90": 135.15
       },
       {
         "date": "2007-08-16",
         "price": 83.0,
-        "pe": 17.68,
-        "pe_10": 57.29,
-        "pe_25": 78.07,
-        "pe_50": 94.27,
-        "pe_75": 118.21,
-        "pe_90": 135.8
+        "pe": 17.76,
+        "pe_10": 57.67,
+        "pe_25": 76.68,
+        "pe_50": 95.48,
+        "pe_75": 119.63,
+        "pe_90": 140.14
       },
       {
         "date": "2007-09-15",
         "price": 78.8,
-        "pe": 16.33,
-        "pe_10": 58.89,
-        "pe_25": 80.25,
-        "pe_50": 96.9,
-        "pe_75": 121.51,
-        "pe_90": 139.59
+        "pe": 16.28,
+        "pe_10": 59.73,
+        "pe_25": 79.42,
+        "pe_50": 98.89,
+        "pe_75": 123.9,
+        "pe_90": 145.14
       },
       {
         "date": "2007-10-16",
         "price": 77.1,
-        "pe": 15.55,
-        "pe_10": 60.5,
-        "pe_25": 82.45,
-        "pe_50": 99.56,
-        "pe_75": 124.85,
-        "pe_90": 143.43
+        "pe": 15.52,
+        "pe_10": 61.31,
+        "pe_25": 81.51,
+        "pe_50": 101.49,
+        "pe_75": 127.16,
+        "pe_90": 148.96
       },
       {
         "date": "2007-11-15",
         "price": 77.8,
-        "pe": 15.29,
-        "pe_10": 62.09,
-        "pe_25": 84.62,
-        "pe_50": 102.17,
-        "pe_75": 128.12,
-        "pe_90": 147.19
+        "pe": 15.27,
+        "pe_10": 62.88,
+        "pe_25": 83.6,
+        "pe_50": 104.09,
+        "pe_75": 130.42,
+        "pe_90": 152.78
       },
       {
         "date": "2007-12-16",
         "price": 65.6,
         "pe": 12.57,
-        "pe_10": 63.68,
-        "pe_25": 86.79,
-        "pe_50": 104.79,
-        "pe_75": 131.41,
-        "pe_90": 150.96
+        "pe_10": 64.4,
+        "pe_25": 85.63,
+        "pe_50": 106.62,
+        "pe_75": 133.59,
+        "pe_90": 156.49
       },
       {
         "date": "2008-01-16",
         "price": 53.7,
-        "pe": 10.6,
-        "pe_10": 61.82,
-        "pe_25": 84.25,
-        "pe_50": 101.73,
-        "pe_75": 127.56,
-        "pe_90": 146.55
+        "pe": 10.37,
+        "pe_10": 63.91,
+        "pe_25": 84.96,
+        "pe_50": 105.79,
+        "pe_75": 132.55,
+        "pe_90": 155.28
       },
       {
         "date": "2008-02-15",
         "price": 63.5,
-        "pe": 12.92,
-        "pe_10": 59.98,
-        "pe_25": 81.73,
-        "pe_50": 98.69,
-        "pe_75": 123.76,
-        "pe_90": 142.17
+        "pe": 12.37,
+        "pe_10": 63.35,
+        "pe_25": 84.23,
+        "pe_50": 104.88,
+        "pe_75": 131.4,
+        "pe_90": 153.93
       },
       {
         "date": "2008-03-16",
         "price": 71.9,
-        "pe": 15.11,
-        "pe_10": 58.07,
-        "pe_25": 79.13,
-        "pe_50": 95.55,
-        "pe_75": 119.82,
-        "pe_90": 137.65
+        "pe": 14.13,
+        "pe_10": 62.8,
+        "pe_25": 83.49,
+        "pe_50": 103.96,
+        "pe_75": 130.25,
+        "pe_90": 152.58
       },
       {
         "date": "2008-04-15",
         "price": 72.0,
-        "pe": 15.63,
-        "pe_10": 56.21,
-        "pe_25": 76.61,
-        "pe_50": 92.5,
-        "pe_75": 115.99,
-        "pe_90": 133.25
+        "pe": 14.51,
+        "pe_10": 61.24,
+        "pe_25": 81.42,
+        "pe_50": 101.38,
+        "pe_75": 127.02,
+        "pe_90": 148.79
       },
       {
         "date": "2008-05-16",
         "price": 73.6,
-        "pe": 16.53,
-        "pe_10": 54.33,
-        "pe_25": 74.05,
-        "pe_50": 89.41,
-        "pe_75": 112.11,
-        "pe_90": 128.8
+        "pe": 15.22,
+        "pe_10": 59.68,
+        "pe_25": 79.34,
+        "pe_50": 98.79,
+        "pe_75": 123.78,
+        "pe_90": 145.0
       },
       {
         "date": "2008-06-15",
         "price": 63.5,
-        "pe": 14.77,
-        "pe_10": 52.46,
-        "pe_25": 71.5,
-        "pe_50": 86.33,
-        "pe_75": 108.26,
-        "pe_90": 124.36
+        "pe": 13.48,
+        "pe_10": 58.13,
+        "pe_25": 77.29,
+        "pe_50": 96.24,
+        "pe_75": 120.58,
+        "pe_90": 141.25
       },
       {
         "date": "2008-07-16",
         "price": 54.5,
-        "pe": 13.14,
-        "pe_10": 50.61,
-        "pe_25": 68.98,
-        "pe_50": 83.28,
-        "pe_75": 104.44,
-        "pe_90": 119.98
+        "pe": 11.89,
+        "pe_10": 56.57,
+        "pe_25": 75.21,
+        "pe_50": 93.64,
+        "pe_75": 117.33,
+        "pe_90": 137.45
       },
       {
         "date": "2008-08-16",
         "price": 50.9,
-        "pe": 12.75,
-        "pe_10": 48.72,
-        "pe_25": 66.39,
-        "pe_50": 80.16,
-        "pe_75": 100.52,
-        "pe_90": 115.48
+        "pe": 11.42,
+        "pe_10": 55.0,
+        "pe_25": 73.13,
+        "pe_50": 91.06,
+        "pe_75": 114.09,
+        "pe_90": 133.65
       },
       {
         "date": "2008-09-15",
         "price": 38.15,
-        "pe": 9.93,
-        "pe_10": 46.88,
-        "pe_25": 63.89,
-        "pe_50": 77.15,
-        "pe_75": 96.74,
-        "pe_90": 111.13
+        "pe": 8.81,
+        "pe_10": 53.44,
+        "pe_25": 71.05,
+        "pe_50": 88.47,
+        "pe_75": 110.85,
+        "pe_90": 129.85
       },
       {
         "date": "2008-10-16",
         "price": 29.85,
-        "pe": 8.1,
-        "pe_10": 44.97,
-        "pe_25": 61.28,
-        "pe_50": 74.0,
-        "pe_75": 92.79,
-        "pe_90": 106.6
+        "pe": 7.44,
+        "pe_10": 49.51,
+        "pe_25": 65.83,
+        "pe_50": 81.97,
+        "pe_75": 102.7,
+        "pe_90": 120.31
       },
       {
         "date": "2008-11-15",
         "price": 22.1,
-        "pe": 6.25,
-        "pe_10": 43.15,
-        "pe_25": 58.8,
-        "pe_50": 71.0,
-        "pe_75": 89.04,
-        "pe_90": 102.29
+        "pe": 5.98,
+        "pe_10": 45.61,
+        "pe_25": 60.64,
+        "pe_50": 75.5,
+        "pe_75": 94.6,
+        "pe_90": 110.82
       },
       {
         "date": "2008-12-16",
         "price": 20.75,
         "pe": 6.14,
-        "pe_10": 41.24,
-        "pe_25": 56.2,
-        "pe_50": 67.86,
-        "pe_75": 85.1,
-        "pe_90": 97.76
+        "pe_10": 41.71,
+        "pe_25": 55.45,
+        "pe_50": 69.04,
+        "pe_75": 86.51,
+        "pe_90": 101.34
       },
       {
         "date": "2009-01-16",
         "price": 17.65,
-        "pe": 5.34,
-        "pe_10": 40.33,
-        "pe_25": 54.97,
-        "pe_50": 66.37,
-        "pe_75": 83.23,
-        "pe_90": 95.61
+        "pe": 5.66,
+        "pe_10": 38.48,
+        "pe_25": 51.16,
+        "pe_50": 63.71,
+        "pe_75": 79.82,
+        "pe_90": 93.51
       },
       {
         "date": "2009-02-14",
         "price": 22.9,
-        "pe": 7.08,
-        "pe_10": 39.47,
-        "pe_25": 53.79,
-        "pe_50": 64.95,
-        "pe_75": 81.44,
-        "pe_90": 93.56
+        "pe": 8.03,
+        "pe_10": 35.19,
+        "pe_25": 46.79,
+        "pe_50": 58.26,
+        "pe_75": 73.0,
+        "pe_90": 85.51
       },
       {
         "date": "2009-03-16",
         "price": 24.75,
-        "pe": 7.83,
-        "pe_10": 38.57,
-        "pe_25": 52.57,
-        "pe_50": 63.47,
-        "pe_75": 79.59,
-        "pe_90": 91.44
+        "pe": 9.56,
+        "pe_10": 31.95,
+        "pe_25": 42.48,
+        "pe_50": 52.89,
+        "pe_75": 66.27,
+        "pe_90": 77.63
       },
       {
         "date": "2009-04-15",
         "price": 31.7,
-        "pe": 10.27,
-        "pe_10": 37.67,
-        "pe_25": 51.33,
-        "pe_50": 61.98,
-        "pe_75": 77.72,
-        "pe_90": 89.29
+        "pe": 13.62,
+        "pe_10": 28.72,
+        "pe_25": 38.19,
+        "pe_50": 47.55,
+        "pe_75": 59.58,
+        "pe_90": 69.79
       },
       {
         "date": "2009-05-16",
         "price": 36.2,
-        "pe": 12.01,
-        "pe_10": 36.78,
-        "pe_25": 50.13,
-        "pe_50": 60.52,
-        "pe_75": 75.9,
-        "pe_90": 87.19
+        "pe": 17.54,
+        "pe_10": 25.47,
+        "pe_25": 33.86,
+        "pe_50": 42.16,
+        "pe_75": 52.83,
+        "pe_90": 61.89
       },
       {
         "date": "2009-06-15",
         "price": 34.0,
-        "pe": 11.56,
-        "pe_10": 35.89,
-        "pe_25": 48.91,
-        "pe_50": 59.06,
-        "pe_75": 74.06,
-        "pe_90": 85.08
+        "pe": 18.89,
+        "pe_10": 22.21,
+        "pe_25": 29.53,
+        "pe_50": 36.77,
+        "pe_75": 46.07,
+        "pe_90": 53.97
       },
       {
         "date": "2009-07-16",
         "price": 50.5,
-        "pe": 17.62,
-        "pe_10": 34.97,
-        "pe_25": 47.66,
-        "pe_50": 57.55,
-        "pe_75": 72.17,
-        "pe_90": 82.91
+        "pe": 29.36,
+        "pe_10": 21.23,
+        "pe_25": 28.22,
+        "pe_50": 35.14,
+        "pe_75": 44.03,
+        "pe_90": 51.58
       },
       {
         "date": "2009-08-16",
         "price": 44.65,
-        "pe": 15.98,
-        "pe_10": 34.1,
-        "pe_25": 46.47,
-        "pe_50": 56.11,
-        "pe_75": 70.36,
-        "pe_90": 80.83
+        "pe": 27.23,
+        "pe_10": 20.24,
+        "pe_25": 26.9,
+        "pe_50": 33.5,
+        "pe_75": 41.97,
+        "pe_90": 49.17
       },
       {
         "date": "2009-09-15",
         "price": 62.7,
-        "pe": 23.05,
-        "pe_10": 33.19,
-        "pe_25": 45.24,
-        "pe_50": 54.62,
-        "pe_75": 68.49,
-        "pe_90": 78.69
+        "pe": 40.19,
+        "pe_10": 19.25,
+        "pe_25": 25.6,
+        "pe_50": 31.87,
+        "pe_75": 39.93,
+        "pe_90": 46.78
       },
       {
         "date": "2009-10-16",
         "price": 63.7,
-        "pe": 24.07,
-        "pe_10": 32.29,
-        "pe_25": 44.01,
-        "pe_50": 53.14,
-        "pe_75": 66.64,
-        "pe_90": 76.55
+        "pe": 34.0,
+        "pe_10": 23.12,
+        "pe_25": 30.74,
+        "pe_50": 38.28,
+        "pe_75": 47.96,
+        "pe_90": 56.18
       },
       {
         "date": "2009-11-15",
         "price": 66.8,
-        "pe": 25.96,
-        "pe_10": 31.4,
-        "pe_25": 42.79,
-        "pe_50": 51.67,
-        "pe_75": 64.79,
-        "pe_90": 74.43
+        "pe": 30.55,
+        "pe_10": 26.98,
+        "pe_25": 35.88,
+        "pe_50": 44.67,
+        "pe_75": 55.97,
+        "pe_90": 65.57
       },
       {
         "date": "2009-12-16",
         "price": 72.7,
         "pe": 29.08,
-        "pe_10": 30.51,
-        "pe_25": 41.58,
-        "pe_50": 50.2,
-        "pe_75": 62.95,
-        "pe_90": 72.32
+        "pe_10": 30.85,
+        "pe_25": 41.02,
+        "pe_50": 51.08,
+        "pe_75": 63.99,
+        "pe_90": 74.97
       },
       {
         "date": "2010-01-16",
         "price": 63.0,
-        "pe": 23.23,
-        "pe_10": 33.09,
-        "pe_25": 45.1,
-        "pe_50": 54.46,
-        "pe_75": 68.29,
-        "pe_90": 78.45
+        "pe": 22.99,
+        "pe_10": 33.82,
+        "pe_25": 44.96,
+        "pe_50": 55.98,
+        "pe_75": 70.15,
+        "pe_90": 82.17
       },
       {
         "date": "2010-02-14",
         "price": 63.5,
-        "pe": 21.71,
-        "pe_10": 35.69,
-        "pe_25": 48.64,
-        "pe_50": 58.73,
-        "pe_75": 73.65,
-        "pe_90": 84.61
+        "pe": 21.31,
+        "pe_10": 36.77,
+        "pe_25": 48.89,
+        "pe_50": 60.88,
+        "pe_75": 76.28,
+        "pe_90": 89.35
       },
       {
         "date": "2010-03-16",
         "price": 69.0,
-        "pe": 21.99,
-        "pe_10": 38.29,
-        "pe_25": 52.18,
-        "pe_50": 63.01,
-        "pe_75": 79.01,
-        "pe_90": 90.77
+        "pe": 21.43,
+        "pe_10": 39.74,
+        "pe_25": 52.83,
+        "pe_50": 65.78,
+        "pe_75": 82.42,
+        "pe_90": 96.55
       },
       {
         "date": "2010-04-15",
         "price": 67.8,
-        "pe": 20.24,
-        "pe_10": 40.88,
-        "pe_25": 55.71,
-        "pe_50": 67.26,
-        "pe_75": 84.35,
-        "pe_90": 96.9
+        "pe": 19.08,
+        "pe_10": 43.85,
+        "pe_25": 58.3,
+        "pe_50": 72.6,
+        "pe_75": 90.96,
+        "pe_90": 106.55
       },
       {
         "date": "2010-05-16",
         "price": 62.0,
-        "pe": 17.4,
-        "pe_10": 43.48,
-        "pe_25": 59.26,
-        "pe_50": 71.55,
-        "pe_75": 89.72,
-        "pe_90": 103.07
+        "pe": 15.95,
+        "pe_10": 47.97,
+        "pe_25": 63.78,
+        "pe_50": 79.41,
+        "pe_75": 99.5,
+        "pe_90": 116.56
       },
       {
         "date": "2010-06-15",
         "price": 62.1,
-        "pe": 16.45,
-        "pe_10": 46.07,
-        "pe_25": 62.78,
-        "pe_50": 75.8,
-        "pe_75": 95.06,
-        "pe_90": 109.2
+        "pe": 14.72,
+        "pe_10": 52.06,
+        "pe_25": 69.22,
+        "pe_50": 86.19,
+        "pe_75": 107.99,
+        "pe_90": 126.5
       },
       {
         "date": "2010-07-16",
         "price": 64.3,
-        "pe": 16.13,
-        "pe_10": 48.65,
-        "pe_25": 66.29,
-        "pe_50": 80.05,
-        "pe_75": 100.38,
-        "pe_90": 115.31
+        "pe": 14.14,
+        "pe_10": 56.12,
+        "pe_25": 74.61,
+        "pe_50": 92.9,
+        "pe_75": 116.4,
+        "pe_90": 136.36
       },
       {
         "date": "2010-08-16",
         "price": 73.6,
-        "pe": 17.52,
-        "pe_10": 51.26,
-        "pe_25": 69.86,
-        "pe_50": 84.35,
-        "pe_75": 105.78,
-        "pe_90": 121.52
+        "pe": 15.1,
+        "pe_10": 60.15,
+        "pe_25": 79.97,
+        "pe_50": 99.58,
+        "pe_75": 124.77,
+        "pe_90": 146.16
       },
       {
         "date": "2010-09-15",
         "price": 74.5,
-        "pe": 16.88,
-        "pe_10": 53.86,
-        "pe_25": 73.4,
-        "pe_50": 88.62,
-        "pe_75": 111.13,
-        "pe_90": 127.67
+        "pe": 14.33,
+        "pe_10": 64.16,
+        "pe_25": 85.3,
+        "pe_50": 106.21,
+        "pe_75": 133.08,
+        "pe_90": 155.89
       },
       {
         "date": "2010-10-16",
         "price": 78.8,
-        "pe": 17.04,
-        "pe_10": 56.43,
-        "pe_25": 76.9,
-        "pe_50": 92.86,
-        "pe_75": 116.44,
-        "pe_90": 133.77
+        "pe": 15.3,
+        "pe_10": 63.56,
+        "pe_25": 84.5,
+        "pe_50": 105.22,
+        "pe_75": 131.84,
+        "pe_90": 154.44
       },
       {
         "date": "2010-11-15",
         "price": 77.9,
-        "pe": 16.1,
-        "pe_10": 59.04,
-        "pe_25": 80.46,
-        "pe_50": 97.16,
-        "pe_75": 121.83,
-        "pe_90": 139.96
+        "pe": 15.27,
+        "pe_10": 62.96,
+        "pe_25": 83.7,
+        "pe_50": 104.22,
+        "pe_75": 130.59,
+        "pe_90": 152.97
       },
       {
         "date": "2010-12-16",
         "price": 87.1,
         "pe": 17.25,
-        "pe_10": 61.62,
-        "pe_25": 83.97,
-        "pe_50": 101.39,
-        "pe_75": 127.14,
-        "pe_90": 146.06
+        "pe_10": 62.31,
+        "pe_25": 82.85,
+        "pe_50": 103.16,
+        "pe_75": 129.25,
+        "pe_90": 151.41
       },
       {
         "date": "2011-01-16",
         "price": 90.0,
-        "pe": 18.12,
-        "pe_10": 60.61,
-        "pe_25": 82.6,
-        "pe_50": 99.74,
-        "pe_75": 125.07,
-        "pe_90": 143.68
+        "pe": 17.64,
+        "pe_10": 62.96,
+        "pe_25": 83.71,
+        "pe_50": 104.23,
+        "pe_75": 130.6,
+        "pe_90": 152.99
       },
       {
         "date": "2011-02-14",
         "price": 88.2,
-        "pe": 18.06,
-        "pe_10": 59.6,
-        "pe_25": 81.22,
-        "pe_50": 98.07,
-        "pe_75": 122.97,
-        "pe_90": 141.27
+        "pe": 17.1,
+        "pe_10": 63.65,
+        "pe_25": 84.63,
+        "pe_50": 105.38,
+        "pe_75": 132.03,
+        "pe_90": 154.66
       },
       {
         "date": "2011-03-16",
         "price": 95.0,
-        "pe": 19.78,
-        "pe_10": 58.61,
-        "pe_25": 79.87,
-        "pe_50": 96.44,
-        "pe_75": 120.94,
-        "pe_90": 138.93
+        "pe": 18.23,
+        "pe_10": 64.31,
+        "pe_25": 85.5,
+        "pe_50": 106.46,
+        "pe_75": 133.39,
+        "pe_90": 156.26
       },
       {
         "date": "2011-04-15",
         "price": 94.5,
-        "pe": 20.02,
-        "pe_10": 57.6,
-        "pe_25": 78.5,
-        "pe_50": 94.78,
-        "pe_75": 118.86,
-        "pe_90": 136.54
+        "pe": 18.48,
+        "pe_10": 63.11,
+        "pe_25": 83.9,
+        "pe_50": 104.47,
+        "pe_75": 130.9,
+        "pe_90": 153.34
       },
       {
         "date": "2011-05-16",
         "price": 91.8,
-        "pe": 19.8,
-        "pe_10": 56.58,
-        "pe_25": 77.1,
-        "pe_50": 93.1,
-        "pe_75": 116.74,
-        "pe_90": 134.12
+        "pe": 18.3,
+        "pe_10": 61.91,
+        "pe_25": 82.31,
+        "pe_50": 102.48,
+        "pe_75": 128.41,
+        "pe_90": 150.42
       },
       {
         "date": "2011-06-15",
         "price": 91.4,
-        "pe": 20.07,
-        "pe_10": 55.57,
-        "pe_25": 75.73,
-        "pe_50": 91.45,
-        "pe_75": 114.67,
-        "pe_90": 131.74
+        "pe": 18.58,
+        "pe_10": 60.71,
+        "pe_25": 80.71,
+        "pe_50": 100.5,
+        "pe_75": 125.92,
+        "pe_90": 147.51
       },
       {
         "date": "2011-07-16",
         "price": 72.5,
-        "pe": 16.21,
-        "pe_10": 54.58,
-        "pe_25": 74.38,
-        "pe_50": 89.81,
-        "pe_75": 112.62,
-        "pe_90": 129.38
+        "pe": 15.31,
+        "pe_10": 58.44,
+        "pe_25": 77.7,
+        "pe_50": 96.75,
+        "pe_75": 121.22,
+        "pe_90": 142.0
       },
       {
         "date": "2011-08-16",
         "price": 73.2,
-        "pe": 16.67,
-        "pe_10": 53.58,
-        "pe_25": 73.02,
-        "pe_50": 88.17,
-        "pe_75": 110.57,
-        "pe_90": 127.02
+        "pe": 16.08,
+        "pe_10": 56.18,
+        "pe_25": 74.69,
+        "pe_50": 93.0,
+        "pe_75": 116.53,
+        "pe_90": 136.5
       },
       {
         "date": "2011-09-15",
         "price": 63.2,
-        "pe": 14.67,
-        "pe_10": 52.57,
-        "pe_25": 71.64,
-        "pe_50": 86.51,
-        "pe_75": 108.48,
-        "pe_90": 124.62
+        "pe": 14.46,
+        "pe_10": 53.94,
+        "pe_25": 71.71,
+        "pe_50": 89.29,
+        "pe_75": 111.88,
+        "pe_90": 131.06
       },
       {
         "date": "2011-10-16",
         "price": 60.4,
-        "pe": 14.3,
-        "pe_10": 51.54,
-        "pe_25": 70.24,
-        "pe_50": 84.81,
-        "pe_75": 106.35,
-        "pe_90": 122.18
+        "pe": 14.16,
+        "pe_10": 52.64,
+        "pe_25": 69.99,
+        "pe_50": 87.14,
+        "pe_75": 109.19,
+        "pe_90": 127.91
       },
       {
         "date": "2011-11-15",
         "price": 64.0,
-        "pe": 15.45,
-        "pe_10": 50.55,
-        "pe_25": 68.89,
-        "pe_50": 83.18,
-        "pe_75": 104.31,
-        "pe_90": 119.83
+        "pe": 15.37,
+        "pe_10": 51.39,
+        "pe_25": 68.32,
+        "pe_50": 85.07,
+        "pe_75": 106.59,
+        "pe_90": 124.86
       },
       {
         "date": "2011-12-16",
         "price": 59.4,
         "pe": 14.63,
-        "pe_10": 49.55,
-        "pe_25": 67.52,
-        "pe_50": 81.53,
-        "pe_75": 102.23,
-        "pe_90": 117.45
+        "pe_10": 50.11,
+        "pe_25": 66.62,
+        "pe_50": 82.95,
+        "pe_75": 103.93,
+        "pe_90": 121.75
       },
       {
         "date": "2012-01-16",
         "price": 67.7,
-        "pe": 17.24,
-        "pe_10": 47.92,
-        "pe_25": 65.3,
-        "pe_50": 78.85,
-        "pe_75": 98.88,
-        "pe_90": 113.59
+        "pe": 17.83,
+        "pe_10": 46.86,
+        "pe_25": 62.3,
+        "pe_50": 77.57,
+        "pe_75": 97.19,
+        "pe_90": 113.86
       },
       {
         "date": "2012-02-15",
         "price": 67.4,
-        "pe": 17.77,
-        "pe_10": 46.28,
-        "pe_25": 63.08,
-        "pe_50": 76.16,
-        "pe_75": 95.51,
-        "pe_90": 109.72
+        "pe": 19.08,
+        "pe_10": 43.59,
+        "pe_25": 57.96,
+        "pe_50": 72.17,
+        "pe_75": 90.42,
+        "pe_90": 105.93
       },
       {
         "date": "2012-03-16",
         "price": 75.2,
-        "pe": 20.55,
-        "pe_10": 44.66,
-        "pe_25": 60.86,
-        "pe_50": 73.48,
-        "pe_75": 92.14,
-        "pe_90": 105.85
+        "pe": 23.0,
+        "pe_10": 40.35,
+        "pe_25": 53.65,
+        "pe_50": 66.8,
+        "pe_75": 83.69,
+        "pe_90": 98.04
       },
       {
         "date": "2012-04-15",
         "price": 66.6,
-        "pe": 18.9,
-        "pe_10": 43.0,
-        "pe_25": 58.6,
-        "pe_50": 70.76,
-        "pe_75": 88.73,
-        "pe_90": 101.93
+        "pe": 21.67,
+        "pe_10": 37.93,
+        "pe_25": 50.43,
+        "pe_50": 62.79,
+        "pe_75": 78.67,
+        "pe_90": 92.16
       },
       {
         "date": "2012-05-16",
         "price": 67.1,
-        "pe": 19.79,
-        "pe_10": 41.38,
-        "pe_25": 56.39,
-        "pe_50": 68.08,
-        "pe_75": 85.38,
-        "pe_90": 98.08
+        "pe": 23.33,
+        "pe_10": 35.49,
+        "pe_25": 47.19,
+        "pe_50": 58.76,
+        "pe_75": 73.62,
+        "pe_90": 86.24
       },
       {
         "date": "2012-06-15",
         "price": 67.7,
-        "pe": 20.79,
-        "pe_10": 39.74,
-        "pe_25": 54.15,
-        "pe_50": 65.39,
-        "pe_75": 82.0,
-        "pe_90": 94.2
+        "pe": 25.26,
+        "pe_10": 33.08,
+        "pe_25": 43.97,
+        "pe_50": 54.75,
+        "pe_75": 68.6,
+        "pe_90": 80.37
       },
       {
         "date": "2012-07-16",
         "price": 67.0,
-        "pe": 21.45,
-        "pe_10": 38.12,
-        "pe_25": 51.94,
-        "pe_50": 62.72,
-        "pe_75": 78.65,
-        "pe_90": 90.35
+        "pe": 25.97,
+        "pe_10": 31.84,
+        "pe_25": 42.33,
+        "pe_50": 52.71,
+        "pe_75": 66.04,
+        "pe_90": 77.36
       },
       {
         "date": "2012-08-16",
         "price": 62.6,
-        "pe": 20.94,
-        "pe_10": 36.48,
-        "pe_25": 49.72,
-        "pe_50": 60.03,
-        "pe_75": 75.28,
-        "pe_90": 86.48
+        "pe": 25.24,
+        "pe_10": 30.61,
+        "pe_25": 40.69,
+        "pe_50": 50.67,
+        "pe_75": 63.49,
+        "pe_90": 74.37
       },
       {
         "date": "2012-09-15",
         "price": 61.7,
-        "pe": 21.61,
-        "pe_10": 34.84,
-        "pe_25": 47.48,
-        "pe_50": 57.33,
-        "pe_75": 71.89,
-        "pe_90": 82.59
+        "pe": 25.92,
+        "pe_10": 29.38,
+        "pe_25": 39.06,
+        "pe_50": 48.63,
+        "pe_75": 60.93,
+        "pe_90": 71.38
       },
       {
         "date": "2012-10-16",
         "price": 55.6,
-        "pe": 20.43,
-        "pe_10": 33.21,
-        "pe_25": 45.26,
-        "pe_50": 54.65,
-        "pe_75": 68.53,
-        "pe_90": 78.72
+        "pe": 23.12,
+        "pe_10": 29.68,
+        "pe_25": 39.46,
+        "pe_50": 49.13,
+        "pe_75": 61.56,
+        "pe_90": 72.11
       },
       {
         "date": "2012-11-15",
         "price": 67.0,
-        "pe": 25.89,
-        "pe_10": 31.58,
-        "pe_25": 43.04,
-        "pe_50": 51.96,
-        "pe_75": 65.16,
-        "pe_90": 74.86
+        "pe": 27.58,
+        "pe_10": 29.98,
+        "pe_25": 39.86,
+        "pe_50": 49.63,
+        "pe_75": 62.18,
+        "pe_90": 72.84
       },
       {
         "date": "2012-12-16",
         "price": 64.7,
         "pe": 26.37,
-        "pe_10": 29.94,
-        "pe_25": 40.8,
-        "pe_50": 49.27,
-        "pe_75": 61.78,
-        "pe_90": 70.97
+        "pe_10": 30.28,
+        "pe_25": 40.26,
+        "pe_50": 50.13,
+        "pe_75": 62.8,
+        "pe_90": 73.57
       },
       {
         "date": "2013-01-16",
         "price": 63.3,
-        "pe": 25.15,
-        "pe_10": 30.71,
-        "pe_25": 41.86,
-        "pe_50": 50.54,
-        "pe_75": 63.38,
-        "pe_90": 72.81
+        "pe": 24.96,
+        "pe_10": 31.3,
+        "pe_25": 41.61,
+        "pe_50": 51.81,
+        "pe_75": 64.92,
+        "pe_90": 76.05
       },
       {
         "date": "2013-02-14",
         "price": 68.1,
-        "pe": 26.4,
-        "pe_10": 31.48,
-        "pe_25": 42.9,
-        "pe_50": 51.8,
-        "pe_75": 64.95,
-        "pe_90": 74.62
+        "pe": 26.01,
+        "pe_10": 32.31,
+        "pe_25": 42.96,
+        "pe_50": 53.49,
+        "pe_75": 67.02,
+        "pe_90": 78.51
       },
       {
         "date": "2013-03-16",
         "price": 71.3,
-        "pe": 26.98,
-        "pe_10": 32.25,
-        "pe_25": 43.95,
-        "pe_50": 53.07,
-        "pe_75": 66.54,
-        "pe_90": 76.45
+        "pe": 26.41,
+        "pe_10": 33.32,
+        "pe_25": 44.3,
+        "pe_50": 55.16,
+        "pe_75": 69.11,
+        "pe_90": 80.95
       },
       {
         "date": "2013-04-15",
         "price": 63.3,
-        "pe": 23.39,
-        "pe_10": 33.02,
-        "pe_25": 45.01,
-        "pe_50": 54.34,
-        "pe_75": 68.14,
-        "pe_90": 78.28
+        "pe": 22.34,
+        "pe_10": 34.97,
+        "pe_25": 46.49,
+        "pe_50": 57.89,
+        "pe_75": 72.53,
+        "pe_90": 84.96
       },
       {
         "date": "2013-05-16",
         "price": 62.0,
-        "pe": 22.39,
-        "pe_10": 33.79,
-        "pe_25": 46.05,
-        "pe_50": 55.6,
-        "pe_75": 69.73,
-        "pe_90": 80.1
+        "pe": 20.9,
+        "pe_10": 36.61,
+        "pe_25": 48.67,
+        "pe_50": 60.61,
+        "pe_75": 75.94,
+        "pe_90": 88.95
       },
       {
         "date": "2013-06-15",
         "price": 51.0,
-        "pe": 18.01,
-        "pe_10": 34.56,
-        "pe_25": 47.09,
-        "pe_50": 56.86,
-        "pe_75": 71.3,
-        "pe_90": 81.91
+        "pe": 16.45,
+        "pe_10": 38.26,
+        "pe_25": 50.87,
+        "pe_50": 63.34,
+        "pe_75": 79.36,
+        "pe_90": 92.97
       },
       {
         "date": "2013-07-16",
         "price": 62.7,
-        "pe": 21.66,
-        "pe_10": 35.32,
-        "pe_25": 48.14,
-        "pe_50": 58.13,
-        "pe_75": 72.89,
-        "pe_90": 83.74
+        "pe": 20.47,
+        "pe_10": 37.8,
+        "pe_25": 50.26,
+        "pe_50": 62.58,
+        "pe_75": 78.41,
+        "pe_90": 91.85
       },
       {
         "date": "2013-08-16",
         "price": 69.3,
-        "pe": 23.43,
-        "pe_10": 36.09,
-        "pe_25": 49.19,
-        "pe_50": 59.39,
-        "pe_75": 74.48,
-        "pe_90": 85.56
+        "pe": 22.9,
+        "pe_10": 37.35,
+        "pe_25": 49.65,
+        "pe_50": 61.83,
+        "pe_75": 77.46,
+        "pe_90": 90.74
       },
       {
         "date": "2013-09-15",
         "price": 66.6,
-        "pe": 22.05,
-        "pe_10": 36.86,
-        "pe_25": 50.23,
-        "pe_50": 60.65,
-        "pe_75": 76.05,
-        "pe_90": 87.37
+        "pe": 22.27,
+        "pe_10": 36.91,
+        "pe_25": 49.07,
+        "pe_50": 61.1,
+        "pe_75": 76.55,
+        "pe_90": 89.68
       },
       {
         "date": "2013-10-16",
         "price": 62.6,
-        "pe": 20.3,
-        "pe_10": 37.63,
-        "pe_25": 51.28,
-        "pe_50": 61.92,
-        "pe_75": 77.65,
-        "pe_90": 89.2
+        "pe": 20.44,
+        "pe_10": 37.8,
+        "pe_25": 50.25,
+        "pe_50": 62.57,
+        "pe_75": 78.4,
+        "pe_90": 91.84
       },
       {
         "date": "2013-11-15",
         "price": 60.0,
-        "pe": 19.07,
-        "pe_10": 38.39,
-        "pe_25": 52.32,
-        "pe_50": 63.18,
-        "pe_75": 79.22,
-        "pe_90": 91.01
+        "pe": 19.13,
+        "pe_10": 38.71,
+        "pe_25": 51.46,
+        "pe_50": 64.08,
+        "pe_75": 80.28,
+        "pe_90": 94.05
       },
       {
         "date": "2013-12-16",
         "price": 62.5,
         "pe": 19.47,
-        "pe_10": 39.17,
-        "pe_25": 53.38,
-        "pe_50": 64.46,
-        "pe_75": 80.83,
-        "pe_90": 92.86
+        "pe_10": 39.62,
+        "pe_25": 52.67,
+        "pe_50": 65.58,
+        "pe_75": 82.17,
+        "pe_90": 96.26
       },
       {
         "date": "2014-01-16",
         "price": 65.0,
-        "pe": 20.09,
-        "pe_10": 39.48,
-        "pe_25": 53.81,
-        "pe_50": 64.97,
-        "pe_75": 81.47,
-        "pe_90": 93.59
+        "pe": 20.42,
+        "pe_10": 39.28,
+        "pe_25": 52.23,
+        "pe_50": 65.03,
+        "pe_75": 81.48,
+        "pe_90": 95.45
       },
       {
         "date": "2014-02-14",
         "price": 72.6,
-        "pe": 22.26,
-        "pe_10": 39.8,
-        "pe_25": 54.24,
-        "pe_50": 65.49,
-        "pe_75": 82.12,
-        "pe_90": 94.34
+        "pe": 23.0,
+        "pe_10": 38.95,
+        "pe_25": 51.79,
+        "pe_50": 64.49,
+        "pe_75": 80.8,
+        "pe_90": 94.65
       },
       {
         "date": "2014-03-16",
         "price": 72.6,
-        "pe": 22.09,
-        "pe_10": 40.11,
-        "pe_25": 54.66,
-        "pe_50": 65.99,
-        "pe_75": 82.76,
-        "pe_90": 95.07
+        "pe": 23.19,
+        "pe_10": 38.64,
+        "pe_25": 51.37,
+        "pe_50": 63.96,
+        "pe_75": 80.14,
+        "pe_90": 93.88
       },
       {
         "date": "2014-04-15",
         "price": 77.7,
-        "pe": 23.46,
-        "pe_10": 40.42,
-        "pe_25": 55.08,
-        "pe_50": 66.51,
-        "pe_75": 83.4,
-        "pe_90": 95.81
+        "pe": 25.62,
+        "pe_10": 37.43,
+        "pe_25": 49.76,
+        "pe_50": 61.96,
+        "pe_75": 77.63,
+        "pe_90": 90.94
       },
       {
         "date": "2014-05-16",
         "price": 74.9,
-        "pe": 22.44,
-        "pe_10": 40.73,
-        "pe_25": 55.51,
-        "pe_50": 67.02,
-        "pe_75": 84.05,
-        "pe_90": 96.55
+        "pe": 25.51,
+        "pe_10": 36.23,
+        "pe_25": 48.17,
+        "pe_50": 59.98,
+        "pe_75": 75.16,
+        "pe_90": 88.04
       },
       {
         "date": "2014-06-15",
         "price": 83.6,
-        "pe": 24.86,
-        "pe_10": 41.04,
-        "pe_25": 55.92,
-        "pe_50": 67.53,
-        "pe_75": 84.68,
-        "pe_90": 97.28
+        "pe": 29.44,
+        "pe_10": 35.04,
+        "pe_25": 46.59,
+        "pe_50": 58.01,
+        "pe_75": 72.69,
+        "pe_90": 85.15
       },
       {
         "date": "2014-07-16",
         "price": 80.0,
-        "pe": 23.61,
-        "pe_10": 41.35,
-        "pe_25": 56.35,
-        "pe_50": 68.04,
-        "pe_75": 85.32,
-        "pe_90": 98.02
+        "pe": 26.4,
+        "pe_10": 37.4,
+        "pe_25": 49.72,
+        "pe_50": 61.91,
+        "pe_75": 77.57,
+        "pe_90": 90.87
       },
       {
         "date": "2014-08-16",
         "price": 88.0,
-        "pe": 25.78,
-        "pe_10": 41.65,
-        "pe_25": 56.77,
-        "pe_50": 68.54,
-        "pe_75": 85.95,
-        "pe_90": 98.74
+        "pe": 27.33,
+        "pe_10": 39.74,
+        "pe_25": 52.83,
+        "pe_50": 65.78,
+        "pe_75": 82.42,
+        "pe_90": 96.55
       },
       {
         "date": "2014-09-15",
         "price": 84.5,
-        "pe": 24.57,
-        "pe_10": 41.97,
-        "pe_25": 57.19,
-        "pe_50": 69.06,
-        "pe_75": 86.6,
-        "pe_90": 99.48
+        "pe": 24.78,
+        "pe_10": 42.08,
+        "pe_25": 55.95,
+        "pe_50": 69.67,
+        "pe_75": 87.29,
+        "pe_90": 102.25
       },
       {
         "date": "2014-10-16",
         "price": 75.7,
-        "pe": 21.85,
-        "pe_10": 42.28,
-        "pe_25": 57.62,
-        "pe_50": 69.57,
-        "pe_75": 87.24,
-        "pe_90": 100.22
+        "pe": 21.97,
+        "pe_10": 42.52,
+        "pe_25": 56.53,
+        "pe_50": 70.39,
+        "pe_75": 88.2,
+        "pe_90": 103.32
       },
       {
         "date": "2014-11-15",
         "price": 83.6,
-        "pe": 23.96,
-        "pe_10": 42.58,
-        "pe_25": 58.02,
-        "pe_50": 70.06,
-        "pe_75": 87.86,
-        "pe_90": 100.93
+        "pe": 24.02,
+        "pe_10": 42.95,
+        "pe_25": 57.11,
+        "pe_50": 71.11,
+        "pe_75": 89.09,
+        "pe_90": 104.36
       },
       {
         "date": "2014-12-16",
         "price": 82.1,
         "pe": 23.36,
-        "pe_10": 42.89,
-        "pe_25": 58.45,
-        "pe_50": 70.57,
-        "pe_75": 88.5,
-        "pe_90": 101.67
+        "pe_10": 43.37,
+        "pe_25": 57.67,
+        "pe_50": 71.8,
+        "pe_75": 89.96,
+        "pe_90": 105.39
       },
       {
         "date": "2015-01-16",
         "price": 78.9,
-        "pe": 22.57,
-        "pe_10": 42.66,
-        "pe_25": 58.14,
-        "pe_50": 70.2,
-        "pe_75": 88.02,
-        "pe_90": 101.12
+        "pe": 22.74,
+        "pe_10": 42.82,
+        "pe_25": 56.93,
+        "pe_50": 70.89,
+        "pe_75": 88.81,
+        "pe_90": 104.04
       },
       {
         "date": "2015-02-14",
         "price": 80.7,
-        "pe": 23.22,
-        "pe_10": 42.41,
-        "pe_25": 57.8,
-        "pe_50": 69.79,
-        "pe_75": 87.51,
-        "pe_90": 100.53
+        "pe": 23.56,
+        "pe_10": 42.27,
+        "pe_25": 56.2,
+        "pe_50": 69.98,
+        "pe_75": 87.68,
+        "pe_90": 102.71
       },
       {
         "date": "2015-03-16",
         "price": 77.7,
-        "pe": 22.48,
-        "pe_10": 42.18,
-        "pe_25": 57.48,
-        "pe_50": 69.4,
-        "pe_75": 87.03,
-        "pe_90": 99.98
+        "pe": 22.99,
+        "pe_10": 41.71,
+        "pe_25": 55.45,
+        "pe_50": 69.05,
+        "pe_75": 86.51,
+        "pe_90": 101.34
       },
       {
         "date": "2015-04-15",
         "price": 74.0,
-        "pe": 21.53,
-        "pe_10": 41.94,
-        "pe_25": 57.16,
-        "pe_50": 69.02,
-        "pe_75": 86.55,
-        "pe_90": 99.42
+        "pe": 21.68,
+        "pe_10": 42.12,
+        "pe_25": 56.0,
+        "pe_50": 69.73,
+        "pe_75": 87.37,
+        "pe_90": 102.35
       },
       {
         "date": "2015-05-16",
         "price": 69.1,
-        "pe": 20.22,
-        "pe_10": 41.7,
-        "pe_25": 56.83,
-        "pe_50": 68.62,
-        "pe_75": 86.05,
-        "pe_90": 98.86
+        "pe": 20.05,
+        "pe_10": 42.53,
+        "pe_25": 56.55,
+        "pe_50": 70.41,
+        "pe_75": 88.22,
+        "pe_90": 103.34
       },
       {
         "date": "2015-06-15",
         "price": 68.2,
-        "pe": 20.07,
-        "pe_10": 41.47,
-        "pe_25": 56.51,
-        "pe_50": 68.23,
-        "pe_75": 85.56,
-        "pe_90": 98.3
+        "pe": 19.6,
+        "pe_10": 42.94,
+        "pe_25": 57.09,
+        "pe_50": 71.09,
+        "pe_75": 89.07,
+        "pe_90": 104.34
       },
       {
         "date": "2015-07-16",
         "price": 64.0,
-        "pe": 18.95,
-        "pe_10": 41.21,
-        "pe_25": 56.16,
-        "pe_50": 67.82,
-        "pe_75": 85.04,
-        "pe_90": 97.7
+        "pe": 18.41,
+        "pe_10": 42.9,
+        "pe_25": 57.04,
+        "pe_50": 71.02,
+        "pe_75": 88.99,
+        "pe_90": 104.24
       },
       {
         "date": "2015-08-16",
         "price": 53.8,
-        "pe": 16.02,
-        "pe_10": 40.98,
-        "pe_25": 55.85,
-        "pe_50": 67.43,
-        "pe_75": 84.56,
-        "pe_90": 97.15
+        "pe": 15.49,
+        "pe_10": 42.86,
+        "pe_25": 56.99,
+        "pe_50": 70.96,
+        "pe_75": 88.91,
+        "pe_90": 104.15
       },
       {
         "date": "2015-09-15",
         "price": 56.3,
-        "pe": 16.86,
-        "pe_10": 40.75,
-        "pe_25": 55.53,
-        "pe_50": 67.05,
-        "pe_75": 84.08,
-        "pe_90": 96.59
+        "pe": 16.22,
+        "pe_10": 42.84,
+        "pe_25": 56.95,
+        "pe_50": 70.91,
+        "pe_75": 88.85,
+        "pe_90": 104.08
       },
       {
         "date": "2015-10-16",
         "price": 58.0,
-        "pe": 17.47,
-        "pe_10": 40.51,
-        "pe_25": 55.21,
-        "pe_50": 66.67,
-        "pe_75": 83.6,
-        "pe_90": 96.04
+        "pe": 17.03,
+        "pe_10": 42.03,
+        "pe_25": 55.88,
+        "pe_50": 69.58,
+        "pe_75": 87.18,
+        "pe_90": 102.12
       },
       {
         "date": "2015-11-15",
         "price": 57.7,
-        "pe": 17.49,
-        "pe_10": 40.26,
-        "pe_25": 54.86,
-        "pe_50": 66.24,
-        "pe_75": 83.07,
-        "pe_90": 95.43
+        "pe": 17.26,
+        "pe_10": 41.26,
+        "pe_25": 54.85,
+        "pe_50": 68.3,
+        "pe_75": 85.57,
+        "pe_90": 100.24
       },
       {
         "date": "2015-12-16",
         "price": 63.9,
         "pe": 19.48,
-        "pe_10": 40.03,
-        "pe_25": 54.55,
-        "pe_50": 65.87,
-        "pe_75": 82.6,
-        "pe_90": 94.89
+        "pe_10": 40.48,
+        "pe_25": 53.82,
+        "pe_50": 67.02,
+        "pe_75": 83.97,
+        "pe_90": 98.36
       },
       {
         "date": "2016-01-16",
         "price": 65.3,
-        "pe": 19.3,
-        "pe_10": 41.29,
-        "pe_25": 56.27,
-        "pe_50": 67.94,
-        "pe_75": 85.19,
-        "pe_90": 97.87
+        "pe": 18.91,
+        "pe_10": 42.62,
+        "pe_25": 56.66,
+        "pe_50": 70.55,
+        "pe_75": 88.39,
+        "pe_90": 103.55
       },
       {
         "date": "2016-02-15",
         "price": 70.5,
-        "pe": 20.21,
-        "pe_10": 42.57,
-        "pe_25": 58.01,
-        "pe_50": 70.05,
-        "pe_75": 87.84,
-        "pe_90": 100.91
+        "pe": 19.44,
+        "pe_10": 44.76,
+        "pe_25": 59.5,
+        "pe_50": 74.09,
+        "pe_75": 92.83,
+        "pe_90": 108.75
       },
       {
         "date": "2016-03-16",
         "price": 69.2,
-        "pe": 19.26,
-        "pe_10": 43.84,
-        "pe_25": 59.75,
-        "pe_50": 72.15,
-        "pe_75": 90.47,
-        "pe_90": 103.93
+        "pe": 18.21,
+        "pe_10": 46.9,
+        "pe_25": 62.35,
+        "pe_50": 77.64,
+        "pe_75": 97.27,
+        "pe_90": 113.95
       },
       {
         "date": "2016-04-15",
         "price": 71.6,
-        "pe": 19.37,
-        "pe_10": 45.11,
-        "pe_25": 61.47,
-        "pe_50": 74.22,
-        "pe_75": 93.08,
-        "pe_90": 106.93
+        "pe": 18.58,
+        "pe_10": 47.56,
+        "pe_25": 63.23,
+        "pe_50": 78.73,
+        "pe_75": 98.64,
+        "pe_90": 115.55
       },
       {
         "date": "2016-05-16",
         "price": 78.2,
-        "pe": 20.57,
-        "pe_10": 46.39,
-        "pe_25": 63.22,
-        "pe_50": 76.34,
-        "pe_75": 95.73,
-        "pe_90": 109.97
+        "pe": 20.02,
+        "pe_10": 48.21,
+        "pe_25": 64.09,
+        "pe_50": 79.8,
+        "pe_75": 99.99,
+        "pe_90": 117.13
       },
       {
         "date": "2016-06-15",
         "price": 76.8,
-        "pe": 19.67,
-        "pe_10": 47.65,
-        "pe_25": 64.93,
-        "pe_50": 78.4,
-        "pe_75": 98.31,
-        "pe_90": 112.94
+        "pe": 19.39,
+        "pe_10": 48.88,
+        "pe_25": 64.99,
+        "pe_50": 80.92,
+        "pe_75": 101.39,
+        "pe_90": 118.77
       },
       {
         "date": "2016-07-16",
         "price": 80.5,
-        "pe": 20.08,
-        "pe_10": 48.92,
-        "pe_25": 66.67,
-        "pe_50": 80.5,
-        "pe_75": 100.95,
-        "pe_90": 115.97
+        "pe": 19.93,
+        "pe_10": 49.85,
+        "pe_25": 66.27,
+        "pe_50": 82.52,
+        "pe_75": 103.39,
+        "pe_90": 121.12
       },
       {
         "date": "2016-08-16",
         "price": 82.0,
-        "pe": 19.94,
-        "pe_10": 50.18,
-        "pe_25": 68.39,
-        "pe_50": 82.58,
-        "pe_75": 103.55,
-        "pe_90": 118.96
+        "pe": 19.9,
+        "pe_10": 50.85,
+        "pe_25": 67.61,
+        "pe_50": 84.18,
+        "pe_75": 105.48,
+        "pe_90": 123.56
       },
       {
         "date": "2016-09-15",
         "price": 84.3,
-        "pe": 19.99,
-        "pe_10": 51.46,
-        "pe_25": 70.13,
-        "pe_50": 84.68,
-        "pe_75": 106.19,
-        "pe_90": 121.99
+        "pe": 20.07,
+        "pe_10": 51.84,
+        "pe_25": 68.92,
+        "pe_50": 85.81,
+        "pe_75": 107.52,
+        "pe_90": 125.95
       },
       {
         "date": "2016-10-16",
         "price": 80.1,
-        "pe": 18.53,
-        "pe_10": 52.75,
-        "pe_25": 71.89,
-        "pe_50": 86.8,
-        "pe_75": 108.85,
-        "pe_90": 125.04
+        "pe": 18.58,
+        "pe_10": 53.2,
+        "pe_25": 70.73,
+        "pe_50": 88.08,
+        "pe_75": 110.35,
+        "pe_90": 129.27
       },
       {
         "date": "2016-11-15",
         "price": 79.0,
-        "pe": 17.85,
-        "pe_10": 54.01,
-        "pe_25": 73.6,
-        "pe_50": 88.87,
-        "pe_75": 111.44,
-        "pe_90": 128.02
+        "pe": 17.87,
+        "pe_10": 54.56,
+        "pe_25": 72.53,
+        "pe_50": 90.32,
+        "pe_75": 113.16,
+        "pe_90": 132.56
       },
       {
         "date": "2016-12-16",
         "price": 75.4,
         "pe": 16.64,
-        "pe_10": 55.29,
-        "pe_25": 75.35,
-        "pe_50": 90.99,
-        "pe_75": 114.1,
-        "pe_90": 131.08
+        "pe_10": 55.92,
+        "pe_25": 74.35,
+        "pe_50": 92.57,
+        "pe_75": 115.99,
+        "pe_90": 135.87
       },
       {
         "date": "2017-01-16",
         "price": 81.9,
-        "pe": 17.48,
-        "pe_10": 57.18,
-        "pe_25": 77.92,
-        "pe_50": 94.08,
-        "pe_75": 117.98,
-        "pe_90": 135.53
+        "pe": 18.25,
+        "pe_10": 55.38,
+        "pe_25": 73.63,
+        "pe_50": 91.68,
+        "pe_75": 114.87,
+        "pe_90": 134.57
       },
       {
         "date": "2017-02-14",
         "price": 93.8,
-        "pe": 19.37,
-        "pe_10": 59.09,
-        "pe_25": 80.53,
-        "pe_50": 97.24,
-        "pe_75": 121.94,
-        "pe_90": 140.08
+        "pe": 21.11,
+        "pe_10": 54.84,
+        "pe_25": 72.9,
+        "pe_50": 90.78,
+        "pe_75": 113.74,
+        "pe_90": 133.24
       },
       {
         "date": "2017-03-16",
         "price": 91.9,
-        "pe": 18.38,
-        "pe_10": 61.02,
-        "pe_25": 83.15,
-        "pe_50": 100.4,
-        "pe_75": 125.9,
-        "pe_90": 144.64
+        "pe": 20.89,
+        "pe_10": 54.29,
+        "pe_25": 72.18,
+        "pe_50": 89.88,
+        "pe_75": 112.61,
+        "pe_90": 131.92
       },
       {
         "date": "2017-04-15",
         "price": 94.4,
-        "pe": 18.31,
-        "pe_10": 62.91,
-        "pe_25": 85.74,
-        "pe_50": 103.53,
-        "pe_75": 129.82,
-        "pe_90": 149.14
+        "pe": 21.31,
+        "pe_10": 54.67,
+        "pe_25": 72.68,
+        "pe_50": 90.5,
+        "pe_75": 113.39,
+        "pe_90": 132.83
       },
       {
         "date": "2017-05-16",
         "price": 94.3,
-        "pe": 17.75,
-        "pe_10": 64.83,
-        "pe_25": 88.35,
-        "pe_50": 106.68,
-        "pe_75": 133.77,
-        "pe_90": 153.68
+        "pe": 21.14,
+        "pe_10": 55.05,
+        "pe_25": 73.19,
+        "pe_50": 91.13,
+        "pe_75": 114.18,
+        "pe_90": 133.76
       },
       {
         "date": "2017-06-15",
         "price": 98.0,
-        "pe": 17.92,
-        "pe_10": 66.74,
-        "pe_25": 90.95,
-        "pe_50": 109.81,
-        "pe_75": 137.7,
-        "pe_90": 158.19
+        "pe": 21.83,
+        "pe_10": 55.4,
+        "pe_25": 73.66,
+        "pe_50": 91.72,
+        "pe_75": 114.91,
+        "pe_90": 134.61
       },
       {
         "date": "2017-07-16",
         "price": 95.5,
-        "pe": 16.97,
-        "pe_10": 68.67,
-        "pe_25": 93.59,
-        "pe_50": 113.0,
-        "pe_75": 141.7,
-        "pe_90": 162.79
+        "pe": 20.2,
+        "pe_10": 58.34,
+        "pe_25": 77.57,
+        "pe_50": 96.59,
+        "pe_75": 121.02,
+        "pe_90": 141.77
       },
       {
         "date": "2017-08-16",
         "price": 103.5,
-        "pe": 17.9,
-        "pe_10": 70.56,
-        "pe_25": 96.16,
-        "pe_50": 116.11,
-        "pe_75": 145.59,
-        "pe_90": 167.26
+        "pe": 20.85,
+        "pe_10": 61.26,
+        "pe_25": 81.45,
+        "pe_50": 101.42,
+        "pe_75": 127.07,
+        "pe_90": 148.85
       },
       {
         "date": "2017-09-15",
         "price": 105.5,
-        "pe": 17.76,
-        "pe_10": 72.49,
-        "pe_25": 98.79,
-        "pe_50": 119.28,
-        "pe_75": 149.58,
-        "pe_90": 171.84
+        "pe": 20.29,
+        "pe_10": 64.17,
+        "pe_25": 85.31,
+        "pe_50": 106.23,
+        "pe_75": 133.1,
+        "pe_90": 155.92
       },
       {
         "date": "2017-10-16",
         "price": 147.0,
-        "pe": 24.11,
-        "pe_10": 74.4,
-        "pe_25": 101.39,
-        "pe_50": 122.43,
-        "pe_75": 153.52,
-        "pe_90": 176.37
+        "pe": 26.23,
+        "pe_10": 69.16,
+        "pe_25": 91.95,
+        "pe_50": 114.5,
+        "pe_75": 143.46,
+        "pe_90": 168.05
       },
       {
         "date": "2017-11-15",
         "price": 176.5,
-        "pe": 28.22,
-        "pe_10": 76.32,
-        "pe_25": 104.01,
-        "pe_50": 125.59,
-        "pe_75": 157.49,
-        "pe_90": 180.92
+        "pe": 29.38,
+        "pe_10": 74.14,
+        "pe_25": 98.57,
+        "pe_50": 122.73,
+        "pe_75": 153.78,
+        "pe_90": 180.14
       },
       {
         "date": "2017-12-16",
         "price": 162.0,
         "pe": 25.27,
-        "pe_10": 78.23,
-        "pe_25": 106.61,
-        "pe_50": 128.73,
-        "pe_75": 161.42,
-        "pe_90": 185.44
+        "pe_10": 79.12,
+        "pe_25": 105.18,
+        "pe_50": 130.97,
+        "pe_75": 164.1,
+        "pe_90": 192.23
       },
       {
         "date": "2018-01-16",
         "price": 166.0,
-        "pe": 25.96,
-        "pe_10": 78.03,
-        "pe_25": 106.34,
-        "pe_50": 128.4,
-        "pe_75": 161.01,
-        "pe_90": 184.97
+        "pe": 25.59,
+        "pe_10": 80.05,
+        "pe_25": 106.43,
+        "pe_50": 132.53,
+        "pe_75": 166.05,
+        "pe_90": 194.52
       },
       {
         "date": "2018-02-14",
         "price": 160.0,
-        "pe": 25.08,
-        "pe_10": 77.85,
-        "pe_25": 106.09,
-        "pe_50": 128.1,
-        "pe_75": 160.64,
-        "pe_90": 184.54
+        "pe": 24.38,
+        "pe_10": 80.99,
+        "pe_25": 107.68,
+        "pe_50": 134.08,
+        "pe_75": 167.99,
+        "pe_90": 196.79
       },
       {
         "date": "2018-03-16",
         "price": 169.0,
-        "pe": 26.56,
-        "pe_10": 77.65,
-        "pe_25": 105.82,
-        "pe_50": 127.77,
-        "pe_75": 160.22,
-        "pe_90": 184.06
+        "pe": 25.45,
+        "pe_10": 81.95,
+        "pe_25": 108.95,
+        "pe_50": 135.66,
+        "pe_75": 169.98,
+        "pe_90": 199.12
       },
       {
         "date": "2018-04-15",
         "price": 150.0,
-        "pe": 23.63,
-        "pe_10": 77.46,
-        "pe_25": 105.56,
-        "pe_50": 127.47,
-        "pe_75": 159.84,
-        "pe_90": 183.62
+        "pe": 21.28,
+        "pe_10": 86.99,
+        "pe_25": 115.65,
+        "pe_50": 144.01,
+        "pe_75": 180.43,
+        "pe_90": 211.37
       },
       {
         "date": "2018-05-16",
         "price": 149.5,
-        "pe": 23.61,
-        "pe_10": 77.27,
-        "pe_25": 105.3,
-        "pe_50": 127.15,
-        "pe_75": 159.44,
-        "pe_90": 183.17
+        "pe": 20.04,
+        "pe_10": 92.06,
+        "pe_25": 122.4,
+        "pe_50": 152.41,
+        "pe_75": 190.96,
+        "pe_90": 223.7
       },
       {
         "date": "2018-06-15",
         "price": 164.0,
-        "pe": 25.97,
-        "pe_10": 77.06,
-        "pe_25": 105.02,
-        "pe_50": 126.8,
-        "pe_75": 159.01,
-        "pe_90": 182.67
+        "pe": 20.84,
+        "pe_10": 97.12,
+        "pe_25": 129.12,
+        "pe_50": 160.77,
+        "pe_75": 201.44,
+        "pe_90": 235.97
       },
       {
         "date": "2018-07-16",
         "price": 172.5,
-        "pe": 27.38,
-        "pe_10": 76.88,
-        "pe_25": 104.77,
-        "pe_50": 126.51,
-        "pe_75": 158.64,
-        "pe_90": 182.25
+        "pe": 22.53,
+        "pe_10": 94.49,
+        "pe_25": 125.62,
+        "pe_50": 156.42,
+        "pe_75": 195.99,
+        "pe_90": 229.59
       },
       {
         "date": "2018-08-16",
         "price": 169.5,
-        "pe": 26.98,
-        "pe_10": 76.66,
-        "pe_25": 104.48,
-        "pe_50": 126.15,
-        "pe_75": 158.19,
-        "pe_90": 181.73
+        "pe": 22.77,
+        "pe_10": 91.87,
+        "pe_25": 122.14,
+        "pe_50": 152.08,
+        "pe_75": 190.55,
+        "pe_90": 223.22
       },
       {
         "date": "2018-09-15",
         "price": 146.5,
-        "pe": 23.37,
-        "pe_10": 76.5,
-        "pe_25": 104.25,
-        "pe_50": 125.88,
-        "pe_75": 157.85,
-        "pe_90": 181.34
+        "pe": 20.26,
+        "pe_10": 89.24,
+        "pe_25": 118.64,
+        "pe_50": 147.73,
+        "pe_75": 185.1,
+        "pe_90": 216.83
       },
       {
         "date": "2018-10-16",
         "price": 108.5,
-        "pe": 17.36,
-        "pe_10": 76.27,
-        "pe_25": 103.94,
-        "pe_50": 125.5,
-        "pe_75": 157.38,
-        "pe_90": 180.79
+        "pe": 15.74,
+        "pe_10": 85.07,
+        "pe_25": 113.1,
+        "pe_50": 140.83,
+        "pe_75": 176.45,
+        "pe_90": 206.7
       },
       {
         "date": "2018-11-15",
         "price": 119.0,
-        "pe": 19.08,
-        "pe_10": 76.11,
-        "pe_25": 103.72,
-        "pe_50": 125.24,
-        "pe_75": 157.05,
-        "pe_90": 180.41
+        "pe": 18.15,
+        "pe_10": 80.91,
+        "pe_25": 107.58,
+        "pe_50": 133.95,
+        "pe_75": 167.83,
+        "pe_90": 196.6
       },
       {
         "date": "2018-12-16",
         "price": 118.0,
         "pe": 18.97,
-        "pe_10": 75.91,
-        "pe_25": 103.44,
-        "pe_50": 124.9,
-        "pe_75": 156.63,
-        "pe_90": 179.94
+        "pe_10": 76.77,
+        "pe_25": 102.06,
+        "pe_50": 127.08,
+        "pe_75": 159.23,
+        "pe_90": 186.52
       },
       {
         "date": "2019-01-16",
         "price": 120.0,
-        "pe": 19.75,
-        "pe_10": 74.14,
-        "pe_25": 101.04,
-        "pe_50": 122.01,
-        "pe_75": 152.99,
-        "pe_90": 175.76
+        "pe": 19.66,
+        "pe_10": 75.33,
+        "pe_25": 100.15,
+        "pe_50": 124.7,
+        "pe_75": 156.24,
+        "pe_90": 183.03
       },
       {
         "date": "2019-02-14",
         "price": 128.0,
-        "pe": 21.59,
-        "pe_10": 72.35,
-        "pe_25": 98.59,
-        "pe_50": 119.05,
-        "pe_75": 149.28,
-        "pe_90": 171.5
+        "pe": 21.38,
+        "pe_10": 73.88,
+        "pe_25": 98.23,
+        "pe_50": 122.31,
+        "pe_75": 153.25,
+        "pe_90": 179.52
       },
       {
         "date": "2019-03-16",
         "price": 146.5,
-        "pe": 25.32,
-        "pe_10": 70.61,
-        "pe_25": 96.22,
-        "pe_50": 116.18,
-        "pe_75": 145.69,
-        "pe_90": 167.37
+        "pe": 24.96,
+        "pe_10": 72.43,
+        "pe_25": 96.3,
+        "pe_50": 119.91,
+        "pe_75": 150.24,
+        "pe_90": 176.0
       },
       {
         "date": "2019-04-15",
         "price": 147.5,
-        "pe": 26.15,
-        "pe_10": 68.83,
-        "pe_25": 93.8,
-        "pe_50": 113.26,
-        "pe_75": 142.03,
-        "pe_90": 163.16
+        "pe": 27.23,
+        "pe_10": 66.85,
+        "pe_25": 88.88,
+        "pe_50": 110.67,
+        "pe_75": 138.66,
+        "pe_90": 162.43
       },
       {
         "date": "2019-05-16",
         "price": 130.0,
-        "pe": 23.66,
-        "pe_10": 67.05,
-        "pe_25": 91.37,
-        "pe_50": 110.33,
-        "pe_75": 138.35,
-        "pe_90": 158.94
+        "pe": 26.19,
+        "pe_10": 61.26,
+        "pe_25": 81.44,
+        "pe_50": 101.41,
+        "pe_75": 127.06,
+        "pe_90": 148.84
       },
       {
         "date": "2019-06-15",
         "price": 138.0,
-        "pe": 25.79,
-        "pe_10": 65.3,
-        "pe_25": 88.99,
-        "pe_50": 107.45,
-        "pe_75": 134.74,
-        "pe_90": 154.79
+        "pe": 30.6,
+        "pe_10": 55.66,
+        "pe_25": 73.99,
+        "pe_50": 92.14,
+        "pe_75": 115.44,
+        "pe_90": 135.23
       },
       {
         "date": "2019-07-16",
         "price": 147.0,
-        "pe": 28.24,
-        "pe_10": 63.52,
-        "pe_25": 86.57,
-        "pe_50": 104.52,
-        "pe_75": 131.07,
-        "pe_90": 150.58
+        "pe": 33.38,
+        "pe_10": 54.35,
+        "pe_25": 72.26,
+        "pe_50": 89.97,
+        "pe_75": 112.73,
+        "pe_90": 132.05
       },
       {
         "date": "2019-08-16",
         "price": 152.0,
-        "pe": 30.04,
-        "pe_10": 61.75,
-        "pe_25": 84.15,
-        "pe_50": 101.6,
-        "pe_75": 127.41,
-        "pe_90": 146.37
+        "pe": 35.38,
+        "pe_10": 53.02,
+        "pe_25": 70.49,
+        "pe_50": 87.77,
+        "pe_75": 109.97,
+        "pe_90": 128.83
       },
       {
         "date": "2019-09-15",
         "price": 147.0,
-        "pe": 29.91,
-        "pe_10": 59.97,
-        "pe_25": 81.73,
-        "pe_50": 98.69,
-        "pe_75": 123.75,
-        "pe_90": 142.17
+        "pe": 35.08,
+        "pe_10": 51.71,
+        "pe_25": 68.75,
+        "pe_50": 85.61,
+        "pe_75": 107.26,
+        "pe_90": 125.65
       },
       {
         "date": "2019-10-16",
         "price": 152.5,
-        "pe": 31.97,
-        "pe_10": 58.21,
-        "pe_25": 79.33,
-        "pe_50": 95.78,
-        "pe_75": 120.11,
-        "pe_90": 137.98
+        "pe": 35.58,
+        "pe_10": 52.89,
+        "pe_25": 70.32,
+        "pe_50": 87.57,
+        "pe_75": 109.71,
+        "pe_90": 128.52
       },
       {
         "date": "2019-11-15",
         "price": 139.5,
-        "pe": 30.16,
-        "pe_10": 56.44,
-        "pe_25": 76.92,
-        "pe_50": 92.88,
-        "pe_75": 116.47,
-        "pe_90": 133.8
+        "pe": 31.83,
+        "pe_10": 54.09,
+        "pe_25": 71.91,
+        "pe_50": 89.54,
+        "pe_75": 112.19,
+        "pe_90": 131.42
       },
       {
         "date": "2019-12-16",
         "price": 145.0,
         "pe": 32.37,
-        "pe_10": 54.66,
-        "pe_25": 74.49,
-        "pe_50": 89.95,
-        "pe_75": 112.79,
-        "pe_90": 129.58
+        "pe_10": 55.28,
+        "pe_25": 73.5,
+        "pe_50": 91.52,
+        "pe_75": 114.66,
+        "pe_90": 134.32
       },
       {
         "date": "2020-01-16",
         "price": 150.5,
-        "pe": 32.93,
-        "pe_10": 55.77,
-        "pe_25": 76.0,
-        "pe_50": 91.77,
-        "pe_75": 115.08,
-        "pe_90": 132.21
+        "pe": 32.65,
+        "pe_10": 56.89,
+        "pe_25": 75.63,
+        "pe_50": 94.17,
+        "pe_75": 117.99,
+        "pe_90": 138.22
       },
       {
         "date": "2020-02-15",
         "price": 142.0,
-        "pe": 30.47,
-        "pe_10": 56.87,
-        "pe_25": 77.5,
-        "pe_50": 93.58,
-        "pe_75": 117.35,
-        "pe_90": 134.81
+        "pe": 29.96,
+        "pe_10": 58.49,
+        "pe_25": 77.77,
+        "pe_50": 96.83,
+        "pe_75": 121.32,
+        "pe_90": 142.12
       },
       {
         "date": "2020-03-16",
         "price": 124.5,
-        "pe": 26.21,
-        "pe_10": 57.97,
-        "pe_25": 78.99,
-        "pe_50": 95.38,
-        "pe_75": 119.61,
-        "pe_90": 137.41
+        "pe": 25.56,
+        "pe_10": 60.11,
+        "pe_25": 79.92,
+        "pe_50": 99.51,
+        "pe_75": 124.68,
+        "pe_90": 146.06
       },
       {
         "date": "2020-04-15",
         "price": 139.0,
-        "pe": 28.72,
-        "pe_10": 59.06,
-        "pe_25": 80.49,
-        "pe_50": 97.18,
-        "pe_75": 121.87,
-        "pe_90": 140.0
+        "pe": 28.04,
+        "pe_10": 61.18,
+        "pe_25": 81.34,
+        "pe_50": 101.28,
+        "pe_75": 126.89,
+        "pe_90": 148.65
       },
       {
         "date": "2020-05-16",
         "price": 131.0,
-        "pe": 26.57,
-        "pe_10": 60.17,
-        "pe_25": 81.99,
-        "pe_50": 99.0,
-        "pe_75": 124.15,
-        "pe_90": 142.62
+        "pe": 25.97,
+        "pe_10": 62.25,
+        "pe_25": 82.76,
+        "pe_50": 103.05,
+        "pe_75": 129.12,
+        "pe_90": 151.26
       },
       {
         "date": "2020-06-15",
         "price": 151.5,
-        "pe": 30.18,
-        "pe_10": 61.26,
-        "pe_25": 83.48,
-        "pe_50": 100.8,
-        "pe_75": 126.4,
-        "pe_90": 145.21
+        "pe": 29.53,
+        "pe_10": 63.31,
+        "pe_25": 84.18,
+        "pe_50": 104.81,
+        "pe_75": 131.32,
+        "pe_90": 153.84
       },
       {
         "date": "2020-07-16",
         "price": 164.5,
-        "pe": 32.19,
-        "pe_10": 62.36,
-        "pe_25": 84.98,
-        "pe_50": 102.61,
-        "pe_75": 128.68,
-        "pe_90": 147.83
+        "pe": 31.57,
+        "pe_10": 64.3,
+        "pe_25": 85.49,
+        "pe_50": 106.45,
+        "pe_75": 133.38,
+        "pe_90": 156.25
       },
       {
         "date": "2020-08-16",
         "price": 161.0,
-        "pe": 30.96,
-        "pe_10": 63.46,
-        "pe_25": 86.48,
-        "pe_50": 104.42,
-        "pe_75": 130.94,
-        "pe_90": 150.43
+        "pe": 30.43,
+        "pe_10": 65.29,
+        "pe_25": 86.81,
+        "pe_50": 108.09,
+        "pe_75": 135.43,
+        "pe_90": 158.65
       },
       {
         "date": "2020-09-15",
         "price": 153.0,
-        "pe": 28.92,
-        "pe_10": 64.56,
-        "pe_25": 87.98,
-        "pe_50": 106.23,
-        "pe_75": 133.21,
-        "pe_90": 153.04
+        "pe": 28.49,
+        "pe_10": 66.27,
+        "pe_25": 88.11,
+        "pe_50": 109.72,
+        "pe_75": 137.47,
+        "pe_90": 161.03
       },
       {
         "date": "2020-10-16",
         "price": 136.0,
-        "pe": 25.28,
-        "pe_10": 65.65,
-        "pe_25": 89.47,
-        "pe_50": 108.03,
-        "pe_75": 135.46,
-        "pe_90": 155.62
+        "pe": 25.03,
+        "pe_10": 67.05,
+        "pe_25": 89.15,
+        "pe_50": 111.01,
+        "pe_75": 139.08,
+        "pe_90": 162.93
       },
       {
         "date": "2020-11-15",
         "price": 150.0,
-        "pe": 27.42,
-        "pe_10": 66.76,
-        "pe_25": 90.97,
-        "pe_50": 109.85,
-        "pe_75": 137.75,
-        "pe_90": 158.24
+        "pe": 27.29,
+        "pe_10": 67.83,
+        "pe_25": 90.18,
+        "pe_50": 112.29,
+        "pe_75": 140.7,
+        "pe_90": 164.82
       },
       {
         "date": "2020-12-16",
         "price": 168.0,
         "pe": 30.22,
-        "pe_10": 67.84,
-        "pe_25": 92.45,
-        "pe_50": 111.63,
-        "pe_75": 139.98,
-        "pe_90": 160.81
+        "pe_10": 68.61,
+        "pe_25": 91.21,
+        "pe_50": 113.58,
+        "pe_75": 142.3,
+        "pe_90": 166.7
       },
       {
         "date": "2021-01-16",
         "price": 189.0,
-        "pe": 31.89,
-        "pe_10": 72.32,
-        "pe_25": 98.56,
-        "pe_50": 119.01,
-        "pe_75": 149.23,
-        "pe_90": 171.44
+        "pe": 27.13,
+        "pe_10": 85.97,
+        "pe_25": 114.3,
+        "pe_50": 142.32,
+        "pe_75": 178.32,
+        "pe_90": 208.9
       },
       {
         "date": "2021-02-14",
         "price": 204.5,
-        "pe": 32.49,
-        "pe_10": 76.81,
-        "pe_25": 104.67,
-        "pe_50": 126.39,
-        "pe_75": 158.49,
-        "pe_90": 182.07
+        "pe": 24.42,
+        "pe_10": 103.35,
+        "pe_25": 137.4,
+        "pe_50": 171.09,
+        "pe_75": 214.36,
+        "pe_90": 251.11
       },
       {
         "date": "2021-03-16",
         "price": 188.5,
-        "pe": 28.3,
-        "pe_10": 81.28,
-        "pe_25": 110.77,
-        "pe_50": 133.75,
-        "pe_75": 167.72,
-        "pe_90": 192.68
+        "pe": 19.27,
+        "pe_10": 120.72,
+        "pe_25": 160.5,
+        "pe_50": 199.85,
+        "pe_75": 250.4,
+        "pe_90": 293.32
       },
       {
         "date": "2021-04-15",
         "price": 194.0,
-        "pe": 27.61,
-        "pe_10": 85.74,
-        "pe_25": 116.85,
-        "pe_50": 141.09,
-        "pe_75": 176.93,
-        "pe_90": 203.25
+        "pe": 20.01,
+        "pe_10": 119.65,
+        "pe_25": 159.07,
+        "pe_50": 198.07,
+        "pe_75": 248.17,
+        "pe_90": 290.72
       },
       {
         "date": "2021-05-16",
         "price": 188.5,
-        "pe": 25.5,
-        "pe_10": 90.21,
-        "pe_25": 122.93,
-        "pe_50": 148.43,
-        "pe_75": 186.13,
-        "pe_90": 213.83
+        "pe": 19.62,
+        "pe_10": 118.57,
+        "pe_25": 157.64,
+        "pe_50": 196.28,
+        "pe_75": 245.93,
+        "pe_90": 288.09
       },
       {
         "date": "2021-06-15",
         "price": 191.5,
-        "pe": 24.68,
-        "pe_10": 94.69,
-        "pe_25": 129.04,
-        "pe_50": 155.81,
-        "pe_75": 195.38,
-        "pe_90": 224.45
+        "pe": 20.12,
+        "pe_10": 117.46,
+        "pe_25": 156.16,
+        "pe_50": 194.45,
+        "pe_75": 243.63,
+        "pe_90": 285.4
       },
       {
         "date": "2021-07-16",
         "price": 196.5,
-        "pe": 24.18,
-        "pe_10": 99.17,
-        "pe_25": 135.14,
-        "pe_50": 163.18,
-        "pe_75": 204.63,
-        "pe_90": 235.08
+        "pe": 20.28,
+        "pe_10": 119.58,
+        "pe_25": 158.98,
+        "pe_50": 197.95,
+        "pe_75": 248.02,
+        "pe_90": 290.54
       },
       {
         "date": "2021-08-16",
         "price": 179.5,
-        "pe": 21.13,
-        "pe_10": 103.66,
-        "pe_25": 141.27,
-        "pe_50": 170.58,
-        "pe_75": 213.9,
-        "pe_90": 245.74
+        "pe": 18.2,
+        "pe_10": 121.71,
+        "pe_25": 161.82,
+        "pe_50": 201.49,
+        "pe_75": 252.46,
+        "pe_90": 295.74
       },
       {
         "date": "2021-09-15",
         "price": 176.0,
-        "pe": 19.86,
-        "pe_10": 108.14,
-        "pe_25": 147.38,
-        "pe_50": 177.95,
-        "pe_75": 223.15,
-        "pe_90": 256.35
+        "pe": 17.55,
+        "pe_10": 123.76,
+        "pe_25": 164.54,
+        "pe_50": 204.88,
+        "pe_75": 256.7,
+        "pe_90": 300.71
       },
       {
         "date": "2021-10-16",
         "price": 181.0,
-        "pe": 19.62,
-        "pe_10": 112.58,
-        "pe_25": 153.42,
-        "pe_50": 185.24,
-        "pe_75": 232.29,
-        "pe_90": 266.86
+        "pe": 18.09,
+        "pe_10": 123.48,
+        "pe_25": 164.17,
+        "pe_50": 204.41,
+        "pe_75": 256.12,
+        "pe_90": 300.03
       },
       {
         "date": "2021-11-15",
         "price": 185.5,
-        "pe": 19.34,
-        "pe_10": 117.05,
-        "pe_25": 159.51,
-        "pe_50": 192.6,
-        "pe_75": 241.51,
-        "pe_90": 277.45
+        "pe": 18.58,
+        "pe_10": 123.21,
+        "pe_25": 163.81,
+        "pe_50": 203.97,
+        "pe_75": 255.56,
+        "pe_90": 299.38
       },
       {
         "date": "2021-12-16",
         "price": 200.0,
         "pe": 20.08,
-        "pe_10": 121.54,
-        "pe_25": 165.64,
-        "pe_50": 200.0,
-        "pe_75": 250.8,
-        "pe_90": 288.12
+        "pe_10": 122.92,
+        "pe_25": 163.42,
+        "pe_50": 203.49,
+        "pe_75": 254.96,
+        "pe_90": 298.67
       },
       {
         "date": "2022-01-16",
         "price": 212.0,
-        "pe": 20.9,
-        "pe_10": 123.78,
-        "pe_25": 168.69,
-        "pe_50": 203.68,
-        "pe_75": 255.41,
-        "pe_90": 293.42
+        "pe": 23.95,
+        "pe_10": 109.24,
+        "pe_25": 145.24,
+        "pe_50": 180.84,
+        "pe_75": 226.58,
+        "pe_90": 265.43
       },
       {
         "date": "2022-02-14",
         "price": 188.5,
-        "pe": 18.26,
-        "pe_10": 125.97,
-        "pe_25": 171.67,
-        "pe_50": 207.29,
-        "pe_75": 259.94,
-        "pe_90": 298.62
+        "pe": 24.33,
+        "pe_10": 95.61,
+        "pe_25": 127.12,
+        "pe_50": 158.28,
+        "pe_75": 198.32,
+        "pe_90": 232.32
       },
       {
         "date": "2022-03-16",
         "price": 180.0,
-        "pe": 17.13,
-        "pe_10": 128.23,
-        "pe_25": 174.75,
-        "pe_50": 211.0,
-        "pe_75": 264.59,
-        "pe_90": 303.96
+        "pe": 27.11,
+        "pe_10": 81.94,
+        "pe_25": 108.94,
+        "pe_50": 135.65,
+        "pe_75": 169.96,
+        "pe_90": 199.1
       },
       {
         "date": "2022-04-15",
         "price": 166.5,
-        "pe": 15.58,
-        "pe_10": 130.41,
-        "pe_25": 177.72,
-        "pe_50": 214.59,
-        "pe_75": 269.09,
-        "pe_90": 309.14
+        "pe": 21.99,
+        "pe_10": 93.44,
+        "pe_25": 124.23,
+        "pe_50": 154.69,
+        "pe_75": 193.81,
+        "pe_90": 227.04
       },
       {
         "date": "2022-05-16",
         "price": 166.5,
-        "pe": 15.32,
-        "pe_10": 132.62,
-        "pe_25": 180.74,
-        "pe_50": 218.23,
-        "pe_75": 273.66,
-        "pe_90": 314.38
+        "pe": 19.59,
+        "pe_10": 104.89,
+        "pe_25": 139.45,
+        "pe_50": 173.64,
+        "pe_75": 217.56,
+        "pe_90": 254.86
       },
       {
         "date": "2022-06-15",
         "price": 153.0,
-        "pe": 13.85,
-        "pe_10": 134.81,
-        "pe_25": 183.71,
-        "pe_50": 221.82,
-        "pe_75": 278.16,
-        "pe_90": 319.55
+        "pe": 16.22,
+        "pe_10": 116.41,
+        "pe_25": 154.77,
+        "pe_50": 192.71,
+        "pe_75": 241.46,
+        "pe_90": 282.85
       },
       {
         "date": "2022-07-16",
         "price": 172.0,
-        "pe": 15.31,
-        "pe_10": 137.09,
-        "pe_25": 186.83,
-        "pe_50": 225.59,
-        "pe_75": 282.88,
-        "pe_90": 324.98
+        "pe": 16.91,
+        "pe_10": 125.53,
+        "pe_25": 166.89,
+        "pe_50": 207.8,
+        "pe_75": 260.36,
+        "pe_90": 305.0
       },
       {
         "date": "2022-08-16",
         "price": 188.5,
-        "pe": 16.52,
-        "pe_10": 139.24,
-        "pe_25": 189.76,
-        "pe_50": 229.12,
-        "pe_75": 287.31,
-        "pe_90": 330.07
+        "pe": 17.28,
+        "pe_10": 134.62,
+        "pe_25": 178.98,
+        "pe_50": 222.86,
+        "pe_75": 279.23,
+        "pe_90": 327.1
       },
       {
         "date": "2022-09-15",
         "price": 180.0,
-        "pe": 15.52,
-        "pe_10": 141.53,
-        "pe_25": 192.87,
-        "pe_50": 232.89,
-        "pe_75": 292.04,
-        "pe_90": 335.49
+        "pe": 15.45,
+        "pe_10": 143.78,
+        "pe_25": 191.16,
+        "pe_50": 238.02,
+        "pe_75": 298.22,
+        "pe_90": 349.35
       },
       {
         "date": "2022-10-16",
         "price": 176.5,
-        "pe": 14.99,
-        "pe_10": 143.68,
-        "pe_25": 195.81,
-        "pe_50": 236.43,
-        "pe_75": 296.48,
-        "pe_90": 340.6
+        "pe": 14.94,
+        "pe_10": 145.8,
+        "pe_25": 193.84,
+        "pe_50": 241.36,
+        "pe_75": 302.41,
+        "pe_90": 354.25
       },
       {
         "date": "2022-11-15",
         "price": 198.5,
-        "pe": 16.6,
-        "pe_10": 145.92,
-        "pe_25": 198.86,
-        "pe_50": 240.11,
-        "pe_75": 301.1,
-        "pe_90": 345.9
+        "pe": 16.57,
+        "pe_10": 147.84,
+        "pe_25": 196.55,
+        "pe_50": 244.74,
+        "pe_75": 306.64,
+        "pe_90": 359.22
       },
       {
         "date": "2022-12-16",
         "price": 181.0,
         "pe": 14.91,
-        "pe_10": 148.14,
-        "pe_25": 201.88,
-        "pe_50": 243.76,
-        "pe_75": 305.67,
-        "pe_90": 351.16
+        "pe_10": 149.81,
+        "pe_25": 199.18,
+        "pe_50": 248.01,
+        "pe_75": 310.74,
+        "pe_90": 364.02
       },
       {
         "date": "2023-01-16",
         "price": 185.0,
-        "pe": 15.53,
-        "pe_10": 145.37,
-        "pe_25": 198.1,
-        "pe_50": 239.2,
-        "pe_75": 299.95,
-        "pe_90": 344.59
+        "pe": 15.15,
+        "pe_10": 150.7,
+        "pe_25": 200.36,
+        "pe_50": 249.48,
+        "pe_75": 312.58,
+        "pe_90": 366.17
       },
       {
         "date": "2023-02-14",
         "price": 184.5,
-        "pe": 15.78,
-        "pe_10": 142.68,
-        "pe_25": 194.44,
-        "pe_50": 234.78,
-        "pe_75": 294.4,
-        "pe_90": 338.21
+        "pe": 15.02,
+        "pe_10": 151.59,
+        "pe_25": 201.54,
+        "pe_50": 250.95,
+        "pe_75": 314.43,
+        "pe_90": 368.34
       },
       {
         "date": "2023-03-16",
         "price": 177.5,
-        "pe": 15.48,
-        "pe_10": 139.92,
-        "pe_25": 190.69,
-        "pe_50": 230.25,
-        "pe_75": 288.72,
-        "pe_90": 331.69
+        "pe": 14.36,
+        "pe_10": 152.54,
+        "pe_25": 202.81,
+        "pe_50": 252.53,
+        "pe_75": 316.4,
+        "pe_90": 370.65
       },
       {
         "date": "2023-04-15",
         "price": 190.0,
-        "pe": 16.9,
-        "pe_10": 137.19,
-        "pe_25": 186.96,
-        "pe_50": 225.75,
-        "pe_75": 283.09,
-        "pe_90": 325.21
+        "pe": 16.04,
+        "pe_10": 146.18,
+        "pe_25": 194.35,
+        "pe_50": 242.0,
+        "pe_75": 303.21,
+        "pe_90": 355.2
       },
       {
         "date": "2023-05-16",
         "price": 233.0,
-        "pe": 21.14,
-        "pe_10": 134.5,
-        "pe_25": 183.29,
-        "pe_50": 221.32,
-        "pe_75": 277.53,
-        "pe_90": 318.83
+        "pe": 20.56,
+        "pe_10": 139.86,
+        "pe_25": 185.94,
+        "pe_50": 231.53,
+        "pe_75": 290.09,
+        "pe_90": 339.82
       },
       {
         "date": "2023-06-15",
         "price": 250.5,
-        "pe": 23.21,
-        "pe_10": 131.7,
-        "pe_25": 179.48,
-        "pe_50": 216.72,
-        "pe_75": 271.76,
-        "pe_90": 312.2
+        "pe": 23.15,
+        "pe_10": 133.54,
+        "pe_25": 177.54,
+        "pe_50": 221.07,
+        "pe_75": 276.98,
+        "pe_90": 324.47
       },
       {
         "date": "2023-07-16",
         "price": 276.0,
-        "pe": 26.11,
-        "pe_10": 128.99,
-        "pe_25": 175.79,
-        "pe_50": 212.26,
-        "pe_75": 266.17,
-        "pe_90": 305.78
+        "pe": 26.5,
+        "pe_10": 128.53,
+        "pe_25": 170.89,
+        "pe_50": 212.78,
+        "pe_75": 266.6,
+        "pe_90": 312.31
       },
       {
         "date": "2023-08-16",
         "price": 280.0,
-        "pe": 27.06,
-        "pe_10": 126.27,
-        "pe_25": 172.08,
-        "pe_50": 207.78,
-        "pe_75": 260.55,
-        "pe_90": 299.32
+        "pe": 27.96,
+        "pe_10": 123.59,
+        "pe_25": 164.31,
+        "pe_50": 204.59,
+        "pe_75": 256.34,
+        "pe_90": 300.29
       },
       {
         "date": "2023-09-15",
         "price": 276.0,
-        "pe": 27.27,
-        "pe_10": 123.51,
-        "pe_25": 168.31,
-        "pe_50": 203.23,
-        "pe_75": 254.85,
-        "pe_90": 292.77
+        "pe": 28.72,
+        "pe_10": 118.6,
+        "pe_25": 157.68,
+        "pe_50": 196.33,
+        "pe_75": 245.99,
+        "pe_90": 288.17
       },
       {
         "date": "2023-10-16",
         "price": 218.0,
-        "pe": 22.02,
-        "pe_10": 120.81,
-        "pe_25": 164.64,
-        "pe_50": 198.79,
-        "pe_75": 249.28,
-        "pe_90": 286.38
+        "pe": 22.81,
+        "pe_10": 117.95,
+        "pe_25": 156.81,
+        "pe_50": 195.25,
+        "pe_75": 244.64,
+        "pe_90": 286.58
       },
       {
         "date": "2023-11-15",
         "price": 215.0,
-        "pe": 22.22,
-        "pe_10": 118.08,
-        "pe_25": 160.91,
-        "pe_50": 194.29,
-        "pe_75": 243.64,
-        "pe_90": 279.9
+        "pe": 22.62,
+        "pe_10": 117.3,
+        "pe_25": 155.95,
+        "pe_50": 194.18,
+        "pe_75": 243.3,
+        "pe_90": 285.01
       },
       {
         "date": "2023-12-16",
         "price": 213.0,
         "pe": 22.54,
-        "pe_10": 115.32,
-        "pe_25": 157.15,
-        "pe_50": 189.75,
-        "pe_75": 237.95,
-        "pe_90": 273.36
+        "pe_10": 116.62,
+        "pe_25": 155.05,
+        "pe_50": 193.06,
+        "pe_75": 241.89,
+        "pe_90": 283.36
       },
       {
         "date": "2024-01-16",
         "price": 200.5,
-        "pe": 20.66,
-        "pe_10": 118.43,
-        "pe_25": 161.39,
-        "pe_50": 194.87,
-        "pe_75": 244.37,
-        "pe_90": 280.73
+        "pe": 21.18,
+        "pe_10": 116.83,
+        "pe_25": 155.32,
+        "pe_50": 193.4,
+        "pe_75": 242.32,
+        "pe_90": 283.86
       },
       {
         "date": "2024-02-15",
         "price": 233.0,
-        "pe": 23.4,
-        "pe_10": 121.51,
-        "pe_25": 165.59,
-        "pe_50": 199.94,
-        "pe_75": 250.72,
-        "pe_90": 288.03
+        "pe": 24.57,
+        "pe_10": 117.03,
+        "pe_25": 155.59,
+        "pe_50": 193.74,
+        "pe_75": 242.74,
+        "pe_90": 284.36
       },
       {
         "date": "2024-03-16",
         "price": 255.0,
-        "pe": 24.98,
-        "pe_10": 124.57,
-        "pe_25": 169.76,
-        "pe_50": 204.98,
-        "pe_75": 257.04,
-        "pe_90": 295.29
+        "pe": 26.84,
+        "pe_10": 117.25,
+        "pe_25": 155.88,
+        "pe_50": 194.1,
+        "pe_75": 243.2,
+        "pe_90": 284.89
       },
       {
         "date": "2024-04-15",
         "price": 266.5,
-        "pe": 25.47,
-        "pe_10": 127.68,
-        "pe_25": 174.0,
-        "pe_50": 210.1,
-        "pe_75": 263.47,
-        "pe_90": 302.67
+        "pe": 27.18,
+        "pe_10": 121.0,
+        "pe_25": 160.88,
+        "pe_50": 200.32,
+        "pe_75": 250.98,
+        "pe_90": 294.01
       },
       {
         "date": "2024-05-16",
         "price": 285.0,
-        "pe": 26.59,
-        "pe_10": 130.8,
-        "pe_25": 178.25,
-        "pe_50": 215.22,
-        "pe_75": 269.89,
-        "pe_90": 310.05
+        "pe": 28.18,
+        "pe_10": 124.81,
+        "pe_25": 165.94,
+        "pe_50": 206.62,
+        "pe_75": 258.88,
+        "pe_90": 303.27
       },
       {
         "date": "2024-06-15",
         "price": 318.0,
-        "pe": 28.99,
-        "pe_10": 133.86,
-        "pe_25": 182.42,
-        "pe_50": 220.26,
-        "pe_75": 276.21,
-        "pe_90": 317.31
+        "pe": 30.52,
+        "pe_10": 128.59,
+        "pe_25": 170.96,
+        "pe_50": 212.87,
+        "pe_75": 266.71,
+        "pe_90": 312.44
       },
       {
         "date": "2024-07-16",
         "price": 301.0,
-        "pe": 26.82,
-        "pe_10": 136.95,
-        "pe_25": 186.64,
-        "pe_50": 225.36,
-        "pe_75": 282.59,
-        "pe_90": 324.65
+        "pe": 28.45,
+        "pe_10": 130.57,
+        "pe_25": 173.59,
+        "pe_50": 216.15,
+        "pe_75": 270.82,
+        "pe_90": 317.25
       },
       {
         "date": "2024-08-16",
         "price": 326.5,
-        "pe": 28.45,
-        "pe_10": 140.04,
-        "pe_25": 190.85,
-        "pe_50": 230.44,
-        "pe_75": 288.97,
-        "pe_90": 331.97
+        "pe": 30.4,
+        "pe_10": 132.54,
+        "pe_25": 176.22,
+        "pe_50": 219.42,
+        "pe_75": 274.92,
+        "pe_90": 322.05
       },
       {
         "date": "2024-09-15",
         "price": 373.5,
-        "pe": 31.84,
-        "pe_10": 143.15,
-        "pe_25": 195.08,
-        "pe_50": 235.55,
-        "pe_75": 295.37,
-        "pe_90": 339.33
+        "pe": 34.27,
+        "pe_10": 134.5,
+        "pe_25": 178.82,
+        "pe_50": 222.66,
+        "pe_75": 278.98,
+        "pe_90": 326.81
       },
       {
         "date": "2024-10-16",
         "price": 415.5,
-        "pe": 34.67,
-        "pe_10": 146.25,
-        "pe_25": 199.3,
-        "pe_50": 240.65,
-        "pe_75": 301.77,
-        "pe_90": 346.67
+        "pe": 36.35,
+        "pe_10": 141.06,
+        "pe_25": 187.55,
+        "pe_50": 233.53,
+        "pe_75": 292.59,
+        "pe_90": 342.76
       },
       {
         "date": "2024-11-15",
         "price": 412.5,
-        "pe": 33.71,
-        "pe_10": 149.32,
-        "pe_25": 203.5,
-        "pe_50": 245.71,
-        "pe_75": 308.12,
-        "pe_90": 353.97
+        "pe": 34.49,
+        "pe_10": 147.6,
+        "pe_25": 196.23,
+        "pe_50": 244.34,
+        "pe_75": 306.15,
+        "pe_90": 358.63
       },
       {
         "date": "2024-12-16",
         "price": 409.0,
         "pe": 32.75,
-        "pe_10": 152.4,
-        "pe_25": 207.68,
-        "pe_50": 250.77,
-        "pe_75": 314.46,
-        "pe_90": 361.26
+        "pe_10": 154.12,
+        "pe_25": 204.91,
+        "pe_50": 255.14,
+        "pe_75": 319.68,
+        "pe_90": 374.48
       },
       {
         "date": "2025-01-16",
         "price": 379.5,
-        "pe": 28.01,
-        "pe_10": 165.34,
-        "pe_25": 225.32,
-        "pe_50": 272.06,
-        "pe_75": 341.16,
-        "pe_90": 391.92
+        "pe": 28.31,
+        "pe_10": 165.43,
+        "pe_25": 219.95,
+        "pe_50": 273.87,
+        "pe_75": 343.14,
+        "pe_90": 401.97
       },
       {
         "date": "2025-02-14",
         "price": 339.5,
-        "pe": 23.25,
-        "pe_10": 178.19,
-        "pe_25": 242.83,
-        "pe_50": 293.21,
-        "pe_75": 367.68,
-        "pe_90": 422.4
+        "pe": 23.7,
+        "pe_10": 176.78,
+        "pe_25": 235.04,
+        "pe_50": 292.66,
+        "pe_75": 366.68,
+        "pe_90": 429.55
       },
       {
         "date": "2025-03-16",
         "price": 285.0,
-        "pe": 18.2,
-        "pe_10": 191.09,
-        "pe_25": 260.41,
-        "pe_50": 314.44,
-        "pe_75": 394.3,
-        "pe_90": 452.98
+        "pe": 18.7,
+        "pe_10": 188.08,
+        "pe_25": 250.06,
+        "pe_50": 311.37,
+        "pe_75": 390.12,
+        "pe_90": 457.01
       },
       {
         "date": "2025-04-15",
         "price": 292.5,
-        "pe": 17.5,
-        "pe_10": 203.96,
-        "pe_25": 277.96,
-        "pe_50": 335.62,
-        "pe_75": 420.87,
-        "pe_90": 483.49
+        "pe": 18.65,
+        "pe_10": 193.55,
+        "pe_25": 257.33,
+        "pe_50": 320.42,
+        "pe_75": 401.46,
+        "pe_90": 470.29
       },
       {
         "date": "2025-05-16",
         "price": 335.5,
-        "pe": 18.88,
-        "pe_10": 216.85,
-        "pe_25": 295.52,
-        "pe_50": 356.82,
-        "pe_75": 447.45,
-        "pe_90": 514.04
+        "pe": 20.81,
+        "pe_10": 198.96,
+        "pe_25": 264.52,
+        "pe_50": 329.37,
+        "pe_75": 412.68,
+        "pe_90": 483.44
       },
       {
         "date": "2025-06-15",
         "price": 442.5,
-        "pe": 23.5,
-        "pe_10": 229.78,
-        "pe_25": 313.14,
-        "pe_50": 378.1,
-        "pe_75": 474.13,
-        "pe_90": 544.69
+        "pe": 26.72,
+        "pe_10": 204.37,
+        "pe_25": 271.72,
+        "pe_50": 338.33,
+        "pe_75": 423.91,
+        "pe_90": 496.59
       },
       {
         "date": "2025-07-16",
         "price": 430.5,
-        "pe": 21.65,
-        "pe_10": 242.65,
-        "pe_25": 330.68,
-        "pe_50": 399.28,
-        "pe_75": 500.69,
-        "pe_90": 575.2
+        "pe": 22.16,
+        "pe_10": 239.75,
+        "pe_25": 318.75,
+        "pe_50": 396.89,
+        "pe_75": 497.28,
+        "pe_90": 582.53
       },
       {
         "date": "2025-08-16",
         "price": 581.0,
-        "pe": 27.74,
-        "pe_10": 255.59,
-        "pe_25": 348.31,
-        "pe_50": 420.57,
-        "pe_75": 527.38,
-        "pe_90": 605.86
+        "pe": 26.05,
+        "pe_10": 275.24,
+        "pe_25": 365.94,
+        "pe_50": 455.66,
+        "pe_75": 570.91,
+        "pe_90": 668.79
       },
       {
         "date": "2025-09-15",
         "price": 579.0,
-        "pe": 26.32,
-        "pe_10": 268.45,
-        "pe_25": 365.83,
-        "pe_50": 441.73,
-        "pe_75": 553.92,
-        "pe_90": 636.35
+        "pe": 23.0,
+        "pe_10": 310.67,
+        "pe_25": 413.04,
+        "pe_50": 514.3,
+        "pe_75": 644.39,
+        "pe_90": 754.86
       },
       {
         "date": "2025-10-16",
         "price": 819.0,
-        "pe": 35.52,
-        "pe_10": 281.37,
-        "pe_25": 383.45,
-        "pe_50": 462.99,
-        "pe_75": 580.59,
-        "pe_90": 666.98
+        "pe": 31.48,
+        "pe_10": 321.07,
+        "pe_25": 426.87,
+        "pe_50": 531.52,
+        "pe_75": 665.96,
+        "pe_90": 780.13
       },
       {
         "date": "2025-11-15",
         "price": 819.0,
-        "pe": 33.96,
-        "pe_10": 294.29,
-        "pe_25": 401.06,
-        "pe_50": 484.26,
-        "pe_75": 607.26,
-        "pe_90": 697.62
+        "pe": 30.5,
+        "pe_10": 331.39,
+        "pe_25": 440.58,
+        "pe_50": 548.6,
+        "pe_75": 687.36,
+        "pe_90": 805.2
       },
       {
         "date": "2025-12-16",
         "price": 775.0,
-        "pe": 30.79,
-        "pe_10": 307.16,
-        "pe_25": 418.59,
-        "pe_50": 505.42,
-        "pe_75": 633.79,
-        "pe_90": 728.11
+        "pe": 27.98,
+        "pe_10": 341.83,
+        "pe_25": 454.46,
+        "pe_50": 565.88,
+        "pe_75": 709.01,
+        "pe_90": 830.56
       },
       {
         "date": "2026-01-16",
         "price": 980.0,
-        "pe": 38.94,
-        "pe_10": 307.11,
-        "pe_25": 418.53,
-        "pe_50": 505.35,
-        "pe_75": 633.7,
-        "pe_90": 728.0
+        "pe": 35.38,
+        "pe_10": 341.84,
+        "pe_25": 454.48,
+        "pe_50": 565.9,
+        "pe_75": 709.03,
+        "pe_90": 830.59
       },
       {
         "date": "2026-02-14",
         "price": 1380.0,
-        "pe": 54.83,
-        "pe_10": 307.13,
-        "pe_25": 418.56,
-        "pe_50": 505.39,
-        "pe_75": 633.75,
-        "pe_90": 728.06
+        "pe": 49.82,
+        "pe_10": 341.84,
+        "pe_25": 454.48,
+        "pe_50": 565.91,
+        "pe_75": 709.04,
+        "pe_90": 830.6
       }
     ]
   },
@@ -20038,19 +20038,19 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (12.2倍)",
+            "title": "PE 10% (12.3倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (20.1倍)",
+            "title": "PE 50% (20.4倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (28.9倍)",
+            "title": "PE 90% (30.0倍)",
             "format": ".1f"
           }
         ]
@@ -20770,6 +20770,10 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
       {
         "date": "2026-01-16",
         "revenue_yoy": 72.1
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 86.0
       }
     ]
   },
@@ -20837,16 +20841,16 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 20.4 | +71.2% | 0.094 | 2009-06 (+1187.3%) | 2008-08 (-93.2%) |
-| 6個月 | 20.3 | +47.0% | 0.141 | 2009-01 (+802.7%) | 2008-07 (-89.3%) |
-| 1年 | 20.3 | +29.1% | 0.099 | 2025-02 (+309.5%) | 2007-11 (-66.9%) |
-| 2年 | 19.8 | +19.0% | 0.097 | 2009-01 (+130.9%) | 2007-06 (-24.0%) |
-| 3年 | 19.7 | +17.1% | 0.120 | 2023-02 (+96.6%) | 2010-12 (-6.7%) |
-| 4年 | 19.9 | +15.9% | 0.024 | 2022-02 (+65.4%) | 2011-06 (-3.6%) |
-| 5年 | 19.8 | +15.1% | 0.026 | 2021-02 (+47.2%) | 2011-03 (-2.8%) |
-| 6年 | 19.0 | +14.2% | 0.004 | 2020-01 (+37.5%) | 2007-06 (-0.5%) |
-| 8年 | 17.9 | +14.3% | 0.012 | 2018-02 (+31.5%) | 2007-08 (-1.3%) |
-| 10年 | 17.5 | +13.9% | 0.000 | 2016-01 (+31.8%) | 2007-07 (+4.3%) |
+| 3個月 | 20.9 | +71.2% | 0.045 | 2009-06 (+1187.3%) | 2008-08 (-93.2%) |
+| 6個月 | 20.8 | +47.0% | 0.082 | 2009-01 (+802.7%) | 2008-07 (-89.3%) |
+| 1年 | 20.8 | +29.1% | 0.057 | 2025-02 (+309.5%) | 2007-11 (-66.9%) |
+| 2年 | 20.2 | +19.0% | 0.052 | 2009-01 (+130.9%) | 2007-06 (-24.0%) |
+| 3年 | 20.1 | +17.1% | 0.112 | 2023-02 (+96.6%) | 2010-12 (-6.7%) |
+| 4年 | 20.3 | +15.9% | 0.014 | 2022-02 (+65.4%) | 2011-06 (-3.6%) |
+| 5年 | 20.3 | +15.1% | 0.021 | 2021-02 (+47.2%) | 2011-03 (-2.8%) |
+| 6年 | 19.7 | +14.2% | 0.007 | 2020-01 (+37.5%) | 2007-06 (-0.5%) |
+| 8年 | 18.7 | +14.3% | 0.012 | 2018-02 (+31.5%) | 2007-08 (-1.3%) |
+| 10年 | 18.2 | +13.9% | 0.000 | 2016-01 (+31.8%) | 2007-07 (+4.3%) |
 
 
 ## 🎯 使用說明
@@ -20865,4 +20869,4 @@ description: "2360 致茂 (其他電子業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:29:52 CST*
+*數據更新時間: 2026-03-21 12:35:43 CST*

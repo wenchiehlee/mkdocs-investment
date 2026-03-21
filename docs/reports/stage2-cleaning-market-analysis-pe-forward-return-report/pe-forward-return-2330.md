@@ -2,7 +2,7 @@
 title: "2330 台積電 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
     - **產業別**: 半導體業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:28:47 CST
+    - **報告生成時間**: 2026-03-21 12:34:27 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 14.49,
         "forward_return": -28.86,
         "start_price": 64.2,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.91,
         "forward_return": -50.0,
         "start_price": 68.1,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.82,
         "forward_return": 1.98,
         "start_price": 60.3,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.07,
         "forward_return": 28.43,
         "start_price": 58.4,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 11.09,
         "forward_return": 53.04,
         "start_price": 54.8,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.51,
         "forward_return": 56.67,
         "start_price": 58.1,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 11.59,
         "forward_return": 63.7,
         "start_price": 59.7,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.37,
+        "pe_ratio": 12.02,
         "forward_return": 48.6,
         "start_price": 61.0,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 13.29,
+        "pe_ratio": 13.09,
         "forward_return": 11.58,
         "start_price": 65.5,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 14.19,
         "forward_return": 3.66,
         "start_price": 67.4,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 14.44,
+        "pe_ratio": 15.16,
         "forward_return": -6.29,
         "start_price": 69.3,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 14.35,
+        "pe_ratio": 15.47,
         "forward_return": 0.44,
         "start_price": 67.9,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.16,
         "forward_return": -4.03,
         "start_price": 68.7,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 16.59,
         "forward_return": -13.78,
         "start_price": 68.2,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 17.86,
         "forward_return": -23.38,
         "start_price": 70.9,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 16.48,
         "forward_return": -7.13,
         "start_price": 65.0,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 16.01,
         "forward_return": -3.31,
         "start_price": 62.7,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 16.27,
         "forward_return": -7.99,
         "start_price": 63.3,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.06,
         "forward_return": -22.15,
         "start_price": 63.8,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.41,
+        "pe_ratio": 14.94,
         "forward_return": 12.98,
         "start_price": 60.6,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 13.92,
         "forward_return": 31.57,
         "start_price": 59.9,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 15.05,
+        "pe_ratio": 13.79,
         "forward_return": 28.73,
         "start_price": 61.6,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.5,
+        "pe_ratio": 13.63,
         "forward_return": -17.28,
         "start_price": 63.1,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 14.28,
         "forward_return": -37.94,
         "start_price": 66.7,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.3,
+        "pe_ratio": 13.93,
         "forward_return": -20.46,
         "start_price": 65.6,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 16.25,
+        "pe_ratio": 13.68,
         "forward_return": -46.5,
         "start_price": 65.0,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 11.89,
         "forward_return": -46.54,
         "start_price": 56.2,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 14.9,
+        "pe_ratio": 12.52,
         "forward_return": -57.09,
         "start_price": 58.9,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 11.22,
         "forward_return": -48.96,
         "start_price": 52.5,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 10.89,
         "forward_return": -50.54,
         "start_price": 48.0,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 9.87,
         "forward_return": 101.97,
         "start_price": 40.8,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.44,
         "forward_return": 245.28,
         "start_price": 40.2,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.85,
+        "pe_ratio": 14.19,
         "forward_return": 231.68,
         "start_price": 44.95,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.68,
+        "pe_ratio": 18.23,
         "forward_return": 74.46,
         "start_price": 51.4,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 14.83,
+        "pe_ratio": 19.9,
         "forward_return": 58.38,
         "start_price": 55.2,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 22.15,
         "forward_return": 12.37,
         "start_price": 60.4,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 20.41,
         "forward_return": 130.43,
         "start_price": 54.7,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 22.0,
         "forward_return": 7.62,
         "start_price": 58.9,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 22.14,
         "forward_return": 29.27,
         "start_price": 59.2,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 18.16,
+        "pe_ratio": 24.16,
         "forward_return": 0.0,
         "start_price": 64.5,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 20.48,
         "forward_return": 10.3,
         "start_price": 60.0,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 19.15,
         "forward_return": 2.01,
         "start_price": 61.1,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 16.7,
+        "pe_ratio": 15.92,
         "forward_return": -6.3,
         "start_price": 61.5,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 15.02,
+        "pe_ratio": 13.75,
         "forward_return": 10.02,
         "start_price": 58.8,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.11,
         "forward_return": 20.21,
         "start_price": 61.5,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.64,
         "forward_return": 25.51,
         "start_price": 61.8,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 11.83,
         "forward_return": 11.69,
         "start_price": 60.2,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.51,
+        "pe_ratio": 11.46,
         "forward_return": 32.08,
         "start_price": 60.6,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.34,
         "forward_return": 2.57,
         "start_price": 62.4,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 10.3,
         "forward_return": 74.96,
         "start_price": 58.9,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 10.46,
         "forward_return": 72.3,
         "start_price": 62.0,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.41,
         "forward_return": 116.64,
         "start_price": 62.8,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 10.55,
+        "pe_ratio": 10.33,
         "forward_return": 38.74,
         "start_price": 63.4,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.16,
         "forward_return": 1.6,
         "start_price": 76.3,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.18,
         "forward_return": 40.79,
         "start_price": 70.5,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.14,
         "forward_return": 19.84,
         "start_price": 70.6,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.64,
         "forward_return": 10.24,
         "start_price": 73.2,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 12.3,
         "forward_return": -20.47,
         "start_price": 76.7,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 11.68,
         "forward_return": 4.47,
         "start_price": 72.2,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.81,
+        "pe_ratio": 12.07,
         "forward_return": 9.12,
         "start_price": 72.0,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 12.08,
         "forward_return": 30.22,
         "start_price": 69.4,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 12.66,
         "forward_return": 37.64,
         "start_price": 70.0,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.6,
         "forward_return": 29.16,
         "start_price": 73.6,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 14.08,
         "forward_return": 47.76,
         "start_price": 74.6,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 14.86,
+        "pe_ratio": 15.27,
         "forward_return": 27.59,
         "start_price": 78.5,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 15.9,
         "forward_return": 21.32,
         "start_price": 81.1,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.46,
+        "pe_ratio": 16.78,
         "forward_return": -3.14,
         "start_price": 84.9,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 16.9,
         "forward_return": -12.34,
         "start_price": 86.8,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.32,
         "forward_return": 5.71,
         "start_price": 85.1,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.37,
         "forward_return": 69.08,
         "start_price": 81.3,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 14.63,
         "forward_return": 43.41,
         "start_price": 81.0,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.4,
         "forward_return": 57.75,
         "start_price": 83.3,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.89,
         "forward_return": 36.28,
         "start_price": 89.8,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.4,
         "forward_return": 70.77,
         "start_price": 88.7,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 15.69,
         "forward_return": 5.66,
         "start_price": 98.7,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "forward_return": 25.98,
         "start_price": 101.5,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 15.93,
+        "pe_ratio": 15.88,
         "forward_return": 20.89,
         "start_price": 104.5,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.09,
         "forward_return": 15.65,
         "start_price": 100.5,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.15,
         "forward_return": -13.87,
         "start_price": 109.5,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.87,
         "forward_return": -20.05,
         "start_price": 109.5,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.81,
         "forward_return": -24.25,
         "start_price": 111.0,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.52,
         "forward_return": 29.99,
         "start_price": 102.5,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.15,
         "forward_return": 15.65,
         "start_price": 100.5,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.08,
         "forward_return": 21.52,
         "start_price": 100.5,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.38,
+        "pe_ratio": 15.25,
         "forward_return": -15.35,
         "start_price": 109.5,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.54,
         "forward_return": 44.51,
         "start_price": 105.0,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.25,
         "forward_return": 48.25,
         "start_price": 105.0,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 13.94,
+        "pe_ratio": 14.44,
         "forward_return": 50.78,
         "start_price": 108.0,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.61,
         "forward_return": 14.55,
         "start_price": 118.5,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 14.39,
+        "pe_ratio": 15.42,
         "forward_return": 19.97,
         "start_price": 118.5,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 14.1,
+        "pe_ratio": 15.35,
         "forward_return": 27.34,
         "start_price": 119.5,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 16.05,
         "forward_return": -10.54,
         "start_price": 126.5,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.5,
+        "pe_ratio": 14.77,
         "forward_return": 35.0,
         "start_price": 121.0,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 14.58,
         "forward_return": 46.91,
         "start_price": 124.0,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.61,
         "forward_return": 91.04,
         "start_price": 120.0,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.46,
+        "pe_ratio": 14.07,
         "forward_return": 35.97,
         "start_price": 130.5,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.55,
         "forward_return": 8.86,
         "start_price": 141.5,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.32,
         "forward_return": 11.19,
         "start_price": 141.0,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.4,
+        "pe_ratio": 13.7,
         "forward_return": -11.59,
         "start_price": 150.5,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 12.77,
         "forward_return": -3.05,
         "start_price": 145.5,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 12.63,
         "forward_return": -7.94,
         "start_price": 147.0,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 12.28,
         "forward_return": -29.91,
         "start_price": 146.0,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.77,
+        "pe_ratio": 11.57,
         "forward_return": -15.91,
         "start_price": 140.5,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.51,
         "forward_return": -8.27,
         "start_price": 139.5,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.66,
         "forward_return": 36.13,
         "start_price": 129.0,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.39,
+        "pe_ratio": 10.75,
         "forward_return": 46.6,
         "start_price": 130.0,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.38,
         "forward_return": 16.98,
         "start_price": 136.5,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.9,
+        "pe_ratio": 11.67,
         "forward_return": 58.76,
         "start_price": 139.0,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.92,
+        "pe_ratio": 12.2,
         "forward_return": 34.11,
         "start_price": 142.0,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.42,
+        "pe_ratio": 13.0,
         "forward_return": 21.79,
         "start_price": 149.0,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 14.36,
         "forward_return": 33.69,
         "start_price": 162.0,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 12.32,
+        "pe_ratio": 13.41,
         "forward_return": 101.01,
         "start_price": 150.0,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.11,
         "forward_return": 82.08,
         "start_price": 156.5,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.77,
         "forward_return": 80.26,
         "start_price": 162.5,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 42.21,
         "start_price": 172.5,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.04,
+        "pe_ratio": 15.22,
         "forward_return": 9.65,
         "start_price": 176.0,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 14.46,
+        "pe_ratio": 15.41,
         "forward_return": -2.18,
         "start_price": 182.5,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.46,
         "forward_return": -6.17,
         "start_price": 188.5,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.59,
         "forward_return": 10.32,
         "start_price": 183.0,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.07,
         "forward_return": 31.57,
         "start_price": 185.5,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.02,
         "forward_return": 33.64,
         "start_price": 189.0,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.57,
+        "pe_ratio": 13.73,
         "forward_return": 60.81,
         "start_price": 189.0,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.2,
         "forward_return": 68.5,
         "start_price": 194.5,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.58,
+        "pe_ratio": 14.91,
         "forward_return": 46.51,
         "start_price": 203.0,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 15.96,
+        "pe_ratio": 15.4,
         "forward_return": 31.76,
         "start_price": 208.5,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.39,
+        "pe_ratio": 15.95,
         "forward_return": 64.1,
         "start_price": 214.5,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.21,
         "forward_return": 19.07,
         "start_price": 216.5,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.47,
+        "pe_ratio": 16.33,
         "forward_return": 26.37,
         "start_price": 216.5,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.45,
+        "pe_ratio": 18.34,
         "forward_return": 21.09,
         "start_price": 243.0,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 17.12,
+        "pe_ratio": 17.07,
         "forward_return": 31.86,
         "start_price": 226.0,
         "start_year": 2017
@@ -1344,7 +1344,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 16.95,
         "forward_return": 57.0,
         "start_price": 227.0,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 16.63,
         "forward_return": 92.0,
         "start_price": 224.0,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.98,
         "forward_return": 142.07,
         "start_price": 216.5,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 18.34,
+        "pe_ratio": 18.17,
         "forward_return": -18.01,
         "start_price": 246.0,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.92,
         "forward_return": -31.6,
         "start_price": 256.0,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 19.5,
+        "pe_ratio": 19.42,
         "forward_return": -45.65,
         "start_price": 262.5,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.3,
         "forward_return": -20.3,
         "start_price": 234.0,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.69,
+        "pe_ratio": 16.66,
         "forward_return": 29.52,
         "start_price": 225.5,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.77,
         "forward_return": 21.34,
         "start_price": 221.0,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.7,
+        "pe_ratio": 18.64,
         "forward_return": -5.81,
         "start_price": 239.0,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.21,
+        "pe_ratio": 19.7,
         "forward_return": 35.92,
         "start_price": 245.5,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.23,
+        "pe_ratio": 20.92,
         "forward_return": 21.72,
         "start_price": 259.0,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 17.51,
+        "pe_ratio": 19.14,
         "forward_return": 75.9,
         "start_price": 235.5,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 17.8,
+        "pe_ratio": 19.54,
         "forward_return": 99.74,
         "start_price": 239.0,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.35,
+        "pe_ratio": 20.95,
         "forward_return": 74.35,
         "start_price": 259.5,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 19.34,
+        "pe_ratio": 20.65,
         "forward_return": 108.42,
         "start_price": 259.0,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 20.34,
+        "pe_ratio": 21.42,
         "forward_return": 119.89,
         "start_price": 272.0,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.35,
+        "pe_ratio": 23.13,
         "forward_return": 31.8,
         "start_price": 298.5,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.87,
+        "pe_ratio": 23.26,
         "forward_return": -27.64,
         "start_price": 305.0,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.06,
+        "pe_ratio": 22.81,
         "forward_return": -24.15,
         "start_price": 320.0,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 21.9,
+        "pe_ratio": 21.44,
         "forward_return": -27.17,
         "start_price": 316.0,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.73,
         "forward_return": 300.38,
         "start_price": 274.0,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 19.6,
+        "pe_ratio": 18.86,
         "forward_return": 320.47,
         "start_price": 304.5,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 18.15,
+        "pe_ratio": 17.34,
         "forward_return": 393.39,
         "start_price": 292.0,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 17.84,
         "forward_return": 297.13,
         "start_price": 313.0,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 24.74,
+        "pe_ratio": 23.63,
         "forward_return": 6.2,
         "start_price": 425.5,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 24.02,
+        "pe_ratio": 23.08,
         "forward_return": 91.64,
         "start_price": 426.5,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 22.85,
         "forward_return": 125.09,
         "start_price": 433.0,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 22.9,
+        "pe_ratio": 22.4,
         "forward_return": 247.01,
         "start_price": 432.0,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 24.48,
         "forward_return": 83.92,
         "start_price": 480.5,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 29.16,
         "forward_return": 3.12,
         "start_price": 591.0,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.59,
+        "pe_ratio": 29.47,
         "forward_return": -5.89,
         "start_price": 606.0,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.32,
+        "pe_ratio": 28.14,
         "forward_return": 1.8,
         "start_price": 587.0,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.59,
+        "pe_ratio": 28.53,
         "forward_return": -6.21,
         "start_price": 600.0,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 28.11,
+        "pe_ratio": 28.16,
         "forward_return": 19.58,
         "start_price": 597.0,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.69,
+        "pe_ratio": 27.84,
         "forward_return": -2.97,
         "start_price": 595.0,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.84,
         "forward_return": 7.02,
         "start_price": 580.0,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 27.91,
+        "pe_ratio": 28.1,
         "forward_return": 0.49,
         "start_price": 614.0,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 26.07,
+        "pe_ratio": 26.26,
         "forward_return": 26.51,
         "start_price": 580.0,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.22,
+        "pe_ratio": 26.34,
         "forward_return": 34.72,
         "start_price": 590.0,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.19,
+        "pe_ratio": 26.25,
         "forward_return": 0.51,
         "start_price": 596.0,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 26.11,
+        "pe_ratio": 26.7,
         "forward_return": -32.11,
         "start_price": 636.0,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.49,
+        "pe_ratio": 24.52,
         "forward_return": -26.43,
         "start_price": 604.0,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 23.47,
         "forward_return": -33.86,
         "start_price": 597.0,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.94,
+        "pe_ratio": 20.1,
         "forward_return": -12.77,
         "start_price": 538.0,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.94,
         "forward_return": -27.74,
         "start_price": 560.0,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 16.19,
         "forward_return": -31.33,
         "start_price": 476.0,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 15.68,
+        "pe_ratio": 16.42,
         "forward_return": -65.26,
         "start_price": 509.0,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 15.49,
         "forward_return": -29.9,
         "start_price": 505.0,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 12.34,
         "forward_return": 27.69,
         "start_price": 422.0,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.87,
         "forward_return": 218.16,
         "start_price": 390.0,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 13.06,
         "forward_return": 29.18,
         "start_price": 490.0,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.3,
         "forward_return": 22.51,
         "start_price": 522.0,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.0,
         "forward_return": 42.92,
         "start_price": 511.0,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 14.22,
+        "pe_ratio": 13.55,
         "forward_return": 26.48,
         "start_price": 533.0,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 13.6,
+        "pe_ratio": 12.99,
         "forward_return": 74.26,
         "start_price": 502.0,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 15.35,
+        "pe_ratio": 14.71,
         "forward_return": 1.79,
         "start_price": 558.0,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.47,
         "forward_return": -25.69,
         "start_price": 576.0,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.55,
         "forward_return": -23.0,
         "start_price": 565.0,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.49,
         "forward_return": 25.96,
         "start_price": 549.0,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.14,
         "forward_return": 65.56,
         "start_price": 523.0,
         "start_year": 2023
@@ -1938,7 +1938,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.65,
         "forward_return": 97.6,
         "start_price": 529.0,
         "start_year": 2023
@@ -1947,7 +1947,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 17.53,
+        "pe_ratio": 17.45,
         "forward_return": 147.46,
         "start_price": 577.0,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 18.79,
+        "pe_ratio": 19.27,
         "forward_return": 124.55,
         "start_price": 628.0,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 21.02,
         "forward_return": 100.92,
         "start_price": 690.0,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 21.9,
+        "pe_ratio": 23.56,
         "forward_return": 80.58,
         "start_price": 779.0,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 21.56,
+        "pe_ratio": 23.3,
         "forward_return": 108.76,
         "start_price": 790.0,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 21.77,
+        "pe_ratio": 23.63,
         "forward_return": 85.3,
         "start_price": 821.0,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 24.9,
+        "pe_ratio": 27.14,
         "forward_return": 2.49,
         "start_price": 966.0,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 25.2,
         "forward_return": 47.47,
         "start_price": 934.0,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 24.5,
         "forward_return": 47.56,
         "start_price": 944.0,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 22.77,
+        "pe_ratio": 23.92,
         "forward_return": 59.47,
         "start_price": 957.0,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 23.9,
+        "pe_ratio": 24.67,
         "forward_return": 47.02,
         "start_price": 1030.0,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.89,
         "forward_return": -24.03,
         "start_price": 996.0,
         "start_year": 2024
@@ -2091,7 +2091,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 18.02,
+        "pe_ratio": 18.01,
         "forward_return": 117.13,
         "start_price": 910.0,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 17.38,
+        "pe_ratio": 17.31,
         "forward_return": 185.28,
         "start_price": 908.0,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 17.91,
+        "pe_ratio": 17.78,
         "forward_return": 119.67,
         "start_price": 967.0,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 19.01,
+        "pe_ratio": 18.82,
         "forward_return": 141.79,
         "start_price": 1060.0,
         "start_year": 2025
@@ -2127,7 +2127,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 20.02,
         "forward_return": 177.46,
         "start_price": 1160.0,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 19.58,
+        "pe_ratio": 19.47,
         "forward_return": 138.15,
         "start_price": 1160.0,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.32,
         "forward_return": 99.49,
         "start_price": 1305.0,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 23.9,
+        "pe_ratio": 23.85,
         "forward_return": 95.09,
         "start_price": 1500.0,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 14.49,
         "forward_return": -1.86,
         "start_price": 64.2,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.91,
         "forward_return": -13.03,
         "start_price": 68.1,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.82,
         "forward_return": 28.99,
         "start_price": 60.3,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.07,
         "forward_return": 43.56,
         "start_price": 58.4,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 11.09,
         "forward_return": 50.8,
         "start_price": 54.8,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.51,
         "forward_return": 30.81,
         "start_price": 58.1,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 11.59,
         "forward_return": 29.66,
         "start_price": 59.7,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.37,
+        "pe_ratio": 12.02,
         "forward_return": 21.19,
         "start_price": 61.0,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 13.29,
+        "pe_ratio": 13.09,
         "forward_return": 8.49,
         "start_price": 65.5,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 14.19,
         "forward_return": 1.8,
         "start_price": 67.4,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 14.44,
+        "pe_ratio": 15.16,
         "forward_return": -10.15,
         "start_price": 69.3,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 14.35,
+        "pe_ratio": 15.47,
         "forward_return": -2.75,
         "start_price": 67.9,
         "start_year": 2007
@@ -2280,7 +2280,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.16,
         "forward_return": -5.44,
         "start_price": 68.7,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 16.59,
         "forward_return": -7.87,
         "start_price": 68.2,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 17.86,
         "forward_return": -15.92,
         "start_price": 70.9,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 16.48,
         "forward_return": -14.97,
         "start_price": 65.0,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 16.01,
         "forward_return": 1.1,
         "start_price": 62.7,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 16.27,
         "forward_return": -0.63,
         "start_price": 63.3,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.06,
         "forward_return": 4.89,
         "start_price": 63.8,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.41,
+        "pe_ratio": 14.94,
         "forward_return": 17.25,
         "start_price": 60.6,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 13.92,
         "forward_return": -2.25,
         "start_price": 59.9,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 15.05,
+        "pe_ratio": 13.79,
         "forward_return": 1.06,
         "start_price": 61.6,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.5,
+        "pe_ratio": 13.63,
         "forward_return": -30.41,
         "start_price": 63.1,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 14.28,
         "forward_return": -41.41,
         "start_price": 66.7,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.3,
+        "pe_ratio": 13.93,
         "forward_return": -42.52,
         "start_price": 65.6,
         "start_year": 2008
@@ -2406,7 +2406,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 16.25,
+        "pe_ratio": 13.68,
         "forward_return": -46.7,
         "start_price": 65.0,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 11.89,
         "forward_return": -48.58,
         "start_price": 56.2,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 14.9,
+        "pe_ratio": 12.52,
         "forward_return": -20.92,
         "start_price": 58.9,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 11.22,
         "forward_return": -4.18,
         "start_price": 52.5,
         "start_year": 2008
@@ -2442,7 +2442,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 10.89,
         "forward_return": 48.57,
         "start_price": 48.0,
         "start_year": 2008
@@ -2451,7 +2451,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 9.87,
         "forward_return": 120.71,
         "start_price": 40.8,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.44,
         "forward_return": 138.94,
         "start_price": 40.2,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.85,
+        "pe_ratio": 14.19,
         "forward_return": 91.91,
         "start_price": 44.95,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.68,
+        "pe_ratio": 18.23,
         "forward_return": 41.53,
         "start_price": 51.4,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 14.83,
+        "pe_ratio": 19.9,
         "forward_return": 30.19,
         "start_price": 55.2,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 22.15,
         "forward_return": 20.89,
         "start_price": 60.4,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 20.41,
         "forward_return": 52.15,
         "start_price": 54.7,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 22.0,
         "forward_return": 8.95,
         "start_price": 58.9,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 22.14,
         "forward_return": 6.79,
         "start_price": 59.2,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 18.16,
+        "pe_ratio": 24.16,
         "forward_return": -9.16,
         "start_price": 64.5,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 20.48,
         "forward_return": 0.57,
         "start_price": 60.0,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 19.15,
         "forward_return": -2.95,
         "start_price": 61.1,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 16.7,
+        "pe_ratio": 15.92,
         "forward_return": 13.21,
         "start_price": 61.5,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 15.02,
+        "pe_ratio": 13.75,
         "forward_return": 10.86,
         "start_price": 58.8,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.11,
         "forward_return": 12.23,
         "start_price": 61.5,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.64,
         "forward_return": 13.33,
         "start_price": 61.8,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 11.83,
         "forward_return": 42.23,
         "start_price": 60.2,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.51,
+        "pe_ratio": 11.46,
         "forward_return": 48.99,
         "start_price": 60.6,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.34,
         "forward_return": 49.06,
         "start_price": 62.4,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 10.3,
         "forward_return": 36.64,
         "start_price": 58.9,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 10.46,
         "forward_return": 29.97,
         "start_price": 62.0,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.41,
         "forward_return": 41.13,
         "start_price": 62.8,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 10.55,
+        "pe_ratio": 10.33,
         "forward_return": 46.86,
         "start_price": 63.4,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.16,
         "forward_return": -3.41,
         "start_price": 76.3,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.18,
         "forward_return": 5.48,
         "start_price": 70.5,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.14,
         "forward_return": 14.94,
         "start_price": 70.6,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.64,
         "forward_return": 9.48,
         "start_price": 73.2,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 12.3,
         "forward_return": 4.72,
         "start_price": 76.7,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 11.68,
         "forward_return": 19.08,
         "start_price": 72.2,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.81,
+        "pe_ratio": 12.07,
         "forward_return": 18.72,
         "start_price": 72.0,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 12.08,
         "forward_return": 41.29,
         "start_price": 69.4,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 12.66,
         "forward_return": 47.3,
         "start_price": 70.0,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.6,
         "forward_return": 28.27,
         "start_price": 73.6,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 14.08,
         "forward_return": 30.25,
         "start_price": 74.6,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 14.86,
+        "pe_ratio": 15.27,
         "forward_return": 14.55,
         "start_price": 78.5,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 15.9,
         "forward_return": 13.2,
         "start_price": 81.1,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.46,
+        "pe_ratio": 16.78,
         "forward_return": 14.05,
         "start_price": 84.9,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 16.9,
         "forward_return": 11.58,
         "start_price": 86.8,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.32,
         "forward_return": 31.7,
         "start_price": 85.1,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.37,
         "forward_return": 51.16,
         "start_price": 81.3,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 14.63,
         "forward_return": 56.49,
         "start_price": 81.0,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.4,
         "forward_return": 38.18,
         "start_price": 83.3,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.89,
         "forward_return": 25.5,
         "start_price": 89.8,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.4,
         "forward_return": 43.76,
         "start_price": 88.7,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 15.69,
         "forward_return": 23.31,
         "start_price": 98.7,
         "start_year": 2012
@@ -2901,7 +2901,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "forward_return": 8.11,
         "start_price": 101.5,
         "start_year": 2013
@@ -2910,7 +2910,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 15.93,
+        "pe_ratio": 15.88,
         "forward_return": -1.91,
         "start_price": 104.5,
         "start_year": 2013
@@ -2919,7 +2919,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.09,
         "forward_return": 21.23,
         "start_price": 100.5,
         "start_year": 2013
@@ -2928,7 +2928,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.15,
         "forward_return": 5.54,
         "start_price": 109.5,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.87,
         "forward_return": -1.55,
         "start_price": 109.5,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.81,
         "forward_return": -4.44,
         "start_price": 111.0,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.52,
         "forward_return": 4.9,
         "start_price": 102.5,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.15,
         "forward_return": 32.82,
         "start_price": 100.5,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.08,
         "forward_return": 39.44,
         "start_price": 100.5,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.38,
+        "pe_ratio": 15.25,
         "forward_return": 16.25,
         "start_price": 109.5,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.54,
         "forward_return": 29.83,
         "start_price": 105.0,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.25,
         "forward_return": 39.88,
         "start_price": 105.0,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 13.94,
+        "pe_ratio": 14.44,
         "forward_return": 38.43,
         "start_price": 108.0,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.61,
         "forward_return": 22.56,
         "start_price": 118.5,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 14.39,
+        "pe_ratio": 15.42,
         "forward_return": 26.86,
         "start_price": 118.5,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 14.1,
+        "pe_ratio": 15.35,
         "forward_return": 37.48,
         "start_price": 119.5,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 16.05,
         "forward_return": 29.51,
         "start_price": 126.5,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.5,
+        "pe_ratio": 14.77,
         "forward_return": 35.48,
         "start_price": 121.0,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 14.58,
         "forward_return": 31.72,
         "start_price": 124.0,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.61,
         "forward_return": 47.53,
         "start_price": 120.0,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.46,
+        "pe_ratio": 14.07,
         "forward_return": 21.33,
         "start_price": 130.5,
         "start_year": 2014
@@ -3099,7 +3099,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.55,
         "forward_return": 6.52,
         "start_price": 141.5,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.32,
         "forward_return": 4.34,
         "start_price": 141.0,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.4,
+        "pe_ratio": 13.7,
         "forward_return": -21.38,
         "start_price": 150.5,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 12.77,
         "forward_return": -5.22,
         "start_price": 145.5,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 12.63,
         "forward_return": -7.98,
         "start_price": 147.0,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 12.28,
         "forward_return": 1.76,
         "start_price": 146.0,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.77,
+        "pe_ratio": 11.57,
         "forward_return": 10.19,
         "start_price": 140.5,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.51,
         "forward_return": 3.59,
         "start_price": 139.5,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.66,
         "forward_return": 47.79,
         "start_price": 129.0,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.39,
+        "pe_ratio": 10.75,
         "forward_return": 55.52,
         "start_price": 130.0,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.38,
         "forward_return": 26.42,
         "start_price": 136.5,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.9,
+        "pe_ratio": 11.67,
         "forward_return": 26.87,
         "start_price": 139.0,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.92,
+        "pe_ratio": 12.2,
         "forward_return": 58.26,
         "start_price": 142.0,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.42,
+        "pe_ratio": 13.0,
         "forward_return": 49.08,
         "start_price": 149.0,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 14.36,
         "forward_return": 36.62,
         "start_price": 162.0,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 12.32,
+        "pe_ratio": 13.41,
         "forward_return": 67.96,
         "start_price": 150.0,
         "start_year": 2016
@@ -3261,7 +3261,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.11,
         "forward_return": 36.13,
         "start_price": 156.5,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.77,
         "forward_return": 33.06,
         "start_price": 162.5,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 15.51,
         "start_price": 172.5,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.04,
+        "pe_ratio": 15.22,
         "forward_return": 13.06,
         "start_price": 176.0,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 14.46,
+        "pe_ratio": 15.41,
         "forward_return": 7.32,
         "start_price": 182.5,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.46,
         "forward_return": 13.62,
         "start_price": 188.5,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.59,
         "forward_return": 23.28,
         "start_price": 183.0,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.07,
         "forward_return": 43.04,
         "start_price": 185.5,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.02,
         "forward_return": 40.0,
         "start_price": 189.0,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.57,
+        "pe_ratio": 13.73,
         "forward_return": 61.19,
         "start_price": 189.0,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.2,
         "forward_return": 65.04,
         "start_price": 194.5,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.58,
+        "pe_ratio": 14.91,
         "forward_return": 29.78,
         "start_price": 203.0,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 15.96,
+        "pe_ratio": 15.4,
         "forward_return": 28.6,
         "start_price": 208.5,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.39,
+        "pe_ratio": 15.95,
         "forward_return": 40.96,
         "start_price": 214.5,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.21,
         "forward_return": 25.93,
         "start_price": 216.5,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.47,
+        "pe_ratio": 16.33,
         "forward_return": 31.0,
         "start_price": 216.5,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.45,
+        "pe_ratio": 18.34,
         "forward_return": -13.09,
         "start_price": 243.0,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 17.12,
+        "pe_ratio": 17.07,
         "forward_return": -1.78,
         "start_price": 226.0,
         "start_year": 2017
@@ -3468,7 +3468,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 16.95,
         "forward_return": 13.62,
         "start_price": 227.0,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 16.63,
         "forward_return": 7.35,
         "start_price": 224.0,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.98,
         "forward_return": 16.28,
         "start_price": 216.5,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 18.34,
+        "pe_ratio": 18.17,
         "forward_return": -19.16,
         "start_price": 246.0,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.92,
         "forward_return": -6.96,
         "start_price": 256.0,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 19.5,
+        "pe_ratio": 19.42,
         "forward_return": -12.64,
         "start_price": 262.5,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.3,
         "forward_return": 1.11,
         "start_price": 234.0,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.69,
+        "pe_ratio": 16.66,
         "forward_return": 9.15,
         "start_price": 225.5,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.77,
         "forward_return": 52.05,
         "start_price": 221.0,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.7,
+        "pe_ratio": 18.64,
         "forward_return": 29.16,
         "start_price": 239.0,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.21,
+        "pe_ratio": 19.7,
         "forward_return": 49.73,
         "start_price": 245.5,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.23,
+        "pe_ratio": 20.92,
         "forward_return": 44.08,
         "start_price": 259.0,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 17.51,
+        "pe_ratio": 19.14,
         "forward_return": 90.46,
         "start_price": 235.5,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 17.8,
+        "pe_ratio": 19.54,
         "forward_return": 106.26,
         "start_price": 239.0,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.35,
+        "pe_ratio": 20.95,
         "forward_return": 51.59,
         "start_price": 259.5,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 19.34,
+        "pe_ratio": 20.65,
         "forward_return": 10.14,
         "start_price": 259.0,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 20.34,
+        "pe_ratio": 21.42,
         "forward_return": 1.48,
         "start_price": 272.0,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.35,
+        "pe_ratio": 23.13,
         "forward_return": -3.7,
         "start_price": 298.5,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.87,
+        "pe_ratio": 23.26,
         "forward_return": -8.37,
         "start_price": 305.0,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.06,
+        "pe_ratio": 22.81,
         "forward_return": 85.61,
         "start_price": 320.0,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 21.9,
+        "pe_ratio": 21.44,
         "forward_return": 90.55,
         "start_price": 316.0,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.73,
         "forward_return": 126.18,
         "start_price": 274.0,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 19.6,
+        "pe_ratio": 18.86,
         "forward_return": 110.38,
         "start_price": 304.5,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 18.15,
+        "pe_ratio": 17.34,
         "forward_return": 185.58,
         "start_price": 292.0,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 17.84,
         "forward_return": 196.98,
         "start_price": 313.0,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 24.74,
+        "pe_ratio": 23.63,
         "forward_return": 91.97,
         "start_price": 425.5,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 24.02,
+        "pe_ratio": 23.08,
         "forward_return": 73.38,
         "start_price": 426.5,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 22.85,
         "forward_return": 84.79,
         "start_price": 433.0,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 22.9,
+        "pe_ratio": 22.4,
         "forward_return": 74.6,
         "start_price": 432.0,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 24.48,
         "forward_return": 54.97,
         "start_price": 480.5,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 29.16,
         "forward_return": -0.17,
         "start_price": 591.0,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.59,
+        "pe_ratio": 29.47,
         "forward_return": 6.22,
         "start_price": 606.0,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.32,
+        "pe_ratio": 28.14,
         "forward_return": 3.96,
         "start_price": 587.0,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.59,
+        "pe_ratio": 28.53,
         "forward_return": 0.17,
         "start_price": 600.0,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 28.11,
+        "pe_ratio": 28.16,
         "forward_return": 8.28,
         "start_price": 597.0,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.69,
+        "pe_ratio": 27.84,
         "forward_return": 10.49,
         "start_price": 595.0,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.84,
         "forward_return": 20.08,
         "start_price": 580.0,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 27.91,
+        "pe_ratio": 28.1,
         "forward_return": -4.72,
         "start_price": 614.0,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 26.07,
+        "pe_ratio": 26.26,
         "forward_return": 6.0,
         "start_price": 580.0,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.22,
+        "pe_ratio": 26.34,
         "forward_return": -8.6,
         "start_price": 590.0,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.19,
+        "pe_ratio": 26.25,
         "forward_return": -11.81,
         "start_price": 596.0,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 26.11,
+        "pe_ratio": 26.7,
         "forward_return": -33.39,
         "start_price": 636.0,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.49,
+        "pe_ratio": 24.52,
         "forward_return": -27.1,
         "start_price": 604.0,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 23.47,
         "forward_return": -49.3,
         "start_price": 597.0,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.94,
+        "pe_ratio": 20.1,
         "forward_return": -44.38,
         "start_price": 538.0,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.94,
         "forward_return": -28.65,
         "start_price": 560.0,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 16.19,
         "forward_return": -6.8,
         "start_price": 476.0,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 15.68,
+        "pe_ratio": 16.42,
         "forward_return": 5.13,
         "start_price": 509.0,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 15.49,
         "forward_return": 9.74,
         "start_price": 505.0,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 12.34,
         "forward_return": 60.2,
         "start_price": 422.0,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.87,
         "forward_return": 85.36,
         "start_price": 390.0,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 13.06,
         "forward_return": 29.98,
         "start_price": 490.0,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.3,
         "forward_return": 22.19,
         "start_price": 522.0,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.0,
         "forward_return": 20.39,
         "start_price": 511.0,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 14.22,
+        "pe_ratio": 13.55,
         "forward_return": 2.41,
         "start_price": 533.0,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 13.6,
+        "pe_ratio": 12.99,
         "forward_return": 15.89,
         "start_price": 502.0,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 15.35,
+        "pe_ratio": 14.71,
         "forward_return": 14.64,
         "start_price": 558.0,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.47,
         "forward_return": 10.12,
         "start_price": 576.0,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.55,
         "forward_return": 23.35,
         "start_price": 565.0,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.49,
         "forward_return": 82.22,
         "start_price": 549.0,
         "start_year": 2023
@@ -4053,7 +4053,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.14,
         "forward_return": 122.46,
         "start_price": 523.0,
         "start_year": 2023
@@ -4062,7 +4062,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.65,
         "forward_return": 112.49,
         "start_price": 529.0,
         "start_year": 2023
@@ -4071,7 +4071,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 17.53,
+        "pe_ratio": 17.45,
         "forward_return": 102.95,
         "start_price": 577.0,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 18.79,
+        "pe_ratio": 19.27,
         "forward_return": 129.0,
         "start_price": 628.0,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 21.02,
         "forward_return": 92.91,
         "start_price": 690.0,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 21.9,
+        "pe_ratio": 23.56,
         "forward_return": 65.1,
         "start_price": 779.0,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 21.56,
+        "pe_ratio": 23.3,
         "forward_return": 74.78,
         "start_price": 790.0,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 21.77,
+        "pe_ratio": 23.63,
         "forward_return": 62.21,
         "start_price": 821.0,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 24.9,
+        "pe_ratio": 27.14,
         "forward_return": 27.26,
         "start_price": 966.0,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 25.2,
         "forward_return": 47.24,
         "start_price": 934.0,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 24.5,
         "forward_return": -6.12,
         "start_price": 944.0,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 22.77,
+        "pe_ratio": 23.92,
         "forward_return": -9.66,
         "start_price": 957.0,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 23.9,
+        "pe_ratio": 24.67,
         "forward_return": -10.3,
         "start_price": 1030.0,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.89,
         "forward_return": -5.79,
         "start_price": 996.0,
         "start_year": 2024
@@ -4215,7 +4215,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 18.02,
+        "pe_ratio": 18.01,
         "forward_return": 139.76,
         "start_price": 910.0,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 17.38,
+        "pe_ratio": 17.31,
         "forward_return": 179.27,
         "start_price": 908.0,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 17.91,
+        "pe_ratio": 17.78,
         "forward_return": 128.43,
         "start_price": 967.0,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 19.01,
+        "pe_ratio": 18.82,
         "forward_return": 118.74,
         "start_price": 1060.0,
         "start_year": 2025
@@ -4251,7 +4251,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 20.02,
         "forward_return": 132.66,
         "start_price": 1160.0,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 14.49,
         "forward_return": 9.66,
         "start_price": 64.2,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.91,
         "forward_return": 4.55,
         "start_price": 68.1,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.82,
         "forward_return": 17.26,
         "start_price": 60.3,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.07,
         "forward_return": 25.7,
         "start_price": 58.4,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 11.09,
         "forward_return": 24.11,
         "start_price": 54.8,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.51,
         "forward_return": 13.09,
         "start_price": 58.1,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 11.59,
         "forward_return": 11.06,
         "start_price": 59.7,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.37,
+        "pe_ratio": 12.02,
         "forward_return": 9.52,
         "start_price": 61.0,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 13.29,
+        "pe_ratio": 13.09,
         "forward_return": -2.9,
         "start_price": 65.5,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 14.19,
         "forward_return": -6.68,
         "start_price": 67.4,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 14.44,
+        "pe_ratio": 15.16,
         "forward_return": -6.79,
         "start_price": 69.3,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 14.35,
+        "pe_ratio": 15.47,
         "forward_return": -2.65,
         "start_price": 67.9,
         "start_year": 2007
@@ -4377,7 +4377,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.16,
         "forward_return": 1.45,
         "start_price": 68.7,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 16.59,
         "forward_return": 0.59,
         "start_price": 68.2,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 17.86,
         "forward_return": -4.08,
         "start_price": 70.9,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 16.48,
         "forward_return": -8.87,
         "start_price": 65.0,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 16.01,
         "forward_return": -1.23,
         "start_price": 62.7,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 16.27,
         "forward_return": -12.26,
         "start_price": 63.3,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.06,
         "forward_return": -19.99,
         "start_price": 63.8,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.41,
+        "pe_ratio": 14.94,
         "forward_return": -27.63,
         "start_price": 60.6,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 13.92,
         "forward_return": -27.79,
         "start_price": 59.9,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 15.05,
+        "pe_ratio": 13.79,
         "forward_return": -10.82,
         "start_price": 61.6,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.5,
+        "pe_ratio": 13.63,
         "forward_return": -13.76,
         "start_price": 63.1,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 14.28,
         "forward_return": -12.71,
         "start_price": 66.7,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.3,
+        "pe_ratio": 13.93,
         "forward_return": -3.32,
         "start_price": 65.6,
         "start_year": 2008
@@ -4503,7 +4503,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 16.25,
+        "pe_ratio": 13.68,
         "forward_return": -11.2,
         "start_price": 65.0,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 11.89,
         "forward_return": 10.15,
         "start_price": 56.2,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 14.9,
+        "pe_ratio": 12.52,
         "forward_return": 5.61,
         "start_price": 58.9,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 11.22,
         "forward_return": 28.59,
         "start_price": 52.5,
         "start_year": 2008
@@ -4539,7 +4539,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 10.89,
         "forward_return": 31.27,
         "start_price": 48.0,
         "start_year": 2008
@@ -4548,7 +4548,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 9.87,
         "forward_return": 57.16,
         "start_price": 40.8,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.44,
         "forward_return": 60.5,
         "start_price": 40.2,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.85,
+        "pe_ratio": 14.19,
         "forward_return": 37.52,
         "start_price": 44.95,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.68,
+        "pe_ratio": 18.23,
         "forward_return": 25.51,
         "start_price": 51.4,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 14.83,
+        "pe_ratio": 19.9,
         "forward_return": 17.4,
         "start_price": 55.2,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 22.15,
         "forward_return": 4.64,
         "start_price": 60.4,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 20.41,
         "forward_return": 16.28,
         "start_price": 54.7,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 22.0,
         "forward_return": 11.04,
         "start_price": 58.9,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 22.14,
         "forward_return": 4.56,
         "start_price": 59.2,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 18.16,
+        "pe_ratio": 24.16,
         "forward_return": 0.78,
         "start_price": 64.5,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 20.48,
         "forward_return": 9.67,
         "start_price": 60.0,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 19.15,
         "forward_return": 8.68,
         "start_price": 61.1,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 16.7,
+        "pe_ratio": 15.92,
         "forward_return": 28.97,
         "start_price": 61.5,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 15.02,
+        "pe_ratio": 13.75,
         "forward_return": 25.02,
         "start_price": 58.8,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.11,
         "forward_return": 19.69,
         "start_price": 61.5,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.64,
         "forward_return": 23.32,
         "start_price": 61.8,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 11.83,
         "forward_return": 32.42,
         "start_price": 60.2,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.51,
+        "pe_ratio": 11.46,
         "forward_return": 24.11,
         "start_price": 60.6,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.34,
         "forward_return": 20.21,
         "start_price": 62.4,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 10.3,
         "forward_return": 22.94,
         "start_price": 58.9,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 10.46,
         "forward_return": 17.76,
         "start_price": 62.0,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.41,
         "forward_return": 21.99,
         "start_price": 62.8,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 10.55,
+        "pe_ratio": 10.33,
         "forward_return": 22.41,
         "start_price": 63.4,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.16,
         "forward_return": 6.82,
         "start_price": 76.3,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.18,
         "forward_return": 19.31,
         "start_price": 70.5,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.14,
         "forward_return": 24.45,
         "start_price": 70.6,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.64,
         "forward_return": 22.63,
         "start_price": 73.2,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 12.3,
         "forward_return": 14.83,
         "start_price": 76.7,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 11.68,
         "forward_return": 16.72,
         "start_price": 72.2,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.81,
+        "pe_ratio": 12.07,
         "forward_return": 16.63,
         "start_price": 72.0,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 12.08,
         "forward_return": 24.29,
         "start_price": 69.4,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 12.66,
         "forward_return": 32.49,
         "start_price": 70.0,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.6,
         "forward_return": 24.53,
         "start_price": 73.6,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 14.08,
         "forward_return": 36.24,
         "start_price": 74.6,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 14.86,
+        "pe_ratio": 15.27,
         "forward_return": 33.04,
         "start_price": 78.5,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 15.9,
         "forward_return": 25.3,
         "start_price": 81.1,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.46,
+        "pe_ratio": 16.78,
         "forward_return": 21.92,
         "start_price": 84.9,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 16.9,
         "forward_return": 29.63,
         "start_price": 86.8,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.32,
         "forward_return": 32.22,
         "start_price": 85.1,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.37,
         "forward_return": 40.25,
         "start_price": 81.3,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 14.63,
         "forward_return": 30.27,
         "start_price": 81.0,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.4,
         "forward_return": 24.27,
         "start_price": 83.3,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.89,
         "forward_return": 15.27,
         "start_price": 89.8,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.4,
         "forward_return": 26.85,
         "start_price": 88.7,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 15.69,
         "forward_return": 9.43,
         "start_price": 98.7,
         "start_year": 2012
@@ -4998,7 +4998,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "forward_return": 6.41,
         "start_price": 101.5,
         "start_year": 2013
@@ -5007,7 +5007,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 15.93,
+        "pe_ratio": 15.88,
         "forward_return": 6.22,
         "start_price": 104.5,
         "start_year": 2013
@@ -5016,7 +5016,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.09,
         "forward_return": 20.91,
         "start_price": 100.5,
         "start_year": 2013
@@ -5025,7 +5025,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.15,
         "forward_return": 10.97,
         "start_price": 109.5,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.87,
         "forward_return": 11.88,
         "start_price": 109.5,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.81,
         "forward_return": 16.68,
         "start_price": 111.0,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.52,
         "forward_return": 20.99,
         "start_price": 102.5,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.15,
         "forward_return": 26.39,
         "start_price": 100.5,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.08,
         "forward_return": 22.4,
         "start_price": 100.5,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.38,
+        "pe_ratio": 15.25,
         "forward_return": 21.93,
         "start_price": 109.5,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.54,
         "forward_return": 37.65,
         "start_price": 105.0,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.25,
         "forward_return": 37.17,
         "start_price": 105.0,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 13.94,
+        "pe_ratio": 14.44,
         "forward_return": 42.16,
         "start_price": 108.0,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.61,
         "forward_return": 25.34,
         "start_price": 118.5,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 14.39,
+        "pe_ratio": 15.42,
         "forward_return": 26.6,
         "start_price": 118.5,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 14.1,
+        "pe_ratio": 15.35,
         "forward_return": 24.71,
         "start_price": 119.5,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 16.05,
         "forward_return": 13.45,
         "start_price": 126.5,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.5,
+        "pe_ratio": 14.77,
         "forward_return": 19.02,
         "start_price": 121.0,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 14.58,
         "forward_return": 7.67,
         "start_price": 124.0,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.61,
         "forward_return": 12.09,
         "start_price": 120.0,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.46,
+        "pe_ratio": 14.07,
         "forward_return": 8.05,
         "start_price": 130.5,
         "start_year": 2014
@@ -5196,7 +5196,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.55,
         "forward_return": 1.41,
         "start_price": 141.5,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.32,
         "forward_return": 3.9,
         "start_price": 141.0,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.4,
+        "pe_ratio": 13.7,
         "forward_return": 1.99,
         "start_price": 150.5,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 12.77,
         "forward_return": 14.4,
         "start_price": 145.5,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 12.63,
         "forward_return": 5.09,
         "start_price": 147.0,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 12.28,
         "forward_return": 10.25,
         "start_price": 146.0,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.77,
+        "pe_ratio": 11.57,
         "forward_return": 18.82,
         "start_price": 140.5,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.51,
         "forward_return": 27.89,
         "start_price": 139.5,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.66,
         "forward_return": 40.99,
         "start_price": 129.0,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.39,
+        "pe_ratio": 10.75,
         "forward_return": 44.89,
         "start_price": 130.0,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.38,
         "forward_return": 42.39,
         "start_price": 136.5,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.9,
+        "pe_ratio": 11.67,
         "forward_return": 35.89,
         "start_price": 139.0,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.92,
+        "pe_ratio": 12.2,
         "forward_return": 34.78,
         "start_price": 142.0,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.42,
+        "pe_ratio": 13.0,
         "forward_return": 28.25,
         "start_price": 149.0,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 14.36,
         "forward_return": 20.39,
         "start_price": 162.0,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 12.32,
+        "pe_ratio": 13.41,
         "forward_return": 33.69,
         "start_price": 150.0,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.11,
         "forward_return": 33.57,
         "start_price": 156.5,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.77,
         "forward_return": 32.03,
         "start_price": 162.5,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 28.43,
         "start_price": 172.5,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.04,
+        "pe_ratio": 15.22,
         "forward_return": 27.01,
         "start_price": 176.0,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 14.46,
+        "pe_ratio": 15.41,
         "forward_return": 22.48,
         "start_price": 182.5,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.46,
         "forward_return": 32.65,
         "start_price": 188.5,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.59,
         "forward_return": 27.34,
         "start_price": 183.0,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.07,
         "forward_return": 41.27,
         "start_price": 185.5,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.02,
         "forward_return": 33.89,
         "start_price": 189.0,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.57,
+        "pe_ratio": 13.73,
         "forward_return": 34.68,
         "start_price": 189.0,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.2,
         "forward_return": 20.32,
         "start_price": 194.5,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.58,
+        "pe_ratio": 14.91,
         "forward_return": 13.8,
         "start_price": 203.0,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 15.96,
+        "pe_ratio": 15.4,
         "forward_return": 7.2,
         "start_price": 208.5,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.39,
+        "pe_ratio": 15.95,
         "forward_return": 18.43,
         "start_price": 214.5,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.21,
         "forward_return": 21.96,
         "start_price": 216.5,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.47,
+        "pe_ratio": 16.33,
         "forward_return": 24.96,
         "start_price": 216.5,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.45,
+        "pe_ratio": 18.34,
         "forward_return": -0.41,
         "start_price": 243.0,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 17.12,
+        "pe_ratio": 17.07,
         "forward_return": 3.32,
         "start_price": 226.0,
         "start_year": 2017
@@ -5565,7 +5565,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 16.95,
         "forward_return": 17.63,
         "start_price": 227.0,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 16.63,
         "forward_return": 8.71,
         "start_price": 224.0,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.98,
         "forward_return": 14.1,
         "start_price": 216.5,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 18.34,
+        "pe_ratio": 18.17,
         "forward_return": 10.58,
         "start_price": 246.0,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.92,
         "forward_return": 6.06,
         "start_price": 256.0,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 19.5,
+        "pe_ratio": 19.42,
         "forward_return": 8.39,
         "start_price": 262.5,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.3,
         "forward_return": 32.93,
         "start_price": 234.0,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.69,
+        "pe_ratio": 16.66,
         "forward_return": 40.83,
         "start_price": 225.5,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.77,
         "forward_return": 50.49,
         "start_price": 221.0,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.7,
+        "pe_ratio": 18.64,
         "forward_return": 37.48,
         "start_price": 239.0,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.21,
+        "pe_ratio": 19.7,
         "forward_return": 16.66,
         "start_price": 245.5,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.23,
+        "pe_ratio": 20.92,
         "forward_return": 22.34,
         "start_price": 259.0,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 17.51,
+        "pe_ratio": 19.14,
         "forward_return": 29.23,
         "start_price": 235.5,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 17.8,
+        "pe_ratio": 19.54,
         "forward_return": 36.11,
         "start_price": 239.0,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.35,
+        "pe_ratio": 20.95,
         "forward_return": 67.64,
         "start_price": 259.5,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 19.34,
+        "pe_ratio": 20.65,
         "forward_return": 68.35,
         "start_price": 259.0,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 20.34,
+        "pe_ratio": 21.42,
         "forward_return": 62.7,
         "start_price": 272.0,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.35,
+        "pe_ratio": 23.13,
         "forward_return": 47.95,
         "start_price": 298.5,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.87,
+        "pe_ratio": 23.26,
         "forward_return": 60.66,
         "start_price": 305.0,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.06,
+        "pe_ratio": 22.81,
         "forward_return": 87.57,
         "start_price": 320.0,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 21.9,
+        "pe_ratio": 21.44,
         "forward_return": 80.09,
         "start_price": 316.0,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.73,
         "forward_return": 118.0,
         "start_price": 274.0,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 19.6,
+        "pe_ratio": 18.86,
         "forward_return": 100.42,
         "start_price": 304.5,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 18.15,
+        "pe_ratio": 17.34,
         "forward_return": 107.98,
         "start_price": 292.0,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 17.84,
         "forward_return": 93.38,
         "start_price": 313.0,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 24.74,
+        "pe_ratio": 23.63,
         "forward_return": 38.81,
         "start_price": 425.5,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 24.02,
+        "pe_ratio": 23.08,
         "forward_return": 46.46,
         "start_price": 426.5,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 22.85,
         "forward_return": 36.4,
         "start_price": 433.0,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 22.9,
+        "pe_ratio": 22.4,
         "forward_return": 39.04,
         "start_price": 432.0,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 24.48,
         "forward_return": 26.24,
         "start_price": 480.5,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 29.16,
         "forward_return": 9.4,
         "start_price": 591.0,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.59,
+        "pe_ratio": 29.47,
         "forward_return": 1.4,
         "start_price": 606.0,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.32,
+        "pe_ratio": 28.14,
         "forward_return": 3.49,
         "start_price": 587.0,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.59,
+        "pe_ratio": 28.53,
         "forward_return": -8.59,
         "start_price": 600.0,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 28.11,
+        "pe_ratio": 28.16,
         "forward_return": -4.44,
         "start_price": 597.0,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.69,
+        "pe_ratio": 27.84,
         "forward_return": -18.25,
         "start_price": 595.0,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.84,
         "forward_return": -10.35,
         "start_price": 580.0,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 27.91,
+        "pe_ratio": 28.1,
         "forward_return": -15.97,
         "start_price": 614.0,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 26.07,
+        "pe_ratio": 26.26,
         "forward_return": -25.36,
         "start_price": 580.0,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.22,
+        "pe_ratio": 26.34,
         "forward_return": -32.05,
         "start_price": 590.0,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.19,
+        "pe_ratio": 26.25,
         "forward_return": -15.95,
         "start_price": 596.0,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 26.11,
+        "pe_ratio": 26.7,
         "forward_return": -16.21,
         "start_price": 636.0,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.49,
+        "pe_ratio": 24.52,
         "forward_return": -13.58,
         "start_price": 604.0,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 23.47,
         "forward_return": -8.88,
         "start_price": 597.0,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.94,
+        "pe_ratio": 20.1,
         "forward_return": -4.65,
         "start_price": 538.0,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.94,
         "forward_return": 1.61,
         "start_price": 560.0,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 16.19,
         "forward_return": 23.34,
         "start_price": 476.0,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 15.68,
+        "pe_ratio": 16.42,
         "forward_return": 13.27,
         "start_price": 509.0,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 15.49,
         "forward_return": 11.0,
         "start_price": 505.0,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 12.34,
         "forward_return": 26.68,
         "start_price": 422.0,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.87,
         "forward_return": 38.62,
         "start_price": 390.0,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 13.06,
         "forward_return": 20.12,
         "start_price": 490.0,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.3,
         "forward_return": 22.53,
         "start_price": 522.0,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.0,
         "forward_return": 37.31,
         "start_price": 511.0,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 14.22,
+        "pe_ratio": 13.55,
         "forward_return": 48.19,
         "start_price": 533.0,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 13.6,
+        "pe_ratio": 12.99,
         "forward_return": 59.51,
         "start_price": 502.0,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 15.35,
+        "pe_ratio": 14.71,
         "forward_return": 49.07,
         "start_price": 558.0,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.47,
         "forward_return": 69.52,
         "start_price": 576.0,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.55,
         "forward_return": 67.79,
         "start_price": 565.0,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.49,
         "forward_return": 74.48,
         "start_price": 549.0,
         "start_year": 2023
@@ -6150,7 +6150,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.14,
         "forward_return": 85.61,
         "start_price": 523.0,
         "start_year": 2023
@@ -6159,7 +6159,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.65,
         "forward_return": 97.27,
         "start_price": 529.0,
         "start_year": 2023
@@ -6168,7 +6168,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 17.53,
+        "pe_ratio": 17.45,
         "forward_return": 75.02,
         "start_price": 577.0,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 18.79,
+        "pe_ratio": 19.27,
         "forward_return": 82.89,
         "start_price": 628.0,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 21.02,
         "forward_return": 31.13,
         "start_price": 690.0,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 21.9,
+        "pe_ratio": 23.56,
         "forward_return": 18.76,
         "start_price": 779.0,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 21.56,
+        "pe_ratio": 23.3,
         "forward_return": 16.85,
         "start_price": 790.0,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 21.77,
+        "pe_ratio": 23.63,
         "forward_return": 19.62,
         "start_price": 821.0,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 24.9,
+        "pe_ratio": 27.14,
         "forward_return": 11.29,
         "start_price": 966.0,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 23.43,
+        "pe_ratio": 25.2,
         "forward_return": 26.25,
         "start_price": 934.0,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 24.5,
         "forward_return": 24.91,
         "start_price": 944.0,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 22.77,
+        "pe_ratio": 23.92,
         "forward_return": 38.38,
         "start_price": 957.0,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 23.9,
+        "pe_ratio": 24.67,
         "forward_return": 47.51,
         "start_price": 1030.0,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.89,
         "forward_return": 46.52,
         "start_price": 996.0,
         "start_year": 2024
@@ -6312,7 +6312,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 14.49,
         "forward_return": 3.37,
         "start_price": 64.2,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.91,
         "forward_return": 2.96,
         "start_price": 68.1,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.82,
         "forward_return": 8.58,
         "start_price": 60.3,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.07,
         "forward_return": 9.86,
         "start_price": 58.4,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 11.09,
         "forward_return": 6.55,
         "start_price": 54.8,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.51,
         "forward_return": 5.71,
         "start_price": 58.1,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 11.59,
         "forward_return": -0.99,
         "start_price": 59.7,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.37,
+        "pe_ratio": 12.02,
         "forward_return": -5.89,
         "start_price": 61.0,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 13.29,
+        "pe_ratio": 13.09,
         "forward_return": -15.44,
         "start_price": 65.5,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 14.19,
         "forward_return": -17.17,
         "start_price": 67.4,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 14.44,
+        "pe_ratio": 15.16,
         "forward_return": -14.23,
         "start_price": 69.3,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 14.35,
+        "pe_ratio": 15.47,
         "forward_return": -8.03,
         "start_price": 67.9,
         "start_year": 2007
@@ -6429,7 +6429,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.16,
         "forward_return": -5.59,
         "start_price": 68.7,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 16.59,
         "forward_return": -1.31,
         "start_price": 68.2,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 17.86,
         "forward_return": -7.45,
         "start_price": 70.9,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 16.48,
         "forward_return": -0.06,
         "start_price": 65.0,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 16.01,
         "forward_return": 1.99,
         "start_price": 62.7,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 16.27,
         "forward_return": 5.55,
         "start_price": 63.3,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.06,
         "forward_return": 1.73,
         "start_price": 63.8,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.41,
+        "pe_ratio": 14.94,
         "forward_return": 5.24,
         "start_price": 60.6,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 13.92,
         "forward_return": 6.17,
         "start_price": 59.9,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 15.05,
+        "pe_ratio": 13.79,
         "forward_return": 4.51,
         "start_price": 61.6,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.5,
+        "pe_ratio": 13.63,
         "forward_return": 3.45,
         "start_price": 63.1,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 14.28,
         "forward_return": 0.84,
         "start_price": 66.7,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.3,
+        "pe_ratio": 13.93,
         "forward_return": 0.48,
         "start_price": 65.6,
         "start_year": 2008
@@ -6555,7 +6555,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 16.25,
+        "pe_ratio": 13.68,
         "forward_return": 1.24,
         "start_price": 65.0,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 11.89,
         "forward_return": 10.33,
         "start_price": 56.2,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 14.9,
+        "pe_ratio": 12.52,
         "forward_return": 4.97,
         "start_price": 58.9,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 11.22,
         "forward_return": 13.82,
         "start_price": 52.5,
         "start_year": 2008
@@ -6591,7 +6591,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 10.89,
         "forward_return": 19.74,
         "start_price": 48.0,
         "start_year": 2008
@@ -6600,7 +6600,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 9.87,
         "forward_return": 30.45,
         "start_price": 40.8,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.44,
         "forward_return": 43.12,
         "start_price": 40.2,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.85,
+        "pe_ratio": 14.19,
         "forward_return": 30.48,
         "start_price": 44.95,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.68,
+        "pe_ratio": 18.23,
         "forward_return": 22.09,
         "start_price": 51.4,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 14.83,
+        "pe_ratio": 19.9,
         "forward_return": 19.8,
         "start_price": 55.2,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 22.15,
         "forward_return": 17.03,
         "start_price": 60.4,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 20.41,
         "forward_return": 19.58,
         "start_price": 54.7,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 22.0,
         "forward_return": 15.09,
         "start_price": 58.9,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 22.14,
         "forward_return": 12.87,
         "start_price": 59.2,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 18.16,
+        "pe_ratio": 24.16,
         "forward_return": 8.56,
         "start_price": 64.5,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 20.48,
         "forward_return": 15.19,
         "start_price": 60.0,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 19.15,
         "forward_return": 14.87,
         "start_price": 61.1,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 16.7,
+        "pe_ratio": 15.92,
         "forward_return": 17.23,
         "start_price": 61.5,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 15.02,
+        "pe_ratio": 13.75,
         "forward_return": 21.72,
         "start_price": 58.8,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.11,
         "forward_return": 21.56,
         "start_price": 61.5,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.64,
         "forward_return": 22.52,
         "start_price": 61.8,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 11.83,
         "forward_return": 23.0,
         "start_price": 60.2,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.51,
+        "pe_ratio": 11.46,
         "forward_return": 20.01,
         "start_price": 60.6,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.34,
         "forward_return": 18.06,
         "start_price": 62.4,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 10.3,
         "forward_return": 23.11,
         "start_price": 58.9,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 10.46,
         "forward_return": 24.29,
         "start_price": 62.0,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.41,
         "forward_return": 22.78,
         "start_price": 62.8,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 10.55,
+        "pe_ratio": 10.33,
         "forward_return": 28.48,
         "start_price": 63.4,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.16,
         "forward_return": 18.68,
         "start_price": 76.3,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.18,
         "forward_return": 25.18,
         "start_price": 70.5,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.14,
         "forward_return": 22.8,
         "start_price": 70.6,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.64,
         "forward_return": 25.59,
         "start_price": 73.2,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 12.3,
         "forward_return": 22.7,
         "start_price": 76.7,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 11.68,
         "forward_return": 27.28,
         "start_price": 72.2,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.81,
+        "pe_ratio": 12.07,
         "forward_return": 22.74,
         "start_price": 72.0,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 12.08,
         "forward_return": 23.86,
         "start_price": 69.4,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 12.66,
         "forward_return": 23.33,
         "start_price": 70.0,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.6,
         "forward_return": 25.25,
         "start_price": 73.6,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 14.08,
         "forward_return": 21.96,
         "start_price": 74.6,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 14.86,
+        "pe_ratio": 15.27,
         "forward_return": 18.9,
         "start_price": 78.5,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 15.9,
         "forward_return": 22.87,
         "start_price": 81.1,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.46,
+        "pe_ratio": 16.78,
         "forward_return": 21.11,
         "start_price": 84.9,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 16.9,
         "forward_return": 19.78,
         "start_price": 86.8,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.32,
         "forward_return": 21.45,
         "start_price": 85.1,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.37,
         "forward_return": 27.68,
         "start_price": 81.3,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 14.63,
         "forward_return": 25.24,
         "start_price": 81.0,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.4,
         "forward_return": 24.94,
         "start_price": 83.3,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.89,
         "forward_return": 18.47,
         "start_price": 89.8,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.4,
         "forward_return": 24.07,
         "start_price": 88.7,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 15.69,
         "forward_return": 22.26,
         "start_price": 98.7,
         "start_year": 2012
@@ -7050,7 +7050,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "forward_return": 20.36,
         "start_price": 101.5,
         "start_year": 2013
@@ -7059,7 +7059,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 15.93,
+        "pe_ratio": 15.88,
         "forward_return": 22.39,
         "start_price": 104.5,
         "start_year": 2013
@@ -7068,7 +7068,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.09,
         "forward_return": 22.8,
         "start_price": 100.5,
         "start_year": 2013
@@ -7077,7 +7077,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.15,
         "forward_return": 18.22,
         "start_price": 109.5,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.87,
         "forward_return": 17.83,
         "start_price": 109.5,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.81,
         "forward_return": 14.89,
         "start_price": 111.0,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.52,
         "forward_return": 19.77,
         "start_price": 102.5,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.15,
         "forward_return": 16.55,
         "start_price": 100.5,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.08,
         "forward_return": 16.98,
         "start_price": 100.5,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.38,
+        "pe_ratio": 15.25,
         "forward_return": 14.69,
         "start_price": 109.5,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.54,
         "forward_return": 18.13,
         "start_price": 105.0,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.25,
         "forward_return": 19.34,
         "start_price": 105.0,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 13.94,
+        "pe_ratio": 14.44,
         "forward_return": 20.39,
         "start_price": 108.0,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.61,
         "forward_return": 19.58,
         "start_price": 118.5,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 14.39,
+        "pe_ratio": 15.42,
         "forward_return": 15.28,
         "start_price": 118.5,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 14.1,
+        "pe_ratio": 15.35,
         "forward_return": 17.14,
         "start_price": 119.5,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 16.05,
         "forward_return": 15.91,
         "start_price": 126.5,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.5,
+        "pe_ratio": 14.77,
         "forward_return": 22.96,
         "start_price": 121.0,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 14.58,
         "forward_return": 22.62,
         "start_price": 124.0,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.61,
         "forward_return": 26.8,
         "start_price": 120.0,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.46,
+        "pe_ratio": 14.07,
         "forward_return": 23.47,
         "start_price": 130.5,
         "start_year": 2014
@@ -7248,7 +7248,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.55,
         "forward_return": 16.93,
         "start_price": 141.5,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.32,
         "forward_return": 17.89,
         "start_price": 141.0,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.4,
+        "pe_ratio": 13.7,
         "forward_return": 15.12,
         "start_price": 150.5,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 12.77,
         "forward_return": 17.08,
         "start_price": 145.5,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 12.63,
         "forward_return": 18.08,
         "start_price": 147.0,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 12.28,
         "forward_return": 20.91,
         "start_price": 146.0,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.77,
+        "pe_ratio": 11.57,
         "forward_return": 24.83,
         "start_price": 140.5,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.51,
         "forward_return": 27.68,
         "start_price": 139.5,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.66,
         "forward_return": 33.36,
         "start_price": 129.0,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.39,
+        "pe_ratio": 10.75,
         "forward_return": 32.84,
         "start_price": 130.0,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.38,
         "forward_return": 36.92,
         "start_price": 136.5,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.9,
+        "pe_ratio": 11.67,
         "forward_return": 31.1,
         "start_price": 139.0,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.92,
+        "pe_ratio": 12.2,
         "forward_return": 37.35,
         "start_price": 142.0,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.42,
+        "pe_ratio": 13.0,
         "forward_return": 30.8,
         "start_price": 149.0,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 14.36,
         "forward_return": 26.83,
         "start_price": 162.0,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 12.32,
+        "pe_ratio": 13.41,
         "forward_return": 26.51,
         "start_price": 150.0,
         "start_year": 2016
@@ -7410,7 +7410,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.11,
         "forward_return": 23.08,
         "start_price": 156.5,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.77,
         "forward_return": 18.85,
         "start_price": 162.5,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 23.02,
         "start_price": 172.5,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.04,
+        "pe_ratio": 15.22,
         "forward_return": 24.11,
         "start_price": 176.0,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 14.46,
+        "pe_ratio": 15.41,
         "forward_return": 23.33,
         "start_price": 182.5,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.46,
         "forward_return": 14.94,
         "start_price": 188.5,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.59,
         "forward_return": 14.65,
         "start_price": 183.0,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.07,
         "forward_return": 12.8,
         "start_price": 185.5,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.02,
         "forward_return": 15.94,
         "start_price": 189.0,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.57,
+        "pe_ratio": 13.73,
         "forward_return": 17.41,
         "start_price": 189.0,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.2,
         "forward_return": 18.7,
         "start_price": 194.5,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.58,
+        "pe_ratio": 14.91,
         "forward_return": 11.09,
         "start_price": 203.0,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 15.96,
+        "pe_ratio": 15.4,
         "forward_return": 10.38,
         "start_price": 208.5,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.39,
+        "pe_ratio": 15.95,
         "forward_return": 14.26,
         "start_price": 214.5,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.21,
         "forward_return": 13.63,
         "start_price": 216.5,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.47,
+        "pe_ratio": 16.33,
         "forward_return": 16.25,
         "start_price": 216.5,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.45,
+        "pe_ratio": 18.34,
         "forward_return": 14.59,
         "start_price": 243.0,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 17.12,
+        "pe_ratio": 17.07,
         "forward_return": 20.03,
         "start_price": 226.0,
         "start_year": 2017
@@ -7617,7 +7617,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 16.95,
         "forward_return": 19.64,
         "start_price": 227.0,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 16.63,
         "forward_return": 18.1,
         "start_price": 224.0,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.98,
         "forward_return": 24.1,
         "start_price": 216.5,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 18.34,
+        "pe_ratio": 18.17,
         "forward_return": 34.92,
         "start_price": 246.0,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.92,
         "forward_return": 32.41,
         "start_price": 256.0,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 19.5,
+        "pe_ratio": 19.42,
         "forward_return": 31.7,
         "start_price": 262.5,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.3,
         "forward_return": 39.34,
         "start_price": 234.0,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.69,
+        "pe_ratio": 16.66,
         "forward_return": 49.31,
         "start_price": 225.5,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.77,
         "forward_return": 66.56,
         "start_price": 221.0,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.7,
+        "pe_ratio": 18.64,
         "forward_return": 62.11,
         "start_price": 239.0,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.21,
+        "pe_ratio": 19.7,
         "forward_return": 57.52,
         "start_price": 245.5,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.23,
+        "pe_ratio": 20.92,
         "forward_return": 54.98,
         "start_price": 259.0,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 17.51,
+        "pe_ratio": 19.14,
         "forward_return": 62.14,
         "start_price": 235.5,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 17.8,
+        "pe_ratio": 19.54,
         "forward_return": 60.69,
         "start_price": 239.0,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.35,
+        "pe_ratio": 20.95,
         "forward_return": 52.08,
         "start_price": 259.5,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 19.34,
+        "pe_ratio": 20.65,
         "forward_return": 56.47,
         "start_price": 259.0,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 20.34,
+        "pe_ratio": 21.42,
         "forward_return": 48.54,
         "start_price": 272.0,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.35,
+        "pe_ratio": 23.13,
         "forward_return": 42.98,
         "start_price": 298.5,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.87,
+        "pe_ratio": 23.26,
         "forward_return": 42.14,
         "start_price": 305.0,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.06,
+        "pe_ratio": 22.81,
         "forward_return": 43.2,
         "start_price": 320.0,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 21.9,
+        "pe_ratio": 21.44,
         "forward_return": 37.98,
         "start_price": 316.0,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.73,
         "forward_return": 50.16,
         "start_price": 274.0,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 19.6,
+        "pe_ratio": 18.86,
         "forward_return": 35.46,
         "start_price": 304.5,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 18.15,
+        "pe_ratio": 17.34,
         "forward_return": 41.03,
         "start_price": 292.0,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 17.84,
         "forward_return": 25.97,
         "start_price": 313.0,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 24.74,
+        "pe_ratio": 23.63,
         "forward_return": 11.67,
         "start_price": 425.5,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 24.02,
+        "pe_ratio": 23.08,
         "forward_return": 11.11,
         "start_price": 426.5,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 22.85,
         "forward_return": 1.21,
         "start_price": 433.0,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 22.9,
+        "pe_ratio": 22.4,
         "forward_return": -2.4,
         "start_price": 432.0,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 24.48,
         "forward_return": 3.18,
         "start_price": 480.5,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 29.16,
         "forward_return": -4.11,
         "start_price": 591.0,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.59,
+        "pe_ratio": 29.47,
         "forward_return": -6.26,
         "start_price": 606.0,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.32,
+        "pe_ratio": 28.14,
         "forward_return": -2.81,
         "start_price": 587.0,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.59,
+        "pe_ratio": 28.53,
         "forward_return": -6.6,
         "start_price": 600.0,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 28.11,
+        "pe_ratio": 28.16,
         "forward_return": -1.48,
         "start_price": 597.0,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.69,
+        "pe_ratio": 27.84,
         "forward_return": 0.21,
         "start_price": 595.0,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.84,
         "forward_return": 0.64,
         "start_price": 580.0,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 27.91,
+        "pe_ratio": 28.1,
         "forward_return": -3.53,
         "start_price": 614.0,
         "start_year": 2021
@@ -7986,7 +7986,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 26.07,
+        "pe_ratio": 26.26,
         "forward_return": -3.02,
         "start_price": 580.0,
         "start_year": 2021
@@ -7995,7 +7995,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.22,
+        "pe_ratio": 26.34,
         "forward_return": -3.32,
         "start_price": 590.0,
         "start_year": 2021
@@ -8004,7 +8004,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.19,
+        "pe_ratio": 26.25,
         "forward_return": 0.29,
         "start_price": 596.0,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 26.11,
+        "pe_ratio": 26.7,
         "forward_return": 1.13,
         "start_price": 636.0,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.49,
+        "pe_ratio": 24.52,
         "forward_return": 8.62,
         "start_price": 604.0,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 23.47,
         "forward_return": 15.86,
         "start_price": 597.0,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.94,
+        "pe_ratio": 20.1,
         "forward_return": 22.87,
         "start_price": 538.0,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.94,
         "forward_return": 22.71,
         "start_price": 560.0,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 16.19,
         "forward_return": 44.07,
         "start_price": 476.0,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 15.68,
+        "pe_ratio": 16.42,
         "forward_return": 37.34,
         "start_price": 509.0,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 15.49,
         "forward_return": 38.6,
         "start_price": 505.0,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 12.34,
         "forward_return": 52.62,
         "start_price": 422.0,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.87,
         "forward_return": 64.53,
         "start_price": 390.0,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 13.06,
         "forward_return": 44.42,
         "start_price": 490.0,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.3,
         "forward_return": 49.13,
         "start_price": 522.0,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.0,
         "forward_return": 44.43,
         "start_price": 511.0,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 14.22,
+        "pe_ratio": 13.55,
         "forward_return": 32.53,
         "start_price": 533.0,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 13.6,
+        "pe_ratio": 12.99,
         "forward_return": 36.41,
         "start_price": 502.0,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 15.35,
+        "pe_ratio": 14.71,
         "forward_return": 33.41,
         "start_price": 558.0,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 15.47,
         "forward_return": 37.31,
         "start_price": 576.0,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.55,
         "forward_return": 45.33,
         "start_price": 565.0,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.49,
         "forward_return": 47.43,
         "start_price": 549.0,
         "start_year": 2023
@@ -8202,7 +8202,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.14,
         "forward_return": 59.96,
         "start_price": 523.0,
         "start_year": 2023
@@ -8211,7 +8211,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.65,
         "forward_return": 70.23,
         "start_price": 529.0,
         "start_year": 2023
@@ -8220,7 +8220,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 17.53,
+        "pe_ratio": 17.45,
         "forward_return": 59.78,
         "start_price": 577.0,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 18.79,
+        "pe_ratio": 19.27,
         "forward_return": 69.66,
         "start_price": 628.0,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 14.49,
         "forward_return": -2.27,
         "start_price": 64.2,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.91,
         "forward_return": -2.19,
         "start_price": 68.1,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.82,
         "forward_return": 4.56,
         "start_price": 60.3,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.07,
         "forward_return": 2.68,
         "start_price": 58.4,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 11.09,
         "forward_return": 7.42,
         "start_price": 54.8,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.51,
         "forward_return": 5.5,
         "start_price": 58.1,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 11.59,
         "forward_return": 7.19,
         "start_price": 59.7,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.37,
+        "pe_ratio": 12.02,
         "forward_return": 4.2,
         "start_price": 61.0,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 13.29,
+        "pe_ratio": 13.09,
         "forward_return": 2.3,
         "start_price": 65.5,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 14.19,
         "forward_return": 1.52,
         "start_price": 67.4,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 14.44,
+        "pe_ratio": 15.16,
         "forward_return": -0.71,
         "start_price": 69.3,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 14.35,
+        "pe_ratio": 15.47,
         "forward_return": 1.27,
         "start_price": 67.9,
         "start_year": 2007
@@ -8364,7 +8364,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.16,
         "forward_return": 1.02,
         "start_price": 68.7,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 16.59,
         "forward_return": 0.5,
         "start_price": 68.2,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 17.86,
         "forward_return": -0.6,
         "start_price": 70.9,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 16.48,
         "forward_return": 3.19,
         "start_price": 65.0,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 16.01,
         "forward_return": 2.7,
         "start_price": 62.7,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 16.27,
         "forward_return": 3.91,
         "start_price": 63.3,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.06,
         "forward_return": 4.03,
         "start_price": 63.8,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.41,
+        "pe_ratio": 14.94,
         "forward_return": 6.12,
         "start_price": 60.6,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 13.92,
         "forward_return": 12.51,
         "start_price": 59.9,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 15.05,
+        "pe_ratio": 13.79,
         "forward_return": 8.69,
         "start_price": 61.6,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.5,
+        "pe_ratio": 13.63,
         "forward_return": 8.07,
         "start_price": 63.1,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 14.28,
         "forward_return": 7.23,
         "start_price": 66.7,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.3,
+        "pe_ratio": 13.93,
         "forward_return": 9.34,
         "start_price": 65.6,
         "start_year": 2008
@@ -8490,7 +8490,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 16.25,
+        "pe_ratio": 13.68,
         "forward_return": 7.72,
         "start_price": 65.0,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 11.89,
         "forward_return": 12.97,
         "start_price": 56.2,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 14.9,
+        "pe_ratio": 12.52,
         "forward_return": 10.01,
         "start_price": 58.9,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 11.22,
         "forward_return": 14.6,
         "start_price": 52.5,
         "start_year": 2008
@@ -8526,7 +8526,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 10.89,
         "forward_return": 19.85,
         "start_price": 48.0,
         "start_year": 2008
@@ -8535,7 +8535,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 9.87,
         "forward_return": 27.03,
         "start_price": 40.8,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.44,
         "forward_return": 29.62,
         "start_price": 40.2,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.85,
+        "pe_ratio": 14.19,
         "forward_return": 26.11,
         "start_price": 44.95,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.68,
+        "pe_ratio": 18.23,
         "forward_return": 22.24,
         "start_price": 51.4,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 14.83,
+        "pe_ratio": 19.9,
         "forward_return": 20.17,
         "start_price": 55.2,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 22.15,
         "forward_return": 15.92,
         "start_price": 60.4,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 20.41,
         "forward_return": 18.18,
         "start_price": 54.7,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 22.0,
         "forward_return": 15.18,
         "start_price": 58.9,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 22.14,
         "forward_return": 15.95,
         "start_price": 59.2,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 18.16,
+        "pe_ratio": 24.16,
         "forward_return": 15.27,
         "start_price": 64.5,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 20.48,
         "forward_return": 17.64,
         "start_price": 60.0,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 19.15,
         "forward_return": 20.79,
         "start_price": 61.1,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 16.7,
+        "pe_ratio": 15.92,
         "forward_return": 21.56,
         "start_price": 61.5,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 15.02,
+        "pe_ratio": 13.75,
         "forward_return": 24.5,
         "start_price": 58.8,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.11,
         "forward_return": 21.2,
         "start_price": 61.5,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.64,
         "forward_return": 24.23,
         "start_price": 61.8,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 11.83,
         "forward_return": 25.32,
         "start_price": 60.2,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.51,
+        "pe_ratio": 11.46,
         "forward_return": 25.57,
         "start_price": 60.6,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.34,
         "forward_return": 21.34,
         "start_price": 62.4,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 10.3,
         "forward_return": 22.95,
         "start_price": 58.9,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 10.46,
         "forward_return": 20.87,
         "start_price": 62.0,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.41,
         "forward_return": 23.57,
         "start_price": 62.8,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 10.55,
+        "pe_ratio": 10.33,
         "forward_return": 21.6,
         "start_price": 63.4,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.16,
         "forward_return": 14.32,
         "start_price": 76.3,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.18,
         "forward_return": 18.39,
         "start_price": 70.5,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.14,
         "forward_return": 21.77,
         "start_price": 70.6,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.64,
         "forward_return": 20.31,
         "start_price": 73.2,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 12.3,
         "forward_return": 18.76,
         "start_price": 76.7,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 11.68,
         "forward_return": 23.34,
         "start_price": 72.2,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.81,
+        "pe_ratio": 12.07,
         "forward_return": 21.76,
         "start_price": 72.0,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 12.08,
         "forward_return": 24.21,
         "start_price": 69.4,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 12.66,
         "forward_return": 22.6,
         "start_price": 70.0,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.6,
         "forward_return": 23.75,
         "start_price": 73.6,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 14.08,
         "forward_return": 26.35,
         "start_price": 74.6,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 14.86,
+        "pe_ratio": 15.27,
         "forward_return": 24.08,
         "start_price": 78.5,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 15.9,
         "forward_return": 23.28,
         "start_price": 81.1,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.46,
+        "pe_ratio": 16.78,
         "forward_return": 22.1,
         "start_price": 84.9,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 16.9,
         "forward_return": 21.6,
         "start_price": 86.8,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.32,
         "forward_return": 22.14,
         "start_price": 85.1,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.37,
         "forward_return": 22.53,
         "start_price": 81.3,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 14.63,
         "forward_return": 22.82,
         "start_price": 81.0,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.4,
         "forward_return": 18.77,
         "start_price": 83.3,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.89,
         "forward_return": 16.1,
         "start_price": 89.8,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.4,
         "forward_return": 18.35,
         "start_price": 88.7,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 15.69,
         "forward_return": 14.85,
         "start_price": 98.7,
         "start_year": 2012
@@ -8985,7 +8985,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "forward_return": 14.54,
         "start_price": 101.5,
         "start_year": 2013
@@ -8994,7 +8994,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 15.93,
+        "pe_ratio": 15.88,
         "forward_return": 15.15,
         "start_price": 104.5,
         "start_year": 2013
@@ -9003,7 +9003,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.09,
         "forward_return": 19.73,
         "start_price": 100.5,
         "start_year": 2013
@@ -9012,7 +9012,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.15,
         "forward_return": 13.59,
         "start_price": 109.5,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.87,
         "forward_return": 15.1,
         "start_price": 109.5,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.81,
         "forward_return": 15.94,
         "start_price": 111.0,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.52,
         "forward_return": 21.97,
         "start_price": 102.5,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.15,
         "forward_return": 23.54,
         "start_price": 100.5,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.08,
         "forward_return": 24.93,
         "start_price": 100.5,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.38,
+        "pe_ratio": 15.25,
         "forward_return": 22.64,
         "start_price": 109.5,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.54,
         "forward_return": 23.23,
         "start_price": 105.0,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.25,
         "forward_return": 23.75,
         "start_price": 105.0,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 13.94,
+        "pe_ratio": 14.44,
         "forward_return": 23.3,
         "start_price": 108.0,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.61,
         "forward_return": 19.55,
         "start_price": 118.5,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 14.39,
+        "pe_ratio": 15.42,
         "forward_return": 20.62,
         "start_price": 118.5,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 14.1,
+        "pe_ratio": 15.35,
         "forward_return": 21.9,
         "start_price": 119.5,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 16.05,
         "forward_return": 20.62,
         "start_price": 126.5,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.5,
+        "pe_ratio": 14.77,
         "forward_return": 24.23,
         "start_price": 121.0,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 14.58,
         "forward_return": 23.57,
         "start_price": 124.0,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.61,
         "forward_return": 24.93,
         "start_price": 120.0,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.46,
+        "pe_ratio": 14.07,
         "forward_return": 25.9,
         "start_price": 130.5,
         "start_year": 2014
@@ -9183,7 +9183,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.55,
         "forward_return": 19.83,
         "start_price": 141.5,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.32,
         "forward_return": 24.55,
         "start_price": 141.0,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.4,
+        "pe_ratio": 13.7,
         "forward_return": 20.52,
         "start_price": 150.5,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 12.77,
         "forward_return": 22.12,
         "start_price": 145.5,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 12.63,
         "forward_return": 18.48,
         "start_price": 147.0,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 12.28,
         "forward_return": 18.26,
         "start_price": 146.0,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.77,
+        "pe_ratio": 11.57,
         "forward_return": 18.53,
         "start_price": 140.5,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.51,
         "forward_return": 24.15,
         "start_price": 139.5,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.66,
         "forward_return": 29.0,
         "start_price": 129.0,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.39,
+        "pe_ratio": 10.75,
         "forward_return": 29.67,
         "start_price": 130.0,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.38,
         "forward_return": 23.15,
         "start_price": 136.5,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.9,
+        "pe_ratio": 11.67,
         "forward_return": 21.04,
         "start_price": 139.0,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.92,
+        "pe_ratio": 12.2,
         "forward_return": 19.44,
         "start_price": 142.0,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.42,
+        "pe_ratio": 13.0,
         "forward_return": 20.78,
         "start_price": 149.0,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 14.36,
         "forward_return": 18.06,
         "start_price": 162.0,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 12.32,
+        "pe_ratio": 13.41,
         "forward_return": 23.15,
         "start_price": 150.0,
         "start_year": 2016
@@ -9345,7 +9345,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.11,
         "forward_return": 17.92,
         "start_price": 156.5,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.77,
         "forward_return": 16.97,
         "start_price": 162.5,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 18.51,
         "start_price": 172.5,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.04,
+        "pe_ratio": 15.22,
         "forward_return": 17.65,
         "start_price": 176.0,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 14.46,
+        "pe_ratio": 15.41,
         "forward_return": 17.97,
         "start_price": 182.5,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.46,
         "forward_return": 20.05,
         "start_price": 188.5,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.59,
         "forward_return": 22.04,
         "start_price": 183.0,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.07,
         "forward_return": 23.29,
         "start_price": 185.5,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.02,
         "forward_return": 22.05,
         "start_price": 189.0,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.57,
+        "pe_ratio": 13.73,
         "forward_return": 16.84,
         "start_price": 189.0,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.2,
         "forward_return": 19.51,
         "start_price": 194.5,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.58,
+        "pe_ratio": 14.91,
         "forward_return": 16.32,
         "start_price": 203.0,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 15.96,
+        "pe_ratio": 15.4,
         "forward_return": 17.76,
         "start_price": 208.5,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.39,
+        "pe_ratio": 15.95,
         "forward_return": 28.57,
         "start_price": 214.5,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.21,
         "forward_return": 28.27,
         "start_price": 216.5,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.47,
+        "pe_ratio": 16.33,
         "forward_return": 28.88,
         "start_price": 216.5,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.45,
+        "pe_ratio": 18.34,
         "forward_return": 23.92,
         "start_price": 243.0,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 17.12,
+        "pe_ratio": 17.07,
         "forward_return": 31.24,
         "start_price": 226.0,
         "start_year": 2017
@@ -9552,7 +9552,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 16.95,
         "forward_return": 40.56,
         "start_price": 227.0,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 16.63,
         "forward_return": 40.96,
         "start_price": 224.0,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.98,
         "forward_return": 42.41,
         "start_price": 216.5,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 18.34,
+        "pe_ratio": 18.17,
         "forward_return": 35.56,
         "start_price": 246.0,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.92,
         "forward_return": 36.2,
         "start_price": 256.0,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 19.5,
+        "pe_ratio": 19.42,
         "forward_return": 32.66,
         "start_price": 262.5,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.3,
         "forward_return": 38.59,
         "start_price": 234.0,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.69,
+        "pe_ratio": 16.66,
         "forward_return": 40.76,
         "start_price": 225.5,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.77,
         "forward_return": 44.65,
         "start_price": 221.0,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.7,
+        "pe_ratio": 18.64,
         "forward_return": 38.64,
         "start_price": 239.0,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.21,
+        "pe_ratio": 19.7,
         "forward_return": 36.9,
         "start_price": 245.5,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.23,
+        "pe_ratio": 20.92,
         "forward_return": 30.14,
         "start_price": 259.0,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 17.51,
+        "pe_ratio": 19.14,
         "forward_return": 36.04,
         "start_price": 235.5,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 17.8,
+        "pe_ratio": 19.54,
         "forward_return": 28.65,
         "start_price": 239.0,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.35,
+        "pe_ratio": 20.95,
         "forward_return": 27.7,
         "start_price": 259.5,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 19.34,
+        "pe_ratio": 20.65,
         "forward_return": 27.47,
         "start_price": 259.0,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 20.34,
+        "pe_ratio": 21.42,
         "forward_return": 18.57,
         "start_price": 272.0,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.35,
+        "pe_ratio": 23.13,
         "forward_return": 12.19,
         "start_price": 298.5,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.87,
+        "pe_ratio": 23.26,
         "forward_return": 19.57,
         "start_price": 305.0,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.06,
+        "pe_ratio": 22.81,
         "forward_return": 20.03,
         "start_price": 320.0,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 21.9,
+        "pe_ratio": 21.44,
         "forward_return": 20.73,
         "start_price": 316.0,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.73,
         "forward_return": 27.27,
         "start_price": 274.0,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 19.6,
+        "pe_ratio": 18.86,
         "forward_return": 20.57,
         "start_price": 304.5,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 18.15,
+        "pe_ratio": 17.34,
         "forward_return": 26.41,
         "start_price": 292.0,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 17.84,
         "forward_return": 24.76,
         "start_price": 313.0,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 24.74,
+        "pe_ratio": 23.63,
         "forward_return": 12.02,
         "start_price": 425.5,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 24.02,
+        "pe_ratio": 23.08,
         "forward_return": 10.93,
         "start_price": 426.5,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 22.85,
         "forward_return": 8.7,
         "start_price": 433.0,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 22.9,
+        "pe_ratio": 22.4,
         "forward_return": 9.17,
         "start_price": 432.0,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 24.48,
         "forward_return": 8.29,
         "start_price": 480.5,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 29.16,
         "forward_return": 3.8,
         "start_price": 591.0,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.59,
+        "pe_ratio": 29.47,
         "forward_return": 6.07,
         "start_price": 606.0,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.32,
+        "pe_ratio": 28.14,
         "forward_return": 11.42,
         "start_price": 587.0,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.59,
+        "pe_ratio": 28.53,
         "forward_return": 11.11,
         "start_price": 600.0,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 28.11,
+        "pe_ratio": 28.16,
         "forward_return": 12.67,
         "start_price": 597.0,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.69,
+        "pe_ratio": 27.84,
         "forward_return": 18.85,
         "start_price": 595.0,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.84,
         "forward_return": 18.76,
         "start_price": 580.0,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 27.91,
+        "pe_ratio": 28.1,
         "forward_return": 16.92,
         "start_price": 614.0,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 26.07,
+        "pe_ratio": 26.26,
         "forward_return": 19.69,
         "start_price": 580.0,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.22,
+        "pe_ratio": 26.34,
         "forward_return": 21.85,
         "start_price": 590.0,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.19,
+        "pe_ratio": 26.25,
         "forward_return": 20.14,
         "start_price": 596.0,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 26.11,
+        "pe_ratio": 26.7,
         "forward_return": 22.61,
         "start_price": 636.0,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.49,
+        "pe_ratio": 24.52,
         "forward_return": 21.28,
         "start_price": 604.0,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 23.47,
         "forward_return": 16.64,
         "start_price": 597.0,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.94,
+        "pe_ratio": 20.1,
         "forward_return": 20.67,
         "start_price": 538.0,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.94,
         "forward_return": 21.5,
         "start_price": 560.0,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 16.19,
         "forward_return": 32.1,
         "start_price": 476.0,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 15.68,
+        "pe_ratio": 16.42,
         "forward_return": 33.29,
         "start_price": 509.0,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 15.49,
         "forward_return": 33.64,
         "start_price": 505.0,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 12.34,
         "forward_return": 47.35,
         "start_price": 422.0,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.68,
+        "pe_ratio": 10.87,
         "forward_return": 58.23,
         "start_price": 390.0,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 13.06,
         "forward_return": 44.72,
         "start_price": 490.0,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.3,
         "forward_return": 51.63,
         "start_price": 522.0,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.0,
         "forward_return": 58.63,
         "start_price": 511.0,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 14.49,
         "forward_return": 3.27,
         "start_price": 64.2,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.91,
         "forward_return": 1.86,
         "start_price": 68.1,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.82,
         "forward_return": 4.43,
         "start_price": 60.3,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.07,
         "forward_return": 5.42,
         "start_price": 58.4,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 11.09,
         "forward_return": 7.95,
         "start_price": 54.8,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.51,
         "forward_return": 5.11,
         "start_price": 58.1,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 11.59,
         "forward_return": 5.52,
         "start_price": 59.7,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.37,
+        "pe_ratio": 12.02,
         "forward_return": 5.24,
         "start_price": 61.0,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 13.29,
+        "pe_ratio": 13.09,
         "forward_return": 3.59,
         "start_price": 65.5,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 14.19,
         "forward_return": 6.99,
         "start_price": 67.4,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 14.44,
+        "pe_ratio": 15.16,
         "forward_return": 4.46,
         "start_price": 69.3,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 14.35,
+        "pe_ratio": 15.47,
         "forward_return": 5.03,
         "start_price": 67.9,
         "start_year": 2007
@@ -10200,7 +10200,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.16,
         "forward_return": 5.54,
         "start_price": 68.7,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 16.59,
         "forward_return": 6.8,
         "start_price": 68.2,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 17.86,
         "forward_return": 4.4,
         "start_price": 70.9,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 16.48,
         "forward_return": 6.63,
         "start_price": 65.0,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 16.01,
         "forward_return": 6.75,
         "start_price": 62.7,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 16.27,
         "forward_return": 6.69,
         "start_price": 63.3,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.06,
         "forward_return": 7.63,
         "start_price": 63.8,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.41,
+        "pe_ratio": 14.94,
         "forward_return": 9.34,
         "start_price": 60.6,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 13.92,
         "forward_return": 10.88,
         "start_price": 59.9,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 15.05,
+        "pe_ratio": 13.79,
         "forward_return": 10.88,
         "start_price": 61.6,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.5,
+        "pe_ratio": 13.63,
         "forward_return": 11.33,
         "start_price": 63.1,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 14.28,
         "forward_return": 10.33,
         "start_price": 66.7,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.3,
+        "pe_ratio": 13.93,
         "forward_return": 10.31,
         "start_price": 65.6,
         "start_year": 2008
@@ -10326,7 +10326,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 16.25,
+        "pe_ratio": 13.68,
         "forward_return": 9.46,
         "start_price": 65.0,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 11.89,
         "forward_return": 13.42,
         "start_price": 56.2,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 14.9,
+        "pe_ratio": 12.52,
         "forward_return": 12.78,
         "start_price": 58.9,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 11.22,
         "forward_return": 18.0,
         "start_price": 52.5,
         "start_year": 2008
@@ -10362,7 +10362,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 10.89,
         "forward_return": 20.35,
         "start_price": 48.0,
         "start_year": 2008
@@ -10371,7 +10371,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 9.87,
         "forward_return": 28.34,
         "start_price": 40.8,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.44,
         "forward_return": 29.63,
         "start_price": 40.2,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.85,
+        "pe_ratio": 14.19,
         "forward_return": 26.88,
         "start_price": 44.95,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.68,
+        "pe_ratio": 18.23,
         "forward_return": 21.63,
         "start_price": 51.4,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 14.83,
+        "pe_ratio": 19.9,
         "forward_return": 21.8,
         "start_price": 55.2,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 22.15,
         "forward_return": 19.09,
         "start_price": 60.4,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 20.41,
         "forward_return": 22.46,
         "start_price": 54.7,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 22.0,
         "forward_return": 18.08,
         "start_price": 58.9,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 22.14,
         "forward_return": 17.41,
         "start_price": 59.2,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 18.16,
+        "pe_ratio": 24.16,
         "forward_return": 14.92,
         "start_price": 64.5,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 20.48,
         "forward_return": 19.29,
         "start_price": 60.0,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 19.15,
         "forward_return": 17.63,
         "start_price": 61.1,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 16.7,
+        "pe_ratio": 15.92,
         "forward_return": 17.44,
         "start_price": 61.5,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 15.02,
+        "pe_ratio": 13.75,
         "forward_return": 19.52,
         "start_price": 58.8,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.11,
         "forward_return": 20.69,
         "start_price": 61.5,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.64,
         "forward_return": 20.55,
         "start_price": 61.8,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 11.83,
         "forward_return": 21.57,
         "start_price": 60.2,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.51,
+        "pe_ratio": 11.46,
         "forward_return": 22.95,
         "start_price": 60.6,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.34,
         "forward_return": 20.83,
         "start_price": 62.4,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 10.3,
         "forward_return": 23.27,
         "start_price": 58.9,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 10.46,
         "forward_return": 20.79,
         "start_price": 62.0,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.41,
         "forward_return": 22.73,
         "start_price": 62.8,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 10.55,
+        "pe_ratio": 10.33,
         "forward_return": 24.74,
         "start_price": 63.4,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.16,
         "forward_return": 19.0,
         "start_price": 76.3,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.18,
         "forward_return": 23.22,
         "start_price": 70.5,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.14,
         "forward_return": 22.21,
         "start_price": 70.6,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.64,
         "forward_return": 21.4,
         "start_price": 73.2,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 12.3,
         "forward_return": 19.8,
         "start_price": 76.7,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 11.68,
         "forward_return": 20.55,
         "start_price": 72.2,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.81,
+        "pe_ratio": 12.07,
         "forward_return": 20.74,
         "start_price": 72.0,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 12.08,
         "forward_return": 19.71,
         "start_price": 69.4,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 12.66,
         "forward_return": 19.66,
         "start_price": 70.0,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.6,
         "forward_return": 19.48,
         "start_price": 73.6,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 14.08,
         "forward_return": 19.57,
         "start_price": 74.6,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 14.86,
+        "pe_ratio": 15.27,
         "forward_return": 18.64,
         "start_price": 78.5,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 15.9,
         "forward_return": 18.98,
         "start_price": 81.1,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.46,
+        "pe_ratio": 16.78,
         "forward_return": 19.91,
         "start_price": 84.9,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 16.9,
         "forward_return": 17.15,
         "start_price": 86.8,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.32,
         "forward_return": 18.89,
         "start_price": 85.1,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.37,
         "forward_return": 21.3,
         "start_price": 81.3,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 14.63,
         "forward_return": 23.59,
         "start_price": 81.0,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.4,
         "forward_return": 23.3,
         "start_price": 83.3,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.89,
         "forward_return": 22.01,
         "start_price": 89.8,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.4,
         "forward_return": 23.3,
         "start_price": 88.7,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 15.69,
         "forward_return": 19.24,
         "start_price": 98.7,
         "start_year": 2012
@@ -10821,7 +10821,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "forward_return": 18.77,
         "start_price": 101.5,
         "start_year": 2013
@@ -10830,7 +10830,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 15.93,
+        "pe_ratio": 15.88,
         "forward_return": 18.42,
         "start_price": 104.5,
         "start_year": 2013
@@ -10839,7 +10839,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.09,
         "forward_return": 19.58,
         "start_price": 100.5,
         "start_year": 2013
@@ -10848,7 +10848,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.15,
         "forward_return": 17.82,
         "start_price": 109.5,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.87,
         "forward_return": 18.99,
         "start_price": 109.5,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.81,
         "forward_return": 19.32,
         "start_price": 111.0,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.52,
         "forward_return": 23.05,
         "start_price": 102.5,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.15,
         "forward_return": 23.92,
         "start_price": 100.5,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.08,
         "forward_return": 23.92,
         "start_price": 100.5,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.38,
+        "pe_ratio": 15.25,
         "forward_return": 24.55,
         "start_price": 109.5,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.54,
         "forward_return": 23.78,
         "start_price": 105.0,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.25,
         "forward_return": 27.27,
         "start_price": 105.0,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 13.94,
+        "pe_ratio": 14.44,
         "forward_return": 25.33,
         "start_price": 108.0,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.61,
         "forward_return": 22.63,
         "start_price": 118.5,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 14.39,
+        "pe_ratio": 15.42,
         "forward_return": 20.22,
         "start_price": 118.5,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 14.1,
+        "pe_ratio": 15.35,
         "forward_return": 19.6,
         "start_price": 119.5,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 16.05,
         "forward_return": 16.99,
         "start_price": 126.5,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.5,
+        "pe_ratio": 14.77,
         "forward_return": 22.39,
         "start_price": 121.0,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 14.58,
         "forward_return": 22.75,
         "start_price": 124.0,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.61,
         "forward_return": 24.47,
         "start_price": 120.0,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.46,
+        "pe_ratio": 14.07,
         "forward_return": 18.75,
         "start_price": 130.5,
         "start_year": 2014
@@ -11019,7 +11019,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.55,
         "forward_return": 15.41,
         "start_price": 141.5,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.32,
         "forward_return": 14.99,
         "start_price": 141.0,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.4,
+        "pe_ratio": 13.7,
         "forward_return": 15.14,
         "start_price": 150.5,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 12.77,
         "forward_return": 16.82,
         "start_price": 145.5,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 12.63,
         "forward_return": 17.95,
         "start_price": 147.0,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 12.28,
         "forward_return": 15.63,
         "start_price": 146.0,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.77,
+        "pe_ratio": 11.57,
         "forward_return": 17.14,
         "start_price": 140.5,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.51,
         "forward_return": 20.39,
         "start_price": 139.5,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.66,
         "forward_return": 22.71,
         "start_price": 129.0,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.39,
+        "pe_ratio": 10.75,
         "forward_return": 23.81,
         "start_price": 130.0,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.38,
         "forward_return": 24.88,
         "start_price": 136.5,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.9,
+        "pe_ratio": 11.67,
         "forward_return": 24.92,
         "start_price": 139.0,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.92,
+        "pe_ratio": 12.2,
         "forward_return": 25.61,
         "start_price": 142.0,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.42,
+        "pe_ratio": 13.0,
         "forward_return": 23.76,
         "start_price": 149.0,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 14.36,
         "forward_return": 17.38,
         "start_price": 162.0,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 12.32,
+        "pe_ratio": 13.41,
         "forward_return": 22.52,
         "start_price": 150.0,
         "start_year": 2016
@@ -11181,7 +11181,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.11,
         "forward_return": 20.09,
         "start_price": 156.5,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.77,
         "forward_return": 20.84,
         "start_price": 162.5,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 28.0,
         "start_price": 172.5,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.04,
+        "pe_ratio": 15.22,
         "forward_return": 27.42,
         "start_price": 176.0,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 14.46,
+        "pe_ratio": 15.41,
         "forward_return": 26.71,
         "start_price": 182.5,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.46,
         "forward_return": 25.63,
         "start_price": 188.5,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.59,
         "forward_return": 29.71,
         "start_price": 183.0,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.07,
         "forward_return": 35.67,
         "start_price": 185.5,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.02,
         "forward_return": 35.84,
         "start_price": 189.0,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.57,
+        "pe_ratio": 13.73,
         "forward_return": 34.82,
         "start_price": 189.0,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.2,
         "forward_return": 34.55,
         "start_price": 194.5,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.58,
+        "pe_ratio": 14.91,
         "forward_return": 32.96,
         "start_price": 203.0,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 15.96,
+        "pe_ratio": 15.4,
         "forward_return": 31.97,
         "start_price": 208.5,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.39,
+        "pe_ratio": 15.95,
         "forward_return": 30.44,
         "start_price": 214.5,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.21,
         "forward_return": 31.89,
         "start_price": 216.5,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.47,
+        "pe_ratio": 16.33,
         "forward_return": 30.14,
         "start_price": 216.5,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.45,
+        "pe_ratio": 18.34,
         "forward_return": 26.94,
         "start_price": 243.0,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 17.12,
+        "pe_ratio": 17.07,
         "forward_return": 29.57,
         "start_price": 226.0,
         "start_year": 2017
@@ -11388,7 +11388,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 16.95,
         "forward_return": 26.38,
         "start_price": 227.0,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 16.63,
         "forward_return": 27.98,
         "start_price": 224.0,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.98,
         "forward_return": 24.31,
         "start_price": 216.5,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 18.34,
+        "pe_ratio": 18.17,
         "forward_return": 22.45,
         "start_price": 246.0,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.92,
         "forward_return": 21.01,
         "start_price": 256.0,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 19.5,
+        "pe_ratio": 19.42,
         "forward_return": 15.43,
         "start_price": 262.5,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.3,
         "forward_return": 16.7,
         "start_price": 234.0,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.69,
+        "pe_ratio": 16.66,
         "forward_return": 24.05,
         "start_price": 225.5,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.77,
         "forward_return": 26.5,
         "start_price": 221.0,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.7,
+        "pe_ratio": 18.64,
         "forward_return": 23.45,
         "start_price": 239.0,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.21,
+        "pe_ratio": 19.7,
         "forward_return": 23.82,
         "start_price": 245.5,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.23,
+        "pe_ratio": 20.92,
         "forward_return": 20.5,
         "start_price": 259.0,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 17.51,
+        "pe_ratio": 19.14,
         "forward_return": 26.44,
         "start_price": 235.5,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 17.8,
+        "pe_ratio": 19.54,
         "forward_return": 26.91,
         "start_price": 239.0,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.35,
+        "pe_ratio": 20.95,
         "forward_return": 23.72,
         "start_price": 259.5,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 19.34,
+        "pe_ratio": 20.65,
         "forward_return": 22.96,
         "start_price": 259.0,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 20.34,
+        "pe_ratio": 21.42,
         "forward_return": 20.11,
         "start_price": 272.0,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.35,
+        "pe_ratio": 23.13,
         "forward_return": 17.66,
         "start_price": 298.5,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.87,
+        "pe_ratio": 23.26,
         "forward_return": 19.41,
         "start_price": 305.0,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.06,
+        "pe_ratio": 22.81,
         "forward_return": 20.34,
         "start_price": 320.0,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 21.9,
+        "pe_ratio": 21.44,
         "forward_return": 23.41,
         "start_price": 316.0,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.73,
         "forward_return": 31.61,
         "start_price": 274.0,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 19.6,
+        "pe_ratio": 18.86,
         "forward_return": 28.61,
         "start_price": 304.5,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 18.15,
+        "pe_ratio": 17.34,
         "forward_return": 31.15,
         "start_price": 292.0,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 17.84,
         "forward_return": 33.99,
         "start_price": 313.0,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 24.74,
+        "pe_ratio": 23.63,
         "forward_return": 23.25,
         "start_price": 425.5,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 24.02,
+        "pe_ratio": 23.08,
         "forward_return": 23.49,
         "start_price": 426.5,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 22.85,
         "forward_return": 23.43,
         "start_price": 433.0,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 22.9,
+        "pe_ratio": 22.4,
         "forward_return": 25.69,
         "start_price": 432.0,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 24.48,
         "forward_return": 21.41,
         "start_price": 480.5,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 29.16,
         "forward_return": 18.95,
         "start_price": 591.0,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.59,
+        "pe_ratio": 29.47,
         "forward_return": 15.75,
         "start_price": 606.0,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.32,
+        "pe_ratio": 28.14,
         "forward_return": 13.03,
         "start_price": 587.0,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 28.59,
+        "pe_ratio": 28.53,
         "forward_return": 12.35,
         "start_price": 600.0,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 28.11,
+        "pe_ratio": 28.16,
         "forward_return": 14.19,
         "start_price": 597.0,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.69,
+        "pe_ratio": 27.84,
         "forward_return": 16.82,
         "start_price": 595.0,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.84,
         "forward_return": 20.34,
         "start_price": 580.0,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 27.91,
+        "pe_ratio": 28.1,
         "forward_return": 18.64,
         "start_price": 614.0,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 26.07,
+        "pe_ratio": 26.26,
         "forward_return": 23.78,
         "start_price": 580.0,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.22,
+        "pe_ratio": 26.34,
         "forward_return": 27.45,
         "start_price": 590.0,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.19,
+        "pe_ratio": 26.25,
         "forward_return": 25.88,
         "start_price": 596.0,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 26.11,
+        "pe_ratio": 26.7,
         "forward_return": 30.27,
         "start_price": 636.0,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 23.49,
+        "pe_ratio": 24.52,
         "forward_return": 35.76,
         "start_price": 604.0,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 14.49,
         "forward_return": 5.81,
         "start_price": 64.2,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.91,
         "forward_return": 5.2,
         "start_price": 68.1,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.82,
         "forward_return": 8.63,
         "start_price": 60.3,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.07,
         "forward_return": 8.23,
         "start_price": 58.4,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 11.09,
         "forward_return": 9.69,
         "start_price": 54.8,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.51,
         "forward_return": 7.76,
         "start_price": 58.1,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 11.59,
         "forward_return": 7.33,
         "start_price": 59.7,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.37,
+        "pe_ratio": 12.02,
         "forward_return": 7.76,
         "start_price": 61.0,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 13.29,
+        "pe_ratio": 13.09,
         "forward_return": 6.47,
         "start_price": 65.5,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 14.19,
         "forward_return": 6.77,
         "start_price": 67.4,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 14.44,
+        "pe_ratio": 15.16,
         "forward_return": 6.76,
         "start_price": 69.3,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 14.35,
+        "pe_ratio": 15.47,
         "forward_return": 8.03,
         "start_price": 67.9,
         "start_year": 2007
@@ -11928,7 +11928,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.16,
         "forward_return": 8.18,
         "start_price": 68.7,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 16.59,
         "forward_return": 7.98,
         "start_price": 68.2,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 17.86,
         "forward_return": 6.32,
         "start_price": 70.9,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 16.48,
         "forward_return": 8.11,
         "start_price": 65.0,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 16.01,
         "forward_return": 9.41,
         "start_price": 62.7,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 16.27,
         "forward_return": 10.61,
         "start_price": 63.3,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.06,
         "forward_return": 10.2,
         "start_price": 63.8,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.41,
+        "pe_ratio": 14.94,
         "forward_return": 13.41,
         "start_price": 60.6,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 13.92,
         "forward_return": 14.23,
         "start_price": 59.9,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 15.05,
+        "pe_ratio": 13.79,
         "forward_return": 13.17,
         "start_price": 61.6,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.5,
+        "pe_ratio": 13.63,
         "forward_return": 12.86,
         "start_price": 63.1,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 14.28,
         "forward_return": 13.3,
         "start_price": 66.7,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.3,
+        "pe_ratio": 13.93,
         "forward_return": 13.68,
         "start_price": 65.6,
         "start_year": 2008
@@ -12054,7 +12054,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 16.25,
+        "pe_ratio": 13.68,
         "forward_return": 14.16,
         "start_price": 65.0,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 11.89,
         "forward_return": 15.9,
         "start_price": 56.2,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 14.9,
+        "pe_ratio": 12.52,
         "forward_return": 14.42,
         "start_price": 58.9,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 11.22,
         "forward_return": 17.08,
         "start_price": 52.5,
         "start_year": 2008
@@ -12090,7 +12090,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 10.89,
         "forward_return": 21.0,
         "start_price": 48.0,
         "start_year": 2008
@@ -12099,7 +12099,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 9.87,
         "forward_return": 24.08,
         "start_price": 40.8,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.44,
         "forward_return": 24.45,
         "start_price": 40.2,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.85,
+        "pe_ratio": 14.19,
         "forward_return": 22.31,
         "start_price": 44.95,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.68,
+        "pe_ratio": 18.23,
         "forward_return": 21.04,
         "start_price": 51.4,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 14.83,
+        "pe_ratio": 19.9,
         "forward_return": 19.32,
         "start_price": 55.2,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 22.15,
         "forward_return": 17.37,
         "start_price": 60.4,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 20.41,
         "forward_return": 20.94,
         "start_price": 54.7,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 22.0,
         "forward_return": 18.22,
         "start_price": 58.9,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 22.14,
         "forward_return": 18.62,
         "start_price": 59.2,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 18.16,
+        "pe_ratio": 24.16,
         "forward_return": 15.92,
         "start_price": 64.5,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 20.48,
         "forward_return": 19.39,
         "start_price": 60.0,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 19.15,
         "forward_return": 20.7,
         "start_price": 61.1,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 16.7,
+        "pe_ratio": 15.92,
         "forward_return": 20.46,
         "start_price": 61.5,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 15.02,
+        "pe_ratio": 13.75,
         "forward_return": 23.0,
         "start_price": 58.8,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.11,
         "forward_return": 21.15,
         "start_price": 61.5,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.64,
         "forward_return": 21.26,
         "start_price": 61.8,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 11.83,
         "forward_return": 21.75,
         "start_price": 60.2,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.51,
+        "pe_ratio": 11.46,
         "forward_return": 20.74,
         "start_price": 60.6,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.34,
         "forward_return": 20.12,
         "start_price": 62.4,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 10.3,
         "forward_return": 19.83,
         "start_price": 58.9,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 10.46,
         "forward_return": 18.77,
         "start_price": 62.0,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.41,
         "forward_return": 19.5,
         "start_price": 62.8,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 10.55,
+        "pe_ratio": 10.33,
         "forward_return": 19.66,
         "start_price": 63.4,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.16,
         "forward_return": 15.75,
         "start_price": 76.3,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.18,
         "forward_return": 18.61,
         "start_price": 70.5,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.14,
         "forward_return": 20.37,
         "start_price": 70.6,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.64,
         "forward_return": 17.86,
         "start_price": 73.2,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 12.3,
         "forward_return": 17.66,
         "start_price": 76.7,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 11.68,
         "forward_return": 19.9,
         "start_price": 72.2,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.81,
+        "pe_ratio": 12.07,
         "forward_return": 21.66,
         "start_price": 72.0,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 12.08,
         "forward_return": 23.0,
         "start_price": 69.4,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 12.66,
         "forward_return": 23.6,
         "start_price": 70.0,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.6,
         "forward_return": 23.08,
         "start_price": 73.6,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 14.08,
         "forward_return": 22.1,
         "start_price": 74.6,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 14.86,
+        "pe_ratio": 15.27,
         "forward_return": 21.16,
         "start_price": 78.5,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 15.9,
         "forward_return": 20.42,
         "start_price": 81.1,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.46,
+        "pe_ratio": 16.78,
         "forward_return": 19.69,
         "start_price": 84.9,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 16.9,
         "forward_return": 19.78,
         "start_price": 86.8,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.32,
         "forward_return": 21.2,
         "start_price": 85.1,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.37,
         "forward_return": 22.91,
         "start_price": 81.3,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 14.63,
         "forward_return": 24.06,
         "start_price": 81.0,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.4,
         "forward_return": 23.57,
         "start_price": 83.3,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.89,
         "forward_return": 21.73,
         "start_price": 89.8,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.4,
         "forward_return": 24.61,
         "start_price": 88.7,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 15.69,
         "forward_return": 20.38,
         "start_price": 98.7,
         "start_year": 2012
@@ -12549,7 +12549,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "forward_return": 22.37,
         "start_price": 101.5,
         "start_year": 2013
@@ -12558,7 +12558,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 15.93,
+        "pe_ratio": 15.88,
         "forward_return": 20.86,
         "start_price": 104.5,
         "start_year": 2013
@@ -12567,7 +12567,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.09,
         "forward_return": 21.95,
         "start_price": 100.5,
         "start_year": 2013
@@ -12576,7 +12576,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.15,
         "forward_return": 18.0,
         "start_price": 109.5,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.87,
         "forward_return": 17.72,
         "start_price": 109.5,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.81,
         "forward_return": 16.68,
         "start_price": 111.0,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.52,
         "forward_return": 21.78,
         "start_price": 102.5,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.15,
         "forward_return": 23.14,
         "start_price": 100.5,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.08,
         "forward_return": 23.7,
         "start_price": 100.5,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.38,
+        "pe_ratio": 15.25,
         "forward_return": 19.11,
         "start_price": 109.5,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.54,
         "forward_return": 19.33,
         "start_price": 105.0,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.25,
         "forward_return": 18.9,
         "start_price": 105.0,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 13.94,
+        "pe_ratio": 14.44,
         "forward_return": 19.89,
         "start_price": 108.0,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.61,
         "forward_return": 18.25,
         "start_price": 118.5,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 14.39,
+        "pe_ratio": 15.42,
         "forward_return": 19.4,
         "start_price": 118.5,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 14.1,
+        "pe_ratio": 15.35,
         "forward_return": 17.18,
         "start_price": 119.5,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 16.05,
         "forward_return": 16.16,
         "start_price": 126.5,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.5,
+        "pe_ratio": 14.77,
         "forward_return": 19.72,
         "start_price": 121.0,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 14.58,
         "forward_return": 19.09,
         "start_price": 124.0,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.61,
         "forward_return": 20.91,
         "start_price": 120.0,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.46,
+        "pe_ratio": 14.07,
         "forward_return": 20.86,
         "start_price": 130.5,
         "start_year": 2014
@@ -12747,7 +12747,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.55,
         "forward_return": 19.38,
         "start_price": 141.5,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.32,
         "forward_return": 20.49,
         "start_price": 141.0,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.4,
+        "pe_ratio": 13.7,
         "forward_return": 18.66,
         "start_price": 150.5,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 12.77,
         "forward_return": 16.47,
         "start_price": 145.5,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 12.63,
         "forward_return": 18.42,
         "start_price": 147.0,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 12.28,
         "forward_return": 17.71,
         "start_price": 146.0,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.77,
+        "pe_ratio": 11.57,
         "forward_return": 20.09,
         "start_price": 140.5,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.51,
         "forward_return": 27.43,
         "start_price": 139.5,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.66,
         "forward_return": 29.5,
         "start_price": 129.0,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.39,
+        "pe_ratio": 10.75,
         "forward_return": 29.65,
         "start_price": 130.0,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.38,
         "forward_return": 28.34,
         "start_price": 136.5,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.9,
+        "pe_ratio": 11.67,
         "forward_return": 30.38,
         "start_price": 139.0,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.92,
+        "pe_ratio": 12.2,
         "forward_return": 34.89,
         "start_price": 142.0,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.42,
+        "pe_ratio": 13.0,
         "forward_return": 32.83,
         "start_price": 149.0,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 14.36,
         "forward_return": 31.24,
         "start_price": 162.0,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 12.32,
+        "pe_ratio": 13.41,
         "forward_return": 33.82,
         "start_price": 150.0,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.11,
         "forward_return": 32.56,
         "start_price": 156.5,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.77,
         "forward_return": 31.49,
         "start_price": 162.5,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 29.49,
         "start_price": 172.5,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.04,
+        "pe_ratio": 15.22,
         "forward_return": 30.34,
         "start_price": 176.0,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 14.46,
+        "pe_ratio": 15.41,
         "forward_return": 28.04,
         "start_price": 182.5,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.46,
         "forward_return": 27.62,
         "start_price": 188.5,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.59,
         "forward_return": 28.62,
         "start_price": 183.0,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.07,
         "forward_return": 29.82,
         "start_price": 185.5,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.02,
         "forward_return": 28.11,
         "start_price": 189.0,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.57,
+        "pe_ratio": 13.73,
         "forward_return": 27.83,
         "start_price": 189.0,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.2,
         "forward_return": 24.68,
         "start_price": 194.5,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.58,
+        "pe_ratio": 14.91,
         "forward_return": 24.54,
         "start_price": 203.0,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 15.96,
+        "pe_ratio": 15.4,
         "forward_return": 20.24,
         "start_price": 208.5,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.39,
+        "pe_ratio": 15.95,
         "forward_return": 21.2,
         "start_price": 214.5,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.21,
         "forward_return": 20.81,
         "start_price": 216.5,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.47,
+        "pe_ratio": 16.33,
         "forward_return": 16.97,
         "start_price": 216.5,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.45,
+        "pe_ratio": 18.34,
         "forward_return": 12.71,
         "start_price": 243.0,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 17.12,
+        "pe_ratio": 17.07,
         "forward_return": 19.12,
         "start_price": 226.0,
         "start_year": 2017
@@ -13116,7 +13116,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 16.95,
         "forward_return": 19.54,
         "start_price": 227.0,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 16.63,
         "forward_return": 22.19,
         "start_price": 224.0,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.98,
         "forward_return": 23.74,
         "start_price": 216.5,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 18.34,
+        "pe_ratio": 18.17,
         "forward_return": 20.33,
         "start_price": 246.0,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.92,
         "forward_return": 18.75,
         "start_price": 256.0,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 19.5,
+        "pe_ratio": 19.42,
         "forward_return": 17.12,
         "start_price": 262.5,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.3,
         "forward_return": 20.09,
         "start_price": 234.0,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.69,
+        "pe_ratio": 16.66,
         "forward_return": 22.91,
         "start_price": 225.5,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.77,
         "forward_return": 25.34,
         "start_price": 221.0,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.7,
+        "pe_ratio": 18.64,
         "forward_return": 25.55,
         "start_price": 239.0,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.21,
+        "pe_ratio": 19.7,
         "forward_return": 27.71,
         "start_price": 245.5,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.23,
+        "pe_ratio": 20.92,
         "forward_return": 26.68,
         "start_price": 259.0,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 17.51,
+        "pe_ratio": 19.14,
         "forward_return": 30.05,
         "start_price": 235.5,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 17.8,
+        "pe_ratio": 19.54,
         "forward_return": 33.7,
         "start_price": 239.0,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.35,
+        "pe_ratio": 20.95,
         "forward_return": 30.75,
         "start_price": 259.5,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 19.34,
+        "pe_ratio": 20.65,
         "forward_return": 31.06,
         "start_price": 259.0,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 20.34,
+        "pe_ratio": 21.42,
         "forward_return": 30.12,
         "start_price": 272.0,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.35,
+        "pe_ratio": 23.13,
         "forward_return": 29.51,
         "start_price": 298.5,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.87,
+        "pe_ratio": 23.26,
         "forward_return": 28.13,
         "start_price": 305.0,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.06,
+        "pe_ratio": 22.81,
         "forward_return": 30.09,
         "start_price": 320.0,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 21.9,
+        "pe_ratio": 21.44,
         "forward_return": 24.65,
         "start_price": 316.0,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.73,
         "forward_return": 28.72,
         "start_price": 274.0,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 19.6,
+        "pe_ratio": 18.86,
         "forward_return": 25.98,
         "start_price": 304.5,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 18.15,
+        "pe_ratio": 17.34,
         "forward_return": 28.55,
         "start_price": 292.0,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 17.84,
         "forward_return": 29.0,
         "start_price": 313.0,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 24.74,
+        "pe_ratio": 23.63,
         "forward_return": 23.6,
         "start_price": 425.5,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 24.02,
+        "pe_ratio": 23.08,
         "forward_return": 23.54,
         "start_price": 426.5,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 22.85,
         "forward_return": 25.95,
         "start_price": 433.0,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 22.9,
+        "pe_ratio": 22.4,
         "forward_return": 29.4,
         "start_price": 432.0,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 24.48,
         "forward_return": 25.69,
         "start_price": 480.5,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 29.16,
         "forward_return": 25.53,
         "start_price": 591.0,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.59,
+        "pe_ratio": 29.47,
         "forward_return": 27.75,
         "start_price": 606.0,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 14.49,
         "forward_return": 8.09,
         "start_price": 64.2,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.91,
         "forward_return": 7.37,
         "start_price": 68.1,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.82,
         "forward_return": 9.26,
         "start_price": 60.3,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.07,
         "forward_return": 9.16,
         "start_price": 58.4,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 11.09,
         "forward_return": 10.36,
         "start_price": 54.8,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.51,
         "forward_return": 9.71,
         "start_price": 58.1,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 11.59,
         "forward_return": 10.35,
         "start_price": 59.7,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.37,
+        "pe_ratio": 12.02,
         "forward_return": 9.77,
         "start_price": 61.0,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 13.29,
+        "pe_ratio": 13.09,
         "forward_return": 10.11,
         "start_price": 65.5,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 14.19,
         "forward_return": 10.02,
         "start_price": 67.4,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 14.44,
+        "pe_ratio": 15.16,
         "forward_return": 9.96,
         "start_price": 69.3,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 14.35,
+        "pe_ratio": 15.47,
         "forward_return": 9.73,
         "start_price": 67.9,
         "start_year": 2007
@@ -13548,7 +13548,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.16,
         "forward_return": 10.86,
         "start_price": 68.7,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 16.59,
         "forward_return": 10.99,
         "start_price": 68.2,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 17.86,
         "forward_return": 10.49,
         "start_price": 70.9,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 16.48,
         "forward_return": 10.84,
         "start_price": 65.0,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 16.01,
         "forward_return": 11.19,
         "start_price": 62.7,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 16.27,
         "forward_return": 11.02,
         "start_price": 63.3,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.06,
         "forward_return": 12.23,
         "start_price": 63.8,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.41,
+        "pe_ratio": 14.94,
         "forward_return": 12.52,
         "start_price": 60.6,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 13.92,
         "forward_return": 12.74,
         "start_price": 59.9,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 15.05,
+        "pe_ratio": 13.79,
         "forward_return": 13.98,
         "start_price": 61.6,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.5,
+        "pe_ratio": 13.63,
         "forward_return": 13.73,
         "start_price": 63.1,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 14.28,
         "forward_return": 12.68,
         "start_price": 66.7,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.3,
+        "pe_ratio": 13.93,
         "forward_return": 13.13,
         "start_price": 65.6,
         "start_year": 2008
@@ -13674,7 +13674,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 16.25,
+        "pe_ratio": 13.68,
         "forward_return": 14.25,
         "start_price": 65.0,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 11.89,
         "forward_return": 16.29,
         "start_price": 56.2,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 14.9,
+        "pe_ratio": 12.52,
         "forward_return": 15.8,
         "start_price": 58.9,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 11.22,
         "forward_return": 17.48,
         "start_price": 52.5,
         "start_year": 2008
@@ -13710,7 +13710,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 10.89,
         "forward_return": 20.72,
         "start_price": 48.0,
         "start_year": 2008
@@ -13719,7 +13719,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 9.87,
         "forward_return": 25.52,
         "start_price": 40.8,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.44,
         "forward_return": 25.76,
         "start_price": 40.2,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.85,
+        "pe_ratio": 14.19,
         "forward_return": 24.64,
         "start_price": 44.95,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.68,
+        "pe_ratio": 18.23,
         "forward_return": 21.28,
         "start_price": 51.4,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 14.83,
+        "pe_ratio": 19.9,
         "forward_return": 20.03,
         "start_price": 55.2,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 22.15,
         "forward_return": 18.12,
         "start_price": 60.4,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 20.41,
         "forward_return": 19.41,
         "start_price": 54.7,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 22.0,
         "forward_return": 18.0,
         "start_price": 58.9,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 22.14,
         "forward_return": 16.57,
         "start_price": 59.2,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 18.16,
+        "pe_ratio": 24.16,
         "forward_return": 15.04,
         "start_price": 64.5,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 20.48,
         "forward_return": 17.27,
         "start_price": 60.0,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 19.15,
         "forward_return": 17.22,
         "start_price": 61.1,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 16.7,
+        "pe_ratio": 15.92,
         "forward_return": 17.46,
         "start_price": 61.5,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 15.02,
+        "pe_ratio": 13.75,
         "forward_return": 19.18,
         "start_price": 58.8,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.11,
         "forward_return": 19.76,
         "start_price": 61.5,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.64,
         "forward_return": 18.31,
         "start_price": 61.8,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 11.83,
         "forward_return": 19.57,
         "start_price": 60.2,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.51,
+        "pe_ratio": 11.46,
         "forward_return": 20.11,
         "start_price": 60.6,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.34,
         "forward_return": 20.91,
         "start_price": 62.4,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 10.3,
         "forward_return": 22.44,
         "start_price": 58.9,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 10.46,
         "forward_return": 22.05,
         "start_price": 62.0,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.41,
         "forward_return": 22.38,
         "start_price": 62.8,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 10.55,
+        "pe_ratio": 10.33,
         "forward_return": 21.65,
         "start_price": 63.4,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.16,
         "forward_return": 18.19,
         "start_price": 76.3,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.18,
         "forward_return": 20.09,
         "start_price": 70.5,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.14,
         "forward_return": 20.06,
         "start_price": 70.6,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.64,
         "forward_return": 19.85,
         "start_price": 73.2,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 12.3,
         "forward_return": 19.69,
         "start_price": 76.7,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 11.68,
         "forward_return": 21.38,
         "start_price": 72.2,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.81,
+        "pe_ratio": 12.07,
         "forward_return": 22.3,
         "start_price": 72.0,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 12.08,
         "forward_return": 23.22,
         "start_price": 69.4,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 12.66,
         "forward_return": 23.04,
         "start_price": 70.0,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.6,
         "forward_return": 24.14,
         "start_price": 73.6,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 14.08,
         "forward_return": 22.53,
         "start_price": 74.6,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 14.86,
+        "pe_ratio": 15.27,
         "forward_return": 23.71,
         "start_price": 78.5,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 15.9,
         "forward_return": 22.17,
         "start_price": 81.1,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.46,
+        "pe_ratio": 16.78,
         "forward_return": 21.57,
         "start_price": 84.9,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 16.9,
         "forward_return": 19.56,
         "start_price": 86.8,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.32,
         "forward_return": 19.72,
         "start_price": 85.1,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.37,
         "forward_return": 20.02,
         "start_price": 81.3,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 14.63,
         "forward_return": 22.79,
         "start_price": 81.0,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.4,
         "forward_return": 22.94,
         "start_price": 83.3,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.89,
         "forward_return": 21.86,
         "start_price": 89.8,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.4,
         "forward_return": 20.05,
         "start_price": 88.7,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 15.69,
         "forward_return": 17.3,
         "start_price": 98.7,
         "start_year": 2012
@@ -14169,7 +14169,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "forward_return": 16.41,
         "start_price": 101.5,
         "start_year": 2013
@@ -14178,7 +14178,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 15.93,
+        "pe_ratio": 15.88,
         "forward_return": 17.18,
         "start_price": 104.5,
         "start_year": 2013
@@ -14187,7 +14187,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.09,
         "forward_return": 18.41,
         "start_price": 100.5,
         "start_year": 2013
@@ -14196,7 +14196,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.15,
         "forward_return": 17.66,
         "start_price": 109.5,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.87,
         "forward_return": 16.02,
         "start_price": 109.5,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.81,
         "forward_return": 16.01,
         "start_price": 111.0,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.52,
         "forward_return": 19.64,
         "start_price": 102.5,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.15,
         "forward_return": 20.0,
         "start_price": 100.5,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.08,
         "forward_return": 20.85,
         "start_price": 100.5,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.38,
+        "pe_ratio": 15.25,
         "forward_return": 20.76,
         "start_price": 109.5,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.54,
         "forward_return": 21.99,
         "start_price": 105.0,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.25,
         "forward_return": 22.86,
         "start_price": 105.0,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 13.94,
+        "pe_ratio": 14.44,
         "forward_return": 22.06,
         "start_price": 108.0,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.61,
         "forward_return": 17.69,
         "start_price": 118.5,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 14.39,
+        "pe_ratio": 15.42,
         "forward_return": 19.52,
         "start_price": 118.5,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 14.1,
+        "pe_ratio": 15.35,
         "forward_return": 18.62,
         "start_price": 119.5,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 16.05,
         "forward_return": 18.7,
         "start_price": 126.5,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.5,
+        "pe_ratio": 14.77,
         "forward_return": 25.53,
         "start_price": 121.0,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 14.58,
         "forward_return": 25.06,
         "start_price": 124.0,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.61,
         "forward_return": 26.03,
         "start_price": 120.0,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.46,
+        "pe_ratio": 14.07,
         "forward_return": 24.24,
         "start_price": 130.5,
         "start_year": 2014
@@ -14367,7 +14367,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.55,
         "forward_return": 24.55,
         "start_price": 141.5,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.32,
         "forward_return": 28.63,
         "start_price": 141.0,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.4,
+        "pe_ratio": 13.7,
         "forward_return": 27.74,
         "start_price": 150.5,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 12.77,
         "forward_return": 27.83,
         "start_price": 145.5,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 12.63,
         "forward_return": 28.04,
         "start_price": 147.0,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 12.28,
         "forward_return": 28.09,
         "start_price": 146.0,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.77,
+        "pe_ratio": 11.57,
         "forward_return": 28.84,
         "start_price": 140.5,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.51,
         "forward_return": 28.69,
         "start_price": 139.5,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.66,
         "forward_return": 31.52,
         "start_price": 129.0,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.39,
+        "pe_ratio": 10.75,
         "forward_return": 30.22,
         "start_price": 130.0,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.38,
         "forward_return": 29.5,
         "start_price": 136.5,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.9,
+        "pe_ratio": 11.67,
         "forward_return": 29.31,
         "start_price": 139.0,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.92,
+        "pe_ratio": 12.2,
         "forward_return": 30.14,
         "start_price": 142.0,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.42,
+        "pe_ratio": 13.0,
         "forward_return": 27.44,
         "start_price": 149.0,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 14.36,
         "forward_return": 26.1,
         "start_price": 162.0,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 12.32,
+        "pe_ratio": 13.41,
         "forward_return": 25.72,
         "start_price": 150.0,
         "start_year": 2016
@@ -14529,7 +14529,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.11,
         "forward_return": 25.59,
         "start_price": 156.5,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.77,
         "forward_return": 21.78,
         "start_price": 162.5,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 21.98,
         "start_price": 172.5,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.04,
+        "pe_ratio": 15.22,
         "forward_return": 21.43,
         "start_price": 176.0,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 14.46,
+        "pe_ratio": 15.41,
         "forward_return": 17.53,
         "start_price": 182.5,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.46,
         "forward_return": 15.57,
         "start_price": 188.5,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.59,
         "forward_return": 20.1,
         "start_price": 183.0,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.07,
         "forward_return": 20.96,
         "start_price": 185.5,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.02,
         "forward_return": 20.2,
         "start_price": 189.0,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.57,
+        "pe_ratio": 13.73,
         "forward_return": 20.97,
         "start_price": 189.0,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.2,
         "forward_return": 19.31,
         "start_price": 194.5,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.58,
+        "pe_ratio": 14.91,
         "forward_return": 20.36,
         "start_price": 203.0,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 15.96,
+        "pe_ratio": 15.4,
         "forward_return": 20.4,
         "start_price": 208.5,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.39,
+        "pe_ratio": 15.95,
         "forward_return": 19.63,
         "start_price": 214.5,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.21,
         "forward_return": 18.93,
         "start_price": 216.5,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.47,
+        "pe_ratio": 16.33,
         "forward_return": 18.07,
         "start_price": 216.5,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.45,
+        "pe_ratio": 18.34,
         "forward_return": 16.02,
         "start_price": 243.0,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 17.12,
+        "pe_ratio": 17.07,
         "forward_return": 18.96,
         "start_price": 226.0,
         "start_year": 2017
@@ -14736,7 +14736,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 16.95,
         "forward_return": 24.69,
         "start_price": 227.0,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 16.63,
         "forward_return": 25.71,
         "start_price": 224.0,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.98,
         "forward_return": 29.67,
         "start_price": 216.5,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 18.34,
+        "pe_ratio": 18.17,
         "forward_return": 26.42,
         "start_price": 246.0,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.92,
         "forward_return": 25.79,
         "start_price": 256.0,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 19.5,
+        "pe_ratio": 19.42,
         "forward_return": 25.53,
         "start_price": 262.5,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.3,
         "forward_return": 29.43,
         "start_price": 234.0,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.69,
+        "pe_ratio": 16.66,
         "forward_return": 29.55,
         "start_price": 225.5,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.77,
         "forward_return": 32.67,
         "start_price": 221.0,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.7,
+        "pe_ratio": 18.64,
         "forward_return": 29.17,
         "start_price": 239.0,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.21,
+        "pe_ratio": 19.7,
         "forward_return": 25.95,
         "start_price": 245.5,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.23,
+        "pe_ratio": 20.92,
         "forward_return": 24.79,
         "start_price": 259.0,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 17.51,
+        "pe_ratio": 19.14,
         "forward_return": 28.03,
         "start_price": 235.5,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 17.8,
+        "pe_ratio": 19.54,
         "forward_return": 29.55,
         "start_price": 239.0,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.35,
+        "pe_ratio": 20.95,
         "forward_return": 29.72,
         "start_price": 259.5,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 19.34,
+        "pe_ratio": 20.65,
         "forward_return": 29.76,
         "start_price": 259.0,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 20.34,
+        "pe_ratio": 21.42,
         "forward_return": 31.11,
         "start_price": 272.0,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.35,
+        "pe_ratio": 23.13,
         "forward_return": 31.96,
         "start_price": 298.5,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.87,
+        "pe_ratio": 23.26,
         "forward_return": 30.64,
         "start_price": 305.0,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.06,
+        "pe_ratio": 22.81,
         "forward_return": 33.98,
         "start_price": 320.0,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 14.49,
         "forward_return": 10.43,
         "start_price": 64.2,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.91,
         "forward_return": 9.62,
         "start_price": 68.1,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.82,
         "forward_return": 11.4,
         "start_price": 60.3,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.07,
         "forward_return": 12.52,
         "start_price": 58.4,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 11.09,
         "forward_return": 12.94,
         "start_price": 54.8,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.51,
         "forward_return": 12.4,
         "start_price": 58.1,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 11.59,
         "forward_return": 11.64,
         "start_price": 59.7,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.37,
+        "pe_ratio": 12.02,
         "forward_return": 12.32,
         "start_price": 61.0,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 13.29,
+        "pe_ratio": 13.09,
         "forward_return": 12.29,
         "start_price": 65.5,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 14.19,
         "forward_return": 11.84,
         "start_price": 67.4,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 14.44,
+        "pe_ratio": 15.16,
         "forward_return": 12.24,
         "start_price": 69.3,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 14.35,
+        "pe_ratio": 15.47,
         "forward_return": 12.12,
         "start_price": 67.9,
         "start_year": 2007
@@ -15051,7 +15051,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.16,
         "forward_return": 12.08,
         "start_price": 68.7,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 16.59,
         "forward_return": 12.1,
         "start_price": 68.2,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 17.86,
         "forward_return": 11.1,
         "start_price": 70.9,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 16.48,
         "forward_return": 12.35,
         "start_price": 65.0,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 16.01,
         "forward_return": 11.94,
         "start_price": 62.7,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 16.27,
         "forward_return": 11.89,
         "start_price": 63.3,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.06,
         "forward_return": 12.36,
         "start_price": 63.8,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.41,
+        "pe_ratio": 14.94,
         "forward_return": 13.3,
         "start_price": 60.6,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 13.92,
         "forward_return": 13.72,
         "start_price": 59.9,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 15.05,
+        "pe_ratio": 13.79,
         "forward_return": 13.9,
         "start_price": 61.6,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.5,
+        "pe_ratio": 13.63,
         "forward_return": 14.59,
         "start_price": 63.1,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 14.28,
         "forward_return": 12.86,
         "start_price": 66.7,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.3,
+        "pe_ratio": 13.93,
         "forward_return": 13.61,
         "start_price": 65.6,
         "start_year": 2008
@@ -15177,7 +15177,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 16.25,
+        "pe_ratio": 13.68,
         "forward_return": 14.2,
         "start_price": 65.0,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 11.89,
         "forward_return": 17.27,
         "start_price": 56.2,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 14.9,
+        "pe_ratio": 12.52,
         "forward_return": 16.83,
         "start_price": 58.9,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 11.22,
         "forward_return": 18.99,
         "start_price": 52.5,
         "start_year": 2008
@@ -15213,7 +15213,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 10.89,
         "forward_return": 20.75,
         "start_price": 48.0,
         "start_year": 2008
@@ -15222,7 +15222,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 9.87,
         "forward_return": 22.84,
         "start_price": 40.8,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.44,
         "forward_return": 23.25,
         "start_price": 40.2,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.85,
+        "pe_ratio": 14.19,
         "forward_return": 21.78,
         "start_price": 44.95,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.68,
+        "pe_ratio": 18.23,
         "forward_return": 19.76,
         "start_price": 51.4,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 14.83,
+        "pe_ratio": 19.9,
         "forward_return": 19.07,
         "start_price": 55.2,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 22.15,
         "forward_return": 18.29,
         "start_price": 60.4,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 20.41,
         "forward_return": 20.11,
         "start_price": 54.7,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 22.0,
         "forward_return": 19.63,
         "start_price": 58.9,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 22.14,
         "forward_return": 19.67,
         "start_price": 59.2,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 18.16,
+        "pe_ratio": 24.16,
         "forward_return": 18.39,
         "start_price": 64.5,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 20.48,
         "forward_return": 20.99,
         "start_price": 60.0,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 19.15,
         "forward_return": 19.76,
         "start_price": 61.1,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 16.7,
+        "pe_ratio": 15.92,
         "forward_return": 21.26,
         "start_price": 61.5,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 15.02,
+        "pe_ratio": 13.75,
         "forward_return": 21.46,
         "start_price": 58.8,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.11,
         "forward_return": 20.86,
         "start_price": 61.5,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.64,
         "forward_return": 19.64,
         "start_price": 61.8,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 11.83,
         "forward_return": 19.86,
         "start_price": 60.2,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.51,
+        "pe_ratio": 11.46,
         "forward_return": 19.32,
         "start_price": 60.6,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.34,
         "forward_return": 20.83,
         "start_price": 62.4,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 10.3,
         "forward_return": 22.23,
         "start_price": 58.9,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 10.46,
         "forward_return": 21.78,
         "start_price": 62.0,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.41,
         "forward_return": 20.08,
         "start_price": 62.8,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 10.55,
+        "pe_ratio": 10.33,
         "forward_return": 19.46,
         "start_price": 63.4,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.16,
         "forward_return": 16.48,
         "start_price": 76.3,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.18,
         "forward_return": 18.63,
         "start_price": 70.5,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.14,
         "forward_return": 18.95,
         "start_price": 70.6,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.64,
         "forward_return": 19.11,
         "start_price": 73.2,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 12.3,
         "forward_return": 17.2,
         "start_price": 76.7,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 11.68,
         "forward_return": 18.28,
         "start_price": 72.2,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.81,
+        "pe_ratio": 12.07,
         "forward_return": 19.85,
         "start_price": 72.0,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 12.08,
         "forward_return": 20.38,
         "start_price": 69.4,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 12.66,
         "forward_return": 20.87,
         "start_price": 70.0,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.6,
         "forward_return": 21.32,
         "start_price": 73.6,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 14.08,
         "forward_return": 21.4,
         "start_price": 74.6,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 14.86,
+        "pe_ratio": 15.27,
         "forward_return": 21.26,
         "start_price": 78.5,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 15.9,
         "forward_return": 20.6,
         "start_price": 81.1,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.46,
+        "pe_ratio": 16.78,
         "forward_return": 18.09,
         "start_price": 84.9,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 16.9,
         "forward_return": 19.1,
         "start_price": 86.8,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.32,
         "forward_return": 18.86,
         "start_price": 85.1,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.37,
         "forward_return": 20.44,
         "start_price": 81.3,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 14.63,
         "forward_return": 24.89,
         "start_price": 81.0,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.4,
         "forward_return": 24.49,
         "start_price": 83.3,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.89,
         "forward_return": 23.53,
         "start_price": 89.8,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.4,
         "forward_return": 23.69,
         "start_price": 88.7,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 15.69,
         "forward_return": 23.51,
         "start_price": 98.7,
         "start_year": 2012
@@ -15672,7 +15672,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "forward_return": 26.0,
         "start_price": 101.5,
         "start_year": 2013
@@ -15681,7 +15681,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 15.93,
+        "pe_ratio": 15.88,
         "forward_return": 25.91,
         "start_price": 104.5,
         "start_year": 2013
@@ -15690,7 +15690,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.09,
         "forward_return": 26.06,
         "start_price": 100.5,
         "start_year": 2013
@@ -15699,7 +15699,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.15,
         "forward_return": 25.03,
         "start_price": 109.5,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.87,
         "forward_return": 24.96,
         "start_price": 109.5,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.81,
         "forward_return": 24.7,
         "start_price": 111.0,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.52,
         "forward_return": 25.76,
         "start_price": 102.5,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.15,
         "forward_return": 26.89,
         "start_price": 100.5,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.08,
         "forward_return": 26.07,
         "start_price": 100.5,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.38,
+        "pe_ratio": 15.25,
         "forward_return": 24.97,
         "start_price": 109.5,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.54,
         "forward_return": 25.77,
         "start_price": 105.0,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.25,
         "forward_return": 26.71,
         "start_price": 105.0,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 13.94,
+        "pe_ratio": 14.44,
         "forward_return": 25.52,
         "start_price": 108.0,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.61,
         "forward_return": 23.91,
         "start_price": 118.5,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 14.39,
+        "pe_ratio": 15.42,
         "forward_return": 22.46,
         "start_price": 118.5,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 14.1,
+        "pe_ratio": 15.35,
         "forward_return": 22.89,
         "start_price": 119.5,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 16.05,
         "forward_return": 19.82,
         "start_price": 126.5,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.5,
+        "pe_ratio": 14.77,
         "forward_return": 21.6,
         "start_price": 121.0,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 14.58,
         "forward_return": 21.12,
         "start_price": 124.0,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.61,
         "forward_return": 19.27,
         "start_price": 120.0,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.46,
+        "pe_ratio": 14.07,
         "forward_return": 17.04,
         "start_price": 130.5,
         "start_year": 2014
@@ -15870,7 +15870,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.55,
         "forward_return": 18.75,
         "start_price": 141.5,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.32,
         "forward_return": 19.63,
         "start_price": 141.0,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.4,
+        "pe_ratio": 13.7,
         "forward_return": 18.38,
         "start_price": 150.5,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 12.77,
         "forward_return": 19.44,
         "start_price": 145.5,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 12.63,
         "forward_return": 18.5,
         "start_price": 147.0,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 12.28,
         "forward_return": 19.99,
         "start_price": 146.0,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.77,
+        "pe_ratio": 11.57,
         "forward_return": 21.0,
         "start_price": 140.5,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.51,
         "forward_return": 21.01,
         "start_price": 139.5,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.66,
         "forward_return": 21.82,
         "start_price": 129.0,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.39,
+        "pe_ratio": 10.75,
         "forward_return": 21.05,
         "start_price": 130.0,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.38,
         "forward_return": 20.47,
         "start_price": 136.5,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.9,
+        "pe_ratio": 11.67,
         "forward_return": 21.35,
         "start_price": 139.0,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.92,
+        "pe_ratio": 12.2,
         "forward_return": 22.17,
         "start_price": 142.0,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.42,
+        "pe_ratio": 13.0,
         "forward_return": 22.72,
         "start_price": 149.0,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 14.36,
         "forward_return": 23.12,
         "start_price": 162.0,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 12.32,
+        "pe_ratio": 13.41,
         "forward_return": 24.51,
         "start_price": 150.0,
         "start_year": 2016
@@ -16032,7 +16032,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.11,
         "forward_return": 24.4,
         "start_price": 156.5,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.77,
         "forward_return": 26.15,
         "start_price": 162.5,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 24.87,
         "start_price": 172.5,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.04,
+        "pe_ratio": 15.22,
         "forward_return": 24.71,
         "start_price": 176.0,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 14.46,
+        "pe_ratio": 15.41,
         "forward_return": 24.34,
         "start_price": 182.5,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.46,
         "forward_return": 24.89,
         "start_price": 188.5,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.59,
         "forward_return": 24.87,
         "start_price": 183.0,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 14.36,
+        "pe_ratio": 14.07,
         "forward_return": 26.55,
         "start_price": 185.5,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.02,
         "forward_return": 24.99,
         "start_price": 189.0,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.57,
+        "pe_ratio": 13.73,
         "forward_return": 23.08,
         "start_price": 189.0,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.2,
         "forward_return": 22.61,
         "start_price": 194.5,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.58,
+        "pe_ratio": 14.91,
         "forward_return": 22.84,
         "start_price": 203.0,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 15.96,
+        "pe_ratio": 15.4,
         "forward_return": 23.73,
         "start_price": 208.5,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 16.39,
+        "pe_ratio": 15.95,
         "forward_return": 24.74,
         "start_price": 214.5,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.21,
         "forward_return": 24.6,
         "start_price": 216.5,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.47,
+        "pe_ratio": 16.33,
         "forward_return": 26.31,
         "start_price": 216.5,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.45,
+        "pe_ratio": 18.34,
         "forward_return": 26.54,
         "start_price": 243.0,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 17.12,
+        "pe_ratio": 17.07,
         "forward_return": 27.08,
         "start_price": 226.0,
         "start_year": 2017
@@ -16230,7 +16230,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 14.49,
         "forward_return": 11.64,
         "start_price": 64.2,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.91,
         "forward_return": 10.27,
         "start_price": 68.1,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.82,
         "forward_return": 12.01,
         "start_price": 60.3,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.07,
         "forward_return": 12.73,
         "start_price": 58.4,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 11.09,
         "forward_return": 14.21,
         "start_price": 54.8,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.78,
+        "pe_ratio": 11.51,
         "forward_return": 13.74,
         "start_price": 58.1,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 11.59,
         "forward_return": 13.77,
         "start_price": 59.7,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.37,
+        "pe_ratio": 12.02,
         "forward_return": 13.84,
         "start_price": 61.0,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 13.29,
+        "pe_ratio": 13.09,
         "forward_return": 12.75,
         "start_price": 65.5,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 14.19,
         "forward_return": 12.56,
         "start_price": 67.4,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 14.44,
+        "pe_ratio": 15.16,
         "forward_return": 12.42,
         "start_price": 69.3,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 14.35,
+        "pe_ratio": 15.47,
         "forward_return": 12.65,
         "start_price": 67.9,
         "start_year": 2007
@@ -16347,7 +16347,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.16,
         "forward_return": 12.79,
         "start_price": 68.7,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 16.59,
         "forward_return": 13.29,
         "start_price": 68.2,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 17.86,
         "forward_return": 13.11,
         "start_price": 70.9,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 16.48,
         "forward_return": 14.56,
         "start_price": 65.0,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 14.24,
+        "pe_ratio": 16.01,
         "forward_return": 15.06,
         "start_price": 62.7,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 16.27,
         "forward_return": 14.95,
         "start_price": 63.3,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.06,
         "forward_return": 16.0,
         "start_price": 63.8,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.41,
+        "pe_ratio": 14.94,
         "forward_return": 15.88,
         "start_price": 60.6,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 13.92,
         "forward_return": 17.22,
         "start_price": 59.9,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 15.05,
+        "pe_ratio": 13.79,
         "forward_return": 16.45,
         "start_price": 61.6,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 15.5,
+        "pe_ratio": 13.63,
         "forward_return": 16.32,
         "start_price": 63.1,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 14.28,
         "forward_return": 14.82,
         "start_price": 66.7,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.3,
+        "pe_ratio": 13.93,
         "forward_return": 14.88,
         "start_price": 65.6,
         "start_year": 2008
@@ -16473,7 +16473,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 16.25,
+        "pe_ratio": 13.68,
         "forward_return": 14.65,
         "start_price": 65.0,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 11.89,
         "forward_return": 17.82,
         "start_price": 56.2,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 14.9,
+        "pe_ratio": 12.52,
         "forward_return": 17.66,
         "start_price": 58.9,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 11.22,
         "forward_return": 19.28,
         "start_price": 52.5,
         "start_year": 2008
@@ -16509,7 +16509,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 10.89,
         "forward_return": 19.18,
         "start_price": 48.0,
         "start_year": 2008
@@ -16518,7 +16518,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 9.87,
         "forward_return": 20.76,
         "start_price": 40.8,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.44,
         "forward_return": 20.73,
         "start_price": 40.2,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.85,
+        "pe_ratio": 14.19,
         "forward_return": 20.18,
         "start_price": 44.95,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.68,
+        "pe_ratio": 18.23,
         "forward_return": 18.85,
         "start_price": 51.4,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 14.83,
+        "pe_ratio": 19.9,
         "forward_return": 18.55,
         "start_price": 55.2,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 22.15,
         "forward_return": 16.54,
         "start_price": 60.4,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.97,
+        "pe_ratio": 20.41,
         "forward_return": 17.85,
         "start_price": 54.7,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 16.27,
+        "pe_ratio": 22.0,
         "forward_return": 18.16,
         "start_price": 58.9,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 16.51,
+        "pe_ratio": 22.14,
         "forward_return": 18.08,
         "start_price": 59.2,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 18.16,
+        "pe_ratio": 24.16,
         "forward_return": 17.56,
         "start_price": 64.5,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 20.48,
         "forward_return": 19.34,
         "start_price": 60.0,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 19.15,
         "forward_return": 19.34,
         "start_price": 61.1,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 16.7,
+        "pe_ratio": 15.92,
         "forward_return": 19.76,
         "start_price": 61.5,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 15.02,
+        "pe_ratio": 13.75,
         "forward_return": 20.16,
         "start_price": 58.8,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.11,
         "forward_return": 18.18,
         "start_price": 61.5,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.64,
         "forward_return": 19.18,
         "start_price": 61.8,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 11.83,
         "forward_return": 19.07,
         "start_price": 60.2,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.51,
+        "pe_ratio": 11.46,
         "forward_return": 19.7,
         "start_price": 60.6,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.34,
         "forward_return": 22.77,
         "start_price": 62.4,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.09,
+        "pe_ratio": 10.3,
         "forward_return": 23.5,
         "start_price": 58.9,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 10.46,
         "forward_return": 23.04,
         "start_price": 62.0,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.41,
         "forward_return": 22.85,
         "start_price": 62.8,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 10.55,
+        "pe_ratio": 10.33,
         "forward_return": 23.9,
         "start_price": 63.4,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.4,
+        "pe_ratio": 12.16,
         "forward_return": 23.91,
         "start_price": 76.3,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.18,
         "forward_return": 25.17,
         "start_price": 70.5,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.14,
         "forward_return": 24.79,
         "start_price": 70.6,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.64,
         "forward_return": 24.59,
         "start_price": 73.2,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 12.3,
         "forward_return": 23.96,
         "start_price": 76.7,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 11.68,
         "forward_return": 24.67,
         "start_price": 72.2,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.81,
+        "pe_ratio": 12.07,
         "forward_return": 24.56,
         "start_price": 72.0,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 12.54,
+        "pe_ratio": 12.08,
         "forward_return": 25.66,
         "start_price": 69.4,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.86,
+        "pe_ratio": 12.66,
         "forward_return": 24.91,
         "start_price": 70.0,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.6,
         "forward_return": 24.48,
         "start_price": 73.6,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 14.08,
         "forward_return": 24.42,
         "start_price": 74.6,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 14.86,
+        "pe_ratio": 15.27,
         "forward_return": 24.52,
         "start_price": 78.5,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 15.9,
         "forward_return": 23.2,
         "start_price": 81.1,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.46,
+        "pe_ratio": 16.78,
         "forward_return": 22.85,
         "start_price": 84.9,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.52,
+        "pe_ratio": 16.9,
         "forward_return": 21.44,
         "start_price": 86.8,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 14.94,
+        "pe_ratio": 16.32,
         "forward_return": 22.12,
         "start_price": 85.1,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.37,
         "forward_return": 20.93,
         "start_price": 81.3,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 14.63,
         "forward_return": 21.85,
         "start_price": 81.0,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.4,
         "forward_return": 21.43,
         "start_price": 83.3,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.89,
         "forward_return": 18.68,
         "start_price": 89.8,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.4,
         "forward_return": 18.03,
         "start_price": 88.7,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.63,
+        "pe_ratio": 15.69,
         "forward_return": 19.08,
         "start_price": 98.7,
         "start_year": 2012
@@ -16968,7 +16968,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.64,
+        "pe_ratio": 15.62,
         "forward_return": 19.4,
         "start_price": 101.5,
         "start_year": 2013
@@ -16977,7 +16977,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 15.93,
+        "pe_ratio": 15.88,
         "forward_return": 18.83,
         "start_price": 104.5,
         "start_year": 2013
@@ -16986,7 +16986,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.09,
         "forward_return": 19.73,
         "start_price": 100.5,
         "start_year": 2013
@@ -16995,7 +16995,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.15,
         "forward_return": 18.09,
         "start_price": 109.5,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.87,
         "forward_return": 19.19,
         "start_price": 109.5,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.81,
         "forward_return": 19.36,
         "start_price": 111.0,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.52,
         "forward_return": 20.27,
         "start_price": 102.5,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 14.4,
+        "pe_ratio": 14.15,
         "forward_return": 20.21,
         "start_price": 100.5,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.08,
         "forward_return": 19.71,
         "start_price": 100.5,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.38,
+        "pe_ratio": 15.25,
         "forward_return": 18.8,
         "start_price": 109.5,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 14.54,
         "forward_return": 20.2,
         "start_price": 105.0,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.25,
         "forward_return": 21.1,
         "start_price": 105.0,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 13.94,
+        "pe_ratio": 14.44,
         "forward_return": 21.77,
         "start_price": 108.0,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 15.61,
         "forward_return": 21.96,
         "start_price": 118.5,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 14.39,
+        "pe_ratio": 15.42,
         "forward_return": 22.11,
         "start_price": 118.5,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 14.1,
+        "pe_ratio": 15.35,
         "forward_return": 22.44,
         "start_price": 119.5,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 16.05,
         "forward_return": 23.57,
         "start_price": 126.5,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.5,
+        "pe_ratio": 14.77,
         "forward_return": 23.88,
         "start_price": 121.0,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 14.58,
         "forward_return": 23.69,
         "start_price": 124.0,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.61,
         "forward_return": 24.25,
         "start_price": 120.0,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.46,
+        "pe_ratio": 14.07,
         "forward_return": 24.05,
         "start_price": 130.5,
         "start_year": 2014
@@ -17166,7 +17166,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 14.55,
         "forward_return": 22.67,
         "start_price": 141.5,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.32,
         "forward_return": 24.19,
         "start_price": 141.0,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.4,
+        "pe_ratio": 13.7,
         "forward_return": 22.4,
         "start_price": 150.5,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 12.77,
         "forward_return": 21.33,
         "start_price": 145.5,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 12.63,
         "forward_return": 21.18,
         "start_price": 147.0,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 12.28,
         "forward_return": 21.96,
         "start_price": 146.0,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.77,
+        "pe_ratio": 11.57,
         "forward_return": 23.46,
         "start_price": 140.5,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 11.51,
         "forward_return": 24.72,
         "start_price": 139.5,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.66,
         "forward_return": 25.7,
         "start_price": 129.0,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 11.39,
+        "pe_ratio": 10.75,
         "forward_return": 26.96,
         "start_price": 130.0,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.82,
+        "pe_ratio": 11.38,
         "forward_return": 27.99,
         "start_price": 136.5,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.9,
+        "pe_ratio": 11.67,
         "forward_return": 27.27,
         "start_price": 139.0,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.92,
+        "pe_ratio": 12.2,
         "forward_return": 29.51,
         "start_price": 142.0,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 12.2倍、13.7倍、15.1倍、18.7倍、23.8倍"
+!!! note "本益比河流帶水位: 11.6倍、13.7倍、15.6倍、19.6倍、24.1倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
       {
         "date": "2006-03-16",
         "price": 64.2,
-        "pe": 13.02,
-        "pe_10": 60.25,
-        "pe_25": 67.63,
-        "pe_50": 74.63,
-        "pe_75": 92.32,
-        "pe_90": 117.23
+        "pe": 14.49,
+        "pe_10": 51.55,
+        "pe_25": 60.69,
+        "pe_50": 69.03,
+        "pe_75": 86.75,
+        "pe_90": 107.0
       },
       {
         "date": "2006-04-15",
         "price": 68.1,
-        "pe": 13.81,
-        "pe_10": 60.25,
-        "pe_25": 67.63,
-        "pe_50": 74.63,
-        "pe_75": 92.32,
-        "pe_90": 117.23
+        "pe": 14.91,
+        "pe_10": 53.14,
+        "pe_25": 62.56,
+        "pe_50": 71.16,
+        "pe_75": 89.43,
+        "pe_90": 110.31
       },
       {
         "date": "2006-05-16",
         "price": 60.3,
-        "pe": 12.23,
-        "pe_10": 60.24,
-        "pe_25": 67.62,
-        "pe_50": 74.62,
-        "pe_75": 92.31,
-        "pe_90": 117.22
+        "pe": 12.82,
+        "pe_10": 54.73,
+        "pe_25": 64.43,
+        "pe_50": 73.28,
+        "pe_75": 92.1,
+        "pe_90": 113.6
       },
       {
         "date": "2006-06-15",
         "price": 58.4,
-        "pe": 11.85,
-        "pe_10": 60.21,
-        "pe_25": 67.59,
-        "pe_50": 74.59,
-        "pe_75": 92.27,
-        "pe_90": 117.16
+        "pe": 12.07,
+        "pe_10": 56.3,
+        "pe_25": 66.27,
+        "pe_50": 75.38,
+        "pe_75": 94.74,
+        "pe_90": 116.85
       },
       {
         "date": "2006-07-16",
         "price": 54.8,
-        "pe": 11.12,
-        "pe_10": 60.21,
-        "pe_25": 67.59,
-        "pe_50": 74.59,
-        "pe_75": 92.27,
-        "pe_90": 117.16
+        "pe": 11.09,
+        "pe_10": 57.49,
+        "pe_25": 67.68,
+        "pe_50": 76.99,
+        "pe_75": 96.75,
+        "pe_90": 119.34
       },
       {
         "date": "2006-08-16",
         "price": 58.1,
-        "pe": 11.78,
-        "pe_10": 60.26,
-        "pe_25": 67.64,
-        "pe_50": 74.65,
-        "pe_75": 92.34,
-        "pe_90": 117.26
+        "pe": 11.51,
+        "pe_10": 58.73,
+        "pe_25": 69.14,
+        "pe_50": 78.64,
+        "pe_75": 98.84,
+        "pe_90": 121.91
       },
       {
         "date": "2006-09-15",
         "price": 59.7,
-        "pe": 12.11,
-        "pe_10": 60.23,
-        "pe_25": 67.61,
-        "pe_50": 74.61,
-        "pe_75": 92.3,
-        "pe_90": 117.2
+        "pe": 11.59,
+        "pe_10": 59.93,
+        "pe_25": 70.56,
+        "pe_50": 80.25,
+        "pe_75": 100.86,
+        "pe_90": 124.4
       },
       {
         "date": "2006-10-16",
         "price": 61.0,
-        "pe": 12.37,
-        "pe_10": 60.25,
-        "pe_25": 67.63,
-        "pe_50": 74.64,
-        "pe_75": 92.33,
-        "pe_90": 117.24
+        "pe": 12.02,
+        "pe_10": 59.05,
+        "pe_25": 69.51,
+        "pe_50": 79.07,
+        "pe_75": 99.37,
+        "pe_90": 122.56
       },
       {
         "date": "2006-11-15",
         "price": 65.5,
-        "pe": 13.29,
-        "pe_10": 60.22,
-        "pe_25": 67.59,
-        "pe_50": 74.59,
-        "pe_75": 92.27,
-        "pe_90": 117.17
+        "pe": 13.09,
+        "pe_10": 58.22,
+        "pe_25": 68.54,
+        "pe_50": 77.96,
+        "pe_75": 97.97,
+        "pe_90": 120.85
       },
       {
         "date": "2006-12-16",
         "price": 67.5,
         "pe": 13.69,
-        "pe_10": 60.24,
-        "pe_25": 67.62,
-        "pe_50": 74.62,
-        "pe_75": 92.31,
-        "pe_90": 117.22
+        "pe_10": 57.37,
+        "pe_25": 67.54,
+        "pe_50": 76.82,
+        "pe_75": 96.54,
+        "pe_90": 119.08
       },
       {
         "date": "2007-01-16",
         "price": 67.4,
-        "pe": 13.86,
-        "pe_10": 59.42,
-        "pe_25": 66.69,
-        "pe_50": 73.6,
-        "pe_75": 91.05,
-        "pe_90": 115.61
+        "pe": 14.19,
+        "pe_10": 55.26,
+        "pe_25": 65.06,
+        "pe_50": 74.0,
+        "pe_75": 93.0,
+        "pe_90": 114.71
       },
       {
         "date": "2007-02-14",
         "price": 69.3,
-        "pe": 14.44,
-        "pe_10": 58.64,
-        "pe_25": 65.82,
-        "pe_50": 72.64,
-        "pe_75": 89.85,
-        "pe_90": 114.1
+        "pe": 15.16,
+        "pe_10": 53.19,
+        "pe_25": 62.61,
+        "pe_50": 71.22,
+        "pe_75": 89.5,
+        "pe_90": 110.4
       },
       {
         "date": "2007-03-16",
         "price": 67.9,
-        "pe": 14.35,
-        "pe_10": 57.81,
-        "pe_25": 64.9,
-        "pe_50": 71.61,
-        "pe_75": 88.59,
-        "pe_90": 112.49
+        "pe": 15.47,
+        "pe_10": 51.07,
+        "pe_25": 60.12,
+        "pe_50": 68.38,
+        "pe_75": 85.94,
+        "pe_90": 106.0
       },
       {
         "date": "2007-04-15",
         "price": 68.7,
-        "pe": 14.72,
-        "pe_10": 57.02,
-        "pe_25": 64.01,
-        "pe_50": 70.64,
-        "pe_75": 87.38,
-        "pe_90": 110.96
+        "pe": 16.16,
+        "pe_10": 49.46,
+        "pe_25": 58.23,
+        "pe_50": 66.23,
+        "pe_75": 83.24,
+        "pe_90": 102.67
       },
       {
         "date": "2007-05-16",
         "price": 68.2,
-        "pe": 14.82,
-        "pe_10": 56.23,
-        "pe_25": 63.11,
-        "pe_50": 69.65,
-        "pe_75": 86.16,
-        "pe_90": 109.41
+        "pe": 16.59,
+        "pe_10": 47.83,
+        "pe_25": 56.31,
+        "pe_50": 64.05,
+        "pe_75": 80.49,
+        "pe_90": 99.28
       },
       {
         "date": "2007-06-15",
         "price": 70.9,
-        "pe": 15.63,
-        "pe_10": 55.42,
-        "pe_25": 62.21,
-        "pe_50": 68.65,
-        "pe_75": 84.93,
-        "pe_90": 107.84
+        "pe": 17.86,
+        "pe_10": 46.19,
+        "pe_25": 54.38,
+        "pe_50": 61.85,
+        "pe_75": 77.73,
+        "pe_90": 95.87
       },
       {
         "date": "2007-07-16",
         "price": 65.0,
-        "pe": 14.54,
-        "pe_10": 54.62,
-        "pe_25": 61.31,
-        "pe_50": 67.66,
-        "pe_75": 83.7,
-        "pe_90": 106.28
+        "pe": 16.48,
+        "pe_10": 45.89,
+        "pe_25": 54.03,
+        "pe_50": 61.45,
+        "pe_75": 77.23,
+        "pe_90": 95.26
       },
       {
         "date": "2007-08-16",
         "price": 62.7,
-        "pe": 14.24,
-        "pe_10": 53.8,
-        "pe_25": 60.39,
-        "pe_50": 66.64,
-        "pe_75": 82.44,
-        "pe_90": 104.68
+        "pe": 16.01,
+        "pe_10": 45.57,
+        "pe_25": 53.64,
+        "pe_50": 61.02,
+        "pe_75": 76.68,
+        "pe_90": 94.58
       },
       {
         "date": "2007-09-15",
         "price": 63.3,
-        "pe": 14.59,
-        "pe_10": 53.01,
-        "pe_25": 59.5,
-        "pe_50": 65.66,
-        "pe_75": 81.23,
-        "pe_90": 103.15
+        "pe": 16.27,
+        "pe_10": 45.27,
+        "pe_25": 53.29,
+        "pe_50": 60.62,
+        "pe_75": 76.18,
+        "pe_90": 93.96
       },
       {
         "date": "2007-10-16",
         "price": 63.8,
-        "pe": 14.94,
-        "pe_10": 52.18,
-        "pe_25": 58.57,
-        "pe_50": 64.63,
-        "pe_75": 79.95,
-        "pe_90": 101.52
+        "pe": 16.06,
+        "pe_10": 46.22,
+        "pe_25": 54.41,
+        "pe_50": 61.89,
+        "pe_75": 77.78,
+        "pe_90": 95.94
       },
       {
         "date": "2007-11-15",
         "price": 60.6,
-        "pe": 14.41,
-        "pe_10": 51.38,
-        "pe_25": 57.68,
-        "pe_50": 63.65,
-        "pe_75": 78.74,
-        "pe_90": 99.98
+        "pe": 14.94,
+        "pe_10": 47.19,
+        "pe_25": 55.56,
+        "pe_50": 63.2,
+        "pe_75": 79.42,
+        "pe_90": 97.96
       },
       {
         "date": "2007-12-16",
         "price": 62.0,
         "pe": 14.98,
-        "pe_10": 50.57,
-        "pe_25": 56.76,
-        "pe_50": 62.64,
-        "pe_75": 77.49,
-        "pe_90": 98.4
+        "pe_10": 48.16,
+        "pe_25": 56.69,
+        "pe_50": 64.48,
+        "pe_75": 81.04,
+        "pe_90": 99.96
       },
       {
         "date": "2008-01-16",
         "price": 59.9,
-        "pe": 14.55,
-        "pe_10": 50.3,
-        "pe_25": 56.46,
-        "pe_50": 62.31,
-        "pe_75": 77.08,
-        "pe_90": 97.87
+        "pe": 13.92,
+        "pe_10": 50.07,
+        "pe_25": 58.94,
+        "pe_50": 67.04,
+        "pe_75": 84.26,
+        "pe_90": 103.93
       },
       {
         "date": "2008-02-15",
         "price": 61.6,
-        "pe": 15.05,
-        "pe_10": 50.01,
-        "pe_25": 56.14,
-        "pe_50": 61.95,
-        "pe_75": 76.63,
-        "pe_90": 97.31
+        "pe": 13.79,
+        "pe_10": 51.97,
+        "pe_25": 61.19,
+        "pe_50": 69.6,
+        "pe_75": 87.46,
+        "pe_90": 107.88
       },
       {
         "date": "2008-03-16",
         "price": 63.1,
-        "pe": 15.5,
-        "pe_10": 49.74,
-        "pe_25": 55.83,
-        "pe_50": 61.61,
-        "pe_75": 76.22,
-        "pe_90": 96.78
+        "pe": 13.63,
+        "pe_10": 53.86,
+        "pe_25": 63.41,
+        "pe_50": 72.13,
+        "pe_75": 90.65,
+        "pe_90": 111.81
       },
       {
         "date": "2008-04-15",
         "price": 66.7,
-        "pe": 16.48,
-        "pe_10": 49.45,
-        "pe_25": 55.51,
-        "pe_50": 61.26,
-        "pe_75": 75.78,
-        "pe_90": 96.22
+        "pe": 14.28,
+        "pe_10": 54.35,
+        "pe_25": 63.98,
+        "pe_50": 72.77,
+        "pe_75": 91.46,
+        "pe_90": 112.81
       },
       {
         "date": "2008-05-16",
         "price": 65.6,
-        "pe": 16.3,
-        "pe_10": 49.17,
-        "pe_25": 55.2,
-        "pe_50": 60.91,
-        "pe_75": 75.35,
-        "pe_90": 95.68
+        "pe": 13.93,
+        "pe_10": 54.79,
+        "pe_25": 64.51,
+        "pe_50": 73.37,
+        "pe_75": 92.21,
+        "pe_90": 113.73
       },
       {
         "date": "2008-06-15",
         "price": 65.0,
-        "pe": 16.25,
-        "pe_10": 48.87,
-        "pe_25": 54.86,
-        "pe_50": 60.54,
-        "pe_75": 74.89,
-        "pe_90": 95.1
+        "pe": 13.68,
+        "pe_10": 55.28,
+        "pe_25": 65.08,
+        "pe_50": 74.03,
+        "pe_75": 93.03,
+        "pe_90": 114.75
       },
       {
         "date": "2008-07-16",
         "price": 56.2,
-        "pe": 14.13,
-        "pe_10": 48.6,
-        "pe_25": 54.55,
-        "pe_50": 60.2,
-        "pe_75": 74.47,
-        "pe_90": 94.56
+        "pe": 11.89,
+        "pe_10": 54.99,
+        "pe_25": 64.74,
+        "pe_50": 73.64,
+        "pe_75": 92.55,
+        "pe_90": 114.15
       },
       {
         "date": "2008-08-16",
         "price": 58.9,
-        "pe": 14.9,
-        "pe_10": 48.3,
-        "pe_25": 54.22,
-        "pe_50": 59.83,
-        "pe_75": 74.01,
-        "pe_90": 93.98
+        "pe": 12.52,
+        "pe_10": 54.74,
+        "pe_25": 64.44,
+        "pe_50": 73.3,
+        "pe_75": 92.11,
+        "pe_90": 113.62
       },
       {
         "date": "2008-09-15",
         "price": 52.5,
-        "pe": 13.36,
-        "pe_10": 48.01,
-        "pe_25": 53.9,
-        "pe_50": 59.48,
-        "pe_75": 73.57,
-        "pe_90": 93.42
+        "pe": 11.22,
+        "pe_10": 54.44,
+        "pe_25": 64.09,
+        "pe_50": 72.9,
+        "pe_75": 91.62,
+        "pe_90": 113.01
       },
       {
         "date": "2008-10-16",
         "price": 48.0,
-        "pe": 12.29,
-        "pe_10": 47.72,
-        "pe_25": 53.57,
-        "pe_50": 59.11,
-        "pe_75": 73.12,
-        "pe_90": 92.85
+        "pe": 10.89,
+        "pe_10": 51.28,
+        "pe_25": 60.37,
+        "pe_50": 68.67,
+        "pe_75": 86.3,
+        "pe_90": 106.45
       },
       {
         "date": "2008-11-15",
         "price": 40.8,
-        "pe": 10.51,
-        "pe_10": 47.43,
-        "pe_25": 53.24,
-        "pe_50": 58.75,
-        "pe_75": 72.68,
-        "pe_90": 92.29
+        "pe": 9.87,
+        "pe_10": 48.1,
+        "pe_25": 56.62,
+        "pe_50": 64.4,
+        "pe_75": 80.94,
+        "pe_90": 99.83
       },
       {
         "date": "2008-12-16",
         "price": 44.4,
         "pe": 11.5,
-        "pe_10": 47.17,
-        "pe_25": 52.95,
-        "pe_50": 58.43,
-        "pe_75": 72.29,
-        "pe_90": 91.79
+        "pe_10": 44.92,
+        "pe_25": 52.88,
+        "pe_50": 60.15,
+        "pe_75": 75.6,
+        "pe_90": 93.24
       },
       {
         "date": "2009-01-16",
         "price": 40.2,
-        "pe": 10.51,
-        "pe_10": 46.73,
-        "pe_25": 52.46,
-        "pe_50": 57.89,
-        "pe_75": 71.61,
-        "pe_90": 90.93
+        "pe": 11.44,
+        "pe_10": 40.89,
+        "pe_25": 48.13,
+        "pe_50": 54.75,
+        "pe_75": 68.8,
+        "pe_90": 84.87
       },
       {
         "date": "2009-02-14",
         "price": 44.95,
-        "pe": 11.85,
-        "pe_10": 46.35,
-        "pe_25": 52.02,
-        "pe_50": 57.41,
-        "pe_75": 71.02,
-        "pe_90": 90.18
+        "pe": 14.19,
+        "pe_10": 36.86,
+        "pe_25": 43.39,
+        "pe_50": 49.35,
+        "pe_75": 62.02,
+        "pe_90": 76.5
       },
       {
         "date": "2009-03-16",
         "price": 51.4,
-        "pe": 13.68,
-        "pe_10": 45.91,
-        "pe_25": 51.53,
-        "pe_50": 56.87,
-        "pe_75": 70.35,
-        "pe_90": 89.33
+        "pe": 18.23,
+        "pe_10": 32.81,
+        "pe_25": 38.62,
+        "pe_50": 43.93,
+        "pe_75": 55.21,
+        "pe_90": 68.09
       },
       {
         "date": "2009-04-15",
         "price": 55.2,
-        "pe": 14.83,
-        "pe_10": 45.48,
-        "pe_25": 51.05,
-        "pe_50": 56.34,
-        "pe_75": 69.69,
-        "pe_90": 88.49
+        "pe": 19.9,
+        "pe_10": 32.27,
+        "pe_25": 38.0,
+        "pe_50": 43.22,
+        "pe_75": 54.31,
+        "pe_90": 66.99
       },
       {
         "date": "2009-05-16",
         "price": 60.4,
-        "pe": 16.37,
-        "pe_10": 45.08,
-        "pe_25": 50.6,
-        "pe_50": 55.84,
-        "pe_75": 69.08,
-        "pe_90": 87.72
+        "pe": 22.15,
+        "pe_10": 31.73,
+        "pe_25": 37.35,
+        "pe_50": 42.48,
+        "pe_75": 53.39,
+        "pe_90": 65.86
       },
       {
         "date": "2009-06-15",
         "price": 54.7,
-        "pe": 14.97,
-        "pe_10": 44.64,
-        "pe_25": 50.11,
-        "pe_50": 55.3,
-        "pe_75": 68.41,
-        "pe_90": 86.87
+        "pe": 20.41,
+        "pe_10": 31.18,
+        "pe_25": 36.71,
+        "pe_50": 41.76,
+        "pe_75": 52.48,
+        "pe_90": 64.73
       },
       {
         "date": "2009-07-16",
         "price": 58.9,
-        "pe": 16.27,
-        "pe_10": 44.23,
-        "pe_25": 49.65,
-        "pe_50": 54.79,
-        "pe_75": 67.78,
-        "pe_90": 86.07
+        "pe": 22.0,
+        "pe_10": 31.15,
+        "pe_25": 36.67,
+        "pe_50": 41.71,
+        "pe_75": 52.42,
+        "pe_90": 64.66
       },
       {
         "date": "2009-08-16",
         "price": 59.2,
-        "pe": 16.51,
-        "pe_10": 43.81,
-        "pe_25": 49.18,
-        "pe_50": 54.27,
-        "pe_75": 67.13,
-        "pe_90": 85.25
+        "pe": 22.14,
+        "pe_10": 31.11,
+        "pe_25": 36.63,
+        "pe_50": 41.66,
+        "pe_75": 52.35,
+        "pe_90": 64.58
       },
       {
         "date": "2009-09-15",
         "price": 64.5,
-        "pe": 18.16,
-        "pe_10": 43.4,
-        "pe_25": 48.71,
-        "pe_50": 53.76,
-        "pe_75": 66.5,
-        "pe_90": 84.44
+        "pe": 24.16,
+        "pe_10": 31.06,
+        "pe_25": 36.57,
+        "pe_50": 41.59,
+        "pe_75": 52.27,
+        "pe_90": 64.48
       },
       {
         "date": "2009-10-16",
         "price": 60.0,
-        "pe": 17.05,
-        "pe_10": 43.0,
-        "pe_25": 48.26,
-        "pe_50": 53.26,
-        "pe_75": 65.89,
-        "pe_90": 83.66
+        "pe": 20.48,
+        "pe_10": 34.09,
+        "pe_25": 40.13,
+        "pe_50": 45.64,
+        "pe_75": 57.36,
+        "pe_90": 70.75
       },
       {
         "date": "2009-11-15",
         "price": 61.1,
-        "pe": 17.54,
-        "pe_10": 42.56,
-        "pe_25": 47.78,
-        "pe_50": 52.72,
-        "pe_75": 65.22,
-        "pe_90": 82.82
+        "pe": 19.15,
+        "pe_10": 37.12,
+        "pe_25": 43.7,
+        "pe_50": 49.71,
+        "pe_75": 62.47,
+        "pe_90": 77.06
       },
       {
         "date": "2009-12-16",
         "price": 64.5,
         "pe": 18.7,
-        "pe_10": 42.14,
-        "pe_25": 47.31,
-        "pe_50": 52.2,
-        "pe_75": 64.58,
-        "pe_90": 82.0
+        "pe_10": 40.13,
+        "pe_25": 47.25,
+        "pe_50": 53.74,
+        "pe_75": 67.54,
+        "pe_90": 83.3
       },
       {
         "date": "2010-01-16",
         "price": 61.5,
-        "pe": 16.7,
-        "pe_10": 44.99,
-        "pe_25": 50.51,
-        "pe_50": 55.74,
-        "pe_75": 68.95,
-        "pe_90": 87.55
+        "pe": 15.92,
+        "pe_10": 44.95,
+        "pe_25": 52.91,
+        "pe_50": 60.19,
+        "pe_75": 75.64,
+        "pe_90": 93.3
       },
       {
         "date": "2010-02-14",
         "price": 58.8,
-        "pe": 15.02,
-        "pe_10": 47.83,
-        "pe_25": 53.69,
-        "pe_50": 59.25,
-        "pe_75": 73.29,
-        "pe_90": 93.07
+        "pe": 13.75,
+        "pe_10": 49.76,
+        "pe_25": 58.58,
+        "pe_50": 66.63,
+        "pe_75": 83.73,
+        "pe_90": 103.28
       },
       {
         "date": "2010-03-16",
         "price": 61.5,
-        "pe": 14.83,
-        "pe_10": 50.67,
-        "pe_25": 56.88,
-        "pe_50": 62.76,
-        "pe_75": 77.64,
-        "pe_90": 98.59
+        "pe": 13.11,
+        "pe_10": 54.58,
+        "pe_25": 64.26,
+        "pe_50": 73.09,
+        "pe_75": 91.85,
+        "pe_90": 113.29
       },
       {
         "date": "2010-04-15",
         "price": 61.8,
-        "pe": 14.11,
-        "pe_10": 53.51,
-        "pe_25": 60.07,
-        "pe_50": 66.29,
-        "pe_75": 82.0,
-        "pe_90": 104.13
+        "pe": 12.64,
+        "pe_10": 56.89,
+        "pe_25": 66.97,
+        "pe_50": 76.17,
+        "pe_75": 95.73,
+        "pe_90": 118.08
       },
       {
         "date": "2010-05-16",
         "price": 60.2,
-        "pe": 13.05,
-        "pe_10": 56.36,
-        "pe_25": 63.27,
-        "pe_50": 69.82,
-        "pe_75": 86.37,
-        "pe_90": 109.67
+        "pe": 11.83,
+        "pe_10": 59.21,
+        "pe_25": 69.7,
+        "pe_50": 79.28,
+        "pe_75": 99.64,
+        "pe_90": 122.9
       },
       {
         "date": "2010-06-15",
         "price": 60.6,
-        "pe": 12.51,
-        "pe_10": 59.19,
-        "pe_25": 66.44,
-        "pe_50": 73.32,
-        "pe_75": 90.69,
-        "pe_90": 115.16
+        "pe": 11.46,
+        "pe_10": 61.53,
+        "pe_25": 72.43,
+        "pe_50": 82.39,
+        "pe_75": 103.54,
+        "pe_90": 127.71
       },
       {
         "date": "2010-07-16",
         "price": 62.4,
-        "pe": 12.29,
-        "pe_10": 62.03,
-        "pe_25": 69.64,
-        "pe_50": 76.84,
-        "pe_75": 95.06,
-        "pe_90": 120.71
+        "pe": 11.34,
+        "pe_10": 64.02,
+        "pe_25": 75.37,
+        "pe_50": 85.73,
+        "pe_75": 107.74,
+        "pe_90": 132.89
       },
       {
         "date": "2010-08-16",
         "price": 58.9,
-        "pe": 11.09,
-        "pe_10": 64.89,
-        "pe_25": 72.84,
-        "pe_50": 80.38,
-        "pe_75": 99.44,
-        "pe_90": 126.27
+        "pe": 10.3,
+        "pe_10": 66.53,
+        "pe_25": 78.33,
+        "pe_50": 89.09,
+        "pe_75": 111.97,
+        "pe_90": 138.11
       },
       {
         "date": "2010-09-15",
         "price": 62.0,
-        "pe": 11.19,
-        "pe_10": 67.7,
-        "pe_25": 75.99,
-        "pe_50": 83.86,
-        "pe_75": 103.74,
-        "pe_90": 131.72
+        "pe": 10.46,
+        "pe_10": 68.96,
+        "pe_25": 81.19,
+        "pe_50": 92.35,
+        "pe_75": 116.06,
+        "pe_90": 143.15
       },
       {
         "date": "2010-10-16",
         "price": 62.8,
-        "pe": 10.87,
-        "pe_10": 70.59,
-        "pe_25": 79.24,
-        "pe_50": 87.44,
-        "pe_75": 108.17,
-        "pe_90": 137.35
+        "pe": 10.41,
+        "pe_10": 70.19,
+        "pe_25": 82.63,
+        "pe_50": 93.99,
+        "pe_75": 118.12,
+        "pe_90": 145.69
       },
       {
         "date": "2010-11-15",
         "price": 63.4,
-        "pe": 10.55,
-        "pe_10": 73.42,
-        "pe_25": 82.42,
-        "pe_50": 90.95,
-        "pe_75": 112.51,
-        "pe_90": 142.87
+        "pe": 10.33,
+        "pe_10": 71.41,
+        "pe_25": 84.07,
+        "pe_50": 95.62,
+        "pe_75": 120.17,
+        "pe_90": 148.23
       },
       {
         "date": "2010-12-16",
         "price": 71.0,
         "pe": 11.38,
-        "pe_10": 76.23,
-        "pe_25": 85.57,
-        "pe_50": 94.43,
-        "pe_75": 116.81,
-        "pe_90": 148.33
+        "pe_10": 72.59,
+        "pe_25": 85.46,
+        "pe_50": 97.2,
+        "pe_75": 122.16,
+        "pe_90": 150.68
       },
       {
         "date": "2011-01-16",
         "price": 76.3,
-        "pe": 12.4,
-        "pe_10": 75.18,
-        "pe_25": 84.39,
-        "pe_50": 93.13,
-        "pe_75": 115.2,
-        "pe_90": 146.29
+        "pe": 12.16,
+        "pe_10": 73.01,
+        "pe_25": 85.95,
+        "pe_50": 97.76,
+        "pe_75": 122.86,
+        "pe_90": 151.54
       },
       {
         "date": "2011-02-14",
         "price": 70.5,
-        "pe": 11.63,
-        "pe_10": 74.06,
-        "pe_25": 83.14,
-        "pe_50": 91.75,
-        "pe_75": 113.49,
-        "pe_90": 144.12
+        "pe": 11.18,
+        "pe_10": 73.37,
+        "pe_25": 86.38,
+        "pe_50": 98.25,
+        "pe_75": 123.47,
+        "pe_90": 152.29
       },
       {
         "date": "2011-03-16",
         "price": 70.6,
-        "pe": 11.82,
-        "pe_10": 72.98,
-        "pe_25": 81.92,
-        "pe_50": 90.4,
-        "pe_75": 111.83,
-        "pe_90": 142.0
+        "pe": 11.14,
+        "pe_10": 73.74,
+        "pe_25": 86.81,
+        "pe_50": 98.74,
+        "pe_75": 124.09,
+        "pe_90": 153.06
       },
       {
         "date": "2011-04-15",
         "price": 73.2,
-        "pe": 12.43,
-        "pe_10": 71.95,
-        "pe_25": 80.77,
-        "pe_50": 89.13,
-        "pe_75": 110.26,
-        "pe_90": 140.0
+        "pe": 11.64,
+        "pe_10": 73.17,
+        "pe_25": 86.14,
+        "pe_50": 97.98,
+        "pe_75": 123.13,
+        "pe_90": 151.88
       },
       {
         "date": "2011-05-16",
         "price": 76.7,
-        "pe": 13.23,
-        "pe_10": 70.83,
-        "pe_25": 79.51,
-        "pe_50": 87.74,
-        "pe_75": 108.54,
-        "pe_90": 137.83
+        "pe": 12.3,
+        "pe_10": 72.55,
+        "pe_25": 85.41,
+        "pe_50": 97.15,
+        "pe_75": 122.1,
+        "pe_90": 150.6
       },
       {
         "date": "2011-06-15",
         "price": 72.2,
-        "pe": 12.64,
-        "pe_10": 69.79,
-        "pe_25": 78.34,
-        "pe_50": 86.45,
-        "pe_75": 106.94,
-        "pe_90": 135.8
+        "pe": 11.68,
+        "pe_10": 71.92,
+        "pe_25": 84.67,
+        "pe_50": 96.31,
+        "pe_75": 121.03,
+        "pe_90": 149.29
       },
       {
         "date": "2011-07-16",
         "price": 72.0,
-        "pe": 12.81,
-        "pe_10": 68.67,
-        "pe_25": 77.09,
-        "pe_50": 85.07,
-        "pe_75": 105.23,
-        "pe_90": 133.62
+        "pe": 12.07,
+        "pe_10": 69.41,
+        "pe_25": 81.71,
+        "pe_50": 92.94,
+        "pe_75": 116.8,
+        "pe_90": 144.07
       },
       {
         "date": "2011-08-16",
         "price": 69.4,
-        "pe": 12.54,
-        "pe_10": 67.62,
-        "pe_25": 75.9,
-        "pe_50": 83.76,
-        "pe_75": 103.62,
-        "pe_90": 131.57
+        "pe": 12.08,
+        "pe_10": 66.84,
+        "pe_25": 78.69,
+        "pe_50": 89.51,
+        "pe_75": 112.49,
+        "pe_90": 138.75
       },
       {
         "date": "2011-09-15",
         "price": 70.0,
-        "pe": 12.86,
-        "pe_10": 66.51,
-        "pe_25": 74.65,
-        "pe_50": 82.38,
-        "pe_75": 101.91,
-        "pe_90": 129.41
+        "pe": 12.66,
+        "pe_10": 64.33,
+        "pe_25": 75.74,
+        "pe_50": 86.15,
+        "pe_75": 108.26,
+        "pe_90": 133.54
       },
       {
         "date": "2011-10-16",
         "price": 73.6,
-        "pe": 13.74,
-        "pe_10": 65.45,
-        "pe_25": 73.47,
-        "pe_50": 81.07,
-        "pe_75": 100.29,
-        "pe_90": 127.35
+        "pe": 13.6,
+        "pe_10": 62.97,
+        "pe_25": 74.13,
+        "pe_50": 84.32,
+        "pe_75": 105.96,
+        "pe_90": 130.7
       },
       {
         "date": "2011-11-15",
         "price": 74.6,
-        "pe": 14.16,
-        "pe_10": 64.37,
-        "pe_25": 72.26,
-        "pe_50": 79.74,
-        "pe_75": 98.64,
-        "pe_90": 125.25
+        "pe": 14.08,
+        "pe_10": 61.65,
+        "pe_25": 72.57,
+        "pe_50": 82.55,
+        "pe_75": 103.74,
+        "pe_90": 127.96
       },
       {
         "date": "2011-12-16",
         "price": 75.8,
         "pe": 14.63,
-        "pe_10": 63.3,
-        "pe_25": 71.06,
-        "pe_50": 78.42,
-        "pe_75": 97.0,
-        "pe_90": 123.18
+        "pe_10": 60.28,
+        "pe_25": 70.97,
+        "pe_50": 80.72,
+        "pe_75": 101.45,
+        "pe_90": 125.13
       },
       {
         "date": "2012-01-16",
         "price": 78.5,
-        "pe": 14.86,
-        "pe_10": 64.54,
-        "pe_25": 72.45,
-        "pe_50": 79.95,
-        "pe_75": 98.9,
-        "pe_90": 125.59
+        "pe": 15.27,
+        "pe_10": 59.81,
+        "pe_25": 70.42,
+        "pe_50": 80.09,
+        "pe_75": 100.66,
+        "pe_90": 124.16
       },
       {
         "date": "2012-02-15",
         "price": 81.1,
-        "pe": 15.06,
-        "pe_10": 65.8,
-        "pe_25": 73.86,
-        "pe_50": 81.5,
-        "pe_75": 100.82,
-        "pe_90": 128.03
+        "pe": 15.9,
+        "pe_10": 59.35,
+        "pe_25": 69.87,
+        "pe_50": 79.47,
+        "pe_75": 99.87,
+        "pe_90": 123.19
       },
       {
         "date": "2012-03-16",
         "price": 84.9,
-        "pe": 15.46,
-        "pe_10": 67.1,
-        "pe_25": 75.32,
-        "pe_50": 83.12,
-        "pe_75": 102.82,
-        "pe_90": 130.56
+        "pe": 16.78,
+        "pe_10": 58.87,
+        "pe_25": 69.3,
+        "pe_50": 78.83,
+        "pe_75": 99.07,
+        "pe_90": 122.19
       },
       {
         "date": "2012-04-15",
         "price": 86.8,
-        "pe": 15.52,
-        "pe_10": 68.33,
-        "pe_25": 76.71,
-        "pe_50": 84.65,
-        "pe_75": 104.71,
-        "pe_90": 132.96
+        "pe": 16.9,
+        "pe_10": 59.76,
+        "pe_25": 70.35,
+        "pe_50": 80.02,
+        "pe_75": 100.56,
+        "pe_90": 124.04
       },
       {
         "date": "2012-05-16",
         "price": 85.1,
-        "pe": 14.94,
-        "pe_10": 69.6,
-        "pe_25": 78.12,
-        "pe_50": 86.21,
-        "pe_75": 106.65,
-        "pe_90": 135.42
+        "pe": 16.32,
+        "pe_10": 60.67,
+        "pe_25": 71.43,
+        "pe_50": 81.24,
+        "pe_75": 102.1,
+        "pe_90": 125.93
       },
       {
         "date": "2012-06-15",
         "price": 81.3,
-        "pe": 14.02,
-        "pe_10": 70.85,
-        "pe_25": 79.53,
-        "pe_50": 87.77,
-        "pe_75": 108.57,
-        "pe_90": 137.86
+        "pe": 15.37,
+        "pe_10": 61.54,
+        "pe_25": 72.45,
+        "pe_50": 82.41,
+        "pe_75": 103.57,
+        "pe_90": 127.75
       },
       {
         "date": "2012-07-16",
         "price": 81.0,
-        "pe": 13.72,
-        "pe_10": 72.13,
-        "pe_25": 80.97,
-        "pe_50": 89.35,
-        "pe_75": 110.53,
-        "pe_90": 140.36
+        "pe": 14.63,
+        "pe_10": 64.42,
+        "pe_25": 75.84,
+        "pe_50": 86.26,
+        "pe_75": 108.41,
+        "pe_90": 133.71
       },
       {
         "date": "2012-08-16",
         "price": 83.3,
-        "pe": 13.87,
-        "pe_10": 73.38,
-        "pe_25": 82.37,
-        "pe_50": 90.9,
-        "pe_75": 112.44,
-        "pe_90": 142.78
+        "pe": 14.4,
+        "pe_10": 67.31,
+        "pe_25": 79.24,
+        "pe_50": 90.13,
+        "pe_75": 113.26,
+        "pe_90": 139.71
       },
       {
         "date": "2012-09-15",
         "price": 89.8,
-        "pe": 14.7,
-        "pe_10": 74.64,
-        "pe_25": 83.78,
-        "pe_50": 92.46,
-        "pe_75": 114.37,
-        "pe_90": 145.23
+        "pe": 14.89,
+        "pe_10": 70.17,
+        "pe_25": 82.61,
+        "pe_50": 93.96,
+        "pe_75": 118.08,
+        "pe_90": 145.65
       },
       {
         "date": "2012-10-16",
         "price": 88.7,
-        "pe": 14.28,
-        "pe_10": 75.89,
-        "pe_25": 85.19,
-        "pe_50": 94.01,
-        "pe_75": 116.29,
-        "pe_90": 147.67
+        "pe": 14.4,
+        "pe_10": 71.67,
+        "pe_25": 84.37,
+        "pe_50": 95.97,
+        "pe_75": 120.61,
+        "pe_90": 148.76
       },
       {
         "date": "2012-11-15",
         "price": 98.7,
-        "pe": 15.63,
-        "pe_10": 77.15,
-        "pe_25": 86.61,
-        "pe_50": 95.57,
-        "pe_75": 118.23,
-        "pe_90": 150.13
+        "pe": 15.69,
+        "pe_10": 73.19,
+        "pe_25": 86.17,
+        "pe_50": 98.01,
+        "pe_75": 123.17,
+        "pe_90": 151.93
       },
       {
         "date": "2012-12-16",
         "price": 97.0,
         "pe": 15.11,
-        "pe_10": 78.43,
-        "pe_25": 88.04,
-        "pe_50": 97.16,
-        "pe_75": 120.19,
-        "pe_90": 152.62
+        "pe_10": 74.69,
+        "pe_25": 87.93,
+        "pe_50": 100.02,
+        "pe_75": 125.7,
+        "pe_90": 155.04
       },
       {
         "date": "2013-01-16",
         "price": 101.5,
-        "pe": 15.64,
-        "pe_10": 79.29,
+        "pe": 15.62,
+        "pe_10": 75.61,
         "pe_25": 89.01,
-        "pe_50": 98.22,
-        "pe_75": 121.5,
-        "pe_90": 154.29
+        "pe_50": 101.24,
+        "pe_75": 127.23,
+        "pe_90": 156.94
       },
       {
         "date": "2013-02-14",
         "price": 104.5,
-        "pe": 15.93,
-        "pe_10": 80.15,
-        "pe_25": 89.97,
-        "pe_50": 99.28,
-        "pe_75": 122.82,
-        "pe_90": 155.96
+        "pe": 15.88,
+        "pe_10": 76.57,
+        "pe_25": 90.14,
+        "pe_50": 102.53,
+        "pe_75": 128.85,
+        "pe_90": 158.93
       },
       {
         "date": "2013-03-16",
         "price": 100.5,
-        "pe": 15.16,
-        "pe_10": 81.0,
-        "pe_25": 90.92,
-        "pe_50": 100.33,
-        "pe_75": 124.12,
-        "pe_90": 157.6
+        "pe": 15.09,
+        "pe_10": 77.49,
+        "pe_25": 91.23,
+        "pe_50": 103.76,
+        "pe_75": 130.4,
+        "pe_90": 160.85
       },
       {
         "date": "2013-04-15",
         "price": 109.5,
-        "pe": 16.34,
-        "pe_10": 81.88,
-        "pe_25": 91.91,
-        "pe_50": 101.42,
-        "pe_75": 125.47,
-        "pe_90": 159.32
+        "pe": 16.15,
+        "pe_10": 78.89,
+        "pe_25": 92.87,
+        "pe_50": 105.64,
+        "pe_75": 132.76,
+        "pe_90": 163.75
       },
       {
         "date": "2013-05-16",
         "price": 109.5,
-        "pe": 16.17,
-        "pe_10": 82.74,
-        "pe_25": 92.88,
-        "pe_50": 102.49,
-        "pe_75": 126.79,
-        "pe_90": 160.99
+        "pe": 15.87,
+        "pe_10": 80.28,
+        "pe_25": 94.51,
+        "pe_50": 107.5,
+        "pe_75": 135.1,
+        "pe_90": 166.64
       },
       {
         "date": "2013-06-15",
         "price": 111.0,
-        "pe": 16.23,
-        "pe_10": 83.56,
-        "pe_25": 93.8,
-        "pe_50": 103.51,
-        "pe_75": 128.05,
-        "pe_90": 162.59
+        "pe": 15.81,
+        "pe_10": 81.69,
+        "pe_25": 96.17,
+        "pe_50": 109.39,
+        "pe_75": 137.47,
+        "pe_90": 169.56
       },
       {
         "date": "2013-07-16",
         "price": 102.5,
-        "pe": 14.83,
-        "pe_10": 84.45,
-        "pe_25": 94.79,
-        "pe_50": 104.61,
-        "pe_75": 129.4,
-        "pe_90": 164.32
+        "pe": 14.52,
+        "pe_10": 82.13,
+        "pe_25": 96.69,
+        "pe_50": 109.98,
+        "pe_75": 138.22,
+        "pe_90": 170.49
       },
       {
         "date": "2013-08-16",
         "price": 100.5,
-        "pe": 14.4,
-        "pe_10": 85.27,
-        "pe_25": 95.72,
-        "pe_50": 105.63,
-        "pe_75": 130.67,
-        "pe_90": 165.92
+        "pe": 14.15,
+        "pe_10": 82.64,
+        "pe_25": 97.29,
+        "pe_50": 110.66,
+        "pe_75": 139.07,
+        "pe_90": 171.53
       },
       {
         "date": "2013-09-15",
         "price": 100.5,
-        "pe": 14.26,
-        "pe_10": 86.11,
-        "pe_25": 96.66,
-        "pe_50": 106.67,
-        "pe_75": 131.95,
-        "pe_90": 167.55
+        "pe": 14.08,
+        "pe_10": 83.05,
+        "pe_25": 97.77,
+        "pe_50": 111.21,
+        "pe_75": 139.76,
+        "pe_90": 172.38
       },
       {
         "date": "2013-10-16",
         "price": 109.5,
-        "pe": 15.38,
-        "pe_10": 86.99,
-        "pe_25": 97.65,
-        "pe_50": 107.76,
-        "pe_75": 133.3,
-        "pe_90": 169.26
+        "pe": 15.25,
+        "pe_10": 83.54,
+        "pe_25": 98.35,
+        "pe_50": 111.87,
+        "pe_75": 140.59,
+        "pe_90": 173.41
       },
       {
         "date": "2013-11-15",
         "price": 105.0,
-        "pe": 14.6,
-        "pe_10": 87.87,
-        "pe_25": 98.64,
-        "pe_50": 108.85,
-        "pe_75": 134.65,
-        "pe_90": 170.98
+        "pe": 14.54,
+        "pe_10": 84.02,
+        "pe_25": 98.92,
+        "pe_50": 112.51,
+        "pe_75": 141.4,
+        "pe_90": 174.41
       },
       {
         "date": "2013-12-16",
         "price": 105.5,
         "pe": 14.53,
-        "pe_10": 88.71,
-        "pe_25": 99.58,
-        "pe_50": 109.89,
-        "pe_75": 135.94,
-        "pe_90": 172.62
+        "pe_10": 84.48,
+        "pe_25": 99.46,
+        "pe_50": 113.12,
+        "pe_75": 142.17,
+        "pe_90": 175.36
       },
       {
         "date": "2014-01-16",
         "price": 105.0,
-        "pe": 13.99,
-        "pe_10": 91.7,
-        "pe_25": 102.94,
-        "pe_50": 113.59,
-        "pe_75": 140.52,
-        "pe_90": 178.43
+        "pe": 14.25,
+        "pe_10": 85.73,
+        "pe_25": 100.93,
+        "pe_50": 114.8,
+        "pe_75": 144.27,
+        "pe_90": 177.95
       },
       {
         "date": "2014-02-14",
         "price": 108.0,
-        "pe": 13.94,
-        "pe_10": 94.66,
-        "pe_25": 106.26,
-        "pe_50": 117.26,
-        "pe_75": 145.05,
-        "pe_90": 184.19
+        "pe": 14.44,
+        "pe_10": 87.02,
+        "pe_25": 102.45,
+        "pe_50": 116.53,
+        "pe_75": 146.44,
+        "pe_90": 180.63
       },
       {
         "date": "2014-03-16",
         "price": 118.5,
-        "pe": 14.83,
-        "pe_10": 97.63,
-        "pe_25": 109.59,
-        "pe_50": 120.94,
-        "pe_75": 149.6,
-        "pe_90": 189.97
+        "pe": 15.61,
+        "pe_10": 88.32,
+        "pe_25": 103.98,
+        "pe_50": 118.27,
+        "pe_75": 148.64,
+        "pe_90": 183.34
       },
       {
         "date": "2014-04-15",
         "price": 118.5,
-        "pe": 14.39,
-        "pe_10": 100.61,
-        "pe_25": 112.94,
-        "pe_50": 124.63,
-        "pe_75": 154.18,
-        "pe_90": 195.78
+        "pe": 15.42,
+        "pe_10": 89.41,
+        "pe_25": 105.26,
+        "pe_50": 119.73,
+        "pe_75": 150.47,
+        "pe_90": 185.6
       },
       {
         "date": "2014-05-16",
         "price": 119.5,
-        "pe": 14.1,
-        "pe_10": 103.55,
-        "pe_25": 116.24,
-        "pe_50": 128.27,
-        "pe_75": 158.68,
-        "pe_90": 201.49
+        "pe": 15.35,
+        "pe_10": 90.58,
+        "pe_25": 106.64,
+        "pe_50": 121.29,
+        "pe_75": 152.43,
+        "pe_90": 188.02
       },
       {
         "date": "2014-06-15",
         "price": 126.5,
-        "pe": 14.51,
-        "pe_10": 106.52,
-        "pe_25": 119.57,
-        "pe_50": 131.95,
-        "pe_75": 163.23,
-        "pe_90": 207.26
+        "pe": 16.05,
+        "pe_10": 91.7,
+        "pe_25": 107.96,
+        "pe_50": 122.8,
+        "pe_75": 154.32,
+        "pe_90": 190.35
       },
       {
         "date": "2014-07-16",
         "price": 121.0,
-        "pe": 13.5,
-        "pe_10": 109.51,
-        "pe_25": 122.93,
-        "pe_50": 135.65,
-        "pe_75": 167.81,
-        "pe_90": 213.09
+        "pe": 14.77,
+        "pe_10": 95.32,
+        "pe_25": 112.21,
+        "pe_50": 127.64,
+        "pe_75": 160.4,
+        "pe_90": 197.85
       },
       {
         "date": "2014-08-16",
         "price": 124.0,
-        "pe": 13.47,
-        "pe_10": 112.47,
-        "pe_25": 126.26,
-        "pe_50": 139.33,
-        "pe_75": 172.35,
-        "pe_90": 218.85
+        "pe": 14.58,
+        "pe_10": 98.95,
+        "pe_25": 116.49,
+        "pe_50": 132.5,
+        "pe_75": 166.52,
+        "pe_90": 205.4
       },
       {
         "date": "2014-09-15",
         "price": 120.0,
-        "pe": 12.7,
-        "pe_10": 115.45,
-        "pe_25": 129.59,
-        "pe_50": 143.01,
-        "pe_75": 176.91,
-        "pe_90": 224.64
+        "pe": 13.61,
+        "pe_10": 102.59,
+        "pe_25": 120.77,
+        "pe_50": 137.37,
+        "pe_75": 172.64,
+        "pe_90": 212.94
       },
       {
         "date": "2014-10-16",
         "price": 130.5,
-        "pe": 13.46,
-        "pe_10": 118.46,
-        "pe_25": 132.97,
-        "pe_50": 146.74,
-        "pe_75": 181.52,
-        "pe_90": 230.5
+        "pe": 14.07,
+        "pe_10": 107.92,
+        "pe_25": 127.05,
+        "pe_50": 144.51,
+        "pe_75": 181.61,
+        "pe_90": 224.0
       },
       {
         "date": "2014-11-15",
         "price": 141.5,
-        "pe": 14.24,
-        "pe_10": 121.41,
-        "pe_25": 136.28,
-        "pe_50": 150.39,
-        "pe_75": 186.04,
-        "pe_90": 236.24
+        "pe": 14.55,
+        "pe_10": 113.15,
+        "pe_25": 133.21,
+        "pe_50": 151.52,
+        "pe_75": 190.42,
+        "pe_90": 234.87
       },
       {
         "date": "2014-12-16",
         "price": 141.0,
         "pe": 13.85,
-        "pe_10": 124.39,
-        "pe_25": 139.63,
-        "pe_50": 154.08,
-        "pe_75": 190.6,
-        "pe_90": 242.03
+        "pe_10": 118.45,
+        "pe_25": 139.45,
+        "pe_50": 158.61,
+        "pe_75": 199.33,
+        "pe_90": 245.87
       },
       {
         "date": "2015-01-16",
         "price": 141.0,
-        "pe": 13.67,
-        "pe_10": 126.02,
-        "pe_25": 141.46,
-        "pe_50": 156.11,
-        "pe_75": 193.11,
-        "pe_90": 245.22
+        "pe": 13.32,
+        "pe_10": 123.16,
+        "pe_25": 145.0,
+        "pe_50": 164.92,
+        "pe_75": 207.27,
+        "pe_90": 255.65
       },
       {
         "date": "2015-02-14",
         "price": 150.5,
-        "pe": 14.4,
-        "pe_10": 127.7,
-        "pe_25": 143.34,
-        "pe_50": 158.18,
-        "pe_75": 195.68,
-        "pe_90": 248.47
+        "pe": 13.7,
+        "pe_10": 127.82,
+        "pe_25": 150.47,
+        "pe_50": 171.15,
+        "pe_75": 215.09,
+        "pe_90": 265.31
       },
       {
         "date": "2015-03-16",
         "price": 145.5,
-        "pe": 13.74,
-        "pe_10": 129.38,
-        "pe_25": 145.24,
-        "pe_50": 160.27,
-        "pe_75": 198.26,
-        "pe_90": 251.76
+        "pe": 12.77,
+        "pe_10": 132.57,
+        "pe_25": 156.07,
+        "pe_50": 177.52,
+        "pe_75": 223.09,
+        "pe_90": 275.17
       },
       {
         "date": "2015-04-15",
         "price": 147.0,
-        "pe": 13.7,
-        "pe_10": 131.1,
-        "pe_25": 147.16,
-        "pe_50": 162.4,
-        "pe_75": 200.89,
-        "pe_90": 255.09
+        "pe": 12.63,
+        "pe_10": 135.42,
+        "pe_25": 159.42,
+        "pe_50": 181.33,
+        "pe_75": 227.89,
+        "pe_90": 281.09
       },
       {
         "date": "2015-05-16",
         "price": 146.0,
-        "pe": 13.44,
-        "pe_10": 132.73,
-        "pe_25": 148.99,
-        "pe_50": 164.41,
-        "pe_75": 203.38,
-        "pe_90": 258.26
+        "pe": 12.28,
+        "pe_10": 138.33,
+        "pe_25": 162.85,
+        "pe_50": 185.23,
+        "pe_75": 232.79,
+        "pe_90": 287.14
       },
       {
         "date": "2015-06-15",
         "price": 140.5,
-        "pe": 12.77,
-        "pe_10": 134.43,
-        "pe_25": 150.9,
-        "pe_50": 166.52,
-        "pe_75": 205.99,
-        "pe_90": 261.57
+        "pe": 11.57,
+        "pe_10": 141.29,
+        "pe_25": 166.34,
+        "pe_50": 189.2,
+        "pe_75": 237.77,
+        "pe_90": 293.28
       },
       {
         "date": "2015-07-16",
         "price": 139.5,
-        "pe": 12.53,
-        "pe_10": 136.03,
-        "pe_25": 152.69,
-        "pe_50": 168.5,
-        "pe_75": 208.44,
-        "pe_90": 264.68
+        "pe": 11.51,
+        "pe_10": 141.01,
+        "pe_25": 166.01,
+        "pe_50": 188.83,
+        "pe_75": 237.31,
+        "pe_90": 292.71
       },
       {
         "date": "2015-08-16",
         "price": 129.0,
-        "pe": 11.44,
-        "pe_10": 137.77,
-        "pe_25": 154.65,
-        "pe_50": 170.67,
-        "pe_75": 211.12,
-        "pe_90": 268.08
+        "pe": 10.66,
+        "pe_10": 140.8,
+        "pe_25": 165.76,
+        "pe_50": 188.54,
+        "pe_75": 236.94,
+        "pe_90": 292.26
       },
       {
         "date": "2015-09-15",
         "price": 130.0,
-        "pe": 11.39,
-        "pe_10": 139.45,
-        "pe_25": 156.54,
-        "pe_50": 172.74,
-        "pe_75": 213.69,
-        "pe_90": 271.35
+        "pe": 10.75,
+        "pe_10": 140.7,
+        "pe_25": 165.64,
+        "pe_50": 188.41,
+        "pe_75": 236.78,
+        "pe_90": 292.06
       },
       {
         "date": "2015-10-16",
         "price": 136.5,
-        "pe": 11.82,
-        "pe_10": 141.1,
-        "pe_25": 158.38,
-        "pe_50": 174.78,
-        "pe_75": 216.21,
-        "pe_90": 274.55
+        "pe": 11.38,
+        "pe_10": 139.56,
+        "pe_25": 164.3,
+        "pe_50": 186.88,
+        "pe_75": 234.86,
+        "pe_90": 289.68
       },
       {
         "date": "2015-11-15",
         "price": 139.0,
-        "pe": 11.9,
-        "pe_10": 142.71,
-        "pe_25": 160.2,
-        "pe_50": 176.79,
-        "pe_75": 218.69,
-        "pe_90": 277.7
+        "pe": 11.67,
+        "pe_10": 138.58,
+        "pe_25": 163.15,
+        "pe_50": 185.57,
+        "pe_75": 233.22,
+        "pe_90": 287.66
       },
       {
         "date": "2015-12-16",
         "price": 143.0,
         "pe": 12.1,
-        "pe_10": 144.39,
-        "pe_25": 162.09,
-        "pe_50": 178.87,
-        "pe_75": 221.27,
-        "pe_90": 280.97
+        "pe_10": 137.5,
+        "pe_25": 161.88,
+        "pe_50": 184.13,
+        "pe_75": 231.4,
+        "pe_90": 285.42
       },
       {
         "date": "2016-01-16",
         "price": 142.0,
-        "pe": 11.92,
-        "pe_10": 145.55,
-        "pe_25": 163.38,
-        "pe_50": 180.3,
-        "pe_75": 223.04,
-        "pe_90": 283.21
+        "pe": 12.2,
+        "pe_10": 135.42,
+        "pe_25": 159.43,
+        "pe_50": 181.34,
+        "pe_75": 227.9,
+        "pe_90": 281.1
       },
       {
         "date": "2016-02-15",
         "price": 149.0,
-        "pe": 12.42,
-        "pe_10": 146.58,
-        "pe_25": 164.54,
-        "pe_50": 181.57,
-        "pe_75": 224.61,
-        "pe_90": 285.21
+        "pe": 13.0,
+        "pe_10": 133.35,
+        "pe_25": 156.99,
+        "pe_50": 178.57,
+        "pe_75": 224.42,
+        "pe_90": 276.81
       },
       {
         "date": "2016-03-16",
         "price": 162.0,
-        "pe": 13.4,
-        "pe_10": 147.71,
-        "pe_25": 165.81,
-        "pe_50": 182.98,
-        "pe_75": 226.35,
-        "pe_90": 287.42
+        "pe": 14.36,
+        "pe_10": 131.26,
+        "pe_25": 154.53,
+        "pe_50": 175.76,
+        "pe_75": 220.89,
+        "pe_90": 272.46
       },
       {
         "date": "2016-04-15",
         "price": 150.0,
-        "pe": 12.32,
-        "pe_10": 148.76,
-        "pe_25": 166.98,
-        "pe_50": 184.27,
-        "pe_75": 227.95,
-        "pe_90": 289.46
+        "pe": 13.41,
+        "pe_10": 130.15,
+        "pe_25": 153.22,
+        "pe_50": 174.27,
+        "pe_75": 219.02,
+        "pe_90": 270.15
       },
       {
         "date": "2016-05-16",
         "price": 156.5,
-        "pe": 12.76,
-        "pe_10": 149.85,
-        "pe_25": 168.21,
-        "pe_50": 185.63,
-        "pe_75": 229.63,
-        "pe_90": 291.59
+        "pe": 14.11,
+        "pe_10": 129.05,
+        "pe_25": 151.92,
+        "pe_50": 172.8,
+        "pe_75": 217.17,
+        "pe_90": 267.87
       },
       {
         "date": "2016-06-15",
         "price": 162.5,
-        "pe": 13.15,
-        "pe_10": 150.98,
-        "pe_25": 169.48,
-        "pe_50": 187.03,
-        "pe_75": 231.36,
-        "pe_90": 293.79
+        "pe": 14.77,
+        "pe_10": 128.01,
+        "pe_25": 150.7,
+        "pe_50": 171.41,
+        "pe_75": 215.42,
+        "pe_90": 265.71
       },
       {
         "date": "2016-07-16",
         "price": 172.5,
-        "pe": 13.86,
-        "pe_10": 152.06,
-        "pe_25": 170.7,
-        "pe_50": 188.37,
-        "pe_75": 233.02,
-        "pe_90": 295.89
+        "pe": 15.29,
+        "pe_10": 131.26,
+        "pe_25": 154.53,
+        "pe_50": 175.77,
+        "pe_75": 220.9,
+        "pe_90": 272.47
       },
       {
         "date": "2016-08-16",
         "price": 176.0,
-        "pe": 14.04,
-        "pe_10": 153.16,
-        "pe_25": 171.93,
-        "pe_50": 189.73,
-        "pe_75": 234.7,
-        "pe_90": 298.02
+        "pe": 15.22,
+        "pe_10": 134.54,
+        "pe_25": 158.39,
+        "pe_50": 180.16,
+        "pe_75": 226.42,
+        "pe_90": 279.28
       },
       {
         "date": "2016-09-15",
         "price": 182.5,
-        "pe": 14.46,
-        "pe_10": 154.2,
-        "pe_25": 173.1,
-        "pe_50": 191.02,
-        "pe_75": 236.3,
-        "pe_90": 300.05
+        "pe": 15.41,
+        "pe_10": 137.79,
+        "pe_25": 162.22,
+        "pe_50": 184.51,
+        "pe_75": 231.89,
+        "pe_90": 286.02
       },
       {
         "date": "2016-10-16",
         "price": 188.5,
-        "pe": 14.83,
-        "pe_10": 155.3,
-        "pe_25": 174.33,
-        "pe_50": 192.38,
-        "pe_75": 237.98,
-        "pe_90": 302.18
+        "pe": 15.46,
+        "pe_10": 141.86,
+        "pe_25": 167.01,
+        "pe_50": 189.96,
+        "pe_75": 238.73,
+        "pe_90": 294.47
       },
       {
         "date": "2016-11-15",
         "price": 183.0,
-        "pe": 14.3,
-        "pe_10": 156.36,
-        "pe_25": 175.51,
-        "pe_50": 193.69,
-        "pe_75": 239.6,
-        "pe_90": 304.24
+        "pe": 14.59,
+        "pe_10": 145.94,
+        "pe_25": 171.81,
+        "pe_50": 195.42,
+        "pe_75": 245.59,
+        "pe_90": 302.92
       },
       {
         "date": "2016-12-16",
         "price": 181.5,
         "pe": 14.08,
-        "pe_10": 157.5,
-        "pe_25": 176.79,
-        "pe_50": 195.1,
-        "pe_75": 241.34,
-        "pe_90": 306.46
+        "pe_10": 149.98,
+        "pe_25": 176.57,
+        "pe_50": 200.84,
+        "pe_75": 252.4,
+        "pe_90": 311.32
       },
       {
         "date": "2017-01-16",
         "price": 185.5,
-        "pe": 14.36,
-        "pe_10": 157.83,
-        "pe_25": 177.17,
-        "pe_50": 195.51,
-        "pe_75": 241.85,
-        "pe_90": 307.11
+        "pe": 14.07,
+        "pe_10": 153.4,
+        "pe_25": 180.59,
+        "pe_50": 205.41,
+        "pe_75": 258.14,
+        "pe_90": 318.41
       },
       {
         "date": "2017-02-14",
         "price": 189.0,
-        "pe": 14.6,
-        "pe_10": 158.16,
-        "pe_25": 177.54,
-        "pe_50": 195.93,
-        "pe_75": 242.37,
-        "pe_90": 307.76
+        "pe": 14.02,
+        "pe_10": 156.85,
+        "pe_25": 184.65,
+        "pe_50": 210.03,
+        "pe_75": 263.95,
+        "pe_90": 325.57
       },
       {
         "date": "2017-03-16",
         "price": 189.0,
-        "pe": 14.57,
-        "pe_10": 158.49,
-        "pe_25": 177.91,
-        "pe_50": 196.33,
-        "pe_75": 242.87,
-        "pe_90": 308.39
+        "pe": 13.73,
+        "pe_10": 160.16,
+        "pe_25": 188.55,
+        "pe_50": 214.47,
+        "pe_75": 269.53,
+        "pe_90": 332.45
       },
       {
         "date": "2017-04-15",
         "price": 194.5,
-        "pe": 14.96,
-        "pe_10": 158.85,
-        "pe_25": 178.31,
-        "pe_50": 196.78,
-        "pe_75": 243.42,
-        "pe_90": 309.09
+        "pe": 14.2,
+        "pe_10": 159.37,
+        "pe_25": 187.62,
+        "pe_50": 213.4,
+        "pe_75": 268.19,
+        "pe_90": 330.8
       },
       {
         "date": "2017-05-16",
         "price": 203.0,
-        "pe": 15.58,
-        "pe_10": 159.19,
-        "pe_25": 178.7,
-        "pe_50": 197.2,
-        "pe_75": 243.95,
-        "pe_90": 309.76
+        "pe": 14.91,
+        "pe_10": 158.41,
+        "pe_25": 186.49,
+        "pe_50": 212.12,
+        "pe_75": 266.58,
+        "pe_90": 328.82
       },
       {
         "date": "2017-06-15",
         "price": 208.5,
-        "pe": 15.96,
-        "pe_10": 159.61,
-        "pe_25": 179.17,
-        "pe_50": 197.72,
-        "pe_75": 244.59,
-        "pe_90": 310.58
+        "pe": 15.4,
+        "pe_10": 157.53,
+        "pe_25": 185.45,
+        "pe_50": 210.94,
+        "pe_75": 265.09,
+        "pe_90": 326.98
       },
       {
         "date": "2017-07-16",
         "price": 214.5,
-        "pe": 16.39,
-        "pe_10": 159.9,
-        "pe_25": 179.49,
-        "pe_50": 198.08,
-        "pe_75": 245.03,
-        "pe_90": 311.14
+        "pe": 15.95,
+        "pe_10": 156.47,
+        "pe_25": 184.21,
+        "pe_50": 209.52,
+        "pe_75": 263.32,
+        "pe_90": 324.79
       },
       {
         "date": "2017-08-16",
         "price": 216.5,
-        "pe": 16.51,
-        "pe_10": 160.22,
-        "pe_25": 179.85,
-        "pe_50": 198.47,
-        "pe_75": 245.51,
-        "pe_90": 311.75
+        "pe": 16.21,
+        "pe_10": 155.4,
+        "pe_25": 182.94,
+        "pe_50": 208.09,
+        "pe_75": 261.51,
+        "pe_90": 322.56
       },
       {
         "date": "2017-09-15",
         "price": 216.5,
-        "pe": 16.47,
-        "pe_10": 160.61,
-        "pe_25": 180.29,
-        "pe_50": 198.95,
-        "pe_75": 246.11,
-        "pe_90": 312.51
+        "pe": 16.33,
+        "pe_10": 154.25,
+        "pe_25": 181.6,
+        "pe_50": 206.56,
+        "pe_75": 259.59,
+        "pe_90": 320.19
       },
       {
         "date": "2017-10-16",
         "price": 243.0,
-        "pe": 18.45,
-        "pe_10": 160.92,
-        "pe_25": 180.64,
-        "pe_50": 199.34,
-        "pe_75": 246.59,
-        "pe_90": 313.12
+        "pe": 18.34,
+        "pe_10": 154.16,
+        "pe_25": 181.49,
+        "pe_50": 206.43,
+        "pe_75": 259.43,
+        "pe_90": 319.99
       },
       {
         "date": "2017-11-15",
         "price": 226.0,
-        "pe": 17.12,
-        "pe_10": 161.29,
-        "pe_25": 181.05,
-        "pe_50": 199.8,
-        "pe_75": 247.15,
-        "pe_90": 313.84
+        "pe": 17.07,
+        "pe_10": 154.04,
+        "pe_25": 181.35,
+        "pe_50": 206.27,
+        "pe_75": 259.23,
+        "pe_90": 319.75
       },
       {
         "date": "2017-12-16",
         "price": 229.5,
         "pe": 17.35,
-        "pe_10": 161.62,
-        "pe_25": 181.42,
-        "pe_50": 200.2,
-        "pe_75": 247.65,
-        "pe_90": 314.47
+        "pe_10": 153.9,
+        "pe_25": 181.19,
+        "pe_50": 206.09,
+        "pe_75": 259.0,
+        "pe_90": 319.46
       },
       {
         "date": "2018-01-16",
         "price": 255.0,
         "pe": 19.24,
-        "pe_10": 161.93,
-        "pe_25": 181.77,
-        "pe_50": 200.59,
-        "pe_75": 248.14,
-        "pe_90": 315.09
+        "pe_10": 154.21,
+        "pe_25": 181.54,
+        "pe_50": 206.49,
+        "pe_75": 259.51,
+        "pe_90": 320.09
       },
       {
         "date": "2018-02-14",
         "price": 246.0,
         "pe": 18.52,
-        "pe_10": 162.29,
-        "pe_25": 182.18,
-        "pe_50": 201.04,
-        "pe_75": 248.69,
-        "pe_90": 315.79
+        "pe_10": 154.55,
+        "pe_25": 181.94,
+        "pe_50": 206.95,
+        "pe_75": 260.08,
+        "pe_90": 320.8
       },
       {
         "date": "2018-03-16",
         "price": 247.5,
         "pe": 18.6,
-        "pe_10": 162.58,
-        "pe_25": 182.5,
-        "pe_50": 201.39,
-        "pe_75": 249.13,
-        "pe_90": 316.35
+        "pe_10": 154.82,
+        "pe_25": 182.27,
+        "pe_50": 207.31,
+        "pe_75": 260.54,
+        "pe_90": 321.36
       },
       {
         "date": "2018-04-15",
         "price": 227.0,
-        "pe": 17.02,
-        "pe_10": 162.95,
-        "pe_25": 182.92,
-        "pe_50": 201.86,
-        "pe_75": 249.71,
-        "pe_90": 317.08
+        "pe": 16.95,
+        "pe_10": 155.82,
+        "pe_25": 183.44,
+        "pe_50": 208.65,
+        "pe_75": 262.22,
+        "pe_90": 323.44
       },
       {
         "date": "2018-05-16",
         "price": 224.0,
-        "pe": 16.77,
-        "pe_10": 163.2,
-        "pe_25": 183.19,
-        "pe_50": 202.16,
-        "pe_75": 250.08,
-        "pe_90": 317.55
+        "pe": 16.63,
+        "pe_10": 156.72,
+        "pe_25": 184.5,
+        "pe_50": 209.86,
+        "pe_75": 263.74,
+        "pe_90": 325.31
       },
       {
         "date": "2018-06-15",
         "price": 216.5,
-        "pe": 16.17,
-        "pe_10": 163.59,
-        "pe_25": 183.63,
-        "pe_50": 202.64,
-        "pe_75": 250.68,
-        "pe_90": 318.31
+        "pe": 15.98,
+        "pe_10": 157.63,
+        "pe_25": 185.58,
+        "pe_50": 211.08,
+        "pe_75": 265.27,
+        "pe_90": 327.2
       },
       {
         "date": "2018-07-16",
         "price": 246.0,
-        "pe": 18.34,
-        "pe_10": 163.88,
-        "pe_25": 183.96,
-        "pe_50": 203.01,
-        "pe_75": 251.13,
-        "pe_90": 318.89
+        "pe": 18.17,
+        "pe_10": 157.52,
+        "pe_25": 185.45,
+        "pe_50": 210.93,
+        "pe_75": 265.09,
+        "pe_90": 326.98
       },
       {
         "date": "2018-08-16",
         "price": 256.0,
-        "pe": 19.05,
-        "pe_10": 164.19,
-        "pe_25": 184.31,
-        "pe_50": 203.39,
-        "pe_75": 251.6,
-        "pe_90": 319.48
+        "pe": 18.92,
+        "pe_10": 157.43,
+        "pe_25": 185.34,
+        "pe_50": 210.81,
+        "pe_75": 264.93,
+        "pe_90": 326.78
       },
       {
         "date": "2018-09-15",
         "price": 262.5,
-        "pe": 19.5,
-        "pe_10": 164.47,
-        "pe_25": 184.62,
-        "pe_50": 203.74,
-        "pe_75": 252.03,
-        "pe_90": 320.03
+        "pe": 19.42,
+        "pe_10": 157.27,
+        "pe_25": 185.15,
+        "pe_50": 210.59,
+        "pe_75": 264.66,
+        "pe_90": 326.45
       },
       {
         "date": "2018-10-16",
         "price": 234.0,
-        "pe": 17.35,
-        "pe_10": 164.78,
-        "pe_25": 184.97,
-        "pe_50": 204.13,
-        "pe_75": 252.51,
-        "pe_90": 320.64
+        "pe": 17.3,
+        "pe_10": 157.38,
+        "pe_25": 185.27,
+        "pe_50": 210.74,
+        "pe_75": 264.84,
+        "pe_90": 326.67
       },
       {
         "date": "2018-11-15",
         "price": 225.5,
-        "pe": 16.69,
-        "pe_10": 165.08,
-        "pe_25": 185.3,
-        "pe_50": 204.49,
-        "pe_75": 252.96,
-        "pe_90": 321.21
+        "pe": 16.66,
+        "pe_10": 157.48,
+        "pe_25": 185.4,
+        "pe_50": 210.88,
+        "pe_75": 265.02,
+        "pe_90": 326.89
       },
       {
         "date": "2018-12-16",
         "price": 225.5,
         "pe": 16.65,
-        "pe_10": 165.48,
-        "pe_25": 185.75,
-        "pe_50": 204.98,
-        "pe_75": 253.57,
-        "pe_90": 321.98
+        "pe_10": 157.58,
+        "pe_25": 185.51,
+        "pe_50": 211.01,
+        "pe_75": 265.18,
+        "pe_90": 327.09
       },
       {
         "date": "2019-01-16",
         "price": 221.0,
-        "pe": 16.34,
-        "pe_10": 165.25,
-        "pe_25": 185.5,
-        "pe_50": 204.7,
-        "pe_75": 253.22,
-        "pe_90": 321.55
+        "pe": 16.77,
+        "pe_10": 153.33,
+        "pe_25": 180.51,
+        "pe_50": 205.32,
+        "pe_75": 258.03,
+        "pe_90": 318.27
       },
       {
         "date": "2019-02-14",
         "price": 239.0,
-        "pe": 17.7,
-        "pe_10": 164.98,
-        "pe_25": 185.19,
-        "pe_50": 204.37,
-        "pe_75": 252.81,
-        "pe_90": 321.02
+        "pe": 18.64,
+        "pe_10": 149.18,
+        "pe_25": 175.63,
+        "pe_50": 199.77,
+        "pe_75": 251.05,
+        "pe_90": 309.66
       },
       {
         "date": "2019-03-16",
         "price": 245.5,
-        "pe": 18.21,
-        "pe_10": 164.72,
-        "pe_25": 184.9,
-        "pe_50": 204.04,
-        "pe_75": 252.41,
-        "pe_90": 320.51
+        "pe": 19.7,
+        "pe_10": 144.99,
+        "pe_25": 170.7,
+        "pe_50": 194.16,
+        "pe_75": 244.0,
+        "pe_90": 300.97
       },
       {
         "date": "2019-04-15",
         "price": 259.0,
-        "pe": 19.23,
-        "pe_10": 164.56,
-        "pe_25": 184.72,
-        "pe_50": 203.85,
-        "pe_75": 252.16,
-        "pe_90": 320.2
+        "pe": 20.92,
+        "pe_10": 144.05,
+        "pe_25": 169.58,
+        "pe_50": 192.89,
+        "pe_75": 242.41,
+        "pe_90": 299.0
       },
       {
         "date": "2019-05-16",
         "price": 235.5,
-        "pe": 17.51,
-        "pe_10": 164.33,
-        "pe_25": 184.46,
-        "pe_50": 203.56,
-        "pe_75": 251.81,
-        "pe_90": 319.75
+        "pe": 19.14,
+        "pe_10": 143.16,
+        "pe_25": 168.54,
+        "pe_50": 191.7,
+        "pe_75": 240.91,
+        "pe_90": 297.16
       },
       {
         "date": "2019-06-15",
         "price": 239.0,
-        "pe": 17.8,
-        "pe_10": 164.05,
-        "pe_25": 184.15,
-        "pe_50": 203.22,
-        "pe_75": 251.39,
-        "pe_90": 319.21
+        "pe": 19.54,
+        "pe_10": 142.31,
+        "pe_25": 167.54,
+        "pe_50": 190.56,
+        "pe_75": 239.49,
+        "pe_90": 295.4
       },
       {
         "date": "2019-07-16",
         "price": 259.5,
-        "pe": 19.35,
-        "pe_10": 163.85,
-        "pe_25": 183.93,
-        "pe_50": 202.97,
-        "pe_75": 251.08,
-        "pe_90": 318.83
+        "pe": 20.95,
+        "pe_10": 144.12,
+        "pe_25": 169.67,
+        "pe_50": 192.98,
+        "pe_75": 242.53,
+        "pe_90": 299.15
       },
       {
         "date": "2019-08-16",
         "price": 259.0,
-        "pe": 19.34,
-        "pe_10": 163.62,
-        "pe_25": 183.67,
-        "pe_50": 202.69,
-        "pe_75": 250.73,
-        "pe_90": 318.38
+        "pe": 20.65,
+        "pe_10": 145.93,
+        "pe_25": 171.8,
+        "pe_50": 195.41,
+        "pe_75": 245.58,
+        "pe_90": 302.91
       },
       {
         "date": "2019-09-15",
         "price": 272.0,
-        "pe": 20.34,
-        "pe_10": 163.39,
-        "pe_25": 183.41,
-        "pe_50": 202.4,
-        "pe_75": 250.37,
-        "pe_90": 317.92
+        "pe": 21.42,
+        "pe_10": 147.75,
+        "pe_25": 173.94,
+        "pe_50": 197.84,
+        "pe_75": 248.63,
+        "pe_90": 306.68
       },
       {
         "date": "2019-10-16",
         "price": 298.5,
-        "pe": 22.35,
-        "pe_10": 163.18,
-        "pe_25": 183.17,
-        "pe_50": 202.14,
-        "pe_75": 250.05,
-        "pe_90": 317.52
+        "pe": 23.13,
+        "pe_10": 150.15,
+        "pe_25": 176.77,
+        "pe_50": 201.06,
+        "pe_75": 252.69,
+        "pe_90": 311.68
       },
       {
         "date": "2019-11-15",
         "price": 305.0,
-        "pe": 22.87,
-        "pe_10": 162.94,
-        "pe_25": 182.91,
-        "pe_50": 201.84,
-        "pe_75": 249.69,
-        "pe_90": 317.06
+        "pe": 23.26,
+        "pe_10": 152.57,
+        "pe_25": 179.61,
+        "pe_50": 204.29,
+        "pe_75": 256.75,
+        "pe_90": 316.68
       },
       {
         "date": "2019-12-16",
         "price": 331.0,
         "pe": 24.85,
-        "pe_10": 162.74,
-        "pe_25": 182.68,
-        "pe_50": 201.6,
-        "pe_75": 249.38,
-        "pe_90": 316.67
+        "pe_10": 154.98,
+        "pe_25": 182.45,
+        "pe_50": 207.52,
+        "pe_75": 260.8,
+        "pe_90": 321.69
       },
       {
         "date": "2020-01-16",
         "price": 320.0,
-        "pe": 23.06,
-        "pe_10": 169.55,
-        "pe_25": 190.32,
-        "pe_50": 210.03,
-        "pe_75": 259.81,
-        "pe_90": 329.91
+        "pe": 22.81,
+        "pe_10": 163.23,
+        "pe_25": 192.16,
+        "pe_50": 218.57,
+        "pe_75": 274.69,
+        "pe_90": 338.81
       },
       {
         "date": "2020-02-15",
         "price": 316.0,
-        "pe": 21.9,
-        "pe_10": 176.3,
-        "pe_25": 197.9,
-        "pe_50": 218.39,
-        "pe_75": 270.15,
-        "pe_90": 343.04
+        "pe": 21.44,
+        "pe_10": 171.49,
+        "pe_25": 201.88,
+        "pe_50": 229.63,
+        "pe_75": 288.59,
+        "pe_90": 355.96
       },
       {
         "date": "2020-03-16",
         "price": 274.0,
-        "pe": 18.29,
-        "pe_10": 183.04,
-        "pe_25": 205.46,
-        "pe_50": 226.74,
-        "pe_75": 280.48,
-        "pe_90": 356.16
+        "pe": 17.73,
+        "pe_10": 179.81,
+        "pe_25": 211.68,
+        "pe_50": 240.77,
+        "pe_75": 302.59,
+        "pe_90": 373.23
       },
       {
         "date": "2020-04-15",
         "price": 304.5,
-        "pe": 19.6,
-        "pe_10": 189.82,
-        "pe_25": 213.07,
-        "pe_50": 235.13,
-        "pe_75": 290.87,
-        "pe_90": 369.35
+        "pe": 18.86,
+        "pe_10": 187.85,
+        "pe_25": 221.15,
+        "pe_50": 251.54,
+        "pe_75": 316.12,
+        "pe_90": 389.92
       },
       {
         "date": "2020-05-16",
         "price": 292.0,
-        "pe": 18.15,
-        "pe_10": 196.57,
-        "pe_25": 220.65,
-        "pe_50": 243.49,
-        "pe_75": 301.21,
-        "pe_90": 382.48
+        "pe": 17.34,
+        "pe_10": 195.93,
+        "pe_25": 230.66,
+        "pe_50": 262.36,
+        "pe_75": 329.72,
+        "pe_90": 406.7
       },
       {
         "date": "2020-06-15",
         "price": 313.0,
-        "pe": 18.8,
-        "pe_10": 203.42,
-        "pe_25": 228.34,
-        "pe_50": 251.98,
-        "pe_75": 311.71,
-        "pe_90": 395.81
+        "pe": 17.84,
+        "pe_10": 204.13,
+        "pe_25": 240.32,
+        "pe_50": 273.35,
+        "pe_75": 343.53,
+        "pe_90": 423.73
       },
       {
         "date": "2020-07-16",
         "price": 425.5,
-        "pe": 24.74,
-        "pe_10": 210.14,
-        "pe_25": 235.88,
-        "pe_50": 260.3,
-        "pe_75": 322.01,
-        "pe_90": 408.89
+        "pe": 23.63,
+        "pe_10": 209.51,
+        "pe_25": 246.65,
+        "pe_50": 280.55,
+        "pe_75": 352.57,
+        "pe_90": 434.88
       },
       {
         "date": "2020-08-16",
         "price": 426.5,
-        "pe": 24.02,
-        "pe_10": 216.94,
-        "pe_25": 243.52,
-        "pe_50": 268.74,
-        "pe_75": 332.44,
-        "pe_90": 422.13
+        "pe": 23.08,
+        "pe_10": 215.01,
+        "pe_25": 253.12,
+        "pe_50": 287.91,
+        "pe_75": 361.82,
+        "pe_90": 446.29
       },
       {
         "date": "2020-09-15",
         "price": 433.0,
-        "pe": 23.65,
-        "pe_10": 223.7,
-        "pe_25": 251.1,
-        "pe_50": 277.1,
-        "pe_75": 342.78,
-        "pe_90": 435.27
+        "pe": 22.85,
+        "pe_10": 220.48,
+        "pe_25": 259.56,
+        "pe_50": 295.24,
+        "pe_75": 371.03,
+        "pe_90": 457.65
       },
       {
         "date": "2020-10-16",
         "price": 432.0,
-        "pe": 22.9,
-        "pe_10": 230.49,
-        "pe_25": 258.73,
-        "pe_50": 285.52,
-        "pe_75": 353.19,
-        "pe_90": 448.49
+        "pe": 22.4,
+        "pe_10": 224.39,
+        "pe_25": 264.17,
+        "pe_50": 300.47,
+        "pe_75": 377.61,
+        "pe_90": 465.77
       },
       {
         "date": "2020-11-15",
         "price": 480.5,
-        "pe": 24.75,
-        "pe_10": 237.2,
-        "pe_25": 266.26,
-        "pe_50": 293.83,
-        "pe_75": 363.48,
-        "pe_90": 461.55
+        "pe": 24.48,
+        "pe_10": 228.37,
+        "pe_25": 268.86,
+        "pe_50": 305.81,
+        "pe_75": 384.32,
+        "pe_90": 474.04
       },
       {
         "date": "2020-12-16",
         "price": 530.0,
         "pe": 26.54,
-        "pe_10": 243.99,
-        "pe_25": 273.89,
-        "pe_50": 302.24,
-        "pe_75": 373.89,
-        "pe_90": 474.76
+        "pe_10": 232.35,
+        "pe_25": 273.54,
+        "pe_50": 311.13,
+        "pe_75": 391.01,
+        "pe_90": 482.29
       },
       {
         "date": "2021-01-16",
         "price": 591.0,
-        "pe": 29.22,
-        "pe_10": 247.12,
-        "pe_25": 277.4,
-        "pe_50": 306.12,
-        "pe_75": 378.68,
-        "pe_90": 480.85
+        "pe": 29.16,
+        "pe_10": 235.81,
+        "pe_25": 277.61,
+        "pe_50": 315.77,
+        "pe_75": 396.84,
+        "pe_90": 489.48
       },
       {
         "date": "2021-02-14",
         "price": 606.0,
-        "pe": 29.59,
-        "pe_10": 250.22,
-        "pe_25": 280.88,
-        "pe_50": 309.96,
-        "pe_75": 383.43,
-        "pe_90": 486.89
+        "pe": 29.47,
+        "pe_10": 239.25,
+        "pe_25": 281.67,
+        "pe_50": 320.38,
+        "pe_75": 402.63,
+        "pe_90": 496.62
       },
       {
         "date": "2021-03-16",
         "price": 587.0,
-        "pe": 28.32,
-        "pe_10": 253.25,
-        "pe_25": 284.28,
-        "pe_50": 313.71,
-        "pe_75": 388.07,
-        "pe_90": 492.77
+        "pe": 28.14,
+        "pe_10": 242.71,
+        "pe_25": 285.73,
+        "pe_50": 325.0,
+        "pe_75": 408.44,
+        "pe_90": 503.79
       },
       {
         "date": "2021-04-15",
         "price": 600.0,
-        "pe": 28.59,
-        "pe_10": 256.41,
-        "pe_25": 287.83,
-        "pe_50": 317.63,
-        "pe_75": 392.92,
-        "pe_90": 498.93
+        "pe": 28.53,
+        "pe_10": 244.69,
+        "pe_25": 288.07,
+        "pe_50": 327.66,
+        "pe_75": 411.78,
+        "pe_90": 507.91
       },
       {
         "date": "2021-05-16",
         "price": 597.0,
-        "pe": 28.11,
-        "pe_10": 259.49,
-        "pe_25": 291.28,
-        "pe_50": 321.44,
-        "pe_75": 397.63,
-        "pe_90": 504.91
+        "pe": 28.16,
+        "pe_10": 246.67,
+        "pe_25": 290.39,
+        "pe_50": 330.3,
+        "pe_75": 415.1,
+        "pe_90": 512.01
       },
       {
         "date": "2021-06-15",
         "price": 595.0,
-        "pe": 27.69,
-        "pe_10": 262.54,
-        "pe_25": 294.71,
-        "pe_50": 325.22,
-        "pe_75": 402.31,
-        "pe_90": 510.85
+        "pe": 27.84,
+        "pe_10": 248.66,
+        "pe_25": 292.74,
+        "pe_50": 332.98,
+        "pe_75": 418.47,
+        "pe_90": 516.16
       },
       {
         "date": "2021-07-16",
         "price": 580.0,
-        "pe": 26.67,
-        "pe_10": 265.71,
-        "pe_25": 298.26,
-        "pe_50": 329.15,
-        "pe_75": 407.16,
-        "pe_90": 517.02
+        "pe": 26.84,
+        "pe_10": 251.43,
+        "pe_25": 296.0,
+        "pe_50": 336.68,
+        "pe_75": 423.11,
+        "pe_90": 521.89
       },
       {
         "date": "2021-08-16",
         "price": 614.0,
-        "pe": 27.91,
-        "pe_10": 268.79,
-        "pe_25": 301.72,
-        "pe_50": 332.96,
-        "pe_75": 411.88,
-        "pe_90": 523.01
+        "pe": 28.1,
+        "pe_10": 254.23,
+        "pe_25": 299.3,
+        "pe_50": 340.43,
+        "pe_75": 427.83,
+        "pe_90": 527.71
       },
       {
         "date": "2021-09-15",
         "price": 580.0,
-        "pe": 26.07,
-        "pe_10": 271.82,
-        "pe_25": 305.13,
-        "pe_50": 336.72,
-        "pe_75": 416.53,
-        "pe_90": 528.92
+        "pe": 26.26,
+        "pe_10": 256.98,
+        "pe_25": 302.53,
+        "pe_50": 344.11,
+        "pe_75": 432.46,
+        "pe_90": 533.42
       },
       {
         "date": "2021-10-16",
         "price": 590.0,
-        "pe": 26.22,
-        "pe_10": 274.93,
-        "pe_25": 308.61,
-        "pe_50": 340.57,
-        "pe_75": 421.29,
-        "pe_90": 534.96
+        "pe": 26.34,
+        "pe_10": 260.62,
+        "pe_25": 306.82,
+        "pe_50": 348.98,
+        "pe_75": 438.58,
+        "pe_90": 540.97
       },
       {
         "date": "2021-11-15",
         "price": 596.0,
-        "pe": 26.19,
-        "pe_10": 278.04,
-        "pe_25": 312.11,
-        "pe_50": 344.42,
-        "pe_75": 426.06,
-        "pe_90": 541.02
+        "pe": 26.25,
+        "pe_10": 264.17,
+        "pe_25": 311.0,
+        "pe_50": 353.74,
+        "pe_75": 444.56,
+        "pe_90": 548.34
       },
       {
         "date": "2021-12-16",
         "price": 615.0,
         "pe": 26.73,
-        "pe_10": 281.11,
-        "pe_25": 315.55,
-        "pe_50": 348.22,
-        "pe_75": 430.76,
-        "pe_90": 546.99
+        "pe_10": 267.7,
+        "pe_25": 315.15,
+        "pe_50": 358.46,
+        "pe_75": 450.49,
+        "pe_90": 555.66
       },
       {
         "date": "2022-01-16",
         "price": 636.0,
-        "pe": 26.11,
-        "pe_10": 297.61,
-        "pe_25": 334.08,
-        "pe_50": 368.67,
-        "pe_75": 456.05,
-        "pe_90": 579.1
+        "pe": 26.7,
+        "pe_10": 277.15,
+        "pe_25": 326.28,
+        "pe_50": 371.12,
+        "pe_75": 466.4,
+        "pe_90": 575.28
       },
       {
         "date": "2022-02-14",
         "price": 604.0,
-        "pe": 23.49,
-        "pe_10": 314.16,
-        "pe_25": 352.65,
-        "pe_50": 389.17,
-        "pe_75": 481.41,
-        "pe_90": 611.3
+        "pe": 24.52,
+        "pe_10": 286.6,
+        "pe_25": 337.41,
+        "pe_50": 383.78,
+        "pe_75": 482.31,
+        "pe_90": 594.91
       },
       {
         "date": "2022-03-16",
         "price": 597.0,
-        "pe": 22.06,
-        "pe_10": 330.65,
-        "pe_25": 371.16,
-        "pe_50": 409.59,
-        "pe_75": 506.68,
-        "pe_90": 643.39
+        "pe": 23.47,
+        "pe_10": 295.96,
+        "pe_25": 348.42,
+        "pe_50": 396.3,
+        "pe_75": 498.05,
+        "pe_90": 614.32
       },
       {
         "date": "2022-04-15",
         "price": 538.0,
-        "pe": 18.94,
-        "pe_10": 347.06,
-        "pe_25": 389.58,
-        "pe_50": 429.92,
-        "pe_75": 531.82,
-        "pe_90": 675.31
+        "pe": 20.1,
+        "pe_10": 311.42,
+        "pe_25": 366.63,
+        "pe_50": 417.02,
+        "pe_75": 524.08,
+        "pe_90": 646.43
       },
       {
         "date": "2022-05-16",
         "price": 560.0,
-        "pe": 18.82,
-        "pe_10": 363.55,
-        "pe_25": 408.1,
-        "pe_50": 450.35,
-        "pe_75": 557.1,
-        "pe_90": 707.41
+        "pe": 19.94,
+        "pe_10": 326.76,
+        "pe_25": 384.68,
+        "pe_50": 437.55,
+        "pe_75": 549.89,
+        "pe_90": 678.26
       },
       {
         "date": "2022-06-15",
         "price": 476.0,
-        "pe": 15.3,
-        "pe_10": 380.12,
-        "pe_25": 426.69,
-        "pe_50": 470.87,
-        "pe_75": 582.48,
-        "pe_90": 739.64
+        "pe": 16.19,
+        "pe_10": 342.08,
+        "pe_25": 402.72,
+        "pe_50": 458.07,
+        "pe_75": 575.67,
+        "pe_90": 710.06
       },
       {
         "date": "2022-07-16",
         "price": 509.0,
-        "pe": 15.68,
-        "pe_10": 396.62,
-        "pe_25": 445.21,
-        "pe_50": 491.31,
-        "pe_75": 607.76,
-        "pe_90": 771.75
+        "pe": 16.42,
+        "pe_10": 360.67,
+        "pe_25": 424.61,
+        "pe_50": 482.96,
+        "pe_75": 606.96,
+        "pe_90": 748.65
       },
       {
         "date": "2022-08-16",
         "price": 505.0,
-        "pe": 14.94,
-        "pe_10": 412.99,
-        "pe_25": 463.59,
-        "pe_50": 511.59,
-        "pe_75": 632.86,
-        "pe_90": 803.61
+        "pe": 15.49,
+        "pe_10": 379.32,
+        "pe_25": 446.56,
+        "pe_50": 507.93,
+        "pe_75": 638.34,
+        "pe_90": 787.36
       },
       {
         "date": "2022-09-15",
         "price": 422.0,
-        "pe": 12.0,
-        "pe_10": 429.67,
-        "pe_25": 482.31,
-        "pe_50": 532.25,
-        "pe_75": 658.41,
-        "pe_90": 836.05
+        "pe": 12.34,
+        "pe_10": 397.89,
+        "pe_25": 468.42,
+        "pe_50": 532.8,
+        "pe_75": 669.59,
+        "pe_90": 825.91
       },
       {
         "date": "2022-10-16",
         "price": 390.0,
-        "pe": 10.68,
-        "pe_10": 446.16,
-        "pe_25": 500.83,
-        "pe_50": 552.68,
-        "pe_75": 683.69,
-        "pe_90": 868.15
+        "pe": 10.87,
+        "pe_10": 417.45,
+        "pe_25": 491.45,
+        "pe_50": 558.99,
+        "pe_75": 702.5,
+        "pe_90": 866.5
       },
       {
         "date": "2022-11-15",
         "price": 490.0,
-        "pe": 12.95,
-        "pe_10": 462.3,
-        "pe_25": 518.95,
-        "pe_50": 572.68,
-        "pe_75": 708.42,
-        "pe_90": 899.56
+        "pe": 13.06,
+        "pe_10": 436.54,
+        "pe_25": 513.92,
+        "pe_50": 584.55,
+        "pe_75": 734.62,
+        "pe_90": 906.12
       },
       {
         "date": "2022-12-16",
         "price": 448.5,
         "pe": 11.44,
-        "pe_10": 479.0,
-        "pe_25": 537.69,
-        "pe_50": 593.36,
-        "pe_75": 734.01,
-        "pe_90": 932.05
+        "pe_10": 456.14,
+        "pe_25": 537.0,
+        "pe_50": 610.81,
+        "pe_75": 767.62,
+        "pe_90": 946.83
       },
       {
         "date": "2023-01-16",
         "price": 522.0,
-        "pe": 13.51,
-        "pe_10": 472.08,
-        "pe_25": 529.92,
-        "pe_50": 584.79,
-        "pe_75": 723.4,
-        "pe_90": 918.58
+        "pe": 13.3,
+        "pe_10": 456.65,
+        "pe_25": 537.6,
+        "pe_50": 611.49,
+        "pe_75": 768.48,
+        "pe_90": 947.88
       },
       {
         "date": "2023-02-14",
         "price": 511.0,
-        "pe": 13.43,
-        "pe_10": 464.88,
-        "pe_25": 521.84,
-        "pe_50": 575.87,
-        "pe_75": 712.38,
-        "pe_90": 904.58
+        "pe": 13.0,
+        "pe_10": 457.34,
+        "pe_25": 538.42,
+        "pe_50": 612.41,
+        "pe_75": 769.64,
+        "pe_90": 949.32
       },
       {
         "date": "2023-03-16",
         "price": 533.0,
-        "pe": 14.22,
-        "pe_10": 457.96,
-        "pe_25": 514.07,
-        "pe_50": 567.3,
-        "pe_75": 701.76,
-        "pe_90": 891.11
+        "pe": 13.55,
+        "pe_10": 457.67,
+        "pe_25": 538.8,
+        "pe_50": 612.85,
+        "pe_75": 770.19,
+        "pe_90": 950.0
       },
       {
         "date": "2023-04-15",
         "price": 502.0,
-        "pe": 13.6,
-        "pe_10": 450.99,
-        "pe_25": 506.24,
-        "pe_50": 558.66,
-        "pe_75": 691.08,
-        "pe_90": 877.54
+        "pe": 12.99,
+        "pe_10": 449.64,
+        "pe_25": 529.34,
+        "pe_50": 602.09,
+        "pe_75": 756.67,
+        "pe_90": 933.32
       },
       {
         "date": "2023-05-16",
         "price": 558.0,
-        "pe": 15.35,
-        "pe_10": 444.15,
-        "pe_25": 498.56,
-        "pe_50": 550.18,
-        "pe_75": 680.6,
-        "pe_90": 864.23
+        "pe": 14.71,
+        "pe_10": 441.35,
+        "pe_25": 519.59,
+        "pe_50": 591.0,
+        "pe_75": 742.74,
+        "pe_90": 916.13
       },
       {
         "date": "2023-06-15",
         "price": 576.0,
-        "pe": 16.1,
-        "pe_10": 437.12,
-        "pe_25": 490.67,
-        "pe_50": 541.48,
-        "pe_75": 669.82,
-        "pe_90": 850.55
+        "pe": 15.47,
+        "pe_10": 433.21,
+        "pe_25": 510.0,
+        "pe_50": 580.1,
+        "pe_75": 729.03,
+        "pe_90": 899.22
       },
       {
         "date": "2023-07-16",
         "price": 565.0,
-        "pe": 16.05,
-        "pe_10": 430.1,
-        "pe_25": 482.8,
-        "pe_50": 532.79,
-        "pe_75": 659.08,
-        "pe_90": 836.9
+        "pe": 15.55,
+        "pe_10": 422.75,
+        "pe_25": 497.69,
+        "pe_50": 566.09,
+        "pe_75": 711.43,
+        "pe_90": 877.51
       },
       {
         "date": "2023-08-16",
         "price": 549.0,
-        "pe": 15.85,
-        "pe_10": 423.2,
-        "pe_25": 475.05,
-        "pe_50": 524.23,
-        "pe_75": 648.5,
-        "pe_90": 823.47
+        "pe": 15.49,
+        "pe_10": 412.37,
+        "pe_25": 485.47,
+        "pe_50": 552.19,
+        "pe_75": 693.96,
+        "pe_90": 855.97
       },
       {
         "date": "2023-09-15",
         "price": 523.0,
-        "pe": 15.36,
-        "pe_10": 416.02,
-        "pe_25": 466.99,
-        "pe_50": 515.34,
-        "pe_75": 637.49,
-        "pe_90": 809.49
+        "pe": 15.14,
+        "pe_10": 401.92,
+        "pe_25": 473.17,
+        "pe_50": 538.2,
+        "pe_75": 676.38,
+        "pe_90": 834.28
       },
       {
         "date": "2023-10-16",
         "price": 529.0,
-        "pe": 15.8,
-        "pe_10": 409.07,
-        "pe_25": 459.19,
-        "pe_50": 506.74,
-        "pe_75": 626.85,
-        "pe_90": 795.98
+        "pe": 15.65,
+        "pe_10": 393.29,
+        "pe_25": 463.0,
+        "pe_50": 526.63,
+        "pe_75": 661.84,
+        "pe_90": 816.35
       },
       {
         "date": "2023-11-15",
         "price": 577.0,
-        "pe": 17.53,
-        "pe_10": 402.16,
-        "pe_25": 451.43,
-        "pe_50": 498.17,
-        "pe_75": 616.25,
-        "pe_90": 782.52
+        "pe": 17.45,
+        "pe_10": 384.72,
+        "pe_25": 452.92,
+        "pe_50": 515.17,
+        "pe_75": 647.43,
+        "pe_90": 798.57
       },
       {
         "date": "2023-12-16",
         "price": 593.0,
         "pe": 18.34,
-        "pe_10": 395.05,
-        "pe_25": 443.46,
-        "pe_50": 489.37,
-        "pe_75": 605.37,
-        "pe_90": 768.7
+        "pe_10": 376.2,
+        "pe_25": 442.89,
+        "pe_50": 503.76,
+        "pe_75": 633.09,
+        "pe_90": 780.89
       },
       {
         "date": "2024-01-16",
         "price": 628.0,
-        "pe": 18.79,
-        "pe_10": 408.35,
-        "pe_25": 458.38,
-        "pe_50": 505.84,
-        "pe_75": 625.74,
-        "pe_90": 794.58
+        "pe": 19.27,
+        "pe_10": 379.18,
+        "pe_25": 446.39,
+        "pe_50": 507.74,
+        "pe_75": 638.1,
+        "pe_90": 787.07
       },
       {
         "date": "2024-02-15",
         "price": 690.0,
-        "pe": 20.0,
-        "pe_10": 421.52,
-        "pe_25": 473.17,
-        "pe_50": 522.16,
-        "pe_75": 645.93,
-        "pe_90": 820.2
+        "pe": 21.02,
+        "pe_10": 381.93,
+        "pe_25": 449.63,
+        "pe_50": 511.43,
+        "pe_75": 642.73,
+        "pe_90": 792.78
       },
       {
         "date": "2024-03-16",
         "price": 779.0,
-        "pe": 21.9,
-        "pe_10": 434.6,
-        "pe_25": 487.85,
-        "pe_50": 538.36,
-        "pe_75": 665.97,
-        "pe_90": 845.66
+        "pe": 23.56,
+        "pe_10": 384.71,
+        "pe_25": 452.9,
+        "pe_50": 515.15,
+        "pe_75": 647.4,
+        "pe_90": 798.54
       },
       {
         "date": "2024-04-15",
         "price": 790.0,
-        "pe": 21.56,
-        "pe_10": 447.69,
-        "pe_25": 502.54,
-        "pe_50": 554.58,
-        "pe_75": 686.03,
-        "pe_90": 871.13
+        "pe": 23.3,
+        "pe_10": 394.49,
+        "pe_25": 464.42,
+        "pe_50": 528.25,
+        "pe_75": 663.87,
+        "pe_90": 818.85
       },
       {
         "date": "2024-05-16",
         "price": 821.0,
-        "pe": 21.77,
-        "pe_10": 460.77,
-        "pe_25": 517.23,
-        "pe_50": 570.78,
-        "pe_75": 706.07,
-        "pe_90": 896.58
+        "pe": 23.63,
+        "pe_10": 404.25,
+        "pe_25": 475.91,
+        "pe_50": 541.31,
+        "pe_75": 680.29,
+        "pe_90": 839.1
       },
       {
         "date": "2024-06-15",
         "price": 966.0,
-        "pe": 24.9,
-        "pe_10": 474.0,
-        "pe_25": 532.08,
-        "pe_50": 587.17,
-        "pe_75": 726.34,
-        "pe_90": 922.32
+        "pe": 27.14,
+        "pe_10": 414.13,
+        "pe_25": 487.54,
+        "pe_50": 554.54,
+        "pe_75": 696.92,
+        "pe_90": 859.61
       },
       {
         "date": "2024-07-16",
         "price": 934.0,
-        "pe": 23.43,
-        "pe_10": 487.05,
-        "pe_25": 546.73,
-        "pe_50": 603.33,
-        "pe_75": 746.34,
-        "pe_90": 947.71
+        "pe": 25.2,
+        "pe_10": 431.23,
+        "pe_25": 507.68,
+        "pe_50": 577.45,
+        "pe_75": 725.7,
+        "pe_90": 895.12
       },
       {
         "date": "2024-08-16",
         "price": 944.0,
-        "pe": 23.05,
-        "pe_10": 500.38,
-        "pe_25": 561.69,
-        "pe_50": 619.85,
-        "pe_75": 766.77,
-        "pe_90": 973.65
+        "pe": 24.5,
+        "pe_10": 448.3,
+        "pe_25": 527.77,
+        "pe_50": 600.31,
+        "pe_75": 754.43,
+        "pe_90": 930.55
       },
       {
         "date": "2024-09-15",
         "price": 957.0,
-        "pe": 22.77,
-        "pe_10": 513.51,
-        "pe_25": 576.43,
-        "pe_50": 636.11,
-        "pe_75": 786.89,
-        "pe_90": 999.2
+        "pe": 23.92,
+        "pe_10": 465.5,
+        "pe_25": 548.01,
+        "pe_50": 623.33,
+        "pe_75": 783.36,
+        "pe_90": 966.24
       },
       {
         "date": "2024-10-16",
         "price": 1030.0,
-        "pe": 23.9,
-        "pe_10": 526.55,
-        "pe_25": 591.06,
-        "pe_50": 652.26,
-        "pe_75": 806.87,
-        "pe_90": 1024.57
+        "pe": 24.67,
+        "pe_10": 485.77,
+        "pe_25": 571.89,
+        "pe_50": 650.48,
+        "pe_75": 817.49,
+        "pe_90": 1008.33
       },
       {
         "date": "2024-11-15",
         "price": 996.0,
-        "pe": 22.55,
-        "pe_10": 539.65,
-        "pe_25": 605.77,
-        "pe_50": 668.49,
-        "pe_75": 826.95,
-        "pe_90": 1050.06
+        "pe": 22.89,
+        "pe_10": 506.27,
+        "pe_25": 596.01,
+        "pe_50": 677.92,
+        "pe_75": 851.97,
+        "pe_90": 1050.87
       },
       {
         "date": "2024-12-16",
         "price": 1075.0,
         "pe": 23.76,
-        "pe_10": 552.79,
-        "pe_25": 620.52,
-        "pe_50": 684.77,
-        "pe_75": 847.08,
-        "pe_90": 1075.63
+        "pe_10": 526.42,
+        "pe_25": 619.73,
+        "pe_50": 704.9,
+        "pe_75": 885.88,
+        "pe_90": 1092.69
       },
       {
         "date": "2025-01-16",
         "price": 1135.0,
         "pe": 24.15,
-        "pe_10": 574.22,
-        "pe_25": 644.58,
-        "pe_50": 711.31,
-        "pe_75": 879.92,
-        "pe_90": 1117.33
+        "pe_10": 546.82,
+        "pe_25": 643.75,
+        "pe_50": 732.23,
+        "pe_75": 920.22,
+        "pe_90": 1135.05
       },
       {
         "date": "2025-02-14",
         "price": 1040.0,
         "pe": 21.33,
-        "pe_10": 595.72,
-        "pe_25": 668.71,
-        "pe_50": 737.95,
-        "pe_75": 912.86,
-        "pe_90": 1159.16
+        "pe_10": 567.29,
+        "pe_25": 667.86,
+        "pe_50": 759.64,
+        "pe_75": 954.67,
+        "pe_90": 1177.55
       },
       {
         "date": "2025-03-16",
         "price": 910.0,
-        "pe": 18.02,
-        "pe_10": 617.0,
-        "pe_25": 692.6,
-        "pe_50": 764.31,
-        "pe_75": 945.48,
-        "pe_90": 1200.57
+        "pe": 18.01,
+        "pe_10": 587.89,
+        "pe_25": 692.1,
+        "pe_50": 787.22,
+        "pe_75": 989.33,
+        "pe_90": 1220.29
       },
       {
         "date": "2025-04-15",
         "price": 908.0,
-        "pe": 17.38,
-        "pe_10": 638.32,
-        "pe_25": 716.53,
-        "pe_50": 790.71,
-        "pe_75": 978.14,
-        "pe_90": 1242.05
+        "pe": 17.31,
+        "pe_10": 610.32,
+        "pe_25": 718.51,
+        "pe_50": 817.25,
+        "pe_75": 1027.07,
+        "pe_90": 1266.85
       },
       {
         "date": "2025-05-16",
         "price": 967.0,
-        "pe": 17.91,
-        "pe_10": 659.68,
-        "pe_25": 740.5,
-        "pe_50": 817.17,
-        "pe_75": 1010.87,
-        "pe_90": 1283.61
+        "pe": 17.78,
+        "pe_10": 632.79,
+        "pe_25": 744.97,
+        "pe_50": 847.35,
+        "pe_75": 1064.9,
+        "pe_90": 1313.5
       },
       {
         "date": "2025-06-15",
         "price": 1060.0,
-        "pe": 19.01,
-        "pe_10": 681.28,
-        "pe_25": 764.75,
-        "pe_50": 843.93,
-        "pe_75": 1043.97,
-        "pe_90": 1325.64
+        "pe": 18.82,
+        "pe_10": 655.32,
+        "pe_25": 771.49,
+        "pe_50": 877.51,
+        "pe_75": 1102.81,
+        "pe_90": 1360.26
       },
       {
         "date": "2025-07-16",
         "price": 1160.0,
-        "pe": 20.17,
-        "pe_10": 702.67,
-        "pe_25": 788.77,
-        "pe_50": 870.43,
-        "pe_75": 1076.75,
-        "pe_90": 1367.27
+        "pe": 20.02,
+        "pe_10": 674.16,
+        "pe_25": 793.66,
+        "pe_50": 902.74,
+        "pe_75": 1134.51,
+        "pe_90": 1399.36
       },
       {
         "date": "2025-08-16",
         "price": 1160.0,
-        "pe": 19.58,
-        "pe_10": 723.84,
-        "pe_25": 812.53,
-        "pe_50": 896.66,
-        "pe_75": 1109.2,
-        "pe_90": 1408.47
+        "pe": 19.47,
+        "pe_10": 693.2,
+        "pe_25": 816.08,
+        "pe_50": 928.24,
+        "pe_75": 1166.55,
+        "pe_90": 1438.89
       },
       {
         "date": "2025-09-15",
         "price": 1305.0,
-        "pe": 21.39,
-        "pe_10": 745.42,
-        "pe_25": 836.75,
-        "pe_50": 923.38,
-        "pe_75": 1142.26,
-        "pe_90": 1450.45
+        "pe": 21.32,
+        "pe_10": 712.18,
+        "pe_25": 838.43,
+        "pe_50": 953.65,
+        "pe_75": 1198.49,
+        "pe_90": 1478.29
       },
       {
         "date": "2025-10-16",
         "price": 1500.0,
-        "pe": 23.9,
-        "pe_10": 766.82,
-        "pe_25": 860.77,
-        "pe_50": 949.9,
-        "pe_75": 1175.05,
-        "pe_90": 1492.09
+        "pe": 23.85,
+        "pe_10": 731.76,
+        "pe_25": 861.48,
+        "pe_50": 979.87,
+        "pe_75": 1231.45,
+        "pe_90": 1518.93
       },
       {
         "date": "2025-11-15",
         "price": 1440.0,
-        "pe": 22.32,
-        "pe_10": 788.26,
-        "pe_25": 884.84,
-        "pe_50": 976.45,
-        "pe_75": 1207.9,
-        "pe_90": 1533.81
+        "pe": 22.3,
+        "pe_10": 751.32,
+        "pe_25": 884.5,
+        "pe_50": 1006.06,
+        "pe_75": 1264.36,
+        "pe_90": 1559.53
       },
       {
         "date": "2025-12-16",
         "price": 1550.0,
         "pe": 23.39,
-        "pe_10": 809.66,
-        "pe_25": 908.86,
-        "pe_50": 1002.96,
-        "pe_75": 1240.7,
-        "pe_90": 1575.45
+        "pe_10": 771.02,
+        "pe_25": 907.7,
+        "pe_50": 1032.45,
+        "pe_75": 1297.52,
+        "pe_90": 1600.43
       },
       {
         "date": "2026-01-16",
         "price": 1775.0,
         "pe": 26.79,
-        "pe_10": 809.52,
-        "pe_25": 908.7,
-        "pe_50": 1002.79,
-        "pe_75": 1240.48,
-        "pe_90": 1575.17
+        "pe_10": 770.89,
+        "pe_25": 907.54,
+        "pe_50": 1032.27,
+        "pe_75": 1297.29,
+        "pe_90": 1600.15
       },
       {
         "date": "2026-02-14",
         "price": 1995.0,
         "pe": 30.11,
-        "pe_10": 809.53,
-        "pe_25": 908.72,
-        "pe_50": 1002.8,
-        "pe_75": 1240.5,
-        "pe_90": 1575.2
+        "pe_10": 770.9,
+        "pe_25": 907.56,
+        "pe_50": 1032.28,
+        "pe_75": 1297.31,
+        "pe_90": 1600.17
       }
     ]
   },
@@ -20038,19 +20038,19 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (12.2倍)",
+            "title": "PE 10% (11.6倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (15.1倍)",
+            "title": "PE 50% (15.6倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (23.8倍)",
+            "title": "PE 90% (24.1倍)",
             "format": ".1f"
           }
         ]
@@ -21046,6 +21046,10 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
       {
         "date": "2026-01-16",
         "revenue_yoy": 36.8
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 22.2
       }
     ]
   },
@@ -21113,16 +21117,16 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 16.6 | +35.9% | 0.001 | 2020-05 (+393.4%) | 2022-07 (-65.3%) |
-| 6個月 | 16.5 | +28.4% | 0.004 | 2020-06 (+197.0%) | 2022-03 (-49.3%) |
-| 1年 | 16.4 | +23.3% | 0.004 | 2020-03 (+118.0%) | 2021-10 (-32.0%) |
-| 2年 | 16.1 | +21.6% | 0.038 | 2023-10 (+70.2%) | 2007-01 (-17.2%) |
-| 3年 | 16.1 | +20.7% | 0.014 | 2023-02 (+58.6%) | 2006-03 (-2.3%) |
-| 4年 | 16.1 | +20.3% | 0.012 | 2017-02 (+35.8%) | 2006-04 (+1.9%) |
-| 5年 | 15.4 | +20.7% | 0.057 | 2016-01 (+34.9%) | 2006-04 (+5.2%) |
-| 6年 | 14.8 | +20.7% | 0.036 | 2020-01 (+34.0%) | 2006-04 (+7.4%) |
-| 8年 | 14.2 | +20.2% | 0.043 | 2018-02 (+30.7%) | 2006-04 (+9.6%) |
-| 10年 | 13.9 | +19.9% | 0.109 | 2016-01 (+29.5%) | 2006-04 (+10.3%) |
+| 3個月 | 16.8 | +35.9% | 0.000 | 2020-05 (+393.4%) | 2022-07 (-65.3%) |
+| 6個月 | 16.8 | +28.4% | 0.004 | 2020-06 (+197.0%) | 2022-03 (-49.3%) |
+| 1年 | 16.7 | +23.3% | 0.007 | 2020-03 (+118.0%) | 2021-10 (-32.0%) |
+| 2年 | 16.3 | +21.6% | 0.031 | 2023-10 (+70.2%) | 2007-01 (-17.2%) |
+| 3年 | 16.3 | +20.7% | 0.015 | 2023-02 (+58.6%) | 2006-03 (-2.3%) |
+| 4年 | 16.4 | +20.3% | 0.007 | 2017-02 (+35.8%) | 2006-04 (+1.9%) |
+| 5年 | 15.7 | +20.7% | 0.044 | 2016-01 (+34.9%) | 2006-04 (+5.2%) |
+| 6年 | 15.1 | +20.7% | 0.015 | 2020-01 (+34.0%) | 2006-04 (+7.4%) |
+| 8年 | 14.4 | +20.2% | 0.013 | 2018-02 (+30.7%) | 2006-04 (+9.6%) |
+| 10年 | 14.2 | +19.9% | 0.094 | 2016-01 (+29.5%) | 2006-04 (+10.3%) |
 
 
 ## 🎯 使用說明
@@ -21141,4 +21145,4 @@ description: "2330 台積電 (半導體業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:28:47 CST*
+*數據更新時間: 2026-03-21 12:34:27 CST*

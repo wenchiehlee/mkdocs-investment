@@ -2,7 +2,7 @@
 title: "2376 技嘉 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
     - **產業別**: 電腦及週邊設備業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:29:59 CST
+    - **報告生成時間**: 2026-03-21 12:35:51 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 82.93,
+        "pe_ratio": 13.44,
         "forward_return": -33.37,
         "start_price": 24.05,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 15.21,
         "forward_return": -51.9,
         "start_price": 25.2,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 82.24,
+        "pe_ratio": 15.66,
         "forward_return": -30.01,
         "start_price": 23.85,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 14.1,
         "forward_return": 300.51,
         "start_price": 19.6,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 67.93,
+        "pe_ratio": 13.78,
         "forward_return": 122.63,
         "start_price": 19.7,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 70.69,
+        "pe_ratio": 13.95,
         "forward_return": 75.78,
         "start_price": 20.5,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 91.38,
+        "pe_ratio": 17.55,
         "forward_return": -23.98,
         "start_price": 26.5,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 83.1,
+        "pe_ratio": 21.84,
         "forward_return": 7.62,
         "start_price": 24.1,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 36.17,
         "forward_return": -23.77,
         "start_price": 25.2,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 56.98,
+        "pe_ratio": 71.5,
         "forward_return": -21.22,
         "start_price": 24.55,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 45.48,
+        "pe_ratio": 65.55,
         "forward_return": -42.35,
         "start_price": 26.0,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 32.35,
+        "pe_ratio": 51.22,
         "forward_return": 86.8,
         "start_price": 23.05,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 26.13,
+        "pe_ratio": 32.16,
         "forward_return": 163.93,
         "start_price": 22.3,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 22.83,
+        "pe_ratio": 24.23,
         "forward_return": 227.27,
         "start_price": 22.7,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 21.63,
+        "pe_ratio": 20.81,
         "forward_return": 62.65,
         "start_price": 24.55,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.63,
         "forward_return": -12.89,
         "start_price": 27.8,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.18,
+        "pe_ratio": 25.57,
         "forward_return": -65.87,
         "start_price": 30.0,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 23.21,
         "forward_return": -64.67,
         "start_price": 27.15,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.81,
+        "pe_ratio": 18.65,
         "forward_return": -82.13,
         "start_price": 26.85,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 11.45,
+        "pe_ratio": 12.31,
         "forward_return": 48.57,
         "start_price": 21.05,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 7.92,
         "forward_return": 260.1,
         "start_price": 17.4,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 8.2,
         "forward_return": 227.06,
         "start_price": 19.8,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.47,
+        "pe_ratio": 9.13,
         "forward_return": -9.22,
         "start_price": 24.0,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.82,
+        "pe_ratio": 10.46,
         "forward_return": -39.63,
         "start_price": 26.35,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 14.09,
+        "pe_ratio": 11.04,
         "forward_return": -43.01,
         "start_price": 26.6,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 10.0,
         "forward_return": -68.55,
         "start_price": 23.0,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.02,
+        "pe_ratio": 10.11,
         "forward_return": -92.21,
         "start_price": 22.25,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 10.52,
         "forward_return": -85.1,
         "start_price": 22.1,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 8.93,
+        "pe_ratio": 8.1,
         "forward_return": -72.91,
         "start_price": 16.2,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.51,
+        "pe_ratio": 6.09,
         "forward_return": 1.71,
         "start_price": 11.7,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.35,
+        "pe_ratio": 6.14,
         "forward_return": 363.3,
         "start_price": 11.3,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 6.24,
+        "pe_ratio": 7.08,
         "forward_return": 547.03,
         "start_price": 11.75,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.4,
+        "pe_ratio": 9.52,
         "forward_return": 366.17,
         "start_price": 14.85,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.78,
+        "pe_ratio": 12.81,
         "forward_return": 107.15,
         "start_price": 18.7,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 15.51,
         "forward_return": 15.68,
         "start_price": 23.0,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.13,
+        "pe_ratio": 14.4,
         "forward_return": 129.48,
         "start_price": 21.7,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.66,
+        "pe_ratio": 12.52,
         "forward_return": 364.83,
         "start_price": 19.15,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.71,
+        "pe_ratio": 12.51,
         "forward_return": 125.7,
         "start_price": 22.85,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 12.13,
         "forward_return": 80.24,
         "start_price": 25.75,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 11.24,
         "forward_return": 76.82,
         "start_price": 27.2,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 10.41,
         "forward_return": 39.44,
         "start_price": 28.05,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.35,
+        "pe_ratio": 9.83,
         "forward_return": 18.24,
         "start_price": 29.15,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 8.83,
         "forward_return": 35.48,
         "start_price": 30.5,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 9.0,
+        "pe_ratio": 7.98,
         "forward_return": 77.67,
         "start_price": 29.25,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 9.47,
+        "pe_ratio": 7.94,
         "forward_return": 62.84,
         "start_price": 30.8,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 9.01,
         "forward_return": 17.1,
         "start_price": 34.85,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 8.73,
         "forward_return": -47.52,
         "start_price": 33.7,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 8.19,
         "forward_return": 18.07,
         "start_price": 31.55,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 8.95,
         "forward_return": -36.93,
         "start_price": 33.75,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.09,
         "forward_return": 60.86,
         "start_price": 26.15,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 8.42,
         "forward_return": 3.34,
         "start_price": 30.4,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 8.58,
         "forward_return": 31.57,
         "start_price": 30.05,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 9.21,
+        "pe_ratio": 8.91,
         "forward_return": -17.48,
         "start_price": 30.25,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.12,
         "forward_return": -4.19,
         "start_price": 32.2,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.64,
         "forward_return": 32.01,
         "start_price": 29.65,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 9.21,
+        "pe_ratio": 9.56,
         "forward_return": 82.16,
         "start_price": 28.4,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.78,
         "forward_return": 85.45,
         "start_price": 29.75,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.78,
+        "pe_ratio": 10.19,
         "forward_return": -9.07,
         "start_price": 31.75,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.09,
         "forward_return": -31.26,
         "start_price": 32.2,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.55,
         "forward_return": -66.21,
         "start_price": 32.2,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.77,
         "forward_return": -58.77,
         "start_price": 28.5,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.64,
         "forward_return": -60.97,
         "start_price": 26.8,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 9.43,
+        "pe_ratio": 9.16,
         "forward_return": -9.37,
         "start_price": 24.5,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 8.22,
+        "pe_ratio": 8.1,
         "forward_return": 70.05,
         "start_price": 20.8,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.64,
         "forward_return": 31.2,
         "start_price": 23.9,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 12.37,
         "forward_return": 16.94,
         "start_price": 25.15,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 10.07,
+        "pe_ratio": 13.63,
         "forward_return": 46.89,
         "start_price": 24.8,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 14.03,
         "forward_return": 54.56,
         "start_price": 25.3,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 10.61,
+        "pe_ratio": 14.64,
         "forward_return": 29.31,
         "start_price": 26.15,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 11.53,
+        "pe_ratio": 16.07,
         "forward_return": 4.24,
         "start_price": 28.45,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 13.46,
         "forward_return": -28.23,
         "start_price": 26.2,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.2,
         "forward_return": 1.16,
         "start_price": 25.9,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 11.63,
         "forward_return": -10.79,
         "start_price": 26.75,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 9.75,
+        "pe_ratio": 10.22,
         "forward_return": 23.19,
         "start_price": 24.1,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 10.0,
         "forward_return": 50.98,
         "start_price": 24.15,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 9.84,
+        "pe_ratio": 9.52,
         "forward_return": 49.7,
         "start_price": 25.4,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 9.76,
+        "pe_ratio": 9.16,
         "forward_return": 49.83,
         "start_price": 26.25,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 9.89,
+        "pe_ratio": 9.04,
         "forward_return": 15.94,
         "start_price": 27.65,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 9.68,
+        "pe_ratio": 9.07,
         "forward_return": 14.28,
         "start_price": 28.1,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 9.64,
+        "pe_ratio": 9.26,
         "forward_return": 0.0,
         "start_price": 29.0,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 8.98,
+        "pe_ratio": 8.83,
         "forward_return": 45.05,
         "start_price": 28.0,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 8.39,
+        "pe_ratio": 8.25,
         "forward_return": 114.94,
         "start_price": 27.05,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 8.11,
+        "pe_ratio": 7.96,
         "forward_return": 136.62,
         "start_price": 27.0,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 8.36,
+        "pe_ratio": 8.21,
         "forward_return": 146.6,
         "start_price": 28.75,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 9.25,
+        "pe_ratio": 9.14,
         "forward_return": 115.54,
         "start_price": 32.8,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.06,
         "forward_return": 80.97,
         "start_price": 36.95,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 10.4,
         "forward_return": 120.41,
         "start_price": 39.8,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 11.94,
+        "pe_ratio": 11.56,
         "forward_return": 74.27,
         "start_price": 45.0,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.34,
         "forward_return": -2.64,
         "start_price": 44.9,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 12.46,
+        "pe_ratio": 11.85,
         "forward_return": -20.38,
         "start_price": 47.1,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.63,
+        "pe_ratio": 12.94,
         "forward_return": -51.96,
         "start_price": 51.6,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 11.96,
         "forward_return": -63.78,
         "start_price": 47.85,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.94,
+        "pe_ratio": 10.67,
         "forward_return": -49.72,
         "start_price": 41.5,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.56,
         "forward_return": -20.22,
         "start_price": 39.9,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 8.95,
+        "pe_ratio": 9.28,
         "forward_return": 39.58,
         "start_price": 34.05,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 9.38,
         "forward_return": 57.01,
         "start_price": 34.9,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 9.39,
         "forward_return": 32.2,
         "start_price": 35.4,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 10.71,
         "forward_return": -32.28,
         "start_price": 39.1,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 10.84,
+        "pe_ratio": 11.49,
         "forward_return": -45.78,
         "start_price": 40.0,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 11.72,
         "forward_return": -63.14,
         "start_price": 38.8,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.49,
         "forward_return": -69.27,
         "start_price": 37.3,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.81,
         "forward_return": -39.97,
         "start_price": 34.4,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 9.11,
+        "pe_ratio": 10.03,
         "forward_return": 37.27,
         "start_price": 31.3,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.45,
+        "pe_ratio": 7.87,
         "forward_return": 233.64,
         "start_price": 25.1,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 8.33,
+        "pe_ratio": 8.45,
         "forward_return": 131.2,
         "start_price": 27.55,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.62,
+        "pe_ratio": 9.37,
         "forward_return": 86.68,
         "start_price": 31.2,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.5,
         "forward_return": 7.19,
         "start_price": 34.0,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.34,
+        "pe_ratio": 11.23,
         "forward_return": 1.72,
         "start_price": 35.3,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.13,
         "forward_return": 16.06,
         "start_price": 34.6,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.36,
         "forward_return": 3.96,
         "start_price": 36.0,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 10.99,
         "forward_return": 77.5,
         "start_price": 35.5,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.55,
         "forward_return": 142.05,
         "start_price": 34.5,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.98,
         "forward_return": 159.08,
         "start_price": 36.35,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.42,
         "forward_return": 75.95,
         "start_price": 38.25,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.1,
         "forward_return": 10.7,
         "start_price": 40.5,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 13.07,
         "forward_return": -4.05,
         "start_price": 43.7,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.91,
+        "pe_ratio": 12.46,
         "forward_return": 15.28,
         "start_price": 41.6,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 12.08,
         "forward_return": -5.15,
         "start_price": 41.55,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.92,
         "forward_return": -2.15,
         "start_price": 42.2,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 11.07,
+        "pe_ratio": 11.69,
         "forward_return": -15.45,
         "start_price": 41.0,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.36,
+        "pe_ratio": 12.69,
         "forward_return": -32.85,
         "start_price": 42.8,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 12.93,
         "forward_return": -4.92,
         "start_price": 41.9,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 12.09,
         "forward_return": 13.16,
         "start_price": 39.95,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 11.52,
         "forward_return": 60.34,
         "start_price": 38.8,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 11.95,
         "forward_return": -1.44,
         "start_price": 41.0,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 10.77,
         "forward_return": 113.03,
         "start_price": 38.6,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 11.0,
         "forward_return": 126.43,
         "start_price": 41.1,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 9.07,
+        "pe_ratio": 9.83,
         "forward_return": 299.12,
         "start_price": 38.25,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 11.49,
         "forward_return": 479.59,
         "start_price": 46.7,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.47,
         "forward_return": 163.31,
         "start_price": 48.6,
         "start_year": 2017
@@ -1317,7 +1317,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.6,
+        "pe_ratio": 14.24,
         "forward_return": 29.28,
         "start_price": 72.7,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.17,
+        "pe_ratio": 12.11,
         "forward_return": 61.39,
         "start_price": 70.3,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 10.28,
         "forward_return": -6.14,
         "start_price": 66.8,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.26,
+        "pe_ratio": 9.99,
         "forward_return": 0.0,
         "start_price": 65.4,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 18.59,
+        "pe_ratio": 12.0,
         "forward_return": -73.89,
         "start_price": 79.1,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.95,
+        "pe_ratio": 10.15,
         "forward_return": -63.75,
         "start_price": 67.4,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.64,
+        "pe_ratio": 9.99,
         "forward_return": -80.93,
         "start_price": 61.4,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 9.28,
         "forward_return": -54.77,
         "start_price": 52.4,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 9.36,
         "forward_return": -51.73,
         "start_price": 48.2,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 8.46,
         "forward_return": -2.91,
         "start_price": 40.45,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 8.81,
         "forward_return": 103.95,
         "start_price": 38.85,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 12.08,
         "forward_return": 48.8,
         "start_price": 40.15,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 12.36,
+        "pe_ratio": 18.38,
         "forward_return": -17.0,
         "start_price": 47.9,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 25.98,
         "forward_return": 4.33,
         "start_price": 49.1,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.38,
+        "pe_ratio": 27.69,
         "forward_return": 1.22,
         "start_price": 49.65,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 26.96,
         "forward_return": 119.99,
         "start_price": 45.75,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 33.25,
         "forward_return": -4.04,
         "start_price": 53.2,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 23.96,
         "forward_return": 39.57,
         "start_price": 46.8,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 22.89,
         "forward_return": -16.57,
         "start_price": 52.8,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 18.67,
         "forward_return": 0.4,
         "start_price": 49.65,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 18.24,
         "forward_return": 2.36,
         "start_price": 50.9,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 17.23,
         "forward_return": 4.26,
         "start_price": 50.3,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.63,
         "forward_return": 53.42,
         "start_price": 51.2,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 14.13,
+        "pe_ratio": 14.87,
         "forward_return": 64.74,
         "start_price": 52.1,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.73,
+        "pe_ratio": 13.67,
         "forward_return": 381.29,
         "start_price": 51.0,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.02,
+        "pe_ratio": 12.7,
         "forward_return": 660.38,
         "start_price": 52.0,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.24,
         "forward_return": 369.47,
         "start_price": 59.0,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 13.59,
         "forward_return": 97.02,
         "start_price": 65.5,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.36,
         "forward_return": -46.37,
         "start_price": 84.0,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 15.59,
         "forward_return": -23.01,
         "start_price": 84.9,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.11,
         "forward_return": 12.8,
         "start_price": 75.5,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.5,
+        "pe_ratio": 11.71,
         "forward_return": 45.41,
         "start_price": 71.8,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.96,
+        "pe_ratio": 12.06,
         "forward_return": 107.66,
         "start_price": 78.5,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.9,
         "forward_return": 174.95,
         "start_price": 78.9,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.42,
+        "pe_ratio": 9.6,
         "forward_return": 159.08,
         "start_price": 87.0,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.83,
         "forward_return": 16.42,
         "start_price": 99.8,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.61,
+        "pe_ratio": 10.92,
         "forward_return": -47.01,
         "start_price": 123.0,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 8.62,
+        "pe_ratio": 8.89,
         "forward_return": -49.09,
         "start_price": 110.0,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.97,
         "forward_return": -46.57,
         "start_price": 107.5,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 6.61,
+        "pe_ratio": 6.84,
         "forward_return": 59.62,
         "start_price": 100.0,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 5.39,
+        "pe_ratio": 5.57,
         "forward_return": 453.58,
         "start_price": 87.8,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 4.97,
+        "pe_ratio": 5.13,
         "forward_return": 938.3,
         "start_price": 86.8,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 6.03,
+        "pe_ratio": 6.15,
         "forward_return": 121.82,
         "start_price": 112.5,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 6.86,
+        "pe_ratio": 6.92,
         "forward_return": -12.83,
         "start_price": 136.0,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.84,
+        "pe_ratio": 6.5,
         "forward_return": -44.97,
         "start_price": 137.5,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.28,
+        "pe_ratio": 6.56,
         "forward_return": -58.08,
         "start_price": 140.0,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.05,
         "forward_return": -49.61,
         "start_price": 130.0,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.22,
+        "pe_ratio": 5.35,
         "forward_return": -17.57,
         "start_price": 108.5,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 6.83,
+        "pe_ratio": 5.92,
         "forward_return": -43.42,
         "start_price": 113.0,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.67,
+        "pe_ratio": 4.96,
         "forward_return": 62.9,
         "start_price": 88.7,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 6.19,
+        "pe_ratio": 5.51,
         "forward_return": 4.86,
         "start_price": 91.4,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 6.2,
+        "pe_ratio": 5.61,
         "forward_return": 90.32,
         "start_price": 85.9,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 6.81,
+        "pe_ratio": 6.28,
         "forward_return": 112.16,
         "start_price": 88.3,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 7.66,
+        "pe_ratio": 7.23,
         "forward_return": 141.48,
         "start_price": 92.5,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 9.36,
         "forward_return": 90.63,
         "start_price": 108.0,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.49,
+        "pe_ratio": 12.54,
         "forward_return": 329.93,
         "start_price": 115.5,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.12,
+        "pe_ratio": 14.63,
         "forward_return": 519.31,
         "start_price": 119.0,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 18.91,
         "forward_return": 1272.41,
         "start_price": 133.5,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 18.67,
         "forward_return": 3513.53,
         "start_price": 131.0,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 20.47,
+        "pe_ratio": 26.74,
         "forward_return": 1079.06,
         "start_price": 186.5,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 27.44,
+        "pe_ratio": 35.14,
         "forward_return": 93.91,
         "start_price": 243.5,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 36.35,
+        "pe_ratio": 44.27,
         "forward_return": -76.73,
         "start_price": 314.0,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 40.58,
+        "pe_ratio": 46.99,
         "forward_return": -52.46,
         "start_price": 341.0,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 34.47,
+        "pe_ratio": 37.94,
         "forward_return": -20.33,
         "start_price": 281.5,
         "start_year": 2023
@@ -1938,7 +1938,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 27.42,
+        "pe_ratio": 29.26,
         "forward_return": 303.12,
         "start_price": 217.5,
         "start_year": 2023
@@ -1947,7 +1947,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 33.57,
         "forward_return": 102.83,
         "start_price": 250.0,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 38.19,
+        "pe_ratio": 38.72,
         "forward_return": 9.05,
         "start_price": 309.0,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 39.56,
+        "pe_ratio": 40.59,
         "forward_return": -27.9,
         "start_price": 345.0,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 33.79,
+        "pe_ratio": 35.03,
         "forward_return": -40.72,
         "start_price": 316.0,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 29.95,
+        "pe_ratio": 29.57,
         "forward_return": -38.07,
         "start_price": 299.0,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 29.96,
+        "pe_ratio": 28.39,
         "forward_return": -49.78,
         "start_price": 318.0,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 27.17,
+        "pe_ratio": 24.86,
         "forward_return": -43.26,
         "start_price": 305.5,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 20.78,
         "forward_return": 3.89,
         "start_price": 259.0,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.87,
+        "pe_ratio": 20.65,
         "forward_return": 13.78,
         "start_price": 261.0,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 19.68,
+        "pe_ratio": 20.18,
         "forward_return": 23.58,
         "start_price": 258.5,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 18.99,
+        "pe_ratio": 19.3,
         "forward_return": -11.6,
         "start_price": 261.5,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 18.86,
+        "pe_ratio": 19.0,
         "forward_return": -29.54,
         "start_price": 271.5,
         "start_year": 2024
@@ -2073,7 +2073,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.43,
         "forward_return": 29.54,
         "start_price": 253.5,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 16.64,
+        "pe_ratio": 16.32,
         "forward_return": 30.45,
         "start_price": 258.5,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 14.9,
         "forward_return": 63.17,
         "start_price": 242.0,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.03,
         "forward_return": 142.75,
         "start_price": 228.5,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 16.94,
+        "pe_ratio": 16.9,
         "forward_return": 16.78,
         "start_price": 276.0,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 17.1,
+        "pe_ratio": 17.29,
         "forward_return": 41.76,
         "start_price": 283.0,
         "start_year": 2025
@@ -2127,7 +2127,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 16.24,
         "forward_return": 8.18,
         "start_price": 275.0,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.83,
         "forward_return": -26.88,
         "start_price": 277.0,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 17.28,
+        "pe_ratio": 16.56,
         "forward_return": -51.64,
         "start_price": 299.0,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 15.98,
+        "pe_ratio": 15.49,
         "forward_return": -52.13,
         "start_price": 280.5,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 82.93,
+        "pe_ratio": 13.44,
         "forward_return": 9.77,
         "start_price": 24.05,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 15.21,
         "forward_return": 1.59,
         "start_price": 25.2,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 82.24,
+        "pe_ratio": 15.66,
         "forward_return": 16.25,
         "start_price": 23.85,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 14.1,
         "forward_return": 76.44,
         "start_price": 19.6,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 67.93,
+        "pe_ratio": 13.78,
         "forward_return": 54.79,
         "start_price": 19.7,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 70.69,
+        "pe_ratio": 13.95,
         "forward_return": 22.38,
         "start_price": 20.5,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 91.38,
+        "pe_ratio": 17.55,
         "forward_return": -24.53,
         "start_price": 26.5,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 83.1,
+        "pe_ratio": 21.84,
         "forward_return": -9.8,
         "start_price": 24.1,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 36.17,
         "forward_return": -19.01,
         "start_price": 25.2,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 56.98,
+        "pe_ratio": 71.5,
         "forward_return": 34.17,
         "start_price": 24.55,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 45.48,
+        "pe_ratio": 65.55,
         "forward_return": 38.67,
         "start_price": 26.0,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 32.35,
+        "pe_ratio": 51.22,
         "forward_return": 34.74,
         "start_price": 23.05,
         "start_year": 2007
@@ -2280,7 +2280,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 26.13,
+        "pe_ratio": 32.16,
         "forward_return": 51.39,
         "start_price": 22.3,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 22.83,
+        "pe_ratio": 24.23,
         "forward_return": -8.49,
         "start_price": 22.7,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 21.63,
+        "pe_ratio": 20.81,
         "forward_return": -22.91,
         "start_price": 24.55,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.63,
         "forward_return": -60.55,
         "start_price": 27.8,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.18,
+        "pe_ratio": 25.57,
         "forward_return": -31.79,
         "start_price": 30.0,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 23.21,
         "forward_return": -21.92,
         "start_price": 27.15,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.81,
+        "pe_ratio": 18.65,
         "forward_return": -1.59,
         "start_price": 26.85,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 11.45,
+        "pe_ratio": 12.31,
         "forward_return": 59.94,
         "start_price": 21.05,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 7.92,
         "forward_return": 78.7,
         "start_price": 17.4,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 8.2,
         "forward_return": 35.87,
         "start_price": 19.8,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.47,
+        "pe_ratio": 9.13,
         "forward_return": -66.31,
         "start_price": 24.0,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.82,
+        "pe_ratio": 10.46,
         "forward_return": -76.75,
         "start_price": 26.35,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 14.09,
+        "pe_ratio": 11.04,
         "forward_return": -71.74,
         "start_price": 26.6,
         "start_year": 2008
@@ -2406,7 +2406,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 10.0,
         "forward_return": -69.5,
         "start_price": 23.0,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.02,
+        "pe_ratio": 10.11,
         "forward_return": -71.84,
         "start_price": 22.25,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 10.52,
         "forward_return": -25.01,
         "start_price": 22.1,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 8.93,
+        "pe_ratio": 8.1,
         "forward_return": 33.59,
         "start_price": 16.2,
         "start_year": 2008
@@ -2442,7 +2442,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.51,
+        "pe_ratio": 6.09,
         "forward_return": 189.87,
         "start_price": 11.7,
         "start_year": 2008
@@ -2451,7 +2451,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.35,
+        "pe_ratio": 6.14,
         "forward_return": 273.12,
         "start_price": 11.3,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 6.24,
+        "pe_ratio": 7.08,
         "forward_return": 317.27,
         "start_price": 11.75,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.4,
+        "pe_ratio": 9.52,
         "forward_return": 225.8,
         "start_price": 14.85,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.78,
+        "pe_ratio": 12.81,
         "forward_return": 112.09,
         "start_price": 18.7,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 15.51,
         "forward_return": 59.38,
         "start_price": 23.0,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.13,
+        "pe_ratio": 14.4,
         "forward_return": 97.69,
         "start_price": 21.7,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.66,
+        "pe_ratio": 12.52,
         "forward_return": 184.76,
         "start_price": 19.15,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.71,
+        "pe_ratio": 12.51,
         "forward_return": 77.4,
         "start_price": 22.85,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 12.13,
         "forward_return": 36.14,
         "start_price": 25.75,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 11.24,
         "forward_return": 28.51,
         "start_price": 27.2,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 10.41,
         "forward_return": 37.19,
         "start_price": 28.05,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.35,
+        "pe_ratio": 9.83,
         "forward_return": 34.0,
         "start_price": 29.15,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 8.83,
         "forward_return": 41.68,
         "start_price": 30.5,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 9.0,
+        "pe_ratio": 7.98,
         "forward_return": -4.09,
         "start_price": 29.25,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 9.47,
+        "pe_ratio": 7.94,
         "forward_return": 9.88,
         "start_price": 30.8,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 9.01,
         "forward_return": -12.75,
         "start_price": 34.85,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 8.73,
         "forward_return": -2.78,
         "start_price": 33.7,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 8.19,
         "forward_return": 10.36,
         "start_price": 31.55,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 8.95,
         "forward_return": -8.91,
         "start_price": 33.75,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.09,
         "forward_return": 15.28,
         "start_price": 26.15,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 8.42,
         "forward_return": -12.83,
         "start_price": 30.4,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 8.58,
         "forward_return": 9.94,
         "start_price": 30.05,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 9.21,
+        "pe_ratio": 8.91,
         "forward_return": 10.26,
         "start_price": 30.25,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.12,
         "forward_return": 16.28,
         "start_price": 32.2,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.64,
         "forward_return": 9.34,
         "start_price": 29.65,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 9.21,
+        "pe_ratio": 9.56,
         "forward_return": -8.27,
         "start_price": 28.4,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.78,
         "forward_return": -17.61,
         "start_price": 29.75,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.78,
+        "pe_ratio": 10.19,
         "forward_return": -39.3,
         "start_price": 31.75,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.09,
         "forward_return": -45.76,
         "start_price": 32.2,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.55,
         "forward_return": -44.66,
         "start_price": 32.2,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.77,
         "forward_return": -21.22,
         "start_price": 28.5,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.64,
         "forward_return": -14.41,
         "start_price": 26.8,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 9.43,
+        "pe_ratio": 9.16,
         "forward_return": 11.82,
         "start_price": 24.5,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 8.22,
+        "pe_ratio": 8.1,
         "forward_return": 58.31,
         "start_price": 20.8,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.64,
         "forward_return": 39.37,
         "start_price": 23.9,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 12.37,
         "forward_return": 23.0,
         "start_price": 25.15,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 10.07,
+        "pe_ratio": 13.63,
         "forward_return": 9.1,
         "start_price": 24.8,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 14.03,
         "forward_return": 6.4,
         "start_price": 25.3,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 10.61,
+        "pe_ratio": 14.64,
         "forward_return": 12.37,
         "start_price": 26.15,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 11.53,
+        "pe_ratio": 16.07,
         "forward_return": -3.14,
         "start_price": 28.45,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 13.46,
         "forward_return": -5.97,
         "start_price": 26.2,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.2,
         "forward_return": 11.92,
         "start_price": 25.9,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 11.63,
         "forward_return": 6.91,
         "start_price": 26.75,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 9.75,
+        "pe_ratio": 10.22,
         "forward_return": 37.56,
         "start_price": 24.1,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 10.0,
         "forward_return": 44.67,
         "start_price": 24.15,
         "start_year": 2012
@@ -2901,7 +2901,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 9.84,
+        "pe_ratio": 9.52,
         "forward_return": 31.12,
         "start_price": 25.4,
         "start_year": 2013
@@ -2910,7 +2910,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 9.76,
+        "pe_ratio": 9.16,
         "forward_return": 22.13,
         "start_price": 26.25,
         "start_year": 2013
@@ -2919,7 +2919,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 9.89,
+        "pe_ratio": 9.04,
         "forward_return": 48.07,
         "start_price": 27.65,
         "start_year": 2013
@@ -2928,7 +2928,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 9.68,
+        "pe_ratio": 9.07,
         "forward_return": 53.24,
         "start_price": 28.1,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 9.64,
+        "pe_ratio": 9.26,
         "forward_return": 58.62,
         "start_price": 29.0,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 8.98,
+        "pe_ratio": 8.83,
         "forward_return": 83.95,
         "start_price": 28.0,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 8.39,
+        "pe_ratio": 8.25,
         "forward_return": 115.24,
         "start_price": 27.05,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 8.11,
+        "pe_ratio": 7.96,
         "forward_return": 140.19,
         "start_price": 27.0,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 8.36,
+        "pe_ratio": 8.21,
         "forward_return": 145.86,
         "start_price": 28.75,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 9.25,
+        "pe_ratio": 9.14,
         "forward_return": 118.28,
         "start_price": 32.8,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.06,
         "forward_return": 96.19,
         "start_price": 36.95,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 10.4,
         "forward_return": 25.26,
         "start_price": 39.8,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 11.94,
+        "pe_ratio": 11.56,
         "forward_return": -9.15,
         "start_price": 45.0,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.34,
         "forward_return": -25.12,
         "start_price": 44.9,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 12.46,
+        "pe_ratio": 11.85,
         "forward_return": -35.19,
         "start_price": 47.1,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.63,
+        "pe_ratio": 12.94,
         "forward_return": -35.25,
         "start_price": 51.6,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 11.96,
         "forward_return": -30.07,
         "start_price": 47.85,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.94,
+        "pe_ratio": 10.67,
         "forward_return": -11.15,
         "start_price": 41.5,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.56,
         "forward_return": -4.7,
         "start_price": 39.9,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 8.95,
+        "pe_ratio": 9.28,
         "forward_return": 30.15,
         "start_price": 34.05,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 9.38,
         "forward_return": -2.46,
         "start_price": 34.9,
         "start_year": 2014
@@ -3099,7 +3099,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 9.39,
         "forward_return": -5.62,
         "start_price": 35.4,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 10.71,
         "forward_return": -49.76,
         "start_price": 39.1,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 10.84,
+        "pe_ratio": 11.49,
         "forward_return": -42.92,
         "start_price": 40.0,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 11.72,
         "forward_return": -9.06,
         "start_price": 38.8,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.49,
         "forward_return": -3.18,
         "start_price": 37.3,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.81,
         "forward_return": 24.7,
         "start_price": 34.4,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 9.11,
+        "pe_ratio": 10.03,
         "forward_return": 56.31,
         "start_price": 31.3,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.45,
+        "pe_ratio": 7.87,
         "forward_return": 89.11,
         "start_price": 25.1,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 8.33,
+        "pe_ratio": 8.45,
         "forward_return": 54.46,
         "start_price": 27.55,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.62,
+        "pe_ratio": 9.37,
         "forward_return": 29.58,
         "start_price": 31.2,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.5,
         "forward_return": 12.14,
         "start_price": 34.0,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.34,
+        "pe_ratio": 11.23,
         "forward_return": 6.06,
         "start_price": 35.3,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.13,
         "forward_return": 54.68,
         "start_price": 34.6,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.36,
         "forward_return": 64.53,
         "start_price": 36.0,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 10.99,
         "forward_return": 44.53,
         "start_price": 35.5,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.55,
         "forward_return": 62.86,
         "start_price": 34.5,
         "start_year": 2016
@@ -3261,7 +3261,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.98,
         "forward_return": 47.25,
         "start_price": 36.35,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.42,
         "forward_return": 42.02,
         "start_price": 38.25,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.1,
         "forward_return": 2.47,
         "start_price": 40.5,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 13.07,
         "forward_return": -6.99,
         "start_price": 43.7,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.91,
+        "pe_ratio": 12.46,
         "forward_return": 1.46,
         "start_price": 41.6,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 12.08,
         "forward_return": -11.13,
         "start_price": 41.55,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.92,
         "forward_return": -15.59,
         "start_price": 42.2,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 11.07,
+        "pe_ratio": 11.69,
         "forward_return": 0.99,
         "start_price": 41.0,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.36,
+        "pe_ratio": 12.69,
         "forward_return": 4.26,
         "start_price": 42.8,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 12.93,
         "forward_return": 31.99,
         "start_price": 41.9,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 12.09,
         "forward_return": 52.15,
         "start_price": 39.95,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 11.52,
         "forward_return": 90.5,
         "start_price": 38.8,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 11.95,
         "forward_return": 90.32,
         "start_price": 41.0,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 10.77,
         "forward_return": 251.39,
         "start_price": 38.6,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 11.0,
         "forward_return": 130.89,
         "start_price": 41.1,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 9.07,
+        "pe_ratio": 9.83,
         "forward_return": 208.06,
         "start_price": 38.25,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 11.49,
         "forward_return": 147.91,
         "start_price": 46.7,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.47,
         "forward_return": 167.23,
         "start_price": 48.6,
         "start_year": 2017
@@ -3441,7 +3441,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.6,
+        "pe_ratio": 14.24,
         "forward_return": -19.23,
         "start_price": 72.7,
         "start_year": 2018
@@ -3450,7 +3450,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.17,
+        "pe_ratio": 12.11,
         "forward_return": -35.73,
         "start_price": 70.3,
         "start_year": 2018
@@ -3459,7 +3459,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 10.28,
         "forward_return": -50.1,
         "start_price": 66.8,
         "start_year": 2018
@@ -3468,7 +3468,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.26,
+        "pe_ratio": 9.99,
         "forward_return": -53.73,
         "start_price": 65.4,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 18.59,
+        "pe_ratio": 12.0,
         "forward_return": -62.97,
         "start_price": 79.1,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.95,
+        "pe_ratio": 10.15,
         "forward_return": -56.92,
         "start_price": 67.4,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.64,
+        "pe_ratio": 9.99,
         "forward_return": -56.97,
         "start_price": 61.4,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 9.28,
         "forward_return": -10.6,
         "start_price": 52.4,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 9.36,
         "forward_return": 3.8,
         "start_price": 48.2,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 8.46,
         "forward_return": 23.63,
         "start_price": 40.45,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 8.81,
         "forward_return": 39.08,
         "start_price": 38.85,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 12.08,
         "forward_return": 54.44,
         "start_price": 40.15,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 12.36,
+        "pe_ratio": 18.38,
         "forward_return": 35.85,
         "start_price": 47.9,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 25.98,
         "forward_return": 17.26,
         "start_price": 49.1,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.38,
+        "pe_ratio": 27.69,
         "forward_return": 17.81,
         "start_price": 49.65,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 26.96,
         "forward_return": 27.3,
         "start_price": 45.75,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 33.25,
         "forward_return": -1.87,
         "start_price": 53.2,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 23.96,
         "forward_return": 19.53,
         "start_price": 46.8,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 22.89,
         "forward_return": -5.77,
         "start_price": 52.8,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 18.67,
         "forward_return": 5.53,
         "start_price": 49.65,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 18.24,
         "forward_return": 28.82,
         "start_price": 50.9,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 17.23,
         "forward_return": 37.73,
         "start_price": 50.3,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.63,
         "forward_return": 184.46,
         "start_price": 51.2,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 14.13,
+        "pe_ratio": 14.87,
         "forward_return": 178.9,
         "start_price": 52.1,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.73,
+        "pe_ratio": 13.67,
         "forward_return": 88.76,
         "start_price": 51.0,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.02,
+        "pe_ratio": 12.7,
         "forward_return": 102.22,
         "start_price": 52.0,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.24,
         "forward_return": 68.15,
         "start_price": 59.0,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 13.59,
         "forward_return": 49.05,
         "start_price": 65.5,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.36,
         "forward_return": -11.69,
         "start_price": 84.0,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 15.59,
         "forward_return": 32.13,
         "start_price": 84.9,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.11,
         "forward_return": 75.61,
         "start_price": 75.5,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.5,
+        "pe_ratio": 11.71,
         "forward_return": 108.54,
         "start_price": 71.8,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.96,
+        "pe_ratio": 12.06,
         "forward_return": 97.55,
         "start_price": 78.5,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.9,
         "forward_return": 78.01,
         "start_price": 78.9,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.42,
+        "pe_ratio": 9.6,
         "forward_return": 13.83,
         "start_price": 87.0,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.83,
         "forward_return": 32.14,
         "start_price": 99.8,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.61,
+        "pe_ratio": 10.92,
         "forward_return": -8.73,
         "start_price": 123.0,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 8.62,
+        "pe_ratio": 8.89,
         "forward_return": 90.57,
         "start_price": 110.0,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.97,
         "forward_return": 122.55,
         "start_price": 107.5,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 6.61,
+        "pe_ratio": 6.84,
         "forward_return": 88.16,
         "start_price": 100.0,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 5.39,
+        "pe_ratio": 5.57,
         "forward_return": 96.64,
         "start_price": 87.8,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 4.97,
+        "pe_ratio": 5.13,
         "forward_return": 125.94,
         "start_price": 86.8,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 6.03,
+        "pe_ratio": 6.15,
         "forward_return": 0.77,
         "start_price": 112.5,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 6.86,
+        "pe_ratio": 6.92,
         "forward_return": -31.19,
         "start_price": 136.0,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.84,
+        "pe_ratio": 6.5,
         "forward_return": -43.74,
         "start_price": 137.5,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.28,
+        "pe_ratio": 6.56,
         "forward_return": -51.22,
         "start_price": 140.0,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.05,
         "forward_return": -31.11,
         "start_price": 130.0,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.22,
+        "pe_ratio": 5.35,
         "forward_return": -7.22,
         "start_price": 108.5,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 6.83,
+        "pe_ratio": 5.92,
         "forward_return": 8.45,
         "start_price": 113.0,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.67,
+        "pe_ratio": 4.96,
         "forward_return": 78.27,
         "start_price": 88.7,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 6.19,
+        "pe_ratio": 5.51,
         "forward_return": 59.13,
         "start_price": 91.4,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 6.2,
+        "pe_ratio": 5.61,
         "forward_return": 113.75,
         "start_price": 85.9,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 6.81,
+        "pe_ratio": 6.28,
         "forward_return": 130.28,
         "start_price": 88.3,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 7.66,
+        "pe_ratio": 7.23,
         "forward_return": 234.72,
         "start_price": 92.5,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 9.36,
         "forward_return": 201.14,
         "start_price": 108.0,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.49,
+        "pe_ratio": 12.54,
         "forward_return": 682.76,
         "start_price": 115.5,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.12,
+        "pe_ratio": 14.63,
         "forward_return": 757.55,
         "start_price": 119.0,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 18.91,
         "forward_return": 141.34,
         "start_price": 133.5,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 18.67,
         "forward_return": 190.96,
         "start_price": 131.0,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 20.47,
+        "pe_ratio": 26.74,
         "forward_return": 90.66,
         "start_price": 186.5,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 27.44,
+        "pe_ratio": 35.14,
         "forward_return": 24.91,
         "start_price": 243.5,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 36.35,
+        "pe_ratio": 44.27,
         "forward_return": -3.14,
         "start_price": 314.0,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 40.58,
+        "pe_ratio": 46.99,
         "forward_return": -12.24,
         "start_price": 341.0,
         "start_year": 2023
@@ -4053,7 +4053,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 34.47,
+        "pe_ratio": 37.94,
         "forward_return": 26.11,
         "start_price": 281.5,
         "start_year": 2023
@@ -4062,7 +4062,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 27.42,
+        "pe_ratio": 29.26,
         "forward_return": 91.82,
         "start_price": 217.5,
         "start_year": 2023
@@ -4071,7 +4071,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 33.57,
         "forward_return": 62.07,
         "start_price": 250.0,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 38.19,
+        "pe_ratio": 38.72,
         "forward_return": -26.33,
         "start_price": 309.0,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 39.56,
+        "pe_ratio": 40.59,
         "forward_return": -39.88,
         "start_price": 345.0,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 33.79,
+        "pe_ratio": 35.03,
         "forward_return": -24.58,
         "start_price": 316.0,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 29.95,
+        "pe_ratio": 29.57,
         "forward_return": -19.71,
         "start_price": 299.0,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 29.96,
+        "pe_ratio": 28.39,
         "forward_return": -20.08,
         "start_price": 318.0,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 27.17,
+        "pe_ratio": 24.86,
         "forward_return": -16.65,
         "start_price": 305.5,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 20.78,
         "forward_return": -4.17,
         "start_price": 259.0,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.87,
+        "pe_ratio": 20.65,
         "forward_return": -12.21,
         "start_price": 261.0,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 19.68,
+        "pe_ratio": 20.18,
         "forward_return": -12.46,
         "start_price": 258.5,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 18.99,
+        "pe_ratio": 19.3,
         "forward_return": 9.74,
         "start_price": 261.5,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 18.86,
+        "pe_ratio": 19.0,
         "forward_return": 3.37,
         "start_price": 271.5,
         "start_year": 2024
@@ -4197,7 +4197,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.43,
         "forward_return": 26.66,
         "start_price": 253.5,
         "start_year": 2025
@@ -4206,7 +4206,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 16.64,
+        "pe_ratio": 16.32,
         "forward_return": 23.35,
         "start_price": 258.5,
         "start_year": 2025
@@ -4215,7 +4215,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 14.9,
         "forward_return": 36.58,
         "start_price": 242.0,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.03,
         "forward_return": 61.47,
         "start_price": 228.5,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 16.94,
+        "pe_ratio": 16.9,
         "forward_return": -9.99,
         "start_price": 276.0,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 17.1,
+        "pe_ratio": 17.29,
         "forward_return": -15.89,
         "start_price": 283.0,
         "start_year": 2025
@@ -4251,7 +4251,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 16.37,
+        "pe_ratio": 16.24,
         "forward_return": -28.03,
         "start_price": 275.0,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 82.93,
+        "pe_ratio": 13.44,
         "forward_return": 1.25,
         "start_price": 24.05,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 15.21,
         "forward_return": -6.35,
         "start_price": 25.2,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 82.24,
+        "pe_ratio": 15.66,
         "forward_return": 0.63,
         "start_price": 23.85,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 14.1,
         "forward_return": 31.91,
         "start_price": 19.6,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 67.93,
+        "pe_ratio": 13.78,
         "forward_return": 44.2,
         "start_price": 19.7,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 70.69,
+        "pe_ratio": 13.95,
         "forward_return": 49.31,
         "start_price": 20.5,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 91.38,
+        "pe_ratio": 17.55,
         "forward_return": 4.72,
         "start_price": 26.5,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 83.1,
+        "pe_ratio": 21.84,
         "forward_return": 13.91,
         "start_price": 24.1,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 36.17,
         "forward_return": -14.1,
         "start_price": 25.2,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 56.98,
+        "pe_ratio": 71.5,
         "forward_return": -26.7,
         "start_price": 24.55,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 45.48,
+        "pe_ratio": 65.55,
         "forward_return": -21.55,
         "start_price": 26.0,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 32.35,
+        "pe_ratio": 51.22,
         "forward_return": 6.71,
         "start_price": 23.05,
         "start_year": 2007
@@ -4377,7 +4377,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 26.13,
+        "pe_ratio": 32.16,
         "forward_return": 20.81,
         "start_price": 22.3,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 22.83,
+        "pe_ratio": 24.23,
         "forward_return": 19.78,
         "start_price": 22.7,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 21.63,
+        "pe_ratio": 20.81,
         "forward_return": -3.86,
         "start_price": 24.55,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.63,
         "forward_return": -16.38,
         "start_price": 27.8,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.18,
+        "pe_ratio": 25.57,
         "forward_return": -23.0,
         "start_price": 30.0,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 23.21,
         "forward_return": -36.64,
         "start_price": 27.15,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.81,
+        "pe_ratio": 18.65,
         "forward_return": -52.68,
         "start_price": 26.85,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 11.45,
+        "pe_ratio": 12.31,
         "forward_return": -41.57,
         "start_price": 21.05,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 7.92,
         "forward_return": -26.75,
         "start_price": 17.4,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 8.2,
         "forward_return": -0.53,
         "start_price": 19.8,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.47,
+        "pe_ratio": 9.13,
         "forward_return": -17.98,
         "start_price": 24.0,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.82,
+        "pe_ratio": 10.46,
         "forward_return": -8.97,
         "start_price": 26.35,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 14.09,
+        "pe_ratio": 11.04,
         "forward_return": -14.72,
         "start_price": 26.6,
         "start_year": 2008
@@ -4503,7 +4503,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 10.0,
         "forward_return": -12.46,
         "start_price": 23.0,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.02,
+        "pe_ratio": 10.11,
         "forward_return": 7.2,
         "start_price": 22.25,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 10.52,
         "forward_return": 21.06,
         "start_price": 22.1,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 8.93,
+        "pe_ratio": 8.1,
         "forward_return": 74.14,
         "start_price": 16.2,
         "start_year": 2008
@@ -4539,7 +4539,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.51,
+        "pe_ratio": 6.09,
         "forward_return": 148.45,
         "start_price": 11.7,
         "start_year": 2008
@@ -4548,7 +4548,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.35,
+        "pe_ratio": 6.14,
         "forward_return": 166.99,
         "start_price": 11.3,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 6.24,
+        "pe_ratio": 7.08,
         "forward_return": 168.27,
         "start_price": 11.75,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.4,
+        "pe_ratio": 9.52,
         "forward_return": 103.8,
         "start_price": 14.85,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.78,
+        "pe_ratio": 12.81,
         "forward_return": 70.12,
         "start_price": 18.7,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 15.51,
         "forward_return": 55.92,
         "start_price": 23.0,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.13,
+        "pe_ratio": 14.4,
         "forward_return": 59.96,
         "start_price": 21.7,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.66,
+        "pe_ratio": 12.52,
         "forward_return": 70.04,
         "start_price": 19.15,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.71,
+        "pe_ratio": 12.51,
         "forward_return": 58.68,
         "start_price": 22.85,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 12.13,
         "forward_return": 11.26,
         "start_price": 25.75,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 11.24,
         "forward_return": 20.96,
         "start_price": 27.2,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 10.41,
         "forward_return": 16.05,
         "start_price": 28.05,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.35,
+        "pe_ratio": 9.83,
         "forward_return": 12.35,
         "start_price": 29.15,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 8.83,
         "forward_return": 13.77,
         "start_price": 30.5,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 9.0,
+        "pe_ratio": 7.98,
         "forward_return": 9.91,
         "start_price": 29.25,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 9.47,
+        "pe_ratio": 7.94,
         "forward_return": 0.32,
         "start_price": 30.8,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 9.01,
         "forward_return": -7.47,
         "start_price": 34.85,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 8.73,
         "forward_return": 1.63,
         "start_price": 33.7,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 8.19,
         "forward_return": 9.98,
         "start_price": 31.55,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 8.95,
         "forward_return": 2.81,
         "start_price": 33.75,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.09,
         "forward_return": 18.56,
         "start_price": 26.15,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 8.42,
         "forward_return": -3.62,
         "start_price": 30.4,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 8.58,
         "forward_return": -10.16,
         "start_price": 30.05,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 9.21,
+        "pe_ratio": 8.91,
         "forward_return": -22.99,
         "start_price": 30.25,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.12,
         "forward_return": -18.03,
         "start_price": 32.2,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.64,
         "forward_return": -6.75,
         "start_price": 29.65,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 9.21,
+        "pe_ratio": 9.56,
         "forward_return": -3.87,
         "start_price": 28.4,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.78,
         "forward_return": -6.54,
         "start_price": 29.75,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.78,
+        "pe_ratio": 10.19,
         "forward_return": -9.75,
         "start_price": 31.75,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.09,
         "forward_return": -3.88,
         "start_price": 32.2,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.55,
         "forward_return": -12.4,
         "start_price": 32.2,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.77,
         "forward_return": -2.1,
         "start_price": 28.5,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.64,
         "forward_return": 7.26,
         "start_price": 26.8,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 9.43,
+        "pe_ratio": 9.16,
         "forward_return": 6.51,
         "start_price": 24.5,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 8.22,
+        "pe_ratio": 8.1,
         "forward_return": 25.66,
         "start_price": 20.8,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.64,
         "forward_return": 14.61,
         "start_price": 23.9,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 12.37,
         "forward_return": 16.44,
         "start_price": 25.15,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 10.07,
+        "pe_ratio": 13.63,
         "forward_return": 19.57,
         "start_price": 24.8,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 14.03,
         "forward_return": 18.98,
         "start_price": 25.3,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 10.61,
+        "pe_ratio": 14.64,
         "forward_return": 18.56,
         "start_price": 26.15,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 11.53,
+        "pe_ratio": 16.07,
         "forward_return": 5.45,
         "start_price": 28.45,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 13.46,
         "forward_return": 10.89,
         "start_price": 26.2,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.2,
         "forward_return": 11.98,
         "start_price": 25.9,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 11.63,
         "forward_return": 14.96,
         "start_price": 26.75,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 9.75,
+        "pe_ratio": 10.22,
         "forward_return": 44.43,
         "start_price": 24.1,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 10.0,
         "forward_return": 61.34,
         "start_price": 24.15,
         "start_year": 2012
@@ -4998,7 +4998,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 9.84,
+        "pe_ratio": 9.52,
         "forward_return": 64.62,
         "start_price": 25.4,
         "start_year": 2013
@@ -5007,7 +5007,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 9.76,
+        "pe_ratio": 9.16,
         "forward_return": 79.12,
         "start_price": 26.25,
         "start_year": 2013
@@ -5016,7 +5016,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 9.89,
+        "pe_ratio": 9.04,
         "forward_return": 69.68,
         "start_price": 27.65,
         "start_year": 2013
@@ -5025,7 +5025,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 9.68,
+        "pe_ratio": 9.07,
         "forward_return": 74.8,
         "start_price": 28.1,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 9.64,
+        "pe_ratio": 9.26,
         "forward_return": 84.91,
         "start_price": 29.0,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 8.98,
+        "pe_ratio": 8.83,
         "forward_return": 78.11,
         "start_price": 28.0,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 8.39,
+        "pe_ratio": 8.25,
         "forward_return": 64.57,
         "start_price": 27.05,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 8.11,
+        "pe_ratio": 7.96,
         "forward_return": 58.94,
         "start_price": 27.0,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 8.36,
+        "pe_ratio": 8.21,
         "forward_return": 28.89,
         "start_price": 28.75,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 9.25,
+        "pe_ratio": 9.14,
         "forward_return": 15.56,
         "start_price": 32.8,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.06,
         "forward_return": 3.93,
         "start_price": 36.95,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 10.4,
         "forward_return": 5.78,
         "start_price": 39.8,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 11.94,
+        "pe_ratio": 11.56,
         "forward_return": -4.45,
         "start_price": 45.0,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.34,
         "forward_return": -6.91,
         "start_price": 44.9,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 12.46,
+        "pe_ratio": 11.85,
         "forward_return": -14.45,
         "start_price": 47.1,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.63,
+        "pe_ratio": 12.94,
         "forward_return": -27.54,
         "start_price": 51.6,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 11.96,
         "forward_return": -28.33,
         "start_price": 47.85,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.94,
+        "pe_ratio": 10.67,
         "forward_return": -33.03,
         "start_price": 41.5,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.56,
         "forward_return": -24.2,
         "start_price": 39.9,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 8.95,
+        "pe_ratio": 9.28,
         "forward_return": -0.44,
         "start_price": 34.05,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 9.38,
         "forward_return": 5.16,
         "start_price": 34.9,
         "start_year": 2014
@@ -5196,7 +5196,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 9.39,
         "forward_return": 7.35,
         "start_price": 35.4,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 10.71,
         "forward_return": -4.61,
         "start_price": 39.1,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 10.84,
+        "pe_ratio": 11.49,
         "forward_return": -3.25,
         "start_price": 40.0,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 11.72,
         "forward_return": -1.54,
         "start_price": 38.8,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.49,
         "forward_return": -0.27,
         "start_price": 37.3,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.81,
         "forward_return": 13.49,
         "start_price": 34.4,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 9.11,
+        "pe_ratio": 10.03,
         "forward_return": 30.76,
         "start_price": 31.3,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.45,
+        "pe_ratio": 7.87,
         "forward_return": 71.13,
         "start_price": 25.1,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 8.33,
+        "pe_ratio": 8.45,
         "forward_return": 67.52,
         "start_price": 27.55,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.62,
+        "pe_ratio": 9.37,
         "forward_return": 41.25,
         "start_price": 31.2,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.5,
         "forward_return": 29.49,
         "start_price": 34.0,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.34,
+        "pe_ratio": 11.23,
         "forward_return": 26.57,
         "start_price": 35.3,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.13,
         "forward_return": 25.66,
         "start_price": 34.6,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.36,
         "forward_return": 21.4,
         "start_price": 36.0,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 10.99,
         "forward_return": 25.09,
         "start_price": 35.5,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.55,
         "forward_return": 23.06,
         "start_price": 34.5,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.98,
         "forward_return": 13.63,
         "start_price": 36.35,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.42,
         "forward_return": 13.74,
         "start_price": 38.25,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.1,
         "forward_return": 1.73,
         "start_price": 40.5,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 13.07,
         "forward_return": 0.0,
         "start_price": 43.7,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.91,
+        "pe_ratio": 12.46,
         "forward_return": -1.8,
         "start_price": 41.6,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 12.08,
         "forward_return": 18.67,
         "start_price": 41.55,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.92,
         "forward_return": 21.34,
         "start_price": 42.2,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 11.07,
+        "pe_ratio": 11.69,
         "forward_return": 83.74,
         "start_price": 41.0,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.36,
+        "pe_ratio": 12.69,
         "forward_return": 70.39,
         "start_price": 42.8,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 12.93,
         "forward_return": 65.69,
         "start_price": 41.9,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 12.09,
         "forward_return": 70.27,
         "start_price": 39.95,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 11.52,
         "forward_return": 110.67,
         "start_price": 38.8,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 11.95,
         "forward_return": 70.79,
         "start_price": 41.0,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 10.77,
         "forward_return": 69.49,
         "start_price": 38.6,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 11.0,
         "forward_return": 37.26,
         "start_price": 41.1,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 9.07,
+        "pe_ratio": 9.83,
         "forward_return": 36.5,
         "start_price": 38.25,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 11.49,
         "forward_return": -4.82,
         "start_price": 46.7,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.47,
         "forward_return": -11.84,
         "start_price": 48.6,
         "start_year": 2017
@@ -5538,7 +5538,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.6,
+        "pe_ratio": 14.24,
         "forward_return": -39.29,
         "start_price": 72.7,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.17,
+        "pe_ratio": 12.11,
         "forward_return": -26.19,
         "start_price": 70.3,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 10.28,
         "forward_return": -20.52,
         "start_price": 66.8,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.26,
+        "pe_ratio": 9.99,
         "forward_return": -17.98,
         "start_price": 65.4,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 18.59,
+        "pe_ratio": 12.0,
         "forward_return": -37.12,
         "start_price": 79.1,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.95,
+        "pe_ratio": 10.15,
         "forward_return": -15.14,
         "start_price": 67.4,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.64,
+        "pe_ratio": 9.99,
         "forward_return": -18.9,
         "start_price": 61.4,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 9.28,
         "forward_return": 6.49,
         "start_price": 52.4,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 9.36,
         "forward_return": 9.24,
         "start_price": 48.2,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 8.46,
         "forward_return": 33.28,
         "start_price": 40.45,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 8.81,
         "forward_return": 37.22,
         "start_price": 38.85,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 12.08,
         "forward_return": 35.02,
         "start_price": 40.15,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 12.36,
+        "pe_ratio": 18.38,
         "forward_return": 15.04,
         "start_price": 47.9,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 25.98,
         "forward_return": 9.96,
         "start_price": 49.1,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.38,
+        "pe_ratio": 27.69,
         "forward_return": 10.75,
         "start_price": 49.65,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 26.96,
         "forward_return": 35.43,
         "start_price": 45.75,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 33.25,
         "forward_return": 28.69,
         "start_price": 53.2,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 23.96,
         "forward_return": 83.96,
         "start_price": 46.8,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 22.89,
         "forward_return": 64.79,
         "start_price": 52.8,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 18.67,
         "forward_return": 56.35,
         "start_price": 49.65,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 18.24,
         "forward_return": 45.27,
         "start_price": 50.9,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 17.23,
         "forward_return": 60.28,
         "start_price": 50.3,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.63,
         "forward_return": 58.25,
         "start_price": 51.2,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 14.13,
+        "pe_ratio": 14.87,
         "forward_return": 86.12,
         "start_price": 52.1,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.73,
+        "pe_ratio": 13.67,
         "forward_return": 100.09,
         "start_price": 51.0,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.02,
+        "pe_ratio": 12.7,
         "forward_return": 140.91,
         "start_price": 52.0,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.24,
         "forward_return": 90.25,
         "start_price": 59.0,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 13.59,
         "forward_return": 67.54,
         "start_price": 65.5,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.36,
         "forward_return": 25.02,
         "start_price": 84.0,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 15.59,
         "forward_return": 9.31,
         "start_price": 84.9,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.11,
         "forward_return": 21.61,
         "start_price": 75.5,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.5,
+        "pe_ratio": 11.71,
         "forward_return": 63.7,
         "start_price": 71.8,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.96,
+        "pe_ratio": 12.06,
         "forward_return": 79.69,
         "start_price": 78.5,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.9,
         "forward_return": 80.68,
         "start_price": 78.9,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.42,
+        "pe_ratio": 9.6,
         "forward_return": 66.72,
         "start_price": 87.0,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.83,
         "forward_return": 35.3,
         "start_price": 99.8,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.61,
+        "pe_ratio": 10.92,
         "forward_return": -7.73,
         "start_price": 123.0,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 8.62,
+        "pe_ratio": 8.89,
         "forward_return": 7.28,
         "start_price": 110.0,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.97,
         "forward_return": -12.85,
         "start_price": 107.5,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 6.61,
+        "pe_ratio": 6.84,
         "forward_return": 3.4,
         "start_price": 100.0,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 5.39,
+        "pe_ratio": 5.57,
         "forward_return": 11.51,
         "start_price": 87.8,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 4.97,
+        "pe_ratio": 5.13,
         "forward_return": 15.56,
         "start_price": 86.8,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 6.03,
+        "pe_ratio": 6.15,
         "forward_return": -7.12,
         "start_price": 112.5,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 6.86,
+        "pe_ratio": 6.92,
         "forward_return": -11.77,
         "start_price": 136.0,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.84,
+        "pe_ratio": 6.5,
         "forward_return": -7.28,
         "start_price": 137.5,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.28,
+        "pe_ratio": 6.56,
         "forward_return": -6.43,
         "start_price": 140.0,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.05,
         "forward_return": 11.93,
         "start_price": 130.0,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.22,
+        "pe_ratio": 5.35,
         "forward_return": 31.82,
         "start_price": 108.5,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 6.83,
+        "pe_ratio": 5.92,
         "forward_return": 75.73,
         "start_price": 113.0,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.67,
+        "pe_ratio": 4.96,
         "forward_return": 188.26,
         "start_price": 88.7,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 6.19,
+        "pe_ratio": 5.51,
         "forward_return": 250.63,
         "start_price": 91.4,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 6.2,
+        "pe_ratio": 5.61,
         "forward_return": 304.58,
         "start_price": 85.9,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 6.81,
+        "pe_ratio": 6.28,
         "forward_return": 226.08,
         "start_price": 88.3,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 7.66,
+        "pe_ratio": 7.23,
         "forward_return": 141.98,
         "start_price": 92.5,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 9.36,
         "forward_return": 137.36,
         "start_price": 108.0,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.49,
+        "pe_ratio": 12.54,
         "forward_return": 173.09,
         "start_price": 115.5,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.12,
+        "pe_ratio": 14.63,
         "forward_return": 195.34,
         "start_price": 119.0,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 18.91,
         "forward_return": 140.91,
         "start_price": 133.5,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 18.67,
         "forward_return": 132.57,
         "start_price": 131.0,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 20.47,
+        "pe_ratio": 26.74,
         "forward_return": 73.64,
         "start_price": 186.5,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 27.44,
+        "pe_ratio": 35.14,
         "forward_return": 27.94,
         "start_price": 243.5,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 36.35,
+        "pe_ratio": 44.27,
         "forward_return": -15.46,
         "start_price": 314.0,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 40.58,
+        "pe_ratio": 46.99,
         "forward_return": -21.56,
         "start_price": 341.0,
         "start_year": 2023
@@ -6150,7 +6150,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 34.47,
+        "pe_ratio": 37.94,
         "forward_return": -5.9,
         "start_price": 281.5,
         "start_year": 2023
@@ -6159,7 +6159,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 27.42,
+        "pe_ratio": 29.26,
         "forward_return": 23.1,
         "start_price": 217.5,
         "start_year": 2023
@@ -6168,7 +6168,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 33.57,
         "forward_return": 11.12,
         "start_price": 250.0,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 38.19,
+        "pe_ratio": 38.72,
         "forward_return": -15.87,
         "start_price": 309.0,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 39.56,
+        "pe_ratio": 40.59,
         "forward_return": -26.21,
         "start_price": 345.0,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 33.79,
+        "pe_ratio": 35.03,
         "forward_return": -21.42,
         "start_price": 316.0,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 29.95,
+        "pe_ratio": 29.57,
         "forward_return": -21.47,
         "start_price": 299.0,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 29.96,
+        "pe_ratio": 28.39,
         "forward_return": -11.22,
         "start_price": 318.0,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 27.17,
+        "pe_ratio": 24.86,
         "forward_return": -5.29,
         "start_price": 305.5,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 20.78,
         "forward_return": 10.05,
         "start_price": 259.0,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.87,
+        "pe_ratio": 20.65,
         "forward_return": 9.97,
         "start_price": 261.0,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 19.68,
+        "pe_ratio": 20.18,
         "forward_return": 19.55,
         "start_price": 258.5,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 18.99,
+        "pe_ratio": 19.3,
         "forward_return": 11.1,
         "start_price": 261.5,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 18.86,
+        "pe_ratio": 19.0,
         "forward_return": -6.63,
         "start_price": 271.5,
         "start_year": 2024
@@ -6294,7 +6294,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.43,
         "forward_return": -4.14,
         "start_price": 253.5,
         "start_year": 2025
@@ -6303,7 +6303,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 16.64,
+        "pe_ratio": 16.32,
         "forward_return": -3.48,
         "start_price": 258.5,
         "start_year": 2025
@@ -6312,7 +6312,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 82.93,
+        "pe_ratio": 13.44,
         "forward_return": 3.77,
         "start_price": 24.05,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 15.21,
         "forward_return": 5.87,
         "start_price": 25.2,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 82.24,
+        "pe_ratio": 15.66,
         "forward_return": 9.31,
         "start_price": 23.85,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 14.1,
         "forward_return": 12.7,
         "start_price": 19.6,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 67.93,
+        "pe_ratio": 13.78,
         "forward_return": 9.99,
         "start_price": 19.7,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 70.69,
+        "pe_ratio": 13.95,
         "forward_return": 7.49,
         "start_price": 20.5,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 91.38,
+        "pe_ratio": 17.55,
         "forward_return": -18.06,
         "start_price": 26.5,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 83.1,
+        "pe_ratio": 21.84,
         "forward_return": -25.73,
         "start_price": 24.1,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 36.17,
         "forward_return": -28.47,
         "start_price": 25.2,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 56.98,
+        "pe_ratio": 71.5,
         "forward_return": -26.28,
         "start_price": 24.55,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 45.48,
+        "pe_ratio": 65.55,
         "forward_return": -20.48,
         "start_price": 26.0,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 32.35,
+        "pe_ratio": 51.22,
         "forward_return": -6.18,
         "start_price": 23.05,
         "start_year": 2007
@@ -6429,7 +6429,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 26.13,
+        "pe_ratio": 32.16,
         "forward_return": 5.0,
         "start_price": 22.3,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 22.83,
+        "pe_ratio": 24.23,
         "forward_return": 1.28,
         "start_price": 22.7,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 21.63,
+        "pe_ratio": 20.81,
         "forward_return": -8.09,
         "start_price": 24.55,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.63,
         "forward_return": -5.48,
         "start_price": 27.8,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.18,
+        "pe_ratio": 25.57,
         "forward_return": -3.84,
         "start_price": 30.0,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 23.21,
         "forward_return": 3.68,
         "start_price": 27.15,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.81,
+        "pe_ratio": 18.65,
         "forward_return": 5.76,
         "start_price": 26.85,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 11.45,
+        "pe_ratio": 12.31,
         "forward_return": 21.61,
         "start_price": 21.05,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 7.92,
         "forward_return": 36.61,
         "start_price": 17.4,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 8.2,
         "forward_return": 27.43,
         "start_price": 19.8,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.47,
+        "pe_ratio": 9.13,
         "forward_return": 16.89,
         "start_price": 24.0,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.82,
+        "pe_ratio": 10.46,
         "forward_return": 18.25,
         "start_price": 26.35,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 14.09,
+        "pe_ratio": 11.04,
         "forward_return": 15.84,
         "start_price": 26.6,
         "start_year": 2008
@@ -6555,7 +6555,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 10.0,
         "forward_return": 20.77,
         "start_price": 23.0,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.02,
+        "pe_ratio": 10.11,
         "forward_return": 29.41,
         "start_price": 22.25,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 10.52,
         "forward_return": 15.84,
         "start_price": 22.1,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 8.93,
+        "pe_ratio": 8.1,
         "forward_return": 44.69,
         "start_price": 16.2,
         "start_year": 2008
@@ -6591,7 +6591,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.51,
+        "pe_ratio": 6.09,
         "forward_return": 69.39,
         "start_price": 11.7,
         "start_year": 2008
@@ -6600,7 +6600,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.35,
+        "pe_ratio": 6.14,
         "forward_return": 72.88,
         "start_price": 11.3,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 6.24,
+        "pe_ratio": 7.08,
         "forward_return": 74.37,
         "start_price": 11.75,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.4,
+        "pe_ratio": 9.52,
         "forward_return": 49.45,
         "start_price": 14.85,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.78,
+        "pe_ratio": 12.81,
         "forward_return": 30.63,
         "start_price": 18.7,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 15.51,
         "forward_return": 20.25,
         "start_price": 23.0,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.13,
+        "pe_ratio": 14.4,
         "forward_return": 27.47,
         "start_price": 21.7,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.66,
+        "pe_ratio": 12.52,
         "forward_return": 36.56,
         "start_price": 19.15,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.71,
+        "pe_ratio": 12.51,
         "forward_return": 27.61,
         "start_price": 22.85,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 12.13,
         "forward_return": 14.07,
         "start_price": 25.75,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 11.24,
         "forward_return": 8.13,
         "start_price": 27.2,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 10.41,
         "forward_return": 2.55,
         "start_price": 28.05,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.35,
+        "pe_ratio": 9.83,
         "forward_return": -5.93,
         "start_price": 29.15,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 8.83,
         "forward_return": -2.67,
         "start_price": 30.5,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 9.0,
+        "pe_ratio": 7.98,
         "forward_return": 1.52,
         "start_price": 29.25,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 9.47,
+        "pe_ratio": 7.94,
         "forward_return": -1.64,
         "start_price": 30.8,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 9.01,
         "forward_return": -6.76,
         "start_price": 34.85,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 8.73,
         "forward_return": -3.86,
         "start_price": 33.7,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 8.19,
         "forward_return": 2.96,
         "start_price": 31.55,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 8.95,
         "forward_return": -4.63,
         "start_price": 33.75,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.09,
         "forward_return": 7.81,
         "start_price": 26.15,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 8.42,
         "forward_return": 1.38,
         "start_price": 30.4,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 8.58,
         "forward_return": -2.44,
         "start_price": 30.05,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 9.21,
+        "pe_ratio": 8.91,
         "forward_return": -2.68,
         "start_price": 30.25,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.12,
         "forward_return": -3.64,
         "start_price": 32.2,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.64,
         "forward_return": 1.83,
         "start_price": 29.65,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 9.21,
+        "pe_ratio": 9.56,
         "forward_return": 6.39,
         "start_price": 28.4,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.78,
         "forward_return": 4.67,
         "start_price": 29.75,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.78,
+        "pe_ratio": 10.19,
         "forward_return": 2.71,
         "start_price": 31.75,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.09,
         "forward_return": 0.46,
         "start_price": 32.2,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.55,
         "forward_return": -1.8,
         "start_price": 32.2,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.77,
         "forward_return": 4.29,
         "start_price": 28.5,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.64,
         "forward_return": 10.54,
         "start_price": 26.8,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 9.43,
+        "pe_ratio": 9.16,
         "forward_return": 22.54,
         "start_price": 24.5,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 8.22,
+        "pe_ratio": 8.1,
         "forward_return": 40.28,
         "start_price": 20.8,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.64,
         "forward_return": 35.35,
         "start_price": 23.9,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 12.37,
         "forward_return": 37.65,
         "start_price": 25.15,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 10.07,
+        "pe_ratio": 13.63,
         "forward_return": 40.45,
         "start_price": 24.8,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 14.03,
         "forward_return": 42.15,
         "start_price": 25.3,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 10.61,
+        "pe_ratio": 14.64,
         "forward_return": 45.85,
         "start_price": 26.15,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 11.53,
+        "pe_ratio": 16.07,
         "forward_return": 35.03,
         "start_price": 28.45,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 13.46,
         "forward_return": 33.25,
         "start_price": 26.2,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.2,
         "forward_return": 31.69,
         "start_price": 25.9,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 11.63,
         "forward_return": 20.84,
         "start_price": 26.75,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 9.75,
+        "pe_ratio": 10.22,
         "forward_return": 28.69,
         "start_price": 24.1,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 10.0,
         "forward_return": 29.36,
         "start_price": 24.15,
         "start_year": 2012
@@ -7050,7 +7050,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 9.84,
+        "pe_ratio": 9.52,
         "forward_return": 31.79,
         "start_price": 25.4,
         "start_year": 2013
@@ -7059,7 +7059,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 9.76,
+        "pe_ratio": 9.16,
         "forward_return": 30.95,
         "start_price": 26.25,
         "start_year": 2013
@@ -7068,7 +7068,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 9.89,
+        "pe_ratio": 9.04,
         "forward_return": 25.88,
         "start_price": 27.65,
         "start_year": 2013
@@ -7077,7 +7077,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 9.68,
+        "pe_ratio": 9.07,
         "forward_return": 22.71,
         "start_price": 28.1,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 9.64,
+        "pe_ratio": 9.26,
         "forward_return": 16.57,
         "start_price": 29.0,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 8.98,
+        "pe_ratio": 8.83,
         "forward_return": 13.87,
         "start_price": 28.0,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 8.39,
+        "pe_ratio": 8.25,
         "forward_return": 6.71,
         "start_price": 27.05,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 8.11,
+        "pe_ratio": 7.96,
         "forward_return": 10.98,
         "start_price": 27.0,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 8.36,
+        "pe_ratio": 8.21,
         "forward_return": 13.3,
         "start_price": 28.75,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 9.25,
+        "pe_ratio": 9.14,
         "forward_return": 10.02,
         "start_price": 32.8,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.06,
         "forward_return": 5.34,
         "start_price": 36.95,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 10.4,
         "forward_return": 0.63,
         "start_price": 39.8,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 11.94,
+        "pe_ratio": 11.56,
         "forward_return": -3.74,
         "start_price": 45.0,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.34,
         "forward_return": -4.21,
         "start_price": 44.9,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 12.46,
+        "pe_ratio": 11.85,
         "forward_return": -7.61,
         "start_price": 47.1,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.63,
+        "pe_ratio": 12.94,
         "forward_return": -9.72,
         "start_price": 51.6,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 11.96,
         "forward_return": -4.16,
         "start_price": 47.85,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.94,
+        "pe_ratio": 10.67,
         "forward_return": 4.93,
         "start_price": 41.5,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.56,
         "forward_return": 10.7,
         "start_price": 39.9,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 8.95,
+        "pe_ratio": 9.28,
         "forward_return": 17.22,
         "start_price": 34.05,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 9.38,
         "forward_return": 15.73,
         "start_price": 34.9,
         "start_year": 2014
@@ -7248,7 +7248,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 9.39,
         "forward_return": 15.7,
         "start_price": 35.4,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 10.71,
         "forward_return": 8.69,
         "start_price": 39.1,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 10.84,
+        "pe_ratio": 11.49,
         "forward_return": 9.54,
         "start_price": 40.0,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 11.72,
         "forward_return": 10.17,
         "start_price": 38.8,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.49,
         "forward_return": 10.01,
         "start_price": 37.3,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.81,
         "forward_return": 13.09,
         "start_price": 34.4,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 9.11,
+        "pe_ratio": 10.03,
         "forward_return": 21.48,
         "start_price": 31.3,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.45,
+        "pe_ratio": 7.87,
         "forward_return": 31.92,
         "start_price": 25.1,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 8.33,
+        "pe_ratio": 8.45,
         "forward_return": 29.47,
         "start_price": 27.55,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.62,
+        "pe_ratio": 9.37,
         "forward_return": 17.86,
         "start_price": 31.2,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.5,
         "forward_return": 23.41,
         "start_price": 34.0,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.34,
+        "pe_ratio": 11.23,
         "forward_return": 23.32,
         "start_price": 35.3,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.13,
         "forward_return": 49.91,
         "start_price": 34.6,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.36,
         "forward_return": 39.44,
         "start_price": 36.0,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 10.99,
         "forward_return": 42.35,
         "start_price": 35.5,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.55,
         "forward_return": 42.99,
         "start_price": 34.5,
         "start_year": 2016
@@ -7410,7 +7410,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.98,
         "forward_return": 52.24,
         "start_price": 36.35,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.42,
         "forward_return": 37.7,
         "start_price": 38.25,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.1,
         "forward_return": 29.6,
         "start_price": 40.5,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 13.07,
         "forward_return": 16.21,
         "start_price": 43.7,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.91,
+        "pe_ratio": 12.46,
         "forward_return": 14.78,
         "start_price": 41.6,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 12.08,
         "forward_return": 6.42,
         "start_price": 41.55,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.92,
         "forward_return": 3.78,
         "start_price": 42.2,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 11.07,
+        "pe_ratio": 11.69,
         "forward_return": 6.79,
         "start_price": 41.0,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.36,
+        "pe_ratio": 12.69,
         "forward_return": 12.85,
         "start_price": 42.8,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 12.93,
         "forward_return": 15.31,
         "start_price": 41.9,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 12.09,
         "forward_return": 18.67,
         "start_price": 39.95,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 11.52,
         "forward_return": 16.17,
         "start_price": 38.8,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 11.95,
         "forward_return": 20.79,
         "start_price": 41.0,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 10.77,
         "forward_return": 18.07,
         "start_price": 38.6,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 11.0,
         "forward_return": 20.64,
         "start_price": 41.1,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 9.07,
+        "pe_ratio": 9.83,
         "forward_return": 21.71,
         "start_price": 38.25,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 11.49,
         "forward_return": 11.36,
         "start_price": 46.7,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.47,
         "forward_return": 8.59,
         "start_price": 48.6,
         "start_year": 2017
@@ -7590,7 +7590,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.6,
+        "pe_ratio": 14.24,
         "forward_return": -10.53,
         "start_price": 72.7,
         "start_year": 2018
@@ -7599,7 +7599,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.17,
+        "pe_ratio": 12.11,
         "forward_return": -8.32,
         "start_price": 70.3,
         "start_year": 2018
@@ -7608,7 +7608,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 10.28,
         "forward_return": -6.81,
         "start_price": 66.8,
         "start_year": 2018
@@ -7617,7 +7617,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.26,
+        "pe_ratio": 9.99,
         "forward_return": -5.02,
         "start_price": 65.4,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 18.59,
+        "pe_ratio": 12.0,
         "forward_return": -8.65,
         "start_price": 79.1,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.95,
+        "pe_ratio": 10.15,
         "forward_return": 3.71,
         "start_price": 67.4,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.64,
+        "pe_ratio": 9.99,
         "forward_return": 20.52,
         "start_price": 61.4,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 9.28,
         "forward_return": 31.1,
         "start_price": 52.4,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 9.36,
         "forward_return": 29.37,
         "start_price": 48.2,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 8.46,
         "forward_return": 37.94,
         "start_price": 40.45,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 8.81,
         "forward_return": 46.74,
         "start_price": 38.85,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 12.08,
         "forward_return": 44.69,
         "start_price": 40.15,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 12.36,
+        "pe_ratio": 18.38,
         "forward_return": 38.71,
         "start_price": 47.9,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 25.98,
         "forward_return": 46.2,
         "start_price": 49.1,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.38,
+        "pe_ratio": 27.69,
         "forward_return": 60.64,
         "start_price": 49.65,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 26.96,
         "forward_return": 58.63,
         "start_price": 45.75,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 33.25,
         "forward_return": 45.51,
         "start_price": 53.2,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 23.96,
         "forward_return": 51.3,
         "start_price": 46.8,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 22.89,
         "forward_return": 34.11,
         "start_price": 52.8,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 18.67,
         "forward_return": 37.57,
         "start_price": 49.65,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 18.24,
         "forward_return": 53.31,
         "start_price": 50.9,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 17.23,
         "forward_return": 68.67,
         "start_price": 50.3,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.63,
         "forward_return": 68.05,
         "start_price": 51.2,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 14.13,
+        "pe_ratio": 14.87,
         "forward_return": 59.26,
         "start_price": 52.1,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.73,
+        "pe_ratio": 13.67,
         "forward_return": 64.07,
         "start_price": 51.0,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.02,
+        "pe_ratio": 12.7,
         "forward_return": 49.21,
         "start_price": 52.0,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.24,
         "forward_return": 42.77,
         "start_price": 59.0,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 13.59,
         "forward_return": 21.02,
         "start_price": 65.5,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.36,
         "forward_return": 13.61,
         "start_price": 84.0,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 15.59,
         "forward_return": 10.1,
         "start_price": 84.9,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.11,
         "forward_return": 18.11,
         "start_price": 75.5,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.5,
+        "pe_ratio": 11.71,
         "forward_return": 23.51,
         "start_price": 71.8,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.96,
+        "pe_ratio": 12.06,
         "forward_return": 26.21,
         "start_price": 78.5,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.9,
         "forward_return": 29.61,
         "start_price": 78.9,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.42,
+        "pe_ratio": 9.6,
         "forward_return": 25.05,
         "start_price": 87.0,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.83,
         "forward_return": 22.82,
         "start_price": 99.8,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.61,
+        "pe_ratio": 10.92,
         "forward_return": 9.7,
         "start_price": 123.0,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 8.62,
+        "pe_ratio": 8.89,
         "forward_return": 36.04,
         "start_price": 110.0,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.97,
         "forward_return": 55.72,
         "start_price": 107.5,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 6.61,
+        "pe_ratio": 6.84,
         "forward_return": 82.34,
         "start_price": 100.0,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 5.39,
+        "pe_ratio": 5.57,
         "forward_return": 102.36,
         "start_price": 87.8,
         "start_year": 2021
@@ -7986,7 +7986,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 4.97,
+        "pe_ratio": 5.13,
         "forward_return": 85.9,
         "start_price": 86.8,
         "start_year": 2021
@@ -7995,7 +7995,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 6.03,
+        "pe_ratio": 6.15,
         "forward_return": 44.78,
         "start_price": 112.5,
         "start_year": 2021
@@ -8004,7 +8004,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 6.86,
+        "pe_ratio": 6.92,
         "forward_return": 40.46,
         "start_price": 136.0,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.84,
+        "pe_ratio": 6.5,
         "forward_return": 54.31,
         "start_price": 137.5,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.28,
+        "pe_ratio": 6.56,
         "forward_return": 61.12,
         "start_price": 140.0,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.05,
         "forward_return": 60.28,
         "start_price": 130.0,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.22,
+        "pe_ratio": 5.35,
         "forward_return": 70.92,
         "start_price": 108.5,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 6.83,
+        "pe_ratio": 5.92,
         "forward_return": 72.42,
         "start_price": 113.0,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.67,
+        "pe_ratio": 4.96,
         "forward_return": 90.95,
         "start_price": 88.7,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 6.19,
+        "pe_ratio": 5.51,
         "forward_return": 72.3,
         "start_price": 91.4,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 6.2,
+        "pe_ratio": 5.61,
         "forward_return": 78.38,
         "start_price": 85.9,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 6.81,
+        "pe_ratio": 6.28,
         "forward_return": 75.14,
         "start_price": 88.3,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 7.66,
+        "pe_ratio": 7.23,
         "forward_return": 72.06,
         "start_price": 92.5,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 9.36,
         "forward_return": 62.12,
         "start_price": 108.0,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.49,
+        "pe_ratio": 12.54,
         "forward_return": 51.73,
         "start_price": 115.5,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.12,
+        "pe_ratio": 14.63,
         "forward_return": 50.88,
         "start_price": 119.0,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 18.91,
         "forward_return": 38.06,
         "start_price": 133.5,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 14.02,
+        "pe_ratio": 18.67,
         "forward_return": 35.62,
         "start_price": 131.0,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 20.47,
+        "pe_ratio": 26.74,
         "forward_return": 24.37,
         "start_price": 186.5,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 27.44,
+        "pe_ratio": 35.14,
         "forward_return": 10.16,
         "start_price": 243.5,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 36.35,
+        "pe_ratio": 44.27,
         "forward_return": -3.67,
         "start_price": 314.0,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 40.58,
+        "pe_ratio": 46.99,
         "forward_return": -7.24,
         "start_price": 341.0,
         "start_year": 2023
@@ -8202,7 +8202,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 34.47,
+        "pe_ratio": 37.94,
         "forward_return": 5.84,
         "start_price": 281.5,
         "start_year": 2023
@@ -8211,7 +8211,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 27.42,
+        "pe_ratio": 29.26,
         "forward_return": 16.81,
         "start_price": 217.5,
         "start_year": 2023
@@ -8220,7 +8220,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 32.49,
+        "pe_ratio": 33.57,
         "forward_return": 1.95,
         "start_price": 250.0,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 38.19,
+        "pe_ratio": 38.72,
         "forward_return": -10.16,
         "start_price": 309.0,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 82.93,
+        "pe_ratio": 13.44,
         "forward_return": -3.54,
         "start_price": 24.05,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 15.21,
         "forward_return": 0.9,
         "start_price": 25.2,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 82.24,
+        "pe_ratio": 15.66,
         "forward_return": 1.02,
         "start_price": 23.85,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 14.1,
         "forward_return": 3.98,
         "start_price": 19.6,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 67.93,
+        "pe_ratio": 13.78,
         "forward_return": 8.89,
         "start_price": 19.7,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 70.69,
+        "pe_ratio": 13.95,
         "forward_return": 11.39,
         "start_price": 20.5,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 91.38,
+        "pe_ratio": 17.55,
         "forward_return": 3.97,
         "start_price": 26.5,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 83.1,
+        "pe_ratio": 21.84,
         "forward_return": 8.33,
         "start_price": 24.1,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 36.17,
         "forward_return": 7.99,
         "start_price": 25.2,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 56.98,
+        "pe_ratio": 71.5,
         "forward_return": 10.46,
         "start_price": 24.55,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 45.48,
+        "pe_ratio": 65.55,
         "forward_return": 6.98,
         "start_price": 26.0,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 32.35,
+        "pe_ratio": 51.22,
         "forward_return": 13.14,
         "start_price": 23.05,
         "start_year": 2007
@@ -8364,7 +8364,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 26.13,
+        "pe_ratio": 32.16,
         "forward_return": 18.85,
         "start_price": 22.3,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 22.83,
+        "pe_ratio": 24.23,
         "forward_return": 16.92,
         "start_price": 22.7,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 21.63,
+        "pe_ratio": 20.81,
         "forward_return": 11.61,
         "start_price": 24.55,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.63,
         "forward_return": 11.21,
         "start_price": 27.8,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.18,
+        "pe_ratio": 25.57,
         "forward_return": 0.7,
         "start_price": 30.0,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 23.21,
         "forward_return": 8.71,
         "start_price": 27.15,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.81,
+        "pe_ratio": 18.65,
         "forward_return": 8.75,
         "start_price": 26.85,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 11.45,
+        "pe_ratio": 12.31,
         "forward_return": 18.16,
         "start_price": 21.05,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 7.92,
         "forward_return": 28.22,
         "start_price": 17.4,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 8.2,
         "forward_return": 17.91,
         "start_price": 19.8,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.47,
+        "pe_ratio": 9.13,
         "forward_return": 11.08,
         "start_price": 24.0,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.82,
+        "pe_ratio": 10.46,
         "forward_return": 9.12,
         "start_price": 26.35,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 14.09,
+        "pe_ratio": 11.04,
         "forward_return": 10.86,
         "start_price": 26.6,
         "start_year": 2008
@@ -8490,7 +8490,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 10.0,
         "forward_return": 16.85,
         "start_price": 23.0,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.02,
+        "pe_ratio": 10.11,
         "forward_return": 19.75,
         "start_price": 22.25,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 10.52,
         "forward_return": 16.01,
         "start_price": 22.1,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 8.93,
+        "pe_ratio": 8.1,
         "forward_return": 26.52,
         "start_price": 16.2,
         "start_year": 2008
@@ -8526,7 +8526,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.51,
+        "pe_ratio": 6.09,
         "forward_return": 37.65,
         "start_price": 11.7,
         "start_year": 2008
@@ -8535,7 +8535,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.35,
+        "pe_ratio": 6.14,
         "forward_return": 33.38,
         "start_price": 11.3,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 6.24,
+        "pe_ratio": 7.08,
         "forward_return": 36.55,
         "start_price": 11.75,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.4,
+        "pe_ratio": 9.52,
         "forward_return": 28.03,
         "start_price": 14.85,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.78,
+        "pe_ratio": 12.81,
         "forward_return": 18.09,
         "start_price": 18.7,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 15.51,
         "forward_return": 10.81,
         "start_price": 23.0,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.13,
+        "pe_ratio": 14.4,
         "forward_return": 13.99,
         "start_price": 21.7,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.66,
+        "pe_ratio": 12.52,
         "forward_return": 21.61,
         "start_price": 19.15,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.71,
+        "pe_ratio": 12.51,
         "forward_return": 13.25,
         "start_price": 22.85,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 12.13,
         "forward_return": 8.5,
         "start_price": 25.75,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 11.24,
         "forward_return": 7.45,
         "start_price": 27.2,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 10.41,
         "forward_return": 3.5,
         "start_price": 28.05,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.35,
+        "pe_ratio": 9.83,
         "forward_return": 2.23,
         "start_price": 29.15,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 8.83,
         "forward_return": 2.03,
         "start_price": 30.5,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 9.0,
+        "pe_ratio": 7.98,
         "forward_return": 4.36,
         "start_price": 29.25,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 9.47,
+        "pe_ratio": 7.94,
         "forward_return": 4.0,
         "start_price": 30.8,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 9.01,
         "forward_return": 0.23,
         "start_price": 34.85,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 8.73,
         "forward_return": 2.22,
         "start_price": 33.7,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 8.19,
         "forward_return": 3.51,
         "start_price": 31.55,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 8.95,
         "forward_return": -0.2,
         "start_price": 33.75,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.09,
         "forward_return": 8.6,
         "start_price": 26.15,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 8.42,
         "forward_return": 5.05,
         "start_price": 30.4,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 8.58,
         "forward_return": 9.35,
         "start_price": 30.05,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 9.21,
+        "pe_ratio": 8.91,
         "forward_return": 12.82,
         "start_price": 30.25,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.12,
         "forward_return": 12.86,
         "start_price": 32.2,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.64,
         "forward_return": 20.2,
         "start_price": 29.65,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 9.21,
+        "pe_ratio": 9.56,
         "forward_return": 21.86,
         "start_price": 28.4,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.78,
         "forward_return": 21.67,
         "start_price": 29.75,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.78,
+        "pe_ratio": 10.19,
         "forward_return": 22.31,
         "start_price": 31.75,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.09,
         "forward_return": 19.06,
         "start_price": 32.2,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.55,
         "forward_return": 14.62,
         "start_price": 32.2,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.77,
         "forward_return": 18.06,
         "start_price": 28.5,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.64,
         "forward_return": 15.27,
         "start_price": 26.8,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 9.43,
+        "pe_ratio": 9.16,
         "forward_return": 19.58,
         "start_price": 24.5,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 8.22,
+        "pe_ratio": 8.1,
         "forward_return": 26.79,
         "start_price": 20.8,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.64,
         "forward_return": 24.47,
         "start_price": 23.9,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 12.37,
         "forward_return": 21.48,
         "start_price": 25.15,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 10.07,
+        "pe_ratio": 13.63,
         "forward_return": 22.71,
         "start_price": 24.8,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 14.03,
         "forward_return": 20.54,
         "start_price": 25.3,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 10.61,
+        "pe_ratio": 14.64,
         "forward_return": 16.56,
         "start_price": 26.15,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 11.53,
+        "pe_ratio": 16.07,
         "forward_return": 10.42,
         "start_price": 28.45,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 13.46,
         "forward_return": 7.78,
         "start_price": 26.2,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.2,
         "forward_return": 10.83,
         "start_price": 25.9,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 11.63,
         "forward_return": 13.3,
         "start_price": 26.75,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 9.75,
+        "pe_ratio": 10.22,
         "forward_return": 20.07,
         "start_price": 24.1,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 10.0,
         "forward_return": 21.22,
         "start_price": 24.15,
         "start_year": 2012
@@ -8985,7 +8985,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 9.84,
+        "pe_ratio": 9.52,
         "forward_return": 18.55,
         "start_price": 25.4,
         "start_year": 2013
@@ -8994,7 +8994,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 9.76,
+        "pe_ratio": 9.16,
         "forward_return": 18.53,
         "start_price": 26.25,
         "start_year": 2013
@@ -9003,7 +9003,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 9.89,
+        "pe_ratio": 9.04,
         "forward_return": 16.03,
         "start_price": 27.65,
         "start_year": 2013
@@ -9012,7 +9012,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 9.68,
+        "pe_ratio": 9.07,
         "forward_return": 14.51,
         "start_price": 28.1,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 9.64,
+        "pe_ratio": 9.26,
         "forward_return": 14.95,
         "start_price": 29.0,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 8.98,
+        "pe_ratio": 8.83,
         "forward_return": 17.95,
         "start_price": 28.0,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 8.39,
+        "pe_ratio": 8.25,
         "forward_return": 21.65,
         "start_price": 27.05,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 8.11,
+        "pe_ratio": 7.96,
         "forward_return": 24.33,
         "start_price": 27.0,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 8.36,
+        "pe_ratio": 8.21,
         "forward_return": 20.09,
         "start_price": 28.75,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 9.25,
+        "pe_ratio": 9.14,
         "forward_return": 14.89,
         "start_price": 32.8,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.06,
         "forward_return": 10.9,
         "start_price": 36.95,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 10.4,
         "forward_return": 7.32,
         "start_price": 39.8,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 11.94,
+        "pe_ratio": 11.56,
         "forward_return": 4.26,
         "start_price": 45.0,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.34,
         "forward_return": 3.72,
         "start_price": 44.9,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 12.46,
+        "pe_ratio": 11.85,
         "forward_return": 0.74,
         "start_price": 47.1,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.63,
+        "pe_ratio": 12.94,
         "forward_return": -3.06,
         "start_price": 51.6,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 11.96,
         "forward_return": 0.93,
         "start_price": 47.85,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.94,
+        "pe_ratio": 10.67,
         "forward_return": 3.79,
         "start_price": 41.5,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.56,
         "forward_return": 7.01,
         "start_price": 39.9,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 8.95,
+        "pe_ratio": 9.28,
         "forward_return": 10.58,
         "start_price": 34.05,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 9.38,
         "forward_return": 16.01,
         "start_price": 34.9,
         "start_year": 2014
@@ -9183,7 +9183,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 9.39,
         "forward_return": 16.79,
         "start_price": 35.4,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 10.71,
         "forward_return": 27.21,
         "start_price": 39.1,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 10.84,
+        "pe_ratio": 11.49,
         "forward_return": 24.98,
         "start_price": 40.0,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 11.72,
         "forward_return": 24.34,
         "start_price": 38.8,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.49,
         "forward_return": 25.19,
         "start_price": 37.3,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.81,
         "forward_return": 36.18,
         "start_price": 34.4,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 9.11,
+        "pe_ratio": 10.03,
         "forward_return": 33.93,
         "start_price": 31.3,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.45,
+        "pe_ratio": 7.87,
         "forward_return": 41.08,
         "start_price": 25.1,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 8.33,
+        "pe_ratio": 8.45,
         "forward_return": 30.68,
         "start_price": 27.55,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.62,
+        "pe_ratio": 9.37,
         "forward_return": 22.46,
         "start_price": 31.2,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.5,
         "forward_return": 13.37,
         "start_price": 34.0,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.34,
+        "pe_ratio": 11.23,
         "forward_return": 10.75,
         "start_price": 35.3,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.13,
         "forward_return": 12.49,
         "start_price": 34.6,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.36,
         "forward_return": 16.88,
         "start_price": 36.0,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 10.99,
         "forward_return": 17.93,
         "start_price": 35.5,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.55,
         "forward_return": 19.43,
         "start_price": 34.5,
         "start_year": 2016
@@ -9345,7 +9345,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.98,
         "forward_return": 14.71,
         "start_price": 36.35,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.42,
         "forward_return": 17.67,
         "start_price": 38.25,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.1,
         "forward_return": 11.68,
         "start_price": 40.5,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 13.07,
         "forward_return": 12.62,
         "start_price": 43.7,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.91,
+        "pe_ratio": 12.46,
         "forward_return": 12.52,
         "start_price": 41.6,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 12.08,
         "forward_return": 13.35,
         "start_price": 41.55,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.92,
         "forward_return": 12.39,
         "start_price": 42.2,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 11.07,
+        "pe_ratio": 11.69,
         "forward_return": 14.05,
         "start_price": 41.0,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.36,
+        "pe_ratio": 12.69,
         "forward_return": 12.98,
         "start_price": 42.8,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 12.93,
         "forward_return": 13.09,
         "start_price": 41.9,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 12.09,
         "forward_return": 15.52,
         "start_price": 39.95,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 11.52,
         "forward_return": 20.91,
         "start_price": 38.8,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 11.95,
         "forward_return": 22.35,
         "start_price": 41.0,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 10.77,
         "forward_return": 34.15,
         "start_price": 38.6,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 11.0,
         "forward_return": 31.79,
         "start_price": 41.1,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 9.07,
+        "pe_ratio": 9.83,
         "forward_return": 30.33,
         "start_price": 38.25,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 11.49,
         "forward_return": 20.14,
         "start_price": 46.7,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.47,
         "forward_return": 21.74,
         "start_price": 48.6,
         "start_year": 2017
@@ -9525,7 +9525,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.6,
+        "pe_ratio": 14.24,
         "forward_return": 6.61,
         "start_price": 72.7,
         "start_year": 2018
@@ -9534,7 +9534,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.17,
+        "pe_ratio": 12.11,
         "forward_return": 11.02,
         "start_price": 70.3,
         "start_year": 2018
@@ -9543,7 +9543,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 10.28,
         "forward_return": 17.72,
         "start_price": 66.8,
         "start_year": 2018
@@ -9552,7 +9552,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.26,
+        "pe_ratio": 9.99,
         "forward_return": 26.43,
         "start_price": 65.4,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 18.59,
+        "pe_ratio": 12.0,
         "forward_return": 14.64,
         "start_price": 79.1,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.95,
+        "pe_ratio": 10.15,
         "forward_return": 20.07,
         "start_price": 67.4,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.64,
+        "pe_ratio": 9.99,
         "forward_return": 21.52,
         "start_price": 61.4,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 9.28,
         "forward_return": 23.2,
         "start_price": 52.4,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 9.36,
         "forward_return": 26.25,
         "start_price": 48.2,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 8.46,
         "forward_return": 44.75,
         "start_price": 40.45,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 8.81,
         "forward_return": 55.53,
         "start_price": 38.85,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 12.08,
         "forward_return": 54.36,
         "start_price": 40.15,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 12.36,
+        "pe_ratio": 18.38,
         "forward_return": 46.35,
         "start_price": 47.9,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 25.98,
         "forward_return": 41.86,
         "start_price": 49.1,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.38,
+        "pe_ratio": 27.69,
         "forward_return": 33.71,
         "start_price": 49.65,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 26.96,
         "forward_return": 39.11,
         "start_price": 45.75,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 33.25,
         "forward_return": 22.95,
         "start_price": 53.2,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 23.96,
         "forward_return": 33.19,
         "start_price": 46.8,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 22.89,
         "forward_return": 25.79,
         "start_price": 52.8,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 18.67,
         "forward_return": 29.36,
         "start_price": 49.65,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 18.24,
         "forward_return": 29.94,
         "start_price": 50.9,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 17.23,
         "forward_return": 36.23,
         "start_price": 50.3,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.63,
         "forward_return": 38.04,
         "start_price": 51.2,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 14.13,
+        "pe_ratio": 14.87,
         "forward_return": 41.78,
         "start_price": 52.1,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.73,
+        "pe_ratio": 13.67,
         "forward_return": 44.17,
         "start_price": 51.0,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.02,
+        "pe_ratio": 12.7,
         "forward_return": 42.45,
         "start_price": 52.0,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.24,
         "forward_return": 51.68,
         "start_price": 59.0,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 13.59,
         "forward_return": 58.93,
         "start_price": 65.5,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.36,
         "forward_return": 58.98,
         "start_price": 84.0,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 15.59,
         "forward_return": 62.54,
         "start_price": 84.9,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.11,
         "forward_return": 59.26,
         "start_price": 75.5,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.5,
+        "pe_ratio": 11.71,
         "forward_return": 49.71,
         "start_price": 71.8,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.96,
+        "pe_ratio": 12.06,
         "forward_return": 51.59,
         "start_price": 78.5,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.9,
         "forward_return": 61.53,
         "start_price": 78.9,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.42,
+        "pe_ratio": 9.6,
         "forward_return": 61.81,
         "start_price": 87.0,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.83,
         "forward_return": 50.34,
         "start_price": 99.8,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.61,
+        "pe_ratio": 10.92,
         "forward_return": 37.84,
         "start_price": 123.0,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 8.62,
+        "pe_ratio": 8.89,
         "forward_return": 45.83,
         "start_price": 110.0,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.97,
         "forward_return": 45.13,
         "start_price": 107.5,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 6.61,
+        "pe_ratio": 6.84,
         "forward_return": 41.53,
         "start_price": 100.0,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 5.39,
+        "pe_ratio": 5.57,
         "forward_return": 48.15,
         "start_price": 87.8,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 4.97,
+        "pe_ratio": 5.13,
         "forward_return": 48.28,
         "start_price": 86.8,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 6.03,
+        "pe_ratio": 6.15,
         "forward_return": 36.48,
         "start_price": 112.5,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 6.86,
+        "pe_ratio": 6.92,
         "forward_return": 29.59,
         "start_price": 136.0,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.84,
+        "pe_ratio": 6.5,
         "forward_return": 26.45,
         "start_price": 137.5,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.28,
+        "pe_ratio": 6.56,
         "forward_return": 26.44,
         "start_price": 140.0,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.05,
         "forward_return": 27.04,
         "start_price": 130.0,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.22,
+        "pe_ratio": 5.35,
         "forward_return": 32.61,
         "start_price": 108.5,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 6.83,
+        "pe_ratio": 5.92,
         "forward_return": 38.54,
         "start_price": 113.0,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.67,
+        "pe_ratio": 4.96,
         "forward_return": 51.34,
         "start_price": 88.7,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 6.19,
+        "pe_ratio": 5.51,
         "forward_return": 48.2,
         "start_price": 91.4,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 6.2,
+        "pe_ratio": 5.61,
         "forward_return": 51.63,
         "start_price": 85.9,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 6.81,
+        "pe_ratio": 6.28,
         "forward_return": 53.84,
         "start_price": 88.3,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 7.66,
+        "pe_ratio": 7.23,
         "forward_return": 48.51,
         "start_price": 92.5,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 9.36,
         "forward_return": 35.05,
         "start_price": 108.0,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.49,
+        "pe_ratio": 12.54,
         "forward_return": 30.3,
         "start_price": 115.5,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.12,
+        "pe_ratio": 14.63,
         "forward_return": 30.09,
         "start_price": 119.0,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 82.93,
+        "pe_ratio": 13.44,
         "forward_return": 9.59,
         "start_price": 24.05,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 15.21,
         "forward_return": 11.35,
         "start_price": 25.2,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 82.24,
+        "pe_ratio": 15.66,
         "forward_return": 12.04,
         "start_price": 23.85,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 14.1,
         "forward_return": 15.96,
         "start_price": 19.6,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 67.93,
+        "pe_ratio": 13.78,
         "forward_return": 18.49,
         "start_price": 19.7,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 70.69,
+        "pe_ratio": 13.95,
         "forward_return": 11.1,
         "start_price": 20.5,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 91.38,
+        "pe_ratio": 17.55,
         "forward_return": 7.57,
         "start_price": 26.5,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 83.1,
+        "pe_ratio": 21.84,
         "forward_return": 9.88,
         "start_price": 24.1,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 36.17,
         "forward_return": 8.82,
         "start_price": 25.2,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 56.98,
+        "pe_ratio": 71.5,
         "forward_return": 11.01,
         "start_price": 24.55,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 45.48,
+        "pe_ratio": 65.55,
         "forward_return": 7.51,
         "start_price": 26.0,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 32.35,
+        "pe_ratio": 51.22,
         "forward_return": 9.79,
         "start_price": 23.05,
         "start_year": 2007
@@ -10200,7 +10200,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 26.13,
+        "pe_ratio": 32.16,
         "forward_return": 11.8,
         "start_price": 22.3,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 22.83,
+        "pe_ratio": 24.23,
         "forward_return": 12.86,
         "start_price": 22.7,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 21.63,
+        "pe_ratio": 20.81,
         "forward_return": 11.01,
         "start_price": 24.55,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.63,
         "forward_return": 8.96,
         "start_price": 27.8,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.18,
+        "pe_ratio": 25.57,
         "forward_return": 4.29,
         "start_price": 30.0,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 23.21,
         "forward_return": 5.62,
         "start_price": 27.15,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.81,
+        "pe_ratio": 18.65,
         "forward_return": 4.06,
         "start_price": 26.85,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 11.45,
+        "pe_ratio": 12.31,
         "forward_return": 7.19,
         "start_price": 21.05,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 7.92,
         "forward_return": 15.42,
         "start_price": 17.4,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 8.2,
         "forward_return": 12.87,
         "start_price": 19.8,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.47,
+        "pe_ratio": 9.13,
         "forward_return": 7.28,
         "start_price": 24.0,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.82,
+        "pe_ratio": 10.46,
         "forward_return": 5.21,
         "start_price": 26.35,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 14.09,
+        "pe_ratio": 11.04,
         "forward_return": 5.64,
         "start_price": 26.6,
         "start_year": 2008
@@ -10326,7 +10326,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 10.0,
         "forward_return": 11.41,
         "start_price": 23.0,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.02,
+        "pe_ratio": 10.11,
         "forward_return": 11.34,
         "start_price": 22.25,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 10.52,
         "forward_return": 11.29,
         "start_price": 22.1,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 8.93,
+        "pe_ratio": 8.1,
         "forward_return": 21.02,
         "start_price": 16.2,
         "start_year": 2008
@@ -10362,7 +10362,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.51,
+        "pe_ratio": 6.09,
         "forward_return": 28.7,
         "start_price": 11.7,
         "start_year": 2008
@@ -10371,7 +10371,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.35,
+        "pe_ratio": 6.14,
         "forward_return": 29.87,
         "start_price": 11.3,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 6.24,
+        "pe_ratio": 7.08,
         "forward_return": 29.84,
         "start_price": 11.75,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.4,
+        "pe_ratio": 9.52,
         "forward_return": 23.23,
         "start_price": 14.85,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.78,
+        "pe_ratio": 12.81,
         "forward_return": 17.5,
         "start_price": 18.7,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 15.51,
         "forward_return": 11.93,
         "start_price": 23.0,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.13,
+        "pe_ratio": 14.4,
         "forward_return": 14.27,
         "start_price": 21.7,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.66,
+        "pe_ratio": 12.52,
         "forward_return": 17.09,
         "start_price": 19.15,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.71,
+        "pe_ratio": 12.51,
         "forward_return": 12.07,
         "start_price": 22.85,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 12.13,
         "forward_return": 8.73,
         "start_price": 25.75,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 11.24,
         "forward_return": 8.54,
         "start_price": 27.2,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 10.41,
         "forward_return": 10.48,
         "start_price": 28.05,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.35,
+        "pe_ratio": 9.83,
         "forward_return": 12.05,
         "start_price": 29.15,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 8.83,
         "forward_return": 12.47,
         "start_price": 30.5,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 9.0,
+        "pe_ratio": 7.98,
         "forward_return": 16.56,
         "start_price": 29.25,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 9.47,
+        "pe_ratio": 7.94,
         "forward_return": 15.01,
         "start_price": 30.8,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 9.01,
         "forward_return": 12.64,
         "start_price": 34.85,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 8.73,
         "forward_return": 15.8,
         "start_price": 33.7,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 8.19,
         "forward_return": 15.86,
         "start_price": 31.55,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 8.95,
         "forward_return": 10.87,
         "start_price": 33.75,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.09,
         "forward_return": 17.24,
         "start_price": 26.15,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 8.42,
         "forward_return": 9.4,
         "start_price": 30.4,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 8.58,
         "forward_return": 10.25,
         "start_price": 30.05,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 9.21,
+        "pe_ratio": 8.91,
         "forward_return": 10.38,
         "start_price": 30.25,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.12,
         "forward_return": 10.84,
         "start_price": 32.2,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.64,
         "forward_return": 13.67,
         "start_price": 29.65,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 9.21,
+        "pe_ratio": 9.56,
         "forward_return": 14.2,
         "start_price": 28.4,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.78,
         "forward_return": 11.99,
         "start_price": 29.75,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.78,
+        "pe_ratio": 10.19,
         "forward_return": 8.44,
         "start_price": 31.75,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.09,
         "forward_return": 6.1,
         "start_price": 32.2,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.55,
         "forward_return": 1.96,
         "start_price": 32.2,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.77,
         "forward_return": 6.92,
         "start_price": 28.5,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.64,
         "forward_return": 11.15,
         "start_price": 26.8,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 9.43,
+        "pe_ratio": 9.16,
         "forward_return": 15.57,
         "start_price": 24.5,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 8.22,
+        "pe_ratio": 8.1,
         "forward_return": 21.28,
         "start_price": 20.8,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.64,
         "forward_return": 16.68,
         "start_price": 23.9,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 12.37,
         "forward_return": 16.1,
         "start_price": 25.15,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 10.07,
+        "pe_ratio": 13.63,
         "forward_return": 16.19,
         "start_price": 24.8,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 14.03,
         "forward_return": 14.97,
         "start_price": 25.3,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 10.61,
+        "pe_ratio": 14.64,
         "forward_return": 15.2,
         "start_price": 26.15,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 11.53,
+        "pe_ratio": 16.07,
         "forward_return": 13.94,
         "start_price": 28.45,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 13.46,
         "forward_return": 17.94,
         "start_price": 26.2,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.2,
         "forward_return": 20.11,
         "start_price": 25.9,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 11.63,
         "forward_return": 17.96,
         "start_price": 26.75,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 9.75,
+        "pe_ratio": 10.22,
         "forward_return": 21.05,
         "start_price": 24.1,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 10.0,
         "forward_return": 21.37,
         "start_price": 24.15,
         "start_year": 2012
@@ -10821,7 +10821,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 9.84,
+        "pe_ratio": 9.52,
         "forward_return": 19.15,
         "start_price": 25.4,
         "start_year": 2013
@@ -10830,7 +10830,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 9.76,
+        "pe_ratio": 9.16,
         "forward_return": 19.2,
         "start_price": 26.25,
         "start_year": 2013
@@ -10839,7 +10839,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 9.89,
+        "pe_ratio": 9.04,
         "forward_return": 17.16,
         "start_price": 27.65,
         "start_year": 2013
@@ -10848,7 +10848,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 9.68,
+        "pe_ratio": 9.07,
         "forward_return": 15.58,
         "start_price": 28.1,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 9.64,
+        "pe_ratio": 9.26,
         "forward_return": 14.01,
         "start_price": 29.0,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 8.98,
+        "pe_ratio": 8.83,
         "forward_return": 16.29,
         "start_price": 28.0,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 8.39,
+        "pe_ratio": 8.25,
         "forward_return": 16.25,
         "start_price": 27.05,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 8.11,
+        "pe_ratio": 7.96,
         "forward_return": 17.75,
         "start_price": 27.0,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 8.36,
+        "pe_ratio": 8.21,
         "forward_return": 14.29,
         "start_price": 28.75,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 9.25,
+        "pe_ratio": 9.14,
         "forward_return": 15.07,
         "start_price": 32.8,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.06,
         "forward_return": 12.6,
         "start_price": 36.95,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 10.4,
         "forward_return": 20.35,
         "start_price": 39.8,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 11.94,
+        "pe_ratio": 11.56,
         "forward_return": 15.86,
         "start_price": 45.0,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.34,
         "forward_return": 14.66,
         "start_price": 44.9,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 12.46,
+        "pe_ratio": 11.85,
         "forward_return": 12.78,
         "start_price": 47.1,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.63,
+        "pe_ratio": 12.94,
         "forward_return": 14.89,
         "start_price": 51.6,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 11.96,
         "forward_return": 13.07,
         "start_price": 47.85,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.94,
+        "pe_ratio": 10.67,
         "forward_return": 15.24,
         "start_price": 41.5,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.56,
         "forward_return": 12.63,
         "start_price": 39.9,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 8.95,
+        "pe_ratio": 9.28,
         "forward_return": 15.21,
         "start_price": 34.05,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 9.38,
         "forward_return": 10.62,
         "start_price": 34.9,
         "start_year": 2014
@@ -11019,7 +11019,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 9.39,
         "forward_return": 9.37,
         "start_price": 35.4,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 10.71,
         "forward_return": 7.36,
         "start_price": 39.1,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 10.84,
+        "pe_ratio": 11.49,
         "forward_return": 10.53,
         "start_price": 40.0,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 11.72,
         "forward_return": 11.93,
         "start_price": 38.8,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.49,
         "forward_return": 13.29,
         "start_price": 37.3,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.81,
         "forward_return": 13.73,
         "start_price": 34.4,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 9.11,
+        "pe_ratio": 10.03,
         "forward_return": 20.04,
         "start_price": 31.3,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.45,
+        "pe_ratio": 7.87,
         "forward_return": 23.77,
         "start_price": 25.1,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 8.33,
+        "pe_ratio": 8.45,
         "forward_return": 23.89,
         "start_price": 27.55,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.62,
+        "pe_ratio": 9.37,
         "forward_return": 18.61,
         "start_price": 31.2,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.5,
         "forward_return": 16.67,
         "start_price": 34.0,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.34,
+        "pe_ratio": 11.23,
         "forward_return": 15.31,
         "start_price": 35.3,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.13,
         "forward_return": 16.3,
         "start_price": 34.6,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.36,
         "forward_return": 15.56,
         "start_price": 36.0,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 10.99,
         "forward_return": 15.46,
         "start_price": 35.5,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.55,
         "forward_return": 16.75,
         "start_price": 34.5,
         "start_year": 2016
@@ -11181,7 +11181,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.98,
         "forward_return": 18.26,
         "start_price": 36.35,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.42,
         "forward_return": 19.35,
         "start_price": 38.25,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.1,
         "forward_return": 24.02,
         "start_price": 40.5,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 13.07,
         "forward_return": 21.97,
         "start_price": 43.7,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.91,
+        "pe_ratio": 12.46,
         "forward_return": 20.36,
         "start_price": 41.6,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 12.08,
         "forward_return": 19.1,
         "start_price": 41.55,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.92,
         "forward_return": 20.95,
         "start_price": 42.2,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 11.07,
+        "pe_ratio": 11.69,
         "forward_return": 21.96,
         "start_price": 41.0,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.36,
+        "pe_ratio": 12.69,
         "forward_return": 23.26,
         "start_price": 42.8,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 12.93,
         "forward_return": 27.75,
         "start_price": 41.9,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 12.09,
         "forward_return": 35.53,
         "start_price": 39.95,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 11.52,
         "forward_return": 33.11,
         "start_price": 38.8,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 11.95,
         "forward_return": 30.61,
         "start_price": 41.0,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 10.77,
         "forward_return": 31.15,
         "start_price": 38.6,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 11.0,
         "forward_return": 25.51,
         "start_price": 41.1,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 9.07,
+        "pe_ratio": 9.83,
         "forward_return": 27.47,
         "start_price": 38.25,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 11.49,
         "forward_return": 28.34,
         "start_price": 46.7,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.47,
         "forward_return": 32.59,
         "start_price": 48.6,
         "start_year": 2017
@@ -11361,7 +11361,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.6,
+        "pe_ratio": 14.24,
         "forward_return": 20.19,
         "start_price": 72.7,
         "start_year": 2018
@@ -11370,7 +11370,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.17,
+        "pe_ratio": 12.11,
         "forward_return": 21.7,
         "start_price": 70.3,
         "start_year": 2018
@@ -11379,7 +11379,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 10.28,
         "forward_return": 21.21,
         "start_price": 66.8,
         "start_year": 2018
@@ -11388,7 +11388,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.26,
+        "pe_ratio": 9.99,
         "forward_return": 17.04,
         "start_price": 65.4,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 18.59,
+        "pe_ratio": 12.0,
         "forward_return": 12.61,
         "start_price": 79.1,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.95,
+        "pe_ratio": 10.15,
         "forward_return": 11.16,
         "start_price": 67.4,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.64,
+        "pe_ratio": 9.99,
         "forward_return": 16.63,
         "start_price": 61.4,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 9.28,
         "forward_return": 19.85,
         "start_price": 52.4,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 9.36,
         "forward_return": 23.05,
         "start_price": 48.2,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 8.46,
         "forward_return": 29.77,
         "start_price": 40.45,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 8.81,
         "forward_return": 35.3,
         "start_price": 38.85,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 12.08,
         "forward_return": 36.09,
         "start_price": 40.15,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 12.36,
+        "pe_ratio": 18.38,
         "forward_return": 31.03,
         "start_price": 47.9,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 25.98,
         "forward_return": 33.44,
         "start_price": 49.1,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.38,
+        "pe_ratio": 27.69,
         "forward_return": 32.54,
         "start_price": 49.65,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 26.96,
         "forward_return": 46.14,
         "start_price": 45.75,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 33.25,
         "forward_return": 49.49,
         "start_price": 53.2,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 23.96,
         "forward_return": 64.1,
         "start_price": 46.8,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 22.89,
         "forward_return": 62.3,
         "start_price": 52.8,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 18.67,
         "forward_return": 57.68,
         "start_price": 49.65,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 18.24,
         "forward_return": 47.8,
         "start_price": 50.9,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 17.23,
         "forward_return": 52.97,
         "start_price": 50.3,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.63,
         "forward_return": 59.86,
         "start_price": 51.2,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 14.13,
+        "pe_ratio": 14.87,
         "forward_return": 63.29,
         "start_price": 52.1,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.73,
+        "pe_ratio": 13.67,
         "forward_return": 60.85,
         "start_price": 51.0,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.02,
+        "pe_ratio": 12.7,
         "forward_return": 58.04,
         "start_price": 52.0,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.24,
         "forward_return": 55.32,
         "start_price": 59.0,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 13.59,
         "forward_return": 49.92,
         "start_price": 65.5,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.36,
         "forward_return": 36.14,
         "start_price": 84.0,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 15.59,
         "forward_return": 36.01,
         "start_price": 84.9,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.11,
         "forward_return": 39.76,
         "start_price": 75.5,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.5,
+        "pe_ratio": 11.71,
         "forward_return": 41.89,
         "start_price": 71.8,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.96,
+        "pe_ratio": 12.06,
         "forward_return": 39.94,
         "start_price": 78.5,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.9,
         "forward_return": 37.63,
         "start_price": 78.9,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.42,
+        "pe_ratio": 9.6,
         "forward_return": 34.89,
         "start_price": 87.0,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.58,
+        "pe_ratio": 9.83,
         "forward_return": 28.43,
         "start_price": 99.8,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.61,
+        "pe_ratio": 10.92,
         "forward_return": 20.35,
         "start_price": 123.0,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 8.62,
+        "pe_ratio": 8.89,
         "forward_return": 29.1,
         "start_price": 110.0,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.97,
         "forward_return": 30.58,
         "start_price": 107.5,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 6.61,
+        "pe_ratio": 6.84,
         "forward_return": 32.64,
         "start_price": 100.0,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 5.39,
+        "pe_ratio": 5.57,
         "forward_return": 37.25,
         "start_price": 87.8,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 4.97,
+        "pe_ratio": 5.13,
         "forward_return": 40.01,
         "start_price": 86.8,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 6.03,
+        "pe_ratio": 6.15,
         "forward_return": 29.36,
         "start_price": 112.5,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 6.86,
+        "pe_ratio": 6.92,
         "forward_return": 19.58,
         "start_price": 136.0,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.84,
+        "pe_ratio": 6.5,
         "forward_return": 18.11,
         "start_price": 137.5,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.28,
+        "pe_ratio": 6.56,
         "forward_return": 18.28,
         "start_price": 140.0,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 82.93,
+        "pe_ratio": 13.44,
         "forward_return": 7.66,
         "start_price": 24.05,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 15.21,
         "forward_return": 7.48,
         "start_price": 25.2,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 82.24,
+        "pe_ratio": 15.66,
         "forward_return": 9.84,
         "start_price": 23.85,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 14.1,
         "forward_return": 14.51,
         "start_price": 19.6,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 67.93,
+        "pe_ratio": 13.78,
         "forward_return": 15.1,
         "start_price": 19.7,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 70.69,
+        "pe_ratio": 13.95,
         "forward_return": 11.97,
         "start_price": 20.5,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 91.38,
+        "pe_ratio": 17.55,
         "forward_return": 5.35,
         "start_price": 26.5,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 83.1,
+        "pe_ratio": 21.84,
         "forward_return": 5.89,
         "start_price": 24.1,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 36.17,
         "forward_return": 2.41,
         "start_price": 25.2,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 56.98,
+        "pe_ratio": 71.5,
         "forward_return": 5.1,
         "start_price": 24.55,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 45.48,
+        "pe_ratio": 65.55,
         "forward_return": 4.71,
         "start_price": 26.0,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 32.35,
+        "pe_ratio": 51.22,
         "forward_return": 7.03,
         "start_price": 23.05,
         "start_year": 2007
@@ -11928,7 +11928,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 26.13,
+        "pe_ratio": 32.16,
         "forward_return": 8.07,
         "start_price": 22.3,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 22.83,
+        "pe_ratio": 24.23,
         "forward_return": 8.24,
         "start_price": 22.7,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 21.63,
+        "pe_ratio": 20.81,
         "forward_return": 7.97,
         "start_price": 24.55,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.63,
         "forward_return": 4.82,
         "start_price": 27.8,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.18,
+        "pe_ratio": 25.57,
         "forward_return": 3.06,
         "start_price": 30.0,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 23.21,
         "forward_return": 5.65,
         "start_price": 27.15,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.81,
+        "pe_ratio": 18.65,
         "forward_return": 4.26,
         "start_price": 26.85,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 11.45,
+        "pe_ratio": 12.31,
         "forward_return": 9.49,
         "start_price": 21.05,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 7.92,
         "forward_return": 14.59,
         "start_price": 17.4,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 8.2,
         "forward_return": 12.87,
         "start_price": 19.8,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.47,
+        "pe_ratio": 9.13,
         "forward_return": 8.83,
         "start_price": 24.0,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.82,
+        "pe_ratio": 10.46,
         "forward_return": 7.07,
         "start_price": 26.35,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 14.09,
+        "pe_ratio": 11.04,
         "forward_return": 7.39,
         "start_price": 26.6,
         "start_year": 2008
@@ -12054,7 +12054,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 10.0,
         "forward_return": 9.97,
         "start_price": 23.0,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.02,
+        "pe_ratio": 10.11,
         "forward_return": 10.74,
         "start_price": 22.25,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 10.52,
         "forward_return": 10.86,
         "start_price": 22.1,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 8.93,
+        "pe_ratio": 8.1,
         "forward_return": 19.06,
         "start_price": 16.2,
         "start_year": 2008
@@ -12090,7 +12090,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.51,
+        "pe_ratio": 6.09,
         "forward_return": 29.62,
         "start_price": 11.7,
         "start_year": 2008
@@ -12099,7 +12099,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.35,
+        "pe_ratio": 6.14,
         "forward_return": 32.96,
         "start_price": 11.3,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 6.24,
+        "pe_ratio": 7.08,
         "forward_return": 33.49,
         "start_price": 11.75,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.4,
+        "pe_ratio": 9.52,
         "forward_return": 29.94,
         "start_price": 14.85,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.78,
+        "pe_ratio": 12.81,
         "forward_return": 24.04,
         "start_price": 18.7,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 15.51,
         "forward_return": 19.95,
         "start_price": 23.0,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.13,
+        "pe_ratio": 14.4,
         "forward_return": 23.21,
         "start_price": 21.7,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.66,
+        "pe_ratio": 12.52,
         "forward_return": 24.75,
         "start_price": 19.15,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.71,
+        "pe_ratio": 12.51,
         "forward_return": 18.55,
         "start_price": 22.85,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 12.13,
         "forward_return": 15.05,
         "start_price": 25.75,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 11.24,
         "forward_return": 11.1,
         "start_price": 27.2,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 10.41,
         "forward_return": 10.83,
         "start_price": 28.05,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.35,
+        "pe_ratio": 9.83,
         "forward_return": 10.21,
         "start_price": 29.15,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 8.83,
         "forward_return": 10.87,
         "start_price": 30.5,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 9.0,
+        "pe_ratio": 7.98,
         "forward_return": 12.2,
         "start_price": 29.25,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 9.47,
+        "pe_ratio": 7.94,
         "forward_return": 10.53,
         "start_price": 30.8,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 9.01,
         "forward_return": 7.18,
         "start_price": 34.85,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 8.73,
         "forward_return": 6.6,
         "start_price": 33.7,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 8.19,
         "forward_return": 6.54,
         "start_price": 31.55,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 8.95,
         "forward_return": 2.02,
         "start_price": 33.75,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.09,
         "forward_return": 8.74,
         "start_price": 26.15,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 8.42,
         "forward_return": 7.38,
         "start_price": 30.4,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 8.58,
         "forward_return": 8.98,
         "start_price": 30.05,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 9.21,
+        "pe_ratio": 8.91,
         "forward_return": 9.44,
         "start_price": 30.25,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.12,
         "forward_return": 7.77,
         "start_price": 32.2,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.64,
         "forward_return": 10.21,
         "start_price": 29.65,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 9.21,
+        "pe_ratio": 9.56,
         "forward_return": 10.92,
         "start_price": 28.4,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.78,
         "forward_return": 9.43,
         "start_price": 29.75,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.78,
+        "pe_ratio": 10.19,
         "forward_return": 8.86,
         "start_price": 31.75,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.09,
         "forward_return": 9.39,
         "start_price": 32.2,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.55,
         "forward_return": 10.35,
         "start_price": 32.2,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.77,
         "forward_return": 14.42,
         "start_price": 28.5,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.64,
         "forward_return": 14.95,
         "start_price": 26.8,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 9.43,
+        "pe_ratio": 9.16,
         "forward_return": 17.01,
         "start_price": 24.5,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 8.22,
+        "pe_ratio": 8.1,
         "forward_return": 21.19,
         "start_price": 20.8,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.64,
         "forward_return": 17.35,
         "start_price": 23.9,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 12.37,
         "forward_return": 16.27,
         "start_price": 25.15,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 10.07,
+        "pe_ratio": 13.63,
         "forward_return": 16.88,
         "start_price": 24.8,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 14.03,
         "forward_return": 15.57,
         "start_price": 25.3,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 10.61,
+        "pe_ratio": 14.64,
         "forward_return": 14.29,
         "start_price": 26.15,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 11.53,
+        "pe_ratio": 16.07,
         "forward_return": 13.34,
         "start_price": 28.45,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 13.46,
         "forward_return": 14.43,
         "start_price": 26.2,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.2,
         "forward_return": 15.79,
         "start_price": 25.9,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 11.63,
         "forward_return": 13.8,
         "start_price": 26.75,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 9.75,
+        "pe_ratio": 10.22,
         "forward_return": 19.81,
         "start_price": 24.1,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 10.0,
         "forward_return": 20.52,
         "start_price": 24.15,
         "start_year": 2012
@@ -12549,7 +12549,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 9.84,
+        "pe_ratio": 9.52,
         "forward_return": 27.48,
         "start_price": 25.4,
         "start_year": 2013
@@ -12558,7 +12558,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 9.76,
+        "pe_ratio": 9.16,
         "forward_return": 25.92,
         "start_price": 26.25,
         "start_year": 2013
@@ -12567,7 +12567,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 9.89,
+        "pe_ratio": 9.04,
         "forward_return": 23.55,
         "start_price": 27.65,
         "start_year": 2013
@@ -12576,7 +12576,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 9.68,
+        "pe_ratio": 9.07,
         "forward_return": 22.72,
         "start_price": 28.1,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 9.64,
+        "pe_ratio": 9.26,
         "forward_return": 25.95,
         "start_price": 29.0,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 8.98,
+        "pe_ratio": 8.83,
         "forward_return": 23.43,
         "start_price": 28.0,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 8.39,
+        "pe_ratio": 8.25,
         "forward_return": 23.02,
         "start_price": 27.05,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 8.11,
+        "pe_ratio": 7.96,
         "forward_return": 20.01,
         "start_price": 27.0,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 8.36,
+        "pe_ratio": 8.21,
         "forward_return": 16.99,
         "start_price": 28.75,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 9.25,
+        "pe_ratio": 9.14,
         "forward_return": 10.99,
         "start_price": 32.8,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.06,
         "forward_return": 7.74,
         "start_price": 36.95,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 10.4,
         "forward_return": 6.66,
         "start_price": 39.8,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 11.94,
+        "pe_ratio": 11.56,
         "forward_return": 6.86,
         "start_price": 45.0,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.34,
         "forward_return": 7.31,
         "start_price": 44.9,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 12.46,
+        "pe_ratio": 11.85,
         "forward_return": 6.47,
         "start_price": 47.1,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.63,
+        "pe_ratio": 12.94,
         "forward_return": 3.25,
         "start_price": 51.6,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 11.96,
         "forward_return": 7.28,
         "start_price": 47.85,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.94,
+        "pe_ratio": 10.67,
         "forward_return": 8.22,
         "start_price": 41.5,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.56,
         "forward_return": 11.12,
         "start_price": 39.9,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 8.95,
+        "pe_ratio": 9.28,
         "forward_return": 13.61,
         "start_price": 34.05,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 9.38,
         "forward_return": 13.49,
         "start_price": 34.9,
         "start_year": 2014
@@ -12747,7 +12747,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 9.39,
         "forward_return": 12.96,
         "start_price": 35.4,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 10.71,
         "forward_return": 11.04,
         "start_price": 39.1,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 10.84,
+        "pe_ratio": 11.49,
         "forward_return": 10.84,
         "start_price": 40.0,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 11.72,
         "forward_return": 11.14,
         "start_price": 38.8,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.49,
         "forward_return": 12.36,
         "start_price": 37.3,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.81,
         "forward_return": 16.49,
         "start_price": 34.4,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 9.11,
+        "pe_ratio": 10.03,
         "forward_return": 20.73,
         "start_price": 31.3,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.45,
+        "pe_ratio": 7.87,
         "forward_return": 31.38,
         "start_price": 25.1,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 8.33,
+        "pe_ratio": 8.45,
         "forward_return": 29.19,
         "start_price": 27.55,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.62,
+        "pe_ratio": 9.37,
         "forward_return": 23.53,
         "start_price": 31.2,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.5,
         "forward_return": 20.41,
         "start_price": 34.0,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.34,
+        "pe_ratio": 11.23,
         "forward_return": 21.32,
         "start_price": 35.3,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.13,
         "forward_return": 21.91,
         "start_price": 34.6,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.36,
         "forward_return": 25.48,
         "start_price": 36.0,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 10.99,
         "forward_return": 26.31,
         "start_price": 35.5,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.55,
         "forward_return": 31.82,
         "start_price": 34.5,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.98,
         "forward_return": 27.88,
         "start_price": 36.35,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.42,
         "forward_return": 26.07,
         "start_price": 38.25,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.1,
         "forward_return": 23.6,
         "start_price": 40.5,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 13.07,
         "forward_return": 19.07,
         "start_price": 43.7,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.91,
+        "pe_ratio": 12.46,
         "forward_return": 20.02,
         "start_price": 41.6,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 12.08,
         "forward_return": 25.49,
         "start_price": 41.55,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.92,
         "forward_return": 29.35,
         "start_price": 42.2,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 11.07,
+        "pe_ratio": 11.69,
         "forward_return": 30.36,
         "start_price": 41.0,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.36,
+        "pe_ratio": 12.69,
         "forward_return": 29.66,
         "start_price": 42.8,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 12.93,
         "forward_return": 28.5,
         "start_price": 41.9,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 12.09,
         "forward_return": 25.69,
         "start_price": 39.95,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 11.52,
         "forward_return": 27.32,
         "start_price": 38.8,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 11.95,
         "forward_return": 20.81,
         "start_price": 41.0,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 10.77,
         "forward_return": 24.96,
         "start_price": 38.6,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 11.0,
         "forward_return": 22.23,
         "start_price": 41.1,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 9.07,
+        "pe_ratio": 9.83,
         "forward_return": 24.52,
         "start_price": 38.25,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 11.49,
         "forward_return": 20.51,
         "start_price": 46.7,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.47,
         "forward_return": 22.53,
         "start_price": 48.6,
         "start_year": 2017
@@ -13089,7 +13089,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.6,
+        "pe_ratio": 14.24,
         "forward_return": 14.28,
         "start_price": 72.7,
         "start_year": 2018
@@ -13098,7 +13098,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.17,
+        "pe_ratio": 12.11,
         "forward_return": 15.61,
         "start_price": 70.3,
         "start_year": 2018
@@ -13107,7 +13107,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 10.28,
         "forward_return": 19.05,
         "start_price": 66.8,
         "start_year": 2018
@@ -13116,7 +13116,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.26,
+        "pe_ratio": 9.99,
         "forward_return": 19.18,
         "start_price": 65.4,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 18.59,
+        "pe_ratio": 12.0,
         "forward_return": 21.88,
         "start_price": 79.1,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.95,
+        "pe_ratio": 10.15,
         "forward_return": 31.97,
         "start_price": 67.4,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.64,
+        "pe_ratio": 9.99,
         "forward_return": 41.02,
         "start_price": 61.4,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 9.28,
         "forward_return": 47.79,
         "start_price": 52.4,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 9.36,
         "forward_return": 45.1,
         "start_price": 48.2,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 8.46,
         "forward_return": 43.48,
         "start_price": 40.45,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 8.81,
         "forward_return": 48.28,
         "start_price": 38.85,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 12.08,
         "forward_return": 53.08,
         "start_price": 40.15,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 12.36,
+        "pe_ratio": 18.38,
         "forward_return": 50.8,
         "start_price": 47.9,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 25.98,
         "forward_return": 47.61,
         "start_price": 49.1,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.38,
+        "pe_ratio": 27.69,
         "forward_return": 45.8,
         "start_price": 49.65,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 26.96,
         "forward_return": 49.89,
         "start_price": 45.75,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 33.25,
         "forward_return": 44.37,
         "start_price": 53.2,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 23.96,
         "forward_return": 44.08,
         "start_price": 46.8,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 22.89,
         "forward_return": 40.84,
         "start_price": 52.8,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 18.67,
         "forward_return": 42.33,
         "start_price": 49.65,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 18.24,
         "forward_return": 41.92,
         "start_price": 50.9,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 17.23,
         "forward_return": 43.21,
         "start_price": 50.3,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.63,
         "forward_return": 40.97,
         "start_price": 51.2,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 14.13,
+        "pe_ratio": 14.87,
         "forward_return": 38.61,
         "start_price": 52.1,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.73,
+        "pe_ratio": 13.67,
         "forward_return": 39.95,
         "start_price": 51.0,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.02,
+        "pe_ratio": 12.7,
         "forward_return": 38.01,
         "start_price": 52.0,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.24,
         "forward_return": 39.15,
         "start_price": 59.0,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 13.59,
         "forward_return": 36.89,
         "start_price": 65.5,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.36,
         "forward_return": 30.23,
         "start_price": 84.0,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 15.59,
         "forward_return": 30.11,
         "start_price": 84.9,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.11,
         "forward_return": 35.01,
         "start_price": 75.5,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.5,
+        "pe_ratio": 11.71,
         "forward_return": 34.85,
         "start_price": 71.8,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.96,
+        "pe_ratio": 12.06,
         "forward_return": 29.25,
         "start_price": 78.5,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.9,
         "forward_return": 28.14,
         "start_price": 78.9,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.42,
+        "pe_ratio": 9.6,
         "forward_return": 26.26,
         "start_price": 87.0,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 82.93,
+        "pe_ratio": 13.44,
         "forward_return": 5.77,
         "start_price": 24.05,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 15.21,
         "forward_return": 5.21,
         "start_price": 25.2,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 82.24,
+        "pe_ratio": 15.66,
         "forward_return": 6.62,
         "start_price": 23.85,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 14.1,
         "forward_return": 11.33,
         "start_price": 19.6,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 67.93,
+        "pe_ratio": 13.78,
         "forward_return": 10.46,
         "start_price": 19.7,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 70.69,
+        "pe_ratio": 13.95,
         "forward_return": 9.57,
         "start_price": 20.5,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 91.38,
+        "pe_ratio": 17.55,
         "forward_return": 5.4,
         "start_price": 26.5,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 83.1,
+        "pe_ratio": 21.84,
         "forward_return": 5.74,
         "start_price": 24.1,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 36.17,
         "forward_return": 4.98,
         "start_price": 25.2,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 56.98,
+        "pe_ratio": 71.5,
         "forward_return": 6.08,
         "start_price": 24.55,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 45.48,
+        "pe_ratio": 65.55,
         "forward_return": 5.49,
         "start_price": 26.0,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 32.35,
+        "pe_ratio": 51.22,
         "forward_return": 8.32,
         "start_price": 23.05,
         "start_year": 2007
@@ -13548,7 +13548,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 26.13,
+        "pe_ratio": 32.16,
         "forward_return": 9.14,
         "start_price": 22.3,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 22.83,
+        "pe_ratio": 24.23,
         "forward_return": 9.24,
         "start_price": 22.7,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 21.63,
+        "pe_ratio": 20.81,
         "forward_return": 7.35,
         "start_price": 24.55,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.63,
         "forward_return": 5.36,
         "start_price": 27.8,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.18,
+        "pe_ratio": 25.57,
         "forward_return": 4.01,
         "start_price": 30.0,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 23.21,
         "forward_return": 6.55,
         "start_price": 27.15,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.81,
+        "pe_ratio": 18.65,
         "forward_return": 8.49,
         "start_price": 26.85,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 11.45,
+        "pe_ratio": 12.31,
         "forward_return": 14.7,
         "start_price": 21.05,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 7.92,
         "forward_return": 19.54,
         "start_price": 17.4,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 8.2,
         "forward_return": 18.61,
         "start_price": 19.8,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.47,
+        "pe_ratio": 9.13,
         "forward_return": 15.13,
         "start_price": 24.0,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.82,
+        "pe_ratio": 10.46,
         "forward_return": 14.08,
         "start_price": 26.35,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 14.09,
+        "pe_ratio": 11.04,
         "forward_return": 15.33,
         "start_price": 26.6,
         "start_year": 2008
@@ -13674,7 +13674,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 10.0,
         "forward_return": 16.95,
         "start_price": 23.0,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.02,
+        "pe_ratio": 10.11,
         "forward_return": 16.11,
         "start_price": 22.25,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 10.52,
         "forward_return": 15.66,
         "start_price": 22.1,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 8.93,
+        "pe_ratio": 8.1,
         "forward_return": 19.45,
         "start_price": 16.2,
         "start_year": 2008
@@ -13710,7 +13710,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.51,
+        "pe_ratio": 6.09,
         "forward_return": 26.49,
         "start_price": 11.7,
         "start_year": 2008
@@ -13719,7 +13719,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.35,
+        "pe_ratio": 6.14,
         "forward_return": 27.44,
         "start_price": 11.3,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 6.24,
+        "pe_ratio": 7.08,
         "forward_return": 28.18,
         "start_price": 11.75,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.4,
+        "pe_ratio": 9.52,
         "forward_return": 23.63,
         "start_price": 14.85,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.78,
+        "pe_ratio": 12.81,
         "forward_return": 18.51,
         "start_price": 18.7,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 15.51,
         "forward_return": 13.93,
         "start_price": 23.0,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.13,
+        "pe_ratio": 14.4,
         "forward_return": 13.91,
         "start_price": 21.7,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.66,
+        "pe_ratio": 12.52,
         "forward_return": 15.0,
         "start_price": 19.15,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.71,
+        "pe_ratio": 12.51,
         "forward_return": 9.69,
         "start_price": 22.85,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 12.13,
         "forward_return": 8.6,
         "start_price": 25.75,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 11.24,
         "forward_return": 9.11,
         "start_price": 27.2,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 10.41,
         "forward_return": 9.63,
         "start_price": 28.05,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.35,
+        "pe_ratio": 9.83,
         "forward_return": 9.41,
         "start_price": 29.15,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 8.83,
         "forward_return": 8.33,
         "start_price": 30.5,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 9.0,
+        "pe_ratio": 7.98,
         "forward_return": 9.6,
         "start_price": 29.25,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 9.47,
+        "pe_ratio": 7.94,
         "forward_return": 8.48,
         "start_price": 30.8,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 9.01,
         "forward_return": 5.91,
         "start_price": 34.85,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 8.73,
         "forward_return": 7.16,
         "start_price": 33.7,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 8.19,
         "forward_return": 9.01,
         "start_price": 31.55,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 8.95,
         "forward_return": 8.54,
         "start_price": 33.75,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.09,
         "forward_return": 14.32,
         "start_price": 26.15,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 8.42,
         "forward_return": 10.81,
         "start_price": 30.4,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 8.58,
         "forward_return": 11.01,
         "start_price": 30.05,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 9.21,
+        "pe_ratio": 8.91,
         "forward_return": 11.1,
         "start_price": 30.25,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.12,
         "forward_return": 9.56,
         "start_price": 32.2,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.64,
         "forward_return": 11.67,
         "start_price": 29.65,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 9.21,
+        "pe_ratio": 9.56,
         "forward_return": 12.18,
         "start_price": 28.4,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.78,
         "forward_return": 10.66,
         "start_price": 29.75,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.78,
+        "pe_ratio": 10.19,
         "forward_return": 9.08,
         "start_price": 31.75,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.09,
         "forward_return": 9.56,
         "start_price": 32.2,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.55,
         "forward_return": 8.79,
         "start_price": 32.2,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.77,
         "forward_return": 11.88,
         "start_price": 28.5,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.64,
         "forward_return": 12.05,
         "start_price": 26.8,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 9.43,
+        "pe_ratio": 9.16,
         "forward_return": 16.57,
         "start_price": 24.5,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 8.22,
+        "pe_ratio": 8.1,
         "forward_return": 20.41,
         "start_price": 20.8,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.64,
         "forward_return": 24.14,
         "start_price": 23.9,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 12.37,
         "forward_return": 21.36,
         "start_price": 25.15,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 10.07,
+        "pe_ratio": 13.63,
         "forward_return": 21.96,
         "start_price": 24.8,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 14.03,
         "forward_return": 21.21,
         "start_price": 25.3,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 10.61,
+        "pe_ratio": 14.64,
         "forward_return": 23.75,
         "start_price": 26.15,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 11.53,
+        "pe_ratio": 16.07,
         "forward_return": 19.35,
         "start_price": 28.45,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 13.46,
         "forward_return": 20.0,
         "start_price": 26.2,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.2,
         "forward_return": 17.8,
         "start_price": 25.9,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 11.63,
         "forward_return": 15.95,
         "start_price": 26.75,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 9.75,
+        "pe_ratio": 10.22,
         "forward_return": 15.52,
         "start_price": 24.1,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 10.0,
         "forward_return": 14.93,
         "start_price": 24.15,
         "start_year": 2012
@@ -14169,7 +14169,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 9.84,
+        "pe_ratio": 9.52,
         "forward_return": 14.41,
         "start_price": 25.4,
         "start_year": 2013
@@ -14178,7 +14178,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 9.76,
+        "pe_ratio": 9.16,
         "forward_return": 16.23,
         "start_price": 26.25,
         "start_year": 2013
@@ -14187,7 +14187,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 9.89,
+        "pe_ratio": 9.04,
         "forward_return": 15.58,
         "start_price": 27.65,
         "start_year": 2013
@@ -14196,7 +14196,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 9.68,
+        "pe_ratio": 9.07,
         "forward_return": 15.43,
         "start_price": 28.1,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 9.64,
+        "pe_ratio": 9.26,
         "forward_return": 13.67,
         "start_price": 29.0,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 8.98,
+        "pe_ratio": 8.83,
         "forward_return": 16.5,
         "start_price": 28.0,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 8.39,
+        "pe_ratio": 8.25,
         "forward_return": 15.62,
         "start_price": 27.05,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 8.11,
+        "pe_ratio": 7.96,
         "forward_return": 17.38,
         "start_price": 27.0,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 8.36,
+        "pe_ratio": 8.21,
         "forward_return": 15.28,
         "start_price": 28.75,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 9.25,
+        "pe_ratio": 9.14,
         "forward_return": 13.12,
         "start_price": 32.8,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.06,
         "forward_return": 10.73,
         "start_price": 36.95,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 10.4,
         "forward_return": 9.61,
         "start_price": 39.8,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 11.94,
+        "pe_ratio": 11.56,
         "forward_return": 7.62,
         "start_price": 45.0,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.34,
         "forward_return": 7.37,
         "start_price": 44.9,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 12.46,
+        "pe_ratio": 11.85,
         "forward_return": 6.77,
         "start_price": 47.1,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.63,
+        "pe_ratio": 12.94,
         "forward_return": 6.85,
         "start_price": 51.6,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 11.96,
         "forward_return": 9.68,
         "start_price": 47.85,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.94,
+        "pe_ratio": 10.67,
         "forward_return": 15.97,
         "start_price": 41.5,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.56,
         "forward_return": 16.91,
         "start_price": 39.9,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 8.95,
+        "pe_ratio": 9.28,
         "forward_return": 18.12,
         "start_price": 34.05,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 9.38,
         "forward_return": 16.84,
         "start_price": 34.9,
         "start_year": 2014
@@ -14367,7 +14367,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 9.39,
         "forward_return": 17.98,
         "start_price": 35.4,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 10.71,
         "forward_return": 16.12,
         "start_price": 39.1,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 10.84,
+        "pe_ratio": 11.49,
         "forward_return": 17.26,
         "start_price": 40.0,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 11.72,
         "forward_return": 20.16,
         "start_price": 38.8,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.49,
         "forward_return": 24.66,
         "start_price": 37.3,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.81,
         "forward_return": 24.31,
         "start_price": 34.4,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 9.11,
+        "pe_ratio": 10.03,
         "forward_return": 25.87,
         "start_price": 31.3,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.45,
+        "pe_ratio": 7.87,
         "forward_return": 29.66,
         "start_price": 25.1,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 8.33,
+        "pe_ratio": 8.45,
         "forward_return": 25.39,
         "start_price": 27.55,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.62,
+        "pe_ratio": 9.37,
         "forward_return": 22.62,
         "start_price": 31.2,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.5,
         "forward_return": 25.33,
         "start_price": 34.0,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.34,
+        "pe_ratio": 11.23,
         "forward_return": 28.0,
         "start_price": 35.3,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.13,
         "forward_return": 28.63,
         "start_price": 34.6,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.36,
         "forward_return": 26.35,
         "start_price": 36.0,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 10.99,
         "forward_return": 27.06,
         "start_price": 35.5,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.55,
         "forward_return": 24.4,
         "start_price": 34.5,
         "start_year": 2016
@@ -14529,7 +14529,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.98,
         "forward_return": 24.03,
         "start_price": 36.35,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.42,
         "forward_return": 18.89,
         "start_price": 38.25,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.1,
         "forward_return": 19.88,
         "start_price": 40.5,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 13.07,
         "forward_return": 17.45,
         "start_price": 43.7,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.91,
+        "pe_ratio": 12.46,
         "forward_return": 18.83,
         "start_price": 41.6,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 12.08,
         "forward_return": 19.55,
         "start_price": 41.55,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.92,
         "forward_return": 21.66,
         "start_price": 42.2,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 11.07,
+        "pe_ratio": 11.69,
         "forward_return": 23.34,
         "start_price": 41.0,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.36,
+        "pe_ratio": 12.69,
         "forward_return": 22.95,
         "start_price": 42.8,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 12.93,
         "forward_return": 25.33,
         "start_price": 41.9,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 12.09,
         "forward_return": 26.0,
         "start_price": 39.95,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 11.52,
         "forward_return": 33.06,
         "start_price": 38.8,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 11.95,
         "forward_return": 37.11,
         "start_price": 41.0,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 10.77,
         "forward_return": 44.17,
         "start_price": 38.6,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 11.0,
         "forward_return": 44.46,
         "start_price": 41.1,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 9.07,
+        "pe_ratio": 9.83,
         "forward_return": 42.03,
         "start_price": 38.25,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 11.49,
         "forward_return": 32.26,
         "start_price": 46.7,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.47,
         "forward_return": 34.09,
         "start_price": 48.6,
         "start_year": 2017
@@ -14709,7 +14709,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.6,
+        "pe_ratio": 14.24,
         "forward_return": 29.41,
         "start_price": 72.7,
         "start_year": 2018
@@ -14718,7 +14718,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.17,
+        "pe_ratio": 12.11,
         "forward_return": 32.33,
         "start_price": 70.3,
         "start_year": 2018
@@ -14727,7 +14727,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 10.28,
         "forward_return": 31.68,
         "start_price": 66.8,
         "start_year": 2018
@@ -14736,7 +14736,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.26,
+        "pe_ratio": 9.99,
         "forward_return": 31.05,
         "start_price": 65.4,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 18.59,
+        "pe_ratio": 12.0,
         "forward_return": 28.15,
         "start_price": 79.1,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.95,
+        "pe_ratio": 10.15,
         "forward_return": 30.82,
         "start_price": 67.4,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.64,
+        "pe_ratio": 9.99,
         "forward_return": 29.8,
         "start_price": 61.4,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.59,
+        "pe_ratio": 9.28,
         "forward_return": 33.43,
         "start_price": 52.4,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 9.36,
         "forward_return": 35.1,
         "start_price": 48.2,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 8.46,
         "forward_return": 39.35,
         "start_price": 40.45,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 8.81,
         "forward_return": 41.06,
         "start_price": 38.85,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 12.08,
         "forward_return": 38.88,
         "start_price": 40.15,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 12.36,
+        "pe_ratio": 18.38,
         "forward_return": 35.25,
         "start_price": 47.9,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 25.98,
         "forward_return": 33.4,
         "start_price": 49.1,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.38,
+        "pe_ratio": 27.69,
         "forward_return": 32.04,
         "start_price": 49.65,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 26.96,
         "forward_return": 37.61,
         "start_price": 45.75,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 33.25,
         "forward_return": 34.69,
         "start_price": 53.2,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 23.96,
         "forward_return": 37.53,
         "start_price": 46.8,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 22.89,
         "forward_return": 34.93,
         "start_price": 52.8,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.06,
+        "pe_ratio": 18.67,
         "forward_return": 37.84,
         "start_price": 49.65,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 18.24,
         "forward_return": 36.0,
         "start_price": 50.9,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 17.23,
         "forward_return": 33.53,
         "start_price": 50.3,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.63,
         "forward_return": 32.31,
         "start_price": 51.2,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 82.93,
+        "pe_ratio": 13.44,
         "forward_return": 11.58,
         "start_price": 24.05,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 15.21,
         "forward_return": 11.45,
         "start_price": 25.2,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 82.24,
+        "pe_ratio": 15.66,
         "forward_return": 13.24,
         "start_price": 23.85,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 14.1,
         "forward_return": 15.19,
         "start_price": 19.6,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 67.93,
+        "pe_ratio": 13.78,
         "forward_return": 13.97,
         "start_price": 19.7,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 70.69,
+        "pe_ratio": 13.95,
         "forward_return": 13.0,
         "start_price": 20.5,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 91.38,
+        "pe_ratio": 17.55,
         "forward_return": 7.88,
         "start_price": 26.5,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 83.1,
+        "pe_ratio": 21.84,
         "forward_return": 9.41,
         "start_price": 24.1,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 36.17,
         "forward_return": 8.94,
         "start_price": 25.2,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 56.98,
+        "pe_ratio": 71.5,
         "forward_return": 10.27,
         "start_price": 24.55,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 45.48,
+        "pe_ratio": 65.55,
         "forward_return": 9.71,
         "start_price": 26.0,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 32.35,
+        "pe_ratio": 51.22,
         "forward_return": 11.07,
         "start_price": 23.05,
         "start_year": 2007
@@ -15051,7 +15051,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 26.13,
+        "pe_ratio": 32.16,
         "forward_return": 11.13,
         "start_price": 22.3,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 22.83,
+        "pe_ratio": 24.23,
         "forward_return": 10.09,
         "start_price": 22.7,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 21.63,
+        "pe_ratio": 20.81,
         "forward_return": 8.13,
         "start_price": 24.55,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.63,
         "forward_return": 5.23,
         "start_price": 27.8,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.18,
+        "pe_ratio": 25.57,
         "forward_return": 4.97,
         "start_price": 30.0,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 23.21,
         "forward_return": 7.35,
         "start_price": 27.15,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.81,
+        "pe_ratio": 18.65,
         "forward_return": 8.27,
         "start_price": 26.85,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 11.45,
+        "pe_ratio": 12.31,
         "forward_return": 11.96,
         "start_price": 21.05,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 7.92,
         "forward_return": 14.47,
         "start_price": 17.4,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 8.2,
         "forward_return": 13.01,
         "start_price": 19.8,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.47,
+        "pe_ratio": 9.13,
         "forward_return": 10.2,
         "start_price": 24.0,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.82,
+        "pe_ratio": 10.46,
         "forward_return": 8.65,
         "start_price": 26.35,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 14.09,
+        "pe_ratio": 11.04,
         "forward_return": 9.01,
         "start_price": 26.6,
         "start_year": 2008
@@ -15177,7 +15177,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 10.0,
         "forward_return": 11.5,
         "start_price": 23.0,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.02,
+        "pe_ratio": 10.11,
         "forward_return": 12.89,
         "start_price": 22.25,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 10.52,
         "forward_return": 13.74,
         "start_price": 22.1,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 8.93,
+        "pe_ratio": 8.1,
         "forward_return": 17.73,
         "start_price": 16.2,
         "start_year": 2008
@@ -15213,7 +15213,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.51,
+        "pe_ratio": 6.09,
         "forward_return": 22.61,
         "start_price": 11.7,
         "start_year": 2008
@@ -15222,7 +15222,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.35,
+        "pe_ratio": 6.14,
         "forward_return": 23.31,
         "start_price": 11.3,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 6.24,
+        "pe_ratio": 7.08,
         "forward_return": 22.4,
         "start_price": 11.75,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.4,
+        "pe_ratio": 9.52,
         "forward_return": 19.32,
         "start_price": 14.85,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.78,
+        "pe_ratio": 12.81,
         "forward_return": 15.71,
         "start_price": 18.7,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 15.51,
         "forward_return": 12.29,
         "start_price": 23.0,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.13,
+        "pe_ratio": 14.4,
         "forward_return": 12.83,
         "start_price": 21.7,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.66,
+        "pe_ratio": 12.52,
         "forward_return": 15.15,
         "start_price": 19.15,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.71,
+        "pe_ratio": 12.51,
         "forward_return": 12.44,
         "start_price": 22.85,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 12.13,
         "forward_return": 11.36,
         "start_price": 25.75,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 11.24,
         "forward_return": 9.94,
         "start_price": 27.2,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 10.41,
         "forward_return": 11.39,
         "start_price": 28.05,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.35,
+        "pe_ratio": 9.83,
         "forward_return": 11.25,
         "start_price": 29.15,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 8.83,
         "forward_return": 14.88,
         "start_price": 30.5,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 9.0,
+        "pe_ratio": 7.98,
         "forward_return": 15.1,
         "start_price": 29.25,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 9.47,
+        "pe_ratio": 7.94,
         "forward_return": 13.79,
         "start_price": 30.8,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 9.01,
         "forward_return": 11.82,
         "start_price": 34.85,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 8.73,
         "forward_return": 14.4,
         "start_price": 33.7,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 8.19,
         "forward_return": 13.55,
         "start_price": 31.55,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 8.95,
         "forward_return": 11.85,
         "start_price": 33.75,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.09,
         "forward_return": 13.83,
         "start_price": 26.15,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 8.42,
         "forward_return": 10.89,
         "start_price": 30.4,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 8.58,
         "forward_return": 9.42,
         "start_price": 30.05,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 9.21,
+        "pe_ratio": 8.91,
         "forward_return": 8.97,
         "start_price": 30.25,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.12,
         "forward_return": 8.41,
         "start_price": 32.2,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.64,
         "forward_return": 11.18,
         "start_price": 29.65,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 9.21,
+        "pe_ratio": 9.56,
         "forward_return": 12.02,
         "start_price": 28.4,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.78,
         "forward_return": 11.48,
         "start_price": 29.75,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.78,
+        "pe_ratio": 10.19,
         "forward_return": 9.79,
         "start_price": 31.75,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.09,
         "forward_return": 11.05,
         "start_price": 32.2,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.55,
         "forward_return": 9.92,
         "start_price": 32.2,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.77,
         "forward_return": 12.78,
         "start_price": 28.5,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.64,
         "forward_return": 13.04,
         "start_price": 26.8,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 9.43,
+        "pe_ratio": 9.16,
         "forward_return": 14.56,
         "start_price": 24.5,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 8.22,
+        "pe_ratio": 8.1,
         "forward_return": 16.81,
         "start_price": 20.8,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.64,
         "forward_return": 14.98,
         "start_price": 23.9,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 12.37,
         "forward_return": 14.42,
         "start_price": 25.15,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 10.07,
+        "pe_ratio": 13.63,
         "forward_return": 14.41,
         "start_price": 24.8,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 14.03,
         "forward_return": 14.32,
         "start_price": 25.3,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 10.61,
+        "pe_ratio": 14.64,
         "forward_return": 15.14,
         "start_price": 26.15,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 11.53,
+        "pe_ratio": 16.07,
         "forward_return": 15.04,
         "start_price": 28.45,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 13.46,
         "forward_return": 19.09,
         "start_price": 26.2,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.2,
         "forward_return": 19.39,
         "start_price": 25.9,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 11.63,
         "forward_return": 17.55,
         "start_price": 26.75,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 9.75,
+        "pe_ratio": 10.22,
         "forward_return": 18.51,
         "start_price": 24.1,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 10.0,
         "forward_return": 19.51,
         "start_price": 24.15,
         "start_year": 2012
@@ -15672,7 +15672,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 9.84,
+        "pe_ratio": 9.52,
         "forward_return": 18.82,
         "start_price": 25.4,
         "start_year": 2013
@@ -15681,7 +15681,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 9.76,
+        "pe_ratio": 9.16,
         "forward_return": 19.48,
         "start_price": 26.25,
         "start_year": 2013
@@ -15690,7 +15690,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 9.89,
+        "pe_ratio": 9.04,
         "forward_return": 20.36,
         "start_price": 27.65,
         "start_year": 2013
@@ -15699,7 +15699,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 9.68,
+        "pe_ratio": 9.07,
         "forward_return": 22.77,
         "start_price": 28.1,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 9.64,
+        "pe_ratio": 9.26,
         "forward_return": 20.86,
         "start_price": 29.0,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 8.98,
+        "pe_ratio": 8.83,
         "forward_return": 21.1,
         "start_price": 28.0,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 8.39,
+        "pe_ratio": 8.25,
         "forward_return": 21.09,
         "start_price": 27.05,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 8.11,
+        "pe_ratio": 7.96,
         "forward_return": 19.57,
         "start_price": 27.0,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 8.36,
+        "pe_ratio": 8.21,
         "forward_return": 18.5,
         "start_price": 28.75,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 9.25,
+        "pe_ratio": 9.14,
         "forward_return": 19.62,
         "start_price": 32.8,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.06,
         "forward_return": 20.2,
         "start_price": 36.95,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 10.4,
         "forward_return": 19.23,
         "start_price": 39.8,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 11.94,
+        "pe_ratio": 11.56,
         "forward_return": 17.63,
         "start_price": 45.0,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.34,
         "forward_return": 16.75,
         "start_price": 44.9,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 12.46,
+        "pe_ratio": 11.85,
         "forward_return": 13.91,
         "start_price": 47.1,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.63,
+        "pe_ratio": 12.94,
         "forward_return": 13.08,
         "start_price": 51.6,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 11.96,
         "forward_return": 11.43,
         "start_price": 47.85,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.94,
+        "pe_ratio": 10.67,
         "forward_return": 14.82,
         "start_price": 41.5,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.56,
         "forward_return": 14.74,
         "start_price": 39.9,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 8.95,
+        "pe_ratio": 9.28,
         "forward_return": 17.33,
         "start_price": 34.05,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 9.38,
         "forward_return": 17.46,
         "start_price": 34.9,
         "start_year": 2014
@@ -15870,7 +15870,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 9.39,
         "forward_return": 18.96,
         "start_price": 35.4,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 10.71,
         "forward_return": 18.25,
         "start_price": 39.1,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 10.84,
+        "pe_ratio": 11.49,
         "forward_return": 18.26,
         "start_price": 40.0,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 11.72,
         "forward_return": 20.06,
         "start_price": 38.8,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.49,
         "forward_return": 20.43,
         "start_price": 37.3,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.81,
         "forward_return": 26.14,
         "start_price": 34.4,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 9.11,
+        "pe_ratio": 10.03,
         "forward_return": 31.36,
         "start_price": 31.3,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.45,
+        "pe_ratio": 7.87,
         "forward_return": 39.09,
         "start_price": 25.1,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 8.33,
+        "pe_ratio": 8.45,
         "forward_return": 38.75,
         "start_price": 27.55,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.62,
+        "pe_ratio": 9.37,
         "forward_return": 33.72,
         "start_price": 31.2,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.5,
         "forward_return": 28.64,
         "start_price": 34.0,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.34,
+        "pe_ratio": 11.23,
         "forward_return": 29.97,
         "start_price": 35.3,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.13,
         "forward_return": 33.38,
         "start_price": 34.6,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.36,
         "forward_return": 34.37,
         "start_price": 36.0,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 10.99,
         "forward_return": 33.28,
         "start_price": 35.5,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.55,
         "forward_return": 32.94,
         "start_price": 34.5,
         "start_year": 2016
@@ -16032,7 +16032,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.98,
         "forward_return": 32.98,
         "start_price": 36.35,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 11.43,
+        "pe_ratio": 11.42,
         "forward_return": 31.55,
         "start_price": 38.25,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.1,
         "forward_return": 28.46,
         "start_price": 40.5,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 13.07,
         "forward_return": 27.35,
         "start_price": 43.7,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 11.91,
+        "pe_ratio": 12.46,
         "forward_return": 28.01,
         "start_price": 41.6,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 12.08,
         "forward_return": 28.18,
         "start_price": 41.55,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.92,
         "forward_return": 28.46,
         "start_price": 42.2,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 11.07,
+        "pe_ratio": 11.69,
         "forward_return": 27.97,
         "start_price": 41.0,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.36,
+        "pe_ratio": 12.69,
         "forward_return": 27.55,
         "start_price": 42.8,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 10.93,
+        "pe_ratio": 12.93,
         "forward_return": 26.99,
         "start_price": 41.9,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 12.09,
         "forward_return": 26.97,
         "start_price": 39.95,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 11.52,
         "forward_return": 30.04,
         "start_price": 38.8,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 11.95,
         "forward_return": 29.5,
         "start_price": 41.0,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 10.77,
         "forward_return": 30.45,
         "start_price": 38.6,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 11.0,
         "forward_return": 29.53,
         "start_price": 41.1,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 9.07,
+        "pe_ratio": 9.83,
         "forward_return": 31.77,
         "start_price": 38.25,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 11.49,
         "forward_return": 27.65,
         "start_price": 46.7,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.47,
         "forward_return": 25.14,
         "start_price": 48.6,
         "start_year": 2017
@@ -16212,7 +16212,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.6,
+        "pe_ratio": 14.24,
         "forward_return": 18.45,
         "start_price": 72.7,
         "start_year": 2018
@@ -16221,7 +16221,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.17,
+        "pe_ratio": 12.11,
         "forward_return": 19.29,
         "start_price": 70.3,
         "start_year": 2018
@@ -16230,7 +16230,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 82.93,
+        "pe_ratio": 13.44,
         "forward_return": 8.44,
         "start_price": 24.05,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 15.21,
         "forward_return": 7.73,
         "start_price": 25.2,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 82.24,
+        "pe_ratio": 15.66,
         "forward_return": 8.7,
         "start_price": 23.85,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 14.1,
         "forward_return": 11.23,
         "start_price": 19.6,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 67.93,
+        "pe_ratio": 13.78,
         "forward_return": 11.83,
         "start_price": 19.7,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 70.69,
+        "pe_ratio": 13.95,
         "forward_return": 11.97,
         "start_price": 20.5,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 91.38,
+        "pe_ratio": 17.55,
         "forward_return": 8.76,
         "start_price": 26.5,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 83.1,
+        "pe_ratio": 21.84,
         "forward_return": 9.79,
         "start_price": 24.1,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 86.9,
+        "pe_ratio": 36.17,
         "forward_return": 9.42,
         "start_price": 25.2,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 56.98,
+        "pe_ratio": 71.5,
         "forward_return": 9.49,
         "start_price": 24.55,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 45.48,
+        "pe_ratio": 65.55,
         "forward_return": 9.18,
         "start_price": 26.0,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 32.35,
+        "pe_ratio": 51.22,
         "forward_return": 10.34,
         "start_price": 23.05,
         "start_year": 2007
@@ -16347,7 +16347,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 26.13,
+        "pe_ratio": 32.16,
         "forward_return": 10.35,
         "start_price": 22.3,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 22.83,
+        "pe_ratio": 24.23,
         "forward_return": 9.94,
         "start_price": 22.7,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 21.63,
+        "pe_ratio": 20.81,
         "forward_return": 9.49,
         "start_price": 24.55,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.63,
         "forward_return": 8.06,
         "start_price": 27.8,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 21.18,
+        "pe_ratio": 25.57,
         "forward_return": 7.68,
         "start_price": 30.0,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 23.21,
         "forward_return": 8.26,
         "start_price": 27.15,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 15.81,
+        "pe_ratio": 18.65,
         "forward_return": 9.81,
         "start_price": 26.85,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 11.45,
+        "pe_ratio": 12.31,
         "forward_return": 12.83,
         "start_price": 21.05,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 7.92,
         "forward_return": 18.43,
         "start_price": 17.4,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 10.19,
+        "pe_ratio": 8.2,
         "forward_return": 16.02,
         "start_price": 19.8,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.47,
+        "pe_ratio": 9.13,
         "forward_return": 13.95,
         "start_price": 24.0,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.82,
+        "pe_ratio": 10.46,
         "forward_return": 12.71,
         "start_price": 26.35,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 14.09,
+        "pe_ratio": 11.04,
         "forward_return": 14.26,
         "start_price": 26.6,
         "start_year": 2008
@@ -16473,7 +16473,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 10.0,
         "forward_return": 14.52,
         "start_price": 23.0,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.02,
+        "pe_ratio": 10.11,
         "forward_return": 14.5,
         "start_price": 22.25,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 10.52,
         "forward_return": 13.33,
         "start_price": 22.1,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 8.93,
+        "pe_ratio": 8.1,
         "forward_return": 16.25,
         "start_price": 16.2,
         "start_year": 2008
@@ -16509,7 +16509,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.51,
+        "pe_ratio": 6.09,
         "forward_return": 18.75,
         "start_price": 11.7,
         "start_year": 2008
@@ -16518,7 +16518,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.35,
+        "pe_ratio": 6.14,
         "forward_return": 18.87,
         "start_price": 11.3,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 6.24,
+        "pe_ratio": 7.08,
         "forward_return": 18.65,
         "start_price": 11.75,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.4,
+        "pe_ratio": 9.52,
         "forward_return": 17.22,
         "start_price": 14.85,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.78,
+        "pe_ratio": 12.81,
         "forward_return": 14.73,
         "start_price": 18.7,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 15.51,
         "forward_return": 12.47,
         "start_price": 23.0,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.13,
+        "pe_ratio": 14.4,
         "forward_return": 12.51,
         "start_price": 21.7,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 7.66,
+        "pe_ratio": 12.52,
         "forward_return": 15.08,
         "start_price": 19.15,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 8.71,
+        "pe_ratio": 12.51,
         "forward_return": 12.41,
         "start_price": 22.85,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 12.13,
         "forward_return": 11.95,
         "start_price": 25.75,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 11.24,
         "forward_return": 10.89,
         "start_price": 27.2,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 10.41,
         "forward_return": 10.73,
         "start_price": 28.05,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.35,
+        "pe_ratio": 9.83,
         "forward_return": 10.22,
         "start_price": 29.15,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 8.83,
         "forward_return": 9.85,
         "start_price": 30.5,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 9.0,
+        "pe_ratio": 7.98,
         "forward_return": 10.43,
         "start_price": 29.25,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 9.47,
+        "pe_ratio": 7.94,
         "forward_return": 9.71,
         "start_price": 30.8,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.7,
+        "pe_ratio": 9.01,
         "forward_return": 8.5,
         "start_price": 34.85,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 8.73,
         "forward_return": 9.79,
         "start_price": 33.7,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 9.66,
+        "pe_ratio": 8.19,
         "forward_return": 11.33,
         "start_price": 31.55,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 8.95,
         "forward_return": 12.59,
         "start_price": 33.75,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.09,
         "forward_return": 15.59,
         "start_price": 26.15,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 8.42,
         "forward_return": 12.87,
         "start_price": 30.4,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 8.58,
         "forward_return": 12.58,
         "start_price": 30.05,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 9.21,
+        "pe_ratio": 8.91,
         "forward_return": 13.25,
         "start_price": 30.25,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.12,
         "forward_return": 12.59,
         "start_price": 32.2,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.64,
         "forward_return": 14.36,
         "start_price": 29.65,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 9.21,
+        "pe_ratio": 9.56,
         "forward_return": 16.09,
         "start_price": 28.4,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.78,
         "forward_return": 17.52,
         "start_price": 29.75,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.78,
+        "pe_ratio": 10.19,
         "forward_return": 15.7,
         "start_price": 31.75,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.09,
         "forward_return": 15.32,
         "start_price": 32.2,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.55,
         "forward_return": 14.89,
         "start_price": 32.2,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.77,
         "forward_return": 15.15,
         "start_price": 28.5,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.64,
         "forward_return": 15.76,
         "start_price": 26.8,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 9.43,
+        "pe_ratio": 9.16,
         "forward_return": 19.16,
         "start_price": 24.5,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 8.22,
+        "pe_ratio": 8.1,
         "forward_return": 23.01,
         "start_price": 20.8,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.64,
         "forward_return": 21.42,
         "start_price": 23.9,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.21,
+        "pe_ratio": 12.37,
         "forward_return": 20.07,
         "start_price": 25.15,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 10.07,
+        "pe_ratio": 13.63,
         "forward_return": 20.42,
         "start_price": 24.8,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 14.03,
         "forward_return": 18.45,
         "start_price": 25.3,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 10.61,
+        "pe_ratio": 14.64,
         "forward_return": 18.44,
         "start_price": 26.15,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 11.53,
+        "pe_ratio": 16.07,
         "forward_return": 15.26,
         "start_price": 28.45,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 13.46,
         "forward_return": 17.41,
         "start_price": 26.2,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.2,
         "forward_return": 17.04,
         "start_price": 25.9,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 11.63,
         "forward_return": 16.89,
         "start_price": 26.75,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 9.75,
+        "pe_ratio": 10.22,
         "forward_return": 18.5,
         "start_price": 24.1,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 10.0,
         "forward_return": 19.8,
         "start_price": 24.15,
         "start_year": 2012
@@ -16968,7 +16968,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 9.84,
+        "pe_ratio": 9.52,
         "forward_return": 19.79,
         "start_price": 25.4,
         "start_year": 2013
@@ -16977,7 +16977,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 9.76,
+        "pe_ratio": 9.16,
         "forward_return": 19.66,
         "start_price": 26.25,
         "start_year": 2013
@@ -16986,7 +16986,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 9.89,
+        "pe_ratio": 9.04,
         "forward_return": 20.09,
         "start_price": 27.65,
         "start_year": 2013
@@ -16995,7 +16995,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 9.68,
+        "pe_ratio": 9.07,
         "forward_return": 19.73,
         "start_price": 28.1,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 9.64,
+        "pe_ratio": 9.26,
         "forward_return": 22.77,
         "start_price": 29.0,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 8.98,
+        "pe_ratio": 8.83,
         "forward_return": 26.01,
         "start_price": 28.0,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 8.39,
+        "pe_ratio": 8.25,
         "forward_return": 29.45,
         "start_price": 27.05,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 8.11,
+        "pe_ratio": 7.96,
         "forward_return": 30.42,
         "start_price": 27.0,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 8.36,
+        "pe_ratio": 8.21,
         "forward_return": 27.44,
         "start_price": 28.75,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 9.25,
+        "pe_ratio": 9.14,
         "forward_return": 23.04,
         "start_price": 32.8,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.06,
         "forward_return": 23.02,
         "start_price": 36.95,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 10.4,
         "forward_return": 24.37,
         "start_price": 39.8,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 11.94,
+        "pe_ratio": 11.56,
         "forward_return": 24.05,
         "start_price": 45.0,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.34,
         "forward_return": 23.11,
         "start_price": 44.9,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 12.46,
+        "pe_ratio": 11.85,
         "forward_return": 21.93,
         "start_price": 47.1,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.63,
+        "pe_ratio": 12.94,
         "forward_return": 21.48,
         "start_price": 51.6,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 11.96,
         "forward_return": 21.97,
         "start_price": 47.85,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.94,
+        "pe_ratio": 10.67,
         "forward_return": 22.09,
         "start_price": 41.5,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.56,
         "forward_return": 22.65,
         "start_price": 39.9,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 8.95,
+        "pe_ratio": 9.28,
         "forward_return": 24.51,
         "start_price": 34.05,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.16,
+        "pe_ratio": 9.38,
         "forward_return": 24.33,
         "start_price": 34.9,
         "start_year": 2014
@@ -17166,7 +17166,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 9.28,
+        "pe_ratio": 9.39,
         "forward_return": 24.55,
         "start_price": 35.4,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 10.71,
         "forward_return": 22.6,
         "start_price": 39.1,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 10.84,
+        "pe_ratio": 11.49,
         "forward_return": 22.52,
         "start_price": 40.0,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 11.72,
         "forward_return": 22.22,
         "start_price": 38.8,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.49,
         "forward_return": 22.11,
         "start_price": 37.3,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.81,
         "forward_return": 25.08,
         "start_price": 34.4,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 9.11,
+        "pe_ratio": 10.03,
         "forward_return": 26.54,
         "start_price": 31.3,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.45,
+        "pe_ratio": 7.87,
         "forward_return": 29.34,
         "start_price": 25.1,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 8.33,
+        "pe_ratio": 8.45,
         "forward_return": 28.21,
         "start_price": 27.55,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.62,
+        "pe_ratio": 9.37,
         "forward_return": 27.45,
         "start_price": 31.2,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 10.5,
         "forward_return": 25.68,
         "start_price": 34.0,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.34,
+        "pe_ratio": 11.23,
         "forward_return": 23.75,
         "start_price": 35.3,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 11.13,
         "forward_return": 23.55,
         "start_price": 34.6,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 8.0倍、9.5倍、11.1倍、15.2倍、27.4倍"
+!!! note "本益比河流帶水位: 8.0倍、9.4倍、11.5倍、15.5倍、24.9倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "date": "2006-03-16",
         "price": 24.05,
-        "pe": 82.93,
-        "pe_10": 2.31,
-        "pe_25": 2.76,
-        "pe_50": 3.21,
-        "pe_75": 4.41,
-        "pe_90": 7.95
+        "pe": 13.44,
+        "pe_10": 14.24,
+        "pe_25": 16.8,
+        "pe_50": 20.56,
+        "pe_75": 27.73,
+        "pe_90": 44.61
       },
       {
         "date": "2006-04-15",
         "price": 25.2,
-        "pe": 86.9,
-        "pe_10": 2.31,
-        "pe_25": 2.76,
-        "pe_50": 3.21,
-        "pe_75": 4.41,
-        "pe_90": 7.95
+        "pe": 15.21,
+        "pe_10": 13.18,
+        "pe_25": 15.55,
+        "pe_50": 19.04,
+        "pe_75": 25.67,
+        "pe_90": 41.31
       },
       {
         "date": "2006-05-16",
         "price": 23.85,
-        "pe": 82.24,
-        "pe_10": 2.31,
-        "pe_25": 2.76,
-        "pe_50": 3.21,
-        "pe_75": 4.41,
-        "pe_90": 7.95
+        "pe": 15.66,
+        "pe_10": 12.12,
+        "pe_25": 14.3,
+        "pe_50": 17.5,
+        "pe_75": 23.6,
+        "pe_90": 37.97
       },
       {
         "date": "2006-06-15",
         "price": 19.6,
-        "pe": 67.59,
-        "pe_10": 2.31,
-        "pe_25": 2.76,
-        "pe_50": 3.21,
-        "pe_75": 4.41,
-        "pe_90": 7.95
+        "pe": 14.1,
+        "pe_10": 11.06,
+        "pe_25": 13.05,
+        "pe_50": 15.97,
+        "pe_75": 21.54,
+        "pe_90": 34.66
       },
       {
         "date": "2006-07-16",
         "price": 19.7,
-        "pe": 67.93,
-        "pe_10": 2.31,
-        "pe_25": 2.76,
-        "pe_50": 3.21,
-        "pe_75": 4.41,
-        "pe_90": 7.95
+        "pe": 13.78,
+        "pe_10": 11.38,
+        "pe_25": 13.42,
+        "pe_50": 16.43,
+        "pe_75": 22.15,
+        "pe_90": 35.64
       },
       {
         "date": "2006-08-16",
         "price": 20.5,
-        "pe": 70.69,
-        "pe_10": 2.31,
-        "pe_25": 2.76,
-        "pe_50": 3.21,
-        "pe_75": 4.41,
-        "pe_90": 7.95
+        "pe": 13.95,
+        "pe_10": 11.69,
+        "pe_25": 13.8,
+        "pe_50": 16.88,
+        "pe_75": 22.77,
+        "pe_90": 36.64
       },
       {
         "date": "2006-09-15",
         "price": 26.5,
-        "pe": 91.38,
-        "pe_10": 2.31,
-        "pe_25": 2.76,
-        "pe_50": 3.21,
-        "pe_75": 4.41,
-        "pe_90": 7.95
+        "pe": 17.55,
+        "pe_10": 12.02,
+        "pe_25": 14.17,
+        "pe_50": 17.35,
+        "pe_75": 23.4,
+        "pe_90": 37.65
       },
       {
         "date": "2006-10-16",
         "price": 24.1,
-        "pe": 83.1,
-        "pe_10": 2.31,
-        "pe_25": 2.76,
-        "pe_50": 3.21,
-        "pe_75": 4.41,
-        "pe_90": 7.95
+        "pe": 21.84,
+        "pe_10": 8.78,
+        "pe_25": 10.36,
+        "pe_50": 12.68,
+        "pe_75": 17.1,
+        "pe_90": 27.51
       },
       {
         "date": "2006-11-15",
         "price": 25.2,
-        "pe": 86.9,
-        "pe_10": 2.31,
-        "pe_25": 2.76,
-        "pe_50": 3.21,
-        "pe_75": 4.41,
-        "pe_90": 7.95
+        "pe": 36.17,
+        "pe_10": 5.54,
+        "pe_25": 6.54,
+        "pe_50": 8.01,
+        "pe_75": 10.8,
+        "pe_90": 17.37
       },
       {
         "date": "2006-12-16",
         "price": 24.75,
         "pe": 85.34,
         "pe_10": 2.31,
-        "pe_25": 2.76,
-        "pe_50": 3.21,
-        "pe_75": 4.41,
-        "pe_90": 7.95
+        "pe_25": 2.72,
+        "pe_50": 3.33,
+        "pe_75": 4.49,
+        "pe_90": 7.23
       },
       {
         "date": "2007-01-16",
         "price": 24.55,
-        "pe": 56.98,
-        "pe_10": 3.43,
-        "pe_25": 4.1,
-        "pe_50": 4.78,
-        "pe_75": 6.56,
-        "pe_90": 11.81
+        "pe": 71.5,
+        "pe_10": 2.73,
+        "pe_25": 3.22,
+        "pe_50": 3.95,
+        "pe_75": 5.32,
+        "pe_90": 8.56
       },
       {
         "date": "2007-02-14",
         "price": 26.0,
-        "pe": 45.48,
-        "pe_10": 4.55,
-        "pe_25": 5.45,
-        "pe_50": 6.34,
-        "pe_75": 8.7,
-        "pe_90": 15.68
+        "pe": 65.55,
+        "pe_10": 3.16,
+        "pe_25": 3.72,
+        "pe_50": 4.56,
+        "pe_75": 6.15,
+        "pe_90": 9.89
       },
       {
         "date": "2007-03-16",
         "price": 23.05,
-        "pe": 32.35,
-        "pe_10": 5.67,
-        "pe_25": 6.79,
-        "pe_50": 7.9,
-        "pe_75": 10.84,
-        "pe_90": 19.54
+        "pe": 51.22,
+        "pe_10": 3.58,
+        "pe_25": 4.22,
+        "pe_50": 5.17,
+        "pe_75": 6.97,
+        "pe_90": 11.22
       },
       {
         "date": "2007-04-15",
         "price": 22.3,
-        "pe": 26.13,
-        "pe_10": 6.79,
-        "pe_25": 8.13,
-        "pe_50": 9.46,
-        "pe_75": 12.98,
-        "pe_90": 23.4
+        "pe": 32.16,
+        "pe_10": 5.52,
+        "pe_25": 6.51,
+        "pe_50": 7.97,
+        "pe_75": 10.74,
+        "pe_90": 17.29
       },
       {
         "date": "2007-05-16",
         "price": 22.7,
-        "pe": 22.83,
-        "pe_10": 7.92,
-        "pe_25": 9.47,
-        "pe_50": 11.02,
-        "pe_75": 15.13,
-        "pe_90": 27.27
+        "pe": 24.23,
+        "pe_10": 7.46,
+        "pe_25": 8.79,
+        "pe_50": 10.76,
+        "pe_75": 14.52,
+        "pe_90": 23.36
       },
       {
         "date": "2007-06-15",
         "price": 24.55,
-        "pe": 21.63,
-        "pe_10": 9.04,
-        "pe_25": 10.81,
-        "pe_50": 12.58,
-        "pe_75": 17.27,
-        "pe_90": 31.12
+        "pe": 20.81,
+        "pe_10": 9.39,
+        "pe_25": 11.07,
+        "pe_50": 13.55,
+        "pe_75": 18.28,
+        "pe_90": 29.41
       },
       {
         "date": "2007-07-16",
         "price": 27.8,
-        "pe": 21.79,
-        "pe_10": 10.16,
-        "pe_25": 12.15,
-        "pe_50": 14.14,
-        "pe_75": 19.41,
-        "pe_90": 34.99
+        "pe": 23.63,
+        "pe_10": 9.36,
+        "pe_25": 11.04,
+        "pe_50": 13.52,
+        "pe_75": 18.23,
+        "pe_90": 29.33
       },
       {
         "date": "2007-08-16",
         "price": 30.0,
-        "pe": 21.18,
-        "pe_10": 11.28,
-        "pe_25": 13.49,
-        "pe_50": 15.7,
-        "pe_75": 21.55,
-        "pe_90": 38.84
+        "pe": 25.57,
+        "pe_10": 9.34,
+        "pe_25": 11.01,
+        "pe_50": 13.48,
+        "pe_75": 18.18,
+        "pe_90": 29.25
       },
       {
         "date": "2007-09-15",
         "price": 27.15,
-        "pe": 17.43,
-        "pe_10": 12.4,
-        "pe_25": 14.84,
-        "pe_50": 17.27,
-        "pe_75": 23.7,
-        "pe_90": 42.71
+        "pe": 23.21,
+        "pe_10": 9.31,
+        "pe_25": 10.98,
+        "pe_50": 13.44,
+        "pe_75": 18.13,
+        "pe_90": 29.16
       },
       {
         "date": "2007-10-16",
         "price": 26.85,
-        "pe": 15.81,
-        "pe_10": 13.52,
-        "pe_25": 16.18,
-        "pe_50": 18.83,
-        "pe_75": 25.84,
-        "pe_90": 46.57
+        "pe": 18.65,
+        "pe_10": 11.46,
+        "pe_25": 13.51,
+        "pe_50": 16.54,
+        "pe_75": 22.31,
+        "pe_90": 35.89
       },
       {
         "date": "2007-11-15",
         "price": 21.05,
-        "pe": 11.45,
-        "pe_10": 14.64,
-        "pe_25": 17.51,
-        "pe_50": 20.38,
-        "pe_75": 27.97,
-        "pe_90": 50.41
+        "pe": 12.31,
+        "pe_10": 13.61,
+        "pe_25": 16.05,
+        "pe_50": 19.65,
+        "pe_75": 26.5,
+        "pe_90": 42.63
       },
       {
         "date": "2007-12-16",
         "price": 20.95,
         "pe": 10.58,
-        "pe_10": 15.77,
-        "pe_25": 18.86,
-        "pe_50": 21.95,
-        "pe_75": 30.13,
-        "pe_90": 54.3
+        "pe_10": 15.76,
+        "pe_25": 18.59,
+        "pe_50": 22.75,
+        "pe_75": 30.68,
+        "pe_90": 49.37
       },
       {
         "date": "2008-01-16",
         "price": 17.4,
-        "pe": 8.87,
-        "pe_10": 15.62,
-        "pe_25": 18.68,
-        "pe_50": 21.75,
-        "pe_75": 29.85,
-        "pe_90": 53.79
+        "pe": 7.92,
+        "pe_10": 17.48,
+        "pe_25": 20.62,
+        "pe_50": 25.24,
+        "pe_75": 34.04,
+        "pe_90": 54.77
       },
       {
         "date": "2008-02-15",
         "price": 19.8,
-        "pe": 10.19,
-        "pe_10": 15.47,
-        "pe_25": 18.51,
-        "pe_50": 21.54,
-        "pe_75": 29.56,
-        "pe_90": 53.28
+        "pe": 8.2,
+        "pe_10": 19.22,
+        "pe_25": 22.67,
+        "pe_50": 27.74,
+        "pe_75": 37.41,
+        "pe_90": 60.2
       },
       {
         "date": "2008-03-16",
         "price": 24.0,
-        "pe": 12.47,
-        "pe_10": 15.32,
-        "pe_25": 18.33,
-        "pe_50": 21.33,
-        "pe_75": 29.28,
-        "pe_90": 52.78
+        "pe": 9.13,
+        "pe_10": 20.92,
+        "pe_25": 24.68,
+        "pe_50": 30.2,
+        "pe_75": 40.73,
+        "pe_90": 65.54
       },
       {
         "date": "2008-04-15",
         "price": 26.35,
-        "pe": 13.82,
-        "pe_10": 15.18,
-        "pe_25": 18.16,
-        "pe_50": 21.14,
-        "pe_75": 29.01,
-        "pe_90": 52.28
+        "pe": 10.46,
+        "pe_10": 20.05,
+        "pe_25": 23.65,
+        "pe_50": 28.94,
+        "pe_75": 39.03,
+        "pe_90": 62.8
       },
       {
         "date": "2008-05-16",
         "price": 26.6,
-        "pe": 14.09,
-        "pe_10": 15.03,
-        "pe_25": 17.98,
-        "pe_50": 20.93,
-        "pe_75": 28.72,
-        "pe_90": 51.77
+        "pe": 11.04,
+        "pe_10": 19.17,
+        "pe_25": 22.62,
+        "pe_50": 27.68,
+        "pe_75": 37.33,
+        "pe_90": 60.07
       },
       {
         "date": "2008-06-15",
         "price": 23.0,
-        "pe": 12.3,
-        "pe_10": 14.89,
-        "pe_25": 17.81,
-        "pe_50": 20.73,
-        "pe_75": 28.45,
-        "pe_90": 51.28
+        "pe": 10.0,
+        "pe_10": 18.3,
+        "pe_25": 21.59,
+        "pe_50": 26.43,
+        "pe_75": 35.64,
+        "pe_90": 57.34
       },
       {
         "date": "2008-07-16",
         "price": 22.25,
-        "pe": 12.02,
-        "pe_10": 14.74,
-        "pe_25": 17.63,
-        "pe_50": 20.52,
-        "pe_75": 28.16,
-        "pe_90": 50.76
+        "pe": 10.11,
+        "pe_10": 17.51,
+        "pe_25": 20.66,
+        "pe_50": 25.29,
+        "pe_75": 34.1,
+        "pe_90": 54.87
       },
       {
         "date": "2008-08-16",
         "price": 22.1,
-        "pe": 12.05,
-        "pe_10": 14.6,
-        "pe_25": 17.47,
-        "pe_50": 20.33,
-        "pe_75": 27.9,
-        "pe_90": 50.29
+        "pe": 10.52,
+        "pe_10": 16.72,
+        "pe_25": 19.72,
+        "pe_50": 24.14,
+        "pe_75": 32.55,
+        "pe_90": 52.37
       },
       {
         "date": "2008-09-15",
         "price": 16.2,
-        "pe": 8.93,
-        "pe_10": 14.44,
-        "pe_25": 17.28,
-        "pe_50": 20.11,
-        "pe_75": 27.6,
-        "pe_90": 49.75
+        "pe": 8.1,
+        "pe_10": 15.92,
+        "pe_25": 18.78,
+        "pe_50": 22.98,
+        "pe_75": 30.99,
+        "pe_90": 49.86
       },
       {
         "date": "2008-10-16",
         "price": 11.7,
-        "pe": 6.51,
-        "pe_10": 14.31,
-        "pe_25": 17.12,
-        "pe_50": 19.92,
-        "pe_75": 27.34,
-        "pe_90": 49.28
+        "pe": 6.09,
+        "pe_10": 15.29,
+        "pe_25": 18.04,
+        "pe_50": 22.07,
+        "pe_75": 29.77,
+        "pe_90": 47.9
       },
       {
         "date": "2008-11-15",
         "price": 11.3,
-        "pe": 6.35,
-        "pe_10": 14.17,
-        "pe_25": 16.95,
-        "pe_50": 19.73,
-        "pe_75": 27.08,
-        "pe_90": 48.8
+        "pe": 6.14,
+        "pe_10": 14.65,
+        "pe_25": 17.28,
+        "pe_50": 21.15,
+        "pe_75": 28.52,
+        "pe_90": 45.88
       },
       {
         "date": "2008-12-16",
         "price": 11.7,
         "pe": 6.65,
-        "pe_10": 14.01,
-        "pe_25": 16.76,
-        "pe_50": 19.5,
-        "pe_75": 26.77,
-        "pe_90": 48.25
+        "pe_10": 14.0,
+        "pe_25": 16.52,
+        "pe_50": 20.22,
+        "pe_75": 27.26,
+        "pe_90": 43.86
       },
       {
         "date": "2009-01-16",
         "price": 11.75,
-        "pe": 6.24,
-        "pe_10": 14.99,
-        "pe_25": 17.94,
-        "pe_50": 20.87,
-        "pe_75": 28.65,
-        "pe_90": 51.64
+        "pe": 7.08,
+        "pe_10": 13.21,
+        "pe_25": 15.58,
+        "pe_50": 19.07,
+        "pe_75": 25.72,
+        "pe_90": 41.38
       },
       {
         "date": "2009-02-14",
         "price": 14.85,
-        "pe": 7.4,
-        "pe_10": 15.98,
-        "pe_25": 19.11,
-        "pe_50": 22.24,
-        "pe_75": 30.53,
-        "pe_90": 55.03
+        "pe": 9.52,
+        "pe_10": 12.41,
+        "pe_25": 14.64,
+        "pe_50": 17.92,
+        "pe_75": 24.17,
+        "pe_90": 38.89
       },
       {
         "date": "2009-03-16",
         "price": 18.7,
-        "pe": 8.78,
-        "pe_10": 16.96,
-        "pe_25": 20.29,
-        "pe_50": 23.61,
-        "pe_75": 32.41,
-        "pe_90": 58.4
+        "pe": 12.81,
+        "pe_10": 11.62,
+        "pe_25": 13.7,
+        "pe_50": 16.77,
+        "pe_75": 22.62,
+        "pe_90": 36.39
       },
       {
         "date": "2009-04-15",
         "price": 23.0,
-        "pe": 10.21,
-        "pe_10": 17.94,
-        "pe_25": 21.46,
-        "pe_50": 24.97,
-        "pe_75": 34.27,
-        "pe_90": 61.77
+        "pe": 15.51,
+        "pe_10": 11.8,
+        "pe_25": 13.92,
+        "pe_50": 17.04,
+        "pe_75": 22.98,
+        "pe_90": 36.97
       },
       {
         "date": "2009-05-16",
         "price": 21.7,
-        "pe": 9.13,
-        "pe_10": 18.92,
-        "pe_25": 22.64,
-        "pe_50": 26.35,
-        "pe_75": 36.16,
-        "pe_90": 65.18
+        "pe": 14.4,
+        "pe_10": 11.99,
+        "pe_25": 14.15,
+        "pe_50": 17.31,
+        "pe_75": 23.35,
+        "pe_90": 37.57
       },
       {
         "date": "2009-06-15",
         "price": 19.15,
-        "pe": 7.66,
-        "pe_10": 19.9,
-        "pe_25": 23.81,
-        "pe_50": 27.71,
-        "pe_75": 38.04,
-        "pe_90": 68.55
+        "pe": 12.52,
+        "pe_10": 12.17,
+        "pe_25": 14.36,
+        "pe_50": 17.57,
+        "pe_75": 23.7,
+        "pe_90": 38.13
       },
       {
         "date": "2009-07-16",
         "price": 22.85,
-        "pe": 8.71,
-        "pe_10": 20.89,
-        "pe_25": 24.99,
-        "pe_50": 29.08,
-        "pe_75": 39.92,
-        "pe_90": 71.94
+        "pe": 12.51,
+        "pe_10": 14.54,
+        "pe_25": 17.15,
+        "pe_50": 20.99,
+        "pe_75": 28.3,
+        "pe_90": 45.54
       },
       {
         "date": "2009-08-16",
         "price": 25.75,
-        "pe": 9.37,
-        "pe_10": 21.88,
-        "pe_25": 26.18,
-        "pe_50": 30.46,
-        "pe_75": 41.81,
-        "pe_90": 75.36
+        "pe": 12.13,
+        "pe_10": 16.89,
+        "pe_25": 19.93,
+        "pe_50": 24.39,
+        "pe_75": 32.89,
+        "pe_90": 52.92
       },
       {
         "date": "2009-09-15",
         "price": 27.2,
-        "pe": 9.48,
-        "pe_10": 22.84,
-        "pe_25": 27.33,
-        "pe_50": 31.81,
-        "pe_75": 43.65,
-        "pe_90": 78.68
+        "pe": 11.24,
+        "pe_10": 19.26,
+        "pe_25": 22.72,
+        "pe_50": 27.8,
+        "pe_75": 37.5,
+        "pe_90": 60.33
       },
       {
         "date": "2009-10-16",
         "price": 28.05,
-        "pe": 9.37,
-        "pe_10": 23.84,
-        "pe_25": 28.51,
-        "pe_50": 33.18,
-        "pe_75": 45.55,
-        "pe_90": 82.09
+        "pe": 10.41,
+        "pe_10": 21.44,
+        "pe_25": 25.29,
+        "pe_50": 30.96,
+        "pe_75": 41.75,
+        "pe_90": 67.18
       },
       {
         "date": "2009-11-15",
         "price": 29.15,
-        "pe": 9.35,
-        "pe_10": 24.82,
-        "pe_25": 29.7,
-        "pe_50": 34.56,
-        "pe_75": 47.44,
-        "pe_90": 85.49
+        "pe": 9.83,
+        "pe_10": 23.6,
+        "pe_25": 27.84,
+        "pe_50": 34.07,
+        "pe_75": 45.95,
+        "pe_90": 73.93
       },
       {
         "date": "2009-12-16",
         "price": 31.35,
         "pe": 9.68,
-        "pe_10": 25.79,
-        "pe_25": 30.85,
-        "pe_50": 35.9,
-        "pe_75": 49.28,
-        "pe_90": 88.81
+        "pe_10": 25.77,
+        "pe_25": 30.4,
+        "pe_50": 37.21,
+        "pe_75": 50.18,
+        "pe_90": 80.74
       },
       {
         "date": "2010-01-16",
         "price": 30.5,
-        "pe": 9.4,
-        "pe_10": 25.83,
-        "pe_25": 30.91,
-        "pe_50": 35.97,
-        "pe_75": 49.37,
-        "pe_90": 88.98
+        "pe": 8.83,
+        "pe_10": 27.49,
+        "pe_25": 32.43,
+        "pe_50": 39.69,
+        "pe_75": 53.52,
+        "pe_90": 86.12
       },
       {
         "date": "2010-02-14",
         "price": 29.25,
-        "pe": 9.0,
-        "pe_10": 25.88,
-        "pe_25": 30.96,
-        "pe_50": 36.03,
-        "pe_75": 49.45,
-        "pe_90": 89.12
+        "pe": 7.98,
+        "pe_10": 29.17,
+        "pe_25": 34.41,
+        "pe_50": 42.12,
+        "pe_75": 56.8,
+        "pe_90": 91.38
       },
       {
         "date": "2010-03-16",
         "price": 30.8,
-        "pe": 9.47,
-        "pe_10": 25.9,
-        "pe_25": 30.98,
-        "pe_50": 36.05,
-        "pe_75": 49.48,
-        "pe_90": 89.19
+        "pe": 7.94,
+        "pe_10": 30.87,
+        "pe_25": 36.41,
+        "pe_50": 44.57,
+        "pe_75": 60.11,
+        "pe_90": 96.71
       },
       {
         "date": "2010-04-15",
         "price": 34.85,
-        "pe": 10.7,
-        "pe_10": 25.93,
-        "pe_25": 31.02,
-        "pe_50": 36.1,
-        "pe_75": 49.56,
-        "pe_90": 89.31
+        "pe": 9.01,
+        "pe_10": 30.78,
+        "pe_25": 36.31,
+        "pe_50": 44.44,
+        "pe_75": 59.93,
+        "pe_90": 96.43
       },
       {
         "date": "2010-05-16",
         "price": 33.7,
-        "pe": 10.33,
-        "pe_10": 25.97,
-        "pe_25": 31.07,
-        "pe_50": 36.16,
-        "pe_75": 49.64,
-        "pe_90": 89.46
+        "pe": 8.73,
+        "pe_10": 30.72,
+        "pe_25": 36.24,
+        "pe_50": 44.35,
+        "pe_75": 59.81,
+        "pe_90": 96.24
       },
       {
         "date": "2010-06-15",
         "price": 31.55,
-        "pe": 9.66,
-        "pe_10": 26.0,
-        "pe_25": 31.11,
-        "pe_50": 36.2,
-        "pe_75": 49.69,
-        "pe_90": 89.56
+        "pe": 8.19,
+        "pe_10": 30.66,
+        "pe_25": 36.16,
+        "pe_50": 44.26,
+        "pe_75": 59.69,
+        "pe_90": 96.04
       },
       {
         "date": "2010-07-16",
         "price": 33.75,
-        "pe": 10.32,
-        "pe_10": 26.04,
-        "pe_25": 31.15,
-        "pe_50": 36.25,
-        "pe_75": 49.76,
-        "pe_90": 89.68
+        "pe": 8.95,
+        "pe_10": 30.01,
+        "pe_25": 35.4,
+        "pe_50": 43.33,
+        "pe_75": 58.43,
+        "pe_90": 94.01
       },
       {
         "date": "2010-08-16",
         "price": 26.15,
-        "pe": 7.99,
-        "pe_10": 26.06,
-        "pe_25": 31.17,
-        "pe_50": 36.28,
-        "pe_75": 49.8,
-        "pe_90": 89.75
+        "pe": 7.09,
+        "pe_10": 29.35,
+        "pe_25": 34.62,
+        "pe_50": 42.38,
+        "pe_75": 57.15,
+        "pe_90": 91.95
       },
       {
         "date": "2010-09-15",
         "price": 30.4,
-        "pe": 9.28,
-        "pe_10": 26.08,
-        "pe_25": 31.2,
-        "pe_50": 36.31,
-        "pe_75": 49.84,
-        "pe_90": 89.83
+        "pe": 8.42,
+        "pe_10": 28.73,
+        "pe_25": 33.89,
+        "pe_50": 41.48,
+        "pe_75": 55.94,
+        "pe_90": 90.01
       },
       {
         "date": "2010-10-16",
         "price": 30.05,
-        "pe": 9.16,
-        "pe_10": 26.12,
-        "pe_25": 31.25,
-        "pe_50": 36.37,
-        "pe_75": 49.91,
-        "pe_90": 89.96
+        "pe": 8.58,
+        "pe_10": 27.87,
+        "pe_25": 32.88,
+        "pe_50": 40.24,
+        "pe_75": 54.27,
+        "pe_90": 87.32
       },
       {
         "date": "2010-11-15",
         "price": 30.25,
-        "pe": 9.21,
-        "pe_10": 26.15,
-        "pe_25": 31.28,
-        "pe_50": 36.41,
-        "pe_75": 49.97,
-        "pe_90": 90.07
+        "pe": 8.91,
+        "pe_10": 27.02,
+        "pe_25": 31.87,
+        "pe_50": 39.01,
+        "pe_75": 52.61,
+        "pe_90": 84.64
       },
       {
         "date": "2010-12-16",
         "price": 30.65,
         "pe": 9.32,
-        "pe_10": 26.18,
-        "pe_25": 31.32,
-        "pe_50": 36.45,
-        "pe_75": 50.04,
-        "pe_90": 90.18
+        "pe_10": 26.17,
+        "pe_25": 30.87,
+        "pe_50": 37.79,
+        "pe_75": 50.96,
+        "pe_90": 81.99
       },
       {
         "date": "2011-01-16",
         "price": 32.2,
-        "pe": 10.0,
-        "pe_10": 25.64,
-        "pe_25": 30.67,
-        "pe_50": 35.69,
-        "pe_75": 48.99,
-        "pe_90": 88.3
+        "pe": 10.12,
+        "pe_10": 25.32,
+        "pe_25": 29.87,
+        "pe_50": 36.56,
+        "pe_75": 49.3,
+        "pe_90": 79.33
       },
       {
         "date": "2011-02-14",
         "price": 29.65,
-        "pe": 9.41,
-        "pe_10": 25.09,
-        "pe_25": 30.01,
-        "pe_50": 34.93,
-        "pe_75": 47.94,
-        "pe_90": 86.4
+        "pe": 9.64,
+        "pe_10": 24.48,
+        "pe_25": 28.87,
+        "pe_50": 35.34,
+        "pe_75": 47.66,
+        "pe_90": 76.68
       },
       {
         "date": "2011-03-16",
         "price": 28.4,
-        "pe": 9.21,
-        "pe_10": 24.55,
-        "pe_25": 29.37,
-        "pe_50": 34.18,
-        "pe_75": 46.92,
-        "pe_90": 84.56
+        "pe": 9.56,
+        "pe_10": 23.64,
+        "pe_25": 27.89,
+        "pe_50": 34.13,
+        "pe_75": 46.03,
+        "pe_90": 74.06
       },
       {
         "date": "2011-04-15",
         "price": 29.75,
-        "pe": 9.87,
-        "pe_10": 24.0,
-        "pe_25": 28.71,
-        "pe_50": 33.41,
-        "pe_75": 45.86,
-        "pe_90": 82.65
+        "pe": 9.78,
+        "pe_10": 24.21,
+        "pe_25": 28.56,
+        "pe_50": 34.95,
+        "pe_75": 47.13,
+        "pe_90": 75.84
       },
       {
         "date": "2011-05-16",
         "price": 31.75,
-        "pe": 10.78,
-        "pe_10": 23.45,
-        "pe_25": 28.05,
-        "pe_50": 32.65,
-        "pe_75": 44.81,
-        "pe_90": 80.77
+        "pe": 10.19,
+        "pe_10": 24.8,
+        "pe_25": 29.25,
+        "pe_50": 35.8,
+        "pe_75": 48.28,
+        "pe_90": 77.68
       },
       {
         "date": "2011-06-15",
         "price": 32.2,
-        "pe": 11.2,
-        "pe_10": 22.89,
-        "pe_25": 27.38,
-        "pe_50": 31.87,
-        "pe_75": 43.74,
-        "pe_90": 78.84
+        "pe": 10.09,
+        "pe_10": 25.4,
+        "pe_25": 29.96,
+        "pe_50": 36.67,
+        "pe_75": 49.45,
+        "pe_90": 79.56
       },
       {
         "date": "2011-07-16",
         "price": 32.2,
-        "pe": 11.48,
-        "pe_10": 22.33,
-        "pe_25": 26.72,
-        "pe_50": 31.09,
-        "pe_75": 42.68,
-        "pe_90": 76.92
+        "pe": 10.55,
+        "pe_10": 24.29,
+        "pe_25": 28.65,
+        "pe_50": 35.07,
+        "pe_75": 47.29,
+        "pe_90": 76.09
       },
       {
         "date": "2011-08-16",
         "price": 28.5,
-        "pe": 10.41,
-        "pe_10": 21.8,
-        "pe_25": 26.08,
-        "pe_50": 30.35,
-        "pe_75": 41.65,
-        "pe_90": 75.07
+        "pe": 9.77,
+        "pe_10": 23.21,
+        "pe_25": 27.38,
+        "pe_50": 33.52,
+        "pe_75": 45.2,
+        "pe_90": 72.73
       },
       {
         "date": "2011-09-15",
         "price": 26.8,
-        "pe": 10.05,
-        "pe_10": 21.23,
-        "pe_25": 25.4,
-        "pe_50": 29.56,
-        "pe_75": 40.57,
-        "pe_90": 73.13
+        "pe": 9.64,
+        "pe_10": 22.12,
+        "pe_25": 26.1,
+        "pe_50": 31.94,
+        "pe_75": 43.08,
+        "pe_90": 69.31
       },
       {
         "date": "2011-10-16",
         "price": 24.5,
-        "pe": 9.43,
-        "pe_10": 20.69,
-        "pe_25": 24.75,
-        "pe_50": 28.8,
-        "pe_75": 39.53,
-        "pe_90": 71.24
+        "pe": 9.16,
+        "pe_10": 21.29,
+        "pe_25": 25.11,
+        "pe_50": 30.73,
+        "pe_75": 41.44,
+        "pe_90": 66.68
       },
       {
         "date": "2011-11-15",
         "price": 20.8,
-        "pe": 8.22,
-        "pe_10": 20.15,
-        "pe_25": 24.1,
-        "pe_50": 28.05,
-        "pe_75": 38.5,
-        "pe_90": 69.39
+        "pe": 8.1,
+        "pe_10": 20.44,
+        "pe_25": 24.11,
+        "pe_50": 29.51,
+        "pe_75": 39.79,
+        "pe_90": 64.02
       },
       {
         "date": "2011-12-16",
         "price": 21.2,
         "pe": 8.62,
-        "pe_10": 19.58,
-        "pe_25": 23.43,
-        "pe_50": 27.26,
-        "pe_75": 37.42,
-        "pe_90": 67.44
+        "pe_10": 19.57,
+        "pe_25": 23.09,
+        "pe_50": 28.26,
+        "pe_75": 38.11,
+        "pe_90": 61.32
       },
       {
         "date": "2012-01-16",
         "price": 23.9,
-        "pe": 9.71,
-        "pe_10": 19.6,
-        "pe_25": 23.44,
-        "pe_50": 27.28,
-        "pe_75": 37.45,
-        "pe_90": 67.5
+        "pe": 10.64,
+        "pe_10": 17.88,
+        "pe_25": 21.09,
+        "pe_50": 25.81,
+        "pe_75": 34.81,
+        "pe_90": 56.0
       },
       {
         "date": "2012-02-15",
         "price": 25.15,
-        "pe": 10.21,
-        "pe_10": 19.61,
-        "pe_25": 23.46,
-        "pe_50": 27.31,
-        "pe_75": 37.48,
-        "pe_90": 67.55
+        "pe": 12.37,
+        "pe_10": 16.18,
+        "pe_25": 19.09,
+        "pe_50": 23.36,
+        "pe_75": 31.5,
+        "pe_90": 50.69
       },
       {
         "date": "2012-03-16",
         "price": 24.8,
-        "pe": 10.07,
-        "pe_10": 19.61,
-        "pe_25": 23.46,
-        "pe_50": 27.3,
-        "pe_75": 37.47,
-        "pe_90": 67.53
+        "pe": 13.63,
+        "pe_10": 14.48,
+        "pe_25": 17.08,
+        "pe_50": 20.91,
+        "pe_75": 28.19,
+        "pe_90": 45.36
       },
       {
         "date": "2012-04-15",
         "price": 25.3,
-        "pe": 10.27,
-        "pe_10": 19.61,
-        "pe_25": 23.46,
-        "pe_50": 27.31,
-        "pe_75": 37.48,
-        "pe_90": 67.55
+        "pe": 14.03,
+        "pe_10": 14.35,
+        "pe_25": 16.93,
+        "pe_50": 20.72,
+        "pe_75": 27.94,
+        "pe_90": 44.96
       },
       {
         "date": "2012-05-16",
         "price": 26.15,
-        "pe": 10.61,
-        "pe_10": 19.62,
-        "pe_25": 23.48,
-        "pe_50": 27.32,
-        "pe_75": 37.5,
-        "pe_90": 67.59
+        "pe": 14.64,
+        "pe_10": 14.21,
+        "pe_25": 16.77,
+        "pe_50": 20.52,
+        "pe_75": 27.68,
+        "pe_90": 44.53
       },
       {
         "date": "2012-06-15",
         "price": 28.45,
-        "pe": 11.53,
-        "pe_10": 19.65,
-        "pe_25": 23.5,
-        "pe_50": 27.35,
-        "pe_75": 37.54,
-        "pe_90": 67.66
+        "pe": 16.07,
+        "pe_10": 14.09,
+        "pe_25": 16.62,
+        "pe_50": 20.34,
+        "pe_75": 27.43,
+        "pe_90": 44.14
       },
       {
         "date": "2012-07-16",
         "price": 26.2,
-        "pe": 10.62,
-        "pe_10": 19.64,
-        "pe_25": 23.5,
-        "pe_50": 27.35,
-        "pe_75": 37.54,
-        "pe_90": 67.65
+        "pe": 13.46,
+        "pe_10": 15.49,
+        "pe_25": 18.27,
+        "pe_50": 22.37,
+        "pe_75": 30.16,
+        "pe_90": 48.53
       },
       {
         "date": "2012-08-16",
         "price": 25.9,
-        "pe": 10.49,
-        "pe_10": 19.66,
-        "pe_25": 23.52,
-        "pe_50": 27.37,
-        "pe_75": 37.57,
-        "pe_90": 67.71
+        "pe": 12.2,
+        "pe_10": 16.89,
+        "pe_25": 19.93,
+        "pe_50": 24.39,
+        "pe_75": 32.9,
+        "pe_90": 52.93
       },
       {
         "date": "2012-09-15",
         "price": 26.75,
-        "pe": 10.83,
-        "pe_10": 19.67,
-        "pe_25": 23.53,
-        "pe_50": 27.38,
-        "pe_75": 37.58,
-        "pe_90": 67.73
+        "pe": 11.63,
+        "pe_10": 18.3,
+        "pe_25": 21.59,
+        "pe_50": 26.43,
+        "pe_75": 35.64,
+        "pe_90": 57.34
       },
       {
         "date": "2012-10-16",
         "price": 24.1,
-        "pe": 9.75,
-        "pe_10": 19.68,
-        "pe_25": 23.54,
-        "pe_50": 27.4,
-        "pe_75": 37.61,
-        "pe_90": 67.78
+        "pe": 10.22,
+        "pe_10": 18.77,
+        "pe_25": 22.14,
+        "pe_50": 27.09,
+        "pe_75": 36.54,
+        "pe_90": 58.79
       },
       {
         "date": "2012-11-15",
         "price": 24.15,
-        "pe": 9.77,
-        "pe_10": 19.68,
-        "pe_25": 23.54,
-        "pe_50": 27.4,
-        "pe_75": 37.61,
-        "pe_90": 67.78
+        "pe": 10.0,
+        "pe_10": 19.22,
+        "pe_25": 22.67,
+        "pe_50": 27.75,
+        "pe_75": 37.42,
+        "pe_90": 60.21
       },
       {
         "date": "2012-12-16",
         "price": 26.0,
         "pe": 10.51,
-        "pe_10": 19.7,
-        "pe_25": 23.56,
-        "pe_50": 27.42,
-        "pe_75": 37.64,
-        "pe_90": 67.84
+        "pe_10": 19.69,
+        "pe_25": 23.22,
+        "pe_50": 28.42,
+        "pe_75": 38.33,
+        "pe_90": 61.68
       },
       {
         "date": "2013-01-16",
         "price": 25.4,
-        "pe": 9.84,
-        "pe_10": 20.55,
-        "pe_25": 24.59,
-        "pe_50": 28.61,
-        "pe_75": 39.27,
-        "pe_90": 70.78
+        "pe": 9.52,
+        "pe_10": 21.23,
+        "pe_25": 25.05,
+        "pe_50": 30.66,
+        "pe_75": 41.34,
+        "pe_90": 66.52
       },
       {
         "date": "2013-02-14",
         "price": 26.25,
-        "pe": 9.76,
-        "pe_10": 21.41,
-        "pe_25": 25.62,
-        "pe_50": 29.81,
-        "pe_75": 40.92,
-        "pe_90": 73.75
+        "pe": 9.16,
+        "pe_10": 22.81,
+        "pe_25": 26.9,
+        "pe_50": 32.93,
+        "pe_75": 44.4,
+        "pe_90": 71.45
       },
       {
         "date": "2013-03-16",
         "price": 27.65,
-        "pe": 9.89,
-        "pe_10": 22.26,
-        "pe_25": 26.63,
-        "pe_50": 30.99,
-        "pe_75": 42.54,
-        "pe_90": 76.67
+        "pe": 9.04,
+        "pe_10": 24.34,
+        "pe_25": 28.71,
+        "pe_50": 35.14,
+        "pe_75": 47.39,
+        "pe_90": 76.25
       },
       {
         "date": "2013-04-15",
         "price": 28.1,
-        "pe": 9.68,
-        "pe_10": 23.11,
-        "pe_25": 27.65,
-        "pe_50": 32.18,
-        "pe_75": 44.17,
-        "pe_90": 79.6
+        "pe": 9.07,
+        "pe_10": 24.65,
+        "pe_25": 29.08,
+        "pe_50": 35.6,
+        "pe_75": 48.01,
+        "pe_90": 77.24
       },
       {
         "date": "2013-05-16",
         "price": 29.0,
-        "pe": 9.64,
-        "pe_10": 23.95,
-        "pe_25": 28.65,
-        "pe_50": 33.35,
-        "pe_75": 45.77,
-        "pe_90": 82.49
+        "pe": 9.26,
+        "pe_10": 24.92,
+        "pe_25": 29.4,
+        "pe_50": 35.98,
+        "pe_75": 48.53,
+        "pe_90": 78.08
       },
       {
         "date": "2013-06-15",
         "price": 28.0,
-        "pe": 8.98,
-        "pe_10": 24.83,
-        "pe_25": 29.7,
-        "pe_50": 34.56,
-        "pe_75": 47.44,
-        "pe_90": 85.5
+        "pe": 8.83,
+        "pe_10": 25.23,
+        "pe_25": 29.77,
+        "pe_50": 36.43,
+        "pe_75": 49.13,
+        "pe_90": 79.06
       },
       {
         "date": "2013-07-16",
         "price": 27.05,
-        "pe": 8.39,
-        "pe_10": 25.67,
-        "pe_25": 30.71,
-        "pe_50": 35.74,
-        "pe_75": 49.05,
-        "pe_90": 88.41
+        "pe": 8.25,
+        "pe_10": 26.09,
+        "pe_25": 30.78,
+        "pe_50": 37.67,
+        "pe_75": 50.8,
+        "pe_90": 81.74
       },
       {
         "date": "2013-08-16",
         "price": 27.0,
-        "pe": 8.11,
-        "pe_10": 26.51,
-        "pe_25": 31.71,
-        "pe_50": 36.9,
-        "pe_75": 50.65,
-        "pe_90": 91.29
+        "pe": 7.96,
+        "pe_10": 26.99,
+        "pe_25": 31.84,
+        "pe_50": 38.97,
+        "pe_75": 52.56,
+        "pe_90": 84.56
       },
       {
         "date": "2013-09-15",
         "price": 28.75,
-        "pe": 8.36,
-        "pe_10": 27.38,
-        "pe_25": 32.76,
-        "pe_50": 38.12,
-        "pe_75": 52.32,
-        "pe_90": 94.3
+        "pe": 8.21,
+        "pe_10": 27.87,
+        "pe_25": 32.87,
+        "pe_50": 40.24,
+        "pe_75": 54.26,
+        "pe_90": 87.3
       },
       {
         "date": "2013-10-16",
         "price": 32.8,
-        "pe": 9.25,
-        "pe_10": 28.23,
-        "pe_25": 33.78,
-        "pe_50": 39.31,
-        "pe_75": 53.95,
-        "pe_90": 97.24
+        "pe": 9.14,
+        "pe_10": 28.56,
+        "pe_25": 33.69,
+        "pe_50": 41.23,
+        "pe_75": 55.61,
+        "pe_90": 89.47
       },
       {
         "date": "2013-11-15",
         "price": 36.95,
-        "pe": 10.12,
-        "pe_10": 29.07,
-        "pe_25": 34.78,
-        "pe_50": 40.47,
-        "pe_75": 55.55,
-        "pe_90": 100.12
+        "pe": 10.06,
+        "pe_10": 29.23,
+        "pe_25": 34.48,
+        "pe_50": 42.2,
+        "pe_75": 56.91,
+        "pe_90": 91.57
       },
       {
         "date": "2013-12-16",
         "price": 36.0,
         "pe": 9.57,
-        "pe_10": 29.95,
-        "pe_25": 35.83,
-        "pe_50": 41.7,
-        "pe_75": 57.24,
-        "pe_90": 103.15
+        "pe_10": 29.94,
+        "pe_25": 35.31,
+        "pe_50": 43.22,
+        "pe_75": 58.29,
+        "pe_90": 93.78
       },
       {
         "date": "2014-01-16",
         "price": 39.8,
-        "pe": 10.57,
-        "pe_10": 29.98,
-        "pe_25": 35.87,
-        "pe_50": 41.74,
-        "pe_75": 57.29,
-        "pe_90": 103.25
+        "pe": 10.4,
+        "pe_10": 30.45,
+        "pe_25": 35.93,
+        "pe_50": 43.97,
+        "pe_75": 59.3,
+        "pe_90": 95.41
       },
       {
         "date": "2014-02-14",
         "price": 45.0,
-        "pe": 11.94,
-        "pe_10": 30.01,
-        "pe_25": 35.9,
-        "pe_50": 41.78,
-        "pe_75": 57.34,
-        "pe_90": 103.35
+        "pe": 11.56,
+        "pe_10": 30.98,
+        "pe_25": 36.54,
+        "pe_50": 44.73,
+        "pe_75": 60.32,
+        "pe_90": 97.05
       },
       {
         "date": "2014-03-16",
         "price": 44.9,
-        "pe": 11.89,
-        "pe_10": 30.07,
-        "pe_25": 35.97,
-        "pe_50": 41.86,
-        "pe_75": 57.46,
-        "pe_90": 103.55
+        "pe": 11.34,
+        "pe_10": 31.51,
+        "pe_25": 37.17,
+        "pe_50": 45.49,
+        "pe_75": 61.35,
+        "pe_90": 98.71
       },
       {
         "date": "2014-04-15",
         "price": 47.1,
-        "pe": 12.46,
-        "pe_10": 30.1,
-        "pe_25": 36.01,
-        "pe_50": 41.9,
-        "pe_75": 57.51,
-        "pe_90": 103.66
+        "pe": 11.85,
+        "pe_10": 31.63,
+        "pe_25": 37.31,
+        "pe_50": 45.67,
+        "pe_75": 61.59,
+        "pe_90": 99.09
       },
       {
         "date": "2014-05-16",
         "price": 51.6,
-        "pe": 13.63,
-        "pe_10": 30.14,
-        "pe_25": 36.06,
-        "pe_50": 41.97,
-        "pe_75": 57.6,
-        "pe_90": 103.81
+        "pe": 12.94,
+        "pe_10": 31.73,
+        "pe_25": 37.43,
+        "pe_50": 45.82,
+        "pe_75": 61.79,
+        "pe_90": 99.42
       },
       {
         "date": "2014-06-15",
         "price": 47.85,
-        "pe": 12.63,
-        "pe_10": 30.16,
-        "pe_25": 36.09,
-        "pe_50": 42.0,
-        "pe_75": 57.64,
-        "pe_90": 103.89
+        "pe": 11.96,
+        "pe_10": 31.84,
+        "pe_25": 37.56,
+        "pe_50": 45.97,
+        "pe_75": 61.99,
+        "pe_90": 99.74
       },
       {
         "date": "2014-07-16",
         "price": 41.5,
-        "pe": 10.94,
-        "pe_10": 30.2,
-        "pe_25": 36.13,
-        "pe_50": 42.05,
-        "pe_75": 57.72,
-        "pe_90": 104.02
+        "pe": 10.67,
+        "pe_10": 30.95,
+        "pe_25": 36.51,
+        "pe_50": 44.69,
+        "pe_75": 60.27,
+        "pe_90": 96.97
       },
       {
         "date": "2014-08-16",
         "price": 39.9,
-        "pe": 10.5,
-        "pe_10": 30.26,
-        "pe_25": 36.19,
-        "pe_50": 42.12,
-        "pe_75": 57.82,
-        "pe_90": 104.2
+        "pe": 10.56,
+        "pe_10": 30.07,
+        "pe_25": 35.47,
+        "pe_50": 43.41,
+        "pe_75": 58.55,
+        "pe_90": 94.2
       },
       {
         "date": "2014-09-15",
         "price": 34.05,
-        "pe": 8.95,
-        "pe_10": 30.29,
-        "pe_25": 36.24,
-        "pe_50": 42.17,
-        "pe_75": 57.88,
-        "pe_90": 104.33
+        "pe": 9.28,
+        "pe_10": 29.2,
+        "pe_25": 34.44,
+        "pe_50": 42.16,
+        "pe_75": 56.85,
+        "pe_90": 91.48
       },
       {
         "date": "2014-10-16",
         "price": 34.9,
-        "pe": 9.16,
-        "pe_10": 30.34,
-        "pe_25": 36.29,
-        "pe_50": 42.23,
-        "pe_75": 57.97,
-        "pe_90": 104.48
+        "pe": 9.38,
+        "pe_10": 29.61,
+        "pe_25": 34.93,
+        "pe_50": 42.75,
+        "pe_75": 57.65,
+        "pe_90": 92.76
       },
       {
         "date": "2014-11-15",
         "price": 35.4,
-        "pe": 9.28,
-        "pe_10": 30.37,
-        "pe_25": 36.33,
-        "pe_50": 42.29,
-        "pe_75": 58.04,
-        "pe_90": 104.61
+        "pe": 9.39,
+        "pe_10": 30.0,
+        "pe_25": 35.39,
+        "pe_50": 43.32,
+        "pe_75": 58.42,
+        "pe_90": 93.99
       },
       {
         "date": "2014-12-16",
         "price": 37.0,
         "pe": 9.69,
-        "pe_10": 30.4,
-        "pe_25": 36.37,
-        "pe_50": 42.33,
-        "pe_75": 58.1,
-        "pe_90": 104.71
+        "pe_10": 30.39,
+        "pe_25": 35.84,
+        "pe_50": 43.87,
+        "pe_75": 59.17,
+        "pe_90": 95.2
       },
       {
         "date": "2015-01-16",
         "price": 39.1,
-        "pe": 10.41,
-        "pe_10": 29.91,
-        "pe_25": 35.78,
-        "pe_50": 41.64,
-        "pe_75": 57.15,
-        "pe_90": 103.0
+        "pe": 10.71,
+        "pe_10": 29.05,
+        "pe_25": 34.27,
+        "pe_50": 41.95,
+        "pe_75": 56.57,
+        "pe_90": 91.02
       },
       {
         "date": "2015-02-14",
         "price": 40.0,
-        "pe": 10.84,
-        "pe_10": 29.38,
-        "pe_25": 35.15,
-        "pe_50": 40.9,
-        "pe_75": 56.14,
-        "pe_90": 101.19
+        "pe": 11.49,
+        "pe_10": 27.7,
+        "pe_25": 32.68,
+        "pe_50": 40.0,
+        "pe_75": 53.94,
+        "pe_90": 86.79
       },
       {
         "date": "2015-03-16",
         "price": 38.8,
-        "pe": 10.7,
-        "pe_10": 28.87,
-        "pe_25": 34.54,
-        "pe_50": 40.2,
-        "pe_75": 55.17,
-        "pe_90": 99.44
+        "pe": 11.72,
+        "pe_10": 26.35,
+        "pe_25": 31.08,
+        "pe_50": 38.04,
+        "pe_75": 51.3,
+        "pe_90": 82.54
       },
       {
         "date": "2015-04-15",
         "price": 37.3,
-        "pe": 10.47,
-        "pe_10": 28.37,
-        "pe_25": 33.93,
-        "pe_50": 39.49,
-        "pe_75": 54.2,
-        "pe_90": 97.69
+        "pe": 11.49,
+        "pe_10": 25.83,
+        "pe_25": 30.47,
+        "pe_50": 37.3,
+        "pe_75": 50.3,
+        "pe_90": 80.93
       },
       {
         "date": "2015-05-16",
         "price": 34.4,
-        "pe": 9.83,
-        "pe_10": 27.86,
-        "pe_25": 33.33,
-        "pe_50": 38.79,
-        "pe_75": 53.24,
-        "pe_90": 95.96
+        "pe": 10.81,
+        "pe_10": 25.32,
+        "pe_25": 29.87,
+        "pe_50": 36.56,
+        "pe_75": 49.31,
+        "pe_90": 79.34
       },
       {
         "date": "2015-06-15",
         "price": 31.3,
-        "pe": 9.11,
-        "pe_10": 27.36,
-        "pe_25": 32.73,
-        "pe_50": 38.09,
-        "pe_75": 52.28,
-        "pe_90": 94.22
+        "pe": 10.03,
+        "pe_10": 24.83,
+        "pe_25": 29.29,
+        "pe_50": 35.86,
+        "pe_75": 48.35,
+        "pe_90": 77.8
       },
       {
         "date": "2015-07-16",
         "price": 25.1,
-        "pe": 7.45,
-        "pe_10": 26.82,
-        "pe_25": 32.09,
-        "pe_50": 37.35,
-        "pe_75": 51.26,
-        "pe_90": 92.39
+        "pe": 7.87,
+        "pe_10": 25.38,
+        "pe_25": 29.94,
+        "pe_50": 36.65,
+        "pe_75": 49.42,
+        "pe_90": 79.51
       },
       {
         "date": "2015-08-16",
         "price": 27.55,
-        "pe": 8.33,
-        "pe_10": 26.33,
-        "pe_25": 31.5,
-        "pe_50": 36.66,
-        "pe_75": 50.32,
-        "pe_90": 90.69
+        "pe": 8.45,
+        "pe_10": 25.95,
+        "pe_25": 30.61,
+        "pe_50": 37.46,
+        "pe_75": 50.52,
+        "pe_90": 81.28
       },
       {
         "date": "2015-09-15",
         "price": 31.2,
-        "pe": 9.62,
-        "pe_10": 25.82,
-        "pe_25": 30.89,
-        "pe_50": 35.95,
-        "pe_75": 49.35,
-        "pe_90": 88.94
+        "pe": 9.37,
+        "pe_10": 26.5,
+        "pe_25": 31.26,
+        "pe_50": 38.26,
+        "pe_75": 51.59,
+        "pe_90": 83.01
       },
       {
         "date": "2015-10-16",
         "price": 34.0,
-        "pe": 10.7,
-        "pe_10": 25.3,
-        "pe_25": 30.27,
-        "pe_50": 35.22,
-        "pe_75": 48.35,
-        "pe_90": 87.14
+        "pe": 10.5,
+        "pe_10": 25.77,
+        "pe_25": 30.4,
+        "pe_50": 37.21,
+        "pe_75": 50.17,
+        "pe_90": 80.73
       },
       {
         "date": "2015-11-15",
         "price": 35.3,
-        "pe": 11.34,
-        "pe_10": 24.78,
-        "pe_25": 29.65,
-        "pe_50": 34.51,
-        "pe_75": 47.36,
-        "pe_90": 85.36
+        "pe": 11.23,
+        "pe_10": 25.01,
+        "pe_25": 29.51,
+        "pe_50": 36.12,
+        "pe_75": 48.71,
+        "pe_90": 78.37
       },
       {
         "date": "2015-12-16",
         "price": 36.45,
         "pe": 11.95,
-        "pe_10": 24.29,
-        "pe_25": 29.05,
-        "pe_50": 33.81,
-        "pe_75": 46.41,
-        "pe_90": 83.64
+        "pe_10": 24.27,
+        "pe_25": 28.63,
+        "pe_50": 35.05,
+        "pe_75": 47.26,
+        "pe_90": 76.04
       },
       {
         "date": "2016-01-16",
         "price": 34.6,
-        "pe": 11.16,
-        "pe_10": 24.69,
-        "pe_25": 29.53,
-        "pe_50": 34.37,
-        "pe_75": 47.17,
-        "pe_90": 85.02
+        "pe": 11.13,
+        "pe_10": 24.74,
+        "pe_25": 29.18,
+        "pe_50": 35.72,
+        "pe_75": 48.17,
+        "pe_90": 77.5
       },
       {
         "date": "2016-02-15",
         "price": 36.0,
-        "pe": 11.43,
-        "pe_10": 25.08,
-        "pe_25": 30.0,
-        "pe_50": 34.91,
-        "pe_75": 47.92,
-        "pe_90": 86.37
+        "pe": 11.36,
+        "pe_10": 25.22,
+        "pe_25": 29.75,
+        "pe_50": 36.41,
+        "pe_75": 49.1,
+        "pe_90": 79.01
       },
       {
         "date": "2016-03-16",
         "price": 35.5,
-        "pe": 11.1,
-        "pe_10": 25.46,
-        "pe_25": 30.46,
-        "pe_50": 35.45,
-        "pe_75": 48.66,
-        "pe_90": 87.7
+        "pe": 10.99,
+        "pe_10": 25.71,
+        "pe_25": 30.32,
+        "pe_50": 37.12,
+        "pe_75": 50.05,
+        "pe_90": 80.53
       },
       {
         "date": "2016-04-15",
         "price": 34.5,
-        "pe": 10.63,
-        "pe_10": 25.84,
-        "pe_25": 30.91,
-        "pe_50": 35.98,
-        "pe_75": 49.38,
-        "pe_90": 89.0
+        "pe": 10.55,
+        "pe_10": 26.02,
+        "pe_25": 30.7,
+        "pe_50": 37.57,
+        "pe_75": 50.67,
+        "pe_90": 81.53
       },
       {
         "date": "2016-05-16",
         "price": 36.35,
-        "pe": 11.03,
-        "pe_10": 26.24,
-        "pe_25": 31.39,
-        "pe_50": 36.53,
-        "pe_75": 50.14,
-        "pe_90": 90.37
+        "pe": 10.98,
+        "pe_10": 26.35,
+        "pe_25": 31.08,
+        "pe_50": 38.04,
+        "pe_75": 51.3,
+        "pe_90": 82.54
       },
       {
         "date": "2016-06-15",
         "price": 38.25,
-        "pe": 11.43,
-        "pe_10": 26.64,
-        "pe_25": 31.87,
-        "pe_50": 37.1,
-        "pe_75": 50.92,
-        "pe_90": 91.77
+        "pe": 11.42,
+        "pe_10": 26.65,
+        "pe_25": 31.44,
+        "pe_50": 38.48,
+        "pe_75": 51.9,
+        "pe_90": 83.5
       },
       {
         "date": "2016-07-16",
         "price": 40.5,
-        "pe": 11.93,
-        "pe_10": 27.03,
-        "pe_25": 32.34,
-        "pe_50": 37.63,
-        "pe_75": 51.65,
-        "pe_90": 93.09
+        "pe": 12.1,
+        "pe_10": 26.64,
+        "pe_25": 31.42,
+        "pe_50": 38.46,
+        "pe_75": 51.86,
+        "pe_90": 83.45
       },
       {
         "date": "2016-08-16",
         "price": 43.7,
-        "pe": 12.69,
-        "pe_10": 27.42,
-        "pe_25": 32.8,
-        "pe_50": 38.17,
-        "pe_75": 52.4,
-        "pe_90": 94.43
+        "pe": 13.07,
+        "pe_10": 26.61,
+        "pe_25": 31.39,
+        "pe_50": 38.42,
+        "pe_75": 51.81,
+        "pe_90": 83.36
       },
       {
         "date": "2016-09-15",
         "price": 41.6,
-        "pe": 11.91,
-        "pe_10": 27.81,
-        "pe_25": 33.27,
-        "pe_50": 38.72,
-        "pe_75": 53.14,
-        "pe_90": 95.78
+        "pe": 12.46,
+        "pe_10": 26.57,
+        "pe_25": 31.34,
+        "pe_50": 38.36,
+        "pe_75": 51.73,
+        "pe_90": 83.24
       },
       {
         "date": "2016-10-16",
         "price": 41.55,
-        "pe": 11.73,
-        "pe_10": 28.2,
-        "pe_25": 33.74,
-        "pe_50": 39.27,
-        "pe_75": 53.89,
-        "pe_90": 97.13
+        "pe": 12.08,
+        "pe_10": 27.37,
+        "pe_25": 32.29,
+        "pe_50": 39.52,
+        "pe_75": 53.3,
+        "pe_90": 85.75
       },
       {
         "date": "2016-11-15",
         "price": 42.2,
-        "pe": 11.75,
-        "pe_10": 28.6,
-        "pe_25": 34.21,
-        "pe_50": 39.81,
-        "pe_75": 54.64,
-        "pe_90": 98.49
+        "pe": 11.92,
+        "pe_10": 28.17,
+        "pe_25": 33.23,
+        "pe_50": 40.68,
+        "pe_75": 54.86,
+        "pe_90": 88.26
       },
       {
         "date": "2016-12-16",
         "price": 43.1,
         "pe": 11.84,
-        "pe_10": 28.98,
-        "pe_25": 34.67,
-        "pe_50": 40.35,
-        "pe_75": 55.39,
-        "pe_90": 99.82
+        "pe_10": 28.97,
+        "pe_25": 34.17,
+        "pe_50": 41.83,
+        "pe_75": 56.4,
+        "pe_90": 90.75
       },
       {
         "date": "2017-01-16",
         "price": 41.0,
-        "pe": 11.07,
-        "pe_10": 29.49,
-        "pe_25": 35.28,
-        "pe_50": 41.06,
-        "pe_75": 56.35,
-        "pe_90": 101.56
+        "pe": 11.69,
+        "pe_10": 27.91,
+        "pe_25": 32.92,
+        "pe_50": 40.3,
+        "pe_75": 54.35,
+        "pe_90": 87.44
       },
       {
         "date": "2017-02-14",
         "price": 42.8,
-        "pe": 11.36,
-        "pe_10": 30.0,
-        "pe_25": 35.89,
-        "pe_50": 41.76,
-        "pe_75": 57.32,
-        "pe_90": 103.32
+        "pe": 12.69,
+        "pe_10": 26.84,
+        "pe_25": 31.66,
+        "pe_50": 38.75,
+        "pe_75": 52.26,
+        "pe_90": 84.09
       },
       {
         "date": "2017-03-16",
         "price": 41.9,
-        "pe": 10.93,
-        "pe_10": 30.52,
-        "pe_25": 36.51,
-        "pe_50": 42.49,
-        "pe_75": 58.33,
-        "pe_90": 105.12
+        "pe": 12.93,
+        "pe_10": 25.79,
+        "pe_25": 30.42,
+        "pe_50": 37.23,
+        "pe_75": 50.21,
+        "pe_90": 80.79
       },
       {
         "date": "2017-04-15",
         "price": 39.95,
-        "pe": 10.25,
-        "pe_10": 31.03,
-        "pe_25": 37.12,
-        "pe_50": 43.2,
-        "pe_75": 59.3,
-        "pe_90": 106.88
+        "pe": 12.09,
+        "pe_10": 26.3,
+        "pe_25": 31.02,
+        "pe_50": 37.97,
+        "pe_75": 51.2,
+        "pe_90": 82.38
       },
       {
         "date": "2017-05-16",
         "price": 38.8,
-        "pe": 9.8,
-        "pe_10": 31.52,
-        "pe_25": 37.71,
-        "pe_50": 43.89,
-        "pe_75": 60.24,
-        "pe_90": 108.57
+        "pe": 11.52,
+        "pe_10": 26.8,
+        "pe_25": 31.62,
+        "pe_50": 38.7,
+        "pe_75": 52.19,
+        "pe_90": 83.97
       },
       {
         "date": "2017-06-15",
         "price": 41.0,
-        "pe": 10.19,
-        "pe_10": 32.04,
-        "pe_25": 38.32,
-        "pe_50": 44.6,
-        "pe_75": 61.22,
-        "pe_90": 110.33
+        "pe": 11.95,
+        "pe_10": 27.3,
+        "pe_25": 32.21,
+        "pe_50": 39.42,
+        "pe_75": 53.16,
+        "pe_90": 85.54
       },
       {
         "date": "2017-07-16",
         "price": 38.6,
-        "pe": 9.44,
-        "pe_10": 32.56,
-        "pe_25": 38.95,
-        "pe_50": 45.33,
-        "pe_75": 62.21,
-        "pe_90": 112.13
+        "pe": 10.77,
+        "pe_10": 28.52,
+        "pe_25": 33.65,
+        "pe_50": 41.18,
+        "pe_75": 55.53,
+        "pe_90": 89.35
       },
       {
         "date": "2017-08-16",
         "price": 41.1,
-        "pe": 9.9,
-        "pe_10": 33.05,
-        "pe_25": 39.54,
-        "pe_50": 46.02,
-        "pe_75": 63.17,
-        "pe_90": 113.84
+        "pe": 11.0,
+        "pe_10": 29.73,
+        "pe_25": 35.08,
+        "pe_50": 42.93,
+        "pe_75": 57.89,
+        "pe_90": 93.15
       },
       {
         "date": "2017-09-15",
         "price": 38.25,
-        "pe": 9.07,
-        "pe_10": 33.58,
-        "pe_25": 40.17,
-        "pe_50": 46.75,
-        "pe_75": 64.16,
-        "pe_90": 115.64
+        "pe": 9.83,
+        "pe_10": 30.97,
+        "pe_25": 36.53,
+        "pe_50": 44.71,
+        "pe_75": 60.29,
+        "pe_90": 97.01
       },
       {
         "date": "2017-10-16",
         "price": 46.7,
-        "pe": 10.91,
-        "pe_10": 34.08,
-        "pe_25": 40.77,
-        "pe_50": 47.45,
-        "pe_75": 65.13,
-        "pe_90": 117.38
+        "pe": 11.49,
+        "pe_10": 32.34,
+        "pe_25": 38.15,
+        "pe_50": 46.7,
+        "pe_75": 62.98,
+        "pe_90": 101.33
       },
       {
         "date": "2017-11-15",
         "price": 48.6,
-        "pe": 11.18,
-        "pe_10": 34.61,
-        "pe_25": 41.41,
-        "pe_50": 48.19,
-        "pe_75": 66.14,
-        "pe_90": 119.2
+        "pe": 11.47,
+        "pe_10": 33.72,
+        "pe_25": 39.78,
+        "pe_50": 48.68,
+        "pe_75": 65.65,
+        "pe_90": 105.64
       },
       {
         "date": "2017-12-16",
         "price": 54.0,
         "pe": 12.24,
-        "pe_10": 35.13,
-        "pe_25": 42.02,
-        "pe_50": 48.9,
-        "pe_75": 67.12,
-        "pe_90": 120.98
+        "pe_10": 35.11,
+        "pe_25": 41.42,
+        "pe_50": 50.69,
+        "pe_75": 68.36,
+        "pe_90": 109.99
       },
       {
         "date": "2018-01-16",
         "price": 72.7,
-        "pe": 16.6,
-        "pe_10": 34.87,
-        "pe_25": 41.71,
-        "pe_50": 48.55,
-        "pe_75": 66.63,
-        "pe_90": 120.1
+        "pe": 14.24,
+        "pe_10": 40.63,
+        "pe_25": 47.93,
+        "pe_50": 58.66,
+        "pe_75": 79.11,
+        "pe_90": 127.28
       },
       {
         "date": "2018-02-14",
         "price": 70.3,
-        "pe": 16.17,
-        "pe_10": 34.62,
-        "pe_25": 41.41,
-        "pe_50": 48.19,
-        "pe_75": 66.15,
-        "pe_90": 119.22
+        "pe": 12.11,
+        "pe_10": 46.2,
+        "pe_25": 54.5,
+        "pe_50": 66.7,
+        "pe_75": 89.95,
+        "pe_90": 144.73
       },
       {
         "date": "2018-03-16",
         "price": 66.8,
-        "pe": 15.47,
-        "pe_10": 34.38,
-        "pe_25": 41.13,
-        "pe_50": 47.87,
-        "pe_75": 65.7,
-        "pe_90": 118.41
+        "pe": 10.28,
+        "pe_10": 51.71,
+        "pe_25": 61.0,
+        "pe_50": 74.66,
+        "pe_75": 100.69,
+        "pe_90": 162.0
       },
       {
         "date": "2018-04-15",
         "price": 65.4,
-        "pe": 15.26,
-        "pe_10": 34.12,
-        "pe_25": 40.82,
-        "pe_50": 47.51,
-        "pe_75": 65.21,
-        "pe_90": 117.52
+        "pe": 9.99,
+        "pe_10": 52.1,
+        "pe_25": 61.46,
+        "pe_50": 75.22,
+        "pe_75": 101.44,
+        "pe_90": 163.21
       },
       {
         "date": "2018-05-16",
         "price": 79.1,
-        "pe": 18.59,
-        "pe_10": 33.88,
-        "pe_25": 40.53,
-        "pe_50": 47.17,
-        "pe_75": 64.74,
-        "pe_90": 116.68
+        "pe": 12.0,
+        "pe_10": 52.46,
+        "pe_25": 61.88,
+        "pe_50": 75.74,
+        "pe_75": 102.14,
+        "pe_90": 164.34
       },
       {
         "date": "2018-06-15",
         "price": 67.4,
-        "pe": 15.95,
-        "pe_10": 33.65,
-        "pe_25": 40.25,
-        "pe_50": 46.84,
-        "pe_75": 64.29,
-        "pe_90": 115.88
+        "pe": 10.15,
+        "pe_10": 52.84,
+        "pe_25": 62.34,
+        "pe_50": 76.3,
+        "pe_75": 102.89,
+        "pe_90": 165.55
       },
       {
         "date": "2018-07-16",
         "price": 61.4,
-        "pe": 14.64,
-        "pe_10": 33.39,
-        "pe_25": 39.95,
-        "pe_50": 46.49,
-        "pe_75": 63.81,
-        "pe_90": 115.01
+        "pe": 9.99,
+        "pe_10": 48.91,
+        "pe_25": 57.7,
+        "pe_50": 70.62,
+        "pe_75": 95.23,
+        "pe_90": 153.23
       },
       {
         "date": "2018-08-16",
         "price": 52.4,
-        "pe": 12.59,
-        "pe_10": 33.14,
-        "pe_25": 39.64,
-        "pe_50": 46.14,
-        "pe_75": 63.33,
-        "pe_90": 114.13
+        "pe": 9.28,
+        "pe_10": 44.94,
+        "pe_25": 53.01,
+        "pe_50": 64.88,
+        "pe_75": 87.49,
+        "pe_90": 140.77
       },
       {
         "date": "2018-09-15",
         "price": 48.2,
-        "pe": 11.66,
-        "pe_10": 32.91,
-        "pe_25": 39.37,
-        "pe_50": 45.82,
-        "pe_75": 62.9,
-        "pe_90": 113.36
+        "pe": 9.36,
+        "pe_10": 40.98,
+        "pe_25": 48.34,
+        "pe_50": 59.17,
+        "pe_75": 79.79,
+        "pe_90": 128.38
       },
       {
         "date": "2018-10-16",
         "price": 40.45,
-        "pe": 9.86,
-        "pe_10": 32.66,
-        "pe_25": 39.08,
-        "pe_50": 45.48,
-        "pe_75": 62.42,
-        "pe_90": 112.5
+        "pe": 8.46,
+        "pe_10": 38.05,
+        "pe_25": 44.88,
+        "pe_50": 54.94,
+        "pe_75": 74.09,
+        "pe_90": 119.2
       },
       {
         "date": "2018-11-15",
         "price": 38.85,
-        "pe": 9.54,
-        "pe_10": 32.42,
-        "pe_25": 38.79,
-        "pe_50": 45.14,
-        "pe_75": 61.96,
-        "pe_90": 111.67
+        "pe": 8.81,
+        "pe_10": 35.09,
+        "pe_25": 41.4,
+        "pe_50": 50.67,
+        "pe_75": 68.33,
+        "pe_90": 109.94
       },
       {
         "date": "2018-12-16",
         "price": 40.2,
         "pe": 9.95,
-        "pe_10": 32.17,
-        "pe_25": 38.48,
-        "pe_50": 44.79,
-        "pe_75": 61.47,
-        "pe_90": 110.79
+        "pe_10": 32.15,
+        "pe_25": 37.93,
+        "pe_50": 46.42,
+        "pe_75": 62.6,
+        "pe_90": 100.73
       },
       {
         "date": "2019-01-16",
         "price": 40.15,
-        "pe": 10.15,
-        "pe_10": 31.5,
-        "pe_25": 37.68,
-        "pe_50": 43.85,
-        "pe_75": 60.19,
-        "pe_90": 108.47
+        "pe": 12.08,
+        "pe_10": 26.45,
+        "pe_25": 31.2,
+        "pe_50": 38.19,
+        "pe_75": 51.5,
+        "pe_90": 82.86
       },
       {
         "date": "2019-02-14",
         "price": 47.9,
-        "pe": 12.36,
-        "pe_10": 30.86,
-        "pe_25": 36.91,
-        "pe_50": 42.96,
-        "pe_75": 58.96,
-        "pe_90": 106.27
+        "pe": 18.38,
+        "pe_10": 20.74,
+        "pe_25": 24.46,
+        "pe_50": 29.94,
+        "pe_75": 40.38,
+        "pe_90": 64.97
       },
       {
         "date": "2019-03-16",
         "price": 49.1,
-        "pe": 12.95,
-        "pe_10": 30.19,
-        "pe_25": 36.11,
-        "pe_50": 42.03,
-        "pe_75": 57.69,
-        "pe_90": 103.97
+        "pe": 25.98,
+        "pe_10": 15.04,
+        "pe_25": 17.74,
+        "pe_50": 21.72,
+        "pe_75": 29.28,
+        "pe_90": 47.12
       },
       {
         "date": "2019-04-15",
         "price": 49.65,
-        "pe": 13.38,
-        "pe_10": 29.55,
-        "pe_25": 35.35,
-        "pe_50": 41.13,
-        "pe_75": 56.46,
-        "pe_90": 101.76
+        "pe": 27.69,
+        "pe_10": 14.27,
+        "pe_25": 16.83,
+        "pe_50": 20.6,
+        "pe_75": 27.78,
+        "pe_90": 44.7
       },
       {
         "date": "2019-05-16",
         "price": 45.75,
-        "pe": 12.61,
-        "pe_10": 28.89,
-        "pe_25": 34.56,
-        "pe_50": 40.22,
-        "pe_75": 55.2,
-        "pe_90": 99.49
+        "pe": 26.96,
+        "pe_10": 13.5,
+        "pe_25": 15.93,
+        "pe_50": 19.5,
+        "pe_75": 26.29,
+        "pe_90": 42.31
       },
       {
         "date": "2019-06-15",
         "price": 53.2,
-        "pe": 15.01,
-        "pe_10": 28.22,
-        "pe_25": 33.76,
-        "pe_50": 39.29,
-        "pe_75": 53.93,
-        "pe_90": 97.19
+        "pe": 33.25,
+        "pe_10": 12.73,
+        "pe_25": 15.02,
+        "pe_50": 18.38,
+        "pe_75": 24.79,
+        "pe_90": 39.89
       },
       {
         "date": "2019-07-16",
         "price": 46.8,
-        "pe": 13.52,
-        "pe_10": 27.56,
-        "pe_25": 32.97,
-        "pe_50": 38.37,
-        "pe_75": 52.67,
-        "pe_90": 94.92
+        "pe": 23.96,
+        "pe_10": 15.54,
+        "pe_25": 18.34,
+        "pe_50": 22.44,
+        "pe_75": 30.27,
+        "pe_90": 48.7
       },
       {
         "date": "2019-08-16",
         "price": 52.8,
-        "pe": 15.62,
-        "pe_10": 26.91,
-        "pe_25": 32.2,
-        "pe_50": 37.47,
-        "pe_75": 51.43,
-        "pe_90": 92.69
+        "pe": 22.89,
+        "pe_10": 18.36,
+        "pe_25": 21.65,
+        "pe_50": 26.5,
+        "pe_75": 35.74,
+        "pe_90": 57.51
       },
       {
         "date": "2019-09-15",
         "price": 49.65,
-        "pe": 15.06,
-        "pe_10": 26.25,
-        "pe_25": 31.4,
-        "pe_50": 36.55,
-        "pe_75": 50.16,
-        "pe_90": 90.41
+        "pe": 18.67,
+        "pe_10": 21.16,
+        "pe_25": 24.96,
+        "pe_50": 30.56,
+        "pe_75": 41.21,
+        "pe_90": 66.3
       },
       {
         "date": "2019-10-16",
         "price": 50.9,
-        "pe": 15.83,
-        "pe_10": 25.6,
-        "pe_25": 30.63,
-        "pe_50": 35.64,
-        "pe_75": 48.92,
-        "pe_90": 88.17
+        "pe": 18.24,
+        "pe_10": 22.21,
+        "pe_25": 26.2,
+        "pe_50": 32.06,
+        "pe_75": 43.24,
+        "pe_90": 69.57
       },
       {
         "date": "2019-11-15",
         "price": 50.3,
-        "pe": 16.06,
-        "pe_10": 24.94,
-        "pe_25": 29.83,
-        "pe_50": 34.72,
-        "pe_75": 47.65,
-        "pe_90": 85.89
+        "pe": 17.23,
+        "pe_10": 23.23,
+        "pe_25": 27.41,
+        "pe_50": 33.54,
+        "pe_75": 45.23,
+        "pe_90": 72.78
       },
       {
         "date": "2019-12-16",
         "price": 49.7,
         "pe": 16.3,
-        "pe_10": 24.28,
-        "pe_25": 29.04,
-        "pe_50": 33.8,
-        "pe_75": 46.39,
-        "pe_90": 83.61
+        "pe_10": 24.26,
+        "pe_25": 28.62,
+        "pe_50": 35.03,
+        "pe_75": 47.25,
+        "pe_90": 76.02
       },
       {
         "date": "2020-01-16",
         "price": 51.2,
-        "pe": 15.2,
-        "pe_10": 26.82,
-        "pe_25": 32.08,
-        "pe_50": 37.34,
-        "pe_75": 51.25,
-        "pe_90": 92.37
+        "pe": 15.63,
+        "pe_10": 26.07,
+        "pe_25": 30.75,
+        "pe_50": 37.64,
+        "pe_75": 50.76,
+        "pe_90": 81.67
       },
       {
         "date": "2020-02-15",
         "price": 52.1,
-        "pe": 14.13,
-        "pe_10": 29.36,
-        "pe_25": 35.12,
-        "pe_50": 40.87,
-        "pe_75": 56.1,
-        "pe_90": 101.11
+        "pe": 14.87,
+        "pe_10": 27.88,
+        "pe_25": 32.89,
+        "pe_50": 40.26,
+        "pe_75": 54.29,
+        "pe_90": 87.35
       },
       {
         "date": "2020-03-16",
         "price": 51.0,
-        "pe": 12.73,
-        "pe_10": 31.9,
-        "pe_25": 38.16,
-        "pe_50": 44.41,
-        "pe_75": 60.96,
-        "pe_90": 109.86
+        "pe": 13.67,
+        "pe_10": 29.69,
+        "pe_25": 35.02,
+        "pe_50": 42.87,
+        "pe_75": 57.81,
+        "pe_90": 93.01
       },
       {
         "date": "2020-04-15",
         "price": 52.0,
-        "pe": 12.02,
-        "pe_10": 34.44,
-        "pe_25": 41.21,
-        "pe_50": 47.96,
-        "pe_75": 65.82,
-        "pe_90": 118.63
+        "pe": 12.7,
+        "pe_10": 32.58,
+        "pe_25": 38.44,
+        "pe_50": 47.05,
+        "pe_75": 63.44,
+        "pe_90": 102.08
       },
       {
         "date": "2020-05-16",
         "price": 59.0,
-        "pe": 12.7,
-        "pe_10": 36.99,
-        "pe_25": 44.25,
-        "pe_50": 51.5,
-        "pe_75": 70.68,
-        "pe_90": 127.39
+        "pe": 13.24,
+        "pe_10": 35.46,
+        "pe_25": 41.83,
+        "pe_50": 51.2,
+        "pe_75": 69.05,
+        "pe_90": 111.1
       },
       {
         "date": "2020-06-15",
         "price": 65.5,
-        "pe": 13.19,
-        "pe_10": 39.54,
-        "pe_25": 47.3,
-        "pe_50": 55.05,
-        "pe_75": 75.56,
-        "pe_90": 136.17
+        "pe": 13.59,
+        "pe_10": 38.36,
+        "pe_25": 45.25,
+        "pe_50": 55.38,
+        "pe_75": 74.68,
+        "pe_90": 120.16
       },
       {
         "date": "2020-07-16",
         "price": 84.0,
-        "pe": 15.9,
-        "pe_10": 42.06,
-        "pe_25": 50.32,
-        "pe_50": 58.56,
-        "pe_75": 80.38,
-        "pe_90": 144.87
+        "pe": 16.36,
+        "pe_10": 40.86,
+        "pe_25": 48.2,
+        "pe_50": 59.0,
+        "pe_75": 79.56,
+        "pe_90": 128.01
       },
       {
         "date": "2020-08-16",
         "price": 84.9,
-        "pe": 15.15,
-        "pe_10": 44.62,
-        "pe_25": 53.38,
-        "pe_50": 62.12,
-        "pe_75": 85.26,
-        "pe_90": 153.67
+        "pe": 15.59,
+        "pe_10": 43.34,
+        "pe_25": 51.12,
+        "pe_50": 62.57,
+        "pe_75": 84.38,
+        "pe_90": 135.77
       },
       {
         "date": "2020-09-15",
         "price": 75.5,
-        "pe": 12.75,
-        "pe_10": 47.15,
-        "pe_25": 56.4,
-        "pe_50": 65.64,
-        "pe_75": 90.1,
-        "pe_90": 162.38
+        "pe": 13.11,
+        "pe_10": 45.83,
+        "pe_25": 54.06,
+        "pe_50": 66.17,
+        "pe_75": 89.24,
+        "pe_90": 143.58
       },
       {
         "date": "2020-10-16",
         "price": 71.8,
-        "pe": 11.5,
-        "pe_10": 49.71,
-        "pe_25": 59.47,
-        "pe_50": 69.21,
-        "pe_75": 94.99,
-        "pe_90": 171.21
+        "pe": 11.71,
+        "pe_10": 48.79,
+        "pe_25": 57.56,
+        "pe_50": 70.45,
+        "pe_75": 95.01,
+        "pe_90": 152.86
       },
       {
         "date": "2020-11-15",
         "price": 78.5,
-        "pe": 11.96,
-        "pe_10": 52.26,
-        "pe_25": 62.52,
-        "pe_50": 72.76,
-        "pe_75": 99.86,
-        "pe_90": 179.99
+        "pe": 12.06,
+        "pe_10": 51.8,
+        "pe_25": 61.1,
+        "pe_50": 74.79,
+        "pe_75": 100.86,
+        "pe_90": 162.28
       },
       {
         "date": "2020-12-16",
         "price": 77.8,
         "pe": 11.31,
-        "pe_10": 54.77,
-        "pe_25": 65.52,
-        "pe_50": 76.25,
-        "pe_75": 104.66,
-        "pe_90": 188.63
+        "pe_10": 54.74,
+        "pe_25": 64.58,
+        "pe_50": 79.04,
+        "pe_75": 106.59,
+        "pe_90": 171.5
       },
       {
         "date": "2021-01-16",
         "price": 78.9,
-        "pe": 9.79,
-        "pe_10": 64.17,
-        "pe_25": 76.76,
-        "pe_50": 89.34,
-        "pe_75": 122.62,
-        "pe_90": 221.0
+        "pe": 9.9,
+        "pe_10": 63.42,
+        "pe_25": 74.82,
+        "pe_50": 91.57,
+        "pe_75": 123.49,
+        "pe_90": 198.69
       },
       {
         "date": "2021-02-14",
         "price": 87.0,
-        "pe": 9.42,
-        "pe_10": 73.53,
-        "pe_25": 87.97,
-        "pe_50": 102.38,
-        "pe_75": 140.52,
-        "pe_90": 253.26
+        "pe": 9.6,
+        "pe_10": 72.12,
+        "pe_25": 85.07,
+        "pe_50": 104.13,
+        "pe_75": 140.42,
+        "pe_90": 225.94
       },
       {
         "date": "2021-03-16",
         "price": 99.8,
-        "pe": 9.58,
-        "pe_10": 82.94,
-        "pe_25": 99.23,
-        "pe_50": 115.48,
-        "pe_75": 158.5,
-        "pe_90": 285.67
+        "pe": 9.83,
+        "pe_10": 80.79,
+        "pe_25": 95.31,
+        "pe_50": 116.65,
+        "pe_75": 157.31,
+        "pe_90": 253.11
       },
       {
         "date": "2021-04-15",
         "price": 123.0,
-        "pe": 10.61,
-        "pe_10": 92.3,
-        "pe_25": 110.42,
-        "pe_50": 128.51,
-        "pe_75": 176.39,
-        "pe_90": 317.9
+        "pe": 10.92,
+        "pe_10": 89.64,
+        "pe_25": 105.74,
+        "pe_50": 129.42,
+        "pe_75": 174.53,
+        "pe_90": 280.82
       },
       {
         "date": "2021-05-16",
         "price": 110.0,
-        "pe": 8.62,
-        "pe_10": 101.6,
-        "pe_25": 121.55,
-        "pe_50": 141.46,
-        "pe_75": 194.16,
-        "pe_90": 349.93
+        "pe": 8.89,
+        "pe_10": 98.47,
+        "pe_25": 116.16,
+        "pe_50": 142.17,
+        "pe_75": 191.73,
+        "pe_90": 308.48
       },
       {
         "date": "2021-06-15",
         "price": 107.5,
-        "pe": 7.71,
-        "pe_10": 111.01,
-        "pe_25": 132.81,
-        "pe_50": 154.56,
-        "pe_75": 212.14,
-        "pe_90": 382.34
+        "pe": 7.97,
+        "pe_10": 107.34,
+        "pe_25": 126.62,
+        "pe_50": 154.98,
+        "pe_75": 209.0,
+        "pe_90": 336.27
       },
       {
         "date": "2021-07-16",
         "price": 100.0,
-        "pe": 6.61,
-        "pe_10": 120.45,
-        "pe_25": 144.1,
-        "pe_50": 167.7,
-        "pe_75": 230.18,
-        "pe_90": 414.86
+        "pe": 6.84,
+        "pe_10": 116.35,
+        "pe_25": 137.24,
+        "pe_50": 167.98,
+        "pe_75": 226.54,
+        "pe_90": 364.49
       },
       {
         "date": "2021-08-16",
         "price": 87.8,
-        "pe": 5.39,
-        "pe_10": 129.7,
-        "pe_25": 155.16,
-        "pe_50": 180.57,
-        "pe_75": 247.84,
-        "pe_90": 446.69
+        "pe": 5.57,
+        "pe_10": 125.44,
+        "pe_25": 147.98,
+        "pe_50": 181.12,
+        "pe_75": 244.25,
+        "pe_90": 392.99
       },
       {
         "date": "2021-09-15",
         "price": 86.8,
-        "pe": 4.97,
-        "pe_10": 139.05,
-        "pe_25": 166.35,
-        "pe_50": 193.6,
-        "pe_75": 265.73,
-        "pe_90": 478.92
+        "pe": 5.13,
+        "pe_10": 134.65,
+        "pe_25": 158.84,
+        "pe_50": 194.41,
+        "pe_75": 262.18,
+        "pe_90": 421.83
       },
       {
         "date": "2021-10-16",
         "price": 112.5,
-        "pe": 6.03,
-        "pe_10": 148.54,
-        "pe_25": 177.71,
-        "pe_50": 206.81,
-        "pe_75": 283.86,
-        "pe_90": 511.6
+        "pe": 6.15,
+        "pe_10": 145.57,
+        "pe_25": 171.72,
+        "pe_50": 210.18,
+        "pe_75": 283.45,
+        "pe_90": 456.05
       },
       {
         "date": "2021-11-15",
         "price": 136.0,
-        "pe": 6.86,
-        "pe_10": 157.85,
-        "pe_25": 188.83,
-        "pe_50": 219.76,
-        "pe_75": 301.64,
-        "pe_90": 543.64
+        "pe": 6.92,
+        "pe_10": 156.4,
+        "pe_25": 184.49,
+        "pe_50": 225.82,
+        "pe_75": 304.53,
+        "pe_90": 489.97
       },
       {
         "date": "2021-12-16",
         "price": 155.5,
         "pe": 7.4,
-        "pe_10": 167.31,
-        "pe_25": 200.15,
-        "pe_50": 232.93,
-        "pe_75": 319.72,
-        "pe_90": 576.23
+        "pe_10": 167.23,
+        "pe_25": 197.26,
+        "pe_50": 241.45,
+        "pe_75": 325.6,
+        "pe_90": 523.89
       },
       {
         "date": "2022-01-16",
         "price": 137.5,
-        "pe": 6.84,
-        "pe_10": 160.05,
-        "pe_25": 191.47,
-        "pe_50": 222.83,
-        "pe_75": 305.86,
-        "pe_90": 551.25
+        "pe": 6.5,
+        "pe_10": 168.34,
+        "pe_25": 198.58,
+        "pe_50": 243.06,
+        "pe_75": 327.78,
+        "pe_90": 527.39
       },
       {
         "date": "2022-02-14",
         "price": 140.0,
-        "pe": 7.28,
-        "pe_10": 153.12,
-        "pe_25": 183.17,
-        "pe_50": 213.17,
-        "pe_75": 292.6,
-        "pe_90": 527.35
+        "pe": 6.56,
+        "pe_10": 169.84,
+        "pe_25": 200.34,
+        "pe_50": 245.21,
+        "pe_75": 330.69,
+        "pe_90": 532.06
       },
       {
         "date": "2022-03-16",
         "price": 130.0,
-        "pe": 7.09,
-        "pe_10": 145.99,
-        "pe_25": 174.65,
-        "pe_50": 203.25,
-        "pe_75": 278.98,
-        "pe_90": 502.8
+        "pe": 6.05,
+        "pe_10": 171.0,
+        "pe_25": 201.71,
+        "pe_50": 246.89,
+        "pe_75": 332.95,
+        "pe_90": 535.71
       },
       {
         "date": "2022-04-15",
         "price": 108.5,
-        "pe": 6.22,
-        "pe_10": 138.89,
-        "pe_25": 166.15,
-        "pe_50": 193.36,
-        "pe_75": 265.41,
-        "pe_90": 478.34
+        "pe": 5.35,
+        "pe_10": 161.39,
+        "pe_25": 190.38,
+        "pe_50": 233.02,
+        "pe_75": 314.24,
+        "pe_90": 505.61
       },
       {
         "date": "2022-05-16",
         "price": 113.0,
-        "pe": 6.83,
-        "pe_10": 131.73,
-        "pe_25": 157.59,
-        "pe_50": 183.4,
-        "pe_75": 251.73,
-        "pe_90": 453.69
+        "pe": 5.92,
+        "pe_10": 151.9,
+        "pe_25": 179.19,
+        "pe_50": 219.32,
+        "pe_75": 295.77,
+        "pe_90": 475.88
       },
       {
         "date": "2022-06-15",
         "price": 88.7,
-        "pe": 5.67,
-        "pe_10": 124.56,
-        "pe_25": 149.01,
-        "pe_50": 173.41,
-        "pe_75": 238.02,
-        "pe_90": 428.98
+        "pe": 4.96,
+        "pe_10": 142.31,
+        "pe_25": 167.88,
+        "pe_50": 205.48,
+        "pe_75": 277.1,
+        "pe_90": 445.84
       },
       {
         "date": "2022-07-16",
         "price": 91.4,
-        "pe": 6.19,
-        "pe_10": 117.56,
-        "pe_25": 140.64,
-        "pe_50": 163.68,
-        "pe_75": 224.66,
-        "pe_90": 404.91
+        "pe": 5.51,
+        "pe_10": 132.01,
+        "pe_25": 155.72,
+        "pe_50": 190.6,
+        "pe_75": 257.03,
+        "pe_90": 413.56
       },
       {
         "date": "2022-08-16",
         "price": 85.9,
-        "pe": 6.2,
-        "pe_10": 110.31,
-        "pe_25": 131.97,
-        "pe_50": 153.58,
-        "pe_75": 210.8,
-        "pe_90": 379.93
+        "pe": 5.61,
+        "pe_10": 121.85,
+        "pe_25": 143.74,
+        "pe_50": 175.93,
+        "pe_75": 237.26,
+        "pe_90": 381.74
       },
       {
         "date": "2022-09-15",
         "price": 88.3,
-        "pe": 6.81,
-        "pe_10": 103.24,
-        "pe_25": 123.5,
-        "pe_50": 143.73,
-        "pe_75": 197.28,
-        "pe_90": 355.56
+        "pe": 6.28,
+        "pe_10": 111.89,
+        "pe_25": 131.99,
+        "pe_50": 161.56,
+        "pe_75": 217.87,
+        "pe_90": 350.54
       },
       {
         "date": "2022-10-16",
         "price": 92.5,
-        "pe": 7.66,
-        "pe_10": 96.15,
-        "pe_25": 115.02,
-        "pe_50": 133.86,
-        "pe_75": 183.73,
-        "pe_90": 331.14
+        "pe": 7.23,
+        "pe_10": 101.81,
+        "pe_25": 120.1,
+        "pe_50": 147.0,
+        "pe_75": 198.24,
+        "pe_90": 318.97
       },
       {
         "date": "2022-11-15",
         "price": 108.0,
-        "pe": 9.66,
-        "pe_10": 89.02,
-        "pe_25": 106.49,
-        "pe_50": 123.93,
-        "pe_75": 170.11,
-        "pe_90": 306.58
+        "pe": 9.36,
+        "pe_10": 91.82,
+        "pe_25": 108.32,
+        "pe_50": 132.58,
+        "pe_75": 178.79,
+        "pe_90": 287.67
       },
       {
         "date": "2022-12-16",
         "price": 106.5,
         "pe": 10.35,
-        "pe_10": 81.93,
-        "pe_25": 98.01,
-        "pe_50": 114.06,
-        "pe_75": 156.56,
-        "pe_90": 282.17
+        "pe_10": 81.89,
+        "pe_25": 96.6,
+        "pe_50": 118.23,
+        "pe_75": 159.44,
+        "pe_90": 256.54
       },
       {
         "date": "2023-01-16",
         "price": 115.5,
-        "pe": 11.49,
-        "pe_10": 80.04,
-        "pe_25": 95.75,
-        "pe_50": 111.43,
-        "pe_75": 152.94,
-        "pe_90": 275.65
+        "pe": 12.54,
+        "pe_10": 73.3,
+        "pe_25": 86.46,
+        "pe_50": 105.83,
+        "pe_75": 142.72,
+        "pe_90": 229.63
       },
       {
         "date": "2023-02-14",
         "price": 119.0,
-        "pe": 12.12,
-        "pe_10": 78.17,
-        "pe_25": 93.52,
-        "pe_50": 108.84,
-        "pe_75": 149.39,
-        "pe_90": 269.24
+        "pe": 14.63,
+        "pe_10": 64.73,
+        "pe_25": 76.36,
+        "pe_50": 93.46,
+        "pe_75": 126.04,
+        "pe_90": 202.79
       },
       {
         "date": "2023-03-16",
         "price": 133.5,
-        "pe": 13.93,
-        "pe_10": 76.3,
-        "pe_25": 91.28,
-        "pe_50": 106.23,
-        "pe_75": 145.81,
-        "pe_90": 262.8
+        "pe": 18.91,
+        "pe_10": 56.18,
+        "pe_25": 66.27,
+        "pe_50": 81.12,
+        "pe_75": 109.39,
+        "pe_90": 176.01
       },
       {
         "date": "2023-04-15",
         "price": 131.0,
-        "pe": 14.02,
-        "pe_10": 74.4,
-        "pe_25": 89.0,
-        "pe_50": 103.58,
-        "pe_75": 142.17,
-        "pe_90": 256.23
+        "pe": 18.67,
+        "pe_10": 55.84,
+        "pe_25": 65.87,
+        "pe_50": 80.62,
+        "pe_75": 108.72,
+        "pe_90": 174.93
       },
       {
         "date": "2023-05-16",
         "price": 186.5,
-        "pe": 20.47,
-        "pe_10": 72.54,
-        "pe_25": 86.78,
-        "pe_50": 100.99,
-        "pe_75": 138.62,
-        "pe_90": 249.84
+        "pe": 26.74,
+        "pe_10": 55.5,
+        "pe_25": 65.47,
+        "pe_50": 80.14,
+        "pe_75": 108.07,
+        "pe_90": 173.88
       },
       {
         "date": "2023-06-15",
         "price": 243.5,
-        "pe": 27.44,
-        "pe_10": 70.65,
-        "pe_25": 84.52,
-        "pe_50": 98.37,
-        "pe_75": 135.02,
-        "pe_90": 243.34
+        "pe": 35.14,
+        "pe_10": 55.14,
+        "pe_25": 65.05,
+        "pe_50": 79.62,
+        "pe_75": 107.37,
+        "pe_90": 172.76
       },
       {
         "date": "2023-07-16",
         "price": 314.0,
-        "pe": 36.35,
-        "pe_10": 68.78,
-        "pe_25": 82.28,
-        "pe_50": 95.75,
-        "pe_75": 131.43,
-        "pe_90": 236.88
+        "pe": 44.27,
+        "pe_10": 56.44,
+        "pe_25": 66.58,
+        "pe_50": 81.5,
+        "pe_75": 109.9,
+        "pe_90": 176.83
       },
       {
         "date": "2023-08-16",
         "price": 341.0,
-        "pe": 40.58,
-        "pe_10": 66.91,
-        "pe_25": 80.04,
-        "pe_50": 93.15,
-        "pe_75": 127.85,
-        "pe_90": 230.43
+        "pe": 46.99,
+        "pe_10": 57.75,
+        "pe_25": 68.12,
+        "pe_50": 83.38,
+        "pe_75": 112.45,
+        "pe_90": 180.92
       },
       {
         "date": "2023-09-15",
         "price": 281.5,
-        "pe": 34.47,
-        "pe_10": 65.02,
-        "pe_25": 77.79,
-        "pe_50": 90.53,
-        "pe_75": 124.25,
-        "pe_90": 223.94
+        "pe": 37.94,
+        "pe_10": 59.05,
+        "pe_25": 69.65,
+        "pe_50": 85.25,
+        "pe_75": 114.97,
+        "pe_90": 184.98
       },
       {
         "date": "2023-10-16",
         "price": 217.5,
-        "pe": 27.42,
-        "pe_10": 63.16,
-        "pe_25": 75.55,
-        "pe_50": 87.93,
-        "pe_75": 120.69,
-        "pe_90": 217.52
+        "pe": 29.26,
+        "pe_10": 59.15,
+        "pe_25": 69.78,
+        "pe_50": 85.41,
+        "pe_75": 115.18,
+        "pe_90": 185.32
       },
       {
         "date": "2023-11-15",
         "price": 250.0,
-        "pe": 32.49,
-        "pe_10": 61.27,
-        "pe_25": 73.29,
-        "pe_50": 85.3,
-        "pe_75": 117.07,
-        "pe_90": 211.0
+        "pe": 33.57,
+        "pe_10": 59.26,
+        "pe_25": 69.91,
+        "pe_50": 85.57,
+        "pe_75": 115.39,
+        "pe_90": 185.66
       },
       {
         "date": "2023-12-16",
         "price": 266.0,
         "pe": 35.66,
-        "pe_10": 59.39,
-        "pe_25": 71.05,
-        "pe_50": 82.69,
-        "pe_75": 113.49,
-        "pe_90": 204.55
+        "pe_10": 59.36,
+        "pe_25": 70.02,
+        "pe_50": 85.71,
+        "pe_75": 115.58,
+        "pe_90": 185.97
       },
       {
         "date": "2024-01-16",
         "price": 309.0,
-        "pe": 38.19,
-        "pe_10": 64.42,
-        "pe_25": 77.07,
-        "pe_50": 89.69,
-        "pe_75": 123.11,
-        "pe_90": 221.87
+        "pe": 38.72,
+        "pe_10": 63.51,
+        "pe_25": 74.92,
+        "pe_50": 91.69,
+        "pe_75": 123.66,
+        "pe_90": 198.96
       },
       {
         "date": "2024-02-15",
         "price": 345.0,
-        "pe": 39.56,
-        "pe_10": 69.44,
-        "pe_25": 83.07,
-        "pe_50": 96.67,
-        "pe_75": 132.69,
-        "pe_90": 239.15
+        "pe": 40.59,
+        "pe_10": 67.64,
+        "pe_25": 79.79,
+        "pe_50": 97.66,
+        "pe_75": 131.7,
+        "pe_90": 211.9
       },
       {
         "date": "2024-03-16",
         "price": 316.0,
-        "pe": 33.79,
-        "pe_10": 74.46,
-        "pe_25": 89.08,
-        "pe_50": 103.67,
-        "pe_75": 142.29,
-        "pe_90": 256.45
+        "pe": 35.03,
+        "pe_10": 71.79,
+        "pe_25": 84.68,
+        "pe_50": 103.65,
+        "pe_75": 139.78,
+        "pe_90": 224.9
       },
       {
         "date": "2024-04-15",
         "price": 299.0,
-        "pe": 29.95,
-        "pe_10": 79.49,
-        "pe_25": 95.09,
-        "pe_50": 110.66,
-        "pe_75": 151.9,
-        "pe_90": 273.76
+        "pe": 29.57,
+        "pe_10": 80.47,
+        "pe_25": 94.92,
+        "pe_50": 116.18,
+        "pe_75": 156.68,
+        "pe_90": 252.09
       },
       {
         "date": "2024-05-16",
         "price": 318.0,
-        "pe": 29.96,
-        "pe_10": 84.51,
-        "pe_25": 101.1,
-        "pe_50": 117.66,
-        "pe_75": 161.49,
-        "pe_90": 291.06
+        "pe": 28.39,
+        "pe_10": 89.14,
+        "pe_25": 105.15,
+        "pe_50": 128.7,
+        "pe_75": 173.56,
+        "pe_90": 279.26
       },
       {
         "date": "2024-06-15",
         "price": 305.5,
-        "pe": 27.17,
-        "pe_10": 89.52,
-        "pe_25": 107.1,
-        "pe_50": 124.64,
-        "pe_75": 171.08,
-        "pe_90": 308.33
+        "pe": 24.86,
+        "pe_10": 97.79,
+        "pe_25": 115.36,
+        "pe_50": 141.2,
+        "pe_75": 190.42,
+        "pe_90": 306.37
       },
       {
         "date": "2024-07-16",
         "price": 259.0,
-        "pe": 21.81,
-        "pe_10": 94.55,
-        "pe_25": 113.11,
-        "pe_50": 131.64,
-        "pe_75": 180.68,
-        "pe_90": 325.64
+        "pe": 20.78,
+        "pe_10": 99.19,
+        "pe_25": 117.0,
+        "pe_50": 143.21,
+        "pe_75": 193.13,
+        "pe_90": 310.74
       },
       {
         "date": "2024-08-16",
         "price": 261.0,
-        "pe": 20.87,
-        "pe_10": 99.57,
-        "pe_25": 119.12,
-        "pe_50": 138.63,
-        "pe_75": 190.28,
-        "pe_90": 342.94
+        "pe": 20.65,
+        "pe_10": 100.58,
+        "pe_25": 118.65,
+        "pe_50": 145.22,
+        "pe_75": 195.84,
+        "pe_90": 315.11
       },
       {
         "date": "2024-09-15",
         "price": 258.5,
-        "pe": 19.68,
-        "pe_10": 104.58,
-        "pe_25": 125.11,
-        "pe_50": 145.6,
-        "pe_75": 199.85,
-        "pe_90": 360.19
+        "pe": 20.18,
+        "pe_10": 101.94,
+        "pe_25": 120.25,
+        "pe_50": 147.18,
+        "pe_75": 198.49,
+        "pe_90": 319.36
       },
       {
         "date": "2024-10-16",
         "price": 261.5,
-        "pe": 18.99,
-        "pe_10": 109.64,
-        "pe_25": 131.16,
-        "pe_50": 152.64,
-        "pe_75": 209.52,
-        "pe_90": 377.61
+        "pe": 19.3,
+        "pe_10": 107.82,
+        "pe_25": 127.19,
+        "pe_50": 155.68,
+        "pe_75": 209.95,
+        "pe_90": 337.8
       },
       {
         "date": "2024-11-15",
         "price": 271.5,
-        "pe": 18.86,
-        "pe_10": 114.62,
-        "pe_25": 137.12,
-        "pe_50": 159.57,
-        "pe_75": 219.03,
-        "pe_90": 394.75
+        "pe": 19.0,
+        "pe_10": 113.72,
+        "pe_25": 134.14,
+        "pe_50": 164.19,
+        "pe_75": 221.42,
+        "pe_90": 356.25
       },
       {
         "date": "2024-12-16",
         "price": 272.5,
         "pe": 18.13,
-        "pe_10": 119.67,
-        "pe_25": 143.16,
-        "pe_50": 166.61,
-        "pe_75": 228.69,
-        "pe_90": 412.16
+        "pe_10": 119.61,
+        "pe_25": 141.1,
+        "pe_50": 172.7,
+        "pe_75": 232.9,
+        "pe_90": 374.72
       },
       {
         "date": "2025-01-16",
         "price": 253.5,
-        "pe": 16.59,
-        "pe_10": 121.66,
-        "pe_25": 145.54,
-        "pe_50": 169.38,
-        "pe_75": 232.49,
-        "pe_90": 419.02
+        "pe": 16.43,
+        "pe_10": 122.78,
+        "pe_25": 144.84,
+        "pe_50": 177.28,
+        "pe_75": 239.07,
+        "pe_90": 384.66
       },
       {
         "date": "2025-02-14",
         "price": 258.5,
-        "pe": 16.64,
-        "pe_10": 123.69,
-        "pe_25": 147.97,
-        "pe_50": 172.2,
-        "pe_75": 236.36,
-        "pe_90": 426.0
+        "pe": 16.32,
+        "pe_10": 126.05,
+        "pe_25": 148.69,
+        "pe_50": 182.0,
+        "pe_75": 245.43,
+        "pe_90": 394.89
       },
       {
         "date": "2025-03-16",
         "price": 242.0,
-        "pe": 15.33,
-        "pe_10": 125.69,
-        "pe_25": 150.36,
-        "pe_50": 174.99,
-        "pe_75": 240.18,
-        "pe_90": 432.88
+        "pe": 14.9,
+        "pe_10": 129.25,
+        "pe_25": 152.47,
+        "pe_50": 186.62,
+        "pe_75": 251.66,
+        "pe_90": 404.92
       },
       {
         "date": "2025-04-15",
         "price": 228.5,
-        "pe": 14.25,
-        "pe_10": 127.67,
-        "pe_25": 152.73,
-        "pe_50": 177.75,
-        "pe_75": 243.97,
-        "pe_90": 439.71
+        "pe": 14.03,
+        "pe_10": 129.61,
+        "pe_25": 152.89,
+        "pe_50": 187.13,
+        "pe_75": 252.36,
+        "pe_90": 406.04
       },
       {
         "date": "2025-05-16",
         "price": 276.0,
-        "pe": 16.94,
-        "pe_10": 129.72,
-        "pe_25": 155.19,
-        "pe_50": 180.61,
-        "pe_75": 247.89,
-        "pe_90": 446.78
+        "pe": 16.9,
+        "pe_10": 129.96,
+        "pe_25": 153.31,
+        "pe_50": 187.65,
+        "pe_75": 253.05,
+        "pe_90": 407.16
       },
       {
         "date": "2025-06-15",
         "price": 283.0,
-        "pe": 17.1,
-        "pe_10": 131.77,
-        "pe_25": 157.64,
-        "pe_50": 183.45,
-        "pe_75": 251.8,
-        "pe_90": 453.83
+        "pe": 17.29,
+        "pe_10": 130.26,
+        "pe_25": 153.65,
+        "pe_50": 188.07,
+        "pe_75": 253.62,
+        "pe_90": 408.07
       },
       {
         "date": "2025-07-16",
         "price": 275.0,
-        "pe": 16.37,
-        "pe_10": 133.75,
-        "pe_25": 160.01,
-        "pe_50": 186.22,
-        "pe_75": 255.6,
-        "pe_90": 460.66
+        "pe": 16.24,
+        "pe_10": 134.76,
+        "pe_25": 158.96,
+        "pe_50": 194.57,
+        "pe_75": 262.38,
+        "pe_90": 422.17
       },
       {
         "date": "2025-08-16",
         "price": 277.0,
-        "pe": 16.25,
-        "pe_10": 135.72,
-        "pe_25": 162.36,
-        "pe_50": 188.96,
-        "pe_75": 259.36,
-        "pe_90": 467.44
+        "pe": 15.83,
+        "pe_10": 139.25,
+        "pe_25": 164.27,
+        "pe_50": 201.06,
+        "pe_75": 271.14,
+        "pe_90": 436.25
       },
       {
         "date": "2025-09-15",
         "price": 299.0,
-        "pe": 17.28,
-        "pe_10": 137.77,
-        "pe_25": 164.81,
-        "pe_50": 191.81,
-        "pe_75": 263.27,
-        "pe_90": 474.49
+        "pe": 16.56,
+        "pe_10": 143.69,
+        "pe_25": 169.5,
+        "pe_50": 207.46,
+        "pe_75": 279.77,
+        "pe_90": 450.14
       },
       {
         "date": "2025-10-16",
         "price": 280.5,
-        "pe": 15.98,
-        "pe_10": 139.76,
-        "pe_25": 167.19,
-        "pe_50": 194.58,
-        "pe_75": 267.07,
-        "pe_90": 481.34
+        "pe": 15.49,
+        "pe_10": 144.11,
+        "pe_25": 169.99,
+        "pe_50": 208.07,
+        "pe_75": 280.59,
+        "pe_90": 451.46
       },
       {
         "date": "2025-11-15",
         "price": 243.5,
-        "pe": 13.67,
-        "pe_10": 141.82,
-        "pe_25": 169.67,
-        "pe_50": 197.45,
-        "pe_75": 271.02,
-        "pe_90": 488.46
+        "pe": 13.41,
+        "pe_10": 144.5,
+        "pe_25": 170.46,
+        "pe_50": 208.64,
+        "pe_75": 281.36,
+        "pe_90": 452.7
       },
       {
         "date": "2025-12-16",
         "price": 249.5,
-        "pe": 13.82,
-        "pe_10": 143.74,
-        "pe_25": 171.96,
-        "pe_50": 200.12,
-        "pe_75": 274.68,
-        "pe_90": 495.06
+        "pe": 13.71,
+        "pe_10": 144.82,
+        "pe_25": 170.84,
+        "pe_50": 209.1,
+        "pe_75": 281.98,
+        "pe_90": 453.7
       },
       {
         "date": "2026-01-16",
         "price": 233.0,
-        "pe": 12.9,
-        "pe_10": 143.81,
-        "pe_25": 172.04,
-        "pe_50": 200.22,
-        "pe_75": 274.81,
-        "pe_90": 495.3
+        "pe": 12.8,
+        "pe_10": 144.86,
+        "pe_25": 170.88,
+        "pe_50": 209.15,
+        "pe_75": 282.06,
+        "pe_90": 453.82
       },
       {
         "date": "2026-02-14",
         "price": 239.5,
-        "pe": 13.26,
-        "pe_10": 143.81,
-        "pe_25": 172.04,
-        "pe_50": 200.22,
-        "pe_75": 274.81,
-        "pe_90": 495.29
+        "pe": 13.16,
+        "pe_10": 144.83,
+        "pe_25": 170.84,
+        "pe_50": 209.11,
+        "pe_75": 281.99,
+        "pe_90": 453.72
       }
     ]
   },
@@ -20044,13 +20044,13 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (11.1倍)",
+            "title": "PE 50% (11.5倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (27.4倍)",
+            "title": "PE 90% (24.9倍)",
             "format": ".1f"
           }
         ]
@@ -20770,6 +20770,10 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "date": "2026-01-16",
         "revenue_yoy": 57.0
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 47.4
       }
     ]
   },
@@ -20837,16 +20841,16 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 16.0 | +78.8% | 0.005 | 2023-04 (+3513.5%) | 2008-07 (-92.2%) |
-| 6個月 | 16.0 | +41.7% | 0.020 | 2023-02 (+757.5%) | 2008-04 (-76.8%) |
-| 1年 | 16.0 | +28.8% | 0.043 | 2022-08 (+304.6%) | 2007-10 (-52.7%) |
-| 2年 | 15.6 | +23.2% | 0.162 | 2021-08 (+102.4%) | 2006-11 (-28.5%) |
-| 3年 | 14.8 | +22.5% | 0.090 | 2020-08 (+62.5%) | 2006-03 (-3.5%) |
-| 4年 | 15.2 | +21.0% | 0.032 | 2019-07 (+64.1%) | 2011-07 (+2.0%) |
-| 5年 | 15.8 | +20.2% | 0.071 | 2019-01 (+53.1%) | 2010-07 (+2.0%) |
-| 6年 | 16.0 | +19.2% | 0.112 | 2017-08 (+44.5%) | 2007-08 (+4.0%) |
-| 8年 | 16.4 | +17.9% | 0.094 | 2015-07 (+39.1%) | 2007-08 (+5.0%) |
-| 10年 | 17.4 | +16.9% | 0.215 | 2013-08 (+30.4%) | 2007-08 (+7.7%) |
+| 3個月 | 14.5 | +78.8% | 0.001 | 2023-04 (+3513.5%) | 2008-07 (-92.2%) |
+| 6個月 | 14.5 | +41.7% | 0.012 | 2023-02 (+757.5%) | 2008-04 (-76.8%) |
+| 1年 | 14.5 | +28.8% | 0.051 | 2022-08 (+304.6%) | 2007-10 (-52.7%) |
+| 2年 | 13.9 | +23.2% | 0.120 | 2021-08 (+102.4%) | 2006-11 (-28.5%) |
+| 3年 | 12.9 | +22.5% | 0.023 | 2020-08 (+62.5%) | 2006-03 (-3.5%) |
+| 4年 | 13.2 | +21.0% | 0.000 | 2019-07 (+64.1%) | 2011-07 (+2.0%) |
+| 5年 | 13.6 | +20.2% | 0.009 | 2019-01 (+53.1%) | 2010-07 (+2.0%) |
+| 6年 | 13.7 | +19.2% | 0.024 | 2017-08 (+44.5%) | 2007-08 (+4.0%) |
+| 8年 | 13.2 | +17.9% | 0.074 | 2015-07 (+39.1%) | 2007-08 (+5.0%) |
+| 10年 | 13.5 | +16.9% | 0.144 | 2013-08 (+30.4%) | 2007-08 (+7.7%) |
 
 
 ## 🎯 使用說明
@@ -20865,4 +20869,4 @@ description: "2376 技嘉 (電腦及週邊設備業) 本益比與未來報酬率
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:29:59 CST*
+*數據更新時間: 2026-03-21 12:35:51 CST*

@@ -2,7 +2,7 @@
 title: "6695 芯鼎 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
     - **產業別**: 半導體業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年
-    - **報告生成時間**: 2026-03-07 12:36:18 CST
+    - **報告生成時間**: 2026-03-21 12:43:16 CST
 
 ## 📈 互動式圖表
 
@@ -57,7 +57,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 63.4,
+        "pe_ratio": 70.71,
         "forward_return": 20.01,
         "start_price": 42.9,
         "start_year": 2023
@@ -66,7 +66,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 79.79,
+        "pe_ratio": 106.8,
         "forward_return": 13.51,
         "start_price": 44.15,
         "start_year": 2023
@@ -75,7 +75,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 101.3,
+        "pe_ratio": 198.0,
         "forward_return": -7.05,
         "start_price": 43.55,
         "start_year": 2023
@@ -84,27 +84,9 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 138.9,
+        "pe_ratio": 555.7,
         "forward_return": -0.94,
         "start_price": 42.6,
-        "start_year": 2023
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2023-05-16",
-        "pe_ratio": 248.4,
-        "forward_return": -40.3,
-        "start_price": 45.55,
-        "start_year": 2023
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2023-06-15",
-        "pe_ratio": 772.5,
-        "forward_return": -46.73,
-        "start_price": 46.35,
         "start_year": 2023
       },
       {
@@ -129,7 +111,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 63.4,
+        "pe_ratio": 70.71,
         "forward_return": -1.87,
         "start_price": 42.9,
         "start_year": 2023
@@ -138,7 +120,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 79.79,
+        "pe_ratio": 106.8,
         "forward_return": -17.97,
         "start_price": 44.15,
         "start_year": 2023
@@ -147,7 +129,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 101.3,
+        "pe_ratio": 198.0,
         "forward_return": 0.98,
         "start_price": 43.55,
         "start_year": 2023
@@ -156,27 +138,9 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 138.9,
+        "pe_ratio": 555.7,
         "forward_return": 5.7,
         "start_price": 42.6,
-        "start_year": 2023
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2023-05-16",
-        "pe_ratio": 248.4,
-        "forward_return": 122.1,
-        "start_price": 45.55,
-        "start_year": 2023
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2023-06-15",
-        "pe_ratio": 772.5,
-        "forward_return": 145.57,
-        "start_price": 46.35,
         "start_year": 2023
       },
       {
@@ -201,7 +165,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 63.4,
+        "pe_ratio": 70.71,
         "forward_return": 104.76,
         "start_price": 42.9,
         "start_year": 2023
@@ -210,7 +174,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 79.79,
+        "pe_ratio": 106.8,
         "forward_return": 89.21,
         "start_price": 44.15,
         "start_year": 2023
@@ -219,7 +183,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 101.3,
+        "pe_ratio": 198.0,
         "forward_return": 46.15,
         "start_price": 43.55,
         "start_year": 2023
@@ -228,27 +192,9 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 138.9,
+        "pe_ratio": 555.7,
         "forward_return": 27.87,
         "start_price": 42.6,
-        "start_year": 2023
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2023-05-16",
-        "pe_ratio": 248.4,
-        "forward_return": 60.11,
-        "start_price": 45.55,
-        "start_year": 2023
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2023-06-15",
-        "pe_ratio": 772.5,
-        "forward_return": 62.51,
-        "start_price": 46.35,
         "start_year": 2023
       },
       {
@@ -273,7 +219,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 63.4,
+        "pe_ratio": 70.71,
         "forward_return": 17.56,
         "start_price": 42.9,
         "start_year": 2023
@@ -282,7 +228,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 79.79,
+        "pe_ratio": 106.8,
         "forward_return": 17.53,
         "start_price": 44.15,
         "start_year": 2023
@@ -291,7 +237,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 101.3,
+        "pe_ratio": 198.0,
         "forward_return": 3.16,
         "start_price": 43.55,
         "start_year": 2023
@@ -300,27 +246,9 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 138.9,
+        "pe_ratio": 555.7,
         "forward_return": 1.11,
         "start_price": 42.6,
-        "start_year": 2023
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2023-05-16",
-        "pe_ratio": 248.4,
-        "forward_return": -4.2,
-        "start_price": 45.55,
-        "start_year": 2023
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2023-06-15",
-        "pe_ratio": 772.5,
-        "forward_return": -3.96,
-        "start_price": 46.35,
         "start_year": 2023
       },
       {
@@ -345,7 +273,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 63.4,
+        "pe_ratio": 70.71,
         "forward_return": -0.12,
         "start_price": 42.9,
         "start_year": 2023
@@ -354,7 +282,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 79.79,
+        "pe_ratio": 106.8,
         "forward_return": -0.76,
         "start_price": 44.15,
         "start_year": 2023
@@ -551,7 +479,7 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 55.9倍、62.1倍、90.5倍、166.3倍、405.6倍"
+!!! note "本益比河流帶水位: 54.2倍、61.5倍、88.8倍、175.2倍、376.9倍"
 
 ```vegalite
 {
@@ -563,81 +491,61 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
         "date": "2022-11-15",
         "price": 46.7,
         "pe": 58.38,
-        "pe_10": 44.69,
-        "pe_25": 49.71,
-        "pe_50": 72.43,
-        "pe_75": 133.01,
-        "pe_90": 324.48
+        "pe_10": 43.35,
+        "pe_25": 49.17,
+        "pe_50": 71.0,
+        "pe_75": 140.15,
+        "pe_90": 301.45
       },
       {
         "date": "2022-12-16",
         "price": 40.0,
         "pe": 50.0,
-        "pe_10": 44.69,
-        "pe_25": 49.72,
-        "pe_50": 72.44,
-        "pe_75": 133.02,
-        "pe_90": 324.5
+        "pe_10": 43.35,
+        "pe_25": 49.17,
+        "pe_50": 71.0,
+        "pe_75": 140.16,
+        "pe_90": 301.48
       },
       {
         "date": "2023-01-16",
         "price": 42.9,
-        "pe": 63.4,
-        "pe_10": 37.8,
-        "pe_25": 42.05,
-        "pe_50": 61.27,
-        "pe_75": 112.51,
-        "pe_90": 274.47
+        "pe": 70.71,
+        "pe_10": 32.88,
+        "pe_25": 37.29,
+        "pe_50": 53.85,
+        "pe_75": 106.29,
+        "pe_90": 228.64
       },
       {
         "date": "2023-02-14",
         "price": 44.15,
-        "pe": 79.79,
-        "pe_10": 30.91,
-        "pe_25": 34.39,
-        "pe_50": 50.1,
-        "pe_75": 92.0,
-        "pe_90": 224.45
+        "pe": 106.8,
+        "pe_10": 22.4,
+        "pe_25": 25.41,
+        "pe_50": 36.69,
+        "pe_75": 72.43,
+        "pe_90": 155.79
       },
       {
         "date": "2023-03-16",
         "price": 43.55,
-        "pe": 101.3,
-        "pe_10": 24.02,
-        "pe_25": 26.72,
-        "pe_50": 38.93,
-        "pe_75": 71.48,
-        "pe_90": 174.38
+        "pe": 198.0,
+        "pe_10": 11.92,
+        "pe_25": 13.52,
+        "pe_50": 19.52,
+        "pe_75": 38.54,
+        "pe_90": 82.89
       },
       {
         "date": "2023-04-15",
         "price": 42.6,
-        "pe": 138.9,
-        "pe_10": 17.13,
-        "pe_25": 19.06,
-        "pe_50": 27.77,
-        "pe_75": 51.0,
-        "pe_90": 124.4
-      },
-      {
-        "date": "2023-05-16",
-        "price": 45.55,
-        "pe": 248.4,
-        "pe_10": 10.24,
-        "pe_25": 11.4,
-        "pe_50": 16.6,
-        "pe_75": 30.49,
-        "pe_90": 74.38
-      },
-      {
-        "date": "2023-06-15",
-        "price": 46.35,
-        "pe": 772.5,
-        "pe_10": 3.35,
-        "pe_25": 3.73,
-        "pe_50": 5.43,
-        "pe_75": 9.98,
-        "pe_90": 24.34
+        "pe": 555.7,
+        "pe_10": 4.15,
+        "pe_25": 4.71,
+        "pe_50": 6.8,
+        "pe_75": 13.43,
+        "pe_90": 28.89
       }
     ]
   },
@@ -770,19 +678,19 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (55.9倍)",
+            "title": "PE 10% (54.2倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (90.5倍)",
+            "title": "PE 50% (88.8倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (405.6倍)",
+            "title": "PE 90% (376.9倍)",
             "format": ".1f"
           }
         ]
@@ -1238,6 +1146,10 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
       {
         "date": "2026-01-16",
         "revenue_yoy": 28.8
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": -6.26
       }
     ]
   },
@@ -1305,11 +1217,11 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 189.1 | +85.1% | 0.497 | 2023-10 (+1481.4%) | 2025-02 (-78.4%) |
-| 6個月 | 189.1 | +20.6% | 0.737 | 2023-07 (+322.2%) | 2024-02 (-49.3%) |
-| 1年 | 189.1 | +10.9% | 0.008 | 2023-01 (+104.8%) | 2024-06 (-43.3%) |
-| 2年 | 189.1 | +3.5% | 0.349 | 2022-12 (+28.5%) | 2024-01 (-30.2%) |
-| 3年 | 62.9 | +0.4% | 0.367 | 2022-12 (+4.3%) | 2022-11 (-1.7%) |
+| 3個月 | 173.3 | +85.1% | 0.092 | 2023-10 (+1481.4%) | 2025-02 (-78.4%) |
+| 6個月 | 173.3 | +20.6% | 0.083 | 2023-07 (+322.2%) | 2024-02 (-49.3%) |
+| 1年 | 173.3 | +10.9% | 0.368 | 2023-01 (+104.8%) | 2024-06 (-43.3%) |
+| 2年 | 173.3 | +3.5% | 0.434 | 2022-12 (+28.5%) | 2024-01 (-30.2%) |
+| 3年 | 71.5 | +0.4% | 0.234 | 2022-12 (+4.3%) | 2022-11 (-1.7%) |
 
 
 ## 🎯 使用說明
@@ -1328,4 +1240,4 @@ description: "6695 芯鼎 (半導體業) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:36:18 CST*
+*數據更新時間: 2026-03-21 12:43:16 CST*

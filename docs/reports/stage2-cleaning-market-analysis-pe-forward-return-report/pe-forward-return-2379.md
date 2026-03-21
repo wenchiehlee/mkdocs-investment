@@ -2,7 +2,7 @@
 title: "2379 瑞昱 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
     - **產業別**: 半導體業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:30:14 CST
+    - **報告生成時間**: 2026-03-21 12:36:08 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 13.2,
         "forward_return": 33.22,
         "start_price": 36.3,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 12.9,
         "forward_return": 41.35,
         "start_price": 36.65,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.46,
         "forward_return": 97.95,
         "start_price": 36.5,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.46,
+        "pe_ratio": 11.26,
         "forward_return": 141.39,
         "start_price": 34.0,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 12.39,
         "forward_return": 78.46,
         "start_price": 38.2,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.22,
         "forward_return": 144.8,
         "start_price": 41.6,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.68,
         "forward_return": 262.57,
         "start_price": 40.7,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 13.71,
         "forward_return": 102.55,
         "start_price": 44.2,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.54,
         "forward_return": 206.83,
         "start_price": 50.3,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.9,
         "forward_return": 318.41,
         "start_price": 52.8,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 16.88,
+        "pe_ratio": 16.22,
         "forward_return": 471.29,
         "start_price": 55.0,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 21.01,
         "forward_return": 1774.24,
         "start_price": 72.7,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.66,
+        "pe_ratio": 16.82,
         "forward_return": 6751.59,
         "start_price": 67.5,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.83,
+        "pe_ratio": 18.5,
         "forward_return": 1325.02,
         "start_price": 84.5,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 49.77,
+        "pe_ratio": 31.84,
         "forward_return": -15.99,
         "start_price": 163.0,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 57.94,
+        "pe_ratio": 35.98,
         "forward_return": -81.63,
         "start_price": 190.0,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 49.19,
+        "pe_ratio": 29.69,
         "forward_return": -66.12,
         "start_price": 161.5,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 46.39,
+        "pe_ratio": 27.23,
         "forward_return": -70.51,
         "start_price": 152.5,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 25.66,
         "forward_return": -64.1,
         "start_price": 124.0,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 35.65,
+        "pe_ratio": 28.89,
         "forward_return": -54.38,
         "start_price": 117.5,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 30.11,
+        "pe_ratio": 27.4,
         "forward_return": -11.79,
         "start_price": 95.8,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 30.62,
+        "pe_ratio": 25.4,
         "forward_return": -7.89,
         "start_price": 93.8,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 30.76,
+        "pe_ratio": 23.29,
         "forward_return": -42.75,
         "start_price": 90.6,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 31.34,
+        "pe_ratio": 27.95,
         "forward_return": -48.22,
         "start_price": 88.6,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 37.51,
         "forward_return": -70.63,
         "start_price": 91.9,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 24.02,
+        "pe_ratio": 35.95,
         "forward_return": -34.56,
         "start_price": 62.2,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 29.21,
+        "pe_ratio": 61.71,
         "forward_return": -79.39,
         "start_price": 72.2,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 27.41,
+        "pe_ratio": 105.7,
         "forward_return": -88.13,
         "start_price": 64.5,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 23.67,
+        "pe_ratio": 1058.0,
         "forward_return": -87.28,
         "start_price": 52.9,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.91,
+        "pe_ratio": 73.48,
         "forward_return": -69.37,
         "start_price": 48.5,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 26.85,
         "forward_return": 124.84,
         "start_price": 34.1,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 17.22,
+        "pe_ratio": 20.85,
         "forward_return": 506.86,
         "start_price": 36.0,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 17.51,
+        "pe_ratio": 25.61,
         "forward_return": 600.25,
         "start_price": 40.3,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 17.71,
+        "pe_ratio": 31.34,
         "forward_return": 503.09,
         "start_price": 44.5,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 19.72,
+        "pe_ratio": 29.24,
         "forward_return": 423.17,
         "start_price": 53.7,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 28.89,
         "forward_return": 41.91,
         "start_price": 65.1,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 19.4,
+        "pe_ratio": 22.85,
         "forward_return": 146.97,
         "start_price": 61.0,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 27.7,
         "forward_return": -37.58,
         "start_price": 79.5,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 22.64,
         "forward_return": 150.91,
         "start_price": 69.5,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 22.94,
         "forward_return": 152.85,
         "start_price": 75.0,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 19.34,
         "forward_return": 137.65,
         "start_price": 70.6,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 21.34,
+        "pe_ratio": 22.23,
         "forward_return": -12.67,
         "start_price": 89.6,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 18.9,
         "forward_return": -31.6,
         "start_price": 87.8,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 19.76,
+        "pe_ratio": 17.2,
         "forward_return": -27.88,
         "start_price": 84.0,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.54,
+        "pe_ratio": 16.74,
         "forward_return": -27.56,
         "start_price": 85.7,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 16.58,
         "forward_return": -35.1,
         "start_price": 85.7,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 19.31,
+        "pe_ratio": 14.85,
         "forward_return": -43.4,
         "start_price": 77.5,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 18.07,
+        "pe_ratio": 13.49,
         "forward_return": 30.63,
         "start_price": 71.1,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 18.96,
+        "pe_ratio": 14.75,
         "forward_return": -2.69,
         "start_price": 73.1,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 16.76,
+        "pe_ratio": 13.63,
         "forward_return": 32.85,
         "start_price": 63.3,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 16.67,
         "forward_return": -13.69,
         "start_price": 72.2,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 20.06,
+        "pe_ratio": 17.97,
         "forward_return": -21.07,
         "start_price": 72.6,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 19.01,
         "forward_return": -59.92,
         "start_price": 71.3,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 19.87,
+        "pe_ratio": 21.62,
         "forward_return": -17.15,
         "start_price": 68.4,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.0,
+        "pe_ratio": 20.3,
         "forward_return": 49.86,
         "start_price": 58.2,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 20.54,
         "forward_return": 13.62,
         "start_price": 52.8,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.83,
+        "pe_ratio": 21.73,
         "forward_return": -12.72,
         "start_price": 57.0,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.09,
+        "pe_ratio": 24.02,
         "forward_return": -69.32,
         "start_price": 64.3,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 20.29,
         "forward_return": -6.98,
         "start_price": 55.4,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 19.39,
         "forward_return": -13.59,
         "start_price": 52.6,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.66,
+        "pe_ratio": 16.78,
         "forward_return": -5.84,
         "start_price": 45.25,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 15.75,
+        "pe_ratio": 19.37,
         "forward_return": -46.79,
         "start_price": 51.9,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 17.69,
         "forward_return": 36.17,
         "start_price": 50.7,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.44,
+        "pe_ratio": 14.34,
         "forward_return": 87.08,
         "start_price": 43.8,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 15.98,
         "forward_return": 27.55,
         "start_price": 54.8,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.24,
         "forward_return": -17.94,
         "start_price": 62.4,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 14.15,
         "forward_return": 2.8,
         "start_price": 53.9,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.77,
         "forward_return": -45.91,
         "start_price": 63.4,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 15.84,
         "forward_return": -4.6,
         "start_price": 59.4,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.54,
         "forward_return": 54.86,
         "start_price": 54.1,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.53,
         "forward_return": 23.99,
         "start_price": 52.1,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.83,
+        "pe_ratio": 14.17,
         "forward_return": 28.33,
         "start_price": 56.4,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 24.01,
         "start_price": 58.1,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.98,
         "forward_return": 108.73,
         "start_price": 55.0,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.42,
         "forward_return": 68.07,
         "start_price": 58.6,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 14.38,
         "forward_return": 52.84,
         "start_price": 66.2,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 14.87,
+        "pe_ratio": 14.98,
         "forward_return": 35.59,
         "start_price": 70.6,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.42,
         "forward_return": 26.62,
         "start_price": 69.5,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.99,
+        "pe_ratio": 17.15,
         "forward_return": -38.84,
         "start_price": 85.0,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.94,
         "forward_return": -29.04,
         "start_price": 76.1,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.58,
         "forward_return": 28.3,
         "start_price": 71.0,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.44,
         "forward_return": -17.52,
         "start_price": 71.8,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 12.17,
         "forward_return": 74.69,
         "start_price": 66.4,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 12.96,
         "forward_return": 50.95,
         "start_price": 72.2,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.96,
         "forward_return": 115.56,
         "start_price": 68.4,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.21,
         "forward_return": 112.16,
         "start_price": 71.7,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.67,
         "forward_return": 39.08,
         "start_price": 83.0,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.71,
         "forward_return": 11.76,
         "start_price": 90.0,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.88,
         "forward_return": 32.71,
         "start_price": 91.8,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 13.6,
         "forward_return": 89.02,
         "start_price": 86.1,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.25,
         "forward_return": 129.27,
         "start_price": 92.5,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.23,
         "forward_return": 102.51,
         "start_price": 94.6,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 13.51,
         "forward_return": 20.44,
         "start_price": 95.9,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 14.45,
         "forward_return": -8.02,
         "start_price": 109.0,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 13.52,
         "forward_return": -7.23,
         "start_price": 108.0,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.53,
+        "pe_ratio": 12.73,
         "forward_return": -12.77,
         "start_price": 100.5,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.2,
         "forward_return": -8.6,
         "start_price": 103.0,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.0,
+        "pe_ratio": 12.68,
         "forward_return": -10.28,
         "start_price": 97.1,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 13.62,
+        "pe_ratio": 12.93,
         "forward_return": -18.01,
         "start_price": 98.4,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 13.23,
         "forward_return": -68.34,
         "start_price": 100.0,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 13.46,
         "forward_return": -74.8,
         "start_price": 96.0,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.41,
+        "pe_ratio": 13.99,
         "forward_return": -77.43,
         "start_price": 93.7,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.62,
         "forward_return": -62.46,
         "start_price": 79.1,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 10.95,
         "forward_return": 44.22,
         "start_price": 62.1,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.11,
+        "pe_ratio": 11.5,
         "forward_return": 144.28,
         "start_price": 58.4,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 12.46,
         "forward_return": 297.57,
         "start_price": 55.8,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 14.84,
         "forward_return": 111.08,
         "start_price": 68.1,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 13.34,
+        "pe_ratio": 14.34,
         "forward_return": 127.54,
         "start_price": 67.4,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 16.74,
+        "pe_ratio": 17.45,
         "forward_return": 24.55,
         "start_price": 82.2,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 16.74,
+        "pe_ratio": 18.2,
         "forward_return": 23.33,
         "start_price": 83.9,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.62,
         "forward_return": 145.74,
         "start_price": 88.5,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 17.34,
+        "pe_ratio": 18.29,
         "forward_return": 206.52,
         "start_price": 90.4,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 16.63,
+        "pe_ratio": 16.44,
         "forward_return": 376.62,
         "start_price": 88.4,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 18.45,
+        "pe_ratio": 17.19,
         "forward_return": 31.34,
         "start_price": 99.9,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 19.55,
         "forward_return": -26.18,
         "start_price": 115.5,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 22.61,
+        "pe_ratio": 21.15,
         "forward_return": -48.12,
         "start_price": 127.0,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.89,
         "forward_return": -3.84,
         "start_price": 103.0,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.39,
+        "pe_ratio": 17.62,
         "forward_return": 7.63,
         "start_price": 107.0,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 16.37,
         "forward_return": 32.17,
         "start_price": 99.0,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 18.3,
         "forward_return": -21.9,
         "start_price": 109.0,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.66,
+        "pe_ratio": 19.43,
         "forward_return": -41.1,
         "start_price": 114.5,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 18.61,
         "forward_return": 28.57,
         "start_price": 108.5,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.32,
+        "pe_ratio": 17.65,
         "forward_return": 79.47,
         "start_price": 102.0,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.93,
+        "pe_ratio": 17.54,
         "forward_return": 115.9,
         "start_price": 100.5,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.2,
+        "pe_ratio": 19.28,
         "forward_return": 7.45,
         "start_price": 109.5,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 17.59,
+        "pe_ratio": 18.99,
         "forward_return": 1.77,
         "start_price": 113.0,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.06,
+        "pe_ratio": 18.81,
         "forward_return": -19.11,
         "start_price": 117.0,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.29,
+        "pe_ratio": 16.41,
         "forward_return": 9.76,
         "start_price": 106.5,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 17.21,
+        "pe_ratio": 17.29,
         "forward_return": 10.91,
         "start_price": 113.5,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.76,
+        "pe_ratio": 16.8,
         "forward_return": 59.56,
         "start_price": 111.5,
         "start_year": 2017
@@ -1317,7 +1317,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 16.82,
         "forward_return": -5.13,
         "start_price": 116.5,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.52,
+        "pe_ratio": 16.24,
         "forward_return": -5.14,
         "start_price": 116.0,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.66,
         "forward_return": -3.41,
         "start_price": 130.0,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.42,
+        "pe_ratio": 15.27,
         "forward_return": 67.52,
         "start_price": 113.0,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.39,
         "forward_return": 228.55,
         "start_price": 114.5,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.53,
+        "pe_ratio": 14.84,
         "forward_return": 162.17,
         "start_price": 111.0,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.78,
+        "pe_ratio": 16.09,
         "forward_return": 3.27,
         "start_price": 123.0,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.07,
         "forward_return": -11.58,
         "start_price": 149.0,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.78,
+        "pe_ratio": 17.04,
         "forward_return": 22.32,
         "start_price": 136.0,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.01,
+        "pe_ratio": 15.17,
         "forward_return": 199.77,
         "start_price": 124.0,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.82,
+        "pe_ratio": 16.9,
         "forward_return": 115.14,
         "start_price": 141.5,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.34,
         "forward_return": 84.66,
         "start_price": 163.5,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.22,
         "forward_return": 60.47,
         "start_price": 178.0,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.94,
         "forward_return": 68.15,
         "start_price": 182.0,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.55,
         "forward_return": 15.2,
         "start_price": 209.0,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.93,
+        "pe_ratio": 18.64,
         "forward_return": 51.33,
         "start_price": 200.0,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.84,
+        "pe_ratio": 20.24,
         "forward_return": 15.6,
         "start_price": 228.5,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 18.44,
+        "pe_ratio": 18.02,
         "forward_return": 36.31,
         "start_price": 209.5,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 18.28,
+        "pe_ratio": 17.98,
         "forward_return": 30.51,
         "start_price": 215.0,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 18.91,
+        "pe_ratio": 18.71,
         "forward_return": 9.02,
         "start_price": 230.0,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.03,
+        "pe_ratio": 17.91,
         "forward_return": 42.19,
         "start_price": 226.5,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.78,
+        "pe_ratio": 17.73,
         "forward_return": -14.9,
         "start_price": 230.5,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.3,
         "forward_return": 14.03,
         "start_price": 247.5,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 16.43,
         "forward_return": 74.56,
         "start_price": 225.0,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 15.76,
         "forward_return": 447.27,
         "start_price": 218.5,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 17.57,
+        "pe_ratio": 18.44,
         "forward_return": 405.12,
         "start_price": 257.5,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.37,
         "forward_return": 417.0,
         "start_price": 258.5,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.54,
+        "pe_ratio": 21.09,
         "forward_return": 157.67,
         "start_price": 299.0,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 23.97,
+        "pe_ratio": 25.72,
         "forward_return": -18.67,
         "start_price": 374.5,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 23.83,
+        "pe_ratio": 25.44,
         "forward_return": 8.5,
         "start_price": 380.0,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 22.65,
+        "pe_ratio": 24.05,
         "forward_return": 26.21,
         "start_price": 368.5,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 21.42,
+        "pe_ratio": 22.27,
         "forward_return": 158.33,
         "start_price": 355.5,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 21.93,
+        "pe_ratio": 22.35,
         "forward_return": 139.06,
         "start_price": 371.0,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.34,
+        "pe_ratio": 24.86,
         "forward_return": 35.59,
         "start_price": 451.5,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 23.15,
+        "pe_ratio": 24.11,
         "forward_return": 39.13,
         "start_price": 460.0,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 23.32,
+        "pe_ratio": 24.7,
         "forward_return": 80.75,
         "start_price": 494.0,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 24.76,
         "forward_return": 64.24,
         "start_price": 532.0,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 20.96,
+        "pe_ratio": 21.72,
         "forward_return": 67.23,
         "start_price": 499.0,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 20.1,
+        "pe_ratio": 20.65,
         "forward_return": 3.58,
         "start_price": 505.0,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.6,
         "forward_return": -47.88,
         "start_price": 588.0,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 19.97,
+        "pe_ratio": 20.1,
         "forward_return": 14.72,
         "start_price": 554.0,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.05,
+        "pe_ratio": 17.02,
         "forward_return": 88.14,
         "start_price": 495.5,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 16.43,
+        "pe_ratio": 16.41,
         "forward_return": 23.27,
         "start_price": 499.0,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 17.52,
+        "pe_ratio": 17.5,
         "forward_return": -53.85,
         "start_price": 555.0,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 15.3,
         "forward_return": -39.89,
         "start_price": 526.0,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 13.92,
+        "pe_ratio": 12.75,
         "forward_return": -9.43,
         "start_price": 456.0,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 11.59,
         "forward_return": -36.97,
         "start_price": 430.5,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 10.9,
         "forward_return": -32.86,
         "start_price": 407.5,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 11.84,
         "forward_return": -50.38,
         "start_price": 445.0,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 11.23,
+        "pe_ratio": 9.6,
         "forward_return": -54.92,
         "start_price": 363.0,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 9.15,
         "forward_return": -68.82,
         "start_price": 342.0,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 9.37,
         "forward_return": -46.37,
         "start_price": 346.0,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 8.45,
+        "pe_ratio": 7.41,
         "forward_return": 17.38,
         "start_price": 270.0,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.32,
         "forward_return": 146.32,
         "start_price": 255.0,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.99,
+        "pe_ratio": 9.54,
         "forward_return": 84.27,
         "start_price": 317.0,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.88,
         "forward_return": 71.44,
         "start_price": 320.0,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.96,
+        "pe_ratio": 13.97,
         "forward_return": 2.15,
         "start_price": 380.0,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 15.5,
         "forward_return": 64.4,
         "start_price": 387.5,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 15.18,
         "forward_return": 164.63,
         "start_price": 359.0,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 17.14,
         "forward_return": 83.32,
         "start_price": 382.0,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 18.51,
         "forward_return": 40.3,
         "start_price": 387.5,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 21.66,
         "forward_return": -24.19,
         "start_price": 430.5,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 22.22,
         "forward_return": 43.42,
         "start_price": 418.0,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 18.55,
+        "pe_ratio": 22.25,
         "forward_return": 103.51,
         "start_price": 395.0,
         "start_year": 2023
@@ -1938,7 +1938,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 19.93,
+        "pe_ratio": 22.58,
         "forward_return": 86.11,
         "start_price": 401.5,
         "start_year": 2023
@@ -1947,7 +1947,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 23.66,
+        "pe_ratio": 25.23,
         "forward_return": 94.16,
         "start_price": 449.5,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.09,
         "forward_return": 55.12,
         "start_price": 469.5,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 28.67,
+        "pe_ratio": 29.07,
         "forward_return": -17.12,
         "start_price": 569.0,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 26.87,
+        "pe_ratio": 27.4,
         "forward_return": -16.39,
         "start_price": 560.0,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 23.72,
+        "pe_ratio": 23.98,
         "forward_return": 7.57,
         "start_price": 518.0,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 23.78,
+        "pe_ratio": 23.85,
         "forward_return": 5.6,
         "start_price": 543.0,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 22.91,
+        "pe_ratio": 22.82,
         "forward_return": -36.75,
         "start_price": 546.0,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.62,
+        "pe_ratio": 20.4,
         "forward_return": -23.56,
         "start_price": 512.0,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.37,
         "forward_return": 19.63,
         "start_price": 535.0,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 17.56,
+        "pe_ratio": 17.16,
         "forward_return": 112.04,
         "start_price": 471.0,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 17.2,
+        "pe_ratio": 16.95,
         "forward_return": 64.0,
         "start_price": 478.5,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.4,
         "forward_return": 33.19,
         "start_price": 476.0,
         "start_year": 2024
@@ -2073,7 +2073,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 17.56,
         "forward_return": -0.56,
         "start_price": 542.0,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 18.55,
+        "pe_ratio": 17.23,
         "forward_return": -6.48,
         "start_price": 550.0,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 17.69,
+        "pe_ratio": 15.86,
         "forward_return": 51.24,
         "start_price": 523.0,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 17.78,
+        "pe_ratio": 16.04,
         "forward_return": 72.8,
         "start_price": 524.0,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 18.41,
+        "pe_ratio": 16.71,
         "forward_return": 14.28,
         "start_price": 541.0,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 19.35,
+        "pe_ratio": 17.68,
         "forward_return": 6.09,
         "start_price": 567.0,
         "start_year": 2025
@@ -2127,7 +2127,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 19.69,
+        "pe_ratio": 18.28,
         "forward_return": -35.44,
         "start_price": 575.0,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 18.34,
+        "pe_ratio": 17.32,
         "forward_return": -23.17,
         "start_price": 534.0,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 18.94,
+        "pe_ratio": 18.2,
         "forward_return": -37.61,
         "start_price": 550.0,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 17.32,
         "forward_return": -22.16,
         "start_price": 515.0,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 13.2,
         "forward_return": 49.53,
         "start_price": 36.3,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 12.9,
         "forward_return": 57.04,
         "start_price": 36.65,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.46,
         "forward_return": 119.47,
         "start_price": 36.5,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.46,
+        "pe_ratio": 11.26,
         "forward_return": 188.87,
         "start_price": 34.0,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 12.39,
         "forward_return": 90.13,
         "start_price": 38.2,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.22,
         "forward_return": 161.64,
         "start_price": 41.6,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.68,
         "forward_return": 222.41,
         "start_price": 40.7,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 13.71,
         "forward_return": 205.41,
         "start_price": 44.2,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.54,
         "forward_return": 184.85,
         "start_price": 50.3,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.9,
         "forward_return": 1274.74,
         "start_price": 52.8,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 16.88,
+        "pe_ratio": 16.22,
         "forward_return": 806.82,
         "start_price": 55.0,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 21.01,
         "forward_return": 160.86,
         "start_price": 72.7,
         "start_year": 2007
@@ -2280,7 +2280,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.66,
+        "pe_ratio": 16.82,
         "forward_return": 255.86,
         "start_price": 67.5,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.83,
+        "pe_ratio": 18.5,
         "forward_return": 71.73,
         "start_price": 84.5,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 49.77,
+        "pe_ratio": 31.84,
         "forward_return": -49.28,
         "start_price": 163.0,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 57.94,
+        "pe_ratio": 35.98,
         "forward_return": -74.32,
         "start_price": 190.0,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 49.19,
+        "pe_ratio": 29.69,
         "forward_return": -62.89,
         "start_price": 161.5,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 46.39,
+        "pe_ratio": 27.23,
         "forward_return": -64.83,
         "start_price": 152.5,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 25.66,
         "forward_return": -40.17,
         "start_price": 124.0,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 35.65,
+        "pe_ratio": 28.89,
         "forward_return": -38.93,
         "start_price": 117.5,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 30.11,
+        "pe_ratio": 27.4,
         "forward_return": -38.48,
         "start_price": 95.8,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 30.62,
+        "pe_ratio": 25.4,
         "forward_return": -48.15,
         "start_price": 93.8,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 30.76,
+        "pe_ratio": 23.29,
         "forward_return": -61.87,
         "start_price": 90.6,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 31.34,
+        "pe_ratio": 27.95,
         "forward_return": -66.14,
         "start_price": 88.6,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 37.51,
         "forward_return": -81.08,
         "start_price": 91.9,
         "start_year": 2008
@@ -2406,7 +2406,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 24.02,
+        "pe_ratio": 35.95,
         "forward_return": -68.89,
         "start_price": 62.2,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 29.21,
+        "pe_ratio": 61.71,
         "forward_return": -74.88,
         "start_price": 72.2,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 27.41,
+        "pe_ratio": 105.7,
         "forward_return": -47.24,
         "start_price": 64.5,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 23.67,
+        "pe_ratio": 1058.0,
         "forward_return": -29.46,
         "start_price": 52.9,
         "start_year": 2008
@@ -2442,7 +2442,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.91,
+        "pe_ratio": 73.48,
         "forward_return": 66.05,
         "start_price": 48.5,
         "start_year": 2008
@@ -2451,7 +2451,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 26.85,
         "forward_return": 268.72,
         "start_price": 34.1,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 17.22,
+        "pe_ratio": 20.85,
         "forward_return": 414.96,
         "start_price": 36.0,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 17.51,
+        "pe_ratio": 25.61,
         "forward_return": 212.48,
         "start_price": 40.3,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 17.71,
+        "pe_ratio": 31.34,
         "forward_return": 128.42,
         "start_price": 44.5,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 19.72,
+        "pe_ratio": 29.24,
         "forward_return": 80.55,
         "start_price": 53.7,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 28.89,
         "forward_return": 94.4,
         "start_price": 65.1,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 19.4,
+        "pe_ratio": 22.85,
         "forward_return": 147.73,
         "start_price": 61.0,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 27.7,
         "forward_return": 21.79,
         "start_price": 79.5,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 22.64,
         "forward_return": 43.47,
         "start_price": 69.5,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 22.94,
         "forward_return": 30.88,
         "start_price": 75.0,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 19.34,
         "forward_return": 17.43,
         "start_price": 70.6,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 21.34,
+        "pe_ratio": 22.23,
         "forward_return": -25.38,
         "start_price": 89.6,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 18.9,
         "forward_return": -23.37,
         "start_price": 87.8,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 19.76,
+        "pe_ratio": 17.2,
         "forward_return": -36.19,
         "start_price": 84.0,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.54,
+        "pe_ratio": 16.74,
         "forward_return": -17.71,
         "start_price": 85.7,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 16.58,
         "forward_return": -20.38,
         "start_price": 85.7,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 19.31,
+        "pe_ratio": 14.85,
         "forward_return": -8.75,
         "start_price": 77.5,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 18.07,
+        "pe_ratio": 13.49,
         "forward_return": 6.71,
         "start_price": 71.1,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 18.96,
+        "pe_ratio": 14.75,
         "forward_return": -12.36,
         "start_price": 73.1,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 16.76,
+        "pe_ratio": 13.63,
         "forward_return": -26.84,
         "start_price": 63.3,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 16.67,
         "forward_return": -46.82,
         "start_price": 72.2,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 20.06,
+        "pe_ratio": 17.97,
         "forward_return": -18.87,
         "start_price": 72.6,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 19.01,
         "forward_return": -18.82,
         "start_price": 71.3,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 19.87,
+        "pe_ratio": 21.62,
         "forward_return": -35.36,
         "start_price": 68.4,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.0,
+        "pe_ratio": 20.3,
         "forward_return": -32.78,
         "start_price": 58.2,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 20.54,
         "forward_return": 1.3,
         "start_price": 52.8,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.83,
+        "pe_ratio": 21.73,
         "forward_return": -12.86,
         "start_price": 57.0,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.09,
+        "pe_ratio": 24.02,
         "forward_return": -41.75,
         "start_price": 64.3,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 20.29,
         "forward_return": -28.44,
         "start_price": 55.4,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 19.39,
         "forward_return": 8.47,
         "start_price": 52.6,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.66,
+        "pe_ratio": 16.78,
         "forward_return": 34.98,
         "start_price": 45.25,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 15.75,
+        "pe_ratio": 19.37,
         "forward_return": 7.88,
         "start_price": 51.9,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 17.69,
         "forward_return": 31.2,
         "start_price": 50.7,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.44,
+        "pe_ratio": 14.34,
         "forward_return": 84.3,
         "start_price": 43.8,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 15.98,
         "forward_return": -1.46,
         "start_price": 54.8,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.24,
         "forward_return": -11.49,
         "start_price": 62.4,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 14.15,
         "forward_return": 11.0,
         "start_price": 53.9,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.77,
         "forward_return": -18.28,
         "start_price": 63.4,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 15.84,
         "forward_return": 12.37,
         "start_price": 59.4,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.54,
         "forward_return": 38.11,
         "start_price": 54.1,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.53,
         "forward_return": 60.87,
         "start_price": 52.1,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.83,
+        "pe_ratio": 14.17,
         "forward_return": 43.31,
         "start_price": 56.4,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 43.55,
         "start_price": 58.1,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.98,
         "forward_return": 74.97,
         "start_price": 55.0,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.42,
         "forward_return": 69.44,
         "start_price": 58.6,
         "start_year": 2012
@@ -2901,7 +2901,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 14.38,
         "forward_return": 29.33,
         "start_price": 66.2,
         "start_year": 2013
@@ -2910,7 +2910,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 14.87,
+        "pe_ratio": 14.98,
         "forward_return": -2.26,
         "start_price": 70.6,
         "start_year": 2013
@@ -2919,7 +2919,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.42,
         "forward_return": 5.71,
         "start_price": 69.5,
         "start_year": 2013
@@ -2928,7 +2928,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.99,
+        "pe_ratio": 17.15,
         "forward_return": -28.6,
         "start_price": 85.0,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.94,
         "forward_return": 16.92,
         "start_price": 76.1,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.58,
         "forward_return": 37.89,
         "start_price": 71.0,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.44,
         "forward_return": 33.34,
         "start_price": 71.8,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 12.17,
         "forward_return": 74.73,
         "start_price": 66.4,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 12.96,
         "forward_return": 62.36,
         "start_price": 72.2,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.96,
         "forward_return": 68.21,
         "start_price": 68.4,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.21,
         "forward_return": 67.2,
         "start_price": 71.7,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.67,
         "forward_return": 48.3,
         "start_price": 83.0,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.71,
         "forward_return": 60.71,
         "start_price": 90.0,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.88,
         "forward_return": 26.8,
         "start_price": 91.8,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 13.6,
         "forward_return": 50.02,
         "start_price": 86.1,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.25,
         "forward_return": 36.5,
         "start_price": 92.5,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.23,
         "forward_return": 37.59,
         "start_price": 94.6,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 13.51,
         "forward_return": 2.5,
         "start_price": 95.9,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 14.45,
         "forward_return": -13.8,
         "start_price": 109.0,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 13.52,
         "forward_return": -14.38,
         "start_price": 108.0,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.53,
+        "pe_ratio": 12.73,
         "forward_return": -11.37,
         "start_price": 100.5,
         "start_year": 2014
@@ -3099,7 +3099,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.2,
         "forward_return": -17.38,
         "start_price": 103.0,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.0,
+        "pe_ratio": 12.68,
         "forward_return": -51.12,
         "start_price": 97.1,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 13.62,
+        "pe_ratio": 12.93,
         "forward_return": -57.29,
         "start_price": 98.4,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 13.23,
         "forward_return": -40.05,
         "start_price": 100.0,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 13.46,
         "forward_return": -40.36,
         "start_price": 96.0,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.41,
+        "pe_ratio": 13.99,
         "forward_return": -15.83,
         "start_price": 93.7,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.62,
         "forward_return": 14.63,
         "start_price": 79.1,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 10.95,
         "forward_return": 74.48,
         "start_price": 62.1,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.11,
+        "pe_ratio": 11.5,
         "forward_return": 103.97,
         "start_price": 58.4,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 12.46,
         "forward_return": 152.34,
         "start_price": 55.8,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 14.84,
         "forward_return": 56.42,
         "start_price": 68.1,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 13.34,
+        "pe_ratio": 14.34,
         "forward_return": 72.34,
         "start_price": 67.4,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 16.74,
+        "pe_ratio": 17.45,
         "forward_return": 111.89,
         "start_price": 82.2,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 16.74,
+        "pe_ratio": 18.2,
         "forward_return": 143.35,
         "start_price": 83.9,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.62,
         "forward_return": 47.2,
         "start_price": 88.5,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 17.34,
+        "pe_ratio": 18.29,
         "forward_return": 50.64,
         "start_price": 90.4,
         "start_year": 2016
@@ -3261,7 +3261,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 16.63,
+        "pe_ratio": 16.44,
         "forward_return": 36.33,
         "start_price": 88.4,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 18.45,
+        "pe_ratio": 17.19,
         "forward_return": 12.56,
         "start_price": 99.9,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 19.55,
         "forward_return": -10.86,
         "start_price": 115.5,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 22.61,
+        "pe_ratio": 21.15,
         "forward_return": -23.76,
         "start_price": 127.0,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.89,
         "forward_return": 11.07,
         "start_price": 103.0,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.39,
+        "pe_ratio": 17.62,
         "forward_return": -10.23,
         "start_price": 107.0,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 16.37,
         "forward_return": 3.08,
         "start_price": 99.0,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 18.3,
         "forward_return": 17.36,
         "start_price": 109.0,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.66,
+        "pe_ratio": 19.43,
         "forward_return": 13.58,
         "start_price": 114.5,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 18.61,
         "forward_return": 16.24,
         "start_price": 108.5,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.32,
+        "pe_ratio": 17.65,
         "forward_return": 34.89,
         "start_price": 102.0,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.93,
+        "pe_ratio": 17.54,
         "forward_return": 24.0,
         "start_price": 100.5,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.2,
+        "pe_ratio": 19.28,
         "forward_return": 8.37,
         "start_price": 109.5,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 17.59,
+        "pe_ratio": 18.99,
         "forward_return": 6.24,
         "start_price": 113.0,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.06,
+        "pe_ratio": 18.81,
         "forward_return": 19.9,
         "start_price": 117.0,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.29,
+        "pe_ratio": 16.41,
         "forward_return": 49.53,
         "start_price": 106.5,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 17.21,
+        "pe_ratio": 17.29,
         "forward_return": 1.52,
         "start_price": 113.5,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.76,
+        "pe_ratio": 16.8,
         "forward_return": 5.5,
         "start_price": 111.5,
         "start_year": 2017
@@ -3441,7 +3441,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 16.82,
         "forward_return": 21.88,
         "start_price": 116.5,
         "start_year": 2018
@@ -3450,7 +3450,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.52,
+        "pe_ratio": 16.24,
         "forward_return": 77.74,
         "start_price": 116.0,
         "start_year": 2018
@@ -3459,7 +3459,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.66,
         "forward_return": -0.66,
         "start_price": 130.0,
         "start_year": 2018
@@ -3468,7 +3468,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.42,
+        "pe_ratio": 15.27,
         "forward_return": 31.26,
         "start_price": 113.0,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.39,
         "forward_return": 55.86,
         "start_price": 114.5,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.53,
+        "pe_ratio": 14.84,
         "forward_return": 78.77,
         "start_price": 111.0,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.78,
+        "pe_ratio": 16.09,
         "forward_return": 75.95,
         "start_price": 123.0,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.07,
         "forward_return": 41.15,
         "start_price": 149.0,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.78,
+        "pe_ratio": 17.04,
         "forward_return": 80.03,
         "start_price": 136.0,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.01,
+        "pe_ratio": 15.17,
         "forward_return": 127.87,
         "start_price": 124.0,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.82,
+        "pe_ratio": 16.9,
         "forward_return": 101.02,
         "start_price": 141.5,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.34,
         "forward_return": 76.23,
         "start_price": 163.5,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.22,
         "forward_return": 55.78,
         "start_price": 178.0,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.94,
         "forward_return": 53.0,
         "start_price": 182.0,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.55,
         "forward_return": 24.76,
         "start_price": 209.0,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.93,
+        "pe_ratio": 18.64,
         "forward_return": 38.45,
         "start_price": 200.0,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.84,
+        "pe_ratio": 20.24,
         "forward_return": 12.14,
         "start_price": 228.5,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 18.44,
+        "pe_ratio": 18.02,
         "forward_return": 39.22,
         "start_price": 209.5,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 18.28,
+        "pe_ratio": 17.98,
         "forward_return": 2.81,
         "start_price": 215.0,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 18.91,
+        "pe_ratio": 18.71,
         "forward_return": -9.78,
         "start_price": 230.0,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.03,
+        "pe_ratio": 17.91,
         "forward_return": 25.43,
         "start_price": 226.5,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.78,
+        "pe_ratio": 17.73,
         "forward_return": 25.87,
         "start_price": 230.5,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.3,
         "forward_return": 143.34,
         "start_price": 247.5,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 16.43,
         "forward_return": 201.3,
         "start_price": 225.0,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 15.76,
         "forward_return": 141.76,
         "start_price": 218.5,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 17.57,
+        "pe_ratio": 18.44,
         "forward_return": 102.29,
         "start_price": 257.5,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.37,
         "forward_return": 112.02,
         "start_price": 258.5,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.54,
+        "pe_ratio": 21.09,
         "forward_return": 80.1,
         "start_price": 299.0,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 23.97,
+        "pe_ratio": 25.72,
         "forward_return": 44.94,
         "start_price": 374.5,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 23.83,
+        "pe_ratio": 25.44,
         "forward_return": 57.15,
         "start_price": 380.0,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 22.65,
+        "pe_ratio": 24.05,
         "forward_return": 80.66,
         "start_price": 368.5,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 21.42,
+        "pe_ratio": 22.27,
         "forward_return": 79.35,
         "start_price": 355.5,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 21.93,
+        "pe_ratio": 22.35,
         "forward_return": 81.87,
         "start_price": 371.0,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.34,
+        "pe_ratio": 24.86,
         "forward_return": 78.7,
         "start_price": 451.5,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 23.15,
+        "pe_ratio": 24.11,
         "forward_return": 52.69,
         "start_price": 460.0,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 23.32,
+        "pe_ratio": 24.7,
         "forward_return": 6.65,
         "start_price": 494.0,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 24.76,
         "forward_return": -7.0,
         "start_price": 532.0,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 20.96,
+        "pe_ratio": 21.72,
         "forward_return": 34.64,
         "start_price": 499.0,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 20.1,
+        "pe_ratio": 20.65,
         "forward_return": 38.26,
         "start_price": 505.0,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.6,
         "forward_return": -19.84,
         "start_price": 588.0,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 19.97,
+        "pe_ratio": 20.1,
         "forward_return": -35.24,
         "start_price": 554.0,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.05,
+        "pe_ratio": 17.02,
         "forward_return": -24.71,
         "start_price": 495.5,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 16.43,
+        "pe_ratio": 16.41,
         "forward_return": -17.91,
         "start_price": 499.0,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 17.52,
+        "pe_ratio": 17.5,
         "forward_return": -35.97,
         "start_price": 555.0,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 15.3,
         "forward_return": -51.1,
         "start_price": 526.0,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 13.92,
+        "pe_ratio": 12.75,
         "forward_return": -33.18,
         "start_price": 456.0,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 11.59,
         "forward_return": -51.42,
         "start_price": 430.5,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 10.9,
         "forward_return": -52.04,
         "start_price": 407.5,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 11.84,
         "forward_return": -46.64,
         "start_price": 445.0,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 11.23,
+        "pe_ratio": 9.6,
         "forward_return": -27.96,
         "start_price": 363.0,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 9.15,
         "forward_return": -12.36,
         "start_price": 342.0,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 9.37,
         "forward_return": 21.55,
         "start_price": 346.0,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 8.45,
+        "pe_ratio": 7.41,
         "forward_return": 107.32,
         "start_price": 270.0,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.32,
         "forward_return": 100.63,
         "start_price": 255.0,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.99,
+        "pe_ratio": 9.54,
         "forward_return": 45.7,
         "start_price": 317.0,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.88,
         "forward_return": 105.72,
         "start_price": 320.0,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.96,
+        "pe_ratio": 13.97,
         "forward_return": 37.29,
         "start_price": 380.0,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 15.5,
         "forward_return": 18.73,
         "start_price": 387.5,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 15.18,
         "forward_return": 42.36,
         "start_price": 359.0,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 17.14,
         "forward_return": 57.51,
         "start_price": 382.0,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 18.51,
         "forward_return": 65.33,
         "start_price": 387.5,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 21.66,
         "forward_return": 18.79,
         "start_price": 430.5,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 22.22,
         "forward_return": 65.12,
         "start_price": 418.0,
         "start_year": 2023
@@ -4053,7 +4053,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 18.55,
+        "pe_ratio": 22.25,
         "forward_return": 101.48,
         "start_price": 395.0,
         "start_year": 2023
@@ -4062,7 +4062,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 19.93,
+        "pe_ratio": 22.58,
         "forward_return": 67.82,
         "start_price": 401.5,
         "start_year": 2023
@@ -4071,7 +4071,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 23.66,
+        "pe_ratio": 25.23,
         "forward_return": 46.12,
         "start_price": 449.5,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.09,
         "forward_return": 26.33,
         "start_price": 469.5,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 28.67,
+        "pe_ratio": 29.07,
         "forward_return": -6.38,
         "start_price": 569.0,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 26.87,
+        "pe_ratio": 27.4,
         "forward_return": -19.27,
         "start_price": 560.0,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 23.72,
+        "pe_ratio": 23.98,
         "forward_return": -9.03,
         "start_price": 518.0,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 23.78,
+        "pe_ratio": 23.85,
         "forward_return": 13.06,
         "start_price": 543.0,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 22.91,
+        "pe_ratio": 22.82,
         "forward_return": 14.18,
         "start_price": 546.0,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.62,
+        "pe_ratio": 20.4,
         "forward_return": 11.97,
         "start_price": 512.0,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.37,
         "forward_return": -3.83,
         "start_price": 535.0,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 17.56,
+        "pe_ratio": 17.16,
         "forward_return": 23.53,
         "start_price": 471.0,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 17.2,
+        "pe_ratio": 16.95,
         "forward_return": 23.55,
         "start_price": 478.5,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.4,
         "forward_return": 29.47,
         "start_price": 476.0,
         "start_year": 2024
@@ -4197,7 +4197,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 17.56,
         "forward_return": 22.98,
         "start_price": 542.0,
         "start_year": 2025
@@ -4206,7 +4206,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 18.55,
+        "pe_ratio": 17.23,
         "forward_return": 3.5,
         "start_price": 550.0,
         "start_year": 2025
@@ -4215,7 +4215,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 17.69,
+        "pe_ratio": 15.86,
         "forward_return": 5.78,
         "start_price": 523.0,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 17.78,
+        "pe_ratio": 16.04,
         "forward_return": 6.38,
         "start_price": 524.0,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 18.41,
+        "pe_ratio": 16.71,
         "forward_return": -8.21,
         "start_price": 541.0,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 19.35,
+        "pe_ratio": 17.68,
         "forward_return": -17.63,
         "start_price": 567.0,
         "start_year": 2025
@@ -4251,7 +4251,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 19.69,
+        "pe_ratio": 18.28,
         "forward_return": -29.11,
         "start_price": 575.0,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 13.2,
         "forward_return": 105.2,
         "start_price": 36.3,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 12.9,
         "forward_return": 89.03,
         "start_price": 36.65,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.46,
         "forward_return": 136.44,
         "start_price": 36.5,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.46,
+        "pe_ratio": 11.26,
         "forward_return": 385.08,
         "start_price": 34.0,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 12.39,
         "forward_return": 407.11,
         "start_price": 38.2,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.22,
         "forward_return": 297.01,
         "start_price": 41.6,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.68,
         "forward_return": 283.65,
         "start_price": 40.7,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 13.71,
         "forward_return": 188.67,
         "start_price": 44.2,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.54,
         "forward_return": 140.7,
         "start_price": 50.3,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.9,
         "forward_return": 88.15,
         "start_price": 52.8,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 16.88,
+        "pe_ratio": 16.22,
         "forward_return": 76.98,
         "start_price": 55.0,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 21.01,
         "forward_return": 29.37,
         "start_price": 72.7,
         "start_year": 2007
@@ -4377,7 +4377,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.66,
+        "pe_ratio": 16.82,
         "forward_return": 36.36,
         "start_price": 67.5,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.83,
+        "pe_ratio": 18.5,
         "forward_return": 12.87,
         "start_price": 84.5,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 49.77,
+        "pe_ratio": 31.84,
         "forward_return": -59.62,
         "start_price": 163.0,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 57.94,
+        "pe_ratio": 35.98,
         "forward_return": -60.35,
         "start_price": 190.0,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 49.19,
+        "pe_ratio": 29.69,
         "forward_return": -58.13,
         "start_price": 161.5,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 46.39,
+        "pe_ratio": 27.23,
         "forward_return": -63.27,
         "start_price": 152.5,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 25.66,
         "forward_return": -58.39,
         "start_price": 124.0,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 35.65,
+        "pe_ratio": 28.89,
         "forward_return": -68.35,
         "start_price": 117.5,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 30.11,
+        "pe_ratio": 27.4,
         "forward_return": -59.22,
         "start_price": 95.8,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 30.62,
+        "pe_ratio": 25.4,
         "forward_return": -46.7,
         "start_price": 93.8,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 30.76,
+        "pe_ratio": 23.29,
         "forward_return": -47.59,
         "start_price": 90.6,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 31.34,
+        "pe_ratio": 27.95,
         "forward_return": -36.02,
         "start_price": 88.6,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 37.51,
         "forward_return": -25.91,
         "start_price": 91.9,
         "start_year": 2008
@@ -4503,7 +4503,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 24.02,
+        "pe_ratio": 35.95,
         "forward_return": 2.9,
         "start_price": 62.2,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 29.21,
+        "pe_ratio": 61.71,
         "forward_return": 12.34,
         "start_price": 72.2,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 27.41,
+        "pe_ratio": 105.7,
         "forward_return": 10.24,
         "start_price": 64.5,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 23.67,
+        "pe_ratio": 1058.0,
         "forward_return": 44.84,
         "start_price": 52.9,
         "start_year": 2008
@@ -4539,7 +4539,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.91,
+        "pe_ratio": 73.48,
         "forward_return": 48.91,
         "start_price": 48.5,
         "start_year": 2008
@@ -4548,7 +4548,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 26.85,
         "forward_return": 167.63,
         "start_price": 34.1,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 17.22,
+        "pe_ratio": 20.85,
         "forward_return": 148.49,
         "start_price": 36.0,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 17.51,
+        "pe_ratio": 25.61,
         "forward_return": 112.52,
         "start_price": 40.3,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 17.71,
+        "pe_ratio": 31.34,
         "forward_return": 96.27,
         "start_price": 44.5,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 19.72,
+        "pe_ratio": 29.24,
         "forward_return": 62.62,
         "start_price": 53.7,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 28.89,
         "forward_return": 21.52,
         "start_price": 65.1,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 19.4,
+        "pe_ratio": 22.85,
         "forward_return": 19.19,
         "start_price": 61.0,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 27.7,
         "forward_return": -3.21,
         "start_price": 79.5,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 22.64,
         "forward_return": -3.38,
         "start_price": 69.5,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 22.94,
         "forward_return": 1.4,
         "start_price": 75.0,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 19.34,
         "forward_return": 8.29,
         "start_price": 70.6,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 21.34,
+        "pe_ratio": 22.23,
         "forward_return": -16.14,
         "start_price": 89.6,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 18.9,
         "forward_return": -17.72,
         "start_price": 87.8,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 19.76,
+        "pe_ratio": 17.2,
         "forward_return": -26.15,
         "start_price": 84.0,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.54,
+        "pe_ratio": 16.74,
         "forward_return": -33.92,
         "start_price": 85.7,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 16.58,
         "forward_return": -29.01,
         "start_price": 85.7,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 19.31,
+        "pe_ratio": 14.85,
         "forward_return": -12.07,
         "start_price": 77.5,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 18.07,
+        "pe_ratio": 13.49,
         "forward_return": -16.68,
         "start_price": 71.1,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 18.96,
+        "pe_ratio": 14.75,
         "forward_return": -24.64,
         "start_price": 73.1,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 16.76,
+        "pe_ratio": 13.63,
         "forward_return": -24.58,
         "start_price": 63.3,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 16.67,
         "forward_return": -24.67,
         "start_price": 72.2,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 20.06,
+        "pe_ratio": 17.97,
         "forward_return": -26.74,
         "start_price": 72.6,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 19.01,
         "forward_return": -35.08,
         "start_price": 71.3,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 19.87,
+        "pe_ratio": 21.62,
         "forward_return": -16.24,
         "start_price": 68.4,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.0,
+        "pe_ratio": 20.3,
         "forward_return": 11.52,
         "start_price": 58.2,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 20.54,
         "forward_return": 6.8,
         "start_price": 52.8,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.83,
+        "pe_ratio": 21.73,
         "forward_return": 15.58,
         "start_price": 57.0,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.09,
+        "pe_ratio": 24.02,
         "forward_return": -3.72,
         "start_price": 64.3,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 20.29,
         "forward_return": 2.16,
         "start_price": 55.4,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 19.39,
         "forward_return": 3.41,
         "start_price": 52.6,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.66,
+        "pe_ratio": 16.78,
         "forward_return": 29.65,
         "start_price": 45.25,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 15.75,
+        "pe_ratio": 19.37,
         "forward_return": 16.34,
         "start_price": 51.9,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 17.69,
         "forward_return": 12.99,
         "start_price": 50.7,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.44,
+        "pe_ratio": 14.34,
         "forward_return": 38.95,
         "start_price": 43.8,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 15.98,
         "forward_return": 24.94,
         "start_price": 54.8,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.24,
         "forward_return": 13.85,
         "start_price": 62.4,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 14.15,
         "forward_return": 33.24,
         "start_price": 53.9,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.77,
         "forward_return": 37.73,
         "start_price": 63.4,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 15.84,
         "forward_return": 32.01,
         "start_price": 59.4,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.54,
         "forward_return": 35.52,
         "start_price": 54.1,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.53,
         "forward_return": 44.37,
         "start_price": 52.1,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.83,
+        "pe_ratio": 14.17,
         "forward_return": 23.78,
         "start_price": 56.4,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 30.14,
         "start_price": 58.1,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.98,
         "forward_return": 30.57,
         "start_price": 55.0,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.42,
         "forward_return": 28.18,
         "start_price": 58.6,
         "start_year": 2012
@@ -4998,7 +4998,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 14.38,
         "forward_return": 30.54,
         "start_price": 66.2,
         "start_year": 2013
@@ -5007,7 +5007,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 14.87,
+        "pe_ratio": 14.98,
         "forward_return": 32.32,
         "start_price": 70.6,
         "start_year": 2013
@@ -5016,7 +5016,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.42,
         "forward_return": 37.01,
         "start_price": 69.5,
         "start_year": 2013
@@ -5025,7 +5025,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.99,
+        "pe_ratio": 17.15,
         "forward_return": 5.3,
         "start_price": 85.0,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.94,
         "forward_return": 26.04,
         "start_price": 76.1,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.58,
         "forward_return": 38.06,
         "start_price": 71.0,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.44,
         "forward_return": 40.56,
         "start_price": 71.8,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 12.17,
         "forward_return": 71.75,
         "start_price": 66.4,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 12.96,
         "forward_return": 56.56,
         "start_price": 72.2,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.96,
         "forward_return": 54.29,
         "start_price": 68.4,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.21,
         "forward_return": 50.67,
         "start_price": 71.7,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.67,
         "forward_return": 23.03,
         "start_price": 83.0,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.71,
         "forward_return": 14.9,
         "start_price": 90.0,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.88,
         "forward_return": 14.39,
         "start_price": 91.8,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 13.6,
         "forward_return": 17.32,
         "start_price": 86.1,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.25,
         "forward_return": 6.71,
         "start_price": 92.5,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.23,
         "forward_return": -11.11,
         "start_price": 94.6,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 13.51,
         "forward_return": -29.01,
         "start_price": 95.9,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 14.45,
         "forward_return": -40.94,
         "start_price": 109.0,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 13.52,
         "forward_return": -42.8,
         "start_price": 108.0,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.53,
+        "pe_ratio": 12.73,
         "forward_return": -26.28,
         "start_price": 100.5,
         "start_year": 2014
@@ -5196,7 +5196,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.2,
         "forward_return": -28.75,
         "start_price": 103.0,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.0,
+        "pe_ratio": 12.68,
         "forward_return": -9.17,
         "start_price": 97.1,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 13.62,
+        "pe_ratio": 12.93,
         "forward_return": -8.64,
         "start_price": 98.4,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 13.23,
         "forward_return": -5.49,
         "start_price": 100.0,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 13.46,
         "forward_return": 0.42,
         "start_price": 96.0,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.41,
+        "pe_ratio": 13.99,
         "forward_return": 0.75,
         "start_price": 93.7,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.62,
         "forward_return": 33.8,
         "start_price": 79.1,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 10.95,
         "forward_return": 92.17,
         "start_price": 62.1,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.11,
+        "pe_ratio": 11.5,
         "forward_return": 123.94,
         "start_price": 58.4,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 12.46,
         "forward_return": 91.5,
         "start_price": 55.8,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 14.84,
         "forward_return": 62.83,
         "start_price": 68.1,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 13.34,
+        "pe_ratio": 14.34,
         "forward_return": 52.69,
         "start_price": 67.4,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 16.74,
+        "pe_ratio": 17.45,
         "forward_return": 37.38,
         "start_price": 82.2,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 16.74,
+        "pe_ratio": 18.2,
         "forward_return": 31.16,
         "start_price": 83.9,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.62,
         "forward_return": 27.14,
         "start_price": 88.5,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 17.34,
+        "pe_ratio": 18.29,
         "forward_return": 17.27,
         "start_price": 90.4,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 16.63,
+        "pe_ratio": 16.44,
         "forward_return": 18.23,
         "start_price": 88.4,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 18.45,
+        "pe_ratio": 17.19,
         "forward_return": 13.62,
         "start_price": 99.9,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 19.55,
         "forward_return": 2.17,
         "start_price": 115.5,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 22.61,
+        "pe_ratio": 21.15,
         "forward_return": -3.94,
         "start_price": 127.0,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.89,
         "forward_return": 8.26,
         "start_price": 103.0,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.39,
+        "pe_ratio": 17.62,
         "forward_return": 10.76,
         "start_price": 107.0,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 16.37,
         "forward_return": 17.69,
         "start_price": 99.0,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 18.3,
         "forward_return": 11.48,
         "start_price": 109.0,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.66,
+        "pe_ratio": 19.43,
         "forward_return": 5.68,
         "start_price": 114.5,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 18.61,
         "forward_return": 24.44,
         "start_price": 108.5,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.32,
+        "pe_ratio": 17.65,
         "forward_return": 15.7,
         "start_price": 102.0,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.93,
+        "pe_ratio": 17.54,
         "forward_return": 18.92,
         "start_price": 100.5,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.2,
+        "pe_ratio": 19.28,
         "forward_return": 5.94,
         "start_price": 109.5,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 17.59,
+        "pe_ratio": 18.99,
         "forward_return": 13.73,
         "start_price": 113.0,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.06,
+        "pe_ratio": 18.81,
         "forward_return": 32.08,
         "start_price": 117.0,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.29,
+        "pe_ratio": 16.41,
         "forward_return": 32.89,
         "start_price": 106.5,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 17.21,
+        "pe_ratio": 17.29,
         "forward_return": 14.11,
         "start_price": 113.5,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.76,
+        "pe_ratio": 16.8,
         "forward_return": 31.86,
         "start_price": 111.5,
         "start_year": 2017
@@ -5538,7 +5538,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 16.82,
         "forward_return": 45.1,
         "start_price": 116.5,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.52,
+        "pe_ratio": 16.24,
         "forward_return": 58.24,
         "start_price": 116.0,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.66,
         "forward_return": 44.27,
         "start_price": 130.0,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.42,
+        "pe_ratio": 15.27,
         "forward_return": 89.91,
         "start_price": 113.0,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.39,
         "forward_return": 79.55,
         "start_price": 114.5,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.53,
+        "pe_ratio": 14.84,
         "forward_return": 110.92,
         "start_price": 111.0,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.78,
+        "pe_ratio": 16.09,
         "forward_return": 76.08,
         "start_price": 123.0,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.07,
         "forward_return": 49.03,
         "start_price": 149.0,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.78,
+        "pe_ratio": 17.04,
         "forward_return": 74.33,
         "start_price": 136.0,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.01,
+        "pe_ratio": 15.17,
         "forward_return": 88.39,
         "start_price": 124.0,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.82,
+        "pe_ratio": 16.9,
         "forward_return": 67.9,
         "start_price": 141.5,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.34,
         "forward_return": 55.7,
         "start_price": 163.5,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.22,
         "forward_return": 30.36,
         "start_price": 178.0,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.94,
         "forward_return": 23.85,
         "start_price": 182.0,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.55,
         "forward_return": 26.49,
         "start_price": 209.0,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.93,
+        "pe_ratio": 18.64,
         "forward_return": 32.67,
         "start_price": 200.0,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.84,
+        "pe_ratio": 20.24,
         "forward_return": 33.84,
         "start_price": 228.5,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 18.44,
+        "pe_ratio": 18.02,
         "forward_return": 83.78,
         "start_price": 209.5,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 18.28,
+        "pe_ratio": 17.98,
         "forward_return": 81.64,
         "start_price": 215.0,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 18.91,
+        "pe_ratio": 18.71,
         "forward_return": 64.83,
         "start_price": 230.0,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.03,
+        "pe_ratio": 17.91,
         "forward_return": 61.65,
         "start_price": 226.5,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.78,
+        "pe_ratio": 17.73,
         "forward_return": 65.56,
         "start_price": 230.5,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.3,
         "forward_return": 86.63,
         "start_price": 247.5,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 16.43,
         "forward_return": 111.19,
         "start_price": 225.0,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 15.76,
         "forward_return": 131.25,
         "start_price": 218.5,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 17.57,
+        "pe_ratio": 18.44,
         "forward_return": 110.98,
         "start_price": 257.5,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.37,
         "forward_return": 97.38,
         "start_price": 258.5,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.54,
+        "pe_ratio": 21.09,
         "forward_return": 72.64,
         "start_price": 299.0,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 23.97,
+        "pe_ratio": 25.72,
         "forward_return": 60.8,
         "start_price": 374.5,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 23.83,
+        "pe_ratio": 25.44,
         "forward_return": 49.51,
         "start_price": 380.0,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 22.65,
+        "pe_ratio": 24.05,
         "forward_return": 38.29,
         "start_price": 368.5,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 21.42,
+        "pe_ratio": 22.27,
         "forward_return": 44.34,
         "start_price": 355.5,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 21.93,
+        "pe_ratio": 22.35,
         "forward_return": 53.41,
         "start_price": 371.0,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.34,
+        "pe_ratio": 24.86,
         "forward_return": 19.62,
         "start_price": 451.5,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 23.15,
+        "pe_ratio": 24.11,
         "forward_return": 2.18,
         "start_price": 460.0,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 23.32,
+        "pe_ratio": 24.7,
         "forward_return": -10.03,
         "start_price": 494.0,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 24.76,
         "forward_return": -20.78,
         "start_price": 532.0,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 20.96,
+        "pe_ratio": 21.72,
         "forward_return": -8.02,
         "start_price": 499.0,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 20.1,
+        "pe_ratio": 20.65,
         "forward_return": -25.36,
         "start_price": 505.0,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.6,
         "forward_return": -37.26,
         "start_price": 588.0,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 19.97,
+        "pe_ratio": 20.1,
         "forward_return": -32.69,
         "start_price": 554.0,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.05,
+        "pe_ratio": 17.02,
         "forward_return": -40.08,
         "start_price": 495.5,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 16.43,
+        "pe_ratio": 16.41,
         "forward_return": -43.51,
         "start_price": 499.0,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 17.52,
+        "pe_ratio": 17.5,
         "forward_return": -38.04,
         "start_price": 555.0,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 15.3,
         "forward_return": -34.05,
         "start_price": 526.0,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 13.92,
+        "pe_ratio": 12.75,
         "forward_return": -10.75,
         "start_price": 456.0,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 11.59,
         "forward_return": -3.72,
         "start_price": 430.5,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 10.9,
         "forward_return": -5.28,
         "start_price": 407.5,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 11.84,
         "forward_return": -8.1,
         "start_price": 445.0,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 11.23,
+        "pe_ratio": 9.6,
         "forward_return": 14.2,
         "start_price": 363.0,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 9.15,
         "forward_return": 33.8,
         "start_price": 342.0,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 9.37,
         "forward_return": 28.63,
         "start_price": 346.0,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 8.45,
+        "pe_ratio": 7.41,
         "forward_return": 56.34,
         "start_price": 270.0,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.32,
         "forward_return": 68.1,
         "start_price": 255.0,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.99,
+        "pe_ratio": 9.54,
         "forward_return": 50.36,
         "start_price": 317.0,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.88,
         "forward_return": 55.2,
         "start_price": 320.0,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.96,
+        "pe_ratio": 13.97,
         "forward_return": 56.89,
         "start_price": 380.0,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 15.5,
         "forward_return": 51.36,
         "start_price": 387.5,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 15.18,
         "forward_return": 51.68,
         "start_price": 359.0,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 17.14,
         "forward_return": 49.09,
         "start_price": 382.0,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 18.51,
         "forward_return": 47.75,
         "start_price": 387.5,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 21.66,
         "forward_return": 22.48,
         "start_price": 430.5,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 22.22,
         "forward_return": 31.62,
         "start_price": 418.0,
         "start_year": 2023
@@ -6150,7 +6150,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 18.55,
+        "pe_ratio": 22.25,
         "forward_return": 23.11,
         "start_price": 395.0,
         "start_year": 2023
@@ -6159,7 +6159,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 19.93,
+        "pe_ratio": 22.58,
         "forward_return": 22.99,
         "start_price": 401.5,
         "start_year": 2023
@@ -6168,7 +6168,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 23.66,
+        "pe_ratio": 25.23,
         "forward_return": 9.32,
         "start_price": 449.5,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.09,
         "forward_return": 18.7,
         "start_price": 469.5,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 28.67,
+        "pe_ratio": 29.07,
         "forward_return": -4.97,
         "start_price": 569.0,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 26.87,
+        "pe_ratio": 27.4,
         "forward_return": -3.84,
         "start_price": 560.0,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 23.72,
+        "pe_ratio": 23.98,
         "forward_return": 4.15,
         "start_price": 518.0,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 23.78,
+        "pe_ratio": 23.85,
         "forward_return": 2.49,
         "start_price": 543.0,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 22.91,
+        "pe_ratio": 22.82,
         "forward_return": 6.69,
         "start_price": 546.0,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.62,
+        "pe_ratio": 20.4,
         "forward_return": 17.3,
         "start_price": 512.0,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.37,
         "forward_return": 4.58,
         "start_price": 535.0,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 17.56,
+        "pe_ratio": 17.16,
         "forward_return": 22.2,
         "start_price": 471.0,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 17.2,
+        "pe_ratio": 16.95,
         "forward_return": 12.97,
         "start_price": 478.5,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 16.51,
+        "pe_ratio": 16.4,
         "forward_return": 14.82,
         "start_price": 476.0,
         "start_year": 2024
@@ -6294,7 +6294,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 17.56,
         "forward_return": -6.09,
         "start_price": 542.0,
         "start_year": 2025
@@ -6303,7 +6303,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 18.55,
+        "pe_ratio": 17.23,
         "forward_return": -7.82,
         "start_price": 550.0,
         "start_year": 2025
@@ -6312,7 +6312,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 13.2,
         "forward_return": 62.44,
         "start_price": 36.3,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 12.9,
         "forward_return": 59.97,
         "start_price": 36.65,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.46,
         "forward_return": 63.09,
         "start_price": 36.5,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.46,
+        "pe_ratio": 11.26,
         "forward_return": 40.82,
         "start_price": 34.0,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 12.39,
         "forward_return": 43.5,
         "start_price": 38.2,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.22,
         "forward_return": 30.62,
         "start_price": 41.6,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.68,
         "forward_return": 20.79,
         "start_price": 40.7,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 13.71,
         "forward_return": 11.54,
         "start_price": 44.2,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.54,
         "forward_return": -10.15,
         "start_price": 50.3,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.9,
         "forward_return": -10.28,
         "start_price": 52.8,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 16.88,
+        "pe_ratio": 16.22,
         "forward_return": -7.75,
         "start_price": 55.0,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 21.01,
         "forward_return": -16.23,
         "start_price": 72.7,
         "start_year": 2007
@@ -6429,7 +6429,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.66,
+        "pe_ratio": 16.82,
         "forward_return": -5.56,
         "start_price": 67.5,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.83,
+        "pe_ratio": 18.5,
         "forward_return": -7.94,
         "start_price": 84.5,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 49.77,
+        "pe_ratio": 31.84,
         "forward_return": -35.63,
         "start_price": 163.0,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 57.94,
+        "pe_ratio": 35.98,
         "forward_return": -33.45,
         "start_price": 190.0,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 49.19,
+        "pe_ratio": 29.69,
         "forward_return": -32.25,
         "start_price": 161.5,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 46.39,
+        "pe_ratio": 27.23,
         "forward_return": -27.74,
         "start_price": 152.5,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 25.66,
         "forward_return": -22.11,
         "start_price": 124.0,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 35.65,
+        "pe_ratio": 28.89,
         "forward_return": -10.46,
         "start_price": 117.5,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 30.11,
+        "pe_ratio": 27.4,
         "forward_return": -1.79,
         "start_price": 95.8,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 30.62,
+        "pe_ratio": 25.4,
         "forward_return": -1.81,
         "start_price": 93.8,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 30.76,
+        "pe_ratio": 23.29,
         "forward_return": -0.17,
         "start_price": 90.6,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 31.34,
+        "pe_ratio": 27.95,
         "forward_return": 0.96,
         "start_price": 88.6,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 37.51,
         "forward_return": -5.49,
         "start_price": 91.9,
         "start_year": 2008
@@ -6555,7 +6555,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 24.02,
+        "pe_ratio": 35.95,
         "forward_return": 10.33,
         "start_price": 62.2,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 29.21,
+        "pe_ratio": 61.71,
         "forward_return": 4.31,
         "start_price": 72.2,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 27.41,
+        "pe_ratio": 105.7,
         "forward_return": 3.24,
         "start_price": 64.5,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 23.67,
+        "pe_ratio": 1058.0,
         "forward_return": 21.17,
         "start_price": 52.9,
         "start_year": 2008
@@ -6591,7 +6591,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.91,
+        "pe_ratio": 73.48,
         "forward_return": 26.88,
         "start_price": 48.5,
         "start_year": 2008
@@ -6600,7 +6600,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 26.85,
         "forward_return": 50.07,
         "start_price": 34.1,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 17.22,
+        "pe_ratio": 20.85,
         "forward_return": 43.26,
         "start_price": 36.0,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 17.51,
+        "pe_ratio": 25.61,
         "forward_return": 25.69,
         "start_price": 40.3,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 17.71,
+        "pe_ratio": 31.34,
         "forward_return": 14.42,
         "start_price": 44.5,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 19.72,
+        "pe_ratio": 29.24,
         "forward_return": 7.85,
         "start_price": 53.7,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 28.89,
         "forward_return": 3.51,
         "start_price": 65.1,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 19.4,
+        "pe_ratio": 22.85,
         "forward_return": -0.12,
         "start_price": 61.0,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 27.7,
         "forward_return": -13.9,
         "start_price": 79.5,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 22.64,
         "forward_return": -13.84,
         "start_price": 69.5,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 22.94,
         "forward_return": -11.88,
         "start_price": 75.0,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 19.34,
         "forward_return": -10.11,
         "start_price": 70.6,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 21.34,
+        "pe_ratio": 22.23,
         "forward_return": -25.2,
         "start_price": 89.6,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 18.9,
         "forward_return": -16.56,
         "start_price": 87.8,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 19.76,
+        "pe_ratio": 17.2,
         "forward_return": -9.54,
         "start_price": 84.0,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.54,
+        "pe_ratio": 16.74,
         "forward_return": -16.14,
         "start_price": 85.7,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 16.58,
         "forward_return": -9.78,
         "start_price": 85.7,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 19.31,
+        "pe_ratio": 14.85,
         "forward_return": -7.89,
         "start_price": 77.5,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 18.07,
+        "pe_ratio": 13.49,
         "forward_return": -7.79,
         "start_price": 71.1,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 18.96,
+        "pe_ratio": 14.75,
         "forward_return": -11.77,
         "start_price": 73.1,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 16.76,
+        "pe_ratio": 13.63,
         "forward_return": -1.67,
         "start_price": 63.3,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 16.67,
         "forward_return": -6.66,
         "start_price": 72.2,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 20.06,
+        "pe_ratio": 17.97,
         "forward_return": -9.24,
         "start_price": 72.6,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 19.01,
         "forward_return": -5.7,
         "start_price": 71.3,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 19.87,
+        "pe_ratio": 21.62,
         "forward_return": 1.88,
         "start_price": 68.4,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.0,
+        "pe_ratio": 20.3,
         "forward_return": 13.81,
         "start_price": 58.2,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 20.54,
         "forward_return": 18.61,
         "start_price": 52.8,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.83,
+        "pe_ratio": 21.73,
         "forward_return": 25.5,
         "start_price": 57.0,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.09,
+        "pe_ratio": 24.02,
         "forward_return": 12.16,
         "start_price": 64.3,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 20.29,
         "forward_return": 16.96,
         "start_price": 55.4,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 19.39,
         "forward_return": 21.37,
         "start_price": 52.6,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.66,
+        "pe_ratio": 16.78,
         "forward_return": 26.21,
         "start_price": 45.25,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 15.75,
+        "pe_ratio": 19.37,
         "forward_return": 22.5,
         "start_price": 51.9,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 17.69,
         "forward_return": 20.88,
         "start_price": 50.7,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.44,
+        "pe_ratio": 14.34,
         "forward_return": 32.91,
         "start_price": 43.8,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 15.98,
         "forward_return": 27.2,
         "start_price": 54.8,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.24,
         "forward_return": 23.92,
         "start_price": 62.4,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 14.15,
         "forward_return": 34.52,
         "start_price": 53.9,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.77,
         "forward_return": 20.35,
         "start_price": 63.4,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 15.84,
         "forward_return": 28.6,
         "start_price": 59.4,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.54,
         "forward_return": 36.19,
         "start_price": 54.1,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.53,
         "forward_return": 41.52,
         "start_price": 52.1,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.83,
+        "pe_ratio": 14.17,
         "forward_return": 44.31,
         "start_price": 56.4,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 41.58,
         "start_price": 58.1,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.98,
         "forward_return": 40.75,
         "start_price": 55.0,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.42,
         "forward_return": 37.91,
         "start_price": 58.6,
         "start_year": 2012
@@ -7050,7 +7050,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 14.38,
         "forward_return": 26.26,
         "start_price": 66.2,
         "start_year": 2013
@@ -7059,7 +7059,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 14.87,
+        "pe_ratio": 14.98,
         "forward_return": 23.01,
         "start_price": 70.6,
         "start_year": 2013
@@ -7068,7 +7068,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.42,
         "forward_return": 24.91,
         "start_price": 69.5,
         "start_year": 2013
@@ -7077,7 +7077,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.99,
+        "pe_ratio": 17.15,
         "forward_return": 10.83,
         "start_price": 85.0,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.94,
         "forward_return": 15.84,
         "start_price": 76.1,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.58,
         "forward_return": 11.02,
         "start_price": 71.0,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.44,
         "forward_return": 0.9,
         "start_price": 71.8,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 12.17,
         "forward_return": 2.24,
         "start_price": 66.4,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 12.96,
         "forward_return": -3.81,
         "start_price": 72.2,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.96,
         "forward_return": 7.54,
         "start_price": 68.4,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.21,
         "forward_return": 4.57,
         "start_price": 71.7,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.67,
         "forward_return": 5.97,
         "start_price": 83.0,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.71,
         "forward_return": 2.69,
         "start_price": 90.0,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.88,
         "forward_return": 4.11,
         "start_price": 91.8,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 13.6,
         "forward_return": 8.52,
         "start_price": 86.1,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.25,
         "forward_return": 3.66,
         "start_price": 92.5,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.23,
         "forward_return": 8.27,
         "start_price": 94.6,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 13.51,
         "forward_return": 14.39,
         "start_price": 95.9,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 14.45,
         "forward_return": 12.1,
         "start_price": 109.0,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 13.52,
         "forward_return": 2.29,
         "start_price": 108.0,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.53,
+        "pe_ratio": 12.73,
         "forward_return": 7.89,
         "start_price": 100.5,
         "start_year": 2014
@@ -7248,7 +7248,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.2,
         "forward_return": 2.87,
         "start_price": 103.0,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.0,
+        "pe_ratio": 12.68,
         "forward_return": 10.7,
         "start_price": 97.1,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 13.62,
+        "pe_ratio": 12.93,
         "forward_return": 12.47,
         "start_price": 98.4,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 13.23,
         "forward_return": 8.85,
         "start_price": 100.0,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 13.46,
         "forward_return": 8.01,
         "start_price": 96.0,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.41,
+        "pe_ratio": 13.99,
         "forward_return": 8.59,
         "start_price": 93.7,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.62,
         "forward_return": 22.9,
         "start_price": 79.1,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 10.95,
         "forward_return": 40.13,
         "start_price": 62.1,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.11,
+        "pe_ratio": 11.5,
         "forward_return": 46.85,
         "start_price": 58.4,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 12.46,
         "forward_return": 43.84,
         "start_price": 55.8,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 14.84,
         "forward_return": 34.09,
         "start_price": 68.1,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 13.34,
+        "pe_ratio": 14.34,
         "forward_return": 33.68,
         "start_price": 67.4,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 16.74,
+        "pe_ratio": 17.45,
         "forward_return": 23.54,
         "start_price": 82.2,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 16.74,
+        "pe_ratio": 18.2,
         "forward_return": 27.46,
         "start_price": 83.9,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.62,
         "forward_return": 25.34,
         "start_price": 88.5,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 17.34,
+        "pe_ratio": 18.29,
         "forward_return": 16.18,
         "start_price": 90.4,
         "start_year": 2016
@@ -7410,7 +7410,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 16.63,
+        "pe_ratio": 16.44,
         "forward_return": 18.21,
         "start_price": 88.4,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 18.45,
+        "pe_ratio": 17.19,
         "forward_return": 9.61,
         "start_price": 99.9,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 19.55,
         "forward_return": 7.52,
         "start_price": 115.5,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 22.61,
+        "pe_ratio": 21.15,
         "forward_return": 12.08,
         "start_price": 127.0,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.89,
         "forward_return": 19.28,
         "start_price": 103.0,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.39,
+        "pe_ratio": 17.62,
         "forward_return": 12.13,
         "start_price": 107.0,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 16.37,
         "forward_return": 23.93,
         "start_price": 99.0,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 18.3,
         "forward_return": 26.37,
         "start_price": 109.0,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.66,
+        "pe_ratio": 19.43,
         "forward_return": 28.33,
         "start_price": 114.5,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 18.61,
         "forward_return": 33.23,
         "start_price": 108.5,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.32,
+        "pe_ratio": 17.65,
         "forward_return": 46.73,
         "start_price": 102.0,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.93,
+        "pe_ratio": 17.54,
         "forward_return": 44.76,
         "start_price": 100.5,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.2,
+        "pe_ratio": 19.28,
         "forward_return": 47.78,
         "start_price": 109.5,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 17.59,
+        "pe_ratio": 18.99,
         "forward_return": 40.2,
         "start_price": 113.0,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.06,
+        "pe_ratio": 18.81,
         "forward_return": 39.48,
         "start_price": 117.0,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.29,
+        "pe_ratio": 16.41,
         "forward_return": 50.94,
         "start_price": 106.5,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 17.21,
+        "pe_ratio": 17.29,
         "forward_return": 45.15,
         "start_price": 113.5,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.76,
+        "pe_ratio": 16.8,
         "forward_return": 47.67,
         "start_price": 111.5,
         "start_year": 2017
@@ -7590,7 +7590,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 16.82,
         "forward_return": 49.43,
         "start_price": 116.5,
         "start_year": 2018
@@ -7599,7 +7599,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.52,
+        "pe_ratio": 16.24,
         "forward_return": 43.12,
         "start_price": 116.0,
         "start_year": 2018
@@ -7608,7 +7608,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.66,
         "forward_return": 33.28,
         "start_price": 130.0,
         "start_year": 2018
@@ -7617,7 +7617,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.42,
+        "pe_ratio": 15.27,
         "forward_return": 54.53,
         "start_price": 113.0,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.39,
         "forward_return": 53.8,
         "start_price": 114.5,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.53,
+        "pe_ratio": 14.84,
         "forward_return": 67.46,
         "start_price": 111.0,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.78,
+        "pe_ratio": 16.09,
         "forward_return": 78.56,
         "start_price": 123.0,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.07,
         "forward_return": 63.38,
         "start_price": 149.0,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.78,
+        "pe_ratio": 17.04,
         "forward_return": 68.52,
         "start_price": 136.0,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.01,
+        "pe_ratio": 15.17,
         "forward_return": 73.49,
         "start_price": 124.0,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.82,
+        "pe_ratio": 16.9,
         "forward_return": 65.75,
         "start_price": 141.5,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.34,
         "forward_return": 69.4,
         "start_price": 163.5,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.22,
         "forward_return": 63.82,
         "start_price": 178.0,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.94,
         "forward_return": 67.67,
         "start_price": 182.0,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.55,
         "forward_return": 62.17,
         "start_price": 209.0,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.93,
+        "pe_ratio": 18.64,
         "forward_return": 60.73,
         "start_price": 200.0,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.84,
+        "pe_ratio": 20.24,
         "forward_return": 51.25,
         "start_price": 228.5,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 18.44,
+        "pe_ratio": 18.02,
         "forward_return": 70.99,
         "start_price": 209.5,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 18.28,
+        "pe_ratio": 17.98,
         "forward_return": 64.05,
         "start_price": 215.0,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 18.91,
+        "pe_ratio": 18.71,
         "forward_return": 50.39,
         "start_price": 230.0,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.03,
+        "pe_ratio": 17.91,
         "forward_return": 52.06,
         "start_price": 226.5,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.78,
+        "pe_ratio": 17.73,
         "forward_return": 58.58,
         "start_price": 230.5,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.3,
         "forward_return": 49.17,
         "start_price": 247.5,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 16.43,
         "forward_return": 40.35,
         "start_price": 225.0,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 15.76,
         "forward_return": 44.42,
         "start_price": 218.5,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 17.57,
+        "pe_ratio": 18.44,
         "forward_return": 29.62,
         "start_price": 257.5,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.37,
         "forward_return": 34.87,
         "start_price": 258.5,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.54,
+        "pe_ratio": 21.09,
         "forward_return": 13.92,
         "start_price": 299.0,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 23.97,
+        "pe_ratio": 25.72,
         "forward_return": 1.13,
         "start_price": 374.5,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 23.83,
+        "pe_ratio": 25.44,
         "forward_return": 0.92,
         "start_price": 380.0,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 22.65,
+        "pe_ratio": 24.05,
         "forward_return": -8.14,
         "start_price": 368.5,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 21.42,
+        "pe_ratio": 22.27,
         "forward_return": -8.76,
         "start_price": 355.5,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 21.93,
+        "pe_ratio": 22.35,
         "forward_return": -1.77,
         "start_price": 371.0,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.34,
+        "pe_ratio": 24.86,
         "forward_return": -10.59,
         "start_price": 451.5,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 23.15,
+        "pe_ratio": 24.11,
         "forward_return": -4.34,
         "start_price": 460.0,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 23.32,
+        "pe_ratio": 24.7,
         "forward_return": -6.87,
         "start_price": 494.0,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 24.76,
         "forward_return": -13.3,
         "start_price": 532.0,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 20.96,
+        "pe_ratio": 21.72,
         "forward_return": -7.93,
         "start_price": 499.0,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 20.1,
+        "pe_ratio": 20.65,
         "forward_return": -7.89,
         "start_price": 505.0,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.6,
         "forward_return": -9.23,
         "start_price": 588.0,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 19.97,
+        "pe_ratio": 20.1,
         "forward_return": -7.7,
         "start_price": 554.0,
         "start_year": 2021
@@ -7986,7 +7986,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.05,
+        "pe_ratio": 17.02,
         "forward_return": -4.81,
         "start_price": 495.5,
         "start_year": 2021
@@ -7995,7 +7995,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 16.43,
+        "pe_ratio": 16.41,
         "forward_return": -4.46,
         "start_price": 499.0,
         "start_year": 2021
@@ -8004,7 +8004,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 17.52,
+        "pe_ratio": 17.5,
         "forward_return": -4.76,
         "start_price": 555.0,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 15.3,
         "forward_return": -0.24,
         "start_price": 526.0,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 13.92,
+        "pe_ratio": 12.75,
         "forward_return": 16.9,
         "start_price": 456.0,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 11.59,
         "forward_return": 19.41,
         "start_price": 430.5,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 10.9,
         "forward_return": 18.46,
         "start_price": 407.5,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 11.84,
         "forward_return": 15.81,
         "start_price": 445.0,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 11.23,
+        "pe_ratio": 9.6,
         "forward_return": 28.54,
         "start_price": 363.0,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 9.15,
         "forward_return": 27.31,
         "start_price": 342.0,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 9.37,
         "forward_return": 29.17,
         "start_price": 346.0,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 8.45,
+        "pe_ratio": 7.41,
         "forward_return": 37.88,
         "start_price": 270.0,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.32,
         "forward_return": 42.9,
         "start_price": 255.0,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.99,
+        "pe_ratio": 9.54,
         "forward_return": 27.87,
         "start_price": 317.0,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.88,
         "forward_return": 35.12,
         "start_price": 320.0,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.96,
+        "pe_ratio": 13.97,
         "forward_return": 24.85,
         "start_price": 380.0,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 15.5,
         "forward_return": 20.79,
         "start_price": 387.5,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 15.18,
         "forward_return": 25.6,
         "start_price": 359.0,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 17.14,
         "forward_return": 23.57,
         "start_price": 382.0,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 18.51,
         "forward_return": 25.4,
         "start_price": 387.5,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 21.66,
         "forward_return": 19.61,
         "start_price": 430.5,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 22.22,
         "forward_return": 17.27,
         "start_price": 418.0,
         "start_year": 2023
@@ -8202,7 +8202,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 18.55,
+        "pe_ratio": 22.25,
         "forward_return": 22.3,
         "start_price": 395.0,
         "start_year": 2023
@@ -8211,7 +8211,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 19.93,
+        "pe_ratio": 22.58,
         "forward_return": 17.66,
         "start_price": 401.5,
         "start_year": 2023
@@ -8220,7 +8220,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 23.66,
+        "pe_ratio": 25.23,
         "forward_return": 11.81,
         "start_price": 449.5,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.09,
         "forward_return": 5.69,
         "start_price": 469.5,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 13.2,
         "forward_return": 13.26,
         "start_price": 36.3,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 12.9,
         "forward_return": 19.12,
         "start_price": 36.65,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.46,
         "forward_return": 26.19,
         "start_price": 36.5,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.46,
+        "pe_ratio": 11.26,
         "forward_return": 26.75,
         "start_price": 34.0,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 12.39,
         "forward_return": 31.86,
         "start_price": 38.2,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.22,
         "forward_return": 23.09,
         "start_price": 41.6,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.68,
         "forward_return": 26.86,
         "start_price": 40.7,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 13.71,
         "forward_return": 21.2,
         "start_price": 44.2,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.54,
         "forward_return": 24.76,
         "start_price": 50.3,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.9,
         "forward_return": 22.0,
         "start_price": 52.8,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 16.88,
+        "pe_ratio": 16.22,
         "forward_return": 18.74,
         "start_price": 55.0,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 21.01,
         "forward_return": 8.86,
         "start_price": 72.7,
         "start_year": 2007
@@ -8364,7 +8364,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.66,
+        "pe_ratio": 16.82,
         "forward_return": 11.59,
         "start_price": 67.5,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.83,
+        "pe_ratio": 18.5,
         "forward_return": 0.43,
         "start_price": 84.5,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 49.77,
+        "pe_ratio": 31.84,
         "forward_return": -21.38,
         "start_price": 163.0,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 57.94,
+        "pe_ratio": 35.98,
         "forward_return": -24.56,
         "start_price": 190.0,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 49.19,
+        "pe_ratio": 29.69,
         "forward_return": -23.69,
         "start_price": 161.5,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 46.39,
+        "pe_ratio": 27.23,
         "forward_return": -19.13,
         "start_price": 152.5,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 25.66,
         "forward_return": -13.21,
         "start_price": 124.0,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 35.65,
+        "pe_ratio": 28.89,
         "forward_return": -12.12,
         "start_price": 117.5,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 30.11,
+        "pe_ratio": 27.4,
         "forward_return": -7.08,
         "start_price": 95.8,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 30.62,
+        "pe_ratio": 25.4,
         "forward_return": -12.92,
         "start_price": 93.8,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 30.76,
+        "pe_ratio": 23.29,
         "forward_return": -12.24,
         "start_price": 90.6,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 31.34,
+        "pe_ratio": 27.95,
         "forward_return": -9.61,
         "start_price": 88.6,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 37.51,
         "forward_return": -7.5,
         "start_price": 91.9,
         "start_year": 2008
@@ -8490,7 +8490,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 24.02,
+        "pe_ratio": 35.95,
         "forward_return": 0.88,
         "start_price": 62.2,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 29.21,
+        "pe_ratio": 61.71,
         "forward_return": -5.7,
         "start_price": 72.2,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 27.41,
+        "pe_ratio": 105.7,
         "forward_return": -6.22,
         "start_price": 64.5,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 23.67,
+        "pe_ratio": 1058.0,
         "forward_return": 4.2,
         "start_price": 52.9,
         "start_year": 2008
@@ -8526,7 +8526,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.91,
+        "pe_ratio": 73.48,
         "forward_return": 6.54,
         "start_price": 48.5,
         "start_year": 2008
@@ -8535,7 +8535,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 26.85,
         "forward_return": 14.93,
         "start_price": 34.1,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 17.22,
+        "pe_ratio": 20.85,
         "forward_return": 20.36,
         "start_price": 36.0,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 17.51,
+        "pe_ratio": 25.61,
         "forward_return": 20.42,
         "start_price": 40.3,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 17.71,
+        "pe_ratio": 31.34,
         "forward_return": 11.6,
         "start_price": 44.5,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 19.72,
+        "pe_ratio": 29.24,
         "forward_return": 9.93,
         "start_price": 53.7,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 28.89,
         "forward_return": 1.14,
         "start_price": 65.1,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 19.4,
+        "pe_ratio": 22.85,
         "forward_return": 0.57,
         "start_price": 61.0,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 27.7,
         "forward_return": -8.57,
         "start_price": 79.5,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 22.64,
         "forward_return": -2.18,
         "start_price": 69.5,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 22.94,
         "forward_return": -3.81,
         "start_price": 75.0,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 19.34,
         "forward_return": -3.39,
         "start_price": 70.6,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 21.34,
+        "pe_ratio": 22.23,
         "forward_return": -9.12,
         "start_price": 89.6,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 18.9,
         "forward_return": -5.18,
         "start_price": 87.8,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 19.76,
+        "pe_ratio": 17.2,
         "forward_return": -1.92,
         "start_price": 84.0,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.54,
+        "pe_ratio": 16.74,
         "forward_return": -3.03,
         "start_price": 85.7,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 16.58,
         "forward_return": 3.0,
         "start_price": 85.7,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 19.31,
+        "pe_ratio": 14.85,
         "forward_return": 3.03,
         "start_price": 77.5,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 18.07,
+        "pe_ratio": 13.49,
         "forward_return": 3.86,
         "start_price": 71.1,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 18.96,
+        "pe_ratio": 14.75,
         "forward_return": 3.05,
         "start_price": 73.1,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 16.76,
+        "pe_ratio": 13.63,
         "forward_return": 5.63,
         "start_price": 63.3,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 16.67,
         "forward_return": 3.65,
         "start_price": 72.2,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 20.06,
+        "pe_ratio": 17.97,
         "forward_return": 1.8,
         "start_price": 72.6,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 19.01,
         "forward_return": 3.87,
         "start_price": 71.3,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 19.87,
+        "pe_ratio": 21.62,
         "forward_return": 10.06,
         "start_price": 68.4,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.0,
+        "pe_ratio": 20.3,
         "forward_return": 19.05,
         "start_price": 58.2,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 20.54,
         "forward_return": 23.72,
         "start_price": 52.8,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.83,
+        "pe_ratio": 21.73,
         "forward_return": 18.27,
         "start_price": 57.0,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.09,
+        "pe_ratio": 24.02,
         "forward_return": 16.12,
         "start_price": 64.3,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 20.29,
         "forward_return": 22.88,
         "start_price": 55.4,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 19.39,
         "forward_return": 26.54,
         "start_price": 52.6,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.66,
+        "pe_ratio": 16.78,
         "forward_return": 38.29,
         "start_price": 45.25,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 15.75,
+        "pe_ratio": 19.37,
         "forward_return": 31.74,
         "start_price": 51.9,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 17.69,
         "forward_return": 29.92,
         "start_price": 50.7,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.44,
+        "pe_ratio": 14.34,
         "forward_return": 37.42,
         "start_price": 43.8,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 15.98,
         "forward_return": 25.29,
         "start_price": 54.8,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.24,
         "forward_return": 20.46,
         "start_price": 62.4,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 14.15,
         "forward_return": 27.13,
         "start_price": 53.9,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.77,
         "forward_return": 18.96,
         "start_price": 63.4,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 15.84,
         "forward_return": 20.7,
         "start_price": 59.4,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.54,
         "forward_return": 18.42,
         "start_price": 54.1,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.53,
         "forward_return": 13.67,
         "start_price": 52.1,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.83,
+        "pe_ratio": 14.17,
         "forward_return": 8.89,
         "start_price": 56.4,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 6.51,
         "start_price": 58.1,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.98,
         "forward_return": 14.48,
         "start_price": 55.0,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.42,
         "forward_return": 11.77,
         "start_price": 58.6,
         "start_year": 2012
@@ -8985,7 +8985,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 14.38,
         "forward_return": 13.43,
         "start_price": 66.2,
         "start_year": 2013
@@ -8994,7 +8994,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 14.87,
+        "pe_ratio": 14.98,
         "forward_return": 11.67,
         "start_price": 70.6,
         "start_year": 2013
@@ -9003,7 +9003,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.42,
         "forward_return": 13.97,
         "start_price": 69.5,
         "start_year": 2013
@@ -9012,7 +9012,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.99,
+        "pe_ratio": 17.15,
         "forward_return": 7.23,
         "start_price": 85.0,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.94,
         "forward_return": 10.54,
         "start_price": 76.1,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.58,
         "forward_return": 17.2,
         "start_price": 71.0,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.44,
         "forward_return": 22.03,
         "start_price": 71.8,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 12.17,
         "forward_return": 28.83,
         "start_price": 66.4,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 12.96,
         "forward_return": 17.79,
         "start_price": 72.2,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.96,
         "forward_return": 21.27,
         "start_price": 68.4,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.21,
         "forward_return": 16.71,
         "start_price": 71.7,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.67,
         "forward_return": 14.31,
         "start_price": 83.0,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.71,
         "forward_return": 12.89,
         "start_price": 90.0,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.88,
         "forward_return": 10.39,
         "start_price": 91.8,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 13.6,
         "forward_return": 10.76,
         "start_price": 86.1,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.25,
         "forward_return": 7.68,
         "start_price": 92.5,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.23,
         "forward_return": 9.58,
         "start_price": 94.6,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 13.51,
         "forward_return": 10.1,
         "start_price": 95.9,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 14.45,
         "forward_return": 6.59,
         "start_price": 109.0,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 13.52,
         "forward_return": 4.0,
         "start_price": 108.0,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.53,
+        "pe_ratio": 12.73,
         "forward_return": 8.54,
         "start_price": 100.5,
         "start_year": 2014
@@ -9183,7 +9183,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.2,
         "forward_return": 7.09,
         "start_price": 103.0,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.0,
+        "pe_ratio": 12.68,
         "forward_return": 10.63,
         "start_price": 97.1,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 13.62,
+        "pe_ratio": 12.93,
         "forward_return": 10.01,
         "start_price": 98.4,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 13.23,
         "forward_return": 13.18,
         "start_price": 100.0,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 13.46,
         "forward_return": 10.06,
         "start_price": 96.0,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.41,
+        "pe_ratio": 13.99,
         "forward_return": 11.39,
         "start_price": 93.7,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.62,
         "forward_return": 16.78,
         "start_price": 79.1,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 10.95,
         "forward_return": 30.33,
         "start_price": 62.1,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.11,
+        "pe_ratio": 11.5,
         "forward_return": 40.93,
         "start_price": 58.4,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 12.46,
         "forward_return": 39.19,
         "start_price": 55.8,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 14.84,
         "forward_return": 26.69,
         "start_price": 68.1,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 13.34,
+        "pe_ratio": 14.34,
         "forward_return": 32.27,
         "start_price": 67.4,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 16.74,
+        "pe_ratio": 17.45,
         "forward_return": 29.37,
         "start_price": 82.2,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 16.74,
+        "pe_ratio": 18.2,
         "forward_return": 31.82,
         "start_price": 83.9,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.62,
         "forward_return": 30.48,
         "start_price": 88.5,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 17.34,
+        "pe_ratio": 18.29,
         "forward_return": 35.25,
         "start_price": 90.4,
         "start_year": 2016
@@ -9345,7 +9345,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 16.63,
+        "pe_ratio": 16.44,
         "forward_return": 34.4,
         "start_price": 88.4,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 18.45,
+        "pe_ratio": 17.19,
         "forward_return": 34.51,
         "start_price": 99.9,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 19.55,
         "forward_return": 25.28,
         "start_price": 115.5,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 22.61,
+        "pe_ratio": 21.15,
         "forward_return": 22.35,
         "start_price": 127.0,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.89,
         "forward_return": 33.97,
         "start_price": 103.0,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.39,
+        "pe_ratio": 17.62,
         "forward_return": 31.65,
         "start_price": 107.0,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 16.37,
         "forward_return": 35.84,
         "start_price": 99.0,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 18.3,
         "forward_return": 34.49,
         "start_price": 109.0,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.66,
+        "pe_ratio": 19.43,
         "forward_return": 28.44,
         "start_price": 114.5,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 18.61,
         "forward_return": 29.56,
         "start_price": 108.5,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.32,
+        "pe_ratio": 17.65,
         "forward_return": 39.17,
         "start_price": 102.0,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.93,
+        "pe_ratio": 17.54,
         "forward_return": 40.03,
         "start_price": 100.5,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.2,
+        "pe_ratio": 19.28,
         "forward_return": 42.44,
         "start_price": 109.5,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 17.59,
+        "pe_ratio": 18.99,
         "forward_return": 52.13,
         "start_price": 113.0,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.06,
+        "pe_ratio": 18.81,
         "forward_return": 51.07,
         "start_price": 117.0,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.29,
+        "pe_ratio": 16.41,
         "forward_return": 54.38,
         "start_price": 106.5,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 17.21,
+        "pe_ratio": 17.29,
         "forward_return": 49.45,
         "start_price": 113.5,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.76,
+        "pe_ratio": 16.8,
         "forward_return": 52.36,
         "start_price": 111.5,
         "start_year": 2017
@@ -9525,7 +9525,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 16.82,
         "forward_return": 59.74,
         "start_price": 116.5,
         "start_year": 2018
@@ -9534,7 +9534,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.52,
+        "pe_ratio": 16.24,
         "forward_return": 60.92,
         "start_price": 116.0,
         "start_year": 2018
@@ -9543,7 +9543,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.66,
         "forward_return": 58.47,
         "start_price": 130.0,
         "start_year": 2018
@@ -9552,7 +9552,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.42,
+        "pe_ratio": 15.27,
         "forward_return": 70.01,
         "start_price": 113.0,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.39,
         "forward_return": 65.85,
         "start_price": 114.5,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.53,
+        "pe_ratio": 14.84,
         "forward_return": 68.21,
         "start_price": 111.0,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.78,
+        "pe_ratio": 16.09,
         "forward_return": 71.44,
         "start_price": 123.0,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.07,
         "forward_return": 57.83,
         "start_price": 149.0,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.78,
+        "pe_ratio": 17.04,
         "forward_return": 57.1,
         "start_price": 136.0,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.01,
+        "pe_ratio": 15.17,
         "forward_return": 62.37,
         "start_price": 124.0,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.82,
+        "pe_ratio": 16.9,
         "forward_return": 60.66,
         "start_price": 141.5,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.34,
         "forward_return": 50.54,
         "start_price": 163.5,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.22,
         "forward_return": 39.95,
         "start_price": 178.0,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.94,
         "forward_return": 36.45,
         "start_price": 182.0,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.55,
         "forward_return": 28.11,
         "start_price": 209.0,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.93,
+        "pe_ratio": 18.64,
         "forward_return": 33.6,
         "start_price": 200.0,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.84,
+        "pe_ratio": 20.24,
         "forward_return": 20.01,
         "start_price": 228.5,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 18.44,
+        "pe_ratio": 18.02,
         "forward_return": 23.43,
         "start_price": 209.5,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 18.28,
+        "pe_ratio": 17.98,
         "forward_return": 22.78,
         "start_price": 215.0,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 18.91,
+        "pe_ratio": 18.71,
         "forward_return": 11.87,
         "start_price": 230.0,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.03,
+        "pe_ratio": 17.91,
         "forward_return": 10.67,
         "start_price": 226.5,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.78,
+        "pe_ratio": 17.73,
         "forward_return": 16.98,
         "start_price": 230.5,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.3,
         "forward_return": 14.54,
         "start_price": 247.5,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 16.43,
         "forward_return": 24.28,
         "start_price": 225.0,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 15.76,
         "forward_return": 26.25,
         "start_price": 218.5,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 17.57,
+        "pe_ratio": 18.44,
         "forward_return": 16.88,
         "start_price": 257.5,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.37,
         "forward_return": 18.87,
         "start_price": 258.5,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.54,
+        "pe_ratio": 21.09,
         "forward_return": 13.71,
         "start_price": 299.0,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 23.97,
+        "pe_ratio": 25.72,
         "forward_return": 10.01,
         "start_price": 374.5,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 23.83,
+        "pe_ratio": 25.44,
         "forward_return": 8.55,
         "start_price": 380.0,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 22.65,
+        "pe_ratio": 24.05,
         "forward_return": 7.91,
         "start_price": 368.5,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 21.42,
+        "pe_ratio": 22.27,
         "forward_return": 9.72,
         "start_price": 355.5,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 21.93,
+        "pe_ratio": 22.35,
         "forward_return": 11.74,
         "start_price": 371.0,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.34,
+        "pe_ratio": 24.86,
         "forward_return": 5.99,
         "start_price": 451.5,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 23.15,
+        "pe_ratio": 24.11,
         "forward_return": 11.47,
         "start_price": 460.0,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 23.32,
+        "pe_ratio": 24.7,
         "forward_return": 8.33,
         "start_price": 494.0,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 24.76,
         "forward_return": 3.27,
         "start_price": 532.0,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 20.96,
+        "pe_ratio": 21.72,
         "forward_return": 6.98,
         "start_price": 499.0,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 20.1,
+        "pe_ratio": 20.65,
         "forward_return": 6.73,
         "start_price": 505.0,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.6,
         "forward_return": -0.37,
         "start_price": 588.0,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 19.97,
+        "pe_ratio": 20.1,
         "forward_return": 2.95,
         "start_price": 554.0,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.05,
+        "pe_ratio": 17.02,
         "forward_return": 2.94,
         "start_price": 495.5,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 16.43,
+        "pe_ratio": 16.41,
         "forward_return": 3.17,
         "start_price": 499.0,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 17.52,
+        "pe_ratio": 17.5,
         "forward_return": -0.57,
         "start_price": 555.0,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 15.3,
         "forward_return": 5.15,
         "start_price": 526.0,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 13.92,
+        "pe_ratio": 12.75,
         "forward_return": 10.75,
         "start_price": 456.0,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 11.59,
         "forward_return": 11.23,
         "start_price": 430.5,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 10.9,
         "forward_return": 13.35,
         "start_price": 407.5,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.72,
+        "pe_ratio": 11.84,
         "forward_return": 11.11,
         "start_price": 445.0,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 11.23,
+        "pe_ratio": 9.6,
         "forward_return": 20.58,
         "start_price": 363.0,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.62,
+        "pe_ratio": 9.15,
         "forward_return": 23.42,
         "start_price": 342.0,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 9.37,
         "forward_return": 20.27,
         "start_price": 346.0,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 8.45,
+        "pe_ratio": 7.41,
         "forward_return": 31.78,
         "start_price": 270.0,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.32,
         "forward_return": 31.73,
         "start_price": 255.0,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.99,
+        "pe_ratio": 9.54,
         "forward_return": 22.93,
         "start_price": 317.0,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.88,
         "forward_return": 19.89,
         "start_price": 320.0,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 12.96,
+        "pe_ratio": 13.97,
         "forward_return": 13.08,
         "start_price": 380.0,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 13.2,
         "forward_return": 27.37,
         "start_price": 36.3,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 12.9,
         "forward_return": 27.07,
         "start_price": 36.65,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.46,
         "forward_return": 24.38,
         "start_price": 36.5,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.46,
+        "pe_ratio": 11.26,
         "forward_return": 24.22,
         "start_price": 34.0,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 12.39,
         "forward_return": 22.15,
         "start_price": 38.2,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.22,
         "forward_return": 15.97,
         "start_price": 41.6,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.68,
         "forward_return": 19.91,
         "start_price": 40.7,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 13.71,
         "forward_return": 17.6,
         "start_price": 44.2,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.54,
         "forward_return": 13.42,
         "start_price": 50.3,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.9,
         "forward_return": 11.07,
         "start_price": 52.8,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 16.88,
+        "pe_ratio": 16.22,
         "forward_return": 6.27,
         "start_price": 55.0,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 21.01,
         "forward_return": -2.85,
         "start_price": 72.7,
         "start_year": 2007
@@ -10200,7 +10200,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.66,
+        "pe_ratio": 16.82,
         "forward_return": 0.53,
         "start_price": 67.5,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.83,
+        "pe_ratio": 18.5,
         "forward_return": -2.54,
         "start_price": 84.5,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 49.77,
+        "pe_ratio": 31.84,
         "forward_return": -19.83,
         "start_price": 163.0,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 57.94,
+        "pe_ratio": 35.98,
         "forward_return": -23.95,
         "start_price": 190.0,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 49.19,
+        "pe_ratio": 29.69,
         "forward_return": -23.19,
         "start_price": 161.5,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 46.39,
+        "pe_ratio": 27.23,
         "forward_return": -19.88,
         "start_price": 152.5,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 25.66,
         "forward_return": -16.03,
         "start_price": 124.0,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 35.65,
+        "pe_ratio": 28.89,
         "forward_return": -17.38,
         "start_price": 117.5,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 30.11,
+        "pe_ratio": 27.4,
         "forward_return": -8.98,
         "start_price": 95.8,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 30.62,
+        "pe_ratio": 25.4,
         "forward_return": -5.96,
         "start_price": 93.8,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 30.76,
+        "pe_ratio": 23.29,
         "forward_return": -8.02,
         "start_price": 90.6,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 31.34,
+        "pe_ratio": 27.95,
         "forward_return": -4.29,
         "start_price": 88.6,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 37.51,
         "forward_return": -6.46,
         "start_price": 91.9,
         "start_year": 2008
@@ -10326,7 +10326,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 24.02,
+        "pe_ratio": 35.95,
         "forward_return": 1.13,
         "start_price": 62.2,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 29.21,
+        "pe_ratio": 61.71,
         "forward_return": -3.6,
         "start_price": 72.2,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 27.41,
+        "pe_ratio": 105.7,
         "forward_return": 0.82,
         "start_price": 64.5,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 23.67,
+        "pe_ratio": 1058.0,
         "forward_return": 6.62,
         "start_price": 52.9,
         "start_year": 2008
@@ -10362,7 +10362,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.91,
+        "pe_ratio": 73.48,
         "forward_return": 7.7,
         "start_price": 48.5,
         "start_year": 2008
@@ -10371,7 +10371,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 26.85,
         "forward_return": 19.2,
         "start_price": 34.1,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 17.22,
+        "pe_ratio": 20.85,
         "forward_return": 20.72,
         "start_price": 36.0,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 17.51,
+        "pe_ratio": 25.61,
         "forward_return": 19.01,
         "start_price": 40.3,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 17.71,
+        "pe_ratio": 31.34,
         "forward_return": 15.7,
         "start_price": 44.5,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 19.72,
+        "pe_ratio": 29.24,
         "forward_return": 15.4,
         "start_price": 53.7,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 28.89,
         "forward_return": 7.32,
         "start_price": 65.1,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 19.4,
+        "pe_ratio": 22.85,
         "forward_return": 7.43,
         "start_price": 61.0,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 27.7,
         "forward_return": 1.34,
         "start_price": 79.5,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 22.64,
         "forward_return": 3.07,
         "start_price": 69.5,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 22.94,
         "forward_return": 2.95,
         "start_price": 75.0,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 19.34,
         "forward_return": 3.32,
         "start_price": 70.6,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 21.34,
+        "pe_ratio": 22.23,
         "forward_return": -1.67,
         "start_price": 89.6,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 18.9,
         "forward_return": 2.0,
         "start_price": 87.8,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 19.76,
+        "pe_ratio": 17.2,
         "forward_return": 4.99,
         "start_price": 84.0,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.54,
+        "pe_ratio": 16.74,
         "forward_return": 4.92,
         "start_price": 85.7,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 16.58,
         "forward_return": 3.45,
         "start_price": 85.7,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 19.31,
+        "pe_ratio": 14.85,
         "forward_return": 7.77,
         "start_price": 77.5,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 18.07,
+        "pe_ratio": 13.49,
         "forward_return": 10.67,
         "start_price": 71.1,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 18.96,
+        "pe_ratio": 14.75,
         "forward_return": 10.53,
         "start_price": 73.1,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 16.76,
+        "pe_ratio": 13.63,
         "forward_return": 17.87,
         "start_price": 63.3,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 16.67,
         "forward_return": 13.83,
         "start_price": 72.2,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 20.06,
+        "pe_ratio": 17.97,
         "forward_return": 11.87,
         "start_price": 72.6,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 19.01,
         "forward_return": 12.99,
         "start_price": 71.3,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 19.87,
+        "pe_ratio": 21.62,
         "forward_return": 12.69,
         "start_price": 68.4,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.0,
+        "pe_ratio": 20.3,
         "forward_return": 17.68,
         "start_price": 58.2,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 20.54,
         "forward_return": 21.0,
         "start_price": 52.8,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.83,
+        "pe_ratio": 21.73,
         "forward_return": 17.65,
         "start_price": 57.0,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.09,
+        "pe_ratio": 24.02,
         "forward_return": 13.55,
         "start_price": 64.3,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 20.29,
         "forward_return": 13.61,
         "start_price": 55.4,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 19.39,
         "forward_return": 10.63,
         "start_price": 52.6,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.66,
+        "pe_ratio": 16.78,
         "forward_return": 13.5,
         "start_price": 45.25,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 15.75,
+        "pe_ratio": 19.37,
         "forward_return": 8.72,
         "start_price": 51.9,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 17.69,
         "forward_return": 13.72,
         "start_price": 50.7,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.44,
+        "pe_ratio": 14.34,
         "forward_return": 17.71,
         "start_price": 43.8,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 15.98,
         "forward_return": 15.91,
         "start_price": 54.8,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.24,
         "forward_return": 12.68,
         "start_price": 62.4,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 14.15,
         "forward_return": 18.2,
         "start_price": 53.9,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.77,
         "forward_return": 14.01,
         "start_price": 63.4,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 15.84,
         "forward_return": 15.33,
         "start_price": 59.4,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.54,
         "forward_return": 21.16,
         "start_price": 54.1,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.53,
         "forward_return": 26.62,
         "start_price": 52.1,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.83,
+        "pe_ratio": 14.17,
         "forward_return": 26.71,
         "start_price": 56.4,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 20.23,
         "start_price": 58.1,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.98,
         "forward_return": 22.88,
         "start_price": 55.0,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.42,
         "forward_return": 18.97,
         "start_price": 58.6,
         "start_year": 2012
@@ -10821,7 +10821,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 14.38,
         "forward_return": 17.78,
         "start_price": 66.2,
         "start_year": 2013
@@ -10830,7 +10830,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 14.87,
+        "pe_ratio": 14.98,
         "forward_return": 17.13,
         "start_price": 70.6,
         "start_year": 2013
@@ -10839,7 +10839,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.42,
         "forward_return": 16.24,
         "start_price": 69.5,
         "start_year": 2013
@@ -10848,7 +10848,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.99,
+        "pe_ratio": 17.15,
         "forward_return": 9.09,
         "start_price": 85.0,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.94,
         "forward_return": 11.8,
         "start_price": 76.1,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.58,
         "forward_return": 15.85,
         "start_price": 71.0,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.44,
         "forward_return": 16.66,
         "start_price": 71.8,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 12.17,
         "forward_return": 19.85,
         "start_price": 66.4,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 12.96,
         "forward_return": 15.05,
         "start_price": 72.2,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.96,
         "forward_return": 18.2,
         "start_price": 68.4,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.21,
         "forward_return": 16.37,
         "start_price": 71.7,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.67,
         "forward_return": 13.24,
         "start_price": 83.0,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.71,
         "forward_return": 10.87,
         "start_price": 90.0,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.88,
         "forward_return": 13.06,
         "start_price": 91.8,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 13.6,
         "forward_return": 11.48,
         "start_price": 86.1,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.25,
         "forward_return": 9.81,
         "start_price": 92.5,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.23,
         "forward_return": 8.48,
         "start_price": 94.6,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 13.51,
         "forward_return": 10.6,
         "start_price": 95.9,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 14.45,
         "forward_return": 11.67,
         "start_price": 109.0,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 13.52,
         "forward_return": 9.72,
         "start_price": 108.0,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.53,
+        "pe_ratio": 12.73,
         "forward_return": 9.5,
         "start_price": 100.5,
         "start_year": 2014
@@ -11019,7 +11019,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.2,
         "forward_return": 11.99,
         "start_price": 103.0,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.0,
+        "pe_ratio": 12.68,
         "forward_return": 17.33,
         "start_price": 97.1,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 13.62,
+        "pe_ratio": 12.93,
         "forward_return": 19.18,
         "start_price": 98.4,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 13.23,
         "forward_return": 19.29,
         "start_price": 100.0,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 13.46,
         "forward_return": 24.34,
         "start_price": 96.0,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.41,
+        "pe_ratio": 13.99,
         "forward_return": 23.86,
         "start_price": 93.7,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.62,
         "forward_return": 33.2,
         "start_price": 79.1,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 10.95,
         "forward_return": 38.88,
         "start_price": 62.1,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.11,
+        "pe_ratio": 11.5,
         "forward_return": 41.86,
         "start_price": 58.4,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 12.46,
         "forward_return": 45.71,
         "start_price": 55.8,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 14.84,
         "forward_return": 38.14,
         "start_price": 68.1,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 13.34,
+        "pe_ratio": 14.34,
         "forward_return": 39.05,
         "start_price": 67.4,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 16.74,
+        "pe_ratio": 17.45,
         "forward_return": 34.5,
         "start_price": 82.2,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 16.74,
+        "pe_ratio": 18.2,
         "forward_return": 30.92,
         "start_price": 83.9,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.62,
         "forward_return": 28.33,
         "start_price": 88.5,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 17.34,
+        "pe_ratio": 18.29,
         "forward_return": 32.54,
         "start_price": 90.4,
         "start_year": 2016
@@ -11181,7 +11181,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 16.63,
+        "pe_ratio": 16.44,
         "forward_return": 33.41,
         "start_price": 88.4,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 18.45,
+        "pe_ratio": 17.19,
         "forward_return": 33.83,
         "start_price": 99.9,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 19.55,
         "forward_return": 36.67,
         "start_price": 115.5,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 22.61,
+        "pe_ratio": 21.15,
         "forward_return": 33.92,
         "start_price": 127.0,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.89,
         "forward_return": 40.12,
         "start_price": 103.0,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.39,
+        "pe_ratio": 17.62,
         "forward_return": 37.64,
         "start_price": 107.0,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 16.37,
         "forward_return": 41.73,
         "start_price": 99.0,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 18.3,
         "forward_return": 44.86,
         "start_price": 109.0,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.66,
+        "pe_ratio": 19.43,
         "forward_return": 43.72,
         "start_price": 114.5,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 18.61,
         "forward_return": 48.14,
         "start_price": 108.5,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.32,
+        "pe_ratio": 17.65,
         "forward_return": 53.11,
         "start_price": 102.0,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.93,
+        "pe_ratio": 17.54,
         "forward_return": 51.36,
         "start_price": 100.5,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.2,
+        "pe_ratio": 19.28,
         "forward_return": 48.57,
         "start_price": 109.5,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 17.59,
+        "pe_ratio": 18.99,
         "forward_return": 53.39,
         "start_price": 113.0,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.06,
+        "pe_ratio": 18.81,
         "forward_return": 49.95,
         "start_price": 117.0,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.29,
+        "pe_ratio": 16.41,
         "forward_return": 49.57,
         "start_price": 106.5,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 17.21,
+        "pe_ratio": 17.29,
         "forward_return": 47.45,
         "start_price": 113.5,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.76,
+        "pe_ratio": 16.8,
         "forward_return": 51.83,
         "start_price": 111.5,
         "start_year": 2017
@@ -11361,7 +11361,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 16.82,
         "forward_return": 48.3,
         "start_price": 116.5,
         "start_year": 2018
@@ -11370,7 +11370,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.52,
+        "pe_ratio": 16.24,
         "forward_return": 43.62,
         "start_price": 116.0,
         "start_year": 2018
@@ -11379,7 +11379,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.66,
         "forward_return": 37.74,
         "start_price": 130.0,
         "start_year": 2018
@@ -11388,7 +11388,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.42,
+        "pe_ratio": 15.27,
         "forward_return": 40.87,
         "start_price": 113.0,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.39,
         "forward_return": 43.28,
         "start_price": 114.5,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.53,
+        "pe_ratio": 14.84,
         "forward_return": 37.82,
         "start_price": 111.0,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.78,
+        "pe_ratio": 16.09,
         "forward_return": 34.37,
         "start_price": 123.0,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.07,
         "forward_return": 28.4,
         "start_price": 149.0,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.78,
+        "pe_ratio": 17.04,
         "forward_return": 24.71,
         "start_price": 136.0,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.01,
+        "pe_ratio": 15.17,
         "forward_return": 26.15,
         "start_price": 124.0,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.82,
+        "pe_ratio": 16.9,
         "forward_return": 27.68,
         "start_price": 141.5,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.34,
         "forward_return": 23.39,
         "start_price": 163.5,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.22,
         "forward_return": 25.32,
         "start_price": 178.0,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.94,
         "forward_return": 25.15,
         "start_price": 182.0,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.55,
         "forward_return": 18.92,
         "start_price": 209.0,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.93,
+        "pe_ratio": 18.64,
         "forward_return": 21.86,
         "start_price": 200.0,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.84,
+        "pe_ratio": 20.24,
         "forward_return": 18.23,
         "start_price": 228.5,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 18.44,
+        "pe_ratio": 18.02,
         "forward_return": 24.88,
         "start_price": 209.5,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 18.28,
+        "pe_ratio": 17.98,
         "forward_return": 23.3,
         "start_price": 215.0,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 18.91,
+        "pe_ratio": 18.71,
         "forward_return": 19.82,
         "start_price": 230.0,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.03,
+        "pe_ratio": 17.91,
         "forward_return": 20.69,
         "start_price": 226.5,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.78,
+        "pe_ratio": 17.73,
         "forward_return": 23.05,
         "start_price": 230.5,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.3,
         "forward_return": 22.01,
         "start_price": 247.5,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 16.43,
         "forward_return": 30.27,
         "start_price": 225.0,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 15.76,
         "forward_return": 30.77,
         "start_price": 218.5,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 17.57,
+        "pe_ratio": 18.44,
         "forward_return": 23.4,
         "start_price": 257.5,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.37,
         "forward_return": 24.55,
         "start_price": 258.5,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.54,
+        "pe_ratio": 21.09,
         "forward_return": 20.24,
         "start_price": 299.0,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 23.97,
+        "pe_ratio": 25.72,
         "forward_return": 12.29,
         "start_price": 374.5,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 23.83,
+        "pe_ratio": 25.44,
         "forward_return": 12.95,
         "start_price": 380.0,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 22.65,
+        "pe_ratio": 24.05,
         "forward_return": 10.76,
         "start_price": 368.5,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 21.42,
+        "pe_ratio": 22.27,
         "forward_return": 12.13,
         "start_price": 355.5,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 21.93,
+        "pe_ratio": 22.35,
         "forward_return": 10.82,
         "start_price": 371.0,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.34,
+        "pe_ratio": 24.86,
         "forward_return": 8.49,
         "start_price": 451.5,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 23.15,
+        "pe_ratio": 24.11,
         "forward_return": 8.33,
         "start_price": 460.0,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 23.32,
+        "pe_ratio": 24.7,
         "forward_return": 5.26,
         "start_price": 494.0,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 23.65,
+        "pe_ratio": 24.76,
         "forward_return": 3.37,
         "start_price": 532.0,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 20.96,
+        "pe_ratio": 21.72,
         "forward_return": 5.77,
         "start_price": 499.0,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 20.1,
+        "pe_ratio": 20.65,
         "forward_return": 6.53,
         "start_price": 505.0,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.6,
         "forward_return": 3.32,
         "start_price": 588.0,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 19.97,
+        "pe_ratio": 20.1,
         "forward_return": 3.23,
         "start_price": 554.0,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.05,
+        "pe_ratio": 17.02,
         "forward_return": 6.81,
         "start_price": 495.5,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 16.43,
+        "pe_ratio": 16.41,
         "forward_return": 5.15,
         "start_price": 499.0,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 17.52,
+        "pe_ratio": 17.5,
         "forward_return": 2.64,
         "start_price": 555.0,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 15.3,
         "forward_return": 2.41,
         "start_price": 526.0,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 13.92,
+        "pe_ratio": 12.75,
         "forward_return": 6.04,
         "start_price": 456.0,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 13.2,
         "forward_return": 12.87,
         "start_price": 36.3,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 12.9,
         "forward_return": 14.05,
         "start_price": 36.65,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.46,
         "forward_return": 16.4,
         "start_price": 36.5,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.46,
+        "pe_ratio": 11.26,
         "forward_return": 15.24,
         "start_price": 34.0,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 12.39,
         "forward_return": 11.91,
         "start_price": 38.2,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.22,
         "forward_return": 7.49,
         "start_price": 41.6,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.68,
         "forward_return": 10.27,
         "start_price": 40.7,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 13.71,
         "forward_return": 8.07,
         "start_price": 44.2,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.54,
         "forward_return": 2.98,
         "start_price": 50.3,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.9,
         "forward_return": 5.57,
         "start_price": 52.8,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 16.88,
+        "pe_ratio": 16.22,
         "forward_return": 6.92,
         "start_price": 55.0,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 21.01,
         "forward_return": -1.23,
         "start_price": 72.7,
         "start_year": 2007
@@ -11928,7 +11928,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.66,
+        "pe_ratio": 16.82,
         "forward_return": 2.89,
         "start_price": 67.5,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.83,
+        "pe_ratio": 18.5,
         "forward_return": -2.66,
         "start_price": 84.5,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 49.77,
+        "pe_ratio": 31.84,
         "forward_return": -15.9,
         "start_price": 163.0,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 57.94,
+        "pe_ratio": 35.98,
         "forward_return": -19.21,
         "start_price": 190.0,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 49.19,
+        "pe_ratio": 29.69,
         "forward_return": -15.48,
         "start_price": 161.5,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 46.39,
+        "pe_ratio": 27.23,
         "forward_return": -14.09,
         "start_price": 152.5,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 25.66,
         "forward_return": -11.25,
         "start_price": 124.0,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 35.65,
+        "pe_ratio": 28.89,
         "forward_return": -9.37,
         "start_price": 117.5,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 30.11,
+        "pe_ratio": 27.4,
         "forward_return": -3.67,
         "start_price": 95.8,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 30.62,
+        "pe_ratio": 25.4,
         "forward_return": -2.44,
         "start_price": 93.8,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 30.76,
+        "pe_ratio": 23.29,
         "forward_return": -1.8,
         "start_price": 90.6,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 31.34,
+        "pe_ratio": 27.95,
         "forward_return": 2.09,
         "start_price": 88.6,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 37.51,
         "forward_return": -0.56,
         "start_price": 91.9,
         "start_year": 2008
@@ -12054,7 +12054,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 24.02,
+        "pe_ratio": 35.95,
         "forward_return": 6.26,
         "start_price": 62.2,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 29.21,
+        "pe_ratio": 61.71,
         "forward_return": 3.43,
         "start_price": 72.2,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 27.41,
+        "pe_ratio": 105.7,
         "forward_return": 4.42,
         "start_price": 64.5,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 23.67,
+        "pe_ratio": 1058.0,
         "forward_return": 10.17,
         "start_price": 52.9,
         "start_year": 2008
@@ -12090,7 +12090,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.91,
+        "pe_ratio": 73.48,
         "forward_return": 11.09,
         "start_price": 48.5,
         "start_year": 2008
@@ -12099,7 +12099,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 26.85,
         "forward_return": 20.14,
         "start_price": 34.1,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 17.22,
+        "pe_ratio": 20.85,
         "forward_return": 21.84,
         "start_price": 36.0,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 17.51,
+        "pe_ratio": 25.61,
         "forward_return": 20.8,
         "start_price": 40.3,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 17.71,
+        "pe_ratio": 31.34,
         "forward_return": 18.84,
         "start_price": 44.5,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 19.72,
+        "pe_ratio": 29.24,
         "forward_return": 13.19,
         "start_price": 53.7,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 28.89,
         "forward_return": 10.27,
         "start_price": 65.1,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 19.4,
+        "pe_ratio": 22.85,
         "forward_return": 12.16,
         "start_price": 61.0,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 27.7,
         "forward_return": 7.28,
         "start_price": 79.5,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 22.64,
         "forward_return": 12.65,
         "start_price": 69.5,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 22.94,
         "forward_return": 10.77,
         "start_price": 75.0,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 19.34,
         "forward_return": 10.74,
         "start_price": 70.6,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 21.34,
+        "pe_ratio": 22.23,
         "forward_return": 6.03,
         "start_price": 89.6,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 18.9,
         "forward_return": 5.39,
         "start_price": 87.8,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 19.76,
+        "pe_ratio": 17.2,
         "forward_return": 6.57,
         "start_price": 84.0,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.54,
+        "pe_ratio": 16.74,
         "forward_return": 6.43,
         "start_price": 85.7,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 16.58,
         "forward_return": 5.7,
         "start_price": 85.7,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 19.31,
+        "pe_ratio": 14.85,
         "forward_return": 7.4,
         "start_price": 77.5,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 18.07,
+        "pe_ratio": 13.49,
         "forward_return": 6.22,
         "start_price": 71.1,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 18.96,
+        "pe_ratio": 14.75,
         "forward_return": 2.15,
         "start_price": 73.1,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 16.76,
+        "pe_ratio": 13.63,
         "forward_return": 4.16,
         "start_price": 63.3,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 16.67,
         "forward_return": 0.76,
         "start_price": 72.2,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 20.06,
+        "pe_ratio": 17.97,
         "forward_return": 3.76,
         "start_price": 72.6,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 19.01,
         "forward_return": 3.97,
         "start_price": 71.3,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 19.87,
+        "pe_ratio": 21.62,
         "forward_return": 8.19,
         "start_price": 68.4,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.0,
+        "pe_ratio": 20.3,
         "forward_return": 12.12,
         "start_price": 58.2,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 20.54,
         "forward_return": 15.32,
         "start_price": 52.8,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.83,
+        "pe_ratio": 21.73,
         "forward_return": 13.96,
         "start_price": 57.0,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.09,
+        "pe_ratio": 24.02,
         "forward_return": 10.84,
         "start_price": 64.3,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 20.29,
         "forward_return": 16.53,
         "start_price": 55.4,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 19.39,
         "forward_return": 20.95,
         "start_price": 52.6,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.66,
+        "pe_ratio": 16.78,
         "forward_return": 26.68,
         "start_price": 45.25,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 15.75,
+        "pe_ratio": 19.37,
         "forward_return": 18.96,
         "start_price": 51.9,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 17.69,
         "forward_return": 20.28,
         "start_price": 50.7,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.44,
+        "pe_ratio": 14.34,
         "forward_return": 22.26,
         "start_price": 43.8,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 15.98,
         "forward_return": 18.8,
         "start_price": 54.8,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.24,
         "forward_return": 15.4,
         "start_price": 62.4,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 14.15,
         "forward_return": 19.11,
         "start_price": 53.9,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.77,
         "forward_return": 14.12,
         "start_price": 63.4,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 15.84,
         "forward_return": 15.33,
         "start_price": 59.4,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.54,
         "forward_return": 19.2,
         "start_price": 54.1,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.53,
         "forward_return": 21.23,
         "start_price": 52.1,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.83,
+        "pe_ratio": 14.17,
         "forward_return": 20.01,
         "start_price": 56.4,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 17.46,
         "start_price": 58.1,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.98,
         "forward_return": 20.01,
         "start_price": 55.0,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.42,
         "forward_return": 18.15,
         "start_price": 58.6,
         "start_year": 2012
@@ -12549,7 +12549,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 14.38,
         "forward_return": 16.15,
         "start_price": 66.2,
         "start_year": 2013
@@ -12558,7 +12558,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 14.87,
+        "pe_ratio": 14.98,
         "forward_return": 14.58,
         "start_price": 70.6,
         "start_year": 2013
@@ -12567,7 +12567,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.42,
         "forward_return": 17.16,
         "start_price": 69.5,
         "start_year": 2013
@@ -12576,7 +12576,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.99,
+        "pe_ratio": 17.15,
         "forward_return": 9.92,
         "start_price": 85.0,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.94,
         "forward_return": 12.63,
         "start_price": 76.1,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.58,
         "forward_return": 13.62,
         "start_price": 71.0,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.44,
         "forward_return": 15.65,
         "start_price": 71.8,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 12.17,
         "forward_return": 21.32,
         "start_price": 66.4,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 12.96,
         "forward_return": 17.47,
         "start_price": 72.2,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.96,
         "forward_return": 16.93,
         "start_price": 68.4,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.21,
         "forward_return": 18.43,
         "start_price": 71.7,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.67,
         "forward_return": 17.89,
         "start_price": 83.0,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.71,
         "forward_return": 17.73,
         "start_price": 90.0,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.88,
         "forward_return": 17.72,
         "start_price": 91.8,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 13.6,
         "forward_return": 22.19,
         "start_price": 86.1,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.25,
         "forward_return": 19.51,
         "start_price": 92.5,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.23,
         "forward_return": 21.84,
         "start_price": 94.6,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 13.51,
         "forward_return": 19.84,
         "start_price": 95.9,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 14.45,
         "forward_return": 17.35,
         "start_price": 109.0,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 13.52,
         "forward_return": 18.98,
         "start_price": 108.0,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.53,
+        "pe_ratio": 12.73,
         "forward_return": 20.38,
         "start_price": 100.5,
         "start_year": 2014
@@ -12747,7 +12747,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.2,
         "forward_return": 20.16,
         "start_price": 103.0,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.0,
+        "pe_ratio": 12.68,
         "forward_return": 23.15,
         "start_price": 97.1,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 13.62,
+        "pe_ratio": 12.93,
         "forward_return": 20.74,
         "start_price": 98.4,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 13.23,
         "forward_return": 19.72,
         "start_price": 100.0,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 13.46,
         "forward_return": 24.3,
         "start_price": 96.0,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.41,
+        "pe_ratio": 13.99,
         "forward_return": 24.99,
         "start_price": 93.7,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.62,
         "forward_return": 32.77,
         "start_price": 79.1,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 10.95,
         "forward_return": 45.62,
         "start_price": 62.1,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.11,
+        "pe_ratio": 11.5,
         "forward_return": 47.82,
         "start_price": 58.4,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 12.46,
         "forward_return": 48.33,
         "start_price": 55.8,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 14.84,
         "forward_return": 41.6,
         "start_price": 68.1,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 13.34,
+        "pe_ratio": 14.34,
         "forward_return": 43.01,
         "start_price": 67.4,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 16.74,
+        "pe_ratio": 17.45,
         "forward_return": 42.54,
         "start_price": 82.2,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 16.74,
+        "pe_ratio": 18.2,
         "forward_return": 43.54,
         "start_price": 83.9,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.62,
         "forward_return": 42.86,
         "start_price": 88.5,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 17.34,
+        "pe_ratio": 18.29,
         "forward_return": 44.25,
         "start_price": 90.4,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 16.63,
+        "pe_ratio": 16.44,
         "forward_return": 43.16,
         "start_price": 88.4,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 18.45,
+        "pe_ratio": 17.19,
         "forward_return": 40.02,
         "start_price": 99.9,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 19.55,
         "forward_return": 40.42,
         "start_price": 115.5,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 22.61,
+        "pe_ratio": 21.15,
         "forward_return": 36.26,
         "start_price": 127.0,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.89,
         "forward_return": 39.19,
         "start_price": 103.0,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.39,
+        "pe_ratio": 17.62,
         "forward_return": 38.31,
         "start_price": 107.0,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 16.37,
         "forward_return": 43.27,
         "start_price": 99.0,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 18.3,
         "forward_return": 39.15,
         "start_price": 109.0,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.66,
+        "pe_ratio": 19.43,
         "forward_return": 34.21,
         "start_price": 114.5,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 18.61,
         "forward_return": 34.25,
         "start_price": 108.5,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.32,
+        "pe_ratio": 17.65,
         "forward_return": 34.57,
         "start_price": 102.0,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.93,
+        "pe_ratio": 17.54,
         "forward_return": 37.15,
         "start_price": 100.5,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.2,
+        "pe_ratio": 19.28,
         "forward_return": 29.94,
         "start_price": 109.5,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 17.59,
+        "pe_ratio": 18.99,
         "forward_return": 29.18,
         "start_price": 113.0,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.06,
+        "pe_ratio": 18.81,
         "forward_return": 28.54,
         "start_price": 117.0,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.29,
+        "pe_ratio": 16.41,
         "forward_return": 25.73,
         "start_price": 106.5,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 17.21,
+        "pe_ratio": 17.29,
         "forward_return": 23.0,
         "start_price": 113.5,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.76,
+        "pe_ratio": 16.8,
         "forward_return": 27.9,
         "start_price": 111.5,
         "start_year": 2017
@@ -13089,7 +13089,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 16.82,
         "forward_return": 26.98,
         "start_price": 116.5,
         "start_year": 2018
@@ -13098,7 +13098,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.52,
+        "pe_ratio": 16.24,
         "forward_return": 30.83,
         "start_price": 116.0,
         "start_year": 2018
@@ -13107,7 +13107,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.66,
         "forward_return": 28.31,
         "start_price": 130.0,
         "start_year": 2018
@@ -13116,7 +13116,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.42,
+        "pe_ratio": 15.27,
         "forward_return": 30.25,
         "start_price": 113.0,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.39,
         "forward_return": 31.29,
         "start_price": 114.5,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.53,
+        "pe_ratio": 14.84,
         "forward_return": 32.43,
         "start_price": 111.0,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.78,
+        "pe_ratio": 16.09,
         "forward_return": 33.24,
         "start_price": 123.0,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.07,
         "forward_return": 27.6,
         "start_price": 149.0,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.78,
+        "pe_ratio": 17.04,
         "forward_return": 28.75,
         "start_price": 136.0,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.01,
+        "pe_ratio": 15.17,
         "forward_return": 31.5,
         "start_price": 124.0,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.82,
+        "pe_ratio": 16.9,
         "forward_return": 30.5,
         "start_price": 141.5,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.34,
         "forward_return": 27.72,
         "start_price": 163.5,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.22,
         "forward_return": 29.77,
         "start_price": 178.0,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.94,
         "forward_return": 28.82,
         "start_price": 182.0,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.55,
         "forward_return": 23.63,
         "start_price": 209.0,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.93,
+        "pe_ratio": 18.64,
         "forward_return": 25.74,
         "start_price": 200.0,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.84,
+        "pe_ratio": 20.24,
         "forward_return": 22.55,
         "start_price": 228.5,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 18.44,
+        "pe_ratio": 18.02,
         "forward_return": 23.68,
         "start_price": 209.5,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 18.28,
+        "pe_ratio": 17.98,
         "forward_return": 23.96,
         "start_price": 215.0,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 18.91,
+        "pe_ratio": 18.71,
         "forward_return": 19.7,
         "start_price": 230.0,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.03,
+        "pe_ratio": 17.91,
         "forward_return": 20.39,
         "start_price": 226.5,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.78,
+        "pe_ratio": 17.73,
         "forward_return": 19.86,
         "start_price": 230.5,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.3,
         "forward_return": 20.78,
         "start_price": 247.5,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.06,
+        "pe_ratio": 16.43,
         "forward_return": 21.98,
         "start_price": 225.0,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 15.76,
         "forward_return": 23.1,
         "start_price": 218.5,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 17.57,
+        "pe_ratio": 18.44,
         "forward_return": 19.16,
         "start_price": 257.5,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 17.26,
+        "pe_ratio": 18.37,
         "forward_return": 19.71,
         "start_price": 258.5,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.54,
+        "pe_ratio": 21.09,
         "forward_return": 17.21,
         "start_price": 299.0,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 23.97,
+        "pe_ratio": 25.72,
         "forward_return": 12.8,
         "start_price": 374.5,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 23.83,
+        "pe_ratio": 25.44,
         "forward_return": 11.09,
         "start_price": 380.0,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 22.65,
+        "pe_ratio": 24.05,
         "forward_return": 12.33,
         "start_price": 368.5,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 21.42,
+        "pe_ratio": 22.27,
         "forward_return": 11.91,
         "start_price": 355.5,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 21.93,
+        "pe_ratio": 22.35,
         "forward_return": 11.17,
         "start_price": 371.0,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.34,
+        "pe_ratio": 24.86,
         "forward_return": 5.59,
         "start_price": 451.5,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 23.15,
+        "pe_ratio": 24.11,
         "forward_return": 5.12,
         "start_price": 460.0,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 13.2,
         "forward_return": 11.59,
         "start_price": 36.3,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 12.9,
         "forward_return": 13.8,
         "start_price": 36.65,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.46,
         "forward_return": 12.9,
         "start_price": 36.5,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.46,
+        "pe_ratio": 11.26,
         "forward_return": 12.87,
         "start_price": 34.0,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 12.39,
         "forward_return": 10.31,
         "start_price": 38.2,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.22,
         "forward_return": 9.86,
         "start_price": 41.6,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.68,
         "forward_return": 10.69,
         "start_price": 40.7,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 13.71,
         "forward_return": 8.41,
         "start_price": 44.2,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.54,
         "forward_return": 6.97,
         "start_price": 50.3,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.9,
         "forward_return": 7.82,
         "start_price": 52.8,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 16.88,
+        "pe_ratio": 16.22,
         "forward_return": 8.01,
         "start_price": 55.0,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 21.01,
         "forward_return": 2.89,
         "start_price": 72.7,
         "start_year": 2007
@@ -13548,7 +13548,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.66,
+        "pe_ratio": 16.82,
         "forward_return": 7.08,
         "start_price": 67.5,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.83,
+        "pe_ratio": 18.5,
         "forward_return": 1.58,
         "start_price": 84.5,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 49.77,
+        "pe_ratio": 31.84,
         "forward_return": -9.8,
         "start_price": 163.0,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 57.94,
+        "pe_ratio": 35.98,
         "forward_return": -11.96,
         "start_price": 190.0,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 49.19,
+        "pe_ratio": 29.69,
         "forward_return": -10.49,
         "start_price": 161.5,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 46.39,
+        "pe_ratio": 27.23,
         "forward_return": -8.61,
         "start_price": 152.5,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 25.66,
         "forward_return": -6.09,
         "start_price": 124.0,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 35.65,
+        "pe_ratio": 28.89,
         "forward_return": -4.64,
         "start_price": 117.5,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 30.11,
+        "pe_ratio": 27.4,
         "forward_return": 0.66,
         "start_price": 95.8,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 30.62,
+        "pe_ratio": 25.4,
         "forward_return": 2.42,
         "start_price": 93.8,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 30.76,
+        "pe_ratio": 23.29,
         "forward_return": 3.04,
         "start_price": 90.6,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 31.34,
+        "pe_ratio": 27.95,
         "forward_return": 2.5,
         "start_price": 88.6,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 37.51,
         "forward_return": 2.91,
         "start_price": 91.9,
         "start_year": 2008
@@ -13674,7 +13674,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 24.02,
+        "pe_ratio": 35.95,
         "forward_return": 10.18,
         "start_price": 62.2,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 29.21,
+        "pe_ratio": 61.71,
         "forward_return": 8.0,
         "start_price": 72.2,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 27.41,
+        "pe_ratio": 105.7,
         "forward_return": 12.05,
         "start_price": 64.5,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 23.67,
+        "pe_ratio": 1058.0,
         "forward_return": 15.67,
         "start_price": 52.9,
         "start_year": 2008
@@ -13710,7 +13710,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.91,
+        "pe_ratio": 73.48,
         "forward_return": 16.16,
         "start_price": 48.5,
         "start_year": 2008
@@ -13719,7 +13719,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 26.85,
         "forward_return": 23.62,
         "start_price": 34.1,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 17.22,
+        "pe_ratio": 20.85,
         "forward_return": 21.49,
         "start_price": 36.0,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 17.51,
+        "pe_ratio": 25.61,
         "forward_return": 19.45,
         "start_price": 40.3,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 17.71,
+        "pe_ratio": 31.34,
         "forward_return": 17.76,
         "start_price": 44.5,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 19.72,
+        "pe_ratio": 29.24,
         "forward_return": 13.48,
         "start_price": 53.7,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 28.89,
         "forward_return": 9.52,
         "start_price": 65.1,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 19.4,
+        "pe_ratio": 22.85,
         "forward_return": 8.18,
         "start_price": 61.0,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 27.7,
         "forward_return": 1.15,
         "start_price": 79.5,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 22.64,
         "forward_return": 2.68,
         "start_price": 69.5,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 22.94,
         "forward_return": 0.84,
         "start_price": 75.0,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 19.34,
         "forward_return": 4.35,
         "start_price": 70.6,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 21.34,
+        "pe_ratio": 22.23,
         "forward_return": 0.16,
         "start_price": 89.6,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 18.9,
         "forward_return": 3.07,
         "start_price": 87.8,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 19.76,
+        "pe_ratio": 17.2,
         "forward_return": 4.11,
         "start_price": 84.0,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.54,
+        "pe_ratio": 16.74,
         "forward_return": 4.49,
         "start_price": 85.7,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 16.58,
         "forward_return": 4.79,
         "start_price": 85.7,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 19.31,
+        "pe_ratio": 14.85,
         "forward_return": 6.24,
         "start_price": 77.5,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 18.07,
+        "pe_ratio": 13.49,
         "forward_return": 9.56,
         "start_price": 71.1,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 18.96,
+        "pe_ratio": 14.75,
         "forward_return": 11.26,
         "start_price": 73.1,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 16.76,
+        "pe_ratio": 13.63,
         "forward_return": 15.49,
         "start_price": 63.3,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 16.67,
         "forward_return": 9.75,
         "start_price": 72.2,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 20.06,
+        "pe_ratio": 17.97,
         "forward_return": 10.22,
         "start_price": 72.6,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 19.01,
         "forward_return": 9.39,
         "start_price": 71.3,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 19.87,
+        "pe_ratio": 21.62,
         "forward_return": 11.61,
         "start_price": 68.4,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.0,
+        "pe_ratio": 20.3,
         "forward_return": 15.43,
         "start_price": 58.2,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 20.54,
         "forward_return": 16.45,
         "start_price": 52.8,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.83,
+        "pe_ratio": 21.73,
         "forward_return": 14.01,
         "start_price": 57.0,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.09,
+        "pe_ratio": 24.02,
         "forward_return": 11.52,
         "start_price": 64.3,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 20.29,
         "forward_return": 15.67,
         "start_price": 55.4,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 19.39,
         "forward_return": 17.53,
         "start_price": 52.6,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.66,
+        "pe_ratio": 16.78,
         "forward_return": 21.09,
         "start_price": 45.25,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 15.75,
+        "pe_ratio": 19.37,
         "forward_return": 16.86,
         "start_price": 51.9,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 17.69,
         "forward_return": 18.33,
         "start_price": 50.7,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.44,
+        "pe_ratio": 14.34,
         "forward_return": 20.96,
         "start_price": 43.8,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 15.98,
         "forward_return": 17.22,
         "start_price": 54.8,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.24,
         "forward_return": 16.23,
         "start_price": 62.4,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 14.15,
         "forward_return": 19.34,
         "start_price": 53.9,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.77,
         "forward_return": 13.94,
         "start_price": 63.4,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 15.84,
         "forward_return": 15.39,
         "start_price": 59.4,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.54,
         "forward_return": 16.71,
         "start_price": 54.1,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.53,
         "forward_return": 19.53,
         "start_price": 52.1,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.83,
+        "pe_ratio": 14.17,
         "forward_return": 21.11,
         "start_price": 56.4,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 18.99,
         "start_price": 58.1,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.98,
         "forward_return": 18.58,
         "start_price": 55.0,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.42,
         "forward_return": 19.48,
         "start_price": 58.6,
         "start_year": 2012
@@ -14169,7 +14169,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 14.38,
         "forward_return": 19.47,
         "start_price": 66.2,
         "start_year": 2013
@@ -14178,7 +14178,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 14.87,
+        "pe_ratio": 14.98,
         "forward_return": 19.63,
         "start_price": 70.6,
         "start_year": 2013
@@ -14187,7 +14187,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.42,
         "forward_return": 20.33,
         "start_price": 69.5,
         "start_year": 2013
@@ -14196,7 +14196,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.99,
+        "pe_ratio": 17.15,
         "forward_return": 18.72,
         "start_price": 85.0,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.94,
         "forward_return": 20.15,
         "start_price": 76.1,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.58,
         "forward_return": 23.95,
         "start_price": 71.0,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.44,
         "forward_return": 22.45,
         "start_price": 71.8,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 12.17,
         "forward_return": 24.52,
         "start_price": 66.4,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 12.96,
         "forward_return": 24.01,
         "start_price": 72.2,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.96,
         "forward_return": 24.85,
         "start_price": 68.4,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.21,
         "forward_return": 24.19,
         "start_price": 71.7,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.67,
         "forward_return": 22.47,
         "start_price": 83.0,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.71,
         "forward_return": 19.15,
         "start_price": 90.0,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.88,
         "forward_return": 18.25,
         "start_price": 91.8,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 13.6,
         "forward_return": 22.43,
         "start_price": 86.1,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.25,
         "forward_return": 21.04,
         "start_price": 92.5,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.23,
         "forward_return": 23.24,
         "start_price": 94.6,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 13.51,
         "forward_return": 27.55,
         "start_price": 95.9,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 14.45,
         "forward_return": 25.13,
         "start_price": 109.0,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 13.52,
         "forward_return": 24.74,
         "start_price": 108.0,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.53,
+        "pe_ratio": 12.73,
         "forward_return": 25.56,
         "start_price": 100.5,
         "start_year": 2014
@@ -14367,7 +14367,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.2,
         "forward_return": 25.86,
         "start_price": 103.0,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.0,
+        "pe_ratio": 12.68,
         "forward_return": 30.96,
         "start_price": 97.1,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 13.62,
+        "pe_ratio": 12.93,
         "forward_return": 31.04,
         "start_price": 98.4,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 13.23,
         "forward_return": 32.14,
         "start_price": 100.0,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 13.46,
         "forward_return": 34.58,
         "start_price": 96.0,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.41,
+        "pe_ratio": 13.99,
         "forward_return": 33.79,
         "start_price": 93.7,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.62,
         "forward_return": 37.87,
         "start_price": 79.1,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 10.95,
         "forward_return": 47.29,
         "start_price": 62.1,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.11,
+        "pe_ratio": 11.5,
         "forward_return": 47.45,
         "start_price": 58.4,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 12.46,
         "forward_return": 46.06,
         "start_price": 55.8,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 14.84,
         "forward_return": 41.44,
         "start_price": 68.1,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 13.34,
+        "pe_ratio": 14.34,
         "forward_return": 44.01,
         "start_price": 67.4,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 16.74,
+        "pe_ratio": 17.45,
         "forward_return": 38.18,
         "start_price": 82.2,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 16.74,
+        "pe_ratio": 18.2,
         "forward_return": 33.08,
         "start_price": 83.9,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.62,
         "forward_return": 32.42,
         "start_price": 88.5,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 17.34,
+        "pe_ratio": 18.29,
         "forward_return": 30.87,
         "start_price": 90.4,
         "start_year": 2016
@@ -14529,7 +14529,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 16.63,
+        "pe_ratio": 16.44,
         "forward_return": 33.11,
         "start_price": 88.4,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 18.45,
+        "pe_ratio": 17.19,
         "forward_return": 26.51,
         "start_price": 99.9,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 19.55,
         "forward_return": 23.59,
         "start_price": 115.5,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 22.61,
+        "pe_ratio": 21.15,
         "forward_return": 21.85,
         "start_price": 127.0,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.89,
         "forward_return": 22.0,
         "start_price": 103.0,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.39,
+        "pe_ratio": 17.62,
         "forward_return": 20.32,
         "start_price": 107.0,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 16.37,
         "forward_return": 25.49,
         "start_price": 99.0,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 18.3,
         "forward_return": 23.65,
         "start_price": 109.0,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.66,
+        "pe_ratio": 19.43,
         "forward_return": 25.61,
         "start_price": 114.5,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 18.61,
         "forward_return": 27.09,
         "start_price": 108.5,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.32,
+        "pe_ratio": 17.65,
         "forward_return": 27.03,
         "start_price": 102.0,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.93,
+        "pe_ratio": 17.54,
         "forward_return": 28.46,
         "start_price": 100.5,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.2,
+        "pe_ratio": 19.28,
         "forward_return": 26.89,
         "start_price": 109.5,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 17.59,
+        "pe_ratio": 18.99,
         "forward_return": 29.06,
         "start_price": 113.0,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.06,
+        "pe_ratio": 18.81,
         "forward_return": 27.8,
         "start_price": 117.0,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.29,
+        "pe_ratio": 16.41,
         "forward_return": 28.82,
         "start_price": 106.5,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 17.21,
+        "pe_ratio": 17.29,
         "forward_return": 27.74,
         "start_price": 113.5,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.76,
+        "pe_ratio": 16.8,
         "forward_return": 30.12,
         "start_price": 111.5,
         "start_year": 2017
@@ -14709,7 +14709,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 16.82,
         "forward_return": 29.96,
         "start_price": 116.5,
         "start_year": 2018
@@ -14718,7 +14718,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.52,
+        "pe_ratio": 16.24,
         "forward_return": 33.64,
         "start_price": 116.0,
         "start_year": 2018
@@ -14727,7 +14727,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 18.12,
+        "pe_ratio": 17.66,
         "forward_return": 30.81,
         "start_price": 130.0,
         "start_year": 2018
@@ -14736,7 +14736,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 15.42,
+        "pe_ratio": 15.27,
         "forward_return": 32.42,
         "start_price": 113.0,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.39,
         "forward_return": 33.02,
         "start_price": 114.5,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.53,
+        "pe_ratio": 14.84,
         "forward_return": 33.81,
         "start_price": 111.0,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.78,
+        "pe_ratio": 16.09,
         "forward_return": 30.7,
         "start_price": 123.0,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.07,
         "forward_return": 27.37,
         "start_price": 149.0,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.78,
+        "pe_ratio": 17.04,
         "forward_return": 27.06,
         "start_price": 136.0,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.01,
+        "pe_ratio": 15.17,
         "forward_return": 29.31,
         "start_price": 124.0,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 16.82,
+        "pe_ratio": 16.9,
         "forward_return": 26.41,
         "start_price": 141.5,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.34,
         "forward_return": 25.65,
         "start_price": 163.5,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.22,
         "forward_return": 24.14,
         "start_price": 178.0,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.94,
         "forward_return": 22.81,
         "start_price": 182.0,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.55,
         "forward_return": 20.04,
         "start_price": 209.0,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 18.93,
+        "pe_ratio": 18.64,
         "forward_return": 21.47,
         "start_price": 200.0,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 20.84,
+        "pe_ratio": 20.24,
         "forward_return": 19.59,
         "start_price": 228.5,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 18.44,
+        "pe_ratio": 18.02,
         "forward_return": 22.12,
         "start_price": 209.5,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 18.28,
+        "pe_ratio": 17.98,
         "forward_return": 20.37,
         "start_price": 215.0,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 18.91,
+        "pe_ratio": 18.71,
         "forward_return": 19.5,
         "start_price": 230.0,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.03,
+        "pe_ratio": 17.91,
         "forward_return": 18.74,
         "start_price": 226.5,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.78,
+        "pe_ratio": 17.73,
         "forward_return": 18.58,
         "start_price": 230.5,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.3,
         "forward_return": 16.01,
         "start_price": 247.5,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 13.2,
         "forward_return": 15.34,
         "start_price": 36.3,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 12.9,
         "forward_return": 14.46,
         "start_price": 36.65,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.46,
         "forward_return": 15.35,
         "start_price": 36.5,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.46,
+        "pe_ratio": 11.26,
         "forward_return": 16.64,
         "start_price": 34.0,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 12.39,
         "forward_return": 15.51,
         "start_price": 38.2,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.22,
         "forward_return": 15.76,
         "start_price": 41.6,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.68,
         "forward_return": 15.97,
         "start_price": 40.7,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 13.71,
         "forward_return": 13.95,
         "start_price": 44.2,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.54,
         "forward_return": 12.4,
         "start_price": 50.3,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.9,
         "forward_return": 11.06,
         "start_price": 52.8,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 16.88,
+        "pe_ratio": 16.22,
         "forward_return": 10.65,
         "start_price": 55.0,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 21.01,
         "forward_return": 7.03,
         "start_price": 72.7,
         "start_year": 2007
@@ -15051,7 +15051,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.66,
+        "pe_ratio": 16.82,
         "forward_return": 7.59,
         "start_price": 67.5,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.83,
+        "pe_ratio": 18.5,
         "forward_return": 4.36,
         "start_price": 84.5,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 49.77,
+        "pe_ratio": 31.84,
         "forward_return": -5.43,
         "start_price": 163.0,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 57.94,
+        "pe_ratio": 35.98,
         "forward_return": -8.95,
         "start_price": 190.0,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 49.19,
+        "pe_ratio": 29.69,
         "forward_return": -7.57,
         "start_price": 161.5,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 46.39,
+        "pe_ratio": 27.23,
         "forward_return": -7.26,
         "start_price": 152.5,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 25.66,
         "forward_return": -3.18,
         "start_price": 124.0,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 35.65,
+        "pe_ratio": 28.89,
         "forward_return": -2.62,
         "start_price": 117.5,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 30.11,
+        "pe_ratio": 27.4,
         "forward_return": 1.73,
         "start_price": 95.8,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 30.62,
+        "pe_ratio": 25.4,
         "forward_return": 2.19,
         "start_price": 93.8,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 30.76,
+        "pe_ratio": 23.29,
         "forward_return": 3.15,
         "start_price": 90.6,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 31.34,
+        "pe_ratio": 27.95,
         "forward_return": 3.65,
         "start_price": 88.6,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 37.51,
         "forward_return": 2.96,
         "start_price": 91.9,
         "start_year": 2008
@@ -15177,7 +15177,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 24.02,
+        "pe_ratio": 35.95,
         "forward_return": 9.39,
         "start_price": 62.2,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 29.21,
+        "pe_ratio": 61.71,
         "forward_return": 9.03,
         "start_price": 72.2,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 27.41,
+        "pe_ratio": 105.7,
         "forward_return": 11.64,
         "start_price": 64.5,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 23.67,
+        "pe_ratio": 1058.0,
         "forward_return": 12.07,
         "start_price": 52.9,
         "start_year": 2008
@@ -15213,7 +15213,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.91,
+        "pe_ratio": 73.48,
         "forward_return": 13.72,
         "start_price": 48.5,
         "start_year": 2008
@@ -15222,7 +15222,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 26.85,
         "forward_return": 17.94,
         "start_price": 34.1,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 17.22,
+        "pe_ratio": 20.85,
         "forward_return": 18.25,
         "start_price": 36.0,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 17.51,
+        "pe_ratio": 25.61,
         "forward_return": 17.17,
         "start_price": 40.3,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 17.71,
+        "pe_ratio": 31.34,
         "forward_return": 15.11,
         "start_price": 44.5,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 19.72,
+        "pe_ratio": 29.24,
         "forward_return": 11.75,
         "start_price": 53.7,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 28.89,
         "forward_return": 8.94,
         "start_price": 65.1,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 19.4,
+        "pe_ratio": 22.85,
         "forward_return": 10.76,
         "start_price": 61.0,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 27.7,
         "forward_return": 7.81,
         "start_price": 79.5,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 22.64,
         "forward_return": 10.01,
         "start_price": 69.5,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 22.94,
         "forward_return": 7.97,
         "start_price": 75.0,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 19.34,
         "forward_return": 9.47,
         "start_price": 70.6,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 21.34,
+        "pe_ratio": 22.23,
         "forward_return": 6.07,
         "start_price": 89.6,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 18.9,
         "forward_return": 6.79,
         "start_price": 87.8,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 19.76,
+        "pe_ratio": 17.2,
         "forward_return": 7.34,
         "start_price": 84.0,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.54,
+        "pe_ratio": 16.74,
         "forward_return": 8.29,
         "start_price": 85.7,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 16.58,
         "forward_return": 6.8,
         "start_price": 85.7,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 19.31,
+        "pe_ratio": 14.85,
         "forward_return": 8.29,
         "start_price": 77.5,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 18.07,
+        "pe_ratio": 13.49,
         "forward_return": 9.13,
         "start_price": 71.1,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 18.96,
+        "pe_ratio": 14.75,
         "forward_return": 10.0,
         "start_price": 73.1,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 16.76,
+        "pe_ratio": 13.63,
         "forward_return": 14.17,
         "start_price": 63.3,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 16.67,
         "forward_return": 11.27,
         "start_price": 72.2,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 20.06,
+        "pe_ratio": 17.97,
         "forward_return": 10.18,
         "start_price": 72.6,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 19.01,
         "forward_return": 11.89,
         "start_price": 71.3,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 19.87,
+        "pe_ratio": 21.62,
         "forward_return": 14.15,
         "start_price": 68.4,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.0,
+        "pe_ratio": 20.3,
         "forward_return": 17.52,
         "start_price": 58.2,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 20.54,
         "forward_return": 19.23,
         "start_price": 52.8,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.83,
+        "pe_ratio": 21.73,
         "forward_return": 19.85,
         "start_price": 57.0,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.09,
+        "pe_ratio": 24.02,
         "forward_return": 17.5,
         "start_price": 64.3,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 20.29,
         "forward_return": 21.45,
         "start_price": 55.4,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 19.39,
         "forward_return": 21.37,
         "start_price": 52.6,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.66,
+        "pe_ratio": 16.78,
         "forward_return": 24.02,
         "start_price": 45.25,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 15.75,
+        "pe_ratio": 19.37,
         "forward_return": 22.79,
         "start_price": 51.9,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 17.69,
         "forward_return": 22.95,
         "start_price": 50.7,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.44,
+        "pe_ratio": 14.34,
         "forward_return": 25.45,
         "start_price": 43.8,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 15.98,
         "forward_return": 22.93,
         "start_price": 54.8,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.24,
         "forward_return": 19.71,
         "start_price": 62.4,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 14.15,
         "forward_return": 21.54,
         "start_price": 53.9,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.77,
         "forward_return": 21.23,
         "start_price": 63.4,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 15.84,
         "forward_return": 22.27,
         "start_price": 59.4,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.54,
         "forward_return": 25.7,
         "start_price": 54.1,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.53,
         "forward_return": 29.86,
         "start_price": 52.1,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.83,
+        "pe_ratio": 14.17,
         "forward_return": 28.79,
         "start_price": 56.4,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 27.88,
         "start_price": 58.1,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.98,
         "forward_return": 28.24,
         "start_price": 55.0,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.42,
         "forward_return": 27.83,
         "start_price": 58.6,
         "start_year": 2012
@@ -15672,7 +15672,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 14.38,
         "forward_return": 28.7,
         "start_price": 66.2,
         "start_year": 2013
@@ -15681,7 +15681,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 14.87,
+        "pe_ratio": 14.98,
         "forward_return": 27.94,
         "start_price": 70.6,
         "start_year": 2013
@@ -15690,7 +15690,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.42,
         "forward_return": 29.24,
         "start_price": 69.5,
         "start_year": 2013
@@ -15699,7 +15699,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.99,
+        "pe_ratio": 17.15,
         "forward_return": 27.1,
         "start_price": 85.0,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.94,
         "forward_return": 27.93,
         "start_price": 76.1,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.58,
         "forward_return": 29.22,
         "start_price": 71.0,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.44,
         "forward_return": 31.59,
         "start_price": 71.8,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 12.17,
         "forward_return": 31.99,
         "start_price": 66.4,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 12.96,
         "forward_return": 28.98,
         "start_price": 72.2,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.96,
         "forward_return": 29.96,
         "start_price": 68.4,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.21,
         "forward_return": 30.75,
         "start_price": 71.7,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.67,
         "forward_return": 27.61,
         "start_price": 83.0,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.71,
         "forward_return": 24.32,
         "start_price": 90.0,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.88,
         "forward_return": 23.22,
         "start_price": 91.8,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 13.6,
         "forward_return": 23.47,
         "start_price": 86.1,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.25,
         "forward_return": 23.56,
         "start_price": 92.5,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.23,
         "forward_return": 20.5,
         "start_price": 94.6,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 13.51,
         "forward_return": 20.33,
         "start_price": 95.9,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 14.45,
         "forward_return": 18.56,
         "start_price": 109.0,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 13.52,
         "forward_return": 15.81,
         "start_price": 108.0,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.53,
+        "pe_ratio": 12.73,
         "forward_return": 16.22,
         "start_price": 100.5,
         "start_year": 2014
@@ -15870,7 +15870,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.2,
         "forward_return": 18.35,
         "start_price": 103.0,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.0,
+        "pe_ratio": 12.68,
         "forward_return": 19.34,
         "start_price": 97.1,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 13.62,
+        "pe_ratio": 12.93,
         "forward_return": 21.24,
         "start_price": 98.4,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 13.23,
         "forward_return": 21.25,
         "start_price": 100.0,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 13.46,
         "forward_return": 20.91,
         "start_price": 96.0,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.41,
+        "pe_ratio": 13.99,
         "forward_return": 22.05,
         "start_price": 93.7,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.62,
         "forward_return": 24.85,
         "start_price": 79.1,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 10.95,
         "forward_return": 30.77,
         "start_price": 62.1,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.11,
+        "pe_ratio": 11.5,
         "forward_return": 31.38,
         "start_price": 58.4,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 12.46,
         "forward_return": 31.39,
         "start_price": 55.8,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 14.84,
         "forward_return": 28.36,
         "start_price": 68.1,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 13.34,
+        "pe_ratio": 14.34,
         "forward_return": 30.01,
         "start_price": 67.4,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 16.74,
+        "pe_ratio": 17.45,
         "forward_return": 27.39,
         "start_price": 82.2,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 16.74,
+        "pe_ratio": 18.2,
         "forward_return": 29.64,
         "start_price": 83.9,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.62,
         "forward_return": 28.56,
         "start_price": 88.5,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 17.34,
+        "pe_ratio": 18.29,
         "forward_return": 27.17,
         "start_price": 90.4,
         "start_year": 2016
@@ -16032,7 +16032,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 16.63,
+        "pe_ratio": 16.44,
         "forward_return": 28.16,
         "start_price": 88.4,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 18.45,
+        "pe_ratio": 17.19,
         "forward_return": 26.29,
         "start_price": 99.9,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 19.55,
         "forward_return": 23.47,
         "start_price": 115.5,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 22.61,
+        "pe_ratio": 21.15,
         "forward_return": 22.57,
         "start_price": 127.0,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 16.89,
         "forward_return": 24.19,
         "start_price": 103.0,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 18.39,
+        "pe_ratio": 17.62,
         "forward_return": 23.8,
         "start_price": 107.0,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 16.37,
         "forward_return": 24.94,
         "start_price": 99.0,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 18.3,
         "forward_return": 25.1,
         "start_price": 109.0,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.66,
+        "pe_ratio": 19.43,
         "forward_return": 24.53,
         "start_price": 114.5,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 17.52,
+        "pe_ratio": 18.61,
         "forward_return": 24.71,
         "start_price": 108.5,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.32,
+        "pe_ratio": 17.65,
         "forward_return": 25.71,
         "start_price": 102.0,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 15.93,
+        "pe_ratio": 17.54,
         "forward_return": 26.36,
         "start_price": 100.5,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 17.2,
+        "pe_ratio": 19.28,
         "forward_return": 25.62,
         "start_price": 109.5,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 17.59,
+        "pe_ratio": 18.99,
         "forward_return": 25.77,
         "start_price": 113.0,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.06,
+        "pe_ratio": 18.81,
         "forward_return": 24.29,
         "start_price": 117.0,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 16.29,
+        "pe_ratio": 16.41,
         "forward_return": 26.14,
         "start_price": 106.5,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 17.21,
+        "pe_ratio": 17.29,
         "forward_return": 24.32,
         "start_price": 113.5,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.76,
+        "pe_ratio": 16.8,
         "forward_return": 24.74,
         "start_price": 111.5,
         "start_year": 2017
@@ -16212,7 +16212,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 16.82,
         "forward_return": 23.14,
         "start_price": 116.5,
         "start_year": 2018
@@ -16221,7 +16221,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 16.52,
+        "pe_ratio": 16.24,
         "forward_return": 23.16,
         "start_price": 116.0,
         "start_year": 2018
@@ -16230,7 +16230,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 13.2,
         "forward_return": 12.83,
         "start_price": 36.3,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.28,
+        "pe_ratio": 12.9,
         "forward_return": 12.9,
         "start_price": 36.65,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.46,
         "forward_return": 12.76,
         "start_price": 36.5,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.46,
+        "pe_ratio": 11.26,
         "forward_return": 14.59,
         "start_price": 34.0,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 12.39,
         "forward_return": 14.71,
         "start_price": 38.2,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.8,
+        "pe_ratio": 13.22,
         "forward_return": 14.57,
         "start_price": 41.6,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.68,
         "forward_return": 13.0,
         "start_price": 40.7,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 13.71,
         "forward_return": 12.39,
         "start_price": 44.2,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.54,
         "forward_return": 10.31,
         "start_price": 50.3,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 15.9,
         "forward_return": 10.56,
         "start_price": 52.8,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 16.88,
+        "pe_ratio": 16.22,
         "forward_return": 10.53,
         "start_price": 55.0,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 22.28,
+        "pe_ratio": 21.01,
         "forward_return": 7.05,
         "start_price": 72.7,
         "start_year": 2007
@@ -16347,7 +16347,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 20.66,
+        "pe_ratio": 16.82,
         "forward_return": 7.35,
         "start_price": 67.5,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 25.83,
+        "pe_ratio": 18.5,
         "forward_return": 4.85,
         "start_price": 84.5,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 49.77,
+        "pe_ratio": 31.84,
         "forward_return": -1.19,
         "start_price": 163.0,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 57.94,
+        "pe_ratio": 35.98,
         "forward_return": -2.36,
         "start_price": 190.0,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 49.19,
+        "pe_ratio": 29.69,
         "forward_return": -0.5,
         "start_price": 161.5,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 46.39,
+        "pe_ratio": 27.23,
         "forward_return": -0.63,
         "start_price": 152.5,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 25.66,
         "forward_return": 1.93,
         "start_price": 124.0,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 35.65,
+        "pe_ratio": 28.89,
         "forward_return": 2.34,
         "start_price": 117.5,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 30.11,
+        "pe_ratio": 27.4,
         "forward_return": 4.8,
         "start_price": 95.8,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 30.62,
+        "pe_ratio": 25.4,
         "forward_return": 5.87,
         "start_price": 93.8,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 30.76,
+        "pe_ratio": 23.29,
         "forward_return": 6.28,
         "start_price": 90.6,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 31.34,
+        "pe_ratio": 27.95,
         "forward_return": 5.38,
         "start_price": 88.6,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 33.93,
+        "pe_ratio": 37.51,
         "forward_return": 5.1,
         "start_price": 91.9,
         "start_year": 2008
@@ -16473,7 +16473,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 24.02,
+        "pe_ratio": 35.95,
         "forward_return": 9.03,
         "start_price": 62.2,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 29.21,
+        "pe_ratio": 61.71,
         "forward_return": 8.43,
         "start_price": 72.2,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 27.41,
+        "pe_ratio": 105.7,
         "forward_return": 11.3,
         "start_price": 64.5,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 23.67,
+        "pe_ratio": 1058.0,
         "forward_return": 12.72,
         "start_price": 52.9,
         "start_year": 2008
@@ -16509,7 +16509,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.91,
+        "pe_ratio": 73.48,
         "forward_return": 12.9,
         "start_price": 48.5,
         "start_year": 2008
@@ -16518,7 +16518,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 17.06,
+        "pe_ratio": 26.85,
         "forward_return": 18.15,
         "start_price": 34.1,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 17.22,
+        "pe_ratio": 20.85,
         "forward_return": 18.87,
         "start_price": 36.0,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 17.51,
+        "pe_ratio": 25.61,
         "forward_return": 18.35,
         "start_price": 40.3,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 17.71,
+        "pe_ratio": 31.34,
         "forward_return": 17.39,
         "start_price": 44.5,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 19.72,
+        "pe_ratio": 29.24,
         "forward_return": 16.54,
         "start_price": 53.7,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 22.19,
+        "pe_ratio": 28.89,
         "forward_return": 13.9,
         "start_price": 65.1,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 19.4,
+        "pe_ratio": 22.85,
         "forward_return": 15.94,
         "start_price": 61.0,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 27.7,
         "forward_return": 12.32,
         "start_price": 79.5,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 22.64,
         "forward_return": 14.09,
         "start_price": 69.5,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 22.94,
         "forward_return": 13.86,
         "start_price": 75.0,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 19.34,
         "forward_return": 14.4,
         "start_price": 70.6,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 21.34,
+        "pe_ratio": 22.23,
         "forward_return": 11.87,
         "start_price": 89.6,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 18.9,
         "forward_return": 12.77,
         "start_price": 87.8,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 19.76,
+        "pe_ratio": 17.2,
         "forward_return": 12.37,
         "start_price": 84.0,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.54,
+        "pe_ratio": 16.74,
         "forward_return": 11.87,
         "start_price": 85.7,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.94,
+        "pe_ratio": 16.58,
         "forward_return": 13.42,
         "start_price": 85.7,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 19.31,
+        "pe_ratio": 14.85,
         "forward_return": 14.61,
         "start_price": 77.5,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 18.07,
+        "pe_ratio": 13.49,
         "forward_return": 17.06,
         "start_price": 71.1,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 18.96,
+        "pe_ratio": 14.75,
         "forward_return": 19.28,
         "start_price": 73.1,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 16.76,
+        "pe_ratio": 13.63,
         "forward_return": 21.16,
         "start_price": 63.3,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 19.53,
+        "pe_ratio": 16.67,
         "forward_return": 19.26,
         "start_price": 72.2,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 20.06,
+        "pe_ratio": 17.97,
         "forward_return": 18.82,
         "start_price": 72.6,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 19.01,
         "forward_return": 19.48,
         "start_price": 71.3,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 19.87,
+        "pe_ratio": 21.62,
         "forward_return": 22.08,
         "start_price": 68.4,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.0,
+        "pe_ratio": 20.3,
         "forward_return": 24.28,
         "start_price": 58.2,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 15.51,
+        "pe_ratio": 20.54,
         "forward_return": 26.3,
         "start_price": 52.8,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.83,
+        "pe_ratio": 21.73,
         "forward_return": 26.19,
         "start_price": 57.0,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.09,
+        "pe_ratio": 24.02,
         "forward_return": 23.95,
         "start_price": 64.3,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 16.54,
+        "pe_ratio": 20.29,
         "forward_return": 25.95,
         "start_price": 55.4,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 19.39,
         "forward_return": 28.61,
         "start_price": 52.6,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.66,
+        "pe_ratio": 16.78,
         "forward_return": 29.86,
         "start_price": 45.25,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 15.75,
+        "pe_ratio": 19.37,
         "forward_return": 26.82,
         "start_price": 51.9,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 17.69,
         "forward_return": 27.2,
         "start_price": 50.7,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.44,
+        "pe_ratio": 14.34,
         "forward_return": 30.3,
         "start_price": 43.8,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 15.98,
         "forward_return": 26.8,
         "start_price": 54.8,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.24,
         "forward_return": 22.77,
         "start_price": 62.4,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.17,
+        "pe_ratio": 14.15,
         "forward_return": 24.8,
         "start_price": 53.9,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.77,
         "forward_return": 22.2,
         "start_price": 63.4,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 15.84,
         "forward_return": 23.95,
         "start_price": 59.4,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.54,
         "forward_return": 22.93,
         "start_price": 54.1,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.53,
         "forward_return": 23.5,
         "start_price": 52.1,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.83,
+        "pe_ratio": 14.17,
         "forward_return": 22.64,
         "start_price": 56.4,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 19.94,
         "start_price": 58.1,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.98,
         "forward_return": 20.09,
         "start_price": 55.0,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.42,
         "forward_return": 21.33,
         "start_price": 58.6,
         "start_year": 2012
@@ -16968,7 +16968,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 14.38,
         "forward_return": 19.94,
         "start_price": 66.2,
         "start_year": 2013
@@ -16977,7 +16977,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 14.87,
+        "pe_ratio": 14.98,
         "forward_return": 20.82,
         "start_price": 70.6,
         "start_year": 2013
@@ -16986,7 +16986,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.42,
         "forward_return": 21.2,
         "start_price": 69.5,
         "start_year": 2013
@@ -16995,7 +16995,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 16.99,
+        "pe_ratio": 17.15,
         "forward_return": 18.06,
         "start_price": 85.0,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.94,
         "forward_return": 19.97,
         "start_price": 76.1,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.58,
         "forward_return": 20.95,
         "start_price": 71.0,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.44,
         "forward_return": 22.41,
         "start_price": 71.8,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.05,
+        "pe_ratio": 12.17,
         "forward_return": 23.08,
         "start_price": 66.4,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.8,
+        "pe_ratio": 12.96,
         "forward_return": 21.51,
         "start_price": 72.2,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.96,
         "forward_return": 22.33,
         "start_price": 68.4,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.21,
         "forward_return": 22.84,
         "start_price": 71.7,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.67,
         "forward_return": 21.48,
         "start_price": 83.0,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.71,
         "forward_return": 22.43,
         "start_price": 90.0,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.88,
         "forward_return": 22.01,
         "start_price": 91.8,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 13.08,
+        "pe_ratio": 13.6,
         "forward_return": 22.01,
         "start_price": 86.1,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.25,
         "forward_return": 21.61,
         "start_price": 92.5,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.23,
         "forward_return": 21.39,
         "start_price": 94.6,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 13.51,
         "forward_return": 20.79,
         "start_price": 95.9,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 15.25,
+        "pe_ratio": 14.45,
         "forward_return": 19.67,
         "start_price": 109.0,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 13.52,
         "forward_return": 18.56,
         "start_price": 108.0,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 13.53,
+        "pe_ratio": 12.73,
         "forward_return": 19.57,
         "start_price": 100.5,
         "start_year": 2014
@@ -17166,7 +17166,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.2,
         "forward_return": 19.23,
         "start_price": 103.0,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.0,
+        "pe_ratio": 12.68,
         "forward_return": 21.19,
         "start_price": 97.1,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 13.62,
+        "pe_ratio": 12.93,
         "forward_return": 21.18,
         "start_price": 98.4,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.32,
+        "pe_ratio": 13.23,
         "forward_return": 20.49,
         "start_price": 100.0,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.24,
+        "pe_ratio": 13.46,
         "forward_return": 21.0,
         "start_price": 96.0,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.41,
+        "pe_ratio": 13.99,
         "forward_return": 21.61,
         "start_price": 93.7,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.62,
         "forward_return": 24.16,
         "start_price": 79.1,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.32,
+        "pe_ratio": 10.95,
         "forward_return": 27.7,
         "start_price": 62.1,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.11,
+        "pe_ratio": 11.5,
         "forward_return": 27.73,
         "start_price": 58.4,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 12.46,
         "forward_return": 28.62,
         "start_price": 55.8,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 14.84,
         "forward_return": 25.43,
         "start_price": 68.1,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 13.34,
+        "pe_ratio": 14.34,
         "forward_return": 25.67,
         "start_price": 67.4,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 16.74,
+        "pe_ratio": 17.45,
         "forward_return": 22.49,
         "start_price": 82.2,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 12.8倍、14.3倍、17.2倍、19.9倍、23.7倍"
+!!! note "本益比河流帶水位: 12.8倍、14.4倍、17.2倍、20.6倍、25.6倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
       {
         "date": "2006-03-16",
         "price": 36.3,
-        "pe": 11.17,
-        "pe_10": 41.68,
-        "pe_25": 46.5,
-        "pe_50": 56.03,
-        "pe_75": 64.52,
-        "pe_90": 77.1
+        "pe": 13.2,
+        "pe_10": 35.06,
+        "pe_25": 39.72,
+        "pe_50": 47.4,
+        "pe_75": 56.58,
+        "pe_90": 70.44
       },
       {
         "date": "2006-04-15",
         "price": 36.65,
-        "pe": 11.28,
-        "pe_10": 41.68,
-        "pe_25": 46.49,
-        "pe_50": 56.01,
-        "pe_75": 64.51,
-        "pe_90": 77.09
+        "pe": 12.9,
+        "pe_10": 36.22,
+        "pe_25": 41.03,
+        "pe_50": 48.97,
+        "pe_75": 58.46,
+        "pe_90": 72.77
       },
       {
         "date": "2006-05-16",
         "price": 36.5,
-        "pe": 11.23,
-        "pe_10": 41.69,
-        "pe_25": 46.51,
-        "pe_50": 56.03,
-        "pe_75": 64.53,
-        "pe_90": 77.11
+        "pe": 12.46,
+        "pe_10": 37.34,
+        "pe_25": 42.31,
+        "pe_50": 50.49,
+        "pe_75": 60.27,
+        "pe_90": 75.04
       },
       {
         "date": "2006-06-15",
         "price": 34.0,
-        "pe": 10.46,
-        "pe_10": 41.69,
-        "pe_25": 46.51,
-        "pe_50": 56.04,
-        "pe_75": 64.54,
-        "pe_90": 77.12
+        "pe": 11.26,
+        "pe_10": 38.49,
+        "pe_25": 43.61,
+        "pe_50": 52.04,
+        "pe_75": 62.13,
+        "pe_90": 77.35
       },
       {
         "date": "2006-07-16",
         "price": 38.2,
-        "pe": 11.75,
-        "pe_10": 41.7,
-        "pe_25": 46.52,
-        "pe_50": 56.05,
-        "pe_75": 64.55,
-        "pe_90": 77.13
+        "pe": 12.39,
+        "pe_10": 39.3,
+        "pe_25": 44.53,
+        "pe_50": 53.14,
+        "pe_75": 63.44,
+        "pe_90": 78.97
       },
       {
         "date": "2006-08-16",
         "price": 41.6,
-        "pe": 12.8,
-        "pe_10": 41.69,
-        "pe_25": 46.51,
-        "pe_50": 56.03,
-        "pe_75": 64.53,
-        "pe_90": 77.11
+        "pe": 13.22,
+        "pe_10": 40.11,
+        "pe_25": 45.45,
+        "pe_50": 54.23,
+        "pe_75": 64.74,
+        "pe_90": 80.6
       },
       {
         "date": "2006-09-15",
         "price": 40.7,
-        "pe": 12.52,
-        "pe_10": 41.7,
-        "pe_25": 46.52,
-        "pe_50": 56.04,
-        "pe_75": 64.54,
-        "pe_90": 77.13
+        "pe": 12.68,
+        "pe_10": 40.92,
+        "pe_25": 46.36,
+        "pe_50": 55.32,
+        "pe_75": 66.04,
+        "pe_90": 82.22
       },
       {
         "date": "2006-10-16",
         "price": 44.2,
-        "pe": 13.6,
-        "pe_10": 41.69,
-        "pe_25": 46.51,
-        "pe_50": 56.03,
-        "pe_75": 64.53,
-        "pe_90": 77.11
+        "pe": 13.71,
+        "pe_10": 41.1,
+        "pe_25": 46.56,
+        "pe_50": 55.56,
+        "pe_75": 66.33,
+        "pe_90": 82.58
       },
       {
         "date": "2006-11-15",
         "price": 50.3,
-        "pe": 15.48,
-        "pe_10": 41.68,
-        "pe_25": 46.5,
-        "pe_50": 56.02,
-        "pe_75": 64.52,
-        "pe_90": 77.09
+        "pe": 15.54,
+        "pe_10": 41.26,
+        "pe_25": 46.75,
+        "pe_50": 55.79,
+        "pe_75": 66.6,
+        "pe_90": 82.91
       },
       {
         "date": "2006-12-16",
         "price": 56.1,
         "pe": 17.26,
-        "pe_10": 41.69,
-        "pe_25": 46.51,
-        "pe_50": 56.03,
-        "pe_75": 64.53,
-        "pe_90": 77.12
+        "pe_10": 41.43,
+        "pe_25": 46.94,
+        "pe_50": 56.02,
+        "pe_75": 66.87,
+        "pe_90": 83.26
       },
       {
         "date": "2007-01-16",
         "price": 52.8,
-        "pe": 16.23,
-        "pe_10": 41.73,
-        "pe_25": 46.55,
-        "pe_50": 56.09,
-        "pe_75": 64.59,
-        "pe_90": 77.19
+        "pe": 15.9,
+        "pe_10": 42.33,
+        "pe_25": 47.96,
+        "pe_50": 57.23,
+        "pe_75": 68.32,
+        "pe_90": 85.06
       },
       {
         "date": "2007-02-14",
         "price": 55.0,
-        "pe": 16.88,
-        "pe_10": 41.79,
-        "pe_25": 46.63,
-        "pe_50": 56.17,
-        "pe_75": 64.69,
-        "pe_90": 77.31
+        "pe": 16.22,
+        "pe_10": 43.23,
+        "pe_25": 48.97,
+        "pe_50": 58.44,
+        "pe_75": 69.77,
+        "pe_90": 86.86
       },
       {
         "date": "2007-03-16",
         "price": 72.7,
-        "pe": 22.28,
-        "pe_10": 41.85,
-        "pe_25": 46.69,
-        "pe_50": 56.25,
-        "pe_75": 64.79,
-        "pe_90": 77.42
+        "pe": 21.01,
+        "pe_10": 44.11,
+        "pe_25": 49.97,
+        "pe_50": 59.64,
+        "pe_75": 71.19,
+        "pe_90": 88.63
       },
       {
         "date": "2007-04-15",
         "price": 67.5,
-        "pe": 20.66,
-        "pe_10": 41.91,
-        "pe_25": 46.75,
-        "pe_50": 56.33,
-        "pe_75": 64.87,
-        "pe_90": 77.52
+        "pe": 16.82,
+        "pe_10": 51.16,
+        "pe_25": 57.96,
+        "pe_50": 69.17,
+        "pe_75": 82.57,
+        "pe_90": 102.8
       },
       {
         "date": "2007-05-16",
         "price": 84.5,
-        "pe": 25.83,
-        "pe_10": 41.96,
-        "pe_25": 46.81,
-        "pe_50": 56.4,
-        "pe_75": 64.95,
-        "pe_90": 77.62
+        "pe": 18.5,
+        "pe_10": 58.23,
+        "pe_25": 65.97,
+        "pe_50": 78.72,
+        "pe_75": 93.98,
+        "pe_90": 117.0
       },
       {
         "date": "2007-06-15",
         "price": 163.0,
-        "pe": 49.77,
-        "pe_10": 42.01,
-        "pe_25": 46.87,
-        "pe_50": 56.46,
-        "pe_75": 65.03,
-        "pe_90": 77.7
+        "pe": 31.84,
+        "pe_10": 65.26,
+        "pe_25": 73.94,
+        "pe_50": 88.23,
+        "pe_75": 105.33,
+        "pe_90": 131.13
       },
       {
         "date": "2007-07-16",
         "price": 190.0,
-        "pe": 57.94,
-        "pe_10": 42.06,
-        "pe_25": 46.93,
-        "pe_50": 56.53,
-        "pe_75": 65.11,
-        "pe_90": 77.8
+        "pe": 35.98,
+        "pe_10": 67.32,
+        "pe_25": 76.27,
+        "pe_50": 91.01,
+        "pe_75": 108.65,
+        "pe_90": 135.27
       },
       {
         "date": "2007-08-16",
         "price": 161.5,
-        "pe": 49.19,
-        "pe_10": 42.11,
-        "pe_25": 46.98,
-        "pe_50": 56.6,
-        "pe_75": 65.19,
-        "pe_90": 77.9
+        "pe": 29.69,
+        "pe_10": 69.34,
+        "pe_25": 78.56,
+        "pe_50": 93.75,
+        "pe_75": 111.92,
+        "pe_90": 139.33
       },
       {
         "date": "2007-09-15",
         "price": 152.5,
-        "pe": 46.39,
-        "pe_10": 42.17,
-        "pe_25": 47.04,
-        "pe_50": 56.67,
-        "pe_75": 65.27,
-        "pe_90": 78.0
+        "pe": 27.23,
+        "pe_10": 71.39,
+        "pe_25": 80.88,
+        "pe_50": 96.52,
+        "pe_75": 115.23,
+        "pe_90": 143.46
       },
       {
         "date": "2007-10-16",
         "price": 124.0,
-        "pe": 37.67,
-        "pe_10": 42.22,
-        "pe_25": 47.1,
-        "pe_50": 56.75,
-        "pe_75": 65.36,
-        "pe_90": 78.1
+        "pe": 25.66,
+        "pe_10": 61.6,
+        "pe_25": 69.79,
+        "pe_50": 83.29,
+        "pe_75": 99.43,
+        "pe_90": 123.78
       },
       {
         "date": "2007-11-15",
         "price": 117.5,
-        "pe": 35.65,
-        "pe_10": 42.28,
-        "pe_25": 47.16,
-        "pe_50": 56.82,
-        "pe_75": 65.44,
-        "pe_90": 78.2
+        "pe": 28.89,
+        "pe_10": 51.85,
+        "pe_25": 58.74,
+        "pe_50": 70.1,
+        "pe_75": 83.68,
+        "pe_90": 104.18
       },
       {
         "date": "2007-12-16",
         "price": 112.5,
         "pe": 34.09,
-        "pe_10": 42.33,
-        "pe_25": 47.22,
-        "pe_50": 56.89,
-        "pe_75": 65.52,
-        "pe_90": 78.3
+        "pe_10": 42.07,
+        "pe_25": 47.66,
+        "pe_50": 56.88,
+        "pe_75": 67.9,
+        "pe_90": 84.53
       },
       {
         "date": "2008-01-16",
         "price": 95.8,
-        "pe": 30.11,
-        "pe_10": 40.81,
-        "pe_25": 45.53,
-        "pe_50": 54.85,
-        "pe_75": 63.17,
-        "pe_90": 75.49
+        "pe": 27.4,
+        "pe_10": 44.57,
+        "pe_25": 50.5,
+        "pe_50": 60.26,
+        "pe_75": 71.94,
+        "pe_90": 89.56
       },
       {
         "date": "2008-02-15",
         "price": 93.8,
-        "pe": 30.62,
-        "pe_10": 39.29,
-        "pe_25": 43.84,
-        "pe_50": 52.81,
-        "pe_75": 60.82,
-        "pe_90": 72.68
+        "pe": 25.4,
+        "pe_10": 47.08,
+        "pe_25": 53.33,
+        "pe_50": 63.65,
+        "pe_75": 75.98,
+        "pe_90": 94.59
       },
       {
         "date": "2008-03-16",
         "price": 90.6,
-        "pe": 30.76,
-        "pe_10": 37.78,
-        "pe_25": 42.15,
-        "pe_50": 50.78,
-        "pe_75": 58.48,
-        "pe_90": 69.88
+        "pe": 23.29,
+        "pe_10": 49.59,
+        "pe_25": 56.18,
+        "pe_50": 67.05,
+        "pe_75": 80.04,
+        "pe_90": 99.64
       },
       {
         "date": "2008-04-15",
         "price": 88.6,
-        "pe": 31.34,
-        "pe_10": 36.26,
-        "pe_25": 40.46,
-        "pe_50": 48.74,
-        "pe_75": 56.13,
-        "pe_90": 67.07
+        "pe": 27.95,
+        "pe_10": 40.41,
+        "pe_25": 45.78,
+        "pe_50": 54.63,
+        "pe_75": 65.22,
+        "pe_90": 81.2
       },
       {
         "date": "2008-05-16",
         "price": 91.9,
-        "pe": 33.93,
-        "pe_10": 34.74,
-        "pe_25": 38.76,
-        "pe_50": 46.69,
-        "pe_75": 53.78,
-        "pe_90": 64.26
+        "pe": 37.51,
+        "pe_10": 31.23,
+        "pe_25": 35.38,
+        "pe_50": 42.23,
+        "pe_75": 50.41,
+        "pe_90": 62.76
       },
       {
         "date": "2008-06-15",
         "price": 62.2,
-        "pe": 24.02,
-        "pe_10": 33.22,
-        "pe_25": 37.06,
-        "pe_50": 44.64,
-        "pe_75": 51.41,
-        "pe_90": 61.44
+        "pe": 35.95,
+        "pe_10": 22.06,
+        "pe_25": 24.99,
+        "pe_50": 29.82,
+        "pe_75": 35.6,
+        "pe_90": 44.32
       },
       {
         "date": "2008-07-16",
         "price": 72.2,
-        "pe": 29.21,
-        "pe_10": 31.71,
-        "pe_25": 35.37,
-        "pe_50": 42.61,
-        "pe_75": 49.08,
-        "pe_90": 58.64
+        "pe": 61.71,
+        "pe_10": 14.92,
+        "pe_25": 16.9,
+        "pe_50": 20.16,
+        "pe_75": 24.07,
+        "pe_90": 29.97
       },
       {
         "date": "2008-08-16",
         "price": 64.5,
-        "pe": 27.41,
-        "pe_10": 30.18,
-        "pe_25": 33.67,
-        "pe_50": 40.57,
-        "pe_75": 46.72,
-        "pe_90": 55.83
+        "pe": 105.7,
+        "pe_10": 7.78,
+        "pe_25": 8.81,
+        "pe_50": 10.52,
+        "pe_75": 12.56,
+        "pe_90": 15.63
       },
       {
         "date": "2008-09-15",
         "price": 52.9,
-        "pe": 23.67,
-        "pe_10": 28.67,
-        "pe_25": 31.98,
-        "pe_50": 38.53,
-        "pe_75": 44.37,
-        "pe_90": 53.03
+        "pe": 1058.0,
+        "pe_10": 0.64,
+        "pe_25": 0.72,
+        "pe_50": 0.86,
+        "pe_75": 1.03,
+        "pe_90": 1.28
       },
       {
         "date": "2008-10-16",
         "price": 48.5,
-        "pe": 22.91,
-        "pe_10": 27.15,
-        "pe_25": 30.29,
-        "pe_50": 36.5,
-        "pe_75": 42.03,
-        "pe_90": 50.23
+        "pe": 73.48,
+        "pe_10": 8.41,
+        "pe_25": 9.53,
+        "pe_50": 11.38,
+        "pe_75": 13.58,
+        "pe_90": 16.91
       },
       {
         "date": "2008-11-15",
         "price": 34.1,
-        "pe": 17.06,
-        "pe_10": 25.64,
-        "pe_25": 28.6,
-        "pe_50": 34.46,
-        "pe_75": 39.69,
-        "pe_90": 47.42
+        "pe": 26.85,
+        "pe_10": 16.19,
+        "pe_25": 18.34,
+        "pe_50": 21.89,
+        "pe_75": 26.13,
+        "pe_90": 32.53
       },
       {
         "date": "2008-12-16",
         "price": 31.65,
         "pe": 16.84,
-        "pe_10": 24.11,
-        "pe_25": 26.89,
-        "pe_50": 32.4,
-        "pe_75": 37.32,
-        "pe_90": 44.59
+        "pe_10": 23.96,
+        "pe_25": 27.14,
+        "pe_50": 32.39,
+        "pe_75": 38.67,
+        "pe_90": 48.14
       },
       {
         "date": "2009-01-16",
         "price": 36.0,
-        "pe": 17.22,
-        "pe_10": 26.82,
-        "pe_25": 29.92,
-        "pe_50": 36.04,
-        "pe_75": 41.51,
-        "pe_90": 49.6
+        "pe": 20.85,
+        "pe_10": 22.01,
+        "pe_25": 24.94,
+        "pe_50": 29.76,
+        "pe_75": 35.53,
+        "pe_90": 44.23
       },
       {
         "date": "2009-02-14",
         "price": 40.3,
-        "pe": 17.51,
-        "pe_10": 29.52,
-        "pe_25": 32.94,
-        "pe_50": 39.68,
-        "pe_75": 45.7,
-        "pe_90": 54.61
+        "pe": 25.61,
+        "pe_10": 20.06,
+        "pe_25": 22.73,
+        "pe_50": 27.12,
+        "pe_75": 32.38,
+        "pe_90": 40.31
       },
       {
         "date": "2009-03-16",
         "price": 44.5,
-        "pe": 17.71,
-        "pe_10": 32.23,
-        "pe_25": 35.96,
-        "pe_50": 43.32,
-        "pe_75": 49.89,
-        "pe_90": 59.62
+        "pe": 31.34,
+        "pe_10": 18.1,
+        "pe_25": 20.51,
+        "pe_50": 24.47,
+        "pe_75": 29.21,
+        "pe_90": 36.37
       },
       {
         "date": "2009-04-15",
         "price": 53.7,
-        "pe": 19.72,
-        "pe_10": 34.93,
-        "pe_25": 38.97,
-        "pe_50": 46.95,
-        "pe_75": 54.07,
-        "pe_90": 64.61
+        "pe": 29.24,
+        "pe_10": 23.41,
+        "pe_25": 26.52,
+        "pe_50": 31.65,
+        "pe_75": 37.79,
+        "pe_90": 47.04
       },
       {
         "date": "2009-05-16",
         "price": 65.1,
-        "pe": 22.19,
-        "pe_10": 37.63,
-        "pe_25": 41.98,
-        "pe_50": 50.58,
-        "pe_75": 58.25,
-        "pe_90": 69.61
+        "pe": 28.89,
+        "pe_10": 28.73,
+        "pe_25": 32.54,
+        "pe_50": 38.84,
+        "pe_75": 46.36,
+        "pe_90": 57.72
       },
       {
         "date": "2009-06-15",
         "price": 61.0,
-        "pe": 19.4,
-        "pe_10": 40.33,
-        "pe_25": 45.0,
-        "pe_50": 54.21,
-        "pe_75": 62.43,
-        "pe_90": 74.6
+        "pe": 22.85,
+        "pe_10": 34.03,
+        "pe_25": 38.56,
+        "pe_50": 46.01,
+        "pe_75": 54.93,
+        "pe_90": 68.38
       },
       {
         "date": "2009-07-16",
         "price": 79.5,
-        "pe": 23.69,
-        "pe_10": 43.05,
-        "pe_25": 48.02,
-        "pe_50": 57.85,
-        "pe_75": 66.63,
-        "pe_90": 79.62
+        "pe": 27.7,
+        "pe_10": 36.59,
+        "pe_25": 41.45,
+        "pe_50": 49.47,
+        "pe_75": 59.05,
+        "pe_90": 73.52
       },
       {
         "date": "2009-08-16",
         "price": 69.5,
-        "pe": 19.49,
-        "pe_10": 45.74,
-        "pe_25": 51.03,
-        "pe_50": 61.48,
-        "pe_75": 70.8,
-        "pe_90": 84.61
+        "pe": 22.64,
+        "pe_10": 39.13,
+        "pe_25": 44.34,
+        "pe_50": 52.91,
+        "pe_75": 63.16,
+        "pe_90": 78.63
       },
       {
         "date": "2009-09-15",
         "price": 75.0,
-        "pe": 19.85,
-        "pe_10": 48.46,
-        "pe_25": 54.07,
-        "pe_50": 65.14,
-        "pe_75": 75.02,
-        "pe_90": 89.64
+        "pe": 22.94,
+        "pe_10": 41.68,
+        "pe_25": 47.22,
+        "pe_50": 56.35,
+        "pe_75": 67.27,
+        "pe_90": 83.75
       },
       {
         "date": "2009-10-16",
         "price": 70.6,
-        "pe": 17.7,
-        "pe_10": 51.16,
-        "pe_25": 57.08,
-        "pe_50": 68.77,
-        "pe_75": 79.2,
-        "pe_90": 94.64
+        "pe": 19.34,
+        "pe_10": 46.54,
+        "pe_25": 52.72,
+        "pe_50": 62.92,
+        "pe_75": 75.11,
+        "pe_90": 93.51
       },
       {
         "date": "2009-11-15",
         "price": 89.6,
-        "pe": 21.34,
-        "pe_10": 53.86,
-        "pe_25": 60.08,
-        "pe_50": 72.39,
-        "pe_75": 83.36,
-        "pe_90": 99.62
+        "pe": 22.23,
+        "pe_10": 51.38,
+        "pe_25": 58.21,
+        "pe_50": 69.47,
+        "pe_75": 82.93,
+        "pe_90": 103.24
       },
       {
         "date": "2009-12-16",
         "price": 94.5,
         "pe": 21.43,
-        "pe_10": 56.56,
-        "pe_25": 63.1,
-        "pe_50": 76.02,
-        "pe_75": 87.55,
-        "pe_90": 104.62
+        "pe_10": 56.21,
+        "pe_25": 63.69,
+        "pe_50": 76.0,
+        "pe_75": 90.73,
+        "pe_90": 112.95
       },
       {
         "date": "2010-01-16",
         "price": 87.8,
-        "pe": 20.27,
-        "pe_10": 55.56,
-        "pe_25": 61.98,
-        "pe_50": 74.68,
-        "pe_75": 86.0,
-        "pe_90": 102.77
+        "pe": 18.9,
+        "pe_10": 59.22,
+        "pe_25": 67.09,
+        "pe_50": 80.07,
+        "pe_75": 95.58,
+        "pe_90": 118.99
       },
       {
         "date": "2010-02-14",
         "price": 84.0,
-        "pe": 19.76,
-        "pe_10": 54.53,
-        "pe_25": 60.83,
-        "pe_50": 73.29,
-        "pe_75": 84.4,
-        "pe_90": 100.86
+        "pe": 17.2,
+        "pe_10": 62.26,
+        "pe_25": 70.53,
+        "pe_50": 84.17,
+        "pe_75": 100.48,
+        "pe_90": 125.1
       },
       {
         "date": "2010-03-16",
         "price": 85.7,
-        "pe": 20.54,
-        "pe_10": 53.52,
-        "pe_25": 59.71,
-        "pe_50": 71.93,
-        "pe_75": 82.84,
-        "pe_90": 98.99
+        "pe": 16.74,
+        "pe_10": 65.26,
+        "pe_25": 73.94,
+        "pe_50": 88.23,
+        "pe_75": 105.33,
+        "pe_90": 131.14
       },
       {
         "date": "2010-04-15",
         "price": 85.7,
-        "pe": 20.94,
-        "pe_10": 52.5,
-        "pe_25": 58.57,
-        "pe_50": 70.56,
-        "pe_75": 81.26,
-        "pe_90": 97.1
+        "pe": 16.58,
+        "pe_10": 65.89,
+        "pe_25": 74.65,
+        "pe_50": 89.09,
+        "pe_75": 106.35,
+        "pe_90": 132.4
       },
       {
         "date": "2010-05-16",
         "price": 77.5,
-        "pe": 19.31,
-        "pe_10": 51.48,
-        "pe_25": 57.43,
-        "pe_50": 69.19,
-        "pe_75": 79.69,
-        "pe_90": 95.22
+        "pe": 14.85,
+        "pe_10": 66.53,
+        "pe_25": 75.37,
+        "pe_50": 89.95,
+        "pe_75": 107.38,
+        "pe_90": 133.68
       },
       {
         "date": "2010-06-15",
         "price": 71.1,
-        "pe": 18.07,
-        "pe_10": 50.47,
-        "pe_25": 56.31,
-        "pe_50": 67.83,
-        "pe_75": 78.12,
-        "pe_90": 93.35
+        "pe": 13.49,
+        "pe_10": 67.19,
+        "pe_25": 76.12,
+        "pe_50": 90.84,
+        "pe_75": 108.44,
+        "pe_90": 135.01
       },
       {
         "date": "2010-07-16",
         "price": 73.1,
-        "pe": 18.96,
-        "pe_10": 49.45,
-        "pe_25": 55.17,
-        "pe_50": 66.47,
-        "pe_75": 76.55,
-        "pe_90": 91.48
+        "pe": 14.75,
+        "pe_10": 63.18,
+        "pe_25": 71.58,
+        "pe_50": 85.42,
+        "pe_75": 101.97,
+        "pe_90": 126.95
       },
       {
         "date": "2010-08-16",
         "price": 63.3,
-        "pe": 16.76,
-        "pe_10": 48.45,
-        "pe_25": 54.05,
-        "pe_50": 65.11,
-        "pe_75": 74.99,
-        "pe_90": 89.61
+        "pe": 13.63,
+        "pe_10": 59.2,
+        "pe_25": 67.07,
+        "pe_50": 80.04,
+        "pe_75": 95.55,
+        "pe_90": 118.96
       },
       {
         "date": "2010-09-15",
         "price": 72.2,
-        "pe": 19.53,
-        "pe_10": 47.42,
-        "pe_25": 52.9,
-        "pe_50": 63.73,
-        "pe_75": 73.4,
-        "pe_90": 87.71
+        "pe": 16.67,
+        "pe_10": 55.21,
+        "pe_25": 62.55,
+        "pe_50": 74.65,
+        "pe_75": 89.11,
+        "pe_90": 110.94
       },
       {
         "date": "2010-10-16",
         "price": 72.6,
-        "pe": 20.06,
-        "pe_10": 46.42,
-        "pe_25": 51.79,
-        "pe_50": 62.39,
-        "pe_75": 71.86,
-        "pe_90": 85.87
+        "pe": 17.97,
+        "pe_10": 51.5,
+        "pe_25": 58.35,
+        "pe_50": 69.63,
+        "pe_75": 83.12,
+        "pe_90": 103.49
       },
       {
         "date": "2010-11-15",
         "price": 71.3,
-        "pe": 20.15,
-        "pe_10": 45.39,
-        "pe_25": 50.64,
-        "pe_50": 61.0,
-        "pe_75": 70.26,
-        "pe_90": 83.95
+        "pe": 19.01,
+        "pe_10": 47.81,
+        "pe_25": 54.17,
+        "pe_50": 64.64,
+        "pe_75": 77.17,
+        "pe_90": 96.07
       },
       {
         "date": "2010-12-16",
         "price": 69.6,
         "pe": 20.12,
-        "pe_10": 44.37,
-        "pe_25": 49.5,
-        "pe_50": 59.64,
-        "pe_75": 68.68,
-        "pe_90": 82.07
+        "pe_10": 44.1,
+        "pe_25": 49.96,
+        "pe_50": 59.62,
+        "pe_75": 71.17,
+        "pe_90": 88.61
       },
       {
         "date": "2011-01-16",
         "price": 68.4,
-        "pe": 19.87,
-        "pe_10": 44.16,
-        "pe_25": 49.26,
-        "pe_50": 59.35,
-        "pe_75": 68.35,
-        "pe_90": 81.67
+        "pe": 21.62,
+        "pe_10": 40.33,
+        "pe_25": 45.69,
+        "pe_50": 54.53,
+        "pe_75": 65.09,
+        "pe_90": 81.04
       },
       {
         "date": "2011-02-14",
         "price": 58.2,
-        "pe": 17.0,
-        "pe_10": 43.91,
-        "pe_25": 48.99,
-        "pe_50": 59.02,
-        "pe_75": 67.97,
-        "pe_90": 81.23
+        "pe": 20.3,
+        "pe_10": 36.55,
+        "pe_25": 41.41,
+        "pe_50": 49.41,
+        "pe_75": 58.99,
+        "pe_90": 73.44
       },
       {
         "date": "2011-03-16",
         "price": 52.8,
-        "pe": 15.51,
-        "pe_10": 43.67,
-        "pe_25": 48.71,
-        "pe_50": 58.69,
-        "pe_75": 67.59,
-        "pe_90": 80.77
+        "pe": 20.54,
+        "pe_10": 32.77,
+        "pe_25": 37.13,
+        "pe_50": 44.3,
+        "pe_75": 52.89,
+        "pe_90": 65.85
       },
       {
         "date": "2011-04-15",
         "price": 57.0,
-        "pe": 16.83,
-        "pe_10": 43.44,
-        "pe_25": 48.47,
-        "pe_50": 58.39,
-        "pe_75": 67.25,
-        "pe_90": 80.36
+        "pe": 21.73,
+        "pe_10": 33.44,
+        "pe_25": 37.88,
+        "pe_50": 45.21,
+        "pe_75": 53.97,
+        "pe_90": 67.19
       },
       {
         "date": "2011-05-16",
         "price": 64.3,
-        "pe": 19.09,
-        "pe_10": 43.2,
-        "pe_25": 48.2,
-        "pe_50": 58.07,
-        "pe_75": 66.88,
-        "pe_90": 79.92
+        "pe": 24.02,
+        "pe_10": 34.13,
+        "pe_25": 38.66,
+        "pe_50": 46.14,
+        "pe_75": 55.08,
+        "pe_90": 68.57
       },
       {
         "date": "2011-06-15",
         "price": 55.4,
-        "pe": 16.54,
-        "pe_10": 42.96,
-        "pe_25": 47.93,
-        "pe_50": 57.74,
-        "pe_75": 66.5,
-        "pe_90": 79.47
+        "pe": 20.29,
+        "pe_10": 34.81,
+        "pe_25": 39.43,
+        "pe_50": 47.06,
+        "pe_75": 56.18,
+        "pe_90": 69.94
       },
       {
         "date": "2011-07-16",
         "price": 52.6,
-        "pe": 15.79,
-        "pe_10": 42.73,
-        "pe_25": 47.67,
-        "pe_50": 57.43,
-        "pe_75": 66.14,
-        "pe_90": 79.04
+        "pe": 19.39,
+        "pe_10": 34.58,
+        "pe_25": 39.18,
+        "pe_50": 46.75,
+        "pe_75": 55.81,
+        "pe_90": 69.49
       },
       {
         "date": "2011-08-16",
         "price": 45.25,
-        "pe": 13.66,
-        "pe_10": 42.49,
-        "pe_25": 47.4,
-        "pe_50": 57.11,
-        "pe_75": 65.77,
-        "pe_90": 78.59
+        "pe": 16.78,
+        "pe_10": 34.38,
+        "pe_25": 38.95,
+        "pe_50": 46.48,
+        "pe_75": 55.48,
+        "pe_90": 69.08
       },
       {
         "date": "2011-09-15",
         "price": 51.9,
-        "pe": 15.75,
-        "pe_10": 42.27,
-        "pe_25": 47.15,
-        "pe_50": 56.81,
-        "pe_75": 65.43,
-        "pe_90": 78.18
+        "pe": 19.37,
+        "pe_10": 34.16,
+        "pe_25": 38.7,
+        "pe_50": 46.18,
+        "pe_75": 55.13,
+        "pe_90": 68.63
       },
       {
         "date": "2011-10-16",
         "price": 50.7,
-        "pe": 15.47,
-        "pe_10": 42.04,
-        "pe_25": 46.9,
-        "pe_50": 56.5,
-        "pe_75": 65.07,
-        "pe_90": 77.76
+        "pe": 17.69,
+        "pe_10": 36.54,
+        "pe_25": 41.39,
+        "pe_50": 49.4,
+        "pe_75": 58.97,
+        "pe_90": 73.41
       },
       {
         "date": "2011-11-15",
         "price": 43.8,
-        "pe": 13.44,
-        "pe_10": 41.8,
-        "pe_25": 46.64,
-        "pe_50": 56.18,
-        "pe_75": 64.71,
-        "pe_90": 77.32
+        "pe": 14.34,
+        "pe_10": 38.94,
+        "pe_25": 44.11,
+        "pe_50": 52.64,
+        "pe_75": 62.84,
+        "pe_90": 78.24
       },
       {
         "date": "2011-12-16",
         "price": 44.35,
         "pe": 13.69,
-        "pe_10": 41.55,
-        "pe_25": 46.36,
-        "pe_50": 55.85,
-        "pe_75": 64.32,
-        "pe_90": 76.86
+        "pe_10": 41.3,
+        "pe_25": 46.79,
+        "pe_50": 55.83,
+        "pe_75": 66.65,
+        "pe_90": 82.98
       },
       {
         "date": "2012-01-16",
         "price": 54.8,
-        "pe": 16.38,
-        "pe_10": 42.91,
-        "pe_25": 47.87,
-        "pe_50": 57.68,
-        "pe_75": 66.43,
-        "pe_90": 79.38
+        "pe": 15.98,
+        "pe_10": 43.72,
+        "pe_25": 49.53,
+        "pe_50": 59.1,
+        "pe_75": 70.56,
+        "pe_90": 87.84
       },
       {
         "date": "2012-02-15",
         "price": 62.4,
-        "pe": 18.09,
-        "pe_10": 44.25,
-        "pe_25": 49.36,
-        "pe_50": 59.47,
-        "pe_75": 68.49,
-        "pe_90": 81.84
+        "pe": 17.24,
+        "pe_10": 46.14,
+        "pe_25": 52.27,
+        "pe_50": 62.38,
+        "pe_75": 74.47,
+        "pe_90": 92.71
       },
       {
         "date": "2012-03-16",
         "price": 53.9,
-        "pe": 15.17,
-        "pe_10": 45.58,
-        "pe_25": 50.84,
-        "pe_50": 61.25,
-        "pe_75": 70.55,
-        "pe_90": 84.3
+        "pe": 14.15,
+        "pe_10": 48.56,
+        "pe_25": 55.01,
+        "pe_50": 65.65,
+        "pe_75": 78.37,
+        "pe_90": 97.57
       },
       {
         "date": "2012-04-15",
         "price": 63.4,
-        "pe": 17.33,
-        "pe_10": 46.93,
-        "pe_25": 52.35,
-        "pe_50": 63.07,
-        "pe_75": 72.64,
-        "pe_90": 86.8
+        "pe": 16.77,
+        "pe_10": 48.19,
+        "pe_25": 54.6,
+        "pe_50": 65.16,
+        "pe_75": 77.79,
+        "pe_90": 96.84
       },
       {
         "date": "2012-05-16",
         "price": 59.4,
-        "pe": 15.79,
-        "pe_10": 48.25,
-        "pe_25": 53.83,
-        "pe_50": 64.85,
-        "pe_75": 74.69,
-        "pe_90": 89.25
+        "pe": 15.84,
+        "pe_10": 47.8,
+        "pe_25": 54.16,
+        "pe_50": 64.63,
+        "pe_75": 77.16,
+        "pe_90": 96.06
       },
       {
         "date": "2012-06-15",
         "price": 54.1,
-        "pe": 13.99,
-        "pe_10": 49.6,
-        "pe_25": 55.34,
-        "pe_50": 66.67,
-        "pe_75": 76.78,
-        "pe_90": 91.75
+        "pe": 14.54,
+        "pe_10": 47.43,
+        "pe_25": 53.74,
+        "pe_50": 64.13,
+        "pe_75": 76.55,
+        "pe_90": 95.31
       },
       {
         "date": "2012-07-16",
         "price": 52.1,
-        "pe": 13.12,
-        "pe_10": 50.94,
-        "pe_25": 56.83,
-        "pe_50": 68.46,
-        "pe_75": 78.84,
-        "pe_90": 94.22
+        "pe": 13.53,
+        "pe_10": 49.09,
+        "pe_25": 55.61,
+        "pe_50": 66.37,
+        "pe_75": 79.23,
+        "pe_90": 98.64
       },
       {
         "date": "2012-08-16",
         "price": 56.4,
-        "pe": 13.83,
-        "pe_10": 52.31,
-        "pe_25": 58.36,
-        "pe_50": 70.31,
-        "pe_75": 80.97,
-        "pe_90": 96.76
+        "pe": 14.17,
+        "pe_10": 50.74,
+        "pe_25": 57.48,
+        "pe_50": 68.6,
+        "pe_75": 81.89,
+        "pe_90": 101.95
       },
       {
         "date": "2012-09-15",
         "price": 58.1,
-        "pe": 13.9,
-        "pe_10": 53.62,
-        "pe_25": 59.81,
-        "pe_50": 72.06,
-        "pe_75": 82.99,
-        "pe_90": 99.17
+        "pe": 14.14,
+        "pe_10": 52.38,
+        "pe_25": 59.34,
+        "pe_50": 70.82,
+        "pe_75": 84.54,
+        "pe_90": 105.25
       },
       {
         "date": "2012-10-16",
         "price": 55.0,
-        "pe": 12.83,
-        "pe_10": 54.99,
-        "pe_25": 61.34,
-        "pe_50": 73.9,
-        "pe_75": 85.11,
-        "pe_90": 101.71
+        "pe": 12.98,
+        "pe_10": 54.02,
+        "pe_25": 61.2,
+        "pe_50": 73.03,
+        "pe_75": 87.18,
+        "pe_90": 108.54
       },
       {
         "date": "2012-11-15",
         "price": 58.6,
-        "pe": 13.35,
-        "pe_10": 56.3,
-        "pe_25": 62.81,
-        "pe_50": 75.68,
-        "pe_75": 87.15,
-        "pe_90": 104.15
+        "pe": 13.42,
+        "pe_10": 55.67,
+        "pe_25": 63.06,
+        "pe_50": 75.26,
+        "pe_75": 89.84,
+        "pe_90": 111.85
       },
       {
         "date": "2012-12-16",
         "price": 61.3,
         "pe": 13.64,
-        "pe_10": 57.65,
-        "pe_25": 64.31,
-        "pe_50": 77.48,
-        "pe_75": 89.23,
-        "pe_90": 106.63
+        "pe_10": 57.29,
+        "pe_25": 64.91,
+        "pe_50": 77.46,
+        "pe_75": 92.47,
+        "pe_90": 115.12
       },
       {
         "date": "2013-01-16",
         "price": 66.2,
-        "pe": 14.32,
-        "pe_10": 59.3,
-        "pe_25": 66.15,
-        "pe_50": 79.7,
-        "pe_75": 91.79,
-        "pe_90": 109.68
+        "pe": 14.38,
+        "pe_10": 58.69,
+        "pe_25": 66.49,
+        "pe_50": 79.34,
+        "pe_75": 94.72,
+        "pe_90": 117.92
       },
       {
         "date": "2013-02-14",
         "price": 70.6,
-        "pe": 14.87,
-        "pe_10": 60.9,
-        "pe_25": 67.94,
-        "pe_50": 81.85,
-        "pe_75": 94.27,
-        "pe_90": 112.65
+        "pe": 14.98,
+        "pe_10": 60.08,
+        "pe_25": 68.07,
+        "pe_50": 81.23,
+        "pe_75": 96.97,
+        "pe_90": 120.72
       },
       {
         "date": "2013-03-16",
         "price": 69.5,
-        "pe": 14.25,
-        "pe_10": 62.56,
-        "pe_25": 69.79,
-        "pe_50": 84.08,
-        "pe_75": 96.84,
-        "pe_90": 115.72
+        "pe": 14.42,
+        "pe_10": 61.44,
+        "pe_25": 69.61,
+        "pe_50": 83.07,
+        "pe_75": 99.17,
+        "pe_90": 123.46
       },
       {
         "date": "2013-04-15",
         "price": 85.0,
-        "pe": 16.99,
-        "pe_10": 64.17,
-        "pe_25": 71.59,
-        "pe_50": 86.25,
-        "pe_75": 99.33,
-        "pe_90": 118.7
+        "pe": 17.15,
+        "pe_10": 63.18,
+        "pe_25": 71.58,
+        "pe_50": 85.42,
+        "pe_75": 101.98,
+        "pe_90": 126.95
       },
       {
         "date": "2013-05-16",
         "price": 76.1,
-        "pe": 14.83,
-        "pe_10": 65.82,
-        "pe_25": 73.43,
-        "pe_50": 88.47,
-        "pe_75": 101.89,
-        "pe_90": 121.75
+        "pe": 14.94,
+        "pe_10": 64.93,
+        "pe_25": 73.57,
+        "pe_50": 87.79,
+        "pe_75": 104.8,
+        "pe_90": 130.48
       },
       {
         "date": "2013-06-15",
         "price": 71.0,
-        "pe": 13.5,
-        "pe_10": 67.46,
-        "pe_25": 75.26,
-        "pe_50": 90.67,
-        "pe_75": 104.42,
-        "pe_90": 124.78
+        "pe": 13.58,
+        "pe_10": 66.65,
+        "pe_25": 75.51,
+        "pe_50": 90.11,
+        "pe_75": 107.57,
+        "pe_90": 133.92
       },
       {
         "date": "2013-07-16",
         "price": 71.8,
-        "pe": 13.33,
-        "pe_10": 69.09,
-        "pe_25": 77.08,
-        "pe_50": 92.86,
-        "pe_75": 106.95,
-        "pe_90": 127.8
+        "pe": 13.44,
+        "pe_10": 68.1,
+        "pe_25": 77.16,
+        "pe_50": 92.07,
+        "pe_75": 109.92,
+        "pe_90": 136.84
       },
       {
         "date": "2013-08-16",
         "price": 66.4,
-        "pe": 12.05,
-        "pe_10": 70.68,
-        "pe_25": 78.85,
-        "pe_50": 95.0,
-        "pe_75": 109.41,
-        "pe_90": 130.74
+        "pe": 12.17,
+        "pe_10": 69.55,
+        "pe_25": 78.8,
+        "pe_50": 94.03,
+        "pe_75": 112.26,
+        "pe_90": 139.76
       },
       {
         "date": "2013-09-15",
         "price": 72.2,
-        "pe": 12.8,
-        "pe_10": 72.35,
-        "pe_25": 80.72,
-        "pe_50": 97.24,
-        "pe_75": 111.99,
-        "pe_90": 133.83
+        "pe": 12.96,
+        "pe_10": 71.02,
+        "pe_25": 80.46,
+        "pe_50": 96.02,
+        "pe_75": 114.62,
+        "pe_90": 142.7
       },
       {
         "date": "2013-10-16",
         "price": 68.4,
-        "pe": 11.86,
-        "pe_10": 73.98,
-        "pe_25": 82.53,
-        "pe_50": 99.43,
-        "pe_75": 114.51,
-        "pe_90": 136.83
+        "pe": 11.96,
+        "pe_10": 72.91,
+        "pe_25": 82.6,
+        "pe_50": 98.57,
+        "pe_75": 117.67,
+        "pe_90": 146.49
       },
       {
         "date": "2013-11-15",
         "price": 71.7,
-        "pe": 12.17,
-        "pe_10": 75.57,
-        "pe_25": 84.31,
-        "pe_50": 101.57,
-        "pe_75": 116.98,
-        "pe_90": 139.78
+        "pe": 12.21,
+        "pe_10": 74.86,
+        "pe_25": 84.81,
+        "pe_50": 101.21,
+        "pe_75": 120.82,
+        "pe_90": 150.42
       },
       {
         "date": "2013-12-16",
         "price": 80.0,
         "pe": 13.29,
-        "pe_10": 77.21,
-        "pe_25": 86.14,
-        "pe_50": 103.78,
-        "pe_75": 119.52,
-        "pe_90": 142.82
+        "pe_10": 76.74,
+        "pe_25": 86.94,
+        "pe_50": 103.75,
+        "pe_75": 123.85,
+        "pe_90": 154.19
       },
       {
         "date": "2014-01-16",
         "price": 83.0,
-        "pe": 13.47,
-        "pe_10": 79.04,
-        "pe_25": 88.18,
-        "pe_50": 106.23,
-        "pe_75": 122.34,
-        "pe_90": 146.2
+        "pe": 13.67,
+        "pe_10": 77.4,
+        "pe_25": 87.69,
+        "pe_50": 104.65,
+        "pe_75": 124.93,
+        "pe_90": 155.53
       },
       {
         "date": "2014-02-14",
         "price": 90.0,
-        "pe": 14.28,
-        "pe_10": 80.84,
-        "pe_25": 90.19,
-        "pe_50": 108.66,
-        "pe_75": 125.14,
-        "pe_90": 149.53
+        "pe": 14.71,
+        "pe_10": 78.0,
+        "pe_25": 88.36,
+        "pe_50": 105.45,
+        "pe_75": 125.88,
+        "pe_90": 156.72
       },
       {
         "date": "2014-03-16",
         "price": 91.8,
-        "pe": 14.25,
-        "pe_10": 82.63,
-        "pe_25": 92.19,
-        "pe_50": 111.06,
-        "pe_75": 127.91,
-        "pe_90": 152.85
+        "pe": 14.88,
+        "pe_10": 78.65,
+        "pe_25": 89.1,
+        "pe_50": 106.33,
+        "pe_75": 126.93,
+        "pe_90": 158.03
       },
       {
         "date": "2014-04-15",
         "price": 86.1,
-        "pe": 13.08,
-        "pe_10": 84.43,
-        "pe_25": 94.2,
-        "pe_50": 113.48,
-        "pe_75": 130.7,
-        "pe_90": 156.18
+        "pe": 13.6,
+        "pe_10": 80.71,
+        "pe_25": 91.43,
+        "pe_50": 109.11,
+        "pe_75": 130.26,
+        "pe_90": 162.17
       },
       {
         "date": "2014-05-16",
         "price": 92.5,
-        "pe": 13.76,
-        "pe_10": 86.23,
-        "pe_25": 96.2,
-        "pe_50": 115.89,
-        "pe_75": 133.47,
-        "pe_90": 159.5
+        "pe": 14.25,
+        "pe_10": 82.75,
+        "pe_25": 93.75,
+        "pe_50": 111.88,
+        "pe_75": 133.56,
+        "pe_90": 166.27
       },
       {
         "date": "2014-06-15",
         "price": 94.6,
-        "pe": 13.78,
-        "pe_10": 88.06,
-        "pe_25": 98.24,
-        "pe_50": 118.35,
-        "pe_75": 136.31,
-        "pe_90": 162.88
+        "pe": 14.23,
+        "pe_10": 84.75,
+        "pe_25": 96.01,
+        "pe_50": 114.58,
+        "pe_75": 136.78,
+        "pe_90": 170.29
       },
       {
         "date": "2014-07-16",
         "price": 95.9,
-        "pe": 13.69,
-        "pe_10": 89.85,
-        "pe_25": 100.24,
-        "pe_50": 120.77,
-        "pe_75": 139.09,
-        "pe_90": 166.2
+        "pe": 13.51,
+        "pe_10": 90.49,
+        "pe_25": 102.52,
+        "pe_50": 122.34,
+        "pe_75": 146.05,
+        "pe_90": 181.83
       },
       {
         "date": "2014-08-16",
         "price": 109.0,
-        "pe": 15.25,
-        "pe_10": 91.68,
-        "pe_25": 102.28,
-        "pe_50": 123.22,
-        "pe_75": 141.91,
-        "pe_90": 169.58
+        "pe": 14.45,
+        "pe_10": 96.16,
+        "pe_25": 108.94,
+        "pe_50": 130.01,
+        "pe_75": 155.2,
+        "pe_90": 193.22
       },
       {
         "date": "2014-09-15",
         "price": 108.0,
-        "pe": 14.82,
-        "pe_10": 93.48,
-        "pe_25": 104.28,
-        "pe_50": 125.64,
-        "pe_75": 144.69,
-        "pe_90": 172.9
+        "pe": 13.52,
+        "pe_10": 101.83,
+        "pe_25": 115.37,
+        "pe_50": 137.68,
+        "pe_75": 164.36,
+        "pe_90": 204.62
       },
       {
         "date": "2014-10-16",
         "price": 100.5,
-        "pe": 13.53,
-        "pe_10": 95.28,
-        "pe_25": 106.29,
-        "pe_50": 128.06,
-        "pe_75": 147.48,
-        "pe_90": 176.24
+        "pe": 12.73,
+        "pe_10": 100.64,
+        "pe_25": 114.02,
+        "pe_50": 136.07,
+        "pe_75": 162.43,
+        "pe_90": 202.22
       },
       {
         "date": "2014-11-15",
         "price": 103.0,
-        "pe": 13.61,
-        "pe_10": 97.07,
-        "pe_25": 108.3,
-        "pe_50": 130.47,
-        "pe_75": 150.26,
-        "pe_90": 179.56
+        "pe": 13.2,
+        "pe_10": 99.47,
+        "pe_25": 112.7,
+        "pe_50": 134.49,
+        "pe_75": 160.55,
+        "pe_90": 199.87
       },
       {
         "date": "2014-12-16",
         "price": 106.0,
         "pe": 13.75,
-        "pe_10": 98.88,
-        "pe_25": 110.32,
-        "pe_50": 132.9,
-        "pe_75": 153.06,
-        "pe_90": 182.91
+        "pe_10": 98.28,
+        "pe_25": 111.34,
+        "pe_50": 132.87,
+        "pe_75": 158.61,
+        "pe_90": 197.47
       },
       {
         "date": "2015-01-16",
         "price": 97.1,
-        "pe": 13.0,
-        "pe_10": 95.81,
-        "pe_25": 106.88,
-        "pe_50": 128.77,
-        "pe_75": 148.3,
-        "pe_90": 177.21
+        "pe": 12.68,
+        "pe_10": 97.62,
+        "pe_25": 110.6,
+        "pe_50": 131.98,
+        "pe_75": 157.56,
+        "pe_90": 196.15
       },
       {
         "date": "2015-02-14",
         "price": 98.4,
-        "pe": 13.62,
-        "pe_10": 92.67,
-        "pe_25": 103.39,
-        "pe_50": 124.55,
-        "pe_75": 143.45,
-        "pe_90": 171.41
+        "pe": 12.93,
+        "pe_10": 97.01,
+        "pe_25": 109.91,
+        "pe_50": 131.16,
+        "pe_75": 156.58,
+        "pe_90": 194.94
       },
       {
         "date": "2015-03-16",
         "price": 100.0,
-        "pe": 14.32,
-        "pe_10": 89.57,
-        "pe_25": 99.93,
-        "pe_50": 120.39,
-        "pe_75": 138.65,
-        "pe_90": 165.68
+        "pe": 13.23,
+        "pe_10": 96.36,
+        "pe_25": 109.16,
+        "pe_50": 130.27,
+        "pe_75": 155.52,
+        "pe_90": 193.61
       },
       {
         "date": "2015-04-15",
         "price": 96.0,
-        "pe": 14.24,
-        "pe_10": 86.47,
-        "pe_25": 96.47,
-        "pe_50": 116.22,
-        "pe_75": 133.85,
-        "pe_90": 159.95
+        "pe": 13.46,
+        "pe_10": 90.92,
+        "pe_25": 103.01,
+        "pe_50": 122.92,
+        "pe_75": 146.75,
+        "pe_90": 182.69
       },
       {
         "date": "2015-05-16",
         "price": 93.7,
-        "pe": 14.41,
-        "pe_10": 83.41,
-        "pe_25": 93.05,
-        "pe_50": 112.1,
-        "pe_75": 129.11,
-        "pe_90": 154.28
+        "pe": 13.99,
+        "pe_10": 85.38,
+        "pe_25": 96.73,
+        "pe_50": 115.43,
+        "pe_75": 137.8,
+        "pe_90": 171.56
       },
       {
         "date": "2015-06-15",
         "price": 79.1,
-        "pe": 12.64,
-        "pe_10": 80.27,
-        "pe_25": 89.55,
-        "pe_50": 107.89,
-        "pe_75": 124.25,
-        "pe_90": 148.48
+        "pe": 12.62,
+        "pe_10": 79.9,
+        "pe_25": 90.52,
+        "pe_50": 108.03,
+        "pe_75": 128.96,
+        "pe_90": 160.55
       },
       {
         "date": "2015-07-16",
         "price": 62.1,
-        "pe": 10.32,
-        "pe_10": 77.19,
-        "pe_25": 86.11,
-        "pe_50": 103.74,
-        "pe_75": 119.48,
-        "pe_90": 142.77
+        "pe": 10.95,
+        "pe_10": 72.3,
+        "pe_25": 81.91,
+        "pe_50": 97.74,
+        "pe_75": 116.69,
+        "pe_90": 145.27
       },
       {
         "date": "2015-08-16",
         "price": 58.4,
-        "pe": 10.11,
-        "pe_10": 74.09,
-        "pe_25": 82.66,
-        "pe_50": 99.59,
-        "pe_75": 114.69,
-        "pe_90": 137.05
+        "pe": 11.5,
+        "pe_10": 64.74,
+        "pe_25": 73.34,
+        "pe_50": 87.52,
+        "pe_75": 104.49,
+        "pe_90": 130.08
       },
       {
         "date": "2015-09-15",
         "price": 55.8,
-        "pe": 10.08,
-        "pe_10": 71.01,
-        "pe_25": 79.22,
-        "pe_50": 95.44,
-        "pe_75": 109.91,
-        "pe_90": 131.34
+        "pe": 12.46,
+        "pe_10": 57.09,
+        "pe_25": 64.68,
+        "pe_50": 77.18,
+        "pe_75": 92.14,
+        "pe_90": 114.71
       },
       {
         "date": "2015-10-16",
         "price": 68.1,
-        "pe": 12.87,
-        "pe_10": 67.87,
-        "pe_25": 75.72,
-        "pe_50": 91.22,
-        "pe_75": 105.06,
-        "pe_90": 125.54
+        "pe": 14.84,
+        "pe_10": 58.5,
+        "pe_25": 66.28,
+        "pe_50": 79.09,
+        "pe_75": 94.42,
+        "pe_90": 117.55
       },
       {
         "date": "2015-11-15",
         "price": 67.4,
-        "pe": 13.34,
-        "pe_10": 64.81,
-        "pe_25": 72.3,
-        "pe_50": 87.1,
-        "pe_75": 100.32,
-        "pe_90": 119.87
+        "pe": 14.34,
+        "pe_10": 59.92,
+        "pe_25": 67.88,
+        "pe_50": 81.01,
+        "pe_75": 96.71,
+        "pe_90": 120.39
       },
       {
         "date": "2015-12-16",
         "price": 78.7,
         "pe": 16.36,
-        "pe_10": 61.7,
-        "pe_25": 68.84,
-        "pe_50": 82.93,
-        "pe_75": 95.51,
-        "pe_90": 114.13
+        "pe_10": 61.32,
+        "pe_25": 69.48,
+        "pe_50": 82.91,
+        "pe_75": 98.98,
+        "pe_90": 123.22
       },
       {
         "date": "2016-01-16",
         "price": 82.2,
-        "pe": 16.74,
-        "pe_10": 62.99,
-        "pe_25": 70.27,
-        "pe_50": 84.66,
-        "pe_75": 97.5,
-        "pe_90": 116.5
+        "pe": 17.45,
+        "pe_10": 60.05,
+        "pe_25": 68.03,
+        "pe_50": 81.19,
+        "pe_75": 96.92,
+        "pe_90": 120.66
       },
       {
         "date": "2016-02-15",
         "price": 83.9,
-        "pe": 16.74,
-        "pe_10": 64.29,
-        "pe_25": 71.72,
-        "pe_50": 86.41,
-        "pe_75": 99.51,
-        "pe_90": 118.91
+        "pe": 18.2,
+        "pe_10": 58.77,
+        "pe_25": 66.58,
+        "pe_50": 79.45,
+        "pe_75": 94.85,
+        "pe_90": 118.08
       },
       {
         "date": "2016-03-16",
         "price": 88.5,
-        "pe": 17.31,
-        "pe_10": 65.58,
-        "pe_25": 73.16,
-        "pe_50": 88.14,
-        "pe_75": 101.51,
-        "pe_90": 121.3
+        "pe": 19.62,
+        "pe_10": 57.5,
+        "pe_25": 65.15,
+        "pe_50": 77.74,
+        "pe_75": 92.81,
+        "pe_90": 115.54
       },
       {
         "date": "2016-04-15",
         "price": 90.4,
-        "pe": 17.34,
-        "pe_10": 66.87,
-        "pe_25": 74.6,
-        "pe_50": 89.88,
-        "pe_75": 103.51,
-        "pe_90": 123.69
+        "pe": 18.29,
+        "pe_10": 63.01,
+        "pe_25": 71.38,
+        "pe_50": 85.19,
+        "pe_75": 101.69,
+        "pe_90": 126.6
       },
       {
         "date": "2016-05-16",
         "price": 88.4,
-        "pe": 16.63,
-        "pe_10": 68.18,
-        "pe_25": 76.07,
-        "pe_50": 91.64,
-        "pe_75": 105.54,
-        "pe_90": 126.12
+        "pe": 16.44,
+        "pe_10": 68.55,
+        "pe_25": 77.66,
+        "pe_50": 92.67,
+        "pe_75": 110.63,
+        "pe_90": 137.74
       },
       {
         "date": "2016-06-15",
         "price": 99.9,
-        "pe": 18.45,
-        "pe_10": 69.45,
-        "pe_25": 77.48,
-        "pe_50": 93.35,
-        "pe_75": 107.51,
-        "pe_90": 128.47
+        "pe": 17.19,
+        "pe_10": 74.09,
+        "pe_25": 83.93,
+        "pe_50": 100.16,
+        "pe_75": 119.57,
+        "pe_90": 148.86
       },
       {
         "date": "2016-07-16",
         "price": 115.5,
-        "pe": 20.94,
-        "pe_10": 70.75,
-        "pe_25": 78.93,
-        "pe_50": 95.09,
-        "pe_75": 109.52,
-        "pe_90": 130.87
+        "pe": 19.55,
+        "pe_10": 75.31,
+        "pe_25": 85.33,
+        "pe_50": 101.82,
+        "pe_75": 121.56,
+        "pe_90": 151.33
       },
       {
         "date": "2016-08-16",
         "price": 127.0,
-        "pe": 22.61,
-        "pe_10": 72.05,
-        "pe_25": 80.38,
-        "pe_50": 96.84,
-        "pe_75": 111.53,
-        "pe_90": 133.27
+        "pe": 21.15,
+        "pe_10": 76.55,
+        "pe_25": 86.72,
+        "pe_50": 103.49,
+        "pe_75": 123.55,
+        "pe_90": 153.81
       },
       {
         "date": "2016-09-15",
         "price": 103.0,
-        "pe": 18.01,
-        "pe_10": 73.36,
-        "pe_25": 81.84,
-        "pe_50": 98.6,
-        "pe_75": 113.55,
-        "pe_90": 135.69
+        "pe": 16.89,
+        "pe_10": 77.74,
+        "pe_25": 88.07,
+        "pe_50": 105.1,
+        "pe_75": 125.47,
+        "pe_90": 156.21
       },
       {
         "date": "2016-10-16",
         "price": 107.0,
-        "pe": 18.39,
-        "pe_10": 74.63,
-        "pe_25": 83.26,
-        "pe_50": 100.31,
-        "pe_75": 115.52,
-        "pe_90": 138.05
+        "pe": 17.62,
+        "pe_10": 77.41,
+        "pe_25": 87.7,
+        "pe_50": 104.66,
+        "pe_75": 124.94,
+        "pe_90": 155.55
       },
       {
         "date": "2016-11-15",
         "price": 99.0,
-        "pe": 16.73,
-        "pe_10": 75.9,
-        "pe_25": 84.68,
-        "pe_50": 102.02,
-        "pe_75": 117.49,
-        "pe_90": 140.4
+        "pe": 16.37,
+        "pe_10": 77.1,
+        "pe_25": 87.34,
+        "pe_50": 104.23,
+        "pe_75": 124.43,
+        "pe_90": 154.91
       },
       {
         "date": "2016-12-16",
         "price": 102.0,
         "pe": 16.94,
-        "pe_10": 77.23,
-        "pe_25": 86.16,
-        "pe_50": 103.81,
-        "pe_75": 119.55,
-        "pe_90": 142.86
+        "pe_10": 76.76,
+        "pe_25": 86.96,
+        "pe_50": 103.78,
+        "pe_75": 123.89,
+        "pe_90": 154.23
       },
       {
         "date": "2017-01-16",
         "price": 109.0,
-        "pe": 17.94,
-        "pe_10": 77.93,
-        "pe_25": 86.94,
-        "pe_50": 104.75,
-        "pe_75": 120.64,
-        "pe_90": 144.15
+        "pe": 18.3,
+        "pe_10": 75.93,
+        "pe_25": 86.02,
+        "pe_50": 102.66,
+        "pe_75": 122.55,
+        "pe_90": 152.57
       },
       {
         "date": "2017-02-14",
         "price": 114.5,
-        "pe": 18.66,
-        "pe_10": 78.71,
-        "pe_25": 87.81,
-        "pe_50": 105.79,
-        "pe_75": 121.83,
-        "pe_90": 145.59
+        "pe": 19.43,
+        "pe_10": 75.12,
+        "pe_25": 85.11,
+        "pe_50": 101.56,
+        "pe_75": 121.25,
+        "pe_90": 150.95
       },
       {
         "date": "2017-03-16",
         "price": 108.5,
-        "pe": 17.52,
-        "pe_10": 79.44,
-        "pe_25": 88.62,
-        "pe_50": 106.77,
-        "pe_75": 122.96,
-        "pe_90": 146.93
+        "pe": 18.61,
+        "pe_10": 74.32,
+        "pe_25": 84.2,
+        "pe_50": 100.48,
+        "pe_75": 119.96,
+        "pe_90": 149.34
       },
       {
         "date": "2017-04-15",
         "price": 102.0,
-        "pe": 16.32,
-        "pe_10": 80.17,
-        "pe_25": 89.44,
-        "pe_50": 107.75,
-        "pe_75": 124.09,
-        "pe_90": 148.29
+        "pe": 17.65,
+        "pe_10": 73.67,
+        "pe_25": 83.46,
+        "pe_50": 99.6,
+        "pe_75": 118.9,
+        "pe_90": 148.03
       },
       {
         "date": "2017-05-16",
         "price": 100.5,
-        "pe": 15.93,
-        "pe_10": 80.92,
-        "pe_25": 90.28,
-        "pe_50": 108.76,
-        "pe_75": 125.26,
-        "pe_90": 149.68
+        "pe": 17.54,
+        "pe_10": 73.04,
+        "pe_25": 82.75,
+        "pe_50": 98.75,
+        "pe_75": 117.89,
+        "pe_90": 146.77
       },
       {
         "date": "2017-06-15",
         "price": 109.5,
-        "pe": 17.2,
-        "pe_10": 81.66,
-        "pe_25": 91.1,
-        "pe_50": 109.75,
-        "pe_75": 126.4,
-        "pe_90": 151.05
+        "pe": 19.28,
+        "pe_10": 72.4,
+        "pe_25": 82.03,
+        "pe_50": 97.89,
+        "pe_75": 116.85,
+        "pe_90": 145.48
       },
       {
         "date": "2017-07-16",
         "price": 113.0,
-        "pe": 17.59,
-        "pe_10": 82.4,
-        "pe_25": 91.93,
-        "pe_50": 110.75,
-        "pe_75": 127.55,
+        "pe": 18.99,
+        "pe_10": 75.86,
+        "pe_25": 85.94,
+        "pe_50": 102.56,
+        "pe_75": 122.43,
         "pe_90": 152.42
       },
       {
         "date": "2017-08-16",
         "price": 117.0,
-        "pe": 18.06,
-        "pe_10": 83.1,
-        "pe_25": 92.71,
-        "pe_50": 111.69,
-        "pe_75": 128.63,
-        "pe_90": 153.71
+        "pe": 18.81,
+        "pe_10": 79.29,
+        "pe_25": 89.83,
+        "pe_50": 107.2,
+        "pe_75": 127.98,
+        "pe_90": 159.33
       },
       {
         "date": "2017-09-15",
         "price": 106.5,
-        "pe": 16.29,
-        "pe_10": 83.86,
-        "pe_25": 93.56,
-        "pe_50": 112.71,
-        "pe_75": 129.81,
-        "pe_90": 155.11
+        "pe": 16.41,
+        "pe_10": 82.73,
+        "pe_25": 93.73,
+        "pe_50": 111.85,
+        "pe_75": 133.53,
+        "pe_90": 166.24
       },
       {
         "date": "2017-10-16",
         "price": 113.5,
-        "pe": 17.21,
-        "pe_10": 84.59,
-        "pe_25": 94.37,
-        "pe_50": 113.7,
-        "pe_75": 130.94,
-        "pe_90": 156.47
+        "pe": 17.29,
+        "pe_10": 83.68,
+        "pe_25": 94.81,
+        "pe_50": 113.14,
+        "pe_75": 135.06,
+        "pe_90": 168.15
       },
       {
         "date": "2017-11-15",
         "price": 111.5,
-        "pe": 16.76,
-        "pe_10": 85.33,
-        "pe_25": 95.2,
-        "pe_50": 114.69,
-        "pe_75": 132.09,
-        "pe_90": 157.84
+        "pe": 16.8,
+        "pe_10": 84.61,
+        "pe_25": 95.85,
+        "pe_50": 114.39,
+        "pe_75": 136.55,
+        "pe_90": 170.0
       },
       {
         "date": "2017-12-16",
         "price": 109.0,
         "pe": 16.24,
-        "pe_10": 86.09,
-        "pe_25": 96.05,
-        "pe_50": 115.71,
-        "pe_75": 133.26,
-        "pe_90": 159.24
+        "pe_10": 85.56,
+        "pe_25": 96.94,
+        "pe_50": 115.68,
+        "pe_75": 138.1,
+        "pe_90": 171.92
       },
       {
         "date": "2018-01-16",
         "price": 116.5,
-        "pe": 16.97,
-        "pe_10": 88.06,
-        "pe_25": 98.24,
-        "pe_50": 118.35,
-        "pe_75": 136.31,
-        "pe_90": 162.88
+        "pe": 16.82,
+        "pe_10": 88.3,
+        "pe_25": 100.03,
+        "pe_50": 119.37,
+        "pe_75": 142.51,
+        "pe_90": 177.42
       },
       {
         "date": "2018-02-14",
         "price": 116.0,
-        "pe": 16.52,
-        "pe_10": 90.07,
-        "pe_25": 100.48,
-        "pe_50": 121.06,
-        "pe_75": 139.42,
-        "pe_90": 166.6
+        "pe": 16.24,
+        "pe_10": 91.06,
+        "pe_25": 103.16,
+        "pe_50": 123.11,
+        "pe_75": 146.96,
+        "pe_90": 182.96
       },
       {
         "date": "2018-03-16",
         "price": 130.0,
-        "pe": 18.12,
-        "pe_10": 92.03,
-        "pe_25": 102.67,
-        "pe_50": 123.69,
-        "pe_75": 142.45,
-        "pe_90": 170.22
+        "pe": 17.66,
+        "pe_10": 93.84,
+        "pe_25": 106.32,
+        "pe_50": 126.87,
+        "pe_75": 151.46,
+        "pe_90": 188.56
       },
       {
         "date": "2018-04-15",
         "price": 113.0,
-        "pe": 15.42,
-        "pe_10": 94.0,
-        "pe_25": 104.87,
-        "pe_50": 126.34,
-        "pe_75": 145.5,
-        "pe_90": 173.87
+        "pe": 15.27,
+        "pe_10": 94.34,
+        "pe_25": 106.88,
+        "pe_50": 127.54,
+        "pe_75": 152.26,
+        "pe_90": 189.55
       },
       {
         "date": "2018-05-16",
         "price": 114.5,
-        "pe": 15.3,
-        "pe_10": 95.99,
-        "pe_25": 107.09,
-        "pe_50": 129.02,
-        "pe_75": 148.59,
-        "pe_90": 177.56
+        "pe": 15.39,
+        "pe_10": 94.84,
+        "pe_25": 107.45,
+        "pe_50": 128.23,
+        "pe_75": 153.08,
+        "pe_90": 190.57
       },
       {
         "date": "2018-06-15",
         "price": 111.0,
-        "pe": 14.53,
-        "pe_10": 97.99,
-        "pe_25": 109.32,
-        "pe_50": 131.7,
-        "pe_75": 151.68,
-        "pe_90": 181.25
+        "pe": 14.84,
+        "pe_10": 95.35,
+        "pe_25": 108.03,
+        "pe_50": 128.91,
+        "pe_75": 153.9,
+        "pe_90": 191.59
       },
       {
         "date": "2018-07-16",
         "price": 123.0,
-        "pe": 15.78,
-        "pe_10": 99.98,
-        "pe_25": 111.54,
-        "pe_50": 134.38,
-        "pe_75": 154.76,
-        "pe_90": 184.94
+        "pe": 16.09,
+        "pe_10": 97.45,
+        "pe_25": 110.41,
+        "pe_50": 131.75,
+        "pe_75": 157.29,
+        "pe_90": 195.81
       },
       {
         "date": "2018-08-16",
         "price": 149.0,
-        "pe": 18.74,
-        "pe_10": 101.99,
-        "pe_25": 113.78,
-        "pe_50": 137.07,
-        "pe_75": 157.87,
-        "pe_90": 188.64
+        "pe": 19.07,
+        "pe_10": 99.6,
+        "pe_25": 112.84,
+        "pe_50": 134.66,
+        "pe_75": 160.76,
+        "pe_90": 200.14
       },
       {
         "date": "2018-09-15",
         "price": 136.0,
-        "pe": 16.78,
-        "pe_10": 103.96,
-        "pe_25": 115.98,
-        "pe_50": 139.73,
-        "pe_75": 160.92,
-        "pe_90": 192.3
+        "pe": 17.04,
+        "pe_10": 101.74,
+        "pe_25": 115.27,
+        "pe_50": 137.56,
+        "pe_75": 164.21,
+        "pe_90": 204.44
       },
       {
         "date": "2018-10-16",
         "price": 124.0,
-        "pe": 15.01,
-        "pe_10": 105.97,
-        "pe_25": 118.22,
-        "pe_50": 142.42,
-        "pe_75": 164.03,
-        "pe_90": 196.0
+        "pe": 15.17,
+        "pe_10": 104.2,
+        "pe_25": 118.05,
+        "pe_50": 140.88,
+        "pe_75": 168.18,
+        "pe_90": 209.38
       },
       {
         "date": "2018-11-15",
         "price": 141.5,
-        "pe": 16.82,
-        "pe_10": 107.91,
-        "pe_25": 120.38,
-        "pe_50": 145.03,
-        "pe_75": 167.03,
-        "pe_90": 199.6
+        "pe": 16.9,
+        "pe_10": 106.74,
+        "pe_25": 120.92,
+        "pe_50": 144.3,
+        "pe_75": 172.27,
+        "pe_90": 214.47
       },
       {
         "date": "2018-12-16",
         "price": 143.0,
         "pe": 16.69,
-        "pe_10": 109.9,
-        "pe_25": 122.61,
-        "pe_50": 147.71,
-        "pe_75": 170.12,
-        "pe_90": 203.28
+        "pe_10": 109.22,
+        "pe_25": 123.74,
+        "pe_50": 147.67,
+        "pe_75": 176.29,
+        "pe_90": 219.47
       },
       {
         "date": "2019-01-16",
         "price": 163.5,
-        "pe": 18.23,
-        "pe_10": 115.04,
-        "pe_25": 128.34,
-        "pe_50": 154.62,
-        "pe_75": 178.07,
-        "pe_90": 212.79
+        "pe": 18.34,
+        "pe_10": 113.65,
+        "pe_25": 128.75,
+        "pe_50": 153.65,
+        "pe_75": 183.42,
+        "pe_90": 228.36
       },
       {
         "date": "2019-02-14",
         "price": 178.0,
-        "pe": 19.0,
-        "pe_10": 120.17,
-        "pe_25": 134.06,
-        "pe_50": 161.51,
-        "pe_75": 186.01,
-        "pe_90": 222.28
+        "pe": 19.22,
+        "pe_10": 118.06,
+        "pe_25": 133.75,
+        "pe_50": 159.62,
+        "pe_75": 190.55,
+        "pe_90": 237.23
       },
       {
         "date": "2019-03-16",
         "price": 182.0,
-        "pe": 18.63,
-        "pe_10": 125.31,
-        "pe_25": 139.8,
-        "pe_50": 168.42,
-        "pe_75": 193.97,
-        "pe_90": 231.78
+        "pe": 18.94,
+        "pe_10": 122.5,
+        "pe_25": 138.78,
+        "pe_50": 165.62,
+        "pe_75": 197.71,
+        "pe_90": 246.14
       },
       {
         "date": "2019-04-15",
         "price": 209.0,
-        "pe": 20.56,
-        "pe_10": 130.39,
-        "pe_25": 145.47,
-        "pe_50": 175.25,
-        "pe_75": 201.83,
-        "pe_90": 241.18
+        "pe": 20.55,
+        "pe_10": 129.65,
+        "pe_25": 146.88,
+        "pe_50": 175.29,
+        "pe_75": 209.25,
+        "pe_90": 260.51
       },
       {
         "date": "2019-05-16",
         "price": 200.0,
-        "pe": 18.93,
-        "pe_10": 135.52,
-        "pe_25": 151.19,
-        "pe_50": 182.14,
-        "pe_75": 209.77,
-        "pe_90": 250.67
+        "pe": 18.64,
+        "pe_10": 136.78,
+        "pe_25": 154.96,
+        "pe_50": 184.92,
+        "pe_75": 220.76,
+        "pe_90": 274.84
       },
       {
         "date": "2019-06-15",
         "price": 228.5,
-        "pe": 20.84,
-        "pe_10": 140.64,
-        "pe_25": 156.9,
-        "pe_50": 189.03,
-        "pe_75": 217.7,
-        "pe_90": 260.14
+        "pe": 20.24,
+        "pe_10": 143.92,
+        "pe_25": 163.05,
+        "pe_50": 194.57,
+        "pe_75": 232.28,
+        "pe_90": 289.18
       },
       {
         "date": "2019-07-16",
         "price": 209.5,
-        "pe": 18.44,
-        "pe_10": 145.73,
-        "pe_25": 162.58,
-        "pe_50": 195.87,
-        "pe_75": 225.58,
-        "pe_90": 269.56
+        "pe": 18.02,
+        "pe_10": 148.21,
+        "pe_25": 167.91,
+        "pe_50": 200.37,
+        "pe_75": 239.2,
+        "pe_90": 297.8
       },
       {
         "date": "2019-08-16",
         "price": 215.0,
-        "pe": 18.28,
-        "pe_10": 150.86,
-        "pe_25": 168.31,
-        "pe_50": 202.77,
-        "pe_75": 233.52,
-        "pe_90": 279.05
+        "pe": 17.98,
+        "pe_10": 152.44,
+        "pe_25": 172.7,
+        "pe_50": 206.09,
+        "pe_75": 246.03,
+        "pe_90": 306.3
       },
       {
         "date": "2019-09-15",
         "price": 230.0,
-        "pe": 18.91,
-        "pe_10": 156.01,
-        "pe_25": 174.05,
-        "pe_50": 209.69,
-        "pe_75": 241.49,
-        "pe_90": 288.58
+        "pe": 18.71,
+        "pe_10": 156.71,
+        "pe_25": 177.54,
+        "pe_50": 211.87,
+        "pe_75": 252.93,
+        "pe_90": 314.88
       },
       {
         "date": "2019-10-16",
         "price": 226.5,
-        "pe": 18.03,
-        "pe_10": 161.14,
-        "pe_25": 179.77,
-        "pe_50": 216.58,
-        "pe_75": 249.43,
-        "pe_90": 298.06
+        "pe": 17.91,
+        "pe_10": 161.22,
+        "pe_25": 182.65,
+        "pe_50": 217.96,
+        "pe_75": 260.2,
+        "pe_90": 323.94
       },
       {
         "date": "2019-11-15",
         "price": 230.5,
-        "pe": 17.78,
-        "pe_10": 166.29,
-        "pe_25": 185.51,
-        "pe_50": 223.5,
-        "pe_75": 257.4,
-        "pe_90": 307.58
+        "pe": 17.73,
+        "pe_10": 165.73,
+        "pe_25": 187.76,
+        "pe_50": 224.06,
+        "pe_75": 267.49,
+        "pe_90": 333.01
       },
       {
         "date": "2019-12-16",
         "price": 235.0,
         "pe": 17.59,
-        "pe_10": 171.37,
-        "pe_25": 191.18,
-        "pe_50": 230.32,
-        "pe_75": 265.26,
-        "pe_90": 316.98
+        "pe_10": 170.31,
+        "pe_25": 192.95,
+        "pe_50": 230.26,
+        "pe_75": 274.88,
+        "pe_90": 342.21
       },
       {
         "date": "2020-01-16",
         "price": 247.5,
-        "pe": 18.09,
-        "pe_10": 175.49,
-        "pe_25": 195.78,
-        "pe_50": 235.87,
-        "pe_75": 271.65,
-        "pe_90": 324.61
+        "pe": 18.3,
+        "pe_10": 172.41,
+        "pe_25": 195.33,
+        "pe_50": 233.1,
+        "pe_75": 278.27,
+        "pe_90": 346.43
       },
       {
         "date": "2020-02-15",
         "price": 225.0,
-        "pe": 16.06,
-        "pe_10": 179.71,
-        "pe_25": 200.48,
-        "pe_50": 241.53,
-        "pe_75": 278.17,
-        "pe_90": 332.4
+        "pe": 16.43,
+        "pe_10": 174.58,
+        "pe_25": 197.78,
+        "pe_50": 236.02,
+        "pe_75": 281.76,
+        "pe_90": 350.78
       },
       {
         "date": "2020-03-16",
         "price": 218.5,
-        "pe": 15.25,
-        "pe_10": 183.78,
-        "pe_25": 205.03,
-        "pe_50": 247.01,
-        "pe_75": 284.48,
-        "pe_90": 339.94
+        "pe": 15.76,
+        "pe_10": 176.74,
+        "pe_25": 200.23,
+        "pe_50": 238.95,
+        "pe_75": 285.26,
+        "pe_90": 355.13
       },
       {
         "date": "2020-04-15",
         "price": 257.5,
-        "pe": 17.57,
-        "pe_10": 187.99,
-        "pe_25": 209.72,
-        "pe_50": 252.66,
-        "pe_75": 290.99,
-        "pe_90": 347.72
+        "pe": 18.44,
+        "pe_10": 178.02,
+        "pe_25": 201.68,
+        "pe_50": 240.67,
+        "pe_75": 287.31,
+        "pe_90": 357.69
       },
       {
         "date": "2020-05-16",
         "price": 258.5,
-        "pe": 17.26,
-        "pe_10": 192.11,
-        "pe_25": 214.32,
-        "pe_50": 258.2,
-        "pe_75": 297.36,
-        "pe_90": 355.34
+        "pe": 18.37,
+        "pe_10": 179.39,
+        "pe_25": 203.23,
+        "pe_50": 242.53,
+        "pe_75": 289.53,
+        "pe_90": 360.45
       },
       {
         "date": "2020-06-15",
         "price": 299.0,
-        "pe": 19.54,
-        "pe_10": 196.28,
-        "pe_25": 218.97,
-        "pe_50": 263.81,
-        "pe_75": 303.82,
-        "pe_90": 363.05
+        "pe": 21.09,
+        "pe_10": 180.73,
+        "pe_25": 204.76,
+        "pe_50": 244.35,
+        "pe_75": 291.7,
+        "pe_90": 363.15
       },
       {
         "date": "2020-07-16",
         "price": 374.5,
-        "pe": 23.97,
-        "pe_10": 200.41,
-        "pe_25": 223.58,
-        "pe_50": 269.35,
-        "pe_75": 310.21,
-        "pe_90": 370.69
+        "pe": 25.72,
+        "pe_10": 185.62,
+        "pe_25": 210.29,
+        "pe_50": 250.95,
+        "pe_75": 299.59,
+        "pe_90": 372.97
       },
       {
         "date": "2020-08-16",
         "price": 380.0,
-        "pe": 23.83,
-        "pe_10": 204.54,
-        "pe_25": 228.19,
-        "pe_50": 274.91,
-        "pe_75": 316.61,
-        "pe_90": 378.34
+        "pe": 25.44,
+        "pe_10": 190.42,
+        "pe_25": 215.73,
+        "pe_50": 257.44,
+        "pe_75": 307.33,
+        "pe_90": 382.61
       },
       {
         "date": "2020-09-15",
         "price": 368.5,
-        "pe": 22.65,
-        "pe_10": 208.69,
-        "pe_25": 232.81,
-        "pe_50": 280.48,
-        "pe_75": 323.03,
-        "pe_90": 386.01
+        "pe": 24.05,
+        "pe_10": 195.33,
+        "pe_25": 221.29,
+        "pe_50": 264.08,
+        "pe_75": 315.26,
+        "pe_90": 392.48
       },
       {
         "date": "2020-10-16",
         "price": 355.5,
-        "pe": 21.42,
-        "pe_10": 212.89,
-        "pe_25": 237.5,
-        "pe_50": 286.13,
-        "pe_75": 329.53,
-        "pe_90": 393.77
+        "pe": 22.27,
+        "pe_10": 203.5,
+        "pe_25": 230.55,
+        "pe_50": 275.13,
+        "pe_75": 328.44,
+        "pe_90": 408.9
       },
       {
         "date": "2020-11-15",
         "price": 371.0,
-        "pe": 21.93,
-        "pe_10": 217.0,
-        "pe_25": 242.09,
-        "pe_50": 291.66,
-        "pe_75": 335.9,
-        "pe_90": 401.38
+        "pe": 22.35,
+        "pe_10": 211.61,
+        "pe_25": 239.74,
+        "pe_50": 286.09,
+        "pe_75": 341.54,
+        "pe_90": 425.2
       },
       {
         "date": "2020-12-16",
         "price": 390.5,
         "pe": 22.65,
-        "pe_10": 221.15,
-        "pe_25": 246.71,
-        "pe_50": 297.23,
-        "pe_75": 342.31,
-        "pe_90": 409.05
+        "pe_10": 219.78,
+        "pe_25": 249.0,
+        "pe_50": 297.14,
+        "pe_75": 354.73,
+        "pe_90": 441.62
       },
       {
         "date": "2021-01-16",
         "price": 451.5,
-        "pe": 24.34,
-        "pe_10": 237.94,
-        "pe_25": 265.45,
-        "pe_50": 319.8,
-        "pe_75": 368.3,
-        "pe_90": 440.11
+        "pe": 24.86,
+        "pe_10": 231.53,
+        "pe_25": 262.3,
+        "pe_50": 313.02,
+        "pe_75": 373.68,
+        "pe_90": 465.21
       },
       {
         "date": "2021-02-14",
         "price": 460.0,
-        "pe": 23.15,
-        "pe_10": 254.88,
-        "pe_25": 284.35,
-        "pe_50": 342.57,
-        "pe_75": 394.53,
-        "pe_90": 471.45
+        "pe": 24.11,
+        "pe_10": 243.22,
+        "pe_25": 275.55,
+        "pe_50": 328.83,
+        "pe_75": 392.55,
+        "pe_90": 488.71
       },
       {
         "date": "2021-03-16",
         "price": 494.0,
-        "pe": 23.32,
-        "pe_10": 271.72,
-        "pe_25": 303.14,
-        "pe_50": 365.2,
-        "pe_75": 420.6,
-        "pe_90": 502.6
+        "pe": 24.7,
+        "pe_10": 254.96,
+        "pe_25": 288.85,
+        "pe_50": 344.7,
+        "pe_75": 411.5,
+        "pe_90": 512.3
       },
       {
         "date": "2021-04-15",
         "price": 532.0,
-        "pe": 23.65,
-        "pe_10": 288.54,
-        "pe_25": 321.9,
-        "pe_50": 387.81,
-        "pe_75": 446.63,
-        "pe_90": 533.71
+        "pe": 24.76,
+        "pe_10": 273.91,
+        "pe_25": 310.32,
+        "pe_50": 370.32,
+        "pe_75": 442.08,
+        "pe_90": 550.37
       },
       {
         "date": "2021-05-16",
         "price": 499.0,
-        "pe": 20.96,
-        "pe_10": 305.38,
-        "pe_25": 340.68,
-        "pe_50": 410.44,
+        "pe": 21.72,
+        "pe_10": 292.88,
+        "pe_25": 331.81,
+        "pe_50": 395.96,
         "pe_75": 472.69,
-        "pe_90": 564.85
+        "pe_90": 588.48
       },
       {
         "date": "2021-06-15",
         "price": 505.0,
-        "pe": 20.1,
-        "pe_10": 322.27,
-        "pe_25": 359.53,
-        "pe_50": 433.14,
-        "pe_75": 498.84,
-        "pe_90": 596.1
+        "pe": 20.65,
+        "pe_10": 311.75,
+        "pe_25": 353.19,
+        "pe_50": 421.49,
+        "pe_75": 503.17,
+        "pe_90": 626.42
       },
       {
         "date": "2021-07-16",
         "price": 588.0,
-        "pe": 22.24,
-        "pe_10": 339.13,
-        "pe_25": 378.34,
-        "pe_50": 455.81,
-        "pe_75": 524.94,
-        "pe_90": 627.29
+        "pe": 22.6,
+        "pe_10": 331.67,
+        "pe_25": 375.76,
+        "pe_50": 448.42,
+        "pe_75": 535.31,
+        "pe_90": 666.44
       },
       {
         "date": "2021-08-16",
         "price": 554.0,
-        "pe": 19.97,
-        "pe_10": 355.84,
-        "pe_25": 396.98,
-        "pe_50": 478.27,
-        "pe_75": 550.81,
-        "pe_90": 658.2
+        "pe": 20.1,
+        "pe_10": 351.36,
+        "pe_25": 398.07,
+        "pe_50": 475.03,
+        "pe_75": 567.09,
+        "pe_90": 706.01
       },
       {
         "date": "2021-09-15",
         "price": 495.5,
-        "pe": 17.05,
-        "pe_10": 372.77,
-        "pe_25": 415.87,
-        "pe_50": 501.02,
-        "pe_75": 577.02,
-        "pe_90": 689.52
+        "pe": 17.02,
+        "pe_10": 371.13,
+        "pe_25": 420.46,
+        "pe_50": 501.76,
+        "pe_75": 599.0,
+        "pe_90": 745.72
       },
       {
         "date": "2021-10-16",
         "price": 499.0,
-        "pe": 16.43,
-        "pe_10": 389.57,
-        "pe_25": 434.61,
-        "pe_50": 523.6,
-        "pe_75": 603.02,
-        "pe_90": 720.59
+        "pe": 16.41,
+        "pe_10": 387.64,
+        "pe_25": 439.17,
+        "pe_50": 524.09,
+        "pe_75": 625.65,
+        "pe_90": 778.91
       },
       {
         "date": "2021-11-15",
         "price": 555.0,
-        "pe": 17.52,
-        "pe_10": 406.33,
-        "pe_25": 453.31,
-        "pe_50": 546.13,
-        "pe_75": 628.97,
-        "pe_90": 751.59
+        "pe": 17.5,
+        "pe_10": 404.29,
+        "pe_25": 458.03,
+        "pe_50": 546.6,
+        "pe_75": 652.52,
+        "pe_90": 812.36
       },
       {
         "date": "2021-12-16",
         "price": 580.0,
         "pe": 17.58,
-        "pe_10": 423.19,
-        "pe_25": 472.12,
-        "pe_50": 568.78,
-        "pe_75": 655.06,
-        "pe_90": 782.77
+        "pe_10": 420.58,
+        "pe_25": 476.49,
+        "pe_50": 568.62,
+        "pe_75": 678.81,
+        "pe_90": 845.09
       },
       {
         "date": "2022-01-16",
         "price": 526.0,
-        "pe": 16.0,
-        "pe_10": 421.69,
-        "pe_25": 470.44,
-        "pe_50": 566.77,
-        "pe_75": 652.73,
-        "pe_90": 779.99
+        "pe": 15.3,
+        "pe_10": 438.26,
+        "pe_25": 496.52,
+        "pe_50": 592.52,
+        "pe_75": 707.35,
+        "pe_90": 880.62
       },
       {
         "date": "2022-02-14",
         "price": 456.0,
-        "pe": 13.92,
-        "pe_10": 420.19,
-        "pe_25": 468.78,
-        "pe_50": 564.76,
-        "pe_75": 650.42,
-        "pe_90": 777.23
+        "pe": 12.75,
+        "pe_10": 455.93,
+        "pe_25": 516.53,
+        "pe_50": 616.4,
+        "pe_75": 735.86,
+        "pe_90": 916.11
       },
       {
         "date": "2022-03-16",
         "price": 430.5,
-        "pe": 13.18,
-        "pe_10": 418.97,
-        "pe_25": 467.41,
-        "pe_50": 563.11,
-        "pe_75": 648.53,
-        "pe_90": 774.97
+        "pe": 11.59,
+        "pe_10": 473.51,
+        "pe_25": 536.45,
+        "pe_50": 640.18,
+        "pe_75": 764.24,
+        "pe_90": 951.45
       },
       {
         "date": "2022-04-15",
         "price": 407.5,
-        "pe": 12.52,
-        "pe_10": 417.49,
-        "pe_25": 465.76,
-        "pe_50": 561.13,
-        "pe_75": 646.24,
-        "pe_90": 772.23
+        "pe": 10.9,
+        "pe_10": 476.59,
+        "pe_25": 539.94,
+        "pe_50": 644.34,
+        "pe_75": 769.2,
+        "pe_90": 957.62
       },
       {
         "date": "2022-05-16",
         "price": 445.0,
-        "pe": 13.72,
-        "pe_10": 416.04,
-        "pe_25": 464.14,
-        "pe_50": 559.17,
-        "pe_75": 643.99,
-        "pe_90": 769.54
+        "pe": 11.84,
+        "pe_10": 479.13,
+        "pe_25": 542.81,
+        "pe_50": 647.77,
+        "pe_75": 773.3,
+        "pe_90": 962.73
       },
       {
         "date": "2022-06-15",
         "price": 363.0,
-        "pe": 11.23,
-        "pe_10": 414.62,
-        "pe_25": 462.56,
-        "pe_50": 557.27,
-        "pe_75": 641.8,
-        "pe_90": 766.92
+        "pe": 9.6,
+        "pe_10": 482.03,
+        "pe_25": 546.11,
+        "pe_50": 651.7,
+        "pe_75": 777.99,
+        "pe_90": 968.57
       },
       {
         "date": "2022-07-16",
         "price": 342.0,
-        "pe": 10.62,
-        "pe_10": 413.07,
-        "pe_25": 460.83,
-        "pe_50": 555.19,
-        "pe_75": 639.4,
-        "pe_90": 764.06
+        "pe": 9.15,
+        "pe_10": 476.48,
+        "pe_25": 539.82,
+        "pe_50": 644.19,
+        "pe_75": 769.03,
+        "pe_90": 957.41
       },
       {
         "date": "2022-08-16",
         "price": 346.0,
-        "pe": 10.79,
-        "pe_10": 411.32,
-        "pe_25": 458.87,
-        "pe_50": 552.83,
-        "pe_75": 636.68,
-        "pe_90": 760.82
+        "pe": 9.37,
+        "pe_10": 470.74,
+        "pe_25": 533.31,
+        "pe_50": 636.43,
+        "pe_75": 759.76,
+        "pe_90": 945.87
       },
       {
         "date": "2022-09-15",
         "price": 270.0,
-        "pe": 8.45,
-        "pe_10": 409.86,
-        "pe_25": 457.24,
-        "pe_50": 550.86,
-        "pe_75": 634.42,
-        "pe_90": 758.11
+        "pe": 7.41,
+        "pe_10": 464.5,
+        "pe_25": 526.24,
+        "pe_50": 628.0,
+        "pe_75": 749.7,
+        "pe_90": 933.34
       },
       {
         "date": "2022-10-16",
         "price": 255.0,
-        "pe": 8.01,
-        "pe_10": 408.35,
-        "pe_25": 455.56,
-        "pe_50": 548.84,
-        "pe_75": 632.09,
-        "pe_90": 755.32
+        "pe": 7.32,
+        "pe_10": 444.09,
+        "pe_25": 503.12,
+        "pe_50": 600.4,
+        "pe_75": 716.75,
+        "pe_90": 892.33
       },
       {
         "date": "2022-11-15",
         "price": 317.0,
-        "pe": 9.99,
-        "pe_10": 407.02,
-        "pe_25": 454.08,
-        "pe_50": 547.06,
-        "pe_75": 630.03,
-        "pe_90": 752.87
+        "pe": 9.54,
+        "pe_10": 423.6,
+        "pe_25": 479.9,
+        "pe_50": 572.69,
+        "pe_75": 683.68,
+        "pe_90": 851.15
       },
       {
         "date": "2022-12-16",
         "price": 281.0,
         "pe": 8.89,
-        "pe_10": 405.44,
-        "pe_25": 452.32,
-        "pe_50": 544.93,
-        "pe_75": 627.59,
-        "pe_90": 749.94
+        "pe_10": 402.95,
+        "pe_25": 456.51,
+        "pe_50": 544.77,
+        "pe_75": 650.35,
+        "pe_90": 809.65
       },
       {
         "date": "2023-01-16",
         "price": 320.0,
-        "pe": 10.5,
-        "pe_10": 390.92,
-        "pe_25": 436.11,
-        "pe_50": 525.41,
-        "pe_75": 605.1,
-        "pe_90": 723.08
+        "pe": 10.88,
+        "pe_10": 374.94,
+        "pe_25": 424.78,
+        "pe_50": 506.91,
+        "pe_75": 605.15,
+        "pe_90": 753.38
       },
       {
         "date": "2023-02-14",
         "price": 380.0,
-        "pe": 12.96,
-        "pe_10": 376.1,
-        "pe_25": 419.58,
-        "pe_50": 505.49,
-        "pe_75": 582.17,
-        "pe_90": 695.67
+        "pe": 13.97,
+        "pe_10": 346.76,
+        "pe_25": 392.85,
+        "pe_50": 468.81,
+        "pe_75": 559.66,
+        "pe_90": 696.76
       },
       {
         "date": "2023-03-16",
         "price": 387.5,
-        "pe": 13.75,
-        "pe_10": 361.49,
-        "pe_25": 403.28,
-        "pe_50": 485.85,
-        "pe_75": 559.55,
-        "pe_90": 668.64
+        "pe": 15.5,
+        "pe_10": 318.7,
+        "pe_25": 361.06,
+        "pe_50": 430.88,
+        "pe_75": 514.38,
+        "pe_90": 640.38
       },
       {
         "date": "2023-04-15",
         "price": 359.0,
-        "pe": 13.28,
-        "pe_10": 346.75,
-        "pe_25": 386.84,
-        "pe_50": 466.05,
-        "pe_75": 536.74,
-        "pe_90": 641.39
+        "pe": 15.18,
+        "pe_10": 301.48,
+        "pe_25": 341.56,
+        "pe_50": 407.6,
+        "pe_75": 486.59,
+        "pe_90": 605.78
       },
       {
         "date": "2023-05-16",
         "price": 382.0,
-        "pe": 14.76,
-        "pe_10": 331.97,
-        "pe_25": 370.35,
-        "pe_50": 446.18,
-        "pe_75": 513.86,
-        "pe_90": 614.05
+        "pe": 17.14,
+        "pe_10": 284.12,
+        "pe_25": 321.88,
+        "pe_50": 384.12,
+        "pe_75": 458.56,
+        "pe_90": 570.88
       },
       {
         "date": "2023-06-15",
         "price": 387.5,
-        "pe": 15.67,
-        "pe_10": 317.2,
-        "pe_25": 353.87,
-        "pe_50": 426.32,
-        "pe_75": 490.99,
-        "pe_90": 586.72
+        "pe": 18.51,
+        "pe_10": 266.87,
+        "pe_25": 302.35,
+        "pe_50": 360.81,
+        "pe_75": 430.73,
+        "pe_90": 536.24
       },
       {
         "date": "2023-07-16",
         "price": 430.5,
-        "pe": 18.25,
-        "pe_10": 302.58,
-        "pe_25": 337.56,
-        "pe_50": 406.68,
-        "pe_75": 468.36,
-        "pe_90": 559.67
+        "pe": 21.66,
+        "pe_10": 253.37,
+        "pe_25": 287.05,
+        "pe_50": 342.55,
+        "pe_75": 408.94,
+        "pe_90": 509.11
       },
       {
         "date": "2023-08-16",
         "price": 418.0,
-        "pe": 18.63,
-        "pe_10": 287.8,
-        "pe_25": 321.07,
-        "pe_50": 386.81,
-        "pe_75": 445.49,
-        "pe_90": 532.34
+        "pe": 22.22,
+        "pe_10": 239.81,
+        "pe_25": 271.69,
+        "pe_50": 324.22,
+        "pe_75": 387.05,
+        "pe_90": 481.87
       },
       {
         "date": "2023-09-15",
         "price": 395.0,
-        "pe": 18.55,
-        "pe_10": 273.14,
-        "pe_25": 304.71,
-        "pe_50": 367.11,
-        "pe_75": 422.79,
-        "pe_90": 505.22
+        "pe": 22.25,
+        "pe_10": 226.31,
+        "pe_25": 256.39,
+        "pe_50": 305.97,
+        "pe_75": 365.26,
+        "pe_90": 454.74
       },
       {
         "date": "2023-10-16",
         "price": 401.5,
-        "pe": 19.93,
-        "pe_10": 258.41,
-        "pe_25": 288.28,
-        "pe_50": 347.31,
-        "pe_75": 399.99,
-        "pe_90": 477.97
+        "pe": 22.58,
+        "pe_10": 226.68,
+        "pe_25": 256.81,
+        "pe_50": 306.46,
+        "pe_75": 365.85,
+        "pe_90": 455.47
       },
       {
         "date": "2023-11-15",
         "price": 449.5,
-        "pe": 23.66,
-        "pe_10": 243.69,
-        "pe_25": 271.87,
-        "pe_50": 327.53,
-        "pe_75": 377.21,
-        "pe_90": 450.75
+        "pe": 25.23,
+        "pe_10": 227.12,
+        "pe_25": 257.31,
+        "pe_50": 307.06,
+        "pe_75": 366.57,
+        "pe_90": 456.36
       },
       {
         "date": "2023-12-16",
         "price": 471.5,
         "pe": 26.41,
-        "pe_10": 229.0,
-        "pe_25": 255.48,
-        "pe_50": 307.79,
-        "pe_75": 354.47,
-        "pe_90": 423.58
+        "pe_10": 227.59,
+        "pe_25": 257.84,
+        "pe_50": 307.7,
+        "pe_75": 367.33,
+        "pe_90": 457.31
       },
       {
         "date": "2024-01-16",
         "price": 469.5,
-        "pe": 24.91,
-        "pe_10": 241.76,
-        "pe_25": 269.71,
-        "pe_50": 324.94,
-        "pe_75": 374.22,
-        "pe_90": 447.18
+        "pe": 25.09,
+        "pe_10": 238.55,
+        "pe_25": 270.26,
+        "pe_50": 322.51,
+        "pe_75": 385.01,
+        "pe_90": 479.32
       },
       {
         "date": "2024-02-15",
         "price": 569.0,
-        "pe": 28.67,
-        "pe_10": 254.57,
-        "pe_25": 284.0,
-        "pe_50": 342.15,
-        "pe_75": 394.05,
-        "pe_90": 470.88
+        "pe": 29.07,
+        "pe_10": 249.52,
+        "pe_25": 282.69,
+        "pe_50": 337.35,
+        "pe_75": 402.72,
+        "pe_90": 501.37
       },
       {
         "date": "2024-03-16",
         "price": 560.0,
-        "pe": 26.87,
-        "pe_10": 267.33,
-        "pe_25": 298.24,
-        "pe_50": 359.3,
-        "pe_75": 413.8,
-        "pe_90": 494.48
+        "pe": 27.4,
+        "pe_10": 260.54,
+        "pe_25": 295.18,
+        "pe_50": 352.25,
+        "pe_75": 420.51,
+        "pe_90": 523.52
       },
       {
         "date": "2024-04-15",
         "price": 518.0,
-        "pe": 23.72,
-        "pe_10": 280.12,
-        "pe_25": 312.5,
-        "pe_50": 376.49,
-        "pe_75": 433.6,
-        "pe_90": 518.13
+        "pe": 23.98,
+        "pe_10": 275.37,
+        "pe_25": 311.98,
+        "pe_50": 372.3,
+        "pe_75": 444.45,
+        "pe_90": 553.32
       },
       {
         "date": "2024-05-16",
         "price": 543.0,
-        "pe": 23.78,
-        "pe_10": 292.9,
-        "pe_25": 326.76,
-        "pe_50": 393.66,
-        "pe_75": 453.38,
-        "pe_90": 541.77
+        "pe": 23.85,
+        "pe_10": 290.24,
+        "pe_25": 328.82,
+        "pe_50": 392.39,
+        "pe_75": 468.44,
+        "pe_90": 583.18
       },
       {
         "date": "2024-06-15",
         "price": 546.0,
-        "pe": 22.91,
-        "pe_10": 305.7,
-        "pe_25": 341.04,
-        "pe_50": 410.87,
-        "pe_75": 473.19,
-        "pe_90": 565.45
+        "pe": 22.82,
+        "pe_10": 305.01,
+        "pe_25": 345.56,
+        "pe_50": 412.37,
+        "pe_75": 492.29,
+        "pe_90": 612.87
       },
       {
         "date": "2024-07-16",
         "price": 512.0,
-        "pe": 20.62,
-        "pe_10": 318.5,
-        "pe_25": 355.32,
-        "pe_50": 428.07,
-        "pe_75": 493.0,
-        "pe_90": 589.12
+        "pe": 20.4,
+        "pe_10": 319.95,
+        "pe_25": 362.48,
+        "pe_50": 432.56,
+        "pe_75": 516.39,
+        "pe_90": 642.89
       },
       {
         "date": "2024-08-16",
         "price": 535.0,
-        "pe": 20.71,
-        "pe_10": 331.36,
-        "pe_25": 369.67,
-        "pe_50": 445.36,
-        "pe_75": 512.91,
-        "pe_90": 612.91
+        "pe": 20.37,
+        "pe_10": 334.81,
+        "pe_25": 379.32,
+        "pe_50": 452.66,
+        "pe_75": 540.38,
+        "pe_90": 672.76
       },
       {
         "date": "2024-09-15",
         "price": 471.0,
-        "pe": 17.56,
-        "pe_10": 344.05,
-        "pe_25": 383.83,
-        "pe_50": 462.42,
-        "pe_75": 532.56,
-        "pe_90": 636.39
+        "pe": 17.16,
+        "pe_10": 349.9,
+        "pe_25": 396.41,
+        "pe_50": 473.06,
+        "pe_75": 564.73,
+        "pe_90": 703.07
       },
       {
         "date": "2024-10-16",
         "price": 478.5,
-        "pe": 17.2,
-        "pe_10": 356.84,
-        "pe_25": 398.1,
-        "pe_50": 479.61,
-        "pe_75": 552.36,
-        "pe_90": 660.05
+        "pe": 16.95,
+        "pe_10": 359.88,
+        "pe_25": 407.71,
+        "pe_50": 486.55,
+        "pe_75": 580.83,
+        "pe_90": 723.11
       },
       {
         "date": "2024-11-15",
         "price": 476.0,
-        "pe": 16.51,
-        "pe_10": 369.82,
-        "pe_25": 412.57,
-        "pe_50": 497.05,
-        "pe_75": 572.44,
-        "pe_90": 684.04
+        "pe": 16.4,
+        "pe_10": 370.0,
+        "pe_25": 419.18,
+        "pe_50": 500.24,
+        "pe_75": 597.18,
+        "pe_90": 743.46
       },
       {
         "date": "2024-12-16",
         "price": 568.0,
         "pe": 19.05,
-        "pe_10": 382.45,
-        "pe_25": 426.67,
-        "pe_50": 514.03,
-        "pe_75": 592.0,
-        "pe_90": 707.42
+        "pe_10": 380.1,
+        "pe_25": 430.62,
+        "pe_50": 513.88,
+        "pe_75": 613.47,
+        "pe_90": 763.74
       },
       {
         "date": "2025-01-16",
         "price": 542.0,
-        "pe": 18.23,
-        "pe_10": 381.36,
-        "pe_25": 425.45,
-        "pe_50": 512.57,
-        "pe_75": 590.31,
-        "pe_90": 705.4
+        "pe": 17.56,
+        "pe_10": 393.47,
+        "pe_25": 445.78,
+        "pe_50": 531.97,
+        "pe_75": 635.06,
+        "pe_90": 790.62
       },
       {
         "date": "2025-02-14",
         "price": 550.0,
-        "pe": 18.55,
-        "pe_10": 380.32,
-        "pe_25": 424.29,
-        "pe_50": 511.16,
-        "pe_75": 588.69,
-        "pe_90": 703.47
+        "pe": 17.23,
+        "pe_10": 406.93,
+        "pe_25": 461.02,
+        "pe_50": 550.16,
+        "pe_75": 656.78,
+        "pe_90": 817.66
       },
       {
         "date": "2025-03-16",
         "price": 523.0,
-        "pe": 17.69,
-        "pe_10": 379.23,
-        "pe_25": 423.07,
-        "pe_50": 509.7,
-        "pe_75": 587.01,
-        "pe_90": 701.45
+        "pe": 15.86,
+        "pe_10": 420.38,
+        "pe_25": 476.26,
+        "pe_50": 568.34,
+        "pe_75": 678.48,
+        "pe_90": 844.68
       },
       {
         "date": "2025-04-15",
         "price": 524.0,
-        "pe": 17.78,
-        "pe_10": 378.03,
-        "pe_25": 421.73,
-        "pe_50": 508.09,
-        "pe_75": 585.15,
-        "pe_90": 699.24
+        "pe": 16.04,
+        "pe_10": 416.46,
+        "pe_25": 471.81,
+        "pe_50": 563.04,
+        "pe_75": 672.15,
+        "pe_90": 836.8
       },
       {
         "date": "2025-05-16",
         "price": 541.0,
-        "pe": 18.41,
-        "pe_10": 376.94,
-        "pe_25": 420.52,
-        "pe_50": 506.62,
-        "pe_75": 583.46,
-        "pe_90": 697.22
+        "pe": 16.71,
+        "pe_10": 412.73,
+        "pe_25": 467.59,
+        "pe_50": 558.0,
+        "pe_75": 666.13,
+        "pe_90": 829.31
       },
       {
         "date": "2025-06-15",
         "price": 567.0,
-        "pe": 19.35,
-        "pe_10": 375.86,
-        "pe_25": 419.32,
-        "pe_50": 505.17,
-        "pe_75": 581.8,
-        "pe_90": 695.23
+        "pe": 17.68,
+        "pe_10": 408.83,
+        "pe_25": 463.17,
+        "pe_50": 552.73,
+        "pe_75": 659.84,
+        "pe_90": 821.48
       },
       {
         "date": "2025-07-16",
         "price": 575.0,
-        "pe": 19.69,
-        "pe_10": 374.58,
-        "pe_25": 417.89,
-        "pe_50": 503.45,
-        "pe_75": 579.82,
-        "pe_90": 692.86
+        "pe": 18.28,
+        "pe_10": 400.99,
+        "pe_25": 454.29,
+        "pe_50": 542.13,
+        "pe_75": 647.19,
+        "pe_90": 805.72
       },
       {
         "date": "2025-08-16",
         "price": 534.0,
-        "pe": 18.34,
-        "pe_10": 373.48,
-        "pe_25": 416.66,
-        "pe_50": 501.97,
-        "pe_75": 578.11,
-        "pe_90": 690.82
+        "pe": 17.32,
+        "pe_10": 393.04,
+        "pe_25": 445.28,
+        "pe_50": 531.38,
+        "pe_75": 634.36,
+        "pe_90": 789.75
       },
       {
         "date": "2025-09-15",
         "price": 550.0,
-        "pe": 18.94,
-        "pe_10": 372.48,
-        "pe_25": 415.55,
-        "pe_50": 500.63,
-        "pe_75": 576.57,
-        "pe_90": 688.98
+        "pe": 18.2,
+        "pe_10": 385.24,
+        "pe_25": 436.45,
+        "pe_50": 520.84,
+        "pe_75": 621.77,
+        "pe_90": 774.08
       },
       {
         "date": "2025-10-16",
         "price": 515.0,
-        "pe": 17.79,
-        "pe_10": 371.33,
-        "pe_25": 414.26,
-        "pe_50": 499.08,
-        "pe_75": 574.78,
-        "pe_90": 686.84
+        "pe": 17.32,
+        "pe_10": 379.05,
+        "pe_25": 429.44,
+        "pe_50": 512.47,
+        "pe_75": 611.79,
+        "pe_90": 761.65
       },
       {
         "date": "2025-11-15",
         "price": 521.0,
-        "pe": 18.05,
-        "pe_10": 370.24,
-        "pe_25": 413.05,
-        "pe_50": 497.62,
-        "pe_75": 573.1,
-        "pe_90": 684.83
+        "pe": 17.81,
+        "pe_10": 372.92,
+        "pe_25": 422.49,
+        "pe_50": 504.18,
+        "pe_75": 601.89,
+        "pe_90": 749.32
       },
       {
         "date": "2025-12-16",
         "price": 489.0,
         "pe": 17.0,
-        "pe_10": 368.96,
-        "pe_25": 411.62,
-        "pe_50": 495.9,
-        "pe_75": 571.12,
-        "pe_90": 682.47
+        "pe_10": 366.69,
+        "pe_25": 415.43,
+        "pe_50": 495.76,
+        "pe_75": 591.83,
+        "pe_90": 736.81
       },
       {
         "date": "2026-01-16",
         "price": 483.5,
         "pe": 16.81,
-        "pe_10": 368.94,
-        "pe_25": 411.59,
-        "pe_50": 495.87,
-        "pe_75": 571.08,
-        "pe_90": 682.42
+        "pe_10": 366.67,
+        "pe_25": 415.4,
+        "pe_50": 495.72,
+        "pe_75": 591.79,
+        "pe_90": 736.76
       },
       {
         "date": "2026-02-14",
         "price": 481.5,
         "pe": 16.74,
-        "pe_10": 368.95,
-        "pe_25": 411.6,
-        "pe_50": 495.88,
-        "pe_75": 571.1,
-        "pe_90": 682.44
+        "pe_10": 366.68,
+        "pe_25": 415.42,
+        "pe_50": 495.74,
+        "pe_75": 591.81,
+        "pe_90": 736.78
       }
     ]
   },
@@ -20050,7 +20050,7 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (23.7倍)",
+            "title": "PE 90% (25.6倍)",
             "format": ".1f"
           }
         ]
@@ -20770,6 +20770,10 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
       {
         "date": "2026-01-16",
         "revenue_yoy": 14.4
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": -7.41
       }
     ]
   },
@@ -20837,16 +20841,16 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 18.3 | +90.7% | 0.000 | 2007-04 (+6751.6%) | 2008-08 (-88.1%) |
-| 6個月 | 18.3 | +46.0% | 0.044 | 2007-01 (+1274.7%) | 2008-05 (-81.1%) |
-| 1年 | 18.2 | +30.9% | 0.183 | 2006-07 (+407.1%) | 2007-12 (-69.1%) |
-| 2年 | 18.1 | +19.2% | 0.242 | 2018-07 (+78.6%) | 2007-06 (-35.6%) |
-| 3年 | 18.0 | +18.4% | 0.265 | 2018-07 (+71.4%) | 2007-07 (-24.6%) |
-| 4年 | 18.5 | +17.8% | 0.364 | 2017-12 (+54.3%) | 2007-07 (-23.9%) |
-| 5年 | 18.4 | +18.2% | 0.382 | 2015-09 (+48.3%) | 2007-07 (-19.2%) |
-| 6年 | 18.3 | +18.7% | 0.442 | 2015-08 (+47.5%) | 2007-07 (-12.0%) |
-| 8年 | 18.4 | +18.3% | 0.609 | 2013-08 (+32.0%) | 2007-07 (-8.9%) |
-| 10年 | 18.5 | +17.4% | 0.613 | 2011-12 (+30.7%) | 2007-07 (-2.4%) |
+| 3個月 | 23.3 | +90.7% | 0.001 | 2007-04 (+6751.6%) | 2008-08 (-88.1%) |
+| 6個月 | 23.4 | +46.0% | 0.003 | 2007-01 (+1274.7%) | 2008-05 (-81.1%) |
+| 1年 | 23.5 | +30.9% | 0.000 | 2006-07 (+407.1%) | 2007-12 (-69.1%) |
+| 2年 | 23.6 | +19.2% | 0.001 | 2018-07 (+78.6%) | 2007-06 (-35.6%) |
+| 3年 | 23.8 | +18.4% | 0.009 | 2018-07 (+71.4%) | 2007-07 (-24.6%) |
+| 4年 | 24.6 | +17.8% | 0.009 | 2017-12 (+54.3%) | 2007-07 (-23.9%) |
+| 5年 | 25.0 | +18.2% | 0.008 | 2015-09 (+48.3%) | 2007-07 (-19.2%) |
+| 6年 | 25.3 | +18.7% | 0.004 | 2015-08 (+47.5%) | 2007-07 (-12.0%) |
+| 8年 | 26.5 | +18.3% | 0.011 | 2013-08 (+32.0%) | 2007-07 (-8.9%) |
+| 10年 | 28.3 | +17.4% | 0.012 | 2011-12 (+30.7%) | 2007-07 (-2.4%) |
 
 
 ## 🎯 使用說明
@@ -20865,4 +20869,4 @@ description: "2379 瑞昱 (半導體業) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:30:14 CST*
+*數據更新時間: 2026-03-21 12:36:08 CST*

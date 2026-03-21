@@ -2,7 +2,7 @@
 title: "2603 長榮 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
     - **產業別**: 航運業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:31:54 CST
+    - **報告生成時間**: 2026-03-21 12:38:06 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 5.62,
         "forward_return": 65.08,
         "start_price": 20.3,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 158.9,
+        "pe_ratio": 7.17,
         "forward_return": 35.51,
         "start_price": 22.25,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 157.1,
+        "pe_ratio": 8.47,
         "forward_return": -30.82,
         "start_price": 22.0,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 161.4,
+        "pe_ratio": 10.81,
         "forward_return": -30.11,
         "start_price": 22.6,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 158.6,
+        "pe_ratio": 13.37,
         "forward_return": -44.96,
         "start_price": 22.2,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 130.4,
+        "pe_ratio": 14.84,
         "forward_return": 10.17,
         "start_price": 18.25,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 134.6,
+        "pe_ratio": 23.56,
         "forward_return": 0.0,
         "start_price": 18.85,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 136.4,
+        "pe_ratio": 32.93,
         "forward_return": -15.62,
         "start_price": 19.1,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 136.4,
+        "pe_ratio": 53.06,
         "forward_return": 35.41,
         "start_price": 19.1,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 43.31,
+        "pe_ratio": 457.5,
         "forward_return": 44.44,
         "start_price": 18.3,
         "start_year": 2007
@@ -137,26 +137,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2007-02-14",
-        "pe_ratio": 30.5,
-        "forward_return": -15.1,
-        "start_price": 21.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2007-03-16",
-        "pe_ratio": 21.37,
-        "forward_return": 23.64,
-        "start_price": 21.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 170.4,
         "forward_return": 50.7,
         "start_price": 20.45,
         "start_year": 2007
@@ -165,7 +147,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 51.62,
         "forward_return": 21.76,
         "start_price": 20.65,
         "start_year": 2007
@@ -174,7 +156,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 31.99,
         "forward_return": 168.75,
         "start_price": 21.75,
         "start_year": 2007
@@ -183,7 +165,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 17.6,
         "forward_return": 300.49,
         "start_price": 22.35,
         "start_year": 2007
@@ -192,7 +174,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 11.51,
         "forward_return": 164.1,
         "start_price": 21.4,
         "start_year": 2007
@@ -201,7 +183,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.29,
+        "pe_ratio": 11.27,
         "forward_return": 32.42,
         "start_price": 27.6,
         "start_year": 2007
@@ -210,7 +192,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 11.28,
         "forward_return": -67.95,
         "start_price": 31.7,
         "start_year": 2007
@@ -219,7 +201,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 8.74,
         "forward_return": 27.22,
         "start_price": 27.7,
         "start_year": 2007
@@ -237,7 +219,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.32,
+        "pe_ratio": 6.83,
         "forward_return": 42.29,
         "start_price": 23.8,
         "start_year": 2008
@@ -246,7 +228,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.55,
         "forward_return": 12.09,
         "start_price": 26.0,
         "start_year": 2008
@@ -255,7 +237,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 8.82,
         "forward_return": -62.08,
         "start_price": 30.0,
         "start_year": 2008
@@ -264,7 +246,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 8.68,
         "forward_return": -68.99,
         "start_price": 29.05,
         "start_year": 2008
@@ -273,7 +255,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 8.12,
         "forward_return": -70.32,
         "start_price": 26.75,
         "start_year": 2008
@@ -282,7 +264,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.89,
+        "pe_ratio": 7.44,
         "forward_return": -80.34,
         "start_price": 24.1,
         "start_year": 2008
@@ -291,7 +273,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 7.37,
         "forward_return": -48.16,
         "start_price": 20.0,
         "start_year": 2008
@@ -300,7 +282,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 8.23,
         "forward_return": -36.7,
         "start_price": 18.0,
         "start_year": 2008
@@ -309,7 +291,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.75,
+        "pe_ratio": 8.61,
         "forward_return": 36.41,
         "start_price": 14.3,
         "start_year": 2008
@@ -318,7 +300,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 14.41,
         "forward_return": -60.66,
         "start_price": 16.95,
         "start_year": 2008
@@ -327,7 +309,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 33.49,
+        "pe_ratio": 23.51,
         "forward_return": -33.58,
         "start_price": 16.3,
         "start_year": 2008
@@ -344,26 +326,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2010-05-16",
-        "pe_ratio": 101.4,
-        "forward_return": 82.98,
-        "start_price": 18.25,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2010-06-15",
-        "pe_ratio": 23.78,
-        "forward_return": 36.08,
-        "start_price": 20.45,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.45,
+        "pe_ratio": 31.73,
         "forward_return": 31.51,
         "start_price": 23.8,
         "start_year": 2010
@@ -372,7 +336,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.57,
+        "pe_ratio": 11.42,
         "forward_return": 189.27,
         "start_price": 21.25,
         "start_year": 2010
@@ -381,7 +345,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 7.62,
+        "pe_ratio": 7.44,
         "forward_return": 254.88,
         "start_price": 22.1,
         "start_year": 2010
@@ -390,7 +354,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 7.12,
+        "pe_ratio": 7.03,
         "forward_return": 103.57,
         "start_price": 25.5,
         "start_year": 2010
@@ -399,7 +363,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 6.02,
+        "pe_ratio": 5.99,
         "forward_return": -13.57,
         "start_price": 25.65,
         "start_year": 2010
@@ -417,7 +381,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.02,
         "forward_return": -32.92,
         "start_price": 30.5,
         "start_year": 2011
@@ -426,7 +390,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 6.6,
+        "pe_ratio": 5.04,
         "forward_return": 8.8,
         "start_price": 26.2,
         "start_year": 2011
@@ -435,7 +399,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 7.02,
+        "pe_ratio": 4.6,
         "forward_return": -38.81,
         "start_price": 24.45,
         "start_year": 2011
@@ -444,7 +408,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 5.44,
         "forward_return": -62.53,
         "start_price": 26.5,
         "start_year": 2011
@@ -453,7 +417,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.65,
+        "pe_ratio": 6.05,
         "forward_return": -70.91,
         "start_price": 26.75,
         "start_year": 2011
@@ -462,7 +426,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 5.82,
         "forward_return": -73.07,
         "start_price": 23.1,
         "start_year": 2011
@@ -471,7 +435,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 6.53,
         "forward_return": -49.83,
         "start_price": 19.75,
         "start_year": 2011
@@ -480,7 +444,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.66,
+        "pe_ratio": 8.96,
         "forward_return": -44.27,
         "start_price": 18.6,
         "start_year": 2011
@@ -489,7 +453,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 27.49,
+        "pe_ratio": 13.81,
         "forward_return": -7.5,
         "start_price": 15.6,
         "start_year": 2011
@@ -498,19 +462,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 203.3,
+        "pe_ratio": 36.35,
         "forward_return": -1.19,
         "start_price": 16.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2012-11-15",
-        "pe_ratio": 1140.0,
-        "forward_return": 14.93,
-        "start_price": 17.1,
-        "start_year": 2012
       },
       {
         "horizon": "0.25y",
@@ -525,7 +480,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 347.8,
+        "pe_ratio": 85.02,
         "forward_return": -26.71,
         "start_price": 18.55,
         "start_year": 2013
@@ -534,7 +489,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 2018.0,
+        "pe_ratio": 55.89,
         "forward_return": -39.4,
         "start_price": 18.95,
         "start_year": 2013
@@ -542,17 +497,44 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2014-07-16",
-        "pe_ratio": 1301.0,
-        "forward_return": 14.45,
-        "start_price": 17.35,
-        "start_year": 2014
+        "start_date": "2013-03-16",
+        "pe_ratio": 38.91,
+        "forward_return": -17.29,
+        "start_price": 17.9,
+        "start_year": 2013
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2013-04-15",
+        "pe_ratio": 49.76,
+        "forward_return": -10.07,
+        "start_price": 17.25,
+        "start_year": 2013
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2013-05-16",
+        "pe_ratio": 71.79,
+        "forward_return": 3.6,
+        "start_price": 16.75,
+        "start_year": 2013
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2013-06-15",
+        "pe_ratio": 136.7,
+        "forward_return": 29.4,
+        "start_price": 16.4,
+        "start_year": 2013
       },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 238.0,
+        "pe_ratio": 165.9,
         "forward_return": 84.68,
         "start_price": 18.25,
         "start_year": 2014
@@ -561,7 +543,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 127.5,
+        "pe_ratio": 63.75,
         "forward_return": 148.77,
         "start_price": 17.85,
         "start_year": 2014
@@ -570,7 +552,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 88.28,
+        "pe_ratio": 60.51,
         "forward_return": 140.91,
         "start_price": 17.95,
         "start_year": 2014
@@ -579,7 +561,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 68.81,
+        "pe_ratio": 58.56,
         "forward_return": 105.52,
         "start_price": 18.35,
         "start_year": 2014
@@ -597,7 +579,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 113.4,
+        "pe_ratio": 35.0,
         "forward_return": -51.59,
         "start_price": 22.4,
         "start_year": 2015
@@ -606,7 +588,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 354.6,
+        "pe_ratio": 24.26,
         "forward_return": -66.15,
         "start_price": 23.05,
         "start_year": 2015
@@ -614,8 +596,62 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
+        "start_date": "2015-03-16",
+        "pe_ratio": 18.45,
+        "forward_return": -71.71,
+        "start_price": 23.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2015-04-15",
+        "pe_ratio": 17.0,
+        "forward_return": -71.5,
+        "start_price": 20.85,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2015-05-16",
+        "pe_ratio": 14.79,
+        "forward_return": -56.03,
+        "start_price": 17.65,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2015-06-15",
+        "pe_ratio": 13.79,
+        "forward_return": -41.98,
+        "start_price": 16.0,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2015-07-16",
+        "pe_ratio": 20.11,
+        "forward_return": -15.98,
+        "start_price": 15.15,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2015-08-16",
+        "pe_ratio": 41.11,
+        "forward_return": -19.57,
+        "start_price": 14.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 343.3,
+        "pe_ratio": 61.8,
         "forward_return": 93.72,
         "start_price": 15.45,
         "start_year": 2017
@@ -624,7 +660,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 45.24,
+        "pe_ratio": 23.2,
         "forward_return": 41.12,
         "start_price": 16.55,
         "start_year": 2017
@@ -633,7 +669,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 33.5,
+        "pe_ratio": 19.55,
         "forward_return": -64.0,
         "start_price": 23.0,
         "start_year": 2017
@@ -642,7 +678,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.11,
+        "pe_ratio": 11.13,
         "forward_return": -35.68,
         "start_price": 18.25,
         "start_year": 2017
@@ -651,7 +687,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 10.31,
         "forward_return": -16.47,
         "start_price": 18.05,
         "start_year": 2017
@@ -660,7 +696,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 10.22,
+        "pe_ratio": 9.06,
         "forward_return": -27.65,
         "start_price": 16.85,
         "start_year": 2017
@@ -678,7 +714,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.53,
         "forward_return": -36.62,
         "start_price": 17.25,
         "start_year": 2018
@@ -687,7 +723,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.36,
         "forward_return": -14.85,
         "start_price": 15.45,
         "start_year": 2018
@@ -696,7 +732,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.17,
         "forward_return": -20.2,
         "start_price": 15.15,
         "start_year": 2018
@@ -705,7 +741,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 11.3,
+        "pe_ratio": 12.28,
         "forward_return": -25.12,
         "start_price": 15.1,
         "start_year": 2018
@@ -714,7 +750,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.6,
+        "pe_ratio": 15.31,
         "forward_return": -36.4,
         "start_price": 14.85,
         "start_year": 2018
@@ -723,7 +759,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 18.31,
         "forward_return": 0.0,
         "start_price": 13.0,
         "start_year": 2018
@@ -732,7 +768,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 30.33,
         "forward_return": -53.83,
         "start_price": 13.85,
         "start_year": 2018
@@ -741,7 +777,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.55,
+        "pe_ratio": 64.18,
         "forward_return": -24.13,
         "start_price": 13.05,
         "start_year": 2018
@@ -749,26 +785,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2018-09-15",
-        "pe_ratio": 23.49,
-        "forward_return": -25.37,
-        "start_price": 12.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2018-10-16",
-        "pe_ratio": 29.48,
-        "forward_return": 20.57,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 51.02,
+        "pe_ratio": 388.3,
         "forward_return": 8.05,
         "start_price": 11.65,
         "start_year": 2018
@@ -786,7 +804,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 181.5,
+        "pe_ratio": 123.6,
         "forward_return": 3.87,
         "start_price": 11.95,
         "start_year": 2019
@@ -795,7 +813,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 201.9,
+        "pe_ratio": 100.9,
         "forward_return": -10.93,
         "start_price": 12.45,
         "start_year": 2019
@@ -804,7 +822,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 207.8,
+        "pe_ratio": 79.67,
         "forward_return": 74.78,
         "start_price": 11.95,
         "start_year": 2019
@@ -813,7 +831,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 254.1,
+        "pe_ratio": 58.91,
         "forward_return": 27.66,
         "start_price": 13.55,
         "start_year": 2019
@@ -822,7 +840,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 246.1,
+        "pe_ratio": 39.03,
         "forward_return": 26.97,
         "start_price": 12.1,
         "start_year": 2019
@@ -831,7 +849,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 276.7,
+        "pe_ratio": 31.92,
         "forward_return": 18.72,
         "start_price": 12.45,
         "start_year": 2019
@@ -840,7 +858,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 352.6,
+        "pe_ratio": 42.35,
         "forward_return": -42.98,
         "start_price": 14.4,
         "start_year": 2019
@@ -849,7 +867,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 350.4,
+        "pe_ratio": 44.31,
         "forward_return": -10.12,
         "start_price": 12.85,
         "start_year": 2019
@@ -858,7 +876,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 400.0,
+        "pe_ratio": 54.17,
         "forward_return": -17.28,
         "start_price": 13.0,
         "start_year": 2019
@@ -867,7 +885,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 441.2,
+        "pe_ratio": 75.0,
         "forward_return": -21.78,
         "start_price": 12.5,
         "start_year": 2019
@@ -876,7 +894,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 513.1,
+        "pe_ratio": 132.9,
         "forward_return": -58.71,
         "start_price": 12.4,
         "start_year": 2019
@@ -893,35 +911,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2020-01-16",
-        "pe_ratio": 26.7,
-        "forward_return": -20.28,
-        "start_price": 11.75,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-02-15",
-        "pe_ratio": 13.43,
-        "forward_return": -20.74,
-        "start_price": 11.55,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-03-16",
-        "pe_ratio": 7.23,
-        "forward_return": 67.99,
-        "start_price": 9.25,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 6.53,
+        "pe_ratio": 175.3,
         "forward_return": -3.57,
         "start_price": 11.1,
         "start_year": 2020
@@ -930,7 +921,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 5.14,
+        "pe_ratio": 35.54,
         "forward_return": 540.35,
         "start_price": 10.9,
         "start_year": 2020
@@ -939,7 +930,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 4.23,
+        "pe_ratio": 19.55,
         "forward_return": 367.14,
         "start_price": 10.75,
         "start_year": 2020
@@ -948,7 +939,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 3.72,
+        "pe_ratio": 9.94,
         "forward_return": 757.53,
         "start_price": 11.0,
         "start_year": 2020
@@ -957,7 +948,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 5.15,
+        "pe_ratio": 10.46,
         "forward_return": 1173.11,
         "start_price": 17.4,
         "start_year": 2020
@@ -966,7 +957,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 7.14,
         "forward_return": 4304.4,
         "start_price": 15.85,
         "start_year": 2020
@@ -975,7 +966,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 4.48,
+        "pe_ratio": 5.97,
         "forward_return": 631.58,
         "start_price": 18.9,
         "start_year": 2020
@@ -984,7 +975,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 5.32,
+        "pe_ratio": 6.0,
         "forward_return": 542.02,
         "start_price": 24.7,
         "start_year": 2020
@@ -1002,7 +993,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 3.7,
+        "pe_ratio": 4.25,
         "forward_return": 3219.17,
         "start_price": 31.2,
         "start_year": 2021
@@ -1011,7 +1002,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 3.21,
+        "pe_ratio": 3.95,
         "forward_return": 4717.81,
         "start_price": 37.95,
         "start_year": 2021
@@ -1020,7 +1011,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 3.0,
+        "pe_ratio": 3.83,
         "forward_return": 2465.15,
         "start_price": 45.5,
         "start_year": 2021
@@ -1029,7 +1020,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 4.26,
+        "pe_ratio": 5.52,
         "forward_return": 746.03,
         "start_price": 79.0,
         "start_year": 2021
@@ -1038,7 +1029,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 4.49,
+        "pe_ratio": 5.89,
         "forward_return": 285.23,
         "start_price": 98.6,
         "start_year": 2021
@@ -1047,7 +1038,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.78,
+        "pe_ratio": 10.27,
         "forward_return": -81.67,
         "start_price": 197.0,
         "start_year": 2021
@@ -1056,7 +1047,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 4.6,
+        "pe_ratio": 5.56,
         "forward_return": -67.44,
         "start_price": 132.0,
         "start_year": 2021
@@ -1065,7 +1056,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 4.24,
+        "pe_ratio": 4.81,
         "forward_return": 15.0,
         "start_price": 136.0,
         "start_year": 2021
@@ -1074,7 +1065,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 3.56,
+        "pe_ratio": 3.84,
         "forward_return": 63.87,
         "start_price": 126.0,
         "start_year": 2021
@@ -1083,7 +1074,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 2.56,
+        "pe_ratio": 2.68,
         "forward_return": 65.72,
         "start_price": 99.5,
         "start_year": 2021
@@ -1092,7 +1083,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 2.95,
+        "pe_ratio": 3.01,
         "forward_return": 27.95,
         "start_price": 124.5,
         "start_year": 2021
@@ -1110,7 +1101,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 2.3,
+        "pe_ratio": 2.28,
         "forward_return": 94.06,
         "start_price": 113.0,
         "start_year": 2022
@@ -1119,7 +1110,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 2.73,
+        "pe_ratio": 2.68,
         "forward_return": -8.22,
         "start_price": 143.5,
         "start_year": 2022
@@ -1128,7 +1119,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 2.41,
+        "pe_ratio": 2.35,
         "forward_return": -40.51,
         "start_price": 135.0,
         "start_year": 2022
@@ -1137,7 +1128,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 2.44,
+        "pe_ratio": 2.37,
         "forward_return": -62.58,
         "start_price": 145.0,
         "start_year": 2022
@@ -1146,7 +1137,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 2.24,
+        "pe_ratio": 2.16,
         "forward_return": -66.96,
         "start_price": 140.5,
         "start_year": 2022
@@ -1155,7 +1146,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 1.28,
+        "pe_ratio": 1.23,
         "forward_return": 1284.53,
         "start_price": 84.6,
         "start_year": 2022
@@ -1164,7 +1155,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 1.37,
+        "pe_ratio": 1.27,
         "forward_return": 325.07,
         "start_price": 95.5,
         "start_year": 2022
@@ -1173,7 +1164,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 1.21,
+        "pe_ratio": 1.09,
         "forward_return": 526.68,
         "start_price": 88.3,
         "start_year": 2022
@@ -1182,7 +1173,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 1.9,
+        "pe_ratio": 1.68,
         "forward_return": 55.6,
         "start_price": 146.0,
         "start_year": 2022
@@ -1191,7 +1182,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 1.72,
+        "pe_ratio": 1.58,
         "forward_return": 48.89,
         "start_price": 137.5,
         "start_year": 2022
@@ -1200,7 +1191,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 1.95,
+        "pe_ratio": 1.87,
         "forward_return": -8.17,
         "start_price": 163.0,
         "start_year": 2022
@@ -1218,7 +1209,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 1.87,
+        "pe_ratio": 1.59,
         "forward_return": 2.02,
         "start_price": 152.0,
         "start_year": 2023
@@ -1227,7 +1218,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 2.08,
+        "pe_ratio": 1.51,
         "forward_return": -9.94,
         "start_price": 157.0,
         "start_year": 2023
@@ -1236,7 +1227,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 2.28,
+        "pe_ratio": 1.41,
         "forward_return": 32.22,
         "start_price": 158.5,
         "start_year": 2023
@@ -1245,7 +1236,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 2.54,
+        "pe_ratio": 1.66,
         "forward_return": 34.88,
         "start_price": 161.5,
         "start_year": 2023
@@ -1254,7 +1245,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 2.65,
+        "pe_ratio": 1.87,
         "forward_return": 76.34,
         "start_price": 153.0,
         "start_year": 2023
@@ -1263,7 +1254,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 1.8,
+        "pe_ratio": 1.41,
         "forward_return": 1434.18,
         "start_price": 93.5,
         "start_year": 2023
@@ -1272,7 +1263,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 2.26,
+        "pe_ratio": 1.92,
         "forward_return": 14.04,
         "start_price": 104.0,
         "start_year": 2023
@@ -1281,7 +1272,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 2.65,
+        "pe_ratio": 2.56,
         "forward_return": 144.18,
         "start_price": 106.5,
         "start_year": 2023
@@ -1290,7 +1281,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 3.38,
+        "pe_ratio": 3.97,
         "forward_return": 134.88,
         "start_price": 116.0,
         "start_year": 2023
@@ -1299,7 +1290,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 3.78,
+        "pe_ratio": 4.29,
         "forward_return": 280.32,
         "start_price": 107.5,
         "start_year": 2023
@@ -1308,7 +1299,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 4.96,
+        "pe_ratio": 5.36,
         "forward_return": 265.09,
         "start_price": 112.0,
         "start_year": 2023
@@ -1326,7 +1317,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 7.27,
+        "pe_ratio": 8.1,
         "forward_return": 175.33,
         "start_price": 150.5,
         "start_year": 2024
@@ -1335,7 +1326,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 6.69,
+        "pe_ratio": 8.09,
         "forward_return": 162.57,
         "start_price": 165.5,
         "start_year": 2024
@@ -1344,7 +1335,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 5.98,
+        "pe_ratio": 7.7,
         "forward_return": 15.47,
         "start_price": 172.0,
         "start_year": 2024
@@ -1353,7 +1344,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.26,
         "forward_return": -17.81,
         "start_price": 189.5,
         "start_year": 2024
@@ -1362,7 +1353,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 5.72,
+        "pe_ratio": 7.05,
         "forward_return": -21.63,
         "start_price": 210.5,
         "start_year": 2024
@@ -1371,7 +1362,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 4.73,
+        "pe_ratio": 5.74,
         "forward_return": 42.38,
         "start_price": 193.0,
         "start_year": 2024
@@ -1380,7 +1371,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 3.81,
+        "pe_ratio": 4.28,
         "forward_return": 109.86,
         "start_price": 170.5,
         "start_year": 2024
@@ -1389,7 +1380,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 3.85,
+        "pe_ratio": 4.09,
         "forward_return": 71.24,
         "start_price": 188.0,
         "start_year": 2024
@@ -1398,7 +1389,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 3.8,
+        "pe_ratio": 3.85,
         "forward_return": 57.26,
         "start_price": 201.0,
         "start_year": 2024
@@ -1407,7 +1398,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 3.62,
+        "pe_ratio": 3.64,
         "forward_return": -1.92,
         "start_price": 205.5,
         "start_year": 2024
@@ -1416,7 +1407,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 3.57,
+        "pe_ratio": 3.58,
         "forward_return": 4.99,
         "start_price": 217.0,
         "start_year": 2024
@@ -1434,7 +1425,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 3.25,
+        "pe_ratio": 3.09,
         "forward_return": 72.25,
         "start_price": 204.5,
         "start_year": 2025
@@ -1443,7 +1434,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 3.19,
         "forward_return": 65.36,
         "start_price": 216.0,
         "start_year": 2025
@@ -1452,7 +1443,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 3.73,
+        "pe_ratio": 3.19,
         "forward_return": 14.2,
         "start_price": 220.5,
         "start_year": 2025
@@ -1461,7 +1452,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 3.61,
+        "pe_ratio": 3.12,
         "forward_return": 55.47,
         "start_price": 206.5,
         "start_year": 2025
@@ -1470,7 +1461,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 4.42,
+        "pe_ratio": 3.86,
         "forward_return": -36.58,
         "start_price": 244.5,
         "start_year": 2025
@@ -1479,7 +1470,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 3.73,
+        "pe_ratio": 3.29,
         "forward_return": 27.36,
         "start_price": 199.0,
         "start_year": 2025
@@ -1488,7 +1479,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 3.85,
+        "pe_ratio": 3.65,
         "forward_return": -8.72,
         "start_price": 198.0,
         "start_year": 2025
@@ -1497,7 +1488,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 3.74,
+        "pe_ratio": 3.86,
         "forward_return": 7.44,
         "start_price": 185.5,
         "start_year": 2025
@@ -1506,7 +1497,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 3.76,
+        "pe_ratio": 4.27,
         "forward_return": 27.05,
         "start_price": 179.0,
         "start_year": 2025
@@ -1515,7 +1506,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 5.03,
         "forward_return": -14.52,
         "start_price": 193.5,
         "start_year": 2025
@@ -1524,7 +1515,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 5.62,
         "forward_return": 5.1,
         "start_price": 20.3,
         "start_year": 2006
@@ -1533,7 +1524,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 158.9,
+        "pe_ratio": 7.17,
         "forward_return": -11.74,
         "start_price": 22.25,
         "start_year": 2006
@@ -1542,7 +1533,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 157.1,
+        "pe_ratio": 8.47,
         "forward_return": -10.24,
         "start_price": 22.0,
         "start_year": 2006
@@ -1551,7 +1542,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 161.4,
+        "pe_ratio": 10.81,
         "forward_return": -16.48,
         "start_price": 22.6,
         "start_year": 2006
@@ -1560,7 +1551,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 158.6,
+        "pe_ratio": 13.37,
         "forward_return": -31.85,
         "start_price": 22.2,
         "start_year": 2006
@@ -1569,7 +1560,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 130.4,
+        "pe_ratio": 14.84,
         "forward_return": 28.4,
         "start_price": 18.25,
         "start_year": 2006
@@ -1578,7 +1569,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 134.6,
+        "pe_ratio": 23.56,
         "forward_return": 25.55,
         "start_price": 18.85,
         "start_year": 2006
@@ -1587,7 +1578,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 136.4,
+        "pe_ratio": 32.93,
         "forward_return": 14.39,
         "start_price": 19.1,
         "start_year": 2006
@@ -1596,7 +1587,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 136.4,
+        "pe_ratio": 53.06,
         "forward_return": 17.05,
         "start_price": 19.1,
         "start_year": 2006
@@ -1614,7 +1605,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 43.31,
+        "pe_ratio": 457.5,
         "forward_return": 53.78,
         "start_price": 18.3,
         "start_year": 2007
@@ -1622,26 +1613,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2007-02-14",
-        "pe_ratio": 30.5,
-        "forward_return": 1.88,
-        "start_price": 21.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2007-03-16",
-        "pe_ratio": 21.37,
-        "forward_return": 103.56,
-        "start_price": 21.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 170.4,
         "forward_return": 144.41,
         "start_price": 20.45,
         "start_year": 2007
@@ -1650,7 +1623,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 51.62,
         "forward_return": 88.09,
         "start_price": 20.65,
         "start_year": 2007
@@ -1659,7 +1632,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 31.99,
         "forward_return": 88.74,
         "start_price": 21.75,
         "start_year": 2007
@@ -1668,7 +1641,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 17.6,
         "forward_return": 13.29,
         "start_price": 22.35,
         "start_year": 2007
@@ -1677,7 +1650,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 11.51,
         "forward_return": 78.47,
         "start_price": 21.4,
         "start_year": 2007
@@ -1686,7 +1659,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.29,
+        "pe_ratio": 11.27,
         "forward_return": 18.22,
         "start_price": 27.6,
         "start_year": 2007
@@ -1695,7 +1668,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 11.28,
         "forward_return": -25.26,
         "start_price": 31.7,
         "start_year": 2007
@@ -1704,7 +1677,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 8.74,
         "forward_return": -6.76,
         "start_price": 27.7,
         "start_year": 2007
@@ -1722,7 +1695,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.32,
+        "pe_ratio": 6.83,
         "forward_return": -16.93,
         "start_price": 23.8,
         "start_year": 2008
@@ -1731,7 +1704,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.55,
         "forward_return": -42.53,
         "start_price": 26.0,
         "start_year": 2008
@@ -1740,7 +1713,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 8.82,
         "forward_return": -55.58,
         "start_price": 30.0,
         "start_year": 2008
@@ -1749,7 +1722,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 8.68,
         "forward_return": -58.71,
         "start_price": 29.05,
         "start_year": 2008
@@ -1758,7 +1731,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 8.12,
         "forward_return": -53.18,
         "start_price": 26.75,
         "start_year": 2008
@@ -1767,7 +1740,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.89,
+        "pe_ratio": 7.44,
         "forward_return": -49.3,
         "start_price": 24.1,
         "start_year": 2008
@@ -1776,7 +1749,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 7.37,
         "forward_return": -54.84,
         "start_price": 20.0,
         "start_year": 2008
@@ -1785,7 +1758,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 8.23,
         "forward_return": -33.13,
         "start_price": 18.0,
         "start_year": 2008
@@ -1794,7 +1767,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.75,
+        "pe_ratio": 8.61,
         "forward_return": -0.7,
         "start_price": 14.3,
         "start_year": 2008
@@ -1803,7 +1776,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 14.41,
         "forward_return": 21.74,
         "start_price": 16.95,
         "start_year": 2008
@@ -1812,7 +1785,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 33.49,
+        "pe_ratio": 23.51,
         "forward_return": 36.25,
         "start_price": 16.3,
         "start_year": 2008
@@ -1829,26 +1802,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2010-05-16",
-        "pe_ratio": 101.4,
-        "forward_return": 137.57,
-        "start_price": 18.25,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2010-06-15",
-        "pe_ratio": 23.78,
-        "forward_return": 119.18,
-        "start_price": 20.45,
-        "start_year": 2010
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.45,
+        "pe_ratio": 31.73,
         "forward_return": 63.62,
         "start_price": 23.8,
         "start_year": 2010
@@ -1857,7 +1812,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.57,
+        "pe_ratio": 11.42,
         "forward_return": 27.34,
         "start_price": 21.25,
         "start_year": 2010
@@ -1866,7 +1821,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 7.62,
+        "pe_ratio": 7.44,
         "forward_return": 22.62,
         "start_price": 22.1,
         "start_year": 2010
@@ -1875,7 +1830,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 7.12,
+        "pe_ratio": 7.03,
         "forward_return": 8.59,
         "start_price": 25.5,
         "start_year": 2010
@@ -1884,7 +1839,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 6.02,
+        "pe_ratio": 5.99,
         "forward_return": 8.84,
         "start_price": 25.65,
         "start_year": 2010
@@ -1902,7 +1857,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.02,
         "forward_return": -54.03,
         "start_price": 30.5,
         "start_year": 2011
@@ -1911,7 +1866,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 6.6,
+        "pe_ratio": 5.04,
         "forward_return": -44.15,
         "start_price": 26.2,
         "start_year": 2011
@@ -1920,7 +1875,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 7.02,
+        "pe_ratio": 4.6,
         "forward_return": -42.94,
         "start_price": 24.45,
         "start_year": 2011
@@ -1929,7 +1884,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 5.44,
         "forward_return": -55.82,
         "start_price": 26.5,
         "start_year": 2011
@@ -1938,7 +1893,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.65,
+        "pe_ratio": 6.05,
         "forward_return": -57.07,
         "start_price": 26.75,
         "start_year": 2011
@@ -1947,7 +1902,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 5.82,
         "forward_return": -50.14,
         "start_price": 23.1,
         "start_year": 2011
@@ -1956,7 +1911,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 6.53,
         "forward_return": -29.59,
         "start_price": 19.75,
         "start_year": 2011
@@ -1965,7 +1920,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.66,
+        "pe_ratio": 8.96,
         "forward_return": 16.18,
         "start_price": 18.6,
         "start_year": 2011
@@ -1974,7 +1929,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 27.49,
+        "pe_ratio": 13.81,
         "forward_return": 69.64,
         "start_price": 15.6,
         "start_year": 2011
@@ -1983,19 +1938,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 203.3,
+        "pe_ratio": 36.35,
         "forward_return": -19.29,
         "start_price": 16.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2012-11-15",
-        "pe_ratio": 1140.0,
-        "forward_return": -4.09,
-        "start_price": 17.1,
-        "start_year": 2012
       },
       {
         "horizon": "0.5y",
@@ -2010,7 +1956,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 347.8,
+        "pe_ratio": 85.02,
         "forward_return": -18.12,
         "start_price": 18.55,
         "start_year": 2013
@@ -2019,7 +1965,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 2018.0,
+        "pe_ratio": 55.89,
         "forward_return": -20.53,
         "start_price": 18.95,
         "start_year": 2013
@@ -2027,17 +1973,44 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2014-07-16",
-        "pe_ratio": 1301.0,
-        "forward_return": 66.05,
-        "start_price": 17.35,
-        "start_year": 2014
+        "start_date": "2013-03-16",
+        "pe_ratio": 38.91,
+        "forward_return": -5.65,
+        "start_price": 17.9,
+        "start_year": 2013
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2013-04-15",
+        "pe_ratio": 49.76,
+        "forward_return": 0.58,
+        "start_price": 17.25,
+        "start_year": 2013
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2013-05-16",
+        "pe_ratio": 71.79,
+        "forward_return": 15.22,
+        "start_price": 16.75,
+        "start_year": 2013
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2013-06-15",
+        "pe_ratio": 136.7,
+        "forward_return": 23.1,
+        "start_price": 16.4,
+        "start_year": 2013
       },
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 238.0,
+        "pe_ratio": 165.9,
         "forward_return": 51.77,
         "start_price": 18.25,
         "start_year": 2014
@@ -2046,7 +2019,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 127.5,
+        "pe_ratio": 63.75,
         "forward_return": 70.46,
         "start_price": 17.85,
         "start_year": 2014
@@ -2055,7 +2028,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 88.28,
+        "pe_ratio": 60.51,
         "forward_return": -2.86,
         "start_price": 17.95,
         "start_year": 2014
@@ -2064,7 +2037,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 68.81,
+        "pe_ratio": 58.56,
         "forward_return": -7.55,
         "start_price": 18.35,
         "start_year": 2014
@@ -2082,7 +2055,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 113.4,
+        "pe_ratio": 35.0,
         "forward_return": -53.97,
         "start_price": 22.4,
         "start_year": 2015
@@ -2091,7 +2064,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 354.6,
+        "pe_ratio": 24.26,
         "forward_return": -61.37,
         "start_price": 23.05,
         "start_year": 2015
@@ -2099,8 +2072,62 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
+        "start_date": "2015-03-16",
+        "pe_ratio": 18.45,
+        "forward_return": -54.8,
+        "start_price": 23.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2015-04-15",
+        "pe_ratio": 17.0,
+        "forward_return": -50.89,
+        "start_price": 20.85,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2015-05-16",
+        "pe_ratio": 14.79,
+        "forward_return": -37.91,
+        "start_price": 17.65,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2015-06-15",
+        "pe_ratio": 13.79,
+        "forward_return": -30.33,
+        "start_price": 16.0,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2015-07-16",
+        "pe_ratio": 20.11,
+        "forward_return": -34.94,
+        "start_price": 15.15,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2015-08-16",
+        "pe_ratio": 41.11,
+        "forward_return": -26.05,
+        "start_price": 14.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 343.3,
+        "pe_ratio": 61.8,
         "forward_return": 11.96,
         "start_price": 15.45,
         "start_year": 2017
@@ -2109,7 +2136,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 45.24,
+        "pe_ratio": 23.2,
         "forward_return": 8.57,
         "start_price": 16.55,
         "start_year": 2017
@@ -2118,7 +2145,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 33.5,
+        "pe_ratio": 19.55,
         "forward_return": -51.29,
         "start_price": 23.0,
         "start_year": 2017
@@ -2127,7 +2154,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.11,
+        "pe_ratio": 11.13,
         "forward_return": -31.32,
         "start_price": 18.25,
         "start_year": 2017
@@ -2136,7 +2163,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 10.31,
         "forward_return": -28.55,
         "start_price": 18.05,
         "start_year": 2017
@@ -2145,7 +2172,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 10.22,
+        "pe_ratio": 9.06,
         "forward_return": -22.51,
         "start_price": 16.85,
         "start_year": 2017
@@ -2163,7 +2190,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.53,
         "forward_return": -33.9,
         "start_price": 17.25,
         "start_year": 2018
@@ -2172,7 +2199,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.36,
         "forward_return": -26.53,
         "start_price": 15.45,
         "start_year": 2018
@@ -2181,7 +2208,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.17,
         "forward_return": -36.6,
         "start_price": 15.15,
         "start_year": 2018
@@ -2190,7 +2217,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 11.3,
+        "pe_ratio": 12.28,
         "forward_return": -40.92,
         "start_price": 15.1,
         "start_year": 2018
@@ -2199,7 +2226,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.6,
+        "pe_ratio": 15.31,
         "forward_return": -29.5,
         "start_price": 14.85,
         "start_year": 2018
@@ -2208,7 +2235,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 18.31,
         "forward_return": -13.34,
         "start_price": 13.0,
         "start_year": 2018
@@ -2217,7 +2244,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 30.33,
         "forward_return": -25.39,
         "start_price": 13.85,
         "start_year": 2018
@@ -2226,7 +2253,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.55,
+        "pe_ratio": 64.18,
         "forward_return": -14.08,
         "start_price": 13.05,
         "start_year": 2018
@@ -2234,26 +2261,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2018-09-15",
-        "pe_ratio": 23.49,
-        "forward_return": -12.95,
-        "start_price": 12.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2018-10-16",
-        "pe_ratio": 29.48,
-        "forward_return": 10.81,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 51.02,
+        "pe_ratio": 388.3,
         "forward_return": 7.95,
         "start_price": 11.65,
         "start_year": 2018
@@ -2271,7 +2280,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 181.5,
+        "pe_ratio": 123.6,
         "forward_return": 45.69,
         "start_price": 11.95,
         "start_year": 2019
@@ -2280,7 +2289,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 201.9,
+        "pe_ratio": 100.9,
         "forward_return": 6.55,
         "start_price": 12.45,
         "start_year": 2019
@@ -2289,7 +2298,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 207.8,
+        "pe_ratio": 79.67,
         "forward_return": 7.98,
         "start_price": 11.95,
         "start_year": 2019
@@ -2298,7 +2307,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 254.1,
+        "pe_ratio": 58.91,
         "forward_return": -14.87,
         "start_price": 13.55,
         "start_year": 2019
@@ -2307,7 +2316,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 246.1,
+        "pe_ratio": 39.03,
         "forward_return": 4.27,
         "start_price": 12.1,
         "start_year": 2019
@@ -2316,7 +2325,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 276.7,
+        "pe_ratio": 31.92,
         "forward_return": -0.8,
         "start_price": 12.45,
         "start_year": 2019
@@ -2325,7 +2334,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 352.6,
+        "pe_ratio": 42.35,
         "forward_return": -33.22,
         "start_price": 14.4,
         "start_year": 2019
@@ -2334,7 +2343,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 350.4,
+        "pe_ratio": 44.31,
         "forward_return": -43.09,
         "start_price": 12.85,
         "start_year": 2019
@@ -2343,7 +2352,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 400.0,
+        "pe_ratio": 54.17,
         "forward_return": -49.49,
         "start_price": 13.0,
         "start_year": 2019
@@ -2352,7 +2361,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 441.2,
+        "pe_ratio": 75.0,
         "forward_return": -20.93,
         "start_price": 12.5,
         "start_year": 2019
@@ -2361,7 +2370,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 513.1,
+        "pe_ratio": 132.9,
         "forward_return": -22.8,
         "start_price": 12.4,
         "start_year": 2019
@@ -2378,35 +2387,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2020-01-16",
-        "pe_ratio": 26.7,
-        "forward_return": -12.4,
-        "start_price": 11.75,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-02-15",
-        "pe_ratio": 13.43,
-        "forward_return": 126.57,
-        "start_price": 11.55,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-03-16",
-        "pe_ratio": 7.23,
-        "forward_return": 238.57,
-        "start_price": 9.25,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 6.53,
+        "pe_ratio": 175.3,
         "forward_return": 189.29,
         "start_price": 11.1,
         "start_year": 2020
@@ -2415,7 +2397,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 5.14,
+        "pe_ratio": 35.54,
         "forward_return": 847.46,
         "start_price": 10.9,
         "start_year": 2020
@@ -2424,7 +2406,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 4.23,
+        "pe_ratio": 19.55,
         "forward_return": 1325.62,
         "start_price": 10.75,
         "start_year": 2020
@@ -2433,7 +2415,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 3.72,
+        "pe_ratio": 9.94,
         "forward_return": 692.06,
         "start_price": 11.0,
         "start_year": 2020
@@ -2442,7 +2424,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 5.15,
+        "pe_ratio": 10.46,
         "forward_return": 423.89,
         "start_price": 17.4,
         "start_year": 2020
@@ -2451,7 +2433,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 7.14,
         "forward_return": 739.82,
         "start_price": 15.85,
         "start_year": 2020
@@ -2460,7 +2442,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 4.48,
+        "pe_ratio": 5.97,
         "forward_return": 1621.94,
         "start_price": 18.9,
         "start_year": 2020
@@ -2469,7 +2451,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 5.32,
+        "pe_ratio": 6.0,
         "forward_return": 1533.63,
         "start_price": 24.7,
         "start_year": 2020
@@ -2487,7 +2469,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 3.7,
+        "pe_ratio": 4.25,
         "forward_return": 1807.41,
         "start_price": 31.2,
         "start_year": 2021
@@ -2496,7 +2478,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 3.21,
+        "pe_ratio": 3.95,
         "forward_return": 1243.56,
         "start_price": 37.95,
         "start_year": 2021
@@ -2505,7 +2487,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 3.0,
+        "pe_ratio": 3.83,
         "forward_return": 296.54,
         "start_price": 45.5,
         "start_year": 2021
@@ -2514,7 +2496,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 4.26,
+        "pe_ratio": 5.52,
         "forward_return": 66.49,
         "start_price": 79.0,
         "start_year": 2021
@@ -2523,7 +2505,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 4.49,
+        "pe_ratio": 5.89,
         "forward_return": 93.11,
         "start_price": 98.6,
         "start_year": 2021
@@ -2532,7 +2514,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.78,
+        "pe_ratio": 10.27,
         "forward_return": -45.77,
         "start_price": 197.0,
         "start_year": 2021
@@ -2541,7 +2523,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 4.6,
+        "pe_ratio": 5.56,
         "forward_return": -26.55,
         "start_price": 132.0,
         "start_year": 2021
@@ -2550,7 +2532,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 4.24,
+        "pe_ratio": 4.81,
         "forward_return": -1.26,
         "start_price": 136.0,
         "start_year": 2021
@@ -2559,7 +2541,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 3.56,
+        "pe_ratio": 3.84,
         "forward_return": 14.94,
         "start_price": 126.0,
         "start_year": 2021
@@ -2568,7 +2550,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 2.56,
+        "pe_ratio": 2.68,
         "forward_return": 81.21,
         "start_price": 99.5,
         "start_year": 2021
@@ -2577,7 +2559,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 2.95,
+        "pe_ratio": 3.01,
         "forward_return": 27.63,
         "start_price": 124.5,
         "start_year": 2021
@@ -2595,7 +2577,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 2.3,
+        "pe_ratio": 2.28,
         "forward_return": 0.89,
         "start_price": 113.0,
         "start_year": 2022
@@ -2604,7 +2586,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 2.73,
+        "pe_ratio": 2.68,
         "forward_return": -45.24,
         "start_price": 143.5,
         "start_year": 2022
@@ -2613,7 +2595,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 2.41,
+        "pe_ratio": 2.35,
         "forward_return": 27.29,
         "start_price": 135.0,
         "start_year": 2022
@@ -2622,7 +2604,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 2.44,
+        "pe_ratio": 2.37,
         "forward_return": 14.97,
         "start_price": 145.0,
         "start_year": 2022
@@ -2631,7 +2613,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 2.24,
+        "pe_ratio": 2.16,
         "forward_return": 54.08,
         "start_price": 140.5,
         "start_year": 2022
@@ -2640,7 +2622,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 1.28,
+        "pe_ratio": 1.23,
         "forward_return": 356.31,
         "start_price": 84.6,
         "start_year": 2022
@@ -2649,7 +2631,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 1.37,
+        "pe_ratio": 1.27,
         "forward_return": 151.57,
         "start_price": 95.5,
         "start_year": 2022
@@ -2658,7 +2640,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 1.21,
+        "pe_ratio": 1.09,
         "forward_return": 173.99,
         "start_price": 88.3,
         "start_year": 2022
@@ -2667,7 +2649,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 1.9,
+        "pe_ratio": 1.68,
         "forward_return": 18.03,
         "start_price": 146.0,
         "start_year": 2022
@@ -2676,7 +2658,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 1.72,
+        "pe_ratio": 1.58,
         "forward_return": 20.2,
         "start_price": 137.5,
         "start_year": 2022
@@ -2685,7 +2667,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 1.95,
+        "pe_ratio": 1.87,
         "forward_return": -11.99,
         "start_price": 163.0,
         "start_year": 2022
@@ -2703,7 +2685,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 1.87,
+        "pe_ratio": 1.59,
         "forward_return": 31.36,
         "start_price": 152.0,
         "start_year": 2023
@@ -2712,7 +2694,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 2.08,
+        "pe_ratio": 1.51,
         "forward_return": 26.49,
         "start_price": 157.0,
         "start_year": 2023
@@ -2721,7 +2703,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 2.28,
+        "pe_ratio": 1.41,
         "forward_return": 21.32,
         "start_price": 158.5,
         "start_year": 2023
@@ -2730,7 +2712,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 2.54,
+        "pe_ratio": 1.66,
         "forward_return": 20.75,
         "start_price": 161.5,
         "start_year": 2023
@@ -2739,7 +2721,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 2.65,
+        "pe_ratio": 1.87,
         "forward_return": 76.6,
         "start_price": 153.0,
         "start_year": 2023
@@ -2748,7 +2730,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 1.8,
+        "pe_ratio": 1.41,
         "forward_return": 419.64,
         "start_price": 93.5,
         "start_year": 2023
@@ -2757,7 +2739,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 2.26,
+        "pe_ratio": 1.92,
         "forward_return": 108.26,
         "start_price": 104.0,
         "start_year": 2023
@@ -2766,7 +2748,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 2.65,
+        "pe_ratio": 2.56,
         "forward_return": 127.5,
         "start_price": 106.5,
         "start_year": 2023
@@ -2775,7 +2757,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 3.38,
+        "pe_ratio": 3.97,
         "forward_return": 120.45,
         "start_price": 116.0,
         "start_year": 2023
@@ -2784,7 +2766,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 3.78,
+        "pe_ratio": 4.29,
         "forward_return": 216.56,
         "start_price": 107.5,
         "start_year": 2023
@@ -2793,7 +2775,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 4.96,
+        "pe_ratio": 5.36,
         "forward_return": 254.77,
         "start_price": 112.0,
         "start_year": 2023
@@ -2811,7 +2793,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 7.27,
+        "pe_ratio": 8.1,
         "forward_return": 43.96,
         "start_price": 150.5,
         "start_year": 2024
@@ -2820,7 +2802,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 6.69,
+        "pe_ratio": 8.09,
         "forward_return": 42.98,
         "start_price": 165.5,
         "start_year": 2024
@@ -2829,7 +2811,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 5.98,
+        "pe_ratio": 7.7,
         "forward_return": 46.89,
         "start_price": 172.0,
         "start_year": 2024
@@ -2838,7 +2820,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.26,
         "forward_return": 29.21,
         "start_price": 189.5,
         "start_year": 2024
@@ -2847,7 +2829,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 5.72,
+        "pe_ratio": 7.05,
         "forward_return": 20.64,
         "start_price": 210.5,
         "start_year": 2024
@@ -2856,7 +2838,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 4.73,
+        "pe_ratio": 5.74,
         "forward_return": 48.1,
         "start_price": 193.0,
         "start_year": 2024
@@ -2865,7 +2847,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 3.81,
+        "pe_ratio": 4.28,
         "forward_return": 43.47,
         "start_price": 170.5,
         "start_year": 2024
@@ -2874,7 +2856,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 3.85,
+        "pe_ratio": 4.09,
         "forward_return": 31.62,
         "start_price": 188.0,
         "start_year": 2024
@@ -2883,7 +2865,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 3.8,
+        "pe_ratio": 3.85,
         "forward_return": 20.54,
         "start_price": 201.0,
         "start_year": 2024
@@ -2892,7 +2874,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 3.62,
+        "pe_ratio": 3.64,
         "forward_return": 34.9,
         "start_price": 205.5,
         "start_year": 2024
@@ -2901,7 +2883,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 3.57,
+        "pe_ratio": 3.58,
         "forward_return": 27.22,
         "start_price": 217.0,
         "start_year": 2024
@@ -2919,7 +2901,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 3.25,
+        "pe_ratio": 3.09,
         "forward_return": 27.32,
         "start_price": 204.5,
         "start_year": 2025
@@ -2928,7 +2910,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 3.19,
         "forward_return": 1.87,
         "start_price": 216.0,
         "start_year": 2025
@@ -2937,7 +2919,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 3.73,
+        "pe_ratio": 3.19,
         "forward_return": 4.29,
         "start_price": 220.5,
         "start_year": 2025
@@ -2946,7 +2928,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 3.61,
+        "pe_ratio": 3.12,
         "forward_return": 19.73,
         "start_price": 206.5,
         "start_year": 2025
@@ -2955,7 +2937,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 4.42,
+        "pe_ratio": 3.86,
         "forward_return": -14.86,
         "start_price": 244.5,
         "start_year": 2025
@@ -2964,7 +2946,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 3.73,
+        "pe_ratio": 3.29,
         "forward_return": 24.96,
         "start_price": 199.0,
         "start_year": 2025
@@ -2973,7 +2955,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 3.85,
+        "pe_ratio": 3.65,
         "forward_return": -11.67,
         "start_price": 198.0,
         "start_year": 2025
@@ -2982,7 +2964,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 5.62,
         "forward_return": 12.82,
         "start_price": 20.3,
         "start_year": 2006
@@ -2991,7 +2973,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 158.9,
+        "pe_ratio": 7.17,
         "forward_return": 0.0,
         "start_price": 22.25,
         "start_year": 2006
@@ -3000,7 +2982,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 157.1,
+        "pe_ratio": 8.47,
         "forward_return": 2.05,
         "start_price": 22.0,
         "start_year": 2006
@@ -3009,7 +2991,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 161.4,
+        "pe_ratio": 10.81,
         "forward_return": 4.21,
         "start_price": 22.6,
         "start_year": 2006
@@ -3018,7 +3000,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 158.6,
+        "pe_ratio": 13.37,
         "forward_return": 2.03,
         "start_price": 22.2,
         "start_year": 2006
@@ -3027,7 +3009,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 130.4,
+        "pe_ratio": 14.84,
         "forward_return": 18.92,
         "start_price": 18.25,
         "start_year": 2006
@@ -3036,7 +3018,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 134.6,
+        "pe_ratio": 23.56,
         "forward_return": 48.05,
         "start_price": 18.85,
         "start_year": 2006
@@ -3045,7 +3027,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 136.4,
+        "pe_ratio": 32.93,
         "forward_return": 67.6,
         "start_price": 19.1,
         "start_year": 2006
@@ -3054,7 +3036,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 136.4,
+        "pe_ratio": 53.06,
         "forward_return": 46.64,
         "start_price": 19.1,
         "start_year": 2006
@@ -3072,7 +3054,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 43.31,
+        "pe_ratio": 457.5,
         "forward_return": 31.72,
         "start_price": 18.3,
         "start_year": 2007
@@ -3080,26 +3062,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2007-02-14",
-        "pe_ratio": 30.5,
-        "forward_return": 22.34,
-        "start_price": 21.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2007-03-16",
-        "pe_ratio": 21.37,
-        "forward_return": 43.5,
-        "start_price": 21.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 170.4,
         "forward_return": 43.41,
         "start_price": 20.45,
         "start_year": 2007
@@ -3108,7 +3072,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 51.62,
         "forward_return": 30.92,
         "start_price": 20.65,
         "start_year": 2007
@@ -3117,7 +3081,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 31.99,
         "forward_return": 12.16,
         "start_price": 21.75,
         "start_year": 2007
@@ -3126,7 +3090,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 17.6,
         "forward_return": -2.91,
         "start_price": 22.35,
         "start_year": 2007
@@ -3135,7 +3099,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 11.51,
         "forward_return": -7.93,
         "start_price": 21.4,
         "start_year": 2007
@@ -3144,7 +3108,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.29,
+        "pe_ratio": 11.27,
         "forward_return": -41.97,
         "start_price": 27.6,
         "start_year": 2007
@@ -3153,7 +3117,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 11.28,
         "forward_return": -41.11,
         "start_price": 31.7,
         "start_year": 2007
@@ -3162,7 +3126,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 8.74,
         "forward_return": -34.96,
         "start_price": 27.7,
         "start_year": 2007
@@ -3180,7 +3144,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.32,
+        "pe_ratio": 6.83,
         "forward_return": -36.5,
         "start_price": 23.8,
         "start_year": 2008
@@ -3189,7 +3153,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.55,
         "forward_return": -36.36,
         "start_price": 26.0,
         "start_year": 2008
@@ -3198,7 +3162,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 8.82,
         "forward_return": -46.86,
         "start_price": 30.0,
         "start_year": 2008
@@ -3207,7 +3171,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 8.68,
         "forward_return": -37.37,
         "start_price": 29.05,
         "start_year": 2008
@@ -3216,7 +3180,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 8.12,
         "forward_return": -22.63,
         "start_price": 26.75,
         "start_year": 2008
@@ -3225,7 +3189,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.89,
+        "pe_ratio": 7.44,
         "forward_return": -25.12,
         "start_price": 24.1,
         "start_year": 2008
@@ -3234,7 +3198,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 7.37,
         "forward_return": 0.0,
         "start_price": 20.0,
         "start_year": 2008
@@ -3243,7 +3207,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 8.23,
         "forward_return": 10.56,
         "start_price": 18.0,
         "start_year": 2008
@@ -3252,7 +3216,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.75,
+        "pe_ratio": 8.61,
         "forward_return": 29.39,
         "start_price": 14.3,
         "start_year": 2008
@@ -3261,7 +3225,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 14.41,
         "forward_return": -1.77,
         "start_price": 16.95,
         "start_year": 2008
@@ -3270,7 +3234,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 33.49,
+        "pe_ratio": 23.51,
         "forward_return": 1.53,
         "start_price": 16.3,
         "start_year": 2008
@@ -3287,26 +3251,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2010-05-16",
-        "pe_ratio": 101.4,
-        "forward_return": 46.61,
-        "start_price": 18.25,
-        "start_year": 2010
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2010-06-15",
-        "pe_ratio": 23.78,
-        "forward_return": 12.97,
-        "start_price": 20.45,
-        "start_year": 2010
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.45,
+        "pe_ratio": 31.73,
         "forward_return": -12.82,
         "start_price": 23.8,
         "start_year": 2010
@@ -3315,7 +3261,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.57,
+        "pe_ratio": 11.42,
         "forward_return": -7.77,
         "start_price": 21.25,
         "start_year": 2010
@@ -3324,7 +3270,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 7.62,
+        "pe_ratio": 7.44,
         "forward_return": -24.9,
         "start_price": 22.1,
         "start_year": 2010
@@ -3333,7 +3279,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 7.12,
+        "pe_ratio": 7.03,
         "forward_return": -31.0,
         "start_price": 25.5,
         "start_year": 2010
@@ -3342,7 +3288,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 6.02,
+        "pe_ratio": 5.99,
         "forward_return": -39.4,
         "start_price": 25.65,
         "start_year": 2010
@@ -3360,7 +3306,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.02,
         "forward_return": -42.48,
         "start_price": 30.5,
         "start_year": 2011
@@ -3369,7 +3315,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 6.6,
+        "pe_ratio": 5.04,
         "forward_return": -17.57,
         "start_price": 26.2,
         "start_year": 2011
@@ -3378,7 +3324,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 7.02,
+        "pe_ratio": 4.6,
         "forward_return": -12.86,
         "start_price": 24.45,
         "start_year": 2011
@@ -3387,7 +3333,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 5.44,
         "forward_return": -31.27,
         "start_price": 26.5,
         "start_year": 2011
@@ -3396,7 +3342,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.65,
+        "pe_ratio": 6.05,
         "forward_return": -41.43,
         "start_price": 26.75,
         "start_year": 2011
@@ -3405,7 +3351,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 5.82,
         "forward_return": -25.93,
         "start_price": 23.1,
         "start_year": 2011
@@ -3414,7 +3360,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 6.53,
         "forward_return": -16.42,
         "start_price": 19.75,
         "start_year": 2011
@@ -3423,7 +3369,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.66,
+        "pe_ratio": 8.96,
         "forward_return": -13.95,
         "start_price": 18.6,
         "start_year": 2011
@@ -3432,7 +3378,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 27.49,
+        "pe_ratio": 13.81,
         "forward_return": -0.96,
         "start_price": 15.6,
         "start_year": 2011
@@ -3441,19 +3387,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 203.3,
+        "pe_ratio": 36.35,
         "forward_return": -9.32,
         "start_price": 16.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2012-11-15",
-        "pe_ratio": 1140.0,
-        "forward_return": 2.34,
-        "start_price": 17.1,
-        "start_year": 2012
       },
       {
         "horizon": "1y",
@@ -3468,7 +3405,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 347.8,
+        "pe_ratio": 85.02,
         "forward_return": -4.05,
         "start_price": 18.55,
         "start_year": 2013
@@ -3477,7 +3414,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 2018.0,
+        "pe_ratio": 55.89,
         "forward_return": -5.02,
         "start_price": 18.95,
         "start_year": 2013
@@ -3485,17 +3422,44 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2014-07-16",
-        "pe_ratio": 1301.0,
-        "forward_return": -12.11,
-        "start_price": 17.35,
-        "start_year": 2014
+        "start_date": "2013-03-16",
+        "pe_ratio": 38.91,
+        "forward_return": -0.56,
+        "start_price": 17.9,
+        "start_year": 2013
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2013-04-15",
+        "pe_ratio": 49.76,
+        "forward_return": -0.58,
+        "start_price": 17.25,
+        "start_year": 2013
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2013-05-16",
+        "pe_ratio": 71.79,
+        "forward_return": 2.69,
+        "start_price": 16.75,
+        "start_year": 2013
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2013-06-15",
+        "pe_ratio": 136.7,
+        "forward_return": -0.61,
+        "start_price": 16.4,
+        "start_year": 2013
       },
       {
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 238.0,
+        "pe_ratio": 165.9,
         "forward_return": -21.38,
         "start_price": 18.25,
         "start_year": 2014
@@ -3504,7 +3468,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 127.5,
+        "pe_ratio": 63.75,
         "forward_return": -21.86,
         "start_price": 17.85,
         "start_year": 2014
@@ -3513,7 +3477,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 88.28,
+        "pe_ratio": 60.51,
         "forward_return": -18.67,
         "start_price": 17.95,
         "start_year": 2014
@@ -3522,7 +3486,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 68.81,
+        "pe_ratio": 58.56,
         "forward_return": -28.9,
         "start_price": 18.35,
         "start_year": 2014
@@ -3540,7 +3504,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 113.4,
+        "pe_ratio": 35.0,
         "forward_return": -45.11,
         "start_price": 22.4,
         "start_year": 2015
@@ -3549,7 +3513,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 354.6,
+        "pe_ratio": 24.26,
         "forward_return": -47.53,
         "start_price": 23.05,
         "start_year": 2015
@@ -3557,8 +3521,62 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "1y",
         "horizon_label": "1年",
+        "start_date": "2015-03-16",
+        "pe_ratio": 18.45,
+        "forward_return": -48.1,
+        "start_price": 23.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2015-04-15",
+        "pe_ratio": 17.0,
+        "forward_return": -42.38,
+        "start_price": 20.85,
+        "start_year": 2015
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2015-05-16",
+        "pe_ratio": 14.79,
+        "forward_return": -34.22,
+        "start_price": 17.65,
+        "start_year": 2015
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2015-06-15",
+        "pe_ratio": 13.79,
+        "forward_return": -24.64,
+        "start_price": 16.0,
+        "start_year": 2015
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2015-07-16",
+        "pe_ratio": 20.11,
+        "forward_return": -18.45,
+        "start_price": 15.15,
+        "start_year": 2015
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2015-08-16",
+        "pe_ratio": 41.11,
+        "forward_return": -15.76,
+        "start_price": 14.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 343.3,
+        "pe_ratio": 61.8,
         "forward_return": -15.87,
         "start_price": 15.45,
         "start_year": 2017
@@ -3567,7 +3585,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 45.24,
+        "pe_ratio": 23.2,
         "forward_return": -15.12,
         "start_price": 16.55,
         "start_year": 2017
@@ -3576,7 +3594,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 33.5,
+        "pe_ratio": 19.55,
         "forward_return": -42.41,
         "start_price": 23.0,
         "start_year": 2017
@@ -3585,7 +3603,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.11,
+        "pe_ratio": 11.13,
         "forward_return": -28.78,
         "start_price": 18.25,
         "start_year": 2017
@@ -3594,7 +3612,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 10.31,
         "forward_return": -35.75,
         "start_price": 18.05,
         "start_year": 2017
@@ -3603,7 +3621,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 10.22,
+        "pe_ratio": 9.06,
         "forward_return": -29.69,
         "start_price": 16.85,
         "start_year": 2017
@@ -3621,7 +3639,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.53,
         "forward_return": -29.58,
         "start_price": 17.25,
         "start_year": 2018
@@ -3630,7 +3648,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.36,
         "forward_return": -18.13,
         "start_price": 15.45,
         "start_year": 2018
@@ -3639,7 +3657,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.17,
         "forward_return": -19.81,
         "start_price": 15.15,
         "start_year": 2018
@@ -3648,7 +3666,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 11.3,
+        "pe_ratio": 12.28,
         "forward_return": -8.95,
         "start_price": 15.1,
         "start_year": 2018
@@ -3657,7 +3675,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.6,
+        "pe_ratio": 15.31,
         "forward_return": -17.18,
         "start_price": 14.85,
         "start_year": 2018
@@ -3666,7 +3684,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 18.31,
         "forward_return": -2.69,
         "start_price": 13.0,
         "start_year": 2018
@@ -3675,7 +3693,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 30.33,
         "forward_return": 3.97,
         "start_price": 13.85,
         "start_year": 2018
@@ -3684,7 +3702,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.55,
+        "pe_ratio": 64.18,
         "forward_return": -1.53,
         "start_price": 13.05,
         "start_year": 2018
@@ -3692,26 +3710,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2018-09-15",
-        "pe_ratio": 23.49,
-        "forward_return": 1.56,
-        "start_price": 12.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2018-10-16",
-        "pe_ratio": 29.48,
-        "forward_return": 9.66,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 51.02,
+        "pe_ratio": 388.3,
         "forward_return": 6.44,
         "start_price": 11.65,
         "start_year": 2018
@@ -3729,7 +3729,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 181.5,
+        "pe_ratio": 123.6,
         "forward_return": -1.67,
         "start_price": 11.95,
         "start_year": 2019
@@ -3738,7 +3738,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 201.9,
+        "pe_ratio": 100.9,
         "forward_return": -7.23,
         "start_price": 12.45,
         "start_year": 2019
@@ -3747,7 +3747,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 207.8,
+        "pe_ratio": 79.67,
         "forward_return": -22.55,
         "start_price": 11.95,
         "start_year": 2019
@@ -3756,7 +3756,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 254.1,
+        "pe_ratio": 58.91,
         "forward_return": -18.05,
         "start_price": 13.55,
         "start_year": 2019
@@ -3765,7 +3765,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 246.1,
+        "pe_ratio": 39.03,
         "forward_return": -9.9,
         "start_price": 12.1,
         "start_year": 2019
@@ -3774,7 +3774,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 276.7,
+        "pe_ratio": 31.92,
         "forward_return": -13.63,
         "start_price": 12.45,
         "start_year": 2019
@@ -3783,7 +3783,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 352.6,
+        "pe_ratio": 42.35,
         "forward_return": -23.57,
         "start_price": 14.4,
         "start_year": 2019
@@ -3792,7 +3792,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 350.4,
+        "pe_ratio": 44.31,
         "forward_return": 35.32,
         "start_price": 12.85,
         "start_year": 2019
@@ -3801,7 +3801,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 400.0,
+        "pe_ratio": 54.17,
         "forward_return": 21.87,
         "start_price": 13.0,
         "start_year": 2019
@@ -3810,7 +3810,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 441.2,
+        "pe_ratio": 75.0,
         "forward_return": 51.07,
         "start_price": 12.5,
         "start_year": 2019
@@ -3819,7 +3819,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 513.1,
+        "pe_ratio": 132.9,
         "forward_return": 98.91,
         "start_price": 12.4,
         "start_year": 2019
@@ -3836,35 +3836,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 26.7,
-        "forward_return": 165.0,
-        "start_price": 11.75,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-02-15",
-        "pe_ratio": 13.43,
-        "forward_return": 255.29,
-        "start_price": 11.55,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-03-16",
-        "pe_ratio": 7.23,
-        "forward_return": 392.43,
-        "start_price": 9.25,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 6.53,
+        "pe_ratio": 175.3,
         "forward_return": 612.67,
         "start_price": 11.1,
         "start_year": 2020
@@ -3873,7 +3846,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 5.14,
+        "pe_ratio": 35.54,
         "forward_return": 805.95,
         "start_price": 10.9,
         "start_year": 2020
@@ -3882,7 +3855,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 4.23,
+        "pe_ratio": 19.55,
         "forward_return": 1736.21,
         "start_price": 10.75,
         "start_year": 2020
@@ -3891,7 +3864,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 3.72,
+        "pe_ratio": 9.94,
         "forward_return": 1124.71,
         "start_price": 11.0,
         "start_year": 2020
@@ -3900,7 +3873,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 5.15,
+        "pe_ratio": 10.46,
         "forward_return": 697.03,
         "start_price": 17.4,
         "start_year": 2020
@@ -3909,7 +3882,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 7.14,
         "forward_return": 711.81,
         "start_price": 15.85,
         "start_year": 2020
@@ -3918,7 +3891,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 4.48,
+        "pe_ratio": 5.97,
         "forward_return": 440.24,
         "start_price": 18.9,
         "start_year": 2020
@@ -3927,7 +3900,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 5.32,
+        "pe_ratio": 6.0,
         "forward_return": 414.69,
         "start_price": 24.7,
         "start_year": 2020
@@ -3945,7 +3918,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 3.7,
+        "pe_ratio": 4.25,
         "forward_return": 270.48,
         "start_price": 31.2,
         "start_year": 2021
@@ -3954,7 +3927,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 3.21,
+        "pe_ratio": 3.95,
         "forward_return": 285.04,
         "start_price": 37.95,
         "start_year": 2021
@@ -3963,7 +3936,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 3.0,
+        "pe_ratio": 3.83,
         "forward_return": 202.4,
         "start_price": 45.5,
         "start_year": 2021
@@ -3972,7 +3945,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 4.26,
+        "pe_ratio": 5.52,
         "forward_return": 86.77,
         "start_price": 79.0,
         "start_year": 2021
@@ -3981,7 +3954,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 4.49,
+        "pe_ratio": 5.89,
         "forward_return": 45.05,
         "start_price": 98.6,
         "start_year": 2021
@@ -3990,7 +3963,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.78,
+        "pe_ratio": 10.27,
         "forward_return": -55.82,
         "start_price": 197.0,
         "start_year": 2021
@@ -3999,7 +3972,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 4.6,
+        "pe_ratio": 5.56,
         "forward_return": -14.02,
         "start_price": 132.0,
         "start_year": 2021
@@ -4008,7 +3981,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 4.24,
+        "pe_ratio": 4.81,
         "forward_return": -21.85,
         "start_price": 136.0,
         "start_year": 2021
@@ -4017,7 +3990,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 3.56,
+        "pe_ratio": 3.84,
         "forward_return": 30.18,
         "start_price": 126.0,
         "start_year": 2021
@@ -4026,7 +3999,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 2.56,
+        "pe_ratio": 2.68,
         "forward_return": 56.33,
         "start_price": 99.5,
         "start_year": 2021
@@ -4035,7 +4008,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 2.95,
+        "pe_ratio": 3.01,
         "forward_return": 45.42,
         "start_price": 124.5,
         "start_year": 2021
@@ -4053,7 +4026,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 2.3,
+        "pe_ratio": 2.28,
         "forward_return": 50.48,
         "start_price": 113.0,
         "start_year": 2022
@@ -4062,7 +4035,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 2.73,
+        "pe_ratio": 2.68,
         "forward_return": 21.97,
         "start_price": 143.5,
         "start_year": 2022
@@ -4071,7 +4044,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 2.41,
+        "pe_ratio": 2.35,
         "forward_return": 30.76,
         "start_price": 135.0,
         "start_year": 2022
@@ -4080,7 +4053,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 2.44,
+        "pe_ratio": 2.37,
         "forward_return": 23.81,
         "start_price": 145.0,
         "start_year": 2022
@@ -4089,7 +4062,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 2.24,
+        "pe_ratio": 2.16,
         "forward_return": 21.72,
         "start_price": 140.5,
         "start_year": 2022
@@ -4098,7 +4071,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 1.28,
+        "pe_ratio": 1.23,
         "forward_return": 31.82,
         "start_price": 84.6,
         "start_year": 2022
@@ -4107,7 +4080,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 1.37,
+        "pe_ratio": 1.27,
         "forward_return": 82.27,
         "start_price": 95.5,
         "start_year": 2022
@@ -4116,7 +4089,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 1.21,
+        "pe_ratio": 1.09,
         "forward_return": 99.98,
         "start_price": 88.3,
         "start_year": 2022
@@ -4125,7 +4098,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 1.9,
+        "pe_ratio": 1.68,
         "forward_return": 27.42,
         "start_price": 146.0,
         "start_year": 2022
@@ -4134,7 +4107,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 1.72,
+        "pe_ratio": 1.58,
         "forward_return": 29.11,
         "start_price": 137.5,
         "start_year": 2022
@@ -4143,7 +4116,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 1.95,
+        "pe_ratio": 1.87,
         "forward_return": 11.66,
         "start_price": 163.0,
         "start_year": 2022
@@ -4161,7 +4134,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 1.87,
+        "pe_ratio": 1.59,
         "forward_return": 45.1,
         "start_price": 152.0,
         "start_year": 2023
@@ -4170,7 +4143,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 2.08,
+        "pe_ratio": 1.51,
         "forward_return": 50.04,
         "start_price": 157.0,
         "start_year": 2023
@@ -4179,7 +4152,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 2.28,
+        "pe_ratio": 1.41,
         "forward_return": 52.55,
         "start_price": 158.5,
         "start_year": 2023
@@ -4188,7 +4161,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 2.54,
+        "pe_ratio": 1.66,
         "forward_return": 60.53,
         "start_price": 161.5,
         "start_year": 2023
@@ -4197,7 +4170,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 2.65,
+        "pe_ratio": 1.87,
         "forward_return": 83.11,
         "start_price": 153.0,
         "start_year": 2023
@@ -4206,7 +4179,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 1.8,
+        "pe_ratio": 1.41,
         "forward_return": 180.69,
         "start_price": 93.5,
         "start_year": 2023
@@ -4215,7 +4188,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 2.26,
+        "pe_ratio": 1.92,
         "forward_return": 73.33,
         "start_price": 104.0,
         "start_year": 2023
@@ -4224,7 +4197,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 2.65,
+        "pe_ratio": 2.56,
         "forward_return": 85.65,
         "start_price": 106.5,
         "start_year": 2023
@@ -4233,7 +4206,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 3.38,
+        "pe_ratio": 3.97,
         "forward_return": 81.64,
         "start_price": 116.0,
         "start_year": 2023
@@ -4242,7 +4215,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 3.78,
+        "pe_ratio": 4.29,
         "forward_return": 100.15,
         "start_price": 107.5,
         "start_year": 2023
@@ -4251,7 +4224,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 4.96,
+        "pe_ratio": 5.36,
         "forward_return": 102.35,
         "start_price": 112.0,
         "start_year": 2023
@@ -4269,7 +4242,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 7.27,
+        "pe_ratio": 8.1,
         "forward_return": 42.4,
         "start_price": 150.5,
         "start_year": 2024
@@ -4278,7 +4251,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 6.69,
+        "pe_ratio": 8.09,
         "forward_return": 35.82,
         "start_price": 165.5,
         "start_year": 2024
@@ -4287,7 +4260,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 5.98,
+        "pe_ratio": 7.7,
         "forward_return": 34.02,
         "start_price": 172.0,
         "start_year": 2024
@@ -4296,7 +4269,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 5.79,
+        "pe_ratio": 7.26,
         "forward_return": 14.24,
         "start_price": 189.5,
         "start_year": 2024
@@ -4305,7 +4278,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 5.72,
+        "pe_ratio": 7.05,
         "forward_return": 20.9,
         "start_price": 210.5,
         "start_year": 2024
@@ -4314,7 +4287,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 4.73,
+        "pe_ratio": 5.74,
         "forward_return": 8.28,
         "start_price": 193.0,
         "start_year": 2024
@@ -4323,7 +4296,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 3.81,
+        "pe_ratio": 4.28,
         "forward_return": 35.22,
         "start_price": 170.5,
         "start_year": 2024
@@ -4332,7 +4305,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 3.85,
+        "pe_ratio": 4.09,
         "forward_return": 15.97,
         "start_price": 188.0,
         "start_year": 2024
@@ -4341,7 +4314,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 3.8,
+        "pe_ratio": 3.85,
         "forward_return": 5.23,
         "start_price": 201.0,
         "start_year": 2024
@@ -4350,7 +4323,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 3.62,
+        "pe_ratio": 3.64,
         "forward_return": 9.98,
         "start_price": 205.5,
         "start_year": 2024
@@ -4359,7 +4332,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 3.57,
+        "pe_ratio": 3.58,
         "forward_return": -2.31,
         "start_price": 217.0,
         "start_year": 2024
@@ -4377,7 +4350,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 3.25,
+        "pe_ratio": 3.09,
         "forward_return": 6.85,
         "start_price": 204.5,
         "start_year": 2025
@@ -4386,7 +4359,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 3.19,
         "forward_return": 6.25,
         "start_price": 216.0,
         "start_year": 2025
@@ -4395,7 +4368,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 5.62,
         "forward_return": 25.73,
         "start_price": 20.3,
         "start_year": 2006
@@ -4404,7 +4377,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 158.9,
+        "pe_ratio": 7.17,
         "forward_return": 18.31,
         "start_price": 22.25,
         "start_year": 2006
@@ -4413,7 +4386,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 157.1,
+        "pe_ratio": 8.47,
         "forward_return": 14.5,
         "start_price": 22.0,
         "start_year": 2006
@@ -4422,7 +4395,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 161.4,
+        "pe_ratio": 10.81,
         "forward_return": 7.66,
         "start_price": 22.6,
         "start_year": 2006
@@ -4431,7 +4404,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 158.6,
+        "pe_ratio": 13.37,
         "forward_return": -0.45,
         "start_price": 22.2,
         "start_year": 2006
@@ -4440,7 +4413,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 130.4,
+        "pe_ratio": 14.84,
         "forward_return": 4.68,
         "start_price": 18.25,
         "start_year": 2006
@@ -4449,7 +4422,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 134.6,
+        "pe_ratio": 23.56,
         "forward_return": -7.01,
         "start_price": 18.85,
         "start_year": 2006
@@ -4458,7 +4431,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 136.4,
+        "pe_ratio": 32.93,
         "forward_return": -0.4,
         "start_price": 19.1,
         "start_year": 2006
@@ -4467,7 +4440,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 136.4,
+        "pe_ratio": 53.06,
         "forward_return": -2.12,
         "start_price": 19.1,
         "start_year": 2006
@@ -4485,7 +4458,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 43.31,
+        "pe_ratio": 457.5,
         "forward_return": -8.26,
         "start_price": 18.3,
         "start_year": 2007
@@ -4493,26 +4466,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2007-02-14",
-        "pe_ratio": 30.5,
-        "forward_return": -15.63,
-        "start_price": 21.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2007-03-16",
-        "pe_ratio": 21.37,
-        "forward_return": -12.24,
-        "start_price": 21.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 170.4,
         "forward_return": -4.89,
         "start_price": 20.45,
         "start_year": 2007
@@ -4521,7 +4476,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 51.62,
         "forward_return": 0.84,
         "start_price": 20.65,
         "start_year": 2007
@@ -4530,7 +4485,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 31.99,
         "forward_return": -8.15,
         "start_price": 21.75,
         "start_year": 2007
@@ -4539,7 +4494,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 17.6,
         "forward_return": -1.47,
         "start_price": 22.35,
         "start_year": 2007
@@ -4548,7 +4503,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 11.51,
         "forward_return": 0.46,
         "start_price": 21.4,
         "start_year": 2007
@@ -4557,7 +4512,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.29,
+        "pe_ratio": 11.27,
         "forward_return": -14.44,
         "start_price": 27.6,
         "start_year": 2007
@@ -4566,7 +4521,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 11.28,
         "forward_return": -23.9,
         "start_price": 31.7,
         "start_year": 2007
@@ -4575,7 +4530,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 8.74,
         "forward_return": -18.82,
         "start_price": 27.7,
         "start_year": 2007
@@ -4593,7 +4548,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.32,
+        "pe_ratio": 6.83,
         "forward_return": -7.87,
         "start_price": 23.8,
         "start_year": 2008
@@ -4602,7 +4557,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.55,
         "forward_return": -11.01,
         "start_price": 26.0,
         "start_year": 2008
@@ -4611,7 +4566,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 8.82,
         "forward_return": -17.55,
         "start_price": 30.0,
         "start_year": 2008
@@ -4620,7 +4575,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 8.68,
         "forward_return": -13.28,
         "start_price": 29.05,
         "start_year": 2008
@@ -4629,7 +4584,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 8.12,
         "forward_return": -13.65,
         "start_price": 26.75,
         "start_year": 2008
@@ -4638,7 +4593,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.89,
+        "pe_ratio": 7.44,
         "forward_return": -4.14,
         "start_price": 24.1,
         "start_year": 2008
@@ -4647,7 +4602,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 7.37,
         "forward_return": 9.09,
         "start_price": 20.0,
         "start_year": 2008
@@ -4656,7 +4611,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 8.23,
         "forward_return": 8.66,
         "start_price": 18.0,
         "start_year": 2008
@@ -4665,7 +4620,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.75,
+        "pe_ratio": 8.61,
         "forward_return": 24.33,
         "start_price": 14.3,
         "start_year": 2008
@@ -4674,7 +4629,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 14.41,
         "forward_return": 22.67,
         "start_price": 16.95,
         "start_year": 2008
@@ -4683,7 +4638,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 33.49,
+        "pe_ratio": 23.51,
         "forward_return": 25.46,
         "start_price": 16.3,
         "start_year": 2008
@@ -4700,26 +4655,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2010-05-16",
-        "pe_ratio": 101.4,
-        "forward_return": -7.39,
-        "start_price": 18.25,
-        "start_year": 2010
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2010-06-15",
-        "pe_ratio": 23.78,
-        "forward_return": -8.55,
-        "start_price": 20.45,
-        "start_year": 2010
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.45,
+        "pe_ratio": 31.73,
         "forward_return": -14.24,
         "start_price": 23.8,
         "start_year": 2010
@@ -4728,7 +4665,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.57,
+        "pe_ratio": 11.42,
         "forward_return": -10.55,
         "start_price": 21.25,
         "start_year": 2010
@@ -4737,7 +4674,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 7.62,
+        "pe_ratio": 7.44,
         "forward_return": -13.72,
         "start_price": 22.1,
         "start_year": 2010
@@ -4746,7 +4683,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 7.12,
+        "pe_ratio": 7.03,
         "forward_return": -20.65,
         "start_price": 25.5,
         "start_year": 2010
@@ -4755,7 +4692,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 6.02,
+        "pe_ratio": 5.99,
         "forward_return": -15.99,
         "start_price": 25.65,
         "start_year": 2010
@@ -4773,7 +4710,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.02,
         "forward_return": -19.93,
         "start_price": 30.5,
         "start_year": 2011
@@ -4782,7 +4719,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 6.6,
+        "pe_ratio": 5.04,
         "forward_return": -12.73,
         "start_price": 26.2,
         "start_year": 2011
@@ -4791,7 +4728,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 7.02,
+        "pe_ratio": 4.6,
         "forward_return": -12.07,
         "start_price": 24.45,
         "start_year": 2011
@@ -4800,7 +4737,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 5.44,
         "forward_return": -17.0,
         "start_price": 26.5,
         "start_year": 2011
@@ -4809,7 +4746,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.65,
+        "pe_ratio": 6.05,
         "forward_return": -18.53,
         "start_price": 26.75,
         "start_year": 2011
@@ -4818,7 +4755,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 5.82,
         "forward_return": -13.2,
         "start_price": 23.1,
         "start_year": 2011
@@ -4827,7 +4764,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 6.53,
         "forward_return": -7.77,
         "start_price": 19.75,
         "start_year": 2011
@@ -4836,7 +4773,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.66,
+        "pe_ratio": 8.96,
         "forward_return": -4.68,
         "start_price": 18.6,
         "start_year": 2011
@@ -4845,7 +4782,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 27.49,
+        "pe_ratio": 13.81,
         "forward_return": 5.91,
         "start_price": 15.6,
         "start_year": 2011
@@ -4854,19 +4791,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 203.3,
+        "pe_ratio": 36.35,
         "forward_return": 2.09,
         "start_price": 16.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2012-11-15",
-        "pe_ratio": 1140.0,
-        "forward_return": 3.59,
-        "start_price": 17.1,
-        "start_year": 2012
       },
       {
         "horizon": "2y",
@@ -4881,7 +4809,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 347.8,
+        "pe_ratio": 85.02,
         "forward_return": 9.9,
         "start_price": 18.55,
         "start_year": 2013
@@ -4890,7 +4818,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 2018.0,
+        "pe_ratio": 55.89,
         "forward_return": 10.3,
         "start_price": 18.95,
         "start_year": 2013
@@ -4898,17 +4826,44 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2014-07-16",
-        "pe_ratio": 1301.0,
-        "forward_return": -15.28,
-        "start_price": 17.35,
-        "start_year": 2014
+        "start_date": "2013-03-16",
+        "pe_ratio": 38.91,
+        "forward_return": 13.98,
+        "start_price": 17.9,
+        "start_year": 2013
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2013-04-15",
+        "pe_ratio": 49.76,
+        "forward_return": 9.95,
+        "start_price": 17.25,
+        "start_year": 2013
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2013-05-16",
+        "pe_ratio": 71.79,
+        "forward_return": 2.65,
+        "start_price": 16.75,
+        "start_year": 2013
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2013-06-15",
+        "pe_ratio": 136.7,
+        "forward_return": -1.23,
+        "start_price": 16.4,
+        "start_year": 2013
       },
       {
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 238.0,
+        "pe_ratio": 165.9,
         "forward_return": -18.56,
         "start_price": 18.25,
         "start_year": 2014
@@ -4917,7 +4872,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 127.5,
+        "pe_ratio": 63.75,
         "forward_return": -17.32,
         "start_price": 17.85,
         "start_year": 2014
@@ -4926,7 +4881,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 88.28,
+        "pe_ratio": 60.51,
         "forward_return": -18.57,
         "start_price": 17.95,
         "start_year": 2014
@@ -4935,7 +4890,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 68.81,
+        "pe_ratio": 58.56,
         "forward_return": -18.62,
         "start_price": 18.35,
         "start_year": 2014
@@ -4953,7 +4908,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 113.4,
+        "pe_ratio": 35.0,
         "forward_return": -23.8,
         "start_price": 22.4,
         "start_year": 2015
@@ -4962,7 +4917,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 354.6,
+        "pe_ratio": 24.26,
         "forward_return": -20.26,
         "start_price": 23.05,
         "start_year": 2015
@@ -4970,8 +4925,62 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
+        "start_date": "2015-03-16",
+        "pe_ratio": 18.45,
+        "forward_return": -21.56,
+        "start_price": 23.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2015-04-15",
+        "pe_ratio": 17.0,
+        "forward_return": -19.82,
+        "start_price": 20.85,
+        "start_year": 2015
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2015-05-16",
+        "pe_ratio": 14.79,
+        "forward_return": -7.19,
+        "start_price": 17.65,
+        "start_year": 2015
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2015-06-15",
+        "pe_ratio": 13.79,
+        "forward_return": -1.42,
+        "start_price": 16.0,
+        "start_year": 2015
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2015-07-16",
+        "pe_ratio": 20.11,
+        "forward_return": 4.52,
+        "start_price": 15.15,
+        "start_year": 2015
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2015-08-16",
+        "pe_ratio": 41.11,
+        "forward_return": 27.02,
+        "start_price": 14.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 343.3,
+        "pe_ratio": 61.8,
         "forward_return": -9.52,
         "start_price": 15.45,
         "start_year": 2017
@@ -4980,7 +4989,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 45.24,
+        "pe_ratio": 23.2,
         "forward_return": -6.08,
         "start_price": 16.55,
         "start_year": 2017
@@ -4989,7 +4998,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 33.5,
+        "pe_ratio": 19.55,
         "forward_return": -24.69,
         "start_price": 23.0,
         "start_year": 2017
@@ -4998,7 +5007,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.11,
+        "pe_ratio": 11.13,
         "forward_return": -14.96,
         "start_price": 18.25,
         "start_year": 2017
@@ -5007,7 +5016,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 10.31,
         "forward_return": -16.13,
         "start_price": 18.05,
         "start_year": 2017
@@ -5016,7 +5025,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 10.22,
+        "pe_ratio": 9.06,
         "forward_return": -13.53,
         "start_price": 16.85,
         "start_year": 2017
@@ -5034,7 +5043,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.53,
         "forward_return": -16.78,
         "start_price": 17.25,
         "start_year": 2018
@@ -5043,7 +5052,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.36,
         "forward_return": -12.8,
         "start_price": 15.45,
         "start_year": 2018
@@ -5052,7 +5061,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.17,
         "forward_return": -21.01,
         "start_price": 15.15,
         "start_year": 2018
@@ -5061,7 +5070,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 11.3,
+        "pe_ratio": 12.28,
         "forward_return": -13.48,
         "start_price": 15.1,
         "start_year": 2018
@@ -5070,7 +5079,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.6,
+        "pe_ratio": 15.31,
         "forward_return": -13.53,
         "start_price": 14.85,
         "start_year": 2018
@@ -5079,7 +5088,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 18.31,
         "forward_return": -8.22,
         "start_price": 13.0,
         "start_year": 2018
@@ -5088,7 +5097,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 30.33,
         "forward_return": -10.87,
         "start_price": 13.85,
         "start_year": 2018
@@ -5097,7 +5106,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.55,
+        "pe_ratio": 64.18,
         "forward_return": 15.46,
         "start_price": 13.05,
         "start_year": 2018
@@ -5105,26 +5114,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2018-09-15",
-        "pe_ratio": 23.49,
-        "forward_return": 11.27,
-        "start_price": 12.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2018-10-16",
-        "pe_ratio": 29.48,
-        "forward_return": 28.74,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 51.02,
+        "pe_ratio": 388.3,
         "forward_return": 45.57,
         "start_price": 11.65,
         "start_year": 2018
@@ -5142,7 +5133,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 181.5,
+        "pe_ratio": 123.6,
         "forward_return": 61.53,
         "start_price": 11.95,
         "start_year": 2019
@@ -5151,7 +5142,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 201.9,
+        "pe_ratio": 100.9,
         "forward_return": 74.52,
         "start_price": 12.45,
         "start_year": 2019
@@ -5160,7 +5151,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 207.8,
+        "pe_ratio": 79.67,
         "forward_return": 95.04,
         "start_price": 11.95,
         "start_year": 2019
@@ -5169,7 +5160,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 254.1,
+        "pe_ratio": 58.91,
         "forward_return": 141.31,
         "start_price": 13.55,
         "start_year": 2019
@@ -5178,7 +5169,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 246.1,
+        "pe_ratio": 39.03,
         "forward_return": 185.26,
         "start_price": 12.1,
         "start_year": 2019
@@ -5187,7 +5178,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 276.7,
+        "pe_ratio": 31.92,
         "forward_return": 297.41,
         "start_price": 12.45,
         "start_year": 2019
@@ -5196,7 +5187,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 352.6,
+        "pe_ratio": 42.35,
         "forward_return": 205.37,
         "start_price": 14.4,
         "start_year": 2019
@@ -5205,7 +5196,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 350.4,
+        "pe_ratio": 44.31,
         "forward_return": 228.02,
         "start_price": 12.85,
         "start_year": 2019
@@ -5214,7 +5205,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 400.0,
+        "pe_ratio": 54.17,
         "forward_return": 214.14,
         "start_price": 13.0,
         "start_year": 2019
@@ -5223,7 +5214,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 441.2,
+        "pe_ratio": 75.0,
         "forward_return": 185.43,
         "start_price": 12.5,
         "start_year": 2019
@@ -5232,7 +5223,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 513.1,
+        "pe_ratio": 132.9,
         "forward_return": 219.76,
         "start_price": 12.4,
         "start_year": 2019
@@ -5249,35 +5240,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 26.7,
-        "forward_return": 213.26,
-        "start_price": 11.75,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-02-15",
-        "pe_ratio": 13.43,
-        "forward_return": 228.82,
-        "start_price": 11.55,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-03-16",
-        "pe_ratio": 7.23,
-        "forward_return": 285.89,
-        "start_price": 9.25,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 6.53,
+        "pe_ratio": 175.3,
         "forward_return": 264.84,
         "start_price": 11.1,
         "start_year": 2020
@@ -5286,7 +5250,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 5.14,
+        "pe_ratio": 35.54,
         "forward_return": 262.51,
         "start_price": 10.9,
         "start_year": 2020
@@ -5295,7 +5259,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 4.23,
+        "pe_ratio": 19.55,
         "forward_return": 184.83,
         "start_price": 10.75,
         "start_year": 2020
@@ -5304,7 +5268,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 3.72,
+        "pe_ratio": 9.94,
         "forward_return": 224.98,
         "start_price": 11.0,
         "start_year": 2020
@@ -5313,7 +5277,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 5.15,
+        "pe_ratio": 10.46,
         "forward_return": 150.2,
         "start_price": 17.4,
         "start_year": 2020
@@ -5322,7 +5286,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 7.14,
         "forward_return": 224.36,
         "start_price": 15.85,
         "start_year": 2020
@@ -5331,7 +5295,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 4.48,
+        "pe_ratio": 5.97,
         "forward_return": 189.33,
         "start_price": 18.9,
         "start_year": 2020
@@ -5340,7 +5304,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 5.32,
+        "pe_ratio": 6.0,
         "forward_return": 172.74,
         "start_price": 24.7,
         "start_year": 2020
@@ -5358,7 +5322,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 3.7,
+        "pe_ratio": 4.25,
         "forward_return": 135.26,
         "start_price": 31.2,
         "start_year": 2021
@@ -5367,7 +5331,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 3.21,
+        "pe_ratio": 3.95,
         "forward_return": 116.37,
         "start_price": 37.95,
         "start_year": 2021
@@ -5376,7 +5340,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 3.0,
+        "pe_ratio": 3.83,
         "forward_return": 98.43,
         "start_price": 45.5,
         "start_year": 2021
@@ -5385,7 +5349,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 4.26,
+        "pe_ratio": 5.52,
         "forward_return": 51.82,
         "start_price": 79.0,
         "start_year": 2021
@@ -5394,7 +5358,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 4.49,
+        "pe_ratio": 5.89,
         "forward_return": 32.67,
         "start_price": 98.6,
         "start_year": 2021
@@ -5403,7 +5367,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.78,
+        "pe_ratio": 10.27,
         "forward_return": -23.95,
         "start_price": 197.0,
         "start_year": 2021
@@ -5412,7 +5376,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 4.6,
+        "pe_ratio": 5.56,
         "forward_return": 20.62,
         "start_price": 132.0,
         "start_year": 2021
@@ -5421,7 +5385,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 4.24,
+        "pe_ratio": 4.81,
         "forward_return": 19.6,
         "start_price": 136.0,
         "start_year": 2021
@@ -5430,7 +5394,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 3.56,
+        "pe_ratio": 3.84,
         "forward_return": 27.26,
         "start_price": 126.0,
         "start_year": 2021
@@ -5439,7 +5403,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 2.56,
+        "pe_ratio": 2.68,
         "forward_return": 40.2,
         "start_price": 99.5,
         "start_year": 2021
@@ -5448,7 +5412,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 2.95,
+        "pe_ratio": 3.01,
         "forward_return": 26.77,
         "start_price": 124.5,
         "start_year": 2021
@@ -5466,7 +5430,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 2.3,
+        "pe_ratio": 2.28,
         "forward_return": 45.32,
         "start_price": 113.0,
         "start_year": 2022
@@ -5475,7 +5439,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 2.73,
+        "pe_ratio": 2.68,
         "forward_return": 32.94,
         "start_price": 143.5,
         "start_year": 2022
@@ -5484,7 +5448,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 2.41,
+        "pe_ratio": 2.35,
         "forward_return": 38.75,
         "start_price": 135.0,
         "start_year": 2022
@@ -5493,7 +5457,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 2.44,
+        "pe_ratio": 2.37,
         "forward_return": 38.31,
         "start_price": 145.0,
         "start_year": 2022
@@ -5502,7 +5466,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 2.24,
+        "pe_ratio": 2.16,
         "forward_return": 45.72,
         "start_price": 140.5,
         "start_year": 2022
@@ -5511,7 +5475,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 1.28,
+        "pe_ratio": 1.23,
         "forward_return": 82.18,
         "start_price": 84.6,
         "start_year": 2022
@@ -5520,7 +5484,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 1.37,
+        "pe_ratio": 1.27,
         "forward_return": 61.89,
         "start_price": 95.5,
         "start_year": 2022
@@ -5529,7 +5493,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 1.21,
+        "pe_ratio": 1.09,
         "forward_return": 74.14,
         "start_price": 88.3,
         "start_year": 2022
@@ -5538,7 +5502,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 1.9,
+        "pe_ratio": 1.68,
         "forward_return": 38.69,
         "start_price": 146.0,
         "start_year": 2022
@@ -5547,7 +5511,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 1.72,
+        "pe_ratio": 1.58,
         "forward_return": 44.05,
         "start_price": 137.5,
         "start_year": 2022
@@ -5556,7 +5520,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 1.95,
+        "pe_ratio": 1.87,
         "forward_return": 34.95,
         "start_price": 163.0,
         "start_year": 2022
@@ -5574,7 +5538,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 1.87,
+        "pe_ratio": 1.59,
         "forward_return": 36.77,
         "start_price": 152.0,
         "start_year": 2023
@@ -5583,7 +5547,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 2.08,
+        "pe_ratio": 1.51,
         "forward_return": 37.27,
         "start_price": 157.0,
         "start_year": 2023
@@ -5592,7 +5556,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 2.28,
+        "pe_ratio": 1.41,
         "forward_return": 37.65,
         "start_price": 158.5,
         "start_year": 2023
@@ -5601,7 +5565,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 2.54,
+        "pe_ratio": 1.66,
         "forward_return": 33.16,
         "start_price": 161.5,
         "start_year": 2023
@@ -5610,7 +5574,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 2.65,
+        "pe_ratio": 1.87,
         "forward_return": 45.59,
         "start_price": 153.0,
         "start_year": 2023
@@ -5619,7 +5583,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 1.8,
+        "pe_ratio": 1.41,
         "forward_return": 72.67,
         "start_price": 93.5,
         "start_year": 2023
@@ -5628,7 +5592,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 2.26,
+        "pe_ratio": 1.92,
         "forward_return": 52.01,
         "start_price": 104.0,
         "start_year": 2023
@@ -5637,7 +5601,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 2.65,
+        "pe_ratio": 2.56,
         "forward_return": 46.27,
         "start_price": 106.5,
         "start_year": 2023
@@ -5646,7 +5610,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 3.38,
+        "pe_ratio": 3.97,
         "forward_return": 38.14,
         "start_price": 116.0,
         "start_year": 2023
@@ -5655,7 +5619,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 3.78,
+        "pe_ratio": 4.29,
         "forward_return": 48.12,
         "start_price": 107.5,
         "start_year": 2023
@@ -5664,7 +5628,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 4.96,
+        "pe_ratio": 5.36,
         "forward_return": 40.74,
         "start_price": 112.0,
         "start_year": 2023
@@ -5682,7 +5646,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 7.27,
+        "pe_ratio": 8.1,
         "forward_return": 23.19,
         "start_price": 150.5,
         "start_year": 2024
@@ -5691,7 +5655,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 5.62,
         "forward_return": -3.84,
         "start_price": 20.3,
         "start_year": 2006
@@ -5700,7 +5664,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 158.9,
+        "pe_ratio": 7.17,
         "forward_return": -3.01,
         "start_price": 22.25,
         "start_year": 2006
@@ -5709,7 +5673,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 157.1,
+        "pe_ratio": 8.47,
         "forward_return": 1.2,
         "start_price": 22.0,
         "start_year": 2006
@@ -5718,7 +5682,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 161.4,
+        "pe_ratio": 10.81,
         "forward_return": -3.75,
         "start_price": 22.6,
         "start_year": 2006
@@ -5727,7 +5691,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 158.6,
+        "pe_ratio": 13.37,
         "forward_return": -0.3,
         "start_price": 22.2,
         "start_year": 2006
@@ -5736,7 +5700,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 130.4,
+        "pe_ratio": 14.84,
         "forward_return": 6.26,
         "start_price": 18.25,
         "start_year": 2006
@@ -5745,7 +5709,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 134.6,
+        "pe_ratio": 23.56,
         "forward_return": 2.83,
         "start_price": 18.85,
         "start_year": 2006
@@ -5754,7 +5718,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 136.4,
+        "pe_ratio": 32.93,
         "forward_return": -0.79,
         "start_price": 19.1,
         "start_year": 2006
@@ -5763,7 +5727,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 136.4,
+        "pe_ratio": 53.06,
         "forward_return": -0.97,
         "start_price": 19.1,
         "start_year": 2006
@@ -5781,7 +5745,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 43.31,
+        "pe_ratio": 457.5,
         "forward_return": 3.85,
         "start_price": 18.3,
         "start_year": 2007
@@ -5789,26 +5753,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2007-02-14",
-        "pe_ratio": 30.5,
-        "forward_return": -0.47,
-        "start_price": 21.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2007-03-16",
-        "pe_ratio": 21.37,
-        "forward_return": -0.64,
-        "start_price": 21.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 170.4,
         "forward_return": 2.7,
         "start_price": 20.45,
         "start_year": 2007
@@ -5817,7 +5763,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 51.62,
         "forward_return": -0.65,
         "start_price": 20.65,
         "start_year": 2007
@@ -5826,7 +5772,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 31.99,
         "forward_return": 1.06,
         "start_price": 21.75,
         "start_year": 2007
@@ -5835,7 +5781,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 17.6,
         "forward_return": 4.49,
         "start_price": 22.35,
         "start_year": 2007
@@ -5844,7 +5790,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 11.51,
         "forward_return": 2.36,
         "start_price": 21.4,
         "start_year": 2007
@@ -5853,7 +5799,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.29,
+        "pe_ratio": 11.27,
         "forward_return": -4.82,
         "start_price": 27.6,
         "start_year": 2007
@@ -5862,7 +5808,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 11.28,
         "forward_return": -4.98,
         "start_price": 31.7,
         "start_year": 2007
@@ -5871,7 +5817,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 8.74,
         "forward_return": -0.42,
         "start_price": 27.7,
         "start_year": 2007
@@ -5889,7 +5835,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.32,
+        "pe_ratio": 6.83,
         "forward_return": 10.6,
         "start_price": 23.8,
         "start_year": 2008
@@ -5898,7 +5844,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.55,
         "forward_return": 0.19,
         "start_price": 26.0,
         "start_year": 2008
@@ -5907,7 +5853,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 8.82,
         "forward_return": -4.48,
         "start_price": 30.0,
         "start_year": 2008
@@ -5916,7 +5862,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 8.68,
         "forward_return": -0.99,
         "start_price": 29.05,
         "start_year": 2008
@@ -5925,7 +5871,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 8.12,
         "forward_return": 2.08,
         "start_price": 26.75,
         "start_year": 2008
@@ -5934,7 +5880,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.89,
+        "pe_ratio": 7.44,
         "forward_return": 0.96,
         "start_price": 24.1,
         "start_year": 2008
@@ -5943,7 +5889,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 7.37,
         "forward_return": 1.24,
         "start_price": 20.0,
         "start_year": 2008
@@ -5952,7 +5898,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 8.23,
         "forward_return": 2.88,
         "start_price": 18.0,
         "start_year": 2008
@@ -5961,7 +5907,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.75,
+        "pe_ratio": 8.61,
         "forward_return": 5.1,
         "start_price": 14.3,
         "start_year": 2008
@@ -5970,7 +5916,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 14.41,
         "forward_return": 1.26,
         "start_price": 16.95,
         "start_year": 2008
@@ -5979,7 +5925,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 33.49,
+        "pe_ratio": 23.51,
         "forward_return": -1.56,
         "start_price": 16.3,
         "start_year": 2008
@@ -5996,26 +5942,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2010-05-16",
-        "pe_ratio": 101.4,
-        "forward_return": -0.92,
-        "start_price": 18.25,
-        "start_year": 2010
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2010-06-15",
-        "pe_ratio": 23.78,
-        "forward_return": -5.24,
-        "start_price": 20.45,
-        "start_year": 2010
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.45,
+        "pe_ratio": 31.73,
         "forward_return": -9.23,
         "start_price": 23.8,
         "start_year": 2010
@@ -6024,7 +5952,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.57,
+        "pe_ratio": 11.42,
         "forward_return": -5.56,
         "start_price": 21.25,
         "start_year": 2010
@@ -6033,7 +5961,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 7.62,
+        "pe_ratio": 7.44,
         "forward_return": -5.75,
         "start_price": 22.1,
         "start_year": 2010
@@ -6042,7 +5970,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 7.12,
+        "pe_ratio": 7.03,
         "forward_return": -10.47,
         "start_price": 25.5,
         "start_year": 2010
@@ -6051,7 +5979,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 6.02,
+        "pe_ratio": 5.99,
         "forward_return": -10.32,
         "start_price": 25.65,
         "start_year": 2010
@@ -6069,7 +5997,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.02,
         "forward_return": -14.89,
         "start_price": 30.5,
         "start_year": 2011
@@ -6078,7 +6006,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 6.6,
+        "pe_ratio": 5.04,
         "forward_return": -10.15,
         "start_price": 26.2,
         "start_year": 2011
@@ -6087,7 +6015,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 7.02,
+        "pe_ratio": 4.6,
         "forward_return": -8.38,
         "start_price": 24.45,
         "start_year": 2011
@@ -6096,7 +6024,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 5.44,
         "forward_return": -11.85,
         "start_price": 26.5,
         "start_year": 2011
@@ -6105,7 +6033,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.65,
+        "pe_ratio": 6.05,
         "forward_return": -12.04,
         "start_price": 26.75,
         "start_year": 2011
@@ -6114,7 +6042,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 5.82,
         "forward_return": -9.19,
         "start_price": 23.1,
         "start_year": 2011
@@ -6123,7 +6051,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 6.53,
         "forward_return": -4.23,
         "start_price": 19.75,
         "start_year": 2011
@@ -6132,7 +6060,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.66,
+        "pe_ratio": 8.96,
         "forward_return": -0.63,
         "start_price": 18.6,
         "start_year": 2011
@@ -6141,7 +6069,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 27.49,
+        "pe_ratio": 13.81,
         "forward_return": 4.59,
         "start_price": 15.6,
         "start_year": 2011
@@ -6150,19 +6078,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 203.3,
+        "pe_ratio": 36.35,
         "forward_return": 2.64,
         "start_price": 16.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2012-11-15",
-        "pe_ratio": 1140.0,
-        "forward_return": -8.62,
-        "start_price": 17.1,
-        "start_year": 2012
       },
       {
         "horizon": "3y",
@@ -6177,7 +6096,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 347.8,
+        "pe_ratio": 85.02,
         "forward_return": -12.81,
         "start_price": 18.55,
         "start_year": 2013
@@ -6186,7 +6105,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 2018.0,
+        "pe_ratio": 55.89,
         "forward_return": -13.9,
         "start_price": 18.95,
         "start_year": 2013
@@ -6194,17 +6113,44 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2014-07-16",
-        "pe_ratio": 1301.0,
-        "forward_return": -1.36,
-        "start_price": 17.35,
-        "start_year": 2014
+        "start_date": "2013-03-16",
+        "pe_ratio": 38.91,
+        "forward_return": -12.36,
+        "start_price": 17.9,
+        "start_year": 2013
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2013-04-15",
+        "pe_ratio": 49.76,
+        "forward_return": -11.39,
+        "start_price": 17.25,
+        "start_year": 2013
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2013-05-16",
+        "pe_ratio": 71.79,
+        "forward_return": -11.52,
+        "start_price": 16.75,
+        "start_year": 2013
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2013-06-15",
+        "pe_ratio": 136.7,
+        "forward_return": -9.76,
+        "start_price": 16.4,
+        "start_year": 2013
       },
       {
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 238.0,
+        "pe_ratio": 165.9,
         "forward_return": 8.17,
         "start_price": 18.25,
         "start_year": 2014
@@ -6213,7 +6159,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 127.5,
+        "pe_ratio": 63.75,
         "forward_return": 0.92,
         "start_price": 17.85,
         "start_year": 2014
@@ -6222,7 +6168,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 88.28,
+        "pe_ratio": 60.51,
         "forward_return": 0.37,
         "start_price": 17.95,
         "start_year": 2014
@@ -6231,7 +6177,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 68.81,
+        "pe_ratio": 58.56,
         "forward_return": -2.61,
         "start_price": 18.35,
         "start_year": 2014
@@ -6249,7 +6195,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 113.4,
+        "pe_ratio": 35.0,
         "forward_return": -8.16,
         "start_price": 22.4,
         "start_year": 2015
@@ -6258,7 +6204,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 354.6,
+        "pe_ratio": 24.26,
         "forward_return": -12.29,
         "start_price": 23.05,
         "start_year": 2015
@@ -6266,8 +6212,62 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
+        "start_date": "2015-03-16",
+        "pe_ratio": 18.45,
+        "forward_return": -13.11,
+        "start_price": 23.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2015-04-15",
+        "pe_ratio": 17.0,
+        "forward_return": -10.0,
+        "start_price": 20.85,
+        "start_year": 2015
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2015-05-16",
+        "pe_ratio": 14.79,
+        "forward_return": -5.38,
+        "start_price": 17.65,
+        "start_year": 2015
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2015-06-15",
+        "pe_ratio": 13.79,
+        "forward_return": -6.45,
+        "start_price": 16.0,
+        "start_year": 2015
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2015-07-16",
+        "pe_ratio": 20.11,
+        "forward_return": -2.48,
+        "start_price": 15.15,
+        "start_year": 2015
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2015-08-16",
+        "pe_ratio": 41.11,
+        "forward_return": -2.4,
+        "start_price": 14.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 343.3,
+        "pe_ratio": 61.8,
         "forward_return": -10.84,
         "start_price": 15.45,
         "start_year": 2017
@@ -6276,7 +6276,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 45.24,
+        "pe_ratio": 23.2,
         "forward_return": -12.2,
         "start_price": 16.55,
         "start_year": 2017
@@ -6285,7 +6285,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 33.5,
+        "pe_ratio": 19.55,
         "forward_return": -8.53,
         "start_price": 23.0,
         "start_year": 2017
@@ -6294,7 +6294,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.11,
+        "pe_ratio": 11.13,
         "forward_return": -4.19,
         "start_price": 18.25,
         "start_year": 2017
@@ -6303,7 +6303,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 10.31,
         "forward_return": 1.9,
         "start_price": 18.05,
         "start_year": 2017
@@ -6312,7 +6312,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 10.22,
+        "pe_ratio": 9.06,
         "forward_return": 13.9,
         "start_price": 16.85,
         "start_year": 2017
@@ -6330,7 +6330,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.53,
         "forward_return": 22.09,
         "start_price": 17.25,
         "start_year": 2018
@@ -6339,7 +6339,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.36,
         "forward_return": 35.15,
         "start_price": 15.45,
         "start_year": 2018
@@ -6348,7 +6348,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.17,
         "forward_return": 44.48,
         "start_price": 15.15,
         "start_year": 2018
@@ -6357,7 +6357,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 11.3,
+        "pe_ratio": 12.28,
         "forward_return": 73.72,
         "start_price": 15.1,
         "start_year": 2018
@@ -6366,7 +6366,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.6,
+        "pe_ratio": 15.31,
         "forward_return": 88.05,
         "start_price": 14.85,
         "start_year": 2018
@@ -6375,7 +6375,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 18.31,
         "forward_return": 147.49,
         "start_price": 13.0,
         "start_year": 2018
@@ -6384,7 +6384,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 30.33,
         "forward_return": 113.31,
         "start_price": 13.85,
         "start_year": 2018
@@ -6393,7 +6393,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.55,
+        "pe_ratio": 64.18,
         "forward_return": 119.71,
         "start_price": 13.05,
         "start_year": 2018
@@ -6401,26 +6401,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2018-09-15",
-        "pe_ratio": 23.49,
-        "forward_return": 115.68,
-        "start_price": 12.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2018-10-16",
-        "pe_ratio": 29.48,
-        "forward_return": 107.56,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 51.02,
+        "pe_ratio": 388.3,
         "forward_return": 121.68,
         "start_price": 11.65,
         "start_year": 2018
@@ -6438,7 +6420,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 181.5,
+        "pe_ratio": 123.6,
         "forward_return": 112.97,
         "start_price": 11.95,
         "start_year": 2019
@@ -6447,7 +6429,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 201.9,
+        "pe_ratio": 100.9,
         "forward_return": 127.14,
         "start_price": 12.45,
         "start_year": 2019
@@ -6456,7 +6438,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 207.8,
+        "pe_ratio": 79.67,
         "forward_return": 125.71,
         "start_price": 11.95,
         "start_year": 2019
@@ -6465,7 +6447,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 254.1,
+        "pe_ratio": 58.91,
         "forward_return": 121.58,
         "start_price": 13.55,
         "start_year": 2019
@@ -6474,7 +6456,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 246.1,
+        "pe_ratio": 39.03,
         "forward_return": 127.73,
         "start_price": 12.1,
         "start_year": 2019
@@ -6483,7 +6465,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 276.7,
+        "pe_ratio": 31.92,
         "forward_return": 91.22,
         "start_price": 12.45,
         "start_year": 2019
@@ -6492,7 +6474,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 352.6,
+        "pe_ratio": 42.35,
         "forward_return": 100.42,
         "start_price": 14.4,
         "start_year": 2019
@@ -6501,7 +6483,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 350.4,
+        "pe_ratio": 44.31,
         "forward_return": 103.78,
         "start_price": 12.85,
         "start_year": 2019
@@ -6510,7 +6492,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 400.0,
+        "pe_ratio": 54.17,
         "forward_return": 133.92,
         "start_price": 13.0,
         "start_year": 2019
@@ -6519,7 +6501,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 441.2,
+        "pe_ratio": 75.0,
         "forward_return": 132.89,
         "start_price": 12.5,
         "start_year": 2019
@@ -6528,7 +6510,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 513.1,
+        "pe_ratio": 132.9,
         "forward_return": 145.46,
         "start_price": 12.4,
         "start_year": 2019
@@ -6545,35 +6527,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 26.7,
-        "forward_return": 144.8,
-        "start_price": 11.75,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-02-15",
-        "pe_ratio": 13.43,
-        "forward_return": 143.46,
-        "start_price": 11.55,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-03-16",
-        "pe_ratio": 7.23,
-        "forward_return": 168.65,
-        "start_price": 9.25,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 6.53,
+        "pe_ratio": 175.3,
         "forward_return": 154.2,
         "start_price": 11.1,
         "start_year": 2020
@@ -6582,7 +6537,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 5.14,
+        "pe_ratio": 35.54,
         "forward_return": 151.7,
         "start_price": 10.9,
         "start_year": 2020
@@ -6591,7 +6546,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 4.23,
+        "pe_ratio": 19.55,
         "forward_return": 119.81,
         "start_price": 10.75,
         "start_year": 2020
@@ -6600,7 +6555,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 3.72,
+        "pe_ratio": 9.94,
         "forward_return": 160.69,
         "start_price": 11.0,
         "start_year": 2020
@@ -6609,7 +6564,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 5.15,
+        "pe_ratio": 10.46,
         "forward_return": 124.67,
         "start_price": 17.4,
         "start_year": 2020
@@ -6618,7 +6573,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 7.14,
         "forward_return": 135.44,
         "start_price": 15.85,
         "start_year": 2020
@@ -6627,7 +6582,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 4.48,
+        "pe_ratio": 5.97,
         "forward_return": 118.92,
         "start_price": 18.9,
         "start_year": 2020
@@ -6636,7 +6591,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 5.32,
+        "pe_ratio": 6.0,
         "forward_return": 101.73,
         "start_price": 24.7,
         "start_year": 2020
@@ -6654,7 +6609,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 3.7,
+        "pe_ratio": 4.25,
         "forward_return": 97.76,
         "start_price": 31.2,
         "start_year": 2021
@@ -6663,7 +6618,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 3.21,
+        "pe_ratio": 3.95,
         "forward_return": 89.03,
         "start_price": 37.95,
         "start_year": 2021
@@ -6672,7 +6627,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 3.0,
+        "pe_ratio": 3.83,
         "forward_return": 79.33,
         "start_price": 45.5,
         "start_year": 2021
@@ -6681,7 +6636,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 4.26,
+        "pe_ratio": 5.52,
         "forward_return": 52.45,
         "start_price": 79.0,
         "start_year": 2021
@@ -6690,7 +6645,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 4.49,
+        "pe_ratio": 5.89,
         "forward_return": 45.05,
         "start_price": 98.6,
         "start_year": 2021
@@ -6699,7 +6654,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.78,
+        "pe_ratio": 10.27,
         "forward_return": 12.9,
         "start_price": 197.0,
         "start_year": 2021
@@ -6708,7 +6663,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 4.6,
+        "pe_ratio": 5.56,
         "forward_return": 26.69,
         "start_price": 132.0,
         "start_year": 2021
@@ -6717,7 +6672,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 4.24,
+        "pe_ratio": 4.81,
         "forward_return": 28.11,
         "start_price": 136.0,
         "start_year": 2021
@@ -6726,7 +6681,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 3.56,
+        "pe_ratio": 3.84,
         "forward_return": 33.37,
         "start_price": 126.0,
         "start_year": 2021
@@ -6735,7 +6690,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 2.56,
+        "pe_ratio": 2.68,
         "forward_return": 45.01,
         "start_price": 99.5,
         "start_year": 2021
@@ -6744,7 +6699,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 2.95,
+        "pe_ratio": 3.01,
         "forward_return": 36.25,
         "start_price": 124.5,
         "start_year": 2021
@@ -6762,7 +6717,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 2.3,
+        "pe_ratio": 2.28,
         "forward_return": 38.84,
         "start_price": 113.0,
         "start_year": 2022
@@ -6771,7 +6726,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 2.73,
+        "pe_ratio": 2.68,
         "forward_return": 29.81,
         "start_price": 143.5,
         "start_year": 2022
@@ -6780,7 +6735,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 2.41,
+        "pe_ratio": 2.35,
         "forward_return": 33.11,
         "start_price": 135.0,
         "start_year": 2022
@@ -6789,7 +6744,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 2.44,
+        "pe_ratio": 2.37,
         "forward_return": 28.05,
         "start_price": 145.0,
         "start_year": 2022
@@ -6798,7 +6753,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 2.24,
+        "pe_ratio": 2.16,
         "forward_return": 34.57,
         "start_price": 140.5,
         "start_year": 2022
@@ -6807,7 +6762,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 1.28,
+        "pe_ratio": 1.23,
         "forward_return": 51.96,
         "start_price": 84.6,
         "start_year": 2022
@@ -6816,7 +6771,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 1.37,
+        "pe_ratio": 1.27,
         "forward_return": 48.13,
         "start_price": 95.5,
         "start_year": 2022
@@ -6825,7 +6780,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 1.21,
+        "pe_ratio": 1.09,
         "forward_return": 49.98,
         "start_price": 88.3,
         "start_year": 2022
@@ -6834,7 +6789,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 1.9,
+        "pe_ratio": 1.68,
         "forward_return": 25.91,
         "start_price": 146.0,
         "start_year": 2022
@@ -6843,7 +6798,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 1.72,
+        "pe_ratio": 1.58,
         "forward_return": 30.55,
         "start_price": 137.5,
         "start_year": 2022
@@ -6852,7 +6807,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 1.95,
+        "pe_ratio": 1.87,
         "forward_return": 21.44,
         "start_price": 163.0,
         "start_year": 2022
@@ -6870,7 +6825,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 1.87,
+        "pe_ratio": 1.59,
         "forward_return": 25.22,
         "start_price": 152.0,
         "start_year": 2023
@@ -6879,7 +6834,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 2.08,
+        "pe_ratio": 1.51,
         "forward_return": 25.38,
         "start_price": 157.0,
         "start_year": 2023
@@ -6888,7 +6843,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 5.62,
         "forward_return": 2.6,
         "start_price": 20.3,
         "start_year": 2006
@@ -6897,7 +6852,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 158.9,
+        "pe_ratio": 7.17,
         "forward_return": 1.86,
         "start_price": 22.25,
         "start_year": 2006
@@ -6906,7 +6861,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 157.1,
+        "pe_ratio": 8.47,
         "forward_return": 0.06,
         "start_price": 22.0,
         "start_year": 2006
@@ -6915,7 +6870,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 161.4,
+        "pe_ratio": 10.81,
         "forward_return": 1.78,
         "start_price": 22.6,
         "start_year": 2006
@@ -6924,7 +6879,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 158.6,
+        "pe_ratio": 13.37,
         "forward_return": 3.83,
         "start_price": 22.2,
         "start_year": 2006
@@ -6933,7 +6888,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 130.4,
+        "pe_ratio": 14.84,
         "forward_return": 6.24,
         "start_price": 18.25,
         "start_year": 2006
@@ -6942,7 +6897,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 134.6,
+        "pe_ratio": 23.56,
         "forward_return": 6.33,
         "start_price": 18.85,
         "start_year": 2006
@@ -6951,7 +6906,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 136.4,
+        "pe_ratio": 32.93,
         "forward_return": 9.54,
         "start_price": 19.1,
         "start_year": 2006
@@ -6960,7 +6915,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 136.4,
+        "pe_ratio": 53.06,
         "forward_return": 9.69,
         "start_price": 19.1,
         "start_year": 2006
@@ -6978,7 +6933,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 43.31,
+        "pe_ratio": 457.5,
         "forward_return": 15.44,
         "start_price": 18.3,
         "start_year": 2007
@@ -6986,26 +6941,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2007-02-14",
-        "pe_ratio": 30.5,
-        "forward_return": 7.02,
-        "start_price": 21.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2007-03-16",
-        "pe_ratio": 21.37,
-        "forward_return": 5.81,
-        "start_price": 21.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 170.4,
         "forward_return": 8.65,
         "start_price": 20.45,
         "start_year": 2007
@@ -7014,7 +6951,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 51.62,
         "forward_return": 8.62,
         "start_price": 20.65,
         "start_year": 2007
@@ -7023,7 +6960,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 31.99,
         "forward_return": 3.65,
         "start_price": 21.75,
         "start_year": 2007
@@ -7032,7 +6969,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 17.6,
         "forward_return": 0.11,
         "start_price": 22.35,
         "start_year": 2007
@@ -7041,7 +6978,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 11.51,
         "forward_return": -0.12,
         "start_price": 21.4,
         "start_year": 2007
@@ -7050,7 +6987,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.29,
+        "pe_ratio": 11.27,
         "forward_return": -9.76,
         "start_price": 27.6,
         "start_year": 2007
@@ -7059,7 +6996,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 11.28,
         "forward_return": -11.67,
         "start_price": 31.7,
         "start_year": 2007
@@ -7068,7 +7005,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 8.74,
         "forward_return": -11.17,
         "start_price": 27.7,
         "start_year": 2007
@@ -7086,7 +7023,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.32,
+        "pe_ratio": 6.83,
         "forward_return": -5.17,
         "start_price": 23.8,
         "start_year": 2008
@@ -7095,7 +7032,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.55,
         "forward_return": -2.7,
         "start_price": 26.0,
         "start_year": 2008
@@ -7104,7 +7041,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 8.82,
         "forward_return": -6.43,
         "start_price": 30.0,
         "start_year": 2008
@@ -7113,7 +7050,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 8.68,
         "forward_return": -9.03,
         "start_price": 29.05,
         "start_year": 2008
@@ -7122,7 +7059,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 8.12,
         "forward_return": -10.26,
         "start_price": 26.75,
         "start_year": 2008
@@ -7131,7 +7068,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.89,
+        "pe_ratio": 7.44,
         "forward_return": -6.02,
         "start_price": 24.1,
         "start_year": 2008
@@ -7140,7 +7077,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 7.37,
         "forward_return": -3.28,
         "start_price": 20.0,
         "start_year": 2008
@@ -7149,7 +7086,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 8.23,
         "forward_return": -1.42,
         "start_price": 18.0,
         "start_year": 2008
@@ -7158,7 +7095,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.75,
+        "pe_ratio": 8.61,
         "forward_return": 3.56,
         "start_price": 14.3,
         "start_year": 2008
@@ -7167,7 +7104,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 14.41,
         "forward_return": -1.35,
         "start_price": 16.95,
         "start_year": 2008
@@ -7176,7 +7113,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 33.49,
+        "pe_ratio": 23.51,
         "forward_return": 2.65,
         "start_price": 16.3,
         "start_year": 2008
@@ -7193,26 +7130,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2010-05-16",
-        "pe_ratio": 101.4,
-        "forward_return": -0.07,
-        "start_price": 18.25,
-        "start_year": 2010
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2010-06-15",
-        "pe_ratio": 23.78,
-        "forward_return": -4.1,
-        "start_price": 20.45,
-        "start_year": 2010
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.45,
+        "pe_ratio": 31.73,
         "forward_return": -6.29,
         "start_price": 23.8,
         "start_year": 2010
@@ -7221,7 +7140,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.57,
+        "pe_ratio": 11.42,
         "forward_return": -2.44,
         "start_price": 21.25,
         "start_year": 2010
@@ -7230,7 +7149,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 7.62,
+        "pe_ratio": 7.44,
         "forward_return": -3.9,
         "start_price": 22.1,
         "start_year": 2010
@@ -7239,7 +7158,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 7.12,
+        "pe_ratio": 7.03,
         "forward_return": -7.15,
         "start_price": 25.5,
         "start_year": 2010
@@ -7248,7 +7167,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 6.02,
+        "pe_ratio": 5.99,
         "forward_return": -6.8,
         "start_price": 25.65,
         "start_year": 2010
@@ -7266,7 +7185,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.02,
         "forward_return": -6.41,
         "start_price": 30.5,
         "start_year": 2011
@@ -7275,7 +7194,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 6.6,
+        "pe_ratio": 5.04,
         "forward_return": -2.12,
         "start_price": 26.2,
         "start_year": 2011
@@ -7284,7 +7203,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 7.02,
+        "pe_ratio": 4.6,
         "forward_return": -0.21,
         "start_price": 24.45,
         "start_year": 2011
@@ -7293,7 +7212,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 5.44,
         "forward_return": -4.71,
         "start_price": 26.5,
         "start_year": 2011
@@ -7302,7 +7221,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.65,
+        "pe_ratio": 6.05,
         "forward_return": -8.62,
         "start_price": 26.75,
         "start_year": 2011
@@ -7311,7 +7230,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 5.82,
         "forward_return": -7.38,
         "start_price": 23.1,
         "start_year": 2011
@@ -7320,7 +7239,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 6.53,
         "forward_return": -6.26,
         "start_price": 19.75,
         "start_year": 2011
@@ -7329,7 +7248,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.66,
+        "pe_ratio": 8.96,
         "forward_return": -6.28,
         "start_price": 18.6,
         "start_year": 2011
@@ -7338,7 +7257,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 27.49,
+        "pe_ratio": 13.81,
         "forward_return": -2.76,
         "start_price": 15.6,
         "start_year": 2011
@@ -7347,19 +7266,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 203.3,
+        "pe_ratio": 36.35,
         "forward_return": -3.16,
         "start_price": 16.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2012-11-15",
-        "pe_ratio": 1140.0,
-        "forward_return": -8.19,
-        "start_price": 17.1,
-        "start_year": 2012
       },
       {
         "horizon": "4y",
@@ -7374,7 +7284,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 347.8,
+        "pe_ratio": 85.02,
         "forward_return": -8.5,
         "start_price": 18.55,
         "start_year": 2013
@@ -7383,7 +7293,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 2018.0,
+        "pe_ratio": 55.89,
         "forward_return": -6.23,
         "start_price": 18.95,
         "start_year": 2013
@@ -7391,17 +7301,44 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2014-07-16",
-        "pe_ratio": 1301.0,
-        "forward_return": -4.97,
-        "start_price": 17.35,
-        "start_year": 2014
+        "start_date": "2013-03-16",
+        "pe_ratio": 38.91,
+        "forward_return": -5.46,
+        "start_price": 17.9,
+        "start_year": 2013
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2013-04-15",
+        "pe_ratio": 49.76,
+        "forward_return": -6.12,
+        "start_price": 17.25,
+        "start_year": 2013
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2013-05-16",
+        "pe_ratio": 71.79,
+        "forward_return": -2.4,
+        "start_price": 16.75,
+        "start_year": 2013
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2013-06-15",
+        "pe_ratio": 136.7,
+        "forward_return": -1.32,
+        "start_price": 16.4,
+        "start_year": 2013
       },
       {
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 238.0,
+        "pe_ratio": 165.9,
         "forward_return": -7.52,
         "start_price": 18.25,
         "start_year": 2014
@@ -7410,7 +7347,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 127.5,
+        "pe_ratio": 63.75,
         "forward_return": -7.44,
         "start_price": 17.85,
         "start_year": 2014
@@ -7419,7 +7356,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 88.28,
+        "pe_ratio": 60.51,
         "forward_return": -10.15,
         "start_price": 17.95,
         "start_year": 2014
@@ -7428,7 +7365,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 68.81,
+        "pe_ratio": 58.56,
         "forward_return": -10.17,
         "start_price": 18.35,
         "start_year": 2014
@@ -7446,7 +7383,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 113.4,
+        "pe_ratio": 35.0,
         "forward_return": -14.01,
         "start_price": 22.4,
         "start_year": 2015
@@ -7455,7 +7392,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 354.6,
+        "pe_ratio": 24.26,
         "forward_return": -13.76,
         "start_price": 23.05,
         "start_year": 2015
@@ -7463,8 +7400,62 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "4y",
         "horizon_label": "4年",
+        "start_date": "2015-03-16",
+        "pe_ratio": 18.45,
+        "forward_return": -14.8,
+        "start_price": 23.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2015-04-15",
+        "pe_ratio": 17.0,
+        "forward_return": -9.72,
+        "start_price": 20.85,
+        "start_year": 2015
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2015-05-16",
+        "pe_ratio": 14.79,
+        "forward_return": -8.45,
+        "start_price": 17.65,
+        "start_year": 2015
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2015-06-15",
+        "pe_ratio": 13.79,
+        "forward_return": -5.52,
+        "start_price": 16.0,
+        "start_year": 2015
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2015-07-16",
+        "pe_ratio": 20.11,
+        "forward_return": -0.92,
+        "start_price": 15.15,
+        "start_year": 2015
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2015-08-16",
+        "pe_ratio": 41.11,
+        "forward_return": -2.18,
+        "start_price": 14.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 343.3,
+        "pe_ratio": 61.8,
         "forward_return": 89.01,
         "start_price": 15.45,
         "start_year": 2017
@@ -7473,7 +7464,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 45.24,
+        "pe_ratio": 23.2,
         "forward_return": 68.9,
         "start_price": 16.55,
         "start_year": 2017
@@ -7482,7 +7473,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 33.5,
+        "pe_ratio": 19.55,
         "forward_return": 56.7,
         "start_price": 23.0,
         "start_year": 2017
@@ -7491,7 +7482,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.11,
+        "pe_ratio": 11.13,
         "forward_return": 62.96,
         "start_price": 18.25,
         "start_year": 2017
@@ -7500,7 +7491,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 10.31,
         "forward_return": 54.25,
         "start_price": 18.05,
         "start_year": 2017
@@ -7509,7 +7500,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 10.22,
+        "pe_ratio": 9.06,
         "forward_return": 65.75,
         "start_price": 16.85,
         "start_year": 2017
@@ -7527,7 +7518,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.53,
         "forward_return": 60.93,
         "start_price": 17.25,
         "start_year": 2018
@@ -7536,7 +7527,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.36,
         "forward_return": 75.39,
         "start_price": 15.45,
         "start_year": 2018
@@ -7545,7 +7536,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.17,
         "forward_return": 73.63,
         "start_price": 15.15,
         "start_year": 2018
@@ -7554,7 +7545,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 11.3,
+        "pe_ratio": 12.28,
         "forward_return": 76.84,
         "start_price": 15.1,
         "start_year": 2018
@@ -7563,7 +7554,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.6,
+        "pe_ratio": 15.31,
         "forward_return": 76.22,
         "start_price": 14.85,
         "start_year": 2018
@@ -7572,7 +7563,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 18.31,
         "forward_return": 60.97,
         "start_price": 13.0,
         "start_year": 2018
@@ -7581,7 +7572,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 30.33,
         "forward_return": 70.11,
         "start_price": 13.85,
         "start_year": 2018
@@ -7590,7 +7581,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.55,
+        "pe_ratio": 64.18,
         "forward_return": 69.92,
         "start_price": 13.05,
         "start_year": 2018
@@ -7598,26 +7589,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2018-09-15",
-        "pe_ratio": 23.49,
-        "forward_return": 89.91,
-        "start_price": 12.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2018-10-16",
-        "pe_ratio": 29.48,
-        "forward_return": 92.94,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 51.02,
+        "pe_ratio": 388.3,
         "forward_return": 99.21,
         "start_price": 11.65,
         "start_year": 2018
@@ -7635,7 +7608,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 181.5,
+        "pe_ratio": 123.6,
         "forward_return": 94.92,
         "start_price": 11.95,
         "start_year": 2019
@@ -7644,7 +7617,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 201.9,
+        "pe_ratio": 100.9,
         "forward_return": 94.31,
         "start_price": 12.45,
         "start_year": 2019
@@ -7653,7 +7626,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 207.8,
+        "pe_ratio": 79.67,
         "forward_return": 96.73,
         "start_price": 11.95,
         "start_year": 2019
@@ -7662,7 +7635,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 254.1,
+        "pe_ratio": 58.91,
         "forward_return": 91.44,
         "start_price": 13.55,
         "start_year": 2019
@@ -7671,7 +7644,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 246.1,
+        "pe_ratio": 39.03,
         "forward_return": 94.59,
         "start_price": 12.1,
         "start_year": 2019
@@ -7680,7 +7653,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 276.7,
+        "pe_ratio": 31.92,
         "forward_return": 73.95,
         "start_price": 12.45,
         "start_year": 2019
@@ -7689,7 +7662,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 352.6,
+        "pe_ratio": 42.35,
         "forward_return": 91.7,
         "start_price": 14.4,
         "start_year": 2019
@@ -7698,7 +7671,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 350.4,
+        "pe_ratio": 44.31,
         "forward_return": 97.87,
         "start_price": 12.85,
         "start_year": 2019
@@ -7707,7 +7680,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 400.0,
+        "pe_ratio": 54.17,
         "forward_return": 99.64,
         "start_price": 13.0,
         "start_year": 2019
@@ -7716,7 +7689,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 441.2,
+        "pe_ratio": 75.0,
         "forward_return": 99.49,
         "start_price": 12.5,
         "start_year": 2019
@@ -7725,7 +7698,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 513.1,
+        "pe_ratio": 132.9,
         "forward_return": 101.02,
         "start_price": 12.4,
         "start_year": 2019
@@ -7742,35 +7715,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 26.7,
-        "forward_return": 112.81,
-        "start_price": 11.75,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-02-15",
-        "pe_ratio": 13.43,
-        "forward_return": 116.97,
-        "start_price": 11.55,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-03-16",
-        "pe_ratio": 7.23,
-        "forward_return": 130.8,
-        "start_price": 9.25,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 6.53,
+        "pe_ratio": 175.3,
         "forward_return": 124.11,
         "start_price": 11.1,
         "start_year": 2020
@@ -7779,7 +7725,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 5.14,
+        "pe_ratio": 35.54,
         "forward_return": 129.23,
         "start_price": 10.9,
         "start_year": 2020
@@ -7788,7 +7734,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 4.23,
+        "pe_ratio": 19.55,
         "forward_return": 126.61,
         "start_price": 10.75,
         "start_year": 2020
@@ -7797,7 +7743,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 3.72,
+        "pe_ratio": 9.94,
         "forward_return": 122.78,
         "start_price": 11.0,
         "start_year": 2020
@@ -7806,7 +7752,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 5.15,
+        "pe_ratio": 10.46,
         "forward_return": 101.78,
         "start_price": 17.4,
         "start_year": 2020
@@ -7815,7 +7761,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 7.14,
         "forward_return": 108.83,
         "start_price": 15.85,
         "start_year": 2020
@@ -7824,7 +7770,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 4.48,
+        "pe_ratio": 5.97,
         "forward_return": 100.58,
         "start_price": 18.9,
         "start_year": 2020
@@ -7833,7 +7779,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 5.32,
+        "pe_ratio": 6.0,
         "forward_return": 89.34,
         "start_price": 24.7,
         "start_year": 2020
@@ -7851,7 +7797,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 3.7,
+        "pe_ratio": 4.25,
         "forward_return": 76.82,
         "start_price": 31.2,
         "start_year": 2021
@@ -7860,7 +7806,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 3.21,
+        "pe_ratio": 3.95,
         "forward_return": 69.93,
         "start_price": 37.95,
         "start_year": 2021
@@ -7869,7 +7815,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 3.0,
+        "pe_ratio": 3.83,
         "forward_return": 62.97,
         "start_price": 45.5,
         "start_year": 2021
@@ -7878,7 +7824,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 4.26,
+        "pe_ratio": 5.52,
         "forward_return": 40.4,
         "start_price": 79.0,
         "start_year": 2021
@@ -7887,7 +7833,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 4.49,
+        "pe_ratio": 5.89,
         "forward_return": 36.76,
         "start_price": 98.6,
         "start_year": 2021
@@ -7896,7 +7842,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 7.78,
+        "pe_ratio": 10.27,
         "forward_return": 11.04,
         "start_price": 197.0,
         "start_year": 2021
@@ -7905,7 +7851,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 4.6,
+        "pe_ratio": 5.56,
         "forward_return": 25.6,
         "start_price": 132.0,
         "start_year": 2021
@@ -7914,7 +7860,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 4.24,
+        "pe_ratio": 4.81,
         "forward_return": 23.46,
         "start_price": 136.0,
         "start_year": 2021
@@ -7923,7 +7869,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 3.56,
+        "pe_ratio": 3.84,
         "forward_return": 25.19,
         "start_price": 126.0,
         "start_year": 2021
@@ -7932,7 +7878,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 2.56,
+        "pe_ratio": 2.68,
         "forward_return": 34.33,
         "start_price": 99.5,
         "start_year": 2021
@@ -7941,7 +7887,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 2.95,
+        "pe_ratio": 3.01,
         "forward_return": 25.61,
         "start_price": 124.5,
         "start_year": 2021
@@ -7959,7 +7905,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 2.3,
+        "pe_ratio": 2.28,
         "forward_return": 29.36,
         "start_price": 113.0,
         "start_year": 2022
@@ -7968,7 +7914,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 2.73,
+        "pe_ratio": 2.68,
         "forward_return": 22.91,
         "start_price": 143.5,
         "start_year": 2022
@@ -7977,7 +7923,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 5.62,
         "forward_return": 6.83,
         "start_price": 20.3,
         "start_year": 2006
@@ -7986,7 +7932,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 158.9,
+        "pe_ratio": 7.17,
         "forward_return": 6.37,
         "start_price": 22.25,
         "start_year": 2006
@@ -7995,7 +7941,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 157.1,
+        "pe_ratio": 8.47,
         "forward_return": 6.79,
         "start_price": 22.0,
         "start_year": 2006
@@ -8004,7 +7950,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 161.4,
+        "pe_ratio": 10.81,
         "forward_return": 3.54,
         "start_price": 22.6,
         "start_year": 2006
@@ -8013,7 +7959,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 158.6,
+        "pe_ratio": 13.37,
         "forward_return": 0.49,
         "start_price": 22.2,
         "start_year": 2006
@@ -8022,7 +7968,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 130.4,
+        "pe_ratio": 14.84,
         "forward_return": 3.43,
         "start_price": 18.25,
         "start_year": 2006
@@ -8031,7 +7977,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 134.6,
+        "pe_ratio": 23.56,
         "forward_return": -0.27,
         "start_price": 18.85,
         "start_year": 2006
@@ -8040,7 +7986,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 136.4,
+        "pe_ratio": 32.93,
         "forward_return": 0.52,
         "start_price": 19.1,
         "start_year": 2006
@@ -8049,7 +7995,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 136.4,
+        "pe_ratio": 53.06,
         "forward_return": -1.68,
         "start_price": 19.1,
         "start_year": 2006
@@ -8067,7 +8013,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 43.31,
+        "pe_ratio": 457.5,
         "forward_return": 1.33,
         "start_price": 18.3,
         "start_year": 2007
@@ -8075,26 +8021,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2007-02-14",
-        "pe_ratio": 30.5,
-        "forward_return": 1.88,
-        "start_price": 21.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2007-03-16",
-        "pe_ratio": 21.37,
-        "forward_return": 2.0,
-        "start_price": 21.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 170.4,
         "forward_return": -0.25,
         "start_price": 20.45,
         "start_year": 2007
@@ -8103,7 +8031,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 51.62,
         "forward_return": -3.09,
         "start_price": 20.65,
         "start_year": 2007
@@ -8112,7 +8040,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 31.99,
         "forward_return": -2.57,
         "start_price": 21.75,
         "start_year": 2007
@@ -8121,7 +8049,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 17.6,
         "forward_return": -2.99,
         "start_price": 22.35,
         "start_year": 2007
@@ -8130,7 +8058,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 11.51,
         "forward_return": -2.66,
         "start_price": 21.4,
         "start_year": 2007
@@ -8139,7 +8067,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.29,
+        "pe_ratio": 11.27,
         "forward_return": -8.04,
         "start_price": 27.6,
         "start_year": 2007
@@ -8148,7 +8076,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 11.28,
         "forward_return": -10.95,
         "start_price": 31.7,
         "start_year": 2007
@@ -8157,7 +8085,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 8.74,
         "forward_return": -6.49,
         "start_price": 27.7,
         "start_year": 2007
@@ -8175,7 +8103,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.32,
+        "pe_ratio": 6.83,
         "forward_return": -2.24,
         "start_price": 23.8,
         "start_year": 2008
@@ -8184,7 +8112,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.55,
         "forward_return": -4.48,
         "start_price": 26.0,
         "start_year": 2008
@@ -8193,7 +8121,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 8.82,
         "forward_return": -7.24,
         "start_price": 30.0,
         "start_year": 2008
@@ -8202,7 +8130,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 8.68,
         "forward_return": -7.24,
         "start_price": 29.05,
         "start_year": 2008
@@ -8211,7 +8139,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 8.12,
         "forward_return": -6.18,
         "start_price": 26.75,
         "start_year": 2008
@@ -8220,7 +8148,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.89,
+        "pe_ratio": 7.44,
         "forward_return": -4.55,
         "start_price": 24.1,
         "start_year": 2008
@@ -8229,7 +8157,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 7.37,
         "forward_return": -2.3,
         "start_price": 20.0,
         "start_year": 2008
@@ -8238,7 +8166,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 8.23,
         "forward_return": -0.11,
         "start_price": 18.0,
         "start_year": 2008
@@ -8247,7 +8175,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.75,
+        "pe_ratio": 8.61,
         "forward_return": 5.29,
         "start_price": 14.3,
         "start_year": 2008
@@ -8256,7 +8184,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 14.41,
         "forward_return": 1.54,
         "start_price": 16.95,
         "start_year": 2008
@@ -8265,7 +8193,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 33.49,
+        "pe_ratio": 23.51,
         "forward_return": 2.56,
         "start_price": 16.3,
         "start_year": 2008
@@ -8282,26 +8210,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2010-05-16",
-        "pe_ratio": 101.4,
-        "forward_return": 0.43,
-        "start_price": 18.25,
-        "start_year": 2010
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2010-06-15",
-        "pe_ratio": 23.78,
-        "forward_return": -3.63,
-        "start_price": 20.45,
-        "start_year": 2010
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.45,
+        "pe_ratio": 31.73,
         "forward_return": -7.35,
         "start_price": 23.8,
         "start_year": 2010
@@ -8310,7 +8220,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.57,
+        "pe_ratio": 11.42,
         "forward_return": -6.3,
         "start_price": 21.25,
         "start_year": 2010
@@ -8319,7 +8229,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 7.62,
+        "pe_ratio": 7.44,
         "forward_return": -7.52,
         "start_price": 22.1,
         "start_year": 2010
@@ -8328,7 +8238,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 7.12,
+        "pe_ratio": 7.03,
         "forward_return": -9.36,
         "start_price": 25.5,
         "start_year": 2010
@@ -8337,7 +8247,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 6.02,
+        "pe_ratio": 5.99,
         "forward_return": -11.34,
         "start_price": 25.65,
         "start_year": 2010
@@ -8355,7 +8265,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.02,
         "forward_return": -15.3,
         "start_price": 30.5,
         "start_year": 2011
@@ -8364,7 +8274,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 6.6,
+        "pe_ratio": 5.04,
         "forward_return": -12.95,
         "start_price": 26.2,
         "start_year": 2011
@@ -8373,7 +8283,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 7.02,
+        "pe_ratio": 4.6,
         "forward_return": -11.8,
         "start_price": 24.45,
         "start_year": 2011
@@ -8382,7 +8292,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 5.44,
         "forward_return": -13.27,
         "start_price": 26.5,
         "start_year": 2011
@@ -8391,7 +8301,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.65,
+        "pe_ratio": 6.05,
         "forward_return": -13.97,
         "start_price": 26.75,
         "start_year": 2011
@@ -8400,7 +8310,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 5.82,
         "forward_return": -10.79,
         "start_price": 23.1,
         "start_year": 2011
@@ -8409,7 +8319,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 6.53,
         "forward_return": -8.81,
         "start_price": 19.75,
         "start_year": 2011
@@ -8418,7 +8328,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.66,
+        "pe_ratio": 8.96,
         "forward_return": -8.24,
         "start_price": 18.6,
         "start_year": 2011
@@ -8427,7 +8337,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 27.49,
+        "pe_ratio": 13.81,
         "forward_return": -4.8,
         "start_price": 15.6,
         "start_year": 2011
@@ -8436,19 +8346,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 203.3,
+        "pe_ratio": 36.35,
         "forward_return": -6.44,
         "start_price": 16.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2012-11-15",
-        "pe_ratio": 1140.0,
-        "forward_return": -0.18,
-        "start_price": 17.1,
-        "start_year": 2012
       },
       {
         "horizon": "5y",
@@ -8463,7 +8364,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 347.8,
+        "pe_ratio": 85.02,
         "forward_return": -1.33,
         "start_price": 18.55,
         "start_year": 2013
@@ -8472,7 +8373,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 2018.0,
+        "pe_ratio": 55.89,
         "forward_return": -3.88,
         "start_price": 18.95,
         "start_year": 2013
@@ -8480,17 +8381,44 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2014-07-16",
-        "pe_ratio": 1301.0,
-        "forward_return": -3.26,
-        "start_price": 17.35,
-        "start_year": 2014
+        "start_date": "2013-03-16",
+        "pe_ratio": 38.91,
+        "forward_return": -3.15,
+        "start_price": 17.9,
+        "start_year": 2013
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2013-04-15",
+        "pe_ratio": 49.76,
+        "forward_return": -2.5,
+        "start_price": 17.25,
+        "start_year": 2013
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2013-05-16",
+        "pe_ratio": 71.79,
+        "forward_return": -2.25,
+        "start_price": 16.75,
+        "start_year": 2013
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2013-06-15",
+        "pe_ratio": 136.7,
+        "forward_return": -4.39,
+        "start_price": 16.4,
+        "start_year": 2013
       },
       {
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 238.0,
+        "pe_ratio": 165.9,
         "forward_return": -6.35,
         "start_price": 18.25,
         "start_year": 2014
@@ -8499,7 +8427,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 127.5,
+        "pe_ratio": 63.75,
         "forward_return": -5.72,
         "start_price": 17.85,
         "start_year": 2014
@@ -8508,7 +8436,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 88.28,
+        "pe_ratio": 60.51,
         "forward_return": -6.54,
         "start_price": 17.95,
         "start_year": 2014
@@ -8517,7 +8445,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 68.81,
+        "pe_ratio": 58.56,
         "forward_return": -7.1,
         "start_price": 18.35,
         "start_year": 2014
@@ -8535,7 +8463,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 113.4,
+        "pe_ratio": 35.0,
         "forward_return": -11.66,
         "start_price": 22.4,
         "start_year": 2015
@@ -8544,7 +8472,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 354.6,
+        "pe_ratio": 24.26,
         "forward_return": -12.46,
         "start_price": 23.05,
         "start_year": 2015
@@ -8552,8 +8480,62 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "5y",
         "horizon_label": "5年",
+        "start_date": "2015-03-16",
+        "pe_ratio": 18.45,
+        "forward_return": -16.3,
+        "start_price": 23.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2015-04-15",
+        "pe_ratio": 17.0,
+        "forward_return": -11.37,
+        "start_price": 20.85,
+        "start_year": 2015
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2015-05-16",
+        "pe_ratio": 14.79,
+        "forward_return": -8.69,
+        "start_price": 17.65,
+        "start_year": 2015
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2015-06-15",
+        "pe_ratio": 13.79,
+        "forward_return": -7.13,
+        "start_price": 16.0,
+        "start_year": 2015
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2015-07-16",
+        "pe_ratio": 20.11,
+        "forward_return": -5.86,
+        "start_price": 15.15,
+        "start_year": 2015
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2015-08-16",
+        "pe_ratio": 41.11,
+        "forward_return": 4.31,
+        "start_price": 14.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 343.3,
+        "pe_ratio": 61.8,
         "forward_return": 41.39,
         "start_price": 15.45,
         "start_year": 2017
@@ -8562,7 +8544,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 45.24,
+        "pe_ratio": 23.2,
         "forward_return": 47.67,
         "start_price": 16.55,
         "start_year": 2017
@@ -8571,7 +8553,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 33.5,
+        "pe_ratio": 19.55,
         "forward_return": 36.5,
         "start_price": 23.0,
         "start_year": 2017
@@ -8580,7 +8562,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.11,
+        "pe_ratio": 11.13,
         "forward_return": 55.65,
         "start_price": 18.25,
         "start_year": 2017
@@ -8589,7 +8571,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 10.31,
         "forward_return": 54.37,
         "start_price": 18.05,
         "start_year": 2017
@@ -8598,7 +8580,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 10.22,
+        "pe_ratio": 9.06,
         "forward_return": 61.26,
         "start_price": 16.85,
         "start_year": 2017
@@ -8616,7 +8598,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.53,
         "forward_return": 58.53,
         "start_price": 17.25,
         "start_year": 2018
@@ -8625,7 +8607,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.36,
         "forward_return": 63.0,
         "start_price": 15.45,
         "start_year": 2018
@@ -8634,7 +8616,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.17,
         "forward_return": 63.91,
         "start_price": 15.15,
         "start_year": 2018
@@ -8643,7 +8625,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 11.3,
+        "pe_ratio": 12.28,
         "forward_return": 64.57,
         "start_price": 15.1,
         "start_year": 2018
@@ -8652,7 +8634,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.6,
+        "pe_ratio": 15.31,
         "forward_return": 63.55,
         "start_price": 14.85,
         "start_year": 2018
@@ -8661,7 +8643,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 18.31,
         "forward_return": 54.44,
         "start_price": 13.0,
         "start_year": 2018
@@ -8670,7 +8652,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 30.33,
         "forward_return": 69.64,
         "start_price": 13.85,
         "start_year": 2018
@@ -8679,7 +8661,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.55,
+        "pe_ratio": 64.18,
         "forward_return": 72.11,
         "start_price": 13.05,
         "start_year": 2018
@@ -8687,26 +8669,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2018-09-15",
-        "pe_ratio": 23.49,
-        "forward_return": 74.41,
-        "start_price": 12.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2018-10-16",
-        "pe_ratio": 29.48,
-        "forward_return": 77.0,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 51.02,
+        "pe_ratio": 388.3,
         "forward_return": 77.03,
         "start_price": 11.65,
         "start_year": 2018
@@ -8724,7 +8688,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 181.5,
+        "pe_ratio": 123.6,
         "forward_return": 82.37,
         "start_price": 11.95,
         "start_year": 2019
@@ -8733,7 +8697,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 201.9,
+        "pe_ratio": 100.9,
         "forward_return": 83.08,
         "start_price": 12.45,
         "start_year": 2019
@@ -8742,7 +8706,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 207.8,
+        "pe_ratio": 79.67,
         "forward_return": 85.45,
         "start_price": 11.95,
         "start_year": 2019
@@ -8751,7 +8715,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 254.1,
+        "pe_ratio": 58.91,
         "forward_return": 83.2,
         "start_price": 13.55,
         "start_year": 2019
@@ -8760,7 +8724,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 246.1,
+        "pe_ratio": 39.03,
         "forward_return": 90.12,
         "start_price": 12.1,
         "start_year": 2019
@@ -8769,7 +8733,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 276.7,
+        "pe_ratio": 31.92,
         "forward_return": 86.79,
         "start_price": 12.45,
         "start_year": 2019
@@ -8778,7 +8742,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 352.6,
+        "pe_ratio": 42.35,
         "forward_return": 79.8,
         "start_price": 14.4,
         "start_year": 2019
@@ -8787,7 +8751,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 350.4,
+        "pe_ratio": 44.31,
         "forward_return": 86.26,
         "start_price": 12.85,
         "start_year": 2019
@@ -8796,7 +8760,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 400.0,
+        "pe_ratio": 54.17,
         "forward_return": 87.47,
         "start_price": 13.0,
         "start_year": 2019
@@ -8805,7 +8769,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 441.2,
+        "pe_ratio": 75.0,
         "forward_return": 89.51,
         "start_price": 12.5,
         "start_year": 2019
@@ -8814,7 +8778,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 513.1,
+        "pe_ratio": 132.9,
         "forward_return": 91.22,
         "start_price": 12.4,
         "start_year": 2019
@@ -8831,35 +8795,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 26.7,
-        "forward_return": 91.74,
-        "start_price": 11.75,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-02-15",
-        "pe_ratio": 13.43,
-        "forward_return": 92.37,
-        "start_price": 11.55,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-03-16",
-        "pe_ratio": 7.23,
-        "forward_return": 103.28,
-        "start_price": 9.25,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 6.53,
+        "pe_ratio": 175.3,
         "forward_return": 94.26,
         "start_price": 11.1,
         "start_year": 2020
@@ -8868,7 +8805,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 5.14,
+        "pe_ratio": 35.54,
         "forward_return": 99.58,
         "start_price": 10.9,
         "start_year": 2020
@@ -8877,7 +8814,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 4.23,
+        "pe_ratio": 19.55,
         "forward_return": 94.55,
         "start_price": 10.75,
         "start_year": 2020
@@ -8886,7 +8823,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 3.72,
+        "pe_ratio": 9.94,
         "forward_return": 97.57,
         "start_price": 11.0,
         "start_year": 2020
@@ -8895,7 +8832,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 5.15,
+        "pe_ratio": 10.46,
         "forward_return": 78.87,
         "start_price": 17.4,
         "start_year": 2020
@@ -8904,7 +8841,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 7.14,
         "forward_return": 81.49,
         "start_price": 15.85,
         "start_year": 2020
@@ -8913,7 +8850,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 4.48,
+        "pe_ratio": 5.97,
         "forward_return": 76.81,
         "start_price": 18.9,
         "start_year": 2020
@@ -8922,7 +8859,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 5.32,
+        "pe_ratio": 6.0,
         "forward_return": 66.13,
         "start_price": 24.7,
         "start_year": 2020
@@ -8940,7 +8877,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 3.7,
+        "pe_ratio": 4.25,
         "forward_return": 59.2,
         "start_price": 31.2,
         "start_year": 2021
@@ -8949,7 +8886,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 3.21,
+        "pe_ratio": 3.95,
         "forward_return": 54.13,
         "start_price": 37.95,
         "start_year": 2021
@@ -8958,7 +8895,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 5.62,
         "forward_return": 3.6,
         "start_price": 20.3,
         "start_year": 2006
@@ -8967,7 +8904,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 158.9,
+        "pe_ratio": 7.17,
         "forward_return": -0.19,
         "start_price": 22.25,
         "start_year": 2006
@@ -8976,7 +8913,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 157.1,
+        "pe_ratio": 8.47,
         "forward_return": -2.03,
         "start_price": 22.0,
         "start_year": 2006
@@ -8985,7 +8922,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 161.4,
+        "pe_ratio": 10.81,
         "forward_return": -1.3,
         "start_price": 22.6,
         "start_year": 2006
@@ -8994,7 +8931,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 158.6,
+        "pe_ratio": 13.37,
         "forward_return": -2.14,
         "start_price": 22.2,
         "start_year": 2006
@@ -9003,7 +8940,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 130.4,
+        "pe_ratio": 14.84,
         "forward_return": 0.67,
         "start_price": 18.25,
         "start_year": 2006
@@ -9012,7 +8949,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 134.6,
+        "pe_ratio": 23.56,
         "forward_return": -0.36,
         "start_price": 18.85,
         "start_year": 2006
@@ -9021,7 +8958,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 136.4,
+        "pe_ratio": 32.93,
         "forward_return": -0.94,
         "start_price": 19.1,
         "start_year": 2006
@@ -9030,7 +8967,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 136.4,
+        "pe_ratio": 53.06,
         "forward_return": 0.85,
         "start_price": 19.1,
         "start_year": 2006
@@ -9048,7 +8985,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 43.31,
+        "pe_ratio": 457.5,
         "forward_return": 2.76,
         "start_price": 18.3,
         "start_year": 2007
@@ -9056,26 +8993,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2007-02-14",
-        "pe_ratio": 30.5,
-        "forward_return": 0.34,
-        "start_price": 21.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2007-03-16",
-        "pe_ratio": 21.37,
-        "forward_return": -0.16,
-        "start_price": 21.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 170.4,
         "forward_return": -0.16,
         "start_price": 20.45,
         "start_year": 2007
@@ -9084,7 +9003,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 51.62,
         "forward_return": -0.74,
         "start_price": 20.65,
         "start_year": 2007
@@ -9093,7 +9012,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 31.99,
         "forward_return": -1.89,
         "start_price": 21.75,
         "start_year": 2007
@@ -9102,7 +9021,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 17.6,
         "forward_return": -2.25,
         "start_price": 22.35,
         "start_year": 2007
@@ -9111,7 +9030,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 11.51,
         "forward_return": -1.45,
         "start_price": 21.4,
         "start_year": 2007
@@ -9120,7 +9039,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.29,
+        "pe_ratio": 11.27,
         "forward_return": -5.07,
         "start_price": 27.6,
         "start_year": 2007
@@ -9129,7 +9048,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 11.28,
         "forward_return": -7.39,
         "start_price": 31.7,
         "start_year": 2007
@@ -9138,7 +9057,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 8.74,
         "forward_return": -5.13,
         "start_price": 27.7,
         "start_year": 2007
@@ -9156,7 +9075,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.32,
+        "pe_ratio": 6.83,
         "forward_return": -2.46,
         "start_price": 23.8,
         "start_year": 2008
@@ -9165,7 +9084,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.55,
         "forward_return": -3.83,
         "start_price": 26.0,
         "start_year": 2008
@@ -9174,7 +9093,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 8.82,
         "forward_return": -6.15,
         "start_price": 30.0,
         "start_year": 2008
@@ -9183,7 +9102,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 8.68,
         "forward_return": -6.15,
         "start_price": 29.05,
         "start_year": 2008
@@ -9192,7 +9111,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 8.12,
         "forward_return": -4.81,
         "start_price": 26.75,
         "start_year": 2008
@@ -9201,7 +9120,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.89,
+        "pe_ratio": 7.44,
         "forward_return": -3.89,
         "start_price": 24.1,
         "start_year": 2008
@@ -9210,7 +9129,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 7.37,
         "forward_return": -1.43,
         "start_price": 20.0,
         "start_year": 2008
@@ -9219,7 +9138,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 8.23,
         "forward_return": 1.13,
         "start_price": 18.0,
         "start_year": 2008
@@ -9228,7 +9147,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.75,
+        "pe_ratio": 8.61,
         "forward_return": 4.71,
         "start_price": 14.3,
         "start_year": 2008
@@ -9237,7 +9156,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 14.41,
         "forward_return": 1.88,
         "start_price": 16.95,
         "start_year": 2008
@@ -9246,7 +9165,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 33.49,
+        "pe_ratio": 23.51,
         "forward_return": 2.9,
         "start_price": 16.3,
         "start_year": 2008
@@ -9263,26 +9182,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2010-05-16",
-        "pe_ratio": 101.4,
-        "forward_return": -5.99,
-        "start_price": 18.25,
-        "start_year": 2010
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2010-06-15",
-        "pe_ratio": 23.78,
-        "forward_return": -7.21,
-        "start_price": 20.45,
-        "start_year": 2010
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.45,
+        "pe_ratio": 31.73,
         "forward_return": -9.07,
         "start_price": 23.8,
         "start_year": 2010
@@ -9291,7 +9192,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.57,
+        "pe_ratio": 11.42,
         "forward_return": -7.74,
         "start_price": 21.25,
         "start_year": 2010
@@ -9300,7 +9201,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 7.62,
+        "pe_ratio": 7.44,
         "forward_return": -8.23,
         "start_price": 22.1,
         "start_year": 2010
@@ -9309,7 +9210,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 7.12,
+        "pe_ratio": 7.03,
         "forward_return": -10.73,
         "start_price": 25.5,
         "start_year": 2010
@@ -9318,7 +9219,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 6.02,
+        "pe_ratio": 5.99,
         "forward_return": -10.54,
         "start_price": 25.65,
         "start_year": 2010
@@ -9336,7 +9237,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.02,
         "forward_return": -12.17,
         "start_price": 30.5,
         "start_year": 2011
@@ -9345,7 +9246,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 6.6,
+        "pe_ratio": 5.04,
         "forward_return": -8.23,
         "start_price": 26.2,
         "start_year": 2011
@@ -9354,7 +9255,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 7.02,
+        "pe_ratio": 4.6,
         "forward_return": -7.51,
         "start_price": 24.45,
         "start_year": 2011
@@ -9363,7 +9264,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 5.44,
         "forward_return": -9.66,
         "start_price": 26.5,
         "start_year": 2011
@@ -9372,7 +9273,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.65,
+        "pe_ratio": 6.05,
         "forward_return": -8.02,
         "start_price": 26.75,
         "start_year": 2011
@@ -9381,7 +9282,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 5.82,
         "forward_return": -5.4,
         "start_price": 23.1,
         "start_year": 2011
@@ -9390,7 +9291,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 6.53,
         "forward_return": -2.8,
         "start_price": 19.75,
         "start_year": 2011
@@ -9399,7 +9300,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.66,
+        "pe_ratio": 8.96,
         "forward_return": 3.68,
         "start_price": 18.6,
         "start_year": 2011
@@ -9408,7 +9309,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 27.49,
+        "pe_ratio": 13.81,
         "forward_return": 2.74,
         "start_price": 15.6,
         "start_year": 2011
@@ -9417,19 +9318,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 203.3,
+        "pe_ratio": 36.35,
         "forward_return": 1.5,
         "start_price": 16.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2012-11-15",
-        "pe_ratio": 1140.0,
-        "forward_return": -5.8,
-        "start_price": 17.1,
-        "start_year": 2012
       },
       {
         "horizon": "6y",
@@ -9444,7 +9336,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 347.8,
+        "pe_ratio": 85.02,
         "forward_return": -6.68,
         "start_price": 18.55,
         "start_year": 2013
@@ -9453,7 +9345,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 2018.0,
+        "pe_ratio": 55.89,
         "forward_return": -6.39,
         "start_price": 18.95,
         "start_year": 2013
@@ -9461,17 +9353,44 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2014-07-16",
-        "pe_ratio": 1301.0,
-        "forward_return": -6.9,
-        "start_price": 17.35,
-        "start_year": 2014
+        "start_date": "2013-03-16",
+        "pe_ratio": 38.91,
+        "forward_return": -6.13,
+        "start_price": 17.9,
+        "start_year": 2013
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2013-04-15",
+        "pe_ratio": 49.76,
+        "forward_return": -3.59,
+        "start_price": 17.25,
+        "start_year": 2013
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2013-05-16",
+        "pe_ratio": 71.79,
+        "forward_return": -4.89,
+        "start_price": 16.75,
+        "start_year": 2013
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2013-06-15",
+        "pe_ratio": 136.7,
+        "forward_return": -4.11,
+        "start_price": 16.4,
+        "start_year": 2013
       },
       {
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 238.0,
+        "pe_ratio": 165.9,
         "forward_return": -0.51,
         "start_price": 18.25,
         "start_year": 2014
@@ -9480,7 +9399,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 127.5,
+        "pe_ratio": 63.75,
         "forward_return": -1.65,
         "start_price": 17.85,
         "start_year": 2014
@@ -9489,7 +9408,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 88.28,
+        "pe_ratio": 60.51,
         "forward_return": 1.13,
         "start_price": 17.95,
         "start_year": 2014
@@ -9498,7 +9417,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 68.81,
+        "pe_ratio": 58.56,
         "forward_return": 5.29,
         "start_price": 18.35,
         "start_year": 2014
@@ -9516,7 +9435,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 113.4,
+        "pe_ratio": 35.0,
         "forward_return": 5.85,
         "start_price": 22.4,
         "start_year": 2015
@@ -9525,7 +9444,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 354.6,
+        "pe_ratio": 24.26,
         "forward_return": 8.81,
         "start_price": 23.05,
         "start_year": 2015
@@ -9533,8 +9452,62 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "6y",
         "horizon_label": "6年",
+        "start_date": "2015-03-16",
+        "pe_ratio": 18.45,
+        "forward_return": 11.96,
+        "start_price": 23.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2015-04-15",
+        "pe_ratio": 17.0,
+        "forward_return": 24.93,
+        "start_price": 20.85,
+        "start_year": 2015
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2015-05-16",
+        "pe_ratio": 14.79,
+        "forward_return": 33.26,
+        "start_price": 17.65,
+        "start_year": 2015
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2015-06-15",
+        "pe_ratio": 13.79,
+        "forward_return": 51.98,
+        "start_price": 16.0,
+        "start_year": 2015
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2015-07-16",
+        "pe_ratio": 20.11,
+        "forward_return": 43.92,
+        "start_price": 15.15,
+        "start_year": 2015
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2015-08-16",
+        "pe_ratio": 41.11,
+        "forward_return": 46.11,
+        "start_price": 14.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 343.3,
+        "pe_ratio": 61.8,
         "forward_return": 39.58,
         "start_price": 15.45,
         "start_year": 2017
@@ -9543,7 +9516,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 45.24,
+        "pe_ratio": 23.2,
         "forward_return": 50.82,
         "start_price": 16.55,
         "start_year": 2017
@@ -9552,7 +9525,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 33.5,
+        "pe_ratio": 19.55,
         "forward_return": 43.07,
         "start_price": 23.0,
         "start_year": 2017
@@ -9561,7 +9534,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.11,
+        "pe_ratio": 11.13,
         "forward_return": 49.87,
         "start_price": 18.25,
         "start_year": 2017
@@ -9570,7 +9543,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 10.31,
         "forward_return": 49.1,
         "start_price": 18.05,
         "start_year": 2017
@@ -9579,7 +9552,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 10.22,
+        "pe_ratio": 9.06,
         "forward_return": 51.38,
         "start_price": 16.85,
         "start_year": 2017
@@ -9597,7 +9570,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.53,
         "forward_return": 55.23,
         "start_price": 17.25,
         "start_year": 2018
@@ -9606,7 +9579,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.36,
         "forward_return": 59.7,
         "start_price": 15.45,
         "start_year": 2018
@@ -9615,7 +9588,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.17,
         "forward_return": 60.86,
         "start_price": 15.15,
         "start_year": 2018
@@ -9624,7 +9597,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 11.3,
+        "pe_ratio": 12.28,
         "forward_return": 62.69,
         "start_price": 15.1,
         "start_year": 2018
@@ -9633,7 +9606,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.6,
+        "pe_ratio": 15.31,
         "forward_return": 65.12,
         "start_price": 14.85,
         "start_year": 2018
@@ -9642,7 +9615,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 18.31,
         "forward_return": 67.15,
         "start_price": 13.0,
         "start_year": 2018
@@ -9651,7 +9624,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 30.33,
         "forward_return": 64.13,
         "start_price": 13.85,
         "start_year": 2018
@@ -9660,7 +9633,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.55,
+        "pe_ratio": 64.18,
         "forward_return": 67.5,
         "start_price": 13.05,
         "start_year": 2018
@@ -9668,26 +9641,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2018-09-15",
-        "pe_ratio": 23.49,
-        "forward_return": 69.28,
-        "start_price": 12.8,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2018-10-16",
-        "pe_ratio": 29.48,
-        "forward_return": 73.01,
-        "start_price": 11.4,
-        "start_year": 2018
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 51.02,
+        "pe_ratio": 388.3,
         "forward_return": 73.45,
         "start_price": 11.65,
         "start_year": 2018
@@ -9705,7 +9660,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 181.5,
+        "pe_ratio": 123.6,
         "forward_return": 71.56,
         "start_price": 11.95,
         "start_year": 2019
@@ -9714,7 +9669,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 201.9,
+        "pe_ratio": 100.9,
         "forward_return": 71.45,
         "start_price": 12.45,
         "start_year": 2019
@@ -9723,7 +9678,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 207.8,
+        "pe_ratio": 79.67,
         "forward_return": 73.03,
         "start_price": 11.95,
         "start_year": 2019
@@ -9732,7 +9687,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 254.1,
+        "pe_ratio": 58.91,
         "forward_return": 68.19,
         "start_price": 13.55,
         "start_year": 2019
@@ -9741,7 +9696,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 246.1,
+        "pe_ratio": 39.03,
         "forward_return": 74.76,
         "start_price": 12.1,
         "start_year": 2019
@@ -9750,7 +9705,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 276.7,
+        "pe_ratio": 31.92,
         "forward_return": 69.88,
         "start_price": 12.45,
         "start_year": 2019
@@ -9759,7 +9714,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 352.6,
+        "pe_ratio": 42.35,
         "forward_return": 68.6,
         "start_price": 14.4,
         "start_year": 2019
@@ -9768,7 +9723,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 350.4,
+        "pe_ratio": 44.31,
         "forward_return": 70.73,
         "start_price": 12.85,
         "start_year": 2019
@@ -9777,7 +9732,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 400.0,
+        "pe_ratio": 54.17,
         "forward_return": 69.81,
         "start_price": 13.0,
         "start_year": 2019
@@ -9786,7 +9741,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 441.2,
+        "pe_ratio": 75.0,
         "forward_return": 72.23,
         "start_price": 12.5,
         "start_year": 2019
@@ -9795,7 +9750,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 513.1,
+        "pe_ratio": 132.9,
         "forward_return": 71.2,
         "start_price": 12.4,
         "start_year": 2019
@@ -9810,19 +9765,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "start_year": 2019
       },
       {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 26.7,
-        "forward_return": 73.34,
-        "start_price": 11.75,
-        "start_year": 2020
-      },
-      {
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 5.62,
         "forward_return": 1.35,
         "start_price": 20.3,
         "start_year": 2006
@@ -9831,7 +9777,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 158.9,
+        "pe_ratio": 7.17,
         "forward_return": -0.17,
         "start_price": 22.25,
         "start_year": 2006
@@ -9840,7 +9786,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 157.1,
+        "pe_ratio": 8.47,
         "forward_return": -0.0,
         "start_price": 22.0,
         "start_year": 2006
@@ -9849,7 +9795,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 161.4,
+        "pe_ratio": 10.81,
         "forward_return": -0.86,
         "start_price": 22.6,
         "start_year": 2006
@@ -9858,7 +9804,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 158.6,
+        "pe_ratio": 13.37,
         "forward_return": -1.08,
         "start_price": 22.2,
         "start_year": 2006
@@ -9867,7 +9813,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 130.4,
+        "pe_ratio": 14.84,
         "forward_return": 1.92,
         "start_price": 18.25,
         "start_year": 2006
@@ -9876,7 +9822,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 134.6,
+        "pe_ratio": 23.56,
         "forward_return": 1.27,
         "start_price": 18.85,
         "start_year": 2006
@@ -9885,7 +9831,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 136.4,
+        "pe_ratio": 32.93,
         "forward_return": 1.16,
         "start_price": 19.1,
         "start_year": 2006
@@ -9894,7 +9840,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 136.4,
+        "pe_ratio": 53.06,
         "forward_return": 1.4,
         "start_price": 19.1,
         "start_year": 2006
@@ -9912,7 +9858,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 43.31,
+        "pe_ratio": 457.5,
         "forward_return": 4.18,
         "start_price": 18.3,
         "start_year": 2007
@@ -9920,26 +9866,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2007-02-14",
-        "pe_ratio": 30.5,
-        "forward_return": 2.43,
-        "start_price": 21.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2007-03-16",
-        "pe_ratio": 21.37,
-        "forward_return": 2.77,
-        "start_price": 21.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 170.4,
         "forward_return": 1.94,
         "start_price": 20.45,
         "start_year": 2007
@@ -9948,7 +9876,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 51.62,
         "forward_return": -0.0,
         "start_price": 20.65,
         "start_year": 2007
@@ -9957,7 +9885,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 31.99,
         "forward_return": -1.68,
         "start_price": 21.75,
         "start_year": 2007
@@ -9966,7 +9894,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 17.6,
         "forward_return": -2.7,
         "start_price": 22.35,
         "start_year": 2007
@@ -9975,7 +9903,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 11.51,
         "forward_return": -2.8,
         "start_price": 21.4,
         "start_year": 2007
@@ -9984,7 +9912,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.29,
+        "pe_ratio": 11.27,
         "forward_return": -6.12,
         "start_price": 27.6,
         "start_year": 2007
@@ -9993,7 +9921,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 11.28,
         "forward_return": -7.29,
         "start_price": 31.7,
         "start_year": 2007
@@ -10002,7 +9930,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 8.74,
         "forward_return": -6.81,
         "start_price": 27.7,
         "start_year": 2007
@@ -10020,7 +9948,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.32,
+        "pe_ratio": 6.83,
         "forward_return": -5.61,
         "start_price": 23.8,
         "start_year": 2008
@@ -10029,7 +9957,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.55,
         "forward_return": -6.8,
         "start_price": 26.0,
         "start_year": 2008
@@ -10038,7 +9966,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 8.82,
         "forward_return": -8.49,
         "start_price": 30.0,
         "start_year": 2008
@@ -10047,7 +9975,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 8.68,
         "forward_return": -8.16,
         "start_price": 29.05,
         "start_year": 2008
@@ -10056,7 +9984,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 8.12,
         "forward_return": -7.53,
         "start_price": 26.75,
         "start_year": 2008
@@ -10065,7 +9993,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.89,
+        "pe_ratio": 7.44,
         "forward_return": -5.95,
         "start_price": 24.1,
         "start_year": 2008
@@ -10074,7 +10002,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 7.37,
         "forward_return": -4.84,
         "start_price": 20.0,
         "start_year": 2008
@@ -10083,7 +10011,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 8.23,
         "forward_return": -3.89,
         "start_price": 18.0,
         "start_year": 2008
@@ -10092,7 +10020,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.75,
+        "pe_ratio": 8.61,
         "forward_return": -1.0,
         "start_price": 14.3,
         "start_year": 2008
@@ -10101,7 +10029,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 14.41,
         "forward_return": -3.36,
         "start_price": 16.95,
         "start_year": 2008
@@ -10110,7 +10038,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 33.49,
+        "pe_ratio": 23.51,
         "forward_return": -2.65,
         "start_price": 16.3,
         "start_year": 2008
@@ -10127,26 +10055,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2010-05-16",
-        "pe_ratio": 101.4,
-        "forward_return": -1.67,
-        "start_price": 18.25,
-        "start_year": 2010
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2010-06-15",
-        "pe_ratio": 23.78,
-        "forward_return": -4.54,
-        "start_price": 20.45,
-        "start_year": 2010
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.45,
+        "pe_ratio": 31.73,
         "forward_return": -5.49,
         "start_price": 23.8,
         "start_year": 2010
@@ -10155,7 +10065,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.57,
+        "pe_ratio": 11.42,
         "forward_return": -4.79,
         "start_price": 21.25,
         "start_year": 2010
@@ -10164,7 +10074,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 7.62,
+        "pe_ratio": 7.44,
         "forward_return": -5.46,
         "start_price": 22.1,
         "start_year": 2010
@@ -10173,7 +10083,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 7.12,
+        "pe_ratio": 7.03,
         "forward_return": -8.34,
         "start_price": 25.5,
         "start_year": 2010
@@ -10182,7 +10092,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 6.02,
+        "pe_ratio": 5.99,
         "forward_return": -8.19,
         "start_price": 25.65,
         "start_year": 2010
@@ -10200,7 +10110,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.02,
         "forward_return": -9.9,
         "start_price": 30.5,
         "start_year": 2011
@@ -10209,7 +10119,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 6.6,
+        "pe_ratio": 5.04,
         "forward_return": -7.74,
         "start_price": 26.2,
         "start_year": 2011
@@ -10218,7 +10128,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 7.02,
+        "pe_ratio": 4.6,
         "forward_return": -7.37,
         "start_price": 24.45,
         "start_year": 2011
@@ -10227,7 +10137,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 5.44,
         "forward_return": -6.98,
         "start_price": 26.5,
         "start_year": 2011
@@ -10236,7 +10146,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.65,
+        "pe_ratio": 6.05,
         "forward_return": -8.28,
         "start_price": 26.75,
         "start_year": 2011
@@ -10245,7 +10155,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 5.82,
         "forward_return": -6.28,
         "start_price": 23.1,
         "start_year": 2011
@@ -10254,7 +10164,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 6.53,
         "forward_return": -3.62,
         "start_price": 19.75,
         "start_year": 2011
@@ -10263,7 +10173,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.66,
+        "pe_ratio": 8.96,
         "forward_return": -4.24,
         "start_price": 18.6,
         "start_year": 2011
@@ -10272,7 +10182,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 27.49,
+        "pe_ratio": 13.81,
         "forward_return": -1.97,
         "start_price": 15.6,
         "start_year": 2011
@@ -10281,19 +10191,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 203.3,
+        "pe_ratio": 36.35,
         "forward_return": -3.2,
         "start_price": 16.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2012-11-15",
-        "pe_ratio": 1140.0,
-        "forward_return": 4.86,
-        "start_price": 17.1,
-        "start_year": 2012
       },
       {
         "horizon": "8y",
@@ -10308,7 +10209,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 347.8,
+        "pe_ratio": 85.02,
         "forward_return": 6.84,
         "start_price": 18.55,
         "start_year": 2013
@@ -10317,7 +10218,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 2018.0,
+        "pe_ratio": 55.89,
         "forward_return": 9.18,
         "start_price": 18.95,
         "start_year": 2013
@@ -10325,17 +10226,44 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2014-07-16",
-        "pe_ratio": 1301.0,
-        "forward_return": 26.85,
-        "start_price": 17.35,
-        "start_year": 2014
+        "start_date": "2013-03-16",
+        "pe_ratio": 38.91,
+        "forward_return": 12.46,
+        "start_price": 17.9,
+        "start_year": 2013
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2013-04-15",
+        "pe_ratio": 49.76,
+        "forward_return": 21.01,
+        "start_price": 17.25,
+        "start_year": 2013
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2013-05-16",
+        "pe_ratio": 71.79,
+        "forward_return": 24.85,
+        "start_price": 16.75,
+        "start_year": 2013
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2013-06-15",
+        "pe_ratio": 136.7,
+        "forward_return": 36.47,
+        "start_price": 16.4,
+        "start_year": 2013
       },
       {
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 238.0,
+        "pe_ratio": 165.9,
         "forward_return": 25.04,
         "start_price": 18.25,
         "start_year": 2014
@@ -10344,7 +10272,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 127.5,
+        "pe_ratio": 63.75,
         "forward_return": 32.23,
         "start_price": 17.85,
         "start_year": 2014
@@ -10353,7 +10281,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 88.28,
+        "pe_ratio": 60.51,
         "forward_return": 31.27,
         "start_price": 17.95,
         "start_year": 2014
@@ -10362,7 +10290,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 68.81,
+        "pe_ratio": 58.56,
         "forward_return": 33.38,
         "start_price": 18.35,
         "start_year": 2014
@@ -10380,7 +10308,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 113.4,
+        "pe_ratio": 35.0,
         "forward_return": 29.09,
         "start_price": 22.4,
         "start_year": 2015
@@ -10389,7 +10317,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 354.6,
+        "pe_ratio": 24.26,
         "forward_return": 29.09,
         "start_price": 23.05,
         "start_year": 2015
@@ -10397,8 +10325,62 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "8y",
         "horizon_label": "8年",
+        "start_date": "2015-03-16",
+        "pe_ratio": 18.45,
+        "forward_return": 29.09,
+        "start_price": 23.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2015-04-15",
+        "pe_ratio": 17.0,
+        "forward_return": 31.13,
+        "start_price": 20.85,
+        "start_year": 2015
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2015-05-16",
+        "pe_ratio": 14.79,
+        "forward_return": 33.09,
+        "start_price": 17.65,
+        "start_year": 2015
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2015-06-15",
+        "pe_ratio": 13.79,
+        "forward_return": 27.86,
+        "start_price": 16.0,
+        "start_year": 2015
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2015-07-16",
+        "pe_ratio": 20.11,
+        "forward_return": 37.6,
+        "start_price": 15.15,
+        "start_year": 2015
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2015-08-16",
+        "pe_ratio": 41.11,
+        "forward_return": 38.88,
+        "start_price": 14.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 343.3,
+        "pe_ratio": 61.8,
         "forward_return": 44.86,
         "start_price": 15.45,
         "start_year": 2017
@@ -10407,7 +10389,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 45.24,
+        "pe_ratio": 23.2,
         "forward_return": 45.43,
         "start_price": 16.55,
         "start_year": 2017
@@ -10416,7 +10398,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 33.5,
+        "pe_ratio": 19.55,
         "forward_return": 38.9,
         "start_price": 23.0,
         "start_year": 2017
@@ -10425,7 +10407,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.11,
+        "pe_ratio": 11.13,
         "forward_return": 42.61,
         "start_price": 18.25,
         "start_year": 2017
@@ -10434,7 +10416,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 10.31,
         "forward_return": 43.62,
         "start_price": 18.05,
         "start_year": 2017
@@ -10443,7 +10425,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 10.22,
+        "pe_ratio": 9.06,
         "forward_return": 44.06,
         "start_price": 16.85,
         "start_year": 2017
@@ -10461,7 +10443,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.53,
         "forward_return": 44.01,
         "start_price": 17.25,
         "start_year": 2018
@@ -10470,7 +10452,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 9.34,
+        "pe_ratio": 9.36,
         "forward_return": 46.63,
         "start_price": 15.45,
         "start_year": 2018
@@ -10479,7 +10461,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 5.62,
         "forward_return": -1.85,
         "start_price": 20.3,
         "start_year": 2006
@@ -10488,7 +10470,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 158.9,
+        "pe_ratio": 7.17,
         "forward_return": -2.77,
         "start_price": 22.25,
         "start_year": 2006
@@ -10497,7 +10479,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 157.1,
+        "pe_ratio": 8.47,
         "forward_return": -2.9,
         "start_price": 22.0,
         "start_year": 2006
@@ -10506,7 +10488,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 161.4,
+        "pe_ratio": 10.81,
         "forward_return": -2.89,
         "start_price": 22.6,
         "start_year": 2006
@@ -10515,7 +10497,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 158.6,
+        "pe_ratio": 13.37,
         "forward_return": -3.56,
         "start_price": 22.2,
         "start_year": 2006
@@ -10524,7 +10506,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 130.4,
+        "pe_ratio": 14.84,
         "forward_return": -1.88,
         "start_price": 18.25,
         "start_year": 2006
@@ -10533,7 +10515,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 134.6,
+        "pe_ratio": 23.56,
         "forward_return": -2.13,
         "start_price": 18.85,
         "start_year": 2006
@@ -10542,7 +10524,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 136.4,
+        "pe_ratio": 32.93,
         "forward_return": -2.45,
         "start_price": 19.1,
         "start_year": 2006
@@ -10551,7 +10533,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 136.4,
+        "pe_ratio": 53.06,
         "forward_return": -2.29,
         "start_price": 19.1,
         "start_year": 2006
@@ -10569,7 +10551,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 43.31,
+        "pe_ratio": 457.5,
         "forward_return": -1.33,
         "start_price": 18.3,
         "start_year": 2007
@@ -10577,26 +10559,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2007-02-14",
-        "pe_ratio": 30.5,
-        "forward_return": -1.95,
-        "start_price": 21.5,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2007-03-16",
-        "pe_ratio": 21.37,
-        "forward_return": -1.97,
-        "start_price": 21.1,
-        "start_year": 2007
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 16.1,
+        "pe_ratio": 170.4,
         "forward_return": -2.18,
         "start_price": 20.45,
         "start_year": 2007
@@ -10605,7 +10569,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 51.62,
         "forward_return": -1.26,
         "start_price": 20.65,
         "start_year": 2007
@@ -10614,7 +10578,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 31.99,
         "forward_return": -1.58,
         "start_price": 21.75,
         "start_year": 2007
@@ -10623,7 +10587,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 17.6,
         "forward_return": -1.43,
         "start_price": 22.35,
         "start_year": 2007
@@ -10632,7 +10596,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 8.92,
+        "pe_ratio": 11.51,
         "forward_return": 1.89,
         "start_price": 21.4,
         "start_year": 2007
@@ -10641,7 +10605,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.29,
+        "pe_ratio": 11.27,
         "forward_return": -2.67,
         "start_price": 27.6,
         "start_year": 2007
@@ -10650,7 +10614,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.69,
+        "pe_ratio": 11.28,
         "forward_return": -4.1,
         "start_price": 31.7,
         "start_year": 2007
@@ -10659,7 +10623,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 8.74,
         "forward_return": -3.38,
         "start_price": 27.7,
         "start_year": 2007
@@ -10677,7 +10641,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.32,
+        "pe_ratio": 6.83,
         "forward_return": -1.7,
         "start_price": 23.8,
         "start_year": 2008
@@ -10686,7 +10650,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.55,
         "forward_return": -3.61,
         "start_price": 26.0,
         "start_year": 2008
@@ -10695,7 +10659,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 8.82,
         "forward_return": -5.01,
         "start_price": 30.0,
         "start_year": 2008
@@ -10704,7 +10668,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 8.68,
         "forward_return": -4.73,
         "start_price": 29.05,
         "start_year": 2008
@@ -10713,7 +10677,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 8.12,
         "forward_return": -4.07,
         "start_price": 26.75,
         "start_year": 2008
@@ -10722,7 +10686,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 12.89,
+        "pe_ratio": 7.44,
         "forward_return": -4.14,
         "start_price": 24.1,
         "start_year": 2008
@@ -10731,7 +10695,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 7.37,
         "forward_return": -2.74,
         "start_price": 20.0,
         "start_year": 2008
@@ -10740,7 +10704,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 8.23,
         "forward_return": -2.24,
         "start_price": 18.0,
         "start_year": 2008
@@ -10749,7 +10713,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 13.75,
+        "pe_ratio": 8.61,
         "forward_return": -0.14,
         "start_price": 14.3,
         "start_year": 2008
@@ -10758,7 +10722,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 14.41,
         "forward_return": -2.85,
         "start_price": 16.95,
         "start_year": 2008
@@ -10767,7 +10731,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 33.49,
+        "pe_ratio": 23.51,
         "forward_return": -2.27,
         "start_price": 16.3,
         "start_year": 2008
@@ -10784,26 +10748,8 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2010-05-16",
-        "pe_ratio": 101.4,
-        "forward_return": -3.95,
-        "start_price": 18.25,
-        "start_year": 2010
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2010-06-15",
-        "pe_ratio": 23.78,
-        "forward_return": -5.15,
-        "start_price": 20.45,
-        "start_year": 2010
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 15.45,
+        "pe_ratio": 31.73,
         "forward_return": -6.39,
         "start_price": 23.8,
         "start_year": 2010
@@ -10812,7 +10758,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.57,
+        "pe_ratio": 11.42,
         "forward_return": -1.27,
         "start_price": 21.25,
         "start_year": 2010
@@ -10821,7 +10767,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 7.62,
+        "pe_ratio": 7.44,
         "forward_return": -2.5,
         "start_price": 22.1,
         "start_year": 2010
@@ -10830,7 +10776,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 7.12,
+        "pe_ratio": 7.03,
         "forward_return": -2.3,
         "start_price": 25.5,
         "start_year": 2010
@@ -10839,7 +10785,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 6.02,
+        "pe_ratio": 5.99,
         "forward_return": 0.14,
         "start_price": 25.65,
         "start_year": 2010
@@ -10857,7 +10803,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.02,
         "forward_return": 0.64,
         "start_price": 30.5,
         "start_year": 2011
@@ -10866,7 +10812,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 6.6,
+        "pe_ratio": 5.04,
         "forward_return": 4.12,
         "start_price": 26.2,
         "start_year": 2011
@@ -10875,7 +10821,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 7.02,
+        "pe_ratio": 4.6,
         "forward_return": 6.71,
         "start_price": 24.45,
         "start_year": 2011
@@ -10884,7 +10830,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 5.44,
         "forward_return": 11.72,
         "start_price": 26.5,
         "start_year": 2011
@@ -10893,7 +10839,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 10.65,
+        "pe_ratio": 6.05,
         "forward_return": 14.08,
         "start_price": 26.75,
         "start_year": 2011
@@ -10902,7 +10848,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 5.82,
         "forward_return": 23.98,
         "start_price": 23.1,
         "start_year": 2011
@@ -10911,7 +10857,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.83,
+        "pe_ratio": 6.53,
         "forward_return": 21.17,
         "start_price": 19.75,
         "start_year": 2011
@@ -10920,7 +10866,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.66,
+        "pe_ratio": 8.96,
         "forward_return": 22.26,
         "start_price": 18.6,
         "start_year": 2011
@@ -10929,7 +10875,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 27.49,
+        "pe_ratio": 13.81,
         "forward_return": 23.5,
         "start_price": 15.6,
         "start_year": 2011
@@ -10938,19 +10884,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 203.3,
+        "pe_ratio": 36.35,
         "forward_return": 19.94,
         "start_price": 16.6,
         "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2012-11-15",
-        "pe_ratio": 1140.0,
-        "forward_return": 26.81,
-        "start_price": 17.1,
-        "start_year": 2012
       },
       {
         "horizon": "10y",
@@ -10965,7 +10902,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 347.8,
+        "pe_ratio": 85.02,
         "forward_return": 25.01,
         "start_price": 18.55,
         "start_year": 2013
@@ -10974,7 +10911,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 2018.0,
+        "pe_ratio": 55.89,
         "forward_return": 25.1,
         "start_price": 18.95,
         "start_year": 2013
@@ -10982,17 +10919,44 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2014-07-16",
-        "pe_ratio": 1301.0,
-        "forward_return": 31.64,
-        "start_price": 17.35,
-        "start_year": 2014
+        "start_date": "2013-03-16",
+        "pe_ratio": 38.91,
+        "forward_return": 25.92,
+        "start_price": 17.9,
+        "start_year": 2013
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2013-04-15",
+        "pe_ratio": 49.76,
+        "forward_return": 26.59,
+        "start_price": 17.25,
+        "start_year": 2013
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2013-05-16",
+        "pe_ratio": 71.79,
+        "forward_return": 26.36,
+        "start_price": 16.75,
+        "start_year": 2013
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2013-06-15",
+        "pe_ratio": 136.7,
+        "forward_return": 21.43,
+        "start_price": 16.4,
+        "start_year": 2013
       },
       {
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 238.0,
+        "pe_ratio": 165.9,
         "forward_return": 31.8,
         "start_price": 18.25,
         "start_year": 2014
@@ -11001,7 +10965,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 127.5,
+        "pe_ratio": 63.75,
         "forward_return": 32.67,
         "start_price": 17.85,
         "start_year": 2014
@@ -11010,7 +10974,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 88.28,
+        "pe_ratio": 60.51,
         "forward_return": 32.8,
         "start_price": 17.95,
         "start_year": 2014
@@ -11019,7 +10983,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 68.81,
+        "pe_ratio": 58.56,
         "forward_return": 32.99,
         "start_price": 18.35,
         "start_year": 2014
@@ -11037,7 +11001,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 113.4,
+        "pe_ratio": 35.0,
         "forward_return": 29.85,
         "start_price": 22.4,
         "start_year": 2015
@@ -11046,9 +11010,63 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 354.6,
+        "pe_ratio": 24.26,
         "forward_return": 29.95,
         "start_price": 23.05,
+        "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2015-03-16",
+        "pe_ratio": 18.45,
+        "forward_return": 30.02,
+        "start_price": 23.25,
+        "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2015-04-15",
+        "pe_ratio": 17.0,
+        "forward_return": 30.86,
+        "start_price": 20.85,
+        "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2015-05-16",
+        "pe_ratio": 14.79,
+        "forward_return": 34.62,
+        "start_price": 17.65,
+        "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2015-06-15",
+        "pe_ratio": 13.79,
+        "forward_return": 34.04,
+        "start_price": 16.0,
+        "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2015-07-16",
+        "pe_ratio": 20.11,
+        "forward_return": 36.13,
+        "start_price": 15.15,
+        "start_year": 2015
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2015-08-16",
+        "pe_ratio": 41.11,
+        "forward_return": 36.44,
+        "start_price": 14.25,
         "start_year": 2015
       }
     ]
@@ -11253,7 +11271,7 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 2.6倍、3.9倍、8.8倍、33.5倍、204.2倍"
+!!! note "本益比河流帶水位: 2.4倍、4.3倍、8.3倍、30.7倍、72.3倍"
 
 ```vegalite
 {
@@ -11264,1692 +11282,1682 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "date": "2006-03-16",
         "price": 20.3,
-        "pe": 145.0,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.59
+        "pe": 5.62,
+        "pe_10": 8.54,
+        "pe_25": 15.45,
+        "pe_50": 30.14,
+        "pe_75": 110.82,
+        "pe_90": 261.24
       },
       {
         "date": "2006-04-15",
         "price": 22.25,
-        "pe": 158.9,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.59
+        "pe": 7.17,
+        "pe_10": 7.34,
+        "pe_25": 13.27,
+        "pe_50": 25.9,
+        "pe_75": 95.21,
+        "pe_90": 224.44
       },
       {
         "date": "2006-05-16",
         "price": 22.0,
-        "pe": 157.1,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.6
+        "pe": 8.47,
+        "pe_10": 6.14,
+        "pe_25": 11.11,
+        "pe_50": 21.68,
+        "pe_75": 79.69,
+        "pe_90": 187.85
       },
       {
         "date": "2006-06-15",
         "price": 22.6,
-        "pe": 161.4,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.59
+        "pe": 10.81,
+        "pe_10": 4.94,
+        "pe_25": 8.94,
+        "pe_50": 17.45,
+        "pe_75": 64.14,
+        "pe_90": 151.2
       },
       {
         "date": "2006-07-16",
         "price": 22.2,
-        "pe": 158.6,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.58
+        "pe": 13.37,
+        "pe_10": 3.93,
+        "pe_25": 7.1,
+        "pe_50": 13.86,
+        "pe_75": 50.94,
+        "pe_90": 120.09
       },
       {
         "date": "2006-08-16",
         "price": 18.25,
-        "pe": 130.4,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.58
+        "pe": 14.84,
+        "pe_10": 2.91,
+        "pe_25": 5.26,
+        "pe_50": 10.26,
+        "pe_75": 37.73,
+        "pe_90": 88.94
       },
       {
         "date": "2006-09-15",
         "price": 18.85,
-        "pe": 134.6,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.6
+        "pe": 23.56,
+        "pe_10": 1.89,
+        "pe_25": 3.42,
+        "pe_50": 6.68,
+        "pe_75": 24.55,
+        "pe_90": 57.87
       },
       {
         "date": "2006-10-16",
         "price": 19.1,
-        "pe": 136.4,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.59
+        "pe": 32.93,
+        "pe_10": 1.37,
+        "pe_25": 2.48,
+        "pe_50": 4.84,
+        "pe_75": 17.79,
+        "pe_90": 41.95
       },
       {
         "date": "2006-11-15",
         "price": 19.1,
-        "pe": 136.4,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.59
+        "pe": 53.06,
+        "pe_10": 0.85,
+        "pe_25": 1.54,
+        "pe_50": 3.0,
+        "pe_75": 11.04,
+        "pe_90": 26.03
       },
       {
         "date": "2006-12-16",
         "price": 18.85,
         "pe": 134.6,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.6
+        "pe_10": 0.33,
+        "pe_25": 0.6,
+        "pe_50": 1.17,
+        "pe_75": 4.3,
+        "pe_90": 10.13
       },
       {
         "date": "2007-01-16",
         "price": 18.3,
-        "pe": 43.31,
-        "pe_10": 1.08,
-        "pe_25": 1.63,
-        "pe_50": 3.74,
-        "pe_75": 14.15,
-        "pe_90": 86.28
-      },
-      {
-        "date": "2007-02-14",
-        "price": 21.5,
-        "pe": 30.5,
-        "pe_10": 1.8,
-        "pe_25": 2.71,
-        "pe_50": 6.23,
-        "pe_75": 23.61,
-        "pe_90": 143.94
-      },
-      {
-        "date": "2007-03-16",
-        "price": 21.1,
-        "pe": 21.37,
-        "pe_10": 2.52,
-        "pe_25": 3.8,
-        "pe_50": 8.73,
-        "pe_75": 33.08,
-        "pe_90": 201.62
+        "pe": 457.5,
+        "pe_10": 0.09,
+        "pe_25": 0.17,
+        "pe_50": 0.33,
+        "pe_75": 1.23,
+        "pe_90": 2.89
       },
       {
         "date": "2007-04-15",
         "price": 20.45,
-        "pe": 16.1,
-        "pe_10": 3.25,
-        "pe_25": 4.89,
-        "pe_50": 11.23,
-        "pe_75": 42.55,
-        "pe_90": 259.37
+        "pe": 170.4,
+        "pe_10": 0.28,
+        "pe_25": 0.51,
+        "pe_50": 1.0,
+        "pe_75": 3.68,
+        "pe_90": 8.68
       },
       {
         "date": "2007-05-16",
         "price": 20.65,
-        "pe": 13.3,
-        "pe_10": 3.97,
-        "pe_25": 5.98,
-        "pe_50": 13.73,
-        "pe_75": 52.01,
-        "pe_90": 317.05
+        "pe": 51.62,
+        "pe_10": 0.95,
+        "pe_25": 1.71,
+        "pe_50": 3.34,
+        "pe_75": 12.27,
+        "pe_90": 28.93
       },
       {
         "date": "2007-06-15",
         "price": 21.75,
-        "pe": 11.85,
-        "pe_10": 4.69,
-        "pe_25": 7.07,
-        "pe_50": 16.23,
-        "pe_75": 61.49,
-        "pe_90": 374.8
+        "pe": 31.99,
+        "pe_10": 1.61,
+        "pe_25": 2.91,
+        "pe_50": 5.67,
+        "pe_75": 20.86,
+        "pe_90": 49.17
       },
       {
         "date": "2007-07-16",
         "price": 22.35,
-        "pe": 10.55,
-        "pe_10": 5.41,
-        "pe_25": 8.16,
-        "pe_50": 18.73,
-        "pe_75": 70.97,
-        "pe_90": 432.59
+        "pe": 17.6,
+        "pe_10": 3.0,
+        "pe_25": 5.43,
+        "pe_50": 10.6,
+        "pe_75": 38.96,
+        "pe_90": 91.84
       },
       {
         "date": "2007-08-16",
         "price": 21.4,
-        "pe": 8.92,
-        "pe_10": 6.13,
-        "pe_25": 9.24,
-        "pe_50": 21.21,
-        "pe_75": 80.37,
-        "pe_90": 489.9
+        "pe": 11.51,
+        "pe_10": 4.4,
+        "pe_25": 7.95,
+        "pe_50": 15.52,
+        "pe_75": 57.04,
+        "pe_90": 134.47
       },
       {
         "date": "2007-09-15",
         "price": 27.6,
-        "pe": 10.29,
-        "pe_10": 6.86,
-        "pe_25": 10.33,
-        "pe_50": 23.71,
-        "pe_75": 89.85,
-        "pe_90": 547.71
+        "pe": 11.27,
+        "pe_10": 5.79,
+        "pe_25": 10.48,
+        "pe_50": 20.44,
+        "pe_75": 75.13,
+        "pe_90": 177.12
       },
       {
         "date": "2007-10-16",
         "price": 31.7,
-        "pe": 10.69,
-        "pe_10": 7.58,
-        "pe_25": 11.42,
-        "pe_50": 26.21,
-        "pe_75": 99.34,
-        "pe_90": 605.53
+        "pe": 11.28,
+        "pe_10": 6.64,
+        "pe_25": 12.02,
+        "pe_50": 23.45,
+        "pe_75": 86.22,
+        "pe_90": 203.25
       },
       {
         "date": "2007-11-15",
         "price": 27.7,
-        "pe": 8.53,
-        "pe_10": 8.3,
-        "pe_25": 12.5,
-        "pe_50": 28.71,
-        "pe_75": 108.79,
-        "pe_90": 663.11
+        "pe": 8.74,
+        "pe_10": 7.49,
+        "pe_25": 13.56,
+        "pe_50": 26.45,
+        "pe_75": 97.24,
+        "pe_90": 229.22
       },
       {
         "date": "2007-12-16",
         "price": 29.6,
         "pe": 8.39,
-        "pe_10": 9.02,
-        "pe_25": 13.58,
-        "pe_50": 31.19,
-        "pe_75": 118.19,
-        "pe_90": 720.42
+        "pe_10": 8.34,
+        "pe_25": 15.09,
+        "pe_50": 29.44,
+        "pe_75": 108.24,
+        "pe_90": 255.16
       },
       {
         "date": "2008-01-16",
         "price": 23.8,
-        "pe": 7.32,
-        "pe_10": 8.31,
-        "pe_25": 12.52,
-        "pe_50": 28.74,
-        "pe_75": 108.92,
-        "pe_90": 663.93
+        "pe": 6.83,
+        "pe_10": 8.24,
+        "pe_25": 14.91,
+        "pe_50": 29.08,
+        "pe_75": 106.91,
+        "pe_90": 252.02
       },
       {
         "date": "2008-02-15",
         "price": 26.0,
-        "pe": 8.73,
-        "pe_10": 7.61,
-        "pe_25": 11.47,
-        "pe_50": 26.33,
-        "pe_75": 99.77,
-        "pe_90": 608.16
+        "pe": 7.55,
+        "pe_10": 8.14,
+        "pe_25": 14.73,
+        "pe_50": 28.74,
+        "pe_75": 105.65,
+        "pe_90": 249.06
       },
       {
         "date": "2008-03-16",
         "price": 30.0,
-        "pe": 11.11,
-        "pe_10": 6.9,
-        "pe_25": 10.4,
-        "pe_50": 23.87,
-        "pe_75": 90.46,
-        "pe_90": 551.4
+        "pe": 8.82,
+        "pe_10": 8.04,
+        "pe_25": 14.55,
+        "pe_50": 28.38,
+        "pe_75": 104.35,
+        "pe_90": 246.0
       },
       {
         "date": "2008-04-15",
         "price": 29.05,
-        "pe": 11.99,
-        "pe_10": 6.19,
-        "pe_25": 9.33,
-        "pe_50": 21.42,
-        "pe_75": 81.17,
-        "pe_90": 494.75
+        "pe": 8.68,
+        "pe_10": 7.91,
+        "pe_25": 14.32,
+        "pe_50": 27.93,
+        "pe_75": 102.68,
+        "pe_90": 242.05
       },
       {
         "date": "2008-05-16",
         "price": 26.75,
-        "pe": 12.46,
-        "pe_10": 5.49,
-        "pe_25": 8.27,
-        "pe_50": 18.98,
-        "pe_75": 71.92,
-        "pe_90": 438.39
+        "pe": 8.12,
+        "pe_10": 7.79,
+        "pe_25": 14.09,
+        "pe_50": 27.49,
+        "pe_75": 101.07,
+        "pe_90": 238.26
       },
       {
         "date": "2008-06-15",
         "price": 24.1,
-        "pe": 12.89,
-        "pe_10": 4.78,
-        "pe_25": 7.2,
-        "pe_50": 16.53,
-        "pe_75": 62.63,
-        "pe_90": 381.79
+        "pe": 7.44,
+        "pe_10": 7.66,
+        "pe_25": 13.86,
+        "pe_50": 27.03,
+        "pe_75": 99.38,
+        "pe_90": 234.28
       },
       {
         "date": "2008-07-16",
         "price": 20.0,
-        "pe": 12.55,
-        "pe_10": 4.07,
-        "pe_25": 6.14,
-        "pe_50": 14.09,
-        "pe_75": 53.39,
-        "pe_90": 325.42
+        "pe": 7.37,
+        "pe_10": 6.42,
+        "pe_25": 11.61,
+        "pe_50": 22.65,
+        "pe_75": 83.26,
+        "pe_90": 196.27
       },
       {
         "date": "2008-08-16",
         "price": 18.0,
-        "pe": 13.67,
-        "pe_10": 3.37,
-        "pe_25": 5.07,
-        "pe_50": 11.64,
-        "pe_75": 44.11,
-        "pe_90": 268.88
+        "pe": 8.23,
+        "pe_10": 5.17,
+        "pe_25": 9.36,
+        "pe_50": 18.25,
+        "pe_75": 67.1,
+        "pe_90": 158.18
       },
       {
         "date": "2008-09-15",
         "price": 14.3,
-        "pe": 13.75,
-        "pe_10": 2.66,
-        "pe_25": 4.0,
-        "pe_50": 9.19,
-        "pe_75": 34.84,
-        "pe_90": 212.37
+        "pe": 8.61,
+        "pe_10": 3.93,
+        "pe_25": 7.1,
+        "pe_50": 13.86,
+        "pe_75": 50.96,
+        "pe_90": 120.12
       },
       {
         "date": "2008-10-16",
         "price": 16.95,
-        "pe": 22.21,
-        "pe_10": 1.95,
-        "pe_25": 2.94,
-        "pe_50": 6.75,
-        "pe_75": 25.57,
-        "pe_90": 155.84
+        "pe": 14.41,
+        "pe_10": 2.78,
+        "pe_25": 5.03,
+        "pe_50": 9.82,
+        "pe_75": 36.09,
+        "pe_90": 85.07
       },
       {
         "date": "2008-11-15",
         "price": 16.3,
-        "pe": 33.49,
-        "pe_10": 1.24,
-        "pe_25": 1.87,
-        "pe_50": 4.3,
-        "pe_75": 16.3,
-        "pe_90": 99.39
+        "pe": 23.51,
+        "pe_10": 1.64,
+        "pe_25": 2.97,
+        "pe_50": 5.79,
+        "pe_75": 21.27,
+        "pe_90": 50.14
       },
       {
         "date": "2008-12-16",
         "price": 15.45,
         "pe": 73.57,
-        "pe_10": 0.54,
-        "pe_25": 0.81,
-        "pe_50": 1.86,
-        "pe_75": 7.04,
-        "pe_90": 42.88
-      },
-      {
-        "date": "2010-05-16",
-        "price": 18.25,
-        "pe": 101.4,
-        "pe_10": 0.46,
-        "pe_25": 0.69,
-        "pe_50": 1.59,
-        "pe_75": 6.03,
-        "pe_90": 36.75
-      },
-      {
-        "date": "2010-06-15",
-        "price": 20.45,
-        "pe": 23.78,
-        "pe_10": 2.2,
-        "pe_25": 3.31,
-        "pe_50": 7.6,
-        "pe_75": 28.81,
-        "pe_90": 175.61
+        "pe_10": 0.5,
+        "pe_25": 0.9,
+        "pe_50": 1.75,
+        "pe_75": 6.44,
+        "pe_90": 15.19
       },
       {
         "date": "2010-07-16",
         "price": 23.8,
-        "pe": 15.45,
-        "pe_10": 3.94,
-        "pe_25": 5.93,
-        "pe_50": 13.62,
-        "pe_75": 51.61,
-        "pe_90": 314.56
+        "pe": 31.73,
+        "pe_10": 1.77,
+        "pe_25": 3.21,
+        "pe_50": 6.26,
+        "pe_75": 23.01,
+        "pe_90": 54.25
       },
       {
         "date": "2010-08-16",
         "price": 21.25,
-        "pe": 9.57,
-        "pe_10": 5.68,
-        "pe_25": 8.55,
-        "pe_50": 19.63,
-        "pe_75": 74.39,
-        "pe_90": 453.42
+        "pe": 11.42,
+        "pe_10": 4.4,
+        "pe_25": 7.96,
+        "pe_50": 15.53,
+        "pe_75": 57.09,
+        "pe_90": 134.58
       },
       {
         "date": "2010-09-15",
         "price": 22.1,
-        "pe": 7.62,
-        "pe_10": 7.41,
-        "pe_25": 11.17,
-        "pe_50": 25.64,
-        "pe_75": 97.16,
-        "pe_90": 592.23
+        "pe": 7.44,
+        "pe_10": 7.02,
+        "pe_25": 12.71,
+        "pe_50": 24.79,
+        "pe_75": 91.13,
+        "pe_90": 214.83
       },
       {
         "date": "2010-10-16",
         "price": 25.5,
-        "pe": 7.12,
-        "pe_10": 9.15,
-        "pe_25": 13.79,
-        "pe_50": 31.66,
-        "pe_75": 119.98,
-        "pe_90": 731.33
+        "pe": 7.03,
+        "pe_10": 8.57,
+        "pe_25": 15.52,
+        "pe_50": 30.27,
+        "pe_75": 111.29,
+        "pe_90": 262.34
       },
       {
         "date": "2010-11-15",
         "price": 25.65,
-        "pe": 6.02,
-        "pe_10": 10.89,
-        "pe_25": 16.4,
-        "pe_50": 37.67,
-        "pe_75": 142.74,
-        "pe_90": 870.05
+        "pe": 5.99,
+        "pe_10": 10.12,
+        "pe_25": 18.32,
+        "pe_50": 35.73,
+        "pe_75": 131.38,
+        "pe_90": 309.7
       },
       {
         "date": "2010-12-16",
         "price": 30.3,
         "pe": 6.13,
-        "pe_10": 12.63,
-        "pe_25": 19.03,
-        "pe_50": 43.7,
-        "pe_75": 165.59,
-        "pe_90": 1009.34
+        "pe_10": 11.69,
+        "pe_25": 21.14,
+        "pe_50": 41.25,
+        "pe_75": 151.65,
+        "pe_90": 357.49
       },
       {
         "date": "2011-01-16",
         "price": 30.5,
-        "pe": 6.85,
-        "pe_10": 11.38,
-        "pe_25": 17.14,
-        "pe_50": 39.36,
-        "pe_75": 149.16,
-        "pe_90": 909.21
+        "pe": 6.02,
+        "pe_10": 11.98,
+        "pe_25": 21.67,
+        "pe_50": 42.28,
+        "pe_75": 155.44,
+        "pe_90": 366.43
       },
       {
         "date": "2011-02-14",
         "price": 26.2,
-        "pe": 6.6,
-        "pe_10": 10.15,
-        "pe_25": 15.28,
-        "pe_50": 35.09,
-        "pe_75": 132.98,
-        "pe_90": 810.61
+        "pe": 5.04,
+        "pe_10": 12.29,
+        "pe_25": 22.24,
+        "pe_50": 43.38,
+        "pe_75": 159.49,
+        "pe_90": 375.97
       },
       {
         "date": "2011-03-16",
         "price": 24.45,
-        "pe": 7.02,
-        "pe_10": 8.9,
-        "pe_25": 13.41,
-        "pe_50": 30.79,
-        "pe_75": 116.68,
-        "pe_90": 711.21
+        "pe": 4.6,
+        "pe_10": 12.57,
+        "pe_25": 22.74,
+        "pe_50": 44.36,
+        "pe_75": 163.07,
+        "pe_90": 384.42
       },
       {
         "date": "2011-04-15",
         "price": 26.5,
-        "pe": 8.84,
-        "pe_10": 7.66,
-        "pe_25": 11.54,
-        "pe_50": 26.5,
-        "pe_75": 100.42,
-        "pe_90": 612.14
+        "pe": 5.44,
+        "pe_10": 11.52,
+        "pe_25": 20.84,
+        "pe_50": 40.65,
+        "pe_75": 149.45,
+        "pe_90": 352.31
       },
       {
         "date": "2011-05-16",
         "price": 26.75,
-        "pe": 10.65,
-        "pe_10": 6.42,
-        "pe_25": 9.67,
-        "pe_50": 22.2,
-        "pe_75": 84.14,
-        "pe_90": 512.9
+        "pe": 6.05,
+        "pe_10": 10.45,
+        "pe_25": 18.91,
+        "pe_50": 36.9,
+        "pe_75": 135.65,
+        "pe_90": 319.78
       },
       {
         "date": "2011-06-15",
         "price": 23.1,
-        "pe": 11.41,
-        "pe_10": 5.17,
-        "pe_25": 7.79,
-        "pe_50": 17.9,
-        "pe_75": 67.82,
-        "pe_90": 413.41
+        "pe": 5.82,
+        "pe_10": 9.38,
+        "pe_25": 16.98,
+        "pe_50": 33.12,
+        "pe_75": 121.77,
+        "pe_90": 287.06
       },
       {
         "date": "2011-07-16",
         "price": 19.75,
-        "pe": 12.83,
-        "pe_10": 3.93,
-        "pe_25": 5.93,
-        "pe_50": 13.61,
-        "pe_75": 51.57,
-        "pe_90": 314.34
+        "pe": 6.53,
+        "pe_10": 7.15,
+        "pe_25": 12.94,
+        "pe_50": 25.24,
+        "pe_75": 92.79,
+        "pe_90": 218.74
       },
       {
         "date": "2011-08-16",
         "price": 18.6,
-        "pe": 17.66,
-        "pe_10": 2.69,
-        "pe_25": 4.05,
-        "pe_50": 9.31,
-        "pe_75": 35.28,
-        "pe_90": 215.07
+        "pe": 8.96,
+        "pe_10": 4.91,
+        "pe_25": 8.88,
+        "pe_50": 17.32,
+        "pe_75": 63.69,
+        "pe_90": 150.14
       },
       {
         "date": "2011-09-15",
         "price": 15.6,
-        "pe": 27.49,
-        "pe_10": 1.45,
-        "pe_25": 2.18,
-        "pe_50": 5.02,
-        "pe_75": 19.01,
-        "pe_90": 115.88
+        "pe": 13.81,
+        "pe_10": 2.67,
+        "pe_25": 4.83,
+        "pe_50": 9.43,
+        "pe_75": 34.66,
+        "pe_90": 81.7
       },
       {
         "date": "2011-10-16",
         "price": 16.6,
-        "pe": 203.3,
-        "pe_10": 0.21,
-        "pe_25": 0.31,
-        "pe_50": 0.72,
-        "pe_75": 2.74,
-        "pe_90": 16.67
-      },
-      {
-        "date": "2012-11-15",
-        "price": 17.1,
-        "pe": 1140.0,
-        "pe_10": 0.04,
-        "pe_25": 0.06,
-        "pe_50": 0.13,
-        "pe_75": 0.5,
-        "pe_90": 3.06
+        "pe": 36.35,
+        "pe_10": 1.08,
+        "pe_25": 1.95,
+        "pe_50": 3.81,
+        "pe_75": 14.01,
+        "pe_90": 33.03
       },
       {
         "date": "2012-12-16",
         "price": 17.35,
         "pe": 178.4,
-        "pe_10": 0.25,
-        "pe_25": 0.37,
-        "pe_50": 0.86,
-        "pe_75": 3.26,
-        "pe_90": 19.86
+        "pe_10": 0.23,
+        "pe_25": 0.42,
+        "pe_50": 0.81,
+        "pe_75": 2.98,
+        "pe_90": 7.03
       },
       {
         "date": "2013-01-16",
         "price": 18.55,
-        "pe": 347.8,
-        "pe_10": 0.14,
-        "pe_25": 0.21,
-        "pe_50": 0.47,
-        "pe_75": 1.79,
-        "pe_90": 10.89
+        "pe": 85.02,
+        "pe_10": 0.52,
+        "pe_25": 0.93,
+        "pe_50": 1.82,
+        "pe_75": 6.69,
+        "pe_90": 15.78
       },
       {
         "date": "2013-02-14",
         "price": 18.95,
-        "pe": 2018.0,
-        "pe_10": 0.02,
-        "pe_25": 0.04,
-        "pe_50": 0.08,
-        "pe_75": 0.31,
-        "pe_90": 1.92
+        "pe": 55.89,
+        "pe_10": 0.8,
+        "pe_25": 1.45,
+        "pe_50": 2.83,
+        "pe_75": 10.4,
+        "pe_90": 24.52
       },
       {
-        "date": "2014-07-16",
-        "price": 17.35,
-        "pe": 1301.0,
-        "pe_10": 0.03,
-        "pe_25": 0.05,
-        "pe_50": 0.12,
-        "pe_75": 0.45,
-        "pe_90": 2.72
+        "date": "2013-03-16",
+        "price": 17.9,
+        "pe": 38.91,
+        "pe_10": 1.09,
+        "pe_25": 1.97,
+        "pe_50": 3.84,
+        "pe_75": 14.11,
+        "pe_90": 33.27
+      },
+      {
+        "date": "2013-04-15",
+        "price": 17.25,
+        "pe": 49.76,
+        "pe_10": 0.82,
+        "pe_25": 1.48,
+        "pe_50": 2.89,
+        "pe_75": 10.64,
+        "pe_90": 25.07
+      },
+      {
+        "date": "2013-05-16",
+        "price": 16.75,
+        "pe": 71.79,
+        "pe_10": 0.55,
+        "pe_25": 1.0,
+        "pe_50": 1.95,
+        "pe_75": 7.16,
+        "pe_90": 16.87
+      },
+      {
+        "date": "2013-06-15",
+        "price": 16.4,
+        "pe": 136.7,
+        "pe_10": 0.28,
+        "pe_25": 0.51,
+        "pe_50": 1.0,
+        "pe_75": 3.68,
+        "pe_90": 8.68
       },
       {
         "date": "2014-08-16",
         "price": 18.25,
-        "pe": 238.0,
-        "pe_10": 0.2,
-        "pe_25": 0.3,
-        "pe_50": 0.68,
-        "pe_75": 2.57,
-        "pe_90": 15.66
+        "pe": 165.9,
+        "pe_10": 0.26,
+        "pe_25": 0.47,
+        "pe_50": 0.92,
+        "pe_75": 3.37,
+        "pe_90": 7.96
       },
       {
         "date": "2014-09-15",
         "price": 17.85,
-        "pe": 127.5,
-        "pe_10": 0.36,
-        "pe_25": 0.54,
-        "pe_50": 1.24,
-        "pe_75": 4.69,
-        "pe_90": 28.59
+        "pe": 63.75,
+        "pe_10": 0.66,
+        "pe_25": 1.2,
+        "pe_50": 2.34,
+        "pe_75": 8.59,
+        "pe_90": 20.25
       },
       {
         "date": "2014-10-16",
         "price": 17.95,
-        "pe": 88.28,
-        "pe_10": 0.52,
-        "pe_25": 0.78,
-        "pe_50": 1.8,
-        "pe_75": 6.81,
-        "pe_90": 41.52
+        "pe": 60.51,
+        "pe_10": 0.7,
+        "pe_25": 1.27,
+        "pe_50": 2.48,
+        "pe_75": 9.1,
+        "pe_90": 21.45
       },
       {
         "date": "2014-11-15",
         "price": 18.35,
-        "pe": 68.81,
-        "pe_10": 0.68,
-        "pe_25": 1.03,
-        "pe_50": 2.36,
-        "pe_75": 8.93,
-        "pe_90": 54.46
+        "pe": 58.56,
+        "pe_10": 0.74,
+        "pe_25": 1.34,
+        "pe_50": 2.61,
+        "pe_75": 9.61,
+        "pe_90": 22.66
       },
       {
         "date": "2014-12-16",
         "price": 22.4,
         "pe": 67.88,
-        "pe_10": 0.84,
-        "pe_25": 1.27,
-        "pe_50": 2.92,
-        "pe_75": 11.05,
-        "pe_90": 67.38
+        "pe_10": 0.78,
+        "pe_25": 1.41,
+        "pe_50": 2.75,
+        "pe_75": 10.12,
+        "pe_90": 23.87
       },
       {
         "date": "2015-01-16",
         "price": 22.4,
-        "pe": 113.4,
-        "pe_10": 0.5,
-        "pe_25": 0.76,
-        "pe_50": 1.75,
-        "pe_75": 6.62,
-        "pe_90": 40.34
+        "pe": 35.0,
+        "pe_10": 1.51,
+        "pe_25": 2.74,
+        "pe_50": 5.34,
+        "pe_75": 19.64,
+        "pe_90": 46.29
       },
       {
         "date": "2015-02-14",
         "price": 23.05,
-        "pe": 354.6,
-        "pe_10": 0.17,
-        "pe_25": 0.25,
-        "pe_50": 0.57,
-        "pe_75": 2.18,
-        "pe_90": 13.27
+        "pe": 24.26,
+        "pe_10": 2.25,
+        "pe_25": 4.06,
+        "pe_50": 7.93,
+        "pe_75": 29.15,
+        "pe_90": 68.72
+      },
+      {
+        "date": "2015-03-16",
+        "price": 23.25,
+        "pe": 18.45,
+        "pe_10": 2.98,
+        "pe_25": 5.39,
+        "pe_50": 10.52,
+        "pe_75": 38.66,
+        "pe_90": 91.14
+      },
+      {
+        "date": "2015-04-15",
+        "price": 20.85,
+        "pe": 17.0,
+        "pe_10": 2.9,
+        "pe_25": 5.25,
+        "pe_50": 10.23,
+        "pe_75": 37.63,
+        "pe_90": 88.7
+      },
+      {
+        "date": "2015-05-16",
+        "price": 17.65,
+        "pe": 14.79,
+        "pe_10": 2.82,
+        "pe_25": 5.1,
+        "pe_50": 9.96,
+        "pe_75": 36.61,
+        "pe_90": 86.31
+      },
+      {
+        "date": "2015-06-15",
+        "price": 16.0,
+        "pe": 13.79,
+        "pe_10": 2.74,
+        "pe_25": 4.96,
+        "pe_50": 9.68,
+        "pe_75": 35.6,
+        "pe_90": 83.91
+      },
+      {
+        "date": "2015-07-16",
+        "price": 15.15,
+        "pe": 20.11,
+        "pe_10": 1.78,
+        "pe_25": 3.22,
+        "pe_50": 6.29,
+        "pe_75": 23.11,
+        "pe_90": 54.49
+      },
+      {
+        "date": "2015-08-16",
+        "price": 14.25,
+        "pe": 41.11,
+        "pe_10": 0.82,
+        "pe_25": 1.48,
+        "pe_50": 2.89,
+        "pe_75": 10.63,
+        "pe_90": 25.07
       },
       {
         "date": "2017-06-15",
         "price": 15.45,
-        "pe": 343.3,
-        "pe_10": 0.12,
-        "pe_25": 0.17,
-        "pe_50": 0.4,
-        "pe_75": 1.51,
-        "pe_90": 9.19
+        "pe": 61.8,
+        "pe_10": 0.59,
+        "pe_25": 1.07,
+        "pe_50": 2.09,
+        "pe_75": 7.67,
+        "pe_90": 18.08
       },
       {
         "date": "2017-07-16",
         "price": 16.55,
-        "pe": 45.24,
-        "pe_10": 0.94,
-        "pe_25": 1.41,
-        "pe_50": 3.23,
-        "pe_75": 12.26,
-        "pe_90": 74.7
+        "pe": 23.2,
+        "pe_10": 1.69,
+        "pe_25": 3.05,
+        "pe_50": 5.95,
+        "pe_75": 21.89,
+        "pe_90": 51.59
       },
       {
         "date": "2017-08-16",
         "price": 23.0,
-        "pe": 33.5,
-        "pe_10": 1.75,
-        "pe_25": 2.64,
-        "pe_50": 6.07,
-        "pe_75": 23.0,
-        "pe_90": 140.2
+        "pe": 19.55,
+        "pe_10": 2.78,
+        "pe_25": 5.03,
+        "pe_50": 9.82,
+        "pe_75": 36.09,
+        "pe_90": 85.09
       },
       {
         "date": "2017-09-15",
         "price": 18.25,
-        "pe": 18.11,
-        "pe_10": 2.58,
-        "pe_25": 3.88,
-        "pe_50": 8.91,
-        "pe_75": 33.76,
-        "pe_90": 205.78
+        "pe": 11.13,
+        "pe_10": 3.88,
+        "pe_25": 7.01,
+        "pe_50": 13.68,
+        "pe_75": 50.31,
+        "pe_90": 118.59
       },
       {
         "date": "2017-10-16",
         "price": 18.05,
-        "pe": 13.59,
-        "pe_10": 3.39,
-        "pe_25": 5.11,
-        "pe_50": 11.74,
-        "pe_75": 44.49,
-        "pe_90": 271.21
+        "pe": 10.31,
+        "pe_10": 4.14,
+        "pe_25": 7.49,
+        "pe_50": 14.61,
+        "pe_75": 53.71,
+        "pe_90": 126.62
       },
       {
         "date": "2017-11-15",
         "price": 16.85,
-        "pe": 10.22,
-        "pe_10": 4.21,
-        "pe_25": 6.35,
-        "pe_50": 14.57,
-        "pe_75": 55.23,
-        "pe_90": 336.67
+        "pe": 9.06,
+        "pe_10": 4.4,
+        "pe_25": 7.96,
+        "pe_50": 15.52,
+        "pe_75": 57.06,
+        "pe_90": 134.51
       },
       {
         "date": "2017-12-16",
         "price": 16.35,
         "pe": 8.3,
-        "pe_10": 5.04,
-        "pe_25": 7.58,
-        "pe_50": 17.41,
-        "pe_75": 65.99,
-        "pe_90": 402.25
+        "pe_10": 4.66,
+        "pe_25": 8.43,
+        "pe_50": 16.44,
+        "pe_75": 60.44,
+        "pe_90": 142.47
       },
       {
         "date": "2018-01-16",
         "price": 17.25,
-        "pe": 9.52,
-        "pe_10": 4.63,
-        "pe_25": 6.98,
-        "pe_50": 16.02,
-        "pe_75": 60.7,
-        "pe_90": 370.01
+        "pe": 9.53,
+        "pe_10": 4.28,
+        "pe_25": 7.74,
+        "pe_50": 15.11,
+        "pe_75": 55.53,
+        "pe_90": 130.91
       },
       {
         "date": "2018-02-14",
         "price": 15.45,
-        "pe": 9.34,
-        "pe_10": 4.23,
-        "pe_25": 6.37,
-        "pe_50": 14.62,
-        "pe_75": 55.41,
-        "pe_90": 337.78
+        "pe": 9.36,
+        "pe_10": 3.9,
+        "pe_25": 7.06,
+        "pe_50": 13.77,
+        "pe_75": 50.64,
+        "pe_90": 119.38
       },
       {
         "date": "2018-03-16",
         "price": 15.15,
-        "pe": 10.13,
-        "pe_10": 3.82,
-        "pe_25": 5.76,
-        "pe_50": 13.22,
-        "pe_75": 50.1,
-        "pe_90": 305.39
+        "pe": 10.17,
+        "pe_10": 3.52,
+        "pe_25": 6.37,
+        "pe_50": 12.43,
+        "pe_75": 45.7,
+        "pe_90": 107.74
       },
       {
         "date": "2018-04-15",
         "price": 15.1,
-        "pe": 11.3,
-        "pe_10": 3.42,
-        "pe_25": 5.14,
-        "pe_50": 11.81,
-        "pe_75": 44.77,
-        "pe_90": 272.87
+        "pe": 12.28,
+        "pe_10": 2.91,
+        "pe_25": 5.26,
+        "pe_50": 10.26,
+        "pe_75": 37.73,
+        "pe_90": 88.93
       },
       {
         "date": "2018-05-16",
         "price": 14.85,
-        "pe": 12.6,
-        "pe_10": 3.01,
-        "pe_25": 4.54,
-        "pe_50": 10.42,
-        "pe_75": 39.48,
-        "pe_90": 240.66
+        "pe": 15.31,
+        "pe_10": 2.29,
+        "pe_25": 4.15,
+        "pe_50": 8.09,
+        "pe_75": 29.76,
+        "pe_90": 70.15
       },
       {
         "date": "2018-06-15",
         "price": 13.0,
-        "pe": 12.75,
-        "pe_10": 2.61,
-        "pe_25": 3.93,
-        "pe_50": 9.01,
-        "pe_75": 34.16,
-        "pe_90": 208.2
+        "pe": 18.31,
+        "pe_10": 1.68,
+        "pe_25": 3.04,
+        "pe_50": 5.92,
+        "pe_75": 21.78,
+        "pe_90": 51.35
       },
       {
         "date": "2018-07-16",
         "price": 13.85,
-        "pe": 16.07,
-        "pe_10": 2.2,
-        "pe_25": 3.32,
-        "pe_50": 7.62,
-        "pe_75": 28.87,
-        "pe_90": 175.99
+        "pe": 30.33,
+        "pe_10": 1.08,
+        "pe_25": 1.95,
+        "pe_50": 3.81,
+        "pe_75": 14.01,
+        "pe_90": 33.03
       },
       {
         "date": "2018-08-16",
         "price": 13.05,
-        "pe": 18.55,
-        "pe_10": 1.8,
-        "pe_25": 2.71,
-        "pe_50": 6.22,
-        "pe_75": 23.57,
-        "pe_90": 143.66
-      },
-      {
-        "date": "2018-09-15",
-        "price": 12.8,
-        "pe": 23.49,
-        "pe_10": 1.39,
-        "pe_25": 2.1,
-        "pe_50": 4.82,
-        "pe_75": 18.25,
-        "pe_90": 111.27
-      },
-      {
-        "date": "2018-10-16",
-        "price": 11.4,
-        "pe": 29.48,
-        "pe_10": 0.99,
-        "pe_25": 1.49,
-        "pe_50": 3.42,
-        "pe_75": 12.95,
-        "pe_90": 78.96
+        "pe": 64.18,
+        "pe_10": 0.48,
+        "pe_25": 0.87,
+        "pe_50": 1.7,
+        "pe_75": 6.24,
+        "pe_90": 14.71
       },
       {
         "date": "2018-11-15",
         "price": 11.65,
-        "pe": 51.02,
-        "pe_10": 0.58,
-        "pe_25": 0.88,
-        "pe_50": 2.02,
-        "pe_75": 7.65,
-        "pe_90": 46.63
+        "pe": 388.3,
+        "pe_10": 0.07,
+        "pe_25": 0.13,
+        "pe_50": 0.25,
+        "pe_75": 0.92,
+        "pe_90": 2.17
       },
       {
         "date": "2018-12-16",
         "price": 11.9,
         "pe": 170.0,
-        "pe_10": 0.18,
-        "pe_25": 0.27,
-        "pe_50": 0.62,
-        "pe_75": 2.35,
-        "pe_90": 14.29
+        "pe_10": 0.17,
+        "pe_25": 0.3,
+        "pe_50": 0.58,
+        "pe_75": 2.15,
+        "pe_90": 5.06
       },
       {
         "date": "2019-01-16",
         "price": 11.95,
-        "pe": 181.5,
-        "pe_10": 0.17,
-        "pe_25": 0.25,
-        "pe_50": 0.58,
-        "pe_75": 2.21,
-        "pe_90": 13.44
+        "pe": 123.6,
+        "pe_10": 0.23,
+        "pe_25": 0.41,
+        "pe_50": 0.81,
+        "pe_75": 2.97,
+        "pe_90": 6.99
       },
       {
         "date": "2019-02-14",
         "price": 12.45,
-        "pe": 201.9,
-        "pe_10": 0.16,
-        "pe_25": 0.24,
-        "pe_50": 0.55,
-        "pe_75": 2.07,
-        "pe_90": 12.59
+        "pe": 100.9,
+        "pe_10": 0.29,
+        "pe_25": 0.53,
+        "pe_50": 1.03,
+        "pe_75": 3.79,
+        "pe_90": 8.92
       },
       {
         "date": "2019-03-16",
         "price": 11.95,
-        "pe": 207.8,
-        "pe_10": 0.15,
-        "pe_25": 0.22,
-        "pe_50": 0.51,
-        "pe_75": 1.93,
-        "pe_90": 11.74
+        "pe": 79.67,
+        "pe_10": 0.35,
+        "pe_25": 0.64,
+        "pe_50": 1.25,
+        "pe_75": 4.6,
+        "pe_90": 10.85
       },
       {
         "date": "2019-04-15",
         "price": 13.55,
-        "pe": 254.1,
-        "pe_10": 0.14,
-        "pe_25": 0.21,
-        "pe_50": 0.47,
-        "pe_75": 1.79,
-        "pe_90": 10.89
+        "pe": 58.91,
+        "pe_10": 0.54,
+        "pe_25": 0.98,
+        "pe_50": 1.92,
+        "pe_75": 7.06,
+        "pe_90": 16.64
       },
       {
         "date": "2019-05-16",
         "price": 12.1,
-        "pe": 246.1,
-        "pe_10": 0.13,
-        "pe_25": 0.19,
-        "pe_50": 0.43,
-        "pe_75": 1.65,
-        "pe_90": 10.04
+        "pe": 39.03,
+        "pe_10": 0.73,
+        "pe_25": 1.33,
+        "pe_50": 2.59,
+        "pe_75": 9.51,
+        "pe_90": 22.42
       },
       {
         "date": "2019-06-15",
         "price": 12.45,
-        "pe": 276.7,
-        "pe_10": 0.12,
-        "pe_25": 0.17,
-        "pe_50": 0.4,
-        "pe_75": 1.51,
-        "pe_90": 9.19
+        "pe": 31.92,
+        "pe_10": 0.92,
+        "pe_25": 1.67,
+        "pe_50": 3.25,
+        "pe_75": 11.97,
+        "pe_90": 28.21
       },
       {
         "date": "2019-07-16",
         "price": 14.4,
-        "pe": 352.6,
-        "pe_10": 0.1,
-        "pe_25": 0.16,
-        "pe_50": 0.36,
-        "pe_75": 1.37,
-        "pe_90": 8.34
+        "pe": 42.35,
+        "pe_10": 0.8,
+        "pe_25": 1.45,
+        "pe_50": 2.84,
+        "pe_75": 10.43,
+        "pe_90": 24.59
       },
       {
         "date": "2019-08-16",
         "price": 12.85,
-        "pe": 350.4,
-        "pe_10": 0.09,
-        "pe_25": 0.14,
-        "pe_50": 0.32,
-        "pe_75": 1.23,
-        "pe_90": 7.49
+        "pe": 44.31,
+        "pe_10": 0.69,
+        "pe_25": 1.24,
+        "pe_50": 2.42,
+        "pe_75": 8.9,
+        "pe_90": 20.97
       },
       {
         "date": "2019-09-15",
         "price": 13.0,
-        "pe": 400.0,
-        "pe_10": 0.08,
-        "pe_25": 0.13,
-        "pe_50": 0.29,
-        "pe_75": 1.09,
-        "pe_90": 6.64
+        "pe": 54.17,
+        "pe_10": 0.57,
+        "pe_25": 1.03,
+        "pe_50": 2.0,
+        "pe_75": 7.36,
+        "pe_90": 17.36
       },
       {
         "date": "2019-10-16",
         "price": 12.5,
-        "pe": 441.2,
-        "pe_10": 0.07,
-        "pe_25": 0.11,
-        "pe_50": 0.25,
-        "pe_75": 0.95,
-        "pe_90": 5.79
+        "pe": 75.0,
+        "pe_10": 0.39,
+        "pe_25": 0.71,
+        "pe_50": 1.39,
+        "pe_75": 5.11,
+        "pe_90": 12.05
       },
       {
         "date": "2019-11-15",
         "price": 12.4,
-        "pe": 513.1,
-        "pe_10": 0.06,
-        "pe_25": 0.09,
-        "pe_50": 0.21,
-        "pe_75": 0.81,
-        "pe_90": 4.93
+        "pe": 132.9,
+        "pe_10": 0.22,
+        "pe_25": 0.4,
+        "pe_50": 0.78,
+        "pe_75": 2.86,
+        "pe_90": 6.75
       },
       {
         "date": "2019-12-16",
         "price": 12.4,
         "pe": 620.0,
         "pe_10": 0.05,
-        "pe_25": 0.08,
-        "pe_50": 0.18,
-        "pe_75": 0.67,
-        "pe_90": 4.08
-      },
-      {
-        "date": "2020-01-16",
-        "price": 11.75,
-        "pe": 26.7,
-        "pe_10": 1.12,
-        "pe_25": 1.69,
-        "pe_50": 3.89,
-        "pe_75": 14.74,
-        "pe_90": 89.86
-      },
-      {
-        "date": "2020-02-15",
-        "price": 11.55,
-        "pe": 13.43,
-        "pe_10": 2.2,
-        "pe_25": 3.31,
-        "pe_50": 7.6,
-        "pe_75": 28.81,
-        "pe_90": 175.62
-      },
-      {
-        "date": "2020-03-16",
-        "price": 9.25,
-        "pe": 7.23,
-        "pe_10": 3.27,
-        "pe_25": 4.93,
-        "pe_50": 11.31,
-        "pe_75": 42.86,
-        "pe_90": 261.25
+        "pe_25": 0.09,
+        "pe_50": 0.17,
+        "pe_75": 0.61,
+        "pe_90": 1.45
       },
       {
         "date": "2020-04-15",
         "price": 11.1,
-        "pe": 6.53,
-        "pe_10": 4.34,
-        "pe_25": 6.54,
-        "pe_50": 15.03,
-        "pe_75": 56.94,
-        "pe_90": 347.11
+        "pe": 175.3,
+        "pe_10": 0.15,
+        "pe_25": 0.27,
+        "pe_50": 0.53,
+        "pe_75": 1.94,
+        "pe_90": 4.58
       },
       {
         "date": "2020-05-16",
         "price": 10.9,
-        "pe": 5.14,
-        "pe_10": 5.42,
-        "pe_25": 8.16,
-        "pe_50": 18.75,
-        "pe_75": 71.04,
-        "pe_90": 433.03
+        "pe": 35.54,
+        "pe_10": 0.73,
+        "pe_25": 1.31,
+        "pe_50": 2.56,
+        "pe_75": 9.41,
+        "pe_90": 22.18
       },
       {
         "date": "2020-06-15",
         "price": 10.75,
-        "pe": 4.23,
-        "pe_10": 6.5,
-        "pe_25": 9.78,
-        "pe_50": 22.47,
-        "pe_75": 85.14,
-        "pe_90": 518.95
+        "pe": 19.55,
+        "pe_10": 1.3,
+        "pe_25": 2.35,
+        "pe_50": 4.59,
+        "pe_75": 16.87,
+        "pe_90": 39.77
       },
       {
         "date": "2020-07-16",
         "price": 11.0,
-        "pe": 3.72,
-        "pe_10": 7.56,
-        "pe_25": 11.38,
-        "pe_50": 26.14,
-        "pe_75": 99.06,
-        "pe_90": 603.82
+        "pe": 9.94,
+        "pe_10": 2.62,
+        "pe_25": 4.73,
+        "pe_50": 9.23,
+        "pe_75": 33.95,
+        "pe_90": 80.04
       },
       {
         "date": "2020-08-16",
         "price": 17.4,
-        "pe": 5.15,
-        "pe_10": 8.64,
-        "pe_25": 13.01,
-        "pe_50": 29.87,
-        "pe_75": 113.18,
-        "pe_90": 689.92
+        "pe": 10.46,
+        "pe_10": 3.93,
+        "pe_25": 7.12,
+        "pe_50": 13.88,
+        "pe_75": 51.04,
+        "pe_90": 120.31
       },
       {
         "date": "2020-09-15",
         "price": 15.85,
-        "pe": 4.17,
-        "pe_10": 9.72,
-        "pe_25": 14.63,
-        "pe_50": 33.6,
-        "pe_75": 127.33,
-        "pe_90": 776.16
+        "pe": 7.14,
+        "pe_10": 5.25,
+        "pe_25": 9.5,
+        "pe_50": 18.52,
+        "pe_75": 68.11,
+        "pe_90": 160.55
       },
       {
         "date": "2020-10-16",
         "price": 18.9,
-        "pe": 4.48,
-        "pe_10": 10.78,
-        "pe_25": 16.24,
-        "pe_50": 37.29,
-        "pe_75": 141.33,
-        "pe_90": 861.47
+        "pe": 5.97,
+        "pe_10": 7.48,
+        "pe_25": 13.54,
+        "pe_50": 26.42,
+        "pe_75": 97.13,
+        "pe_90": 228.97
       },
       {
         "date": "2020-11-15",
         "price": 24.7,
-        "pe": 5.32,
-        "pe_10": 11.87,
-        "pe_25": 17.88,
-        "pe_50": 41.04,
-        "pe_75": 155.54,
-        "pe_90": 948.07
+        "pe": 6.0,
+        "pe_10": 9.73,
+        "pe_25": 17.61,
+        "pe_50": 34.35,
+        "pe_75": 126.3,
+        "pe_90": 297.73
       },
       {
         "date": "2020-12-16",
         "price": 40.7,
         "pe": 8.04,
-        "pe_10": 12.94,
-        "pe_25": 19.49,
-        "pe_50": 44.75,
-        "pe_75": 169.58,
-        "pe_90": 1033.7
+        "pe_10": 11.97,
+        "pe_25": 21.65,
+        "pe_50": 42.24,
+        "pe_75": 155.31,
+        "pe_90": 366.12
       },
       {
         "date": "2021-01-16",
         "price": 31.2,
-        "pe": 3.7,
-        "pe_10": 21.55,
-        "pe_25": 32.46,
-        "pe_50": 74.54,
-        "pe_75": 282.49,
-        "pe_90": 1721.9
+        "pe": 4.25,
+        "pe_10": 17.35,
+        "pe_25": 31.4,
+        "pe_50": 61.26,
+        "pe_75": 225.23,
+        "pe_90": 530.94
       },
       {
         "date": "2021-02-14",
         "price": 37.95,
-        "pe": 3.21,
-        "pe_10": 30.22,
-        "pe_25": 45.52,
-        "pe_50": 104.51,
-        "pe_75": 396.05,
-        "pe_90": 2414.14
+        "pe": 3.95,
+        "pe_10": 22.71,
+        "pe_25": 41.1,
+        "pe_50": 80.18,
+        "pe_75": 294.76,
+        "pe_90": 694.86
       },
       {
         "date": "2021-03-16",
         "price": 45.5,
-        "pe": 3.0,
-        "pe_10": 38.77,
-        "pe_25": 58.39,
-        "pe_50": 134.07,
-        "pe_75": 508.08,
-        "pe_90": 3097.03
+        "pe": 3.83,
+        "pe_10": 28.08,
+        "pe_25": 50.82,
+        "pe_50": 99.14,
+        "pe_75": 364.48,
+        "pe_90": 859.2
       },
       {
         "date": "2021-04-15",
         "price": 79.0,
-        "pe": 4.26,
-        "pe_10": 47.4,
-        "pe_25": 71.4,
-        "pe_50": 163.93,
-        "pe_75": 621.24,
-        "pe_90": 3786.81
+        "pe": 5.52,
+        "pe_10": 33.83,
+        "pe_25": 61.22,
+        "pe_50": 119.43,
+        "pe_75": 439.08,
+        "pe_90": 1035.07
       },
       {
         "date": "2021-05-16",
         "price": 98.6,
-        "pe": 4.49,
-        "pe_10": 56.13,
-        "pe_25": 84.55,
-        "pe_50": 194.13,
-        "pe_75": 735.66,
-        "pe_90": 4484.21
+        "pe": 5.89,
+        "pe_10": 39.57,
+        "pe_25": 71.61,
+        "pe_50": 139.7,
+        "pe_75": 513.59,
+        "pe_90": 1210.72
       },
       {
         "date": "2021-06-15",
         "price": 197.0,
-        "pe": 7.78,
-        "pe_10": 64.72,
-        "pe_25": 97.49,
-        "pe_50": 223.84,
-        "pe_75": 848.26,
-        "pe_90": 5170.62
+        "pe": 10.27,
+        "pe_10": 45.35,
+        "pe_25": 82.05,
+        "pe_50": 160.07,
+        "pe_75": 588.51,
+        "pe_90": 1387.33
       },
       {
         "date": "2021-07-16",
         "price": 132.0,
-        "pe": 4.6,
-        "pe_10": 73.35,
-        "pe_25": 110.48,
-        "pe_50": 253.67,
-        "pe_75": 961.3,
-        "pe_90": 5859.65
+        "pe": 5.56,
+        "pe_10": 56.12,
+        "pe_25": 101.55,
+        "pe_50": 198.12,
+        "pe_75": 728.37,
+        "pe_90": 1717.04
       },
       {
         "date": "2021-08-16",
         "price": 136.0,
-        "pe": 4.24,
-        "pe_10": 81.98,
-        "pe_25": 123.49,
-        "pe_50": 283.55,
-        "pe_75": 1074.53,
-        "pe_90": 6549.81
+        "pe": 4.81,
+        "pe_10": 66.84,
+        "pe_25": 120.94,
+        "pe_50": 235.95,
+        "pe_75": 867.46,
+        "pe_90": 2044.92
       },
       {
         "date": "2021-09-15",
         "price": 126.0,
-        "pe": 3.56,
-        "pe_10": 90.47,
-        "pe_25": 136.26,
-        "pe_50": 312.88,
-        "pe_75": 1185.67,
-        "pe_90": 7227.3
+        "pe": 3.84,
+        "pe_10": 77.57,
+        "pe_25": 140.36,
+        "pe_50": 273.82,
+        "pe_75": 1006.69,
+        "pe_90": 2373.13
       },
       {
         "date": "2021-10-16",
         "price": 99.5,
-        "pe": 2.56,
-        "pe_10": 99.34,
-        "pe_25": 149.64,
-        "pe_50": 343.59,
-        "pe_75": 1302.05,
-        "pe_90": 7936.68
+        "pe": 2.68,
+        "pe_10": 87.77,
+        "pe_25": 158.81,
+        "pe_50": 309.82,
+        "pe_75": 1139.05,
+        "pe_90": 2685.16
       },
       {
         "date": "2021-11-15",
         "price": 124.5,
-        "pe": 2.95,
-        "pe_10": 107.87,
-        "pe_25": 162.48,
-        "pe_50": 373.08,
-        "pe_75": 1413.81,
-        "pe_90": 8617.93
+        "pe": 3.01,
+        "pe_10": 97.78,
+        "pe_25": 176.93,
+        "pe_50": 345.17,
+        "pe_75": 1268.99,
+        "pe_90": 2991.47
       },
       {
         "date": "2021-12-16",
         "price": 142.5,
         "pe": 3.13,
-        "pe_10": 116.37,
-        "pe_25": 175.28,
-        "pe_50": 402.46,
-        "pe_75": 1525.16,
-        "pe_90": 9296.65
+        "pe_10": 107.63,
+        "pe_25": 194.74,
+        "pe_50": 379.92,
+        "pe_75": 1396.77,
+        "pe_90": 3292.71
       },
       {
         "date": "2022-01-16",
         "price": 113.0,
-        "pe": 2.3,
-        "pe_10": 125.58,
-        "pe_25": 189.15,
-        "pe_50": 434.31,
-        "pe_75": 1645.87,
-        "pe_90": 10032.43
+        "pe": 2.28,
+        "pe_10": 117.16,
+        "pe_25": 212.0,
+        "pe_50": 413.59,
+        "pe_75": 1520.54,
+        "pe_90": 3584.48
       },
       {
         "date": "2022-02-14",
         "price": 143.5,
-        "pe": 2.73,
-        "pe_10": 134.35,
-        "pe_25": 202.37,
-        "pe_50": 464.67,
-        "pe_75": 1760.9,
-        "pe_90": 10733.59
+        "pe": 2.68,
+        "pe_10": 126.58,
+        "pe_25": 229.04,
+        "pe_50": 446.83,
+        "pe_75": 1642.75,
+        "pe_90": 3872.57
       },
       {
         "date": "2022-03-16",
         "price": 135.0,
-        "pe": 2.41,
-        "pe_10": 143.18,
-        "pe_25": 215.66,
-        "pe_50": 495.19,
-        "pe_75": 1876.56,
-        "pe_90": 11438.59
+        "pe": 2.35,
+        "pe_10": 135.8,
+        "pe_25": 245.73,
+        "pe_50": 479.39,
+        "pe_75": 1762.47,
+        "pe_90": 4154.78
       },
       {
         "date": "2022-04-15",
         "price": 145.0,
-        "pe": 2.44,
-        "pe_10": 151.89,
-        "pe_25": 228.79,
-        "pe_50": 525.33,
-        "pe_75": 1990.78,
-        "pe_90": 12134.84
+        "pe": 2.37,
+        "pe_10": 144.63,
+        "pe_25": 261.7,
+        "pe_50": 510.56,
+        "pe_75": 1877.05,
+        "pe_90": 4424.89
       },
       {
         "date": "2022-05-16",
         "price": 140.5,
-        "pe": 2.24,
-        "pe_10": 160.32,
-        "pe_25": 241.48,
-        "pe_50": 554.47,
-        "pe_75": 2101.23,
-        "pe_90": 12808.08
+        "pe": 2.16,
+        "pe_10": 153.77,
+        "pe_25": 278.24,
+        "pe_50": 542.81,
+        "pe_75": 1995.62,
+        "pe_90": 4704.41
       },
       {
         "date": "2022-06-15",
         "price": 84.6,
-        "pe": 1.28,
-        "pe_10": 168.94,
-        "pe_25": 254.46,
-        "pe_50": 584.27,
-        "pe_75": 2214.14,
-        "pe_90": 13496.34
+        "pe": 1.23,
+        "pe_10": 162.6,
+        "pe_25": 294.21,
+        "pe_50": 573.97,
+        "pe_75": 2110.19,
+        "pe_90": 4974.48
       },
       {
         "date": "2022-07-16",
         "price": 95.5,
-        "pe": 1.37,
-        "pe_10": 178.17,
-        "pe_25": 268.38,
-        "pe_50": 616.22,
-        "pe_75": 2335.22,
-        "pe_90": 14234.38
+        "pe": 1.27,
+        "pe_10": 177.77,
+        "pe_25": 321.65,
+        "pe_50": 627.52,
+        "pe_75": 2307.04,
+        "pe_90": 5438.54
       },
       {
         "date": "2022-08-16",
         "price": 88.3,
-        "pe": 1.21,
-        "pe_10": 186.52,
-        "pe_25": 280.95,
-        "pe_50": 645.1,
-        "pe_75": 2444.67,
-        "pe_90": 14901.54
+        "pe": 1.09,
+        "pe_10": 191.51,
+        "pe_25": 346.52,
+        "pe_50": 676.02,
+        "pe_75": 2485.36,
+        "pe_90": 5858.91
       },
       {
         "date": "2022-09-15",
         "price": 146.0,
-        "pe": 1.9,
-        "pe_10": 196.41,
-        "pe_25": 295.84,
-        "pe_50": 679.28,
-        "pe_75": 2574.21,
-        "pe_90": 15691.16
+        "pe": 1.68,
+        "pe_10": 205.44,
+        "pe_25": 371.74,
+        "pe_50": 725.22,
+        "pe_75": 2666.24,
+        "pe_90": 6285.3
       },
       {
         "date": "2022-10-16",
         "price": 137.5,
-        "pe": 1.72,
-        "pe_10": 204.33,
-        "pe_25": 307.78,
-        "pe_50": 706.69,
-        "pe_75": 2678.05,
-        "pe_90": 16324.13
+        "pe": 1.58,
+        "pe_10": 205.73,
+        "pe_25": 372.25,
+        "pe_50": 726.23,
+        "pe_75": 2669.94,
+        "pe_90": 6294.02
       },
       {
         "date": "2022-11-15",
         "price": 163.0,
-        "pe": 1.95,
-        "pe_10": 213.66,
-        "pe_25": 321.82,
-        "pe_50": 738.93,
-        "pe_75": 2800.26,
-        "pe_90": 17069.03
+        "pe": 1.87,
+        "pe_10": 206.06,
+        "pe_25": 372.85,
+        "pe_50": 727.4,
+        "pe_75": 2674.25,
+        "pe_90": 6304.18
       },
       {
         "date": "2022-12-16",
         "price": 163.0,
         "pe": 1.87,
-        "pe_10": 222.8,
-        "pe_25": 335.59,
-        "pe_50": 770.55,
-        "pe_75": 2920.05,
-        "pe_90": 17799.25
+        "pe_10": 206.06,
+        "pe_25": 372.85,
+        "pe_50": 727.4,
+        "pe_75": 2674.25,
+        "pe_90": 6304.18
       },
       {
         "date": "2023-01-16",
         "price": 152.0,
-        "pe": 1.87,
-        "pe_10": 207.76,
-        "pe_25": 312.94,
-        "pe_50": 718.55,
-        "pe_75": 2722.99,
-        "pe_90": 16598.07
+        "pe": 1.59,
+        "pe_10": 225.99,
+        "pe_25": 408.92,
+        "pe_50": 797.76,
+        "pe_75": 2932.93,
+        "pe_90": 6913.99
       },
       {
         "date": "2023-02-14",
         "price": 157.0,
-        "pe": 2.08,
-        "pe_10": 192.93,
-        "pe_25": 290.6,
-        "pe_50": 667.25,
-        "pe_75": 2528.61,
-        "pe_90": 15413.17
+        "pe": 1.51,
+        "pe_10": 245.79,
+        "pe_25": 444.75,
+        "pe_50": 867.66,
+        "pe_75": 3189.91,
+        "pe_90": 7519.78
       },
       {
         "date": "2023-03-16",
         "price": 158.5,
-        "pe": 2.28,
-        "pe_10": 177.69,
-        "pe_25": 267.64,
-        "pe_50": 614.54,
-        "pe_75": 2328.84,
-        "pe_90": 14195.48
+        "pe": 1.41,
+        "pe_10": 265.74,
+        "pe_25": 480.84,
+        "pe_50": 938.07,
+        "pe_75": 3448.78,
+        "pe_90": 8130.04
       },
       {
         "date": "2023-04-15",
         "price": 161.5,
-        "pe": 2.54,
-        "pe_10": 162.52,
-        "pe_25": 244.79,
-        "pe_50": 562.07,
-        "pe_75": 2130.02,
-        "pe_90": 12983.58
+        "pe": 1.66,
+        "pe_10": 229.99,
+        "pe_25": 416.15,
+        "pe_50": 811.88,
+        "pe_75": 2984.83,
+        "pe_90": 7036.34
       },
       {
         "date": "2023-05-16",
         "price": 153.0,
-        "pe": 2.65,
-        "pe_10": 147.57,
-        "pe_25": 222.28,
-        "pe_50": 510.38,
-        "pe_75": 1934.15,
-        "pe_90": 11789.66
+        "pe": 1.87,
+        "pe_10": 193.42,
+        "pe_25": 349.98,
+        "pe_50": 682.77,
+        "pe_75": 2510.18,
+        "pe_90": 5917.42
       },
       {
         "date": "2023-06-15",
         "price": 93.5,
-        "pe": 1.8,
-        "pe_10": 132.77,
-        "pe_25": 199.99,
-        "pe_50": 459.19,
-        "pe_75": 1740.14,
-        "pe_90": 10607.06
+        "pe": 1.41,
+        "pe_10": 156.76,
+        "pe_25": 283.65,
+        "pe_50": 553.37,
+        "pe_75": 2034.45,
+        "pe_90": 4795.95
       },
       {
         "date": "2023-07-16",
         "price": 104.0,
-        "pe": 2.26,
-        "pe_10": 117.62,
-        "pe_25": 177.17,
-        "pe_50": 406.8,
-        "pe_75": 1541.59,
-        "pe_90": 9396.81
+        "pe": 1.92,
+        "pe_10": 128.05,
+        "pe_25": 231.7,
+        "pe_50": 452.02,
+        "pe_75": 1661.83,
+        "pe_90": 3917.55
       },
       {
         "date": "2023-08-16",
         "price": 106.5,
-        "pe": 2.65,
-        "pe_10": 102.72,
-        "pe_25": 154.73,
-        "pe_50": 355.27,
-        "pe_75": 1346.32,
-        "pe_90": 8206.53
+        "pe": 2.56,
+        "pe_10": 98.35,
+        "pe_25": 177.95,
+        "pe_50": 347.17,
+        "pe_75": 1276.34,
+        "pe_90": 3008.79
       },
       {
         "date": "2023-09-15",
         "price": 116.0,
-        "pe": 3.38,
-        "pe_10": 87.72,
-        "pe_25": 132.13,
-        "pe_50": 303.38,
-        "pe_75": 1149.7,
-        "pe_90": 7008.05
+        "pe": 3.97,
+        "pe_10": 69.07,
+        "pe_25": 124.98,
+        "pe_50": 243.83,
+        "pe_75": 896.44,
+        "pe_90": 2113.25
       },
       {
         "date": "2023-10-16",
         "price": 107.5,
-        "pe": 3.78,
-        "pe_10": 72.69,
-        "pe_25": 109.49,
-        "pe_50": 251.4,
-        "pe_75": 952.71,
-        "pe_90": 5807.28
+        "pe": 4.29,
+        "pe_10": 59.24,
+        "pe_25": 107.19,
+        "pe_50": 209.11,
+        "pe_75": 768.79,
+        "pe_90": 1812.31
       },
       {
         "date": "2023-11-15",
         "price": 112.0,
-        "pe": 4.96,
-        "pe_10": 57.72,
-        "pe_25": 86.94,
-        "pe_50": 199.61,
-        "pe_75": 756.45,
-        "pe_90": 4610.97
+        "pe": 5.36,
+        "pe_10": 49.4,
+        "pe_25": 89.38,
+        "pe_50": 174.37,
+        "pe_75": 641.07,
+        "pe_90": 1511.25
       },
       {
         "date": "2023-12-16",
         "price": 143.5,
         "pe": 8.59,
-        "pe_10": 42.7,
-        "pe_25": 64.32,
-        "pe_50": 147.68,
-        "pe_75": 559.63,
-        "pe_90": 3411.26
+        "pe_10": 39.49,
+        "pe_25": 71.46,
+        "pe_50": 139.41,
+        "pe_75": 512.52,
+        "pe_90": 1208.21
       },
       {
         "date": "2024-01-16",
         "price": 150.5,
-        "pe": 7.27,
-        "pe_10": 52.91,
-        "pe_25": 79.7,
-        "pe_50": 183.0,
-        "pe_75": 693.5,
-        "pe_90": 4227.25
+        "pe": 8.1,
+        "pe_10": 43.92,
+        "pe_25": 79.48,
+        "pe_50": 155.05,
+        "pe_75": 570.04,
+        "pe_90": 1343.8
       },
       {
         "date": "2024-02-15",
         "price": 165.5,
-        "pe": 6.69,
-        "pe_10": 63.23,
-        "pe_25": 95.24,
-        "pe_50": 218.69,
-        "pe_75": 828.74,
-        "pe_90": 5051.58
+        "pe": 8.09,
+        "pe_10": 48.36,
+        "pe_25": 87.51,
+        "pe_50": 170.72,
+        "pe_75": 627.63,
+        "pe_90": 1479.56
       },
       {
         "date": "2024-03-16",
         "price": 172.0,
-        "pe": 5.98,
-        "pe_10": 73.52,
-        "pe_25": 110.74,
-        "pe_50": 254.26,
-        "pe_75": 963.55,
-        "pe_90": 5873.31
+        "pe": 7.7,
+        "pe_10": 52.81,
+        "pe_25": 95.55,
+        "pe_50": 186.41,
+        "pe_75": 685.32,
+        "pe_90": 1615.55
       },
       {
         "date": "2024-04-15",
         "price": 189.5,
-        "pe": 5.79,
-        "pe_10": 83.65,
-        "pe_25": 126.01,
-        "pe_50": 289.32,
-        "pe_75": 1096.42,
-        "pe_90": 6683.23
+        "pe": 7.26,
+        "pe_10": 61.7,
+        "pe_25": 111.65,
+        "pe_50": 217.82,
+        "pe_75": 800.81,
+        "pe_90": 1887.8
       },
       {
         "date": "2024-05-16",
         "price": 210.5,
-        "pe": 5.72,
-        "pe_10": 94.06,
-        "pe_25": 141.68,
-        "pe_50": 325.32,
-        "pe_75": 1232.82,
-        "pe_90": 7514.7
+        "pe": 7.05,
+        "pe_10": 70.58,
+        "pe_25": 127.72,
+        "pe_50": 249.17,
+        "pe_75": 916.05,
+        "pe_90": 2159.46
       },
       {
         "date": "2024-06-15",
         "price": 193.0,
-        "pe": 4.73,
-        "pe_10": 104.29,
-        "pe_25": 157.09,
-        "pe_50": 360.7,
-        "pe_75": 1366.91,
-        "pe_90": 8332.05
+        "pe": 5.74,
+        "pe_10": 79.49,
+        "pe_25": 143.83,
+        "pe_50": 280.59,
+        "pe_75": 1031.57,
+        "pe_90": 2431.8
       },
       {
         "date": "2024-07-16",
         "price": 170.5,
-        "pe": 3.81,
-        "pe_10": 114.38,
-        "pe_25": 172.29,
-        "pe_50": 395.6,
-        "pe_75": 1499.15,
-        "pe_90": 9138.08
+        "pe": 4.28,
+        "pe_10": 94.17,
+        "pe_25": 170.4,
+        "pe_50": 332.44,
+        "pe_75": 1222.18,
+        "pe_90": 2881.13
       },
       {
         "date": "2024-08-16",
         "price": 188.0,
-        "pe": 3.85,
-        "pe_10": 124.81,
-        "pe_25": 188.0,
-        "pe_50": 431.67,
-        "pe_75": 1635.84,
-        "pe_90": 9971.32
+        "pe": 4.09,
+        "pe_10": 108.66,
+        "pe_25": 196.62,
+        "pe_50": 383.58,
+        "pe_75": 1410.23,
+        "pe_90": 3324.43
       },
       {
         "date": "2024-09-15",
         "price": 201.0,
-        "pe": 3.8,
-        "pe_10": 135.2,
-        "pe_25": 203.64,
-        "pe_50": 467.59,
-        "pe_75": 1771.97,
-        "pe_90": 10801.11
+        "pe": 3.85,
+        "pe_10": 123.42,
+        "pe_25": 223.32,
+        "pe_50": 435.67,
+        "pe_75": 1601.74,
+        "pe_90": 3775.88
       },
       {
         "date": "2024-10-16",
         "price": 205.5,
-        "pe": 3.62,
-        "pe_10": 145.1,
-        "pe_25": 218.56,
-        "pe_50": 501.83,
-        "pe_75": 1901.73,
-        "pe_90": 11592.02
+        "pe": 3.64,
+        "pe_10": 133.46,
+        "pe_25": 241.49,
+        "pe_50": 471.13,
+        "pe_75": 1732.07,
+        "pe_90": 4083.13
       },
       {
         "date": "2024-11-15",
         "price": 217.0,
-        "pe": 3.57,
-        "pe_10": 155.36,
-        "pe_25": 234.02,
-        "pe_50": 537.33,
-        "pe_75": 2036.27,
-        "pe_90": 12412.16
+        "pe": 3.58,
+        "pe_10": 143.29,
+        "pe_25": 259.28,
+        "pe_50": 505.83,
+        "pe_75": 1859.65,
+        "pe_90": 4383.88
       },
       {
         "date": "2024-12-16",
         "price": 225.0,
         "pe": 3.47,
-        "pe_10": 165.73,
-        "pe_25": 249.64,
-        "pe_50": 573.2,
-        "pe_75": 2172.19,
-        "pe_90": 13240.63
+        "pe_10": 153.29,
+        "pe_25": 277.36,
+        "pe_50": 541.1,
+        "pe_75": 1989.34,
+        "pe_90": 4689.6
       },
       {
         "date": "2025-01-16",
         "price": 204.5,
-        "pe": 3.25,
-        "pe_10": 160.83,
-        "pe_25": 242.25,
-        "pe_50": 556.24,
-        "pe_75": 2107.92,
-        "pe_90": 12848.89
+        "pe": 3.09,
+        "pe_10": 156.45,
+        "pe_25": 283.09,
+        "pe_50": 552.28,
+        "pe_75": 2030.44,
+        "pe_90": 4786.49
       },
       {
         "date": "2025-02-14",
         "price": 216.0,
-        "pe": 3.54,
-        "pe_10": 155.96,
-        "pe_25": 234.92,
-        "pe_50": 539.39,
-        "pe_75": 2044.07,
-        "pe_90": 12459.66
+        "pe": 3.19,
+        "pe_10": 160.07,
+        "pe_25": 289.64,
+        "pe_50": 565.05,
+        "pe_75": 2077.39,
+        "pe_90": 4897.17
       },
       {
         "date": "2025-03-16",
         "price": 220.5,
-        "pe": 3.73,
-        "pe_10": 151.1,
-        "pe_25": 227.59,
-        "pe_50": 522.58,
-        "pe_75": 1980.36,
-        "pe_90": 12071.34
+        "pe": 3.19,
+        "pe_10": 163.41,
+        "pe_25": 295.67,
+        "pe_50": 576.83,
+        "pe_75": 2120.67,
+        "pe_90": 4999.2
       },
       {
         "date": "2025-04-15",
         "price": 206.5,
-        "pe": 3.61,
-        "pe_10": 146.21,
-        "pe_25": 220.23,
-        "pe_50": 505.67,
-        "pe_75": 1916.27,
-        "pe_90": 11680.69
+        "pe": 3.12,
+        "pe_10": 156.46,
+        "pe_25": 283.11,
+        "pe_50": 552.32,
+        "pe_75": 2030.58,
+        "pe_90": 4786.83
       },
       {
         "date": "2025-05-16",
         "price": 244.5,
-        "pe": 4.42,
-        "pe_10": 141.39,
-        "pe_25": 212.97,
-        "pe_50": 489.0,
-        "pe_75": 1853.11,
-        "pe_90": 11295.68
+        "pe": 3.86,
+        "pe_10": 149.74,
+        "pe_25": 270.95,
+        "pe_50": 528.59,
+        "pe_75": 1943.33,
+        "pe_90": 4581.14
       },
       {
         "date": "2025-06-15",
         "price": 199.0,
-        "pe": 3.73,
-        "pe_10": 136.37,
-        "pe_25": 205.4,
-        "pe_50": 471.62,
-        "pe_75": 1787.27,
-        "pe_90": 10894.32
+        "pe": 3.29,
+        "pe_10": 142.99,
+        "pe_25": 258.73,
+        "pe_50": 504.76,
+        "pe_75": 1855.72,
+        "pe_90": 4374.61
       },
       {
         "date": "2025-07-16",
         "price": 198.0,
-        "pe": 3.85,
-        "pe_10": 131.45,
-        "pe_25": 198.0,
-        "pe_50": 454.63,
-        "pe_75": 1722.86,
-        "pe_90": 10501.71
+        "pe": 3.65,
+        "pe_10": 128.24,
+        "pe_25": 232.04,
+        "pe_50": 452.69,
+        "pe_75": 1664.28,
+        "pe_90": 3923.33
       },
       {
         "date": "2025-08-16",
         "price": 185.5,
-        "pe": 3.74,
-        "pe_10": 126.77,
-        "pe_25": 190.96,
-        "pe_50": 438.45,
-        "pe_75": 1661.56,
-        "pe_90": 10128.1
+        "pe": 3.86,
+        "pe_10": 113.61,
+        "pe_25": 205.56,
+        "pe_50": 401.04,
+        "pe_75": 1474.39,
+        "pe_90": 3475.67
       },
       {
         "date": "2025-09-15",
         "price": 179.0,
-        "pe": 3.76,
-        "pe_10": 121.68,
-        "pe_25": 183.28,
-        "pe_50": 420.84,
-        "pe_75": 1594.81,
-        "pe_90": 9721.22
+        "pe": 4.27,
+        "pe_10": 99.1,
+        "pe_25": 179.31,
+        "pe_50": 349.83,
+        "pe_75": 1286.12,
+        "pe_90": 3031.85
       },
       {
         "date": "2025-10-16",
         "price": 193.5,
-        "pe": 4.23,
-        "pe_10": 116.92,
-        "pe_25": 176.12,
-        "pe_50": 404.38,
-        "pe_75": 1532.45,
-        "pe_90": 9341.06
+        "pe": 5.03,
+        "pe_10": 90.94,
+        "pe_25": 164.55,
+        "pe_50": 321.03,
+        "pe_75": 1180.23,
+        "pe_90": 2782.25
       },
       {
         "date": "2025-11-15",
         "price": 179.5,
-        "pe": 4.1,
-        "pe_10": 111.9,
-        "pe_25": 168.55,
-        "pe_50": 387.02,
-        "pe_75": 1466.65,
-        "pe_90": 8939.98
+        "pe": 5.11,
+        "pe_10": 83.04,
+        "pe_25": 150.26,
+        "pe_50": 293.14,
+        "pe_75": 1077.7,
+        "pe_90": 2540.54
       },
       {
         "date": "2025-12-16",
         "price": 190.0,
-        "pe": 4.53,
-        "pe_10": 107.21,
-        "pe_25": 161.48,
-        "pe_50": 370.77,
-        "pe_75": 1405.08,
-        "pe_90": 8564.68
+        "pe": 6.0,
+        "pe_10": 74.86,
+        "pe_25": 135.45,
+        "pe_50": 264.26,
+        "pe_75": 971.53,
+        "pe_90": 2290.26
       },
       {
         "date": "2026-01-16",
         "price": 186.0,
-        "pe": 4.44,
-        "pe_10": 107.08,
-        "pe_25": 161.28,
-        "pe_50": 370.32,
-        "pe_75": 1403.38,
-        "pe_90": 8554.32
+        "pe": 5.87,
+        "pe_10": 74.91,
+        "pe_25": 135.54,
+        "pe_50": 264.42,
+        "pe_75": 972.14,
+        "pe_90": 2291.7
       },
       {
         "date": "2026-02-14",
         "price": 197.0,
-        "pe": 4.7,
-        "pe_10": 107.13,
-        "pe_25": 161.37,
-        "pe_50": 370.53,
-        "pe_75": 1404.15,
-        "pe_90": 8559.02
+        "pe": 6.22,
+        "pe_10": 74.87,
+        "pe_25": 135.48,
+        "pe_50": 264.3,
+        "pe_75": 971.7,
+        "pe_90": 2290.65
       }
     ]
   },
@@ -13082,19 +13090,19 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (2.6倍)",
+            "title": "PE 10% (2.4倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (8.8倍)",
+            "title": "PE 50% (8.3倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (204.2倍)",
+            "title": "PE 90% (72.3倍)",
             "format": ".1f"
           }
         ]
@@ -13862,6 +13870,10 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
       {
         "date": "2026-01-16",
         "revenue_yoy": -24.5
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": -20.7
       }
     ]
   },
@@ -13929,16 +13941,16 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 82.5 | +119.4% | 0.009 | 2021-02 (+4717.8%) | 2021-06 (-81.7%) |
-| 6個月 | 83.9 | +67.4% | 0.012 | 2021-01 (+1807.4%) | 2015-02 (-61.4%) |
-| 1年 | 86.5 | +47.8% | 0.007 | 2020-06 (+1736.2%) | 2021-06 (-55.8%) |
-| 2年 | 93.9 | +28.8% | 0.010 | 2019-06 (+297.4%) | 2014-12 (-29.3%) |
-| 3年 | 101.3 | +24.2% | 0.000 | 2020-03 (+168.7%) | 2013-12 (-14.9%) |
-| 4年 | 111.2 | +22.8% | 0.001 | 2020-03 (+130.8%) | 2015-03 (-14.8%) |
-| 5年 | 123.0 | +21.9% | 0.000 | 2020-03 (+103.3%) | 2015-03 (-16.3%) |
-| 6年 | 138.9 | +18.2% | 0.003 | 2019-05 (+74.8%) | 2010-12 (-14.1%) |
-| 8年 | 122.0 | +14.3% | 0.020 | 2016-12 (+52.6%) | 2011-01 (-9.9%) |
-| 10年 | 131.5 | +12.5% | 0.181 | 2016-01 (+38.6%) | 2010-07 (-6.4%) |
+| 3個月 | 33.1 | +119.4% | 0.008 | 2021-02 (+4717.8%) | 2021-06 (-81.7%) |
+| 6個月 | 33.6 | +67.4% | 0.005 | 2021-01 (+1807.4%) | 2015-02 (-61.4%) |
+| 1年 | 34.6 | +47.8% | 0.001 | 2020-06 (+1736.2%) | 2021-06 (-55.8%) |
+| 2年 | 37.3 | +28.8% | 0.043 | 2019-06 (+297.4%) | 2014-12 (-29.3%) |
+| 3年 | 40.1 | +24.2% | 0.064 | 2020-03 (+168.7%) | 2013-12 (-14.9%) |
+| 4年 | 43.9 | +22.8% | 0.050 | 2020-03 (+130.8%) | 2015-03 (-14.8%) |
+| 5年 | 48.3 | +21.9% | 0.047 | 2020-03 (+103.3%) | 2015-03 (-16.3%) |
+| 6年 | 50.8 | +18.2% | 0.059 | 2019-05 (+74.8%) | 2010-12 (-14.1%) |
+| 8年 | 36.6 | +14.3% | 0.013 | 2016-12 (+52.6%) | 2011-01 (-9.9%) |
+| 10年 | 39.0 | +12.5% | 0.015 | 2016-01 (+38.6%) | 2010-07 (-6.4%) |
 
 
 ## 🎯 使用說明
@@ -13957,4 +13969,4 @@ description: "2603 長榮 (航運業) 本益比與未來報酬率關係分析 - 
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:31:54 CST*
+*數據更新時間: 2026-03-21 12:38:06 CST*

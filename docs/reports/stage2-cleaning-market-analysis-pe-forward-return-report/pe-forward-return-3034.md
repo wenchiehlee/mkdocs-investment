@@ -2,7 +2,7 @@
 title: "3034 聯詠 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
     - **產業別**: 半導體業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:32:59 CST
+    - **報告生成時間**: 2026-03-21 12:39:23 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 19.1,
+        "pe_ratio": 17.3,
         "forward_return": -60.52,
         "start_price": 230.5,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 15.74,
+        "pe_ratio": 14.28,
         "forward_return": -37.52,
         "start_price": 190.0,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.92,
         "forward_return": -28.53,
         "start_price": 185.0,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 11.83,
         "forward_return": 20.33,
         "start_price": 157.0,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.34,
+        "pe_ratio": 12.64,
         "forward_return": -8.36,
         "start_price": 161.0,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.27,
         "forward_return": -24.48,
         "start_price": 162.0,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.4,
         "forward_return": -21.16,
         "start_price": 156.5,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 13.34,
         "forward_return": 13.21,
         "start_price": 157.5,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 12.14,
         "forward_return": -4.14,
         "start_price": 145.0,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.38,
         "forward_return": 6.7,
         "start_price": 162.5,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.15,
+        "pe_ratio": 13.34,
         "forward_return": 7.68,
         "start_price": 163.0,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.64,
         "forward_return": 39.97,
         "start_price": 143.0,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.02,
         "forward_return": -11.62,
         "start_price": 165.0,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.89,
+        "pe_ratio": 12.71,
         "forward_return": -47.69,
         "start_price": 166.0,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 12.8,
         "forward_return": -33.85,
         "start_price": 172.0,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 11.19,
         "forward_return": -7.61,
         "start_price": 152.0,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 9.69,
         "forward_return": -18.92,
         "start_price": 133.0,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 10.61,
         "forward_return": -49.49,
         "start_price": 147.0,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.88,
+        "pe_ratio": 10.71,
         "forward_return": -70.02,
         "start_price": 149.0,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.24,
+        "pe_ratio": 9.16,
         "forward_return": -34.96,
         "start_price": 128.0,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.23,
+        "pe_ratio": 8.09,
         "forward_return": 23.6,
         "start_price": 110.0,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.77,
+        "pe_ratio": 8.47,
         "forward_return": 25.54,
         "start_price": 111.5,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 8.71,
         "forward_return": -64.47,
         "start_price": 111.0,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 10.3,
+        "pe_ratio": 9.54,
         "forward_return": -80.13,
         "start_price": 117.5,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 9.93,
         "forward_return": -81.67,
         "start_price": 118.0,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.7,
         "forward_return": -84.15,
         "start_price": 88.2,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.41,
+        "pe_ratio": 6.56,
         "forward_return": -92.21,
         "start_price": 70.0,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 6.92,
         "forward_return": -90.55,
         "start_price": 68.4,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 5.76,
+        "pe_ratio": 5.16,
         "forward_return": -80.77,
         "start_price": 46.9,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.53,
         "forward_return": -25.24,
         "start_price": 36.8,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 3.99,
         "forward_return": 501.95,
         "start_price": 28.5,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.49,
+        "pe_ratio": 5.89,
         "forward_return": 1178.53,
         "start_price": 34.2,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.83,
+        "pe_ratio": 7.89,
         "forward_return": 1091.65,
         "start_price": 42.9,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.12,
+        "pe_ratio": 10.14,
         "forward_return": 555.11,
         "start_price": 51.4,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.29,
         "forward_return": 276.75,
         "start_price": 69.2,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 14.78,
         "forward_return": 14.83,
         "start_price": 79.0,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 12.1,
+        "pe_ratio": 14.31,
         "forward_return": 11.06,
         "start_price": 78.4,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 16.71,
         "forward_return": -55.18,
         "start_price": 91.8,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 14.04,
         "forward_return": 164.69,
         "start_price": 77.3,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.46,
+        "pe_ratio": 13.77,
         "forward_return": 294.75,
         "start_price": 76.0,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.63,
         "forward_return": 148.22,
         "start_price": 75.0,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.99,
         "forward_return": 38.28,
         "start_price": 89.0,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 13.11,
         "forward_return": -4.14,
         "start_price": 94.3,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.03,
+        "pe_ratio": 11.87,
         "forward_return": 12.7,
         "start_price": 90.3,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 12.34,
         "forward_return": -25.57,
         "start_price": 99.0,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 13.64,
         "forward_return": -53.41,
         "start_price": 108.5,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 12.99,
+        "pe_ratio": 11.78,
         "forward_return": -41.08,
         "start_price": 93.0,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.12,
         "forward_return": 32.51,
         "start_price": 87.1,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.59,
+        "pe_ratio": 10.74,
         "forward_return": 21.73,
         "start_price": 84.7,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.63,
         "forward_return": 86.02,
         "start_price": 76.4,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.08,
         "forward_return": 27.38,
         "start_price": 88.5,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.28,
         "forward_return": 38.45,
         "start_price": 89.0,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.45,
         "forward_return": -29.19,
         "start_price": 97.0,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.84,
         "forward_return": 4.48,
         "start_price": 96.6,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 12.21,
+        "pe_ratio": 12.34,
         "forward_return": 36.3,
         "start_price": 90.8,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.04,
         "forward_return": -0.35,
         "start_price": 86.6,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.19,
+        "pe_ratio": 12.39,
         "forward_return": -4.52,
         "start_price": 87.5,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": -51.2,
         "start_price": 98.0,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 13.6,
         "forward_return": -50.97,
         "start_price": 92.5,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.87,
+        "pe_ratio": 12.18,
         "forward_return": -27.19,
         "start_price": 80.7,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.78,
         "forward_return": -0.39,
         "start_price": 76.0,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.39,
         "forward_return": 27.09,
         "start_price": 71.5,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.94,
         "forward_return": 61.8,
         "start_price": 74.5,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.82,
         "forward_return": 85.19,
         "start_price": 73.3,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.82,
         "forward_return": 17.04,
         "start_price": 84.1,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.65,
         "forward_return": 2.76,
         "start_price": 88.0,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 13.92,
+        "pe_ratio": 15.16,
         "forward_return": 7.85,
         "start_price": 89.9,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 13.49,
+        "pe_ratio": 14.95,
         "forward_return": 17.86,
         "start_price": 88.5,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 14.99,
         "forward_return": 68.86,
         "start_price": 88.6,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.52,
+        "pe_ratio": 15.49,
         "forward_return": 113.18,
         "start_price": 91.4,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 14.34,
         "forward_return": 146.94,
         "start_price": 87.6,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 80.3,
         "start_price": 96.5,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 16.26,
         "forward_return": 51.2,
         "start_price": 106.0,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.18,
         "forward_return": 29.93,
         "start_price": 110.0,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 16.53,
         "forward_return": 36.2,
         "start_price": 117.0,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.88,
+        "pe_ratio": 15.67,
         "forward_return": 121.13,
         "start_price": 117.5,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 16.68,
+        "pe_ratio": 16.23,
         "forward_return": 131.54,
         "start_price": 124.0,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.65,
         "forward_return": 21.21,
         "start_price": 129.5,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 19.17,
+        "pe_ratio": 18.22,
         "forward_return": -15.47,
         "start_price": 144.0,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.0,
         "forward_return": -46.79,
         "start_price": 152.5,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.18,
+        "pe_ratio": 17.85,
         "forward_return": -39.7,
         "start_price": 145.5,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 16.32,
         "forward_return": -40.01,
         "start_price": 132.5,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.39,
         "forward_return": -5.89,
         "start_price": 124.5,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.91,
+        "pe_ratio": 15.2,
         "forward_return": -1.63,
         "start_price": 122.5,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.61,
         "forward_return": 18.16,
         "start_price": 116.5,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 15.37,
+        "pe_ratio": 15.14,
         "forward_return": 60.16,
         "start_price": 119.5,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 14.91,
+        "pe_ratio": 15.35,
         "forward_return": 103.72,
         "start_price": 121.5,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 16.39,
+        "pe_ratio": 17.32,
         "forward_return": 49.59,
         "start_price": 139.0,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.16,
         "forward_return": 50.75,
         "start_price": 139.5,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 15.23,
+        "pe_ratio": 16.57,
         "forward_return": 73.38,
         "start_price": 139.5,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 17.64,
         "forward_return": 16.44,
         "start_price": 153.5,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 16.35,
         "forward_return": 28.23,
         "start_price": 147.0,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 16.29,
         "forward_return": 7.96,
         "start_price": 154.0,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 15.48,
         "forward_return": 55.79,
         "start_price": 153.5,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.5,
         "forward_return": 96.13,
         "start_price": 150.5,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 14.05,
+        "pe_ratio": 14.44,
         "forward_return": 55.62,
         "start_price": 157.0,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.4,
         "forward_return": -20.94,
         "start_price": 175.0,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 14.95,
+        "pe_ratio": 14.53,
         "forward_return": -13.24,
         "start_price": 175.5,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.53,
+        "pe_ratio": 13.73,
         "forward_return": -3.55,
         "start_price": 169.0,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 12.92,
         "forward_return": -54.54,
         "start_price": 162.0,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.99,
         "forward_return": -64.37,
         "start_price": 161.0,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.68,
         "forward_return": -74.26,
         "start_price": 167.5,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 13.32,
+        "pe_ratio": 12.32,
         "forward_return": -66.65,
         "start_price": 149.0,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.64,
         "forward_return": -11.6,
         "start_price": 114.5,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.35,
         "forward_return": 65.59,
         "start_price": 109.0,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.49,
+        "pe_ratio": 9.0,
         "forward_return": 146.8,
         "start_price": 103.0,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 9.96,
         "forward_return": 133.96,
         "start_price": 111.0,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.15,
+        "pe_ratio": 10.94,
         "forward_return": 30.73,
         "start_price": 118.5,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 13.31,
+        "pe_ratio": 13.4,
         "forward_return": -51.08,
         "start_price": 137.5,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.8,
         "forward_return": -61.91,
         "start_price": 138.0,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.3,
         "forward_return": -18.39,
         "start_price": 129.5,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 11.73,
         "forward_return": 31.59,
         "start_price": 113.0,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.39,
         "forward_return": 37.21,
         "start_price": 108.5,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 12.69,
         "forward_return": 0.0,
         "start_price": 119.5,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.2,
+        "pe_ratio": 12.22,
         "forward_return": 25.1,
         "start_price": 112.0,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.18,
         "forward_return": -5.42,
         "start_price": 108.5,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": -13.76,
         "start_price": 110.5,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 13.93,
         "forward_return": -24.23,
         "start_price": 118.5,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 12.6,
+        "pe_ratio": 12.67,
         "forward_return": 36.82,
         "start_price": 106.0,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.7,
         "forward_return": 26.91,
         "start_price": 110.5,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.53,
         "forward_return": 16.86,
         "start_price": 115.0,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.14,
         "forward_return": 11.91,
         "start_price": 117.5,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.09,
+        "pe_ratio": 15.04,
         "forward_return": 22.44,
         "start_price": 116.0,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 14.51,
+        "pe_ratio": 15.59,
         "forward_return": 17.67,
         "start_price": 119.5,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.93,
+        "pe_ratio": 16.14,
         "forward_return": -4.75,
         "start_price": 123.0,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.74,
         "forward_return": -11.55,
         "start_price": 115.0,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.71,
         "forward_return": -9.85,
         "start_price": 117.5,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.01,
         "forward_return": -3.46,
         "start_price": 114.5,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.6,
         "forward_return": 45.29,
         "start_price": 111.5,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 13.91,
         "forward_return": 55.96,
         "start_price": 114.5,
         "start_year": 2017
@@ -1317,7 +1317,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 14.83,
         "forward_return": 35.93,
         "start_price": 122.5,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 14.65,
+        "pe_ratio": 15.31,
         "forward_return": 32.17,
         "start_price": 126.5,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.02,
+        "pe_ratio": 16.04,
         "forward_return": 60.24,
         "start_price": 132.5,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.79,
         "forward_return": 137.74,
         "start_price": 125.0,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 14.74,
+        "pe_ratio": 15.68,
         "forward_return": 82.18,
         "start_price": 135.5,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 15.57,
         "forward_return": 74.06,
         "start_price": 137.5,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 16.47,
         "forward_return": -27.47,
         "start_price": 148.0,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 15.43,
+        "pe_ratio": 16.47,
         "forward_return": -15.97,
         "start_price": 150.5,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 15.19,
+        "pe_ratio": 16.25,
         "forward_return": -21.86,
         "start_price": 151.0,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 14.08,
         "forward_return": 78.73,
         "start_price": 136.5,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.61,
+        "pe_ratio": 12.88,
         "forward_return": 259.88,
         "start_price": 130.0,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.27,
         "forward_return": 19.45,
         "start_price": 158.0,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.66,
+        "pe_ratio": 14.68,
         "forward_return": -8.05,
         "start_price": 171.0,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 16.2,
         "forward_return": -31.14,
         "start_price": 198.0,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 16.09,
         "forward_return": -43.48,
         "start_price": 201.5,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 13.06,
         "forward_return": 82.11,
         "start_price": 167.5,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 13.18,
         "forward_return": 35.62,
         "start_price": 173.0,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.54,
         "forward_return": 93.39,
         "start_price": 166.0,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 13.94,
         "forward_return": 63.06,
         "start_price": 186.0,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 14.36,
+        "pe_ratio": 13.23,
         "forward_return": 129.79,
         "start_price": 178.0,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 14.73,
         "forward_return": 52.55,
         "start_price": 196.0,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 16.97,
         "forward_return": -54.64,
         "start_price": 223.5,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 16.57,
         "forward_return": -16.94,
         "start_price": 218.0,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.72,
         "forward_return": 20.98,
         "start_price": 195.5,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 12.83,
         "forward_return": 431.45,
         "start_price": 172.0,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 13.66,
         "forward_return": 578.43,
         "start_price": 186.5,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.06,
+        "pe_ratio": 14.75,
         "forward_return": 121.62,
         "start_price": 205.0,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 14.05,
+        "pe_ratio": 16.12,
         "forward_return": 113.51,
         "start_price": 228.0,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.48,
         "forward_return": -27.97,
         "start_price": 290.0,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.88,
+        "pe_ratio": 15.35,
         "forward_return": 262.49,
         "start_price": 240.0,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 16.2,
         "forward_return": 274.81,
         "start_price": 265.5,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 15.34,
         "forward_return": 368.69,
         "start_price": 267.0,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 15.83,
+        "pe_ratio": 16.24,
         "forward_return": 631.84,
         "start_price": 299.0,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 18.39,
         "forward_return": 152.3,
         "start_price": 394.0,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 17.67,
+        "pe_ratio": 20.22,
         "forward_return": 62.21,
         "start_price": 474.0,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 18.83,
+        "pe_ratio": 22.59,
         "forward_return": -23.14,
         "start_price": 575.0,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 21.22,
         "forward_return": -49.4,
         "start_price": 624.0,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 16.0,
         "forward_return": -42.46,
         "start_price": 534.0,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 13.37,
         "forward_return": -46.83,
         "start_price": 499.0,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 12.11,
         "forward_return": -56.02,
         "start_price": 511.0,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.55,
         "forward_return": 72.8,
         "start_price": 449.0,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 7.9,
         "forward_return": 199.81,
         "start_price": 410.0,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.36,
+        "pe_ratio": 7.44,
         "forward_return": 64.5,
         "start_price": 415.5,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.74,
+        "pe_ratio": 7.77,
         "forward_return": -23.38,
         "start_price": 465.5,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 7.55,
+        "pe_ratio": 7.06,
         "forward_return": -36.37,
         "start_price": 471.0,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.5,
+        "pe_ratio": 6.56,
         "forward_return": -37.86,
         "start_price": 456.5,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 5.88,
         "forward_return": -59.06,
         "start_price": 426.5,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 5.55,
         "forward_return": -60.34,
         "start_price": 398.5,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 7.2,
+        "pe_ratio": 5.71,
         "forward_return": -63.49,
         "start_price": 406.0,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.5,
+        "pe_ratio": 4.29,
         "forward_return": -35.42,
         "start_price": 302.0,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 4.96,
+        "pe_ratio": 4.01,
         "forward_return": -31.4,
         "start_price": 265.0,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 5.07,
+        "pe_ratio": 4.27,
         "forward_return": 71.46,
         "start_price": 263.5,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 4.34,
+        "pe_ratio": 3.82,
         "forward_return": 332.91,
         "start_price": 219.0,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.5,
         "forward_return": 365.39,
         "start_price": 241.0,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 6.29,
+        "pe_ratio": 6.0,
         "forward_return": 206.98,
         "start_price": 298.5,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 8.36,
         "forward_return": 73.56,
         "start_price": 355.0,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 9.12,
+        "pe_ratio": 10.46,
         "forward_return": 19.17,
         "start_price": 407.5,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 12.16,
         "forward_return": 21.89,
         "start_price": 431.5,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 9.64,
+        "pe_ratio": 12.1,
         "forward_return": 47.43,
         "start_price": 418.5,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 12.62,
         "forward_return": 10.66,
         "start_price": 425.5,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 13.0,
         "forward_return": 35.01,
         "start_price": 426.5,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 12.49,
         "forward_return": 31.76,
         "start_price": 424.0,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 9.78,
+        "pe_ratio": 11.39,
         "forward_return": 116.39,
         "start_price": 399.5,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.69,
         "forward_return": 123.77,
         "start_price": 423.0,
         "start_year": 2023
@@ -1938,7 +1938,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.31,
         "forward_return": 59.23,
         "start_price": 454.5,
         "start_year": 2023
@@ -1947,7 +1947,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.59,
         "forward_return": 65.65,
         "start_price": 511.0,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.31,
         "forward_return": 56.71,
         "start_price": 511.0,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.62,
         "forward_return": -5.24,
         "start_price": 601.0,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 16.28,
+        "pe_ratio": 15.67,
         "forward_return": -22.38,
         "start_price": 604.0,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.38,
         "forward_return": -35.05,
         "start_price": 618.0,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.06,
         "forward_return": -13.34,
         "start_price": 593.0,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.78,
         "forward_return": -31.95,
         "start_price": 606.0,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.73,
         "forward_return": -14.34,
         "start_price": 523.0,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 15.4,
+        "pe_ratio": 15.47,
         "forward_return": -19.62,
         "start_price": 540.0,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 15.1,
         "forward_return": -11.83,
         "start_price": 518.0,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 14.79,
         "forward_return": 17.63,
         "start_price": 503.0,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.35,
         "forward_return": 43.52,
         "start_price": 484.0,
         "start_year": 2024
@@ -2073,7 +2073,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.58,
         "forward_return": -4.57,
         "start_price": 524.0,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 16.7,
+        "pe_ratio": 16.11,
         "forward_return": -19.9,
         "start_price": 545.0,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.01,
         "forward_return": -21.34,
         "start_price": 545.0,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 15.66,
         "forward_return": -11.81,
         "start_price": 519.0,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 16.4,
+        "pe_ratio": 16.0,
         "forward_return": -34.97,
         "start_price": 516.0,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 17.55,
+        "pe_ratio": 17.39,
         "forward_return": -51.37,
         "start_price": 545.0,
         "start_year": 2025
@@ -2127,7 +2127,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 15.49,
+        "pe_ratio": 15.6,
         "forward_return": -52.87,
         "start_price": 475.0,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 14.37,
+        "pe_ratio": 14.71,
         "forward_return": -36.39,
         "start_price": 435.0,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 14.28,
+        "pe_ratio": 14.87,
         "forward_return": -40.98,
         "start_price": 426.5,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.99,
         "forward_return": -16.98,
         "start_price": 393.0,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 19.1,
+        "pe_ratio": 17.3,
         "forward_return": -43.19,
         "start_price": 230.5,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 15.74,
+        "pe_ratio": 14.28,
         "forward_return": -24.09,
         "start_price": 190.0,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.92,
         "forward_return": -25.66,
         "start_price": 185.0,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 11.83,
         "forward_return": -1.91,
         "start_price": 157.0,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.34,
+        "pe_ratio": 12.64,
         "forward_return": 1.86,
         "start_price": 161.0,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.27,
         "forward_return": -19.34,
         "start_price": 162.0,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.4,
         "forward_return": -16.64,
         "start_price": 156.5,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 13.34,
         "forward_return": 9.48,
         "start_price": 157.5,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 12.14,
         "forward_return": 31.38,
         "start_price": 145.0,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.38,
         "forward_return": -3.08,
         "start_price": 162.5,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.15,
+        "pe_ratio": 13.34,
         "forward_return": -25.25,
         "start_price": 163.0,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.64,
         "forward_return": 17.28,
         "start_price": 143.0,
         "start_year": 2007
@@ -2280,7 +2280,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.02,
         "forward_return": -9.44,
         "start_price": 165.0,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.89,
+        "pe_ratio": 12.71,
         "forward_return": -32.37,
         "start_price": 166.0,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 12.8,
         "forward_return": -41.04,
         "start_price": 172.0,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 11.19,
         "forward_return": -47.37,
         "start_price": 152.0,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 9.69,
         "forward_return": -26.66,
         "start_price": 133.0,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 10.61,
         "forward_return": -43.09,
         "start_price": 147.0,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.88,
+        "pe_ratio": 10.71,
         "forward_return": -32.97,
         "start_price": 149.0,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.24,
+        "pe_ratio": 9.16,
         "forward_return": -15.06,
         "start_price": 128.0,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.23,
+        "pe_ratio": 8.09,
         "forward_return": -49.11,
         "start_price": 110.0,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.77,
+        "pe_ratio": 8.47,
         "forward_return": -52.29,
         "start_price": 111.5,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 8.71,
         "forward_return": -78.29,
         "start_price": 111.0,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 10.3,
+        "pe_ratio": 9.54,
         "forward_return": -85.04,
         "start_price": 117.5,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 9.93,
         "forward_return": -84.45,
         "start_price": 118.0,
         "start_year": 2008
@@ -2406,7 +2406,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.7,
         "forward_return": -79.71,
         "start_price": 88.2,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.41,
+        "pe_ratio": 6.56,
         "forward_return": -75.87,
         "start_price": 70.0,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 6.92,
         "forward_return": -38.88,
         "start_price": 68.4,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 5.76,
+        "pe_ratio": 5.16,
         "forward_return": 20.31,
         "start_price": 46.9,
         "start_year": 2008
@@ -2442,7 +2442,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.53,
         "forward_return": 272.92,
         "start_price": 36.8,
         "start_year": 2008
@@ -2451,7 +2451,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 3.99,
         "forward_return": 682.56,
         "start_price": 28.5,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.49,
+        "pe_ratio": 5.89,
         "forward_return": 707.74,
         "start_price": 34.2,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.83,
+        "pe_ratio": 7.89,
         "forward_return": 265.19,
         "start_price": 42.9,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.12,
+        "pe_ratio": 10.14,
         "forward_return": 110.51,
         "start_price": 51.4,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.29,
         "forward_return": 31.91,
         "start_price": 69.2,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 14.78,
         "forward_return": 80.06,
         "start_price": 79.0,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 12.1,
+        "pe_ratio": 14.31,
         "forward_return": 101.97,
         "start_price": 78.4,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 16.71,
         "forward_return": 5.48,
         "start_price": 91.8,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 14.04,
         "forward_return": 53.16,
         "start_price": 77.3,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.46,
+        "pe_ratio": 13.77,
         "forward_return": 70.49,
         "start_price": 76.0,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.63,
         "forward_return": 44.86,
         "start_price": 75.0,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.99,
         "forward_return": 9.28,
         "start_price": 89.0,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 13.11,
         "forward_return": -9.6,
         "start_price": 94.3,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.03,
+        "pe_ratio": 11.87,
         "forward_return": -18.8,
         "start_price": 90.3,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 12.34,
         "forward_return": -8.47,
         "start_price": 99.0,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 13.64,
         "forward_return": -24.9,
         "start_price": 108.5,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 12.99,
+        "pe_ratio": 11.78,
         "forward_return": 11.26,
         "start_price": 93.0,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.12,
         "forward_return": 29.12,
         "start_price": 87.1,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.59,
+        "pe_ratio": 10.74,
         "forward_return": 29.82,
         "start_price": 84.7,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.63,
         "forward_return": 24.1,
         "start_price": 76.4,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.08,
         "forward_return": -4.29,
         "start_price": 88.5,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.28,
         "forward_return": 18.05,
         "start_price": 89.0,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.45,
         "forward_return": 2.09,
         "start_price": 97.0,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.84,
         "forward_return": -19.98,
         "start_price": 96.6,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 12.21,
+        "pe_ratio": 12.34,
         "forward_return": -18.9,
         "start_price": 90.8,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.04,
         "forward_return": -12.1,
         "start_price": 86.6,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.19,
+        "pe_ratio": 12.39,
         "forward_return": -15.75,
         "start_price": 87.5,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": -26.69,
         "start_price": 98.0,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 13.6,
         "forward_return": -21.95,
         "start_price": 92.5,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.87,
+        "pe_ratio": 12.18,
         "forward_return": 8.54,
         "start_price": 80.7,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.78,
         "forward_return": 33.38,
         "start_price": 76.0,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.39,
         "forward_return": 58.34,
         "start_price": 71.5,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.94,
         "forward_return": 34.61,
         "start_price": 74.5,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.82,
         "forward_return": 46.29,
         "start_price": 73.3,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.82,
         "forward_return": 20.26,
         "start_price": 84.1,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.65,
         "forward_return": 31.91,
         "start_price": 88.0,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 13.92,
+        "pe_ratio": 15.16,
         "forward_return": 51.33,
         "start_price": 89.9,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 13.49,
+        "pe_ratio": 14.95,
         "forward_return": 67.5,
         "start_price": 88.5,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 14.99,
         "forward_return": 72.87,
         "start_price": 88.6,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.52,
+        "pe_ratio": 15.49,
         "forward_return": 78.24,
         "start_price": 91.4,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 14.34,
         "forward_return": 79.13,
         "start_price": 87.6,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 65.99,
         "start_price": 96.5,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 16.26,
         "forward_return": 49.79,
         "start_price": 106.0,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.18,
         "forward_return": 75.56,
         "start_price": 110.0,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 16.53,
         "forward_return": 70.7,
         "start_price": 117.0,
         "start_year": 2012
@@ -2901,7 +2901,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.88,
+        "pe_ratio": 15.67,
         "forward_return": 38.52,
         "start_price": 117.5,
         "start_year": 2013
@@ -2910,7 +2910,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 16.68,
+        "pe_ratio": 16.23,
         "forward_return": 10.11,
         "start_price": 124.0,
         "start_year": 2013
@@ -2919,7 +2919,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.65,
         "forward_return": -9.56,
         "start_price": 129.5,
         "start_year": 2013
@@ -2928,7 +2928,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 19.17,
+        "pe_ratio": 18.22,
         "forward_return": -28.06,
         "start_price": 144.0,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.0,
         "forward_return": -26.24,
         "start_price": 152.5,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.18,
+        "pe_ratio": 17.85,
         "forward_return": -23.06,
         "start_price": 145.5,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 16.32,
         "forward_return": -15.81,
         "start_price": 132.5,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.39,
         "forward_return": 21.65,
         "start_price": 124.5,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.91,
+        "pe_ratio": 15.2,
         "forward_return": 29.98,
         "start_price": 122.5,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.61,
         "forward_return": 60.83,
         "start_price": 116.5,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 15.37,
+        "pe_ratio": 15.14,
         "forward_return": 65.74,
         "start_price": 119.5,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 14.91,
+        "pe_ratio": 15.35,
         "forward_return": 74.27,
         "start_price": 121.5,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 16.39,
+        "pe_ratio": 17.32,
         "forward_return": 31.8,
         "start_price": 139.0,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.16,
         "forward_return": 30.44,
         "start_price": 139.5,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 15.23,
+        "pe_ratio": 16.57,
         "forward_return": 36.44,
         "start_price": 139.5,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 17.64,
         "forward_return": 36.25,
         "start_price": 153.5,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 16.35,
         "forward_return": 56.53,
         "start_price": 147.0,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 16.29,
         "forward_return": 29.62,
         "start_price": 154.0,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 15.48,
         "forward_return": 9.73,
         "start_price": 153.5,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.5,
         "forward_return": 16.02,
         "start_price": 150.5,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 14.05,
+        "pe_ratio": 14.44,
         "forward_return": 11.8,
         "start_price": 157.0,
         "start_year": 2014
@@ -3099,7 +3099,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.4,
         "forward_return": -8.46,
         "start_price": 175.0,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 14.95,
+        "pe_ratio": 14.53,
         "forward_return": -49.98,
         "start_price": 175.5,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.53,
+        "pe_ratio": 13.73,
         "forward_return": -50.54,
         "start_price": 169.0,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 12.92,
         "forward_return": -39.23,
         "start_price": 162.0,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.99,
         "forward_return": -43.45,
         "start_price": 161.0,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.68,
         "forward_return": -27.26,
         "start_price": 167.5,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 13.32,
+        "pe_ratio": 12.32,
         "forward_return": -12.95,
         "start_price": 149.0,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.64,
         "forward_return": 43.82,
         "start_price": 114.5,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.35,
         "forward_return": 34.38,
         "start_price": 109.0,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.49,
+        "pe_ratio": 9.0,
         "forward_return": 58.32,
         "start_price": 103.0,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 9.96,
         "forward_return": -3.83,
         "start_price": 111.0,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.15,
+        "pe_ratio": 10.94,
         "forward_return": -16.22,
         "start_price": 118.5,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 13.31,
+        "pe_ratio": 13.4,
         "forward_return": -22.63,
         "start_price": 137.5,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.8,
         "forward_return": -27.46,
         "start_price": 138.0,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.3,
         "forward_return": -2.62,
         "start_price": 129.5,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 11.73,
         "forward_return": 27.25,
         "start_price": 113.0,
         "start_year": 2016
@@ -3261,7 +3261,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.39,
         "forward_return": 11.26,
         "start_price": 108.5,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 12.69,
         "forward_return": -6.57,
         "start_price": 119.5,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.2,
+        "pe_ratio": 12.22,
         "forward_return": -2.64,
         "start_price": 112.0,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.18,
         "forward_return": 14.72,
         "start_price": 108.5,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 13.2,
         "start_price": 110.5,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 13.93,
         "forward_return": 1.46,
         "start_price": 118.5,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 12.6,
+        "pe_ratio": 12.67,
         "forward_return": 27.37,
         "start_price": 106.0,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.7,
         "forward_return": 22.11,
         "start_price": 110.5,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.53,
         "forward_return": 17.27,
         "start_price": 115.0,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.14,
         "forward_return": 1.46,
         "start_price": 117.5,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.09,
+        "pe_ratio": 15.04,
         "forward_return": 4.35,
         "start_price": 116.0,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 14.51,
+        "pe_ratio": 15.59,
         "forward_return": 1.43,
         "start_price": 119.5,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.93,
+        "pe_ratio": 16.14,
         "forward_return": -4.02,
         "start_price": 123.0,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.74,
         "forward_return": 13.36,
         "start_price": 115.0,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.71,
         "forward_return": 23.0,
         "start_price": 117.5,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.01,
         "forward_return": 34.26,
         "start_price": 114.5,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.6,
         "forward_return": 39.92,
         "start_price": 111.5,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 13.91,
         "forward_return": 40.47,
         "start_price": 114.5,
         "start_year": 2017
@@ -3441,7 +3441,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 14.83,
         "forward_return": 60.99,
         "start_price": 122.5,
         "start_year": 2018
@@ -3450,7 +3450,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 14.65,
+        "pe_ratio": 15.31,
         "forward_return": 55.45,
         "start_price": 126.5,
         "start_year": 2018
@@ -3459,7 +3459,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.02,
+        "pe_ratio": 16.04,
         "forward_return": 14.72,
         "start_price": 132.5,
         "start_year": 2018
@@ -3468,7 +3468,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.79,
         "forward_return": 31.9,
         "start_price": 125.0,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 14.74,
+        "pe_ratio": 15.68,
         "forward_return": 17.73,
         "start_price": 135.5,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 15.57,
         "forward_return": 17.55,
         "start_price": 137.5,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 16.47,
         "forward_return": 13.86,
         "start_price": 148.0,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 15.43,
+        "pe_ratio": 16.47,
         "forward_return": 60.41,
         "start_price": 150.5,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 15.19,
+        "pe_ratio": 16.25,
         "forward_return": 72.78,
         "start_price": 151.0,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 14.08,
         "forward_return": 42.28,
         "start_price": 136.5,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.61,
+        "pe_ratio": 12.88,
         "forward_return": 66.77,
         "start_price": 130.0,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.27,
         "forward_return": 22.62,
         "start_price": 158.0,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.66,
+        "pe_ratio": 14.68,
         "forward_return": 29.89,
         "start_price": 171.0,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 16.2,
         "forward_return": 5.93,
         "start_price": 198.0,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 16.09,
         "forward_return": 3.3,
         "start_price": 201.5,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 13.06,
         "forward_return": 69.01,
         "start_price": 167.5,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 13.18,
         "forward_return": 73.19,
         "start_price": 173.0,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.54,
         "forward_return": 71.76,
         "start_price": 166.0,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 13.94,
         "forward_return": -12.56,
         "start_price": 186.0,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 14.36,
+        "pe_ratio": 13.23,
         "forward_return": -6.65,
         "start_price": 178.0,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 14.73,
         "forward_return": 8.0,
         "start_price": 196.0,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 16.97,
         "forward_return": -15.92,
         "start_price": 223.5,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 16.57,
         "forward_return": 90.43,
         "start_price": 218.0,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.72,
         "forward_return": 64.01,
         "start_price": 195.5,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 12.83,
         "forward_return": 126.23,
         "start_price": 172.0,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 13.66,
         "forward_return": 121.03,
         "start_price": 186.5,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.06,
+        "pe_ratio": 14.75,
         "forward_return": 186.08,
         "start_price": 205.0,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 14.05,
+        "pe_ratio": 16.12,
         "forward_return": 176.47,
         "start_price": 228.0,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.48,
         "forward_return": 83.74,
         "start_price": 290.0,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.88,
+        "pe_ratio": 15.35,
         "forward_return": 350.56,
         "start_price": 240.0,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 16.2,
         "forward_return": 375.59,
         "start_price": 265.5,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 15.34,
         "forward_return": 230.09,
         "start_price": 267.0,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 15.83,
+        "pe_ratio": 16.24,
         "forward_return": 222.3,
         "start_price": 299.0,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 18.39,
         "forward_return": 79.57,
         "start_price": 394.0,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 17.67,
+        "pe_ratio": 20.22,
         "forward_return": -3.94,
         "start_price": 474.0,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 18.83,
+        "pe_ratio": 22.59,
         "forward_return": -38.84,
         "start_price": 575.0,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 21.22,
         "forward_return": -52.2,
         "start_price": 624.0,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 16.0,
         "forward_return": 6.67,
         "start_price": 534.0,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 13.37,
         "forward_return": 23.47,
         "start_price": 499.0,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 12.11,
         "forward_return": -14.94,
         "start_price": 511.0,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.55,
         "forward_return": -8.48,
         "start_price": 449.0,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 7.9,
         "forward_return": 8.29,
         "start_price": 410.0,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.36,
+        "pe_ratio": 7.44,
         "forward_return": -3.91,
         "start_price": 415.5,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.74,
+        "pe_ratio": 7.77,
         "forward_return": -24.12,
         "start_price": 465.5,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 7.55,
+        "pe_ratio": 7.06,
         "forward_return": -55.17,
         "start_price": 471.0,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.5,
+        "pe_ratio": 6.56,
         "forward_return": -52.51,
         "start_price": 456.5,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 5.88,
         "forward_return": -47.47,
         "start_price": 426.5,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 5.55,
         "forward_return": -46.06,
         "start_price": 398.5,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 7.2,
+        "pe_ratio": 5.71,
         "forward_return": -15.83,
         "start_price": 406.0,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.5,
+        "pe_ratio": 4.29,
         "forward_return": 47.56,
         "start_price": 302.0,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 4.96,
+        "pe_ratio": 4.01,
         "forward_return": 78.68,
         "start_price": 265.0,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 5.07,
+        "pe_ratio": 4.27,
         "forward_return": 133.91,
         "start_price": 263.5,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 4.34,
+        "pe_ratio": 3.82,
         "forward_return": 292.97,
         "start_price": 219.0,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.5,
         "forward_return": 166.29,
         "start_price": 241.0,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 6.29,
+        "pe_ratio": 6.0,
         "forward_return": 104.49,
         "start_price": 298.5,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 8.36,
         "forward_return": 69.43,
         "start_price": 355.0,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 9.12,
+        "pe_ratio": 10.46,
         "forward_return": 14.79,
         "start_price": 407.5,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 12.16,
         "forward_return": 24.88,
         "start_price": 431.5,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 9.64,
+        "pe_ratio": 12.1,
         "forward_return": 37.84,
         "start_price": 418.5,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 12.62,
         "forward_return": 56.9,
         "start_price": 425.5,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 13.0,
         "forward_return": 68.55,
         "start_price": 426.5,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 12.49,
         "forward_return": 44.84,
         "start_price": 424.0,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 9.78,
+        "pe_ratio": 11.39,
         "forward_return": 103.16,
         "start_price": 399.5,
         "start_year": 2023
@@ -4053,7 +4053,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.69,
         "forward_return": 104.39,
         "start_price": 423.0,
         "start_year": 2023
@@ -4062,7 +4062,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.31,
         "forward_return": 57.8,
         "start_price": 454.5,
         "start_year": 2023
@@ -4071,7 +4071,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.59,
         "forward_return": 34.81,
         "start_price": 511.0,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.31,
         "forward_return": 18.03,
         "start_price": 511.0,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.62,
         "forward_return": -9.4,
         "start_price": 601.0,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 16.28,
+        "pe_ratio": 15.67,
         "forward_return": -18.7,
         "start_price": 604.0,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.38,
         "forward_return": -25.01,
         "start_price": 618.0,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.06,
         "forward_return": -16.38,
         "start_price": 593.0,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.78,
         "forward_return": -22.31,
         "start_price": 606.0,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.73,
         "forward_return": 0.38,
         "start_price": 523.0,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 15.4,
+        "pe_ratio": 15.47,
         "forward_return": 1.6,
         "start_price": 540.0,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 15.1,
         "forward_return": 10.8,
         "start_price": 518.0,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 14.79,
         "forward_return": 4.49,
         "start_price": 503.0,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.35,
         "forward_return": 13.79,
         "start_price": 484.0,
         "start_year": 2024
@@ -4197,7 +4197,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.58,
         "forward_return": -7.92,
         "start_price": 524.0,
         "start_year": 2025
@@ -4206,7 +4206,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 16.7,
+        "pe_ratio": 16.11,
         "forward_return": -27.91,
         "start_price": 545.0,
         "start_year": 2025
@@ -4215,7 +4215,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 16.01,
         "forward_return": -35.64,
         "start_price": 545.0,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 15.66,
         "forward_return": -34.14,
         "start_price": 519.0,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 16.4,
+        "pe_ratio": 16.0,
         "forward_return": -34.7,
         "start_price": 516.0,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 17.55,
+        "pe_ratio": 17.39,
         "forward_return": -45.52,
         "start_price": 545.0,
         "start_year": 2025
@@ -4251,7 +4251,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 15.49,
+        "pe_ratio": 15.6,
         "forward_return": -37.45,
         "start_price": 475.0,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 19.1,
+        "pe_ratio": 17.3,
         "forward_return": -34.51,
         "start_price": 230.5,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 15.74,
+        "pe_ratio": 14.28,
         "forward_return": -8.96,
         "start_price": 190.0,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.92,
         "forward_return": -5.95,
         "start_price": 185.0,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 11.83,
         "forward_return": 14.66,
         "start_price": 157.0,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.34,
+        "pe_ratio": 12.64,
         "forward_return": -0.62,
         "start_price": 161.0,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.27,
         "forward_return": -12.97,
         "start_price": 162.0,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.4,
         "forward_return": -0.96,
         "start_price": 156.5,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 13.34,
         "forward_return": -0.32,
         "start_price": 157.5,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 12.14,
         "forward_return": -6.21,
         "start_price": 145.0,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.38,
         "forward_return": -27.4,
         "start_price": 162.5,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.15,
+        "pe_ratio": 13.34,
         "forward_return": -26.7,
         "start_price": 163.0,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.64,
         "forward_return": -16.75,
         "start_price": 143.0,
         "start_year": 2007
@@ -4377,7 +4377,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.02,
         "forward_return": -23.9,
         "start_price": 165.0,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.89,
+        "pe_ratio": 12.71,
         "forward_return": -24.05,
         "start_price": 166.0,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 12.8,
         "forward_return": -44.0,
         "start_price": 172.0,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 11.19,
         "forward_return": -48.25,
         "start_price": 152.0,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 9.69,
         "forward_return": -42.07,
         "start_price": 133.0,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 10.61,
         "forward_return": -62.2,
         "start_price": 147.0,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.88,
+        "pe_ratio": 10.71,
         "forward_return": -69.48,
         "start_price": 149.0,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.24,
+        "pe_ratio": 9.16,
         "forward_return": -70.97,
         "start_price": 128.0,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.23,
+        "pe_ratio": 8.09,
         "forward_return": -61.05,
         "start_price": 110.0,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.77,
+        "pe_ratio": 8.47,
         "forward_return": -43.65,
         "start_price": 111.5,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 8.71,
         "forward_return": -46.0,
         "start_price": 111.0,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 10.3,
+        "pe_ratio": 9.54,
         "forward_return": -33.84,
         "start_price": 117.5,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 9.93,
         "forward_return": -25.81,
         "start_price": 118.0,
         "start_year": 2008
@@ -4503,7 +4503,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.7,
         "forward_return": -1.41,
         "start_price": 88.2,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.41,
+        "pe_ratio": 6.56,
         "forward_return": 37.6,
         "start_price": 70.0,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 6.92,
         "forward_return": 19.61,
         "start_price": 68.4,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 5.76,
+        "pe_ratio": 5.16,
         "forward_return": 71.71,
         "start_price": 46.9,
         "start_year": 2008
@@ -4539,7 +4539,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.53,
         "forward_return": 116.15,
         "start_price": 36.8,
         "start_year": 2008
@@ -4548,7 +4548,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 3.99,
         "forward_return": 228.34,
         "start_price": 28.5,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.49,
+        "pe_ratio": 5.89,
         "forward_return": 189.1,
         "start_price": 34.2,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.83,
+        "pe_ratio": 7.89,
         "forward_return": 121.1,
         "start_price": 42.9,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.12,
+        "pe_ratio": 10.14,
         "forward_return": 101.46,
         "start_price": 51.4,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.29,
         "forward_return": 63.35,
         "start_price": 69.2,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 14.78,
         "forward_return": 23.44,
         "start_price": 79.0,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 12.1,
+        "pe_ratio": 14.31,
         "forward_return": 16.85,
         "start_price": 78.4,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 16.71,
         "forward_return": -2.29,
         "start_price": 91.8,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 14.04,
         "forward_return": 5.31,
         "start_price": 77.3,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.46,
+        "pe_ratio": 13.77,
         "forward_return": 23.04,
         "start_price": 76.0,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.63,
         "forward_return": 25.35,
         "start_price": 75.0,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.99,
         "forward_return": 14.62,
         "start_price": 89.0,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 13.11,
         "forward_return": 7.75,
         "start_price": 94.3,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.03,
+        "pe_ratio": 11.87,
         "forward_return": 6.09,
         "start_price": 90.3,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 12.34,
         "forward_return": -7.48,
         "start_price": 99.0,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 13.64,
         "forward_return": -14.76,
         "start_price": 108.5,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 12.99,
+        "pe_ratio": 11.78,
         "forward_return": 10.76,
         "start_price": 93.0,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.12,
         "forward_return": 11.95,
         "start_price": 87.1,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.59,
+        "pe_ratio": 10.74,
         "forward_return": 2.12,
         "start_price": 84.7,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.63,
         "forward_return": 7.07,
         "start_price": 76.4,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.08,
         "forward_return": -12.67,
         "start_price": 88.5,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.28,
         "forward_return": -9.78,
         "start_price": 89.0,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.45,
         "forward_return": -18.47,
         "start_price": 97.0,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.84,
         "forward_return": -6.94,
         "start_price": 96.6,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 12.21,
+        "pe_ratio": 12.34,
         "forward_return": 3.3,
         "start_price": 90.8,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.04,
         "forward_return": 10.48,
         "start_price": 86.6,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.19,
+        "pe_ratio": 12.39,
         "forward_return": 7.75,
         "start_price": 87.5,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": -3.67,
         "start_price": 98.0,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 13.6,
         "forward_return": 5.07,
         "start_price": 92.5,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.87,
+        "pe_ratio": 12.18,
         "forward_return": 14.22,
         "start_price": 80.7,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.78,
         "forward_return": 32.95,
         "start_price": 76.0,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.39,
         "forward_return": 54.55,
         "start_price": 71.5,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.94,
         "forward_return": 53.69,
         "start_price": 74.5,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.82,
         "forward_return": 65.72,
         "start_price": 73.3,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.82,
         "forward_return": 45.07,
         "start_price": 84.1,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.65,
         "forward_return": 47.63,
         "start_price": 88.0,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 13.92,
+        "pe_ratio": 15.16,
         "forward_return": 49.21,
         "start_price": 89.9,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 13.49,
+        "pe_ratio": 14.95,
         "forward_return": 67.97,
         "start_price": 88.5,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 14.99,
         "forward_return": 77.38,
         "start_price": 88.6,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.52,
+        "pe_ratio": 15.49,
         "forward_return": 64.28,
         "start_price": 91.4,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 14.34,
         "forward_return": 57.69,
         "start_price": 87.6,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 34.84,
         "start_price": 96.5,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 16.26,
         "forward_return": 20.86,
         "start_price": 106.0,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.18,
         "forward_return": 11.0,
         "start_price": 110.0,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 16.53,
         "forward_return": 6.92,
         "start_price": 117.0,
         "start_year": 2012
@@ -4998,7 +4998,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.88,
+        "pe_ratio": 15.67,
         "forward_return": 8.17,
         "start_price": 117.5,
         "start_year": 2013
@@ -5007,7 +5007,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 16.68,
+        "pe_ratio": 16.23,
         "forward_return": 16.62,
         "start_price": 124.0,
         "start_year": 2013
@@ -5016,7 +5016,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.65,
         "forward_return": 12.05,
         "start_price": 129.5,
         "start_year": 2013
@@ -5025,7 +5025,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 19.17,
+        "pe_ratio": 18.22,
         "forward_return": 0.76,
         "start_price": 144.0,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.0,
         "forward_return": 4.33,
         "start_price": 152.5,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.18,
+        "pe_ratio": 17.85,
         "forward_return": 4.88,
         "start_price": 145.5,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 16.32,
         "forward_return": 20.77,
         "start_price": 132.5,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.39,
         "forward_return": 28.13,
         "start_price": 124.5,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.91,
+        "pe_ratio": 15.2,
         "forward_return": 27.78,
         "start_price": 122.5,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.61,
         "forward_return": 39.95,
         "start_price": 116.5,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 15.37,
+        "pe_ratio": 15.14,
         "forward_return": 51.51,
         "start_price": 119.5,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 14.91,
+        "pe_ratio": 15.35,
         "forward_return": 49.42,
         "start_price": 121.5,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 16.39,
+        "pe_ratio": 17.32,
         "forward_return": 25.92,
         "start_price": 139.0,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.16,
         "forward_return": 20.45,
         "start_price": 139.5,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 15.23,
+        "pe_ratio": 16.57,
         "forward_return": 19.73,
         "start_price": 139.5,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 17.64,
         "forward_return": 13.04,
         "start_price": 153.5,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 16.35,
         "forward_return": 5.45,
         "start_price": 147.0,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 16.29,
         "forward_return": -19.17,
         "start_price": 154.0,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 15.48,
         "forward_return": -22.49,
         "start_price": 153.5,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.5,
         "forward_return": -24.93,
         "start_price": 150.5,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 14.05,
+        "pe_ratio": 14.44,
         "forward_return": -22.94,
         "start_price": 157.0,
         "start_year": 2014
@@ -5196,7 +5196,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.4,
         "forward_return": -26.59,
         "start_price": 175.0,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 14.95,
+        "pe_ratio": 14.53,
         "forward_return": -15.96,
         "start_price": 175.5,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.53,
+        "pe_ratio": 13.73,
         "forward_return": -12.43,
         "start_price": 169.0,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 12.92,
         "forward_return": -13.86,
         "start_price": 162.0,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.99,
         "forward_return": -23.56,
         "start_price": 161.0,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.68,
         "forward_return": -29.2,
         "start_price": 167.5,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 13.32,
+        "pe_ratio": 12.32,
         "forward_return": -13.06,
         "start_price": 149.0,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.64,
         "forward_return": 5.66,
         "start_price": 114.5,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.35,
         "forward_return": 7.78,
         "start_price": 109.0,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.49,
+        "pe_ratio": 9.0,
         "forward_return": 15.98,
         "start_price": 103.0,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 9.96,
         "forward_return": 14.83,
         "start_price": 111.0,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.15,
+        "pe_ratio": 10.94,
         "forward_return": -2.95,
         "start_price": 118.5,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 13.31,
+        "pe_ratio": 13.4,
         "forward_return": -13.07,
         "start_price": 137.5,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.8,
         "forward_return": -7.73,
         "start_price": 138.0,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.3,
         "forward_return": -2.32,
         "start_price": 129.5,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 11.73,
         "forward_return": 10.63,
         "start_price": 113.0,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.39,
         "forward_return": 18.45,
         "start_price": 108.5,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 12.69,
         "forward_return": 10.47,
         "start_price": 119.5,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.2,
+        "pe_ratio": 12.22,
         "forward_return": 8.93,
         "start_price": 112.0,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.18,
         "forward_return": 14.76,
         "start_price": 108.5,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 9.96,
         "start_price": 110.5,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 13.93,
         "forward_return": 0.0,
         "start_price": 118.5,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 12.6,
+        "pe_ratio": 12.67,
         "forward_return": 14.63,
         "start_price": 106.0,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.7,
         "forward_return": 17.21,
         "start_price": 110.5,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.53,
         "forward_return": 16.1,
         "start_price": 115.0,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.14,
         "forward_return": 18.74,
         "start_price": 117.5,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.09,
+        "pe_ratio": 15.04,
         "forward_return": 13.8,
         "start_price": 116.0,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 14.51,
+        "pe_ratio": 15.59,
         "forward_return": 19.26,
         "start_price": 119.5,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.93,
+        "pe_ratio": 16.14,
         "forward_return": 17.49,
         "start_price": 123.0,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.74,
         "forward_return": 34.9,
         "start_price": 115.0,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.71,
         "forward_return": 34.15,
         "start_price": 117.5,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.01,
         "forward_return": 38.11,
         "start_price": 114.5,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.6,
         "forward_return": 28.81,
         "start_price": 111.5,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 13.91,
         "forward_return": 19.75,
         "start_price": 114.5,
         "start_year": 2017
@@ -5538,7 +5538,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 14.83,
         "forward_return": 34.8,
         "start_price": 122.5,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 14.65,
+        "pe_ratio": 15.31,
         "forward_return": 40.82,
         "start_price": 126.5,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.02,
+        "pe_ratio": 16.04,
         "forward_return": 54.84,
         "start_price": 132.5,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.79,
         "forward_return": 66.94,
         "start_price": 125.0,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 14.74,
+        "pe_ratio": 15.68,
         "forward_return": 28.88,
         "start_price": 135.5,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 15.57,
         "forward_return": 31.01,
         "start_price": 137.5,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 16.47,
         "forward_return": 18.12,
         "start_price": 148.0,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 15.43,
+        "pe_ratio": 16.47,
         "forward_return": 29.46,
         "start_price": 150.5,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 15.19,
+        "pe_ratio": 16.25,
         "forward_return": 23.73,
         "start_price": 151.0,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 14.08,
         "forward_return": 50.08,
         "start_price": 136.5,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.61,
+        "pe_ratio": 12.88,
         "forward_return": 78.76,
         "start_price": 130.0,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.27,
         "forward_return": 43.58,
         "start_price": 158.0,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.66,
+        "pe_ratio": 14.68,
         "forward_return": 19.49,
         "start_price": 171.0,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 16.2,
         "forward_return": -8.67,
         "start_price": 198.0,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 16.09,
         "forward_return": -3.07,
         "start_price": 201.5,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 13.06,
         "forward_return": 27.58,
         "start_price": 167.5,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 13.18,
         "forward_return": 36.79,
         "start_price": 173.0,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.54,
         "forward_return": 80.8,
         "start_price": 166.0,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 13.94,
         "forward_return": 34.6,
         "start_price": 186.0,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 14.36,
+        "pe_ratio": 13.23,
         "forward_return": 54.92,
         "start_price": 178.0,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 14.73,
         "forward_return": 41.48,
         "start_price": 196.0,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 16.97,
         "forward_return": 38.39,
         "start_price": 223.5,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 16.57,
         "forward_return": 85.32,
         "start_price": 218.0,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.72,
         "forward_return": 175.74,
         "start_price": 195.5,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 12.83,
         "forward_return": 240.69,
         "start_price": 172.0,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 13.66,
         "forward_return": 240.5,
         "start_price": 186.5,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.06,
+        "pe_ratio": 14.75,
         "forward_return": 165.79,
         "start_price": 205.0,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 14.05,
+        "pe_ratio": 16.12,
         "forward_return": 123.59,
         "start_price": 228.0,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.48,
         "forward_return": 81.66,
         "start_price": 290.0,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.88,
+        "pe_ratio": 15.35,
         "forward_return": 93.67,
         "start_price": 240.0,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 16.2,
         "forward_return": 60.35,
         "start_price": 265.5,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 15.34,
         "forward_return": 61.51,
         "start_price": 267.0,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 15.83,
+        "pe_ratio": 16.24,
         "forward_return": 60.96,
         "start_price": 299.0,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 18.39,
         "forward_return": 23.52,
         "start_price": 394.0,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 17.67,
+        "pe_ratio": 20.22,
         "forward_return": -0.4,
         "start_price": 474.0,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 18.83,
+        "pe_ratio": 22.59,
         "forward_return": -23.13,
         "start_price": 575.0,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 21.22,
         "forward_return": -33.66,
         "start_price": 624.0,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 16.0,
         "forward_return": -21.06,
         "start_price": 534.0,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 13.37,
         "forward_return": -36.37,
         "start_price": 499.0,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 12.11,
         "forward_return": -38.08,
         "start_price": 511.0,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.55,
         "forward_return": -29.86,
         "start_price": 449.0,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 7.9,
         "forward_return": -34.04,
         "start_price": 410.0,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.36,
+        "pe_ratio": 7.44,
         "forward_return": -29.62,
         "start_price": 415.5,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.74,
+        "pe_ratio": 7.77,
         "forward_return": -24.83,
         "start_price": 465.5,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 7.55,
+        "pe_ratio": 7.06,
         "forward_return": -13.7,
         "start_price": 471.0,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.5,
+        "pe_ratio": 6.56,
         "forward_return": 0.55,
         "start_price": 456.5,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 5.88,
         "forward_return": 13.26,
         "start_price": 426.5,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 5.55,
         "forward_return": 17.96,
         "start_price": 398.5,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 7.2,
+        "pe_ratio": 5.71,
         "forward_return": 17.5,
         "start_price": 406.0,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.5,
+        "pe_ratio": 4.29,
         "forward_return": 58.33,
         "start_price": 302.0,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 4.96,
+        "pe_ratio": 4.01,
         "forward_return": 74.03,
         "start_price": 265.0,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 5.07,
+        "pe_ratio": 4.27,
         "forward_return": 65.71,
         "start_price": 263.5,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 4.34,
+        "pe_ratio": 3.82,
         "forward_return": 110.15,
         "start_price": 219.0,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.5,
         "forward_return": 104.04,
         "start_price": 241.0,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 6.29,
+        "pe_ratio": 6.0,
         "forward_return": 83.66,
         "start_price": 298.5,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 8.36,
         "forward_return": 54.41,
         "start_price": 355.0,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 9.12,
+        "pe_ratio": 10.46,
         "forward_return": 56.61,
         "start_price": 407.5,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 12.16,
         "forward_return": 48.43,
         "start_price": 431.5,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 9.64,
+        "pe_ratio": 12.1,
         "forward_return": 56.37,
         "start_price": 418.5,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 12.62,
         "forward_return": 47.94,
         "start_price": 425.5,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 13.0,
         "forward_return": 50.64,
         "start_price": 426.5,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 12.49,
         "forward_return": 30.82,
         "start_price": 424.0,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 9.78,
+        "pe_ratio": 11.39,
         "forward_return": 43.07,
         "start_price": 399.5,
         "start_year": 2023
@@ -6150,7 +6150,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.69,
         "forward_return": 29.95,
         "start_price": 423.0,
         "start_year": 2023
@@ -6159,7 +6159,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.31,
         "forward_return": 17.67,
         "start_price": 454.5,
         "start_year": 2023
@@ -6168,7 +6168,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.59,
         "forward_return": 0.98,
         "start_price": 511.0,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.31,
         "forward_return": 8.79,
         "start_price": 511.0,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 15.62,
         "forward_return": -3.7,
         "start_price": 601.0,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 16.28,
+        "pe_ratio": 15.67,
         "forward_return": -4.47,
         "start_price": 604.0,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 16.84,
+        "pe_ratio": 16.38,
         "forward_return": -10.85,
         "start_price": 618.0,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 16.34,
+        "pe_ratio": 16.06,
         "forward_return": -7.59,
         "start_price": 593.0,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.78,
         "forward_return": -4.79,
         "start_price": 606.0,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.73,
         "forward_return": -3.83,
         "start_price": 523.0,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 15.4,
+        "pe_ratio": 15.47,
         "forward_return": -14.27,
         "start_price": 540.0,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 15.1,
         "forward_return": -12.27,
         "start_price": 518.0,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 14.79,
         "forward_return": -16.31,
         "start_price": 503.0,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.35,
         "forward_return": -13.75,
         "start_price": 484.0,
         "start_year": 2024
@@ -6294,7 +6294,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.58,
         "forward_return": -23.11,
         "start_price": 524.0,
         "start_year": 2025
@@ -6303,7 +6303,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 16.7,
+        "pe_ratio": 16.11,
         "forward_return": -22.77,
         "start_price": 545.0,
         "start_year": 2025
@@ -6312,7 +6312,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 19.1,
+        "pe_ratio": 17.3,
         "forward_return": -25.76,
         "start_price": 230.5,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 15.74,
+        "pe_ratio": 14.28,
         "forward_return": -16.17,
         "start_price": 190.0,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.92,
         "forward_return": -14.89,
         "start_price": 185.0,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 11.83,
         "forward_return": -18.52,
         "start_price": 157.0,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.34,
+        "pe_ratio": 12.64,
         "forward_return": -26.66,
         "start_price": 161.0,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.27,
         "forward_return": -27.57,
         "start_price": 162.0,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.4,
         "forward_return": -36.3,
         "start_price": 156.5,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 13.34,
         "forward_return": -41.77,
         "start_price": 157.5,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 12.14,
         "forward_return": -44.23,
         "start_price": 145.0,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.38,
         "forward_return": -44.09,
         "start_price": 162.5,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.15,
+        "pe_ratio": 13.34,
         "forward_return": -39.58,
         "start_price": 163.0,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.64,
         "forward_return": -31.04,
         "start_price": 143.0,
         "start_year": 2007
@@ -6429,7 +6429,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.02,
         "forward_return": -27.89,
         "start_price": 165.0,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.89,
+        "pe_ratio": 12.71,
         "forward_return": -24.11,
         "start_price": 166.0,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 12.8,
         "forward_return": -25.68,
         "start_price": 172.0,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 11.19,
         "forward_return": -16.93,
         "start_price": 152.0,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 9.69,
         "forward_return": -17.56,
         "start_price": 133.0,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 10.61,
         "forward_return": -22.15,
         "start_price": 147.0,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.88,
+        "pe_ratio": 10.71,
         "forward_return": -23.11,
         "start_price": 149.0,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.24,
+        "pe_ratio": 9.16,
         "forward_return": -10.7,
         "start_price": 128.0,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.23,
+        "pe_ratio": 8.09,
         "forward_return": -1.21,
         "start_price": 110.0,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.77,
+        "pe_ratio": 8.47,
         "forward_return": 0.24,
         "start_price": 111.5,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 8.71,
         "forward_return": 0.48,
         "start_price": 111.0,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 10.3,
+        "pe_ratio": 9.54,
         "forward_return": 1.71,
         "start_price": 117.5,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 9.93,
         "forward_return": -5.2,
         "start_price": 118.0,
         "start_year": 2008
@@ -6555,7 +6555,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.7,
         "forward_return": 6.57,
         "start_price": 88.2,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.41,
+        "pe_ratio": 6.56,
         "forward_return": 16.02,
         "start_price": 70.0,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 6.92,
         "forward_return": 12.07,
         "start_price": 68.4,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 5.76,
+        "pe_ratio": 5.16,
         "forward_return": 44.59,
         "start_price": 46.9,
         "start_year": 2008
@@ -6591,7 +6591,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.53,
         "forward_return": 63.66,
         "start_price": 36.8,
         "start_year": 2008
@@ -6600,7 +6600,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 3.99,
         "forward_return": 93.4,
         "start_price": 28.5,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.49,
+        "pe_ratio": 5.89,
         "forward_return": 76.2,
         "start_price": 34.2,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.83,
+        "pe_ratio": 7.89,
         "forward_return": 52.95,
         "start_price": 42.9,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.12,
+        "pe_ratio": 10.14,
         "forward_return": 36.76,
         "start_price": 51.4,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.29,
         "forward_return": 18.41,
         "start_price": 69.2,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 14.78,
         "forward_return": 16.66,
         "start_price": 79.0,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 12.1,
+        "pe_ratio": 14.31,
         "forward_return": 14.07,
         "start_price": 78.4,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 16.71,
         "forward_return": -0.17,
         "start_price": 91.8,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 14.04,
         "forward_return": 5.97,
         "start_price": 77.3,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.46,
+        "pe_ratio": 13.77,
         "forward_return": 4.06,
         "start_price": 76.0,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.63,
         "forward_return": 6.65,
         "start_price": 75.0,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.99,
         "forward_return": -2.8,
         "start_price": 89.0,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 13.11,
         "forward_return": 0.32,
         "start_price": 94.3,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.03,
+        "pe_ratio": 11.87,
         "forward_return": 4.6,
         "start_price": 90.3,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 12.34,
         "forward_return": 0.85,
         "start_price": 99.0,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 13.64,
         "forward_return": -4.33,
         "start_price": 108.5,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 12.99,
+        "pe_ratio": 11.78,
         "forward_return": 3.38,
         "start_price": 93.0,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.12,
         "forward_return": 8.31,
         "start_price": 87.1,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.59,
+        "pe_ratio": 10.74,
         "forward_return": 7.56,
         "start_price": 84.7,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.63,
         "forward_return": 18.27,
         "start_price": 76.4,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.08,
         "forward_return": 14.67,
         "start_price": 88.5,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.28,
         "forward_return": 16.3,
         "start_price": 89.0,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.45,
         "forward_return": 14.59,
         "start_price": 97.0,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.84,
         "forward_return": 15.05,
         "start_price": 96.6,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 12.21,
+        "pe_ratio": 12.34,
         "forward_return": 21.64,
         "start_price": 90.8,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.04,
         "forward_return": 27.08,
         "start_price": 86.6,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.19,
+        "pe_ratio": 12.39,
         "forward_return": 32.81,
         "start_price": 87.5,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 28.9,
         "start_price": 98.0,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 13.6,
         "forward_return": 29.8,
         "start_price": 92.5,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.87,
+        "pe_ratio": 12.18,
         "forward_return": 32.95,
         "start_price": 80.7,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.78,
         "forward_return": 33.1,
         "start_price": 76.0,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.39,
         "forward_return": 36.2,
         "start_price": 71.5,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.94,
         "forward_return": 30.38,
         "start_price": 74.5,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.82,
         "forward_return": 32.99,
         "start_price": 73.3,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.82,
         "forward_return": 25.12,
         "start_price": 84.1,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.65,
         "forward_return": 29.09,
         "start_price": 88.0,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 13.92,
+        "pe_ratio": 15.16,
         "forward_return": 29.06,
         "start_price": 89.9,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 13.49,
+        "pe_ratio": 14.95,
         "forward_return": 30.08,
         "start_price": 88.5,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 14.99,
         "forward_return": 35.95,
         "start_price": 88.6,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.52,
+        "pe_ratio": 15.49,
         "forward_return": 31.17,
         "start_price": 91.4,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 14.34,
         "forward_return": 37.52,
         "start_price": 87.6,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 30.82,
         "start_price": 96.5,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 16.26,
         "forward_return": 23.68,
         "start_price": 106.0,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.18,
         "forward_return": 23.82,
         "start_price": 110.0,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 16.53,
         "forward_return": 26.31,
         "start_price": 117.0,
         "start_year": 2012
@@ -7050,7 +7050,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.88,
+        "pe_ratio": 15.67,
         "forward_return": 26.21,
         "start_price": 117.5,
         "start_year": 2013
@@ -7059,7 +7059,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 16.68,
+        "pe_ratio": 16.23,
         "forward_return": 20.7,
         "start_price": 124.0,
         "start_year": 2013
@@ -7068,7 +7068,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.65,
         "forward_return": 15.79,
         "start_price": 129.5,
         "start_year": 2013
@@ -7077,7 +7077,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 19.17,
+        "pe_ratio": 18.22,
         "forward_return": 9.49,
         "start_price": 144.0,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.0,
         "forward_return": 8.37,
         "start_price": 152.5,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.18,
+        "pe_ratio": 17.85,
         "forward_return": 5.06,
         "start_price": 145.5,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 16.32,
         "forward_return": -0.76,
         "start_price": 132.5,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.39,
         "forward_return": 0.2,
         "start_price": 124.5,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.91,
+        "pe_ratio": 15.2,
         "forward_return": -1.44,
         "start_price": 122.5,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.61,
         "forward_return": 4.41,
         "start_price": 116.5,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 15.37,
+        "pe_ratio": 15.14,
         "forward_return": 6.09,
         "start_price": 119.5,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 14.91,
+        "pe_ratio": 15.35,
         "forward_return": 12.41,
         "start_price": 121.5,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 16.39,
+        "pe_ratio": 17.32,
         "forward_return": 5.26,
         "start_price": 139.0,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.16,
         "forward_return": 2.13,
         "start_price": 139.5,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 15.23,
+        "pe_ratio": 16.57,
         "forward_return": -3.83,
         "start_price": 139.5,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 17.64,
         "forward_return": -9.93,
         "start_price": 153.5,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 16.35,
         "forward_return": -3.99,
         "start_price": 147.0,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 16.29,
         "forward_return": -7.76,
         "start_price": 154.0,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 15.48,
         "forward_return": -8.86,
         "start_price": 153.5,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.5,
         "forward_return": -7.23,
         "start_price": 150.5,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 14.05,
+        "pe_ratio": 14.44,
         "forward_return": -6.41,
         "start_price": 157.0,
         "start_year": 2014
@@ -7248,7 +7248,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.4,
         "forward_return": -15.47,
         "start_price": 175.0,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 14.95,
+        "pe_ratio": 14.53,
         "forward_return": -14.09,
         "start_price": 175.5,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.53,
+        "pe_ratio": 13.73,
         "forward_return": -10.95,
         "start_price": 169.0,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 12.92,
         "forward_return": -8.2,
         "start_price": 162.0,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.99,
         "forward_return": -8.42,
         "start_price": 161.0,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.68,
         "forward_return": -9.06,
         "start_price": 167.5,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 13.32,
+        "pe_ratio": 12.32,
         "forward_return": -2.38,
         "start_price": 149.0,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.64,
         "forward_return": 6.96,
         "start_price": 114.5,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.35,
         "forward_return": 10.66,
         "start_price": 109.0,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.49,
+        "pe_ratio": 9.0,
         "forward_return": 12.55,
         "start_price": 103.0,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 9.96,
         "forward_return": 7.17,
         "start_price": 111.0,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.15,
+        "pe_ratio": 10.94,
         "forward_return": 4.94,
         "start_price": 118.5,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 13.31,
+        "pe_ratio": 13.4,
         "forward_return": 0.36,
         "start_price": 137.5,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.8,
         "forward_return": 3.59,
         "start_price": 138.0,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.3,
         "forward_return": 7.09,
         "start_price": 129.5,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 11.73,
         "forward_return": 11.71,
         "start_price": 113.0,
         "start_year": 2016
@@ -7410,7 +7410,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.39,
         "forward_return": 18.18,
         "start_price": 108.5,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 12.69,
         "forward_return": 13.35,
         "start_price": 119.5,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.2,
+        "pe_ratio": 12.22,
         "forward_return": 20.32,
         "start_price": 112.0,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.18,
         "forward_return": 23.19,
         "start_price": 108.5,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 22.25,
         "start_price": 110.5,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 13.93,
         "forward_return": 12.74,
         "start_price": 118.5,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 12.6,
+        "pe_ratio": 12.67,
         "forward_return": 16.61,
         "start_price": 106.0,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.7,
         "forward_return": 24.82,
         "start_price": 110.5,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.53,
         "forward_return": 26.89,
         "start_price": 115.0,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.14,
         "forward_return": 34.38,
         "start_price": 117.5,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.09,
+        "pe_ratio": 15.04,
         "forward_return": 36.36,
         "start_price": 116.0,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 14.51,
+        "pe_ratio": 15.59,
         "forward_return": 23.29,
         "start_price": 119.5,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.93,
+        "pe_ratio": 16.14,
         "forward_return": 23.35,
         "start_price": 123.0,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.74,
         "forward_return": 25.79,
         "start_price": 115.0,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.71,
         "forward_return": 31.11,
         "start_price": 117.5,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.01,
         "forward_return": 30.16,
         "start_price": 114.5,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.6,
         "forward_return": 37.89,
         "start_price": 111.5,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 13.91,
         "forward_return": 44.63,
         "start_price": 114.5,
         "start_year": 2017
@@ -7590,7 +7590,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 14.83,
         "forward_return": 38.21,
         "start_price": 122.5,
         "start_year": 2018
@@ -7599,7 +7599,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 14.65,
+        "pe_ratio": 15.31,
         "forward_return": 29.3,
         "start_price": 126.5,
         "start_year": 2018
@@ -7608,7 +7608,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.02,
+        "pe_ratio": 16.04,
         "forward_return": 19.07,
         "start_price": 132.5,
         "start_year": 2018
@@ -7617,7 +7617,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.79,
         "forward_return": 27.23,
         "start_price": 125.0,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 14.74,
+        "pe_ratio": 15.68,
         "forward_return": 27.66,
         "start_price": 135.5,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 15.57,
         "forward_return": 33.16,
         "start_price": 137.5,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 16.47,
         "forward_return": 44.53,
         "start_price": 148.0,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 15.43,
+        "pe_ratio": 16.47,
         "forward_return": 31.24,
         "start_price": 150.5,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 15.19,
+        "pe_ratio": 16.25,
         "forward_return": 37.31,
         "start_price": 151.0,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 14.08,
         "forward_return": 44.79,
         "start_price": 136.5,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.61,
+        "pe_ratio": 12.88,
         "forward_return": 56.43,
         "start_price": 130.0,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.27,
         "forward_return": 61.68,
         "start_price": 158.0,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.66,
+        "pe_ratio": 14.68,
         "forward_return": 69.79,
         "start_price": 171.0,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 16.2,
         "forward_return": 73.18,
         "start_price": 198.0,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 16.09,
         "forward_return": 78.61,
         "start_price": 201.5,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 13.06,
         "forward_return": 81.68,
         "start_price": 167.5,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 13.18,
         "forward_return": 73.02,
         "start_price": 173.0,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.54,
         "forward_return": 79.8,
         "start_price": 166.0,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 13.94,
         "forward_return": 59.77,
         "start_price": 186.0,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 14.36,
+        "pe_ratio": 13.23,
         "forward_return": 56.48,
         "start_price": 178.0,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 14.73,
         "forward_return": 50.06,
         "start_price": 196.0,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 16.97,
         "forward_return": 48.27,
         "start_price": 223.5,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 16.57,
         "forward_return": 50.96,
         "start_price": 218.0,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.72,
         "forward_return": 49.7,
         "start_price": 195.5,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 12.83,
         "forward_return": 62.27,
         "start_price": 172.0,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 13.66,
         "forward_return": 50.93,
         "start_price": 186.5,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.06,
+        "pe_ratio": 14.75,
         "forward_return": 45.22,
         "start_price": 205.0,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 14.05,
+        "pe_ratio": 16.12,
         "forward_return": 19.97,
         "start_price": 228.0,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.48,
         "forward_return": 7.02,
         "start_price": 290.0,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.88,
+        "pe_ratio": 15.35,
         "forward_return": 17.38,
         "start_price": 240.0,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 16.2,
         "forward_return": 3.81,
         "start_price": 265.5,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 15.34,
         "forward_return": 7.43,
         "start_price": 267.0,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 15.83,
+        "pe_ratio": 16.24,
         "forward_return": 10.59,
         "start_price": 299.0,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 18.39,
         "forward_return": 3.51,
         "start_price": 394.0,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 17.67,
+        "pe_ratio": 20.22,
         "forward_return": 0.06,
         "start_price": 474.0,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 18.83,
+        "pe_ratio": 22.59,
         "forward_return": -6.88,
         "start_price": 575.0,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 21.22,
         "forward_return": -11.79,
         "start_price": 624.0,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 16.0,
         "forward_return": -3.96,
         "start_price": 534.0,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 13.37,
         "forward_return": -0.54,
         "start_price": 499.0,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 12.11,
         "forward_return": 0.15,
         "start_price": 511.0,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.55,
         "forward_return": 4.26,
         "start_price": 449.0,
         "start_year": 2021
@@ -7986,7 +7986,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 7.9,
         "forward_return": 11.7,
         "start_price": 410.0,
         "start_year": 2021
@@ -7995,7 +7995,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.36,
+        "pe_ratio": 7.44,
         "forward_return": 14.33,
         "start_price": 415.5,
         "start_year": 2021
@@ -8004,7 +8004,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.74,
+        "pe_ratio": 7.77,
         "forward_return": 13.49,
         "start_price": 465.5,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 7.55,
+        "pe_ratio": 7.06,
         "forward_return": 12.83,
         "start_price": 471.0,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.5,
+        "pe_ratio": 6.56,
         "forward_return": 22.92,
         "start_price": 456.5,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 5.88,
         "forward_return": 27.4,
         "start_price": 426.5,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 5.55,
         "forward_return": 33.12,
         "start_price": 398.5,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 7.2,
+        "pe_ratio": 5.71,
         "forward_return": 29.54,
         "start_price": 406.0,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.5,
+        "pe_ratio": 4.29,
         "forward_return": 51.6,
         "start_price": 302.0,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 4.96,
+        "pe_ratio": 4.01,
         "forward_return": 49.42,
         "start_price": 265.0,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 5.07,
+        "pe_ratio": 4.27,
         "forward_return": 51.98,
         "start_price": 263.5,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 4.34,
+        "pe_ratio": 3.82,
         "forward_return": 63.66,
         "start_price": 219.0,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.5,
         "forward_return": 54.01,
         "start_price": 241.0,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 6.29,
+        "pe_ratio": 6.0,
         "forward_return": 36.08,
         "start_price": 298.5,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 8.36,
         "forward_return": 29.22,
         "start_price": 355.0,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 9.12,
+        "pe_ratio": 10.46,
         "forward_return": 22.73,
         "start_price": 407.5,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 9.8,
+        "pe_ratio": 12.16,
         "forward_return": 19.27,
         "start_price": 431.5,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 9.64,
+        "pe_ratio": 12.1,
         "forward_return": 18.52,
         "start_price": 418.5,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 12.62,
         "forward_return": 17.24,
         "start_price": 425.5,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 10.12,
+        "pe_ratio": 13.0,
         "forward_return": 19.97,
         "start_price": 426.5,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 12.49,
         "forward_return": 12.32,
         "start_price": 424.0,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 9.78,
+        "pe_ratio": 11.39,
         "forward_return": 11.3,
         "start_price": 399.5,
         "start_year": 2023
@@ -8202,7 +8202,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 11.69,
         "forward_return": 7.24,
         "start_price": 423.0,
         "start_year": 2023
@@ -8211,7 +8211,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.31,
         "forward_return": -0.17,
         "start_price": 454.5,
         "start_year": 2023
@@ -8220,7 +8220,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.12,
+        "pe_ratio": 13.59,
         "forward_return": -6.21,
         "start_price": 511.0,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.31,
         "forward_return": -7.73,
         "start_price": 511.0,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 19.1,
+        "pe_ratio": 17.3,
         "forward_return": -30.92,
         "start_price": 230.5,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 15.74,
+        "pe_ratio": 14.28,
         "forward_return": -20.98,
         "start_price": 190.0,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.92,
         "forward_return": -17.58,
         "start_price": 185.0,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 11.83,
         "forward_return": -13.12,
         "start_price": 157.0,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.34,
+        "pe_ratio": 12.64,
         "forward_return": -11.17,
         "start_price": 161.0,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.27,
         "forward_return": -15.32,
         "start_price": 162.0,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.4,
         "forward_return": -14.72,
         "start_price": 156.5,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 13.34,
         "forward_return": -15.19,
         "start_price": 157.5,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 12.14,
         "forward_return": -8.78,
         "start_price": 145.0,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.38,
         "forward_return": -10.79,
         "start_price": 162.5,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.15,
+        "pe_ratio": 13.34,
         "forward_return": -11.92,
         "start_price": 163.0,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.64,
         "forward_return": -5.66,
         "start_price": 143.0,
         "start_year": 2007
@@ -8364,7 +8364,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.02,
         "forward_return": -7.74,
         "start_price": 165.0,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.89,
+        "pe_ratio": 12.71,
         "forward_return": -11.76,
         "start_price": 166.0,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 12.8,
         "forward_return": -14.32,
         "start_price": 172.0,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 11.19,
         "forward_return": -12.23,
         "start_price": 152.0,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 9.69,
         "forward_return": -10.78,
         "start_price": 133.0,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 10.61,
         "forward_return": -10.17,
         "start_price": 147.0,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.88,
+        "pe_ratio": 10.71,
         "forward_return": -10.43,
         "start_price": 149.0,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.24,
+        "pe_ratio": 9.16,
         "forward_return": -3.49,
         "start_price": 128.0,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.23,
+        "pe_ratio": 8.09,
         "forward_return": 1.39,
         "start_price": 110.0,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.77,
+        "pe_ratio": 8.47,
         "forward_return": -2.03,
         "start_price": 111.5,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 8.71,
         "forward_return": -1.94,
         "start_price": 111.0,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 10.3,
+        "pe_ratio": 9.54,
         "forward_return": -3.51,
         "start_price": 117.5,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 9.93,
         "forward_return": -0.55,
         "start_price": 118.0,
         "start_year": 2008
@@ -8490,7 +8490,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.7,
         "forward_return": 7.83,
         "start_price": 88.2,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.41,
+        "pe_ratio": 6.56,
         "forward_return": 11.11,
         "start_price": 70.0,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 6.92,
         "forward_return": 10.11,
         "start_price": 68.4,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 5.76,
+        "pe_ratio": 5.16,
         "forward_return": 22.79,
         "start_price": 46.9,
         "start_year": 2008
@@ -8526,7 +8526,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.53,
         "forward_return": 34.66,
         "start_price": 36.8,
         "start_year": 2008
@@ -8535,7 +8535,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 3.99,
         "forward_return": 45.98,
         "start_price": 28.5,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.49,
+        "pe_ratio": 5.89,
         "forward_return": 42.74,
         "start_price": 34.2,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.83,
+        "pe_ratio": 7.89,
         "forward_return": 34.06,
         "start_price": 42.9,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.12,
+        "pe_ratio": 10.14,
         "forward_return": 26.96,
         "start_price": 51.4,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.29,
         "forward_return": 14.47,
         "start_price": 69.2,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 14.78,
         "forward_return": 9.56,
         "start_price": 79.0,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 12.1,
+        "pe_ratio": 14.31,
         "forward_return": 10.82,
         "start_price": 78.4,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 16.71,
         "forward_return": 3.91,
         "start_price": 91.8,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 14.04,
         "forward_return": 13.12,
         "start_price": 77.3,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.46,
+        "pe_ratio": 13.77,
         "forward_return": 16.89,
         "start_price": 76.0,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.63,
         "forward_return": 18.68,
         "start_price": 75.0,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.99,
         "forward_return": 14.15,
         "start_price": 89.0,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 13.11,
         "forward_return": 12.11,
         "start_price": 94.3,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.03,
+        "pe_ratio": 11.87,
         "forward_return": 15.57,
         "start_price": 90.3,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 12.34,
         "forward_return": 13.53,
         "start_price": 99.0,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 13.64,
         "forward_return": 13.68,
         "start_price": 108.5,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 12.99,
+        "pe_ratio": 11.78,
         "forward_return": 21.76,
         "start_price": 93.0,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.12,
         "forward_return": 22.69,
         "start_price": 87.1,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.59,
+        "pe_ratio": 10.74,
         "forward_return": 20.57,
         "start_price": 84.7,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.63,
         "forward_return": 22.51,
         "start_price": 76.4,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.08,
         "forward_return": 16.09,
         "start_price": 88.5,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.28,
         "forward_return": 14.18,
         "start_price": 89.0,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.45,
         "forward_return": 11.78,
         "start_price": 97.0,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.84,
         "forward_return": 12.48,
         "start_price": 96.6,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 12.21,
+        "pe_ratio": 12.34,
         "forward_return": 19.51,
         "start_price": 90.8,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.04,
         "forward_return": 21.54,
         "start_price": 86.6,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.19,
+        "pe_ratio": 12.39,
         "forward_return": 21.12,
         "start_price": 87.5,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 20.03,
         "start_price": 98.0,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 13.6,
         "forward_return": 20.78,
         "start_price": 92.5,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.87,
+        "pe_ratio": 12.18,
         "forward_return": 28.23,
         "start_price": 80.7,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.78,
         "forward_return": 30.69,
         "start_price": 76.0,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.39,
         "forward_return": 32.59,
         "start_price": 71.5,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.94,
         "forward_return": 32.46,
         "start_price": 74.5,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.82,
         "forward_return": 37.64,
         "start_price": 73.3,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.82,
         "forward_return": 31.6,
         "start_price": 84.1,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.65,
         "forward_return": 25.74,
         "start_price": 88.0,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 13.92,
+        "pe_ratio": 15.16,
         "forward_return": 25.64,
         "start_price": 89.9,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 13.49,
+        "pe_ratio": 14.95,
         "forward_return": 26.06,
         "start_price": 88.5,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 14.99,
         "forward_return": 27.53,
         "start_price": 88.6,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.52,
+        "pe_ratio": 15.49,
         "forward_return": 21.83,
         "start_price": 91.4,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 14.34,
         "forward_return": 15.83,
         "start_price": 87.6,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 10.62,
         "start_price": 96.5,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 16.26,
         "forward_return": 5.54,
         "start_price": 106.0,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.18,
         "forward_return": 6.43,
         "start_price": 110.0,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 16.53,
         "forward_return": 6.19,
         "start_price": 117.0,
         "start_year": 2012
@@ -8985,7 +8985,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.88,
+        "pe_ratio": 15.67,
         "forward_return": 10.64,
         "start_price": 117.5,
         "start_year": 2013
@@ -8994,7 +8994,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 16.68,
+        "pe_ratio": 16.23,
         "forward_return": 8.78,
         "start_price": 124.0,
         "start_year": 2013
@@ -9003,7 +9003,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.65,
         "forward_return": 5.27,
         "start_price": 129.5,
         "start_year": 2013
@@ -9012,7 +9012,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 19.17,
+        "pe_ratio": 18.22,
         "forward_return": -2.23,
         "start_price": 144.0,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.0,
         "forward_return": -5.16,
         "start_price": 152.5,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.18,
+        "pe_ratio": 17.85,
         "forward_return": -1.02,
         "start_price": 145.5,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 16.32,
         "forward_return": 1.12,
         "start_price": 132.5,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.39,
         "forward_return": 2.35,
         "start_price": 124.5,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.91,
+        "pe_ratio": 15.2,
         "forward_return": 3.42,
         "start_price": 122.5,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.61,
         "forward_return": 7.19,
         "start_price": 116.5,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 15.37,
+        "pe_ratio": 15.14,
         "forward_return": 3.11,
         "start_price": 119.5,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 14.91,
+        "pe_ratio": 15.35,
         "forward_return": 3.7,
         "start_price": 121.5,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 16.39,
+        "pe_ratio": 17.32,
         "forward_return": 0.24,
         "start_price": 139.0,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.16,
         "forward_return": 0.71,
         "start_price": 139.5,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 15.23,
+        "pe_ratio": 16.57,
         "forward_return": 0.36,
         "start_price": 139.5,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 17.64,
         "forward_return": -1.99,
         "start_price": 153.5,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 16.35,
         "forward_return": 0.23,
         "start_price": 147.0,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 16.29,
         "forward_return": -2.9,
         "start_price": 154.0,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 15.48,
         "forward_return": -2.22,
         "start_price": 153.5,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.5,
         "forward_return": -2.27,
         "start_price": 150.5,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 14.05,
+        "pe_ratio": 14.44,
         "forward_return": -4.32,
         "start_price": 157.0,
         "start_year": 2014
@@ -9183,7 +9183,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.4,
         "forward_return": -7.06,
         "start_price": 175.0,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 14.95,
+        "pe_ratio": 14.53,
         "forward_return": -5.42,
         "start_price": 175.5,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.53,
+        "pe_ratio": 13.73,
         "forward_return": -3.37,
         "start_price": 169.0,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 12.92,
         "forward_return": -0.73,
         "start_price": 162.0,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.99,
         "forward_return": -2.11,
         "start_price": 161.0,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.68,
         "forward_return": -1.21,
         "start_price": 167.5,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 13.32,
+        "pe_ratio": 12.32,
         "forward_return": 3.14,
         "start_price": 149.0,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.64,
         "forward_return": 14.32,
         "start_price": 114.5,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.35,
         "forward_return": 16.78,
         "start_price": 109.0,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.49,
+        "pe_ratio": 9.0,
         "forward_return": 19.12,
         "start_price": 103.0,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 9.96,
         "forward_return": 12.86,
         "start_price": 111.0,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.15,
+        "pe_ratio": 10.94,
         "forward_return": 8.91,
         "start_price": 118.5,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 13.31,
+        "pe_ratio": 13.4,
         "forward_return": 9.61,
         "start_price": 137.5,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.8,
         "forward_return": 16.54,
         "start_price": 138.0,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.3,
         "forward_return": 19.53,
         "start_price": 129.5,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 11.73,
         "forward_return": 25.75,
         "start_price": 113.0,
         "start_year": 2016
@@ -9345,7 +9345,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.39,
         "forward_return": 20.68,
         "start_price": 108.5,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 12.69,
         "forward_return": 17.96,
         "start_price": 119.5,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.2,
+        "pe_ratio": 12.22,
         "forward_return": 19.05,
         "start_price": 112.0,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.18,
         "forward_return": 24.42,
         "start_price": 108.5,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 22.07,
         "start_price": 110.5,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 13.93,
         "forward_return": 22.72,
         "start_price": 118.5,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 12.6,
+        "pe_ratio": 12.67,
         "forward_return": 32.49,
         "start_price": 106.0,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.7,
         "forward_return": 29.69,
         "start_price": 110.5,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.53,
         "forward_return": 23.86,
         "start_price": 115.0,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.14,
         "forward_return": 18.37,
         "start_price": 117.5,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.09,
+        "pe_ratio": 15.04,
         "forward_return": 21.75,
         "start_price": 116.0,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 14.51,
+        "pe_ratio": 15.59,
         "forward_return": 24.0,
         "start_price": 119.5,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.93,
+        "pe_ratio": 16.14,
         "forward_return": 26.82,
         "start_price": 123.0,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.74,
         "forward_return": 40.11,
         "start_price": 115.0,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.71,
         "forward_return": 31.36,
         "start_price": 117.5,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.01,
         "forward_return": 36.6,
         "start_price": 114.5,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.6,
         "forward_return": 38.05,
         "start_price": 111.5,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 13.91,
         "forward_return": 41.63,
         "start_price": 114.5,
         "start_year": 2017
@@ -9525,7 +9525,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 14.83,
         "forward_return": 50.82,
         "start_price": 122.5,
         "start_year": 2018
@@ -9534,7 +9534,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 14.65,
+        "pe_ratio": 15.31,
         "forward_return": 58.14,
         "start_price": 126.5,
         "start_year": 2018
@@ -9543,7 +9543,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.02,
+        "pe_ratio": 16.04,
         "forward_return": 65.55,
         "start_price": 132.5,
         "start_year": 2018
@@ -9552,7 +9552,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.79,
         "forward_return": 73.26,
         "start_price": 125.0,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 14.74,
+        "pe_ratio": 15.68,
         "forward_return": 60.5,
         "start_price": 135.5,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 15.57,
         "forward_return": 56.32,
         "start_price": 137.5,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 16.47,
         "forward_return": 54.49,
         "start_price": 148.0,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 15.43,
+        "pe_ratio": 16.47,
         "forward_return": 47.58,
         "start_price": 150.5,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 15.19,
+        "pe_ratio": 16.25,
         "forward_return": 43.35,
         "start_price": 151.0,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 14.08,
         "forward_return": 48.86,
         "start_price": 136.5,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.61,
+        "pe_ratio": 12.88,
         "forward_return": 56.7,
         "start_price": 130.0,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.27,
         "forward_return": 47.38,
         "start_price": 158.0,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.66,
+        "pe_ratio": 14.68,
         "forward_return": 42.16,
         "start_price": 171.0,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 16.2,
         "forward_return": 32.57,
         "start_price": 198.0,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 16.09,
         "forward_return": 29.08,
         "start_price": 201.5,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 13.06,
         "forward_return": 38.06,
         "start_price": 167.5,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 13.18,
         "forward_return": 24.87,
         "start_price": 173.0,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.54,
         "forward_return": 27.31,
         "start_price": 166.0,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 13.94,
         "forward_return": 22.4,
         "start_price": 186.0,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 14.36,
+        "pe_ratio": 13.23,
         "forward_return": 18.55,
         "start_price": 178.0,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 14.73,
         "forward_return": 17.57,
         "start_price": 196.0,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 16.97,
         "forward_return": 18.94,
         "start_price": 223.5,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 16.57,
         "forward_return": 25.66,
         "start_price": 218.0,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.72,
         "forward_return": 36.44,
         "start_price": 195.5,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 12.83,
         "forward_return": 43.61,
         "start_price": 172.0,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 13.66,
         "forward_return": 38.59,
         "start_price": 186.5,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.06,
+        "pe_ratio": 14.75,
         "forward_return": 34.91,
         "start_price": 205.0,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 14.05,
+        "pe_ratio": 16.12,
         "forward_return": 30.3,
         "start_price": 228.0,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.48,
         "forward_return": 22.13,
         "start_price": 290.0,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.88,
+        "pe_ratio": 15.35,
         "forward_return": 28.05,
         "start_price": 240.0,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 16.2,
         "forward_return": 25.7,
         "start_price": 265.5,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 15.34,
         "forward_return": 27.92,
         "start_price": 267.0,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 15.83,
+        "pe_ratio": 16.24,
         "forward_return": 27.2,
         "start_price": 299.0,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 18.39,
         "forward_return": 16.02,
         "start_price": 394.0,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 17.67,
+        "pe_ratio": 20.22,
         "forward_return": 14.16,
         "start_price": 474.0,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 18.83,
+        "pe_ratio": 22.59,
         "forward_return": 7.19,
         "start_price": 575.0,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 21.22,
         "forward_return": 4.99,
         "start_price": 624.0,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 16.0,
         "forward_return": 9.29,
         "start_price": 534.0,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 13.37,
         "forward_return": 12.48,
         "start_price": 499.0,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 12.11,
         "forward_return": 7.99,
         "start_price": 511.0,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.55,
         "forward_return": 13.73,
         "start_price": 449.0,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 7.9,
         "forward_return": 15.91,
         "start_price": 410.0,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.36,
+        "pe_ratio": 7.44,
         "forward_return": 14.48,
         "start_price": 415.5,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.74,
+        "pe_ratio": 7.77,
         "forward_return": 9.1,
         "start_price": 465.5,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 7.55,
+        "pe_ratio": 7.06,
         "forward_return": 11.02,
         "start_price": 471.0,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.5,
+        "pe_ratio": 6.56,
         "forward_return": 13.39,
         "start_price": 456.5,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 5.88,
         "forward_return": 15.98,
         "start_price": 426.5,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 5.55,
         "forward_return": 17.07,
         "start_price": 398.5,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 7.2,
+        "pe_ratio": 5.71,
         "forward_return": 16.17,
         "start_price": 406.0,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.5,
+        "pe_ratio": 4.29,
         "forward_return": 30.12,
         "start_price": 302.0,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 4.96,
+        "pe_ratio": 4.01,
         "forward_return": 29.23,
         "start_price": 265.0,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 5.07,
+        "pe_ratio": 4.27,
         "forward_return": 26.38,
         "start_price": 263.5,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 4.34,
+        "pe_ratio": 3.82,
         "forward_return": 33.7,
         "start_price": 219.0,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.5,
         "forward_return": 26.68,
         "start_price": 241.0,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 6.29,
+        "pe_ratio": 6.0,
         "forward_return": 17.68,
         "start_price": 298.5,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.83,
+        "pe_ratio": 8.36,
         "forward_return": 9.96,
         "start_price": 355.0,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 9.12,
+        "pe_ratio": 10.46,
         "forward_return": 6.34,
         "start_price": 407.5,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 19.1,
+        "pe_ratio": 17.3,
         "forward_return": -13.67,
         "start_price": 230.5,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 15.74,
+        "pe_ratio": 14.28,
         "forward_return": -7.76,
         "start_price": 190.0,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.92,
         "forward_return": -9.88,
         "start_price": 185.0,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 11.83,
         "forward_return": -7.26,
         "start_price": 157.0,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.34,
+        "pe_ratio": 12.64,
         "forward_return": -8.93,
         "start_price": 161.0,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.27,
         "forward_return": -10.82,
         "start_price": 162.0,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.4,
         "forward_return": -7.5,
         "start_price": 156.5,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 13.34,
         "forward_return": -7.55,
         "start_price": 157.5,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 12.14,
         "forward_return": -4.02,
         "start_price": 145.0,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.38,
         "forward_return": -6.79,
         "start_price": 162.5,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.15,
+        "pe_ratio": 13.34,
         "forward_return": -7.98,
         "start_price": 163.0,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.64,
         "forward_return": -5.79,
         "start_price": 143.0,
         "start_year": 2007
@@ -10200,7 +10200,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.02,
         "forward_return": -8.92,
         "start_price": 165.0,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.89,
+        "pe_ratio": 12.71,
         "forward_return": -7.02,
         "start_price": 166.0,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 12.8,
         "forward_return": -8.88,
         "start_price": 172.0,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 11.19,
         "forward_return": -8.93,
         "start_price": 152.0,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 9.69,
         "forward_return": -6.91,
         "start_price": 133.0,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 10.61,
         "forward_return": -10.26,
         "start_price": 147.0,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.88,
+        "pe_ratio": 10.71,
         "forward_return": -9.86,
         "start_price": 149.0,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.24,
+        "pe_ratio": 9.16,
         "forward_return": -6.66,
         "start_price": 128.0,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.23,
+        "pe_ratio": 8.09,
         "forward_return": -0.47,
         "start_price": 110.0,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.77,
+        "pe_ratio": 8.47,
         "forward_return": 0.08,
         "start_price": 111.5,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 8.71,
         "forward_return": 0.62,
         "start_price": 111.0,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 10.3,
+        "pe_ratio": 9.54,
         "forward_return": -1.11,
         "start_price": 117.5,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 9.93,
         "forward_return": -1.2,
         "start_price": 118.0,
         "start_year": 2008
@@ -10326,7 +10326,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.7,
         "forward_return": 6.92,
         "start_price": 88.2,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.41,
+        "pe_ratio": 6.56,
         "forward_return": 11.32,
         "start_price": 70.0,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 6.92,
         "forward_return": 14.21,
         "start_price": 68.4,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 5.76,
+        "pe_ratio": 5.16,
         "forward_return": 28.0,
         "start_price": 46.9,
         "start_year": 2008
@@ -10362,7 +10362,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.53,
         "forward_return": 37.07,
         "start_price": 36.8,
         "start_year": 2008
@@ -10371,7 +10371,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 3.99,
         "forward_return": 48.04,
         "start_price": 28.5,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.49,
+        "pe_ratio": 5.89,
         "forward_return": 41.58,
         "start_price": 34.2,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.83,
+        "pe_ratio": 7.89,
         "forward_return": 35.33,
         "start_price": 42.9,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.12,
+        "pe_ratio": 10.14,
         "forward_return": 30.57,
         "start_price": 51.4,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.29,
         "forward_return": 24.06,
         "start_price": 69.2,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 14.78,
         "forward_return": 21.54,
         "start_price": 79.0,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 12.1,
+        "pe_ratio": 14.31,
         "forward_return": 20.52,
         "start_price": 78.4,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 16.71,
         "forward_return": 13.71,
         "start_price": 91.8,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 14.04,
         "forward_return": 17.13,
         "start_price": 77.3,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.46,
+        "pe_ratio": 13.77,
         "forward_return": 17.22,
         "start_price": 76.0,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.63,
         "forward_return": 16.36,
         "start_price": 75.0,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.99,
         "forward_return": 12.09,
         "start_price": 89.0,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 13.11,
         "forward_return": 10.87,
         "start_price": 94.3,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.03,
+        "pe_ratio": 11.87,
         "forward_return": 15.37,
         "start_price": 90.3,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 12.34,
         "forward_return": 12.84,
         "start_price": 99.0,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 13.64,
         "forward_return": 10.28,
         "start_price": 108.5,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 12.99,
+        "pe_ratio": 11.78,
         "forward_return": 17.04,
         "start_price": 93.0,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.12,
         "forward_return": 17.85,
         "start_price": 87.1,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.59,
+        "pe_ratio": 10.74,
         "forward_return": 20.06,
         "start_price": 84.7,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.63,
         "forward_return": 23.11,
         "start_price": 76.4,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.08,
         "forward_return": 18.16,
         "start_price": 88.5,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.28,
         "forward_return": 19.09,
         "start_price": 89.0,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.45,
         "forward_return": 19.38,
         "start_price": 97.0,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.84,
         "forward_return": 19.58,
         "start_price": 96.6,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 12.21,
+        "pe_ratio": 12.34,
         "forward_return": 20.43,
         "start_price": 90.8,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.04,
         "forward_return": 20.73,
         "start_price": 86.6,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.19,
+        "pe_ratio": 12.39,
         "forward_return": 20.26,
         "start_price": 87.5,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 17.92,
         "start_price": 98.0,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 13.6,
         "forward_return": 16.6,
         "start_price": 92.5,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.87,
+        "pe_ratio": 12.18,
         "forward_return": 14.91,
         "start_price": 80.7,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.78,
         "forward_return": 15.49,
         "start_price": 76.0,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.39,
         "forward_return": 15.94,
         "start_price": 71.5,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.94,
         "forward_return": 16.49,
         "start_price": 74.5,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.82,
         "forward_return": 18.53,
         "start_price": 73.3,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.82,
         "forward_return": 18.12,
         "start_price": 84.1,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.65,
         "forward_return": 16.87,
         "start_price": 88.0,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 13.92,
+        "pe_ratio": 15.16,
         "forward_return": 14.72,
         "start_price": 89.9,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 13.49,
+        "pe_ratio": 14.95,
         "forward_return": 11.99,
         "start_price": 88.5,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 14.99,
         "forward_return": 11.04,
         "start_price": 88.6,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.52,
+        "pe_ratio": 15.49,
         "forward_return": 12.36,
         "start_price": 91.4,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 14.34,
         "forward_return": 12.95,
         "start_price": 87.6,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 9.57,
         "start_price": 96.5,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 16.26,
         "forward_return": 7.41,
         "start_price": 106.0,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.18,
         "forward_return": 7.9,
         "start_price": 110.0,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 16.53,
         "forward_return": 3.95,
         "start_price": 117.0,
         "start_year": 2012
@@ -10821,7 +10821,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.88,
+        "pe_ratio": 15.67,
         "forward_return": 4.68,
         "start_price": 117.5,
         "start_year": 2013
@@ -10830,7 +10830,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 16.68,
+        "pe_ratio": 16.23,
         "forward_return": 4.09,
         "start_price": 124.0,
         "start_year": 2013
@@ -10839,7 +10839,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.65,
         "forward_return": 3.41,
         "start_price": 129.5,
         "start_year": 2013
@@ -10848,7 +10848,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 19.17,
+        "pe_ratio": 18.22,
         "forward_return": 0.45,
         "start_price": 144.0,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.0,
         "forward_return": -0.4,
         "start_price": 152.5,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.18,
+        "pe_ratio": 17.85,
         "forward_return": 1.36,
         "start_price": 145.5,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 16.32,
         "forward_return": 2.63,
         "start_price": 132.5,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.39,
         "forward_return": 4.68,
         "start_price": 124.5,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.91,
+        "pe_ratio": 15.2,
         "forward_return": 4.57,
         "start_price": 122.5,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.61,
         "forward_return": 5.35,
         "start_price": 116.5,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 15.37,
+        "pe_ratio": 15.14,
         "forward_return": 5.22,
         "start_price": 119.5,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 14.91,
+        "pe_ratio": 15.35,
         "forward_return": 6.19,
         "start_price": 121.5,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 16.39,
+        "pe_ratio": 17.32,
         "forward_return": 3.34,
         "start_price": 139.0,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.16,
         "forward_return": 4.21,
         "start_price": 139.5,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 15.23,
+        "pe_ratio": 16.57,
         "forward_return": 3.0,
         "start_price": 139.5,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 17.64,
         "forward_return": 2.21,
         "start_price": 153.5,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 16.35,
         "forward_return": 3.62,
         "start_price": 147.0,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 16.29,
         "forward_return": 4.14,
         "start_price": 154.0,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 15.48,
         "forward_return": 4.58,
         "start_price": 153.5,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.5,
         "forward_return": 5.17,
         "start_price": 150.5,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 14.05,
+        "pe_ratio": 14.44,
         "forward_return": 1.95,
         "start_price": 157.0,
         "start_year": 2014
@@ -11019,7 +11019,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.4,
         "forward_return": -1.75,
         "start_price": 175.0,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 14.95,
+        "pe_ratio": 14.53,
         "forward_return": 2.15,
         "start_price": 175.5,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.53,
+        "pe_ratio": 13.73,
         "forward_return": 4.83,
         "start_price": 169.0,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 12.92,
         "forward_return": 9.29,
         "start_price": 162.0,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.99,
         "forward_return": 9.87,
         "start_price": 161.0,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.68,
         "forward_return": 4.61,
         "start_price": 167.5,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 13.32,
+        "pe_ratio": 12.32,
         "forward_return": 8.45,
         "start_price": 149.0,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.64,
         "forward_return": 14.66,
         "start_price": 114.5,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.35,
         "forward_return": 18.91,
         "start_price": 109.0,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.49,
+        "pe_ratio": 9.0,
         "forward_return": 19.48,
         "start_price": 103.0,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 9.96,
         "forward_return": 19.7,
         "start_price": 111.0,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.15,
+        "pe_ratio": 10.94,
         "forward_return": 21.16,
         "start_price": 118.5,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 13.31,
+        "pe_ratio": 13.4,
         "forward_return": 16.11,
         "start_price": 137.5,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.8,
         "forward_return": 13.3,
         "start_price": 138.0,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.3,
         "forward_return": 12.02,
         "start_price": 129.5,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 11.73,
         "forward_return": 17.91,
         "start_price": 113.0,
         "start_year": 2016
@@ -11181,7 +11181,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.39,
         "forward_return": 21.56,
         "start_price": 108.5,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 12.69,
         "forward_return": 21.44,
         "start_price": 119.5,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.2,
+        "pe_ratio": 12.22,
         "forward_return": 30.36,
         "start_price": 112.0,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.18,
         "forward_return": 25.99,
         "start_price": 108.5,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 28.25,
         "start_price": 110.5,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 13.93,
         "forward_return": 26.18,
         "start_price": 118.5,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 12.6,
+        "pe_ratio": 12.67,
         "forward_return": 33.07,
         "start_price": 106.0,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.7,
         "forward_return": 40.24,
         "start_price": 110.5,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.53,
         "forward_return": 44.93,
         "start_price": 115.0,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.14,
         "forward_return": 50.85,
         "start_price": 117.5,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.09,
+        "pe_ratio": 15.04,
         "forward_return": 54.29,
         "start_price": 116.0,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 14.51,
+        "pe_ratio": 15.59,
         "forward_return": 47.61,
         "start_price": 119.5,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.93,
+        "pe_ratio": 16.14,
         "forward_return": 44.24,
         "start_price": 123.0,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.74,
         "forward_return": 48.08,
         "start_price": 115.0,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.71,
         "forward_return": 42.98,
         "start_price": 117.5,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.01,
         "forward_return": 40.96,
         "start_price": 114.5,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.6,
         "forward_return": 42.32,
         "start_price": 111.5,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 13.91,
         "forward_return": 45.1,
         "start_price": 114.5,
         "start_year": 2017
@@ -11361,7 +11361,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 14.83,
         "forward_return": 43.05,
         "start_price": 122.5,
         "start_year": 2018
@@ -11370,7 +11370,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 14.65,
+        "pe_ratio": 15.31,
         "forward_return": 40.89,
         "start_price": 126.5,
         "start_year": 2018
@@ -11379,7 +11379,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.02,
+        "pe_ratio": 16.04,
         "forward_return": 37.13,
         "start_price": 132.5,
         "start_year": 2018
@@ -11388,7 +11388,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.79,
         "forward_return": 37.01,
         "start_price": 125.0,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 14.74,
+        "pe_ratio": 15.68,
         "forward_return": 34.84,
         "start_price": 135.5,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 15.57,
         "forward_return": 25.77,
         "start_price": 137.5,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 16.47,
         "forward_return": 24.13,
         "start_price": 148.0,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 15.43,
+        "pe_ratio": 16.47,
         "forward_return": 23.48,
         "start_price": 150.5,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 15.19,
+        "pe_ratio": 16.25,
         "forward_return": 19.25,
         "start_price": 151.0,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 14.08,
         "forward_return": 24.45,
         "start_price": 136.5,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.61,
+        "pe_ratio": 12.88,
         "forward_return": 31.18,
         "start_price": 130.0,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.27,
         "forward_return": 29.28,
         "start_price": 158.0,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.66,
+        "pe_ratio": 14.68,
         "forward_return": 30.36,
         "start_price": 171.0,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 16.2,
         "forward_return": 27.17,
         "start_price": 198.0,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 16.09,
         "forward_return": 25.82,
         "start_price": 201.5,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 13.06,
         "forward_return": 32.22,
         "start_price": 167.5,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 13.18,
         "forward_return": 31.22,
         "start_price": 173.0,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.54,
         "forward_return": 34.21,
         "start_price": 166.0,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 13.94,
         "forward_return": 28.94,
         "start_price": 186.0,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 14.36,
+        "pe_ratio": 13.23,
         "forward_return": 31.83,
         "start_price": 178.0,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 14.73,
         "forward_return": 30.54,
         "start_price": 196.0,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 16.97,
         "forward_return": 29.35,
         "start_price": 223.5,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 16.57,
         "forward_return": 30.15,
         "start_price": 218.0,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.72,
         "forward_return": 38.32,
         "start_price": 195.5,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 12.83,
         "forward_return": 42.97,
         "start_price": 172.0,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 13.66,
         "forward_return": 40.78,
         "start_price": 186.5,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.06,
+        "pe_ratio": 14.75,
         "forward_return": 36.3,
         "start_price": 205.0,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 14.05,
+        "pe_ratio": 16.12,
         "forward_return": 33.33,
         "start_price": 228.0,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.48,
         "forward_return": 22.78,
         "start_price": 290.0,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.88,
+        "pe_ratio": 15.35,
         "forward_return": 29.55,
         "start_price": 240.0,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 16.2,
         "forward_return": 25.28,
         "start_price": 265.5,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 15.34,
         "forward_return": 24.38,
         "start_price": 267.0,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 15.83,
+        "pe_ratio": 16.24,
         "forward_return": 20.0,
         "start_price": 299.0,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 18.39,
         "forward_return": 13.77,
         "start_price": 394.0,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 17.67,
+        "pe_ratio": 20.22,
         "forward_return": 9.49,
         "start_price": 474.0,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 18.83,
+        "pe_ratio": 22.59,
         "forward_return": 4.32,
         "start_price": 575.0,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 21.22,
         "forward_return": 1.22,
         "start_price": 624.0,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 16.0,
         "forward_return": 5.12,
         "start_price": 534.0,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 13.37,
         "forward_return": 8.09,
         "start_price": 499.0,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 11.27,
+        "pe_ratio": 12.11,
         "forward_return": 5.1,
         "start_price": 511.0,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.55,
         "forward_return": 6.77,
         "start_price": 449.0,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 7.9,
         "forward_return": 8.82,
         "start_price": 410.0,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.36,
+        "pe_ratio": 7.44,
         "forward_return": 6.85,
         "start_price": 415.5,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.74,
+        "pe_ratio": 7.77,
         "forward_return": 3.68,
         "start_price": 465.5,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 7.55,
+        "pe_ratio": 7.06,
         "forward_return": 2.68,
         "start_price": 471.0,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 7.5,
+        "pe_ratio": 6.56,
         "forward_return": 4.36,
         "start_price": 456.5,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 19.1,
+        "pe_ratio": 17.3,
         "forward_return": -12.15,
         "start_price": 230.5,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 15.74,
+        "pe_ratio": 14.28,
         "forward_return": -8.55,
         "start_price": 190.0,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.92,
         "forward_return": -6.52,
         "start_price": 185.0,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 11.83,
         "forward_return": -4.22,
         "start_price": 157.0,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.34,
+        "pe_ratio": 12.64,
         "forward_return": -6.91,
         "start_price": 161.0,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.27,
         "forward_return": -7.81,
         "start_price": 162.0,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.4,
         "forward_return": -7.96,
         "start_price": 156.5,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 13.34,
         "forward_return": -7.55,
         "start_price": 157.5,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 12.14,
         "forward_return": -6.22,
         "start_price": 145.0,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.38,
         "forward_return": -6.53,
         "start_price": 162.5,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.15,
+        "pe_ratio": 13.34,
         "forward_return": -5.96,
         "start_price": 163.0,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.64,
         "forward_return": -3.16,
         "start_price": 143.0,
         "start_year": 2007
@@ -11928,7 +11928,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.02,
         "forward_return": -6.11,
         "start_price": 165.0,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.89,
+        "pe_ratio": 12.71,
         "forward_return": -6.21,
         "start_price": 166.0,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 12.8,
         "forward_return": -6.44,
         "start_price": 172.0,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 11.19,
         "forward_return": -5.25,
         "start_price": 152.0,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 9.69,
         "forward_return": -1.24,
         "start_price": 133.0,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 10.61,
         "forward_return": -1.77,
         "start_price": 147.0,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.88,
+        "pe_ratio": 10.71,
         "forward_return": -1.46,
         "start_price": 149.0,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.24,
+        "pe_ratio": 9.16,
         "forward_return": 2.59,
         "start_price": 128.0,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.23,
+        "pe_ratio": 8.09,
         "forward_return": 5.82,
         "start_price": 110.0,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.77,
+        "pe_ratio": 8.47,
         "forward_return": 7.09,
         "start_price": 111.5,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 8.71,
         "forward_return": 7.31,
         "start_price": 111.0,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 10.3,
+        "pe_ratio": 9.54,
         "forward_return": 7.98,
         "start_price": 117.5,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 9.93,
         "forward_return": 8.93,
         "start_price": 118.0,
         "start_year": 2008
@@ -12054,7 +12054,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.7,
         "forward_return": 14.55,
         "start_price": 88.2,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.41,
+        "pe_ratio": 6.56,
         "forward_return": 17.68,
         "start_price": 70.0,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 6.92,
         "forward_return": 17.01,
         "start_price": 68.4,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 5.76,
+        "pe_ratio": 5.16,
         "forward_return": 25.84,
         "start_price": 46.9,
         "start_year": 2008
@@ -12090,7 +12090,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.53,
         "forward_return": 31.01,
         "start_price": 36.8,
         "start_year": 2008
@@ -12099,7 +12099,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 3.99,
         "forward_return": 38.46,
         "start_price": 28.5,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.49,
+        "pe_ratio": 5.89,
         "forward_return": 33.87,
         "start_price": 34.2,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.83,
+        "pe_ratio": 7.89,
         "forward_return": 30.84,
         "start_price": 42.9,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.12,
+        "pe_ratio": 10.14,
         "forward_return": 26.27,
         "start_price": 51.4,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.29,
         "forward_return": 18.98,
         "start_price": 69.2,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 14.78,
         "forward_return": 17.77,
         "start_price": 79.0,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 12.1,
+        "pe_ratio": 14.31,
         "forward_return": 17.08,
         "start_price": 78.4,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 16.71,
         "forward_return": 14.54,
         "start_price": 91.8,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 14.04,
         "forward_return": 18.49,
         "start_price": 77.3,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.46,
+        "pe_ratio": 13.77,
         "forward_return": 18.49,
         "start_price": 76.0,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.63,
         "forward_return": 19.66,
         "start_price": 75.0,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.99,
         "forward_return": 17.81,
         "start_price": 89.0,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 13.11,
         "forward_return": 16.52,
         "start_price": 94.3,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.03,
+        "pe_ratio": 11.87,
         "forward_return": 16.77,
         "start_price": 90.3,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 12.34,
         "forward_return": 13.81,
         "start_price": 99.0,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 13.64,
         "forward_return": 11.62,
         "start_price": 108.5,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 12.99,
+        "pe_ratio": 11.78,
         "forward_return": 15.9,
         "start_price": 93.0,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.12,
         "forward_return": 15.11,
         "start_price": 87.1,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.59,
+        "pe_ratio": 10.74,
         "forward_return": 11.58,
         "start_price": 84.7,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.63,
         "forward_return": 13.04,
         "start_price": 76.4,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.08,
         "forward_return": 8.81,
         "start_price": 88.5,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.28,
         "forward_return": 9.95,
         "start_price": 89.0,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.45,
         "forward_return": 9.18,
         "start_price": 97.0,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.84,
         "forward_return": 11.9,
         "start_price": 96.6,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 12.21,
+        "pe_ratio": 12.34,
         "forward_return": 13.36,
         "start_price": 90.8,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.04,
         "forward_return": 13.27,
         "start_price": 86.6,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.19,
+        "pe_ratio": 12.39,
         "forward_return": 10.62,
         "start_price": 87.5,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 7.47,
         "start_price": 98.0,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 13.6,
         "forward_return": 10.36,
         "start_price": 92.5,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.87,
+        "pe_ratio": 12.18,
         "forward_return": 12.77,
         "start_price": 80.7,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.78,
         "forward_return": 13.58,
         "start_price": 76.0,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.39,
         "forward_return": 15.29,
         "start_price": 71.5,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.94,
         "forward_return": 15.58,
         "start_price": 74.5,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.82,
         "forward_return": 14.0,
         "start_price": 73.3,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.82,
         "forward_return": 11.61,
         "start_price": 84.1,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.65,
         "forward_return": 11.45,
         "start_price": 88.0,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 13.92,
+        "pe_ratio": 15.16,
         "forward_return": 11.18,
         "start_price": 89.9,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 13.49,
+        "pe_ratio": 14.95,
         "forward_return": 11.31,
         "start_price": 88.5,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 14.99,
         "forward_return": 11.79,
         "start_price": 88.6,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.52,
+        "pe_ratio": 15.49,
         "forward_return": 11.6,
         "start_price": 91.4,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 14.34,
         "forward_return": 11.74,
         "start_price": 87.6,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 9.96,
         "start_price": 96.5,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 16.26,
         "forward_return": 7.49,
         "start_price": 106.0,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.18,
         "forward_return": 6.27,
         "start_price": 110.0,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 16.53,
         "forward_return": 5.39,
         "start_price": 117.0,
         "start_year": 2012
@@ -12549,7 +12549,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.88,
+        "pe_ratio": 15.67,
         "forward_return": 6.38,
         "start_price": 117.5,
         "start_year": 2013
@@ -12558,7 +12558,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 16.68,
+        "pe_ratio": 16.23,
         "forward_return": 5.76,
         "start_price": 124.0,
         "start_year": 2013
@@ -12567,7 +12567,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.65,
         "forward_return": 5.61,
         "start_price": 129.5,
         "start_year": 2013
@@ -12576,7 +12576,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 19.17,
+        "pe_ratio": 18.22,
         "forward_return": 2.46,
         "start_price": 144.0,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.0,
         "forward_return": 2.57,
         "start_price": 152.5,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.18,
+        "pe_ratio": 17.85,
         "forward_return": 3.77,
         "start_price": 145.5,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 16.32,
         "forward_return": 7.15,
         "start_price": 132.5,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.39,
         "forward_return": 8.78,
         "start_price": 124.5,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.91,
+        "pe_ratio": 15.2,
         "forward_return": 9.19,
         "start_price": 122.5,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.61,
         "forward_return": 8.55,
         "start_price": 116.5,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 15.37,
+        "pe_ratio": 15.14,
         "forward_return": 7.19,
         "start_price": 119.5,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 14.91,
+        "pe_ratio": 15.35,
         "forward_return": 10.16,
         "start_price": 121.5,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 16.39,
+        "pe_ratio": 17.32,
         "forward_return": 8.61,
         "start_price": 139.0,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.16,
         "forward_return": 11.19,
         "start_price": 139.5,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 15.23,
+        "pe_ratio": 16.57,
         "forward_return": 11.52,
         "start_price": 139.5,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 17.64,
         "forward_return": 6.12,
         "start_price": 153.5,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 16.35,
         "forward_return": 7.61,
         "start_price": 147.0,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 16.29,
         "forward_return": 6.19,
         "start_price": 154.0,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 15.48,
         "forward_return": 8.23,
         "start_price": 153.5,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.5,
         "forward_return": 7.88,
         "start_price": 150.5,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 14.05,
+        "pe_ratio": 14.44,
         "forward_return": 8.67,
         "start_price": 157.0,
         "start_year": 2014
@@ -12747,7 +12747,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.4,
         "forward_return": 8.69,
         "start_price": 175.0,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 14.95,
+        "pe_ratio": 14.53,
         "forward_return": 8.17,
         "start_price": 175.5,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.53,
+        "pe_ratio": 13.73,
         "forward_return": 7.03,
         "start_price": 169.0,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 12.92,
         "forward_return": 5.71,
         "start_price": 162.0,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.99,
         "forward_return": 7.24,
         "start_price": 161.0,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.68,
         "forward_return": 8.07,
         "start_price": 167.5,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 13.32,
+        "pe_ratio": 12.32,
         "forward_return": 12.61,
         "start_price": 149.0,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.64,
         "forward_return": 23.75,
         "start_price": 114.5,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.35,
         "forward_return": 20.96,
         "start_price": 109.0,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.49,
+        "pe_ratio": 9.0,
         "forward_return": 24.47,
         "start_price": 103.0,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 9.96,
         "forward_return": 22.74,
         "start_price": 111.0,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.15,
+        "pe_ratio": 10.94,
         "forward_return": 23.56,
         "start_price": 118.5,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 13.31,
+        "pe_ratio": 13.4,
         "forward_return": 25.97,
         "start_price": 137.5,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.8,
         "forward_return": 34.29,
         "start_price": 138.0,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.3,
         "forward_return": 36.67,
         "start_price": 129.5,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 11.73,
         "forward_return": 42.61,
         "start_price": 113.0,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.39,
         "forward_return": 39.66,
         "start_price": 108.5,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 12.69,
         "forward_return": 35.28,
         "start_price": 119.5,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.2,
+        "pe_ratio": 12.22,
         "forward_return": 37.98,
         "start_price": 112.0,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.18,
         "forward_return": 35.64,
         "start_price": 108.5,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 32.96,
         "start_price": 110.5,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 13.93,
         "forward_return": 31.42,
         "start_price": 118.5,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 12.6,
+        "pe_ratio": 12.67,
         "forward_return": 37.16,
         "start_price": 106.0,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.7,
         "forward_return": 36.32,
         "start_price": 110.5,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.53,
         "forward_return": 34.47,
         "start_price": 115.0,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.14,
         "forward_return": 32.26,
         "start_price": 117.5,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.09,
+        "pe_ratio": 15.04,
         "forward_return": 31.0,
         "start_price": 116.0,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 14.51,
+        "pe_ratio": 15.59,
         "forward_return": 30.66,
         "start_price": 119.5,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.93,
+        "pe_ratio": 16.14,
         "forward_return": 23.34,
         "start_price": 123.0,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.74,
         "forward_return": 25.54,
         "start_price": 115.0,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.71,
         "forward_return": 24.89,
         "start_price": 117.5,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.01,
         "forward_return": 22.24,
         "start_price": 114.5,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.6,
         "forward_return": 24.58,
         "start_price": 111.5,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 13.91,
         "forward_return": 27.91,
         "start_price": 114.5,
         "start_year": 2017
@@ -13089,7 +13089,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 14.83,
         "forward_return": 29.64,
         "start_price": 122.5,
         "start_year": 2018
@@ -13098,7 +13098,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 14.65,
+        "pe_ratio": 15.31,
         "forward_return": 31.69,
         "start_price": 126.5,
         "start_year": 2018
@@ -13107,7 +13107,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.02,
+        "pe_ratio": 16.04,
         "forward_return": 31.71,
         "start_price": 132.5,
         "start_year": 2018
@@ -13116,7 +13116,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.79,
         "forward_return": 32.58,
         "start_price": 125.0,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 14.74,
+        "pe_ratio": 15.68,
         "forward_return": 30.82,
         "start_price": 135.5,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 15.57,
         "forward_return": 30.48,
         "start_price": 137.5,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 16.47,
         "forward_return": 29.9,
         "start_price": 148.0,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 15.43,
+        "pe_ratio": 16.47,
         "forward_return": 28.29,
         "start_price": 150.5,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 15.19,
+        "pe_ratio": 16.25,
         "forward_return": 29.34,
         "start_price": 151.0,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 14.08,
         "forward_return": 33.46,
         "start_price": 136.5,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.61,
+        "pe_ratio": 12.88,
         "forward_return": 37.31,
         "start_price": 130.0,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.27,
         "forward_return": 32.06,
         "start_price": 158.0,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.66,
+        "pe_ratio": 14.68,
         "forward_return": 33.48,
         "start_price": 171.0,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 16.2,
         "forward_return": 29.71,
         "start_price": 198.0,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 16.09,
         "forward_return": 29.75,
         "start_price": 201.5,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 13.06,
         "forward_return": 33.71,
         "start_price": 167.5,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 13.18,
         "forward_return": 33.33,
         "start_price": 173.0,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.54,
         "forward_return": 32.16,
         "start_price": 166.0,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 13.94,
         "forward_return": 29.83,
         "start_price": 186.0,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 14.36,
+        "pe_ratio": 13.23,
         "forward_return": 30.13,
         "start_price": 178.0,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 14.73,
         "forward_return": 27.07,
         "start_price": 196.0,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 16.97,
         "forward_return": 23.04,
         "start_price": 223.5,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 16.57,
         "forward_return": 25.19,
         "start_price": 218.0,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 14.72,
         "forward_return": 28.23,
         "start_price": 195.5,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 12.83,
         "forward_return": 32.09,
         "start_price": 172.0,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 12.3,
+        "pe_ratio": 13.66,
         "forward_return": 28.98,
         "start_price": 186.5,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.06,
+        "pe_ratio": 14.75,
         "forward_return": 26.45,
         "start_price": 205.0,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 14.05,
+        "pe_ratio": 16.12,
         "forward_return": 24.85,
         "start_price": 228.0,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 19.48,
         "forward_return": 17.12,
         "start_price": 290.0,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.88,
+        "pe_ratio": 15.35,
         "forward_return": 20.08,
         "start_price": 240.0,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 16.2,
         "forward_return": 17.34,
         "start_price": 265.5,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 14.55,
+        "pe_ratio": 15.34,
         "forward_return": 15.85,
         "start_price": 267.0,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 15.83,
+        "pe_ratio": 16.24,
         "forward_return": 13.11,
         "start_price": 299.0,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 17.04,
+        "pe_ratio": 18.39,
         "forward_return": 6.47,
         "start_price": 394.0,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 17.67,
+        "pe_ratio": 20.22,
         "forward_return": 3.28,
         "start_price": 474.0,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 19.1,
+        "pe_ratio": 17.3,
         "forward_return": -9.13,
         "start_price": 230.5,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 15.74,
+        "pe_ratio": 14.28,
         "forward_return": -6.33,
         "start_price": 190.0,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.92,
         "forward_return": -5.9,
         "start_price": 185.0,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 11.83,
         "forward_return": -2.94,
         "start_price": 157.0,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.34,
+        "pe_ratio": 12.64,
         "forward_return": -4.25,
         "start_price": 161.0,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.27,
         "forward_return": -3.24,
         "start_price": 162.0,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.4,
         "forward_return": -1.55,
         "start_price": 156.5,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 13.34,
         "forward_return": -1.2,
         "start_price": 157.5,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 12.14,
         "forward_return": 0.95,
         "start_price": 145.0,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.38,
         "forward_return": -0.9,
         "start_price": 162.5,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.15,
+        "pe_ratio": 13.34,
         "forward_return": -0.26,
         "start_price": 163.0,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.64,
         "forward_return": 2.51,
         "start_price": 143.0,
         "start_year": 2007
@@ -13548,7 +13548,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.02,
         "forward_return": 1.5,
         "start_price": 165.0,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.89,
+        "pe_ratio": 12.71,
         "forward_return": 2.18,
         "start_price": 166.0,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 12.8,
         "forward_return": 0.94,
         "start_price": 172.0,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 11.19,
         "forward_return": 1.53,
         "start_price": 152.0,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 9.69,
         "forward_return": 2.97,
         "start_price": 133.0,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 10.61,
         "forward_return": 1.05,
         "start_price": 147.0,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.88,
+        "pe_ratio": 10.71,
         "forward_return": 0.17,
         "start_price": 149.0,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.24,
+        "pe_ratio": 9.16,
         "forward_return": 3.08,
         "start_price": 128.0,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.23,
+        "pe_ratio": 8.09,
         "forward_return": 5.94,
         "start_price": 110.0,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.77,
+        "pe_ratio": 8.47,
         "forward_return": 7.55,
         "start_price": 111.5,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 8.71,
         "forward_return": 7.74,
         "start_price": 111.0,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 10.3,
+        "pe_ratio": 9.54,
         "forward_return": 6.72,
         "start_price": 117.5,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 9.93,
         "forward_return": 8.03,
         "start_price": 118.0,
         "start_year": 2008
@@ -13674,7 +13674,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.7,
         "forward_return": 12.74,
         "start_price": 88.2,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.41,
+        "pe_ratio": 6.56,
         "forward_return": 17.64,
         "start_price": 70.0,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 6.92,
         "forward_return": 18.04,
         "start_price": 68.4,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 5.76,
+        "pe_ratio": 5.16,
         "forward_return": 25.36,
         "start_price": 46.9,
         "start_year": 2008
@@ -13710,7 +13710,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.53,
         "forward_return": 31.3,
         "start_price": 36.8,
         "start_year": 2008
@@ -13719,7 +13719,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 3.99,
         "forward_return": 39.12,
         "start_price": 28.5,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.49,
+        "pe_ratio": 5.89,
         "forward_return": 35.01,
         "start_price": 34.2,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.83,
+        "pe_ratio": 7.89,
         "forward_return": 29.31,
         "start_price": 42.9,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.12,
+        "pe_ratio": 10.14,
         "forward_return": 24.73,
         "start_price": 51.4,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.29,
         "forward_return": 18.6,
         "start_price": 69.2,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 14.78,
         "forward_return": 16.65,
         "start_price": 79.0,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 12.1,
+        "pe_ratio": 14.31,
         "forward_return": 14.91,
         "start_price": 78.4,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 16.71,
         "forward_return": 8.71,
         "start_price": 91.8,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 14.04,
         "forward_return": 11.18,
         "start_price": 77.3,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.46,
+        "pe_ratio": 13.77,
         "forward_return": 10.72,
         "start_price": 76.0,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.63,
         "forward_return": 12.0,
         "start_price": 75.0,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.99,
         "forward_return": 9.75,
         "start_price": 89.0,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 13.11,
         "forward_return": 10.8,
         "start_price": 94.3,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.03,
+        "pe_ratio": 11.87,
         "forward_return": 11.66,
         "start_price": 90.3,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 12.34,
         "forward_return": 9.05,
         "start_price": 99.0,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 13.64,
         "forward_return": 5.54,
         "start_price": 108.5,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 12.99,
+        "pe_ratio": 11.78,
         "forward_return": 7.74,
         "start_price": 93.0,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.12,
         "forward_return": 10.26,
         "start_price": 87.1,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.59,
+        "pe_ratio": 10.74,
         "forward_return": 10.35,
         "start_price": 84.7,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.63,
         "forward_return": 11.83,
         "start_price": 76.4,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.08,
         "forward_return": 9.37,
         "start_price": 88.5,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.28,
         "forward_return": 10.21,
         "start_price": 89.0,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.45,
         "forward_return": 7.17,
         "start_price": 97.0,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.84,
         "forward_return": 7.79,
         "start_price": 96.6,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 12.21,
+        "pe_ratio": 12.34,
         "forward_return": 9.44,
         "start_price": 90.8,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.04,
         "forward_return": 10.6,
         "start_price": 86.6,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.19,
+        "pe_ratio": 12.39,
         "forward_return": 10.23,
         "start_price": 87.5,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 8.57,
         "start_price": 98.0,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 13.6,
         "forward_return": 10.01,
         "start_price": 92.5,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.87,
+        "pe_ratio": 12.18,
         "forward_return": 11.75,
         "start_price": 80.7,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.78,
         "forward_return": 13.17,
         "start_price": 76.0,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.39,
         "forward_return": 13.97,
         "start_price": 71.5,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.94,
         "forward_return": 12.82,
         "start_price": 74.5,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.82,
         "forward_return": 13.5,
         "start_price": 73.3,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.82,
         "forward_return": 11.85,
         "start_price": 84.1,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.65,
         "forward_return": 11.94,
         "start_price": 88.0,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 13.92,
+        "pe_ratio": 15.16,
         "forward_return": 11.71,
         "start_price": 89.9,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 13.49,
+        "pe_ratio": 14.95,
         "forward_return": 11.19,
         "start_price": 88.5,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 14.99,
         "forward_return": 12.3,
         "start_price": 88.6,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.52,
+        "pe_ratio": 15.49,
         "forward_return": 11.93,
         "start_price": 91.4,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 14.34,
         "forward_return": 14.04,
         "start_price": 87.6,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 12.46,
         "start_price": 96.5,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 16.26,
         "forward_return": 10.76,
         "start_price": 106.0,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.18,
         "forward_return": 8.68,
         "start_price": 110.0,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 16.53,
         "forward_return": 6.91,
         "start_price": 117.0,
         "start_year": 2012
@@ -14169,7 +14169,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.88,
+        "pe_ratio": 15.67,
         "forward_return": 9.52,
         "start_price": 117.5,
         "start_year": 2013
@@ -14178,7 +14178,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 16.68,
+        "pe_ratio": 16.23,
         "forward_return": 9.67,
         "start_price": 124.0,
         "start_year": 2013
@@ -14187,7 +14187,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.65,
         "forward_return": 11.04,
         "start_price": 129.5,
         "start_year": 2013
@@ -14196,7 +14196,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 19.17,
+        "pe_ratio": 18.22,
         "forward_return": 9.35,
         "start_price": 144.0,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.0,
         "forward_return": 5.66,
         "start_price": 152.5,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.18,
+        "pe_ratio": 17.85,
         "forward_return": 6.95,
         "start_price": 145.5,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 16.32,
         "forward_return": 8.31,
         "start_price": 132.5,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.39,
         "forward_return": 11.08,
         "start_price": 124.5,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.91,
+        "pe_ratio": 15.2,
         "forward_return": 10.74,
         "start_price": 122.5,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.61,
         "forward_return": 13.11,
         "start_price": 116.5,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 15.37,
+        "pe_ratio": 15.14,
         "forward_return": 14.65,
         "start_price": 119.5,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 14.91,
+        "pe_ratio": 15.35,
         "forward_return": 13.95,
         "start_price": 121.5,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 16.39,
+        "pe_ratio": 17.32,
         "forward_return": 9.79,
         "start_price": 139.0,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.16,
         "forward_return": 7.88,
         "start_price": 139.5,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 15.23,
+        "pe_ratio": 16.57,
         "forward_return": 9.03,
         "start_price": 139.5,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 17.64,
         "forward_return": 8.68,
         "start_price": 153.5,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 16.35,
         "forward_return": 11.06,
         "start_price": 147.0,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 16.29,
         "forward_return": 14.24,
         "start_price": 154.0,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 15.48,
         "forward_return": 11.34,
         "start_price": 153.5,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.5,
         "forward_return": 13.27,
         "start_price": 150.5,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 14.05,
+        "pe_ratio": 14.44,
         "forward_return": 12.56,
         "start_price": 157.0,
         "start_year": 2014
@@ -14367,7 +14367,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.4,
         "forward_return": 12.32,
         "start_price": 175.0,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 14.95,
+        "pe_ratio": 14.53,
         "forward_return": 16.83,
         "start_price": 175.5,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.53,
+        "pe_ratio": 13.73,
         "forward_return": 20.84,
         "start_price": 169.0,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 12.92,
         "forward_return": 25.31,
         "start_price": 162.0,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.99,
         "forward_return": 27.02,
         "start_price": 161.0,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.68,
         "forward_return": 23.22,
         "start_price": 167.5,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 13.32,
+        "pe_ratio": 12.32,
         "forward_return": 24.36,
         "start_price": 149.0,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.64,
         "forward_return": 30.62,
         "start_price": 114.5,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.35,
         "forward_return": 29.19,
         "start_price": 109.0,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.49,
+        "pe_ratio": 9.0,
         "forward_return": 28.69,
         "start_price": 103.0,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 9.96,
         "forward_return": 27.34,
         "start_price": 111.0,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.15,
+        "pe_ratio": 10.94,
         "forward_return": 28.09,
         "start_price": 118.5,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 13.31,
+        "pe_ratio": 13.4,
         "forward_return": 25.17,
         "start_price": 137.5,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.8,
         "forward_return": 22.94,
         "start_price": 138.0,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.3,
         "forward_return": 24.6,
         "start_price": 129.5,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 11.73,
         "forward_return": 26.21,
         "start_price": 113.0,
         "start_year": 2016
@@ -14529,7 +14529,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.39,
         "forward_return": 27.41,
         "start_price": 108.5,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 12.69,
         "forward_return": 20.18,
         "start_price": 119.5,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.2,
+        "pe_ratio": 12.22,
         "forward_return": 21.8,
         "start_price": 112.0,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.18,
         "forward_return": 22.36,
         "start_price": 108.5,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 19.36,
         "start_price": 110.5,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 13.93,
         "forward_return": 19.3,
         "start_price": 118.5,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 12.6,
+        "pe_ratio": 12.67,
         "forward_return": 24.73,
         "start_price": 106.0,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.7,
         "forward_return": 26.63,
         "start_price": 110.5,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.53,
         "forward_return": 28.1,
         "start_price": 115.0,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.14,
         "forward_return": 28.63,
         "start_price": 117.5,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.09,
+        "pe_ratio": 15.04,
         "forward_return": 28.37,
         "start_price": 116.0,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 14.51,
+        "pe_ratio": 15.59,
         "forward_return": 28.02,
         "start_price": 119.5,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.93,
+        "pe_ratio": 16.14,
         "forward_return": 27.45,
         "start_price": 123.0,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.74,
         "forward_return": 29.99,
         "start_price": 115.0,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.71,
         "forward_return": 28.55,
         "start_price": 117.5,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.01,
         "forward_return": 30.04,
         "start_price": 114.5,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.6,
         "forward_return": 31.83,
         "start_price": 111.5,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 13.91,
         "forward_return": 33.28,
         "start_price": 114.5,
         "start_year": 2017
@@ -14709,7 +14709,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 14.83,
         "forward_return": 31.79,
         "start_price": 122.5,
         "start_year": 2018
@@ -14718,7 +14718,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 14.65,
+        "pe_ratio": 15.31,
         "forward_return": 33.98,
         "start_price": 126.5,
         "start_year": 2018
@@ -14727,7 +14727,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.02,
+        "pe_ratio": 16.04,
         "forward_return": 33.03,
         "start_price": 132.5,
         "start_year": 2018
@@ -14736,7 +14736,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.79,
         "forward_return": 34.75,
         "start_price": 125.0,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 14.74,
+        "pe_ratio": 15.68,
         "forward_return": 32.2,
         "start_price": 135.5,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 15.57,
         "forward_return": 32.27,
         "start_price": 137.5,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 16.47,
         "forward_return": 28.88,
         "start_price": 148.0,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 15.43,
+        "pe_ratio": 16.47,
         "forward_return": 29.05,
         "start_price": 150.5,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 15.19,
+        "pe_ratio": 16.25,
         "forward_return": 28.29,
         "start_price": 151.0,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 14.08,
         "forward_return": 29.98,
         "start_price": 136.5,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.61,
+        "pe_ratio": 12.88,
         "forward_return": 30.4,
         "start_price": 130.0,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 14.27,
         "forward_return": 27.51,
         "start_price": 158.0,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.66,
+        "pe_ratio": 14.68,
         "forward_return": 26.48,
         "start_price": 171.0,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 16.2,
         "forward_return": 23.43,
         "start_price": 198.0,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 17.76,
+        "pe_ratio": 16.09,
         "forward_return": 22.3,
         "start_price": 201.5,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 13.06,
         "forward_return": 26.03,
         "start_price": 167.5,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.7,
+        "pe_ratio": 13.18,
         "forward_return": 26.24,
         "start_price": 173.0,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.54,
         "forward_return": 25.53,
         "start_price": 166.0,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 13.94,
         "forward_return": 21.87,
         "start_price": 186.0,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 14.36,
+        "pe_ratio": 13.23,
         "forward_return": 22.48,
         "start_price": 178.0,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 15.55,
+        "pe_ratio": 14.73,
         "forward_return": 19.38,
         "start_price": 196.0,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 17.43,
+        "pe_ratio": 16.97,
         "forward_return": 16.68,
         "start_price": 223.5,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.07,
+        "pe_ratio": 16.57,
         "forward_return": 16.66,
         "start_price": 218.0,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 19.1,
+        "pe_ratio": 17.3,
         "forward_return": -2.42,
         "start_price": 230.5,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 15.74,
+        "pe_ratio": 14.28,
         "forward_return": -0.03,
         "start_price": 190.0,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.92,
         "forward_return": 1.2,
         "start_price": 185.0,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 11.83,
         "forward_return": 2.88,
         "start_price": 157.0,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.34,
+        "pe_ratio": 12.64,
         "forward_return": 2.88,
         "start_price": 161.0,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.27,
         "forward_return": 2.77,
         "start_price": 162.0,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.4,
         "forward_return": 3.02,
         "start_price": 156.5,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 13.34,
         "forward_return": 3.35,
         "start_price": 157.5,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 12.14,
         "forward_return": 5.53,
         "start_price": 145.0,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.38,
         "forward_return": 4.07,
         "start_price": 162.5,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.15,
+        "pe_ratio": 13.34,
         "forward_return": 3.64,
         "start_price": 163.0,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.64,
         "forward_return": 4.92,
         "start_price": 143.0,
         "start_year": 2007
@@ -15051,7 +15051,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.02,
         "forward_return": 3.0,
         "start_price": 165.0,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.89,
+        "pe_ratio": 12.71,
         "forward_return": 3.32,
         "start_price": 166.0,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 12.8,
         "forward_return": 1.71,
         "start_price": 172.0,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 11.19,
         "forward_return": 1.0,
         "start_price": 152.0,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 9.69,
         "forward_return": 2.26,
         "start_price": 133.0,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 10.61,
         "forward_return": 0.51,
         "start_price": 147.0,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.88,
+        "pe_ratio": 10.71,
         "forward_return": 0.98,
         "start_price": 149.0,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.24,
+        "pe_ratio": 9.16,
         "forward_return": 3.5,
         "start_price": 128.0,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.23,
+        "pe_ratio": 8.09,
         "forward_return": 6.9,
         "start_price": 110.0,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.77,
+        "pe_ratio": 8.47,
         "forward_return": 6.75,
         "start_price": 111.5,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 8.71,
         "forward_return": 6.2,
         "start_price": 111.0,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 10.3,
+        "pe_ratio": 9.54,
         "forward_return": 4.18,
         "start_price": 117.5,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 9.93,
         "forward_return": 3.76,
         "start_price": 118.0,
         "start_year": 2008
@@ -15177,7 +15177,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.7,
         "forward_return": 8.51,
         "start_price": 88.2,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.41,
+        "pe_ratio": 6.56,
         "forward_return": 11.1,
         "start_price": 70.0,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 6.92,
         "forward_return": 11.12,
         "start_price": 68.4,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 5.76,
+        "pe_ratio": 5.16,
         "forward_return": 16.67,
         "start_price": 46.9,
         "start_year": 2008
@@ -15213,7 +15213,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.53,
         "forward_return": 20.99,
         "start_price": 36.8,
         "start_year": 2008
@@ -15222,7 +15222,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 3.99,
         "forward_return": 23.72,
         "start_price": 28.5,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.49,
+        "pe_ratio": 5.89,
         "forward_return": 21.37,
         "start_price": 34.2,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.83,
+        "pe_ratio": 7.89,
         "forward_return": 18.38,
         "start_price": 42.9,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.12,
+        "pe_ratio": 10.14,
         "forward_return": 15.96,
         "start_price": 51.4,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.29,
         "forward_return": 11.6,
         "start_price": 69.2,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 14.78,
         "forward_return": 10.05,
         "start_price": 79.0,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 12.1,
+        "pe_ratio": 14.31,
         "forward_return": 10.44,
         "start_price": 78.4,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 16.71,
         "forward_return": 7.85,
         "start_price": 91.8,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 14.04,
         "forward_return": 10.39,
         "start_price": 77.3,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.46,
+        "pe_ratio": 13.77,
         "forward_return": 10.38,
         "start_price": 76.0,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.63,
         "forward_return": 10.31,
         "start_price": 75.0,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.99,
         "forward_return": 8.22,
         "start_price": 89.0,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 13.11,
         "forward_return": 8.07,
         "start_price": 94.3,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.03,
+        "pe_ratio": 11.87,
         "forward_return": 8.97,
         "start_price": 90.3,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 12.34,
         "forward_return": 8.16,
         "start_price": 99.0,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 13.64,
         "forward_return": 6.38,
         "start_price": 108.5,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 12.99,
+        "pe_ratio": 11.78,
         "forward_return": 9.23,
         "start_price": 93.0,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.12,
         "forward_return": 10.28,
         "start_price": 87.1,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.59,
+        "pe_ratio": 10.74,
         "forward_return": 11.55,
         "start_price": 84.7,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.63,
         "forward_return": 13.17,
         "start_price": 76.4,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.08,
         "forward_return": 11.14,
         "start_price": 88.5,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.28,
         "forward_return": 10.06,
         "start_price": 89.0,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.45,
         "forward_return": 8.41,
         "start_price": 97.0,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.84,
         "forward_return": 10.39,
         "start_price": 96.6,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 12.21,
+        "pe_ratio": 12.34,
         "forward_return": 12.08,
         "start_price": 90.8,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.04,
         "forward_return": 14.35,
         "start_price": 86.6,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.19,
+        "pe_ratio": 12.39,
         "forward_return": 14.39,
         "start_price": 87.5,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 10.8,
         "start_price": 98.0,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 13.6,
         "forward_return": 11.94,
         "start_price": 92.5,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.87,
+        "pe_ratio": 12.18,
         "forward_return": 13.62,
         "start_price": 80.7,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.78,
         "forward_return": 15.7,
         "start_price": 76.0,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.39,
         "forward_return": 16.1,
         "start_price": 71.5,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.94,
         "forward_return": 16.57,
         "start_price": 74.5,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.82,
         "forward_return": 18.32,
         "start_price": 73.3,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.82,
         "forward_return": 16.02,
         "start_price": 84.1,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.65,
         "forward_return": 14.14,
         "start_price": 88.0,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 13.92,
+        "pe_ratio": 15.16,
         "forward_return": 12.47,
         "start_price": 89.9,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 13.49,
+        "pe_ratio": 14.95,
         "forward_return": 13.55,
         "start_price": 88.5,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 14.99,
         "forward_return": 14.57,
         "start_price": 88.6,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.52,
+        "pe_ratio": 15.49,
         "forward_return": 15.33,
         "start_price": 91.4,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 14.34,
         "forward_return": 19.07,
         "start_price": 87.6,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 15.42,
         "start_price": 96.5,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 16.26,
         "forward_return": 15.23,
         "start_price": 106.0,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.18,
         "forward_return": 14.76,
         "start_price": 110.0,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 16.53,
         "forward_return": 15.2,
         "start_price": 117.0,
         "start_year": 2012
@@ -15672,7 +15672,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.88,
+        "pe_ratio": 15.67,
         "forward_return": 18.54,
         "start_price": 117.5,
         "start_year": 2013
@@ -15681,7 +15681,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 16.68,
+        "pe_ratio": 16.23,
         "forward_return": 20.13,
         "start_price": 124.0,
         "start_year": 2013
@@ -15690,7 +15690,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.65,
         "forward_return": 22.08,
         "start_price": 129.5,
         "start_year": 2013
@@ -15699,7 +15699,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 19.17,
+        "pe_ratio": 18.22,
         "forward_return": 21.59,
         "start_price": 144.0,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.0,
         "forward_return": 18.63,
         "start_price": 152.5,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.18,
+        "pe_ratio": 17.85,
         "forward_return": 18.43,
         "start_price": 145.5,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 16.32,
         "forward_return": 20.4,
         "start_price": 132.5,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.39,
         "forward_return": 19.65,
         "start_price": 124.5,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.91,
+        "pe_ratio": 15.2,
         "forward_return": 18.74,
         "start_price": 122.5,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.61,
         "forward_return": 19.65,
         "start_price": 116.5,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 15.37,
+        "pe_ratio": 15.14,
         "forward_return": 20.73,
         "start_price": 119.5,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 14.91,
+        "pe_ratio": 15.35,
         "forward_return": 20.64,
         "start_price": 121.5,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 16.39,
+        "pe_ratio": 17.32,
         "forward_return": 18.22,
         "start_price": 139.0,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.16,
         "forward_return": 17.32,
         "start_price": 139.5,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 15.23,
+        "pe_ratio": 16.57,
         "forward_return": 16.47,
         "start_price": 139.5,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 17.64,
         "forward_return": 15.32,
         "start_price": 153.5,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 16.35,
         "forward_return": 12.46,
         "start_price": 147.0,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 16.29,
         "forward_return": 12.12,
         "start_price": 154.0,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 15.48,
         "forward_return": 12.11,
         "start_price": 153.5,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.5,
         "forward_return": 10.66,
         "start_price": 150.5,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 14.05,
+        "pe_ratio": 14.44,
         "forward_return": 10.95,
         "start_price": 157.0,
         "start_year": 2014
@@ -15870,7 +15870,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.4,
         "forward_return": 11.5,
         "start_price": 175.0,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 14.95,
+        "pe_ratio": 14.53,
         "forward_return": 13.24,
         "start_price": 175.5,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.53,
+        "pe_ratio": 13.73,
         "forward_return": 15.28,
         "start_price": 169.0,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 12.92,
         "forward_return": 16.53,
         "start_price": 162.0,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.99,
         "forward_return": 16.28,
         "start_price": 161.0,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.68,
         "forward_return": 15.89,
         "start_price": 167.5,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 13.32,
+        "pe_ratio": 12.32,
         "forward_return": 17.63,
         "start_price": 149.0,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.64,
         "forward_return": 22.23,
         "start_price": 114.5,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.35,
         "forward_return": 22.31,
         "start_price": 109.0,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.49,
+        "pe_ratio": 9.0,
         "forward_return": 23.83,
         "start_price": 103.0,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 9.96,
         "forward_return": 23.51,
         "start_price": 111.0,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.15,
+        "pe_ratio": 10.94,
         "forward_return": 23.89,
         "start_price": 118.5,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 13.31,
+        "pe_ratio": 13.4,
         "forward_return": 21.6,
         "start_price": 137.5,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 13.61,
+        "pe_ratio": 13.8,
         "forward_return": 23.51,
         "start_price": 138.0,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.3,
         "forward_return": 24.56,
         "start_price": 129.5,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 11.73,
         "forward_return": 27.0,
         "start_price": 113.0,
         "start_year": 2016
@@ -16032,7 +16032,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.39,
         "forward_return": 27.11,
         "start_price": 108.5,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 12.69,
         "forward_return": 25.86,
         "start_price": 119.5,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 12.2,
+        "pe_ratio": 12.22,
         "forward_return": 25.57,
         "start_price": 112.0,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.18,
         "forward_return": 26.46,
         "start_price": 108.5,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 25.67,
         "start_price": 110.5,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 13.93,
         "forward_return": 24.24,
         "start_price": 118.5,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 12.6,
+        "pe_ratio": 12.67,
         "forward_return": 25.53,
         "start_price": 106.0,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.7,
         "forward_return": 25.81,
         "start_price": 110.5,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 13.98,
+        "pe_ratio": 14.53,
         "forward_return": 25.65,
         "start_price": 115.0,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.14,
         "forward_return": 25.31,
         "start_price": 117.5,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 14.09,
+        "pe_ratio": 15.04,
         "forward_return": 24.93,
         "start_price": 116.0,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 14.51,
+        "pe_ratio": 15.59,
         "forward_return": 24.4,
         "start_price": 119.5,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.93,
+        "pe_ratio": 16.14,
         "forward_return": 24.6,
         "start_price": 123.0,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.74,
         "forward_return": 24.54,
         "start_price": 115.0,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.71,
         "forward_return": 23.25,
         "start_price": 117.5,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.01,
         "forward_return": 23.43,
         "start_price": 114.5,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 13.6,
         "forward_return": 22.98,
         "start_price": 111.5,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 13.87,
+        "pe_ratio": 13.91,
         "forward_return": 22.48,
         "start_price": 114.5,
         "start_year": 2017
@@ -16212,7 +16212,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.5,
+        "pe_ratio": 14.83,
         "forward_return": 21.07,
         "start_price": 122.5,
         "start_year": 2018
@@ -16221,7 +16221,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 14.65,
+        "pe_ratio": 15.31,
         "forward_return": 21.06,
         "start_price": 126.5,
         "start_year": 2018
@@ -16230,7 +16230,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 19.1,
+        "pe_ratio": 17.3,
         "forward_return": -1.63,
         "start_price": 230.5,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 15.74,
+        "pe_ratio": 14.28,
         "forward_return": -0.59,
         "start_price": 190.0,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 15.33,
+        "pe_ratio": 13.92,
         "forward_return": -0.58,
         "start_price": 185.0,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 11.83,
         "forward_return": 1.68,
         "start_price": 157.0,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.34,
+        "pe_ratio": 12.64,
         "forward_return": 1.07,
         "start_price": 161.0,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 13.42,
+        "pe_ratio": 13.27,
         "forward_return": 0.81,
         "start_price": 162.0,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.4,
         "forward_return": 1.27,
         "start_price": 156.5,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 13.05,
+        "pe_ratio": 13.34,
         "forward_return": 1.65,
         "start_price": 157.5,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 12.14,
         "forward_return": 1.78,
         "start_price": 145.0,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.38,
         "forward_return": 0.89,
         "start_price": 162.5,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.15,
+        "pe_ratio": 13.34,
         "forward_return": 1.11,
         "start_price": 163.0,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.64,
         "forward_return": 2.58,
         "start_price": 143.0,
         "start_year": 2007
@@ -16347,7 +16347,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.02,
         "forward_return": 1.04,
         "start_price": 165.0,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 12.89,
+        "pe_ratio": 12.71,
         "forward_return": 1.17,
         "start_price": 166.0,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.19,
+        "pe_ratio": 12.8,
         "forward_return": 1.0,
         "start_price": 172.0,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 11.19,
         "forward_return": 1.76,
         "start_price": 152.0,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.95,
+        "pe_ratio": 9.69,
         "forward_return": 3.27,
         "start_price": 133.0,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 10.61,
         "forward_return": 2.08,
         "start_price": 147.0,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.88,
+        "pe_ratio": 10.71,
         "forward_return": 1.77,
         "start_price": 149.0,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.24,
+        "pe_ratio": 9.16,
         "forward_return": 3.5,
         "start_price": 128.0,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 8.23,
+        "pe_ratio": 8.09,
         "forward_return": 5.54,
         "start_price": 110.0,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 8.77,
+        "pe_ratio": 8.47,
         "forward_return": 5.89,
         "start_price": 111.5,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 8.71,
         "forward_return": 5.99,
         "start_price": 111.0,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 10.3,
+        "pe_ratio": 9.54,
         "forward_return": 4.98,
         "start_price": 117.5,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 10.97,
+        "pe_ratio": 9.93,
         "forward_return": 5.5,
         "start_price": 118.0,
         "start_year": 2008
@@ -16473,7 +16473,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 7.7,
         "forward_return": 8.72,
         "start_price": 88.2,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.41,
+        "pe_ratio": 6.56,
         "forward_return": 11.75,
         "start_price": 70.0,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 6.92,
         "forward_return": 12.14,
         "start_price": 68.4,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 5.76,
+        "pe_ratio": 5.16,
         "forward_return": 16.48,
         "start_price": 46.9,
         "start_year": 2008
@@ -16509,7 +16509,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 4.92,
+        "pe_ratio": 4.53,
         "forward_return": 18.51,
         "start_price": 36.8,
         "start_year": 2008
@@ -16518,7 +16518,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 4.17,
+        "pe_ratio": 3.99,
         "forward_return": 21.18,
         "start_price": 28.5,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.49,
+        "pe_ratio": 5.89,
         "forward_return": 20.6,
         "start_price": 34.2,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.83,
+        "pe_ratio": 7.89,
         "forward_return": 18.57,
         "start_price": 42.9,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.12,
+        "pe_ratio": 10.14,
         "forward_return": 17.72,
         "start_price": 51.4,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 13.29,
         "forward_return": 14.42,
         "start_price": 69.2,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 14.78,
         "forward_return": 11.38,
         "start_price": 79.0,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 12.1,
+        "pe_ratio": 14.31,
         "forward_return": 11.73,
         "start_price": 78.4,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.06,
+        "pe_ratio": 16.71,
         "forward_return": 9.85,
         "start_price": 91.8,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.75,
+        "pe_ratio": 14.04,
         "forward_return": 12.67,
         "start_price": 77.3,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.46,
+        "pe_ratio": 13.77,
         "forward_return": 12.51,
         "start_price": 76.0,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 11.23,
+        "pe_ratio": 12.63,
         "forward_return": 13.45,
         "start_price": 75.0,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.99,
         "forward_return": 12.63,
         "start_price": 89.0,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 13.11,
         "forward_return": 11.77,
         "start_price": 94.3,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.03,
+        "pe_ratio": 11.87,
         "forward_return": 11.34,
         "start_price": 90.3,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 14.13,
+        "pe_ratio": 12.34,
         "forward_return": 9.3,
         "start_price": 99.0,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 13.64,
         "forward_return": 8.94,
         "start_price": 108.5,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 12.99,
+        "pe_ratio": 11.78,
         "forward_return": 11.4,
         "start_price": 93.0,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.12,
         "forward_return": 13.04,
         "start_price": 87.1,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.59,
+        "pe_ratio": 10.74,
         "forward_return": 15.71,
         "start_price": 84.7,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.63,
         "forward_return": 15.19,
         "start_price": 76.4,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 11.08,
         "forward_return": 14.4,
         "start_price": 88.5,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.81,
+        "pe_ratio": 11.28,
         "forward_return": 14.39,
         "start_price": 89.0,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.45,
         "forward_return": 14.43,
         "start_price": 97.0,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.84,
         "forward_return": 17.1,
         "start_price": 96.6,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 12.21,
+        "pe_ratio": 12.34,
         "forward_return": 19.7,
         "start_price": 90.8,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 11.85,
+        "pe_ratio": 12.04,
         "forward_return": 22.32,
         "start_price": 86.6,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 12.19,
+        "pe_ratio": 12.39,
         "forward_return": 23.08,
         "start_price": 87.5,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 14.14,
         "forward_return": 20.03,
         "start_price": 98.0,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 13.6,
         "forward_return": 20.01,
         "start_price": 92.5,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 11.87,
+        "pe_ratio": 12.18,
         "forward_return": 22.11,
         "start_price": 80.7,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.78,
         "forward_return": 21.51,
         "start_price": 76.0,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.93,
+        "pe_ratio": 11.39,
         "forward_return": 21.32,
         "start_price": 71.5,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 11.94,
         "forward_return": 20.96,
         "start_price": 74.5,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.82,
         "forward_return": 22.32,
         "start_price": 73.3,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.82,
         "forward_return": 20.77,
         "start_price": 84.1,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.65,
         "forward_return": 19.06,
         "start_price": 88.0,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 13.92,
+        "pe_ratio": 15.16,
         "forward_return": 18.97,
         "start_price": 89.9,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 13.49,
+        "pe_ratio": 14.95,
         "forward_return": 18.49,
         "start_price": 88.5,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 14.99,
         "forward_return": 18.66,
         "start_price": 88.6,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.52,
+        "pe_ratio": 15.49,
         "forward_return": 15.5,
         "start_price": 91.4,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 14.34,
         "forward_return": 16.29,
         "start_price": 87.6,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 15.29,
         "forward_return": 15.13,
         "start_price": 96.5,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 15.01,
+        "pe_ratio": 16.26,
         "forward_return": 12.69,
         "start_price": 106.0,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.18,
         "forward_return": 12.96,
         "start_price": 110.0,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 16.53,
         "forward_return": 13.89,
         "start_price": 117.0,
         "start_year": 2012
@@ -16968,7 +16968,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 15.88,
+        "pe_ratio": 15.67,
         "forward_return": 15.26,
         "start_price": 117.5,
         "start_year": 2013
@@ -16977,7 +16977,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 16.68,
+        "pe_ratio": 16.23,
         "forward_return": 15.82,
         "start_price": 124.0,
         "start_year": 2013
@@ -16986,7 +16986,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 17.33,
+        "pe_ratio": 16.65,
         "forward_return": 15.82,
         "start_price": 129.5,
         "start_year": 2013
@@ -16995,7 +16995,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 19.17,
+        "pe_ratio": 18.22,
         "forward_return": 14.33,
         "start_price": 144.0,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.0,
         "forward_return": 13.82,
         "start_price": 152.5,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.18,
+        "pe_ratio": 17.85,
         "forward_return": 14.38,
         "start_price": 145.5,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 17.38,
+        "pe_ratio": 16.32,
         "forward_return": 16.04,
         "start_price": 132.5,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 15.39,
         "forward_return": 16.27,
         "start_price": 124.5,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 15.91,
+        "pe_ratio": 15.2,
         "forward_return": 16.94,
         "start_price": 122.5,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.61,
         "forward_return": 18.14,
         "start_price": 116.5,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 15.37,
+        "pe_ratio": 15.14,
         "forward_return": 18.88,
         "start_price": 119.5,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 14.91,
+        "pe_ratio": 15.35,
         "forward_return": 18.68,
         "start_price": 121.5,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 16.39,
+        "pe_ratio": 17.32,
         "forward_return": 18.57,
         "start_price": 139.0,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 17.16,
         "forward_return": 18.57,
         "start_price": 139.5,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 15.23,
+        "pe_ratio": 16.57,
         "forward_return": 18.79,
         "start_price": 139.5,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 17.64,
         "forward_return": 17.27,
         "start_price": 153.5,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 14.95,
+        "pe_ratio": 16.35,
         "forward_return": 17.98,
         "start_price": 147.0,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 15.15,
+        "pe_ratio": 16.29,
         "forward_return": 16.53,
         "start_price": 154.0,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 15.48,
         "forward_return": 16.85,
         "start_price": 153.5,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 14.5,
         "forward_return": 16.72,
         "start_price": 150.5,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 14.05,
+        "pe_ratio": 14.44,
         "forward_return": 15.98,
         "start_price": 157.0,
         "start_year": 2014
@@ -17166,7 +17166,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.2,
+        "pe_ratio": 15.4,
         "forward_return": 14.41,
         "start_price": 175.0,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 14.95,
+        "pe_ratio": 14.53,
         "forward_return": 15.04,
         "start_price": 175.5,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 14.53,
+        "pe_ratio": 13.73,
         "forward_return": 15.81,
         "start_price": 169.0,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 14.07,
+        "pe_ratio": 12.92,
         "forward_return": 16.3,
         "start_price": 162.0,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 14.11,
+        "pe_ratio": 12.99,
         "forward_return": 15.95,
         "start_price": 161.0,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 13.68,
         "forward_return": 15.45,
         "start_price": 167.5,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 13.32,
+        "pe_ratio": 12.32,
         "forward_return": 17.28,
         "start_price": 149.0,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 9.64,
         "forward_return": 19.52,
         "start_price": 114.5,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.35,
         "forward_return": 19.39,
         "start_price": 109.0,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.49,
+        "pe_ratio": 9.0,
         "forward_return": 19.91,
         "start_price": 103.0,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 10.33,
+        "pe_ratio": 9.96,
         "forward_return": 18.37,
         "start_price": 111.0,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 11.15,
+        "pe_ratio": 10.94,
         "forward_return": 17.53,
         "start_price": 118.5,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 13.31,
+        "pe_ratio": 13.4,
         "forward_return": 15.51,
         "start_price": 137.5,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 8.1倍、11.5倍、13.5倍、15.0倍、16.3倍"
+!!! note "本益比河流帶水位: 8.1倍、11.9倍、13.7倍、15.4倍、16.4倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
       {
         "date": "2006-03-16",
         "price": 230.5,
-        "pe": 19.1,
-        "pe_10": 97.64,
-        "pe_25": 138.48,
-        "pe_50": 162.44,
-        "pe_75": 181.17,
-        "pe_90": 197.25
+        "pe": 17.3,
+        "pe_10": 107.54,
+        "pe_25": 158.02,
+        "pe_50": 182.4,
+        "pe_75": 205.09,
+        "pe_90": 218.36
       },
       {
         "date": "2006-04-15",
         "price": 190.0,
-        "pe": 15.74,
-        "pe_10": 97.67,
-        "pe_25": 138.52,
-        "pe_50": 162.48,
-        "pe_75": 181.22,
-        "pe_90": 197.3
+        "pe": 14.28,
+        "pe_10": 107.39,
+        "pe_25": 157.8,
+        "pe_50": 182.15,
+        "pe_75": 204.8,
+        "pe_90": 218.06
       },
       {
         "date": "2006-05-16",
         "price": 185.0,
-        "pe": 15.33,
-        "pe_10": 97.64,
-        "pe_25": 138.48,
-        "pe_50": 162.43,
-        "pe_75": 181.17,
-        "pe_90": 197.25
+        "pe": 13.92,
+        "pe_10": 107.27,
+        "pe_25": 157.62,
+        "pe_50": 181.94,
+        "pe_75": 204.57,
+        "pe_90": 217.81
       },
       {
         "date": "2006-06-15",
         "price": 157.0,
-        "pe": 13.01,
-        "pe_10": 97.64,
-        "pe_25": 138.48,
-        "pe_50": 162.43,
-        "pe_75": 181.17,
-        "pe_90": 197.25
+        "pe": 11.83,
+        "pe_10": 107.11,
+        "pe_25": 157.4,
+        "pe_50": 181.68,
+        "pe_75": 204.28,
+        "pe_90": 217.5
       },
       {
         "date": "2006-07-16",
         "price": 161.0,
-        "pe": 13.34,
-        "pe_10": 97.65,
-        "pe_25": 138.49,
-        "pe_50": 162.45,
-        "pe_75": 181.19,
-        "pe_90": 197.27
+        "pe": 12.64,
+        "pe_10": 102.8,
+        "pe_25": 151.06,
+        "pe_50": 174.37,
+        "pe_75": 196.06,
+        "pe_90": 208.75
       },
       {
         "date": "2006-08-16",
         "price": 162.0,
-        "pe": 13.42,
-        "pe_10": 97.67,
-        "pe_25": 138.52,
-        "pe_50": 162.48,
-        "pe_75": 181.22,
-        "pe_90": 197.31
+        "pe": 13.27,
+        "pe_10": 98.53,
+        "pe_25": 144.79,
+        "pe_50": 167.13,
+        "pe_75": 187.91,
+        "pe_90": 200.08
       },
       {
         "date": "2006-09-15",
         "price": 156.5,
-        "pe": 12.97,
-        "pe_10": 97.63,
-        "pe_25": 138.46,
-        "pe_50": 162.41,
-        "pe_75": 181.15,
-        "pe_90": 197.22
+        "pe": 13.4,
+        "pe_10": 94.26,
+        "pe_25": 138.51,
+        "pe_50": 159.89,
+        "pe_75": 179.77,
+        "pe_90": 191.41
       },
       {
         "date": "2006-10-16",
         "price": 157.5,
-        "pe": 13.05,
-        "pe_10": 97.65,
-        "pe_25": 138.49,
-        "pe_50": 162.45,
-        "pe_75": 181.19,
-        "pe_90": 197.27
+        "pe": 13.34,
+        "pe_10": 95.29,
+        "pe_25": 140.03,
+        "pe_50": 161.63,
+        "pe_75": 181.73,
+        "pe_90": 193.5
       },
       {
         "date": "2006-11-15",
         "price": 145.0,
-        "pe": 12.01,
-        "pe_10": 97.68,
-        "pe_25": 138.54,
-        "pe_50": 162.51,
-        "pe_75": 181.25,
-        "pe_90": 197.34
+        "pe": 12.14,
+        "pe_10": 96.4,
+        "pe_25": 141.66,
+        "pe_50": 163.51,
+        "pe_75": 183.85,
+        "pe_90": 195.75
       },
       {
         "date": "2006-12-16",
         "price": 147.5,
         "pe": 12.22,
-        "pe_10": 97.66,
-        "pe_25": 138.51,
-        "pe_50": 162.47,
-        "pe_75": 181.21,
-        "pe_90": 197.29
+        "pe_10": 97.42,
+        "pe_25": 143.15,
+        "pe_50": 165.24,
+        "pe_75": 185.79,
+        "pe_90": 197.82
       },
       {
         "date": "2007-01-16",
         "price": 162.5,
-        "pe": 13.28,
-        "pe_10": 99.01,
-        "pe_25": 140.41,
-        "pe_50": 164.7,
-        "pe_75": 183.7,
-        "pe_90": 200.0
+        "pe": 13.38,
+        "pe_10": 98.02,
+        "pe_25": 144.04,
+        "pe_50": 166.26,
+        "pe_75": 186.94,
+        "pe_90": 199.04
       },
       {
         "date": "2007-02-14",
         "price": 163.0,
-        "pe": 13.15,
-        "pe_10": 100.29,
-        "pe_25": 142.24,
-        "pe_50": 166.84,
-        "pe_75": 186.09,
-        "pe_90": 202.6
+        "pe": 13.34,
+        "pe_10": 98.62,
+        "pe_25": 144.92,
+        "pe_50": 167.28,
+        "pe_75": 188.08,
+        "pe_90": 200.26
       },
       {
         "date": "2007-03-16",
         "price": 143.0,
-        "pe": 11.39,
-        "pe_10": 101.58,
-        "pe_25": 144.07,
-        "pe_50": 168.99,
-        "pe_75": 188.48,
-        "pe_90": 205.21
+        "pe": 11.64,
+        "pe_10": 99.15,
+        "pe_25": 145.7,
+        "pe_50": 168.18,
+        "pe_75": 189.1,
+        "pe_90": 201.34
       },
       {
         "date": "2007-04-15",
         "price": 165.0,
-        "pe": 12.97,
-        "pe_10": 102.93,
-        "pe_25": 145.98,
-        "pe_50": 171.23,
-        "pe_75": 190.98,
-        "pe_90": 207.94
+        "pe": 13.02,
+        "pe_10": 102.28,
+        "pe_25": 150.3,
+        "pe_50": 173.49,
+        "pe_75": 195.07,
+        "pe_90": 207.69
       },
       {
         "date": "2007-05-16",
         "price": 166.0,
-        "pe": 12.89,
-        "pe_10": 104.2,
-        "pe_25": 147.78,
-        "pe_50": 173.34,
-        "pe_75": 193.33,
-        "pe_90": 210.49
+        "pe": 12.71,
+        "pe_10": 105.41,
+        "pe_25": 154.9,
+        "pe_50": 178.8,
+        "pe_75": 201.04,
+        "pe_90": 214.05
       },
       {
         "date": "2007-06-15",
         "price": 172.0,
-        "pe": 13.19,
-        "pe_10": 105.51,
-        "pe_25": 149.64,
-        "pe_50": 175.52,
-        "pe_75": 195.77,
-        "pe_90": 213.14
+        "pe": 12.8,
+        "pe_10": 108.45,
+        "pe_25": 159.37,
+        "pe_50": 183.96,
+        "pe_75": 206.84,
+        "pe_90": 220.23
       },
       {
         "date": "2007-07-16",
         "price": 152.0,
-        "pe": 11.51,
-        "pe_10": 106.85,
-        "pe_25": 151.54,
-        "pe_50": 177.75,
-        "pe_75": 198.25,
-        "pe_90": 215.85
+        "pe": 11.19,
+        "pe_10": 109.63,
+        "pe_25": 161.1,
+        "pe_50": 185.96,
+        "pe_75": 209.08,
+        "pe_90": 222.62
       },
       {
         "date": "2007-08-16",
         "price": 133.0,
-        "pe": 9.95,
-        "pe_10": 108.15,
-        "pe_25": 153.38,
-        "pe_50": 179.92,
-        "pe_75": 200.67,
-        "pe_90": 218.48
+        "pe": 9.69,
+        "pe_10": 110.78,
+        "pe_25": 162.78,
+        "pe_50": 187.9,
+        "pe_75": 211.27,
+        "pe_90": 224.95
       },
       {
         "date": "2007-09-15",
         "price": 147.0,
-        "pe": 10.86,
-        "pe_10": 109.52,
-        "pe_25": 155.32,
-        "pe_50": 182.19,
-        "pe_75": 203.21,
-        "pe_90": 221.24
+        "pe": 10.61,
+        "pe_10": 111.82,
+        "pe_25": 164.32,
+        "pe_50": 189.67,
+        "pe_75": 213.26,
+        "pe_90": 227.07
       },
       {
         "date": "2007-10-16",
         "price": 149.0,
-        "pe": 10.88,
-        "pe_10": 110.81,
-        "pe_25": 157.15,
-        "pe_50": 184.33,
-        "pe_75": 205.59,
-        "pe_90": 223.84
+        "pe": 10.71,
+        "pe_10": 112.29,
+        "pe_25": 165.0,
+        "pe_50": 190.46,
+        "pe_75": 214.14,
+        "pe_90": 228.01
       },
       {
         "date": "2007-11-15",
         "price": 128.0,
-        "pe": 9.24,
-        "pe_10": 112.08,
-        "pe_25": 158.96,
-        "pe_50": 186.46,
-        "pe_75": 207.97,
-        "pe_90": 226.42
+        "pe": 9.16,
+        "pe_10": 112.78,
+        "pe_25": 165.73,
+        "pe_50": 191.3,
+        "pe_75": 215.09,
+        "pe_90": 229.02
       },
       {
         "date": "2007-12-16",
         "price": 124.0,
         "pe": 8.84,
-        "pe_10": 113.49,
-        "pe_25": 160.96,
-        "pe_50": 188.81,
-        "pe_75": 210.58,
-        "pe_90": 229.27
+        "pe_10": 113.21,
+        "pe_25": 166.36,
+        "pe_50": 192.03,
+        "pe_75": 215.91,
+        "pe_90": 229.89
       },
       {
         "date": "2008-01-16",
         "price": 110.0,
-        "pe": 8.23,
-        "pe_10": 108.14,
-        "pe_25": 153.37,
-        "pe_50": 179.9,
-        "pe_75": 200.65,
-        "pe_90": 218.46
+        "pe": 8.09,
+        "pe_10": 109.74,
+        "pe_25": 161.26,
+        "pe_50": 186.14,
+        "pe_75": 209.29,
+        "pe_90": 222.84
       },
       {
         "date": "2008-02-15",
         "price": 111.5,
-        "pe": 8.77,
-        "pe_10": 102.87,
-        "pe_25": 145.89,
-        "pe_50": 171.13,
-        "pe_75": 190.87,
-        "pe_90": 207.81
+        "pe": 8.47,
+        "pe_10": 106.25,
+        "pe_25": 156.13,
+        "pe_50": 180.22,
+        "pe_75": 202.63,
+        "pe_90": 215.75
       },
       {
         "date": "2008-03-16",
         "price": 111.0,
-        "pe": 9.2,
-        "pe_10": 97.62,
-        "pe_25": 138.45,
-        "pe_50": 162.4,
-        "pe_75": 181.13,
-        "pe_90": 197.21
+        "pe": 8.71,
+        "pe_10": 102.86,
+        "pe_25": 151.14,
+        "pe_50": 174.46,
+        "pe_75": 196.16,
+        "pe_90": 208.86
       },
       {
         "date": "2008-04-15",
         "price": 117.5,
-        "pe": 10.3,
-        "pe_10": 92.3,
-        "pe_25": 130.9,
-        "pe_50": 153.55,
-        "pe_75": 171.26,
-        "pe_90": 186.46
+        "pe": 9.54,
+        "pe_10": 99.41,
+        "pe_25": 146.07,
+        "pe_50": 168.61,
+        "pe_75": 189.58,
+        "pe_90": 201.86
       },
       {
         "date": "2008-05-16",
         "price": 118.0,
-        "pe": 10.97,
-        "pe_10": 87.03,
-        "pe_25": 123.43,
-        "pe_50": 144.78,
-        "pe_75": 161.48,
-        "pe_90": 175.82
+        "pe": 9.93,
+        "pe_10": 95.91,
+        "pe_25": 140.93,
+        "pe_50": 162.68,
+        "pe_75": 182.91,
+        "pe_90": 194.75
       },
       {
         "date": "2008-06-15",
         "price": 88.2,
-        "pe": 8.73,
-        "pe_10": 81.74,
-        "pe_25": 115.93,
-        "pe_50": 135.99,
-        "pe_75": 151.67,
-        "pe_90": 165.14
+        "pe": 7.7,
+        "pe_10": 92.45,
+        "pe_25": 135.85,
+        "pe_50": 156.81,
+        "pe_75": 176.31,
+        "pe_90": 187.73
       },
       {
         "date": "2008-07-16",
         "price": 70.0,
-        "pe": 7.41,
-        "pe_10": 76.43,
-        "pe_25": 108.4,
-        "pe_50": 127.15,
-        "pe_75": 141.82,
-        "pe_90": 154.41
+        "pe": 6.56,
+        "pe_10": 86.12,
+        "pe_25": 126.55,
+        "pe_50": 146.08,
+        "pe_75": 164.25,
+        "pe_90": 174.88
       },
       {
         "date": "2008-08-16",
         "price": 68.4,
-        "pe": 7.78,
-        "pe_10": 71.13,
-        "pe_25": 100.89,
-        "pe_50": 118.34,
-        "pe_75": 131.99,
-        "pe_90": 143.7
+        "pe": 6.92,
+        "pe_10": 79.78,
+        "pe_25": 117.23,
+        "pe_50": 135.32,
+        "pe_75": 152.15,
+        "pe_90": 162.0
       },
       {
         "date": "2008-09-15",
         "price": 46.9,
-        "pe": 5.76,
-        "pe_10": 65.88,
-        "pe_25": 93.43,
-        "pe_50": 109.6,
-        "pe_75": 122.24,
-        "pe_90": 133.09
+        "pe": 5.16,
+        "pe_10": 73.36,
+        "pe_25": 107.8,
+        "pe_50": 124.43,
+        "pe_75": 139.9,
+        "pe_90": 148.96
       },
       {
         "date": "2008-10-16",
         "price": 36.8,
-        "pe": 4.92,
-        "pe_10": 60.52,
-        "pe_25": 85.83,
-        "pe_50": 100.68,
-        "pe_75": 112.29,
-        "pe_90": 122.26
+        "pe": 4.53,
+        "pe_10": 65.57,
+        "pe_25": 96.35,
+        "pe_50": 111.21,
+        "pe_75": 125.04,
+        "pe_90": 133.14
       },
       {
         "date": "2008-11-15",
         "price": 28.5,
-        "pe": 4.17,
-        "pe_10": 55.3,
-        "pe_25": 78.43,
-        "pe_50": 91.99,
-        "pe_75": 102.6,
-        "pe_90": 111.71
+        "pe": 3.99,
+        "pe_10": 57.65,
+        "pe_25": 84.71,
+        "pe_50": 97.79,
+        "pe_75": 109.95,
+        "pe_90": 117.06
       },
       {
         "date": "2008-12-16",
         "price": 31.1,
         "pe": 5.03,
-        "pe_10": 50.03,
-        "pe_25": 70.95,
-        "pe_50": 83.22,
-        "pe_75": 92.82,
-        "pe_90": 101.06
+        "pe_10": 49.9,
+        "pe_25": 73.33,
+        "pe_50": 84.64,
+        "pe_75": 95.17,
+        "pe_90": 101.33
       },
       {
         "date": "2009-01-16",
         "price": 34.2,
-        "pe": 5.49,
-        "pe_10": 50.4,
-        "pe_25": 71.48,
-        "pe_50": 83.85,
-        "pe_75": 93.52,
-        "pe_90": 101.82
+        "pe": 5.89,
+        "pe_10": 46.86,
+        "pe_25": 68.86,
+        "pe_50": 79.49,
+        "pe_75": 89.38,
+        "pe_90": 95.16
       },
       {
         "date": "2009-02-14",
         "price": 42.9,
-        "pe": 6.83,
-        "pe_10": 50.82,
-        "pe_25": 72.08,
-        "pe_50": 84.54,
-        "pe_75": 94.3,
-        "pe_90": 102.66
+        "pe": 7.89,
+        "pe_10": 43.88,
+        "pe_25": 64.49,
+        "pe_50": 74.44,
+        "pe_75": 83.69,
+        "pe_90": 89.11
       },
       {
         "date": "2009-03-16",
         "price": 51.4,
-        "pe": 8.12,
-        "pe_10": 51.22,
-        "pe_25": 72.64,
-        "pe_50": 85.2,
-        "pe_75": 95.03,
-        "pe_90": 103.46
+        "pe": 10.14,
+        "pe_10": 40.91,
+        "pe_25": 60.12,
+        "pe_50": 69.4,
+        "pe_75": 78.03,
+        "pe_90": 83.08
       },
       {
         "date": "2009-04-15",
         "price": 69.2,
-        "pe": 10.85,
-        "pe_10": 51.6,
-        "pe_25": 73.19,
-        "pe_50": 85.85,
-        "pe_75": 95.75,
-        "pe_90": 104.25
+        "pe": 13.29,
+        "pe_10": 42.03,
+        "pe_25": 61.75,
+        "pe_50": 71.28,
+        "pe_75": 80.15,
+        "pe_90": 85.34
       },
       {
         "date": "2009-05-16",
         "price": 79.0,
-        "pe": 12.29,
-        "pe_10": 52.01,
-        "pe_25": 73.76,
-        "pe_50": 86.52,
-        "pe_75": 96.5,
-        "pe_90": 105.07
+        "pe": 14.78,
+        "pe_10": 43.14,
+        "pe_25": 63.39,
+        "pe_50": 73.17,
+        "pe_75": 82.27,
+        "pe_90": 87.6
       },
       {
         "date": "2009-06-15",
         "price": 78.4,
-        "pe": 12.1,
-        "pe_10": 52.42,
-        "pe_25": 74.35,
-        "pe_50": 87.21,
-        "pe_75": 97.27,
-        "pe_90": 105.9
+        "pe": 14.31,
+        "pe_10": 44.22,
+        "pe_25": 64.98,
+        "pe_50": 75.0,
+        "pe_75": 84.33,
+        "pe_90": 89.79
       },
       {
         "date": "2009-07-16",
         "price": 91.8,
-        "pe": 14.06,
-        "pe_10": 52.83,
-        "pe_25": 74.92,
-        "pe_50": 87.88,
-        "pe_75": 98.02,
-        "pe_90": 106.72
+        "pe": 16.71,
+        "pe_10": 44.34,
+        "pe_25": 65.16,
+        "pe_50": 75.21,
+        "pe_75": 84.56,
+        "pe_90": 90.04
       },
       {
         "date": "2009-08-16",
         "price": 77.3,
-        "pe": 11.75,
-        "pe_10": 53.23,
-        "pe_25": 75.49,
-        "pe_50": 88.55,
-        "pe_75": 98.76,
-        "pe_90": 107.53
+        "pe": 14.04,
+        "pe_10": 44.44,
+        "pe_25": 65.3,
+        "pe_50": 75.37,
+        "pe_75": 84.75,
+        "pe_90": 90.23
       },
       {
         "date": "2009-09-15",
         "price": 76.0,
-        "pe": 11.46,
-        "pe_10": 53.66,
-        "pe_25": 76.1,
-        "pe_50": 89.26,
-        "pe_75": 99.56,
-        "pe_90": 108.4
+        "pe": 13.77,
+        "pe_10": 44.55,
+        "pe_25": 65.46,
+        "pe_50": 75.56,
+        "pe_75": 84.95,
+        "pe_90": 90.45
       },
       {
         "date": "2009-10-16",
         "price": 75.0,
-        "pe": 11.23,
-        "pe_10": 54.04,
-        "pe_25": 76.64,
-        "pe_50": 89.89,
-        "pe_75": 100.26,
-        "pe_90": 109.16
+        "pe": 12.63,
+        "pe_10": 47.93,
+        "pe_25": 70.43,
+        "pe_50": 81.29,
+        "pe_75": 91.4,
+        "pe_90": 97.32
       },
       {
         "date": "2009-11-15",
         "price": 89.0,
-        "pe": 13.22,
-        "pe_10": 54.47,
-        "pe_25": 77.25,
-        "pe_50": 90.62,
-        "pe_75": 101.07,
-        "pe_90": 110.04
+        "pe": 13.99,
+        "pe_10": 51.35,
+        "pe_25": 75.45,
+        "pe_50": 87.09,
+        "pe_75": 97.92,
+        "pe_90": 104.26
       },
       {
         "date": "2009-12-16",
         "price": 107.0,
         "pe": 15.78,
-        "pe_10": 54.86,
-        "pe_25": 77.81,
-        "pe_50": 91.27,
-        "pe_75": 101.8,
-        "pe_90": 110.83
+        "pe_10": 54.73,
+        "pe_25": 80.42,
+        "pe_50": 92.83,
+        "pe_75": 104.37,
+        "pe_90": 111.13
       },
       {
         "date": "2010-01-16",
         "price": 94.3,
-        "pe": 13.75,
-        "pe_10": 55.49,
-        "pe_25": 78.7,
-        "pe_50": 92.31,
-        "pe_75": 102.96,
-        "pe_90": 112.1
+        "pe": 13.11,
+        "pe_10": 58.05,
+        "pe_25": 85.31,
+        "pe_50": 98.47,
+        "pe_75": 110.72,
+        "pe_90": 117.89
       },
       {
         "date": "2010-02-14",
         "price": 90.3,
-        "pe": 13.03,
-        "pe_10": 56.07,
-        "pe_25": 79.52,
-        "pe_50": 93.28,
-        "pe_75": 104.04,
-        "pe_90": 113.27
+        "pe": 11.87,
+        "pe_10": 61.4,
+        "pe_25": 90.22,
+        "pe_50": 104.15,
+        "pe_75": 117.1,
+        "pe_90": 124.68
       },
       {
         "date": "2010-03-16",
         "price": 99.0,
-        "pe": 14.13,
-        "pe_10": 56.69,
-        "pe_25": 80.4,
-        "pe_50": 94.31,
-        "pe_75": 105.18,
-        "pe_90": 114.52
+        "pe": 12.34,
+        "pe_10": 64.75,
+        "pe_25": 95.15,
+        "pe_50": 109.83,
+        "pe_75": 123.49,
+        "pe_90": 131.48
       },
       {
         "date": "2010-04-15",
         "price": 108.5,
-        "pe": 15.32,
-        "pe_10": 57.3,
-        "pe_25": 81.27,
-        "pe_50": 95.33,
-        "pe_75": 106.32,
-        "pe_90": 115.76
+        "pe": 13.64,
+        "pe_10": 64.2,
+        "pe_25": 94.34,
+        "pe_50": 108.9,
+        "pe_75": 122.44,
+        "pe_90": 130.37
       },
       {
         "date": "2010-05-16",
         "price": 93.0,
-        "pe": 12.99,
-        "pe_10": 57.93,
-        "pe_25": 82.15,
-        "pe_50": 96.36,
-        "pe_75": 107.48,
-        "pe_90": 117.02
+        "pe": 11.78,
+        "pe_10": 63.72,
+        "pe_25": 93.63,
+        "pe_50": 108.08,
+        "pe_75": 121.52,
+        "pe_90": 129.39
       },
       {
         "date": "2010-06-15",
         "price": 87.1,
-        "pe": 12.04,
-        "pe_10": 58.53,
-        "pe_25": 83.01,
-        "pe_50": 97.37,
-        "pe_75": 108.6,
-        "pe_90": 118.24
+        "pe": 11.12,
+        "pe_10": 63.22,
+        "pe_25": 92.9,
+        "pe_50": 107.23,
+        "pe_75": 120.57,
+        "pe_90": 128.37
       },
       {
         "date": "2010-07-16",
         "price": 84.7,
-        "pe": 11.59,
-        "pe_10": 59.13,
-        "pe_25": 83.86,
-        "pe_50": 98.37,
-        "pe_75": 109.71,
-        "pe_90": 119.45
+        "pe": 10.74,
+        "pe_10": 63.65,
+        "pe_25": 93.53,
+        "pe_50": 107.96,
+        "pe_75": 121.39,
+        "pe_90": 129.25
       },
       {
         "date": "2010-08-16",
         "price": 76.4,
-        "pe": 10.34,
-        "pe_10": 59.78,
-        "pe_25": 84.79,
-        "pe_50": 99.45,
-        "pe_75": 110.92,
-        "pe_90": 120.77
+        "pe": 9.63,
+        "pe_10": 64.03,
+        "pe_25": 94.09,
+        "pe_50": 108.61,
+        "pe_75": 122.12,
+        "pe_90": 130.02
       },
       {
         "date": "2010-09-15",
         "price": 88.5,
-        "pe": 11.86,
-        "pe_10": 60.38,
-        "pe_25": 85.63,
-        "pe_50": 100.44,
-        "pe_75": 112.02,
-        "pe_90": 121.97
+        "pe": 11.08,
+        "pe_10": 64.47,
+        "pe_25": 94.73,
+        "pe_50": 109.35,
+        "pe_75": 122.95,
+        "pe_90": 130.9
       },
       {
         "date": "2010-10-16",
         "price": 89.0,
-        "pe": 11.81,
-        "pe_10": 60.97,
-        "pe_25": 86.48,
-        "pe_50": 101.43,
-        "pe_75": 113.13,
-        "pe_90": 123.18
+        "pe": 11.28,
+        "pe_10": 63.68,
+        "pe_25": 93.58,
+        "pe_50": 108.02,
+        "pe_75": 121.45,
+        "pe_90": 129.31
       },
       {
         "date": "2010-11-15",
         "price": 97.0,
-        "pe": 12.74,
-        "pe_10": 61.6,
-        "pe_25": 87.37,
-        "pe_50": 102.48,
-        "pe_75": 114.3,
-        "pe_90": 124.45
+        "pe": 12.45,
+        "pe_10": 62.88,
+        "pe_25": 92.4,
+        "pe_50": 106.66,
+        "pe_75": 119.93,
+        "pe_90": 127.69
       },
       {
         "date": "2010-12-16",
         "price": 94.0,
         "pe": 12.22,
-        "pe_10": 62.24,
-        "pe_25": 88.27,
-        "pe_50": 103.54,
-        "pe_75": 115.48,
-        "pe_90": 125.73
+        "pe_10": 62.08,
+        "pe_25": 91.23,
+        "pe_50": 105.31,
+        "pe_75": 118.4,
+        "pe_90": 126.07
       },
       {
         "date": "2011-01-16",
         "price": 96.6,
-        "pe": 12.77,
-        "pe_10": 61.21,
-        "pe_25": 86.8,
-        "pe_50": 101.82,
-        "pe_75": 113.56,
-        "pe_90": 123.64
+        "pe": 12.84,
+        "pe_10": 60.72,
+        "pe_25": 89.23,
+        "pe_50": 102.99,
+        "pe_75": 115.8,
+        "pe_90": 123.3
       },
       {
         "date": "2011-02-14",
         "price": 90.8,
-        "pe": 12.21,
-        "pe_10": 60.17,
-        "pe_25": 85.33,
-        "pe_50": 100.1,
-        "pe_75": 111.64,
-        "pe_90": 121.55
+        "pe": 12.34,
+        "pe_10": 59.39,
+        "pe_25": 87.27,
+        "pe_50": 100.73,
+        "pe_75": 113.26,
+        "pe_90": 120.59
       },
       {
         "date": "2011-03-16",
         "price": 86.6,
-        "pe": 11.85,
-        "pe_10": 59.13,
-        "pe_25": 83.86,
-        "pe_50": 98.37,
-        "pe_75": 109.71,
-        "pe_90": 119.45
+        "pe": 12.04,
+        "pe_10": 58.05,
+        "pe_25": 85.31,
+        "pe_50": 98.47,
+        "pe_75": 110.71,
+        "pe_90": 117.88
       },
       {
         "date": "2011-04-15",
         "price": 87.5,
-        "pe": 12.19,
-        "pe_10": 58.08,
-        "pe_25": 82.37,
-        "pe_50": 96.62,
-        "pe_75": 107.76,
-        "pe_90": 117.32
+        "pe": 12.39,
+        "pe_10": 57.0,
+        "pe_25": 83.76,
+        "pe_50": 96.68,
+        "pe_75": 108.7,
+        "pe_90": 115.74
       },
       {
         "date": "2011-05-16",
         "price": 98.0,
-        "pe": 13.9,
-        "pe_10": 57.04,
-        "pe_25": 80.9,
-        "pe_50": 94.9,
-        "pe_75": 105.84,
-        "pe_90": 115.24
+        "pe": 14.14,
+        "pe_10": 55.94,
+        "pe_25": 82.2,
+        "pe_50": 94.88,
+        "pe_75": 106.68,
+        "pe_90": 113.59
       },
       {
         "date": "2011-06-15",
         "price": 92.5,
-        "pe": 13.36,
-        "pe_10": 56.02,
-        "pe_25": 79.45,
-        "pe_50": 93.19,
-        "pe_75": 103.94,
-        "pe_90": 113.17
+        "pe": 13.6,
+        "pe_10": 54.89,
+        "pe_25": 80.67,
+        "pe_50": 93.11,
+        "pe_75": 104.69,
+        "pe_90": 111.47
       },
       {
         "date": "2011-07-16",
         "price": 80.7,
-        "pe": 11.87,
-        "pe_10": 55.01,
-        "pe_25": 78.01,
-        "pe_50": 91.51,
-        "pe_75": 102.06,
-        "pe_90": 111.12
+        "pe": 12.18,
+        "pe_10": 53.48,
+        "pe_25": 78.58,
+        "pe_50": 90.7,
+        "pe_75": 101.98,
+        "pe_90": 108.59
       },
       {
         "date": "2011-08-16",
         "price": 76.0,
-        "pe": 11.39,
-        "pe_10": 53.99,
-        "pe_25": 76.57,
-        "pe_50": 89.81,
-        "pe_75": 100.17,
-        "pe_90": 109.06
+        "pe": 11.78,
+        "pe_10": 52.07,
+        "pe_25": 76.52,
+        "pe_50": 88.32,
+        "pe_75": 99.31,
+        "pe_90": 105.74
       },
       {
         "date": "2011-09-15",
         "price": 71.5,
-        "pe": 10.93,
-        "pe_10": 52.93,
-        "pe_25": 75.07,
-        "pe_50": 88.05,
-        "pe_75": 98.21,
-        "pe_90": 106.92
+        "pe": 11.39,
+        "pe_10": 50.67,
+        "pe_25": 74.45,
+        "pe_50": 85.94,
+        "pe_75": 96.63,
+        "pe_90": 102.88
       },
       {
         "date": "2011-10-16",
         "price": 74.5,
-        "pe": 11.61,
-        "pe_10": 51.92,
-        "pe_25": 73.63,
-        "pe_50": 86.37,
-        "pe_75": 96.33,
-        "pe_90": 104.88
+        "pe": 11.94,
+        "pe_10": 50.36,
+        "pe_25": 74.0,
+        "pe_50": 85.42,
+        "pe_75": 96.04,
+        "pe_90": 102.26
       },
       {
         "date": "2011-11-15",
         "price": 73.3,
-        "pe": 11.66,
-        "pe_10": 50.86,
-        "pe_25": 72.14,
-        "pe_50": 84.62,
-        "pe_75": 94.38,
-        "pe_90": 102.75
+        "pe": 11.82,
+        "pe_10": 50.05,
+        "pe_25": 73.55,
+        "pe_50": 84.9,
+        "pe_75": 95.45,
+        "pe_90": 101.63
       },
       {
         "date": "2011-12-16",
         "price": 75.9,
         "pe": 12.32,
-        "pe_10": 49.85,
-        "pe_25": 70.69,
-        "pe_50": 82.92,
-        "pe_75": 92.49,
-        "pe_90": 100.7
+        "pe_10": 49.72,
+        "pe_25": 73.07,
+        "pe_50": 84.34,
+        "pe_75": 94.83,
+        "pe_90": 100.97
       },
       {
         "date": "2012-01-16",
         "price": 84.1,
-        "pe": 13.43,
-        "pe_10": 50.67,
-        "pe_25": 71.86,
-        "pe_50": 84.29,
-        "pe_75": 94.01,
-        "pe_90": 102.35
+        "pe": 13.82,
+        "pe_10": 49.12,
+        "pe_25": 72.17,
+        "pe_50": 83.31,
+        "pe_75": 93.67,
+        "pe_90": 99.73
       },
       {
         "date": "2012-02-15",
         "price": 88.0,
-        "pe": 13.84,
-        "pe_10": 51.45,
-        "pe_25": 72.96,
-        "pe_50": 85.58,
-        "pe_75": 95.46,
-        "pe_90": 103.93
+        "pe": 14.65,
+        "pe_10": 48.48,
+        "pe_25": 71.24,
+        "pe_50": 82.23,
+        "pe_75": 92.46,
+        "pe_90": 98.45
       },
       {
         "date": "2012-03-16",
         "price": 89.9,
-        "pe": 13.92,
-        "pe_10": 52.25,
-        "pe_25": 74.11,
-        "pe_50": 86.93,
-        "pe_75": 96.96,
-        "pe_90": 105.56
+        "pe": 15.16,
+        "pe_10": 47.86,
+        "pe_25": 70.33,
+        "pe_50": 81.18,
+        "pe_75": 91.28,
+        "pe_90": 97.19
       },
       {
         "date": "2012-04-15",
         "price": 88.5,
-        "pe": 13.49,
-        "pe_10": 53.08,
-        "pe_25": 75.28,
-        "pe_50": 88.3,
-        "pe_75": 98.49,
-        "pe_90": 107.23
+        "pe": 14.95,
+        "pe_10": 47.78,
+        "pe_25": 70.21,
+        "pe_50": 81.04,
+        "pe_75": 91.12,
+        "pe_90": 97.02
       },
       {
         "date": "2012-05-16",
         "price": 88.6,
-        "pe": 13.3,
-        "pe_10": 53.9,
-        "pe_25": 76.44,
-        "pe_50": 89.67,
-        "pe_75": 100.01,
-        "pe_90": 108.88
+        "pe": 14.99,
+        "pe_10": 47.7,
+        "pe_25": 70.1,
+        "pe_50": 80.92,
+        "pe_75": 90.98,
+        "pe_90": 96.87
       },
       {
         "date": "2012-06-15",
         "price": 91.4,
-        "pe": 13.52,
-        "pe_10": 54.7,
-        "pe_25": 77.58,
-        "pe_50": 90.99,
-        "pe_75": 101.49,
-        "pe_90": 110.5
+        "pe": 15.49,
+        "pe_10": 47.62,
+        "pe_25": 69.98,
+        "pe_50": 80.78,
+        "pe_75": 90.82,
+        "pe_90": 96.7
       },
       {
         "date": "2012-07-16",
         "price": 87.6,
-        "pe": 12.77,
-        "pe_10": 55.5,
-        "pe_25": 78.72,
-        "pe_50": 92.33,
-        "pe_75": 102.98,
-        "pe_90": 112.12
+        "pe": 14.34,
+        "pe_10": 49.3,
+        "pe_25": 72.45,
+        "pe_50": 83.63,
+        "pe_75": 94.03,
+        "pe_90": 100.12
       },
       {
         "date": "2012-08-16",
         "price": 96.5,
-        "pe": 13.86,
-        "pe_10": 56.33,
-        "pe_25": 79.89,
-        "pe_50": 93.72,
-        "pe_75": 104.52,
-        "pe_90": 113.8
+        "pe": 15.29,
+        "pe_10": 50.94,
+        "pe_25": 74.85,
+        "pe_50": 86.4,
+        "pe_75": 97.15,
+        "pe_90": 103.44
       },
       {
         "date": "2012-09-15",
         "price": 106.0,
-        "pe": 15.01,
-        "pe_10": 57.14,
-        "pe_25": 81.04,
-        "pe_50": 95.05,
-        "pe_75": 106.02,
-        "pe_90": 115.43
+        "pe": 16.26,
+        "pe_10": 52.62,
+        "pe_25": 77.32,
+        "pe_50": 89.25,
+        "pe_75": 100.34,
+        "pe_90": 106.84
       },
       {
         "date": "2012-10-16",
         "price": 110.0,
-        "pe": 15.36,
-        "pe_10": 57.94,
-        "pe_25": 82.18,
-        "pe_50": 96.39,
-        "pe_75": 107.51,
-        "pe_90": 117.05
+        "pe": 16.18,
+        "pe_10": 54.87,
+        "pe_25": 80.63,
+        "pe_50": 93.07,
+        "pe_75": 104.65,
+        "pe_90": 111.42
       },
       {
         "date": "2012-11-15",
         "price": 117.0,
-        "pe": 16.12,
-        "pe_10": 58.72,
-        "pe_25": 83.29,
-        "pe_50": 97.69,
-        "pe_75": 108.96,
-        "pe_90": 118.63
+        "pe": 16.53,
+        "pe_10": 57.13,
+        "pe_25": 83.95,
+        "pe_50": 96.9,
+        "pe_75": 108.95,
+        "pe_90": 116.0
       },
       {
         "date": "2012-12-16",
         "price": 117.5,
         "pe": 15.96,
-        "pe_10": 59.57,
-        "pe_25": 84.48,
-        "pe_50": 99.09,
-        "pe_75": 110.52,
-        "pe_90": 120.33
+        "pe_10": 59.42,
+        "pe_25": 87.32,
+        "pe_50": 100.79,
+        "pe_75": 113.32,
+        "pe_90": 120.66
       },
       {
         "date": "2013-01-16",
         "price": 117.5,
-        "pe": 15.88,
-        "pe_10": 59.87,
-        "pe_25": 84.91,
-        "pe_50": 99.59,
-        "pe_75": 111.08,
-        "pe_90": 120.94
+        "pe": 15.67,
+        "pe_10": 60.52,
+        "pe_25": 88.93,
+        "pe_50": 102.65,
+        "pe_75": 115.42,
+        "pe_90": 122.89
       },
       {
         "date": "2013-02-14",
         "price": 124.0,
-        "pe": 16.68,
-        "pe_10": 60.15,
-        "pe_25": 85.31,
-        "pe_50": 100.06,
-        "pe_75": 111.6,
-        "pe_90": 121.51
+        "pe": 16.23,
+        "pe_10": 61.66,
+        "pe_25": 90.61,
+        "pe_50": 104.59,
+        "pe_75": 117.6,
+        "pe_90": 125.21
       },
       {
         "date": "2013-03-16",
         "price": 129.5,
-        "pe": 17.33,
-        "pe_10": 60.46,
-        "pe_25": 85.75,
-        "pe_50": 100.58,
-        "pe_75": 112.18,
-        "pe_90": 122.14
+        "pe": 16.65,
+        "pe_10": 62.77,
+        "pe_25": 92.24,
+        "pe_50": 106.48,
+        "pe_75": 119.72,
+        "pe_90": 127.47
       },
       {
         "date": "2013-04-15",
         "price": 144.0,
-        "pe": 19.17,
-        "pe_10": 60.78,
-        "pe_25": 86.2,
-        "pe_50": 101.11,
-        "pe_75": 112.77,
-        "pe_90": 122.78
+        "pe": 18.22,
+        "pe_10": 63.79,
+        "pe_25": 93.73,
+        "pe_50": 108.2,
+        "pe_75": 121.65,
+        "pe_90": 129.53
       },
       {
         "date": "2013-05-16",
         "price": 152.5,
-        "pe": 20.21,
-        "pe_10": 61.05,
-        "pe_25": 86.59,
-        "pe_50": 101.57,
-        "pe_75": 113.28,
-        "pe_90": 123.34
+        "pe": 19.0,
+        "pe_10": 64.78,
+        "pe_25": 95.19,
+        "pe_50": 109.88,
+        "pe_75": 123.55,
+        "pe_90": 131.54
       },
       {
         "date": "2013-06-15",
         "price": 145.5,
-        "pe": 19.18,
-        "pe_10": 61.38,
-        "pe_25": 87.05,
-        "pe_50": 102.11,
-        "pe_75": 113.89,
-        "pe_90": 123.99
+        "pe": 17.85,
+        "pe_10": 65.79,
+        "pe_25": 96.67,
+        "pe_50": 111.59,
+        "pe_75": 125.47,
+        "pe_90": 133.59
       },
       {
         "date": "2013-07-16",
         "price": 132.5,
-        "pe": 17.38,
-        "pe_10": 61.68,
-        "pe_25": 87.48,
-        "pe_50": 102.62,
-        "pe_75": 114.45,
-        "pe_90": 124.61
+        "pe": 16.32,
+        "pe_10": 65.53,
+        "pe_25": 96.29,
+        "pe_50": 111.15,
+        "pe_75": 124.97,
+        "pe_90": 133.06
       },
       {
         "date": "2013-08-16",
         "price": 124.5,
-        "pe": 16.25,
-        "pe_10": 61.99,
-        "pe_25": 87.92,
-        "pe_50": 103.12,
-        "pe_75": 115.02,
-        "pe_90": 125.23
+        "pe": 15.39,
+        "pe_10": 65.29,
+        "pe_25": 95.94,
+        "pe_50": 110.75,
+        "pe_75": 124.52,
+        "pe_90": 132.58
       },
       {
         "date": "2013-09-15",
         "price": 122.5,
-        "pe": 15.91,
-        "pe_10": 62.3,
-        "pe_25": 88.35,
-        "pe_50": 103.64,
-        "pe_75": 115.59,
-        "pe_90": 125.85
+        "pe": 15.2,
+        "pe_10": 65.05,
+        "pe_25": 95.58,
+        "pe_50": 110.33,
+        "pe_75": 124.05,
+        "pe_90": 132.08
       },
       {
         "date": "2013-10-16",
         "price": 116.5,
-        "pe": 15.06,
-        "pe_10": 62.59,
-        "pe_25": 88.77,
-        "pe_50": 104.12,
-        "pe_75": 116.13,
-        "pe_90": 126.44
+        "pe": 14.61,
+        "pe_10": 64.36,
+        "pe_25": 94.57,
+        "pe_50": 109.16,
+        "pe_75": 122.74,
+        "pe_90": 130.69
       },
       {
         "date": "2013-11-15",
         "price": 119.5,
-        "pe": 15.37,
-        "pe_10": 62.91,
-        "pe_25": 89.22,
-        "pe_50": 104.65,
-        "pe_75": 116.72,
-        "pe_90": 127.08
+        "pe": 15.14,
+        "pe_10": 63.7,
+        "pe_25": 93.61,
+        "pe_50": 108.06,
+        "pe_75": 121.49,
+        "pe_90": 129.36
       },
       {
         "date": "2013-12-16",
         "price": 122.0,
         "pe": 15.62,
-        "pe_10": 63.19,
-        "pe_25": 89.63,
-        "pe_50": 105.13,
-        "pe_75": 117.26,
-        "pe_90": 127.66
+        "pe_10": 63.04,
+        "pe_25": 92.63,
+        "pe_50": 106.93,
+        "pe_75": 120.22,
+        "pe_90": 128.01
       },
       {
         "date": "2014-01-16",
         "price": 121.5,
-        "pe": 14.91,
-        "pe_10": 65.93,
-        "pe_25": 93.51,
-        "pe_50": 109.68,
-        "pe_75": 122.34,
-        "pe_90": 133.19
+        "pe": 15.35,
+        "pe_10": 63.88,
+        "pe_25": 93.88,
+        "pe_50": 108.36,
+        "pe_75": 121.84,
+        "pe_90": 129.72
       },
       {
         "date": "2014-02-14",
         "price": 139.0,
-        "pe": 16.39,
-        "pe_10": 68.62,
-        "pe_25": 97.32,
-        "pe_50": 114.15,
-        "pe_75": 127.32,
-        "pe_90": 138.62
+        "pe": 17.32,
+        "pe_10": 64.77,
+        "pe_25": 95.18,
+        "pe_50": 109.87,
+        "pe_75": 123.53,
+        "pe_90": 131.53
       },
       {
         "date": "2014-03-16",
         "price": 139.5,
-        "pe": 15.82,
-        "pe_10": 71.35,
-        "pe_25": 101.19,
-        "pe_50": 118.69,
-        "pe_75": 132.38,
-        "pe_90": 144.13
+        "pe": 17.16,
+        "pe_10": 65.61,
+        "pe_25": 96.41,
+        "pe_50": 111.29,
+        "pe_75": 125.13,
+        "pe_90": 133.23
       },
       {
         "date": "2014-04-15",
         "price": 139.5,
-        "pe": 15.23,
-        "pe_10": 74.11,
-        "pe_25": 105.11,
-        "pe_50": 123.29,
-        "pe_75": 137.51,
-        "pe_90": 149.71
+        "pe": 16.57,
+        "pe_10": 67.95,
+        "pe_25": 99.85,
+        "pe_50": 115.25,
+        "pe_75": 129.59,
+        "pe_90": 137.98
       },
       {
         "date": "2014-05-16",
         "price": 153.5,
-        "pe": 16.17,
-        "pe_10": 76.81,
-        "pe_25": 108.93,
-        "pe_50": 127.77,
-        "pe_75": 142.51,
-        "pe_90": 155.16
+        "pe": 17.64,
+        "pe_10": 70.23,
+        "pe_25": 103.2,
+        "pe_50": 119.13,
+        "pe_75": 133.94,
+        "pe_90": 142.61
       },
       {
         "date": "2014-06-15",
         "price": 147.0,
-        "pe": 14.95,
-        "pe_10": 79.56,
-        "pe_25": 112.83,
-        "pe_50": 132.35,
-        "pe_75": 147.61,
-        "pe_90": 160.72
+        "pe": 16.35,
+        "pe_10": 72.56,
+        "pe_25": 106.63,
+        "pe_50": 123.08,
+        "pe_75": 138.39,
+        "pe_90": 147.35
       },
       {
         "date": "2014-07-16",
         "price": 154.0,
-        "pe": 15.15,
-        "pe_10": 82.25,
-        "pe_25": 116.64,
-        "pe_50": 136.82,
-        "pe_75": 152.6,
-        "pe_90": 166.15
+        "pe": 16.29,
+        "pe_10": 76.3,
+        "pe_25": 112.12,
+        "pe_50": 129.42,
+        "pe_75": 145.52,
+        "pe_90": 154.94
       },
       {
         "date": "2014-08-16",
         "price": 153.5,
-        "pe": 14.61,
-        "pe_10": 85.01,
-        "pe_25": 120.56,
-        "pe_50": 141.42,
-        "pe_75": 157.73,
-        "pe_90": 171.73
+        "pe": 15.48,
+        "pe_10": 80.03,
+        "pe_25": 117.6,
+        "pe_50": 135.75,
+        "pe_75": 152.63,
+        "pe_90": 162.51
       },
       {
         "date": "2014-09-15",
         "price": 150.5,
-        "pe": 13.88,
-        "pe_10": 87.73,
-        "pe_25": 124.42,
-        "pe_50": 145.95,
-        "pe_75": 162.78,
-        "pe_90": 177.23
+        "pe": 14.5,
+        "pe_10": 83.77,
+        "pe_25": 123.1,
+        "pe_50": 142.09,
+        "pe_75": 159.76,
+        "pe_90": 170.11
       },
       {
         "date": "2014-10-16",
         "price": 157.0,
-        "pe": 14.05,
-        "pe_10": 90.41,
-        "pe_25": 128.23,
-        "pe_50": 150.41,
-        "pe_75": 167.76,
-        "pe_90": 182.65
+        "pe": 14.44,
+        "pe_10": 87.75,
+        "pe_25": 128.95,
+        "pe_50": 148.85,
+        "pe_75": 167.36,
+        "pe_90": 178.19
       },
       {
         "date": "2014-11-15",
         "price": 175.0,
-        "pe": 15.2,
-        "pe_10": 93.15,
-        "pe_25": 132.11,
-        "pe_50": 154.97,
-        "pe_75": 172.84,
-        "pe_90": 188.18
+        "pe": 15.4,
+        "pe_10": 91.72,
+        "pe_25": 134.77,
+        "pe_50": 155.57,
+        "pe_75": 174.91,
+        "pe_90": 186.24
       },
       {
         "date": "2014-12-16",
         "price": 178.0,
         "pe": 15.02,
-        "pe_10": 95.89,
-        "pe_25": 135.99,
-        "pe_50": 159.51,
-        "pe_75": 177.91,
-        "pe_90": 193.7
+        "pe_10": 95.65,
+        "pe_25": 140.55,
+        "pe_50": 162.24,
+        "pe_75": 182.41,
+        "pe_90": 194.22
       },
       {
         "date": "2015-01-16",
         "price": 175.5,
-        "pe": 14.95,
-        "pe_10": 94.98,
-        "pe_25": 134.71,
-        "pe_50": 158.01,
-        "pe_75": 176.23,
-        "pe_90": 191.88
+        "pe": 14.53,
+        "pe_10": 97.49,
+        "pe_25": 143.25,
+        "pe_50": 165.35,
+        "pe_75": 185.92,
+        "pe_90": 197.95
       },
       {
         "date": "2015-02-14",
         "price": 169.0,
-        "pe": 14.53,
-        "pe_10": 94.11,
-        "pe_25": 133.47,
-        "pe_50": 156.55,
-        "pe_75": 174.61,
-        "pe_90": 190.11
+        "pe": 13.73,
+        "pe_10": 99.34,
+        "pe_25": 145.98,
+        "pe_50": 168.51,
+        "pe_75": 189.46,
+        "pe_90": 201.73
       },
       {
         "date": "2015-03-16",
         "price": 162.0,
-        "pe": 14.07,
-        "pe_10": 93.16,
-        "pe_25": 132.12,
-        "pe_50": 154.98,
-        "pe_75": 172.85,
-        "pe_90": 188.19
+        "pe": 12.92,
+        "pe_10": 101.2,
+        "pe_25": 148.71,
+        "pe_50": 171.65,
+        "pe_75": 193.0,
+        "pe_90": 205.5
       },
       {
         "date": "2015-04-15",
         "price": 161.0,
-        "pe": 14.11,
-        "pe_10": 92.32,
-        "pe_25": 130.93,
-        "pe_50": 153.58,
-        "pe_75": 171.3,
-        "pe_90": 186.5
+        "pe": 12.99,
+        "pe_10": 100.03,
+        "pe_25": 146.99,
+        "pe_50": 169.68,
+        "pe_75": 190.78,
+        "pe_90": 203.13
       },
       {
         "date": "2015-05-16",
         "price": 167.5,
-        "pe": 14.83,
-        "pe_10": 91.39,
-        "pe_25": 129.61,
-        "pe_50": 152.03,
-        "pe_75": 169.56,
-        "pe_90": 184.61
+        "pe": 13.68,
+        "pe_10": 98.82,
+        "pe_25": 145.22,
+        "pe_50": 167.62,
+        "pe_75": 188.47,
+        "pe_90": 200.67
       },
       {
         "date": "2015-06-15",
         "price": 149.0,
-        "pe": 13.32,
-        "pe_10": 90.51,
-        "pe_25": 128.36,
-        "pe_50": 150.57,
-        "pe_75": 167.93,
-        "pe_90": 182.84
+        "pe": 12.32,
+        "pe_10": 97.61,
+        "pe_25": 143.44,
+        "pe_50": 165.57,
+        "pe_75": 186.16,
+        "pe_90": 198.21
       },
       {
         "date": "2015-07-16",
         "price": 114.5,
-        "pe": 10.34,
-        "pe_10": 89.6,
-        "pe_25": 127.07,
-        "pe_50": 149.05,
-        "pe_75": 166.24,
-        "pe_90": 181.0
+        "pe": 9.64,
+        "pe_10": 95.86,
+        "pe_25": 140.87,
+        "pe_50": 162.6,
+        "pe_75": 182.83,
+        "pe_90": 194.66
       },
       {
         "date": "2015-08-16",
         "price": 109.0,
-        "pe": 9.94,
-        "pe_10": 88.72,
-        "pe_25": 125.83,
-        "pe_50": 147.6,
-        "pe_75": 164.62,
-        "pe_90": 179.24
+        "pe": 9.35,
+        "pe_10": 94.09,
+        "pe_25": 138.26,
+        "pe_50": 159.59,
+        "pe_75": 179.44,
+        "pe_90": 191.06
       },
       {
         "date": "2015-09-15",
         "price": 103.0,
-        "pe": 9.49,
-        "pe_10": 87.82,
-        "pe_25": 124.54,
-        "pe_50": 146.09,
-        "pe_75": 162.94,
-        "pe_90": 177.4
+        "pe": 9.0,
+        "pe_10": 92.37,
+        "pe_25": 135.73,
+        "pe_50": 156.67,
+        "pe_75": 176.16,
+        "pe_90": 187.56
       },
       {
         "date": "2015-10-16",
         "price": 111.0,
-        "pe": 10.33,
-        "pe_10": 86.94,
-        "pe_25": 123.3,
-        "pe_50": 144.63,
-        "pe_75": 161.32,
-        "pe_90": 175.63
+        "pe": 9.96,
+        "pe_10": 89.95,
+        "pe_25": 132.17,
+        "pe_50": 152.57,
+        "pe_75": 171.54,
+        "pe_90": 182.65
       },
       {
         "date": "2015-11-15",
         "price": 118.5,
-        "pe": 11.15,
-        "pe_10": 85.99,
-        "pe_25": 121.95,
-        "pe_50": 143.05,
-        "pe_75": 159.55,
-        "pe_90": 173.71
+        "pe": 10.94,
+        "pe_10": 87.42,
+        "pe_25": 128.47,
+        "pe_50": 148.29,
+        "pe_75": 166.73,
+        "pe_90": 177.52
       },
       {
         "date": "2015-12-16",
         "price": 129.0,
         "pe": 12.26,
-        "pe_10": 85.13,
-        "pe_25": 120.74,
-        "pe_50": 141.63,
-        "pe_75": 157.96,
-        "pe_90": 171.98
+        "pe_10": 84.92,
+        "pe_25": 124.79,
+        "pe_50": 144.05,
+        "pe_75": 161.96,
+        "pe_90": 172.45
       },
       {
         "date": "2016-01-16",
         "price": 137.5,
-        "pe": 13.31,
-        "pe_10": 83.58,
-        "pe_25": 118.54,
-        "pe_50": 139.05,
-        "pe_75": 155.09,
-        "pe_90": 168.85
+        "pe": 13.4,
+        "pe_10": 82.82,
+        "pe_25": 121.7,
+        "pe_50": 140.48,
+        "pe_75": 157.95,
+        "pe_90": 168.17
       },
       {
         "date": "2016-02-15",
         "price": 138.0,
-        "pe": 13.61,
-        "pe_10": 82.04,
-        "pe_25": 116.35,
-        "pe_50": 136.48,
-        "pe_75": 152.22,
-        "pe_90": 165.73
+        "pe": 13.8,
+        "pe_10": 80.71,
+        "pe_25": 118.6,
+        "pe_50": 136.9,
+        "pe_75": 153.93,
+        "pe_90": 163.89
       },
       {
         "date": "2016-03-16",
         "price": 129.5,
-        "pe": 13.02,
-        "pe_10": 80.47,
-        "pe_25": 114.13,
-        "pe_50": 133.88,
-        "pe_75": 149.32,
-        "pe_90": 162.57
+        "pe": 13.3,
+        "pe_10": 78.59,
+        "pe_25": 115.48,
+        "pe_50": 133.3,
+        "pe_75": 149.87,
+        "pe_90": 159.58
       },
       {
         "date": "2016-04-15",
         "price": 113.0,
-        "pe": 11.59,
-        "pe_10": 78.89,
-        "pe_25": 111.88,
-        "pe_50": 131.23,
-        "pe_75": 146.37,
-        "pe_90": 159.36
+        "pe": 11.73,
+        "pe_10": 77.75,
+        "pe_25": 114.25,
+        "pe_50": 131.88,
+        "pe_75": 148.28,
+        "pe_90": 157.88
       },
       {
         "date": "2016-05-16",
         "price": 108.5,
-        "pe": 11.35,
-        "pe_10": 77.35,
-        "pe_25": 109.69,
-        "pe_50": 128.67,
-        "pe_75": 143.51,
-        "pe_90": 156.25
+        "pe": 11.39,
+        "pe_10": 76.88,
+        "pe_25": 112.98,
+        "pe_50": 130.41,
+        "pe_75": 146.63,
+        "pe_90": 156.12
       },
       {
         "date": "2016-06-15",
         "price": 119.5,
-        "pe": 12.75,
-        "pe_10": 75.83,
-        "pe_25": 107.55,
-        "pe_50": 126.15,
-        "pe_75": 140.71,
-        "pe_90": 153.19
+        "pe": 12.69,
+        "pe_10": 76.0,
+        "pe_25": 111.68,
+        "pe_50": 128.92,
+        "pe_75": 144.95,
+        "pe_90": 154.33
       },
       {
         "date": "2016-07-16",
         "price": 112.0,
-        "pe": 12.2,
-        "pe_10": 74.28,
-        "pe_25": 105.34,
-        "pe_50": 123.57,
-        "pe_75": 137.82,
-        "pe_90": 150.05
+        "pe": 12.22,
+        "pe_10": 73.97,
+        "pe_25": 108.7,
+        "pe_50": 125.47,
+        "pe_75": 141.08,
+        "pe_90": 150.21
       },
       {
         "date": "2016-08-16",
         "price": 108.5,
-        "pe": 12.07,
-        "pe_10": 72.73,
-        "pe_25": 103.15,
-        "pe_50": 121.0,
-        "pe_75": 134.95,
-        "pe_90": 146.93
+        "pe": 12.18,
+        "pe_10": 71.9,
+        "pe_25": 105.65,
+        "pe_50": 121.95,
+        "pe_75": 137.12,
+        "pe_90": 145.99
       },
       {
         "date": "2016-09-15",
         "price": 110.5,
-        "pe": 12.56,
-        "pe_10": 71.18,
-        "pe_25": 100.95,
-        "pe_50": 118.42,
-        "pe_75": 132.08,
-        "pe_90": 143.8
+        "pe": 12.77,
+        "pe_10": 69.84,
+        "pe_25": 102.63,
+        "pe_50": 118.46,
+        "pe_75": 133.19,
+        "pe_90": 141.82
       },
       {
         "date": "2016-10-16",
         "price": 118.5,
-        "pe": 13.77,
-        "pe_10": 69.63,
-        "pe_25": 98.75,
-        "pe_50": 115.83,
-        "pe_75": 129.19,
-        "pe_90": 140.66
+        "pe": 13.93,
+        "pe_10": 68.66,
+        "pe_25": 100.89,
+        "pe_50": 116.46,
+        "pe_75": 130.94,
+        "pe_90": 139.42
       },
       {
         "date": "2016-11-15",
         "price": 106.0,
-        "pe": 12.6,
-        "pe_10": 68.07,
-        "pe_25": 96.54,
-        "pe_50": 113.23,
-        "pe_75": 126.3,
-        "pe_90": 137.51
+        "pe": 12.67,
+        "pe_10": 67.52,
+        "pe_25": 99.22,
+        "pe_50": 114.53,
+        "pe_75": 128.78,
+        "pe_90": 137.11
       },
       {
         "date": "2016-12-16",
         "price": 106.5,
         "pe": 12.96,
-        "pe_10": 66.49,
-        "pe_25": 94.3,
-        "pe_50": 110.61,
-        "pe_75": 123.37,
-        "pe_90": 134.32
+        "pe_10": 66.32,
+        "pe_25": 97.46,
+        "pe_50": 112.5,
+        "pe_75": 126.49,
+        "pe_90": 134.68
       },
       {
         "date": "2017-01-16",
         "price": 110.5,
-        "pe": 13.44,
-        "pe_10": 66.52,
-        "pe_25": 94.34,
-        "pe_50": 110.66,
-        "pe_75": 123.43,
-        "pe_90": 134.38
+        "pe": 13.7,
+        "pe_10": 65.1,
+        "pe_25": 95.66,
+        "pe_50": 110.42,
+        "pe_75": 124.15,
+        "pe_90": 132.19
       },
       {
         "date": "2017-02-14",
         "price": 115.0,
-        "pe": 13.98,
-        "pe_10": 66.56,
-        "pe_25": 94.39,
-        "pe_50": 110.72,
-        "pe_75": 123.49,
-        "pe_90": 134.45
+        "pe": 14.53,
+        "pe_10": 63.88,
+        "pe_25": 93.87,
+        "pe_50": 108.35,
+        "pe_75": 121.83,
+        "pe_90": 129.71
       },
       {
         "date": "2017-03-16",
         "price": 117.5,
-        "pe": 14.28,
-        "pe_10": 66.58,
-        "pe_25": 94.42,
-        "pe_50": 110.75,
-        "pe_75": 123.53,
-        "pe_90": 134.49
+        "pe": 15.14,
+        "pe_10": 62.64,
+        "pe_25": 92.04,
+        "pe_50": 106.25,
+        "pe_75": 119.46,
+        "pe_90": 127.19
       },
       {
         "date": "2017-04-15",
         "price": 116.0,
-        "pe": 14.09,
-        "pe_10": 66.61,
-        "pe_25": 94.47,
-        "pe_50": 110.81,
-        "pe_75": 123.59,
-        "pe_90": 134.56
+        "pe": 15.04,
+        "pe_10": 62.25,
+        "pe_25": 91.47,
+        "pe_50": 105.59,
+        "pe_75": 118.72,
+        "pe_90": 126.4
       },
       {
         "date": "2017-05-16",
         "price": 119.5,
-        "pe": 14.51,
-        "pe_10": 66.64,
-        "pe_25": 94.5,
-        "pe_50": 110.85,
-        "pe_75": 123.64,
-        "pe_90": 134.61
+        "pe": 15.59,
+        "pe_10": 61.87,
+        "pe_25": 90.91,
+        "pe_50": 104.94,
+        "pe_75": 117.99,
+        "pe_90": 125.62
       },
       {
         "date": "2017-06-15",
         "price": 123.0,
-        "pe": 14.93,
-        "pe_10": 66.66,
-        "pe_25": 94.54,
-        "pe_50": 110.89,
-        "pe_75": 123.68,
-        "pe_90": 134.66
+        "pe": 16.14,
+        "pe_10": 61.51,
+        "pe_25": 90.38,
+        "pe_50": 104.33,
+        "pe_75": 117.3,
+        "pe_90": 124.9
       },
       {
         "date": "2017-07-16",
         "price": 115.0,
-        "pe": 13.95,
-        "pe_10": 66.7,
-        "pe_25": 94.6,
-        "pe_50": 110.96,
-        "pe_75": 123.76,
-        "pe_90": 134.74
+        "pe": 14.74,
+        "pe_10": 62.97,
+        "pe_25": 92.53,
+        "pe_50": 106.81,
+        "pe_75": 120.09,
+        "pe_90": 127.87
       },
       {
         "date": "2017-08-16",
         "price": 117.5,
-        "pe": 14.25,
-        "pe_10": 66.72,
-        "pe_25": 94.62,
-        "pe_50": 110.99,
-        "pe_75": 123.79,
-        "pe_90": 134.77
+        "pe": 14.71,
+        "pe_10": 64.47,
+        "pe_25": 94.73,
+        "pe_50": 109.35,
+        "pe_75": 122.95,
+        "pe_90": 130.91
       },
       {
         "date": "2017-09-15",
         "price": 114.5,
-        "pe": 13.88,
-        "pe_10": 66.74,
-        "pe_25": 94.66,
-        "pe_50": 111.04,
-        "pe_75": 123.84,
-        "pe_90": 134.83
+        "pe": 14.01,
+        "pe_10": 65.96,
+        "pe_25": 96.93,
+        "pe_50": 111.88,
+        "pe_75": 125.8,
+        "pe_90": 133.94
       },
       {
         "date": "2017-10-16",
         "price": 111.5,
-        "pe": 13.51,
-        "pe_10": 66.78,
-        "pe_25": 94.7,
-        "pe_50": 111.09,
-        "pe_75": 123.9,
-        "pe_90": 134.9
+        "pe": 13.6,
+        "pe_10": 66.17,
+        "pe_25": 97.23,
+        "pe_50": 112.24,
+        "pe_75": 126.2,
+        "pe_90": 134.37
       },
       {
         "date": "2017-11-15",
         "price": 114.5,
-        "pe": 13.87,
-        "pe_10": 66.79,
-        "pe_25": 94.73,
-        "pe_50": 111.12,
-        "pe_75": 123.93,
-        "pe_90": 134.93
+        "pe": 13.91,
+        "pe_10": 66.44,
+        "pe_25": 97.63,
+        "pe_50": 112.69,
+        "pe_75": 126.7,
+        "pe_90": 134.91
       },
       {
         "date": "2017-12-16",
         "price": 113.5,
         "pe": 13.74,
-        "pe_10": 66.84,
-        "pe_25": 94.79,
-        "pe_50": 111.19,
-        "pe_75": 124.01,
-        "pe_90": 135.02
+        "pe_10": 66.67,
+        "pe_25": 97.97,
+        "pe_50": 113.09,
+        "pe_75": 127.15,
+        "pe_90": 135.38
       },
       {
         "date": "2018-01-16",
         "price": 122.5,
-        "pe": 14.5,
-        "pe_10": 68.36,
-        "pe_25": 96.94,
-        "pe_50": 113.71,
-        "pe_75": 126.83,
-        "pe_90": 138.09
+        "pe": 14.83,
+        "pe_10": 66.67,
+        "pe_25": 97.97,
+        "pe_50": 113.08,
+        "pe_75": 127.15,
+        "pe_90": 135.38
       },
       {
         "date": "2018-02-14",
         "price": 126.5,
-        "pe": 14.65,
-        "pe_10": 69.86,
-        "pe_25": 99.08,
-        "pe_50": 116.22,
-        "pe_75": 129.63,
-        "pe_90": 141.14
+        "pe": 15.31,
+        "pe_10": 66.69,
+        "pe_25": 97.99,
+        "pe_50": 113.11,
+        "pe_75": 127.18,
+        "pe_90": 135.42
       },
       {
         "date": "2018-03-16",
         "price": 132.5,
-        "pe": 15.02,
-        "pe_10": 71.38,
-        "pe_25": 101.23,
-        "pe_50": 118.74,
-        "pe_75": 132.43,
-        "pe_90": 144.19
+        "pe": 16.04,
+        "pe_10": 66.67,
+        "pe_25": 97.97,
+        "pe_50": 113.09,
+        "pe_75": 127.15,
+        "pe_90": 135.38
       },
       {
         "date": "2018-04-15",
         "price": 125.0,
-        "pe": 13.88,
-        "pe_10": 72.87,
-        "pe_25": 103.34,
-        "pe_50": 121.22,
-        "pe_75": 135.2,
-        "pe_90": 147.2
+        "pe": 14.79,
+        "pe_10": 68.21,
+        "pe_25": 100.24,
+        "pe_50": 115.7,
+        "pe_75": 130.09,
+        "pe_90": 138.51
       },
       {
         "date": "2018-05-16",
         "price": 135.5,
-        "pe": 14.74,
-        "pe_10": 74.38,
-        "pe_25": 105.49,
-        "pe_50": 123.73,
-        "pe_75": 138.01,
-        "pe_90": 150.25
+        "pe": 15.68,
+        "pe_10": 69.75,
+        "pe_25": 102.49,
+        "pe_50": 118.3,
+        "pe_75": 133.02,
+        "pe_90": 141.63
       },
       {
         "date": "2018-06-15",
         "price": 137.5,
-        "pe": 14.66,
-        "pe_10": 75.89,
-        "pe_25": 107.63,
-        "pe_50": 126.24,
-        "pe_75": 140.81,
-        "pe_90": 153.3
+        "pe": 15.57,
+        "pe_10": 71.28,
+        "pe_25": 104.74,
+        "pe_50": 120.9,
+        "pe_75": 135.93,
+        "pe_90": 144.73
       },
       {
         "date": "2018-07-16",
         "price": 148.0,
-        "pe": 15.47,
-        "pe_10": 77.41,
-        "pe_25": 109.78,
-        "pe_50": 128.77,
-        "pe_75": 143.62,
-        "pe_90": 156.37
+        "pe": 16.47,
+        "pe_10": 72.53,
+        "pe_25": 106.57,
+        "pe_50": 123.02,
+        "pe_75": 138.32,
+        "pe_90": 147.27
       },
       {
         "date": "2018-08-16",
         "price": 150.5,
-        "pe": 15.43,
-        "pe_10": 78.92,
-        "pe_25": 111.92,
-        "pe_50": 131.29,
-        "pe_75": 146.43,
-        "pe_90": 159.42
+        "pe": 16.47,
+        "pe_10": 73.75,
+        "pe_25": 108.37,
+        "pe_50": 125.1,
+        "pe_75": 140.65,
+        "pe_90": 149.76
       },
       {
         "date": "2018-09-15",
         "price": 151.0,
-        "pe": 15.19,
-        "pe_10": 80.43,
-        "pe_25": 114.07,
-        "pe_50": 133.8,
-        "pe_75": 149.24,
-        "pe_90": 162.48
+        "pe": 16.25,
+        "pe_10": 75.0,
+        "pe_25": 110.21,
+        "pe_50": 127.21,
+        "pe_75": 143.03,
+        "pe_90": 152.29
       },
       {
         "date": "2018-10-16",
         "price": 136.5,
-        "pe": 13.48,
-        "pe_10": 81.93,
-        "pe_25": 116.2,
-        "pe_50": 136.3,
-        "pe_75": 152.02,
-        "pe_90": 165.51
+        "pe": 14.08,
+        "pe_10": 78.25,
+        "pe_25": 114.98,
+        "pe_50": 132.72,
+        "pe_75": 149.22,
+        "pe_90": 158.88
       },
       {
         "date": "2018-11-15",
         "price": 130.0,
-        "pe": 12.61,
-        "pe_10": 83.41,
-        "pe_25": 118.3,
-        "pe_50": 138.76,
-        "pe_75": 154.77,
-        "pe_90": 168.51
+        "pe": 12.88,
+        "pe_10": 81.46,
+        "pe_25": 119.7,
+        "pe_50": 138.18,
+        "pe_75": 155.36,
+        "pe_90": 165.42
       },
       {
         "date": "2018-12-16",
         "price": 142.0,
         "pe": 13.52,
-        "pe_10": 84.98,
-        "pe_25": 120.52,
-        "pe_50": 141.37,
-        "pe_75": 157.68,
-        "pe_90": 171.67
+        "pe_10": 84.77,
+        "pe_25": 124.57,
+        "pe_50": 143.79,
+        "pe_75": 161.67,
+        "pe_90": 172.13
       },
       {
         "date": "2019-01-16",
         "price": 158.0,
-        "pe": 14.75,
-        "pe_10": 86.67,
-        "pe_25": 122.92,
-        "pe_50": 144.18,
-        "pe_75": 160.81,
-        "pe_90": 175.09
+        "pe": 14.27,
+        "pe_10": 89.36,
+        "pe_25": 131.32,
+        "pe_50": 151.58,
+        "pe_75": 170.43,
+        "pe_90": 181.46
       },
       {
         "date": "2019-02-14",
         "price": 171.0,
-        "pe": 15.66,
-        "pe_10": 88.35,
-        "pe_25": 125.3,
-        "pe_50": 146.98,
-        "pe_75": 163.93,
-        "pe_90": 178.48
+        "pe": 14.68,
+        "pe_10": 94.02,
+        "pe_25": 138.15,
+        "pe_50": 159.47,
+        "pe_75": 179.3,
+        "pe_90": 190.91
       },
       {
         "date": "2019-03-16",
         "price": 198.0,
-        "pe": 17.79,
-        "pe_10": 90.05,
-        "pe_25": 127.72,
-        "pe_50": 149.81,
-        "pe_75": 167.09,
-        "pe_90": 181.92
+        "pe": 16.2,
+        "pe_10": 98.65,
+        "pe_25": 144.96,
+        "pe_50": 167.32,
+        "pe_75": 188.13,
+        "pe_90": 200.31
       },
       {
         "date": "2019-04-15",
         "price": 201.5,
-        "pe": 17.76,
-        "pe_10": 91.8,
-        "pe_25": 130.19,
-        "pe_50": 152.71,
-        "pe_75": 170.33,
-        "pe_90": 185.45
+        "pe": 16.09,
+        "pe_10": 101.08,
+        "pe_25": 148.53,
+        "pe_50": 171.44,
+        "pe_75": 192.76,
+        "pe_90": 205.24
       },
       {
         "date": "2019-05-16",
         "price": 167.5,
-        "pe": 14.5,
-        "pe_10": 93.46,
-        "pe_25": 132.56,
-        "pe_50": 155.49,
-        "pe_75": 173.42,
-        "pe_90": 188.81
+        "pe": 13.06,
+        "pe_10": 103.51,
+        "pe_25": 152.11,
+        "pe_50": 175.58,
+        "pe_75": 197.42,
+        "pe_90": 210.2
       },
       {
         "date": "2019-06-15",
         "price": 173.0,
-        "pe": 14.7,
-        "pe_10": 95.22,
-        "pe_25": 135.05,
-        "pe_50": 158.41,
-        "pe_75": 176.68,
-        "pe_90": 192.36
+        "pe": 13.18,
+        "pe_10": 105.94,
+        "pe_25": 155.67,
+        "pe_50": 179.69,
+        "pe_75": 202.04,
+        "pe_90": 215.12
       },
       {
         "date": "2019-07-16",
         "price": 166.0,
-        "pe": 13.86,
-        "pe_10": 96.91,
-        "pe_25": 137.44,
-        "pe_50": 161.21,
-        "pe_75": 179.8,
-        "pe_90": 195.76
+        "pe": 12.54,
+        "pe_10": 106.84,
+        "pe_25": 157.0,
+        "pe_50": 181.22,
+        "pe_75": 203.76,
+        "pe_90": 216.95
       },
       {
         "date": "2019-08-16",
         "price": 186.0,
-        "pe": 15.26,
-        "pe_10": 98.62,
-        "pe_25": 139.87,
-        "pe_50": 164.06,
-        "pe_75": 182.98,
-        "pe_90": 199.22
+        "pe": 13.94,
+        "pe_10": 107.69,
+        "pe_25": 158.25,
+        "pe_50": 182.66,
+        "pe_75": 205.38,
+        "pe_90": 218.68
       },
       {
         "date": "2019-09-15",
         "price": 178.0,
-        "pe": 14.36,
-        "pe_10": 100.29,
-        "pe_25": 142.24,
-        "pe_50": 166.84,
-        "pe_75": 186.09,
-        "pe_90": 202.61
+        "pe": 13.23,
+        "pe_10": 108.59,
+        "pe_25": 159.57,
+        "pe_50": 184.19,
+        "pe_75": 207.09,
+        "pe_90": 220.5
       },
       {
         "date": "2019-10-16",
         "price": 196.0,
-        "pe": 15.55,
-        "pe_10": 101.98,
-        "pe_25": 144.64,
-        "pe_50": 169.66,
-        "pe_75": 189.23,
-        "pe_90": 206.02
+        "pe": 14.73,
+        "pe_10": 107.39,
+        "pe_25": 157.81,
+        "pe_50": 182.16,
+        "pe_75": 204.82,
+        "pe_90": 218.07
       },
       {
         "date": "2019-11-15",
         "price": 223.5,
-        "pe": 17.43,
-        "pe_10": 103.75,
-        "pe_25": 147.14,
-        "pe_50": 172.59,
-        "pe_75": 192.5,
-        "pe_90": 209.59
+        "pe": 16.97,
+        "pe_10": 106.3,
+        "pe_25": 156.2,
+        "pe_50": 180.3,
+        "pe_75": 202.72,
+        "pe_90": 215.85
       },
       {
         "date": "2019-12-16",
         "price": 219.0,
         "pe": 16.81,
-        "pe_10": 105.41,
-        "pe_25": 149.5,
-        "pe_50": 175.36,
-        "pe_75": 195.58,
-        "pe_90": 212.94
+        "pe_10": 105.15,
+        "pe_25": 154.51,
+        "pe_50": 178.35,
+        "pe_75": 200.53,
+        "pe_90": 213.52
       },
       {
         "date": "2020-01-16",
         "price": 218.0,
-        "pe": 16.07,
-        "pe_10": 109.76,
-        "pe_25": 155.67,
-        "pe_50": 182.59,
-        "pe_75": 203.65,
-        "pe_90": 221.73
+        "pe": 16.57,
+        "pe_10": 106.18,
+        "pe_25": 156.03,
+        "pe_50": 180.11,
+        "pe_75": 202.51,
+        "pe_90": 215.62
       },
       {
         "date": "2020-02-15",
         "price": 195.5,
-        "pe": 13.87,
-        "pe_10": 114.04,
-        "pe_25": 161.74,
-        "pe_50": 189.72,
-        "pe_75": 211.6,
-        "pe_90": 230.39
+        "pe": 14.72,
+        "pe_10": 107.19,
+        "pe_25": 157.52,
+        "pe_50": 181.82,
+        "pe_75": 204.43,
+        "pe_90": 217.67
       },
       {
         "date": "2020-03-16",
         "price": 172.0,
-        "pe": 11.76,
-        "pe_10": 118.34,
-        "pe_25": 167.83,
-        "pe_50": 196.86,
-        "pe_75": 219.57,
-        "pe_90": 239.06
+        "pe": 12.83,
+        "pe_10": 108.2,
+        "pe_25": 159.0,
+        "pe_50": 183.53,
+        "pe_75": 206.35,
+        "pe_90": 219.71
       },
       {
         "date": "2020-04-15",
         "price": 186.5,
-        "pe": 12.3,
-        "pe_10": 122.68,
-        "pe_25": 173.99,
-        "pe_50": 204.09,
-        "pe_75": 227.63,
-        "pe_90": 247.83
+        "pe": 13.66,
+        "pe_10": 110.19,
+        "pe_25": 161.92,
+        "pe_50": 186.91,
+        "pe_75": 210.15,
+        "pe_90": 223.76
       },
       {
         "date": "2020-05-16",
         "price": 205.0,
-        "pe": 13.06,
-        "pe_10": 127.0,
-        "pe_25": 180.12,
-        "pe_50": 211.28,
-        "pe_75": 235.65,
-        "pe_90": 256.56
+        "pe": 14.75,
+        "pe_10": 112.17,
+        "pe_25": 164.83,
+        "pe_50": 190.27,
+        "pe_75": 213.93,
+        "pe_90": 227.78
       },
       {
         "date": "2020-06-15",
         "price": 228.0,
-        "pe": 14.05,
-        "pe_10": 131.3,
-        "pe_25": 186.21,
-        "pe_50": 218.43,
-        "pe_75": 243.62,
-        "pe_90": 265.24
+        "pe": 16.12,
+        "pe_10": 114.16,
+        "pe_25": 167.75,
+        "pe_50": 193.63,
+        "pe_75": 217.71,
+        "pe_90": 231.8
       },
       {
         "date": "2020-07-16",
         "price": 290.0,
-        "pe": 17.31,
-        "pe_10": 135.55,
-        "pe_25": 192.24,
-        "pe_50": 225.5,
-        "pe_75": 251.51,
-        "pe_90": 273.83
+        "pe": 19.48,
+        "pe_10": 120.15,
+        "pe_25": 176.56,
+        "pe_50": 203.8,
+        "pe_75": 229.15,
+        "pe_90": 243.98
       },
       {
         "date": "2020-08-16",
         "price": 240.0,
-        "pe": 13.88,
-        "pe_10": 139.9,
-        "pe_25": 198.41,
-        "pe_50": 232.74,
-        "pe_75": 259.58,
-        "pe_90": 282.62
+        "pe": 15.35,
+        "pe_10": 126.19,
+        "pe_25": 185.43,
+        "pe_50": 214.05,
+        "pe_75": 240.66,
+        "pe_90": 256.24
       },
       {
         "date": "2020-09-15",
         "price": 265.5,
-        "pe": 14.9,
-        "pe_10": 144.17,
-        "pe_25": 204.47,
-        "pe_50": 239.84,
-        "pe_75": 267.5,
-        "pe_90": 291.25
+        "pe": 16.2,
+        "pe_10": 132.27,
+        "pe_25": 194.37,
+        "pe_50": 224.36,
+        "pe_75": 252.27,
+        "pe_90": 268.6
       },
       {
         "date": "2020-10-16",
         "price": 267.0,
-        "pe": 14.55,
-        "pe_10": 148.47,
-        "pe_25": 210.57,
-        "pe_50": 247.0,
-        "pe_75": 275.49,
-        "pe_90": 299.94
+        "pe": 15.34,
+        "pe_10": 140.48,
+        "pe_25": 206.43,
+        "pe_50": 238.28,
+        "pe_75": 267.91,
+        "pe_90": 285.26
       },
       {
         "date": "2020-11-15",
         "price": 299.0,
-        "pe": 15.83,
-        "pe_10": 152.82,
-        "pe_25": 216.74,
-        "pe_50": 254.23,
-        "pe_75": 283.56,
-        "pe_90": 308.73
+        "pe": 16.24,
+        "pe_10": 148.6,
+        "pe_25": 218.36,
+        "pe_50": 252.05,
+        "pe_75": 283.4,
+        "pe_90": 301.74
       },
       {
         "date": "2020-12-16",
         "price": 369.0,
         "pe": 19.0,
-        "pe_10": 157.14,
-        "pe_25": 222.86,
-        "pe_50": 261.41,
-        "pe_75": 291.56,
-        "pe_90": 317.44
+        "pe_10": 156.75,
+        "pe_25": 230.33,
+        "pe_50": 265.87,
+        "pe_75": 298.94,
+        "pe_90": 318.29
       },
       {
         "date": "2021-01-16",
         "price": 394.0,
-        "pe": 17.04,
-        "pe_10": 187.08,
-        "pe_25": 265.33,
-        "pe_50": 311.22,
-        "pe_75": 347.12,
-        "pe_90": 377.93
+        "pe": 18.39,
+        "pe_10": 172.92,
+        "pe_25": 254.1,
+        "pe_50": 293.3,
+        "pe_75": 329.78,
+        "pe_90": 351.13
       },
       {
         "date": "2021-02-14",
         "price": 474.0,
-        "pe": 17.67,
-        "pe_10": 217.04,
-        "pe_25": 307.82,
-        "pe_50": 361.07,
-        "pe_75": 402.71,
-        "pe_90": 438.46
+        "pe": 20.22,
+        "pe_10": 189.2,
+        "pe_25": 278.02,
+        "pe_50": 320.92,
+        "pe_75": 360.83,
+        "pe_90": 384.19
       },
       {
         "date": "2021-03-16",
         "price": 575.0,
-        "pe": 18.83,
-        "pe_10": 247.07,
-        "pe_25": 350.4,
-        "pe_50": 411.02,
-        "pe_75": 458.43,
-        "pe_90": 499.12
+        "pe": 22.59,
+        "pe_10": 205.44,
+        "pe_25": 301.88,
+        "pe_50": 348.46,
+        "pe_75": 391.8,
+        "pe_90": 417.16
       },
       {
         "date": "2021-04-15",
         "price": 624.0,
-        "pe": 18.23,
-        "pe_10": 276.95,
-        "pe_25": 392.78,
-        "pe_50": 460.73,
-        "pe_75": 513.87,
-        "pe_90": 559.48
+        "pe": 21.22,
+        "pe_10": 237.34,
+        "pe_25": 348.76,
+        "pe_50": 402.57,
+        "pe_75": 452.64,
+        "pe_90": 481.94
       },
       {
         "date": "2021-05-16",
         "price": 534.0,
-        "pe": 14.07,
-        "pe_10": 307.08,
-        "pe_25": 435.51,
-        "pe_50": 510.85,
-        "pe_75": 569.77,
-        "pe_90": 620.34
+        "pe": 16.0,
+        "pe_10": 269.37,
+        "pe_25": 395.83,
+        "pe_50": 456.9,
+        "pe_75": 513.72,
+        "pe_90": 546.98
       },
       {
         "date": "2021-06-15",
         "price": 499.0,
-        "pe": 11.98,
-        "pe_10": 337.01,
-        "pe_25": 477.97,
-        "pe_50": 560.65,
-        "pe_75": 625.31,
-        "pe_90": 680.81
+        "pe": 13.37,
+        "pe_10": 301.23,
+        "pe_25": 442.64,
+        "pe_50": 510.94,
+        "pe_75": 574.48,
+        "pe_90": 611.68
       },
       {
         "date": "2021-07-16",
         "price": 511.0,
-        "pe": 11.27,
-        "pe_10": 366.86,
-        "pe_25": 520.3,
-        "pe_50": 610.3,
-        "pe_75": 680.69,
-        "pe_90": 741.11
+        "pe": 12.11,
+        "pe_10": 340.57,
+        "pe_25": 500.45,
+        "pe_50": 577.67,
+        "pe_75": 649.51,
+        "pe_90": 691.56
       },
       {
         "date": "2021-08-16",
         "price": 449.0,
-        "pe": 9.15,
-        "pe_10": 397.03,
-        "pe_25": 563.09,
-        "pe_50": 660.5,
-        "pe_75": 736.68,
-        "pe_90": 802.07
+        "pe": 9.55,
+        "pe_10": 379.46,
+        "pe_25": 557.61,
+        "pe_50": 643.65,
+        "pe_75": 723.69,
+        "pe_90": 770.54
       },
       {
         "date": "2021-09-15",
         "price": 410.0,
-        "pe": 7.77,
-        "pe_10": 426.94,
-        "pe_25": 605.5,
-        "pe_50": 710.24,
-        "pe_75": 792.17,
-        "pe_90": 862.48
+        "pe": 7.9,
+        "pe_10": 418.87,
+        "pe_25": 615.52,
+        "pe_50": 710.49,
+        "pe_75": 798.85,
+        "pe_90": 850.57
       },
       {
         "date": "2021-10-16",
         "price": 415.5,
-        "pe": 7.36,
-        "pe_10": 456.77,
-        "pe_25": 647.81,
-        "pe_50": 759.87,
-        "pe_75": 847.51,
-        "pe_90": 922.74
+        "pe": 7.44,
+        "pe_10": 450.74,
+        "pe_25": 662.34,
+        "pe_50": 764.54,
+        "pe_75": 859.62,
+        "pe_90": 915.27
       },
       {
         "date": "2021-11-15",
         "price": 465.5,
-        "pe": 7.74,
-        "pe_10": 486.61,
-        "pe_25": 690.13,
-        "pe_50": 809.51,
-        "pe_75": 902.88,
-        "pe_90": 983.02
+        "pe": 7.77,
+        "pe_10": 483.53,
+        "pe_25": 710.53,
+        "pe_50": 820.17,
+        "pe_75": 922.16,
+        "pe_90": 981.86
       },
       {
         "date": "2021-12-16",
         "price": 539.0,
         "pe": 8.44,
-        "pe_10": 516.71,
-        "pe_25": 732.82,
-        "pe_50": 859.59,
-        "pe_75": 958.74,
-        "pe_90": 1043.83
+        "pe_10": 515.43,
+        "pe_25": 757.41,
+        "pe_50": 874.28,
+        "pe_75": 983.0,
+        "pe_90": 1046.64
       },
       {
         "date": "2022-01-16",
         "price": 471.0,
-        "pe": 7.55,
-        "pe_10": 504.75,
-        "pe_25": 715.86,
-        "pe_50": 839.69,
-        "pe_75": 936.54,
-        "pe_90": 1019.67
+        "pe": 7.06,
+        "pe_10": 538.45,
+        "pe_25": 791.23,
+        "pe_50": 913.31,
+        "pe_75": 1026.89,
+        "pe_90": 1093.37
       },
       {
         "date": "2022-02-14",
         "price": 456.5,
-        "pe": 7.5,
-        "pe_10": 492.47,
-        "pe_25": 698.45,
-        "pe_50": 819.27,
-        "pe_75": 913.76,
-        "pe_90": 994.87
+        "pe": 6.56,
+        "pe_10": 561.65,
+        "pe_25": 825.32,
+        "pe_50": 952.67,
+        "pe_75": 1071.14,
+        "pe_90": 1140.48
       },
       {
         "date": "2022-03-16",
         "price": 426.5,
-        "pe": 7.18,
-        "pe_10": 480.61,
-        "pe_25": 681.63,
-        "pe_50": 799.54,
-        "pe_75": 891.76,
-        "pe_90": 970.91
+        "pe": 5.88,
+        "pe_10": 585.42,
+        "pe_25": 860.25,
+        "pe_50": 992.99,
+        "pe_75": 1116.48,
+        "pe_90": 1188.76
       },
       {
         "date": "2022-04-15",
         "price": 398.5,
-        "pe": 6.88,
-        "pe_10": 468.64,
-        "pe_25": 664.65,
-        "pe_50": 779.62,
-        "pe_75": 869.55,
-        "pe_90": 946.73
+        "pe": 5.55,
+        "pe_10": 579.51,
+        "pe_25": 851.57,
+        "pe_50": 982.97,
+        "pe_75": 1105.21,
+        "pe_90": 1176.76
       },
       {
         "date": "2022-05-16",
         "price": 406.0,
-        "pe": 7.2,
-        "pe_10": 456.24,
-        "pe_25": 647.06,
-        "pe_50": 758.99,
-        "pe_75": 846.54,
-        "pe_90": 921.68
+        "pe": 5.71,
+        "pe_10": 573.87,
+        "pe_25": 843.29,
+        "pe_50": 973.4,
+        "pe_75": 1094.46,
+        "pe_90": 1165.31
       },
       {
         "date": "2022-06-15",
         "price": 302.0,
-        "pe": 5.5,
-        "pe_10": 444.27,
-        "pe_25": 630.08,
-        "pe_50": 739.08,
-        "pe_75": 824.32,
-        "pe_90": 897.49
+        "pe": 4.29,
+        "pe_10": 568.17,
+        "pe_25": 834.9,
+        "pe_50": 963.72,
+        "pe_75": 1083.57,
+        "pe_90": 1153.72
       },
       {
         "date": "2022-07-16",
         "price": 265.0,
-        "pe": 4.96,
-        "pe_10": 432.28,
-        "pe_25": 613.08,
-        "pe_50": 719.13,
-        "pe_75": 802.08,
-        "pe_90": 873.27
+        "pe": 4.01,
+        "pe_10": 533.37,
+        "pe_25": 783.77,
+        "pe_50": 904.7,
+        "pe_75": 1017.21,
+        "pe_90": 1083.06
       },
       {
         "date": "2022-08-16",
         "price": 263.5,
-        "pe": 5.07,
-        "pe_10": 420.51,
-        "pe_25": 596.38,
-        "pe_50": 699.55,
-        "pe_75": 780.24,
-        "pe_90": 849.49
+        "pe": 4.27,
+        "pe_10": 498.06,
+        "pe_25": 731.88,
+        "pe_50": 844.8,
+        "pe_75": 949.87,
+        "pe_90": 1011.36
       },
       {
         "date": "2022-09-15",
         "price": 219.0,
-        "pe": 4.34,
-        "pe_10": 408.28,
-        "pe_25": 579.04,
-        "pe_50": 679.2,
-        "pe_75": 757.54,
-        "pe_90": 824.78
+        "pe": 3.82,
+        "pe_10": 462.71,
+        "pe_25": 679.93,
+        "pe_50": 784.85,
+        "pe_75": 882.45,
+        "pe_90": 939.58
       },
       {
         "date": "2022-10-16",
         "price": 241.0,
-        "pe": 4.92,
-        "pe_10": 396.33,
-        "pe_25": 562.09,
-        "pe_50": 659.32,
-        "pe_75": 735.37,
-        "pe_90": 800.64
+        "pe": 4.5,
+        "pe_10": 432.25,
+        "pe_25": 635.17,
+        "pe_50": 733.18,
+        "pe_75": 824.35,
+        "pe_90": 877.72
       },
       {
         "date": "2022-11-15",
         "price": 298.5,
-        "pe": 6.29,
-        "pe_10": 383.97,
-        "pe_25": 544.56,
-        "pe_50": 638.76,
-        "pe_75": 712.44,
-        "pe_90": 775.67
+        "pe": 6.0,
+        "pe_10": 401.53,
+        "pe_25": 590.03,
+        "pe_50": 681.08,
+        "pe_75": 765.78,
+        "pe_90": 815.35
       },
       {
         "date": "2022-12-16",
         "price": 315.5,
         "pe": 6.86,
-        "pe_10": 372.12,
-        "pe_25": 527.75,
-        "pe_50": 619.04,
-        "pe_75": 690.44,
-        "pe_90": 751.73
+        "pe_10": 371.2,
+        "pe_25": 545.46,
+        "pe_50": 629.62,
+        "pe_75": 707.92,
+        "pe_90": 753.75
       },
       {
         "date": "2023-01-16",
         "price": 355.0,
-        "pe": 7.83,
-        "pe_10": 366.83,
-        "pe_25": 520.26,
-        "pe_50": 610.26,
-        "pe_75": 680.64,
-        "pe_90": 741.06
+        "pe": 8.36,
+        "pe_10": 342.73,
+        "pe_25": 503.62,
+        "pe_50": 581.33,
+        "pe_75": 653.63,
+        "pe_90": 695.94
       },
       {
         "date": "2023-02-14",
         "price": 407.5,
-        "pe": 9.12,
-        "pe_10": 361.52,
-        "pe_25": 512.73,
-        "pe_50": 601.42,
-        "pe_75": 670.79,
-        "pe_90": 730.33
+        "pe": 10.46,
+        "pe_10": 314.43,
+        "pe_25": 462.04,
+        "pe_50": 533.33,
+        "pe_75": 599.66,
+        "pe_90": 638.48
       },
       {
         "date": "2023-03-16",
         "price": 431.5,
-        "pe": 9.8,
-        "pe_10": 356.25,
-        "pe_25": 505.25,
-        "pe_50": 592.65,
-        "pe_75": 661.01,
-        "pe_90": 719.68
+        "pe": 12.16,
+        "pe_10": 286.4,
+        "pe_25": 420.85,
+        "pe_50": 485.79,
+        "pe_75": 546.21,
+        "pe_90": 581.57
       },
       {
         "date": "2023-04-15",
         "price": 418.5,
-        "pe": 9.64,
-        "pe_10": 351.25,
-        "pe_25": 498.16,
-        "pe_50": 584.34,
-        "pe_75": 651.74,
-        "pe_90": 709.58
+        "pe": 12.1,
+        "pe_10": 279.15,
+        "pe_25": 410.2,
+        "pe_50": 473.49,
+        "pe_75": 532.38,
+        "pe_90": 566.84
       },
       {
         "date": "2023-05-16",
         "price": 425.5,
-        "pe": 9.95,
-        "pe_10": 346.0,
-        "pe_25": 490.71,
-        "pe_50": 575.6,
-        "pe_75": 641.99,
-        "pe_90": 698.97
+        "pe": 12.62,
+        "pe_10": 272.12,
+        "pe_25": 399.88,
+        "pe_50": 461.58,
+        "pe_75": 518.98,
+        "pe_90": 552.58
       },
       {
         "date": "2023-06-15",
         "price": 426.5,
-        "pe": 10.12,
-        "pe_10": 340.99,
-        "pe_25": 483.61,
-        "pe_50": 567.26,
-        "pe_75": 632.69,
-        "pe_90": 688.85
+        "pe": 13.0,
+        "pe_10": 264.79,
+        "pe_25": 389.1,
+        "pe_50": 449.14,
+        "pe_75": 504.99,
+        "pe_90": 537.69
       },
       {
         "date": "2023-07-16",
         "price": 424.0,
-        "pe": 10.22,
-        "pe_10": 335.67,
-        "pe_25": 476.07,
-        "pe_50": 558.42,
-        "pe_75": 622.83,
-        "pe_90": 678.11
+        "pe": 12.49,
+        "pe_10": 273.99,
+        "pe_25": 402.61,
+        "pe_50": 464.74,
+        "pe_75": 522.53,
+        "pe_90": 556.36
       },
       {
         "date": "2023-08-16",
         "price": 399.5,
-        "pe": 9.78,
-        "pe_10": 330.51,
-        "pe_25": 468.74,
-        "pe_50": 549.82,
-        "pe_75": 613.24,
-        "pe_90": 667.67
+        "pe": 11.39,
+        "pe_10": 283.09,
+        "pe_25": 415.99,
+        "pe_50": 480.17,
+        "pe_75": 539.89,
+        "pe_90": 574.84
       },
       {
         "date": "2023-09-15",
         "price": 423.0,
-        "pe": 10.51,
-        "pe_10": 325.64,
-        "pe_25": 461.84,
-        "pe_50": 541.73,
-        "pe_75": 604.21,
-        "pe_90": 657.84
+        "pe": 11.69,
+        "pe_10": 292.05,
+        "pe_25": 429.15,
+        "pe_50": 495.37,
+        "pe_75": 556.97,
+        "pe_90": 593.03
       },
       {
         "date": "2023-10-16",
         "price": 454.5,
-        "pe": 11.48,
-        "pe_10": 320.33,
-        "pe_25": 454.3,
-        "pe_50": 532.89,
-        "pe_75": 594.35,
-        "pe_90": 647.11
+        "pe": 12.31,
+        "pe_10": 297.99,
+        "pe_25": 437.89,
+        "pe_50": 505.45,
+        "pe_75": 568.31,
+        "pe_90": 605.1
       },
       {
         "date": "2023-11-15",
         "price": 511.0,
-        "pe": 13.12,
-        "pe_10": 315.13,
-        "pe_25": 446.93,
-        "pe_50": 524.24,
-        "pe_75": 584.71,
-        "pe_90": 636.61
+        "pe": 13.59,
+        "pe_10": 303.48,
+        "pe_25": 445.95,
+        "pe_50": 514.76,
+        "pe_75": 578.78,
+        "pe_90": 616.25
       },
       {
         "date": "2023-12-16",
         "price": 517.0,
         "pe": 13.49,
-        "pe_10": 310.09,
-        "pe_25": 439.78,
-        "pe_50": 515.85,
-        "pe_75": 575.35,
-        "pe_90": 626.42
+        "pe_10": 309.32,
+        "pe_25": 454.53,
+        "pe_50": 524.66,
+        "pe_75": 589.91,
+        "pe_90": 628.1
       },
       {
         "date": "2024-01-16",
         "price": 511.0,
-        "pe": 13.48,
-        "pe_10": 306.71,
-        "pe_25": 434.99,
-        "pe_50": 510.24,
-        "pe_75": 569.09,
-        "pe_90": 619.61
+        "pe": 13.31,
+        "pe_10": 309.86,
+        "pe_25": 455.33,
+        "pe_50": 525.59,
+        "pe_75": 590.95,
+        "pe_90": 629.21
       },
       {
         "date": "2024-02-15",
         "price": 601.0,
-        "pe": 16.02,
-        "pe_10": 303.54,
-        "pe_25": 430.49,
-        "pe_50": 504.96,
-        "pe_75": 563.2,
-        "pe_90": 613.19
+        "pe": 15.62,
+        "pe_10": 310.54,
+        "pe_25": 456.33,
+        "pe_50": 526.74,
+        "pe_75": 592.25,
+        "pe_90": 630.59
       },
       {
         "date": "2024-03-16",
         "price": 604.0,
-        "pe": 16.28,
-        "pe_10": 300.18,
-        "pe_25": 425.73,
-        "pe_50": 499.38,
-        "pe_75": 556.97,
-        "pe_90": 606.41
+        "pe": 15.67,
+        "pe_10": 311.1,
+        "pe_25": 457.14,
+        "pe_50": 527.68,
+        "pe_75": 593.3,
+        "pe_90": 631.71
       },
       {
         "date": "2024-04-15",
         "price": 618.0,
-        "pe": 16.84,
-        "pe_10": 296.93,
-        "pe_25": 421.11,
-        "pe_50": 493.96,
-        "pe_75": 550.93,
-        "pe_90": 599.83
+        "pe": 16.38,
+        "pe_10": 304.51,
+        "pe_25": 447.47,
+        "pe_50": 516.51,
+        "pe_75": 580.74,
+        "pe_90": 618.34
       },
       {
         "date": "2024-05-16",
         "price": 593.0,
-        "pe": 16.34,
-        "pe_10": 293.63,
-        "pe_25": 416.44,
-        "pe_50": 488.48,
-        "pe_75": 544.82,
-        "pe_90": 593.18
+        "pe": 16.06,
+        "pe_10": 298.01,
+        "pe_25": 437.92,
+        "pe_50": 505.49,
+        "pe_75": 568.35,
+        "pe_90": 605.15
       },
       {
         "date": "2024-06-15",
         "price": 606.0,
-        "pe": 16.89,
-        "pe_10": 290.3,
-        "pe_25": 411.71,
-        "pe_50": 482.93,
-        "pe_75": 538.64,
-        "pe_90": 586.45
+        "pe": 16.78,
+        "pe_10": 291.48,
+        "pe_25": 428.32,
+        "pe_50": 494.41,
+        "pe_75": 555.89,
+        "pe_90": 591.88
       },
       {
         "date": "2024-07-16",
         "price": 523.0,
-        "pe": 14.75,
-        "pe_10": 286.89,
-        "pe_25": 406.88,
-        "pe_50": 477.26,
-        "pe_75": 532.31,
-        "pe_90": 579.55
+        "pe": 14.73,
+        "pe_10": 286.57,
+        "pe_25": 421.1,
+        "pe_50": 486.07,
+        "pe_75": 546.52,
+        "pe_90": 581.9
       },
       {
         "date": "2024-08-16",
         "price": 540.0,
-        "pe": 15.4,
-        "pe_10": 283.71,
-        "pe_25": 402.37,
-        "pe_50": 471.97,
-        "pe_75": 526.41,
-        "pe_90": 573.14
+        "pe": 15.47,
+        "pe_10": 281.73,
+        "pe_25": 413.99,
+        "pe_50": 477.87,
+        "pe_75": 537.29,
+        "pe_90": 572.08
       },
       {
         "date": "2024-09-15",
         "price": 518.0,
-        "pe": 14.95,
-        "pe_10": 280.34,
-        "pe_25": 397.6,
-        "pe_50": 466.37,
-        "pe_75": 520.17,
-        "pe_90": 566.34
+        "pe": 15.1,
+        "pe_10": 276.87,
+        "pe_25": 406.85,
+        "pe_50": 469.63,
+        "pe_75": 528.03,
+        "pe_90": 562.22
       },
       {
         "date": "2024-10-16",
         "price": 503.0,
-        "pe": 14.69,
-        "pe_10": 277.04,
-        "pe_25": 392.92,
-        "pe_50": 460.88,
-        "pe_75": 514.04,
-        "pe_90": 559.67
+        "pe": 14.79,
+        "pe_10": 274.49,
+        "pe_25": 403.35,
+        "pe_50": 465.59,
+        "pe_75": 523.49,
+        "pe_90": 557.38
       },
       {
         "date": "2024-11-15",
         "price": 484.0,
-        "pe": 14.3,
-        "pe_10": 273.85,
-        "pe_25": 388.38,
-        "pe_50": 455.57,
-        "pe_75": 508.12,
-        "pe_90": 553.22
+        "pe": 14.35,
+        "pe_10": 272.22,
+        "pe_25": 400.02,
+        "pe_50": 461.74,
+        "pe_75": 519.16,
+        "pe_90": 552.77
       },
       {
         "date": "2024-12-16",
         "price": 502.0,
         "pe": 15.02,
-        "pe_10": 270.42,
-        "pe_25": 383.52,
-        "pe_50": 449.86,
-        "pe_75": 501.75,
-        "pe_90": 546.28
+        "pe_10": 269.75,
+        "pe_25": 396.39,
+        "pe_50": 457.55,
+        "pe_75": 514.45,
+        "pe_90": 547.75
       },
       {
         "date": "2025-01-16",
         "price": 524.0,
-        "pe": 15.86,
-        "pe_10": 267.32,
-        "pe_25": 379.12,
-        "pe_50": 444.71,
-        "pe_75": 496.0,
-        "pe_90": 540.02
+        "pe": 15.58,
+        "pe_10": 271.45,
+        "pe_25": 398.89,
+        "pe_50": 460.43,
+        "pe_75": 517.69,
+        "pe_90": 551.21
       },
       {
         "date": "2025-02-14",
         "price": 545.0,
-        "pe": 16.7,
-        "pe_10": 264.05,
-        "pe_25": 374.48,
-        "pe_50": 439.26,
-        "pe_75": 489.93,
-        "pe_90": 533.41
+        "pe": 16.11,
+        "pe_10": 273.04,
+        "pe_25": 401.22,
+        "pe_50": 463.13,
+        "pe_75": 520.73,
+        "pe_90": 554.44
       },
       {
         "date": "2025-03-16",
         "price": 545.0,
-        "pe": 16.9,
-        "pe_10": 260.92,
-        "pe_25": 370.05,
-        "pe_50": 434.07,
-        "pe_75": 484.13,
-        "pe_90": 527.1
+        "pe": 16.01,
+        "pe_10": 274.75,
+        "pe_25": 403.73,
+        "pe_50": 466.02,
+        "pe_75": 523.98,
+        "pe_90": 557.9
       },
       {
         "date": "2025-04-15",
         "price": 519.0,
-        "pe": 16.3,
-        "pe_10": 257.62,
-        "pe_25": 365.37,
-        "pe_50": 428.57,
-        "pe_75": 478.01,
-        "pe_90": 520.43
+        "pe": 15.66,
+        "pe_10": 267.49,
+        "pe_25": 393.06,
+        "pe_50": 453.71,
+        "pe_75": 510.13,
+        "pe_90": 543.16
       },
       {
         "date": "2025-05-16",
         "price": 516.0,
-        "pe": 16.4,
-        "pe_10": 254.57,
-        "pe_25": 361.04,
-        "pe_50": 423.5,
-        "pe_75": 472.34,
-        "pe_90": 514.27
+        "pe": 16.0,
+        "pe_10": 260.29,
+        "pe_25": 382.48,
+        "pe_50": 441.5,
+        "pe_75": 496.41,
+        "pe_90": 528.55
       },
       {
         "date": "2025-06-15",
         "price": 545.0,
-        "pe": 17.55,
-        "pe_10": 251.26,
-        "pe_25": 356.35,
-        "pe_50": 417.99,
-        "pe_75": 466.2,
-        "pe_90": 507.58
+        "pe": 17.39,
+        "pe_10": 252.94,
+        "pe_25": 371.69,
+        "pe_50": 429.04,
+        "pe_75": 482.4,
+        "pe_90": 513.63
       },
       {
         "date": "2025-07-16",
         "price": 475.0,
-        "pe": 15.49,
-        "pe_10": 248.11,
-        "pe_25": 351.88,
-        "pe_50": 412.75,
-        "pe_75": 460.36,
-        "pe_90": 501.22
+        "pe": 15.6,
+        "pe_10": 245.75,
+        "pe_25": 361.12,
+        "pe_50": 416.84,
+        "pe_75": 468.68,
+        "pe_90": 499.02
       },
       {
         "date": "2025-08-16",
         "price": 435.0,
-        "pe": 14.37,
-        "pe_10": 244.93,
-        "pe_25": 347.36,
-        "pe_50": 407.45,
-        "pe_75": 454.45,
-        "pe_90": 494.79
+        "pe": 14.71,
+        "pe_10": 238.67,
+        "pe_25": 350.72,
+        "pe_50": 404.84,
+        "pe_75": 455.18,
+        "pe_90": 484.65
       },
       {
         "date": "2025-09-15",
         "price": 426.5,
-        "pe": 14.28,
-        "pe_10": 241.65,
-        "pe_25": 342.72,
-        "pe_50": 402.01,
-        "pe_75": 448.38,
-        "pe_90": 488.18
+        "pe": 14.87,
+        "pe_10": 231.49,
+        "pe_25": 340.17,
+        "pe_50": 392.66,
+        "pe_75": 441.49,
+        "pe_90": 470.07
       },
       {
         "date": "2025-10-16",
         "price": 393.0,
-        "pe": 13.33,
-        "pe_10": 238.54,
-        "pe_25": 338.31,
-        "pe_50": 396.83,
-        "pe_75": 442.6,
-        "pe_90": 481.89
+        "pe": 13.99,
+        "pe_10": 226.73,
+        "pe_25": 333.17,
+        "pe_50": 384.57,
+        "pe_75": 432.4,
+        "pe_90": 460.39
       },
       {
         "date": "2025-11-15",
         "price": 389.5,
-        "pe": 13.39,
-        "pe_10": 235.36,
-        "pe_25": 333.79,
-        "pe_50": 391.54,
-        "pe_75": 436.7,
-        "pe_90": 475.46
+        "pe": 14.18,
+        "pe_10": 221.7,
+        "pe_25": 325.77,
+        "pe_50": 376.04,
+        "pe_75": 422.81,
+        "pe_90": 450.18
       },
       {
         "date": "2025-12-16",
         "price": 374.0,
-        "pe": 13.04,
-        "pe_10": 232.06,
-        "pe_25": 329.11,
-        "pe_50": 386.05,
-        "pe_75": 430.57,
-        "pe_90": 468.79
+        "pe": 13.92,
+        "pe_10": 216.85,
+        "pe_25": 318.65,
+        "pe_50": 367.82,
+        "pe_75": 413.56,
+        "pe_90": 440.34
       },
       {
         "date": "2026-01-16",
         "price": 375.0,
-        "pe": 13.07,
-        "pe_10": 232.14,
-        "pe_25": 329.24,
-        "pe_50": 386.19,
-        "pe_75": 430.73,
-        "pe_90": 468.97
+        "pe": 13.96,
+        "pe_10": 216.81,
+        "pe_25": 318.59,
+        "pe_50": 367.75,
+        "pe_75": 413.48,
+        "pe_90": 440.25
       },
       {
         "date": "2026-02-14",
         "price": 393.0,
-        "pe": 13.7,
-        "pe_10": 232.1,
-        "pe_25": 329.17,
-        "pe_50": 386.12,
-        "pe_75": 430.65,
-        "pe_90": 468.87
+        "pe": 14.63,
+        "pe_10": 216.81,
+        "pe_25": 318.59,
+        "pe_50": 367.75,
+        "pe_75": 413.48,
+        "pe_90": 440.25
       }
     ]
   },
@@ -20044,13 +20044,13 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (13.5倍)",
+            "title": "PE 50% (13.7倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (16.3倍)",
+            "title": "PE 90% (16.4倍)",
             "format": ".1f"
           }
         ]
@@ -20770,6 +20770,10 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
       {
         "date": "2026-01-16",
         "revenue_yoy": -10.2
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": -23.8
       }
     ]
   },
@@ -20837,16 +20841,16 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 12.9 | +50.5% | 0.074 | 2009-01 (+1178.5%) | 2008-07 (-92.2%) |
-| 6個月 | 12.9 | +32.2% | 0.092 | 2009-01 (+707.7%) | 2008-04 (-85.0%) |
-| 1年 | 12.8 | +21.2% | 0.059 | 2008-12 (+258.8%) | 2007-11 (-71.0%) |
-| 2年 | 12.7 | +16.5% | 0.039 | 2008-11 (+93.4%) | 2006-11 (-44.2%) |
-| 3年 | 12.8 | +16.4% | 0.012 | 2018-04 (+73.3%) | 2006-03 (-30.9%) |
-| 4年 | 13.2 | +15.9% | 0.006 | 2017-04 (+54.3%) | 2006-03 (-13.7%) |
-| 5年 | 13.3 | +16.2% | 0.030 | 2016-04 (+42.6%) | 2006-03 (-12.2%) |
-| 6年 | 13.2 | +15.9% | 0.026 | 2008-11 (+39.1%) | 2006-03 (-9.1%) |
-| 8年 | 12.9 | +14.5% | 0.004 | 2016-05 (+27.1%) | 2006-03 (-2.4%) |
-| 10年 | 12.8 | +13.1% | 0.001 | 2011-12 (+23.4%) | 2006-03 (-1.6%) |
+| 3個月 | 13.1 | +50.5% | 0.036 | 2009-01 (+1178.5%) | 2008-07 (-92.2%) |
+| 6個月 | 13.1 | +32.2% | 0.048 | 2009-01 (+707.7%) | 2008-04 (-85.0%) |
+| 1年 | 13.1 | +21.2% | 0.025 | 2008-12 (+258.8%) | 2007-11 (-71.0%) |
+| 2年 | 12.9 | +16.5% | 0.038 | 2008-11 (+93.4%) | 2006-11 (-44.2%) |
+| 3年 | 12.9 | +16.4% | 0.002 | 2018-04 (+73.3%) | 2006-03 (-30.9%) |
+| 4年 | 13.4 | +15.9% | 0.000 | 2017-04 (+54.3%) | 2006-03 (-13.7%) |
+| 5年 | 13.5 | +16.2% | 0.014 | 2016-04 (+42.6%) | 2006-03 (-12.2%) |
+| 6年 | 13.3 | +15.9% | 0.013 | 2008-11 (+39.1%) | 2006-03 (-9.1%) |
+| 8年 | 13.0 | +14.5% | 0.012 | 2016-05 (+27.1%) | 2006-03 (-2.4%) |
+| 10年 | 12.8 | +13.1% | 0.003 | 2011-12 (+23.4%) | 2006-03 (-1.6%) |
 
 
 ## 🎯 使用說明
@@ -20865,4 +20869,4 @@ description: "3034 聯詠 (半導體業) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:32:59 CST*
+*數據更新時間: 2026-03-21 12:39:23 CST*

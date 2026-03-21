@@ -3,7 +3,7 @@
     "stock_code": "6850",
     "company_name": "光鼎生技",
     "industry": "生技醫療業",
-    "generated_at": "2026-03-07T12:36:25.295303",
+    "generated_at": "2026-03-21T12:43:24.399083",
     "horizons": [
       "0.25y",
       "0.5y",
@@ -2496,6 +2496,10 @@
     {
       "date": "2026-01-16",
       "revenue_yoy": -4.74
+    },
+    {
+      "date": "2026-02-14",
+      "revenue_yoy": -33.6
     }
   ]
 }

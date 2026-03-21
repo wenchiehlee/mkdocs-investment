@@ -2,7 +2,7 @@
 title: "6757 台灣虎航 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
     - **產業別**: 航運業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年
-    - **報告生成時間**: 2026-03-07 12:36:21 CST
+    - **報告生成時間**: 2026-03-21 12:43:20 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 8.85,
+        "pe_ratio": 16.73,
         "forward_return": -29.72,
         "start_price": 37.8,
         "start_year": 2023
@@ -48,7 +48,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 7.06,
+        "pe_ratio": 13.34,
         "forward_return": 54.47,
         "start_price": 30.15,
         "start_year": 2023
@@ -57,7 +57,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 6.8,
+        "pe_ratio": 9.91,
         "forward_return": 59.98,
         "start_price": 29.05,
         "start_year": 2023
@@ -66,7 +66,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 7.45,
+        "pe_ratio": 8.83,
         "forward_return": 17.02,
         "start_price": 31.8,
         "start_year": 2023
@@ -84,7 +84,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 7.39,
+        "pe_ratio": 7.22,
         "forward_return": 213.57,
         "start_price": 32.7,
         "start_year": 2024
@@ -93,7 +93,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 7.55,
+        "pe_ratio": 7.23,
         "forward_return": 264.34,
         "start_price": 34.6,
         "start_year": 2024
@@ -102,7 +102,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 7.06,
+        "pe_ratio": 6.65,
         "forward_return": 472.48,
         "start_price": 33.5,
         "start_year": 2024
@@ -111,7 +111,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 7.35,
+        "pe_ratio": 6.81,
         "forward_return": 677.04,
         "start_price": 36.0,
         "start_year": 2024
@@ -120,7 +120,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 8.62,
         "forward_return": 92.31,
         "start_price": 47.75,
         "start_year": 2024
@@ -129,7 +129,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 11.31,
+        "pe_ratio": 10.19,
         "forward_return": 2.03,
         "start_price": 59.0,
         "start_year": 2024
@@ -138,7 +138,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 9.9,
         "forward_return": 22.14,
         "start_price": 60.0,
         "start_year": 2024
@@ -147,7 +147,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 10.18,
+        "pe_ratio": 8.89,
         "forward_return": 164.37,
         "start_price": 56.3,
         "start_year": 2024
@@ -156,7 +156,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 10.43,
+        "pe_ratio": 8.98,
         "forward_return": 198.92,
         "start_price": 59.3,
         "start_year": 2024
@@ -165,7 +165,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 10.8,
+        "pe_ratio": 9.78,
         "forward_return": 302.31,
         "start_price": 63.1,
         "start_year": 2024
@@ -174,7 +174,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.29,
         "forward_return": 60.32,
         "start_price": 77.5,
         "start_year": 2024
@@ -192,7 +192,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 14.79,
+        "pe_ratio": 14.51,
         "forward_return": 24.15,
         "start_price": 89.6,
         "start_year": 2025
@@ -201,7 +201,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 14.26,
+        "pe_ratio": 13.72,
         "forward_return": 66.05,
         "start_price": 84.9,
         "start_year": 2025
@@ -210,7 +210,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 14.6,
         "forward_return": 0.5,
         "start_price": 90.5,
         "start_year": 2025
@@ -219,7 +219,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 14.36,
+        "pe_ratio": 13.49,
         "forward_return": 45.95,
         "start_price": 82.5,
         "start_year": 2025
@@ -228,7 +228,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 15.94,
         "forward_return": -24.75,
         "start_price": 96.2,
         "start_year": 2025
@@ -237,7 +237,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 15.61,
+        "pe_ratio": 14.54,
         "forward_return": -14.92,
         "start_price": 86.5,
         "start_year": 2025
@@ -246,7 +246,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.09,
         "forward_return": -58.47,
         "start_price": 84.6,
         "start_year": 2025
@@ -255,7 +255,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 15.66,
+        "pe_ratio": 15.86,
         "forward_return": -53.84,
         "start_price": 83.5,
         "start_year": 2025
@@ -264,7 +264,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 14.72,
+        "pe_ratio": 15.65,
         "forward_return": -50.88,
         "start_price": 77.0,
         "start_year": 2025
@@ -273,7 +273,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 13.37,
         "forward_return": -1.17,
         "start_price": 67.8,
         "start_year": 2025
@@ -282,7 +282,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 8.85,
+        "pe_ratio": 16.73,
         "forward_return": -18.7,
         "start_price": 37.8,
         "start_year": 2023
@@ -291,7 +291,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 7.06,
+        "pe_ratio": 13.34,
         "forward_return": 23.55,
         "start_price": 30.15,
         "start_year": 2023
@@ -300,7 +300,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 6.8,
+        "pe_ratio": 9.91,
         "forward_return": 134.48,
         "start_price": 29.05,
         "start_year": 2023
@@ -309,7 +309,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 7.45,
+        "pe_ratio": 8.83,
         "forward_return": 126.1,
         "start_price": 31.8,
         "start_year": 2023
@@ -327,7 +327,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 7.39,
+        "pe_ratio": 7.22,
         "forward_return": 238.08,
         "start_price": 32.7,
         "start_year": 2024
@@ -336,7 +336,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 7.55,
+        "pe_ratio": 7.23,
         "forward_return": 164.24,
         "start_price": 34.6,
         "start_year": 2024
@@ -345,7 +345,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 7.06,
+        "pe_ratio": 6.65,
         "forward_return": 194.67,
         "start_price": 33.5,
         "start_year": 2024
@@ -354,7 +354,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 7.35,
+        "pe_ratio": 6.81,
         "forward_return": 206.52,
         "start_price": 36.0,
         "start_year": 2024
@@ -363,7 +363,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 8.62,
         "forward_return": 130.57,
         "start_price": 47.75,
         "start_year": 2024
@@ -372,7 +372,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 11.31,
+        "pe_ratio": 10.19,
         "forward_return": 74.13,
         "start_price": 59.0,
         "start_year": 2024
@@ -381,7 +381,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 9.9,
         "forward_return": 121.67,
         "start_price": 60.0,
         "start_year": 2024
@@ -390,7 +390,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 10.18,
+        "pe_ratio": 8.89,
         "forward_return": 126.54,
         "start_price": 56.3,
         "start_year": 2024
@@ -399,7 +399,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 10.43,
+        "pe_ratio": 8.98,
         "forward_return": 134.68,
         "start_price": 59.3,
         "start_year": 2024
@@ -408,7 +408,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 10.8,
+        "pe_ratio": 9.78,
         "forward_return": 106.79,
         "start_price": 63.1,
         "start_year": 2024
@@ -417,7 +417,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.29,
         "forward_return": 54.68,
         "start_price": 77.5,
         "start_year": 2024
@@ -435,7 +435,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 14.79,
+        "pe_ratio": 14.51,
         "forward_return": 2.38,
         "start_price": 89.6,
         "start_year": 2025
@@ -444,7 +444,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 14.26,
+        "pe_ratio": 13.72,
         "forward_return": 11.29,
         "start_price": 84.9,
         "start_year": 2025
@@ -453,7 +453,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 15.47,
+        "pe_ratio": 14.6,
         "forward_return": -29.32,
         "start_price": 90.5,
         "start_year": 2025
@@ -462,7 +462,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 14.36,
+        "pe_ratio": 13.49,
         "forward_return": -19.83,
         "start_price": 82.5,
         "start_year": 2025
@@ -471,7 +471,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 17.05,
+        "pe_ratio": 15.94,
         "forward_return": -41.1,
         "start_price": 96.2,
         "start_year": 2025
@@ -480,7 +480,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 15.61,
+        "pe_ratio": 14.54,
         "forward_return": -33.42,
         "start_price": 86.5,
         "start_year": 2025
@@ -489,7 +489,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.09,
         "forward_return": -35.94,
         "start_price": 84.6,
         "start_year": 2025
@@ -498,7 +498,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 8.85,
+        "pe_ratio": 16.73,
         "forward_return": 48.82,
         "start_price": 37.8,
         "start_year": 2023
@@ -507,7 +507,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 7.06,
+        "pe_ratio": 13.34,
         "forward_return": 96.41,
         "start_price": 30.15,
         "start_year": 2023
@@ -516,7 +516,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 6.8,
+        "pe_ratio": 9.91,
         "forward_return": 116.87,
         "start_price": 29.05,
         "start_year": 2023
@@ -525,7 +525,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 7.45,
+        "pe_ratio": 8.83,
         "forward_return": 143.27,
         "start_price": 31.8,
         "start_year": 2023
@@ -543,7 +543,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 7.39,
+        "pe_ratio": 7.22,
         "forward_return": 173.44,
         "start_price": 32.7,
         "start_year": 2024
@@ -552,7 +552,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 7.55,
+        "pe_ratio": 7.23,
         "forward_return": 143.29,
         "start_price": 34.6,
         "start_year": 2024
@@ -561,7 +561,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 7.06,
+        "pe_ratio": 6.65,
         "forward_return": 170.33,
         "start_price": 33.5,
         "start_year": 2024
@@ -570,7 +570,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 7.35,
+        "pe_ratio": 6.81,
         "forward_return": 129.3,
         "start_price": 36.0,
         "start_year": 2024
@@ -579,7 +579,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 8.62,
         "forward_return": 101.56,
         "start_price": 47.75,
         "start_year": 2024
@@ -588,7 +588,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 11.31,
+        "pe_ratio": 10.19,
         "forward_return": 46.65,
         "start_price": 59.0,
         "start_year": 2024
@@ -597,7 +597,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 11.17,
+        "pe_ratio": 9.9,
         "forward_return": 51.13,
         "start_price": 60.0,
         "start_year": 2024
@@ -606,7 +606,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 10.18,
+        "pe_ratio": 8.89,
         "forward_return": 59.11,
         "start_price": 56.3,
         "start_year": 2024
@@ -615,7 +615,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 10.43,
+        "pe_ratio": 8.98,
         "forward_return": 40.08,
         "start_price": 59.3,
         "start_year": 2024
@@ -624,7 +624,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 10.8,
+        "pe_ratio": 9.78,
         "forward_return": 17.05,
         "start_price": 63.1,
         "start_year": 2024
@@ -633,7 +633,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.29,
         "forward_return": -3.16,
         "start_price": 77.5,
         "start_year": 2024
@@ -651,7 +651,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 14.79,
+        "pe_ratio": 14.51,
         "forward_return": -17.81,
         "start_price": 89.6,
         "start_year": 2025
@@ -660,7 +660,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 14.26,
+        "pe_ratio": 13.72,
         "forward_return": -17.5,
         "start_price": 84.9,
         "start_year": 2025
@@ -669,7 +669,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 8.85,
+        "pe_ratio": 16.73,
         "forward_return": 53.87,
         "start_price": 37.8,
         "start_year": 2023
@@ -678,7 +678,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 7.06,
+        "pe_ratio": 13.34,
         "forward_return": 65.91,
         "start_price": 30.15,
         "start_year": 2023
@@ -687,7 +687,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 6.8,
+        "pe_ratio": 9.91,
         "forward_return": 59.39,
         "start_price": 29.05,
         "start_year": 2023
@@ -696,7 +696,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 7.45,
+        "pe_ratio": 8.83,
         "forward_return": 53.58,
         "start_price": 31.8,
         "start_year": 2023
@@ -714,7 +714,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 7.39,
+        "pe_ratio": 7.22,
         "forward_return": 50.03,
         "start_price": 32.7,
         "start_year": 2024
@@ -909,7 +909,7 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 7.3倍、8.4倍、12.7倍、14.3倍、15.6倍"
+!!! note "本益比河流帶水位: 7.2倍、8.9倍、12.3倍、14.1倍、15.7倍"
 
 ```vegalite
 {
@@ -920,312 +920,312 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
       {
         "date": "2023-08-16",
         "price": 37.8,
-        "pe": 8.85,
-        "pe_10": 31.39,
-        "pe_25": 35.71,
-        "pe_50": 54.03,
-        "pe_75": 61.12,
-        "pe_90": 66.46
+        "pe": 16.73,
+        "pe_10": 16.34,
+        "pe_25": 20.19,
+        "pe_50": 27.77,
+        "pe_75": 31.89,
+        "pe_90": 35.36
       },
       {
         "date": "2023-09-15",
         "price": 30.15,
-        "pe": 7.06,
-        "pe_10": 31.39,
-        "pe_25": 35.7,
-        "pe_50": 54.02,
-        "pe_75": 61.11,
-        "pe_90": 66.45
+        "pe": 13.34,
+        "pe_10": 16.34,
+        "pe_25": 20.19,
+        "pe_50": 27.78,
+        "pe_75": 31.9,
+        "pe_90": 35.37
       },
       {
         "date": "2023-10-16",
         "price": 29.05,
-        "pe": 6.8,
-        "pe_10": 31.4,
-        "pe_25": 35.71,
-        "pe_50": 54.04,
-        "pe_75": 61.13,
-        "pe_90": 66.47
+        "pe": 9.91,
+        "pe_10": 21.19,
+        "pe_25": 26.19,
+        "pe_50": 36.03,
+        "pe_75": 41.38,
+        "pe_90": 45.88
       },
       {
         "date": "2023-11-15",
         "price": 31.8,
-        "pe": 7.45,
-        "pe_10": 31.37,
-        "pe_25": 35.68,
-        "pe_50": 54.0,
-        "pe_75": 61.08,
-        "pe_90": 66.42
+        "pe": 8.83,
+        "pe_10": 26.04,
+        "pe_25": 32.18,
+        "pe_50": 44.26,
+        "pe_75": 50.83,
+        "pe_90": 56.36
       },
       {
         "date": "2023-12-16",
         "price": 33.6,
         "pe": 7.87,
-        "pe_10": 31.38,
-        "pe_25": 35.69,
-        "pe_50": 54.01,
-        "pe_75": 61.09,
-        "pe_90": 66.43
+        "pe_10": 30.87,
+        "pe_25": 38.15,
+        "pe_50": 52.47,
+        "pe_75": 60.26,
+        "pe_90": 66.82
       },
       {
         "date": "2024-01-16",
         "price": 32.7,
-        "pe": 7.39,
-        "pe_10": 32.52,
-        "pe_25": 36.99,
-        "pe_50": 55.97,
-        "pe_75": 63.32,
-        "pe_90": 68.85
+        "pe": 7.22,
+        "pe_10": 32.75,
+        "pe_25": 40.47,
+        "pe_50": 55.66,
+        "pe_75": 63.93,
+        "pe_90": 70.88
       },
       {
         "date": "2024-02-15",
         "price": 34.6,
-        "pe": 7.55,
-        "pe_10": 33.68,
-        "pe_25": 38.31,
-        "pe_50": 57.97,
-        "pe_75": 65.58,
-        "pe_90": 71.31
+        "pe": 7.23,
+        "pe_10": 34.6,
+        "pe_25": 42.76,
+        "pe_50": 58.82,
+        "pe_75": 67.55,
+        "pe_90": 74.89
       },
       {
         "date": "2024-03-16",
         "price": 33.5,
-        "pe": 7.06,
-        "pe_10": 34.88,
-        "pe_25": 39.67,
-        "pe_50": 60.02,
-        "pe_75": 67.9,
-        "pe_90": 73.83
+        "pe": 6.65,
+        "pe_10": 36.42,
+        "pe_25": 45.01,
+        "pe_50": 61.91,
+        "pe_75": 71.11,
+        "pe_90": 78.84
       },
       {
         "date": "2024-04-15",
         "price": 36.0,
-        "pe": 7.35,
-        "pe_10": 36.0,
-        "pe_25": 40.95,
-        "pe_50": 61.96,
-        "pe_75": 70.09,
-        "pe_90": 76.21
+        "pe": 6.81,
+        "pe_10": 38.22,
+        "pe_25": 47.23,
+        "pe_50": 64.97,
+        "pe_75": 74.62,
+        "pe_90": 82.73
       },
       {
         "date": "2024-05-16",
         "price": 47.75,
-        "pe": 9.44,
-        "pe_10": 37.18,
-        "pe_25": 42.29,
-        "pe_50": 63.99,
-        "pe_75": 72.38,
-        "pe_90": 78.71
+        "pe": 8.62,
+        "pe_10": 40.05,
+        "pe_25": 49.49,
+        "pe_50": 68.08,
+        "pe_75": 78.19,
+        "pe_90": 86.69
       },
       {
         "date": "2024-06-15",
         "price": 59.0,
-        "pe": 11.31,
-        "pe_10": 38.34,
-        "pe_25": 43.61,
-        "pe_50": 65.99,
-        "pe_75": 74.65,
-        "pe_90": 81.17
+        "pe": 10.19,
+        "pe_10": 41.86,
+        "pe_25": 51.73,
+        "pe_50": 71.16,
+        "pe_75": 81.73,
+        "pe_90": 90.61
       },
       {
         "date": "2024-07-16",
         "price": 60.0,
-        "pe": 11.17,
-        "pe_10": 39.48,
-        "pe_25": 44.91,
-        "pe_50": 67.95,
-        "pe_75": 76.87,
-        "pe_90": 83.58
+        "pe": 9.9,
+        "pe_10": 43.82,
+        "pe_25": 54.15,
+        "pe_50": 74.48,
+        "pe_75": 85.55,
+        "pe_90": 94.85
       },
       {
         "date": "2024-08-16",
         "price": 56.3,
-        "pe": 10.18,
-        "pe_10": 40.65,
-        "pe_25": 46.23,
-        "pe_50": 69.96,
-        "pe_75": 79.14,
-        "pe_90": 86.05
+        "pe": 8.89,
+        "pe_10": 45.79,
+        "pe_25": 56.58,
+        "pe_50": 77.83,
+        "pe_75": 89.39,
+        "pe_90": 99.11
       },
       {
         "date": "2024-09-15",
         "price": 59.3,
-        "pe": 10.43,
-        "pe_10": 41.79,
-        "pe_25": 47.53,
-        "pe_50": 71.92,
-        "pe_75": 81.36,
-        "pe_90": 88.47
+        "pe": 8.98,
+        "pe_10": 47.74,
+        "pe_25": 59.0,
+        "pe_50": 81.16,
+        "pe_75": 93.21,
+        "pe_90": 103.35
       },
       {
         "date": "2024-10-16",
         "price": 63.1,
-        "pe": 10.8,
-        "pe_10": 42.94,
-        "pe_25": 48.84,
-        "pe_50": 73.91,
-        "pe_75": 83.61,
-        "pe_90": 90.91
+        "pe": 9.78,
+        "pe_10": 46.65,
+        "pe_25": 57.65,
+        "pe_50": 79.29,
+        "pe_75": 91.07,
+        "pe_90": 100.97
       },
       {
         "date": "2024-11-15",
         "price": 77.5,
-        "pe": 12.91,
-        "pe_10": 44.12,
-        "pe_25": 50.19,
-        "pe_50": 75.94,
-        "pe_75": 85.9,
-        "pe_90": 93.41
+        "pe": 12.29,
+        "pe_10": 45.59,
+        "pe_25": 56.34,
+        "pe_50": 77.5,
+        "pe_75": 89.01,
+        "pe_90": 98.69
       },
       {
         "date": "2024-12-16",
         "price": 77.9,
         "pe": 12.65,
-        "pe_10": 45.26,
-        "pe_25": 51.48,
-        "pe_50": 77.9,
-        "pe_75": 88.12,
-        "pe_90": 95.82
+        "pe_10": 44.52,
+        "pe_25": 55.02,
+        "pe_50": 75.68,
+        "pe_75": 86.92,
+        "pe_90": 96.37
       },
       {
         "date": "2025-01-16",
         "price": 89.6,
-        "pe": 14.79,
-        "pe_10": 44.53,
-        "pe_25": 50.65,
-        "pe_50": 76.64,
-        "pe_75": 86.69,
-        "pe_90": 94.26
+        "pe": 14.51,
+        "pe_10": 44.65,
+        "pe_25": 55.17,
+        "pe_50": 75.89,
+        "pe_75": 87.16,
+        "pe_90": 96.64
       },
       {
         "date": "2025-02-14",
         "price": 84.9,
-        "pe": 14.26,
-        "pe_10": 43.76,
-        "pe_25": 49.77,
-        "pe_50": 75.31,
-        "pe_75": 85.2,
-        "pe_90": 92.64
+        "pe": 13.72,
+        "pe_10": 44.74,
+        "pe_25": 55.29,
+        "pe_50": 76.05,
+        "pe_75": 87.34,
+        "pe_90": 96.84
       },
       {
         "date": "2025-03-16",
         "price": 90.5,
-        "pe": 15.47,
-        "pe_10": 43.0,
-        "pe_25": 48.91,
-        "pe_50": 74.0,
-        "pe_75": 83.71,
-        "pe_90": 91.03
+        "pe": 14.6,
+        "pe_10": 44.82,
+        "pe_25": 55.38,
+        "pe_50": 76.18,
+        "pe_75": 87.49,
+        "pe_90": 97.01
       },
       {
         "date": "2025-04-15",
         "price": 82.5,
-        "pe": 14.36,
-        "pe_10": 42.23,
-        "pe_25": 48.03,
-        "pe_50": 72.68,
-        "pe_75": 82.21,
-        "pe_90": 89.39
+        "pe": 13.49,
+        "pe_10": 44.22,
+        "pe_25": 54.64,
+        "pe_50": 75.16,
+        "pe_75": 86.32,
+        "pe_90": 95.71
       },
       {
         "date": "2025-05-16",
         "price": 96.2,
-        "pe": 17.05,
-        "pe_10": 41.47,
-        "pe_25": 47.17,
-        "pe_50": 71.37,
-        "pe_75": 80.74,
-        "pe_90": 87.79
+        "pe": 15.94,
+        "pe_10": 43.63,
+        "pe_25": 53.92,
+        "pe_50": 74.17,
+        "pe_75": 85.19,
+        "pe_90": 94.45
       },
       {
         "date": "2025-06-15",
         "price": 86.5,
-        "pe": 15.61,
-        "pe_10": 40.73,
-        "pe_25": 46.33,
-        "pe_50": 70.1,
-        "pe_75": 79.3,
-        "pe_90": 86.22
+        "pe": 14.54,
+        "pe_10": 43.01,
+        "pe_25": 53.16,
+        "pe_50": 73.11,
+        "pe_75": 83.97,
+        "pe_90": 93.1
       },
       {
         "date": "2025-07-16",
         "price": 84.6,
-        "pe": 15.56,
-        "pe_10": 39.96,
-        "pe_25": 45.45,
-        "pe_50": 68.78,
-        "pe_75": 77.8,
-        "pe_90": 84.6
+        "pe": 15.09,
+        "pe_10": 40.53,
+        "pe_25": 50.09,
+        "pe_50": 68.9,
+        "pe_75": 79.13,
+        "pe_90": 87.74
       },
       {
         "date": "2025-08-16",
         "price": 83.5,
-        "pe": 15.66,
-        "pe_10": 39.19,
-        "pe_25": 44.58,
-        "pe_50": 67.45,
-        "pe_75": 76.3,
-        "pe_90": 82.97
+        "pe": 15.86,
+        "pe_10": 38.06,
+        "pe_25": 47.04,
+        "pe_50": 64.7,
+        "pe_75": 74.31,
+        "pe_90": 82.39
       },
       {
         "date": "2025-09-15",
         "price": 77.0,
-        "pe": 14.72,
-        "pe_10": 38.45,
-        "pe_25": 43.73,
-        "pe_50": 66.17,
-        "pe_75": 74.86,
-        "pe_90": 81.39
+        "pe": 15.65,
+        "pe_10": 35.57,
+        "pe_25": 43.96,
+        "pe_50": 60.47,
+        "pe_75": 69.45,
+        "pe_90": 77.0
       },
       {
         "date": "2025-10-16",
         "price": 67.8,
-        "pe": 13.22,
-        "pe_10": 37.7,
-        "pe_25": 42.88,
-        "pe_50": 64.88,
-        "pe_75": 73.39,
-        "pe_90": 79.8
+        "pe": 13.37,
+        "pe_10": 36.66,
+        "pe_25": 45.31,
+        "pe_50": 62.32,
+        "pe_75": 71.58,
+        "pe_90": 79.36
       },
       {
         "date": "2025-11-15",
         "price": 69.0,
-        "pe": 13.74,
-        "pe_10": 36.91,
-        "pe_25": 41.98,
-        "pe_50": 63.53,
-        "pe_75": 71.86,
-        "pe_90": 78.14
+        "pe": 13.22,
+        "pe_10": 37.74,
+        "pe_25": 46.64,
+        "pe_50": 64.15,
+        "pe_75": 73.67,
+        "pe_90": 81.68
       },
       {
         "date": "2025-12-16",
         "price": 64.5,
-        "pe": 13.11,
-        "pe_10": 36.16,
-        "pe_25": 41.13,
-        "pe_50": 62.24,
-        "pe_75": 70.4,
-        "pe_90": 76.55
+        "pe": 12.01,
+        "pe_10": 38.83,
+        "pe_25": 47.99,
+        "pe_50": 66.0,
+        "pe_75": 75.8,
+        "pe_90": 84.05
       },
       {
         "date": "2026-01-16",
         "price": 67.6,
-        "pe": 13.74,
-        "pe_10": 36.16,
-        "pe_25": 41.13,
-        "pe_50": 62.24,
-        "pe_75": 70.4,
-        "pe_90": 76.55
+        "pe": 12.59,
+        "pe_10": 38.82,
+        "pe_25": 47.98,
+        "pe_50": 65.99,
+        "pe_75": 75.79,
+        "pe_90": 84.03
       },
       {
         "date": "2026-02-14",
         "price": 64.0,
-        "pe": 13.01,
-        "pe_10": 36.16,
-        "pe_25": 41.13,
-        "pe_50": 62.23,
-        "pe_75": 70.4,
-        "pe_90": 76.54
+        "pe": 11.92,
+        "pe_10": 38.82,
+        "pe_25": 47.97,
+        "pe_50": 65.99,
+        "pe_75": 75.79,
+        "pe_90": 84.03
       }
     ]
   },
@@ -1358,19 +1358,19 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (7.3倍)",
+            "title": "PE 10% (7.2倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (12.7倍)",
+            "title": "PE 50% (12.3倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (15.6倍)",
+            "title": "PE 90% (15.7倍)",
             "format": ".1f"
           }
         ]
@@ -1770,6 +1770,10 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
       {
         "date": "2026-01-16",
         "revenue_yoy": -1.9
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 36.7
       }
     ]
   },
@@ -1837,10 +1841,10 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 11.4 | +95.8% | 0.295 | 2024-04 (+677.0%) | 2025-07 (-58.5%) |
-| 6個月 | 11.0 | +78.0% | 0.652 | 2024-01 (+238.1%) | 2025-05 (-41.1%) |
-| 1年 | 9.8 | +74.8% | 0.847 | 2024-01 (+173.4%) | 2025-01 (-17.8%) |
-| 2年 | 7.6 | +54.6% | 0.217 | 2023-09 (+65.9%) | 2023-12 (+44.9%) |
+| 3個月 | 11.6 | +95.8% | 0.485 | 2024-04 (+677.0%) | 2025-07 (-58.5%) |
+| 6個月 | 11.2 | +78.0% | 0.938 | 2024-01 (+238.1%) | 2025-05 (-41.1%) |
+| 1年 | 10.2 | +74.8% | 0.520 | 2024-01 (+173.4%) | 2025-01 (-17.8%) |
+| 2年 | 10.7 | +54.6% | 0.248 | 2023-09 (+65.9%) | 2023-12 (+44.9%) |
 
 
 ## 🎯 使用說明
@@ -1859,4 +1863,4 @@ description: "6757 台灣虎航 (航運業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:36:21 CST*
+*數據更新時間: 2026-03-21 12:43:20 CST*

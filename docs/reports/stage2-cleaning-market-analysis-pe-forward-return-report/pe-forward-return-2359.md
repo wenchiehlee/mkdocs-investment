@@ -2,7 +2,7 @@
 title: "2359 所羅門 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
     - **產業別**: 其他電子業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:29:45 CST
+    - **報告生成時間**: 2026-03-21 12:35:35 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 2.12,
+        "pe_ratio": 1.8,
         "forward_return": 313.03,
         "start_price": 5.66,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 2.7,
+        "pe_ratio": 2.43,
         "forward_return": 154.87,
         "start_price": 7.2,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 4.06,
         "forward_return": -71.46,
         "start_price": 11.3,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 3.48,
+        "pe_ratio": 3.58,
         "forward_return": -41.36,
         "start_price": 9.3,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 3.4,
+        "pe_ratio": 3.59,
         "forward_return": 46.05,
         "start_price": 9.09,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 3.09,
+        "pe_ratio": 3.34,
         "forward_return": 103.67,
         "start_price": 8.24,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 3.04,
+        "pe_ratio": 3.39,
         "forward_return": 173.91,
         "start_price": 8.13,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 3.75,
+        "pe_ratio": 4.02,
         "forward_return": 23.68,
         "start_price": 10.0,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 4.27,
+        "pe_ratio": 4.42,
         "forward_return": 56.24,
         "start_price": 11.4,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 3.79,
+        "pe_ratio": 5.49,
         "forward_return": 174.47,
         "start_price": 10.55,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 8.76,
         "forward_return": 332.02,
         "start_price": 10.25,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 4.39,
+        "pe_ratio": 31.43,
         "forward_return": 476.71,
         "start_price": 13.2,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 4.14,
+        "pe_ratio": 9.97,
         "forward_return": 1048.85,
         "start_price": 12.9,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 4.55,
+        "pe_ratio": 6.78,
         "forward_return": 1084.81,
         "start_price": 14.7,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 6.38,
+        "pe_ratio": 7.01,
         "forward_return": 231.23,
         "start_price": 21.3,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 6.87,
+        "pe_ratio": 7.28,
         "forward_return": 72.78,
         "start_price": 23.7,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 7.69,
+        "pe_ratio": 7.89,
         "forward_return": -64.98,
         "start_price": 27.4,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 7.84,
+        "pe_ratio": 7.8,
         "forward_return": -79.94,
         "start_price": 28.8,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": -83.98,
         "start_price": 27.2,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 5.4,
+        "pe_ratio": 5.39,
         "forward_return": -9.03,
         "start_price": 21.05,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 4.66,
+        "pe_ratio": 4.73,
         "forward_return": 112.07,
         "start_price": 17.15,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 6.01,
+        "pe_ratio": 6.2,
         "forward_return": 43.7,
         "start_price": 20.1,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 6.77,
+        "pe_ratio": 7.13,
         "forward_return": -73.45,
         "start_price": 20.4,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.71,
         "forward_return": -74.7,
         "start_price": 18.45,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 11.42,
         "forward_return": -87.23,
         "start_price": 22.0,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 7.25,
+        "pe_ratio": 10.0,
         "forward_return": -91.22,
         "start_price": 14.6,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.79,
+        "pe_ratio": 10.29,
         "forward_return": -86.23,
         "start_price": 13.1,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 9.7,
+        "pe_ratio": 12.06,
         "forward_return": -88.01,
         "start_price": 13.1,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 8.79,
         "forward_return": -55.91,
         "start_price": 7.91,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 13.1,
         "forward_return": -71.98,
         "start_price": 7.95,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 19.12,
+        "pe_ratio": 21.51,
         "forward_return": 99.02,
         "start_price": 6.74,
         "start_year": 2008
@@ -344,89 +344,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2009-01-16",
-        "pe_ratio": 70.65,
-        "forward_return": 274.0,
-        "start_price": 5.77,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-02-14",
-        "pe_ratio": 51.56,
-        "forward_return": 112.66,
-        "start_price": 7.39,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-03-16",
-        "pe_ratio": 41.22,
-        "forward_return": 280.16,
-        "start_price": 8.45,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-04-15",
-        "pe_ratio": 32.78,
-        "forward_return": 423.25,
-        "start_price": 8.74,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-05-16",
-        "pe_ratio": 27.11,
-        "forward_return": 191.24,
-        "start_price": 8.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-06-15",
-        "pe_ratio": 23.41,
-        "forward_return": 276.55,
-        "start_price": 9.13,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-07-16",
-        "pe_ratio": 29.23,
-        "forward_return": 10.95,
-        "start_price": 13.2,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-08-16",
-        "pe_ratio": 22.69,
-        "forward_return": 168.34,
-        "start_price": 11.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2009-09-15",
-        "pe_ratio": 22.17,
-        "forward_return": 161.49,
-        "start_price": 12.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.28,
+        "pe_ratio": 81.3,
         "forward_return": -13.87,
         "start_price": 13.55,
         "start_year": 2009
@@ -435,7 +354,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 19.98,
+        "pe_ratio": 30.11,
         "forward_return": 12.49,
         "start_price": 13.95,
         "start_year": 2009
@@ -453,7 +372,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 14.13,
         "forward_return": -3.46,
         "start_price": 13.05,
         "start_year": 2010
@@ -462,7 +381,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.86,
+        "pe_ratio": 12.06,
         "forward_return": -6.05,
         "start_price": 13.1,
         "start_year": 2010
@@ -471,7 +390,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 11.6,
         "forward_return": -8.03,
         "start_price": 14.5,
         "start_year": 2010
@@ -480,7 +399,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 12.89,
         "forward_return": -14.24,
         "start_price": 14.65,
         "start_year": 2010
@@ -489,7 +408,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 18.61,
+        "pe_ratio": 12.61,
         "forward_return": 14.58,
         "start_price": 12.9,
         "start_year": 2010
@@ -498,7 +417,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 19.56,
+        "pe_ratio": 14.62,
         "forward_return": 63.36,
         "start_price": 13.3,
         "start_year": 2010
@@ -507,7 +426,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 21.15,
+        "pe_ratio": 14.01,
         "forward_return": 16.41,
         "start_price": 14.1,
         "start_year": 2010
@@ -516,7 +435,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 12.1,
         "forward_return": 25.44,
         "start_price": 13.35,
         "start_year": 2010
@@ -525,7 +444,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 23.52,
+        "pe_ratio": 12.54,
         "forward_return": -16.24,
         "start_price": 15.05,
         "start_year": 2010
@@ -534,7 +453,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 14.65,
         "forward_return": -9.15,
         "start_price": 14.65,
         "start_year": 2010
@@ -543,7 +462,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 23.48,
+        "pe_ratio": 18.0,
         "forward_return": -27.61,
         "start_price": 14.4,
         "start_year": 2010
@@ -561,7 +480,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 22.94,
         "forward_return": -24.3,
         "start_price": 14.3,
         "start_year": 2011
@@ -570,7 +489,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 22.52,
+        "pe_ratio": 20.72,
         "forward_return": -10.18,
         "start_price": 13.4,
         "start_year": 2011
@@ -579,7 +498,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 21.86,
+        "pe_ratio": 19.33,
         "forward_return": -7.88,
         "start_price": 12.95,
         "start_year": 2011
@@ -588,7 +507,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 22.29,
+        "pe_ratio": 21.44,
         "forward_return": -15.76,
         "start_price": 13.15,
         "start_year": 2011
@@ -597,7 +516,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 23.44,
         "forward_return": -56.2,
         "start_price": 13.05,
         "start_year": 2011
@@ -606,7 +525,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 24.7,
         "forward_return": -50.41,
         "start_price": 12.35,
         "start_year": 2011
@@ -615,7 +534,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 30.5,
         "forward_return": -55.16,
         "start_price": 12.3,
         "start_year": 2011
@@ -624,7 +543,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.76,
+        "pe_ratio": 33.59,
         "forward_return": -9.83,
         "start_price": 10.3,
         "start_year": 2011
@@ -633,7 +552,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.4,
+        "pe_ratio": 47.86,
         "forward_return": -3.93,
         "start_price": 10.05,
         "start_year": 2011
@@ -642,7 +561,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 30.45,
         "forward_return": -1.96,
         "start_price": 10.05,
         "start_year": 2011
@@ -651,7 +570,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 17.45,
+        "pe_ratio": 22.2,
         "forward_return": 14.56,
         "start_price": 9.99,
         "start_year": 2011
@@ -669,7 +588,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 17.14,
         "forward_return": -1.8,
         "start_price": 10.0,
         "start_year": 2012
@@ -678,7 +597,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 23.3,
+        "pe_ratio": 18.35,
         "forward_return": -32.19,
         "start_price": 10.95,
         "start_year": 2012
@@ -687,7 +606,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 24.88,
+        "pe_ratio": 17.13,
         "forward_return": -13.13,
         "start_price": 10.45,
         "start_year": 2012
@@ -696,7 +615,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 27.57,
+        "pe_ratio": 15.85,
         "forward_return": -8.75,
         "start_price": 10.2,
         "start_year": 2012
@@ -705,7 +624,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 14.69,
         "forward_return": 4.47,
         "start_price": 9.94,
         "start_year": 2012
@@ -714,7 +633,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 36.74,
+        "pe_ratio": 13.97,
         "forward_return": 183.73,
         "start_price": 9.92,
         "start_year": 2012
@@ -723,7 +642,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 45.32,
+        "pe_ratio": 13.6,
         "forward_return": 50.43,
         "start_price": 9.97,
         "start_year": 2012
@@ -732,7 +651,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 59.12,
+        "pe_ratio": 13.28,
         "forward_return": 74.33,
         "start_price": 10.05,
         "start_year": 2012
@@ -741,7 +660,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 107.5,
+        "pe_ratio": 16.54,
         "forward_return": -22.66,
         "start_price": 12.9,
         "start_year": 2012
@@ -750,7 +669,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 157.9,
+        "pe_ratio": 21.67,
         "forward_return": 27.62,
         "start_price": 11.05,
         "start_year": 2012
@@ -759,7 +678,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 625.0,
+        "pe_ratio": 52.08,
         "forward_return": -1.21,
         "start_price": 12.5,
         "start_year": 2012
@@ -767,89 +686,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2013-01-16",
-        "pe_ratio": 1007.0,
-        "forward_return": 45.81,
-        "start_price": 11.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-02-14",
-        "pe_ratio": 216.6,
-        "forward_return": 77.28,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-03-16",
-        "pe_ratio": 131.0,
-        "forward_return": 12.51,
-        "start_price": 12.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-04-15",
-        "pe_ratio": 89.27,
-        "forward_return": 27.06,
-        "start_price": 12.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-05-16",
-        "pe_ratio": 74.58,
-        "forward_return": -12.77,
-        "start_price": 13.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-06-15",
-        "pe_ratio": 59.77,
-        "forward_return": -5.9,
-        "start_price": 13.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-07-16",
-        "pe_ratio": 49.49,
-        "forward_return": -4.52,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-08-16",
-        "pe_ratio": 42.36,
-        "forward_return": 15.92,
-        "start_price": 12.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2013-09-15",
-        "pe_ratio": 37.54,
-        "forward_return": 18.17,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 33.1,
+        "pe_ratio": 153.6,
         "forward_return": 44.76,
         "start_price": 12.8,
         "start_year": 2013
@@ -858,7 +696,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 46.27,
         "forward_return": 243.54,
         "start_price": 12.8,
         "start_year": 2013
@@ -876,7 +714,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 23.81,
+        "pe_ratio": 21.51,
         "forward_return": 291.52,
         "start_price": 14.05,
         "start_year": 2014
@@ -885,7 +723,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.41,
+        "pe_ratio": 22.41,
         "forward_return": 91.31,
         "start_price": 18.75,
         "start_year": 2014
@@ -894,7 +732,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.13,
+        "pe_ratio": 18.82,
         "forward_return": -27.43,
         "start_price": 19.2,
         "start_year": 2014
@@ -903,7 +741,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.32,
+        "pe_ratio": 19.97,
         "forward_return": -36.28,
         "start_price": 19.3,
         "start_year": 2014
@@ -912,7 +750,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 24.09,
         "forward_return": -56.87,
         "start_price": 22.0,
         "start_year": 2014
@@ -921,7 +759,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 22.97,
         "forward_return": -19.5,
         "start_price": 19.75,
         "start_year": 2014
@@ -930,7 +768,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 16.38,
         "forward_return": 34.87,
         "start_price": 17.25,
         "start_year": 2014
@@ -939,7 +777,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.28,
         "forward_return": 46.03,
         "start_price": 17.8,
         "start_year": 2014
@@ -948,7 +786,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.06,
+        "pe_ratio": 12.99,
         "forward_return": 36.3,
         "start_price": 18.7,
         "start_year": 2014
@@ -957,7 +795,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.65,
         "forward_return": 3.24,
         "start_price": 18.6,
         "start_year": 2014
@@ -966,7 +804,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 10.2,
+        "pe_ratio": 10.41,
         "forward_return": 49.99,
         "start_price": 18.25,
         "start_year": 2014
@@ -984,7 +822,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 10.21,
         "forward_return": -11.68,
         "start_price": 18.75,
         "start_year": 2015
@@ -993,7 +831,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 10.41,
         "forward_return": -7.52,
         "start_price": 18.35,
         "start_year": 2015
@@ -1002,7 +840,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 12.34,
         "forward_return": -59.24,
         "start_price": 20.85,
         "start_year": 2015
@@ -1011,7 +849,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.1,
+        "pe_ratio": 11.46,
         "forward_return": -65.22,
         "start_price": 20.1,
         "start_year": 2015
@@ -1020,7 +858,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 8.96,
+        "pe_ratio": 9.91,
         "forward_return": -51.51,
         "start_price": 18.0,
         "start_year": 2015
@@ -1029,7 +867,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 8.28,
+        "pe_ratio": 8.94,
         "forward_return": -40.35,
         "start_price": 16.8,
         "start_year": 2015
@@ -1038,7 +876,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.05,
+        "pe_ratio": 7.87,
         "forward_return": -4.06,
         "start_price": 14.45,
         "start_year": 2015
@@ -1047,7 +885,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 6.76,
+        "pe_ratio": 7.81,
         "forward_return": 27.92,
         "start_price": 14.0,
         "start_year": 2015
@@ -1056,7 +894,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 6.58,
+        "pe_ratio": 7.86,
         "forward_return": 49.54,
         "start_price": 13.75,
         "start_year": 2015
@@ -1065,7 +903,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 6.78,
+        "pe_ratio": 7.59,
         "forward_return": 72.29,
         "start_price": 14.3,
         "start_year": 2015
@@ -1074,7 +912,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.26,
         "forward_return": 38.01,
         "start_price": 14.65,
         "start_year": 2015
@@ -1092,7 +930,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.0,
+        "pe_ratio": 8.04,
         "forward_return": -21.28,
         "start_price": 16.4,
         "start_year": 2016
@@ -1101,7 +939,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 7.87,
+        "pe_ratio": 7.95,
         "forward_return": -5.13,
         "start_price": 15.35,
         "start_year": 2016
@@ -1110,7 +948,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.81,
+        "pe_ratio": 8.96,
         "forward_return": -21.25,
         "start_price": 16.3,
         "start_year": 2016
@@ -1119,7 +957,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.05,
         "forward_return": 1.34,
         "start_price": 15.0,
         "start_year": 2016
@@ -1128,7 +966,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 7.95,
         "forward_return": 6.71,
         "start_price": 15.15,
         "start_year": 2016
@@ -1137,7 +975,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 9.1,
+        "pe_ratio": 7.23,
         "forward_return": 71.42,
         "start_price": 14.1,
         "start_year": 2016
@@ -1146,7 +984,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 7.88,
         "forward_return": 7.25,
         "start_price": 14.05,
         "start_year": 2016
@@ -1155,7 +993,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 8.91,
         "forward_return": 13.0,
         "start_price": 14.4,
         "start_year": 2016
@@ -1164,7 +1002,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.12,
+        "pe_ratio": 10.45,
         "forward_return": -3.92,
         "start_price": 15.15,
         "start_year": 2016
@@ -1173,7 +1011,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.14,
         "forward_return": 35.95,
         "start_price": 14.3,
         "start_year": 2016
@@ -1182,7 +1020,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 12.54,
         "forward_return": 64.89,
         "start_price": 14.0,
         "start_year": 2016
@@ -1200,7 +1038,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 17.49,
         "forward_return": 81.73,
         "start_price": 15.45,
         "start_year": 2017
@@ -1209,7 +1047,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.8,
+        "pe_ratio": 19.53,
         "forward_return": 94.87,
         "start_price": 15.95,
         "start_year": 2017
@@ -1218,7 +1056,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 22.0,
         "forward_return": 66.16,
         "start_price": 16.5,
         "start_year": 2017
@@ -1227,7 +1065,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 23.77,
+        "pe_ratio": 23.15,
         "forward_return": 47.36,
         "start_price": 17.75,
         "start_year": 2017
@@ -1236,7 +1074,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.02,
+        "pe_ratio": 24.0,
         "forward_return": 161.49,
         "start_price": 18.8,
         "start_year": 2017
@@ -1245,7 +1083,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.91,
+        "pe_ratio": 23.31,
         "forward_return": 105.14,
         "start_price": 18.65,
         "start_year": 2017
@@ -1254,7 +1092,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 31.22,
+        "pe_ratio": 22.17,
         "forward_return": 171.22,
         "start_price": 18.55,
         "start_year": 2017
@@ -1263,7 +1101,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 42.24,
+        "pe_ratio": 26.28,
         "forward_return": 2.63,
         "start_price": 22.95,
         "start_year": 2017
@@ -1272,7 +1110,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 43.35,
+        "pe_ratio": 23.46,
         "forward_return": 38.39,
         "start_price": 21.35,
         "start_year": 2017
@@ -1281,7 +1119,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 54.0,
+        "pe_ratio": 33.12,
         "forward_return": 26.4,
         "start_price": 23.85,
         "start_year": 2017
@@ -1290,7 +1128,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 53.6,
+        "pe_ratio": 39.53,
         "forward_return": 25.11,
         "start_price": 20.95,
         "start_year": 2017
@@ -1308,7 +1146,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 56.33,
+        "pe_ratio": 66.0,
         "forward_return": -8.19,
         "start_price": 25.3,
         "start_year": 2018
@@ -1317,7 +1155,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 40.84,
+        "pe_ratio": 53.44,
         "forward_return": 36.12,
         "start_price": 22.8,
         "start_year": 2018
@@ -1326,7 +1164,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 33.78,
+        "pe_ratio": 47.98,
         "forward_return": 19.76,
         "start_price": 22.55,
         "start_year": 2018
@@ -1335,7 +1173,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 26.46,
+        "pe_ratio": 32.62,
         "forward_return": 84.88,
         "start_price": 20.55,
         "start_year": 2018
@@ -1344,7 +1182,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 27.77,
+        "pe_ratio": 31.14,
         "forward_return": -13.75,
         "start_price": 24.6,
         "start_year": 2018
@@ -1353,7 +1191,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 21.36,
+        "pe_ratio": 22.37,
         "forward_return": 23.27,
         "start_price": 21.25,
         "start_year": 2018
@@ -1362,7 +1200,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.78,
+        "pe_ratio": 25.31,
         "forward_return": -71.02,
         "start_price": 22.95,
         "start_year": 2018
@@ -1371,7 +1209,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.71,
+        "pe_ratio": 26.29,
         "forward_return": -48.81,
         "start_price": 22.7,
         "start_year": 2018
@@ -1380,7 +1218,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 26.1,
         "forward_return": -48.37,
         "start_price": 21.4,
         "start_year": 2018
@@ -1389,7 +1227,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 15.32,
         "forward_return": 43.5,
         "start_price": 16.8,
         "start_year": 2018
@@ -1398,7 +1236,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.92,
         "forward_return": 47.11,
         "start_price": 17.75,
         "start_year": 2018
@@ -1416,7 +1254,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 9.32,
         "forward_return": 92.05,
         "start_price": 18.4,
         "start_year": 2019
@@ -1425,7 +1263,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.66,
+        "pe_ratio": 8.56,
         "forward_return": 82.83,
         "start_price": 19.65,
         "start_year": 2019
@@ -1434,7 +1272,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 7.69,
         "forward_return": 16.43,
         "start_price": 20.15,
         "start_year": 2019
@@ -1443,7 +1281,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 9.94,
         "forward_return": -36.61,
         "start_price": 23.75,
         "start_year": 2019
@@ -1452,7 +1290,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 10.56,
         "forward_return": -5.96,
         "start_price": 22.8,
         "start_year": 2019
@@ -1461,7 +1299,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 10.91,
         "forward_return": 30.27,
         "start_price": 21.05,
         "start_year": 2019
@@ -1470,7 +1308,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.34,
+        "pe_ratio": 9.82,
         "forward_return": 7.09,
         "start_price": 20.1,
         "start_year": 2019
@@ -1479,7 +1317,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 9.87,
         "forward_return": 10.89,
         "start_price": 21.35,
         "start_year": 2019
@@ -1488,7 +1326,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 9.39,
         "forward_return": 13.79,
         "start_price": 21.4,
         "start_year": 2019
@@ -1497,7 +1335,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.21,
+        "pe_ratio": 9.56,
         "forward_return": 0.97,
         "start_price": 20.45,
         "start_year": 2019
@@ -1506,7 +1344,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.29,
+        "pe_ratio": 10.4,
         "forward_return": -55.55,
         "start_price": 20.8,
         "start_year": 2019
@@ -1524,7 +1362,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 13.25,
         "forward_return": -28.43,
         "start_price": 20.5,
         "start_year": 2020
@@ -1533,7 +1371,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 16.14,
         "forward_return": -27.78,
         "start_price": 19.9,
         "start_year": 2020
@@ -1542,7 +1380,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 17.28,
         "forward_return": 98.74,
         "start_price": 15.9,
         "start_year": 2020
@@ -1551,7 +1389,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 14.84,
+        "pe_ratio": 19.72,
         "forward_return": 22.86,
         "start_price": 19.0,
         "start_year": 2020
@@ -1560,7 +1398,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 18.23,
         "forward_return": 58.28,
         "start_price": 18.35,
         "start_year": 2020
@@ -1569,7 +1407,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.65,
+        "pe_ratio": 18.52,
         "forward_return": -3.03,
         "start_price": 19.45,
         "start_year": 2020
@@ -1578,7 +1416,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 22.72,
+        "pe_ratio": 21.57,
         "forward_return": -19.13,
         "start_price": 19.2,
         "start_year": 2020
@@ -1587,7 +1425,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 28.29,
+        "pe_ratio": 27.12,
         "forward_return": -8.8,
         "start_price": 19.8,
         "start_year": 2020
@@ -1596,7 +1434,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 33.33,
+        "pe_ratio": 32.46,
         "forward_return": 16.08,
         "start_price": 18.5,
         "start_year": 2020
@@ -1605,7 +1443,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 44.39,
+        "pe_ratio": 43.33,
         "forward_return": -12.46,
         "start_price": 18.2,
         "start_year": 2020
@@ -1614,7 +1452,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 70.38,
+        "pe_ratio": 69.07,
         "forward_return": -11.74,
         "start_price": 18.65,
         "start_year": 2020
@@ -1632,7 +1470,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 85.16,
+        "pe_ratio": 91.03,
         "forward_return": -10.02,
         "start_price": 17.6,
         "start_year": 2021
@@ -1641,7 +1479,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 62.22,
+        "pe_ratio": 68.44,
         "forward_return": -25.02,
         "start_price": 18.25,
         "start_year": 2021
@@ -1650,7 +1488,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 47.11,
+        "pe_ratio": 52.65,
         "forward_return": 14.9,
         "start_price": 17.9,
         "start_year": 2021
@@ -1659,7 +1497,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 42.43,
+        "pe_ratio": 47.9,
         "forward_return": -19.64,
         "start_price": 19.8,
         "start_year": 2021
@@ -1668,7 +1506,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 30.72,
+        "pe_ratio": 34.93,
         "forward_return": 22.73,
         "start_price": 17.0,
         "start_year": 2021
@@ -1677,7 +1515,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.03,
+        "pe_ratio": 30.89,
         "forward_return": 11.98,
         "start_price": 17.3,
         "start_year": 2021
@@ -1686,7 +1524,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.11,
+        "pe_ratio": 34.01,
         "forward_return": -18.19,
         "start_price": 18.25,
         "start_year": 2021
@@ -1695,7 +1533,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 33.9,
         "forward_return": 158.64,
         "start_price": 17.4,
         "start_year": 2021
@@ -1704,7 +1542,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.22,
+        "pe_ratio": 35.31,
         "forward_return": 265.88,
         "start_price": 17.3,
         "start_year": 2021
@@ -1713,7 +1551,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 17.58,
+        "pe_ratio": 24.32,
         "forward_return": 82.91,
         "start_price": 17.35,
         "start_year": 2021
@@ -1722,7 +1560,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 18.68,
         "forward_return": 309.09,
         "start_price": 17.5,
         "start_year": 2021
@@ -1740,7 +1578,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 15.71,
+        "pe_ratio": 16.07,
         "forward_return": 150.12,
         "start_price": 20.2,
         "start_year": 2022
@@ -1749,7 +1587,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.73,
+        "pe_ratio": 16.4,
         "forward_return": 131.46,
         "start_price": 22.2,
         "start_year": 2022
@@ -1758,7 +1596,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 18.08,
+        "pe_ratio": 19.17,
         "forward_return": 30.69,
         "start_price": 27.8,
         "start_year": 2022
@@ -1767,7 +1605,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.52,
+        "pe_ratio": 14.7,
         "forward_return": 151.88,
         "start_price": 24.15,
         "start_year": 2022
@@ -1776,7 +1614,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 14.86,
         "forward_return": 18.62,
         "start_price": 27.3,
         "start_year": 2022
@@ -1785,7 +1623,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.49,
         "forward_return": -22.16,
         "start_price": 25.35,
         "start_year": 2022
@@ -1794,7 +1632,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 14.45,
+        "pe_ratio": 12.14,
         "forward_return": -65.88,
         "start_price": 29.5,
         "start_year": 2022
@@ -1803,7 +1641,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 12.74,
+        "pe_ratio": 9.75,
         "forward_return": -15.41,
         "start_price": 27.6,
         "start_year": 2022
@@ -1812,7 +1650,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.99,
+        "pe_ratio": 7.09,
         "forward_return": 69.04,
         "start_price": 22.9,
         "start_year": 2022
@@ -1821,7 +1659,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.3,
+        "pe_ratio": 7.39,
         "forward_return": 100.23,
         "start_price": 22.5,
         "start_year": 2022
@@ -1830,7 +1668,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.98,
+        "pe_ratio": 8.89,
         "forward_return": 98.18,
         "start_price": 25.4,
         "start_year": 2022
@@ -1848,7 +1686,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 10.57,
         "forward_return": 79.85,
         "start_price": 26.8,
         "start_year": 2023
@@ -1857,7 +1695,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 9.7,
+        "pe_ratio": 11.07,
         "forward_return": 125.47,
         "start_price": 26.6,
         "start_year": 2023
@@ -1866,7 +1704,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 14.01,
         "forward_return": 118.71,
         "start_price": 31.8,
         "start_year": 2023
@@ -1875,7 +1713,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.98,
         "forward_return": 127.55,
         "start_price": 33.65,
         "start_year": 2023
@@ -1884,7 +1722,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.14,
         "forward_return": 215.26,
         "start_price": 32.5,
         "start_year": 2023
@@ -1893,7 +1731,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.8,
         "forward_return": 45.99,
         "start_price": 35.0,
         "start_year": 2023
@@ -1902,7 +1740,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 12.45,
         "forward_return": -48.95,
         "start_price": 39.8,
         "start_year": 2023
@@ -1911,7 +1749,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 14.14,
+        "pe_ratio": 13.29,
         "forward_return": -18.7,
         "start_price": 41.9,
         "start_year": 2023
@@ -1920,7 +1758,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 12.33,
+        "pe_ratio": 11.9,
         "forward_return": 24.8,
         "start_price": 37.0,
         "start_year": 2023
@@ -1929,7 +1767,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 10.8,
         "forward_return": 92.0,
         "start_price": 33.6,
         "start_year": 2023
@@ -1938,7 +1776,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.37,
+        "pe_ratio": 13.22,
         "forward_return": 454.72,
         "start_price": 41.1,
         "start_year": 2023
@@ -1956,7 +1794,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.75,
         "forward_return": 8772.15,
         "start_price": 39.6,
         "start_year": 2024
@@ -1965,7 +1803,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 12.78,
         "forward_return": 38629.02,
         "start_price": 39.65,
         "start_year": 2024
@@ -1974,7 +1812,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 28.52,
+        "pe_ratio": 23.39,
         "forward_return": 708.17,
         "start_price": 72.5,
         "start_year": 2024
@@ -1983,7 +1821,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 43.34,
+        "pe_ratio": 40.96,
         "forward_return": 318.37,
         "start_price": 102.0,
         "start_year": 2024
@@ -1992,7 +1830,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 80.86,
+        "pe_ratio": 93.09,
         "forward_return": -29.59,
         "start_price": 175.0,
         "start_year": 2024
@@ -2001,7 +1839,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 84.05,
+        "pe_ratio": 130.7,
         "forward_return": -30.07,
         "start_price": 166.0,
         "start_year": 2024
@@ -2010,7 +1848,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 80.63,
+        "pe_ratio": 173.5,
         "forward_return": -9.31,
         "start_price": 144.0,
         "start_year": 2024
@@ -2019,7 +1857,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 99.27,
+        "pe_ratio": 406.4,
         "forward_return": 19.04,
         "start_price": 158.5,
         "start_year": 2024
@@ -2027,17 +1865,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2024-09-15",
-        "pe_ratio": 106.6,
-        "forward_return": 57.6,
-        "start_price": 150.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 115.3,
+        "pe_ratio": 569.6,
         "forward_return": 1.42,
         "start_price": 140.5,
         "start_year": 2024
@@ -2046,7 +1875,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 138.0,
+        "pe_ratio": 261.3,
         "forward_return": -12.31,
         "start_price": 142.0,
         "start_year": 2024
@@ -2064,7 +1893,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 165.7,
+        "pe_ratio": 178.5,
         "forward_return": 3.27,
         "start_price": 141.0,
         "start_year": 2025
@@ -2073,7 +1902,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 182.2,
+        "pe_ratio": 212.2,
         "forward_return": -32.52,
         "start_price": 157.0,
         "start_year": 2025
@@ -2082,7 +1911,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 155.9,
+        "pe_ratio": 197.1,
         "forward_return": 5.6,
         "start_price": 136.0,
         "start_year": 2025
@@ -2091,7 +1920,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 149.4,
+        "pe_ratio": 421.3,
         "forward_return": 21.28,
         "start_price": 132.0,
         "start_year": 2025
@@ -2099,26 +1928,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2025-05-16",
-        "pe_ratio": 159.4,
-        "forward_return": 50.67,
-        "start_price": 142.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2025-06-15",
-        "pe_ratio": 150.8,
-        "forward_return": 20.28,
-        "start_price": 136.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 150.1,
+        "pe_ratio": 4583.0,
         "forward_return": -16.23,
         "start_price": 137.5,
         "start_year": 2025
@@ -2127,7 +1938,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 169.4,
+        "pe_ratio": 314.0,
         "forward_return": -48.85,
         "start_price": 157.0,
         "start_year": 2025
@@ -2136,7 +1947,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 151.5,
+        "pe_ratio": 146.4,
         "forward_return": -39.09,
         "start_price": 142.0,
         "start_year": 2025
@@ -2145,7 +1956,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 138.7,
+        "pe_ratio": 135.6,
         "forward_return": 1.52,
         "start_price": 131.5,
         "start_year": 2025
@@ -2154,7 +1965,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 2.12,
+        "pe_ratio": 1.8,
         "forward_return": 164.17,
         "start_price": 5.66,
         "start_year": 2006
@@ -2163,7 +1974,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 2.7,
+        "pe_ratio": 2.43,
         "forward_return": 92.64,
         "start_price": 7.2,
         "start_year": 2006
@@ -2172,7 +1983,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 4.06,
         "forward_return": -12.49,
         "start_price": 11.3,
         "start_year": 2006
@@ -2181,7 +1992,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 3.48,
+        "pe_ratio": 3.58,
         "forward_return": 26.2,
         "start_price": 9.3,
         "start_year": 2006
@@ -2190,7 +2001,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 3.4,
+        "pe_ratio": 3.59,
         "forward_return": 34.4,
         "start_price": 9.09,
         "start_year": 2006
@@ -2199,7 +2010,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 3.09,
+        "pe_ratio": 3.34,
         "forward_return": 125.21,
         "start_price": 8.24,
         "start_year": 2006
@@ -2208,7 +2019,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 3.04,
+        "pe_ratio": 3.39,
         "forward_return": 165.92,
         "start_price": 8.13,
         "start_year": 2006
@@ -2217,7 +2028,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 3.75,
+        "pe_ratio": 4.02,
         "forward_return": 94.21,
         "start_price": 10.0,
         "start_year": 2006
@@ -2226,7 +2037,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 4.27,
+        "pe_ratio": 4.42,
         "forward_return": 67.04,
         "start_price": 11.4,
         "start_year": 2006
@@ -2244,7 +2055,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 3.79,
+        "pe_ratio": 5.49,
         "forward_return": 412.04,
         "start_price": 10.55,
         "start_year": 2007
@@ -2253,7 +2064,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 8.76,
         "forward_return": 619.43,
         "start_price": 10.25,
         "start_year": 2007
@@ -2262,7 +2073,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 4.39,
+        "pe_ratio": 31.43,
         "forward_return": 243.49,
         "start_price": 13.2,
         "start_year": 2007
@@ -2271,7 +2082,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 4.14,
+        "pe_ratio": 9.97,
         "forward_return": 343.23,
         "start_price": 12.9,
         "start_year": 2007
@@ -2280,7 +2091,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 4.55,
+        "pe_ratio": 6.78,
         "forward_return": 59.15,
         "start_price": 14.7,
         "start_year": 2007
@@ -2289,7 +2100,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 6.38,
+        "pe_ratio": 7.01,
         "forward_return": -17.86,
         "start_price": 21.3,
         "start_year": 2007
@@ -2298,7 +2109,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 6.87,
+        "pe_ratio": 7.28,
         "forward_return": -47.38,
         "start_price": 23.7,
         "start_year": 2007
@@ -2307,7 +2118,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 7.69,
+        "pe_ratio": 7.89,
         "forward_return": -39.7,
         "start_price": 27.4,
         "start_year": 2007
@@ -2316,7 +2127,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 7.84,
+        "pe_ratio": 7.8,
         "forward_return": -49.95,
         "start_price": 28.8,
         "start_year": 2007
@@ -2325,7 +2136,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": -30.5,
         "start_price": 27.2,
         "start_year": 2007
@@ -2334,7 +2145,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 5.4,
+        "pe_ratio": 5.39,
         "forward_return": 9.26,
         "start_price": 21.05,
         "start_year": 2007
@@ -2352,7 +2163,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 4.66,
+        "pe_ratio": 4.73,
         "forward_return": -41.76,
         "start_price": 17.15,
         "start_year": 2008
@@ -2361,7 +2172,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 6.01,
+        "pe_ratio": 6.2,
         "forward_return": -57.45,
         "start_price": 20.1,
         "start_year": 2008
@@ -2370,7 +2181,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 6.77,
+        "pe_ratio": 7.13,
         "forward_return": -79.98,
         "start_price": 20.4,
         "start_year": 2008
@@ -2379,7 +2190,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.71,
         "forward_return": -81.37,
         "start_price": 18.45,
         "start_year": 2008
@@ -2388,7 +2199,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 11.42,
         "forward_return": -87.68,
         "start_price": 22.0,
         "start_year": 2008
@@ -2397,7 +2208,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 7.25,
+        "pe_ratio": 10.0,
         "forward_return": -80.42,
         "start_price": 14.6,
         "start_year": 2008
@@ -2406,7 +2217,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.79,
+        "pe_ratio": 10.29,
         "forward_return": -80.36,
         "start_price": 13.1,
         "start_year": 2008
@@ -2415,7 +2226,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 9.7,
+        "pe_ratio": 12.06,
         "forward_return": -53.02,
         "start_price": 13.1,
         "start_year": 2008
@@ -2424,7 +2235,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 8.79,
         "forward_return": 14.26,
         "start_price": 7.91,
         "start_year": 2008
@@ -2433,7 +2244,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 13.1,
         "forward_return": 21.47,
         "start_price": 7.95,
         "start_year": 2008
@@ -2442,7 +2253,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 19.12,
+        "pe_ratio": 21.51,
         "forward_return": 75.24,
         "start_price": 6.74,
         "start_year": 2008
@@ -2459,89 +2270,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2009-01-16",
-        "pe_ratio": 70.65,
-        "forward_return": 431.19,
-        "start_price": 5.77,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-02-14",
-        "pe_ratio": 51.56,
-        "forward_return": 149.3,
-        "start_price": 7.39,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-03-16",
-        "pe_ratio": 41.22,
-        "forward_return": 123.89,
-        "start_price": 8.45,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-04-15",
-        "pe_ratio": 32.78,
-        "forward_return": 139.92,
-        "start_price": 8.74,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-05-16",
-        "pe_ratio": 27.11,
-        "forward_return": 177.96,
-        "start_price": 8.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-06-15",
-        "pe_ratio": 23.41,
-        "forward_return": 214.1,
-        "start_price": 9.13,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-07-16",
-        "pe_ratio": 29.23,
-        "forward_return": -2.24,
-        "start_price": 13.2,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-08-16",
-        "pe_ratio": 22.69,
-        "forward_return": 45.8,
-        "start_price": 11.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2009-09-15",
-        "pe_ratio": 22.17,
-        "forward_return": 29.63,
-        "start_price": 12.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.28,
+        "pe_ratio": 81.3,
         "forward_return": -8.12,
         "start_price": 13.55,
         "start_year": 2009
@@ -2550,7 +2280,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 19.98,
+        "pe_ratio": 30.11,
         "forward_return": -14.61,
         "start_price": 13.95,
         "start_year": 2009
@@ -2568,7 +2298,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 14.13,
         "forward_return": 16.9,
         "start_price": 13.05,
         "start_year": 2010
@@ -2577,7 +2307,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.86,
+        "pe_ratio": 12.06,
         "forward_return": 3.87,
         "start_price": 13.1,
         "start_year": 2010
@@ -2586,7 +2316,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 11.6,
         "forward_return": 1.77,
         "start_price": 14.5,
         "start_year": 2010
@@ -2595,7 +2325,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 12.89,
         "forward_return": 0.0,
         "start_price": 14.65,
         "start_year": 2010
@@ -2604,7 +2334,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 18.61,
+        "pe_ratio": 12.61,
         "forward_return": 20.65,
         "start_price": 12.9,
         "start_year": 2010
@@ -2613,7 +2343,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 19.56,
+        "pe_ratio": 14.62,
         "forward_return": 17.19,
         "start_price": 13.3,
         "start_year": 2010
@@ -2622,7 +2352,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 21.15,
+        "pe_ratio": 14.01,
         "forward_return": 2.84,
         "start_price": 14.1,
         "start_year": 2010
@@ -2631,7 +2361,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 12.1,
         "forward_return": -5.11,
         "start_price": 13.35,
         "start_year": 2010
@@ -2640,7 +2370,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 23.52,
+        "pe_ratio": 12.54,
         "forward_return": -26.16,
         "start_price": 15.05,
         "start_year": 2010
@@ -2649,7 +2379,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 14.65,
         "forward_return": -18.07,
         "start_price": 14.65,
         "start_year": 2010
@@ -2658,7 +2388,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 23.48,
+        "pe_ratio": 18.0,
         "forward_return": -18.02,
         "start_price": 14.4,
         "start_year": 2010
@@ -2676,7 +2406,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 22.94,
         "forward_return": -22.54,
         "start_price": 14.3,
         "start_year": 2011
@@ -2685,7 +2415,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 22.52,
+        "pe_ratio": 20.72,
         "forward_return": -37.53,
         "start_price": 13.4,
         "start_year": 2011
@@ -2694,7 +2424,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 21.86,
+        "pe_ratio": 19.33,
         "forward_return": -31.78,
         "start_price": 12.95,
         "start_year": 2011
@@ -2703,7 +2433,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 22.29,
+        "pe_ratio": 21.44,
         "forward_return": -37.99,
         "start_price": 13.15,
         "start_year": 2011
@@ -2712,7 +2442,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 23.44,
         "forward_return": -33.78,
         "start_price": 13.05,
         "start_year": 2011
@@ -2721,7 +2451,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 24.7,
         "forward_return": -31.06,
         "start_price": 12.35,
         "start_year": 2011
@@ -2730,7 +2460,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 30.5,
         "forward_return": -33.7,
         "start_price": 12.3,
         "start_year": 2011
@@ -2739,7 +2469,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.76,
+        "pe_ratio": 33.59,
         "forward_return": 2.51,
         "start_price": 10.3,
         "start_year": 2011
@@ -2748,7 +2478,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.4,
+        "pe_ratio": 47.86,
         "forward_return": 8.15,
         "start_price": 10.05,
         "start_year": 2011
@@ -2757,7 +2487,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 30.45,
         "forward_return": -1.87,
         "start_price": 10.05,
         "start_year": 2011
@@ -2766,7 +2496,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 17.45,
+        "pe_ratio": 22.2,
         "forward_return": -1.0,
         "start_price": 9.99,
         "start_year": 2011
@@ -2784,7 +2514,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 17.14,
         "forward_return": -0.6,
         "start_price": 10.0,
         "start_year": 2012
@@ -2793,7 +2523,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 23.3,
+        "pe_ratio": 18.35,
         "forward_return": -15.73,
         "start_price": 10.95,
         "start_year": 2012
@@ -2802,7 +2532,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 24.88,
+        "pe_ratio": 17.13,
         "forward_return": 10.0,
         "start_price": 10.45,
         "start_year": 2012
@@ -2811,7 +2541,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 27.57,
+        "pe_ratio": 15.85,
         "forward_return": 17.32,
         "start_price": 10.2,
         "start_year": 2012
@@ -2820,7 +2550,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 14.69,
         "forward_return": 39.88,
         "start_price": 9.94,
         "start_year": 2012
@@ -2829,7 +2559,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 36.74,
+        "pe_ratio": 13.97,
         "forward_return": 48.66,
         "start_price": 9.92,
         "start_year": 2012
@@ -2838,7 +2568,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 45.32,
+        "pe_ratio": 13.6,
         "forward_return": 38.55,
         "start_price": 9.97,
         "start_year": 2012
@@ -2847,7 +2577,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 59.12,
+        "pe_ratio": 13.28,
         "forward_return": 44.62,
         "start_price": 10.05,
         "start_year": 2012
@@ -2856,7 +2586,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 107.5,
+        "pe_ratio": 16.54,
         "forward_return": -6.91,
         "start_price": 12.9,
         "start_year": 2012
@@ -2865,7 +2595,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 157.9,
+        "pe_ratio": 21.67,
         "forward_return": 37.62,
         "start_price": 11.05,
         "start_year": 2012
@@ -2874,7 +2604,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 625.0,
+        "pe_ratio": 52.08,
         "forward_return": 13.34,
         "start_price": 12.5,
         "start_year": 2012
@@ -2882,89 +2612,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2013-01-16",
-        "pe_ratio": 1007.0,
-        "forward_return": 21.68,
-        "start_price": 11.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-02-14",
-        "pe_ratio": 216.6,
-        "forward_return": 23.87,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-03-16",
-        "pe_ratio": 131.0,
-        "forward_return": 4.85,
-        "start_price": 12.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-04-15",
-        "pe_ratio": 89.27,
-        "forward_return": 10.06,
-        "start_price": 12.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-05-16",
-        "pe_ratio": 74.58,
-        "forward_return": 2.58,
-        "start_price": 13.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-06-15",
-        "pe_ratio": 59.77,
-        "forward_return": 5.38,
-        "start_price": 13.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-07-16",
-        "pe_ratio": 49.49,
-        "forward_return": 17.57,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-08-16",
-        "pe_ratio": 42.36,
-        "forward_return": 99.74,
-        "start_price": 12.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2013-09-15",
-        "pe_ratio": 37.54,
-        "forward_return": 121.38,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 33.1,
+        "pe_ratio": 153.6,
         "forward_return": 154.24,
         "start_price": 12.8,
         "start_year": 2013
@@ -2973,7 +2622,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 46.27,
         "forward_return": 198.3,
         "start_price": 12.8,
         "start_year": 2013
@@ -2991,7 +2640,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 23.81,
+        "pe_ratio": 21.51,
         "forward_return": 51.3,
         "start_price": 14.05,
         "start_year": 2014
@@ -3000,7 +2649,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.41,
+        "pe_ratio": 22.41,
         "forward_return": -9.91,
         "start_price": 18.75,
         "start_year": 2014
@@ -3009,7 +2658,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.13,
+        "pe_ratio": 18.82,
         "forward_return": -5.27,
         "start_price": 19.2,
         "start_year": 2014
@@ -3018,7 +2667,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.32,
+        "pe_ratio": 19.97,
         "forward_return": -7.11,
         "start_price": 19.3,
         "start_year": 2014
@@ -3027,7 +2676,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 24.09,
         "forward_return": -13.56,
         "start_price": 22.0,
         "start_year": 2014
@@ -3036,7 +2685,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 22.97,
         "forward_return": 4.6,
         "start_price": 19.75,
         "start_year": 2014
@@ -3045,7 +2694,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 16.38,
         "forward_return": 18.0,
         "start_price": 17.25,
         "start_year": 2014
@@ -3054,7 +2703,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.28,
         "forward_return": 31.32,
         "start_price": 17.8,
         "start_year": 2014
@@ -3063,7 +2712,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.06,
+        "pe_ratio": 12.99,
         "forward_return": 24.56,
         "start_price": 18.7,
         "start_year": 2014
@@ -3072,7 +2721,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.65,
         "forward_return": -5.49,
         "start_price": 18.6,
         "start_year": 2014
@@ -3081,7 +2730,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 10.2,
+        "pe_ratio": 10.41,
         "forward_return": -2.75,
         "start_price": 18.25,
         "start_year": 2014
@@ -3099,7 +2748,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 10.21,
         "forward_return": -32.34,
         "start_price": 18.75,
         "start_year": 2015
@@ -3108,7 +2757,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 10.41,
         "forward_return": -33.27,
         "start_price": 18.35,
         "start_year": 2015
@@ -3117,7 +2766,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 12.34,
         "forward_return": -41.04,
         "start_price": 20.85,
         "start_year": 2015
@@ -3126,7 +2775,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.1,
+        "pe_ratio": 11.46,
         "forward_return": -41.99,
         "start_price": 20.1,
         "start_year": 2015
@@ -3135,7 +2784,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 8.96,
+        "pe_ratio": 9.91,
         "forward_return": -16.46,
         "start_price": 18.0,
         "start_year": 2015
@@ -3144,7 +2793,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 8.28,
+        "pe_ratio": 8.94,
         "forward_return": -7.0,
         "start_price": 16.8,
         "start_year": 2015
@@ -3153,7 +2802,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.05,
+        "pe_ratio": 7.87,
         "forward_return": 28.57,
         "start_price": 14.45,
         "start_year": 2015
@@ -3162,7 +2811,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 6.76,
+        "pe_ratio": 7.81,
         "forward_return": 29.8,
         "start_price": 14.0,
         "start_year": 2015
@@ -3171,7 +2820,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 6.58,
+        "pe_ratio": 7.86,
         "forward_return": 40.69,
         "start_price": 13.75,
         "start_year": 2015
@@ -3180,7 +2829,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 6.78,
+        "pe_ratio": 7.59,
         "forward_return": 10.41,
         "start_price": 14.3,
         "start_year": 2015
@@ -3189,7 +2838,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.26,
         "forward_return": 6.97,
         "start_price": 14.65,
         "start_year": 2015
@@ -3207,7 +2856,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.0,
+        "pe_ratio": 8.04,
         "forward_return": -15.84,
         "start_price": 16.4,
         "start_year": 2016
@@ -3216,7 +2865,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 7.87,
+        "pe_ratio": 7.95,
         "forward_return": 0.65,
         "start_price": 15.35,
         "start_year": 2016
@@ -3225,7 +2874,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.81,
+        "pe_ratio": 8.96,
         "forward_return": -10.24,
         "start_price": 16.3,
         "start_year": 2016
@@ -3234,7 +2883,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.05,
         "forward_return": 4.03,
         "start_price": 15.0,
         "start_year": 2016
@@ -3243,7 +2892,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 7.95,
         "forward_return": 9.76,
         "start_price": 15.15,
         "start_year": 2016
@@ -3252,7 +2901,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 9.1,
+        "pe_ratio": 7.23,
         "forward_return": 28.7,
         "start_price": 14.1,
         "start_year": 2016
@@ -3261,7 +2910,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 7.88,
         "forward_return": 20.75,
         "start_price": 14.05,
         "start_year": 2016
@@ -3270,7 +2919,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 8.91,
         "forward_return": 26.43,
         "start_price": 14.4,
         "start_year": 2016
@@ -3279,7 +2928,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.12,
+        "pe_ratio": 10.45,
         "forward_return": 18.8,
         "start_price": 15.15,
         "start_year": 2016
@@ -3288,7 +2937,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.14,
         "forward_return": 60.22,
         "start_price": 14.3,
         "start_year": 2016
@@ -3297,7 +2946,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 12.54,
         "forward_return": 81.28,
         "start_price": 14.0,
         "start_year": 2016
@@ -3315,7 +2964,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 17.49,
         "forward_return": 60.79,
         "start_price": 15.45,
         "start_year": 2017
@@ -3324,7 +2973,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.8,
+        "pe_ratio": 19.53,
         "forward_return": 126.1,
         "start_price": 15.95,
         "start_year": 2017
@@ -3333,7 +2982,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 22.0,
         "forward_return": 101.16,
         "start_price": 16.5,
         "start_year": 2017
@@ -3342,7 +2991,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 23.77,
+        "pe_ratio": 23.15,
         "forward_return": 95.73,
         "start_price": 17.75,
         "start_year": 2017
@@ -3351,7 +3000,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.02,
+        "pe_ratio": 24.0,
         "forward_return": 53.33,
         "start_price": 18.8,
         "start_year": 2017
@@ -3360,7 +3009,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.91,
+        "pe_ratio": 23.31,
         "forward_return": 67.5,
         "start_price": 18.65,
         "start_year": 2017
@@ -3369,7 +3018,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 31.22,
+        "pe_ratio": 22.17,
         "forward_return": 85.16,
         "start_price": 18.55,
         "start_year": 2017
@@ -3378,7 +3027,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 42.24,
+        "pe_ratio": 26.28,
         "forward_return": -2.98,
         "start_price": 22.95,
         "start_year": 2017
@@ -3387,7 +3036,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 43.35,
+        "pe_ratio": 23.46,
         "forward_return": 11.67,
         "start_price": 21.35,
         "start_year": 2017
@@ -3396,7 +3045,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 54.0,
+        "pe_ratio": 33.12,
         "forward_return": 5.48,
         "start_price": 23.85,
         "start_year": 2017
@@ -3405,7 +3054,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 53.6,
+        "pe_ratio": 39.53,
         "forward_return": 38.28,
         "start_price": 20.95,
         "start_year": 2017
@@ -3423,7 +3072,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 56.33,
+        "pe_ratio": 66.0,
         "forward_return": -10.48,
         "start_price": 25.3,
         "start_year": 2018
@@ -3432,7 +3081,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 40.84,
+        "pe_ratio": 53.44,
         "forward_return": 8.08,
         "start_price": 22.8,
         "start_year": 2018
@@ -3441,7 +3090,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 33.78,
+        "pe_ratio": 47.98,
         "forward_return": -33.22,
         "start_price": 22.55,
         "start_year": 2018
@@ -3450,7 +3099,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 26.46,
+        "pe_ratio": 32.62,
         "forward_return": -24.93,
         "start_price": 20.55,
         "start_year": 2018
@@ -3459,7 +3108,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 27.77,
+        "pe_ratio": 31.14,
         "forward_return": -34.78,
         "start_price": 24.6,
         "start_year": 2018
@@ -3468,7 +3117,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 21.36,
+        "pe_ratio": 22.37,
         "forward_return": -18.75,
         "start_price": 21.25,
         "start_year": 2018
@@ -3477,7 +3126,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.78,
+        "pe_ratio": 25.31,
         "forward_return": -35.51,
         "start_price": 22.95,
         "start_year": 2018
@@ -3486,7 +3135,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.71,
+        "pe_ratio": 26.29,
         "forward_return": -18.56,
         "start_price": 22.7,
         "start_year": 2018
@@ -3495,7 +3144,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 26.1,
         "forward_return": -11.44,
         "start_price": 21.4,
         "start_year": 2018
@@ -3504,7 +3153,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 15.32,
         "forward_return": 69.24,
         "start_price": 16.8,
         "start_year": 2018
@@ -3513,7 +3162,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.92,
         "forward_return": 65.74,
         "start_price": 17.75,
         "start_year": 2018
@@ -3531,7 +3180,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 9.32,
         "forward_return": 33.09,
         "start_price": 18.4,
         "start_year": 2019
@@ -3540,7 +3189,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.66,
+        "pe_ratio": 8.56,
         "forward_return": 30.65,
         "start_price": 19.65,
         "start_year": 2019
@@ -3549,7 +3198,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 7.69,
         "forward_return": 12.15,
         "start_price": 20.15,
         "start_year": 2019
@@ -3558,7 +3207,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 9.94,
         "forward_return": -17.64,
         "start_price": 23.75,
         "start_year": 2019
@@ -3567,7 +3216,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 10.56,
         "forward_return": 3.01,
         "start_price": 22.8,
         "start_year": 2019
@@ -3576,7 +3225,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 10.91,
         "forward_return": 21.42,
         "start_price": 21.05,
         "start_year": 2019
@@ -3585,7 +3234,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.34,
+        "pe_ratio": 9.82,
         "forward_return": 3.99,
         "start_price": 20.1,
         "start_year": 2019
@@ -3594,7 +3243,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 9.87,
         "forward_return": -39.67,
         "start_price": 21.35,
         "start_year": 2019
@@ -3603,7 +3252,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 9.39,
         "forward_return": -44.91,
         "start_price": 21.4,
         "start_year": 2019
@@ -3612,7 +3261,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.21,
+        "pe_ratio": 9.56,
         "forward_return": -16.96,
         "start_price": 20.45,
         "start_year": 2019
@@ -3621,7 +3270,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.29,
+        "pe_ratio": 10.4,
         "forward_return": -22.24,
         "start_price": 20.8,
         "start_year": 2019
@@ -3639,7 +3288,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 13.25,
         "forward_return": -4.83,
         "start_price": 20.5,
         "start_year": 2020
@@ -3648,7 +3297,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 16.14,
         "forward_return": 7.14,
         "start_price": 19.9,
         "start_year": 2020
@@ -3657,7 +3306,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 17.28,
         "forward_return": 35.53,
         "start_price": 15.9,
         "start_year": 2020
@@ -3666,7 +3315,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 14.84,
+        "pe_ratio": 19.72,
         "forward_return": 0.0,
         "start_price": 19.0,
         "start_year": 2020
@@ -3675,7 +3324,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 18.23,
         "forward_return": 15.83,
         "start_price": 18.35,
         "start_year": 2020
@@ -3684,7 +3333,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.65,
+        "pe_ratio": 18.52,
         "forward_return": 5.72,
         "start_price": 19.45,
         "start_year": 2020
@@ -3693,7 +3342,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 22.72,
+        "pe_ratio": 21.57,
         "forward_return": -15.86,
         "start_price": 19.2,
         "start_year": 2020
@@ -3702,7 +3351,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 28.29,
+        "pe_ratio": 27.12,
         "forward_return": -15.95,
         "start_price": 19.8,
         "start_year": 2020
@@ -3711,7 +3360,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 33.33,
+        "pe_ratio": 32.46,
         "forward_return": -6.44,
         "start_price": 18.5,
         "start_year": 2020
@@ -3720,7 +3369,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 44.39,
+        "pe_ratio": 43.33,
         "forward_return": -11.09,
         "start_price": 18.2,
         "start_year": 2020
@@ -3729,7 +3378,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 70.38,
+        "pe_ratio": 69.07,
         "forward_return": -17.05,
         "start_price": 18.65,
         "start_year": 2020
@@ -3747,7 +3396,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 85.16,
+        "pe_ratio": 91.03,
         "forward_return": 13.62,
         "start_price": 17.6,
         "start_year": 2021
@@ -3756,7 +3405,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 62.22,
+        "pe_ratio": 68.44,
         "forward_return": -3.81,
         "start_price": 18.25,
         "start_year": 2021
@@ -3765,7 +3414,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 47.11,
+        "pe_ratio": 52.65,
         "forward_return": -0.48,
         "start_price": 17.9,
         "start_year": 2021
@@ -3774,7 +3423,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 42.43,
+        "pe_ratio": 47.9,
         "forward_return": -18.69,
         "start_price": 19.8,
         "start_year": 2021
@@ -3783,7 +3432,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 30.72,
+        "pe_ratio": 34.93,
         "forward_return": 85.29,
         "start_price": 17.0,
         "start_year": 2021
@@ -3792,7 +3441,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.03,
+        "pe_ratio": 30.89,
         "forward_return": 98.64,
         "start_price": 17.3,
         "start_year": 2021
@@ -3801,7 +3450,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.11,
+        "pe_ratio": 34.01,
         "forward_return": 22.33,
         "start_price": 18.25,
         "start_year": 2021
@@ -3810,7 +3459,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 33.9,
         "forward_return": 124.18,
         "start_price": 17.4,
         "start_year": 2021
@@ -3819,7 +3468,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.22,
+        "pe_ratio": 35.31,
         "forward_return": 160.43,
         "start_price": 17.3,
         "start_year": 2021
@@ -3828,7 +3477,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 17.58,
+        "pe_ratio": 24.32,
         "forward_return": 118.36,
         "start_price": 17.35,
         "start_year": 2021
@@ -3837,7 +3486,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 18.68,
         "forward_return": 145.31,
         "start_price": 17.5,
         "start_year": 2021
@@ -3855,7 +3504,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 15.71,
+        "pe_ratio": 16.07,
         "forward_return": 128.16,
         "start_price": 20.2,
         "start_year": 2022
@@ -3864,7 +3513,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.73,
+        "pe_ratio": 16.4,
         "forward_return": 65.09,
         "start_price": 22.2,
         "start_year": 2022
@@ -3873,7 +3522,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 18.08,
+        "pe_ratio": 19.17,
         "forward_return": -25.48,
         "start_price": 27.8,
         "start_year": 2022
@@ -3882,7 +3531,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.52,
+        "pe_ratio": 14.7,
         "forward_return": -6.1,
         "start_price": 24.15,
         "start_year": 2022
@@ -3891,7 +3540,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 14.86,
         "forward_return": -1.87,
         "start_price": 27.3,
         "start_year": 2022
@@ -3900,7 +3549,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.49,
         "forward_return": 13.41,
         "start_price": 25.35,
         "start_year": 2022
@@ -3909,7 +3558,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 14.45,
+        "pe_ratio": 12.14,
         "forward_return": -17.35,
         "start_price": 29.5,
         "start_year": 2022
@@ -3918,7 +3567,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 12.74,
+        "pe_ratio": 9.75,
         "forward_return": 27.64,
         "start_price": 27.6,
         "start_year": 2022
@@ -3927,7 +3576,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.99,
+        "pe_ratio": 7.09,
         "forward_return": 93.97,
         "start_price": 22.9,
         "start_year": 2022
@@ -3936,7 +3585,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.3,
+        "pe_ratio": 7.39,
         "forward_return": 88.43,
         "start_price": 22.5,
         "start_year": 2022
@@ -3945,7 +3594,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.98,
+        "pe_ratio": 8.89,
         "forward_return": 64.45,
         "start_price": 25.4,
         "start_year": 2022
@@ -3963,7 +3612,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 10.57,
         "forward_return": 139.33,
         "start_price": 26.8,
         "start_year": 2023
@@ -3972,7 +3621,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 9.7,
+        "pe_ratio": 11.07,
         "forward_return": 167.1,
         "start_price": 26.6,
         "start_year": 2023
@@ -3981,7 +3630,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 14.01,
         "forward_return": 18.35,
         "start_price": 31.8,
         "start_year": 2023
@@ -3990,7 +3639,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.98,
         "forward_return": 8.78,
         "start_price": 33.65,
         "start_year": 2023
@@ -3999,7 +3648,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.14,
         "forward_return": 46.2,
         "start_price": 32.5,
         "start_year": 2023
@@ -4008,7 +3657,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.8,
         "forward_return": 34.48,
         "start_price": 35.0,
         "start_year": 2023
@@ -4017,7 +3666,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 12.45,
         "forward_return": -1.0,
         "start_price": 39.8,
         "start_year": 2023
@@ -4026,7 +3675,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 14.14,
+        "pe_ratio": 13.29,
         "forward_return": 156.05,
         "start_price": 41.9,
         "start_year": 2023
@@ -4035,7 +3684,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 12.33,
+        "pe_ratio": 11.9,
         "forward_return": 285.73,
         "start_price": 37.0,
         "start_year": 2023
@@ -4044,7 +3693,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 10.8,
         "forward_return": 1594.29,
         "start_price": 33.6,
         "start_year": 2023
@@ -4053,7 +3702,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.37,
+        "pe_ratio": 13.22,
         "forward_return": 1731.11,
         "start_price": 41.1,
         "start_year": 2023
@@ -4071,7 +3720,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.75,
         "forward_return": 1265.89,
         "start_price": 39.6,
         "start_year": 2024
@@ -4080,7 +3729,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 12.78,
         "forward_return": 1523.13,
         "start_price": 39.65,
         "start_year": 2024
@@ -4089,7 +3738,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 28.52,
+        "pe_ratio": 23.39,
         "forward_return": 215.75,
         "start_price": 72.5,
         "start_year": 2024
@@ -4098,7 +3747,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 43.34,
+        "pe_ratio": 40.96,
         "forward_return": 94.09,
         "start_price": 102.0,
         "start_year": 2024
@@ -4107,7 +3756,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 80.86,
+        "pe_ratio": 93.09,
         "forward_return": -5.11,
         "start_price": 175.0,
         "start_year": 2024
@@ -4116,7 +3765,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 84.05,
+        "pe_ratio": 130.7,
         "forward_return": 4.5,
         "start_price": 166.0,
         "start_year": 2024
@@ -4125,7 +3774,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 80.63,
+        "pe_ratio": 173.5,
         "forward_return": -4.09,
         "start_price": 144.0,
         "start_year": 2024
@@ -4134,7 +3783,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 99.27,
+        "pe_ratio": 406.4,
         "forward_return": -23.19,
         "start_price": 158.5,
         "start_year": 2024
@@ -4142,17 +3791,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2024-09-15",
-        "pe_ratio": 106.6,
-        "forward_return": -17.94,
-        "start_price": 150.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 115.3,
+        "pe_ratio": 569.6,
         "forward_return": 2.47,
         "start_price": 140.5,
         "start_year": 2024
@@ -4161,7 +3801,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 138.0,
+        "pe_ratio": 261.3,
         "forward_return": 0.71,
         "start_price": 142.0,
         "start_year": 2024
@@ -4179,7 +3819,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 165.7,
+        "pe_ratio": 178.5,
         "forward_return": -3.55,
         "start_price": 141.0,
         "start_year": 2025
@@ -4188,7 +3828,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 182.2,
+        "pe_ratio": 212.2,
         "forward_return": 1.28,
         "start_price": 157.0,
         "start_year": 2025
@@ -4197,7 +3837,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 155.9,
+        "pe_ratio": 197.1,
         "forward_return": -4.35,
         "start_price": 136.0,
         "start_year": 2025
@@ -4206,7 +3846,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 149.4,
+        "pe_ratio": 421.3,
         "forward_return": 0.76,
         "start_price": 132.0,
         "start_year": 2025
@@ -4214,26 +3854,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2025-05-16",
-        "pe_ratio": 159.4,
-        "forward_return": -18.39,
-        "start_price": 142.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2025-06-15",
-        "pe_ratio": 150.8,
-        "forward_return": -14.09,
-        "start_price": 136.5,
-        "start_year": 2025
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 150.1,
+        "pe_ratio": 4583.0,
         "forward_return": -7.78,
         "start_price": 137.5,
         "start_year": 2025
@@ -4242,7 +3864,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 2.12,
+        "pe_ratio": 1.8,
         "forward_return": 133.35,
         "start_price": 5.66,
         "start_year": 2006
@@ -4251,7 +3873,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 2.7,
+        "pe_ratio": 2.43,
         "forward_return": 79.24,
         "start_price": 7.2,
         "start_year": 2006
@@ -4260,7 +3882,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 4.06,
         "forward_return": 30.11,
         "start_price": 11.3,
         "start_year": 2006
@@ -4269,7 +3891,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 3.48,
+        "pe_ratio": 3.58,
         "forward_return": 129.16,
         "start_price": 9.3,
         "start_year": 2006
@@ -4278,7 +3900,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 3.4,
+        "pe_ratio": 3.59,
         "forward_return": 160.9,
         "start_price": 9.09,
         "start_year": 2006
@@ -4287,7 +3909,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 3.09,
+        "pe_ratio": 3.34,
         "forward_return": 232.8,
         "start_price": 8.24,
         "start_year": 2006
@@ -4296,7 +3918,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 3.04,
+        "pe_ratio": 3.39,
         "forward_return": 254.55,
         "start_price": 8.13,
         "start_year": 2006
@@ -4305,7 +3927,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 3.75,
+        "pe_ratio": 4.02,
         "forward_return": 172.19,
         "start_price": 10.0,
         "start_year": 2006
@@ -4314,7 +3936,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 4.27,
+        "pe_ratio": 4.42,
         "forward_return": 84.73,
         "start_price": 11.4,
         "start_year": 2006
@@ -4332,7 +3954,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 3.79,
+        "pe_ratio": 5.49,
         "forward_return": 62.61,
         "start_price": 10.55,
         "start_year": 2007
@@ -4341,7 +3963,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 8.76,
         "forward_return": 96.19,
         "start_price": 10.25,
         "start_year": 2007
@@ -4350,7 +3972,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 4.39,
+        "pe_ratio": 31.43,
         "forward_return": 54.41,
         "start_price": 13.2,
         "start_year": 2007
@@ -4359,7 +3981,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 4.14,
+        "pe_ratio": 9.97,
         "forward_return": 42.92,
         "start_price": 12.9,
         "start_year": 2007
@@ -4368,7 +3990,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 4.55,
+        "pe_ratio": 6.78,
         "forward_return": 49.54,
         "start_price": 14.7,
         "start_year": 2007
@@ -4377,7 +3999,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 6.38,
+        "pe_ratio": 7.01,
         "forward_return": -31.4,
         "start_price": 21.3,
         "start_year": 2007
@@ -4386,7 +4008,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 6.87,
+        "pe_ratio": 7.28,
         "forward_return": -44.66,
         "start_price": 23.7,
         "start_year": 2007
@@ -4395,7 +4017,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 7.69,
+        "pe_ratio": 7.89,
         "forward_return": -52.12,
         "start_price": 27.4,
         "start_year": 2007
@@ -4404,7 +4026,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 7.84,
+        "pe_ratio": 7.8,
         "forward_return": -72.46,
         "start_price": 28.8,
         "start_year": 2007
@@ -4413,7 +4035,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": -70.7,
         "start_price": 27.2,
         "start_year": 2007
@@ -4422,7 +4044,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 5.4,
+        "pe_ratio": 5.39,
         "forward_return": -67.91,
         "start_price": 21.05,
         "start_year": 2007
@@ -4440,7 +4062,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 4.66,
+        "pe_ratio": 4.73,
         "forward_return": -66.28,
         "start_price": 17.15,
         "start_year": 2008
@@ -4449,7 +4071,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 6.01,
+        "pe_ratio": 6.2,
         "forward_return": -55.12,
         "start_price": 20.1,
         "start_year": 2008
@@ -4458,7 +4080,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 6.77,
+        "pe_ratio": 7.13,
         "forward_return": -58.6,
         "start_price": 20.4,
         "start_year": 2008
@@ -4467,7 +4089,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.71,
         "forward_return": -52.65,
         "start_price": 18.45,
         "start_year": 2008
@@ -4476,7 +4098,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 11.42,
         "forward_return": -59.57,
         "start_price": 22.0,
         "start_year": 2008
@@ -4485,7 +4107,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 7.25,
+        "pe_ratio": 10.0,
         "forward_return": -37.49,
         "start_price": 14.6,
         "start_year": 2008
@@ -4494,7 +4116,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.79,
+        "pe_ratio": 10.29,
         "forward_return": 0.76,
         "start_price": 13.1,
         "start_year": 2008
@@ -4503,7 +4125,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 9.7,
+        "pe_ratio": 12.06,
         "forward_return": -11.08,
         "start_price": 13.1,
         "start_year": 2008
@@ -4512,7 +4134,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 8.79,
         "forward_return": 61.24,
         "start_price": 7.91,
         "start_year": 2008
@@ -4521,7 +4143,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 13.1,
         "forward_return": 70.5,
         "start_price": 7.95,
         "start_year": 2008
@@ -4530,7 +4152,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 19.12,
+        "pe_ratio": 21.51,
         "forward_return": 107.08,
         "start_price": 6.74,
         "start_year": 2008
@@ -4547,89 +4169,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2009-01-16",
-        "pe_ratio": 70.65,
-        "forward_return": 126.3,
-        "start_price": 5.77,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-02-14",
-        "pe_ratio": 51.56,
-        "forward_return": 77.34,
-        "start_price": 7.39,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-03-16",
-        "pe_ratio": 41.22,
-        "forward_return": 71.66,
-        "start_price": 8.45,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-04-15",
-        "pe_ratio": 32.78,
-        "forward_return": 67.68,
-        "start_price": 8.74,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-05-16",
-        "pe_ratio": 27.11,
-        "forward_return": 44.98,
-        "start_price": 8.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-06-15",
-        "pe_ratio": 23.41,
-        "forward_return": 45.71,
-        "start_price": 9.13,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-07-16",
-        "pe_ratio": 29.23,
-        "forward_return": 6.82,
-        "start_price": 13.2,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-08-16",
-        "pe_ratio": 22.69,
-        "forward_return": 14.6,
-        "start_price": 11.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2009-09-15",
-        "pe_ratio": 22.17,
-        "forward_return": 18.05,
-        "start_price": 12.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.28,
+        "pe_ratio": 81.3,
         "forward_return": 8.12,
         "start_price": 13.55,
         "start_year": 2009
@@ -4638,7 +4179,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 19.98,
+        "pe_ratio": 30.11,
         "forward_return": 3.23,
         "start_price": 13.95,
         "start_year": 2009
@@ -4656,7 +4197,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 14.13,
         "forward_return": 9.59,
         "start_price": 13.05,
         "start_year": 2010
@@ -4665,7 +4206,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.86,
+        "pe_ratio": 12.06,
         "forward_return": 2.29,
         "start_price": 13.1,
         "start_year": 2010
@@ -4674,7 +4215,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 11.6,
         "forward_return": -10.7,
         "start_price": 14.5,
         "start_year": 2010
@@ -4683,7 +4224,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 12.89,
         "forward_return": -10.25,
         "start_price": 14.65,
         "start_year": 2010
@@ -4692,7 +4233,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 18.61,
+        "pe_ratio": 12.61,
         "forward_return": 1.16,
         "start_price": 12.9,
         "start_year": 2010
@@ -4701,7 +4242,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 19.56,
+        "pe_ratio": 14.62,
         "forward_return": -7.15,
         "start_price": 13.3,
         "start_year": 2010
@@ -4710,7 +4251,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 21.15,
+        "pe_ratio": 14.01,
         "forward_return": -10.65,
         "start_price": 14.1,
         "start_year": 2010
@@ -4719,7 +4260,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 12.1,
         "forward_return": -20.61,
         "start_price": 13.35,
         "start_year": 2010
@@ -4728,7 +4269,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 23.52,
+        "pe_ratio": 12.54,
         "forward_return": -31.25,
         "start_price": 15.05,
         "start_year": 2010
@@ -4737,7 +4278,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 14.65,
         "forward_return": -29.37,
         "start_price": 14.65,
         "start_year": 2010
@@ -4746,7 +4287,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 23.48,
+        "pe_ratio": 18.0,
         "forward_return": -28.56,
         "start_price": 14.4,
         "start_year": 2010
@@ -4764,7 +4305,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 22.94,
         "forward_return": -27.99,
         "start_price": 14.3,
         "start_year": 2011
@@ -4773,7 +4314,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 22.52,
+        "pe_ratio": 20.72,
         "forward_return": -16.05,
         "start_price": 13.4,
         "start_year": 2011
@@ -4782,7 +4323,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 21.86,
+        "pe_ratio": 19.33,
         "forward_return": -16.96,
         "start_price": 12.95,
         "start_year": 2011
@@ -4791,7 +4332,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 22.29,
+        "pe_ratio": 21.44,
         "forward_return": -20.12,
         "start_price": 13.15,
         "start_year": 2011
@@ -4800,7 +4341,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 23.44,
         "forward_return": -21.49,
         "start_price": 13.05,
         "start_year": 2011
@@ -4809,7 +4350,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 24.7,
         "forward_return": -17.21,
         "start_price": 12.35,
         "start_year": 2011
@@ -4818,7 +4359,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 30.5,
         "forward_return": -18.91,
         "start_price": 12.3,
         "start_year": 2011
@@ -4827,7 +4368,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.76,
+        "pe_ratio": 33.59,
         "forward_return": -2.42,
         "start_price": 10.3,
         "start_year": 2011
@@ -4836,7 +4377,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.4,
+        "pe_ratio": 47.86,
         "forward_return": 28.29,
         "start_price": 10.05,
         "start_year": 2011
@@ -4845,7 +4386,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 30.45,
         "forward_return": 9.93,
         "start_price": 10.05,
         "start_year": 2011
@@ -4854,7 +4395,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 17.45,
+        "pe_ratio": 22.2,
         "forward_return": 25.07,
         "start_price": 9.99,
         "start_year": 2011
@@ -4872,7 +4413,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 17.14,
         "forward_return": 17.46,
         "start_price": 10.0,
         "start_year": 2012
@@ -4881,7 +4422,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 23.3,
+        "pe_ratio": 18.35,
         "forward_return": 12.6,
         "start_price": 10.95,
         "start_year": 2012
@@ -4890,7 +4431,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 24.88,
+        "pe_ratio": 17.13,
         "forward_return": 19.15,
         "start_price": 10.45,
         "start_year": 2012
@@ -4899,7 +4440,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 27.57,
+        "pe_ratio": 15.85,
         "forward_return": 19.62,
         "start_price": 10.2,
         "start_year": 2012
@@ -4908,7 +4449,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 14.69,
         "forward_return": 33.83,
         "start_price": 9.94,
         "start_year": 2012
@@ -4917,7 +4458,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 36.74,
+        "pe_ratio": 13.97,
         "forward_return": 32.59,
         "start_price": 9.92,
         "start_year": 2012
@@ -4926,7 +4467,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 45.32,
+        "pe_ratio": 13.6,
         "forward_return": 29.91,
         "start_price": 9.97,
         "start_year": 2012
@@ -4935,7 +4476,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 59.12,
+        "pe_ratio": 13.28,
         "forward_return": 27.88,
         "start_price": 10.05,
         "start_year": 2012
@@ -4944,7 +4485,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 107.5,
+        "pe_ratio": 16.54,
         "forward_return": 0.39,
         "start_price": 12.9,
         "start_year": 2012
@@ -4953,7 +4494,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 157.9,
+        "pe_ratio": 21.67,
         "forward_return": 15.85,
         "start_price": 11.05,
         "start_year": 2012
@@ -4962,7 +4503,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 625.0,
+        "pe_ratio": 52.08,
         "forward_return": 2.4,
         "start_price": 12.5,
         "start_year": 2012
@@ -4970,89 +4511,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2013-01-16",
-        "pe_ratio": 1007.0,
-        "forward_return": 19.59,
-        "start_price": 11.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-02-14",
-        "pe_ratio": 216.6,
-        "forward_return": 62.39,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-03-16",
-        "pe_ratio": 131.0,
-        "forward_return": 54.26,
-        "start_price": 12.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-04-15",
-        "pe_ratio": 89.27,
-        "forward_return": 58.25,
-        "start_price": 12.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-05-16",
-        "pe_ratio": 74.58,
-        "forward_return": 65.47,
-        "start_price": 13.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-06-15",
-        "pe_ratio": 59.77,
-        "forward_return": 50.23,
-        "start_price": 13.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-07-16",
-        "pe_ratio": 49.49,
-        "forward_return": 33.23,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-08-16",
-        "pe_ratio": 42.36,
-        "forward_return": 38.55,
-        "start_price": 12.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2013-09-15",
-        "pe_ratio": 37.54,
-        "forward_return": 44.44,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 33.1,
+        "pe_ratio": 153.6,
         "forward_return": 45.35,
         "start_price": 12.8,
         "start_year": 2013
@@ -5061,7 +4521,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 46.27,
         "forward_return": 42.61,
         "start_price": 12.8,
         "start_year": 2013
@@ -5079,7 +4539,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 23.81,
+        "pe_ratio": 21.51,
         "forward_return": 33.48,
         "start_price": 14.05,
         "start_year": 2014
@@ -5088,7 +4548,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.41,
+        "pe_ratio": 22.41,
         "forward_return": -2.13,
         "start_price": 18.75,
         "start_year": 2014
@@ -5097,7 +4557,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.13,
+        "pe_ratio": 18.82,
         "forward_return": 8.6,
         "start_price": 19.2,
         "start_year": 2014
@@ -5106,7 +4566,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.32,
+        "pe_ratio": 19.97,
         "forward_return": 4.15,
         "start_price": 19.3,
         "start_year": 2014
@@ -5115,7 +4575,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 24.09,
         "forward_return": -18.19,
         "start_price": 22.0,
         "start_year": 2014
@@ -5124,7 +4584,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 22.97,
         "forward_return": -14.95,
         "start_price": 19.75,
         "start_year": 2014
@@ -5133,7 +4593,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 16.38,
         "forward_return": -10.44,
         "start_price": 17.25,
         "start_year": 2014
@@ -5142,7 +4602,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.28,
         "forward_return": -15.74,
         "start_price": 17.8,
         "start_year": 2014
@@ -5151,7 +4611,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.06,
+        "pe_ratio": 12.99,
         "forward_return": -21.14,
         "start_price": 18.7,
         "start_year": 2014
@@ -5160,7 +4620,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.65,
         "forward_return": -17.75,
         "start_price": 18.6,
         "start_year": 2014
@@ -5169,7 +4629,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 10.2,
+        "pe_ratio": 10.41,
         "forward_return": -14.26,
         "start_price": 18.25,
         "start_year": 2014
@@ -5187,7 +4647,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 10.21,
         "forward_return": -7.2,
         "start_price": 18.75,
         "start_year": 2015
@@ -5196,7 +4656,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 10.41,
         "forward_return": -10.91,
         "start_price": 18.35,
         "start_year": 2015
@@ -5205,7 +4665,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 12.34,
         "forward_return": -16.99,
         "start_price": 20.85,
         "start_year": 2015
@@ -5214,7 +4674,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.1,
+        "pe_ratio": 11.46,
         "forward_return": -20.36,
         "start_price": 20.1,
         "start_year": 2015
@@ -5223,7 +4683,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 8.96,
+        "pe_ratio": 9.91,
         "forward_return": -10.26,
         "start_price": 18.0,
         "start_year": 2015
@@ -5232,7 +4692,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 8.28,
+        "pe_ratio": 8.94,
         "forward_return": -10.1,
         "start_price": 16.8,
         "start_year": 2015
@@ -5241,7 +4701,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.05,
+        "pe_ratio": 7.87,
         "forward_return": 4.14,
         "start_price": 14.45,
         "start_year": 2015
@@ -5250,7 +4710,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 6.76,
+        "pe_ratio": 7.81,
         "forward_return": 9.98,
         "start_price": 14.0,
         "start_year": 2015
@@ -5259,7 +4719,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 6.58,
+        "pe_ratio": 7.86,
         "forward_return": 17.42,
         "start_price": 13.75,
         "start_year": 2015
@@ -5268,7 +4728,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 6.78,
+        "pe_ratio": 7.59,
         "forward_return": 6.98,
         "start_price": 14.3,
         "start_year": 2015
@@ -5277,7 +4737,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.26,
         "forward_return": 2.38,
         "start_price": 14.65,
         "start_year": 2015
@@ -5295,7 +4755,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.0,
+        "pe_ratio": 8.04,
         "forward_return": 0.3,
         "start_price": 16.4,
         "start_year": 2016
@@ -5304,7 +4764,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 7.87,
+        "pe_ratio": 7.95,
         "forward_return": 12.89,
         "start_price": 15.35,
         "start_year": 2016
@@ -5313,7 +4773,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.81,
+        "pe_ratio": 8.96,
         "forward_return": 7.37,
         "start_price": 16.3,
         "start_year": 2016
@@ -5322,7 +4782,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.05,
         "forward_return": 25.02,
         "start_price": 15.0,
         "start_year": 2016
@@ -5331,7 +4791,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 7.95,
         "forward_return": 30.72,
         "start_price": 15.15,
         "start_year": 2016
@@ -5340,7 +4800,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 9.1,
+        "pe_ratio": 7.23,
         "forward_return": 39.39,
         "start_price": 14.1,
         "start_year": 2016
@@ -5349,7 +4809,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 7.88,
         "forward_return": 39.18,
         "start_price": 14.05,
         "start_year": 2016
@@ -5358,7 +4818,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 8.91,
         "forward_return": 66.38,
         "start_price": 14.4,
         "start_year": 2016
@@ -5367,7 +4827,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.12,
+        "pe_ratio": 10.45,
         "forward_return": 47.56,
         "start_price": 15.15,
         "start_year": 2016
@@ -5376,7 +4836,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.14,
         "forward_return": 73.84,
         "start_price": 14.3,
         "start_year": 2016
@@ -5385,7 +4845,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 12.54,
         "forward_return": 56.83,
         "start_price": 14.0,
         "start_year": 2016
@@ -5403,7 +4863,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 17.49,
         "forward_return": 70.29,
         "start_price": 15.45,
         "start_year": 2017
@@ -5412,7 +4872,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.8,
+        "pe_ratio": 19.53,
         "forward_return": 49.26,
         "start_price": 15.95,
         "start_year": 2017
@@ -5421,7 +4881,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 22.0,
         "forward_return": 42.76,
         "start_price": 16.5,
         "start_year": 2017
@@ -5430,7 +4890,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 23.77,
+        "pe_ratio": 23.15,
         "forward_return": 21.42,
         "start_price": 17.75,
         "start_year": 2017
@@ -5439,7 +4899,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.02,
+        "pe_ratio": 24.0,
         "forward_return": 36.2,
         "start_price": 18.8,
         "start_year": 2017
@@ -5448,7 +4908,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.91,
+        "pe_ratio": 23.31,
         "forward_return": 19.32,
         "start_price": 18.65,
         "start_year": 2017
@@ -5457,7 +4917,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 31.22,
+        "pe_ratio": 22.17,
         "forward_return": 29.13,
         "start_price": 18.55,
         "start_year": 2017
@@ -5466,7 +4926,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 42.24,
+        "pe_ratio": 26.28,
         "forward_return": 3.27,
         "start_price": 22.95,
         "start_year": 2017
@@ -5475,7 +4935,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 43.35,
+        "pe_ratio": 23.46,
         "forward_return": 4.92,
         "start_price": 21.35,
         "start_year": 2017
@@ -5484,7 +4944,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 54.0,
+        "pe_ratio": 33.12,
         "forward_return": -25.38,
         "start_price": 23.85,
         "start_year": 2017
@@ -5493,7 +4953,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 53.6,
+        "pe_ratio": 39.53,
         "forward_return": -10.51,
         "start_price": 20.95,
         "start_year": 2017
@@ -5511,7 +4971,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 56.33,
+        "pe_ratio": 66.0,
         "forward_return": -23.33,
         "start_price": 25.3,
         "start_year": 2018
@@ -5520,7 +4980,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 40.84,
+        "pe_ratio": 53.44,
         "forward_return": -9.44,
         "start_price": 22.8,
         "start_year": 2018
@@ -5529,7 +4989,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 33.78,
+        "pe_ratio": 47.98,
         "forward_return": -6.21,
         "start_price": 22.55,
         "start_year": 2018
@@ -5538,7 +4998,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 26.46,
+        "pe_ratio": 32.62,
         "forward_return": 20.45,
         "start_price": 20.55,
         "start_year": 2018
@@ -5547,7 +5007,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 27.77,
+        "pe_ratio": 31.14,
         "forward_return": -3.25,
         "start_price": 24.6,
         "start_year": 2018
@@ -5556,7 +5016,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 21.36,
+        "pe_ratio": 22.37,
         "forward_return": 3.77,
         "start_price": 21.25,
         "start_year": 2018
@@ -5565,7 +5025,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.78,
+        "pe_ratio": 25.31,
         "forward_return": -7.63,
         "start_price": 22.95,
         "start_year": 2018
@@ -5574,7 +5034,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.71,
+        "pe_ratio": 26.29,
         "forward_return": -1.1,
         "start_price": 22.7,
         "start_year": 2018
@@ -5583,7 +5043,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 26.1,
         "forward_return": 5.14,
         "start_price": 21.4,
         "start_year": 2018
@@ -5592,7 +5052,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 15.32,
         "forward_return": 28.3,
         "start_price": 16.8,
         "start_year": 2018
@@ -5601,7 +5061,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.92,
         "forward_return": 23.4,
         "start_price": 17.75,
         "start_year": 2018
@@ -5619,7 +5079,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 9.32,
         "forward_return": 17.4,
         "start_price": 18.4,
         "start_year": 2019
@@ -5628,7 +5088,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.66,
+        "pe_ratio": 8.56,
         "forward_return": 6.88,
         "start_price": 19.65,
         "start_year": 2019
@@ -5637,7 +5097,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 7.69,
         "forward_return": -15.6,
         "start_price": 20.15,
         "start_year": 2019
@@ -5646,7 +5106,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 9.94,
         "forward_return": -15.34,
         "start_price": 23.75,
         "start_year": 2019
@@ -5655,7 +5115,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 10.56,
         "forward_return": -14.67,
         "start_price": 22.8,
         "start_year": 2019
@@ -5664,7 +5124,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 10.91,
         "forward_return": -2.37,
         "start_price": 21.05,
         "start_year": 2019
@@ -5673,7 +5133,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.34,
+        "pe_ratio": 9.82,
         "forward_return": -0.5,
         "start_price": 20.1,
         "start_year": 2019
@@ -5682,7 +5142,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 9.87,
         "forward_return": -3.51,
         "start_price": 21.35,
         "start_year": 2019
@@ -5691,7 +5151,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 9.39,
         "forward_return": -9.79,
         "start_price": 21.4,
         "start_year": 2019
@@ -5700,7 +5160,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.21,
+        "pe_ratio": 9.56,
         "forward_return": -7.08,
         "start_price": 20.45,
         "start_year": 2019
@@ -5709,7 +5169,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.29,
+        "pe_ratio": 10.4,
         "forward_return": -6.48,
         "start_price": 20.8,
         "start_year": 2019
@@ -5727,7 +5187,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 13.25,
         "forward_return": -10.22,
         "start_price": 20.5,
         "start_year": 2020
@@ -5736,7 +5196,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 16.14,
         "forward_return": -5.59,
         "start_price": 19.9,
         "start_year": 2020
@@ -5745,7 +5205,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 17.28,
         "forward_return": 17.62,
         "start_price": 15.9,
         "start_year": 2020
@@ -5754,7 +5214,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 14.84,
+        "pe_ratio": 19.72,
         "forward_return": 8.43,
         "start_price": 19.0,
         "start_year": 2020
@@ -5763,7 +5223,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 18.23,
         "forward_return": -3.0,
         "start_price": 18.35,
         "start_year": 2020
@@ -5772,7 +5232,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.65,
+        "pe_ratio": 18.52,
         "forward_return": -6.95,
         "start_price": 19.45,
         "start_year": 2020
@@ -5781,7 +5241,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 22.72,
+        "pe_ratio": 21.57,
         "forward_return": -2.35,
         "start_price": 19.2,
         "start_year": 2020
@@ -5790,7 +5250,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 28.29,
+        "pe_ratio": 27.12,
         "forward_return": -9.6,
         "start_price": 19.8,
         "start_year": 2020
@@ -5799,7 +5259,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 33.33,
+        "pe_ratio": 32.46,
         "forward_return": -3.79,
         "start_price": 18.5,
         "start_year": 2020
@@ -5808,7 +5268,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 44.39,
+        "pe_ratio": 43.33,
         "forward_return": -1.92,
         "start_price": 18.2,
         "start_year": 2020
@@ -5817,7 +5277,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 70.38,
+        "pe_ratio": 69.07,
         "forward_return": -3.49,
         "start_price": 18.65,
         "start_year": 2020
@@ -5835,7 +5295,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 85.16,
+        "pe_ratio": 91.03,
         "forward_return": 17.63,
         "start_price": 17.6,
         "start_year": 2021
@@ -5844,7 +5304,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 62.22,
+        "pe_ratio": 68.44,
         "forward_return": 24.4,
         "start_price": 18.25,
         "start_year": 2021
@@ -5853,7 +5313,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 47.11,
+        "pe_ratio": 52.65,
         "forward_return": 58.15,
         "start_price": 17.9,
         "start_year": 2021
@@ -5862,7 +5322,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 42.43,
+        "pe_ratio": 47.9,
         "forward_return": 24.51,
         "start_price": 19.8,
         "start_year": 2021
@@ -5871,7 +5331,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 30.72,
+        "pe_ratio": 34.93,
         "forward_return": 63.58,
         "start_price": 17.0,
         "start_year": 2021
@@ -5880,7 +5340,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.03,
+        "pe_ratio": 30.89,
         "forward_return": 49.46,
         "start_price": 17.3,
         "start_year": 2021
@@ -5889,7 +5349,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.11,
+        "pe_ratio": 34.01,
         "forward_return": 66.63,
         "start_price": 18.25,
         "start_year": 2021
@@ -5898,7 +5358,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 33.9,
         "forward_return": 63.85,
         "start_price": 17.4,
         "start_year": 2021
@@ -5907,7 +5367,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.22,
+        "pe_ratio": 35.31,
         "forward_return": 37.6,
         "start_price": 17.3,
         "start_year": 2021
@@ -5916,7 +5376,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 17.58,
+        "pe_ratio": 24.32,
         "forward_return": 34.9,
         "start_price": 17.35,
         "start_year": 2021
@@ -5925,7 +5385,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 18.68,
         "forward_return": 50.33,
         "start_price": 17.5,
         "start_year": 2021
@@ -5943,7 +5403,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 15.71,
+        "pe_ratio": 16.07,
         "forward_return": 37.16,
         "start_price": 20.2,
         "start_year": 2022
@@ -5952,7 +5412,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.73,
+        "pe_ratio": 16.4,
         "forward_return": 23.89,
         "start_price": 22.2,
         "start_year": 2022
@@ -5961,7 +5421,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 18.08,
+        "pe_ratio": 19.17,
         "forward_return": 17.64,
         "start_price": 27.8,
         "start_year": 2022
@@ -5970,7 +5430,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.52,
+        "pe_ratio": 14.7,
         "forward_return": 43.1,
         "start_price": 24.15,
         "start_year": 2022
@@ -5979,7 +5439,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 14.86,
         "forward_return": 22.36,
         "start_price": 27.3,
         "start_year": 2022
@@ -5988,7 +5448,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.49,
         "forward_return": 41.65,
         "start_price": 25.35,
         "start_year": 2022
@@ -5997,7 +5457,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 14.45,
+        "pe_ratio": 12.14,
         "forward_return": 40.03,
         "start_price": 29.5,
         "start_year": 2022
@@ -6006,7 +5466,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 12.74,
+        "pe_ratio": 9.75,
         "forward_return": 57.3,
         "start_price": 27.6,
         "start_year": 2022
@@ -6015,7 +5475,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.99,
+        "pe_ratio": 7.09,
         "forward_return": 68.18,
         "start_price": 22.9,
         "start_year": 2022
@@ -6024,7 +5484,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.3,
+        "pe_ratio": 7.39,
         "forward_return": 56.05,
         "start_price": 22.5,
         "start_year": 2022
@@ -6033,7 +5493,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.98,
+        "pe_ratio": 8.89,
         "forward_return": 67.78,
         "start_price": 25.4,
         "start_year": 2022
@@ -6051,7 +5511,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 10.57,
         "forward_return": 53.4,
         "start_price": 26.8,
         "start_year": 2023
@@ -6060,7 +5520,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 9.7,
+        "pe_ratio": 11.07,
         "forward_return": 54.75,
         "start_price": 26.6,
         "start_year": 2023
@@ -6069,7 +5529,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 14.01,
         "forward_return": 132.3,
         "start_price": 31.8,
         "start_year": 2023
@@ -6078,7 +5538,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.98,
         "forward_return": 206.87,
         "start_price": 33.65,
         "start_year": 2023
@@ -6087,7 +5547,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.14,
         "forward_return": 441.2,
         "start_price": 32.5,
         "start_year": 2023
@@ -6096,7 +5556,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.8,
         "forward_return": 377.04,
         "start_price": 35.0,
         "start_year": 2023
@@ -6105,7 +5565,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 12.45,
         "forward_return": 265.11,
         "start_price": 39.8,
         "start_year": 2023
@@ -6114,7 +5574,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 14.14,
+        "pe_ratio": 13.29,
         "forward_return": 281.29,
         "start_price": 41.9,
         "start_year": 2023
@@ -6123,7 +5583,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 12.33,
+        "pe_ratio": 11.9,
         "forward_return": 308.82,
         "start_price": 37.0,
         "start_year": 2023
@@ -6132,7 +5592,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 10.8,
         "forward_return": 321.96,
         "start_price": 33.6,
         "start_year": 2023
@@ -6141,7 +5601,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.37,
+        "pe_ratio": 13.22,
         "forward_return": 248.74,
         "start_price": 41.1,
         "start_year": 2023
@@ -6159,7 +5619,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.75,
         "forward_return": 259.41,
         "start_price": 39.6,
         "start_year": 2024
@@ -6168,7 +5628,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 14.51,
+        "pe_ratio": 12.78,
         "forward_return": 216.2,
         "start_price": 39.65,
         "start_year": 2024
@@ -6177,7 +5637,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 28.52,
+        "pe_ratio": 23.39,
         "forward_return": 90.01,
         "start_price": 72.5,
         "start_year": 2024
@@ -6186,7 +5646,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 43.34,
+        "pe_ratio": 40.96,
         "forward_return": 31.1,
         "start_price": 102.0,
         "start_year": 2024
@@ -6195,7 +5655,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 80.86,
+        "pe_ratio": 93.09,
         "forward_return": -17.61,
         "start_price": 175.0,
         "start_year": 2024
@@ -6204,7 +5664,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 84.05,
+        "pe_ratio": 130.7,
         "forward_return": -16.76,
         "start_price": 166.0,
         "start_year": 2024
@@ -6213,7 +5673,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 80.63,
+        "pe_ratio": 173.5,
         "forward_return": -3.82,
         "start_price": 144.0,
         "start_year": 2024
@@ -6222,7 +5682,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 99.27,
+        "pe_ratio": 406.4,
         "forward_return": -0.32,
         "start_price": 158.5,
         "start_year": 2024
@@ -6230,17 +5690,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2024-09-15",
-        "pe_ratio": 106.6,
-        "forward_return": -4.67,
-        "start_price": 150.0,
-        "start_year": 2024
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 115.3,
+        "pe_ratio": 569.6,
         "forward_return": -5.7,
         "start_price": 140.5,
         "start_year": 2024
@@ -6249,7 +5700,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 138.0,
+        "pe_ratio": 261.3,
         "forward_return": -5.29,
         "start_price": 142.0,
         "start_year": 2024
@@ -6267,7 +5718,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 165.7,
+        "pe_ratio": 178.5,
         "forward_return": -5.68,
         "start_price": 141.0,
         "start_year": 2025
@@ -6276,7 +5727,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 182.2,
+        "pe_ratio": 212.2,
         "forward_return": -14.98,
         "start_price": 157.0,
         "start_year": 2025
@@ -6285,7 +5736,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 2.12,
+        "pe_ratio": 1.8,
         "forward_return": 89.77,
         "start_price": 5.66,
         "start_year": 2006
@@ -6294,7 +5745,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 2.7,
+        "pe_ratio": 2.43,
         "forward_return": 60.03,
         "start_price": 7.2,
         "start_year": 2006
@@ -6303,7 +5754,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 4.06,
         "forward_return": 39.5,
         "start_price": 11.3,
         "start_year": 2006
@@ -6312,7 +5763,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 3.48,
+        "pe_ratio": 3.58,
         "forward_return": 25.28,
         "start_price": 9.3,
         "start_year": 2006
@@ -6321,7 +5772,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 3.4,
+        "pe_ratio": 3.59,
         "forward_return": 20.03,
         "start_price": 9.09,
         "start_year": 2006
@@ -6330,7 +5781,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 3.09,
+        "pe_ratio": 3.34,
         "forward_return": 26.07,
         "start_price": 8.24,
         "start_year": 2006
@@ -6339,7 +5790,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 3.04,
+        "pe_ratio": 3.39,
         "forward_return": -1.36,
         "start_price": 8.13,
         "start_year": 2006
@@ -6348,7 +5799,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 3.75,
+        "pe_ratio": 4.02,
         "forward_return": -10.83,
         "start_price": 10.0,
         "start_year": 2006
@@ -6357,7 +5808,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 4.27,
+        "pe_ratio": 4.42,
         "forward_return": -23.09,
         "start_price": 11.4,
         "start_year": 2006
@@ -6375,7 +5826,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 3.79,
+        "pe_ratio": 5.49,
         "forward_return": -26.03,
         "start_price": 10.55,
         "start_year": 2007
@@ -6384,7 +5835,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 8.76,
         "forward_return": -15.08,
         "start_price": 10.25,
         "start_year": 2007
@@ -6393,7 +5844,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 4.39,
+        "pe_ratio": 31.43,
         "forward_return": -19.98,
         "start_price": 13.2,
         "start_year": 2007
@@ -6402,7 +5853,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 4.14,
+        "pe_ratio": 9.97,
         "forward_return": -17.68,
         "start_price": 12.9,
         "start_year": 2007
@@ -6411,7 +5862,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 4.55,
+        "pe_ratio": 6.78,
         "forward_return": -22.18,
         "start_price": 14.7,
         "start_year": 2007
@@ -6420,7 +5871,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 6.38,
+        "pe_ratio": 7.01,
         "forward_return": -34.51,
         "start_price": 21.3,
         "start_year": 2007
@@ -6429,7 +5880,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 6.87,
+        "pe_ratio": 7.28,
         "forward_return": -25.36,
         "start_price": 23.7,
         "start_year": 2007
@@ -6438,7 +5889,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 7.69,
+        "pe_ratio": 7.89,
         "forward_return": -34.77,
         "start_price": 27.4,
         "start_year": 2007
@@ -6447,7 +5898,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 7.84,
+        "pe_ratio": 7.8,
         "forward_return": -33.45,
         "start_price": 28.8,
         "start_year": 2007
@@ -6456,7 +5907,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": -29.4,
         "start_price": 27.2,
         "start_year": 2007
@@ -6465,7 +5916,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 5.4,
+        "pe_ratio": 5.39,
         "forward_return": -18.58,
         "start_price": 21.05,
         "start_year": 2007
@@ -6483,7 +5934,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 4.66,
+        "pe_ratio": 4.73,
         "forward_return": -12.76,
         "start_price": 17.15,
         "start_year": 2008
@@ -6492,7 +5943,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 6.01,
+        "pe_ratio": 6.2,
         "forward_return": -14.53,
         "start_price": 20.1,
         "start_year": 2008
@@ -6501,7 +5952,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 6.77,
+        "pe_ratio": 7.13,
         "forward_return": -15.7,
         "start_price": 20.4,
         "start_year": 2008
@@ -6510,7 +5961,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.71,
         "forward_return": -10.9,
         "start_price": 18.45,
         "start_year": 2008
@@ -6519,7 +5970,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 11.42,
         "forward_return": -23.44,
         "start_price": 22.0,
         "start_year": 2008
@@ -6528,7 +5979,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 7.25,
+        "pe_ratio": 10.0,
         "forward_return": -4.56,
         "start_price": 14.6,
         "start_year": 2008
@@ -6537,7 +5988,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.79,
+        "pe_ratio": 10.29,
         "forward_return": 3.75,
         "start_price": 13.1,
         "start_year": 2008
@@ -6546,7 +5997,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 9.7,
+        "pe_ratio": 12.06,
         "forward_return": 0.95,
         "start_price": 13.1,
         "start_year": 2008
@@ -6555,7 +6006,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 8.79,
         "forward_return": 37.97,
         "start_price": 7.91,
         "start_year": 2008
@@ -6564,7 +6015,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 13.1,
         "forward_return": 35.78,
         "start_price": 7.95,
         "start_year": 2008
@@ -6573,7 +6024,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 19.12,
+        "pe_ratio": 21.51,
         "forward_return": 46.21,
         "start_price": 6.74,
         "start_year": 2008
@@ -6590,89 +6041,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2009-01-16",
-        "pe_ratio": 70.65,
-        "forward_return": 57.48,
-        "start_price": 5.77,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-02-14",
-        "pe_ratio": 51.56,
-        "forward_return": 34.68,
-        "start_price": 7.39,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-03-16",
-        "pe_ratio": 41.22,
-        "forward_return": 23.81,
-        "start_price": 8.45,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-04-15",
-        "pe_ratio": 32.78,
-        "forward_return": 22.68,
-        "start_price": 8.74,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-05-16",
-        "pe_ratio": 27.11,
-        "forward_return": 21.11,
-        "start_price": 8.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-06-15",
-        "pe_ratio": 23.41,
-        "forward_return": 16.32,
-        "start_price": 9.13,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-07-16",
-        "pe_ratio": 29.23,
-        "forward_return": -2.3,
-        "start_price": 13.2,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-08-16",
-        "pe_ratio": 22.69,
-        "forward_return": -4.62,
-        "start_price": 11.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2009-09-15",
-        "pe_ratio": 22.17,
-        "forward_return": -9.91,
-        "start_price": 12.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.28,
+        "pe_ratio": 81.3,
         "forward_return": -12.61,
         "start_price": 13.55,
         "start_year": 2009
@@ -6681,7 +6051,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 19.98,
+        "pe_ratio": 30.11,
         "forward_return": -14.12,
         "start_price": 13.95,
         "start_year": 2009
@@ -6699,7 +6069,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 14.13,
         "forward_return": -11.17,
         "start_price": 13.05,
         "start_year": 2010
@@ -6708,7 +6078,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.86,
+        "pe_ratio": 12.06,
         "forward_return": -7.33,
         "start_price": 13.1,
         "start_year": 2010
@@ -6717,7 +6087,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 11.6,
         "forward_return": -13.89,
         "start_price": 14.5,
         "start_year": 2010
@@ -6726,7 +6096,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 12.89,
         "forward_return": -15.33,
         "start_price": 14.65,
         "start_year": 2010
@@ -6735,7 +6105,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 18.61,
+        "pe_ratio": 12.61,
         "forward_return": -10.9,
         "start_price": 12.9,
         "start_year": 2010
@@ -6744,7 +6114,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 19.56,
+        "pe_ratio": 14.62,
         "forward_return": -12.33,
         "start_price": 13.3,
         "start_year": 2010
@@ -6753,7 +6123,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 21.15,
+        "pe_ratio": 14.01,
         "forward_return": -14.65,
         "start_price": 14.1,
         "start_year": 2010
@@ -6762,7 +6132,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 12.1,
         "forward_return": -11.94,
         "start_price": 13.35,
         "start_year": 2010
@@ -6771,7 +6141,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 23.52,
+        "pe_ratio": 12.54,
         "forward_return": -6.34,
         "start_price": 15.05,
         "start_year": 2010
@@ -6780,7 +6150,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 14.65,
         "forward_return": -11.97,
         "start_price": 14.65,
         "start_year": 2010
@@ -6789,7 +6159,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 23.48,
+        "pe_ratio": 18.0,
         "forward_return": -5.72,
         "start_price": 14.4,
         "start_year": 2010
@@ -6807,7 +6177,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 22.94,
         "forward_return": -8.2,
         "start_price": 14.3,
         "start_year": 2011
@@ -6816,7 +6186,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 22.52,
+        "pe_ratio": 20.72,
         "forward_return": -5.96,
         "start_price": 13.4,
         "start_year": 2011
@@ -6825,7 +6195,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 21.86,
+        "pe_ratio": 19.33,
         "forward_return": -0.77,
         "start_price": 12.95,
         "start_year": 2011
@@ -6834,7 +6204,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 22.29,
+        "pe_ratio": 21.44,
         "forward_return": -2.5,
         "start_price": 13.15,
         "start_year": 2011
@@ -6843,7 +6213,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 23.44,
         "forward_return": 2.08,
         "start_price": 13.05,
         "start_year": 2011
@@ -6852,7 +6222,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 24.7,
         "forward_return": 4.36,
         "start_price": 12.35,
         "start_year": 2011
@@ -6861,7 +6231,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 30.5,
         "forward_return": 2.61,
         "start_price": 12.3,
         "start_year": 2011
@@ -6870,7 +6240,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.76,
+        "pe_ratio": 33.59,
         "forward_return": 11.69,
         "start_price": 10.3,
         "start_year": 2011
@@ -6879,7 +6249,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.4,
+        "pe_ratio": 47.86,
         "forward_return": 13.5,
         "start_price": 10.05,
         "start_year": 2011
@@ -6888,7 +6258,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 30.45,
         "forward_return": 12.85,
         "start_price": 10.05,
         "start_year": 2011
@@ -6897,7 +6267,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 17.45,
+        "pe_ratio": 22.2,
         "forward_return": 13.18,
         "start_price": 9.99,
         "start_year": 2011
@@ -6915,7 +6285,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 17.14,
         "forward_return": 18.52,
         "start_price": 10.0,
         "start_year": 2012
@@ -6924,7 +6294,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 23.3,
+        "pe_ratio": 18.35,
         "forward_return": 30.98,
         "start_price": 10.95,
         "start_year": 2012
@@ -6933,7 +6303,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 24.88,
+        "pe_ratio": 17.13,
         "forward_return": 35.58,
         "start_price": 10.45,
         "start_year": 2012
@@ -6942,7 +6312,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 27.57,
+        "pe_ratio": 15.85,
         "forward_return": 37.59,
         "start_price": 10.2,
         "start_year": 2012
@@ -6951,7 +6321,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 14.69,
         "forward_return": 48.81,
         "start_price": 9.94,
         "start_year": 2012
@@ -6960,7 +6330,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 36.74,
+        "pe_ratio": 13.97,
         "forward_return": 41.13,
         "start_price": 9.92,
         "start_year": 2012
@@ -6969,7 +6339,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 45.32,
+        "pe_ratio": 13.6,
         "forward_return": 31.56,
         "start_price": 9.97,
         "start_year": 2012
@@ -6978,7 +6348,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 59.12,
+        "pe_ratio": 13.28,
         "forward_return": 33.11,
         "start_price": 10.05,
         "start_year": 2012
@@ -6987,7 +6357,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 107.5,
+        "pe_ratio": 16.54,
         "forward_return": 20.42,
         "start_price": 12.9,
         "start_year": 2012
@@ -6996,7 +6366,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 157.9,
+        "pe_ratio": 21.67,
         "forward_return": 29.76,
         "start_price": 11.05,
         "start_year": 2012
@@ -7005,7 +6375,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 625.0,
+        "pe_ratio": 52.08,
         "forward_return": 20.85,
         "start_price": 12.5,
         "start_year": 2012
@@ -7013,89 +6383,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2013-01-16",
-        "pe_ratio": 1007.0,
-        "forward_return": 26.34,
-        "start_price": 11.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-02-14",
-        "pe_ratio": 216.6,
-        "forward_return": 26.07,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-03-16",
-        "pe_ratio": 131.0,
-        "forward_return": 29.43,
-        "start_price": 12.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-04-15",
-        "pe_ratio": 89.27,
-        "forward_return": 28.38,
-        "start_price": 12.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-05-16",
-        "pe_ratio": 74.58,
-        "forward_return": 16.35,
-        "start_price": 13.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-06-15",
-        "pe_ratio": 59.77,
-        "forward_return": 13.04,
-        "start_price": 13.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-07-16",
-        "pe_ratio": 49.49,
-        "forward_return": 9.23,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-08-16",
-        "pe_ratio": 42.36,
-        "forward_return": 8.05,
-        "start_price": 12.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2013-09-15",
-        "pe_ratio": 37.54,
-        "forward_return": 6.73,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 33.1,
+        "pe_ratio": 153.6,
         "forward_return": 9.34,
         "start_price": 12.8,
         "start_year": 2013
@@ -7104,7 +6393,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 46.27,
         "forward_return": 10.58,
         "start_price": 12.8,
         "start_year": 2013
@@ -7122,7 +6411,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 23.81,
+        "pe_ratio": 21.51,
         "forward_return": 11.29,
         "start_price": 14.05,
         "start_year": 2014
@@ -7131,7 +6420,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.41,
+        "pe_ratio": 22.41,
         "forward_return": -6.62,
         "start_price": 18.75,
         "start_year": 2014
@@ -7140,7 +6429,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.13,
+        "pe_ratio": 18.82,
         "forward_return": -5.07,
         "start_price": 19.2,
         "start_year": 2014
@@ -7149,7 +6438,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.32,
+        "pe_ratio": 19.97,
         "forward_return": -8.94,
         "start_price": 19.3,
         "start_year": 2014
@@ -7158,7 +6447,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 24.09,
         "forward_return": -14.31,
         "start_price": 22.0,
         "start_year": 2014
@@ -7167,7 +6456,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 22.97,
         "forward_return": -12.55,
         "start_price": 19.75,
         "start_year": 2014
@@ -7176,7 +6465,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 16.38,
         "forward_return": -3.54,
         "start_price": 17.25,
         "start_year": 2014
@@ -7185,7 +6474,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.28,
         "forward_return": -4.01,
         "start_price": 17.8,
         "start_year": 2014
@@ -7194,7 +6483,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.06,
+        "pe_ratio": 12.99,
         "forward_return": -4.23,
         "start_price": 18.7,
         "start_year": 2014
@@ -7203,7 +6492,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.65,
         "forward_return": -6.38,
         "start_price": 18.6,
         "start_year": 2014
@@ -7212,7 +6501,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 10.2,
+        "pe_ratio": 10.41,
         "forward_return": -6.36,
         "start_price": 18.25,
         "start_year": 2014
@@ -7230,7 +6519,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 10.21,
         "forward_return": -3.53,
         "start_price": 18.75,
         "start_year": 2015
@@ -7239,7 +6528,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 10.41,
         "forward_return": -1.1,
         "start_price": 18.35,
         "start_year": 2015
@@ -7248,7 +6537,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 12.34,
         "forward_return": -5.8,
         "start_price": 20.85,
         "start_year": 2015
@@ -7257,7 +6546,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.1,
+        "pe_ratio": 11.46,
         "forward_return": -0.87,
         "start_price": 20.1,
         "start_year": 2015
@@ -7266,7 +6555,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 8.96,
+        "pe_ratio": 9.91,
         "forward_return": 7.49,
         "start_price": 18.0,
         "start_year": 2015
@@ -7275,7 +6564,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 8.28,
+        "pe_ratio": 8.94,
         "forward_return": 10.86,
         "start_price": 16.8,
         "start_year": 2015
@@ -7284,7 +6573,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.05,
+        "pe_ratio": 7.87,
         "forward_return": 19.24,
         "start_price": 14.45,
         "start_year": 2015
@@ -7293,7 +6582,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 6.76,
+        "pe_ratio": 7.81,
         "forward_return": 33.47,
         "start_price": 14.0,
         "start_year": 2015
@@ -7302,7 +6591,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 6.58,
+        "pe_ratio": 7.86,
         "forward_return": 30.29,
         "start_price": 13.75,
         "start_year": 2015
@@ -7311,7 +6600,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 6.78,
+        "pe_ratio": 7.59,
         "forward_return": 34.42,
         "start_price": 14.3,
         "start_year": 2015
@@ -7320,7 +6609,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.26,
         "forward_return": 25.14,
         "start_price": 14.65,
         "start_year": 2015
@@ -7338,7 +6627,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.0,
+        "pe_ratio": 8.04,
         "forward_return": 29.0,
         "start_price": 16.4,
         "start_year": 2016
@@ -7347,7 +6636,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 7.87,
+        "pe_ratio": 7.95,
         "forward_return": 25.32,
         "start_price": 15.35,
         "start_year": 2016
@@ -7356,7 +6645,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.81,
+        "pe_ratio": 8.96,
         "forward_return": 22.74,
         "start_price": 16.3,
         "start_year": 2016
@@ -7365,7 +6654,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.05,
         "forward_return": 22.63,
         "start_price": 15.0,
         "start_year": 2016
@@ -7374,7 +6663,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 7.95,
         "forward_return": 32.53,
         "start_price": 15.15,
         "start_year": 2016
@@ -7383,7 +6672,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 9.1,
+        "pe_ratio": 7.23,
         "forward_return": 28.43,
         "start_price": 14.1,
         "start_year": 2016
@@ -7392,7 +6681,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 7.88,
         "forward_return": 33.29,
         "start_price": 14.05,
         "start_year": 2016
@@ -7401,7 +6690,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 8.91,
         "forward_return": 30.99,
         "start_price": 14.4,
         "start_year": 2016
@@ -7410,7 +6699,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.12,
+        "pe_ratio": 10.45,
         "forward_return": 24.3,
         "start_price": 15.15,
         "start_year": 2016
@@ -7419,7 +6708,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.14,
         "forward_return": 14.67,
         "start_price": 14.3,
         "start_year": 2016
@@ -7428,7 +6717,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 12.54,
         "forward_return": 18.79,
         "start_price": 14.0,
         "start_year": 2016
@@ -7446,7 +6735,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 17.49,
         "forward_return": 14.92,
         "start_price": 15.45,
         "start_year": 2017
@@ -7455,7 +6744,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.8,
+        "pe_ratio": 19.53,
         "forward_return": 16.52,
         "start_price": 15.95,
         "start_year": 2017
@@ -7464,7 +6753,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 22.0,
         "forward_return": 15.87,
         "start_price": 16.5,
         "start_year": 2017
@@ -7473,7 +6762,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 23.77,
+        "pe_ratio": 23.15,
         "forward_return": 20.46,
         "start_price": 17.75,
         "start_year": 2017
@@ -7482,7 +6771,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.02,
+        "pe_ratio": 24.0,
         "forward_return": 14.87,
         "start_price": 18.8,
         "start_year": 2017
@@ -7491,7 +6780,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.91,
+        "pe_ratio": 23.31,
         "forward_return": 11.18,
         "start_price": 18.65,
         "start_year": 2017
@@ -7500,7 +6789,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 31.22,
+        "pe_ratio": 22.17,
         "forward_return": 9.4,
         "start_price": 18.55,
         "start_year": 2017
@@ -7509,7 +6798,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 42.24,
+        "pe_ratio": 26.28,
         "forward_return": 1.08,
         "start_price": 22.95,
         "start_year": 2017
@@ -7518,7 +6807,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 43.35,
+        "pe_ratio": 23.46,
         "forward_return": 4.92,
         "start_price": 21.35,
         "start_year": 2017
@@ -7527,7 +6816,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 54.0,
+        "pe_ratio": 33.12,
         "forward_return": -2.77,
         "start_price": 23.85,
         "start_year": 2017
@@ -7536,7 +6825,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 53.6,
+        "pe_ratio": 39.53,
         "forward_return": 4.55,
         "start_price": 20.95,
         "start_year": 2017
@@ -7554,7 +6843,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 56.33,
+        "pe_ratio": 66.0,
         "forward_return": -5.49,
         "start_price": 25.3,
         "start_year": 2018
@@ -7563,7 +6852,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 40.84,
+        "pe_ratio": 53.44,
         "forward_return": -1.77,
         "start_price": 22.8,
         "start_year": 2018
@@ -7572,7 +6861,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 33.78,
+        "pe_ratio": 47.98,
         "forward_return": -10.65,
         "start_price": 22.55,
         "start_year": 2018
@@ -7581,7 +6870,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 26.46,
+        "pe_ratio": 32.62,
         "forward_return": 1.33,
         "start_price": 20.55,
         "start_year": 2018
@@ -7590,7 +6879,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 27.77,
+        "pe_ratio": 31.14,
         "forward_return": -8.82,
         "start_price": 24.6,
         "start_year": 2018
@@ -7599,7 +6888,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 21.36,
+        "pe_ratio": 22.37,
         "forward_return": 0.7,
         "start_price": 21.25,
         "start_year": 2018
@@ -7608,7 +6897,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.78,
+        "pe_ratio": 25.31,
         "forward_return": -4.11,
         "start_price": 22.95,
         "start_year": 2018
@@ -7617,7 +6906,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.71,
+        "pe_ratio": 26.29,
         "forward_return": -2.23,
         "start_price": 22.7,
         "start_year": 2018
@@ -7626,7 +6915,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 26.1,
         "forward_return": -2.36,
         "start_price": 21.4,
         "start_year": 2018
@@ -7635,7 +6924,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 15.32,
         "forward_return": 9.37,
         "start_price": 16.8,
         "start_year": 2018
@@ -7644,7 +6933,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.92,
         "forward_return": 7.59,
         "start_price": 17.75,
         "start_year": 2018
@@ -7662,7 +6951,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 9.32,
         "forward_return": 2.94,
         "start_price": 18.4,
         "start_year": 2019
@@ -7671,7 +6960,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.66,
+        "pe_ratio": 8.56,
         "forward_return": 1.26,
         "start_price": 19.65,
         "start_year": 2019
@@ -7680,7 +6969,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 7.69,
         "forward_return": -0.87,
         "start_price": 20.15,
         "start_year": 2019
@@ -7689,7 +6978,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 9.94,
         "forward_return": -4.41,
         "start_price": 23.75,
         "start_year": 2019
@@ -7698,7 +6987,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 10.56,
         "forward_return": -8.95,
         "start_price": 22.8,
         "start_year": 2019
@@ -7707,7 +6996,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 10.91,
         "forward_return": -4.49,
         "start_price": 21.05,
         "start_year": 2019
@@ -7716,7 +7005,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.34,
+        "pe_ratio": 9.82,
         "forward_return": -1.38,
         "start_price": 20.1,
         "start_year": 2019
@@ -7725,7 +7014,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 9.87,
         "forward_return": -6.41,
         "start_price": 21.35,
         "start_year": 2019
@@ -7734,7 +7023,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 9.39,
         "forward_return": -6.77,
         "start_price": 21.4,
         "start_year": 2019
@@ -7743,7 +7032,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.21,
+        "pe_ratio": 9.56,
         "forward_return": -4.5,
         "start_price": 20.45,
         "start_year": 2019
@@ -7752,7 +7041,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.29,
+        "pe_ratio": 10.4,
         "forward_return": -4.93,
         "start_price": 20.8,
         "start_year": 2019
@@ -7770,7 +7059,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 13.25,
         "forward_return": 2.41,
         "start_price": 20.5,
         "start_year": 2020
@@ -7779,7 +7068,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 16.14,
         "forward_return": 20.04,
         "start_price": 19.9,
         "start_year": 2020
@@ -7788,7 +7077,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 17.28,
         "forward_return": 35.31,
         "start_price": 15.9,
         "start_year": 2020
@@ -7797,7 +7086,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 14.84,
+        "pe_ratio": 19.72,
         "forward_return": 15.75,
         "start_price": 19.0,
         "start_year": 2020
@@ -7806,7 +7095,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 18.23,
         "forward_return": 24.86,
         "start_price": 18.35,
         "start_year": 2020
@@ -7815,7 +7104,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.65,
+        "pe_ratio": 18.52,
         "forward_return": 17.07,
         "start_price": 19.45,
         "start_year": 2020
@@ -7824,7 +7113,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 22.72,
+        "pe_ratio": 21.57,
         "forward_return": 26.88,
         "start_price": 19.2,
         "start_year": 2020
@@ -7833,7 +7122,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 28.29,
+        "pe_ratio": 27.12,
         "forward_return": 21.04,
         "start_price": 19.8,
         "start_year": 2020
@@ -7842,7 +7131,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 33.33,
+        "pe_ratio": 32.46,
         "forward_return": 14.62,
         "start_price": 18.5,
         "start_year": 2020
@@ -7851,7 +7140,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 44.39,
+        "pe_ratio": 43.33,
         "forward_return": 14.61,
         "start_price": 18.2,
         "start_year": 2020
@@ -7860,7 +7149,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 70.38,
+        "pe_ratio": 69.07,
         "forward_return": 19.89,
         "start_price": 18.65,
         "start_year": 2020
@@ -7878,7 +7167,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 85.16,
+        "pe_ratio": 91.03,
         "forward_return": 26.6,
         "start_price": 17.6,
         "start_year": 2021
@@ -7887,7 +7176,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 62.22,
+        "pe_ratio": 68.44,
         "forward_return": 23.88,
         "start_price": 18.25,
         "start_year": 2021
@@ -7896,7 +7185,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 47.11,
+        "pe_ratio": 52.65,
         "forward_return": 36.22,
         "start_price": 17.9,
         "start_year": 2021
@@ -7905,7 +7194,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 42.43,
+        "pe_ratio": 47.9,
         "forward_return": 33.07,
         "start_price": 19.8,
         "start_year": 2021
@@ -7914,7 +7203,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 30.72,
+        "pe_ratio": 34.93,
         "forward_return": 41.25,
         "start_price": 17.0,
         "start_year": 2021
@@ -7923,7 +7212,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.03,
+        "pe_ratio": 30.89,
         "forward_return": 45.09,
         "start_price": 17.3,
         "start_year": 2021
@@ -7932,7 +7221,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.11,
+        "pe_ratio": 34.01,
         "forward_return": 52.11,
         "start_price": 18.25,
         "start_year": 2021
@@ -7941,7 +7230,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 33.9,
         "forward_return": 59.61,
         "start_price": 17.4,
         "start_year": 2021
@@ -7950,7 +7239,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.22,
+        "pe_ratio": 35.31,
         "forward_return": 50.95,
         "start_price": 17.3,
         "start_year": 2021
@@ -7959,7 +7248,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 17.58,
+        "pe_ratio": 24.32,
         "forward_return": 44.08,
         "start_price": 17.35,
         "start_year": 2021
@@ -7968,7 +7257,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 18.68,
         "forward_return": 57.71,
         "start_price": 17.5,
         "start_year": 2021
@@ -7986,7 +7275,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 15.71,
+        "pe_ratio": 16.07,
         "forward_return": 44.23,
         "start_price": 20.2,
         "start_year": 2022
@@ -7995,7 +7284,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.73,
+        "pe_ratio": 16.4,
         "forward_return": 37.66,
         "start_price": 22.2,
         "start_year": 2022
@@ -8004,7 +7293,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 18.08,
+        "pe_ratio": 19.17,
         "forward_return": 64.09,
         "start_price": 27.8,
         "start_year": 2022
@@ -8013,7 +7302,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.52,
+        "pe_ratio": 14.7,
         "forward_return": 107.81,
         "start_price": 24.15,
         "start_year": 2022
@@ -8022,7 +7311,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 14.86,
         "forward_return": 154.75,
         "start_price": 27.3,
         "start_year": 2022
@@ -8031,7 +7320,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.49,
         "forward_return": 157.57,
         "start_price": 25.35,
         "start_year": 2022
@@ -8040,7 +7329,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 14.45,
+        "pe_ratio": 12.14,
         "forward_return": 123.26,
         "start_price": 29.5,
         "start_year": 2022
@@ -8049,7 +7338,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 12.74,
+        "pe_ratio": 9.75,
         "forward_return": 141.9,
         "start_price": 27.6,
         "start_year": 2022
@@ -8058,7 +7347,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.99,
+        "pe_ratio": 7.09,
         "forward_return": 158.48,
         "start_price": 22.9,
         "start_year": 2022
@@ -8067,7 +7356,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.3,
+        "pe_ratio": 7.39,
         "forward_return": 152.56,
         "start_price": 22.5,
         "start_year": 2022
@@ -8076,7 +7365,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.98,
+        "pe_ratio": 8.89,
         "forward_return": 138.95,
         "start_price": 25.4,
         "start_year": 2022
@@ -8094,7 +7383,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 10.57,
         "forward_return": 131.83,
         "start_price": 26.8,
         "start_year": 2023
@@ -8103,7 +7392,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 9.7,
+        "pe_ratio": 11.07,
         "forward_return": 145.26,
         "start_price": 26.6,
         "start_year": 2023
@@ -8112,7 +7401,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 11.44,
+        "pe_ratio": 14.01,
         "forward_return": 109.12,
         "start_price": 31.8,
         "start_year": 2023
@@ -8121,7 +7410,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.98,
         "forward_return": 100.35,
         "start_price": 33.65,
         "start_year": 2023
@@ -8130,7 +7419,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 11.39,
+        "pe_ratio": 11.14,
         "forward_return": 111.62,
         "start_price": 32.5,
         "start_year": 2023
@@ -8139,7 +7428,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 12.11,
+        "pe_ratio": 10.8,
         "forward_return": 99.69,
         "start_price": 35.0,
         "start_year": 2023
@@ -8148,7 +7437,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 13.6,
+        "pe_ratio": 12.45,
         "forward_return": 87.61,
         "start_price": 39.8,
         "start_year": 2023
@@ -8157,7 +7446,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 14.14,
+        "pe_ratio": 13.29,
         "forward_return": 95.14,
         "start_price": 41.9,
         "start_year": 2023
@@ -8166,7 +7455,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 12.33,
+        "pe_ratio": 11.9,
         "forward_return": 97.67,
         "start_price": 37.0,
         "start_year": 2023
@@ -8175,7 +7464,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 10.8,
         "forward_return": 99.76,
         "start_price": 33.6,
         "start_year": 2023
@@ -8184,7 +7473,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.37,
+        "pe_ratio": 13.22,
         "forward_return": 81.97,
         "start_price": 41.1,
         "start_year": 2023
@@ -8202,7 +7491,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.75,
         "forward_return": 84.35,
         "start_price": 39.6,
         "start_year": 2024
@@ -8211,7 +7500,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 2.12,
+        "pe_ratio": 1.8,
         "forward_return": 14.29,
         "start_price": 5.66,
         "start_year": 2006
@@ -8220,7 +7509,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 2.7,
+        "pe_ratio": 2.43,
         "forward_return": 6.67,
         "start_price": 7.2,
         "start_year": 2006
@@ -8229,7 +7518,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 4.06,
         "forward_return": -7.65,
         "start_price": 11.3,
         "start_year": 2006
@@ -8238,7 +7527,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 3.48,
+        "pe_ratio": 3.58,
         "forward_return": -0.61,
         "start_price": 9.3,
         "start_year": 2006
@@ -8247,7 +7536,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 3.4,
+        "pe_ratio": 3.59,
         "forward_return": 13.24,
         "start_price": 9.09,
         "start_year": 2006
@@ -8256,7 +7545,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 3.09,
+        "pe_ratio": 3.34,
         "forward_return": 12.23,
         "start_price": 8.24,
         "start_year": 2006
@@ -8265,7 +7554,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 3.04,
+        "pe_ratio": 3.39,
         "forward_return": 16.18,
         "start_price": 8.13,
         "start_year": 2006
@@ -8274,7 +7563,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 3.75,
+        "pe_ratio": 4.02,
         "forward_return": 10.65,
         "start_price": 10.0,
         "start_year": 2006
@@ -8283,7 +7572,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 4.27,
+        "pe_ratio": 4.42,
         "forward_return": 6.96,
         "start_price": 11.4,
         "start_year": 2006
@@ -8301,7 +7590,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 3.79,
+        "pe_ratio": 5.49,
         "forward_return": 7.34,
         "start_price": 10.55,
         "start_year": 2007
@@ -8310,7 +7599,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 8.76,
         "forward_return": 8.52,
         "start_price": 10.25,
         "start_year": 2007
@@ -8319,7 +7608,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 4.39,
+        "pe_ratio": 31.43,
         "forward_return": 3.18,
         "start_price": 13.2,
         "start_year": 2007
@@ -8328,7 +7617,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 4.14,
+        "pe_ratio": 9.97,
         "forward_return": 4.33,
         "start_price": 12.9,
         "start_year": 2007
@@ -8337,7 +7626,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 4.55,
+        "pe_ratio": 6.78,
         "forward_return": -4.26,
         "start_price": 14.7,
         "start_year": 2007
@@ -8346,7 +7635,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 6.38,
+        "pe_ratio": 7.01,
         "forward_return": -14.52,
         "start_price": 21.3,
         "start_year": 2007
@@ -8355,7 +7644,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 6.87,
+        "pe_ratio": 7.28,
         "forward_return": -15.89,
         "start_price": 23.7,
         "start_year": 2007
@@ -8364,7 +7653,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 7.69,
+        "pe_ratio": 7.89,
         "forward_return": -21.31,
         "start_price": 27.4,
         "start_year": 2007
@@ -8373,7 +7662,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 7.84,
+        "pe_ratio": 7.8,
         "forward_return": -19.45,
         "start_price": 28.8,
         "start_year": 2007
@@ -8382,7 +7671,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": -18.63,
         "start_price": 27.2,
         "start_year": 2007
@@ -8391,7 +7680,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 5.4,
+        "pe_ratio": 5.39,
         "forward_return": -11.89,
         "start_price": 21.05,
         "start_year": 2007
@@ -8409,7 +7698,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 4.66,
+        "pe_ratio": 4.73,
         "forward_return": -5.88,
         "start_price": 17.15,
         "start_year": 2008
@@ -8418,7 +7707,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 6.01,
+        "pe_ratio": 6.2,
         "forward_return": -13.3,
         "start_price": 20.1,
         "start_year": 2008
@@ -8427,7 +7716,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 6.77,
+        "pe_ratio": 7.13,
         "forward_return": -14.07,
         "start_price": 20.4,
         "start_year": 2008
@@ -8436,7 +7725,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.71,
         "forward_return": -10.68,
         "start_price": 18.45,
         "start_year": 2008
@@ -8445,7 +7734,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 11.42,
         "forward_return": -15.99,
         "start_price": 22.0,
         "start_year": 2008
@@ -8454,7 +7743,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 7.25,
+        "pe_ratio": 10.0,
         "forward_return": -5.43,
         "start_price": 14.6,
         "start_year": 2008
@@ -8463,7 +7752,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.79,
+        "pe_ratio": 10.29,
         "forward_return": -1.29,
         "start_price": 13.1,
         "start_year": 2008
@@ -8472,7 +7761,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 9.7,
+        "pe_ratio": 12.06,
         "forward_return": -6.82,
         "start_price": 13.1,
         "start_year": 2008
@@ -8481,7 +7770,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 8.79,
         "forward_return": 9.38,
         "start_price": 7.91,
         "start_year": 2008
@@ -8490,7 +7779,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 13.1,
         "forward_return": 9.2,
         "start_price": 7.95,
         "start_year": 2008
@@ -8499,7 +7788,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 19.12,
+        "pe_ratio": 21.51,
         "forward_return": 15.16,
         "start_price": 6.74,
         "start_year": 2008
@@ -8516,89 +7805,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2009-01-16",
-        "pe_ratio": 70.65,
-        "forward_return": 21.32,
-        "start_price": 5.77,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-02-14",
-        "pe_ratio": 51.56,
-        "forward_return": 15.05,
-        "start_price": 7.39,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-03-16",
-        "pe_ratio": 41.22,
-        "forward_return": 8.35,
-        "start_price": 8.45,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-04-15",
-        "pe_ratio": 32.78,
-        "forward_return": 6.3,
-        "start_price": 8.74,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-05-16",
-        "pe_ratio": 27.11,
-        "forward_return": 4.78,
-        "start_price": 8.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-06-15",
-        "pe_ratio": 23.41,
-        "forward_return": 3.83,
-        "start_price": 9.13,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-07-16",
-        "pe_ratio": 29.23,
-        "forward_return": -8.02,
-        "start_price": 13.2,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-08-16",
-        "pe_ratio": 22.69,
-        "forward_return": -3.87,
-        "start_price": 11.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2009-09-15",
-        "pe_ratio": 22.17,
-        "forward_return": 1.16,
-        "start_price": 12.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.28,
+        "pe_ratio": 81.3,
         "forward_return": -5.73,
         "start_price": 13.55,
         "start_year": 2009
@@ -8607,7 +7815,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 19.98,
+        "pe_ratio": 30.11,
         "forward_return": -2.83,
         "start_price": 13.95,
         "start_year": 2009
@@ -8625,7 +7833,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 14.13,
         "forward_return": -2.62,
         "start_price": 13.05,
         "start_year": 2010
@@ -8634,7 +7842,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.86,
+        "pe_ratio": 12.06,
         "forward_return": -3.29,
         "start_price": 13.1,
         "start_year": 2010
@@ -8643,7 +7851,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 11.6,
         "forward_return": -4.2,
         "start_price": 14.5,
         "start_year": 2010
@@ -8652,7 +7860,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 12.89,
         "forward_return": -5.15,
         "start_price": 14.65,
         "start_year": 2010
@@ -8661,7 +7869,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 18.61,
+        "pe_ratio": 12.61,
         "forward_return": 1.78,
         "start_price": 12.9,
         "start_year": 2010
@@ -8670,7 +7878,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 19.56,
+        "pe_ratio": 14.62,
         "forward_return": 0.37,
         "start_price": 13.3,
         "start_year": 2010
@@ -8679,7 +7887,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 21.15,
+        "pe_ratio": 14.01,
         "forward_return": -2.05,
         "start_price": 14.1,
         "start_year": 2010
@@ -8688,7 +7896,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 12.1,
         "forward_return": -0.5,
         "start_price": 13.35,
         "start_year": 2010
@@ -8697,7 +7905,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 23.52,
+        "pe_ratio": 12.54,
         "forward_return": -4.16,
         "start_price": 15.05,
         "start_year": 2010
@@ -8706,7 +7914,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 14.65,
         "forward_return": -3.66,
         "start_price": 14.65,
         "start_year": 2010
@@ -8715,7 +7923,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 23.48,
+        "pe_ratio": 18.0,
         "forward_return": -3.1,
         "start_price": 14.4,
         "start_year": 2010
@@ -8733,7 +7941,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 22.94,
         "forward_return": 0.12,
         "start_price": 14.3,
         "start_year": 2011
@@ -8742,7 +7950,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 22.52,
+        "pe_ratio": 20.72,
         "forward_return": 12.44,
         "start_price": 13.4,
         "start_year": 2011
@@ -8751,7 +7959,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 21.86,
+        "pe_ratio": 19.33,
         "forward_return": 14.61,
         "start_price": 12.95,
         "start_year": 2011
@@ -8760,7 +7968,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 22.29,
+        "pe_ratio": 21.44,
         "forward_return": 14.23,
         "start_price": 13.15,
         "start_year": 2011
@@ -8769,7 +7977,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 23.44,
         "forward_return": 19.55,
         "start_price": 13.05,
         "start_year": 2011
@@ -8778,7 +7986,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 24.7,
         "forward_return": 17.53,
         "start_price": 12.35,
         "start_year": 2011
@@ -8787,7 +7995,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 30.5,
         "forward_return": 11.93,
         "start_price": 12.3,
         "start_year": 2011
@@ -8796,7 +8004,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.76,
+        "pe_ratio": 33.59,
         "forward_return": 20.0,
         "start_price": 10.3,
         "start_year": 2011
@@ -8805,7 +8013,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.4,
+        "pe_ratio": 47.86,
         "forward_return": 22.99,
         "start_price": 10.05,
         "start_year": 2011
@@ -8814,7 +8022,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 30.45,
         "forward_return": 22.77,
         "start_price": 10.05,
         "start_year": 2011
@@ -8823,7 +8031,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 17.45,
+        "pe_ratio": 22.2,
         "forward_return": 22.24,
         "start_price": 9.99,
         "start_year": 2011
@@ -8841,7 +8049,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 17.14,
         "forward_return": 23.3,
         "start_price": 10.0,
         "start_year": 2012
@@ -8850,7 +8058,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 23.3,
+        "pe_ratio": 18.35,
         "forward_return": 23.26,
         "start_price": 10.95,
         "start_year": 2012
@@ -8859,7 +8067,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 24.88,
+        "pe_ratio": 17.13,
         "forward_return": 25.91,
         "start_price": 10.45,
         "start_year": 2012
@@ -8868,7 +8076,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 27.57,
+        "pe_ratio": 15.85,
         "forward_return": 25.39,
         "start_price": 10.2,
         "start_year": 2012
@@ -8877,7 +8085,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 14.69,
         "forward_return": 21.9,
         "start_price": 9.94,
         "start_year": 2012
@@ -8886,7 +8094,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 36.74,
+        "pe_ratio": 13.97,
         "forward_return": 19.21,
         "start_price": 9.92,
         "start_year": 2012
@@ -8895,7 +8103,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 45.32,
+        "pe_ratio": 13.6,
         "forward_return": 15.73,
         "start_price": 9.97,
         "start_year": 2012
@@ -8904,7 +8112,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 59.12,
+        "pe_ratio": 13.28,
         "forward_return": 14.29,
         "start_price": 10.05,
         "start_year": 2012
@@ -8913,7 +8121,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 107.5,
+        "pe_ratio": 16.54,
         "forward_return": 4.57,
         "start_price": 12.9,
         "start_year": 2012
@@ -8922,7 +8130,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 157.9,
+        "pe_ratio": 21.67,
         "forward_return": 11.47,
         "start_price": 11.05,
         "start_year": 2012
@@ -8931,7 +8139,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 625.0,
+        "pe_ratio": 52.08,
         "forward_return": 7.78,
         "start_price": 12.5,
         "start_year": 2012
@@ -8939,89 +8147,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2013-01-16",
-        "pe_ratio": 1007.0,
-        "forward_return": 13.99,
-        "start_price": 11.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-02-14",
-        "pe_ratio": 216.6,
-        "forward_return": 12.29,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-03-16",
-        "pe_ratio": 131.0,
-        "forward_return": 11.59,
-        "start_price": 12.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-04-15",
-        "pe_ratio": 89.27,
-        "forward_return": 9.46,
-        "start_price": 12.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-05-16",
-        "pe_ratio": 74.58,
-        "forward_return": 6.68,
-        "start_price": 13.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-06-15",
-        "pe_ratio": 59.77,
-        "forward_return": 4.72,
-        "start_price": 13.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-07-16",
-        "pe_ratio": 49.49,
-        "forward_return": 7.41,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-08-16",
-        "pe_ratio": 42.36,
-        "forward_return": 8.47,
-        "start_price": 12.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2013-09-15",
-        "pe_ratio": 37.54,
-        "forward_return": 9.81,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 33.1,
+        "pe_ratio": 153.6,
         "forward_return": 8.39,
         "start_price": 12.8,
         "start_year": 2013
@@ -9030,7 +8157,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 46.27,
         "forward_return": 7.72,
         "start_price": 12.8,
         "start_year": 2013
@@ -9048,7 +8175,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 23.81,
+        "pe_ratio": 21.51,
         "forward_return": 7.49,
         "start_price": 14.05,
         "start_year": 2014
@@ -9057,7 +8184,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.41,
+        "pe_ratio": 22.41,
         "forward_return": -1.44,
         "start_price": 18.75,
         "start_year": 2014
@@ -9066,7 +8193,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.13,
+        "pe_ratio": 18.82,
         "forward_return": -1.23,
         "start_price": 19.2,
         "start_year": 2014
@@ -9075,7 +8202,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.32,
+        "pe_ratio": 19.97,
         "forward_return": 0.77,
         "start_price": 19.3,
         "start_year": 2014
@@ -9084,7 +8211,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 24.09,
         "forward_return": -1.85,
         "start_price": 22.0,
         "start_year": 2014
@@ -9093,7 +8220,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 22.97,
         "forward_return": 1.5,
         "start_price": 19.75,
         "start_year": 2014
@@ -9102,7 +8229,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 16.38,
         "forward_return": 7.7,
         "start_price": 17.25,
         "start_year": 2014
@@ -9111,7 +8238,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.28,
         "forward_return": 13.39,
         "start_price": 17.8,
         "start_year": 2014
@@ -9120,7 +8247,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.06,
+        "pe_ratio": 12.99,
         "forward_return": 9.2,
         "start_price": 18.7,
         "start_year": 2014
@@ -9129,7 +8256,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.65,
         "forward_return": 13.01,
         "start_price": 18.6,
         "start_year": 2014
@@ -9138,7 +8265,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 10.2,
+        "pe_ratio": 10.41,
         "forward_return": 9.48,
         "start_price": 18.25,
         "start_year": 2014
@@ -9156,7 +8283,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 10.21,
         "forward_return": 14.7,
         "start_price": 18.75,
         "start_year": 2015
@@ -9165,7 +8292,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 10.41,
         "forward_return": 12.03,
         "start_price": 18.35,
         "start_year": 2015
@@ -9174,7 +8301,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 12.34,
         "forward_return": 7.01,
         "start_price": 20.85,
         "start_year": 2015
@@ -9183,7 +8310,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.1,
+        "pe_ratio": 11.46,
         "forward_return": 5.42,
         "start_price": 20.1,
         "start_year": 2015
@@ -9192,7 +8319,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 8.96,
+        "pe_ratio": 9.91,
         "forward_return": 15.31,
         "start_price": 18.0,
         "start_year": 2015
@@ -9201,7 +8328,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 8.28,
+        "pe_ratio": 8.94,
         "forward_return": 13.01,
         "start_price": 16.8,
         "start_year": 2015
@@ -9210,7 +8337,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.05,
+        "pe_ratio": 7.87,
         "forward_return": 21.55,
         "start_price": 14.45,
         "start_year": 2015
@@ -9219,7 +8346,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 6.76,
+        "pe_ratio": 7.81,
         "forward_return": 22.44,
         "start_price": 14.0,
         "start_year": 2015
@@ -9228,7 +8355,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 6.58,
+        "pe_ratio": 7.86,
         "forward_return": 21.06,
         "start_price": 13.75,
         "start_year": 2015
@@ -9237,7 +8364,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 6.78,
+        "pe_ratio": 7.59,
         "forward_return": 11.45,
         "start_price": 14.3,
         "start_year": 2015
@@ -9246,7 +8373,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.26,
         "forward_return": 12.3,
         "start_price": 14.65,
         "start_year": 2015
@@ -9264,7 +8391,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.0,
+        "pe_ratio": 8.04,
         "forward_return": 9.27,
         "start_price": 16.4,
         "start_year": 2016
@@ -9273,7 +8400,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 7.87,
+        "pe_ratio": 7.95,
         "forward_return": 14.27,
         "start_price": 15.35,
         "start_year": 2016
@@ -9282,7 +8409,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.81,
+        "pe_ratio": 8.96,
         "forward_return": 12.41,
         "start_price": 16.3,
         "start_year": 2016
@@ -9291,7 +8418,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.05,
         "forward_return": 21.28,
         "start_price": 15.0,
         "start_year": 2016
@@ -9300,7 +8427,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 7.95,
         "forward_return": 19.43,
         "start_price": 15.15,
         "start_year": 2016
@@ -9309,7 +8436,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 9.1,
+        "pe_ratio": 7.23,
         "forward_return": 19.5,
         "start_price": 14.1,
         "start_year": 2016
@@ -9318,7 +8445,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 7.88,
         "forward_return": 18.21,
         "start_price": 14.05,
         "start_year": 2016
@@ -9327,7 +8454,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 8.91,
         "forward_return": 19.31,
         "start_price": 14.4,
         "start_year": 2016
@@ -9336,7 +8463,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.12,
+        "pe_ratio": 10.45,
         "forward_return": 17.39,
         "start_price": 15.15,
         "start_year": 2016
@@ -9345,7 +8472,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.14,
         "forward_return": 18.1,
         "start_price": 14.3,
         "start_year": 2016
@@ -9354,7 +8481,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 12.54,
         "forward_return": 19.53,
         "start_price": 14.0,
         "start_year": 2016
@@ -9372,7 +8499,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 17.49,
         "forward_return": 15.18,
         "start_price": 15.45,
         "start_year": 2017
@@ -9381,7 +8508,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.8,
+        "pe_ratio": 19.53,
         "forward_return": 12.99,
         "start_price": 15.95,
         "start_year": 2017
@@ -9390,7 +8517,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 22.0,
         "forward_return": 4.81,
         "start_price": 16.5,
         "start_year": 2017
@@ -9399,7 +8526,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 23.77,
+        "pe_ratio": 23.15,
         "forward_return": 7.58,
         "start_price": 17.75,
         "start_year": 2017
@@ -9408,7 +8535,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.02,
+        "pe_ratio": 24.0,
         "forward_return": 4.49,
         "start_price": 18.8,
         "start_year": 2017
@@ -9417,7 +8544,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.91,
+        "pe_ratio": 23.31,
         "forward_return": 6.53,
         "start_price": 18.65,
         "start_year": 2017
@@ -9426,7 +8553,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 31.22,
+        "pe_ratio": 22.17,
         "forward_return": 6.01,
         "start_price": 18.55,
         "start_year": 2017
@@ -9435,7 +8562,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 42.24,
+        "pe_ratio": 26.28,
         "forward_return": -0.36,
         "start_price": 22.95,
         "start_year": 2017
@@ -9444,7 +8571,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 43.35,
+        "pe_ratio": 23.46,
         "forward_return": 0.08,
         "start_price": 21.35,
         "start_year": 2017
@@ -9453,7 +8580,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 54.0,
+        "pe_ratio": 33.12,
         "forward_return": -4.0,
         "start_price": 23.85,
         "start_year": 2017
@@ -9462,7 +8589,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 53.6,
+        "pe_ratio": 39.53,
         "forward_return": 0.95,
         "start_price": 20.95,
         "start_year": 2017
@@ -9480,7 +8607,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 56.33,
+        "pe_ratio": 66.0,
         "forward_return": -6.77,
         "start_price": 25.3,
         "start_year": 2018
@@ -9489,7 +8616,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 40.84,
+        "pe_ratio": 53.44,
         "forward_return": -2.47,
         "start_price": 22.8,
         "start_year": 2018
@@ -9498,7 +8625,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 33.78,
+        "pe_ratio": 47.98,
         "forward_return": -2.66,
         "start_price": 22.55,
         "start_year": 2018
@@ -9507,7 +8634,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 26.46,
+        "pe_ratio": 32.62,
         "forward_return": 3.37,
         "start_price": 20.55,
         "start_year": 2018
@@ -9516,7 +8643,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 27.77,
+        "pe_ratio": 31.14,
         "forward_return": -6.82,
         "start_price": 24.6,
         "start_year": 2018
@@ -9525,7 +8652,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 21.36,
+        "pe_ratio": 22.37,
         "forward_return": -1.67,
         "start_price": 21.25,
         "start_year": 2018
@@ -9534,7 +8661,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.78,
+        "pe_ratio": 25.31,
         "forward_return": -3.46,
         "start_price": 22.95,
         "start_year": 2018
@@ -9543,7 +8670,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.71,
+        "pe_ratio": 26.29,
         "forward_return": -4.45,
         "start_price": 22.7,
         "start_year": 2018
@@ -9552,7 +8679,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 26.1,
         "forward_return": -2.72,
         "start_price": 21.4,
         "start_year": 2018
@@ -9561,7 +8688,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 15.32,
         "forward_return": 5.54,
         "start_price": 16.8,
         "start_year": 2018
@@ -9570,7 +8697,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.92,
         "forward_return": 3.88,
         "start_price": 17.75,
         "start_year": 2018
@@ -9588,7 +8715,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 9.32,
         "forward_return": 7.09,
         "start_price": 18.4,
         "start_year": 2019
@@ -9597,7 +8724,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.66,
+        "pe_ratio": 8.56,
         "forward_return": 7.77,
         "start_price": 19.65,
         "start_year": 2019
@@ -9606,7 +8733,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 7.69,
         "forward_return": 14.44,
         "start_price": 20.15,
         "start_year": 2019
@@ -9615,7 +8742,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 9.94,
         "forward_return": 3.78,
         "start_price": 23.75,
         "start_year": 2019
@@ -9624,7 +8751,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 10.56,
         "forward_return": 9.21,
         "start_price": 22.8,
         "start_year": 2019
@@ -9633,7 +8760,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 10.91,
         "forward_return": 9.65,
         "start_price": 21.05,
         "start_year": 2019
@@ -9642,7 +8769,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.34,
+        "pe_ratio": 9.82,
         "forward_return": 16.4,
         "start_price": 20.1,
         "start_year": 2019
@@ -9651,7 +8778,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 9.87,
         "forward_return": 11.75,
         "start_price": 21.35,
         "start_year": 2019
@@ -9660,7 +8787,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 9.39,
         "forward_return": 5.46,
         "start_price": 21.4,
         "start_year": 2019
@@ -9669,7 +8796,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.21,
+        "pe_ratio": 9.56,
         "forward_return": 6.49,
         "start_price": 20.45,
         "start_year": 2019
@@ -9678,7 +8805,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.29,
+        "pe_ratio": 10.4,
         "forward_return": 9.89,
         "start_price": 20.8,
         "start_year": 2019
@@ -9696,7 +8823,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 13.25,
         "forward_return": 12.25,
         "start_price": 20.5,
         "start_year": 2020
@@ -9705,7 +8832,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 16.14,
         "forward_return": 18.99,
         "start_price": 19.9,
         "start_year": 2020
@@ -9714,7 +8841,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 17.28,
         "forward_return": 28.86,
         "start_price": 15.9,
         "start_year": 2020
@@ -9723,7 +8850,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 14.84,
+        "pe_ratio": 19.72,
         "forward_return": 23.59,
         "start_price": 19.0,
         "start_year": 2020
@@ -9732,7 +8859,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 18.23,
         "forward_return": 23.68,
         "start_price": 18.35,
         "start_year": 2020
@@ -9741,7 +8868,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.65,
+        "pe_ratio": 18.52,
         "forward_return": 24.15,
         "start_price": 19.45,
         "start_year": 2020
@@ -9750,7 +8877,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 22.72,
+        "pe_ratio": 21.57,
         "forward_return": 30.55,
         "start_price": 19.2,
         "start_year": 2020
@@ -9759,7 +8886,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 28.29,
+        "pe_ratio": 27.12,
         "forward_return": 31.31,
         "start_price": 19.8,
         "start_year": 2020
@@ -9768,7 +8895,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 33.33,
+        "pe_ratio": 32.46,
         "forward_return": 29.22,
         "start_price": 18.5,
         "start_year": 2020
@@ -9777,7 +8904,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 44.39,
+        "pe_ratio": 43.33,
         "forward_return": 26.13,
         "start_price": 18.2,
         "start_year": 2020
@@ -9786,7 +8913,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 70.38,
+        "pe_ratio": 69.07,
         "forward_return": 33.15,
         "start_price": 18.65,
         "start_year": 2020
@@ -9804,7 +8931,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 85.16,
+        "pe_ratio": 91.03,
         "forward_return": 34.19,
         "start_price": 17.6,
         "start_year": 2021
@@ -9813,7 +8940,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 62.22,
+        "pe_ratio": 68.44,
         "forward_return": 32.63,
         "start_price": 18.25,
         "start_year": 2021
@@ -9822,7 +8949,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 47.11,
+        "pe_ratio": 52.65,
         "forward_return": 61.48,
         "start_price": 17.9,
         "start_year": 2021
@@ -9831,7 +8958,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 42.43,
+        "pe_ratio": 47.9,
         "forward_return": 74.31,
         "start_price": 19.8,
         "start_year": 2021
@@ -9840,7 +8967,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 30.72,
+        "pe_ratio": 34.93,
         "forward_return": 118.69,
         "start_price": 17.0,
         "start_year": 2021
@@ -9849,7 +8976,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.03,
+        "pe_ratio": 30.89,
         "forward_return": 113.69,
         "start_price": 17.3,
         "start_year": 2021
@@ -9858,7 +8985,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.11,
+        "pe_ratio": 34.01,
         "forward_return": 100.92,
         "start_price": 18.25,
         "start_year": 2021
@@ -9867,7 +8994,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 33.9,
         "forward_return": 110.6,
         "start_price": 17.4,
         "start_year": 2021
@@ -9876,7 +9003,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.22,
+        "pe_ratio": 35.31,
         "forward_return": 107.26,
         "start_price": 17.3,
         "start_year": 2021
@@ -9885,7 +9012,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 17.58,
+        "pe_ratio": 24.32,
         "forward_return": 102.72,
         "start_price": 17.35,
         "start_year": 2021
@@ -9894,7 +9021,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 18.68,
         "forward_return": 102.83,
         "start_price": 17.5,
         "start_year": 2021
@@ -9912,7 +9039,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 15.71,
+        "pe_ratio": 16.07,
         "forward_return": 92.92,
         "start_price": 20.2,
         "start_year": 2022
@@ -9921,7 +9048,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.73,
+        "pe_ratio": 16.4,
         "forward_return": 93.57,
         "start_price": 22.2,
         "start_year": 2022
@@ -9930,7 +9057,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 18.08,
+        "pe_ratio": 19.17,
         "forward_return": 71.43,
         "start_price": 27.8,
         "start_year": 2022
@@ -9939,7 +9066,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.52,
+        "pe_ratio": 14.7,
         "forward_return": 77.93,
         "start_price": 24.15,
         "start_year": 2022
@@ -9948,7 +9075,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.26,
+        "pe_ratio": 14.86,
         "forward_return": 75.09,
         "start_price": 27.3,
         "start_year": 2022
@@ -9957,7 +9084,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.49,
         "forward_return": 76.99,
         "start_price": 25.35,
         "start_year": 2022
@@ -9966,7 +9093,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 14.45,
+        "pe_ratio": 12.14,
         "forward_return": 68.71,
         "start_price": 29.5,
         "start_year": 2022
@@ -9975,7 +9102,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 12.74,
+        "pe_ratio": 9.75,
         "forward_return": 80.06,
         "start_price": 27.6,
         "start_year": 2022
@@ -9984,7 +9111,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.99,
+        "pe_ratio": 7.09,
         "forward_return": 85.49,
         "start_price": 22.9,
         "start_year": 2022
@@ -9993,7 +9120,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.3,
+        "pe_ratio": 7.39,
         "forward_return": 82.0,
         "start_price": 22.5,
         "start_year": 2022
@@ -10002,7 +9129,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.98,
+        "pe_ratio": 8.89,
         "forward_return": 75.65,
         "start_price": 25.4,
         "start_year": 2022
@@ -10020,7 +9147,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 9.9,
+        "pe_ratio": 10.57,
         "forward_return": 71.91,
         "start_price": 26.8,
         "start_year": 2023
@@ -10029,7 +9156,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 9.7,
+        "pe_ratio": 11.07,
         "forward_return": 72.55,
         "start_price": 26.6,
         "start_year": 2023
@@ -10038,7 +9165,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 2.12,
+        "pe_ratio": 1.8,
         "forward_return": 26.51,
         "start_price": 5.66,
         "start_year": 2006
@@ -10047,7 +9174,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 2.7,
+        "pe_ratio": 2.43,
         "forward_return": 19.43,
         "start_price": 7.2,
         "start_year": 2006
@@ -10056,7 +9183,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 4.06,
         "forward_return": 3.37,
         "start_price": 11.3,
         "start_year": 2006
@@ -10065,7 +9192,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 3.48,
+        "pe_ratio": 3.58,
         "forward_return": 9.36,
         "start_price": 9.3,
         "start_year": 2006
@@ -10074,7 +9201,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 3.4,
+        "pe_ratio": 3.59,
         "forward_return": 11.6,
         "start_price": 9.09,
         "start_year": 2006
@@ -10083,7 +9210,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 3.09,
+        "pe_ratio": 3.34,
         "forward_return": 12.82,
         "start_price": 8.24,
         "start_year": 2006
@@ -10092,7 +9219,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 3.04,
+        "pe_ratio": 3.39,
         "forward_return": 16.64,
         "start_price": 8.13,
         "start_year": 2006
@@ -10101,7 +9228,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 3.75,
+        "pe_ratio": 4.02,
         "forward_return": 10.02,
         "start_price": 10.0,
         "start_year": 2006
@@ -10110,7 +9237,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 4.27,
+        "pe_ratio": 4.42,
         "forward_return": 6.01,
         "start_price": 11.4,
         "start_year": 2006
@@ -10128,7 +9255,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 3.79,
+        "pe_ratio": 5.49,
         "forward_return": 7.9,
         "start_price": 10.55,
         "start_year": 2007
@@ -10137,7 +9264,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 8.76,
         "forward_return": 6.93,
         "start_price": 10.25,
         "start_year": 2007
@@ -10146,7 +9273,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 4.39,
+        "pe_ratio": 31.43,
         "forward_return": -0.48,
         "start_price": 13.2,
         "start_year": 2007
@@ -10155,7 +9282,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 4.14,
+        "pe_ratio": 9.97,
         "forward_return": 0.48,
         "start_price": 12.9,
         "start_year": 2007
@@ -10164,7 +9291,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 4.55,
+        "pe_ratio": 6.78,
         "forward_return": -2.93,
         "start_price": 14.7,
         "start_year": 2007
@@ -10173,7 +9300,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 6.38,
+        "pe_ratio": 7.01,
         "forward_return": -12.74,
         "start_price": 21.3,
         "start_year": 2007
@@ -10182,7 +9309,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 6.87,
+        "pe_ratio": 7.28,
         "forward_return": -14.61,
         "start_price": 23.7,
         "start_year": 2007
@@ -10191,7 +9318,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 7.69,
+        "pe_ratio": 7.89,
         "forward_return": -21.13,
         "start_price": 27.4,
         "start_year": 2007
@@ -10200,7 +9327,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 7.84,
+        "pe_ratio": 7.8,
         "forward_return": -22.57,
         "start_price": 28.8,
         "start_year": 2007
@@ -10209,7 +9336,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": -21.46,
         "start_price": 27.2,
         "start_year": 2007
@@ -10218,7 +9345,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 5.4,
+        "pe_ratio": 5.39,
         "forward_return": -16.38,
         "start_price": 21.05,
         "start_year": 2007
@@ -10236,7 +9363,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 4.66,
+        "pe_ratio": 4.73,
         "forward_return": -11.97,
         "start_price": 17.15,
         "start_year": 2008
@@ -10245,7 +9372,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 6.01,
+        "pe_ratio": 6.2,
         "forward_return": -13.51,
         "start_price": 20.1,
         "start_year": 2008
@@ -10254,7 +9381,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 6.77,
+        "pe_ratio": 7.13,
         "forward_return": -14.8,
         "start_price": 20.4,
         "start_year": 2008
@@ -10263,7 +9390,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.71,
         "forward_return": -13.14,
         "start_price": 18.45,
         "start_year": 2008
@@ -10272,7 +9399,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 11.42,
         "forward_return": -17.4,
         "start_price": 22.0,
         "start_year": 2008
@@ -10281,7 +9408,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 7.25,
+        "pe_ratio": 10.0,
         "forward_return": -8.53,
         "start_price": 14.6,
         "start_year": 2008
@@ -10290,7 +9417,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.79,
+        "pe_ratio": 10.29,
         "forward_return": -5.9,
         "start_price": 13.1,
         "start_year": 2008
@@ -10299,7 +9426,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 9.7,
+        "pe_ratio": 12.06,
         "forward_return": -5.72,
         "start_price": 13.1,
         "start_year": 2008
@@ -10308,7 +9435,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 8.79,
         "forward_return": 13.66,
         "start_price": 7.91,
         "start_year": 2008
@@ -10317,7 +9444,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 13.1,
         "forward_return": 9.31,
         "start_price": 7.95,
         "start_year": 2008
@@ -10326,7 +9453,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 19.12,
+        "pe_ratio": 21.51,
         "forward_return": 17.39,
         "start_price": 6.74,
         "start_year": 2008
@@ -10343,89 +9470,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2009-01-16",
-        "pe_ratio": 70.65,
-        "forward_return": 20.21,
-        "start_price": 5.77,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-02-14",
-        "pe_ratio": 51.56,
-        "forward_return": 12.53,
-        "start_price": 7.39,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-03-16",
-        "pe_ratio": 41.22,
-        "forward_return": 10.83,
-        "start_price": 8.45,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-04-15",
-        "pe_ratio": 32.78,
-        "forward_return": 9.36,
-        "start_price": 8.74,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-05-16",
-        "pe_ratio": 27.11,
-        "forward_return": 11.18,
-        "start_price": 8.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-06-15",
-        "pe_ratio": 23.41,
-        "forward_return": 10.17,
-        "start_price": 9.13,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-07-16",
-        "pe_ratio": 29.23,
-        "forward_return": 0.09,
-        "start_price": 13.2,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-08-16",
-        "pe_ratio": 22.69,
-        "forward_return": 3.07,
-        "start_price": 11.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2009-09-15",
-        "pe_ratio": 22.17,
-        "forward_return": 0.97,
-        "start_price": 12.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.28,
+        "pe_ratio": 81.3,
         "forward_return": -0.84,
         "start_price": 13.55,
         "start_year": 2009
@@ -10434,7 +9480,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 19.98,
+        "pe_ratio": 30.11,
         "forward_return": -1.56,
         "start_price": 13.95,
         "start_year": 2009
@@ -10452,7 +9498,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 14.13,
         "forward_return": 2.4,
         "start_price": 13.05,
         "start_year": 2010
@@ -10461,7 +9507,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.86,
+        "pe_ratio": 12.06,
         "forward_return": 9.81,
         "start_price": 13.1,
         "start_year": 2010
@@ -10470,7 +9516,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 11.6,
         "forward_return": 7.69,
         "start_price": 14.5,
         "start_year": 2010
@@ -10479,7 +9525,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 12.89,
         "forward_return": 7.55,
         "start_price": 14.65,
         "start_year": 2010
@@ -10488,7 +9534,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 18.61,
+        "pe_ratio": 12.61,
         "forward_return": 14.66,
         "start_price": 12.9,
         "start_year": 2010
@@ -10497,7 +9543,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 19.56,
+        "pe_ratio": 14.62,
         "forward_return": 10.81,
         "start_price": 13.3,
         "start_year": 2010
@@ -10506,7 +9552,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 21.15,
+        "pe_ratio": 14.01,
         "forward_return": 5.62,
         "start_price": 14.1,
         "start_year": 2010
@@ -10515,7 +9561,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 12.1,
         "forward_return": 7.91,
         "start_price": 13.35,
         "start_year": 2010
@@ -10524,7 +9570,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 23.52,
+        "pe_ratio": 12.54,
         "forward_return": 6.0,
         "start_price": 15.05,
         "start_year": 2010
@@ -10533,7 +9579,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 14.65,
         "forward_return": 6.58,
         "start_price": 14.65,
         "start_year": 2010
@@ -10542,7 +9588,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 23.48,
+        "pe_ratio": 18.0,
         "forward_return": 6.54,
         "start_price": 14.4,
         "start_year": 2010
@@ -10560,7 +9606,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 22.94,
         "forward_return": 7.43,
         "start_price": 14.3,
         "start_year": 2011
@@ -10569,7 +9615,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 22.52,
+        "pe_ratio": 20.72,
         "forward_return": 8.62,
         "start_price": 13.4,
         "start_year": 2011
@@ -10578,7 +9624,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 21.86,
+        "pe_ratio": 19.33,
         "forward_return": 13.05,
         "start_price": 12.95,
         "start_year": 2011
@@ -10587,7 +9633,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 22.29,
+        "pe_ratio": 21.44,
         "forward_return": 11.6,
         "start_price": 13.15,
         "start_year": 2011
@@ -10596,7 +9642,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 23.44,
         "forward_return": 8.82,
         "start_price": 13.05,
         "start_year": 2011
@@ -10605,7 +9651,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 24.7,
         "forward_return": 8.48,
         "start_price": 12.35,
         "start_year": 2011
@@ -10614,7 +9660,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 30.5,
         "forward_return": 5.87,
         "start_price": 12.3,
         "start_year": 2011
@@ -10623,7 +9669,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.76,
+        "pe_ratio": 33.59,
         "forward_return": 9.85,
         "start_price": 10.3,
         "start_year": 2011
@@ -10632,7 +9678,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.4,
+        "pe_ratio": 47.86,
         "forward_return": 10.07,
         "start_price": 10.05,
         "start_year": 2011
@@ -10641,7 +9687,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 30.45,
         "forward_return": 11.08,
         "start_price": 10.05,
         "start_year": 2011
@@ -10650,7 +9696,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 17.45,
+        "pe_ratio": 22.2,
         "forward_return": 11.88,
         "start_price": 9.99,
         "start_year": 2011
@@ -10668,7 +9714,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 17.14,
         "forward_return": 14.85,
         "start_price": 10.0,
         "start_year": 2012
@@ -10677,7 +9723,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 23.3,
+        "pe_ratio": 18.35,
         "forward_return": 10.54,
         "start_price": 10.95,
         "start_year": 2012
@@ -10686,7 +9732,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 24.88,
+        "pe_ratio": 17.13,
         "forward_return": 13.43,
         "start_price": 10.45,
         "start_year": 2012
@@ -10695,7 +9741,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 27.57,
+        "pe_ratio": 15.85,
         "forward_return": 11.91,
         "start_price": 10.2,
         "start_year": 2012
@@ -10704,7 +9750,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 14.69,
         "forward_return": 12.9,
         "start_price": 9.94,
         "start_year": 2012
@@ -10713,7 +9759,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 36.74,
+        "pe_ratio": 13.97,
         "forward_return": 11.07,
         "start_price": 9.92,
         "start_year": 2012
@@ -10722,7 +9768,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 45.32,
+        "pe_ratio": 13.6,
         "forward_return": 12.64,
         "start_price": 9.97,
         "start_year": 2012
@@ -10731,7 +9777,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 59.12,
+        "pe_ratio": 13.28,
         "forward_return": 13.02,
         "start_price": 10.05,
         "start_year": 2012
@@ -10740,7 +9786,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 107.5,
+        "pe_ratio": 16.54,
         "forward_return": 7.38,
         "start_price": 12.9,
         "start_year": 2012
@@ -10749,7 +9795,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 157.9,
+        "pe_ratio": 21.67,
         "forward_return": 10.21,
         "start_price": 11.05,
         "start_year": 2012
@@ -10758,7 +9804,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 625.0,
+        "pe_ratio": 52.08,
         "forward_return": 6.37,
         "start_price": 12.5,
         "start_year": 2012
@@ -10766,89 +9812,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2013-01-16",
-        "pe_ratio": 1007.0,
-        "forward_return": 10.39,
-        "start_price": 11.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-02-14",
-        "pe_ratio": 216.6,
-        "forward_return": 11.65,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-03-16",
-        "pe_ratio": 131.0,
-        "forward_return": 10.41,
-        "start_price": 12.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-04-15",
-        "pe_ratio": 89.27,
-        "forward_return": 12.8,
-        "start_price": 12.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-05-16",
-        "pe_ratio": 74.58,
-        "forward_return": 11.83,
-        "start_price": 13.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-06-15",
-        "pe_ratio": 59.77,
-        "forward_return": 11.94,
-        "start_price": 13.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-07-16",
-        "pe_ratio": 49.49,
-        "forward_return": 13.58,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-08-16",
-        "pe_ratio": 42.36,
-        "forward_return": 19.21,
-        "start_price": 12.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2013-09-15",
-        "pe_ratio": 37.54,
-        "forward_return": 17.1,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 33.1,
+        "pe_ratio": 153.6,
         "forward_return": 20.35,
         "start_price": 12.8,
         "start_year": 2013
@@ -10857,7 +9822,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 46.27,
         "forward_return": 16.96,
         "start_price": 12.8,
         "start_year": 2013
@@ -10875,7 +9840,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 23.81,
+        "pe_ratio": 21.51,
         "forward_return": 19.13,
         "start_price": 14.05,
         "start_year": 2014
@@ -10884,7 +9849,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.41,
+        "pe_ratio": 22.41,
         "forward_return": 8.31,
         "start_price": 18.75,
         "start_year": 2014
@@ -10893,7 +9858,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.13,
+        "pe_ratio": 18.82,
         "forward_return": 7.4,
         "start_price": 19.2,
         "start_year": 2014
@@ -10902,7 +9867,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.32,
+        "pe_ratio": 19.97,
         "forward_return": 5.1,
         "start_price": 19.3,
         "start_year": 2014
@@ -10911,7 +9876,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 24.09,
         "forward_return": 5.83,
         "start_price": 22.0,
         "start_year": 2014
@@ -10920,7 +9885,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 22.97,
         "forward_return": 5.27,
         "start_price": 19.75,
         "start_year": 2014
@@ -10929,7 +9894,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 16.38,
         "forward_return": 11.8,
         "start_price": 17.25,
         "start_year": 2014
@@ -10938,7 +9903,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.28,
         "forward_return": 10.67,
         "start_price": 17.8,
         "start_year": 2014
@@ -10947,7 +9912,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.06,
+        "pe_ratio": 12.99,
         "forward_return": 7.96,
         "start_price": 18.7,
         "start_year": 2014
@@ -10956,7 +9921,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.65,
         "forward_return": 2.83,
         "start_price": 18.6,
         "start_year": 2014
@@ -10965,7 +9930,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 10.2,
+        "pe_ratio": 10.41,
         "forward_return": 4.48,
         "start_price": 18.25,
         "start_year": 2014
@@ -10983,7 +9948,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 10.21,
         "forward_return": 4.55,
         "start_price": 18.75,
         "start_year": 2015
@@ -10992,7 +9957,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 10.41,
         "forward_return": 6.55,
         "start_price": 18.35,
         "start_year": 2015
@@ -11001,7 +9966,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 12.34,
         "forward_return": 3.74,
         "start_price": 20.85,
         "start_year": 2015
@@ -11010,7 +9975,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.1,
+        "pe_ratio": 11.46,
         "forward_return": 8.4,
         "start_price": 20.1,
         "start_year": 2015
@@ -11019,7 +9984,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 8.96,
+        "pe_ratio": 9.91,
         "forward_return": 10.46,
         "start_price": 18.0,
         "start_year": 2015
@@ -11028,7 +9993,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 8.28,
+        "pe_ratio": 8.94,
         "forward_return": 10.5,
         "start_price": 16.8,
         "start_year": 2015
@@ -11037,7 +10002,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.05,
+        "pe_ratio": 7.87,
         "forward_return": 13.76,
         "start_price": 14.45,
         "start_year": 2015
@@ -11046,7 +10011,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 6.76,
+        "pe_ratio": 7.81,
         "forward_return": 16.12,
         "start_price": 14.0,
         "start_year": 2015
@@ -11055,7 +10020,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 6.58,
+        "pe_ratio": 7.86,
         "forward_return": 16.7,
         "start_price": 13.75,
         "start_year": 2015
@@ -11064,7 +10029,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 6.78,
+        "pe_ratio": 7.59,
         "forward_return": 14.47,
         "start_price": 14.3,
         "start_year": 2015
@@ -11073,7 +10038,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.26,
         "forward_return": 14.18,
         "start_price": 14.65,
         "start_year": 2015
@@ -11091,7 +10056,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.0,
+        "pe_ratio": 8.04,
         "forward_return": 10.67,
         "start_price": 16.4,
         "start_year": 2016
@@ -11100,7 +10065,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 7.87,
+        "pe_ratio": 7.95,
         "forward_return": 11.82,
         "start_price": 15.35,
         "start_year": 2016
@@ -11109,7 +10074,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.81,
+        "pe_ratio": 8.96,
         "forward_return": 5.25,
         "start_price": 16.3,
         "start_year": 2016
@@ -11118,7 +10083,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.05,
         "forward_return": 11.4,
         "start_price": 15.0,
         "start_year": 2016
@@ -11127,7 +10092,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 7.95,
         "forward_return": 10.33,
         "start_price": 15.15,
         "start_year": 2016
@@ -11136,7 +10101,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 9.1,
+        "pe_ratio": 7.23,
         "forward_return": 13.68,
         "start_price": 14.1,
         "start_year": 2016
@@ -11145,7 +10110,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 7.88,
         "forward_return": 13.24,
         "start_price": 14.05,
         "start_year": 2016
@@ -11154,7 +10119,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 8.91,
         "forward_return": 13.27,
         "start_price": 14.4,
         "start_year": 2016
@@ -11163,7 +10128,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.12,
+        "pe_ratio": 10.45,
         "forward_return": 10.27,
         "start_price": 15.15,
         "start_year": 2016
@@ -11172,7 +10137,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.14,
         "forward_return": 11.5,
         "start_price": 14.3,
         "start_year": 2016
@@ -11181,7 +10146,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 12.54,
         "forward_return": 12.66,
         "start_price": 14.0,
         "start_year": 2016
@@ -11199,7 +10164,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 17.49,
         "forward_return": 8.61,
         "start_price": 15.45,
         "start_year": 2017
@@ -11208,7 +10173,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.8,
+        "pe_ratio": 19.53,
         "forward_return": 8.56,
         "start_price": 15.95,
         "start_year": 2017
@@ -11217,7 +10182,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 22.0,
         "forward_return": 7.21,
         "start_price": 16.5,
         "start_year": 2017
@@ -11226,7 +10191,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 23.77,
+        "pe_ratio": 23.15,
         "forward_return": 7.49,
         "start_price": 17.75,
         "start_year": 2017
@@ -11235,7 +10200,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.02,
+        "pe_ratio": 24.0,
         "forward_return": 2.68,
         "start_price": 18.8,
         "start_year": 2017
@@ -11244,7 +10209,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.91,
+        "pe_ratio": 23.31,
         "forward_return": 3.26,
         "start_price": 18.65,
         "start_year": 2017
@@ -11253,7 +10218,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 31.22,
+        "pe_ratio": 22.17,
         "forward_return": 3.94,
         "start_price": 18.55,
         "start_year": 2017
@@ -11262,7 +10227,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 42.24,
+        "pe_ratio": 26.28,
         "forward_return": -2.43,
         "start_price": 22.95,
         "start_year": 2017
@@ -11271,7 +10236,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 43.35,
+        "pe_ratio": 23.46,
         "forward_return": -0.77,
         "start_price": 21.35,
         "start_year": 2017
@@ -11280,7 +10245,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 54.0,
+        "pe_ratio": 33.12,
         "forward_return": -3.42,
         "start_price": 23.85,
         "start_year": 2017
@@ -11289,7 +10254,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 53.6,
+        "pe_ratio": 39.53,
         "forward_return": -0.06,
         "start_price": 20.95,
         "start_year": 2017
@@ -11307,7 +10272,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 56.33,
+        "pe_ratio": 66.0,
         "forward_return": -1.72,
         "start_price": 25.3,
         "start_year": 2018
@@ -11316,7 +10281,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 40.84,
+        "pe_ratio": 53.44,
         "forward_return": 2.94,
         "start_price": 22.8,
         "start_year": 2018
@@ -11325,7 +10290,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 33.78,
+        "pe_ratio": 47.98,
         "forward_return": 8.46,
         "start_price": 22.55,
         "start_year": 2018
@@ -11334,7 +10299,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 26.46,
+        "pe_ratio": 32.62,
         "forward_return": 7.6,
         "start_price": 20.55,
         "start_year": 2018
@@ -11343,7 +10308,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 27.77,
+        "pe_ratio": 31.14,
         "forward_return": 5.69,
         "start_price": 24.6,
         "start_year": 2018
@@ -11352,7 +10317,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 21.36,
+        "pe_ratio": 22.37,
         "forward_return": 7.85,
         "start_price": 21.25,
         "start_year": 2018
@@ -11361,7 +10326,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.78,
+        "pe_ratio": 25.31,
         "forward_return": 9.34,
         "start_price": 22.95,
         "start_year": 2018
@@ -11370,7 +10335,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.71,
+        "pe_ratio": 26.29,
         "forward_return": 8.01,
         "start_price": 22.7,
         "start_year": 2018
@@ -11379,7 +10344,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 26.1,
         "forward_return": 5.19,
         "start_price": 21.4,
         "start_year": 2018
@@ -11388,7 +10353,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 15.32,
         "forward_return": 11.32,
         "start_price": 16.8,
         "start_year": 2018
@@ -11397,7 +10362,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.92,
         "forward_return": 12.76,
         "start_price": 17.75,
         "start_year": 2018
@@ -11415,7 +10380,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 9.32,
         "forward_return": 13.09,
         "start_price": 18.4,
         "start_year": 2019
@@ -11424,7 +10389,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.66,
+        "pe_ratio": 8.56,
         "forward_return": 11.06,
         "start_price": 19.65,
         "start_year": 2019
@@ -11433,7 +10398,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 7.69,
         "forward_return": 14.88,
         "start_price": 20.15,
         "start_year": 2019
@@ -11442,7 +10407,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 9.94,
         "forward_return": 11.68,
         "start_price": 23.75,
         "start_year": 2019
@@ -11451,7 +10416,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 10.56,
         "forward_return": 11.94,
         "start_price": 22.8,
         "start_year": 2019
@@ -11460,7 +10425,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 10.91,
         "forward_return": 16.14,
         "start_price": 21.05,
         "start_year": 2019
@@ -11469,7 +10434,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.34,
+        "pe_ratio": 9.82,
         "forward_return": 21.29,
         "start_price": 20.1,
         "start_year": 2019
@@ -11478,7 +10443,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 9.87,
         "forward_return": 20.89,
         "start_price": 21.35,
         "start_year": 2019
@@ -11487,7 +10452,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 9.39,
         "forward_return": 17.43,
         "start_price": 21.4,
         "start_year": 2019
@@ -11496,7 +10461,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.21,
+        "pe_ratio": 9.56,
         "forward_return": 16.21,
         "start_price": 20.45,
         "start_year": 2019
@@ -11505,7 +10470,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.29,
+        "pe_ratio": 10.4,
         "forward_return": 21.14,
         "start_price": 20.8,
         "start_year": 2019
@@ -11523,7 +10488,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 13.25,
         "forward_return": 20.55,
         "start_price": 20.5,
         "start_year": 2020
@@ -11532,7 +10497,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 16.14,
         "forward_return": 21.49,
         "start_price": 19.9,
         "start_year": 2020
@@ -11541,7 +10506,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 17.28,
         "forward_return": 47.96,
         "start_price": 15.9,
         "start_year": 2020
@@ -11550,7 +10515,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 14.84,
+        "pe_ratio": 19.72,
         "forward_return": 53.58,
         "start_price": 19.0,
         "start_year": 2020
@@ -11559,7 +10524,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 18.23,
         "forward_return": 76.65,
         "start_price": 18.35,
         "start_year": 2020
@@ -11568,7 +10533,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.65,
+        "pe_ratio": 18.52,
         "forward_return": 71.87,
         "start_price": 19.45,
         "start_year": 2020
@@ -11577,7 +10542,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 22.72,
+        "pe_ratio": 21.57,
         "forward_return": 66.79,
         "start_price": 19.2,
         "start_year": 2020
@@ -11586,7 +10551,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 28.29,
+        "pe_ratio": 27.12,
         "forward_return": 69.41,
         "start_price": 19.8,
         "start_year": 2020
@@ -11595,7 +10560,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 33.33,
+        "pe_ratio": 32.46,
         "forward_return": 70.02,
         "start_price": 18.5,
         "start_year": 2020
@@ -11604,7 +10569,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 44.39,
+        "pe_ratio": 43.33,
         "forward_return": 68.03,
         "start_price": 18.2,
         "start_year": 2020
@@ -11613,7 +10578,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 70.38,
+        "pe_ratio": 69.07,
         "forward_return": 67.44,
         "start_price": 18.65,
         "start_year": 2020
@@ -11631,7 +10596,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 85.16,
+        "pe_ratio": 91.03,
         "forward_return": 69.59,
         "start_price": 17.6,
         "start_year": 2021
@@ -11640,7 +10605,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 62.22,
+        "pe_ratio": 68.44,
         "forward_return": 72.5,
         "start_price": 18.25,
         "start_year": 2021
@@ -11649,7 +10614,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 47.11,
+        "pe_ratio": 52.65,
         "forward_return": 67.41,
         "start_price": 17.9,
         "start_year": 2021
@@ -11658,7 +10623,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 42.43,
+        "pe_ratio": 47.9,
         "forward_return": 62.07,
         "start_price": 19.8,
         "start_year": 2021
@@ -11667,7 +10632,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 30.72,
+        "pe_ratio": 34.93,
         "forward_return": 71.51,
         "start_price": 17.0,
         "start_year": 2021
@@ -11676,7 +10641,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.03,
+        "pe_ratio": 30.89,
         "forward_return": 68.99,
         "start_price": 17.3,
         "start_year": 2021
@@ -11685,7 +10650,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.11,
+        "pe_ratio": 34.01,
         "forward_return": 67.19,
         "start_price": 18.25,
         "start_year": 2021
@@ -11694,7 +10659,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 33.9,
         "forward_return": 74.71,
         "start_price": 17.4,
         "start_year": 2021
@@ -11703,7 +10668,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 19.22,
+        "pe_ratio": 35.31,
         "forward_return": 70.76,
         "start_price": 17.3,
         "start_year": 2021
@@ -11712,7 +10677,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 17.58,
+        "pe_ratio": 24.32,
         "forward_return": 67.51,
         "start_price": 17.35,
         "start_year": 2021
@@ -11721,7 +10686,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 16.3,
+        "pe_ratio": 18.68,
         "forward_return": 67.76,
         "start_price": 17.5,
         "start_year": 2021
@@ -11739,7 +10704,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 15.71,
+        "pe_ratio": 16.07,
         "forward_return": 61.41,
         "start_price": 20.2,
         "start_year": 2022
@@ -11748,7 +10713,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.73,
+        "pe_ratio": 16.4,
         "forward_return": 57.79,
         "start_price": 22.2,
         "start_year": 2022
@@ -11757,7 +10722,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 2.12,
+        "pe_ratio": 1.8,
         "forward_return": 18.01,
         "start_price": 5.66,
         "start_year": 2006
@@ -11766,7 +10731,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 2.7,
+        "pe_ratio": 2.43,
         "forward_return": 12.8,
         "start_price": 7.2,
         "start_year": 2006
@@ -11775,7 +10740,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 4.06,
         "forward_return": 2.92,
         "start_price": 11.3,
         "start_year": 2006
@@ -11784,7 +10749,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 3.48,
+        "pe_ratio": 3.58,
         "forward_return": 5.84,
         "start_price": 9.3,
         "start_year": 2006
@@ -11793,7 +10758,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 3.4,
+        "pe_ratio": 3.59,
         "forward_return": 6.75,
         "start_price": 9.09,
         "start_year": 2006
@@ -11802,7 +10767,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 3.09,
+        "pe_ratio": 3.34,
         "forward_return": 5.17,
         "start_price": 8.24,
         "start_year": 2006
@@ -11811,7 +10776,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 3.04,
+        "pe_ratio": 3.39,
         "forward_return": 4.95,
         "start_price": 8.13,
         "start_year": 2006
@@ -11820,7 +10785,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 3.75,
+        "pe_ratio": 4.02,
         "forward_return": 0.69,
         "start_price": 10.0,
         "start_year": 2006
@@ -11829,7 +10794,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 4.27,
+        "pe_ratio": 4.42,
         "forward_return": -2.03,
         "start_price": 11.4,
         "start_year": 2006
@@ -11847,7 +10812,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 3.79,
+        "pe_ratio": 5.49,
         "forward_return": -0.48,
         "start_price": 10.55,
         "start_year": 2007
@@ -11856,7 +10821,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 8.76,
         "forward_return": 1.88,
         "start_price": 10.25,
         "start_year": 2007
@@ -11865,7 +10830,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 4.39,
+        "pe_ratio": 31.43,
         "forward_return": -4.02,
         "start_price": 13.2,
         "start_year": 2007
@@ -11874,7 +10839,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 4.14,
+        "pe_ratio": 9.97,
         "forward_return": -4.03,
         "start_price": 12.9,
         "start_year": 2007
@@ -11883,7 +10848,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 4.55,
+        "pe_ratio": 6.78,
         "forward_return": -6.97,
         "start_price": 14.7,
         "start_year": 2007
@@ -11892,7 +10857,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 6.38,
+        "pe_ratio": 7.01,
         "forward_return": -13.65,
         "start_price": 21.3,
         "start_year": 2007
@@ -11901,7 +10866,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 6.87,
+        "pe_ratio": 7.28,
         "forward_return": -15.4,
         "start_price": 23.7,
         "start_year": 2007
@@ -11910,7 +10875,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 7.69,
+        "pe_ratio": 7.89,
         "forward_return": -17.69,
         "start_price": 27.4,
         "start_year": 2007
@@ -11919,7 +10884,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 7.84,
+        "pe_ratio": 7.8,
         "forward_return": -14.44,
         "start_price": 28.8,
         "start_year": 2007
@@ -11928,7 +10893,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": -16.03,
         "start_price": 27.2,
         "start_year": 2007
@@ -11937,7 +10902,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 5.4,
+        "pe_ratio": 5.39,
         "forward_return": -9.47,
         "start_price": 21.05,
         "start_year": 2007
@@ -11955,7 +10920,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 4.66,
+        "pe_ratio": 4.73,
         "forward_return": -6.81,
         "start_price": 17.15,
         "start_year": 2008
@@ -11964,7 +10929,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 6.01,
+        "pe_ratio": 6.2,
         "forward_return": -8.57,
         "start_price": 20.1,
         "start_year": 2008
@@ -11973,7 +10938,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 6.77,
+        "pe_ratio": 7.13,
         "forward_return": -8.97,
         "start_price": 20.4,
         "start_year": 2008
@@ -11982,7 +10947,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.71,
         "forward_return": -7.49,
         "start_price": 18.45,
         "start_year": 2008
@@ -11991,7 +10956,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 11.42,
         "forward_return": -9.17,
         "start_price": 22.0,
         "start_year": 2008
@@ -12000,7 +10965,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 7.25,
+        "pe_ratio": 10.0,
         "forward_return": -1.63,
         "start_price": 14.6,
         "start_year": 2008
@@ -12009,7 +10974,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.79,
+        "pe_ratio": 10.29,
         "forward_return": 0.23,
         "start_price": 13.1,
         "start_year": 2008
@@ -12018,7 +10983,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 9.7,
+        "pe_ratio": 12.06,
         "forward_return": 0.08,
         "start_price": 13.1,
         "start_year": 2008
@@ -12027,7 +10992,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 8.79,
         "forward_return": 10.87,
         "start_price": 7.91,
         "start_year": 2008
@@ -12036,7 +11001,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 13.1,
         "forward_return": 10.51,
         "start_price": 7.95,
         "start_year": 2008
@@ -12045,7 +11010,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 19.12,
+        "pe_ratio": 21.51,
         "forward_return": 14.22,
         "start_price": 6.74,
         "start_year": 2008
@@ -12062,89 +11027,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2009-01-16",
-        "pe_ratio": 70.65,
-        "forward_return": 19.99,
-        "start_price": 5.77,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-02-14",
-        "pe_ratio": 51.56,
-        "forward_return": 20.85,
-        "start_price": 7.39,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-03-16",
-        "pe_ratio": 41.22,
-        "forward_return": 18.21,
-        "start_price": 8.45,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-04-15",
-        "pe_ratio": 32.78,
-        "forward_return": 17.53,
-        "start_price": 8.74,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-05-16",
-        "pe_ratio": 27.11,
-        "forward_return": 20.17,
-        "start_price": 8.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-06-15",
-        "pe_ratio": 23.41,
-        "forward_return": 17.04,
-        "start_price": 9.13,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-07-16",
-        "pe_ratio": 29.23,
-        "forward_return": 5.86,
-        "start_price": 13.2,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-08-16",
-        "pe_ratio": 22.69,
-        "forward_return": 9.21,
-        "start_price": 11.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2009-09-15",
-        "pe_ratio": 22.17,
-        "forward_return": 8.31,
-        "start_price": 12.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.28,
+        "pe_ratio": 81.3,
         "forward_return": 6.88,
         "start_price": 13.55,
         "start_year": 2009
@@ -12153,7 +11037,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 19.98,
+        "pe_ratio": 30.11,
         "forward_return": 5.87,
         "start_price": 13.95,
         "start_year": 2009
@@ -12171,7 +11055,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 14.13,
         "forward_return": 7.86,
         "start_price": 13.05,
         "start_year": 2010
@@ -12180,7 +11064,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.86,
+        "pe_ratio": 12.06,
         "forward_return": 7.32,
         "start_price": 13.1,
         "start_year": 2010
@@ -12189,7 +11073,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 11.6,
         "forward_return": 7.84,
         "start_price": 14.5,
         "start_year": 2010
@@ -12198,7 +11082,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 12.89,
         "forward_return": 6.85,
         "start_price": 14.65,
         "start_year": 2010
@@ -12207,7 +11091,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 18.61,
+        "pe_ratio": 12.61,
         "forward_return": 7.24,
         "start_price": 12.9,
         "start_year": 2010
@@ -12216,7 +11100,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 19.56,
+        "pe_ratio": 14.62,
         "forward_return": 5.16,
         "start_price": 13.3,
         "start_year": 2010
@@ -12225,7 +11109,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 21.15,
+        "pe_ratio": 14.01,
         "forward_return": 2.24,
         "start_price": 14.1,
         "start_year": 2010
@@ -12234,7 +11118,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 12.1,
         "forward_return": 2.76,
         "start_price": 13.35,
         "start_year": 2010
@@ -12243,7 +11127,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 23.52,
+        "pe_ratio": 12.54,
         "forward_return": 0.0,
         "start_price": 15.05,
         "start_year": 2010
@@ -12252,7 +11136,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 14.65,
         "forward_return": 1.26,
         "start_price": 14.65,
         "start_year": 2010
@@ -12261,7 +11145,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 23.48,
+        "pe_ratio": 18.0,
         "forward_return": 2.07,
         "start_price": 14.4,
         "start_year": 2010
@@ -12279,7 +11163,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 22.94,
         "forward_return": 4.36,
         "start_price": 14.3,
         "start_year": 2011
@@ -12288,7 +11172,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 22.52,
+        "pe_ratio": 20.72,
         "forward_return": 4.44,
         "start_price": 13.4,
         "start_year": 2011
@@ -12297,7 +11181,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 21.86,
+        "pe_ratio": 19.33,
         "forward_return": 6.33,
         "start_price": 12.95,
         "start_year": 2011
@@ -12306,7 +11190,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 22.29,
+        "pe_ratio": 21.44,
         "forward_return": 4.39,
         "start_price": 13.15,
         "start_year": 2011
@@ -12315,7 +11199,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 23.44,
         "forward_return": 4.74,
         "start_price": 13.05,
         "start_year": 2011
@@ -12324,7 +11208,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 24.7,
         "forward_return": 4.51,
         "start_price": 12.35,
         "start_year": 2011
@@ -12333,7 +11217,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 30.5,
         "forward_return": 5.46,
         "start_price": 12.3,
         "start_year": 2011
@@ -12342,7 +11226,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.76,
+        "pe_ratio": 33.59,
         "forward_return": 9.74,
         "start_price": 10.3,
         "start_year": 2011
@@ -12351,7 +11235,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.4,
+        "pe_ratio": 47.86,
         "forward_return": 11.28,
         "start_price": 10.05,
         "start_year": 2011
@@ -12360,7 +11244,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 30.45,
         "forward_return": 10.15,
         "start_price": 10.05,
         "start_year": 2011
@@ -12369,7 +11253,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 17.45,
+        "pe_ratio": 22.2,
         "forward_return": 9.87,
         "start_price": 9.99,
         "start_year": 2011
@@ -12387,7 +11271,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 17.14,
         "forward_return": 11.77,
         "start_price": 10.0,
         "start_year": 2012
@@ -12396,7 +11280,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 23.3,
+        "pe_ratio": 18.35,
         "forward_return": 10.87,
         "start_price": 10.95,
         "start_year": 2012
@@ -12405,7 +11289,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 24.88,
+        "pe_ratio": 17.13,
         "forward_return": 12.1,
         "start_price": 10.45,
         "start_year": 2012
@@ -12414,7 +11298,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 27.57,
+        "pe_ratio": 15.85,
         "forward_return": 14.13,
         "start_price": 10.2,
         "start_year": 2012
@@ -12423,7 +11307,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 14.69,
         "forward_return": 15.92,
         "start_price": 9.94,
         "start_year": 2012
@@ -12432,7 +11316,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 36.74,
+        "pe_ratio": 13.97,
         "forward_return": 15.8,
         "start_price": 9.92,
         "start_year": 2012
@@ -12441,7 +11325,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 45.32,
+        "pe_ratio": 13.6,
         "forward_return": 16.67,
         "start_price": 9.97,
         "start_year": 2012
@@ -12450,7 +11334,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 59.12,
+        "pe_ratio": 13.28,
         "forward_return": 20.89,
         "start_price": 10.05,
         "start_year": 2012
@@ -12459,7 +11343,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 107.5,
+        "pe_ratio": 16.54,
         "forward_return": 13.55,
         "start_price": 12.9,
         "start_year": 2012
@@ -12468,7 +11352,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 157.9,
+        "pe_ratio": 21.67,
         "forward_return": 19.43,
         "start_price": 11.05,
         "start_year": 2012
@@ -12477,7 +11361,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 625.0,
+        "pe_ratio": 52.08,
         "forward_return": 13.89,
         "start_price": 12.5,
         "start_year": 2012
@@ -12485,89 +11369,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2013-01-16",
-        "pe_ratio": 1007.0,
-        "forward_return": 19.22,
-        "start_price": 11.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-02-14",
-        "pe_ratio": 216.6,
-        "forward_return": 17.44,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-03-16",
-        "pe_ratio": 131.0,
-        "forward_return": 15.47,
-        "start_price": 12.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-04-15",
-        "pe_ratio": 89.27,
-        "forward_return": 14.06,
-        "start_price": 12.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-05-16",
-        "pe_ratio": 74.58,
-        "forward_return": 15.72,
-        "start_price": 13.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-06-15",
-        "pe_ratio": 59.77,
-        "forward_return": 13.02,
-        "start_price": 13.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-07-16",
-        "pe_ratio": 49.49,
-        "forward_return": 15.79,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-08-16",
-        "pe_ratio": 42.36,
-        "forward_return": 15.75,
-        "start_price": 12.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2013-09-15",
-        "pe_ratio": 37.54,
-        "forward_return": 14.42,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 33.1,
+        "pe_ratio": 153.6,
         "forward_return": 10.2,
         "start_price": 12.8,
         "start_year": 2013
@@ -12576,7 +11379,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 46.27,
         "forward_return": 11.19,
         "start_price": 12.8,
         "start_year": 2013
@@ -12594,7 +11397,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 23.81,
+        "pe_ratio": 21.51,
         "forward_return": 9.78,
         "start_price": 14.05,
         "start_year": 2014
@@ -12603,7 +11406,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.41,
+        "pe_ratio": 22.41,
         "forward_return": 4.75,
         "start_price": 18.75,
         "start_year": 2014
@@ -12612,7 +11415,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.13,
+        "pe_ratio": 18.82,
         "forward_return": 4.69,
         "start_price": 19.2,
         "start_year": 2014
@@ -12621,7 +11424,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.32,
+        "pe_ratio": 19.97,
         "forward_return": 7.53,
         "start_price": 19.3,
         "start_year": 2014
@@ -12630,7 +11433,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 24.09,
         "forward_return": 4.03,
         "start_price": 22.0,
         "start_year": 2014
@@ -12639,7 +11442,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 22.97,
         "forward_return": 4.87,
         "start_price": 19.75,
         "start_year": 2014
@@ -12648,7 +11451,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 16.38,
         "forward_return": 7.88,
         "start_price": 17.25,
         "start_year": 2014
@@ -12657,7 +11460,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.28,
         "forward_return": 8.24,
         "start_price": 17.8,
         "start_year": 2014
@@ -12666,7 +11469,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.06,
+        "pe_ratio": 12.99,
         "forward_return": 7.22,
         "start_price": 18.7,
         "start_year": 2014
@@ -12675,7 +11478,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.65,
         "forward_return": 6.56,
         "start_price": 18.6,
         "start_year": 2014
@@ -12684,7 +11487,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 10.2,
+        "pe_ratio": 10.41,
         "forward_return": 7.25,
         "start_price": 18.25,
         "start_year": 2014
@@ -12702,7 +11505,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 10.21,
         "forward_return": 6.43,
         "start_price": 18.75,
         "start_year": 2015
@@ -12711,7 +11514,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 10.41,
         "forward_return": 6.38,
         "start_price": 18.35,
         "start_year": 2015
@@ -12720,7 +11523,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 12.34,
         "forward_return": 0.14,
         "start_price": 20.85,
         "start_year": 2015
@@ -12729,7 +11532,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.1,
+        "pe_ratio": 11.46,
         "forward_return": 3.69,
         "start_price": 20.1,
         "start_year": 2015
@@ -12738,7 +11541,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 8.96,
+        "pe_ratio": 9.91,
         "forward_return": 5.43,
         "start_price": 18.0,
         "start_year": 2015
@@ -12747,7 +11550,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 8.28,
+        "pe_ratio": 8.94,
         "forward_return": 7.88,
         "start_price": 16.8,
         "start_year": 2015
@@ -12756,7 +11559,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.05,
+        "pe_ratio": 7.87,
         "forward_return": 10.77,
         "start_price": 14.45,
         "start_year": 2015
@@ -12765,7 +11568,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 6.76,
+        "pe_ratio": 7.81,
         "forward_return": 12.02,
         "start_price": 14.0,
         "start_year": 2015
@@ -12774,7 +11577,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 6.58,
+        "pe_ratio": 7.86,
         "forward_return": 11.22,
         "start_price": 13.75,
         "start_year": 2015
@@ -12783,7 +11586,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 6.78,
+        "pe_ratio": 7.59,
         "forward_return": 10.06,
         "start_price": 14.3,
         "start_year": 2015
@@ -12792,7 +11595,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.26,
         "forward_return": 9.95,
         "start_price": 14.65,
         "start_year": 2015
@@ -12810,7 +11613,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.0,
+        "pe_ratio": 8.04,
         "forward_return": 6.53,
         "start_price": 16.4,
         "start_year": 2016
@@ -12819,7 +11622,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 7.87,
+        "pe_ratio": 7.95,
         "forward_return": 8.1,
         "start_price": 15.35,
         "start_year": 2016
@@ -12828,7 +11631,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.81,
+        "pe_ratio": 8.96,
         "forward_return": 6.94,
         "start_price": 16.3,
         "start_year": 2016
@@ -12837,7 +11640,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.05,
         "forward_return": 10.49,
         "start_price": 15.0,
         "start_year": 2016
@@ -12846,7 +11649,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 7.95,
         "forward_return": 7.65,
         "start_price": 15.15,
         "start_year": 2016
@@ -12855,7 +11658,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 9.1,
+        "pe_ratio": 7.23,
         "forward_return": 9.5,
         "start_price": 14.1,
         "start_year": 2016
@@ -12864,7 +11667,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 7.88,
         "forward_return": 10.02,
         "start_price": 14.05,
         "start_year": 2016
@@ -12873,7 +11676,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 8.91,
         "forward_return": 8.65,
         "start_price": 14.4,
         "start_year": 2016
@@ -12882,7 +11685,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.12,
+        "pe_ratio": 10.45,
         "forward_return": 7.45,
         "start_price": 15.15,
         "start_year": 2016
@@ -12891,7 +11694,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.14,
         "forward_return": 8.75,
         "start_price": 14.3,
         "start_year": 2016
@@ -12900,7 +11703,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 12.54,
         "forward_return": 9.36,
         "start_price": 14.0,
         "start_year": 2016
@@ -12918,7 +11721,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 17.49,
         "forward_return": 9.75,
         "start_price": 15.45,
         "start_year": 2017
@@ -12927,7 +11730,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.8,
+        "pe_ratio": 19.53,
         "forward_return": 10.77,
         "start_price": 15.95,
         "start_year": 2017
@@ -12936,7 +11739,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 22.0,
         "forward_return": 14.31,
         "start_price": 16.5,
         "start_year": 2017
@@ -12945,7 +11748,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 23.77,
+        "pe_ratio": 23.15,
         "forward_return": 9.97,
         "start_price": 17.75,
         "start_year": 2017
@@ -12954,7 +11757,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.02,
+        "pe_ratio": 24.0,
         "forward_return": 11.02,
         "start_price": 18.8,
         "start_year": 2017
@@ -12963,7 +11766,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.91,
+        "pe_ratio": 23.31,
         "forward_return": 9.79,
         "start_price": 18.65,
         "start_year": 2017
@@ -12972,7 +11775,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 31.22,
+        "pe_ratio": 22.17,
         "forward_return": 12.75,
         "start_price": 18.55,
         "start_year": 2017
@@ -12981,7 +11784,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 42.24,
+        "pe_ratio": 26.28,
         "forward_return": 6.81,
         "start_price": 22.95,
         "start_year": 2017
@@ -12990,7 +11793,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 43.35,
+        "pe_ratio": 23.46,
         "forward_return": 4.96,
         "start_price": 21.35,
         "start_year": 2017
@@ -12999,7 +11802,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 54.0,
+        "pe_ratio": 33.12,
         "forward_return": 2.36,
         "start_price": 23.85,
         "start_year": 2017
@@ -13008,7 +11811,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 53.6,
+        "pe_ratio": 39.53,
         "forward_return": 7.23,
         "start_price": 20.95,
         "start_year": 2017
@@ -13026,7 +11829,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 56.33,
+        "pe_ratio": 66.0,
         "forward_return": 4.22,
         "start_price": 25.3,
         "start_year": 2018
@@ -13035,7 +11838,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 40.84,
+        "pe_ratio": 53.44,
         "forward_return": 6.27,
         "start_price": 22.8,
         "start_year": 2018
@@ -13044,7 +11847,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 33.78,
+        "pe_ratio": 47.98,
         "forward_return": 9.87,
         "start_price": 22.55,
         "start_year": 2018
@@ -13053,7 +11856,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 26.46,
+        "pe_ratio": 32.62,
         "forward_return": 13.05,
         "start_price": 20.55,
         "start_year": 2018
@@ -13062,7 +11865,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 27.77,
+        "pe_ratio": 31.14,
         "forward_return": 8.39,
         "start_price": 24.6,
         "start_year": 2018
@@ -13071,7 +11874,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 21.36,
+        "pe_ratio": 22.37,
         "forward_return": 13.09,
         "start_price": 21.25,
         "start_year": 2018
@@ -13080,7 +11883,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.78,
+        "pe_ratio": 25.31,
         "forward_return": 14.21,
         "start_price": 22.95,
         "start_year": 2018
@@ -13089,7 +11892,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.71,
+        "pe_ratio": 26.29,
         "forward_return": 15.52,
         "start_price": 22.7,
         "start_year": 2018
@@ -13098,7 +11901,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 26.1,
         "forward_return": 14.33,
         "start_price": 21.4,
         "start_year": 2018
@@ -13107,7 +11910,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 15.32,
         "forward_return": 17.98,
         "start_price": 16.8,
         "start_year": 2018
@@ -13116,7 +11919,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.92,
         "forward_return": 20.93,
         "start_price": 17.75,
         "start_year": 2018
@@ -13134,7 +11937,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 9.32,
         "forward_return": 19.27,
         "start_price": 18.4,
         "start_year": 2019
@@ -13143,7 +11946,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.66,
+        "pe_ratio": 8.56,
         "forward_return": 17.74,
         "start_price": 19.65,
         "start_year": 2019
@@ -13152,7 +11955,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 7.69,
         "forward_return": 30.84,
         "start_price": 20.15,
         "start_year": 2019
@@ -13161,7 +11964,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 9.94,
         "forward_return": 35.06,
         "start_price": 23.75,
         "start_year": 2019
@@ -13170,7 +11973,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 10.56,
         "forward_return": 51.11,
         "start_price": 22.8,
         "start_year": 2019
@@ -13179,7 +11982,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 10.91,
         "forward_return": 51.98,
         "start_price": 21.05,
         "start_year": 2019
@@ -13188,7 +11991,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.34,
+        "pe_ratio": 9.82,
         "forward_return": 49.33,
         "start_price": 20.1,
         "start_year": 2019
@@ -13197,7 +12000,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 9.87,
         "forward_return": 50.3,
         "start_price": 21.35,
         "start_year": 2019
@@ -13206,7 +12009,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 9.39,
         "forward_return": 48.64,
         "start_price": 21.4,
         "start_year": 2019
@@ -13215,7 +12018,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.21,
+        "pe_ratio": 9.56,
         "forward_return": 48.12,
         "start_price": 20.45,
         "start_year": 2019
@@ -13224,7 +12027,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.29,
+        "pe_ratio": 10.4,
         "forward_return": 47.92,
         "start_price": 20.8,
         "start_year": 2019
@@ -13242,7 +12045,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 13.25,
         "forward_return": 48.15,
         "start_price": 20.5,
         "start_year": 2020
@@ -13251,7 +12054,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 16.14,
         "forward_return": 47.09,
         "start_price": 19.9,
         "start_year": 2020
@@ -13260,7 +12063,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 11.16,
+        "pe_ratio": 17.28,
         "forward_return": 54.82,
         "start_price": 15.9,
         "start_year": 2020
@@ -13269,7 +12072,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 14.84,
+        "pe_ratio": 19.72,
         "forward_return": 48.55,
         "start_price": 19.0,
         "start_year": 2020
@@ -13278,7 +12081,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.17,
+        "pe_ratio": 18.23,
         "forward_return": 51.81,
         "start_price": 18.35,
         "start_year": 2020
@@ -13287,7 +12090,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 19.65,
+        "pe_ratio": 18.52,
         "forward_return": 48.81,
         "start_price": 19.45,
         "start_year": 2020
@@ -13296,7 +12099,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 22.72,
+        "pe_ratio": 21.57,
         "forward_return": 49.45,
         "start_price": 19.2,
         "start_year": 2020
@@ -13305,7 +12108,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 28.29,
+        "pe_ratio": 27.12,
         "forward_return": 52.38,
         "start_price": 19.8,
         "start_year": 2020
@@ -13314,7 +12117,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 33.33,
+        "pe_ratio": 32.46,
         "forward_return": 51.5,
         "start_price": 18.5,
         "start_year": 2020
@@ -13323,7 +12126,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 44.39,
+        "pe_ratio": 43.33,
         "forward_return": 49.77,
         "start_price": 18.2,
         "start_year": 2020
@@ -13332,7 +12135,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 70.38,
+        "pe_ratio": 69.07,
         "forward_return": 49.47,
         "start_price": 18.65,
         "start_year": 2020
@@ -13350,7 +12153,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 85.16,
+        "pe_ratio": 91.03,
         "forward_return": 50.88,
         "start_price": 17.6,
         "start_year": 2021
@@ -13359,7 +12162,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 62.22,
+        "pe_ratio": 68.44,
         "forward_return": 49.9,
         "start_price": 18.25,
         "start_year": 2021
@@ -13368,7 +12171,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 2.12,
+        "pe_ratio": 1.8,
         "forward_return": 11.28,
         "start_price": 5.66,
         "start_year": 2006
@@ -13377,7 +12180,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 2.7,
+        "pe_ratio": 2.43,
         "forward_return": 6.49,
         "start_price": 7.2,
         "start_year": 2006
@@ -13386,7 +12189,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 4.06,
         "forward_return": -1.63,
         "start_price": 11.3,
         "start_year": 2006
@@ -13395,7 +12198,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 3.48,
+        "pe_ratio": 3.58,
         "forward_return": 1.58,
         "start_price": 9.3,
         "start_year": 2006
@@ -13404,7 +12207,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 3.4,
+        "pe_ratio": 3.59,
         "forward_return": 2.05,
         "start_price": 9.09,
         "start_year": 2006
@@ -13413,7 +12216,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 3.09,
+        "pe_ratio": 3.34,
         "forward_return": 3.87,
         "start_price": 8.24,
         "start_year": 2006
@@ -13422,7 +12225,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 3.04,
+        "pe_ratio": 3.39,
         "forward_return": 8.41,
         "start_price": 8.13,
         "start_year": 2006
@@ -13431,7 +12234,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 3.75,
+        "pe_ratio": 4.02,
         "forward_return": 2.13,
         "start_price": 10.0,
         "start_year": 2006
@@ -13440,7 +12243,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 4.27,
+        "pe_ratio": 4.42,
         "forward_return": 1.95,
         "start_price": 11.4,
         "start_year": 2006
@@ -13458,7 +12261,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 3.79,
+        "pe_ratio": 5.49,
         "forward_return": 2.24,
         "start_price": 10.55,
         "start_year": 2007
@@ -13467,7 +12270,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 8.76,
         "forward_return": 2.45,
         "start_price": 10.25,
         "start_year": 2007
@@ -13476,7 +12279,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 4.39,
+        "pe_ratio": 31.43,
         "forward_return": -0.58,
         "start_price": 13.2,
         "start_year": 2007
@@ -13485,7 +12288,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 4.14,
+        "pe_ratio": 9.97,
         "forward_return": -0.52,
         "start_price": 12.9,
         "start_year": 2007
@@ -13494,7 +12297,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 4.55,
+        "pe_ratio": 6.78,
         "forward_return": -1.29,
         "start_price": 14.7,
         "start_year": 2007
@@ -13503,7 +12306,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 6.38,
+        "pe_ratio": 7.01,
         "forward_return": -7.37,
         "start_price": 21.3,
         "start_year": 2007
@@ -13512,7 +12315,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 6.87,
+        "pe_ratio": 7.28,
         "forward_return": -9.23,
         "start_price": 23.7,
         "start_year": 2007
@@ -13521,7 +12324,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 7.69,
+        "pe_ratio": 7.89,
         "forward_return": -11.51,
         "start_price": 27.4,
         "start_year": 2007
@@ -13530,7 +12333,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 7.84,
+        "pe_ratio": 7.8,
         "forward_return": -12.13,
         "start_price": 28.8,
         "start_year": 2007
@@ -13539,7 +12342,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": -11.46,
         "start_price": 27.2,
         "start_year": 2007
@@ -13548,7 +12351,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 5.4,
+        "pe_ratio": 5.39,
         "forward_return": -7.6,
         "start_price": 21.05,
         "start_year": 2007
@@ -13566,7 +12369,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 4.66,
+        "pe_ratio": 4.73,
         "forward_return": -2.93,
         "start_price": 17.15,
         "start_year": 2008
@@ -13575,7 +12378,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 6.01,
+        "pe_ratio": 6.2,
         "forward_return": -0.5,
         "start_price": 20.1,
         "start_year": 2008
@@ -13584,7 +12387,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 6.77,
+        "pe_ratio": 7.13,
         "forward_return": -0.75,
         "start_price": 20.4,
         "start_year": 2008
@@ -13593,7 +12396,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.71,
         "forward_return": 1.01,
         "start_price": 18.45,
         "start_year": 2008
@@ -13602,7 +12405,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 11.42,
         "forward_return": 0.23,
         "start_price": 22.0,
         "start_year": 2008
@@ -13611,7 +12414,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 7.25,
+        "pe_ratio": 10.0,
         "forward_return": 5.43,
         "start_price": 14.6,
         "start_year": 2008
@@ -13620,7 +12423,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.79,
+        "pe_ratio": 10.29,
         "forward_return": 5.0,
         "start_price": 13.1,
         "start_year": 2008
@@ -13629,7 +12432,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 9.7,
+        "pe_ratio": 12.06,
         "forward_return": 5.54,
         "start_price": 13.1,
         "start_year": 2008
@@ -13638,7 +12441,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 8.79,
         "forward_return": 15.73,
         "start_price": 7.91,
         "start_year": 2008
@@ -13647,7 +12450,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 13.1,
         "forward_return": 15.53,
         "start_price": 7.95,
         "start_year": 2008
@@ -13656,7 +12459,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 19.12,
+        "pe_ratio": 21.51,
         "forward_return": 18.39,
         "start_price": 6.74,
         "start_year": 2008
@@ -13673,89 +12476,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2009-01-16",
-        "pe_ratio": 70.65,
-        "forward_return": 22.03,
-        "start_price": 5.77,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-02-14",
-        "pe_ratio": 51.56,
-        "forward_return": 16.69,
-        "start_price": 7.39,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-03-16",
-        "pe_ratio": 41.22,
-        "forward_return": 16.53,
-        "start_price": 8.45,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-04-15",
-        "pe_ratio": 32.78,
-        "forward_return": 15.18,
-        "start_price": 8.74,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-05-16",
-        "pe_ratio": 27.11,
-        "forward_return": 12.77,
-        "start_price": 8.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-06-15",
-        "pe_ratio": 23.41,
-        "forward_return": 11.03,
-        "start_price": 9.13,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-07-16",
-        "pe_ratio": 29.23,
-        "forward_return": 2.99,
-        "start_price": 13.2,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-08-16",
-        "pe_ratio": 22.69,
-        "forward_return": 4.65,
-        "start_price": 11.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2009-09-15",
-        "pe_ratio": 22.17,
-        "forward_return": 2.8,
-        "start_price": 12.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.28,
+        "pe_ratio": 81.3,
         "forward_return": 2.38,
         "start_price": 13.55,
         "start_year": 2009
@@ -13764,7 +12486,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 19.98,
+        "pe_ratio": 30.11,
         "forward_return": 2.26,
         "start_price": 13.95,
         "start_year": 2009
@@ -13782,7 +12504,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 14.13,
         "forward_return": 5.21,
         "start_price": 13.05,
         "start_year": 2010
@@ -13791,7 +12513,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.86,
+        "pe_ratio": 12.06,
         "forward_return": 4.08,
         "start_price": 13.1,
         "start_year": 2010
@@ -13800,7 +12522,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 11.6,
         "forward_return": 3.28,
         "start_price": 14.5,
         "start_year": 2010
@@ -13809,7 +12531,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 12.89,
         "forward_return": 1.79,
         "start_price": 14.65,
         "start_year": 2010
@@ -13818,7 +12540,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 18.61,
+        "pe_ratio": 12.61,
         "forward_return": 4.13,
         "start_price": 12.9,
         "start_year": 2010
@@ -13827,7 +12549,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 19.56,
+        "pe_ratio": 14.62,
         "forward_return": 2.47,
         "start_price": 13.3,
         "start_year": 2010
@@ -13836,7 +12558,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 21.15,
+        "pe_ratio": 14.01,
         "forward_return": 2.5,
         "start_price": 14.1,
         "start_year": 2010
@@ -13845,7 +12567,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 12.1,
         "forward_return": 3.8,
         "start_price": 13.35,
         "start_year": 2010
@@ -13854,7 +12576,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 23.52,
+        "pe_ratio": 12.54,
         "forward_return": 2.5,
         "start_price": 15.05,
         "start_year": 2010
@@ -13863,7 +12585,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 14.65,
         "forward_return": 2.1,
         "start_price": 14.65,
         "start_year": 2010
@@ -13872,7 +12594,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 23.48,
+        "pe_ratio": 18.0,
         "forward_return": 2.09,
         "start_price": 14.4,
         "start_year": 2010
@@ -13890,7 +12612,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 22.94,
         "forward_return": 3.67,
         "start_price": 14.3,
         "start_year": 2011
@@ -13899,7 +12621,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 22.52,
+        "pe_ratio": 20.72,
         "forward_return": 5.28,
         "start_price": 13.4,
         "start_year": 2011
@@ -13908,7 +12630,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 21.86,
+        "pe_ratio": 19.33,
         "forward_return": 6.41,
         "start_price": 12.95,
         "start_year": 2011
@@ -13917,7 +12639,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 22.29,
+        "pe_ratio": 21.44,
         "forward_return": 7.28,
         "start_price": 13.15,
         "start_year": 2011
@@ -13926,7 +12648,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 23.44,
         "forward_return": 8.34,
         "start_price": 13.05,
         "start_year": 2011
@@ -13935,7 +12657,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 24.7,
         "forward_return": 9.21,
         "start_price": 12.35,
         "start_year": 2011
@@ -13944,7 +12666,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 30.5,
         "forward_return": 9.79,
         "start_price": 12.3,
         "start_year": 2011
@@ -13953,7 +12675,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.76,
+        "pe_ratio": 33.59,
         "forward_return": 16.65,
         "start_price": 10.3,
         "start_year": 2011
@@ -13962,7 +12684,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.4,
+        "pe_ratio": 47.86,
         "forward_return": 15.89,
         "start_price": 10.05,
         "start_year": 2011
@@ -13971,7 +12693,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 30.45,
         "forward_return": 17.79,
         "start_price": 10.05,
         "start_year": 2011
@@ -13980,7 +12702,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 17.45,
+        "pe_ratio": 22.2,
         "forward_return": 15.68,
         "start_price": 9.99,
         "start_year": 2011
@@ -13998,7 +12720,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 17.14,
         "forward_return": 18.93,
         "start_price": 10.0,
         "start_year": 2012
@@ -14007,7 +12729,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 23.3,
+        "pe_ratio": 18.35,
         "forward_return": 14.95,
         "start_price": 10.95,
         "start_year": 2012
@@ -14016,7 +12738,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 24.88,
+        "pe_ratio": 17.13,
         "forward_return": 16.07,
         "start_price": 10.45,
         "start_year": 2012
@@ -14025,7 +12747,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 27.57,
+        "pe_ratio": 15.85,
         "forward_return": 14.97,
         "start_price": 10.2,
         "start_year": 2012
@@ -14034,7 +12756,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 14.69,
         "forward_return": 18.56,
         "start_price": 9.94,
         "start_year": 2012
@@ -14043,7 +12765,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 36.74,
+        "pe_ratio": 13.97,
         "forward_return": 16.07,
         "start_price": 9.92,
         "start_year": 2012
@@ -14052,7 +12774,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 45.32,
+        "pe_ratio": 13.6,
         "forward_return": 18.03,
         "start_price": 9.97,
         "start_year": 2012
@@ -14061,7 +12783,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 59.12,
+        "pe_ratio": 13.28,
         "forward_return": 17.69,
         "start_price": 10.05,
         "start_year": 2012
@@ -14070,7 +12792,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 107.5,
+        "pe_ratio": 16.54,
         "forward_return": 11.96,
         "start_price": 12.9,
         "start_year": 2012
@@ -14079,7 +12801,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 157.9,
+        "pe_ratio": 21.67,
         "forward_return": 11.12,
         "start_price": 11.05,
         "start_year": 2012
@@ -14088,7 +12810,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 625.0,
+        "pe_ratio": 52.08,
         "forward_return": 9.67,
         "start_price": 12.5,
         "start_year": 2012
@@ -14096,89 +12818,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2013-01-16",
-        "pe_ratio": 1007.0,
-        "forward_return": 11.36,
-        "start_price": 11.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-02-14",
-        "pe_ratio": 216.6,
-        "forward_return": 12.69,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-03-16",
-        "pe_ratio": 131.0,
-        "forward_return": 11.68,
-        "start_price": 12.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-04-15",
-        "pe_ratio": 89.27,
-        "forward_return": 14.68,
-        "start_price": 12.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-05-16",
-        "pe_ratio": 74.58,
-        "forward_return": 12.39,
-        "start_price": 13.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-06-15",
-        "pe_ratio": 59.77,
-        "forward_return": 11.34,
-        "start_price": 13.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-07-16",
-        "pe_ratio": 49.49,
-        "forward_return": 11.74,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-08-16",
-        "pe_ratio": 42.36,
-        "forward_return": 12.79,
-        "start_price": 12.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2013-09-15",
-        "pe_ratio": 37.54,
-        "forward_return": 12.68,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 33.1,
+        "pe_ratio": 153.6,
         "forward_return": 12.21,
         "start_price": 12.8,
         "start_year": 2013
@@ -14187,7 +12828,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 46.27,
         "forward_return": 12.47,
         "start_price": 12.8,
         "start_year": 2013
@@ -14205,7 +12846,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 23.81,
+        "pe_ratio": 21.51,
         "forward_return": 10.52,
         "start_price": 14.05,
         "start_year": 2014
@@ -14214,7 +12855,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.41,
+        "pe_ratio": 22.41,
         "forward_return": 4.91,
         "start_price": 18.75,
         "start_year": 2014
@@ -14223,7 +12864,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.13,
+        "pe_ratio": 18.82,
         "forward_return": 1.5,
         "start_price": 19.2,
         "start_year": 2014
@@ -14232,7 +12873,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.32,
+        "pe_ratio": 19.97,
         "forward_return": 3.77,
         "start_price": 19.3,
         "start_year": 2014
@@ -14241,7 +12882,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 24.09,
         "forward_return": 1.07,
         "start_price": 22.0,
         "start_year": 2014
@@ -14250,7 +12891,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 22.97,
         "forward_return": 3.69,
         "start_price": 19.75,
         "start_year": 2014
@@ -14259,7 +12900,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 16.38,
         "forward_return": 6.45,
         "start_price": 17.25,
         "start_year": 2014
@@ -14268,7 +12909,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.28,
         "forward_return": 6.31,
         "start_price": 17.8,
         "start_year": 2014
@@ -14277,7 +12918,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.06,
+        "pe_ratio": 12.99,
         "forward_return": 4.53,
         "start_price": 18.7,
         "start_year": 2014
@@ -14286,7 +12927,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.65,
         "forward_return": 4.41,
         "start_price": 18.6,
         "start_year": 2014
@@ -14295,7 +12936,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 10.2,
+        "pe_ratio": 10.41,
         "forward_return": 5.07,
         "start_price": 18.25,
         "start_year": 2014
@@ -14313,7 +12954,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 10.21,
         "forward_return": 3.83,
         "start_price": 18.75,
         "start_year": 2015
@@ -14322,7 +12963,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 10.41,
         "forward_return": 4.68,
         "start_price": 18.35,
         "start_year": 2015
@@ -14331,7 +12972,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 12.34,
         "forward_return": 2.23,
         "start_price": 20.85,
         "start_year": 2015
@@ -14340,7 +12981,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.1,
+        "pe_ratio": 11.46,
         "forward_return": 4.18,
         "start_price": 20.1,
         "start_year": 2015
@@ -14349,7 +12990,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 8.96,
+        "pe_ratio": 9.91,
         "forward_return": 4.09,
         "start_price": 18.0,
         "start_year": 2015
@@ -14358,7 +12999,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 8.28,
+        "pe_ratio": 8.94,
         "forward_return": 5.53,
         "start_price": 16.8,
         "start_year": 2015
@@ -14367,7 +13008,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.05,
+        "pe_ratio": 7.87,
         "forward_return": 8.56,
         "start_price": 14.45,
         "start_year": 2015
@@ -14376,7 +13017,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 6.76,
+        "pe_ratio": 7.81,
         "forward_return": 8.47,
         "start_price": 14.0,
         "start_year": 2015
@@ -14385,7 +13026,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 6.58,
+        "pe_ratio": 7.86,
         "forward_return": 8.71,
         "start_price": 13.75,
         "start_year": 2015
@@ -14394,7 +13035,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 6.78,
+        "pe_ratio": 7.59,
         "forward_return": 8.04,
         "start_price": 14.3,
         "start_year": 2015
@@ -14403,7 +13044,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.26,
         "forward_return": 7.73,
         "start_price": 14.65,
         "start_year": 2015
@@ -14421,7 +13062,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.0,
+        "pe_ratio": 8.04,
         "forward_return": 7.7,
         "start_price": 16.4,
         "start_year": 2016
@@ -14430,7 +13071,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 7.87,
+        "pe_ratio": 7.95,
         "forward_return": 13.53,
         "start_price": 15.35,
         "start_year": 2016
@@ -14439,7 +13080,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.81,
+        "pe_ratio": 8.96,
         "forward_return": 12.59,
         "start_price": 16.3,
         "start_year": 2016
@@ -14448,7 +13089,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.05,
         "forward_return": 11.97,
         "start_price": 15.0,
         "start_year": 2016
@@ -14457,7 +13098,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 7.95,
         "forward_return": 13.68,
         "start_price": 15.15,
         "start_year": 2016
@@ -14466,7 +13107,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 9.1,
+        "pe_ratio": 7.23,
         "forward_return": 13.88,
         "start_price": 14.1,
         "start_year": 2016
@@ -14475,7 +13116,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 7.88,
         "forward_return": 16.32,
         "start_price": 14.05,
         "start_year": 2016
@@ -14484,7 +13125,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 8.91,
         "forward_return": 14.77,
         "start_price": 14.4,
         "start_year": 2016
@@ -14493,7 +13134,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.12,
+        "pe_ratio": 10.45,
         "forward_return": 10.91,
         "start_price": 15.15,
         "start_year": 2016
@@ -14502,7 +13143,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.14,
         "forward_return": 11.72,
         "start_price": 14.3,
         "start_year": 2016
@@ -14511,7 +13152,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 12.54,
         "forward_return": 13.99,
         "start_price": 14.0,
         "start_year": 2016
@@ -14529,7 +13170,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 17.49,
         "forward_return": 12.96,
         "start_price": 15.45,
         "start_year": 2017
@@ -14538,7 +13179,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.8,
+        "pe_ratio": 19.53,
         "forward_return": 12.25,
         "start_price": 15.95,
         "start_year": 2017
@@ -14547,7 +13188,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 22.0,
         "forward_return": 14.46,
         "start_price": 16.5,
         "start_year": 2017
@@ -14556,7 +13197,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 23.77,
+        "pe_ratio": 23.15,
         "forward_return": 14.0,
         "start_price": 17.75,
         "start_year": 2017
@@ -14565,7 +13206,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.02,
+        "pe_ratio": 24.0,
         "forward_return": 12.35,
         "start_price": 18.8,
         "start_year": 2017
@@ -14574,7 +13215,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.91,
+        "pe_ratio": 23.31,
         "forward_return": 13.71,
         "start_price": 18.65,
         "start_year": 2017
@@ -14583,7 +13224,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 31.22,
+        "pe_ratio": 22.17,
         "forward_return": 16.18,
         "start_price": 18.55,
         "start_year": 2017
@@ -14592,7 +13233,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 42.24,
+        "pe_ratio": 26.28,
         "forward_return": 12.97,
         "start_price": 22.95,
         "start_year": 2017
@@ -14601,7 +13242,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 43.35,
+        "pe_ratio": 23.46,
         "forward_return": 12.29,
         "start_price": 21.35,
         "start_year": 2017
@@ -14610,7 +13251,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 54.0,
+        "pe_ratio": 33.12,
         "forward_return": 8.73,
         "start_price": 23.85,
         "start_year": 2017
@@ -14619,7 +13260,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 53.6,
+        "pe_ratio": 39.53,
         "forward_return": 14.38,
         "start_price": 20.95,
         "start_year": 2017
@@ -14637,7 +13278,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 56.33,
+        "pe_ratio": 66.0,
         "forward_return": 10.24,
         "start_price": 25.3,
         "start_year": 2018
@@ -14646,7 +13287,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 40.84,
+        "pe_ratio": 53.44,
         "forward_return": 12.19,
         "start_price": 22.8,
         "start_year": 2018
@@ -14655,7 +13296,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 33.78,
+        "pe_ratio": 47.98,
         "forward_return": 23.05,
         "start_price": 22.55,
         "start_year": 2018
@@ -14664,7 +13305,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 26.46,
+        "pe_ratio": 32.62,
         "forward_return": 31.81,
         "start_price": 20.55,
         "start_year": 2018
@@ -14673,7 +13314,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 27.77,
+        "pe_ratio": 31.14,
         "forward_return": 39.43,
         "start_price": 24.6,
         "start_year": 2018
@@ -14682,7 +13323,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 21.36,
+        "pe_ratio": 22.37,
         "forward_return": 41.66,
         "start_price": 21.25,
         "start_year": 2018
@@ -14691,7 +13332,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.78,
+        "pe_ratio": 25.31,
         "forward_return": 36.8,
         "start_price": 22.95,
         "start_year": 2018
@@ -14700,7 +13341,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 18.71,
+        "pe_ratio": 26.29,
         "forward_return": 39.17,
         "start_price": 22.7,
         "start_year": 2018
@@ -14709,7 +13350,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 26.1,
         "forward_return": 39.31,
         "start_price": 21.4,
         "start_year": 2018
@@ -14718,7 +13359,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 15.32,
         "forward_return": 43.54,
         "start_price": 16.8,
         "start_year": 2018
@@ -14727,7 +13368,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.92,
         "forward_return": 42.47,
         "start_price": 17.75,
         "start_year": 2018
@@ -14745,7 +13386,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.03,
+        "pe_ratio": 9.32,
         "forward_return": 41.46,
         "start_price": 18.4,
         "start_year": 2019
@@ -14754,7 +13395,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.66,
+        "pe_ratio": 8.56,
         "forward_return": 42.34,
         "start_price": 19.65,
         "start_year": 2019
@@ -14763,7 +13404,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 7.69,
         "forward_return": 38.53,
         "start_price": 20.15,
         "start_year": 2019
@@ -14772,7 +13413,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 9.94,
         "forward_return": 34.15,
         "start_price": 23.75,
         "start_year": 2019
@@ -14781,7 +13422,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 13.12,
+        "pe_ratio": 10.56,
         "forward_return": 36.72,
         "start_price": 22.8,
         "start_year": 2019
@@ -14790,7 +13431,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 11.99,
+        "pe_ratio": 10.91,
         "forward_return": 37.61,
         "start_price": 21.05,
         "start_year": 2019
@@ -14799,7 +13440,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 11.34,
+        "pe_ratio": 9.82,
         "forward_return": 38.82,
         "start_price": 20.1,
         "start_year": 2019
@@ -14808,7 +13449,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 9.87,
         "forward_return": 40.37,
         "start_price": 21.35,
         "start_year": 2019
@@ -14817,7 +13458,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 9.39,
         "forward_return": 38.08,
         "start_price": 21.4,
         "start_year": 2019
@@ -14826,7 +13467,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 11.21,
+        "pe_ratio": 9.56,
         "forward_return": 37.44,
         "start_price": 20.45,
         "start_year": 2019
@@ -14835,7 +13476,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 11.29,
+        "pe_ratio": 10.4,
         "forward_return": 37.38,
         "start_price": 20.8,
         "start_year": 2019
@@ -14853,7 +13494,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 13.25,
         "forward_return": 37.47,
         "start_price": 20.5,
         "start_year": 2020
@@ -14862,7 +13503,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 2.12,
+        "pe_ratio": 1.8,
         "forward_return": 16.72,
         "start_price": 5.66,
         "start_year": 2006
@@ -14871,7 +13512,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 2.7,
+        "pe_ratio": 2.43,
         "forward_return": 13.34,
         "start_price": 7.2,
         "start_year": 2006
@@ -14880,7 +13521,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 4.06,
         "forward_return": 8.87,
         "start_price": 11.3,
         "start_year": 2006
@@ -14889,7 +13530,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 3.48,
+        "pe_ratio": 3.58,
         "forward_return": 10.08,
         "start_price": 9.3,
         "start_year": 2006
@@ -14898,7 +13539,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 3.4,
+        "pe_ratio": 3.59,
         "forward_return": 8.57,
         "start_price": 9.09,
         "start_year": 2006
@@ -14907,7 +13548,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 3.09,
+        "pe_ratio": 3.34,
         "forward_return": 10.34,
         "start_price": 8.24,
         "start_year": 2006
@@ -14916,7 +13557,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 3.04,
+        "pe_ratio": 3.39,
         "forward_return": 11.19,
         "start_price": 8.13,
         "start_year": 2006
@@ -14925,7 +13566,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 3.75,
+        "pe_ratio": 4.02,
         "forward_return": 8.28,
         "start_price": 10.0,
         "start_year": 2006
@@ -14934,7 +13575,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 4.27,
+        "pe_ratio": 4.42,
         "forward_return": 6.27,
         "start_price": 11.4,
         "start_year": 2006
@@ -14952,7 +13593,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 3.79,
+        "pe_ratio": 5.49,
         "forward_return": 7.67,
         "start_price": 10.55,
         "start_year": 2007
@@ -14961,7 +13602,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 8.76,
         "forward_return": 7.77,
         "start_price": 10.25,
         "start_year": 2007
@@ -14970,7 +13611,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 4.39,
+        "pe_ratio": 31.43,
         "forward_return": 6.07,
         "start_price": 13.2,
         "start_year": 2007
@@ -14979,7 +13620,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 4.14,
+        "pe_ratio": 9.97,
         "forward_return": 5.9,
         "start_price": 12.9,
         "start_year": 2007
@@ -14988,7 +13629,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 4.55,
+        "pe_ratio": 6.78,
         "forward_return": 2.78,
         "start_price": 14.7,
         "start_year": 2007
@@ -14997,7 +13638,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 6.38,
+        "pe_ratio": 7.01,
         "forward_return": -2.71,
         "start_price": 21.3,
         "start_year": 2007
@@ -15006,7 +13647,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 6.87,
+        "pe_ratio": 7.28,
         "forward_return": -4.98,
         "start_price": 23.7,
         "start_year": 2007
@@ -15015,7 +13656,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 7.69,
+        "pe_ratio": 7.89,
         "forward_return": -7.02,
         "start_price": 27.4,
         "start_year": 2007
@@ -15024,7 +13665,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 7.84,
+        "pe_ratio": 7.8,
         "forward_return": -7.79,
         "start_price": 28.8,
         "start_year": 2007
@@ -15033,7 +13674,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": -6.71,
         "start_price": 27.2,
         "start_year": 2007
@@ -15042,7 +13683,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 5.4,
+        "pe_ratio": 5.39,
         "forward_return": -3.41,
         "start_price": 21.05,
         "start_year": 2007
@@ -15060,7 +13701,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 4.66,
+        "pe_ratio": 4.73,
         "forward_return": 0.4,
         "start_price": 17.15,
         "start_year": 2008
@@ -15069,7 +13710,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 6.01,
+        "pe_ratio": 6.2,
         "forward_return": -2.33,
         "start_price": 20.1,
         "start_year": 2008
@@ -15078,7 +13719,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 6.77,
+        "pe_ratio": 7.13,
         "forward_return": -1.83,
         "start_price": 20.4,
         "start_year": 2008
@@ -15087,7 +13728,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.71,
         "forward_return": -1.54,
         "start_price": 18.45,
         "start_year": 2008
@@ -15096,7 +13737,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 11.42,
         "forward_return": -3.57,
         "start_price": 22.0,
         "start_year": 2008
@@ -15105,7 +13746,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 7.25,
+        "pe_ratio": 10.0,
         "forward_return": 0.67,
         "start_price": 14.6,
         "start_year": 2008
@@ -15114,7 +13755,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.79,
+        "pe_ratio": 10.29,
         "forward_return": 2.81,
         "start_price": 13.1,
         "start_year": 2008
@@ -15123,7 +13764,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 9.7,
+        "pe_ratio": 12.06,
         "forward_return": 3.08,
         "start_price": 13.1,
         "start_year": 2008
@@ -15132,7 +13773,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 8.79,
         "forward_return": 10.4,
         "start_price": 7.91,
         "start_year": 2008
@@ -15141,7 +13782,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 13.1,
         "forward_return": 9.64,
         "start_price": 7.95,
         "start_year": 2008
@@ -15150,7 +13791,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 19.12,
+        "pe_ratio": 21.51,
         "forward_return": 11.67,
         "start_price": 6.74,
         "start_year": 2008
@@ -15167,89 +13808,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2009-01-16",
-        "pe_ratio": 70.65,
-        "forward_return": 15.08,
-        "start_price": 5.77,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-02-14",
-        "pe_ratio": 51.56,
-        "forward_return": 11.96,
-        "start_price": 7.39,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-03-16",
-        "pe_ratio": 41.22,
-        "forward_return": 10.51,
-        "start_price": 8.45,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-04-15",
-        "pe_ratio": 32.78,
-        "forward_return": 10.94,
-        "start_price": 8.74,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-05-16",
-        "pe_ratio": 27.11,
-        "forward_return": 11.39,
-        "start_price": 8.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-06-15",
-        "pe_ratio": 23.41,
-        "forward_return": 10.94,
-        "start_price": 9.13,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-07-16",
-        "pe_ratio": 29.23,
-        "forward_return": 6.5,
-        "start_price": 13.2,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-08-16",
-        "pe_ratio": 22.69,
-        "forward_return": 10.69,
-        "start_price": 11.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2009-09-15",
-        "pe_ratio": 22.17,
-        "forward_return": 8.59,
-        "start_price": 12.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.28,
+        "pe_ratio": 81.3,
         "forward_return": 9.08,
         "start_price": 13.55,
         "start_year": 2009
@@ -15258,7 +13818,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 19.98,
+        "pe_ratio": 30.11,
         "forward_return": 7.16,
         "start_price": 13.95,
         "start_year": 2009
@@ -15276,7 +13836,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 14.13,
         "forward_return": 10.3,
         "start_price": 13.05,
         "start_year": 2010
@@ -15285,7 +13845,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.86,
+        "pe_ratio": 12.06,
         "forward_return": 9.0,
         "start_price": 13.1,
         "start_year": 2010
@@ -15294,7 +13854,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 11.6,
         "forward_return": 7.49,
         "start_price": 14.5,
         "start_year": 2010
@@ -15303,7 +13863,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 12.89,
         "forward_return": 6.28,
         "start_price": 14.65,
         "start_year": 2010
@@ -15312,7 +13872,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 18.61,
+        "pe_ratio": 12.61,
         "forward_return": 10.12,
         "start_price": 12.9,
         "start_year": 2010
@@ -15321,7 +13881,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 19.56,
+        "pe_ratio": 14.62,
         "forward_return": 7.96,
         "start_price": 13.3,
         "start_year": 2010
@@ -15330,7 +13890,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 21.15,
+        "pe_ratio": 14.01,
         "forward_return": 8.58,
         "start_price": 14.1,
         "start_year": 2010
@@ -15339,7 +13899,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 12.1,
         "forward_return": 9.2,
         "start_price": 13.35,
         "start_year": 2010
@@ -15348,7 +13908,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 23.52,
+        "pe_ratio": 12.54,
         "forward_return": 6.92,
         "start_price": 15.05,
         "start_year": 2010
@@ -15357,7 +13917,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 14.65,
         "forward_return": 4.67,
         "start_price": 14.65,
         "start_year": 2010
@@ -15366,7 +13926,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 23.48,
+        "pe_ratio": 18.0,
         "forward_return": 5.47,
         "start_price": 14.4,
         "start_year": 2010
@@ -15384,7 +13944,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 22.94,
         "forward_return": 5.95,
         "start_price": 14.3,
         "start_year": 2011
@@ -15393,7 +13953,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 22.52,
+        "pe_ratio": 20.72,
         "forward_return": 7.53,
         "start_price": 13.4,
         "start_year": 2011
@@ -15402,7 +13962,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 21.86,
+        "pe_ratio": 19.33,
         "forward_return": 8.27,
         "start_price": 12.95,
         "start_year": 2011
@@ -15411,7 +13971,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 22.29,
+        "pe_ratio": 21.44,
         "forward_return": 9.93,
         "start_price": 13.15,
         "start_year": 2011
@@ -15420,7 +13980,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 23.44,
         "forward_return": 9.56,
         "start_price": 13.05,
         "start_year": 2011
@@ -15429,7 +13989,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 24.7,
         "forward_return": 9.41,
         "start_price": 12.35,
         "start_year": 2011
@@ -15438,7 +13998,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 30.5,
         "forward_return": 9.38,
         "start_price": 12.3,
         "start_year": 2011
@@ -15447,7 +14007,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.76,
+        "pe_ratio": 33.59,
         "forward_return": 12.51,
         "start_price": 10.3,
         "start_year": 2011
@@ -15456,7 +14016,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.4,
+        "pe_ratio": 47.86,
         "forward_return": 12.88,
         "start_price": 10.05,
         "start_year": 2011
@@ -15465,7 +14025,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 30.45,
         "forward_return": 12.37,
         "start_price": 10.05,
         "start_year": 2011
@@ -15474,7 +14034,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 17.45,
+        "pe_ratio": 22.2,
         "forward_return": 12.65,
         "start_price": 9.99,
         "start_year": 2011
@@ -15492,7 +14052,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 17.14,
         "forward_return": 12.47,
         "start_price": 10.0,
         "start_year": 2012
@@ -15501,7 +14061,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 23.3,
+        "pe_ratio": 18.35,
         "forward_return": 10.87,
         "start_price": 10.95,
         "start_year": 2012
@@ -15510,7 +14070,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 24.88,
+        "pe_ratio": 17.13,
         "forward_return": 9.12,
         "start_price": 10.45,
         "start_year": 2012
@@ -15519,7 +14079,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 27.57,
+        "pe_ratio": 15.85,
         "forward_return": 11.35,
         "start_price": 10.2,
         "start_year": 2012
@@ -15528,7 +14088,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 14.69,
         "forward_return": 11.33,
         "start_price": 9.94,
         "start_year": 2012
@@ -15537,7 +14097,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 36.74,
+        "pe_ratio": 13.97,
         "forward_return": 11.99,
         "start_price": 9.92,
         "start_year": 2012
@@ -15546,7 +14106,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 45.32,
+        "pe_ratio": 13.6,
         "forward_return": 12.23,
         "start_price": 9.97,
         "start_year": 2012
@@ -15555,7 +14115,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 59.12,
+        "pe_ratio": 13.28,
         "forward_return": 12.45,
         "start_price": 10.05,
         "start_year": 2012
@@ -15564,7 +14124,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 107.5,
+        "pe_ratio": 16.54,
         "forward_return": 8.29,
         "start_price": 12.9,
         "start_year": 2012
@@ -15573,7 +14133,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 157.9,
+        "pe_ratio": 21.67,
         "forward_return": 10.24,
         "start_price": 11.05,
         "start_year": 2012
@@ -15582,7 +14142,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 625.0,
+        "pe_ratio": 52.08,
         "forward_return": 8.8,
         "start_price": 12.5,
         "start_year": 2012
@@ -15590,89 +14150,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2013-01-16",
-        "pe_ratio": 1007.0,
-        "forward_return": 9.05,
-        "start_price": 11.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-02-14",
-        "pe_ratio": 216.6,
-        "forward_return": 9.66,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-03-16",
-        "pe_ratio": 131.0,
-        "forward_return": 8.44,
-        "start_price": 12.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-04-15",
-        "pe_ratio": 89.27,
-        "forward_return": 9.76,
-        "start_price": 12.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-05-16",
-        "pe_ratio": 74.58,
-        "forward_return": 7.03,
-        "start_price": 13.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-06-15",
-        "pe_ratio": 59.77,
-        "forward_return": 7.35,
-        "start_price": 13.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-07-16",
-        "pe_ratio": 49.49,
-        "forward_return": 8.38,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-08-16",
-        "pe_ratio": 42.36,
-        "forward_return": 8.01,
-        "start_price": 12.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2013-09-15",
-        "pe_ratio": 37.54,
-        "forward_return": 7.85,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 33.1,
+        "pe_ratio": 153.6,
         "forward_return": 8.03,
         "start_price": 12.8,
         "start_year": 2013
@@ -15681,7 +14160,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 46.27,
         "forward_return": 8.12,
         "start_price": 12.8,
         "start_year": 2013
@@ -15699,7 +14178,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 23.81,
+        "pe_ratio": 21.51,
         "forward_return": 8.31,
         "start_price": 14.05,
         "start_year": 2014
@@ -15708,7 +14187,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.41,
+        "pe_ratio": 22.41,
         "forward_return": 5.42,
         "start_price": 18.75,
         "start_year": 2014
@@ -15717,7 +14196,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.13,
+        "pe_ratio": 18.82,
         "forward_return": 7.48,
         "start_price": 19.2,
         "start_year": 2014
@@ -15726,7 +14205,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.32,
+        "pe_ratio": 19.97,
         "forward_return": 5.91,
         "start_price": 19.3,
         "start_year": 2014
@@ -15735,7 +14214,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 24.09,
         "forward_return": 5.48,
         "start_price": 22.0,
         "start_year": 2014
@@ -15744,7 +14223,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 22.97,
         "forward_return": 6.11,
         "start_price": 19.75,
         "start_year": 2014
@@ -15753,7 +14232,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 16.38,
         "forward_return": 9.93,
         "start_price": 17.25,
         "start_year": 2014
@@ -15762,7 +14241,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.28,
         "forward_return": 8.78,
         "start_price": 17.8,
         "start_year": 2014
@@ -15771,7 +14250,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.06,
+        "pe_ratio": 12.99,
         "forward_return": 6.17,
         "start_price": 18.7,
         "start_year": 2014
@@ -15780,7 +14259,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.65,
         "forward_return": 6.07,
         "start_price": 18.6,
         "start_year": 2014
@@ -15789,7 +14268,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 10.2,
+        "pe_ratio": 10.41,
         "forward_return": 7.56,
         "start_price": 18.25,
         "start_year": 2014
@@ -15807,7 +14286,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 10.21,
         "forward_return": 7.76,
         "start_price": 18.75,
         "start_year": 2015
@@ -15816,7 +14295,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 10.41,
         "forward_return": 7.97,
         "start_price": 18.35,
         "start_year": 2015
@@ -15825,7 +14304,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 12.34,
         "forward_return": 8.18,
         "start_price": 20.85,
         "start_year": 2015
@@ -15834,7 +14313,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.1,
+        "pe_ratio": 11.46,
         "forward_return": 9.3,
         "start_price": 20.1,
         "start_year": 2015
@@ -15843,7 +14322,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 8.96,
+        "pe_ratio": 9.91,
         "forward_return": 10.43,
         "start_price": 18.0,
         "start_year": 2015
@@ -15852,7 +14331,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 8.28,
+        "pe_ratio": 8.94,
         "forward_return": 12.24,
         "start_price": 16.8,
         "start_year": 2015
@@ -15861,7 +14340,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.05,
+        "pe_ratio": 7.87,
         "forward_return": 16.07,
         "start_price": 14.45,
         "start_year": 2015
@@ -15870,7 +14349,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 6.76,
+        "pe_ratio": 7.81,
         "forward_return": 17.16,
         "start_price": 14.0,
         "start_year": 2015
@@ -15879,7 +14358,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 6.58,
+        "pe_ratio": 7.86,
         "forward_return": 15.91,
         "start_price": 13.75,
         "start_year": 2015
@@ -15888,7 +14367,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 6.78,
+        "pe_ratio": 7.59,
         "forward_return": 14.21,
         "start_price": 14.3,
         "start_year": 2015
@@ -15897,7 +14376,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.26,
         "forward_return": 16.26,
         "start_price": 14.65,
         "start_year": 2015
@@ -15915,7 +14394,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.0,
+        "pe_ratio": 8.04,
         "forward_return": 14.19,
         "start_price": 16.4,
         "start_year": 2016
@@ -15924,7 +14403,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 7.87,
+        "pe_ratio": 7.95,
         "forward_return": 15.15,
         "start_price": 15.35,
         "start_year": 2016
@@ -15933,7 +14412,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.81,
+        "pe_ratio": 8.96,
         "forward_return": 22.06,
         "start_price": 16.3,
         "start_year": 2016
@@ -15942,7 +14421,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.05,
         "forward_return": 28.25,
         "start_price": 15.0,
         "start_year": 2016
@@ -15951,7 +14430,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 7.95,
         "forward_return": 36.52,
         "start_price": 15.15,
         "start_year": 2016
@@ -15960,7 +14439,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 9.1,
+        "pe_ratio": 7.23,
         "forward_return": 36.88,
         "start_price": 14.1,
         "start_year": 2016
@@ -15969,7 +14448,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 7.88,
         "forward_return": 34.73,
         "start_price": 14.05,
         "start_year": 2016
@@ -15978,7 +14457,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 8.91,
         "forward_return": 35.85,
         "start_price": 14.4,
         "start_year": 2016
@@ -15987,7 +14466,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 12.12,
+        "pe_ratio": 10.45,
         "forward_return": 34.11,
         "start_price": 15.15,
         "start_year": 2016
@@ -15996,7 +14475,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 12.43,
+        "pe_ratio": 11.14,
         "forward_return": 34.04,
         "start_price": 14.3,
         "start_year": 2016
@@ -16005,7 +14484,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 12.54,
         "forward_return": 34.56,
         "start_price": 14.0,
         "start_year": 2016
@@ -16023,7 +14502,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 17.49,
         "forward_return": 32.8,
         "start_price": 15.45,
         "start_year": 2017
@@ -16032,7 +14511,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 18.8,
+        "pe_ratio": 19.53,
         "forward_return": 33.97,
         "start_price": 15.95,
         "start_year": 2017
@@ -16041,7 +14520,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 22.0,
         "forward_return": 31.16,
         "start_price": 16.5,
         "start_year": 2017
@@ -16050,7 +14529,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 23.77,
+        "pe_ratio": 23.15,
         "forward_return": 29.51,
         "start_price": 17.75,
         "start_year": 2017
@@ -16059,7 +14538,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.02,
+        "pe_ratio": 24.0,
         "forward_return": 29.75,
         "start_price": 18.8,
         "start_year": 2017
@@ -16068,7 +14547,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.91,
+        "pe_ratio": 23.31,
         "forward_return": 29.22,
         "start_price": 18.65,
         "start_year": 2017
@@ -16077,7 +14556,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 31.22,
+        "pe_ratio": 22.17,
         "forward_return": 29.42,
         "start_price": 18.55,
         "start_year": 2017
@@ -16086,7 +14565,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 42.24,
+        "pe_ratio": 26.28,
         "forward_return": 28.01,
         "start_price": 22.95,
         "start_year": 2017
@@ -16095,7 +14574,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 43.35,
+        "pe_ratio": 23.46,
         "forward_return": 27.65,
         "start_price": 21.35,
         "start_year": 2017
@@ -16104,7 +14583,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 54.0,
+        "pe_ratio": 33.12,
         "forward_return": 24.76,
         "start_price": 23.85,
         "start_year": 2017
@@ -16113,7 +14592,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 53.6,
+        "pe_ratio": 39.53,
         "forward_return": 27.02,
         "start_price": 20.95,
         "start_year": 2017
@@ -16131,7 +14610,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 56.33,
+        "pe_ratio": 66.0,
         "forward_return": 23.9,
         "start_price": 25.3,
         "start_year": 2018
@@ -16140,7 +14619,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 40.84,
+        "pe_ratio": 53.44,
         "forward_return": 25.58,
         "start_price": 22.8,
         "start_year": 2018
@@ -16149,7 +14628,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 2.12,
+        "pe_ratio": 1.8,
         "forward_return": 12.01,
         "start_price": 5.66,
         "start_year": 2006
@@ -16158,7 +14637,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 2.7,
+        "pe_ratio": 2.43,
         "forward_return": 8.51,
         "start_price": 7.2,
         "start_year": 2006
@@ -16167,7 +14646,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 4.23,
+        "pe_ratio": 4.06,
         "forward_return": 3.83,
         "start_price": 11.3,
         "start_year": 2006
@@ -16176,7 +14655,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 3.48,
+        "pe_ratio": 3.58,
         "forward_return": 5.17,
         "start_price": 9.3,
         "start_year": 2006
@@ -16185,7 +14664,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 3.4,
+        "pe_ratio": 3.59,
         "forward_return": 6.05,
         "start_price": 9.09,
         "start_year": 2006
@@ -16194,7 +14673,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 3.09,
+        "pe_ratio": 3.34,
         "forward_return": 7.32,
         "start_price": 8.24,
         "start_year": 2006
@@ -16203,7 +14682,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 3.04,
+        "pe_ratio": 3.39,
         "forward_return": 7.94,
         "start_price": 8.13,
         "start_year": 2006
@@ -16212,7 +14691,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 3.75,
+        "pe_ratio": 4.02,
         "forward_return": 5.2,
         "start_price": 10.0,
         "start_year": 2006
@@ -16221,7 +14700,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 4.27,
+        "pe_ratio": 4.42,
         "forward_return": 3.64,
         "start_price": 11.4,
         "start_year": 2006
@@ -16239,7 +14718,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 3.79,
+        "pe_ratio": 5.49,
         "forward_return": 5.34,
         "start_price": 10.55,
         "start_year": 2007
@@ -16248,7 +14727,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 3.54,
+        "pe_ratio": 8.76,
         "forward_return": 5.94,
         "start_price": 10.25,
         "start_year": 2007
@@ -16257,7 +14736,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 4.39,
+        "pe_ratio": 31.43,
         "forward_return": 3.6,
         "start_price": 13.2,
         "start_year": 2007
@@ -16266,7 +14745,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 4.14,
+        "pe_ratio": 9.97,
         "forward_return": 4.51,
         "start_price": 12.9,
         "start_year": 2007
@@ -16275,7 +14754,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 4.55,
+        "pe_ratio": 6.78,
         "forward_return": 3.68,
         "start_price": 14.7,
         "start_year": 2007
@@ -16284,7 +14763,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 6.38,
+        "pe_ratio": 7.01,
         "forward_return": -0.17,
         "start_price": 21.3,
         "start_year": 2007
@@ -16293,7 +14772,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 6.87,
+        "pe_ratio": 7.28,
         "forward_return": -0.81,
         "start_price": 23.7,
         "start_year": 2007
@@ -16302,7 +14781,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 7.69,
+        "pe_ratio": 7.89,
         "forward_return": -0.43,
         "start_price": 27.4,
         "start_year": 2007
@@ -16311,7 +14790,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 7.84,
+        "pe_ratio": 7.8,
         "forward_return": -1.54,
         "start_price": 28.8,
         "start_year": 2007
@@ -16320,7 +14799,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": -0.02,
         "start_price": 27.2,
         "start_year": 2007
@@ -16329,7 +14808,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 5.4,
+        "pe_ratio": 5.39,
         "forward_return": 1.43,
         "start_price": 21.05,
         "start_year": 2007
@@ -16347,7 +14826,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 4.66,
+        "pe_ratio": 4.73,
         "forward_return": 5.25,
         "start_price": 17.15,
         "start_year": 2008
@@ -16356,7 +14835,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 6.01,
+        "pe_ratio": 6.2,
         "forward_return": 2.53,
         "start_price": 20.1,
         "start_year": 2008
@@ -16365,7 +14844,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 6.77,
+        "pe_ratio": 7.13,
         "forward_return": 2.4,
         "start_price": 20.4,
         "start_year": 2008
@@ -16374,7 +14853,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.71,
         "forward_return": 2.6,
         "start_price": 18.45,
         "start_year": 2008
@@ -16383,7 +14862,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 11.42,
         "forward_return": 2.4,
         "start_price": 22.0,
         "start_year": 2008
@@ -16392,7 +14871,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 7.25,
+        "pe_ratio": 10.0,
         "forward_return": 5.34,
         "start_price": 14.6,
         "start_year": 2008
@@ -16401,7 +14880,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.79,
+        "pe_ratio": 10.29,
         "forward_return": 7.6,
         "start_price": 13.1,
         "start_year": 2008
@@ -16410,7 +14889,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 9.7,
+        "pe_ratio": 12.06,
         "forward_return": 7.5,
         "start_price": 13.1,
         "start_year": 2008
@@ -16419,7 +14898,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.77,
+        "pe_ratio": 8.79,
         "forward_return": 12.51,
         "start_price": 7.91,
         "start_year": 2008
@@ -16428,7 +14907,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.61,
+        "pe_ratio": 13.1,
         "forward_return": 10.25,
         "start_price": 7.95,
         "start_year": 2008
@@ -16437,7 +14916,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 19.12,
+        "pe_ratio": 21.51,
         "forward_return": 12.59,
         "start_price": 6.74,
         "start_year": 2008
@@ -16454,89 +14933,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2009-01-16",
-        "pe_ratio": 70.65,
-        "forward_return": 14.68,
-        "start_price": 5.77,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-02-14",
-        "pe_ratio": 51.56,
-        "forward_return": 12.48,
-        "start_price": 7.39,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-03-16",
-        "pe_ratio": 41.22,
-        "forward_return": 11.21,
-        "start_price": 8.45,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-04-15",
-        "pe_ratio": 32.78,
-        "forward_return": 12.37,
-        "start_price": 8.74,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-05-16",
-        "pe_ratio": 27.11,
-        "forward_return": 11.78,
-        "start_price": 8.9,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-06-15",
-        "pe_ratio": 23.41,
-        "forward_return": 10.75,
-        "start_price": 9.13,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-07-16",
-        "pe_ratio": 29.23,
-        "forward_return": 6.81,
-        "start_price": 13.2,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-08-16",
-        "pe_ratio": 22.69,
-        "forward_return": 8.67,
-        "start_price": 11.65,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2009-09-15",
-        "pe_ratio": 22.17,
-        "forward_return": 7.71,
-        "start_price": 12.75,
-        "start_year": 2009
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.28,
+        "pe_ratio": 81.3,
         "forward_return": 6.67,
         "start_price": 13.55,
         "start_year": 2009
@@ -16545,7 +14943,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 19.98,
+        "pe_ratio": 30.11,
         "forward_return": 6.51,
         "start_price": 13.95,
         "start_year": 2009
@@ -16563,7 +14961,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 14.13,
         "forward_return": 7.1,
         "start_price": 13.05,
         "start_year": 2010
@@ -16572,7 +14970,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.86,
+        "pe_ratio": 12.06,
         "forward_return": 6.8,
         "start_price": 13.1,
         "start_year": 2010
@@ -16581,7 +14979,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 20.14,
+        "pe_ratio": 11.6,
         "forward_return": 3.92,
         "start_price": 14.5,
         "start_year": 2010
@@ -16590,7 +14988,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 20.73,
+        "pe_ratio": 12.89,
         "forward_return": 5.23,
         "start_price": 14.65,
         "start_year": 2010
@@ -16599,7 +14997,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 18.61,
+        "pe_ratio": 12.61,
         "forward_return": 6.29,
         "start_price": 12.9,
         "start_year": 2010
@@ -16608,7 +15006,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 19.56,
+        "pe_ratio": 14.62,
         "forward_return": 6.45,
         "start_price": 13.3,
         "start_year": 2010
@@ -16617,7 +15015,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 21.15,
+        "pe_ratio": 14.01,
         "forward_return": 6.06,
         "start_price": 14.1,
         "start_year": 2010
@@ -16626,7 +15024,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 20.43,
+        "pe_ratio": 12.1,
         "forward_return": 6.89,
         "start_price": 13.35,
         "start_year": 2010
@@ -16635,7 +15033,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 23.52,
+        "pe_ratio": 12.54,
         "forward_return": 5.08,
         "start_price": 15.05,
         "start_year": 2010
@@ -16644,7 +15042,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 14.65,
         "forward_return": 5.23,
         "start_price": 14.65,
         "start_year": 2010
@@ -16653,7 +15051,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 23.48,
+        "pe_ratio": 18.0,
         "forward_return": 5.61,
         "start_price": 14.4,
         "start_year": 2010
@@ -16671,7 +15069,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 23.93,
+        "pe_ratio": 22.94,
         "forward_return": 5.23,
         "start_price": 14.3,
         "start_year": 2011
@@ -16680,7 +15078,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 22.52,
+        "pe_ratio": 20.72,
         "forward_return": 6.2,
         "start_price": 13.4,
         "start_year": 2011
@@ -16689,7 +15087,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 21.86,
+        "pe_ratio": 19.33,
         "forward_return": 6.41,
         "start_price": 12.95,
         "start_year": 2011
@@ -16698,7 +15096,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 22.29,
+        "pe_ratio": 21.44,
         "forward_return": 7.05,
         "start_price": 13.15,
         "start_year": 2011
@@ -16707,7 +15105,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 22.21,
+        "pe_ratio": 23.44,
         "forward_return": 5.92,
         "start_price": 13.05,
         "start_year": 2011
@@ -16716,7 +15114,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 24.7,
         "forward_return": 6.64,
         "start_price": 12.35,
         "start_year": 2011
@@ -16725,7 +15123,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 21.12,
+        "pe_ratio": 30.5,
         "forward_return": 7.2,
         "start_price": 12.3,
         "start_year": 2011
@@ -16734,7 +15132,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.76,
+        "pe_ratio": 33.59,
         "forward_return": 8.73,
         "start_price": 10.3,
         "start_year": 2011
@@ -16743,7 +15141,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.4,
+        "pe_ratio": 47.86,
         "forward_return": 8.96,
         "start_price": 10.05,
         "start_year": 2011
@@ -16752,7 +15150,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 30.45,
         "forward_return": 8.98,
         "start_price": 10.05,
         "start_year": 2011
@@ -16761,7 +15159,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 17.45,
+        "pe_ratio": 22.2,
         "forward_return": 9.11,
         "start_price": 9.99,
         "start_year": 2011
@@ -16779,7 +15177,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 17.14,
         "forward_return": 10.28,
         "start_price": 10.0,
         "start_year": 2012
@@ -16788,7 +15186,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 23.3,
+        "pe_ratio": 18.35,
         "forward_return": 11.96,
         "start_price": 10.95,
         "start_year": 2012
@@ -16797,7 +15195,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 24.88,
+        "pe_ratio": 17.13,
         "forward_return": 12.59,
         "start_price": 10.45,
         "start_year": 2012
@@ -16806,7 +15204,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 27.57,
+        "pe_ratio": 15.85,
         "forward_return": 11.6,
         "start_price": 10.2,
         "start_year": 2012
@@ -16815,7 +15213,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 14.69,
         "forward_return": 12.99,
         "start_price": 9.94,
         "start_year": 2012
@@ -16824,7 +15222,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 36.74,
+        "pe_ratio": 13.97,
         "forward_return": 12.34,
         "start_price": 9.92,
         "start_year": 2012
@@ -16833,7 +15231,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 45.32,
+        "pe_ratio": 13.6,
         "forward_return": 13.95,
         "start_price": 9.97,
         "start_year": 2012
@@ -16842,7 +15240,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 59.12,
+        "pe_ratio": 13.28,
         "forward_return": 13.26,
         "start_price": 10.05,
         "start_year": 2012
@@ -16851,7 +15249,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 107.5,
+        "pe_ratio": 16.54,
         "forward_return": 8.88,
         "start_price": 12.9,
         "start_year": 2012
@@ -16860,7 +15258,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 157.9,
+        "pe_ratio": 21.67,
         "forward_return": 10.43,
         "start_price": 11.05,
         "start_year": 2012
@@ -16869,7 +15267,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 625.0,
+        "pe_ratio": 52.08,
         "forward_return": 10.1,
         "start_price": 12.5,
         "start_year": 2012
@@ -16877,89 +15275,8 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2013-01-16",
-        "pe_ratio": 1007.0,
-        "forward_return": 11.24,
-        "start_price": 11.75,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-02-14",
-        "pe_ratio": 216.6,
-        "forward_return": 11.37,
-        "start_price": 11.55,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-03-16",
-        "pe_ratio": 131.0,
-        "forward_return": 12.13,
-        "start_price": 12.45,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-04-15",
-        "pe_ratio": 89.27,
-        "forward_return": 12.87,
-        "start_price": 12.2,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-05-16",
-        "pe_ratio": 74.58,
-        "forward_return": 11.59,
-        "start_price": 13.3,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-06-15",
-        "pe_ratio": 59.77,
-        "forward_return": 12.4,
-        "start_price": 13.15,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-07-16",
-        "pe_ratio": 49.49,
-        "forward_return": 14.14,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-08-16",
-        "pe_ratio": 42.36,
-        "forward_return": 14.71,
-        "start_price": 12.85,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2013-09-15",
-        "pe_ratio": 37.54,
-        "forward_return": 13.47,
-        "start_price": 12.95,
-        "start_year": 2013
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 33.1,
+        "pe_ratio": 153.6,
         "forward_return": 12.73,
         "start_price": 12.8,
         "start_year": 2013
@@ -16968,7 +15285,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 46.27,
         "forward_return": 14.58,
         "start_price": 12.8,
         "start_year": 2013
@@ -16986,7 +15303,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 23.81,
+        "pe_ratio": 21.51,
         "forward_return": 13.17,
         "start_price": 14.05,
         "start_year": 2014
@@ -16995,7 +15312,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.41,
+        "pe_ratio": 22.41,
         "forward_return": 9.96,
         "start_price": 18.75,
         "start_year": 2014
@@ -17004,7 +15321,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 23.13,
+        "pe_ratio": 18.82,
         "forward_return": 15.52,
         "start_price": 19.2,
         "start_year": 2014
@@ -17013,7 +15330,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 20.32,
+        "pe_ratio": 19.97,
         "forward_return": 19.09,
         "start_price": 19.3,
         "start_year": 2014
@@ -17022,7 +15339,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 24.09,
         "forward_return": 23.65,
         "start_price": 22.0,
         "start_year": 2014
@@ -17031,7 +15348,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 16.6,
+        "pe_ratio": 22.97,
         "forward_return": 24.36,
         "start_price": 19.75,
         "start_year": 2014
@@ -17040,7 +15357,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 16.38,
         "forward_return": 24.51,
         "start_price": 17.25,
         "start_year": 2014
@@ -17049,7 +15366,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 12.45,
+        "pe_ratio": 14.28,
         "forward_return": 25.24,
         "start_price": 17.8,
         "start_year": 2014
@@ -17058,7 +15375,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 12.06,
+        "pe_ratio": 12.99,
         "forward_return": 23.98,
         "start_price": 18.7,
         "start_year": 2014
@@ -17067,7 +15384,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.65,
         "forward_return": 23.29,
         "start_price": 18.6,
         "start_year": 2014
@@ -17076,7 +15393,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 10.2,
+        "pe_ratio": 10.41,
         "forward_return": 23.65,
         "start_price": 18.25,
         "start_year": 2014
@@ -17094,7 +15411,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 9.72,
+        "pe_ratio": 10.21,
         "forward_return": 23.23,
         "start_price": 18.75,
         "start_year": 2015
@@ -17103,7 +15420,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 9.41,
+        "pe_ratio": 10.41,
         "forward_return": 24.75,
         "start_price": 18.35,
         "start_year": 2015
@@ -17112,7 +15429,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 12.34,
         "forward_return": 21.52,
         "start_price": 20.85,
         "start_year": 2015
@@ -17121,7 +15438,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 10.1,
+        "pe_ratio": 11.46,
         "forward_return": 21.63,
         "start_price": 20.1,
         "start_year": 2015
@@ -17130,7 +15447,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 8.96,
+        "pe_ratio": 9.91,
         "forward_return": 23.86,
         "start_price": 18.0,
         "start_year": 2015
@@ -17139,7 +15456,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 8.28,
+        "pe_ratio": 8.94,
         "forward_return": 24.22,
         "start_price": 16.8,
         "start_year": 2015
@@ -17148,7 +15465,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 7.05,
+        "pe_ratio": 7.87,
         "forward_return": 26.19,
         "start_price": 14.45,
         "start_year": 2015
@@ -17157,7 +15474,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 6.76,
+        "pe_ratio": 7.81,
         "forward_return": 28.17,
         "start_price": 14.0,
         "start_year": 2015
@@ -17166,7 +15483,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 6.58,
+        "pe_ratio": 7.86,
         "forward_return": 27.2,
         "start_price": 13.75,
         "start_year": 2015
@@ -17175,7 +15492,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 6.78,
+        "pe_ratio": 7.59,
         "forward_return": 25.8,
         "start_price": 14.3,
         "start_year": 2015
@@ -17184,7 +15501,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 6.88,
+        "pe_ratio": 7.26,
         "forward_return": 25.67,
         "start_price": 14.65,
         "start_year": 2015
@@ -17202,7 +15519,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.0,
+        "pe_ratio": 8.04,
         "forward_return": 24.13,
         "start_price": 16.4,
         "start_year": 2016
@@ -17409,7 +15726,7 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 6.8倍、11.0倍、18.1倍、32.0倍、109.1倍"
+!!! note "本益比河流帶水位: 7.2倍、10.0倍、14.7倍、26.3倍、91.7倍"
 
 ```vegalite
 {
@@ -17420,2392 +15737,2182 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "date": "2006-03-16",
         "price": 5.66,
-        "pe": 2.12,
-        "pe_10": 18.29,
-        "pe_25": 29.41,
-        "pe_50": 48.27,
-        "pe_75": 85.43,
-        "pe_90": 291.17
+        "pe": 1.8,
+        "pe_10": 22.8,
+        "pe_25": 31.37,
+        "pe_50": 46.21,
+        "pe_75": 82.66,
+        "pe_90": 288.18
       },
       {
         "date": "2006-04-15",
         "price": 7.2,
-        "pe": 2.7,
-        "pe_10": 18.27,
-        "pe_25": 29.37,
-        "pe_50": 48.21,
-        "pe_75": 85.33,
-        "pe_90": 290.83
+        "pe": 2.43,
+        "pe_10": 21.48,
+        "pe_25": 29.56,
+        "pe_50": 43.54,
+        "pe_75": 77.89,
+        "pe_90": 271.55
       },
       {
         "date": "2006-05-16",
         "price": 11.3,
-        "pe": 4.23,
-        "pe_10": 18.3,
-        "pe_25": 29.43,
-        "pe_50": 48.3,
-        "pe_75": 85.48,
-        "pe_90": 291.34
+        "pe": 4.06,
+        "pe_10": 20.18,
+        "pe_25": 27.77,
+        "pe_50": 40.9,
+        "pe_75": 73.16,
+        "pe_90": 255.08
       },
       {
         "date": "2006-06-15",
         "price": 9.3,
-        "pe": 3.48,
-        "pe_10": 18.31,
-        "pe_25": 29.44,
-        "pe_50": 48.32,
-        "pe_75": 85.52,
-        "pe_90": 291.45
+        "pe": 3.58,
+        "pe_10": 18.84,
+        "pe_25": 25.92,
+        "pe_50": 38.17,
+        "pe_75": 68.29,
+        "pe_90": 238.08
       },
       {
         "date": "2006-07-16",
         "price": 9.09,
-        "pe": 3.4,
-        "pe_10": 18.32,
-        "pe_25": 29.45,
-        "pe_50": 48.34,
-        "pe_75": 85.55,
-        "pe_90": 291.58
+        "pe": 3.59,
+        "pe_10": 18.36,
+        "pe_25": 25.26,
+        "pe_50": 37.21,
+        "pe_75": 66.56,
+        "pe_90": 232.06
       },
       {
         "date": "2006-08-16",
         "price": 8.24,
-        "pe": 3.09,
-        "pe_10": 18.27,
-        "pe_25": 29.37,
-        "pe_50": 48.21,
-        "pe_75": 85.33,
-        "pe_90": 290.83
+        "pe": 3.34,
+        "pe_10": 17.89,
+        "pe_25": 24.62,
+        "pe_50": 36.25,
+        "pe_75": 64.85,
+        "pe_90": 226.1
       },
       {
         "date": "2006-09-15",
         "price": 8.13,
-        "pe": 3.04,
-        "pe_10": 18.32,
-        "pe_25": 29.46,
-        "pe_50": 48.35,
-        "pe_75": 85.58,
-        "pe_90": 291.66
+        "pe": 3.39,
+        "pe_10": 17.39,
+        "pe_25": 23.93,
+        "pe_50": 35.24,
+        "pe_75": 63.04,
+        "pe_90": 219.79
       },
       {
         "date": "2006-10-16",
         "price": 10.0,
-        "pe": 3.75,
-        "pe_10": 18.27,
-        "pe_25": 29.37,
-        "pe_50": 48.21,
-        "pe_75": 85.33,
-        "pe_90": 290.83
+        "pe": 4.02,
+        "pe_10": 18.04,
+        "pe_25": 24.82,
+        "pe_50": 36.55,
+        "pe_75": 65.39,
+        "pe_90": 227.98
       },
       {
         "date": "2006-11-15",
         "price": 11.4,
-        "pe": 4.27,
-        "pe_10": 18.29,
-        "pe_25": 29.41,
-        "pe_50": 48.27,
-        "pe_75": 85.43,
-        "pe_90": 291.17
+        "pe": 4.42,
+        "pe_10": 18.7,
+        "pe_25": 25.73,
+        "pe_50": 37.9,
+        "pe_75": 67.8,
+        "pe_90": 236.38
       },
       {
         "date": "2006-12-16",
         "price": 10.45,
         "pe": 3.91,
-        "pe_10": 18.31,
-        "pe_25": 29.44,
-        "pe_50": 48.32,
-        "pe_75": 85.52,
-        "pe_90": 291.48
+        "pe_10": 19.38,
+        "pe_25": 26.67,
+        "pe_50": 39.27,
+        "pe_75": 70.26,
+        "pe_90": 244.94
       },
       {
         "date": "2007-01-16",
         "price": 10.55,
-        "pe": 3.79,
-        "pe_10": 19.07,
-        "pe_25": 30.66,
-        "pe_50": 50.33,
-        "pe_75": 89.08,
-        "pe_90": 303.58
+        "pe": 5.49,
+        "pe_10": 13.93,
+        "pe_25": 19.17,
+        "pe_50": 28.24,
+        "pe_75": 50.52,
+        "pe_90": 176.12
       },
       {
         "date": "2007-02-14",
         "price": 10.25,
-        "pe": 3.54,
-        "pe_10": 19.84,
-        "pe_25": 31.89,
-        "pe_50": 52.35,
-        "pe_75": 92.66,
-        "pe_90": 315.78
+        "pe": 8.76,
+        "pe_10": 8.48,
+        "pe_25": 11.67,
+        "pe_50": 17.19,
+        "pe_75": 30.76,
+        "pe_90": 107.24
       },
       {
         "date": "2007-03-16",
         "price": 13.2,
-        "pe": 4.39,
-        "pe_10": 20.6,
-        "pe_25": 33.12,
-        "pe_50": 54.36,
-        "pe_75": 96.22,
-        "pe_90": 327.93
+        "pe": 31.43,
+        "pe_10": 3.05,
+        "pe_25": 4.19,
+        "pe_50": 6.17,
+        "pe_75": 11.04,
+        "pe_90": 38.49
       },
       {
         "date": "2007-04-15",
         "price": 12.9,
-        "pe": 4.14,
-        "pe_10": 21.35,
-        "pe_25": 34.32,
-        "pe_50": 56.34,
-        "pe_75": 99.71,
-        "pe_90": 339.82
+        "pe": 9.97,
+        "pe_10": 9.38,
+        "pe_25": 12.91,
+        "pe_50": 19.01,
+        "pe_75": 34.01,
+        "pe_90": 118.58
       },
       {
         "date": "2007-05-16",
         "price": 14.7,
-        "pe": 4.55,
-        "pe_10": 22.14,
-        "pe_25": 35.59,
-        "pe_50": 58.41,
-        "pe_75": 103.38,
-        "pe_90": 352.35
+        "pe": 6.78,
+        "pe_10": 15.72,
+        "pe_25": 21.63,
+        "pe_50": 31.86,
+        "pe_75": 57.0,
+        "pe_90": 198.71
       },
       {
         "date": "2007-06-15",
         "price": 21.3,
-        "pe": 6.38,
-        "pe_10": 22.88,
-        "pe_25": 36.77,
-        "pe_50": 60.36,
-        "pe_75": 106.83,
-        "pe_90": 364.1
+        "pe": 7.01,
+        "pe_10": 22.03,
+        "pe_25": 30.32,
+        "pe_50": 44.65,
+        "pe_75": 79.88,
+        "pe_90": 278.47
       },
       {
         "date": "2007-07-16",
         "price": 23.7,
-        "pe": 6.87,
-        "pe_10": 23.64,
-        "pe_25": 38.0,
-        "pe_50": 62.37,
-        "pe_75": 110.39,
-        "pe_90": 376.23
+        "pe": 7.28,
+        "pe_10": 23.61,
+        "pe_25": 32.48,
+        "pe_50": 47.84,
+        "pe_75": 85.58,
+        "pe_90": 298.36
       },
       {
         "date": "2007-08-16",
         "price": 27.4,
-        "pe": 7.69,
-        "pe_10": 24.41,
-        "pe_25": 39.25,
-        "pe_50": 64.42,
-        "pe_75": 114.02,
-        "pe_90": 388.59
+        "pe": 7.89,
+        "pe_10": 25.18,
+        "pe_25": 34.65,
+        "pe_50": 51.03,
+        "pe_75": 91.29,
+        "pe_90": 318.27
       },
       {
         "date": "2007-09-15",
         "price": 28.8,
-        "pe": 7.84,
-        "pe_10": 25.17,
-        "pe_25": 40.46,
-        "pe_50": 66.42,
-        "pe_75": 117.55,
-        "pe_90": 400.63
+        "pe": 7.8,
+        "pe_10": 26.77,
+        "pe_25": 36.84,
+        "pe_50": 54.26,
+        "pe_75": 97.06,
+        "pe_90": 338.39
       },
       {
         "date": "2007-10-16",
         "price": 27.2,
-        "pe": 7.18,
-        "pe_10": 25.96,
-        "pe_25": 41.73,
-        "pe_50": 68.49,
-        "pe_75": 121.23,
-        "pe_90": 413.15
+        "pe": 7.16,
+        "pe_10": 27.55,
+        "pe_25": 37.9,
+        "pe_50": 55.82,
+        "pe_75": 99.86,
+        "pe_90": 348.16
       },
       {
         "date": "2007-11-15",
         "price": 21.05,
-        "pe": 5.4,
-        "pe_10": 26.71,
-        "pe_25": 42.94,
-        "pe_50": 70.48,
-        "pe_75": 124.74,
-        "pe_90": 425.13
+        "pe": 5.39,
+        "pe_10": 28.32,
+        "pe_25": 38.97,
+        "pe_50": 57.39,
+        "pe_75": 102.66,
+        "pe_90": 357.92
       },
       {
         "date": "2007-12-16",
         "price": 19.3,
         "pe": 4.81,
-        "pe_10": 27.49,
-        "pe_25": 44.2,
-        "pe_50": 72.55,
-        "pe_75": 128.4,
-        "pe_90": 437.6
+        "pe_10": 29.09,
+        "pe_25": 40.03,
+        "pe_50": 58.96,
+        "pe_75": 105.48,
+        "pe_90": 367.74
       },
       {
         "date": "2008-01-16",
         "price": 17.15,
-        "pe": 4.66,
-        "pe_10": 25.22,
-        "pe_25": 40.54,
-        "pe_50": 66.54,
-        "pe_75": 117.77,
-        "pe_90": 401.37
+        "pe": 4.73,
+        "pe_10": 26.29,
+        "pe_25": 36.18,
+        "pe_50": 53.28,
+        "pe_75": 95.31,
+        "pe_90": 332.3
       },
       {
         "date": "2008-02-15",
         "price": 20.1,
-        "pe": 6.01,
-        "pe_10": 22.92,
-        "pe_25": 36.84,
-        "pe_50": 60.47,
-        "pe_75": 107.02,
-        "pe_90": 364.74
+        "pe": 6.2,
+        "pe_10": 23.51,
+        "pe_25": 32.35,
+        "pe_50": 47.64,
+        "pe_75": 85.22,
+        "pe_90": 297.12
       },
       {
         "date": "2008-03-16",
         "price": 20.4,
-        "pe": 6.77,
-        "pe_10": 20.65,
-        "pe_25": 33.19,
-        "pe_50": 54.48,
-        "pe_75": 96.43,
-        "pe_90": 328.63
+        "pe": 7.13,
+        "pe_10": 20.75,
+        "pe_25": 28.55,
+        "pe_50": 42.04,
+        "pe_75": 75.21,
+        "pe_90": 262.22
       },
       {
         "date": "2008-04-15",
         "price": 18.45,
-        "pe": 6.88,
-        "pe_10": 18.37,
-        "pe_25": 29.54,
-        "pe_50": 48.48,
-        "pe_75": 85.81,
-        "pe_90": 292.46
+        "pe": 7.71,
+        "pe_10": 17.35,
+        "pe_25": 23.88,
+        "pe_50": 35.17,
+        "pe_75": 62.91,
+        "pe_90": 219.31
       },
       {
         "date": "2008-05-16",
         "price": 22.0,
-        "pe": 9.37,
-        "pe_10": 16.09,
-        "pe_25": 25.86,
-        "pe_50": 42.45,
-        "pe_75": 75.13,
-        "pe_90": 256.06
+        "pe": 11.42,
+        "pe_10": 13.97,
+        "pe_25": 19.22,
+        "pe_50": 28.31,
+        "pe_75": 50.64,
+        "pe_90": 176.55
       },
       {
         "date": "2008-06-15",
         "price": 14.6,
-        "pe": 7.25,
-        "pe_10": 13.8,
-        "pe_25": 22.18,
-        "pe_50": 36.41,
-        "pe_75": 64.44,
-        "pe_90": 219.62
+        "pe": 10.0,
+        "pe_10": 10.59,
+        "pe_25": 14.57,
+        "pe_50": 21.45,
+        "pe_75": 38.38,
+        "pe_90": 133.81
       },
       {
         "date": "2008-07-16",
         "price": 13.1,
-        "pe": 7.79,
-        "pe_10": 11.52,
-        "pe_25": 18.52,
-        "pe_50": 30.4,
-        "pe_75": 53.81,
-        "pe_90": 183.4
+        "pe": 10.29,
+        "pe_10": 9.23,
+        "pe_25": 12.7,
+        "pe_50": 18.71,
+        "pe_75": 33.47,
+        "pe_90": 116.68
       },
       {
         "date": "2008-08-16",
         "price": 13.1,
-        "pe": 9.7,
-        "pe_10": 9.25,
-        "pe_25": 14.88,
-        "pe_50": 24.42,
-        "pe_75": 43.22,
-        "pe_90": 147.29
+        "pe": 12.06,
+        "pe_10": 7.88,
+        "pe_25": 10.84,
+        "pe_50": 15.96,
+        "pe_75": 28.55,
+        "pe_90": 99.55
       },
       {
         "date": "2008-09-15",
         "price": 7.91,
-        "pe": 7.77,
-        "pe_10": 6.98,
-        "pe_25": 11.21,
-        "pe_50": 18.41,
-        "pe_75": 32.58,
-        "pe_90": 111.03
+        "pe": 8.79,
+        "pe_10": 6.53,
+        "pe_25": 8.98,
+        "pe_50": 13.22,
+        "pe_75": 23.66,
+        "pe_90": 82.47
       },
       {
         "date": "2008-10-16",
         "price": 7.95,
-        "pe": 11.61,
-        "pe_10": 4.69,
-        "pe_25": 7.54,
-        "pe_50": 12.38,
-        "pe_75": 21.91,
-        "pe_90": 74.68
+        "pe": 13.1,
+        "pe_10": 4.4,
+        "pe_25": 6.06,
+        "pe_50": 8.92,
+        "pe_75": 15.95,
+        "pe_90": 55.62
       },
       {
         "date": "2008-11-15",
         "price": 6.74,
-        "pe": 19.12,
-        "pe_10": 2.42,
-        "pe_25": 3.88,
-        "pe_50": 6.37,
-        "pe_75": 11.28,
-        "pe_90": 38.44
+        "pe": 21.51,
+        "pe_10": 2.27,
+        "pe_25": 3.13,
+        "pe_50": 4.6,
+        "pe_75": 8.24,
+        "pe_90": 28.72
       },
       {
         "date": "2008-12-16",
         "price": 6.45,
         "pe": 322.5,
-        "pe_10": 0.14,
-        "pe_25": 0.22,
-        "pe_50": 0.36,
-        "pe_75": 0.64,
-        "pe_90": 2.18
-      },
-      {
-        "date": "2009-01-16",
-        "price": 5.77,
-        "pe": 70.65,
-        "pe_10": 0.56,
-        "pe_25": 0.9,
-        "pe_50": 1.48,
-        "pe_75": 2.61,
-        "pe_90": 8.91
-      },
-      {
-        "date": "2009-02-14",
-        "price": 7.39,
-        "pe": 51.56,
-        "pe_10": 0.98,
-        "pe_25": 1.58,
-        "pe_50": 2.59,
-        "pe_75": 4.59,
-        "pe_90": 15.63
-      },
-      {
-        "date": "2009-03-16",
-        "price": 8.45,
-        "pe": 41.22,
-        "pe_10": 1.4,
-        "pe_25": 2.26,
-        "pe_50": 3.71,
-        "pe_75": 6.56,
-        "pe_90": 22.36
-      },
-      {
-        "date": "2009-04-15",
-        "price": 8.74,
-        "pe": 32.78,
-        "pe_10": 1.83,
-        "pe_25": 2.94,
-        "pe_50": 4.82,
-        "pe_75": 8.53,
-        "pe_90": 29.08
-      },
-      {
-        "date": "2009-05-16",
-        "price": 8.9,
-        "pe": 27.11,
-        "pe_10": 2.25,
-        "pe_25": 3.62,
-        "pe_50": 5.94,
-        "pe_75": 10.51,
-        "pe_90": 35.8
-      },
-      {
-        "date": "2009-06-15",
-        "price": 9.13,
-        "pe": 23.41,
-        "pe_10": 2.67,
-        "pe_25": 4.3,
-        "pe_50": 7.05,
-        "pe_75": 12.48,
-        "pe_90": 42.53
-      },
-      {
-        "date": "2009-07-16",
-        "price": 13.2,
-        "pe": 29.23,
-        "pe_10": 3.09,
-        "pe_25": 4.97,
-        "pe_50": 8.16,
-        "pe_75": 14.45,
-        "pe_90": 49.25
-      },
-      {
-        "date": "2009-08-16",
-        "price": 11.65,
-        "pe": 22.69,
-        "pe_10": 3.52,
-        "pe_25": 5.66,
-        "pe_50": 9.28,
-        "pe_75": 16.43,
-        "pe_90": 56.0
-      },
-      {
-        "date": "2009-09-15",
-        "price": 12.75,
-        "pe": 22.17,
-        "pe_10": 3.94,
-        "pe_25": 6.33,
-        "pe_50": 10.4,
-        "pe_75": 18.4,
-        "pe_90": 62.72
+        "pe_10": 0.15,
+        "pe_25": 0.2,
+        "pe_50": 0.29,
+        "pe_75": 0.53,
+        "pe_90": 1.83
       },
       {
         "date": "2009-10-16",
         "price": 13.55,
-        "pe": 21.28,
-        "pe_10": 4.36,
-        "pe_25": 7.01,
-        "pe_50": 11.51,
-        "pe_75": 20.38,
-        "pe_90": 69.44
+        "pe": 81.3,
+        "pe_10": 1.21,
+        "pe_25": 1.66,
+        "pe_50": 2.45,
+        "pe_75": 4.38,
+        "pe_90": 15.27
       },
       {
         "date": "2009-11-15",
         "price": 13.95,
-        "pe": 19.98,
-        "pe_10": 4.78,
-        "pe_25": 7.69,
-        "pe_50": 12.62,
-        "pe_75": 22.34,
-        "pe_90": 76.15
+        "pe": 30.11,
+        "pe_10": 3.36,
+        "pe_25": 4.62,
+        "pe_50": 6.81,
+        "pe_75": 12.18,
+        "pe_90": 42.46
       },
       {
         "date": "2009-12-16",
         "price": 16.2,
         "pe": 21.32,
-        "pe_10": 5.21,
-        "pe_25": 8.37,
-        "pe_50": 13.74,
-        "pe_75": 24.32,
-        "pe_90": 82.87
+        "pe_10": 5.51,
+        "pe_25": 7.58,
+        "pe_50": 11.17,
+        "pe_75": 19.97,
+        "pe_90": 69.64
       },
       {
         "date": "2010-01-16",
         "price": 13.05,
-        "pe": 17.48,
-        "pe_10": 5.12,
-        "pe_25": 8.22,
-        "pe_50": 13.5,
-        "pe_75": 23.89,
-        "pe_90": 81.42
+        "pe": 14.13,
+        "pe_10": 6.7,
+        "pe_25": 9.21,
+        "pe_50": 13.57,
+        "pe_75": 24.28,
+        "pe_90": 84.64
       },
       {
         "date": "2010-02-14",
         "price": 13.1,
-        "pe": 17.86,
-        "pe_10": 5.03,
-        "pe_25": 8.08,
-        "pe_50": 13.26,
-        "pe_75": 23.47,
-        "pe_90": 79.99
+        "pe": 12.06,
+        "pe_10": 7.88,
+        "pe_25": 10.84,
+        "pe_50": 15.96,
+        "pe_75": 28.55,
+        "pe_90": 99.55
       },
       {
         "date": "2010-03-16",
         "price": 14.5,
-        "pe": 20.14,
-        "pe_10": 4.93,
-        "pe_25": 7.93,
-        "pe_50": 13.02,
-        "pe_75": 23.04,
-        "pe_90": 78.52
+        "pe": 11.6,
+        "pe_10": 9.06,
+        "pe_25": 12.47,
+        "pe_50": 18.37,
+        "pe_75": 32.86,
+        "pe_90": 114.56
       },
       {
         "date": "2010-04-15",
         "price": 14.65,
-        "pe": 20.73,
-        "pe_10": 4.84,
-        "pe_25": 7.78,
-        "pe_50": 12.78,
-        "pe_75": 22.61,
-        "pe_90": 77.07
+        "pe": 12.89,
+        "pe_10": 8.24,
+        "pe_25": 11.34,
+        "pe_50": 16.7,
+        "pe_75": 29.88,
+        "pe_90": 104.16
       },
       {
         "date": "2010-05-16",
         "price": 12.9,
-        "pe": 18.61,
-        "pe_10": 4.75,
-        "pe_25": 7.64,
-        "pe_50": 12.53,
-        "pe_75": 22.18,
-        "pe_90": 75.6
+        "pe": 12.61,
+        "pe_10": 7.42,
+        "pe_25": 10.21,
+        "pe_50": 15.03,
+        "pe_75": 26.89,
+        "pe_90": 93.76
       },
       {
         "date": "2010-06-15",
         "price": 13.3,
-        "pe": 19.56,
-        "pe_10": 4.66,
-        "pe_25": 7.49,
-        "pe_50": 12.29,
-        "pe_75": 21.76,
-        "pe_90": 74.16
+        "pe": 14.62,
+        "pe_10": 6.6,
+        "pe_25": 9.08,
+        "pe_50": 13.37,
+        "pe_75": 23.91,
+        "pe_90": 83.37
       },
       {
         "date": "2010-07-16",
         "price": 14.1,
-        "pe": 21.15,
-        "pe_10": 4.57,
-        "pe_25": 7.34,
-        "pe_50": 12.05,
-        "pe_75": 21.33,
-        "pe_90": 72.71
+        "pe": 14.01,
+        "pe_10": 7.3,
+        "pe_25": 10.04,
+        "pe_50": 14.79,
+        "pe_75": 26.46,
+        "pe_90": 92.24
       },
       {
         "date": "2010-08-16",
         "price": 13.35,
-        "pe": 20.43,
-        "pe_10": 4.48,
-        "pe_25": 7.2,
-        "pe_50": 11.81,
-        "pe_75": 20.91,
-        "pe_90": 71.27
+        "pe": 12.1,
+        "pe_10": 8.0,
+        "pe_25": 11.01,
+        "pe_50": 16.21,
+        "pe_75": 29.0,
+        "pe_90": 101.12
       },
       {
         "date": "2010-09-15",
         "price": 15.05,
-        "pe": 23.52,
-        "pe_10": 4.38,
-        "pe_25": 7.05,
-        "pe_50": 11.57,
-        "pe_75": 20.48,
-        "pe_90": 69.79
+        "pe": 12.54,
+        "pe_10": 8.7,
+        "pe_25": 11.97,
+        "pe_50": 17.64,
+        "pe_75": 31.55,
+        "pe_90": 109.99
       },
       {
         "date": "2010-10-16",
         "price": 14.65,
-        "pe": 23.38,
-        "pe_10": 4.29,
-        "pe_25": 6.9,
-        "pe_50": 11.33,
-        "pe_75": 20.05,
-        "pe_90": 68.34
+        "pe": 14.65,
+        "pe_10": 7.25,
+        "pe_25": 9.98,
+        "pe_50": 14.7,
+        "pe_75": 26.29,
+        "pe_90": 91.65
       },
       {
         "date": "2010-11-15",
         "price": 14.4,
-        "pe": 23.48,
-        "pe_10": 4.2,
-        "pe_25": 6.76,
-        "pe_50": 11.09,
-        "pe_75": 19.63,
-        "pe_90": 66.89
+        "pe": 18.0,
+        "pe_10": 5.8,
+        "pe_25": 7.98,
+        "pe_50": 11.76,
+        "pe_75": 21.03,
+        "pe_90": 73.32
       },
       {
         "date": "2010-12-16",
         "price": 14.4,
         "pe": 24.0,
-        "pe_10": 4.11,
-        "pe_25": 6.61,
-        "pe_50": 10.85,
-        "pe_75": 19.2,
-        "pe_90": 65.44
+        "pe_10": 4.35,
+        "pe_25": 5.99,
+        "pe_50": 8.82,
+        "pe_75": 15.77,
+        "pe_90": 54.99
       },
       {
         "date": "2011-01-16",
         "price": 14.3,
-        "pe": 23.93,
-        "pe_10": 4.09,
-        "pe_25": 6.58,
-        "pe_50": 10.8,
-        "pe_75": 19.12,
-        "pe_90": 65.17
+        "pe": 22.94,
+        "pe_10": 4.52,
+        "pe_25": 6.22,
+        "pe_50": 9.16,
+        "pe_75": 16.39,
+        "pe_90": 57.13
       },
       {
         "date": "2011-02-14",
         "price": 13.4,
-        "pe": 22.52,
-        "pe_10": 4.08,
-        "pe_25": 6.55,
-        "pe_50": 10.76,
-        "pe_75": 19.04,
-        "pe_90": 64.89
+        "pe": 20.72,
+        "pe_10": 4.69,
+        "pe_25": 6.45,
+        "pe_50": 9.5,
+        "pe_75": 17.0,
+        "pe_90": 59.27
       },
       {
         "date": "2011-03-16",
         "price": 12.95,
-        "pe": 21.86,
-        "pe_10": 4.06,
-        "pe_25": 6.53,
-        "pe_50": 10.71,
-        "pe_75": 18.96,
-        "pe_90": 64.61
+        "pe": 19.33,
+        "pe_10": 4.86,
+        "pe_25": 6.68,
+        "pe_50": 9.84,
+        "pe_75": 17.61,
+        "pe_90": 61.4
       },
       {
         "date": "2011-04-15",
         "price": 13.15,
-        "pe": 22.29,
-        "pe_10": 4.04,
-        "pe_25": 6.5,
-        "pe_50": 10.67,
-        "pe_75": 18.88,
-        "pe_90": 64.34
+        "pe": 21.44,
+        "pe_10": 4.45,
+        "pe_25": 6.12,
+        "pe_50": 9.01,
+        "pe_75": 16.12,
+        "pe_90": 56.21
       },
       {
         "date": "2011-05-16",
         "price": 13.05,
-        "pe": 22.21,
-        "pe_10": 4.03,
-        "pe_25": 6.47,
-        "pe_50": 10.62,
-        "pe_75": 18.8,
-        "pe_90": 64.08
+        "pe": 23.44,
+        "pe_10": 4.04,
+        "pe_25": 5.55,
+        "pe_50": 8.18,
+        "pe_75": 14.64,
+        "pe_90": 51.02
       },
       {
         "date": "2011-06-15",
         "price": 12.35,
-        "pe": 21.11,
-        "pe_10": 4.01,
-        "pe_25": 6.44,
-        "pe_50": 10.58,
-        "pe_75": 18.72,
-        "pe_90": 63.8
+        "pe": 24.7,
+        "pe_10": 3.63,
+        "pe_25": 4.99,
+        "pe_50": 7.35,
+        "pe_75": 13.14,
+        "pe_90": 45.82
       },
       {
         "date": "2011-07-16",
         "price": 12.3,
-        "pe": 21.12,
-        "pe_10": 3.99,
-        "pe_25": 6.41,
-        "pe_50": 10.53,
-        "pe_75": 18.64,
-        "pe_90": 63.52
+        "pe": 30.5,
+        "pe_10": 2.92,
+        "pe_25": 4.02,
+        "pe_50": 5.93,
+        "pe_75": 10.6,
+        "pe_90": 36.96
       },
       {
         "date": "2011-08-16",
         "price": 10.3,
-        "pe": 17.76,
-        "pe_10": 3.97,
-        "pe_25": 6.39,
-        "pe_50": 10.49,
-        "pe_75": 18.56,
-        "pe_90": 63.25
+        "pe": 33.59,
+        "pe_10": 2.22,
+        "pe_25": 3.06,
+        "pe_50": 4.51,
+        "pe_75": 8.06,
+        "pe_90": 28.1
       },
       {
         "date": "2011-09-15",
         "price": 10.05,
-        "pe": 17.4,
-        "pe_10": 3.96,
-        "pe_25": 6.36,
-        "pe_50": 10.44,
-        "pe_75": 18.48,
-        "pe_90": 62.99
+        "pe": 47.86,
+        "pe_10": 1.52,
+        "pe_25": 2.1,
+        "pe_50": 3.09,
+        "pe_75": 5.52,
+        "pe_90": 19.24
       },
       {
         "date": "2011-10-16",
         "price": 10.05,
-        "pe": 17.48,
-        "pe_10": 3.94,
-        "pe_25": 6.33,
-        "pe_50": 10.39,
-        "pe_75": 18.4,
-        "pe_90": 62.7
+        "pe": 30.45,
+        "pe_10": 2.39,
+        "pe_25": 3.29,
+        "pe_50": 4.85,
+        "pe_75": 8.68,
+        "pe_90": 30.25
       },
       {
         "date": "2011-11-15",
         "price": 9.99,
-        "pe": 17.45,
-        "pe_10": 3.92,
-        "pe_25": 6.31,
-        "pe_50": 10.35,
-        "pe_75": 18.32,
-        "pe_90": 62.44
+        "pe": 22.2,
+        "pe_10": 3.26,
+        "pe_25": 4.49,
+        "pe_50": 6.61,
+        "pe_75": 11.83,
+        "pe_90": 41.24
       },
       {
         "date": "2011-12-16",
         "price": 9.95,
         "pe": 17.46,
-        "pe_10": 3.9,
-        "pe_25": 6.28,
-        "pe_50": 10.3,
-        "pe_75": 18.24,
-        "pe_90": 62.15
+        "pe_10": 4.13,
+        "pe_25": 5.69,
+        "pe_50": 8.37,
+        "pe_75": 14.98,
+        "pe_90": 52.23
       },
       {
         "date": "2012-01-16",
         "price": 10.0,
-        "pe": 19.23,
-        "pe_10": 3.56,
-        "pe_25": 5.73,
-        "pe_50": 9.4,
-        "pe_75": 16.64,
-        "pe_90": 56.71
+        "pe": 17.14,
+        "pe_10": 4.23,
+        "pe_25": 5.82,
+        "pe_50": 8.57,
+        "pe_75": 15.34,
+        "pe_90": 53.47
       },
       {
         "date": "2012-02-15",
         "price": 10.95,
-        "pe": 23.3,
-        "pe_10": 3.22,
-        "pe_25": 5.18,
-        "pe_50": 8.5,
-        "pe_75": 15.04,
-        "pe_90": 51.25
+        "pe": 18.35,
+        "pe_10": 4.33,
+        "pe_25": 5.95,
+        "pe_50": 8.77,
+        "pe_75": 15.69,
+        "pe_90": 54.69
       },
       {
         "date": "2012-03-16",
         "price": 10.45,
-        "pe": 24.88,
-        "pe_10": 2.88,
-        "pe_25": 4.63,
-        "pe_50": 7.59,
-        "pe_75": 13.44,
-        "pe_90": 45.81
+        "pe": 17.13,
+        "pe_10": 4.42,
+        "pe_25": 6.09,
+        "pe_50": 8.96,
+        "pe_75": 16.04,
+        "pe_90": 55.91
       },
       {
         "date": "2012-04-15",
         "price": 10.2,
-        "pe": 27.57,
-        "pe_10": 2.54,
-        "pe_25": 4.08,
-        "pe_50": 6.69,
-        "pe_75": 11.84,
-        "pe_90": 40.35
+        "pe": 15.85,
+        "pe_10": 4.67,
+        "pe_25": 6.42,
+        "pe_50": 9.46,
+        "pe_75": 16.92,
+        "pe_90": 58.98
       },
       {
         "date": "2012-05-16",
         "price": 9.94,
-        "pe": 31.06,
-        "pe_10": 2.19,
-        "pe_25": 3.53,
-        "pe_50": 5.79,
-        "pe_75": 10.24,
-        "pe_90": 34.9
+        "pe": 14.69,
+        "pe_10": 4.91,
+        "pe_25": 6.75,
+        "pe_50": 9.94,
+        "pe_75": 17.79,
+        "pe_90": 62.01
       },
       {
         "date": "2012-06-15",
         "price": 9.92,
-        "pe": 36.74,
-        "pe_10": 1.85,
-        "pe_25": 2.97,
-        "pe_50": 4.88,
-        "pe_75": 8.64,
-        "pe_90": 29.45
+        "pe": 13.97,
+        "pe_10": 5.15,
+        "pe_25": 7.08,
+        "pe_50": 10.43,
+        "pe_75": 18.67,
+        "pe_90": 65.08
       },
       {
         "date": "2012-07-16",
         "price": 9.97,
-        "pe": 45.32,
-        "pe_10": 1.51,
-        "pe_25": 2.42,
-        "pe_50": 3.98,
-        "pe_75": 7.04,
-        "pe_90": 23.99
+        "pe": 13.6,
+        "pe_10": 5.32,
+        "pe_25": 7.31,
+        "pe_50": 10.77,
+        "pe_75": 19.27,
+        "pe_90": 67.19
       },
       {
         "date": "2012-08-16",
         "price": 10.05,
-        "pe": 59.12,
-        "pe_10": 1.16,
-        "pe_25": 1.87,
-        "pe_50": 3.07,
-        "pe_75": 5.44,
-        "pe_90": 18.54
+        "pe": 13.28,
+        "pe_10": 5.49,
+        "pe_25": 7.55,
+        "pe_50": 11.12,
+        "pe_75": 19.89,
+        "pe_90": 69.36
       },
       {
         "date": "2012-09-15",
         "price": 12.9,
-        "pe": 107.5,
-        "pe_10": 0.82,
-        "pe_25": 1.32,
-        "pe_50": 2.17,
-        "pe_75": 3.84,
-        "pe_90": 13.09
+        "pe": 16.54,
+        "pe_10": 5.66,
+        "pe_25": 7.78,
+        "pe_50": 11.46,
+        "pe_75": 20.5,
+        "pe_90": 71.48
       },
       {
         "date": "2012-10-16",
         "price": 11.05,
-        "pe": 157.9,
-        "pe_10": 0.48,
-        "pe_25": 0.77,
-        "pe_50": 1.27,
-        "pe_75": 2.24,
-        "pe_90": 7.63
+        "pe": 21.67,
+        "pe_10": 3.7,
+        "pe_25": 5.09,
+        "pe_50": 7.49,
+        "pe_75": 13.4,
+        "pe_90": 46.73
       },
       {
         "date": "2012-11-15",
         "price": 12.5,
-        "pe": 625.0,
-        "pe_10": 0.14,
-        "pe_25": 0.22,
-        "pe_50": 0.36,
-        "pe_75": 0.64,
-        "pe_90": 2.18
-      },
-      {
-        "date": "2013-01-16",
-        "price": 11.75,
-        "pe": 1007.0,
-        "pe_10": 0.08,
-        "pe_25": 0.13,
-        "pe_50": 0.21,
-        "pe_75": 0.37,
-        "pe_90": 1.27
-      },
-      {
-        "date": "2013-02-14",
-        "price": 11.55,
-        "pe": 216.6,
-        "pe_10": 0.37,
-        "pe_25": 0.59,
-        "pe_50": 0.96,
-        "pe_75": 1.71,
-        "pe_90": 5.82
-      },
-      {
-        "date": "2013-03-16",
-        "price": 12.45,
-        "pe": 131.0,
-        "pe_10": 0.65,
-        "pe_25": 1.05,
-        "pe_50": 1.72,
-        "pe_75": 3.04,
-        "pe_90": 10.36
-      },
-      {
-        "date": "2013-04-15",
-        "price": 12.2,
-        "pe": 89.27,
-        "pe_10": 0.94,
-        "pe_25": 1.51,
-        "pe_50": 2.47,
-        "pe_75": 4.37,
-        "pe_90": 14.9
-      },
-      {
-        "date": "2013-05-16",
-        "price": 13.3,
-        "pe": 74.58,
-        "pe_10": 1.22,
-        "pe_25": 1.96,
-        "pe_50": 3.22,
-        "pe_75": 5.71,
-        "pe_90": 19.45
-      },
-      {
-        "date": "2013-06-15",
-        "price": 13.15,
-        "pe": 59.77,
-        "pe_10": 1.51,
-        "pe_25": 2.42,
-        "pe_50": 3.98,
-        "pe_75": 7.04,
-        "pe_90": 23.99
-      },
-      {
-        "date": "2013-07-16",
-        "price": 12.95,
-        "pe": 49.49,
-        "pe_10": 1.79,
-        "pe_25": 2.88,
-        "pe_50": 4.73,
-        "pe_75": 8.37,
-        "pe_90": 28.54
-      },
-      {
-        "date": "2013-08-16",
-        "price": 12.85,
-        "pe": 42.36,
-        "pe_10": 2.08,
-        "pe_25": 3.34,
-        "pe_50": 5.48,
-        "pe_75": 9.71,
-        "pe_90": 33.08
-      },
-      {
-        "date": "2013-09-15",
-        "price": 12.95,
-        "pe": 37.54,
-        "pe_10": 2.36,
-        "pe_25": 3.8,
-        "pe_50": 6.24,
-        "pe_75": 11.04,
-        "pe_90": 37.62
+        "pe": 52.08,
+        "pe_10": 1.74,
+        "pe_25": 2.39,
+        "pe_50": 3.53,
+        "pe_75": 6.31,
+        "pe_90": 22.0
       },
       {
         "date": "2013-10-16",
         "price": 12.8,
-        "pe": 33.1,
-        "pe_10": 2.65,
-        "pe_25": 4.26,
-        "pe_50": 6.99,
-        "pe_75": 12.37,
-        "pe_90": 42.17
+        "pe": 153.6,
+        "pe_10": 0.6,
+        "pe_25": 0.83,
+        "pe_50": 1.22,
+        "pe_75": 2.19,
+        "pe_90": 7.64
       },
       {
         "date": "2013-11-15",
         "price": 12.8,
-        "pe": 29.88,
-        "pe_10": 2.94,
-        "pe_25": 4.72,
-        "pe_50": 7.75,
-        "pe_75": 13.71,
-        "pe_90": 46.72
+        "pe": 46.27,
+        "pe_10": 2.01,
+        "pe_25": 2.76,
+        "pe_50": 4.07,
+        "pe_75": 7.27,
+        "pe_90": 25.35
       },
       {
         "date": "2013-12-16",
         "price": 13.5,
         "pe": 28.72,
-        "pe_10": 3.22,
-        "pe_25": 5.18,
-        "pe_50": 8.5,
-        "pe_75": 15.04,
-        "pe_90": 51.26
+        "pe_10": 3.41,
+        "pe_25": 4.69,
+        "pe_50": 6.91,
+        "pe_75": 12.36,
+        "pe_90": 43.08
       },
       {
         "date": "2014-01-16",
         "price": 14.05,
-        "pe": 23.81,
-        "pe_10": 4.04,
-        "pe_25": 6.5,
-        "pe_50": 10.67,
-        "pe_75": 18.88,
-        "pe_90": 64.36
+        "pe": 21.51,
+        "pe_10": 4.74,
+        "pe_25": 6.52,
+        "pe_50": 9.6,
+        "pe_75": 17.17,
+        "pe_90": 59.86
       },
       {
         "date": "2014-02-14",
         "price": 18.75,
-        "pe": 26.41,
-        "pe_10": 4.86,
-        "pe_25": 7.82,
-        "pe_50": 12.84,
-        "pe_75": 22.72,
-        "pe_90": 77.43
+        "pe": 22.41,
+        "pe_10": 6.07,
+        "pe_25": 8.35,
+        "pe_50": 12.3,
+        "pe_75": 21.99,
+        "pe_90": 76.68
       },
       {
         "date": "2014-03-16",
         "price": 19.2,
-        "pe": 23.13,
-        "pe_10": 5.69,
-        "pe_25": 9.14,
-        "pe_50": 15.01,
-        "pe_75": 26.56,
-        "pe_90": 90.53
+        "pe": 18.82,
+        "pe_10": 7.4,
+        "pe_25": 10.18,
+        "pe_50": 14.99,
+        "pe_75": 26.82,
+        "pe_90": 93.5
       },
       {
         "date": "2014-04-15",
         "price": 19.3,
-        "pe": 20.32,
-        "pe_10": 6.51,
-        "pe_25": 10.46,
-        "pe_50": 17.17,
-        "pe_75": 30.39,
-        "pe_90": 103.59
+        "pe": 19.97,
+        "pe_10": 7.01,
+        "pe_25": 9.64,
+        "pe_50": 14.2,
+        "pe_75": 25.41,
+        "pe_90": 88.57
       },
       {
         "date": "2014-05-16",
         "price": 22.0,
-        "pe": 20.56,
-        "pe_10": 7.33,
-        "pe_25": 11.79,
-        "pe_50": 19.35,
-        "pe_75": 34.24,
-        "pe_90": 116.7
+        "pe": 24.09,
+        "pe_10": 6.62,
+        "pe_25": 9.11,
+        "pe_50": 13.42,
+        "pe_75": 24.01,
+        "pe_90": 83.7
       },
       {
         "date": "2014-06-15",
         "price": 19.75,
-        "pe": 16.6,
-        "pe_10": 8.15,
-        "pe_25": 13.11,
-        "pe_50": 21.51,
-        "pe_75": 38.07,
-        "pe_90": 129.76
+        "pe": 22.97,
+        "pe_10": 6.23,
+        "pe_25": 8.58,
+        "pe_50": 12.64,
+        "pe_75": 22.6,
+        "pe_90": 78.8
       },
       {
         "date": "2014-07-16",
         "price": 17.25,
-        "pe": 13.17,
-        "pe_10": 8.97,
-        "pe_25": 14.43,
-        "pe_50": 23.68,
-        "pe_75": 41.91,
-        "pe_90": 142.85
+        "pe": 16.38,
+        "pe_10": 7.64,
+        "pe_25": 10.51,
+        "pe_50": 15.48,
+        "pe_75": 27.68,
+        "pe_90": 96.52
       },
       {
         "date": "2014-08-16",
         "price": 17.8,
-        "pe": 12.45,
-        "pe_10": 9.8,
-        "pe_25": 15.75,
-        "pe_50": 25.85,
-        "pe_75": 45.75,
-        "pe_90": 155.93
+        "pe": 14.28,
+        "pe_10": 9.04,
+        "pe_25": 12.44,
+        "pe_50": 18.32,
+        "pe_75": 32.77,
+        "pe_90": 114.24
       },
       {
         "date": "2014-09-15",
         "price": 18.7,
-        "pe": 12.06,
-        "pe_10": 10.62,
-        "pe_25": 17.08,
-        "pe_50": 28.03,
-        "pe_75": 49.62,
-        "pe_90": 169.11
+        "pe": 12.99,
+        "pe_10": 10.44,
+        "pe_25": 14.36,
+        "pe_50": 21.15,
+        "pe_75": 37.84,
+        "pe_90": 131.93
       },
       {
         "date": "2014-10-16",
         "price": 18.6,
-        "pe": 11.14,
-        "pe_10": 11.44,
-        "pe_25": 18.39,
-        "pe_50": 30.19,
-        "pe_75": 53.43,
-        "pe_90": 182.09
+        "pe": 11.65,
+        "pe_10": 11.58,
+        "pe_25": 15.93,
+        "pe_50": 23.46,
+        "pe_75": 41.97,
+        "pe_90": 146.32
       },
       {
         "date": "2014-11-15",
         "price": 18.25,
-        "pe": 10.2,
-        "pe_10": 12.26,
-        "pe_25": 19.71,
-        "pe_50": 32.35,
-        "pe_75": 57.25,
-        "pe_90": 195.13
+        "pe": 10.41,
+        "pe_10": 12.71,
+        "pe_25": 17.49,
+        "pe_50": 25.76,
+        "pe_75": 46.09,
+        "pe_90": 160.67
       },
       {
         "date": "2014-12-16",
         "price": 20.2,
         "pe": 10.58,
-        "pe_10": 13.08,
-        "pe_25": 21.03,
-        "pe_50": 34.52,
-        "pe_75": 61.1,
-        "pe_90": 208.22
+        "pe_10": 13.84,
+        "pe_25": 19.05,
+        "pe_50": 28.06,
+        "pe_75": 50.19,
+        "pe_90": 174.98
       },
       {
         "date": "2015-01-16",
         "price": 18.75,
-        "pe": 9.72,
-        "pe_10": 13.22,
-        "pe_25": 21.25,
-        "pe_50": 34.88,
-        "pe_75": 61.73,
-        "pe_90": 210.38
+        "pe": 10.21,
+        "pe_10": 13.32,
+        "pe_25": 18.32,
+        "pe_50": 26.99,
+        "pe_75": 48.28,
+        "pe_90": 168.31
       },
       {
         "date": "2015-02-14",
         "price": 18.35,
-        "pe": 9.41,
-        "pe_10": 13.36,
-        "pe_25": 21.48,
-        "pe_50": 35.26,
-        "pe_75": 62.4,
-        "pe_90": 212.67
+        "pe": 10.41,
+        "pe_10": 12.78,
+        "pe_25": 17.59,
+        "pe_50": 25.9,
+        "pe_75": 46.34,
+        "pe_90": 161.55
       },
       {
         "date": "2015-03-16",
         "price": 20.85,
-        "pe": 10.58,
-        "pe_10": 13.5,
-        "pe_25": 21.71,
-        "pe_50": 35.63,
-        "pe_75": 63.06,
-        "pe_90": 214.92
+        "pe": 12.34,
+        "pe_10": 12.25,
+        "pe_25": 16.86,
+        "pe_50": 24.83,
+        "pe_75": 44.42,
+        "pe_90": 154.85
       },
       {
         "date": "2015-04-15",
         "price": 20.1,
-        "pe": 10.1,
-        "pe_10": 13.64,
-        "pe_25": 21.92,
-        "pe_50": 35.98,
-        "pe_75": 63.68,
-        "pe_90": 217.04
+        "pe": 11.46,
+        "pe_10": 12.72,
+        "pe_25": 17.5,
+        "pe_50": 25.77,
+        "pe_75": 46.11,
+        "pe_90": 160.74
       },
       {
         "date": "2015-05-16",
         "price": 18.0,
-        "pe": 8.96,
-        "pe_10": 13.77,
-        "pe_25": 22.13,
-        "pe_50": 36.32,
-        "pe_75": 64.29,
-        "pe_90": 219.09
+        "pe": 9.91,
+        "pe_10": 13.17,
+        "pe_25": 18.12,
+        "pe_50": 26.69,
+        "pe_75": 47.75,
+        "pe_90": 166.46
       },
       {
         "date": "2015-06-15",
         "price": 16.8,
-        "pe": 8.28,
-        "pe_10": 13.9,
-        "pe_25": 22.35,
-        "pe_50": 36.68,
-        "pe_75": 64.93,
-        "pe_90": 221.28
+        "pe": 8.94,
+        "pe_10": 13.63,
+        "pe_25": 18.75,
+        "pe_50": 27.61,
+        "pe_75": 49.4,
+        "pe_90": 172.22
       },
       {
         "date": "2015-07-16",
         "price": 14.45,
-        "pe": 7.05,
-        "pe_10": 14.04,
-        "pe_25": 22.58,
-        "pe_50": 37.06,
-        "pe_75": 65.59,
-        "pe_90": 223.53
+        "pe": 7.87,
+        "pe_10": 13.31,
+        "pe_25": 18.32,
+        "pe_50": 26.98,
+        "pe_75": 48.27,
+        "pe_90": 168.27
       },
       {
         "date": "2015-08-16",
         "price": 14.0,
-        "pe": 6.76,
-        "pe_10": 14.19,
-        "pe_25": 22.81,
-        "pe_50": 37.44,
-        "pe_75": 66.27,
-        "pe_90": 225.86
+        "pe": 7.81,
+        "pe_10": 13.0,
+        "pe_25": 17.89,
+        "pe_50": 26.34,
+        "pe_75": 47.12,
+        "pe_90": 164.29
       },
       {
         "date": "2015-09-15",
         "price": 13.75,
-        "pe": 6.58,
-        "pe_10": 14.32,
-        "pe_25": 23.02,
-        "pe_50": 37.78,
-        "pe_75": 66.87,
-        "pe_90": 227.9
+        "pe": 7.86,
+        "pe_10": 12.68,
+        "pe_25": 17.45,
+        "pe_50": 25.71,
+        "pe_75": 45.99,
+        "pe_90": 160.33
       },
       {
         "date": "2015-10-16",
         "price": 14.3,
-        "pe": 6.78,
-        "pe_10": 14.45,
-        "pe_25": 23.23,
-        "pe_50": 38.13,
-        "pe_75": 67.49,
-        "pe_90": 230.02
+        "pe": 7.59,
+        "pe_10": 13.66,
+        "pe_25": 18.8,
+        "pe_50": 27.69,
+        "pe_75": 49.53,
+        "pe_90": 172.67
       },
       {
         "date": "2015-11-15",
         "price": 14.65,
-        "pe": 6.88,
-        "pe_10": 14.59,
-        "pe_25": 23.45,
-        "pe_50": 38.5,
-        "pe_75": 68.14,
-        "pe_90": 232.23
+        "pe": 7.26,
+        "pe_10": 14.63,
+        "pe_25": 20.13,
+        "pe_50": 29.65,
+        "pe_75": 53.05,
+        "pe_90": 184.94
       },
       {
         "date": "2015-12-16",
         "price": 15.2,
         "pe": 7.07,
-        "pe_10": 14.73,
-        "pe_25": 23.68,
-        "pe_50": 38.87,
-        "pe_75": 68.8,
-        "pe_90": 234.47
+        "pe_10": 15.59,
+        "pe_25": 21.45,
+        "pe_50": 31.59,
+        "pe_75": 56.52,
+        "pe_90": 197.04
       },
       {
         "date": "2016-01-16",
         "price": 16.4,
-        "pe": 8.0,
-        "pe_10": 14.05,
-        "pe_25": 22.58,
-        "pe_50": 37.06,
-        "pe_75": 65.6,
-        "pe_90": 223.57
+        "pe": 8.04,
+        "pe_10": 14.79,
+        "pe_25": 20.35,
+        "pe_50": 29.97,
+        "pe_75": 53.62,
+        "pe_90": 186.94
       },
       {
         "date": "2016-02-15",
         "price": 15.35,
-        "pe": 7.87,
-        "pe_10": 13.36,
-        "pe_25": 21.48,
-        "pe_50": 35.26,
-        "pe_75": 62.41,
-        "pe_90": 212.72
+        "pe": 7.95,
+        "pe_10": 14.0,
+        "pe_25": 19.26,
+        "pe_50": 28.37,
+        "pe_75": 50.76,
+        "pe_90": 176.96
       },
       {
         "date": "2016-03-16",
         "price": 16.3,
-        "pe": 8.81,
-        "pe_10": 12.68,
-        "pe_25": 20.38,
-        "pe_50": 33.45,
-        "pe_75": 59.21,
-        "pe_90": 201.78
+        "pe": 8.96,
+        "pe_10": 13.19,
+        "pe_25": 18.15,
+        "pe_50": 26.73,
+        "pe_75": 47.82,
+        "pe_90": 166.73
       },
       {
         "date": "2016-04-15",
         "price": 15.0,
-        "pe": 8.57,
-        "pe_10": 11.99,
-        "pe_25": 19.28,
-        "pe_50": 31.65,
-        "pe_75": 56.01,
-        "pe_90": 190.89
+        "pe": 8.05,
+        "pe_10": 13.51,
+        "pe_25": 18.59,
+        "pe_50": 27.38,
+        "pe_75": 48.98,
+        "pe_90": 170.77
       },
       {
         "date": "2016-05-16",
         "price": 15.15,
-        "pe": 9.18,
-        "pe_10": 11.31,
-        "pe_25": 18.18,
-        "pe_50": 29.84,
-        "pe_75": 52.81,
-        "pe_90": 179.98
+        "pe": 7.95,
+        "pe_10": 13.82,
+        "pe_25": 19.01,
+        "pe_50": 28.0,
+        "pe_75": 50.1,
+        "pe_90": 174.65
       },
       {
         "date": "2016-06-15",
         "price": 14.1,
-        "pe": 9.1,
-        "pe_10": 10.62,
-        "pe_25": 17.07,
-        "pe_50": 28.01,
-        "pe_75": 49.58,
-        "pe_90": 168.98
+        "pe": 7.23,
+        "pe_10": 14.14,
+        "pe_25": 19.46,
+        "pe_50": 28.66,
+        "pe_75": 51.27,
+        "pe_90": 178.73
       },
       {
         "date": "2016-07-16",
         "price": 14.05,
-        "pe": 9.69,
-        "pe_10": 9.94,
-        "pe_25": 15.97,
-        "pe_50": 26.22,
-        "pe_75": 46.4,
-        "pe_90": 158.13
+        "pe": 7.88,
+        "pe_10": 12.93,
+        "pe_25": 17.79,
+        "pe_50": 26.2,
+        "pe_75": 46.87,
+        "pe_90": 163.41
       },
       {
         "date": "2016-08-16",
         "price": 14.4,
-        "pe": 10.67,
-        "pe_10": 9.25,
-        "pe_25": 14.87,
-        "pe_50": 24.4,
-        "pe_75": 43.19,
-        "pe_90": 147.19
+        "pe": 8.91,
+        "pe_10": 11.72,
+        "pe_25": 16.13,
+        "pe_50": 23.75,
+        "pe_75": 42.48,
+        "pe_90": 148.12
       },
       {
         "date": "2016-09-15",
         "price": 15.15,
-        "pe": 12.12,
-        "pe_10": 8.57,
-        "pe_25": 13.77,
-        "pe_50": 22.6,
-        "pe_75": 40.0,
-        "pe_90": 136.33
+        "pe": 10.45,
+        "pe_10": 10.51,
+        "pe_25": 14.46,
+        "pe_50": 21.3,
+        "pe_75": 38.11,
+        "pe_90": 132.87
       },
       {
         "date": "2016-10-16",
         "price": 14.3,
-        "pe": 12.43,
-        "pe_10": 7.88,
-        "pe_25": 12.67,
-        "pe_50": 20.8,
-        "pe_75": 36.81,
-        "pe_90": 125.47
+        "pe": 11.14,
+        "pe_10": 9.31,
+        "pe_25": 12.81,
+        "pe_50": 18.86,
+        "pe_75": 33.74,
+        "pe_90": 117.65
       },
       {
         "date": "2016-11-15",
         "price": 14.0,
-        "pe": 13.33,
-        "pe_10": 7.2,
-        "pe_25": 11.57,
-        "pe_50": 18.99,
-        "pe_75": 33.61,
-        "pe_90": 114.54
+        "pe": 12.54,
+        "pe_10": 8.1,
+        "pe_25": 11.14,
+        "pe_50": 16.41,
+        "pe_75": 29.35,
+        "pe_90": 102.32
       },
       {
         "date": "2016-12-16",
         "price": 15.0,
         "pe": 15.79,
-        "pe_10": 6.51,
-        "pe_25": 10.46,
-        "pe_50": 17.18,
-        "pe_75": 30.4,
-        "pe_90": 103.6
+        "pe_10": 6.89,
+        "pe_25": 9.48,
+        "pe_50": 13.96,
+        "pe_75": 24.97,
+        "pe_90": 87.06
       },
       {
         "date": "2017-01-16",
         "price": 15.45,
-        "pe": 17.18,
-        "pe_10": 6.16,
-        "pe_25": 9.91,
-        "pe_50": 16.26,
-        "pe_75": 28.78,
-        "pe_90": 98.08
+        "pe": 17.49,
+        "pe_10": 6.41,
+        "pe_25": 8.81,
+        "pe_50": 12.98,
+        "pe_75": 23.22,
+        "pe_90": 80.96
       },
       {
         "date": "2017-02-14",
         "price": 15.95,
-        "pe": 18.8,
-        "pe_10": 5.81,
-        "pe_25": 9.35,
-        "pe_50": 15.34,
-        "pe_75": 27.15,
-        "pe_90": 92.53
+        "pe": 19.53,
+        "pe_10": 5.92,
+        "pe_25": 8.15,
+        "pe_50": 12.0,
+        "pe_75": 21.47,
+        "pe_90": 74.85
       },
       {
         "date": "2017-03-16",
         "price": 16.5,
-        "pe": 20.69,
-        "pe_10": 5.46,
-        "pe_25": 8.78,
-        "pe_50": 14.42,
-        "pe_75": 25.52,
-        "pe_90": 86.97
+        "pe": 22.0,
+        "pe_10": 5.44,
+        "pe_25": 7.48,
+        "pe_50": 11.02,
+        "pe_75": 19.72,
+        "pe_90": 68.74
       },
       {
         "date": "2017-04-15",
         "price": 17.75,
-        "pe": 23.77,
-        "pe_10": 5.12,
-        "pe_25": 8.23,
-        "pe_50": 13.5,
-        "pe_75": 23.9,
-        "pe_90": 81.44
+        "pe": 23.15,
+        "pe_10": 5.56,
+        "pe_25": 7.65,
+        "pe_50": 11.27,
+        "pe_75": 20.16,
+        "pe_90": 70.27
       },
       {
         "date": "2017-05-16",
         "price": 18.8,
-        "pe": 27.02,
-        "pe_10": 4.77,
-        "pe_25": 7.66,
-        "pe_50": 12.58,
-        "pe_75": 22.26,
-        "pe_90": 75.88
+        "pe": 24.0,
+        "pe_10": 5.68,
+        "pe_25": 7.82,
+        "pe_50": 11.51,
+        "pe_75": 20.59,
+        "pe_90": 71.79
       },
       {
         "date": "2017-06-15",
         "price": 18.65,
-        "pe": 28.91,
-        "pe_10": 4.42,
-        "pe_25": 7.11,
-        "pe_50": 11.66,
-        "pe_75": 20.64,
-        "pe_90": 70.36
+        "pe": 23.31,
+        "pe_10": 5.8,
+        "pe_25": 7.98,
+        "pe_50": 11.76,
+        "pe_75": 21.03,
+        "pe_90": 73.33
       },
       {
         "date": "2017-07-16",
         "price": 18.55,
-        "pe": 31.22,
-        "pe_10": 4.07,
-        "pe_25": 6.54,
-        "pe_50": 10.74,
-        "pe_75": 19.01,
-        "pe_90": 64.8
+        "pe": 22.17,
+        "pe_10": 6.07,
+        "pe_25": 8.35,
+        "pe_50": 12.3,
+        "pe_75": 22.0,
+        "pe_90": 76.68
       },
       {
         "date": "2017-08-16",
         "price": 22.95,
-        "pe": 42.24,
-        "pe_10": 3.72,
-        "pe_25": 5.98,
-        "pe_50": 9.82,
-        "pe_75": 17.39,
-        "pe_90": 59.25
+        "pe": 26.28,
+        "pe_10": 6.33,
+        "pe_25": 8.71,
+        "pe_50": 12.83,
+        "pe_75": 22.96,
+        "pe_90": 80.04
       },
       {
         "date": "2017-09-15",
         "price": 21.35,
-        "pe": 43.35,
-        "pe_10": 3.37,
-        "pe_25": 5.42,
-        "pe_50": 8.9,
-        "pe_75": 15.76,
-        "pe_90": 53.71
+        "pe": 23.46,
+        "pe_10": 6.6,
+        "pe_25": 9.08,
+        "pe_50": 13.37,
+        "pe_75": 23.92,
+        "pe_90": 83.41
       },
       {
         "date": "2017-10-16",
         "price": 23.85,
-        "pe": 54.0,
-        "pe_10": 3.03,
-        "pe_25": 4.86,
-        "pe_50": 7.99,
-        "pe_75": 14.13,
-        "pe_90": 48.17
+        "pe": 33.12,
+        "pe_10": 5.22,
+        "pe_25": 7.18,
+        "pe_50": 10.58,
+        "pe_75": 18.93,
+        "pe_90": 66.0
       },
       {
         "date": "2017-11-15",
         "price": 20.95,
-        "pe": 53.6,
-        "pe_10": 2.68,
-        "pe_25": 4.31,
-        "pe_50": 7.07,
-        "pe_75": 12.51,
-        "pe_90": 42.63
+        "pe": 39.53,
+        "pe_10": 3.84,
+        "pe_25": 5.29,
+        "pe_50": 7.79,
+        "pe_75": 13.93,
+        "pe_90": 48.57
       },
       {
         "date": "2017-12-16",
         "price": 23.15,
         "pe": 68.09,
-        "pe_10": 2.33,
-        "pe_25": 3.75,
-        "pe_50": 6.15,
-        "pe_75": 10.88,
-        "pe_90": 37.08
+        "pe_10": 2.47,
+        "pe_25": 3.39,
+        "pe_50": 5.0,
+        "pe_75": 8.94,
+        "pe_90": 31.16
       },
       {
         "date": "2018-01-16",
         "price": 25.3,
-        "pe": 56.33,
-        "pe_10": 3.08,
-        "pe_25": 4.95,
-        "pe_50": 8.12,
-        "pe_75": 14.37,
-        "pe_90": 48.98
+        "pe": 66.0,
+        "pe_10": 2.78,
+        "pe_25": 3.82,
+        "pe_50": 5.63,
+        "pe_75": 10.08,
+        "pe_90": 35.13
       },
       {
         "date": "2018-02-14",
         "price": 22.8,
-        "pe": 40.84,
-        "pe_10": 3.83,
-        "pe_25": 6.15,
-        "pe_50": 10.09,
-        "pe_75": 17.86,
-        "pe_90": 60.89
+        "pe": 53.44,
+        "pe_10": 3.09,
+        "pe_25": 4.26,
+        "pe_50": 6.27,
+        "pe_75": 11.22,
+        "pe_90": 39.1
       },
       {
         "date": "2018-03-16",
         "price": 22.55,
-        "pe": 33.78,
-        "pe_10": 4.57,
-        "pe_25": 7.35,
-        "pe_50": 12.07,
-        "pe_75": 21.36,
-        "pe_90": 72.8
+        "pe": 47.98,
+        "pe_10": 3.41,
+        "pe_25": 4.69,
+        "pe_50": 6.91,
+        "pe_75": 12.35,
+        "pe_90": 43.07
       },
       {
         "date": "2018-04-15",
         "price": 20.55,
-        "pe": 26.46,
-        "pe_10": 5.32,
-        "pe_25": 8.55,
-        "pe_50": 14.04,
-        "pe_75": 24.85,
-        "pe_90": 84.7
+        "pe": 32.62,
+        "pe_10": 4.57,
+        "pe_25": 6.29,
+        "pe_50": 9.26,
+        "pe_75": 16.56,
+        "pe_90": 57.74
       },
       {
         "date": "2018-05-16",
         "price": 24.6,
-        "pe": 27.77,
-        "pe_10": 6.07,
-        "pe_25": 9.76,
-        "pe_50": 16.02,
-        "pe_75": 28.35,
-        "pe_90": 96.61
+        "pe": 31.14,
+        "pe_10": 5.73,
+        "pe_25": 7.88,
+        "pe_50": 11.61,
+        "pe_75": 20.77,
+        "pe_90": 72.4
       },
       {
         "date": "2018-06-15",
         "price": 21.25,
-        "pe": 21.36,
-        "pe_10": 6.82,
-        "pe_25": 10.96,
-        "pe_50": 17.99,
-        "pe_75": 31.84,
-        "pe_90": 108.5
+        "pe": 22.37,
+        "pe_10": 6.89,
+        "pe_25": 9.48,
+        "pe_50": 13.96,
+        "pe_75": 24.97,
+        "pe_90": 87.06
       },
       {
         "date": "2018-07-16",
         "price": 22.95,
-        "pe": 20.78,
-        "pe_10": 7.57,
-        "pe_25": 12.17,
-        "pe_50": 19.97,
-        "pe_75": 35.34,
-        "pe_90": 120.45
+        "pe": 25.31,
+        "pe_10": 6.57,
+        "pe_25": 9.05,
+        "pe_50": 13.32,
+        "pe_75": 23.84,
+        "pe_90": 83.1
       },
       {
         "date": "2018-08-16",
         "price": 22.7,
-        "pe": 18.71,
-        "pe_10": 8.31,
-        "pe_25": 13.36,
-        "pe_50": 21.94,
-        "pe_75": 38.82,
-        "pe_90": 132.32
+        "pe": 26.29,
+        "pe_10": 6.26,
+        "pe_25": 8.62,
+        "pe_50": 12.69,
+        "pe_75": 22.7,
+        "pe_90": 79.13
       },
       {
         "date": "2018-09-15",
         "price": 21.4,
-        "pe": 16.18,
-        "pe_10": 9.06,
-        "pe_25": 14.57,
-        "pe_50": 23.91,
-        "pe_75": 42.32,
-        "pe_90": 144.24
+        "pe": 26.1,
+        "pe_10": 5.95,
+        "pe_25": 8.18,
+        "pe_50": 12.05,
+        "pe_75": 21.55,
+        "pe_90": 75.14
       },
       {
         "date": "2018-10-16",
         "price": 16.8,
-        "pe": 11.73,
-        "pe_10": 9.81,
-        "pe_25": 15.78,
-        "pe_50": 25.89,
-        "pe_75": 45.83,
-        "pe_90": 156.2
+        "pe": 15.32,
+        "pe_10": 7.95,
+        "pe_25": 10.94,
+        "pe_50": 16.11,
+        "pe_75": 28.83,
+        "pe_90": 100.5
       },
       {
         "date": "2018-11-15",
         "price": 17.75,
-        "pe": 11.52,
-        "pe_10": 10.56,
-        "pe_25": 16.97,
-        "pe_50": 27.86,
-        "pe_75": 49.31,
-        "pe_90": 168.04
+        "pe": 12.92,
+        "pe_10": 9.96,
+        "pe_25": 13.71,
+        "pe_50": 20.19,
+        "pe_75": 36.11,
+        "pe_90": 125.91
       },
       {
         "date": "2018-12-16",
         "price": 18.15,
         "pe": 11.0,
-        "pe_10": 11.31,
-        "pe_25": 18.17,
-        "pe_50": 29.83,
-        "pe_75": 52.8,
-        "pe_90": 179.95
+        "pe_10": 11.96,
+        "pe_25": 16.46,
+        "pe_50": 24.25,
+        "pe_75": 43.37,
+        "pe_90": 151.22
       },
       {
         "date": "2019-01-16",
         "price": 18.4,
-        "pe": 11.03,
-        "pe_10": 11.43,
-        "pe_25": 18.37,
-        "pe_50": 30.16,
-        "pe_75": 53.38,
-        "pe_90": 181.93
+        "pe": 9.32,
+        "pe_10": 14.32,
+        "pe_25": 19.7,
+        "pe_50": 29.01,
+        "pe_75": 51.9,
+        "pe_90": 180.94
       },
       {
         "date": "2019-02-14",
         "price": 19.65,
-        "pe": 11.66,
-        "pe_10": 11.55,
-        "pe_25": 18.56,
-        "pe_50": 30.47,
-        "pe_75": 53.93,
-        "pe_90": 183.79
+        "pe": 8.56,
+        "pe_10": 16.65,
+        "pe_25": 22.9,
+        "pe_50": 33.73,
+        "pe_75": 60.34,
+        "pe_90": 210.38
       },
       {
         "date": "2019-03-16",
         "price": 20.15,
-        "pe": 11.84,
-        "pe_10": 11.66,
-        "pe_25": 18.75,
-        "pe_50": 30.77,
-        "pe_75": 54.46,
-        "pe_90": 185.6
+        "pe": 7.69,
+        "pe_10": 19.0,
+        "pe_25": 26.14,
+        "pe_50": 38.51,
+        "pe_75": 68.88,
+        "pe_90": 240.14
       },
       {
         "date": "2019-04-15",
         "price": 23.75,
-        "pe": 13.81,
-        "pe_10": 11.78,
-        "pe_25": 18.94,
-        "pe_50": 31.09,
-        "pe_75": 55.03,
-        "pe_90": 187.56
+        "pe": 9.94,
+        "pe_10": 17.33,
+        "pe_25": 23.84,
+        "pe_50": 35.11,
+        "pe_75": 62.81,
+        "pe_90": 218.98
       },
       {
         "date": "2019-05-16",
         "price": 22.8,
-        "pe": 13.12,
-        "pe_10": 11.91,
-        "pe_25": 19.14,
-        "pe_50": 31.42,
-        "pe_75": 55.61,
-        "pe_90": 189.53
+        "pe": 10.56,
+        "pe_10": 15.66,
+        "pe_25": 21.54,
+        "pe_50": 31.73,
+        "pe_75": 56.76,
+        "pe_90": 197.88
       },
       {
         "date": "2019-06-15",
         "price": 21.05,
-        "pe": 11.99,
-        "pe_10": 12.03,
-        "pe_25": 19.34,
-        "pe_50": 31.74,
-        "pe_75": 56.18,
-        "pe_90": 191.47
+        "pe": 10.91,
+        "pe_10": 13.99,
+        "pe_25": 19.25,
+        "pe_50": 28.35,
+        "pe_75": 50.72,
+        "pe_90": 176.83
       },
       {
         "date": "2019-07-16",
         "price": 20.1,
-        "pe": 11.34,
-        "pe_10": 12.15,
-        "pe_25": 19.52,
-        "pe_50": 32.05,
-        "pe_75": 56.72,
-        "pe_90": 193.31
+        "pe": 9.82,
+        "pe_10": 14.84,
+        "pe_25": 20.42,
+        "pe_50": 30.08,
+        "pe_75": 53.81,
+        "pe_90": 187.59
       },
       {
         "date": "2019-08-16",
         "price": 21.35,
-        "pe": 11.93,
-        "pe_10": 12.26,
-        "pe_25": 19.71,
-        "pe_50": 32.36,
-        "pe_75": 57.27,
-        "pe_90": 195.17
+        "pe": 9.87,
+        "pe_10": 15.68,
+        "pe_25": 21.58,
+        "pe_50": 31.79,
+        "pe_75": 56.86,
+        "pe_90": 198.25
       },
       {
         "date": "2019-09-15",
         "price": 21.4,
-        "pe": 11.84,
-        "pe_10": 12.38,
-        "pe_25": 19.91,
-        "pe_50": 32.68,
-        "pe_75": 57.84,
-        "pe_90": 197.12
+        "pe": 9.39,
+        "pe_10": 16.53,
+        "pe_25": 22.74,
+        "pe_50": 33.49,
+        "pe_75": 59.91,
+        "pe_90": 208.87
       },
       {
         "date": "2019-10-16",
         "price": 20.45,
-        "pe": 11.21,
-        "pe_10": 12.5,
-        "pe_25": 20.09,
-        "pe_50": 32.98,
-        "pe_75": 58.38,
-        "pe_90": 198.95
+        "pe": 9.56,
+        "pe_10": 15.51,
+        "pe_25": 21.34,
+        "pe_50": 31.43,
+        "pe_75": 56.23,
+        "pe_90": 196.05
       },
       {
         "date": "2019-11-15",
         "price": 20.8,
-        "pe": 11.29,
-        "pe_10": 12.62,
-        "pe_25": 20.29,
-        "pe_50": 33.31,
-        "pe_75": 58.95,
-        "pe_90": 200.93
+        "pe": 10.4,
+        "pe_10": 14.5,
+        "pe_25": 19.96,
+        "pe_50": 29.39,
+        "pe_75": 52.58,
+        "pe_90": 183.3
       },
       {
         "date": "2019-12-16",
         "price": 22.1,
         "pe": 11.88,
-        "pe_10": 12.75,
-        "pe_25": 20.49,
-        "pe_50": 33.63,
-        "pe_75": 59.53,
-        "pe_90": 202.88
+        "pe_10": 13.49,
+        "pe_25": 18.56,
+        "pe_50": 27.34,
+        "pe_75": 48.9,
+        "pe_90": 170.49
       },
       {
         "date": "2020-01-16",
         "price": 20.5,
-        "pe": 11.95,
-        "pe_10": 11.75,
-        "pe_25": 18.9,
-        "pe_50": 31.02,
-        "pe_75": 54.9,
-        "pe_90": 187.09
+        "pe": 13.25,
+        "pe_10": 11.22,
+        "pe_25": 15.44,
+        "pe_50": 22.74,
+        "pe_75": 40.67,
+        "pe_90": 141.8
       },
       {
         "date": "2020-02-15",
         "price": 19.9,
-        "pe": 12.68,
-        "pe_10": 10.75,
-        "pe_25": 17.29,
-        "pe_50": 28.37,
-        "pe_75": 50.22,
-        "pe_90": 171.16
+        "pe": 16.14,
+        "pe_10": 8.94,
+        "pe_25": 12.3,
+        "pe_50": 18.12,
+        "pe_75": 32.41,
+        "pe_90": 113.0
       },
       {
         "date": "2020-03-16",
         "price": 15.9,
-        "pe": 11.16,
-        "pe_10": 9.76,
-        "pe_25": 15.69,
-        "pe_50": 25.76,
-        "pe_75": 45.59,
-        "pe_90": 155.38
+        "pe": 17.28,
+        "pe_10": 6.67,
+        "pe_25": 9.18,
+        "pe_50": 13.52,
+        "pe_75": 24.19,
+        "pe_90": 84.33
       },
       {
         "date": "2020-04-15",
         "price": 19.0,
-        "pe": 14.84,
-        "pe_10": 8.77,
-        "pe_25": 14.1,
-        "pe_50": 23.15,
-        "pe_75": 40.97,
-        "pe_90": 139.63
+        "pe": 19.72,
+        "pe_10": 6.99,
+        "pe_25": 9.61,
+        "pe_50": 14.16,
+        "pe_75": 25.33,
+        "pe_90": 88.3
       },
       {
         "date": "2020-05-16",
         "price": 18.35,
-        "pe": 16.17,
-        "pe_10": 7.78,
-        "pe_25": 12.5,
-        "pe_50": 20.52,
-        "pe_75": 36.31,
-        "pe_90": 123.76
+        "pe": 18.23,
+        "pe_10": 7.3,
+        "pe_25": 10.04,
+        "pe_50": 14.79,
+        "pe_75": 26.46,
+        "pe_90": 92.25
       },
       {
         "date": "2020-06-15",
         "price": 19.45,
-        "pe": 19.65,
-        "pe_10": 6.78,
-        "pe_25": 10.9,
-        "pe_50": 17.9,
-        "pe_75": 31.67,
-        "pe_90": 107.95
+        "pe": 18.52,
+        "pe_10": 7.62,
+        "pe_25": 10.48,
+        "pe_50": 15.43,
+        "pe_75": 27.61,
+        "pe_90": 96.25
       },
       {
         "date": "2020-07-16",
         "price": 19.2,
-        "pe": 22.72,
-        "pe_10": 5.79,
-        "pe_25": 9.31,
-        "pe_50": 15.28,
-        "pe_75": 27.04,
-        "pe_90": 92.16
+        "pe": 21.57,
+        "pe_10": 6.45,
+        "pe_25": 8.88,
+        "pe_50": 13.08,
+        "pe_75": 23.4,
+        "pe_90": 81.58
       },
       {
         "date": "2020-08-16",
         "price": 19.8,
-        "pe": 28.29,
-        "pe_10": 4.8,
-        "pe_25": 7.71,
-        "pe_50": 12.65,
-        "pe_75": 22.4,
-        "pe_90": 76.33
+        "pe": 27.12,
+        "pe_10": 5.29,
+        "pe_25": 7.28,
+        "pe_50": 10.73,
+        "pe_75": 19.19,
+        "pe_90": 66.91
       },
       {
         "date": "2020-09-15",
         "price": 18.5,
-        "pe": 33.33,
-        "pe_10": 3.8,
-        "pe_25": 6.11,
-        "pe_50": 10.04,
-        "pe_75": 17.76,
-        "pe_90": 60.53
+        "pe": 32.46,
+        "pe_10": 4.13,
+        "pe_25": 5.69,
+        "pe_50": 8.38,
+        "pe_75": 14.98,
+        "pe_90": 52.23
       },
       {
         "date": "2020-10-16",
         "price": 18.2,
-        "pe": 44.39,
-        "pe_10": 2.81,
-        "pe_25": 4.52,
-        "pe_50": 7.41,
-        "pe_75": 13.12,
-        "pe_90": 44.71
+        "pe": 43.33,
+        "pe_10": 3.05,
+        "pe_25": 4.19,
+        "pe_50": 6.17,
+        "pe_75": 11.04,
+        "pe_90": 38.5
       },
       {
         "date": "2020-11-15",
         "price": 18.65,
-        "pe": 70.38,
-        "pe_10": 1.82,
-        "pe_25": 2.92,
-        "pe_50": 4.79,
-        "pe_75": 8.48,
-        "pe_90": 28.9
+        "pe": 69.07,
+        "pe_10": 1.96,
+        "pe_25": 2.69,
+        "pe_50": 3.97,
+        "pe_75": 7.1,
+        "pe_90": 24.75
       },
       {
         "date": "2020-12-16",
         "price": 19.2,
         "pe": 160.0,
-        "pe_10": 0.82,
-        "pe_25": 1.32,
-        "pe_50": 2.17,
-        "pe_75": 3.84,
-        "pe_90": 13.09
+        "pe_10": 0.87,
+        "pe_25": 1.2,
+        "pe_50": 1.76,
+        "pe_75": 3.15,
+        "pe_90": 11.0
       },
       {
         "date": "2021-01-16",
         "price": 17.6,
-        "pe": 85.16,
-        "pe_10": 1.42,
-        "pe_25": 2.28,
-        "pe_50": 3.74,
-        "pe_75": 6.61,
-        "pe_90": 22.54
+        "pe": 91.03,
+        "pe_10": 1.4,
+        "pe_25": 1.93,
+        "pe_50": 2.84,
+        "pe_75": 5.08,
+        "pe_90": 17.72
       },
       {
         "date": "2021-02-14",
         "price": 18.25,
-        "pe": 62.22,
-        "pe_10": 2.01,
-        "pe_25": 3.23,
-        "pe_50": 5.3,
-        "pe_75": 9.39,
-        "pe_90": 31.99
+        "pe": 68.44,
+        "pe_10": 1.93,
+        "pe_25": 2.66,
+        "pe_50": 3.92,
+        "pe_75": 7.01,
+        "pe_90": 24.44
       },
       {
         "date": "2021-03-16",
         "price": 17.9,
-        "pe": 47.11,
-        "pe_10": 2.6,
-        "pe_25": 4.19,
-        "pe_50": 6.87,
-        "pe_75": 12.16,
-        "pe_90": 41.44
+        "pe": 52.65,
+        "pe_10": 2.47,
+        "pe_25": 3.39,
+        "pe_50": 5.0,
+        "pe_75": 8.94,
+        "pe_90": 31.16
       },
       {
         "date": "2021-04-15",
         "price": 19.8,
-        "pe": 42.43,
-        "pe_10": 3.2,
-        "pe_25": 5.14,
-        "pe_50": 8.44,
-        "pe_75": 14.93,
-        "pe_90": 50.89
+        "pe": 47.9,
+        "pe_10": 3.0,
+        "pe_25": 4.12,
+        "pe_50": 6.07,
+        "pe_75": 10.87,
+        "pe_90": 37.88
       },
       {
         "date": "2021-05-16",
         "price": 17.0,
-        "pe": 30.72,
-        "pe_10": 3.79,
-        "pe_25": 6.1,
-        "pe_50": 10.01,
-        "pe_75": 17.71,
-        "pe_90": 60.35
+        "pe": 34.93,
+        "pe_10": 3.53,
+        "pe_25": 4.86,
+        "pe_50": 7.15,
+        "pe_75": 12.79,
+        "pe_90": 44.6
       },
       {
         "date": "2021-06-15",
         "price": 17.3,
-        "pe": 27.03,
-        "pe_10": 4.39,
-        "pe_25": 7.05,
-        "pe_50": 11.57,
-        "pe_75": 20.48,
-        "pe_90": 69.8
+        "pe": 30.89,
+        "pe_10": 4.06,
+        "pe_25": 5.59,
+        "pe_50": 8.23,
+        "pe_75": 14.72,
+        "pe_90": 51.33
       },
       {
         "date": "2021-07-16",
         "price": 18.25,
-        "pe": 25.11,
-        "pe_10": 4.98,
-        "pe_25": 8.01,
-        "pe_50": 13.14,
-        "pe_75": 23.26,
-        "pe_90": 79.27
+        "pe": 34.01,
+        "pe_10": 3.89,
+        "pe_25": 5.35,
+        "pe_50": 7.89,
+        "pe_75": 14.11,
+        "pe_90": 49.18
       },
       {
         "date": "2021-08-16",
         "price": 17.4,
-        "pe": 21.39,
-        "pe_10": 5.57,
-        "pe_25": 8.96,
-        "pe_50": 14.71,
-        "pe_75": 26.03,
-        "pe_90": 88.72
+        "pe": 33.9,
+        "pe_10": 3.72,
+        "pe_25": 5.12,
+        "pe_50": 7.54,
+        "pe_75": 13.49,
+        "pe_90": 47.04
       },
       {
         "date": "2021-09-15",
         "price": 17.3,
-        "pe": 19.22,
-        "pe_10": 6.17,
-        "pe_25": 9.91,
-        "pe_50": 16.27,
-        "pe_75": 28.8,
-        "pe_90": 98.17
+        "pe": 35.31,
+        "pe_10": 3.55,
+        "pe_25": 4.89,
+        "pe_50": 7.2,
+        "pe_75": 12.88,
+        "pe_90": 44.9
       },
       {
         "date": "2021-10-16",
         "price": 17.35,
-        "pe": 17.58,
-        "pe_10": 6.76,
-        "pe_25": 10.87,
-        "pe_50": 17.84,
-        "pe_75": 31.58,
-        "pe_90": 107.63
+        "pe": 24.32,
+        "pe_10": 5.17,
+        "pe_25": 7.12,
+        "pe_50": 10.48,
+        "pe_75": 18.75,
+        "pe_90": 65.38
       },
       {
         "date": "2021-11-15",
         "price": 17.5,
-        "pe": 16.3,
-        "pe_10": 7.36,
-        "pe_25": 11.83,
-        "pe_50": 19.41,
-        "pe_75": 34.36,
-        "pe_90": 117.09
+        "pe": 18.68,
+        "pe_10": 6.79,
+        "pe_25": 9.35,
+        "pe_50": 13.77,
+        "pe_75": 24.63,
+        "pe_90": 85.86
       },
       {
         "date": "2021-12-16",
         "price": 23.9,
         "pe": 20.6,
-        "pe_10": 7.95,
-        "pe_25": 12.78,
-        "pe_50": 20.98,
-        "pe_75": 37.13,
-        "pe_90": 126.53
+        "pe_10": 8.41,
+        "pe_25": 11.58,
+        "pe_50": 17.05,
+        "pe_75": 30.5,
+        "pe_90": 106.33
       },
       {
         "date": "2022-01-16",
         "price": 20.2,
-        "pe": 15.71,
-        "pe_10": 8.81,
-        "pe_25": 14.16,
-        "pe_50": 23.25,
-        "pe_75": 41.15,
-        "pe_90": 140.23
+        "pe": 16.07,
+        "pe_10": 9.11,
+        "pe_25": 12.54,
+        "pe_50": 18.47,
+        "pe_75": 33.04,
+        "pe_90": 115.2
       },
       {
         "date": "2022-02-14",
         "price": 22.2,
-        "pe": 15.73,
-        "pe_10": 9.67,
-        "pe_25": 15.55,
-        "pe_50": 25.52,
-        "pe_75": 45.16,
-        "pe_90": 153.92
+        "pe": 16.4,
+        "pe_10": 9.82,
+        "pe_25": 13.51,
+        "pe_50": 19.89,
+        "pe_75": 35.58,
+        "pe_90": 124.06
       },
       {
         "date": "2022-03-16",
         "price": 27.8,
-        "pe": 18.08,
-        "pe_10": 10.54,
-        "pe_25": 16.94,
-        "pe_50": 27.8,
-        "pe_75": 49.2,
-        "pe_90": 167.69
+        "pe": 19.17,
+        "pe_10": 10.52,
+        "pe_25": 14.47,
+        "pe_50": 21.31,
+        "pe_75": 38.12,
+        "pe_90": 132.91
       },
       {
         "date": "2022-04-15",
         "price": 24.15,
-        "pe": 14.52,
-        "pe_10": 11.4,
-        "pe_25": 18.32,
-        "pe_50": 30.07,
-        "pe_75": 53.22,
-        "pe_90": 181.39
+        "pe": 14.7,
+        "pe_10": 11.91,
+        "pe_25": 16.39,
+        "pe_50": 24.14,
+        "pe_75": 43.19,
+        "pe_90": 150.56
       },
       {
         "date": "2022-05-16",
         "price": 27.3,
-        "pe": 15.26,
-        "pe_10": 12.26,
-        "pe_25": 19.71,
-        "pe_50": 32.34,
-        "pe_75": 57.25,
-        "pe_90": 195.11
+        "pe": 14.86,
+        "pe_10": 13.32,
+        "pe_25": 18.33,
+        "pe_50": 27.0,
+        "pe_75": 48.29,
+        "pe_90": 168.37
       },
       {
         "date": "2022-06-15",
         "price": 25.35,
-        "pe": 13.24,
-        "pe_10": 13.12,
-        "pe_25": 21.09,
-        "pe_50": 34.62,
-        "pe_75": 61.27,
-        "pe_90": 208.81
+        "pe": 12.49,
+        "pe_10": 14.72,
+        "pe_25": 20.25,
+        "pe_50": 29.83,
+        "pe_75": 53.35,
+        "pe_90": 186.01
       },
       {
         "date": "2022-07-16",
         "price": 29.5,
-        "pe": 14.45,
-        "pe_10": 13.99,
-        "pe_25": 22.49,
-        "pe_50": 36.91,
-        "pe_75": 65.33,
-        "pe_90": 222.65
+        "pe": 12.14,
+        "pe_10": 17.62,
+        "pe_25": 24.25,
+        "pe_50": 35.71,
+        "pe_75": 63.88,
+        "pe_90": 222.7
       },
       {
         "date": "2022-08-16",
         "price": 27.6,
-        "pe": 12.74,
-        "pe_10": 14.84,
-        "pe_25": 23.86,
-        "pe_50": 39.17,
-        "pe_75": 69.32,
-        "pe_90": 236.27
+        "pe": 9.75,
+        "pe_10": 20.53,
+        "pe_25": 28.24,
+        "pe_50": 41.6,
+        "pe_75": 74.41,
+        "pe_90": 259.43
       },
       {
         "date": "2022-09-15",
         "price": 22.9,
-        "pe": 9.99,
-        "pe_10": 15.71,
-        "pe_25": 25.25,
-        "pe_50": 41.44,
-        "pe_75": 73.35,
-        "pe_90": 250.0
+        "pe": 7.09,
+        "pe_10": 23.42,
+        "pe_25": 32.23,
+        "pe_50": 47.46,
+        "pe_75": 84.91,
+        "pe_90": 296.01
       },
       {
         "date": "2022-10-16",
         "price": 22.5,
-        "pe": 9.3,
-        "pe_10": 16.58,
-        "pe_25": 26.65,
-        "pe_50": 43.74,
-        "pe_75": 77.42,
-        "pe_90": 263.85
+        "pe": 7.39,
+        "pe_10": 22.08,
+        "pe_25": 30.38,
+        "pe_50": 44.74,
+        "pe_75": 80.04,
+        "pe_90": 279.04
       },
       {
         "date": "2022-11-15",
         "price": 25.4,
-        "pe": 9.98,
-        "pe_10": 17.44,
-        "pe_25": 28.03,
-        "pe_50": 46.02,
-        "pe_75": 81.44,
-        "pe_90": 277.57
+        "pe": 8.89,
+        "pe_10": 20.72,
+        "pe_25": 28.51,
+        "pe_50": 41.99,
+        "pe_75": 75.11,
+        "pe_90": 261.85
       },
       {
         "date": "2022-12-16",
         "price": 26.1,
         "pe": 9.78,
-        "pe_10": 18.29,
-        "pe_25": 29.4,
-        "pe_50": 48.25,
-        "pe_75": 85.4,
-        "pe_90": 291.05
+        "pe_10": 19.35,
+        "pe_25": 26.63,
+        "pe_50": 39.22,
+        "pe_75": 70.15,
+        "pe_90": 244.58
       },
       {
         "date": "2023-01-16",
         "price": 26.8,
-        "pe": 9.9,
-        "pe_10": 18.55,
-        "pe_25": 29.82,
-        "pe_50": 48.94,
-        "pe_75": 86.63,
-        "pe_90": 295.23
+        "pe": 10.57,
+        "pe_10": 18.38,
+        "pe_25": 25.3,
+        "pe_50": 37.26,
+        "pe_75": 66.65,
+        "pe_90": 232.37
       },
       {
         "date": "2023-02-14",
         "price": 26.6,
-        "pe": 9.7,
-        "pe_10": 18.79,
-        "pe_25": 30.21,
-        "pe_50": 49.58,
-        "pe_75": 87.75,
-        "pe_90": 299.07
+        "pe": 11.07,
+        "pe_10": 17.42,
+        "pe_25": 23.97,
+        "pe_50": 35.31,
+        "pe_75": 63.17,
+        "pe_90": 220.22
       },
       {
         "date": "2023-03-16",
         "price": 31.8,
-        "pe": 11.44,
-        "pe_10": 19.05,
-        "pe_25": 30.62,
-        "pe_50": 50.26,
-        "pe_75": 88.95,
-        "pe_90": 303.16
+        "pe": 14.01,
+        "pe_10": 16.46,
+        "pe_25": 22.65,
+        "pe_50": 33.35,
+        "pe_75": 59.67,
+        "pe_90": 208.02
       },
       {
         "date": "2023-04-15",
         "price": 33.65,
-        "pe": 11.95,
-        "pe_10": 19.29,
-        "pe_25": 31.02,
-        "pe_50": 50.91,
-        "pe_75": 90.11,
-        "pe_90": 307.1
+        "pe": 12.98,
+        "pe_10": 18.8,
+        "pe_25": 25.87,
+        "pe_50": 38.1,
+        "pe_75": 68.15,
+        "pe_90": 237.59
       },
       {
         "date": "2023-05-16",
         "price": 32.5,
-        "pe": 11.39,
-        "pe_10": 19.55,
-        "pe_25": 31.43,
-        "pe_50": 51.59,
-        "pe_75": 91.31,
-        "pe_90": 311.19
+        "pe": 11.14,
+        "pe_10": 21.15,
+        "pe_25": 29.11,
+        "pe_50": 42.87,
+        "pe_75": 76.69,
+        "pe_90": 267.38
       },
       {
         "date": "2023-06-15",
         "price": 35.0,
-        "pe": 12.11,
-        "pe_10": 19.8,
-        "pe_25": 31.84,
-        "pe_50": 52.25,
-        "pe_75": 92.49,
-        "pe_90": 315.2
+        "pe": 10.8,
+        "pe_10": 23.5,
+        "pe_25": 32.33,
+        "pe_50": 47.62,
+        "pe_75": 85.19,
+        "pe_90": 297.01
       },
       {
         "date": "2023-07-16",
         "price": 39.8,
-        "pe": 13.6,
-        "pe_10": 20.05,
-        "pe_25": 32.24,
-        "pe_50": 52.91,
-        "pe_75": 93.65,
-        "pe_90": 319.16
+        "pe": 12.45,
+        "pe_10": 23.18,
+        "pe_25": 31.9,
+        "pe_50": 46.98,
+        "pe_75": 84.04,
+        "pe_90": 292.98
       },
       {
         "date": "2023-08-16",
         "price": 41.9,
-        "pe": 14.14,
-        "pe_10": 20.3,
-        "pe_25": 32.64,
-        "pe_50": 53.58,
-        "pe_75": 94.82,
-        "pe_90": 323.17
+        "pe": 13.29,
+        "pe_10": 22.86,
+        "pe_25": 31.46,
+        "pe_50": 46.33,
+        "pe_75": 82.88,
+        "pe_90": 288.94
       },
       {
         "date": "2023-09-15",
         "price": 37.0,
-        "pe": 12.33,
-        "pe_10": 20.56,
-        "pe_25": 33.05,
-        "pe_50": 54.25,
-        "pe_75": 96.03,
-        "pe_90": 327.27
+        "pe": 11.9,
+        "pe_10": 22.55,
+        "pe_25": 31.02,
+        "pe_50": 45.69,
+        "pe_75": 81.73,
+        "pe_90": 284.96
       },
       {
         "date": "2023-10-16",
         "price": 33.6,
-        "pe": 11.06,
-        "pe_10": 20.82,
-        "pe_25": 33.46,
-        "pe_50": 54.93,
-        "pe_75": 97.22,
-        "pe_90": 331.32
+        "pe": 10.8,
+        "pe_10": 22.56,
+        "pe_25": 31.04,
+        "pe_50": 45.72,
+        "pe_75": 81.78,
+        "pe_90": 285.13
       },
       {
         "date": "2023-11-15",
         "price": 41.1,
-        "pe": 13.37,
-        "pe_10": 21.06,
-        "pe_25": 33.86,
-        "pe_50": 55.58,
-        "pe_75": 98.37,
-        "pe_90": 335.26
+        "pe": 13.22,
+        "pe_10": 22.54,
+        "pe_25": 31.02,
+        "pe_50": 45.69,
+        "pe_75": 81.73,
+        "pe_90": 284.93
       },
       {
         "date": "2023-12-16",
         "price": 39.1,
         "pe": 12.57,
-        "pe_10": 21.31,
-        "pe_25": 34.26,
-        "pe_50": 56.24,
-        "pe_75": 99.54,
-        "pe_90": 339.24
+        "pe_10": 22.55,
+        "pe_25": 31.04,
+        "pe_50": 45.71,
+        "pe_75": 81.77,
+        "pe_90": 285.08
       },
       {
         "date": "2024-01-16",
         "price": 39.6,
-        "pe": 13.56,
-        "pe_10": 20.01,
-        "pe_25": 32.17,
-        "pe_50": 52.8,
-        "pe_75": 93.45,
-        "pe_90": 318.49
+        "pe": 12.75,
+        "pe_10": 22.52,
+        "pe_25": 30.99,
+        "pe_50": 45.64,
+        "pe_75": 81.65,
+        "pe_90": 284.65
       },
       {
         "date": "2024-02-15",
         "price": 39.65,
-        "pe": 14.51,
-        "pe_10": 18.72,
-        "pe_25": 30.1,
-        "pe_50": 49.41,
-        "pe_75": 87.44,
-        "pe_90": 298.02
+        "pe": 12.78,
+        "pe_10": 22.5,
+        "pe_25": 30.96,
+        "pe_50": 45.59,
+        "pe_75": 81.56,
+        "pe_90": 284.34
       },
       {
         "date": "2024-03-16",
         "price": 72.5,
-        "pe": 28.52,
-        "pe_10": 17.42,
-        "pe_25": 28.0,
-        "pe_50": 45.96,
-        "pe_75": 81.35,
-        "pe_90": 277.24
+        "pe": 23.39,
+        "pe_10": 22.48,
+        "pe_25": 30.93,
+        "pe_50": 45.55,
+        "pe_75": 81.48,
+        "pe_90": 284.07
       },
       {
         "date": "2024-04-15",
         "price": 102.0,
-        "pe": 43.34,
-        "pe_10": 16.13,
-        "pe_25": 25.92,
-        "pe_50": 42.55,
-        "pe_75": 75.31,
-        "pe_90": 256.67
+        "pe": 40.96,
+        "pe_10": 18.06,
+        "pe_25": 24.85,
+        "pe_50": 36.59,
+        "pe_75": 65.46,
+        "pe_90": 228.23
       },
       {
         "date": "2024-05-16",
         "price": 175.0,
-        "pe": 80.86,
-        "pe_10": 14.83,
-        "pe_25": 23.84,
-        "pe_50": 39.13,
-        "pe_75": 69.26,
-        "pe_90": 236.03
+        "pe": 93.09,
+        "pe_10": 13.63,
+        "pe_25": 18.76,
+        "pe_50": 27.63,
+        "pe_75": 49.42,
+        "pe_90": 172.29
       },
       {
         "date": "2024-06-15",
         "price": 166.0,
-        "pe": 84.05,
-        "pe_10": 13.53,
-        "pe_25": 21.75,
-        "pe_50": 35.71,
-        "pe_75": 63.2,
-        "pe_90": 215.4
+        "pe": 130.7,
+        "pe_10": 9.21,
+        "pe_25": 12.67,
+        "pe_50": 18.66,
+        "pe_75": 33.39,
+        "pe_90": 116.4
       },
       {
         "date": "2024-07-16",
         "price": 144.0,
-        "pe": 80.63,
-        "pe_10": 12.24,
-        "pe_25": 19.67,
-        "pe_50": 32.29,
-        "pe_75": 57.15,
-        "pe_90": 194.77
+        "pe": 173.5,
+        "pe_10": 6.02,
+        "pe_25": 8.28,
+        "pe_50": 12.2,
+        "pe_75": 21.82,
+        "pe_90": 76.07
       },
       {
         "date": "2024-08-16",
         "price": 158.5,
-        "pe": 99.27,
-        "pe_10": 10.94,
-        "pe_25": 17.59,
-        "pe_50": 28.87,
-        "pe_75": 51.09,
-        "pe_90": 174.13
-      },
-      {
-        "date": "2024-09-15",
-        "price": 150.0,
-        "pe": 106.6,
-        "pe_10": 9.64,
-        "pe_25": 15.5,
-        "pe_50": 25.44,
-        "pe_75": 45.03,
-        "pe_90": 153.46
+        "pe": 406.4,
+        "pe_10": 2.83,
+        "pe_25": 3.89,
+        "pe_50": 5.73,
+        "pe_75": 10.25,
+        "pe_90": 35.74
       },
       {
         "date": "2024-10-16",
         "price": 140.5,
-        "pe": 115.3,
-        "pe_10": 8.35,
-        "pe_25": 13.42,
-        "pe_50": 22.03,
-        "pe_75": 38.99,
-        "pe_90": 132.9
+        "pe": 569.6,
+        "pe_10": 1.79,
+        "pe_25": 2.46,
+        "pe_50": 3.62,
+        "pe_75": 6.48,
+        "pe_90": 22.61
       },
       {
         "date": "2024-11-15",
         "price": 142.0,
-        "pe": 138.0,
-        "pe_10": 7.05,
-        "pe_25": 11.33,
-        "pe_50": 18.6,
-        "pe_75": 32.93,
-        "pe_90": 112.22
+        "pe": 261.3,
+        "pe_10": 3.94,
+        "pe_25": 5.42,
+        "pe_50": 7.99,
+        "pe_75": 14.29,
+        "pe_90": 49.8
       },
       {
         "date": "2024-12-16",
         "price": 168.0,
         "pe": 200.0,
-        "pe_10": 5.76,
-        "pe_25": 9.25,
-        "pe_50": 15.19,
-        "pe_75": 26.88,
-        "pe_90": 91.61
+        "pe_10": 6.09,
+        "pe_25": 8.38,
+        "pe_50": 12.34,
+        "pe_75": 22.08,
+        "pe_90": 76.98
       },
       {
         "date": "2025-01-16",
         "price": 141.0,
-        "pe": 165.7,
-        "pe_10": 5.83,
-        "pe_25": 9.37,
-        "pe_50": 15.38,
-        "pe_75": 27.23,
-        "pe_90": 92.8
+        "pe": 178.5,
+        "pe_10": 5.73,
+        "pe_25": 7.88,
+        "pe_50": 11.61,
+        "pe_75": 20.76,
+        "pe_90": 72.39
       },
       {
         "date": "2025-02-14",
         "price": 157.0,
-        "pe": 182.2,
-        "pe_10": 5.9,
-        "pe_25": 9.49,
-        "pe_50": 15.58,
-        "pe_75": 27.57,
-        "pe_90": 93.98
+        "pe": 212.2,
+        "pe_10": 5.36,
+        "pe_25": 7.38,
+        "pe_50": 10.87,
+        "pe_75": 19.45,
+        "pe_90": 67.81
       },
       {
         "date": "2025-03-16",
         "price": 136.0,
-        "pe": 155.9,
-        "pe_10": 5.98,
-        "pe_25": 9.61,
-        "pe_50": 15.77,
-        "pe_75": 27.92,
-        "pe_90": 95.14
+        "pe": 197.1,
+        "pe_10": 5.0,
+        "pe_25": 6.88,
+        "pe_50": 10.14,
+        "pe_75": 18.14,
+        "pe_90": 63.24
       },
       {
         "date": "2025-04-15",
         "price": 132.0,
-        "pe": 149.4,
-        "pe_10": 6.05,
-        "pe_25": 9.73,
-        "pe_50": 15.97,
-        "pe_75": 28.27,
-        "pe_90": 96.36
-      },
-      {
-        "date": "2025-05-16",
-        "price": 142.5,
-        "pe": 159.4,
-        "pe_10": 6.13,
-        "pe_25": 9.85,
-        "pe_50": 16.16,
-        "pe_75": 28.61,
-        "pe_90": 97.5
-      },
-      {
-        "date": "2025-06-15",
-        "price": 136.5,
-        "pe": 150.8,
-        "pe_10": 6.2,
-        "pe_25": 9.97,
-        "pe_50": 16.37,
-        "pe_75": 28.97,
-        "pe_90": 98.72
+        "pe": 421.3,
+        "pe_10": 2.27,
+        "pe_25": 3.13,
+        "pe_50": 4.6,
+        "pe_75": 8.24,
+        "pe_90": 28.71
       },
       {
         "date": "2025-07-16",
         "price": 137.5,
-        "pe": 150.1,
-        "pe_10": 6.28,
-        "pe_25": 10.09,
-        "pe_50": 16.56,
-        "pe_75": 29.31,
-        "pe_90": 99.91
+        "pe": 4583.0,
+        "pe_10": 0.22,
+        "pe_25": 0.3,
+        "pe_50": 0.44,
+        "pe_75": 0.79,
+        "pe_90": 2.75
       },
       {
         "date": "2025-08-16",
         "price": 157.0,
-        "pe": 169.4,
-        "pe_10": 6.35,
-        "pe_25": 10.21,
-        "pe_50": 16.76,
-        "pe_75": 29.66,
-        "pe_90": 101.08
+        "pe": 314.0,
+        "pe_10": 3.63,
+        "pe_25": 4.99,
+        "pe_50": 7.35,
+        "pe_75": 13.14,
+        "pe_90": 45.82
       },
       {
         "date": "2025-09-15",
         "price": 142.0,
-        "pe": 151.5,
-        "pe_10": 6.42,
-        "pe_25": 10.32,
-        "pe_50": 16.95,
-        "pe_75": 29.99,
-        "pe_90": 102.22
+        "pe": 146.4,
+        "pe_10": 7.03,
+        "pe_25": 9.68,
+        "pe_50": 14.25,
+        "pe_75": 25.5,
+        "pe_90": 88.89
       },
       {
         "date": "2025-10-16",
         "price": 131.5,
-        "pe": 138.7,
-        "pe_10": 6.5,
-        "pe_25": 10.44,
-        "pe_50": 17.14,
-        "pe_75": 30.34,
-        "pe_90": 103.4
+        "pe": 135.6,
+        "pe_10": 7.03,
+        "pe_25": 9.68,
+        "pe_50": 14.25,
+        "pe_75": 25.49,
+        "pe_90": 88.88
       },
       {
         "date": "2025-11-15",
         "price": 133.5,
-        "pe": 139.2,
-        "pe_10": 6.57,
-        "pe_25": 10.56,
-        "pe_50": 17.34,
-        "pe_75": 30.69,
-        "pe_90": 104.59
+        "pe": 137.6,
+        "pe_10": 7.03,
+        "pe_25": 9.68,
+        "pe_50": 14.26,
+        "pe_75": 25.5,
+        "pe_90": 88.92
       },
       {
         "date": "2025-12-16",
         "price": 125.5,
         "pe": 129.4,
-        "pe_10": 6.65,
-        "pe_25": 10.68,
-        "pe_50": 17.54,
-        "pe_75": 31.04,
-        "pe_90": 105.77
+        "pe_10": 7.03,
+        "pe_25": 9.68,
+        "pe_50": 14.25,
+        "pe_75": 25.5,
+        "pe_90": 88.89
       },
       {
         "date": "2026-01-16",
         "price": 132.0,
         "pe": 136.1,
-        "pe_10": 6.65,
-        "pe_25": 10.68,
-        "pe_50": 17.54,
-        "pe_75": 31.04,
-        "pe_90": 105.77
+        "pe_10": 7.03,
+        "pe_25": 9.68,
+        "pe_50": 14.25,
+        "pe_75": 25.5,
+        "pe_90": 88.89
       },
       {
         "date": "2026-02-14",
         "price": 132.5,
         "pe": 136.6,
-        "pe_10": 6.65,
-        "pe_25": 10.68,
-        "pe_50": 17.54,
-        "pe_75": 31.04,
-        "pe_90": 105.79
+        "pe_10": 7.03,
+        "pe_25": 9.68,
+        "pe_50": 14.25,
+        "pe_75": 25.5,
+        "pe_90": 88.9
       }
     ]
   },
@@ -19938,19 +18045,19 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (6.8倍)",
+            "title": "PE 10% (7.2倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (18.1倍)",
+            "title": "PE 50% (14.7倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (109.1倍)",
+            "title": "PE 90% (91.7倍)",
             "format": ".1f"
           }
         ]
@@ -20670,6 +18777,10 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
       {
         "date": "2026-01-16",
         "revenue_yoy": 12.7
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": -38.5
       }
     ]
   },
@@ -20737,16 +18848,16 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 39.9 | +256.9% | 0.001 | 2024-02 (+38629.0%) | 2008-06 (-91.2%) |
-| 6個月 | 38.5 | +62.2% | 0.002 | 2023-11 (+1731.1%) | 2008-05 (-87.7%) |
-| 1年 | 36.0 | +32.8% | 0.002 | 2023-05 (+441.2%) | 2007-09 (-72.5%) |
-| 2年 | 31.9 | +21.4% | 0.000 | 2022-09 (+158.5%) | 2007-08 (-34.8%) |
-| 3年 | 32.9 | +17.4% | 0.000 | 2021-05 (+118.7%) | 2007-08 (-21.3%) |
-| 4年 | 34.2 | +15.1% | 0.001 | 2020-05 (+76.7%) | 2007-09 (-22.6%) |
-| 5年 | 34.9 | +13.0% | 0.010 | 2020-03 (+54.8%) | 2007-08 (-17.7%) |
-| 6年 | 34.1 | +12.1% | 0.001 | 2018-12 (+45.8%) | 2007-09 (-12.1%) |
-| 8年 | 37.1 | +11.8% | 0.000 | 2016-06 (+36.9%) | 2007-09 (-7.8%) |
-| 10年 | 39.5 | +11.1% | 0.000 | 2015-08 (+28.2%) | 2007-09 (-1.5%) |
+| 3個月 | 57.3 | +256.9% | 0.000 | 2024-02 (+38629.0%) | 2008-06 (-91.2%) |
+| 6個月 | 55.3 | +62.2% | 0.001 | 2023-11 (+1731.1%) | 2008-05 (-87.7%) |
+| 1年 | 31.1 | +32.8% | 0.006 | 2023-05 (+441.2%) | 2007-09 (-72.5%) |
+| 2年 | 21.2 | +21.4% | 0.000 | 2022-09 (+158.5%) | 2007-08 (-34.8%) |
+| 3年 | 21.8 | +17.4% | 0.004 | 2021-05 (+118.7%) | 2007-08 (-21.3%) |
+| 4年 | 22.5 | +15.1% | 0.065 | 2020-05 (+76.7%) | 2007-09 (-22.6%) |
+| 5年 | 21.9 | +13.0% | 0.030 | 2020-03 (+54.8%) | 2007-08 (-17.7%) |
+| 6年 | 19.7 | +12.1% | 0.008 | 2018-12 (+45.8%) | 2007-09 (-12.1%) |
+| 8年 | 20.3 | +11.8% | 0.005 | 2016-06 (+36.9%) | 2007-09 (-7.8%) |
+| 10年 | 19.7 | +11.1% | 0.001 | 2015-08 (+28.2%) | 2007-09 (-1.5%) |
 
 
 ## 🎯 使用說明
@@ -20765,4 +18876,4 @@ description: "2359 所羅門 (其他電子業) 本益比與未來報酬率關係
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:29:45 CST*
+*數據更新時間: 2026-03-21 12:35:35 CST*

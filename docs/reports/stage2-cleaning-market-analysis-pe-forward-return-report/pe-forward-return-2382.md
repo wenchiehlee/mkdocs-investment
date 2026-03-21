@@ -2,7 +2,7 @@
 title: "2382 廣達 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
     - **產業別**: 電腦及週邊設備業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:30:21 CST
+    - **報告生成時間**: 2026-03-21 12:36:16 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.85,
         "forward_return": -21.14,
         "start_price": 53.3,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 15.68,
         "forward_return": -41.62,
         "start_price": 56.3,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 13.4,
         "forward_return": 13.74,
         "start_price": 48.1,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.42,
+        "pe_ratio": 14.43,
         "forward_return": -13.89,
         "start_price": 51.8,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 12.11,
+        "pe_ratio": 13.02,
         "forward_return": 23.47,
         "start_price": 46.75,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 13.15,
         "forward_return": 96.04,
         "start_price": 47.2,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.28,
+        "pe_ratio": 13.2,
         "forward_return": 142.41,
         "start_price": 47.4,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.4,
         "forward_return": 61.19,
         "start_price": 49.3,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 14.61,
+        "pe_ratio": 14.96,
         "forward_return": -28.56,
         "start_price": 56.4,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.96,
+        "pe_ratio": 14.15,
         "forward_return": -27.61,
         "start_price": 55.6,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.12,
         "forward_return": -39.1,
         "start_price": 56.5,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.41,
         "forward_return": 37.74,
         "start_price": 50.5,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 11.23,
         "forward_return": 88.33,
         "start_price": 48.0,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.17,
         "forward_return": 59.06,
         "start_price": 50.0,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.94,
         "forward_return": 25.37,
         "start_price": 51.2,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.27,
         "forward_return": 2.99,
         "start_price": 53.7,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.08,
         "forward_return": -36.88,
         "start_price": 53.7,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 10.49,
         "forward_return": -37.16,
         "start_price": 51.7,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.68,
         "forward_return": -76.66,
         "start_price": 54.1,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.31,
+        "pe_ratio": 9.33,
         "forward_return": -35.46,
         "start_price": 48.5,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.95,
         "forward_return": 110.68,
         "start_price": 37.5,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.59,
         "forward_return": 81.07,
         "start_price": 41.4,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 42.79,
         "start_price": 41.95,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.22,
         "forward_return": -24.64,
         "start_price": 50.7,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.77,
         "forward_return": 30.21,
         "start_price": 48.0,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.77,
         "forward_return": -61.5,
         "start_price": 43.75,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.7,
+        "pe_ratio": 8.22,
         "forward_return": -62.0,
         "start_price": 47.8,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.52,
         "forward_return": -38.78,
         "start_price": 39.1,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.21,
+        "pe_ratio": 5.87,
         "forward_return": -28.61,
         "start_price": 34.4,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.48,
+        "pe_ratio": 6.29,
         "forward_return": 69.92,
         "start_price": 36.0,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.62,
+        "pe_ratio": 5.61,
         "forward_return": 355.42,
         "start_price": 31.6,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.3,
+        "pe_ratio": 6.29,
         "forward_return": 360.12,
         "start_price": 35.7,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.51,
+        "pe_ratio": 7.48,
         "forward_return": 257.87,
         "start_price": 42.85,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 8.59,
+        "pe_ratio": 8.69,
         "forward_return": 212.18,
         "start_price": 49.4,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 8.98,
+        "pe_ratio": 9.21,
         "forward_return": 258.01,
         "start_price": 52.0,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.08,
+        "pe_ratio": 9.46,
         "forward_return": 219.25,
         "start_price": 53.0,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 11.28,
         "forward_return": 2.58,
         "start_price": 62.1,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.61,
         "forward_return": 6.27,
         "start_price": 68.2,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.32,
+        "pe_ratio": 12.71,
         "forward_return": 13.08,
         "start_price": 67.5,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 11.22,
         "forward_return": 9.19,
         "start_price": 62.5,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.15,
         "forward_return": -15.09,
         "start_price": 65.0,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 10.46,
         "forward_return": -24.75,
         "start_price": 63.9,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.69,
         "forward_return": -38.09,
         "start_price": 65.5,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.02,
         "forward_return": 0.41,
         "start_price": 61.6,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 9.61,
         "forward_return": 17.14,
         "start_price": 59.3,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.4,
         "forward_return": -34.66,
         "start_price": 58.2,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.42,
         "forward_return": -25.15,
         "start_price": 58.5,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 9.4,
         "forward_return": -11.76,
         "start_price": 58.0,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 7.92,
         "forward_return": 99.4,
         "start_price": 48.6,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 8.31,
         "forward_return": 112.86,
         "start_price": 50.7,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 9.87,
         "forward_return": 43.02,
         "start_price": 56.2,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 11.32,
         "forward_return": -20.72,
         "start_price": 59.9,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.34,
+        "pe_ratio": 12.53,
         "forward_return": 18.9,
         "start_price": 61.5,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.44,
+        "pe_ratio": 11.78,
         "forward_return": 58.67,
         "start_price": 58.1,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.21,
         "forward_return": 142.4,
         "start_price": 55.5,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.36,
         "forward_return": 205.07,
         "start_price": 56.5,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 12.14,
+        "pe_ratio": 13.03,
         "forward_return": -16.02,
         "start_price": 65.1,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.47,
+        "pe_ratio": 13.55,
         "forward_return": -25.69,
         "start_price": 68.0,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 14.24,
         "forward_return": -49.08,
         "start_price": 71.0,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.4,
+        "pe_ratio": 11.85,
         "forward_return": 27.73,
         "start_price": 58.7,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.37,
+        "pe_ratio": 12.09,
         "forward_return": 31.49,
         "start_price": 59.5,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.33,
         "forward_return": 23.73,
         "start_price": 59.9,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.96,
+        "pe_ratio": 10.44,
         "forward_return": 126.03,
         "start_price": 59.0,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.59,
         "forward_return": 88.73,
         "start_price": 63.2,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.28,
         "forward_return": 32.64,
         "start_price": 72.7,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 13.17,
         "forward_return": 21.07,
         "start_price": 77.3,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.97,
         "forward_return": 32.63,
         "start_price": 76.8,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.07,
         "forward_return": 17.87,
         "start_price": 78.0,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 13.19,
         "forward_return": 13.09,
         "start_price": 79.4,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 12.83,
         "forward_return": -47.04,
         "start_price": 78.4,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 12.47,
         "forward_return": -30.97,
         "start_price": 77.3,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.38,
         "forward_return": -41.01,
         "start_price": 77.9,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.78,
         "forward_return": 13.08,
         "start_price": 66.8,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 12.14,
+        "pe_ratio": 11.96,
         "forward_return": -24.71,
         "start_price": 73.0,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 11.58,
         "forward_return": -17.03,
         "start_price": 68.9,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.75,
         "forward_return": 9.97,
         "start_price": 63.3,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.41,
         "forward_return": 36.59,
         "start_price": 66.5,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 10.78,
         "forward_return": 114.8,
         "start_price": 61.0,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 11.8,
         "forward_return": 14.85,
         "start_price": 64.8,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 12.22,
         "forward_return": 20.32,
         "start_price": 65.0,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 13.53,
         "forward_return": -0.57,
         "start_price": 69.8,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.62,
         "forward_return": 33.54,
         "start_price": 63.1,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.49,
+        "pe_ratio": 13.24,
         "forward_return": 38.35,
         "start_price": 64.1,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.4,
         "forward_return": 33.77,
         "start_price": 69.7,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.62,
         "forward_return": 94.51,
         "start_price": 65.9,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.45,
         "forward_return": 24.98,
         "start_price": 75.0,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.31,
         "forward_return": 38.32,
         "start_price": 74.5,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.8,
         "forward_return": 24.39,
         "start_price": 82.0,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 17.04,
+        "pe_ratio": 16.94,
         "forward_return": 28.86,
         "start_price": 82.8,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.49,
         "forward_return": 42.31,
         "start_price": 80.7,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 17.86,
+        "pe_ratio": 17.76,
         "forward_return": -24.7,
         "start_price": 87.0,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.19,
         "forward_return": -32.66,
         "start_price": 84.4,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 17.15,
         "forward_return": -17.34,
         "start_price": 84.4,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.66,
         "forward_return": 10.81,
         "start_price": 77.2,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.53,
         "forward_return": 3.15,
         "start_price": 76.4,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.73,
+        "pe_ratio": 15.68,
         "forward_return": -5.43,
         "start_price": 77.0,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 3.6,
         "start_price": 77.0,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.36,
+        "pe_ratio": 16.82,
         "forward_return": -7.45,
         "start_price": 79.4,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 16.33,
         "forward_return": -36.38,
         "start_price": 75.6,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.84,
         "forward_return": -49.34,
         "start_price": 77.0,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 16.29,
+        "pe_ratio": 17.25,
         "forward_return": -54.74,
         "start_price": 77.9,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 16.37,
         "forward_return": -50.66,
         "start_price": 73.0,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.88,
+        "pe_ratio": 13.4,
         "forward_return": -31.28,
         "start_price": 61.0,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 12.87,
         "forward_return": -30.33,
         "start_price": 59.8,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.05,
         "forward_return": -25.85,
         "start_price": 57.1,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.81,
         "forward_return": -14.83,
         "start_price": 55.5,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.94,
         "forward_return": 34.05,
         "start_price": 51.0,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 11.54,
         "forward_return": 29.06,
         "start_price": 53.3,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 12.16,
         "forward_return": 13.49,
         "start_price": 56.2,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.16,
         "forward_return": 82.44,
         "start_price": 56.2,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 11.23,
         "forward_return": 205.83,
         "start_price": 52.0,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 13.39,
+        "pe_ratio": 12.5,
         "forward_return": 34.54,
         "start_price": 58.0,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 14.27,
+        "pe_ratio": 13.12,
         "forward_return": 64.99,
         "start_price": 61.0,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 15.39,
+        "pe_ratio": 14.48,
         "forward_return": -5.39,
         "start_price": 64.9,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.6,
         "forward_return": 8.38,
         "start_price": 58.7,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 15.94,
+        "pe_ratio": 15.76,
         "forward_return": -27.81,
         "start_price": 65.4,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 15.7,
         "forward_return": -2.46,
         "start_price": 64.0,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 14.84,
         "forward_return": 12.26,
         "start_price": 59.4,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 16.52,
         "forward_return": 27.02,
         "start_price": 63.6,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 16.35,
+        "pe_ratio": 16.9,
         "forward_return": 36.69,
         "start_price": 63.7,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.72,
         "forward_return": 80.11,
         "start_price": 61.7,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 16.71,
         "forward_return": 108.99,
         "start_price": 62.5,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 21.11,
         "start_price": 68.8,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 18.75,
         "forward_return": 7.95,
         "start_price": 72.0,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 18.78,
+        "pe_ratio": 18.65,
         "forward_return": -3.29,
         "start_price": 71.6,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.89,
         "forward_return": -26.81,
         "start_price": 68.7,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.49,
+        "pe_ratio": 18.2,
         "forward_return": -38.61,
         "start_price": 69.9,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.67,
         "forward_return": -35.8,
         "start_price": 71.0,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.33,
         "forward_return": -11.41,
         "start_price": 61.5,
         "start_year": 2017
@@ -1317,7 +1317,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.05,
         "forward_return": -42.31,
         "start_price": 63.5,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 15.84,
+        "pe_ratio": 16.04,
         "forward_return": -37.89,
         "start_price": 59.6,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 15.93,
         "forward_return": -13.52,
         "start_price": 59.1,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.73,
         "forward_return": 17.35,
         "start_price": 54.1,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 14.57,
         "forward_return": 26.21,
         "start_price": 53.0,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.86,
         "forward_return": 25.06,
         "start_price": 53.5,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 14.45,
         "forward_return": -27.11,
         "start_price": 52.9,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 14.19,
         "forward_return": -0.57,
         "start_price": 52.8,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.74,
+        "pe_ratio": 14.07,
         "forward_return": -3.72,
         "start_price": 53.2,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 70.78,
         "start_price": 48.85,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.9,
         "forward_return": 55.94,
         "start_price": 49.95,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.19,
+        "pe_ratio": 14.14,
         "forward_return": 17.25,
         "start_price": 55.9,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 14.46,
+        "pe_ratio": 14.35,
         "forward_return": 12.62,
         "start_price": 57.2,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.38,
         "forward_return": 17.8,
         "start_price": 57.8,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 14.58,
         "forward_return": 13.15,
         "start_price": 59.2,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.68,
+        "pe_ratio": 14.37,
         "forward_return": 7.98,
         "start_price": 58.9,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.59,
         "forward_return": -1.63,
         "start_price": 60.4,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.99,
         "forward_return": 7.08,
         "start_price": 57.5,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 13.89,
+        "pe_ratio": 13.85,
         "forward_return": 47.28,
         "start_price": 56.5,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 13.86,
+        "pe_ratio": 13.98,
         "forward_return": 66.85,
         "start_price": 56.6,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.34,
         "forward_return": 25.95,
         "start_price": 58.5,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 14.63,
+        "pe_ratio": 14.67,
         "forward_return": -0.5,
         "start_price": 60.3,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.15,
         "forward_return": 44.24,
         "start_price": 62.0,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.64,
+        "pe_ratio": 15.32,
         "forward_return": 62.76,
         "start_price": 62.0,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.68,
+        "pe_ratio": 15.05,
         "forward_return": 185.87,
         "start_price": 60.2,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.11,
+        "pe_ratio": 15.46,
         "forward_return": 202.36,
         "start_price": 64.9,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 15.93,
         "forward_return": 75.9,
         "start_price": 70.0,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.26,
+        "pe_ratio": 15.47,
         "forward_return": 55.1,
         "start_price": 71.0,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.72,
         "forward_return": -39.75,
         "start_price": 81.8,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.37,
+        "pe_ratio": 14.82,
         "forward_return": 15.94,
         "start_price": 77.0,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 13.75,
         "forward_return": 31.25,
         "start_price": 75.6,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 12.29,
         "forward_return": 57.28,
         "start_price": 72.0,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 108.35,
         "start_price": 77.0,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 11.96,
+        "pe_ratio": 11.59,
         "forward_return": 37.96,
         "start_price": 80.7,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 12.27,
+        "pe_ratio": 11.56,
         "forward_return": 24.41,
         "start_price": 85.0,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.66,
         "forward_return": -40.28,
         "start_price": 98.0,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 12.48,
         "forward_return": -50.71,
         "start_price": 98.4,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 11.18,
         "forward_return": -24.39,
         "start_price": 89.7,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.71,
         "forward_return": -20.07,
         "start_price": 87.5,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.31,
         "forward_return": 3.64,
         "start_price": 77.3,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.3,
         "forward_return": 76.03,
         "start_price": 78.4,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.46,
+        "pe_ratio": 9.05,
         "forward_return": 123.56,
         "start_price": 77.5,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.32,
+        "pe_ratio": 9.05,
         "forward_return": 100.18,
         "start_price": 78.0,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.9,
         "forward_return": 8.75,
         "start_price": 85.9,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.68,
         "forward_return": -37.52,
         "start_price": 92.9,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 10.72,
         "forward_return": -46.58,
         "start_price": 92.9,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.23,
         "forward_return": 10.16,
         "start_price": 88.3,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.07,
+        "pe_ratio": 10.1,
         "forward_return": 40.45,
         "start_price": 83.8,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 9.68,
+        "pe_ratio": 10.0,
         "forward_return": 35.31,
         "start_price": 79.6,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.47,
         "forward_return": 20.28,
         "start_price": 79.8,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 11.12,
         "forward_return": -57.0,
         "start_price": 84.6,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 10.43,
         "forward_return": -24.17,
         "start_price": 79.3,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.14,
         "forward_return": -22.34,
         "start_price": 77.0,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.04,
         "forward_return": 41.88,
         "start_price": 68.4,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.5,
         "forward_return": 94.56,
         "start_price": 71.6,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 9.65,
+        "pe_ratio": 9.98,
         "forward_return": 286.78,
         "start_price": 74.7,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.73,
         "forward_return": 357.37,
         "start_price": 80.1,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.98,
         "forward_return": 1953.56,
         "start_price": 89.1,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 10.18,
+        "pe_ratio": 10.77,
         "forward_return": 6558.6,
         "start_price": 85.9,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.68,
         "forward_return": 2303.53,
         "start_price": 116.5,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 17.08,
+        "pe_ratio": 16.8,
         "forward_return": 570.82,
         "start_price": 152.0,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 25.5,
         "forward_return": -60.29,
         "start_price": 238.5,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 26.25,
         "forward_return": -30.49,
         "start_price": 253.5,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 24.05,
         "forward_return": -22.86,
         "start_price": 239.5,
         "start_year": 2023
@@ -1938,7 +1938,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 18.77,
         "forward_return": 189.38,
         "start_price": 189.0,
         "start_year": 2023
@@ -1947,7 +1947,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 20.18,
+        "pe_ratio": 19.94,
         "forward_return": 204.31,
         "start_price": 203.0,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.03,
+        "pe_ratio": 22.93,
         "forward_return": 36.77,
         "start_price": 247.0,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 20.61,
         "forward_return": 95.0,
         "start_price": 232.0,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 25.0,
         "forward_return": -11.75,
         "start_price": 293.5,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 21.62,
+        "pe_ratio": 21.35,
         "forward_return": 37.56,
         "start_price": 260.0,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 22.0,
+        "pe_ratio": 21.72,
         "forward_return": 4.42,
         "start_price": 274.0,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 24.2,
+        "pe_ratio": 23.91,
         "forward_return": -41.15,
         "start_price": 312.0,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.45,
+        "pe_ratio": 20.37,
         "forward_return": 53.38,
         "start_price": 272.5,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 19.48,
+        "pe_ratio": 19.55,
         "forward_return": 22.76,
         "start_price": 268.0,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 18.6,
+        "pe_ratio": 18.8,
         "forward_return": 39.83,
         "start_price": 264.0,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 20.9,
         "forward_return": -37.61,
         "start_price": 303.5,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 19.33,
+        "pe_ratio": 19.39,
         "forward_return": -54.6,
         "start_price": 291.0,
         "start_year": 2024
@@ -2073,7 +2073,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 16.7,
         "forward_return": 2.28,
         "start_price": 269.5,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 15.78,
+        "pe_ratio": 14.93,
         "forward_return": 38.64,
         "start_price": 250.5,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 13.97,
+        "pe_ratio": 12.89,
         "forward_return": 125.36,
         "start_price": 224.5,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 13.58,
         "forward_return": 133.16,
         "start_price": 238.5,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 16.49,
+        "pe_ratio": 15.33,
         "forward_return": 5.98,
         "start_price": 271.5,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 15.37,
         "forward_return": 48.02,
         "start_price": 274.5,
         "start_year": 2025
@@ -2127,7 +2127,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.77,
         "forward_return": 29.6,
         "start_price": 281.5,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 15.4,
+        "pe_ratio": 14.72,
         "forward_return": 11.23,
         "start_price": 262.5,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 16.82,
+        "pe_ratio": 16.27,
         "forward_return": -22.68,
         "start_price": 290.0,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 17.24,
+        "pe_ratio": 16.36,
         "forward_return": -24.46,
         "start_price": 300.5,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.85,
         "forward_return": -4.8,
         "start_price": 53.3,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 15.68,
         "forward_return": -15.37,
         "start_price": 56.3,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 13.4,
         "forward_return": 52.47,
         "start_price": 48.1,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.42,
+        "pe_ratio": 14.43,
         "forward_return": 41.25,
         "start_price": 51.8,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 12.11,
+        "pe_ratio": 13.02,
         "forward_return": 41.08,
         "start_price": 46.75,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 13.15,
         "forward_return": 12.35,
         "start_price": 47.2,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.28,
+        "pe_ratio": 13.2,
         "forward_return": 13.64,
         "start_price": 47.4,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.4,
         "forward_return": 2.46,
         "start_price": 49.3,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 14.61,
+        "pe_ratio": 14.96,
         "forward_return": -21.58,
         "start_price": 56.4,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.96,
+        "pe_ratio": 14.15,
         "forward_return": 2.19,
         "start_price": 55.6,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.12,
         "forward_return": -1.06,
         "start_price": 56.5,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.41,
         "forward_return": 21.49,
         "start_price": 50.5,
         "start_year": 2007
@@ -2280,7 +2280,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 11.23,
         "forward_return": 38.95,
         "start_price": 48.0,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.17,
         "forward_return": -4.9,
         "start_price": 50.0,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.94,
         "forward_return": -10.06,
         "start_price": 51.2,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.27,
         "forward_return": -50.97,
         "start_price": 53.7,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.08,
         "forward_return": -34.52,
         "start_price": 53.7,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 10.49,
         "forward_return": -34.26,
         "start_price": 51.7,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.68,
         "forward_return": -18.55,
         "start_price": 54.1,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.31,
+        "pe_ratio": 9.33,
         "forward_return": -2.06,
         "start_price": 48.5,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.95,
         "forward_return": 59.01,
         "start_price": 37.5,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.59,
         "forward_return": 53.41,
         "start_price": 41.4,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": -15.91,
         "start_price": 41.95,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.22,
         "forward_return": -44.05,
         "start_price": 50.7,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.77,
         "forward_return": -32.58,
         "start_price": 48.0,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.77,
         "forward_return": -47.58,
         "start_price": 43.75,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.7,
+        "pe_ratio": 8.22,
         "forward_return": -17.17,
         "start_price": 47.8,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.52,
         "forward_return": 20.3,
         "start_price": 39.1,
         "start_year": 2008
@@ -2442,7 +2442,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.21,
+        "pe_ratio": 5.87,
         "forward_return": 103.78,
         "start_price": 34.4,
         "start_year": 2008
@@ -2451,7 +2451,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.48,
+        "pe_ratio": 6.29,
         "forward_return": 110.02,
         "start_price": 36.0,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.62,
+        "pe_ratio": 5.61,
         "forward_return": 336.65,
         "start_price": 31.6,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.3,
+        "pe_ratio": 6.29,
         "forward_return": 305.3,
         "start_price": 35.7,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.51,
+        "pe_ratio": 7.48,
         "forward_return": 109.02,
         "start_price": 42.85,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 8.59,
+        "pe_ratio": 8.69,
         "forward_return": 78.29,
         "start_price": 49.4,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 8.98,
+        "pe_ratio": 9.21,
         "forward_return": 78.84,
         "start_price": 52.0,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.08,
+        "pe_ratio": 9.46,
         "forward_return": 89.98,
         "start_price": 53.0,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 11.28,
         "forward_return": 5.84,
         "start_price": 62.1,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.61,
         "forward_return": -16.08,
         "start_price": 68.2,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.32,
+        "pe_ratio": 12.71,
         "forward_return": -16.85,
         "start_price": 67.5,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 11.22,
         "forward_return": -11.56,
         "start_price": 62.5,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.15,
         "forward_return": -19.99,
         "start_price": 65.0,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 10.46,
         "forward_return": -6.87,
         "start_price": 63.9,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.69,
         "forward_return": -36.38,
         "start_price": 65.5,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.02,
         "forward_return": -4.71,
         "start_price": 61.6,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 9.61,
         "forward_return": 1.98,
         "start_price": 59.3,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.4,
         "forward_return": 20.39,
         "start_price": 58.2,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.42,
         "forward_return": 22.96,
         "start_price": 58.5,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 9.4,
         "forward_return": 12.33,
         "start_price": 58.0,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 7.92,
         "forward_return": 25.7,
         "start_price": 48.6,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 8.31,
         "forward_return": 20.03,
         "start_price": 50.7,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 9.87,
         "forward_return": 28.82,
         "start_price": 56.2,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 11.32,
         "forward_return": 18.29,
         "start_price": 59.9,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.34,
+        "pe_ratio": 12.53,
         "forward_return": 47.65,
         "start_price": 61.5,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.44,
+        "pe_ratio": 11.78,
         "forward_return": 15.03,
         "start_price": 58.1,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.21,
         "forward_return": 25.84,
         "start_price": 55.5,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.36,
         "forward_return": 26.25,
         "start_price": 56.5,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 12.14,
+        "pe_ratio": 13.03,
         "forward_return": 5.83,
         "start_price": 65.1,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.47,
+        "pe_ratio": 13.55,
         "forward_return": -2.05,
         "start_price": 68.0,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 14.24,
         "forward_return": -20.63,
         "start_price": 71.0,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.4,
+        "pe_ratio": 11.85,
         "forward_return": 60.32,
         "start_price": 58.7,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.37,
+        "pe_ratio": 12.09,
         "forward_return": 69.09,
         "start_price": 59.5,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.33,
         "forward_return": 57.26,
         "start_price": 59.9,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.96,
+        "pe_ratio": 10.44,
         "forward_return": 75.11,
         "start_price": 59.0,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.59,
         "forward_return": 70.29,
         "start_price": 63.2,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.28,
         "forward_return": 24.99,
         "start_price": 72.7,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 13.17,
         "forward_return": -13.93,
         "start_price": 77.3,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.97,
         "forward_return": -14.99,
         "start_price": 76.8,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.07,
         "forward_return": -12.15,
         "start_price": 78.0,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 13.19,
         "forward_return": -17.06,
         "start_price": 79.4,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 12.83,
         "forward_return": -22.62,
         "start_price": 78.4,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 12.47,
         "forward_return": -22.84,
         "start_price": 77.3,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.38,
         "forward_return": -27.33,
         "start_price": 77.9,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.78,
         "forward_return": -5.1,
         "start_price": 66.8,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 12.14,
+        "pe_ratio": 11.96,
         "forward_return": -21.37,
         "start_price": 73.0,
         "start_year": 2012
@@ -2901,7 +2901,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 11.58,
         "forward_return": 14.87,
         "start_price": 68.9,
         "start_year": 2013
@@ -2910,7 +2910,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.75,
         "forward_return": 12.41,
         "start_price": 63.3,
         "start_year": 2013
@@ -2919,7 +2919,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.41,
         "forward_return": 19.18,
         "start_price": 66.5,
         "start_year": 2013
@@ -2928,7 +2928,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 10.78,
         "forward_return": 45.86,
         "start_price": 61.0,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 11.8,
         "forward_return": 23.99,
         "start_price": 64.8,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 12.22,
         "forward_return": 27.8,
         "start_price": 65.0,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 13.53,
         "forward_return": 15.33,
         "start_price": 69.8,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.62,
         "forward_return": 57.05,
         "start_price": 63.1,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.49,
+        "pe_ratio": 13.24,
         "forward_return": 64.37,
         "start_price": 64.1,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.4,
         "forward_return": 28.72,
         "start_price": 69.7,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.62,
         "forward_return": 50.51,
         "start_price": 65.9,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.45,
         "forward_return": 38.7,
         "start_price": 75.0,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.31,
         "forward_return": 40.32,
         "start_price": 74.5,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.8,
         "forward_return": -3.72,
         "start_price": 82.0,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 17.04,
+        "pe_ratio": 16.94,
         "forward_return": -6.17,
         "start_price": 82.8,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.49,
         "forward_return": 4.91,
         "start_price": 80.7,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 17.86,
+        "pe_ratio": 17.76,
         "forward_return": -8.97,
         "start_price": 87.0,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.19,
         "forward_return": -16.65,
         "start_price": 84.4,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 17.15,
         "forward_return": -17.28,
         "start_price": 84.4,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.66,
         "forward_return": -4.14,
         "start_price": 77.2,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.53,
         "forward_return": 3.41,
         "start_price": 76.4,
         "start_year": 2014
@@ -3099,7 +3099,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.73,
+        "pe_ratio": 15.68,
         "forward_return": 2.37,
         "start_price": 77.0,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": -28.96,
         "start_price": 77.0,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.36,
+        "pe_ratio": 16.82,
         "forward_return": -35.53,
         "start_price": 79.4,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 16.33,
         "forward_return": -33.55,
         "start_price": 75.6,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.84,
         "forward_return": -40.23,
         "start_price": 77.0,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 16.29,
+        "pe_ratio": 17.25,
         "forward_return": -41.32,
         "start_price": 77.9,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 16.37,
         "forward_return": -38.97,
         "start_price": 73.0,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.88,
+        "pe_ratio": 13.4,
         "forward_return": -23.5,
         "start_price": 61.0,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 12.87,
         "forward_return": -10.1,
         "start_price": 59.8,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.05,
         "forward_return": -3.14,
         "start_price": 57.1,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.81,
         "forward_return": 7.85,
         "start_price": 55.5,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.94,
         "forward_return": 29.45,
         "start_price": 51.0,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 11.54,
         "forward_return": 66.42,
         "start_price": 53.3,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 12.16,
         "forward_return": 23.62,
         "start_price": 56.2,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.16,
         "forward_return": 37.75,
         "start_price": 56.2,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 11.23,
         "forward_return": 69.82,
         "start_price": 52.0,
         "start_year": 2016
@@ -3261,7 +3261,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 13.39,
+        "pe_ratio": 12.5,
         "forward_return": 18.61,
         "start_price": 58.0,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 14.27,
+        "pe_ratio": 13.12,
         "forward_return": 10.4,
         "start_price": 61.0,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 15.39,
+        "pe_ratio": 14.48,
         "forward_return": -3.94,
         "start_price": 64.9,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.6,
         "forward_return": 8.97,
         "start_price": 58.7,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 15.94,
+        "pe_ratio": 15.76,
         "forward_return": -11.09,
         "start_price": 65.4,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 15.7,
         "forward_return": 13.27,
         "start_price": 64.0,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 14.84,
         "forward_return": 34.51,
         "start_price": 59.4,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 16.52,
         "forward_return": 39.85,
         "start_price": 63.6,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 16.35,
+        "pe_ratio": 16.9,
         "forward_return": 28.58,
         "start_price": 63.7,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.72,
         "forward_return": 37.95,
         "start_price": 61.7,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 16.71,
         "forward_return": 41.98,
         "start_price": 62.5,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": -8.29,
         "start_price": 68.8,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 18.75,
         "forward_return": -17.46,
         "start_price": 72.0,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 18.78,
+        "pe_ratio": 18.65,
         "forward_return": -21.2,
         "start_price": 71.6,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.89,
         "forward_return": -22.84,
         "start_price": 68.7,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.49,
+        "pe_ratio": 18.2,
         "forward_return": -28.73,
         "start_price": 69.9,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.67,
         "forward_return": -39.57,
         "start_price": 71.0,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.33,
         "forward_return": -25.93,
         "start_price": 61.5,
         "start_year": 2017
@@ -3441,7 +3441,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.05,
         "forward_return": -21.56,
         "start_price": 63.5,
         "start_year": 2018
@@ -3450,7 +3450,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 15.84,
+        "pe_ratio": 16.04,
         "forward_return": -11.12,
         "start_price": 59.6,
         "start_year": 2018
@@ -3459,7 +3459,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 15.93,
         "forward_return": -18.96,
         "start_price": 59.1,
         "start_year": 2018
@@ -3468,7 +3468,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.73,
         "forward_return": -6.71,
         "start_price": 54.1,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 14.57,
         "forward_return": 10.19,
         "start_price": 53.0,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.86,
         "forward_return": 9.93,
         "start_price": 53.5,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 14.45,
         "forward_return": 11.57,
         "start_price": 52.9,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 14.19,
         "forward_return": 16.87,
         "start_price": 52.8,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.74,
+        "pe_ratio": 14.07,
         "forward_return": 18.22,
         "start_price": 53.2,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 38.03,
         "start_price": 48.85,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.9,
         "forward_return": 39.46,
         "start_price": 49.95,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.19,
+        "pe_ratio": 14.14,
         "forward_return": 19.46,
         "start_price": 55.9,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 14.46,
+        "pe_ratio": 14.35,
         "forward_return": 10.25,
         "start_price": 57.2,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.38,
         "forward_return": 12.87,
         "start_price": 57.8,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 14.58,
         "forward_return": 9.84,
         "start_price": 59.2,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.68,
+        "pe_ratio": 14.37,
         "forward_return": 27.31,
         "start_price": 58.9,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.59,
         "forward_return": 26.13,
         "start_price": 60.4,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.99,
         "forward_return": 16.13,
         "start_price": 57.5,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 13.89,
+        "pe_ratio": 13.85,
         "forward_return": 11.49,
         "start_price": 56.5,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 13.86,
+        "pe_ratio": 13.98,
         "forward_return": 13.17,
         "start_price": 56.6,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.34,
         "forward_return": 36.04,
         "start_price": 58.5,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 14.63,
+        "pe_ratio": 14.67,
         "forward_return": 34.9,
         "start_price": 60.3,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.15,
         "forward_return": 90.59,
         "start_price": 62.0,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.64,
+        "pe_ratio": 15.32,
         "forward_return": 69.24,
         "start_price": 62.0,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.68,
+        "pe_ratio": 15.05,
         "forward_return": 47.85,
         "start_price": 60.2,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.11,
+        "pe_ratio": 15.46,
         "forward_return": 35.97,
         "start_price": 64.9,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 15.93,
         "forward_return": 38.17,
         "start_price": 70.0,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.26,
+        "pe_ratio": 15.47,
         "forward_return": 41.88,
         "start_price": 71.0,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.72,
         "forward_return": -2.65,
         "start_price": 81.8,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.37,
+        "pe_ratio": 14.82,
         "forward_return": 51.51,
         "start_price": 77.0,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 13.75,
         "forward_return": 68.82,
         "start_price": 75.6,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 12.29,
         "forward_return": 46.04,
         "start_price": 72.0,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 36.08,
         "start_price": 77.0,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 11.96,
+        "pe_ratio": 11.59,
         "forward_return": 4.55,
         "start_price": 80.7,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 12.27,
+        "pe_ratio": 11.56,
         "forward_return": -3.28,
         "start_price": 85.0,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.66,
         "forward_return": -24.38,
         "start_price": 98.0,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 12.48,
         "forward_return": -28.46,
         "start_price": 98.4,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 11.18,
         "forward_return": 20.18,
         "start_price": 89.7,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.71,
         "forward_return": 30.28,
         "start_price": 87.5,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.31,
         "forward_return": 44.04,
         "start_price": 77.3,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.3,
         "forward_return": 22.74,
         "start_price": 78.4,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.46,
+        "pe_ratio": 9.05,
         "forward_return": 30.12,
         "start_price": 77.5,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.32,
+        "pe_ratio": 9.05,
         "forward_return": 3.56,
         "start_price": 78.0,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.9,
         "forward_return": -14.25,
         "start_price": 85.9,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.68,
         "forward_return": -3.66,
         "start_price": 92.9,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 10.72,
         "forward_return": -14.55,
         "start_price": 92.9,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.23,
         "forward_return": -24.32,
         "start_price": 88.3,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.07,
+        "pe_ratio": 10.1,
         "forward_return": -19.86,
         "start_price": 83.8,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 9.68,
+        "pe_ratio": 10.0,
         "forward_return": -1.5,
         "start_price": 79.6,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.47,
         "forward_return": -2.24,
         "start_price": 79.8,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 11.12,
         "forward_return": -21.89,
         "start_price": 84.6,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 10.43,
         "forward_return": 22.23,
         "start_price": 79.3,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.14,
         "forward_return": 34.25,
         "start_price": 77.0,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.04,
         "forward_return": 150.29,
         "start_price": 68.4,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.5,
         "forward_return": 167.07,
         "start_price": 71.6,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 9.65,
+        "pe_ratio": 9.98,
         "forward_return": 994.37,
         "start_price": 74.7,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.73,
         "forward_return": 958.07,
         "start_price": 80.1,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.98,
         "forward_return": 280.69,
         "start_price": 89.1,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 10.18,
+        "pe_ratio": 10.77,
         "forward_return": 413.6,
         "start_price": 85.9,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.68,
         "forward_return": 220.48,
         "start_price": 116.5,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 17.08,
+        "pe_ratio": 16.8,
         "forward_return": 129.57,
         "start_price": 152.0,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 25.5,
         "forward_return": 7.2,
         "start_price": 238.5,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 26.25,
         "forward_return": 28.56,
         "start_price": 253.5,
         "start_year": 2023
@@ -4053,7 +4053,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 24.05,
         "forward_return": 50.39,
         "start_price": 239.5,
         "start_year": 2023
@@ -4062,7 +4062,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 18.77,
         "forward_return": 89.05,
         "start_price": 189.0,
         "start_year": 2023
@@ -4071,7 +4071,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 20.18,
+        "pe_ratio": 19.94,
         "forward_return": 82.56,
         "start_price": 203.0,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.03,
+        "pe_ratio": 22.93,
         "forward_return": 30.0,
         "start_price": 247.0,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 20.61,
         "forward_return": 42.45,
         "start_price": 232.0,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 25.0,
         "forward_return": 11.3,
         "start_price": 293.5,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 21.62,
+        "pe_ratio": 21.35,
         "forward_return": 44.35,
         "start_price": 260.0,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 22.0,
+        "pe_ratio": 21.72,
         "forward_return": 14.09,
         "start_price": 274.0,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 24.2,
+        "pe_ratio": 23.91,
         "forward_return": -9.97,
         "start_price": 312.0,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.45,
+        "pe_ratio": 20.37,
         "forward_return": -2.17,
         "start_price": 272.5,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 19.48,
+        "pe_ratio": 19.55,
         "forward_return": -26.3,
         "start_price": 268.0,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 18.6,
+        "pe_ratio": 18.8,
         "forward_return": -27.9,
         "start_price": 264.0,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 20.9,
         "forward_return": -17.47,
         "start_price": 303.5,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 19.33,
+        "pe_ratio": 19.39,
         "forward_return": -13.06,
         "start_price": 291.0,
         "start_year": 2024
@@ -4197,7 +4197,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 16.7,
         "forward_return": 19.6,
         "start_price": 269.5,
         "start_year": 2025
@@ -4206,7 +4206,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 15.78,
+        "pe_ratio": 14.93,
         "forward_return": 21.04,
         "start_price": 250.5,
         "start_year": 2025
@@ -4215,7 +4215,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 13.97,
+        "pe_ratio": 12.89,
         "forward_return": 76.81,
         "start_price": 224.5,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 14.66,
+        "pe_ratio": 13.58,
         "forward_return": 72.59,
         "start_price": 238.5,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 16.49,
+        "pe_ratio": 15.33,
         "forward_return": 8.64,
         "start_price": 271.5,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 16.48,
+        "pe_ratio": 15.37,
         "forward_return": 7.78,
         "start_price": 274.5,
         "start_year": 2025
@@ -4251,7 +4251,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 16.71,
+        "pe_ratio": 15.77,
         "forward_return": -1.05,
         "start_price": 281.5,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.85,
         "forward_return": -0.59,
         "start_price": 53.3,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 15.68,
         "forward_return": -10.34,
         "start_price": 56.3,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 13.4,
         "forward_return": 9.12,
         "start_price": 48.1,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.42,
+        "pe_ratio": 14.43,
         "forward_return": 3.64,
         "start_price": 51.8,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 12.11,
+        "pe_ratio": 13.02,
         "forward_return": 20.23,
         "start_price": 46.75,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 13.15,
         "forward_return": 19.08,
         "start_price": 47.2,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.28,
+        "pe_ratio": 13.2,
         "forward_return": 14.36,
         "start_price": 47.4,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.4,
         "forward_return": 14.82,
         "start_price": 49.3,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 14.61,
+        "pe_ratio": 14.96,
         "forward_return": -9.58,
         "start_price": 56.4,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.96,
+        "pe_ratio": 14.15,
         "forward_return": -28.07,
         "start_price": 55.6,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.12,
         "forward_return": -22.31,
         "start_price": 56.5,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.41,
         "forward_return": -11.96,
         "start_price": 50.5,
         "start_year": 2007
@@ -4377,7 +4377,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 11.23,
         "forward_return": 10.81,
         "start_price": 48.0,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.17,
         "forward_return": 1.0,
         "start_price": 50.0,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.94,
         "forward_return": -3.31,
         "start_price": 51.2,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.27,
         "forward_return": -11.99,
         "start_price": 53.7,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.08,
         "forward_return": -4.46,
         "start_price": 53.7,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 10.49,
         "forward_return": -17.57,
         "start_price": 51.7,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.68,
         "forward_return": -29.89,
         "start_price": 54.1,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.31,
+        "pe_ratio": 9.33,
         "forward_return": -18.52,
         "start_price": 48.5,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.95,
         "forward_return": -6.39,
         "start_price": 37.5,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.59,
         "forward_return": 11.01,
         "start_price": 41.4,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 10.5,
         "start_price": 41.95,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.22,
         "forward_return": 4.34,
         "start_price": 50.7,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.77,
         "forward_return": 15.64,
         "start_price": 48.0,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.77,
         "forward_return": 49.98,
         "start_price": 43.75,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.7,
+        "pe_ratio": 8.22,
         "forward_return": 50.04,
         "start_price": 47.8,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.52,
         "forward_return": 81.66,
         "start_price": 39.1,
         "start_year": 2008
@@ -4539,7 +4539,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.21,
+        "pe_ratio": 5.87,
         "forward_return": 91.95,
         "start_price": 34.4,
         "start_year": 2008
@@ -4548,7 +4548,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.48,
+        "pe_ratio": 6.29,
         "forward_return": 90.36,
         "start_price": 36.0,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.62,
+        "pe_ratio": 5.61,
         "forward_return": 113.4,
         "start_price": 31.6,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.3,
+        "pe_ratio": 6.29,
         "forward_return": 93.36,
         "start_price": 35.7,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.51,
+        "pe_ratio": 7.48,
         "forward_return": 51.97,
         "start_price": 42.85,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 8.59,
+        "pe_ratio": 8.69,
         "forward_return": 27.15,
         "start_price": 49.4,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 8.98,
+        "pe_ratio": 9.21,
         "forward_return": 18.67,
         "start_price": 52.0,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.08,
+        "pe_ratio": 9.46,
         "forward_return": 16.99,
         "start_price": 53.0,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 11.28,
         "forward_return": -0.67,
         "start_price": 62.1,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.61,
         "forward_return": -23.35,
         "start_price": 68.2,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.32,
+        "pe_ratio": 12.71,
         "forward_return": -19.44,
         "start_price": 67.5,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 11.22,
         "forward_return": -4.19,
         "start_price": 62.5,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.15,
         "forward_return": -2.18,
         "start_price": 65.0,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 10.46,
         "forward_return": 2.01,
         "start_price": 63.9,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.69,
         "forward_return": -5.68,
         "start_price": 65.5,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.02,
         "forward_return": -3.92,
         "start_price": 61.6,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 9.61,
         "forward_return": 1.49,
         "start_price": 59.3,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.4,
         "forward_return": 18.2,
         "start_price": 58.2,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.42,
         "forward_return": 22.55,
         "start_price": 58.5,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 9.4,
         "forward_return": 28.64,
         "start_price": 58.0,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 7.92,
         "forward_return": 28.21,
         "start_price": 48.6,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 8.31,
         "forward_return": 24.47,
         "start_price": 50.7,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 9.87,
         "forward_return": 13.0,
         "start_price": 56.2,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 11.32,
         "forward_return": 4.51,
         "start_price": 59.9,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.34,
+        "pe_ratio": 12.53,
         "forward_return": 8.62,
         "start_price": 61.5,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.44,
+        "pe_ratio": 11.78,
         "forward_return": 31.35,
         "start_price": 58.1,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.21,
         "forward_return": 45.65,
         "start_price": 55.5,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.36,
         "forward_return": 42.2,
         "start_price": 56.5,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 12.14,
+        "pe_ratio": 13.03,
         "forward_return": 25.29,
         "start_price": 65.1,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.47,
+        "pe_ratio": 13.55,
         "forward_return": 22.01,
         "start_price": 68.0,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 14.24,
         "forward_return": 16.02,
         "start_price": 71.0,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.4,
+        "pe_ratio": 11.85,
         "forward_return": 38.41,
         "start_price": 58.7,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.37,
+        "pe_ratio": 12.09,
         "forward_return": 37.55,
         "start_price": 59.5,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.33,
         "forward_return": 18.15,
         "start_price": 59.9,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.96,
+        "pe_ratio": 10.44,
         "forward_return": 30.43,
         "start_price": 59.0,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.59,
         "forward_return": 15.31,
         "start_price": 63.2,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.28,
         "forward_return": -2.8,
         "start_price": 72.7,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 13.17,
         "forward_return": -8.81,
         "start_price": 77.3,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.97,
         "forward_return": -15.38,
         "start_price": 76.8,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.07,
         "forward_return": -11.81,
         "start_price": 78.0,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 13.19,
         "forward_return": -13.11,
         "start_price": 79.4,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 12.83,
         "forward_return": -5.87,
         "start_price": 78.4,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 12.47,
         "forward_return": -13.2,
         "start_price": 77.3,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.38,
         "forward_return": -12.59,
         "start_price": 77.9,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.78,
         "forward_return": 10.34,
         "start_price": 66.8,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 12.14,
+        "pe_ratio": 11.96,
         "forward_return": -4.25,
         "start_price": 73.0,
         "start_year": 2012
@@ -4998,7 +4998,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 11.58,
         "forward_return": 14.67,
         "start_price": 68.9,
         "start_year": 2013
@@ -5007,7 +5007,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.75,
         "forward_return": 24.03,
         "start_price": 63.3,
         "start_year": 2013
@@ -5016,7 +5016,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.41,
         "forward_return": 29.35,
         "start_price": 66.5,
         "start_year": 2013
@@ -5025,7 +5025,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 10.78,
         "forward_return": 42.33,
         "start_price": 61.0,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 11.8,
         "forward_return": 30.73,
         "start_price": 64.8,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 12.22,
         "forward_return": 40.03,
         "start_price": 65.0,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 13.53,
         "forward_return": 26.38,
         "start_price": 69.8,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.62,
         "forward_return": 39.81,
         "start_price": 63.1,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.49,
+        "pe_ratio": 13.24,
         "forward_return": 26.39,
         "start_price": 64.1,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.4,
         "forward_return": 15.08,
         "start_price": 69.7,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.62,
         "forward_return": 22.63,
         "start_price": 65.9,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.45,
         "forward_return": 7.74,
         "start_price": 75.0,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.31,
         "forward_return": 11.69,
         "start_price": 74.5,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.8,
         "forward_return": -3.17,
         "start_price": 82.0,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 17.04,
+        "pe_ratio": 16.94,
         "forward_return": -2.42,
         "start_price": 82.8,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.49,
         "forward_return": 1.24,
         "start_price": 80.7,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 17.86,
+        "pe_ratio": 17.76,
         "forward_return": -11.73,
         "start_price": 87.0,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.19,
         "forward_return": -23.0,
         "start_price": 84.4,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 17.15,
         "forward_return": -24.42,
         "start_price": 84.4,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.66,
         "forward_return": -20.87,
         "start_price": 77.2,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.53,
         "forward_return": -22.13,
         "start_price": 76.4,
         "start_year": 2014
@@ -5196,7 +5196,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.73,
+        "pe_ratio": 15.68,
         "forward_return": -28.59,
         "start_price": 77.0,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": -25.6,
         "start_price": 77.0,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.36,
+        "pe_ratio": 16.82,
         "forward_return": -24.2,
         "start_price": 79.4,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 16.33,
         "forward_return": -20.33,
         "start_price": 75.6,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.84,
         "forward_return": -27.23,
         "start_price": 77.0,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 16.29,
+        "pe_ratio": 17.25,
         "forward_return": -20.37,
         "start_price": 77.9,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 16.37,
         "forward_return": -10.94,
         "start_price": 73.0,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.88,
+        "pe_ratio": 13.4,
         "forward_return": 12.6,
         "start_price": 61.0,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 12.87,
         "forward_return": 4.51,
         "start_price": 59.8,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.05,
         "forward_return": 21.14,
         "start_price": 57.1,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.81,
         "forward_return": 22.11,
         "start_price": 55.5,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.94,
         "forward_return": 23.87,
         "start_price": 51.0,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 11.54,
         "forward_return": 26.39,
         "start_price": 53.3,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 12.16,
         "forward_return": 15.21,
         "start_price": 56.2,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.16,
         "forward_return": 16.56,
         "start_price": 56.2,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 11.23,
         "forward_return": 27.52,
         "start_price": 52.0,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 13.39,
+        "pe_ratio": 12.5,
         "forward_return": 25.19,
         "start_price": 58.0,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 14.27,
+        "pe_ratio": 13.12,
         "forward_return": 24.28,
         "start_price": 61.0,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 15.39,
+        "pe_ratio": 14.48,
         "forward_return": 15.73,
         "start_price": 64.9,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.6,
         "forward_return": 23.02,
         "start_price": 58.7,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 15.94,
+        "pe_ratio": 15.76,
         "forward_return": 12.24,
         "start_price": 65.4,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 15.7,
         "forward_return": 16.42,
         "start_price": 64.0,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 14.84,
         "forward_return": 9.43,
         "start_price": 59.4,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 16.52,
         "forward_return": 5.35,
         "start_price": 63.6,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 16.35,
+        "pe_ratio": 16.9,
         "forward_return": -0.94,
         "start_price": 63.7,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.72,
         "forward_return": 1.46,
         "start_price": 61.7,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 16.71,
         "forward_return": -7.85,
         "start_price": 62.5,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": -17.89,
         "start_price": 68.8,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 18.75,
         "forward_return": -20.85,
         "start_price": 72.0,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 18.78,
+        "pe_ratio": 18.65,
         "forward_return": -21.38,
         "start_price": 71.6,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.89,
         "forward_return": -18.21,
         "start_price": 68.7,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.49,
+        "pe_ratio": 18.2,
         "forward_return": -19.04,
         "start_price": 69.9,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.67,
         "forward_return": -26.42,
         "start_price": 71.0,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.33,
         "forward_return": -13.26,
         "start_price": 61.5,
         "start_year": 2017
@@ -5538,7 +5538,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.05,
         "forward_return": -6.62,
         "start_price": 63.5,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 15.84,
+        "pe_ratio": 16.04,
         "forward_return": 1.68,
         "start_price": 59.6,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 15.93,
         "forward_return": 3.56,
         "start_price": 59.1,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.73,
         "forward_return": 15.72,
         "start_price": 54.1,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 14.57,
         "forward_return": 17.56,
         "start_price": 53.0,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.86,
         "forward_return": 19.27,
         "start_price": 53.5,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 14.45,
         "forward_return": 15.42,
         "start_price": 52.9,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 14.19,
         "forward_return": 13.74,
         "start_price": 52.8,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.74,
+        "pe_ratio": 14.07,
         "forward_return": 13.07,
         "start_price": 53.2,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 27.04,
         "start_price": 48.85,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.9,
         "forward_return": 27.85,
         "start_price": 49.95,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.19,
+        "pe_ratio": 14.14,
         "forward_return": 17.28,
         "start_price": 55.9,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 14.46,
+        "pe_ratio": 14.35,
         "forward_return": 14.61,
         "start_price": 57.2,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.38,
         "forward_return": 10.27,
         "start_price": 57.8,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 14.58,
         "forward_return": 15.59,
         "start_price": 59.2,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.68,
+        "pe_ratio": 14.37,
         "forward_return": 24.82,
         "start_price": 58.9,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.59,
         "forward_return": 23.37,
         "start_price": 60.4,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.99,
         "forward_return": 48.57,
         "start_price": 57.5,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 13.89,
+        "pe_ratio": 13.85,
         "forward_return": 42.73,
         "start_price": 56.5,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 13.86,
+        "pe_ratio": 13.98,
         "forward_return": 40.01,
         "start_price": 56.6,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.34,
         "forward_return": 29.33,
         "start_price": 58.5,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 14.63,
+        "pe_ratio": 14.67,
         "forward_return": 33.75,
         "start_price": 60.3,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.15,
         "forward_return": 36.04,
         "start_price": 62.0,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.64,
+        "pe_ratio": 15.32,
         "forward_return": 58.03,
         "start_price": 62.0,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.68,
+        "pe_ratio": 15.05,
         "forward_return": 69.0,
         "start_price": 60.2,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.11,
+        "pe_ratio": 15.46,
         "forward_return": 57.37,
         "start_price": 64.9,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 15.93,
         "forward_return": 33.45,
         "start_price": 70.0,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.26,
+        "pe_ratio": 15.47,
         "forward_return": 28.47,
         "start_price": 71.0,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.72,
         "forward_return": 0.86,
         "start_price": 81.8,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.37,
+        "pe_ratio": 14.82,
         "forward_return": 8.58,
         "start_price": 77.0,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 13.75,
         "forward_return": 9.4,
         "start_price": 75.6,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 12.29,
         "forward_return": 15.57,
         "start_price": 72.0,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 18.33,
         "start_price": 77.0,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 11.96,
+        "pe_ratio": 11.59,
         "forward_return": 21.58,
         "start_price": 80.7,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 12.27,
+        "pe_ratio": 11.56,
         "forward_return": 15.42,
         "start_price": 85.0,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.66,
         "forward_return": -4.59,
         "start_price": 98.0,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 12.48,
         "forward_return": -9.56,
         "start_price": 98.4,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 11.18,
         "forward_return": -5.47,
         "start_price": 89.7,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.71,
         "forward_return": -2.86,
         "start_price": 87.5,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.31,
         "forward_return": 18.0,
         "start_price": 77.3,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.3,
         "forward_return": 9.57,
         "start_price": 78.4,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.46,
+        "pe_ratio": 9.05,
         "forward_return": 7.88,
         "start_price": 77.5,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.32,
+        "pe_ratio": 9.05,
         "forward_return": -3.85,
         "start_price": 78.0,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.9,
         "forward_return": -8.97,
         "start_price": 85.9,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.68,
         "forward_return": -12.49,
         "start_price": 92.9,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 10.72,
         "forward_return": -6.68,
         "start_price": 92.9,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.23,
         "forward_return": 8.39,
         "start_price": 88.3,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.07,
+        "pe_ratio": 10.1,
         "forward_return": 10.39,
         "start_price": 83.8,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 9.68,
+        "pe_ratio": 10.0,
         "forward_return": 54.69,
         "start_price": 79.6,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.47,
         "forward_return": 98.84,
         "start_price": 79.8,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 11.12,
         "forward_return": 189.22,
         "start_price": 84.6,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 10.43,
         "forward_return": 227.5,
         "start_price": 79.3,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.14,
         "forward_return": 219.08,
         "start_price": 77.0,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.04,
         "forward_return": 185.29,
         "start_price": 68.4,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.5,
         "forward_return": 192.11,
         "start_price": 71.6,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 9.65,
+        "pe_ratio": 9.98,
         "forward_return": 238.97,
         "start_price": 74.7,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.73,
         "forward_return": 197.35,
         "start_price": 80.1,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.98,
         "forward_return": 235.31,
         "start_price": 89.1,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 10.18,
+        "pe_ratio": 10.77,
         "forward_return": 208.95,
         "start_price": 85.9,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.68,
         "forward_return": 139.91,
         "start_price": 116.5,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 17.08,
+        "pe_ratio": 16.8,
         "forward_return": 108.89,
         "start_price": 152.0,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 25.5,
         "forward_return": 17.99,
         "start_price": 238.5,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 26.25,
         "forward_return": 9.25,
         "start_price": 253.5,
         "start_year": 2023
@@ -6150,7 +6150,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 24.05,
         "forward_return": 13.96,
         "start_price": 239.5,
         "start_year": 2023
@@ -6159,7 +6159,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 18.77,
         "forward_return": 65.17,
         "start_price": 189.0,
         "start_year": 2023
@@ -6168,7 +6168,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 20.18,
+        "pe_ratio": 19.94,
         "forward_return": 47.67,
         "start_price": 203.0,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.03,
+        "pe_ratio": 22.93,
         "forward_return": 12.73,
         "start_price": 247.0,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 20.79,
+        "pe_ratio": 20.61,
         "forward_return": 0.6,
         "start_price": 232.0,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 25.32,
+        "pe_ratio": 25.0,
         "forward_return": -20.46,
         "start_price": 293.5,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 21.62,
+        "pe_ratio": 21.35,
         "forward_return": -4.81,
         "start_price": 260.0,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 22.0,
+        "pe_ratio": 21.72,
         "forward_return": 2.37,
         "start_price": 274.0,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 24.2,
+        "pe_ratio": 23.91,
         "forward_return": -9.14,
         "start_price": 312.0,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.45,
+        "pe_ratio": 20.37,
         "forward_return": 8.08,
         "start_price": 272.5,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 19.48,
+        "pe_ratio": 19.55,
         "forward_return": 2.8,
         "start_price": 268.0,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 18.6,
+        "pe_ratio": 18.8,
         "forward_return": 14.78,
         "start_price": 264.0,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 20.9,
         "forward_return": 3.3,
         "start_price": 303.5,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 19.33,
+        "pe_ratio": 19.39,
         "forward_return": 1.38,
         "start_price": 291.0,
         "start_year": 2024
@@ -6294,7 +6294,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 17.18,
+        "pe_ratio": 16.7,
         "forward_return": 8.73,
         "start_price": 269.5,
         "start_year": 2025
@@ -6303,7 +6303,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 15.78,
+        "pe_ratio": 14.93,
         "forward_return": 21.57,
         "start_price": 250.5,
         "start_year": 2025
@@ -6312,7 +6312,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.85,
         "forward_return": -6.16,
         "start_price": 53.3,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 15.68,
         "forward_return": -0.55,
         "start_price": 56.3,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 13.4,
         "forward_return": 4.95,
         "start_price": 48.1,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.42,
+        "pe_ratio": 14.43,
         "forward_return": 0.18,
         "start_price": 51.8,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 12.11,
+        "pe_ratio": 13.02,
         "forward_return": 3.16,
         "start_price": 46.75,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 13.15,
         "forward_return": 6.76,
         "start_price": 47.2,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.28,
+        "pe_ratio": 13.2,
         "forward_return": -2.45,
         "start_price": 47.4,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.4,
         "forward_return": -9.47,
         "start_price": 49.3,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 14.61,
+        "pe_ratio": 14.96,
         "forward_return": -13.7,
         "start_price": 56.4,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.96,
+        "pe_ratio": 14.15,
         "forward_return": -17.75,
         "start_price": 55.6,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.12,
         "forward_return": -14.08,
         "start_price": 56.5,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.41,
         "forward_return": -1.65,
         "start_price": 50.5,
         "start_year": 2007
@@ -6429,7 +6429,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 11.23,
         "forward_return": 7.43,
         "start_price": 48.0,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.17,
         "forward_return": 7.7,
         "start_price": 50.0,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.94,
         "forward_return": 7.34,
         "start_price": 51.2,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.27,
         "forward_return": 13.43,
         "start_price": 53.7,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.08,
         "forward_return": 18.32,
         "start_price": 53.7,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 10.49,
         "forward_return": 20.03,
         "start_price": 51.7,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.68,
         "forward_return": 13.33,
         "start_price": 54.1,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.31,
+        "pe_ratio": 9.33,
         "forward_return": 21.83,
         "start_price": 48.5,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.95,
         "forward_return": 37.47,
         "start_price": 37.5,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.59,
         "forward_return": 27.47,
         "start_price": 41.4,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 27.9,
         "start_price": 41.95,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.22,
         "forward_return": 14.36,
         "start_price": 50.7,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.77,
         "forward_return": 16.56,
         "start_price": 48.0,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.77,
         "forward_return": 22.08,
         "start_price": 43.75,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.7,
+        "pe_ratio": 8.22,
         "forward_return": 8.03,
         "start_price": 47.8,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.52,
         "forward_return": 21.69,
         "start_price": 39.1,
         "start_year": 2008
@@ -6591,7 +6591,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.21,
+        "pe_ratio": 5.87,
         "forward_return": 35.77,
         "start_price": 34.4,
         "start_year": 2008
@@ -6600,7 +6600,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.48,
+        "pe_ratio": 6.29,
         "forward_return": 36.54,
         "start_price": 36.0,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.62,
+        "pe_ratio": 5.61,
         "forward_return": 47.47,
         "start_price": 31.6,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.3,
+        "pe_ratio": 6.29,
         "forward_return": 35.26,
         "start_price": 35.7,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.51,
+        "pe_ratio": 7.48,
         "forward_return": 20.96,
         "start_price": 42.85,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 8.59,
+        "pe_ratio": 8.69,
         "forward_return": 13.55,
         "start_price": 49.4,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 8.98,
+        "pe_ratio": 9.21,
         "forward_return": 17.91,
         "start_price": 52.0,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.08,
+        "pe_ratio": 9.46,
         "forward_return": 19.12,
         "start_price": 53.0,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 11.28,
         "forward_return": 12.29,
         "start_price": 62.1,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.61,
         "forward_return": -1.64,
         "start_price": 68.2,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.32,
+        "pe_ratio": 12.71,
         "forward_return": -0.53,
         "start_price": 67.5,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 11.22,
         "forward_return": 3.68,
         "start_price": 62.5,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.15,
         "forward_return": 0.98,
         "start_price": 65.0,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 10.46,
         "forward_return": 5.03,
         "start_price": 63.9,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.69,
         "forward_return": 10.51,
         "start_price": 65.5,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.02,
         "forward_return": 17.17,
         "start_price": 61.6,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 9.61,
         "forward_return": 19.06,
         "start_price": 59.3,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.4,
         "forward_return": 21.04,
         "start_price": 58.2,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.42,
         "forward_return": 21.71,
         "start_price": 58.5,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 9.4,
         "forward_return": 21.75,
         "start_price": 58.0,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 7.92,
         "forward_return": 32.14,
         "start_price": 48.6,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 8.31,
         "forward_return": 29.84,
         "start_price": 50.7,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 9.87,
         "forward_return": 15.05,
         "start_price": 56.2,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 11.32,
         "forward_return": 15.99,
         "start_price": 59.9,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.34,
+        "pe_ratio": 12.53,
         "forward_return": 11.52,
         "start_price": 61.5,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.44,
+        "pe_ratio": 11.78,
         "forward_return": 10.46,
         "start_price": 58.1,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.21,
         "forward_return": 15.53,
         "start_price": 55.5,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.36,
         "forward_return": 10.18,
         "start_price": 56.5,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 12.14,
+        "pe_ratio": 13.03,
         "forward_return": 5.45,
         "start_price": 65.1,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.47,
+        "pe_ratio": 13.55,
         "forward_return": 3.32,
         "start_price": 68.0,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 14.24,
         "forward_return": 4.67,
         "start_price": 71.0,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.4,
+        "pe_ratio": 11.85,
         "forward_return": 10.05,
         "start_price": 58.7,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.37,
+        "pe_ratio": 12.09,
         "forward_return": 10.07,
         "start_price": 59.5,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.33,
         "forward_return": 13.88,
         "start_price": 59.9,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.96,
+        "pe_ratio": 10.44,
         "forward_return": 11.91,
         "start_price": 59.0,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.59,
         "forward_return": 14.59,
         "start_price": 63.2,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.28,
         "forward_return": 10.8,
         "start_price": 72.7,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 13.17,
         "forward_return": 7.91,
         "start_price": 77.3,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.97,
         "forward_return": 8.74,
         "start_price": 76.8,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.07,
         "forward_return": 6.64,
         "start_price": 78.0,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 13.19,
         "forward_return": 9.39,
         "start_price": 79.4,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 12.83,
         "forward_return": 8.45,
         "start_price": 78.4,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 12.47,
         "forward_return": 9.22,
         "start_price": 77.3,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.38,
         "forward_return": 4.46,
         "start_price": 77.9,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.78,
         "forward_return": 12.28,
         "start_price": 66.8,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 12.14,
+        "pe_ratio": 11.96,
         "forward_return": 7.79,
         "start_price": 73.0,
         "start_year": 2012
@@ -7050,7 +7050,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 11.58,
         "forward_return": 10.95,
         "start_price": 68.9,
         "start_year": 2013
@@ -7059,7 +7059,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.75,
         "forward_return": 17.38,
         "start_price": 63.3,
         "start_year": 2013
@@ -7068,7 +7068,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.41,
         "forward_return": 12.0,
         "start_price": 66.5,
         "start_year": 2013
@@ -7077,7 +7077,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 10.78,
         "forward_return": 17.92,
         "start_price": 61.0,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 11.8,
         "forward_return": 15.01,
         "start_price": 64.8,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 12.22,
         "forward_return": 11.5,
         "start_price": 65.0,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 13.53,
         "forward_return": -0.72,
         "start_price": 69.8,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.62,
         "forward_return": 3.51,
         "start_price": 63.1,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.49,
+        "pe_ratio": 13.24,
         "forward_return": 0.62,
         "start_price": 64.1,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.4,
         "forward_return": -4.7,
         "start_price": 69.7,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.62,
         "forward_return": -5.54,
         "start_price": 65.9,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.45,
         "forward_return": -9.75,
         "start_price": 75.0,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.31,
         "forward_return": -7.32,
         "start_price": 74.5,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.8,
         "forward_return": -11.65,
         "start_price": 82.0,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 17.04,
+        "pe_ratio": 16.94,
         "forward_return": -15.01,
         "start_price": 82.8,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.49,
         "forward_return": -9.7,
         "start_price": 80.7,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 17.86,
+        "pe_ratio": 17.76,
         "forward_return": -11.07,
         "start_price": 87.0,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.19,
         "forward_return": -7.19,
         "start_price": 84.4,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 17.15,
         "forward_return": -11.23,
         "start_price": 84.4,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.66,
         "forward_return": -2.62,
         "start_price": 77.2,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.53,
         "forward_return": -3.06,
         "start_price": 76.4,
         "start_year": 2014
@@ -7248,7 +7248,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.73,
+        "pe_ratio": 15.68,
         "forward_return": -6.58,
         "start_price": 77.0,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": -3.7,
         "start_price": 77.0,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.36,
+        "pe_ratio": 16.82,
         "forward_return": -5.1,
         "start_price": 79.4,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 16.33,
         "forward_return": -4.12,
         "start_price": 75.6,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.84,
         "forward_return": -4.45,
         "start_price": 77.0,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 16.29,
+        "pe_ratio": 17.25,
         "forward_return": -0.84,
         "start_price": 77.9,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 16.37,
         "forward_return": 4.55,
         "start_price": 73.0,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.88,
+        "pe_ratio": 13.4,
         "forward_return": 13.72,
         "start_price": 61.0,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 12.87,
         "forward_return": 12.73,
         "start_price": 59.8,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.05,
         "forward_return": 16.26,
         "start_price": 57.1,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.81,
         "forward_return": 18.76,
         "start_price": 55.5,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.94,
         "forward_return": 16.14,
         "start_price": 51.0,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 11.54,
         "forward_return": 15.24,
         "start_price": 53.3,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 12.16,
         "forward_return": 8.35,
         "start_price": 56.2,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.16,
         "forward_return": 8.7,
         "start_price": 56.2,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 11.23,
         "forward_return": 8.67,
         "start_price": 52.0,
         "start_year": 2016
@@ -7410,7 +7410,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 13.39,
+        "pe_ratio": 12.5,
         "forward_return": 1.96,
         "start_price": 58.0,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 14.27,
+        "pe_ratio": 13.12,
         "forward_return": -0.16,
         "start_price": 61.0,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 15.39,
+        "pe_ratio": 14.48,
         "forward_return": -4.01,
         "start_price": 64.9,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.6,
         "forward_return": 0.85,
         "start_price": 58.7,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 15.94,
+        "pe_ratio": 15.76,
         "forward_return": -4.14,
         "start_price": 65.4,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 15.7,
         "forward_return": -6.67,
         "start_price": 64.0,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 14.84,
         "forward_return": -2.17,
         "start_price": 59.4,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 16.52,
         "forward_return": -0.63,
         "start_price": 63.6,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 16.35,
+        "pe_ratio": 16.9,
         "forward_return": 0.31,
         "start_price": 63.7,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.72,
         "forward_return": 2.4,
         "start_price": 61.7,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 16.71,
         "forward_return": 2.84,
         "start_price": 62.5,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": -2.21,
         "start_price": 68.8,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 18.75,
         "forward_return": -3.32,
         "start_price": 72.0,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 18.78,
+        "pe_ratio": 18.65,
         "forward_return": -5.13,
         "start_price": 71.6,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.89,
         "forward_return": -3.9,
         "start_price": 68.7,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.49,
+        "pe_ratio": 18.2,
         "forward_return": -4.65,
         "start_price": 69.9,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.67,
         "forward_return": -3.99,
         "start_price": 71.0,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.33,
         "forward_return": 4.57,
         "start_price": 61.5,
         "start_year": 2017
@@ -7590,7 +7590,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.05,
         "forward_return": 4.21,
         "start_price": 63.5,
         "start_year": 2018
@@ -7599,7 +7599,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 15.84,
+        "pe_ratio": 16.04,
         "forward_return": 7.56,
         "start_price": 59.6,
         "start_year": 2018
@@ -7608,7 +7608,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 15.93,
         "forward_return": 6.59,
         "start_price": 59.1,
         "start_year": 2018
@@ -7617,7 +7617,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.73,
         "forward_return": 15.23,
         "start_price": 54.1,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 14.57,
         "forward_return": 20.48,
         "start_price": 53.0,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.86,
         "forward_return": 20.69,
         "start_price": 53.5,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 14.45,
         "forward_return": 29.72,
         "start_price": 52.9,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 14.19,
         "forward_return": 26.3,
         "start_price": 52.8,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.74,
+        "pe_ratio": 14.07,
         "forward_return": 24.77,
         "start_price": 53.2,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 27.35,
         "start_price": 48.85,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.9,
         "forward_return": 29.85,
         "start_price": 49.95,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.19,
+        "pe_ratio": 14.14,
         "forward_return": 25.41,
         "start_price": 55.9,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 14.46,
+        "pe_ratio": 14.35,
         "forward_return": 26.97,
         "start_price": 57.2,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.38,
         "forward_return": 34.91,
         "start_price": 57.8,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 14.58,
         "forward_return": 33.56,
         "start_price": 59.2,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.68,
+        "pe_ratio": 14.37,
         "forward_return": 28.28,
         "start_price": 58.9,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.59,
         "forward_return": 25.23,
         "start_price": 60.4,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.99,
         "forward_return": 22.42,
         "start_price": 57.5,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 13.89,
+        "pe_ratio": 13.85,
         "forward_return": 24.28,
         "start_price": 56.5,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 13.86,
+        "pe_ratio": 13.98,
         "forward_return": 23.53,
         "start_price": 56.6,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.34,
         "forward_return": 21.86,
         "start_price": 58.5,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 14.63,
+        "pe_ratio": 14.67,
         "forward_return": 25.37,
         "start_price": 60.3,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.15,
         "forward_return": 28.12,
         "start_price": 62.0,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.64,
+        "pe_ratio": 15.32,
         "forward_return": 24.12,
         "start_price": 62.0,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.68,
+        "pe_ratio": 15.05,
         "forward_return": 27.09,
         "start_price": 60.2,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.11,
+        "pe_ratio": 15.46,
         "forward_return": 19.53,
         "start_price": 64.9,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 15.93,
         "forward_return": 12.45,
         "start_price": 70.0,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.26,
+        "pe_ratio": 15.47,
         "forward_return": 11.78,
         "start_price": 71.0,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.72,
         "forward_return": 8.56,
         "start_price": 81.8,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.37,
+        "pe_ratio": 14.82,
         "forward_return": 8.78,
         "start_price": 77.0,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 13.75,
         "forward_return": 8.39,
         "start_price": 75.6,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 12.29,
         "forward_return": 5.54,
         "start_price": 72.0,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 4.08,
         "start_price": 77.0,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 11.96,
+        "pe_ratio": 11.59,
         "forward_return": 3.53,
         "start_price": 80.7,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 12.27,
+        "pe_ratio": 11.56,
         "forward_return": 3.98,
         "start_price": 85.0,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.66,
         "forward_return": 1.47,
         "start_price": 98.0,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 12.48,
         "forward_return": -0.36,
         "start_price": 98.4,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 11.18,
         "forward_return": 19.61,
         "start_price": 89.7,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.71,
         "forward_return": 36.85,
         "start_price": 87.5,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.31,
         "forward_return": 80.31,
         "start_price": 77.3,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.3,
         "forward_return": 84.31,
         "start_price": 78.4,
         "start_year": 2021
@@ -7986,7 +7986,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.46,
+        "pe_ratio": 9.05,
         "forward_return": 80.43,
         "start_price": 77.5,
         "start_year": 2021
@@ -7995,7 +7995,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.32,
+        "pe_ratio": 9.05,
         "forward_return": 60.82,
         "start_price": 78.0,
         "start_year": 2021
@@ -8004,7 +8004,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.9,
         "forward_return": 58.48,
         "start_price": 85.9,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.68,
         "forward_return": 67.22,
         "start_price": 92.9,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 10.72,
         "forward_return": 62.32,
         "start_price": 92.9,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.23,
         "forward_return": 86.11,
         "start_price": 88.3,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.07,
+        "pe_ratio": 10.1,
         "forward_return": 80.29,
         "start_price": 83.8,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 9.68,
+        "pe_ratio": 10.0,
         "forward_return": 89.67,
         "start_price": 79.6,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.47,
         "forward_return": 101.59,
         "start_price": 79.8,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 11.12,
         "forward_return": 84.27,
         "start_price": 84.6,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 10.43,
         "forward_return": 88.83,
         "start_price": 79.3,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.14,
         "forward_return": 90.27,
         "start_price": 77.0,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.04,
         "forward_return": 115.67,
         "start_price": 68.4,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.5,
         "forward_return": 106.63,
         "start_price": 71.6,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 9.65,
+        "pe_ratio": 9.98,
         "forward_return": 95.07,
         "start_price": 74.7,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.73,
         "forward_return": 81.99,
         "start_price": 80.1,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.98,
         "forward_return": 63.9,
         "start_price": 89.1,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 10.18,
+        "pe_ratio": 10.77,
         "forward_return": 71.72,
         "start_price": 85.9,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 13.44,
+        "pe_ratio": 13.68,
         "forward_return": 56.77,
         "start_price": 116.5,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 17.08,
+        "pe_ratio": 16.8,
         "forward_return": 37.98,
         "start_price": 152.0,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 25.5,
         "forward_return": 12.8,
         "start_price": 238.5,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 26.25,
         "forward_return": 5.93,
         "start_price": 253.5,
         "start_year": 2023
@@ -8202,7 +8202,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 24.05,
         "forward_return": 14.13,
         "start_price": 239.5,
         "start_year": 2023
@@ -8211,7 +8211,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 19.23,
+        "pe_ratio": 18.77,
         "forward_return": 30.6,
         "start_price": 189.0,
         "start_year": 2023
@@ -8220,7 +8220,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 20.18,
+        "pe_ratio": 19.94,
         "forward_return": 22.36,
         "start_price": 203.0,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.03,
+        "pe_ratio": 22.93,
         "forward_return": 10.57,
         "start_price": 247.0,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.85,
         "forward_return": -1.24,
         "start_price": 53.3,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 15.68,
         "forward_return": 0.93,
         "start_price": 56.3,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 13.4,
         "forward_return": 7.93,
         "start_price": 48.1,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.42,
+        "pe_ratio": 14.43,
         "forward_return": 5.88,
         "start_price": 51.8,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 12.11,
+        "pe_ratio": 13.02,
         "forward_return": 15.26,
         "start_price": 46.75,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 13.15,
         "forward_return": 18.07,
         "start_price": 47.2,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.28,
+        "pe_ratio": 13.2,
         "forward_return": 17.55,
         "start_price": 47.4,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.4,
         "forward_return": 13.45,
         "start_price": 49.3,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 14.61,
+        "pe_ratio": 14.96,
         "forward_return": 9.72,
         "start_price": 56.4,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.96,
+        "pe_ratio": 14.15,
         "forward_return": 9.7,
         "start_price": 55.6,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.12,
         "forward_return": 9.9,
         "start_price": 56.5,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.41,
         "forward_return": 12.08,
         "start_price": 50.5,
         "start_year": 2007
@@ -8364,7 +8364,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 11.23,
         "forward_return": 12.75,
         "start_price": 48.0,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.17,
         "forward_return": 10.63,
         "start_price": 50.0,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.94,
         "forward_return": 9.92,
         "start_price": 51.2,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.27,
         "forward_return": 8.55,
         "start_price": 53.7,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.08,
         "forward_return": 3.35,
         "start_price": 53.7,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 10.49,
         "forward_return": 5.89,
         "start_price": 51.7,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.68,
         "forward_return": 7.33,
         "start_price": 54.1,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.31,
+        "pe_ratio": 9.33,
         "forward_return": 13.32,
         "start_price": 48.5,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.95,
         "forward_return": 24.39,
         "start_price": 37.5,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.59,
         "forward_return": 16.45,
         "start_price": 41.4,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 16.43,
         "start_price": 41.95,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.22,
         "forward_return": 9.85,
         "start_price": 50.7,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.77,
         "forward_return": 16.45,
         "start_price": 48.0,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.77,
         "forward_return": 23.2,
         "start_price": 43.75,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.7,
+        "pe_ratio": 8.22,
         "forward_return": 13.29,
         "start_price": 47.8,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.52,
         "forward_return": 21.6,
         "start_price": 39.1,
         "start_year": 2008
@@ -8526,7 +8526,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.21,
+        "pe_ratio": 5.87,
         "forward_return": 27.15,
         "start_price": 34.4,
         "start_year": 2008
@@ -8535,7 +8535,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.48,
+        "pe_ratio": 6.29,
         "forward_return": 24.7,
         "start_price": 36.0,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.62,
+        "pe_ratio": 5.61,
         "forward_return": 32.81,
         "start_price": 31.6,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.3,
+        "pe_ratio": 6.29,
         "forward_return": 32.76,
         "start_price": 35.7,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.51,
+        "pe_ratio": 7.48,
         "forward_return": 27.14,
         "start_price": 42.85,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 8.59,
+        "pe_ratio": 8.69,
         "forward_return": 21.03,
         "start_price": 49.4,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 8.98,
+        "pe_ratio": 9.21,
         "forward_return": 19.52,
         "start_price": 52.0,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.08,
+        "pe_ratio": 9.46,
         "forward_return": 19.38,
         "start_price": 53.0,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 11.28,
         "forward_return": 13.03,
         "start_price": 62.1,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.61,
         "forward_return": 9.1,
         "start_price": 68.2,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.32,
+        "pe_ratio": 12.71,
         "forward_return": 9.73,
         "start_price": 67.5,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 11.22,
         "forward_return": 7.7,
         "start_price": 62.5,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.15,
         "forward_return": 9.04,
         "start_price": 65.0,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 10.46,
         "forward_return": 7.86,
         "start_price": 63.9,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.69,
         "forward_return": 4.42,
         "start_price": 65.5,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.02,
         "forward_return": 8.08,
         "start_price": 61.6,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 9.61,
         "forward_return": 6.82,
         "start_price": 59.3,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.4,
         "forward_return": 9.34,
         "start_price": 58.2,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.42,
         "forward_return": 9.25,
         "start_price": 58.5,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 9.4,
         "forward_return": 11.96,
         "start_price": 58.0,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 7.92,
         "forward_return": 15.4,
         "start_price": 48.6,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 8.31,
         "forward_return": 14.29,
         "start_price": 50.7,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 9.87,
         "forward_return": 13.09,
         "start_price": 56.2,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 11.32,
         "forward_return": 8.96,
         "start_price": 59.9,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.34,
+        "pe_ratio": 12.53,
         "forward_return": 12.08,
         "start_price": 61.5,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.44,
+        "pe_ratio": 11.78,
         "forward_return": 14.01,
         "start_price": 58.1,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.21,
         "forward_return": 19.03,
         "start_price": 55.5,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.36,
         "forward_return": 18.66,
         "start_price": 56.5,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 12.14,
+        "pe_ratio": 13.03,
         "forward_return": 12.34,
         "start_price": 65.1,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.47,
+        "pe_ratio": 13.55,
         "forward_return": 13.18,
         "start_price": 68.0,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 14.24,
         "forward_return": 10.65,
         "start_price": 71.0,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.4,
+        "pe_ratio": 11.85,
         "forward_return": 17.89,
         "start_price": 58.7,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.37,
+        "pe_ratio": 12.09,
         "forward_return": 14.36,
         "start_price": 59.5,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.33,
         "forward_return": 13.76,
         "start_price": 59.9,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.96,
+        "pe_ratio": 10.44,
         "forward_return": 14.6,
         "start_price": 59.0,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.59,
         "forward_return": 12.0,
         "start_price": 63.2,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.28,
         "forward_return": 6.16,
         "start_price": 72.7,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 13.17,
         "forward_return": 4.18,
         "start_price": 77.3,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.97,
         "forward_return": 4.96,
         "start_price": 76.8,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.07,
         "forward_return": 4.77,
         "start_price": 78.0,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 13.19,
         "forward_return": 2.22,
         "start_price": 79.4,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 12.83,
         "forward_return": -2.44,
         "start_price": 78.4,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 12.47,
         "forward_return": -2.52,
         "start_price": 77.3,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.38,
         "forward_return": -4.01,
         "start_price": 77.9,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.78,
         "forward_return": 0.25,
         "start_price": 66.8,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 12.14,
+        "pe_ratio": 11.96,
         "forward_return": -4.9,
         "start_price": 73.0,
         "start_year": 2012
@@ -8985,7 +8985,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 11.58,
         "forward_return": -1.87,
         "start_price": 68.9,
         "start_year": 2013
@@ -8994,7 +8994,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.75,
         "forward_return": 2.42,
         "start_price": 63.3,
         "start_year": 2013
@@ -9003,7 +9003,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.41,
         "forward_return": 0.75,
         "start_price": 66.5,
         "start_year": 2013
@@ -9012,7 +9012,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 10.78,
         "forward_return": 1.51,
         "start_price": 61.0,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 11.8,
         "forward_return": 2.51,
         "start_price": 64.8,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 12.22,
         "forward_return": 3.85,
         "start_price": 65.0,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 13.53,
         "forward_return": 3.1,
         "start_price": 69.8,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.62,
         "forward_return": 3.67,
         "start_price": 63.1,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.49,
+        "pe_ratio": 13.24,
         "forward_return": 6.3,
         "start_price": 64.1,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.4,
         "forward_return": 2.74,
         "start_price": 69.7,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.62,
         "forward_return": 2.52,
         "start_price": 65.9,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.45,
         "forward_return": 0.09,
         "start_price": 75.0,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.31,
         "forward_return": 0.36,
         "start_price": 74.5,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.8,
         "forward_return": -3.67,
         "start_price": 82.0,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 17.04,
+        "pe_ratio": 16.94,
         "forward_return": -3.63,
         "start_price": 82.8,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.49,
         "forward_return": -0.12,
         "start_price": 80.7,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 17.86,
+        "pe_ratio": 17.76,
         "forward_return": -1.32,
         "start_price": 87.0,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.19,
         "forward_return": -0.6,
         "start_price": 84.4,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 17.15,
         "forward_return": -1.77,
         "start_price": 84.4,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.66,
         "forward_return": 1.7,
         "start_price": 77.2,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.53,
         "forward_return": 2.51,
         "start_price": 76.4,
         "start_year": 2014
@@ -9183,7 +9183,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.73,
+        "pe_ratio": 15.68,
         "forward_return": -1.85,
         "start_price": 77.0,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": -0.96,
         "start_price": 77.0,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.36,
+        "pe_ratio": 16.82,
         "forward_return": -3.7,
         "start_price": 79.4,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 16.33,
         "forward_return": -2.35,
         "start_price": 75.6,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.84,
         "forward_return": -5.3,
         "start_price": 77.0,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 16.29,
+        "pe_ratio": 17.25,
         "forward_return": -6.19,
         "start_price": 77.9,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 16.37,
         "forward_return": -3.89,
         "start_price": 73.0,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.88,
+        "pe_ratio": 13.4,
         "forward_return": 1.4,
         "start_price": 61.0,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 12.87,
         "forward_return": 2.02,
         "start_price": 59.8,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.05,
         "forward_return": 3.82,
         "start_price": 57.1,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.81,
         "forward_return": 2.38,
         "start_price": 55.5,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.94,
         "forward_return": 5.95,
         "start_price": 51.0,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 11.54,
         "forward_return": 7.71,
         "start_price": 53.3,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 12.16,
         "forward_return": 6.64,
         "start_price": 56.2,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.16,
         "forward_return": 6.82,
         "start_price": 56.2,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 11.23,
         "forward_return": 10.37,
         "start_price": 52.0,
         "start_year": 2016
@@ -9345,7 +9345,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 13.39,
+        "pe_ratio": 12.5,
         "forward_return": 6.27,
         "start_price": 58.0,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 14.27,
+        "pe_ratio": 13.12,
         "forward_return": 5.24,
         "start_price": 61.0,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 15.39,
+        "pe_ratio": 14.48,
         "forward_return": 1.54,
         "start_price": 64.9,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.6,
         "forward_return": 4.48,
         "start_price": 58.7,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 15.94,
+        "pe_ratio": 15.76,
         "forward_return": 0.83,
         "start_price": 65.4,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 15.7,
         "forward_return": 2.52,
         "start_price": 64.0,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 14.84,
         "forward_return": 6.01,
         "start_price": 59.4,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 16.52,
         "forward_return": 4.44,
         "start_price": 63.6,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 16.35,
+        "pe_ratio": 16.9,
         "forward_return": 4.39,
         "start_price": 63.7,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.72,
         "forward_return": 4.62,
         "start_price": 61.7,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 16.71,
         "forward_return": 6.43,
         "start_price": 62.5,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 5.35,
         "start_price": 68.8,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 18.75,
         "forward_return": 4.2,
         "start_price": 72.0,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 18.78,
+        "pe_ratio": 18.65,
         "forward_return": 8.89,
         "start_price": 71.6,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.89,
         "forward_return": 8.46,
         "start_price": 68.7,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.49,
+        "pe_ratio": 18.2,
         "forward_return": 7.26,
         "start_price": 69.9,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.67,
         "forward_return": 5.19,
         "start_price": 71.0,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.33,
         "forward_return": 12.53,
         "start_price": 61.5,
         "start_year": 2017
@@ -9525,7 +9525,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.05,
         "forward_return": 12.88,
         "start_price": 63.5,
         "start_year": 2018
@@ -9534,7 +9534,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 15.84,
+        "pe_ratio": 16.04,
         "forward_return": 17.07,
         "start_price": 59.6,
         "start_year": 2018
@@ -9543,7 +9543,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 15.93,
         "forward_return": 22.5,
         "start_price": 59.1,
         "start_year": 2018
@@ -9552,7 +9552,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.73,
         "forward_return": 26.31,
         "start_price": 54.1,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 14.57,
         "forward_return": 23.71,
         "start_price": 53.0,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.86,
         "forward_return": 22.41,
         "start_price": 53.5,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 14.45,
         "forward_return": 19.26,
         "start_price": 52.9,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 14.19,
         "forward_return": 19.82,
         "start_price": 52.8,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.74,
+        "pe_ratio": 14.07,
         "forward_return": 19.13,
         "start_price": 53.2,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 22.79,
         "start_price": 48.85,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.9,
         "forward_return": 25.33,
         "start_price": 49.95,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.19,
+        "pe_ratio": 14.14,
         "forward_return": 23.52,
         "start_price": 55.9,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 14.46,
+        "pe_ratio": 14.35,
         "forward_return": 22.57,
         "start_price": 57.2,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.38,
         "forward_return": 20.34,
         "start_price": 57.8,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 14.58,
         "forward_return": 17.58,
         "start_price": 59.2,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.68,
+        "pe_ratio": 14.37,
         "forward_return": 16.04,
         "start_price": 58.9,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.59,
         "forward_return": 15.16,
         "start_price": 60.4,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.99,
         "forward_return": 20.29,
         "start_price": 57.5,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 13.89,
+        "pe_ratio": 13.85,
         "forward_return": 18.82,
         "start_price": 56.5,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 13.86,
+        "pe_ratio": 13.98,
         "forward_return": 17.79,
         "start_price": 56.6,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.34,
         "forward_return": 12.77,
         "start_price": 58.5,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 14.63,
+        "pe_ratio": 14.67,
         "forward_return": 13.04,
         "start_price": 60.3,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.15,
         "forward_return": 13.31,
         "start_price": 62.0,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.64,
+        "pe_ratio": 15.32,
         "forward_return": 18.51,
         "start_price": 62.0,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.68,
+        "pe_ratio": 15.05,
         "forward_return": 20.24,
         "start_price": 60.2,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.11,
+        "pe_ratio": 15.46,
         "forward_return": 16.05,
         "start_price": 64.9,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 15.93,
         "forward_return": 23.56,
         "start_price": 70.0,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.26,
+        "pe_ratio": 15.47,
         "forward_return": 33.15,
         "start_price": 71.0,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.72,
         "forward_return": 46.37,
         "start_price": 81.8,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.37,
+        "pe_ratio": 14.82,
         "forward_return": 52.21,
         "start_price": 77.0,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 13.75,
         "forward_return": 50.46,
         "start_price": 75.6,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 12.29,
         "forward_return": 42.18,
         "start_price": 72.0,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 42.1,
         "start_price": 77.0,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 11.96,
+        "pe_ratio": 11.59,
         "forward_return": 48.64,
         "start_price": 80.7,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 12.27,
+        "pe_ratio": 11.56,
         "forward_return": 43.27,
         "start_price": 85.0,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.66,
         "forward_return": 46.99,
         "start_price": 98.0,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 12.48,
         "forward_return": 41.32,
         "start_price": 98.4,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 11.18,
         "forward_return": 48.16,
         "start_price": 89.7,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.71,
         "forward_return": 55.61,
         "start_price": 87.5,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.31,
         "forward_return": 56.1,
         "start_price": 77.3,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.3,
         "forward_return": 54.57,
         "start_price": 78.4,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.46,
+        "pe_ratio": 9.05,
         "forward_return": 54.45,
         "start_price": 77.5,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.32,
+        "pe_ratio": 9.05,
         "forward_return": 60.91,
         "start_price": 78.0,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.9,
         "forward_return": 53.8,
         "start_price": 85.9,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.68,
         "forward_return": 46.32,
         "start_price": 92.9,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 10.72,
         "forward_return": 43.07,
         "start_price": 92.9,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.48,
+        "pe_ratio": 10.23,
         "forward_return": 40.72,
         "start_price": 88.3,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.07,
+        "pe_ratio": 10.1,
         "forward_return": 45.86,
         "start_price": 83.8,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 9.68,
+        "pe_ratio": 10.0,
         "forward_return": 54.4,
         "start_price": 79.6,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 9.83,
+        "pe_ratio": 10.47,
         "forward_return": 54.8,
         "start_price": 79.8,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.55,
+        "pe_ratio": 11.12,
         "forward_return": 54.07,
         "start_price": 84.6,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 10.43,
         "forward_return": 54.14,
         "start_price": 79.3,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.14,
         "forward_return": 60.42,
         "start_price": 77.0,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 8.87,
+        "pe_ratio": 9.04,
         "forward_return": 68.7,
         "start_price": 68.4,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 9.41,
+        "pe_ratio": 9.5,
         "forward_return": 62.97,
         "start_price": 71.6,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 9.65,
+        "pe_ratio": 9.98,
         "forward_return": 60.34,
         "start_price": 74.7,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 10.05,
+        "pe_ratio": 10.73,
         "forward_return": 58.57,
         "start_price": 80.1,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.85,
         "forward_return": 8.4,
         "start_price": 53.3,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 15.68,
         "forward_return": 6.08,
         "start_price": 56.3,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 13.4,
         "forward_return": 9.91,
         "start_price": 48.1,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.42,
+        "pe_ratio": 14.43,
         "forward_return": 8.0,
         "start_price": 51.8,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 12.11,
+        "pe_ratio": 13.02,
         "forward_return": 11.08,
         "start_price": 46.75,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 13.15,
         "forward_return": 6.96,
         "start_price": 47.2,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.28,
+        "pe_ratio": 13.2,
         "forward_return": 7.75,
         "start_price": 47.4,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.4,
         "forward_return": 8.92,
         "start_price": 49.3,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 14.61,
+        "pe_ratio": 14.96,
         "forward_return": 6.69,
         "start_price": 56.4,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.96,
+        "pe_ratio": 14.15,
         "forward_return": 7.66,
         "start_price": 55.6,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.12,
         "forward_return": 5.98,
         "start_price": 56.5,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.41,
         "forward_return": 7.99,
         "start_price": 50.5,
         "start_year": 2007
@@ -10200,7 +10200,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 11.23,
         "forward_return": 9.77,
         "start_price": 48.0,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.17,
         "forward_return": 11.86,
         "start_price": 50.0,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.94,
         "forward_return": 12.21,
         "start_price": 51.2,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.27,
         "forward_return": 12.26,
         "start_price": 53.7,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.08,
         "forward_return": 7.97,
         "start_price": 53.7,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 10.49,
         "forward_return": 9.3,
         "start_price": 51.7,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.68,
         "forward_return": 8.21,
         "start_price": 54.1,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.31,
+        "pe_ratio": 9.33,
         "forward_return": 10.87,
         "start_price": 48.5,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.95,
         "forward_return": 19.89,
         "start_price": 37.5,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.59,
         "forward_return": 20.4,
         "start_price": 41.4,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 21.55,
         "start_price": 41.95,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.22,
         "forward_return": 15.77,
         "start_price": 50.7,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.77,
         "forward_return": 17.75,
         "start_price": 48.0,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.77,
         "forward_return": 20.81,
         "start_price": 43.75,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.7,
+        "pe_ratio": 8.22,
         "forward_return": 17.81,
         "start_price": 47.8,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.52,
         "forward_return": 24.08,
         "start_price": 39.1,
         "start_year": 2008
@@ -10362,7 +10362,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.21,
+        "pe_ratio": 5.87,
         "forward_return": 24.1,
         "start_price": 34.4,
         "start_year": 2008
@@ -10371,7 +10371,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.48,
+        "pe_ratio": 6.29,
         "forward_return": 24.96,
         "start_price": 36.0,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.62,
+        "pe_ratio": 5.61,
         "forward_return": 27.57,
         "start_price": 31.6,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.3,
+        "pe_ratio": 6.29,
         "forward_return": 21.61,
         "start_price": 35.7,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.51,
+        "pe_ratio": 7.48,
         "forward_return": 17.36,
         "start_price": 42.85,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 8.59,
+        "pe_ratio": 8.69,
         "forward_return": 11.29,
         "start_price": 49.4,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 8.98,
+        "pe_ratio": 9.21,
         "forward_return": 11.22,
         "start_price": 52.0,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.08,
+        "pe_ratio": 9.46,
         "forward_return": 10.77,
         "start_price": 53.0,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 11.28,
         "forward_return": 8.19,
         "start_price": 62.1,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.61,
         "forward_return": 3.54,
         "start_price": 68.2,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.32,
+        "pe_ratio": 12.71,
         "forward_return": 4.14,
         "start_price": 67.5,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 11.22,
         "forward_return": 7.98,
         "start_price": 62.5,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.15,
         "forward_return": 5.71,
         "start_price": 65.0,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 10.46,
         "forward_return": 9.02,
         "start_price": 63.9,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.69,
         "forward_return": 8.2,
         "start_price": 65.5,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.02,
         "forward_return": 12.1,
         "start_price": 61.6,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 9.61,
         "forward_return": 13.41,
         "start_price": 59.3,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.4,
         "forward_return": 13.32,
         "start_price": 58.2,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.42,
         "forward_return": 14.99,
         "start_price": 58.5,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 9.4,
         "forward_return": 14.53,
         "start_price": 58.0,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 7.92,
         "forward_return": 19.71,
         "start_price": 48.6,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 8.31,
         "forward_return": 16.25,
         "start_price": 50.7,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 9.87,
         "forward_return": 13.05,
         "start_price": 56.2,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 11.32,
         "forward_return": 11.44,
         "start_price": 59.9,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.34,
+        "pe_ratio": 12.53,
         "forward_return": 10.71,
         "start_price": 61.5,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.44,
+        "pe_ratio": 11.78,
         "forward_return": 13.02,
         "start_price": 58.1,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.21,
         "forward_return": 13.16,
         "start_price": 55.5,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.36,
         "forward_return": 13.08,
         "start_price": 56.5,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 12.14,
+        "pe_ratio": 13.03,
         "forward_return": 9.41,
         "start_price": 65.1,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.47,
+        "pe_ratio": 13.55,
         "forward_return": 6.78,
         "start_price": 68.0,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 14.24,
         "forward_return": 1.98,
         "start_price": 71.0,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.4,
+        "pe_ratio": 11.85,
         "forward_return": 6.53,
         "start_price": 58.7,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.37,
+        "pe_ratio": 12.09,
         "forward_return": 5.21,
         "start_price": 59.5,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.33,
         "forward_return": 4.45,
         "start_price": 59.9,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.96,
+        "pe_ratio": 10.44,
         "forward_return": 3.15,
         "start_price": 59.0,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.59,
         "forward_return": 2.26,
         "start_price": 63.2,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.28,
         "forward_return": -0.24,
         "start_price": 72.7,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 13.17,
         "forward_return": -1.76,
         "start_price": 77.3,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.97,
         "forward_return": -3.07,
         "start_price": 76.8,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.07,
         "forward_return": -1.37,
         "start_price": 78.0,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 13.19,
         "forward_return": -0.83,
         "start_price": 79.4,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 12.83,
         "forward_return": 0.66,
         "start_price": 78.4,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 12.47,
         "forward_return": -0.98,
         "start_price": 77.3,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.38,
         "forward_return": 0.98,
         "start_price": 77.9,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.78,
         "forward_return": 4.48,
         "start_price": 66.8,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 12.14,
+        "pe_ratio": 11.96,
         "forward_return": 0.68,
         "start_price": 73.0,
         "start_year": 2012
@@ -10821,7 +10821,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 11.58,
         "forward_return": 3.54,
         "start_price": 68.9,
         "start_year": 2013
@@ -10830,7 +10830,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.75,
         "forward_return": 5.8,
         "start_price": 63.3,
         "start_year": 2013
@@ -10839,7 +10839,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.41,
         "forward_return": 3.83,
         "start_price": 66.5,
         "start_year": 2013
@@ -10848,7 +10848,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 10.78,
         "forward_return": 6.37,
         "start_price": 61.0,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 11.8,
         "forward_return": 6.83,
         "start_price": 64.8,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 12.22,
         "forward_return": 7.75,
         "start_price": 65.0,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 13.53,
         "forward_return": 5.57,
         "start_price": 69.8,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.62,
         "forward_return": 7.35,
         "start_price": 63.1,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.49,
+        "pe_ratio": 13.24,
         "forward_return": 7.31,
         "start_price": 64.1,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.4,
         "forward_return": 5.42,
         "start_price": 69.7,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.62,
         "forward_return": 3.83,
         "start_price": 65.9,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.45,
         "forward_return": 1.18,
         "start_price": 75.0,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.31,
         "forward_return": 0.07,
         "start_price": 74.5,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.8,
         "forward_return": -2.47,
         "start_price": 82.0,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 17.04,
+        "pe_ratio": 16.94,
         "forward_return": -4.39,
         "start_price": 82.8,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.49,
         "forward_return": -4.16,
         "start_price": 80.7,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 17.86,
+        "pe_ratio": 17.76,
         "forward_return": -5.77,
         "start_price": 87.0,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.19,
         "forward_return": -5.4,
         "start_price": 84.4,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 17.15,
         "forward_return": -5.43,
         "start_price": 84.4,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.66,
         "forward_return": -3.16,
         "start_price": 77.2,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.53,
         "forward_return": -4.5,
         "start_price": 76.4,
         "start_year": 2014
@@ -11019,7 +11019,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.73,
+        "pe_ratio": 15.68,
         "forward_return": -4.28,
         "start_price": 77.0,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": -2.15,
         "start_price": 77.0,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.36,
+        "pe_ratio": 16.82,
         "forward_return": -2.45,
         "start_price": 79.4,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 16.33,
         "forward_return": -1.04,
         "start_price": 75.6,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.84,
         "forward_return": -1.02,
         "start_price": 77.0,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 16.29,
+        "pe_ratio": 17.25,
         "forward_return": -1.41,
         "start_price": 77.9,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 16.37,
         "forward_return": 0.71,
         "start_price": 73.0,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.88,
+        "pe_ratio": 13.4,
         "forward_return": 4.14,
         "start_price": 61.0,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 12.87,
         "forward_return": 4.29,
         "start_price": 59.8,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.05,
         "forward_return": 5.54,
         "start_price": 57.1,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.81,
         "forward_return": 7.0,
         "start_price": 55.5,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.94,
         "forward_return": 9.96,
         "start_price": 51.0,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 11.54,
         "forward_return": 9.36,
         "start_price": 53.3,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 12.16,
         "forward_return": 7.93,
         "start_price": 56.2,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.16,
         "forward_return": 7.28,
         "start_price": 56.2,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 11.23,
         "forward_return": 11.07,
         "start_price": 52.0,
         "start_year": 2016
@@ -11181,7 +11181,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 13.39,
+        "pe_ratio": 12.5,
         "forward_return": 9.78,
         "start_price": 58.0,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 14.27,
+        "pe_ratio": 13.12,
         "forward_return": 8.73,
         "start_price": 61.0,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 15.39,
+        "pe_ratio": 14.48,
         "forward_return": 10.27,
         "start_price": 64.9,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.6,
         "forward_return": 11.63,
         "start_price": 58.7,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 15.94,
+        "pe_ratio": 15.76,
         "forward_return": 8.23,
         "start_price": 65.4,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 15.7,
         "forward_return": 7.71,
         "start_price": 64.0,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 14.84,
         "forward_return": 11.3,
         "start_price": 59.4,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 16.52,
         "forward_return": 10.51,
         "start_price": 63.6,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 16.35,
+        "pe_ratio": 16.9,
         "forward_return": 11.7,
         "start_price": 63.7,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.72,
         "forward_return": 16.11,
         "start_price": 61.7,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 16.71,
         "forward_return": 15.84,
         "start_price": 62.5,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 10.84,
         "start_price": 68.8,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 18.75,
         "forward_return": 9.0,
         "start_price": 72.0,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 18.78,
+        "pe_ratio": 18.65,
         "forward_return": 6.8,
         "start_price": 71.6,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.89,
         "forward_return": 8.23,
         "start_price": 68.7,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.49,
+        "pe_ratio": 18.2,
         "forward_return": 7.5,
         "start_price": 69.9,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.67,
         "forward_return": 7.22,
         "start_price": 71.0,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.33,
         "forward_return": 13.41,
         "start_price": 61.5,
         "start_year": 2017
@@ -11361,7 +11361,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.05,
         "forward_return": 14.4,
         "start_price": 63.5,
         "start_year": 2018
@@ -11370,7 +11370,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 15.84,
+        "pe_ratio": 16.04,
         "forward_return": 16.22,
         "start_price": 59.6,
         "start_year": 2018
@@ -11379,7 +11379,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 15.93,
         "forward_return": 15.22,
         "start_price": 59.1,
         "start_year": 2018
@@ -11388,7 +11388,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.73,
         "forward_return": 16.5,
         "start_price": 54.1,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 14.57,
         "forward_return": 15.84,
         "start_price": 53.0,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.86,
         "forward_return": 15.63,
         "start_price": 53.5,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 14.45,
         "forward_return": 18.31,
         "start_price": 52.9,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 14.19,
         "forward_return": 16.82,
         "start_price": 52.8,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.74,
+        "pe_ratio": 14.07,
         "forward_return": 15.92,
         "start_price": 53.2,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 15.67,
         "start_price": 48.85,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.9,
         "forward_return": 16.07,
         "start_price": 49.95,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.19,
+        "pe_ratio": 14.14,
         "forward_return": 13.8,
         "start_price": 55.9,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 14.46,
+        "pe_ratio": 14.35,
         "forward_return": 14.74,
         "start_price": 57.2,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.38,
         "forward_return": 16.96,
         "start_price": 57.8,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 14.58,
         "forward_return": 15.39,
         "start_price": 59.2,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.68,
+        "pe_ratio": 14.37,
         "forward_return": 23.17,
         "start_price": 58.9,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.59,
         "forward_return": 29.72,
         "start_price": 60.4,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.99,
         "forward_return": 45.82,
         "start_price": 57.5,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 13.89,
+        "pe_ratio": 13.85,
         "forward_return": 48.53,
         "start_price": 56.5,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 13.86,
+        "pe_ratio": 13.98,
         "forward_return": 46.54,
         "start_price": 56.6,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.34,
         "forward_return": 37.73,
         "start_price": 58.5,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 14.63,
+        "pe_ratio": 14.67,
         "forward_return": 38.91,
         "start_price": 60.3,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.15,
         "forward_return": 44.26,
         "start_price": 62.0,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.64,
+        "pe_ratio": 15.32,
         "forward_return": 42.2,
         "start_price": 62.0,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.68,
+        "pe_ratio": 15.05,
         "forward_return": 51.24,
         "start_price": 60.2,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.11,
+        "pe_ratio": 15.46,
         "forward_return": 44.31,
         "start_price": 64.9,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 15.93,
         "forward_return": 43.34,
         "start_price": 70.0,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.26,
+        "pe_ratio": 15.47,
         "forward_return": 47.22,
         "start_price": 71.0,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.72,
         "forward_return": 38.31,
         "start_price": 81.8,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.37,
+        "pe_ratio": 14.82,
         "forward_return": 39.88,
         "start_price": 77.0,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 13.75,
         "forward_return": 40.05,
         "start_price": 75.6,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 12.29,
         "forward_return": 46.35,
         "start_price": 72.0,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 42.53,
         "start_price": 77.0,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 11.96,
+        "pe_ratio": 11.59,
         "forward_return": 38.42,
         "start_price": 80.7,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 12.27,
+        "pe_ratio": 11.56,
         "forward_return": 34.39,
         "start_price": 85.0,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.66,
         "forward_return": 26.54,
         "start_price": 98.0,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 12.48,
         "forward_return": 28.14,
         "start_price": 98.4,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 12.01,
+        "pe_ratio": 11.18,
         "forward_return": 35.04,
         "start_price": 89.7,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 11.44,
+        "pe_ratio": 10.71,
         "forward_return": 36.22,
         "start_price": 87.5,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.31,
         "forward_return": 42.2,
         "start_price": 77.3,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.79,
+        "pe_ratio": 9.3,
         "forward_return": 39.52,
         "start_price": 78.4,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.46,
+        "pe_ratio": 9.05,
         "forward_return": 43.06,
         "start_price": 77.5,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.32,
+        "pe_ratio": 9.05,
         "forward_return": 43.97,
         "start_price": 78.0,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 10.05,
+        "pe_ratio": 9.9,
         "forward_return": 38.56,
         "start_price": 85.9,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.68,
         "forward_return": 35.65,
         "start_price": 92.9,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 10.72,
         "forward_return": 36.88,
         "start_price": 92.9,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.85,
         "forward_return": 5.95,
         "start_price": 53.3,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 15.68,
         "forward_return": 5.09,
         "start_price": 56.3,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 13.4,
         "forward_return": 10.92,
         "start_price": 48.1,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.42,
+        "pe_ratio": 14.43,
         "forward_return": 10.07,
         "start_price": 51.8,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 12.11,
+        "pe_ratio": 13.02,
         "forward_return": 13.43,
         "start_price": 46.75,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 13.15,
         "forward_return": 9.85,
         "start_price": 47.2,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.28,
+        "pe_ratio": 13.2,
         "forward_return": 9.99,
         "start_price": 47.4,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.4,
         "forward_return": 9.24,
         "start_price": 49.3,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 14.61,
+        "pe_ratio": 14.96,
         "forward_return": 6.09,
         "start_price": 56.4,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.96,
+        "pe_ratio": 14.15,
         "forward_return": 7.54,
         "start_price": 55.6,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.12,
         "forward_return": 9.63,
         "start_price": 56.5,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.41,
         "forward_return": 13.25,
         "start_price": 50.5,
         "start_year": 2007
@@ -11928,7 +11928,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 11.23,
         "forward_return": 14.28,
         "start_price": 48.0,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.17,
         "forward_return": 13.64,
         "start_price": 50.0,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.94,
         "forward_return": 13.43,
         "start_price": 51.2,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.27,
         "forward_return": 12.47,
         "start_price": 53.7,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.08,
         "forward_return": 12.22,
         "start_price": 53.7,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 10.49,
         "forward_return": 13.21,
         "start_price": 51.7,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.68,
         "forward_return": 9.47,
         "start_price": 54.1,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.31,
+        "pe_ratio": 9.33,
         "forward_return": 13.48,
         "start_price": 48.5,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.95,
         "forward_return": 18.37,
         "start_price": 37.5,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.59,
         "forward_return": 15.15,
         "start_price": 41.4,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 15.11,
         "start_price": 41.95,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.22,
         "forward_return": 9.35,
         "start_price": 50.7,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.77,
         "forward_return": 11.6,
         "start_price": 48.0,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.77,
         "forward_return": 15.15,
         "start_price": 43.75,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.7,
+        "pe_ratio": 8.22,
         "forward_return": 11.37,
         "start_price": 47.8,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.52,
         "forward_return": 16.22,
         "start_price": 39.1,
         "start_year": 2008
@@ -12090,7 +12090,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.21,
+        "pe_ratio": 5.87,
         "forward_return": 20.8,
         "start_price": 34.4,
         "start_year": 2008
@@ -12099,7 +12099,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.48,
+        "pe_ratio": 6.29,
         "forward_return": 18.66,
         "start_price": 36.0,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.62,
+        "pe_ratio": 5.61,
         "forward_return": 24.31,
         "start_price": 31.6,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.3,
+        "pe_ratio": 6.29,
         "forward_return": 21.18,
         "start_price": 35.7,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.51,
+        "pe_ratio": 7.48,
         "forward_return": 18.66,
         "start_price": 42.85,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 8.59,
+        "pe_ratio": 8.69,
         "forward_return": 15.51,
         "start_price": 49.4,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 8.98,
+        "pe_ratio": 9.21,
         "forward_return": 13.86,
         "start_price": 52.0,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.08,
+        "pe_ratio": 9.46,
         "forward_return": 14.82,
         "start_price": 53.0,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 11.28,
         "forward_return": 10.75,
         "start_price": 62.1,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.61,
         "forward_return": 8.7,
         "start_price": 68.2,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.32,
+        "pe_ratio": 12.71,
         "forward_return": 7.36,
         "start_price": 67.5,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 11.22,
         "forward_return": 8.85,
         "start_price": 62.5,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.15,
         "forward_return": 8.13,
         "start_price": 65.0,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 10.46,
         "forward_return": 8.5,
         "start_price": 63.9,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.69,
         "forward_return": 8.5,
         "start_price": 65.5,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.02,
         "forward_return": 8.98,
         "start_price": 61.6,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 9.61,
         "forward_return": 10.13,
         "start_price": 59.3,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.4,
         "forward_return": 10.75,
         "start_price": 58.2,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.42,
         "forward_return": 9.5,
         "start_price": 58.5,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 9.4,
         "forward_return": 6.75,
         "start_price": 58.0,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 7.92,
         "forward_return": 10.26,
         "start_price": 48.6,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 8.31,
         "forward_return": 8.58,
         "start_price": 50.7,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 9.87,
         "forward_return": 5.91,
         "start_price": 56.2,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 11.32,
         "forward_return": 3.28,
         "start_price": 59.9,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.34,
+        "pe_ratio": 12.53,
         "forward_return": 3.4,
         "start_price": 61.5,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.44,
+        "pe_ratio": 11.78,
         "forward_return": 5.41,
         "start_price": 58.1,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.21,
         "forward_return": 6.37,
         "start_price": 55.5,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.36,
         "forward_return": 4.79,
         "start_price": 56.5,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 12.14,
+        "pe_ratio": 13.03,
         "forward_return": 3.52,
         "start_price": 65.1,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.47,
+        "pe_ratio": 13.55,
         "forward_return": 3.4,
         "start_price": 68.0,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 14.24,
         "forward_return": 3.54,
         "start_price": 71.0,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.4,
+        "pe_ratio": 11.85,
         "forward_return": 5.93,
         "start_price": 58.7,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.37,
+        "pe_ratio": 12.09,
         "forward_return": 7.39,
         "start_price": 59.5,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.33,
         "forward_return": 6.89,
         "start_price": 59.9,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.96,
+        "pe_ratio": 10.44,
         "forward_return": 6.01,
         "start_price": 59.0,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.59,
         "forward_return": 5.65,
         "start_price": 63.2,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.28,
         "forward_return": 2.22,
         "start_price": 72.7,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 13.17,
         "forward_return": 1.01,
         "start_price": 77.3,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.97,
         "forward_return": 1.34,
         "start_price": 76.8,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.07,
         "forward_return": 2.53,
         "start_price": 78.0,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 13.19,
         "forward_return": 2.9,
         "start_price": 79.4,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 12.83,
         "forward_return": 2.96,
         "start_price": 78.4,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 12.47,
         "forward_return": 2.58,
         "start_price": 77.3,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.38,
         "forward_return": 2.7,
         "start_price": 77.9,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.78,
         "forward_return": 6.17,
         "start_price": 66.8,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 12.14,
+        "pe_ratio": 11.96,
         "forward_return": 2.0,
         "start_price": 73.0,
         "start_year": 2012
@@ -12549,7 +12549,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 11.58,
         "forward_return": 3.69,
         "start_price": 68.9,
         "start_year": 2013
@@ -12558,7 +12558,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.75,
         "forward_return": 4.45,
         "start_price": 63.3,
         "start_year": 2013
@@ -12567,7 +12567,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.41,
         "forward_return": 3.29,
         "start_price": 66.5,
         "start_year": 2013
@@ -12576,7 +12576,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 10.78,
         "forward_return": 3.71,
         "start_price": 61.0,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 11.8,
         "forward_return": 2.16,
         "start_price": 64.8,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 12.22,
         "forward_return": 2.24,
         "start_price": 65.0,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 13.53,
         "forward_return": 0.45,
         "start_price": 69.8,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.62,
         "forward_return": 2.47,
         "start_price": 63.1,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.49,
+        "pe_ratio": 13.24,
         "forward_return": 2.27,
         "start_price": 64.1,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.4,
         "forward_return": -0.68,
         "start_price": 69.7,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.62,
         "forward_return": 0.76,
         "start_price": 65.9,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.45,
         "forward_return": -0.16,
         "start_price": 75.0,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.31,
         "forward_return": 0.32,
         "start_price": 74.5,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.8,
         "forward_return": -1.43,
         "start_price": 82.0,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 17.04,
+        "pe_ratio": 16.94,
         "forward_return": -1.26,
         "start_price": 82.8,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.49,
         "forward_return": -0.83,
         "start_price": 80.7,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 17.86,
+        "pe_ratio": 17.76,
         "forward_return": -1.94,
         "start_price": 87.0,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.19,
         "forward_return": -2.14,
         "start_price": 84.4,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 17.15,
         "forward_return": -2.4,
         "start_price": 84.4,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.66,
         "forward_return": -0.62,
         "start_price": 77.2,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.53,
         "forward_return": 0.09,
         "start_price": 76.4,
         "start_year": 2014
@@ -12747,7 +12747,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.73,
+        "pe_ratio": 15.68,
         "forward_return": 0.4,
         "start_price": 77.0,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 0.83,
         "start_price": 77.0,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.36,
+        "pe_ratio": 16.82,
         "forward_return": 0.21,
         "start_price": 79.4,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 16.33,
         "forward_return": 0.74,
         "start_price": 75.6,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.84,
         "forward_return": 1.55,
         "start_price": 77.0,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 16.29,
+        "pe_ratio": 17.25,
         "forward_return": 2.53,
         "start_price": 77.9,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 16.37,
         "forward_return": 4.1,
         "start_price": 73.0,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.88,
+        "pe_ratio": 13.4,
         "forward_return": 10.33,
         "start_price": 61.0,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 12.87,
         "forward_return": 9.68,
         "start_price": 59.8,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.05,
         "forward_return": 10.37,
         "start_price": 57.1,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.81,
         "forward_return": 10.13,
         "start_price": 55.5,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.94,
         "forward_return": 13.23,
         "start_price": 51.0,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 11.54,
         "forward_return": 13.1,
         "start_price": 53.3,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 12.16,
         "forward_return": 15.32,
         "start_price": 56.2,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.16,
         "forward_return": 15.59,
         "start_price": 56.2,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 11.23,
         "forward_return": 17.48,
         "start_price": 52.0,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 13.39,
+        "pe_ratio": 12.5,
         "forward_return": 13.17,
         "start_price": 58.0,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 14.27,
+        "pe_ratio": 13.12,
         "forward_return": 11.57,
         "start_price": 61.0,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 15.39,
+        "pe_ratio": 14.48,
         "forward_return": 8.29,
         "start_price": 64.9,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.6,
         "forward_return": 10.74,
         "start_price": 58.7,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 15.94,
+        "pe_ratio": 15.76,
         "forward_return": 8.17,
         "start_price": 65.4,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 15.7,
         "forward_return": 8.75,
         "start_price": 64.0,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 14.84,
         "forward_return": 12.12,
         "start_price": 59.4,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 16.52,
         "forward_return": 12.03,
         "start_price": 63.6,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 16.35,
+        "pe_ratio": 16.9,
         "forward_return": 12.0,
         "start_price": 63.7,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.72,
         "forward_return": 11.78,
         "start_price": 61.7,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 16.71,
         "forward_return": 10.54,
         "start_price": 62.5,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 7.54,
         "start_price": 68.8,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 18.75,
         "forward_return": 6.61,
         "start_price": 72.0,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 18.78,
+        "pe_ratio": 18.65,
         "forward_return": 8.38,
         "start_price": 71.6,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.89,
         "forward_return": 8.17,
         "start_price": 68.7,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.49,
+        "pe_ratio": 18.2,
         "forward_return": 7.31,
         "start_price": 69.9,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.67,
         "forward_return": 5.05,
         "start_price": 71.0,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.33,
         "forward_return": 8.87,
         "start_price": 61.5,
         "start_year": 2017
@@ -13089,7 +13089,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.05,
         "forward_return": 8.88,
         "start_price": 63.5,
         "start_year": 2018
@@ -13098,7 +13098,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 15.84,
+        "pe_ratio": 16.04,
         "forward_return": 11.47,
         "start_price": 59.6,
         "start_year": 2018
@@ -13107,7 +13107,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 15.93,
         "forward_return": 13.55,
         "start_price": 59.1,
         "start_year": 2018
@@ -13116,7 +13116,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.73,
         "forward_return": 14.9,
         "start_price": 54.1,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 14.57,
         "forward_return": 21.26,
         "start_price": 53.0,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.86,
         "forward_return": 26.67,
         "start_price": 53.5,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 14.45,
         "forward_return": 37.88,
         "start_price": 52.9,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 14.19,
         "forward_return": 39.47,
         "start_price": 52.8,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.74,
+        "pe_ratio": 14.07,
         "forward_return": 37.83,
         "start_price": 53.2,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 34.38,
         "start_price": 48.85,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.9,
         "forward_return": 35.49,
         "start_price": 49.95,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.19,
+        "pe_ratio": 14.14,
         "forward_return": 37.24,
         "start_price": 55.9,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 14.46,
+        "pe_ratio": 14.35,
         "forward_return": 35.06,
         "start_price": 57.2,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.38,
         "forward_return": 40.67,
         "start_price": 57.8,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 14.58,
         "forward_return": 36.92,
         "start_price": 59.2,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.68,
+        "pe_ratio": 14.37,
         "forward_return": 38.38,
         "start_price": 58.9,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.59,
         "forward_return": 41.02,
         "start_price": 60.4,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.99,
         "forward_return": 39.41,
         "start_price": 57.5,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 13.89,
+        "pe_ratio": 13.85,
         "forward_return": 39.48,
         "start_price": 56.5,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 13.86,
+        "pe_ratio": 13.98,
         "forward_return": 39.06,
         "start_price": 56.6,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.34,
         "forward_return": 41.66,
         "start_price": 58.5,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 14.63,
+        "pe_ratio": 14.67,
         "forward_return": 39.74,
         "start_price": 60.3,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.15,
         "forward_return": 37.05,
         "start_price": 62.0,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 13.64,
+        "pe_ratio": 15.32,
         "forward_return": 32.09,
         "start_price": 62.0,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.68,
+        "pe_ratio": 15.05,
         "forward_return": 33.48,
         "start_price": 60.2,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.11,
+        "pe_ratio": 15.46,
         "forward_return": 32.9,
         "start_price": 64.9,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 13.59,
+        "pe_ratio": 15.93,
         "forward_return": 33.97,
         "start_price": 70.0,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 13.26,
+        "pe_ratio": 15.47,
         "forward_return": 33.85,
         "start_price": 71.0,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 16.72,
         "forward_return": 31.48,
         "start_price": 81.8,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 13.37,
+        "pe_ratio": 14.82,
         "forward_return": 31.46,
         "start_price": 77.0,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 12.68,
+        "pe_ratio": 13.75,
         "forward_return": 34.27,
         "start_price": 75.6,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 12.29,
         "forward_return": 36.43,
         "start_price": 72.0,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 33.12,
         "start_price": 77.0,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 11.96,
+        "pe_ratio": 11.59,
         "forward_return": 31.71,
         "start_price": 80.7,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 12.27,
+        "pe_ratio": 11.56,
         "forward_return": 31.27,
         "start_price": 85.0,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.85,
         "forward_return": 10.41,
         "start_price": 53.3,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 15.68,
         "forward_return": 9.31,
         "start_price": 56.3,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 13.4,
         "forward_return": 12.45,
         "start_price": 48.1,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.42,
+        "pe_ratio": 14.43,
         "forward_return": 11.33,
         "start_price": 51.8,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 12.11,
+        "pe_ratio": 13.02,
         "forward_return": 13.35,
         "start_price": 46.75,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 13.15,
         "forward_return": 12.96,
         "start_price": 47.2,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.28,
+        "pe_ratio": 13.2,
         "forward_return": 13.0,
         "start_price": 47.4,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.4,
         "forward_return": 10.05,
         "start_price": 49.3,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 14.61,
+        "pe_ratio": 14.96,
         "forward_return": 8.84,
         "start_price": 56.4,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.96,
+        "pe_ratio": 14.15,
         "forward_return": 8.29,
         "start_price": 55.6,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.12,
         "forward_return": 6.85,
         "start_price": 56.5,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.41,
         "forward_return": 9.55,
         "start_price": 50.5,
         "start_year": 2007
@@ -13548,7 +13548,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 11.23,
         "forward_return": 9.28,
         "start_price": 48.0,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.17,
         "forward_return": 9.37,
         "start_price": 50.0,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.94,
         "forward_return": 8.98,
         "start_price": 51.2,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.27,
         "forward_return": 9.4,
         "start_price": 53.7,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.08,
         "forward_return": 8.03,
         "start_price": 53.7,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 10.49,
         "forward_return": 8.93,
         "start_price": 51.7,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.68,
         "forward_return": 9.25,
         "start_price": 54.1,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.31,
+        "pe_ratio": 9.33,
         "forward_return": 10.47,
         "start_price": 48.5,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.95,
         "forward_return": 17.22,
         "start_price": 37.5,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.59,
         "forward_return": 16.41,
         "start_price": 41.4,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 16.39,
         "start_price": 41.95,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.22,
         "forward_return": 12.92,
         "start_price": 50.7,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.77,
         "forward_return": 13.57,
         "start_price": 48.0,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.77,
         "forward_return": 16.07,
         "start_price": 43.75,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.7,
+        "pe_ratio": 8.22,
         "forward_return": 14.37,
         "start_price": 47.8,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.52,
         "forward_return": 16.9,
         "start_price": 39.1,
         "start_year": 2008
@@ -13710,7 +13710,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.21,
+        "pe_ratio": 5.87,
         "forward_return": 19.27,
         "start_price": 34.4,
         "start_year": 2008
@@ -13719,7 +13719,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.48,
+        "pe_ratio": 6.29,
         "forward_return": 18.48,
         "start_price": 36.0,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.62,
+        "pe_ratio": 5.61,
         "forward_return": 21.09,
         "start_price": 31.6,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.3,
+        "pe_ratio": 6.29,
         "forward_return": 19.12,
         "start_price": 35.7,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.51,
+        "pe_ratio": 7.48,
         "forward_return": 14.82,
         "start_price": 42.85,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 8.59,
+        "pe_ratio": 8.69,
         "forward_return": 12.4,
         "start_price": 49.4,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 8.98,
+        "pe_ratio": 9.21,
         "forward_return": 11.61,
         "start_price": 52.0,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.08,
+        "pe_ratio": 9.46,
         "forward_return": 10.33,
         "start_price": 53.0,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 11.28,
         "forward_return": 5.18,
         "start_price": 62.1,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.61,
         "forward_return": 3.3,
         "start_price": 68.2,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.32,
+        "pe_ratio": 12.71,
         "forward_return": 2.91,
         "start_price": 67.5,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 11.22,
         "forward_return": 3.89,
         "start_price": 62.5,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.15,
         "forward_return": 2.2,
         "start_price": 65.0,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 10.46,
         "forward_return": 3.02,
         "start_price": 63.9,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.69,
         "forward_return": 3.23,
         "start_price": 65.5,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.02,
         "forward_return": 4.29,
         "start_price": 61.6,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 9.61,
         "forward_return": 4.01,
         "start_price": 59.3,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.4,
         "forward_return": 5.68,
         "start_price": 58.2,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.42,
         "forward_return": 6.23,
         "start_price": 58.5,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 9.4,
         "forward_return": 7.21,
         "start_price": 58.0,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 7.92,
         "forward_return": 9.08,
         "start_price": 48.6,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 8.31,
         "forward_return": 9.75,
         "start_price": 50.7,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 9.87,
         "forward_return": 7.59,
         "start_price": 56.2,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 11.32,
         "forward_return": 5.5,
         "start_price": 59.9,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.34,
+        "pe_ratio": 12.53,
         "forward_return": 5.91,
         "start_price": 61.5,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.44,
+        "pe_ratio": 11.78,
         "forward_return": 6.94,
         "start_price": 58.1,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.21,
         "forward_return": 7.34,
         "start_price": 55.5,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.36,
         "forward_return": 7.19,
         "start_price": 56.5,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 12.14,
+        "pe_ratio": 13.03,
         "forward_return": 5.93,
         "start_price": 65.1,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.47,
+        "pe_ratio": 13.55,
         "forward_return": 5.77,
         "start_price": 68.0,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 14.24,
         "forward_return": 4.92,
         "start_price": 71.0,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.4,
+        "pe_ratio": 11.85,
         "forward_return": 7.74,
         "start_price": 58.7,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.37,
+        "pe_ratio": 12.09,
         "forward_return": 7.73,
         "start_price": 59.5,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.33,
         "forward_return": 7.82,
         "start_price": 59.9,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.96,
+        "pe_ratio": 10.44,
         "forward_return": 6.19,
         "start_price": 59.0,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.59,
         "forward_return": 5.39,
         "start_price": 63.2,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.28,
         "forward_return": 2.04,
         "start_price": 72.7,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 13.17,
         "forward_return": 1.03,
         "start_price": 77.3,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.97,
         "forward_return": 0.09,
         "start_price": 76.8,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.07,
         "forward_return": -0.41,
         "start_price": 78.0,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 13.19,
         "forward_return": -0.6,
         "start_price": 79.4,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 12.83,
         "forward_return": -0.65,
         "start_price": 78.4,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 12.47,
         "forward_return": -0.44,
         "start_price": 77.3,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.38,
         "forward_return": -0.48,
         "start_price": 77.9,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.78,
         "forward_return": 1.1,
         "start_price": 66.8,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 12.14,
+        "pe_ratio": 11.96,
         "forward_return": -0.13,
         "start_price": 73.0,
         "start_year": 2012
@@ -14169,7 +14169,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 11.58,
         "forward_return": 2.18,
         "start_price": 68.9,
         "start_year": 2013
@@ -14178,7 +14178,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.75,
         "forward_return": 3.92,
         "start_price": 63.3,
         "start_year": 2013
@@ -14187,7 +14187,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.41,
         "forward_return": 3.19,
         "start_price": 66.5,
         "start_year": 2013
@@ -14196,7 +14196,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 10.78,
         "forward_return": 4.99,
         "start_price": 61.0,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 11.8,
         "forward_return": 3.88,
         "start_price": 64.8,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 12.22,
         "forward_return": 4.14,
         "start_price": 65.0,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 13.53,
         "forward_return": 2.2,
         "start_price": 69.8,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.62,
         "forward_return": 3.72,
         "start_price": 63.1,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.49,
+        "pe_ratio": 13.24,
         "forward_return": 3.47,
         "start_price": 64.1,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.4,
         "forward_return": 2.44,
         "start_price": 69.7,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.62,
         "forward_return": 3.78,
         "start_price": 65.9,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.45,
         "forward_return": 1.92,
         "start_price": 75.0,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.31,
         "forward_return": 2.03,
         "start_price": 74.5,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.8,
         "forward_return": 0.05,
         "start_price": 82.0,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 17.04,
+        "pe_ratio": 16.94,
         "forward_return": 0.82,
         "start_price": 82.8,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.49,
         "forward_return": 2.22,
         "start_price": 80.7,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 17.86,
+        "pe_ratio": 17.76,
         "forward_return": 1.13,
         "start_price": 87.0,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.19,
         "forward_return": 3.5,
         "start_price": 84.4,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 17.15,
         "forward_return": 2.69,
         "start_price": 84.4,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.66,
         "forward_return": 3.98,
         "start_price": 77.2,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.53,
         "forward_return": 3.51,
         "start_price": 76.4,
         "start_year": 2014
@@ -14367,7 +14367,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.73,
+        "pe_ratio": 15.68,
         "forward_return": 4.27,
         "start_price": 77.0,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 4.91,
         "start_price": 77.0,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.36,
+        "pe_ratio": 16.82,
         "forward_return": 5.09,
         "start_price": 79.4,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 16.33,
         "forward_return": 8.0,
         "start_price": 75.6,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.84,
         "forward_return": 7.73,
         "start_price": 77.0,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 16.29,
+        "pe_ratio": 17.25,
         "forward_return": 6.18,
         "start_price": 77.9,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 16.37,
         "forward_return": 6.98,
         "start_price": 73.0,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.88,
+        "pe_ratio": 13.4,
         "forward_return": 8.67,
         "start_price": 61.0,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 12.87,
         "forward_return": 9.22,
         "start_price": 59.8,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.05,
         "forward_return": 9.91,
         "start_price": 57.1,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.81,
         "forward_return": 10.52,
         "start_price": 55.5,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.94,
         "forward_return": 13.5,
         "start_price": 51.0,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 11.54,
         "forward_return": 13.84,
         "start_price": 53.3,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 12.16,
         "forward_return": 11.92,
         "start_price": 56.2,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.16,
         "forward_return": 12.09,
         "start_price": 56.2,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 11.23,
         "forward_return": 12.77,
         "start_price": 52.0,
         "start_year": 2016
@@ -14529,7 +14529,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 13.39,
+        "pe_ratio": 12.5,
         "forward_return": 10.0,
         "start_price": 58.0,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 14.27,
+        "pe_ratio": 13.12,
         "forward_return": 9.12,
         "start_price": 61.0,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 15.39,
+        "pe_ratio": 14.48,
         "forward_return": 9.29,
         "start_price": 64.9,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.6,
         "forward_return": 10.22,
         "start_price": 58.7,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 15.94,
+        "pe_ratio": 15.76,
         "forward_return": 7.86,
         "start_price": 65.4,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 15.7,
         "forward_return": 6.68,
         "start_price": 64.0,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 14.84,
         "forward_return": 8.62,
         "start_price": 59.4,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 16.52,
         "forward_return": 7.95,
         "start_price": 63.6,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 16.35,
+        "pe_ratio": 16.9,
         "forward_return": 8.87,
         "start_price": 63.7,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.72,
         "forward_return": 10.95,
         "start_price": 61.7,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 16.71,
         "forward_return": 10.19,
         "start_price": 62.5,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 12.9,
         "start_price": 68.8,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 18.75,
         "forward_return": 16.28,
         "start_price": 72.0,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 18.78,
+        "pe_ratio": 18.65,
         "forward_return": 24.53,
         "start_price": 71.6,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.89,
         "forward_return": 26.54,
         "start_price": 68.7,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.49,
+        "pe_ratio": 18.2,
         "forward_return": 25.11,
         "start_price": 69.9,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.67,
         "forward_return": 20.51,
         "start_price": 71.0,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.33,
         "forward_return": 24.72,
         "start_price": 61.5,
         "start_year": 2017
@@ -14709,7 +14709,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.05,
         "forward_return": 27.71,
         "start_price": 63.5,
         "start_year": 2018
@@ -14718,7 +14718,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 15.84,
+        "pe_ratio": 16.04,
         "forward_return": 27.87,
         "start_price": 59.6,
         "start_year": 2018
@@ -14727,7 +14727,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 15.93,
         "forward_return": 32.64,
         "start_price": 59.1,
         "start_year": 2018
@@ -14736,7 +14736,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.73,
         "forward_return": 32.17,
         "start_price": 54.1,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 13.91,
+        "pe_ratio": 14.57,
         "forward_return": 33.67,
         "start_price": 53.0,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.86,
         "forward_return": 36.12,
         "start_price": 53.5,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.77,
+        "pe_ratio": 14.45,
         "forward_return": 34.01,
         "start_price": 52.9,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 13.69,
+        "pe_ratio": 14.19,
         "forward_return": 33.72,
         "start_price": 52.8,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.74,
+        "pe_ratio": 14.07,
         "forward_return": 33.26,
         "start_price": 53.2,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.56,
+        "pe_ratio": 12.77,
         "forward_return": 38.0,
         "start_price": 48.85,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.9,
         "forward_return": 36.63,
         "start_price": 49.95,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 14.19,
+        "pe_ratio": 14.14,
         "forward_return": 32.57,
         "start_price": 55.9,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 14.46,
+        "pe_ratio": 14.35,
         "forward_return": 30.65,
         "start_price": 57.2,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.38,
         "forward_return": 28.35,
         "start_price": 57.8,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 14.82,
+        "pe_ratio": 14.58,
         "forward_return": 28.97,
         "start_price": 59.2,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 14.68,
+        "pe_ratio": 14.37,
         "forward_return": 31.56,
         "start_price": 58.9,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 14.99,
+        "pe_ratio": 14.59,
         "forward_return": 31.23,
         "start_price": 60.4,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.2,
+        "pe_ratio": 13.99,
         "forward_return": 33.46,
         "start_price": 57.5,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 13.89,
+        "pe_ratio": 13.85,
         "forward_return": 32.51,
         "start_price": 56.5,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 13.86,
+        "pe_ratio": 13.98,
         "forward_return": 34.38,
         "start_price": 56.6,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 14.34,
         "forward_return": 34.34,
         "start_price": 58.5,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 14.63,
+        "pe_ratio": 14.67,
         "forward_return": 32.44,
         "start_price": 60.3,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 15.15,
         "forward_return": 31.69,
         "start_price": 62.0,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.85,
         "forward_return": 9.39,
         "start_price": 53.3,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 15.68,
         "forward_return": 8.74,
         "start_price": 56.3,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 13.4,
         "forward_return": 10.64,
         "start_price": 48.1,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.42,
+        "pe_ratio": 14.43,
         "forward_return": 10.39,
         "start_price": 51.8,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 12.11,
+        "pe_ratio": 13.02,
         "forward_return": 11.66,
         "start_price": 46.75,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 13.15,
         "forward_return": 11.53,
         "start_price": 47.2,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.28,
+        "pe_ratio": 13.2,
         "forward_return": 10.56,
         "start_price": 47.4,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.4,
         "forward_return": 9.91,
         "start_price": 49.3,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 14.61,
+        "pe_ratio": 14.96,
         "forward_return": 8.15,
         "start_price": 56.4,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.96,
+        "pe_ratio": 14.15,
         "forward_return": 8.35,
         "start_price": 55.6,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.12,
         "forward_return": 8.43,
         "start_price": 56.5,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.41,
         "forward_return": 9.47,
         "start_price": 50.5,
         "start_year": 2007
@@ -15051,7 +15051,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 11.23,
         "forward_return": 10.36,
         "start_price": 48.0,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.17,
         "forward_return": 9.91,
         "start_price": 50.0,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.94,
         "forward_return": 8.94,
         "start_price": 51.2,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.27,
         "forward_return": 6.83,
         "start_price": 53.7,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.08,
         "forward_return": 6.65,
         "start_price": 53.7,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 10.49,
         "forward_return": 6.75,
         "start_price": 51.7,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.68,
         "forward_return": 5.9,
         "start_price": 54.1,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.31,
+        "pe_ratio": 9.33,
         "forward_return": 6.63,
         "start_price": 48.5,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.95,
         "forward_return": 10.5,
         "start_price": 37.5,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.59,
         "forward_return": 9.61,
         "start_price": 41.4,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 9.43,
         "start_price": 41.95,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.22,
         "forward_return": 6.21,
         "start_price": 50.7,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.77,
         "forward_return": 7.88,
         "start_price": 48.0,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.77,
         "forward_return": 10.22,
         "start_price": 43.75,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.7,
+        "pe_ratio": 8.22,
         "forward_return": 8.09,
         "start_price": 47.8,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.52,
         "forward_return": 11.85,
         "start_price": 39.1,
         "start_year": 2008
@@ -15213,7 +15213,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.21,
+        "pe_ratio": 5.87,
         "forward_return": 13.45,
         "start_price": 34.4,
         "start_year": 2008
@@ -15222,7 +15222,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.48,
+        "pe_ratio": 6.29,
         "forward_return": 12.1,
         "start_price": 36.0,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.62,
+        "pe_ratio": 5.61,
         "forward_return": 14.6,
         "start_price": 31.6,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.3,
+        "pe_ratio": 6.29,
         "forward_return": 12.88,
         "start_price": 35.7,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.51,
+        "pe_ratio": 7.48,
         "forward_return": 10.03,
         "start_price": 42.85,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 8.59,
+        "pe_ratio": 8.69,
         "forward_return": 8.21,
         "start_price": 49.4,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 8.98,
+        "pe_ratio": 9.21,
         "forward_return": 8.41,
         "start_price": 52.0,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.08,
+        "pe_ratio": 9.46,
         "forward_return": 8.58,
         "start_price": 53.0,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 11.28,
         "forward_return": 6.4,
         "start_price": 62.1,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.61,
         "forward_return": 4.78,
         "start_price": 68.2,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.32,
+        "pe_ratio": 12.71,
         "forward_return": 5.07,
         "start_price": 67.5,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 11.22,
         "forward_return": 6.23,
         "start_price": 62.5,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.15,
         "forward_return": 4.42,
         "start_price": 65.0,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 10.46,
         "forward_return": 4.93,
         "start_price": 63.9,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.69,
         "forward_return": 4.05,
         "start_price": 65.5,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.02,
         "forward_return": 4.78,
         "start_price": 61.6,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 9.61,
         "forward_return": 4.52,
         "start_price": 59.3,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.4,
         "forward_return": 4.6,
         "start_price": 58.2,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.42,
         "forward_return": 4.61,
         "start_price": 58.5,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 9.4,
         "forward_return": 4.58,
         "start_price": 58.0,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 7.92,
         "forward_return": 6.9,
         "start_price": 48.6,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 8.31,
         "forward_return": 6.4,
         "start_price": 50.7,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 9.87,
         "forward_return": 4.34,
         "start_price": 56.2,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 11.32,
         "forward_return": 3.69,
         "start_price": 59.9,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.34,
+        "pe_ratio": 12.53,
         "forward_return": 4.28,
         "start_price": 61.5,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.44,
+        "pe_ratio": 11.78,
         "forward_return": 5.22,
         "start_price": 58.1,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.21,
         "forward_return": 5.92,
         "start_price": 55.5,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.36,
         "forward_return": 5.89,
         "start_price": 56.5,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 12.14,
+        "pe_ratio": 13.03,
         "forward_return": 3.99,
         "start_price": 65.1,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.47,
+        "pe_ratio": 13.55,
         "forward_return": 3.64,
         "start_price": 68.0,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 14.24,
         "forward_return": 2.65,
         "start_price": 71.0,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.4,
+        "pe_ratio": 11.85,
         "forward_return": 4.97,
         "start_price": 58.7,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.37,
+        "pe_ratio": 12.09,
         "forward_return": 4.81,
         "start_price": 59.5,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.33,
         "forward_return": 5.01,
         "start_price": 59.9,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.96,
+        "pe_ratio": 10.44,
         "forward_return": 5.47,
         "start_price": 59.0,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.59,
         "forward_return": 4.81,
         "start_price": 63.2,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.28,
         "forward_return": 2.99,
         "start_price": 72.7,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 13.17,
         "forward_return": 1.95,
         "start_price": 77.3,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.97,
         "forward_return": 2.69,
         "start_price": 76.8,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.07,
         "forward_return": 3.16,
         "start_price": 78.0,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 13.19,
         "forward_return": 3.06,
         "start_price": 79.4,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 12.83,
         "forward_return": 4.51,
         "start_price": 78.4,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 12.47,
         "forward_return": 4.12,
         "start_price": 77.3,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.38,
         "forward_return": 3.85,
         "start_price": 77.9,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.78,
         "forward_return": 5.4,
         "start_price": 66.8,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 12.14,
+        "pe_ratio": 11.96,
         "forward_return": 4.87,
         "start_price": 73.0,
         "start_year": 2012
@@ -15672,7 +15672,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 11.58,
         "forward_return": 6.08,
         "start_price": 68.9,
         "start_year": 2013
@@ -15681,7 +15681,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.75,
         "forward_return": 7.72,
         "start_price": 63.3,
         "start_year": 2013
@@ -15690,7 +15690,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.41,
         "forward_return": 8.5,
         "start_price": 66.5,
         "start_year": 2013
@@ -15699,7 +15699,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 10.78,
         "forward_return": 9.72,
         "start_price": 61.0,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 11.8,
         "forward_return": 7.94,
         "start_price": 64.8,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 12.22,
         "forward_return": 7.65,
         "start_price": 65.0,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 13.53,
         "forward_return": 5.64,
         "start_price": 69.8,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.62,
         "forward_return": 7.11,
         "start_price": 63.1,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.49,
+        "pe_ratio": 13.24,
         "forward_return": 6.79,
         "start_price": 64.1,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.4,
         "forward_return": 5.74,
         "start_price": 69.7,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.62,
         "forward_return": 7.42,
         "start_price": 65.9,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.45,
         "forward_return": 6.47,
         "start_price": 75.0,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.31,
         "forward_return": 6.56,
         "start_price": 74.5,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.8,
         "forward_return": 4.79,
         "start_price": 82.0,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 17.04,
+        "pe_ratio": 16.94,
         "forward_return": 4.16,
         "start_price": 82.8,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.49,
         "forward_return": 4.01,
         "start_price": 80.7,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 17.86,
+        "pe_ratio": 17.76,
         "forward_return": 3.06,
         "start_price": 87.0,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.19,
         "forward_return": 4.32,
         "start_price": 84.4,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 17.15,
         "forward_return": 3.72,
         "start_price": 84.4,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.66,
         "forward_return": 4.61,
         "start_price": 77.2,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.53,
         "forward_return": 3.7,
         "start_price": 76.4,
         "start_year": 2014
@@ -15870,7 +15870,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.73,
+        "pe_ratio": 15.68,
         "forward_return": 4.0,
         "start_price": 77.0,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 4.37,
         "start_price": 77.0,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.36,
+        "pe_ratio": 16.82,
         "forward_return": 4.61,
         "start_price": 79.4,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 16.33,
         "forward_return": 6.26,
         "start_price": 75.6,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.84,
         "forward_return": 5.66,
         "start_price": 77.0,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 16.29,
+        "pe_ratio": 17.25,
         "forward_return": 8.56,
         "start_price": 77.9,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 16.37,
         "forward_return": 12.38,
         "start_price": 73.0,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.88,
+        "pe_ratio": 13.4,
         "forward_return": 20.67,
         "start_price": 61.0,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 12.87,
         "forward_return": 21.78,
         "start_price": 59.8,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.05,
         "forward_return": 21.73,
         "start_price": 57.1,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.81,
         "forward_return": 19.1,
         "start_price": 55.5,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.94,
         "forward_return": 21.28,
         "start_price": 51.0,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 11.54,
         "forward_return": 23.19,
         "start_price": 53.3,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 12.48,
+        "pe_ratio": 12.16,
         "forward_return": 21.55,
         "start_price": 56.2,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 12.64,
+        "pe_ratio": 12.16,
         "forward_return": 24.73,
         "start_price": 56.2,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 11.85,
+        "pe_ratio": 11.23,
         "forward_return": 24.27,
         "start_price": 52.0,
         "start_year": 2016
@@ -16032,7 +16032,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 13.39,
+        "pe_ratio": 12.5,
         "forward_return": 23.3,
         "start_price": 58.0,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 14.27,
+        "pe_ratio": 13.12,
         "forward_return": 24.31,
         "start_price": 61.0,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 15.39,
+        "pe_ratio": 14.48,
         "forward_return": 21.76,
         "start_price": 64.9,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 14.11,
+        "pe_ratio": 13.6,
         "forward_return": 23.07,
         "start_price": 58.7,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 15.94,
+        "pe_ratio": 15.76,
         "forward_return": 21.22,
         "start_price": 65.4,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 15.82,
+        "pe_ratio": 15.7,
         "forward_return": 23.42,
         "start_price": 64.0,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 14.9,
+        "pe_ratio": 14.84,
         "forward_return": 24.0,
         "start_price": 59.4,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 16.25,
+        "pe_ratio": 16.52,
         "forward_return": 21.92,
         "start_price": 63.6,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 16.35,
+        "pe_ratio": 16.9,
         "forward_return": 20.94,
         "start_price": 63.7,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 15.9,
+        "pe_ratio": 16.72,
         "forward_return": 20.01,
         "start_price": 61.7,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 16.18,
+        "pe_ratio": 16.71,
         "forward_return": 20.59,
         "start_price": 62.5,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 20.82,
         "start_price": 68.8,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 18.8,
+        "pe_ratio": 18.75,
         "forward_return": 20.28,
         "start_price": 72.0,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 18.78,
+        "pe_ratio": 18.65,
         "forward_return": 21.14,
         "start_price": 71.6,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 18.09,
+        "pe_ratio": 17.89,
         "forward_return": 20.87,
         "start_price": 68.7,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 18.49,
+        "pe_ratio": 18.2,
         "forward_return": 21.88,
         "start_price": 69.9,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 18.67,
         "forward_return": 22.11,
         "start_price": 71.0,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.33,
         "forward_return": 23.48,
         "start_price": 61.5,
         "start_year": 2017
@@ -16212,7 +16212,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.05,
         "forward_return": 22.9,
         "start_price": 63.5,
         "start_year": 2018
@@ -16221,7 +16221,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 15.84,
+        "pe_ratio": 16.04,
         "forward_return": 24.41,
         "start_price": 59.6,
         "start_year": 2018
@@ -16230,7 +16230,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.81,
+        "pe_ratio": 14.85,
         "forward_return": 5.52,
         "start_price": 53.3,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 15.68,
         "forward_return": 4.46,
         "start_price": 56.3,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 13.4,
         "forward_return": 6.82,
         "start_price": 48.1,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 13.42,
+        "pe_ratio": 14.43,
         "forward_return": 6.37,
         "start_price": 51.8,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 12.11,
+        "pe_ratio": 13.02,
         "forward_return": 8.04,
         "start_price": 46.75,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 12.23,
+        "pe_ratio": 13.15,
         "forward_return": 7.25,
         "start_price": 47.2,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 12.28,
+        "pe_ratio": 13.2,
         "forward_return": 7.94,
         "start_price": 47.4,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.4,
         "forward_return": 7.37,
         "start_price": 49.3,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 14.61,
+        "pe_ratio": 14.96,
         "forward_return": 5.44,
         "start_price": 56.4,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.96,
+        "pe_ratio": 14.15,
         "forward_return": 6.04,
         "start_price": 55.6,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.12,
         "forward_return": 5.88,
         "start_price": 56.5,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 11.95,
+        "pe_ratio": 12.41,
         "forward_return": 6.86,
         "start_price": 50.5,
         "start_year": 2007
@@ -16347,7 +16347,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 11.23,
         "forward_return": 7.49,
         "start_price": 48.0,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 11.18,
+        "pe_ratio": 11.17,
         "forward_return": 7.72,
         "start_price": 50.0,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.94,
         "forward_return": 7.79,
         "start_price": 51.2,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.27,
         "forward_return": 7.33,
         "start_price": 53.7,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.08,
         "forward_return": 7.04,
         "start_price": 53.7,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 10.49,
         "forward_return": 7.57,
         "start_price": 51.7,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.68,
         "forward_return": 7.19,
         "start_price": 54.1,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 9.31,
+        "pe_ratio": 9.33,
         "forward_return": 7.38,
         "start_price": 48.5,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.95,
         "forward_return": 10.4,
         "start_price": 37.5,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.71,
+        "pe_ratio": 7.59,
         "forward_return": 8.76,
         "start_price": 41.4,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 8.69,
         "start_price": 41.95,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.22,
         "forward_return": 6.08,
         "start_price": 50.7,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.77,
         "forward_return": 6.53,
         "start_price": 48.0,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 7.99,
+        "pe_ratio": 7.77,
         "forward_return": 7.5,
         "start_price": 43.75,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.7,
+        "pe_ratio": 8.22,
         "forward_return": 6.54,
         "start_price": 47.8,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 7.09,
+        "pe_ratio": 6.52,
         "forward_return": 8.75,
         "start_price": 39.1,
         "start_year": 2008
@@ -16509,7 +16509,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 6.21,
+        "pe_ratio": 5.87,
         "forward_return": 9.61,
         "start_price": 34.4,
         "start_year": 2008
@@ -16518,7 +16518,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 6.48,
+        "pe_ratio": 6.29,
         "forward_return": 9.26,
         "start_price": 36.0,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 5.62,
+        "pe_ratio": 5.61,
         "forward_return": 11.42,
         "start_price": 31.6,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 6.3,
+        "pe_ratio": 6.29,
         "forward_return": 10.22,
         "start_price": 35.7,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 7.51,
+        "pe_ratio": 7.48,
         "forward_return": 8.3,
         "start_price": 42.85,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 8.59,
+        "pe_ratio": 8.69,
         "forward_return": 6.92,
         "start_price": 49.4,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 8.98,
+        "pe_ratio": 9.21,
         "forward_return": 6.34,
         "start_price": 52.0,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.08,
+        "pe_ratio": 9.46,
         "forward_return": 6.31,
         "start_price": 53.0,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 10.57,
+        "pe_ratio": 11.28,
         "forward_return": 4.32,
         "start_price": 62.1,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 11.52,
+        "pe_ratio": 12.61,
         "forward_return": 3.24,
         "start_price": 68.2,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 11.32,
+        "pe_ratio": 12.71,
         "forward_return": 3.36,
         "start_price": 67.5,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 11.22,
         "forward_return": 4.37,
         "start_price": 62.5,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 11.15,
         "forward_return": 4.15,
         "start_price": 65.0,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.67,
+        "pe_ratio": 10.46,
         "forward_return": 4.51,
         "start_price": 63.9,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.69,
         "forward_return": 4.25,
         "start_price": 65.5,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.64,
+        "pe_ratio": 10.02,
         "forward_return": 4.7,
         "start_price": 61.6,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.42,
+        "pe_ratio": 9.61,
         "forward_return": 5.6,
         "start_price": 59.3,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.41,
+        "pe_ratio": 9.4,
         "forward_return": 6.31,
         "start_price": 58.2,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.42,
         "forward_return": 6.35,
         "start_price": 58.5,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 10.76,
+        "pe_ratio": 9.4,
         "forward_return": 7.46,
         "start_price": 58.0,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 7.92,
         "forward_return": 8.93,
         "start_price": 48.6,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.77,
+        "pe_ratio": 8.31,
         "forward_return": 8.34,
         "start_price": 50.7,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 9.87,
         "forward_return": 6.88,
         "start_price": 56.2,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 12.0,
+        "pe_ratio": 11.32,
         "forward_return": 6.68,
         "start_price": 59.9,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 12.34,
+        "pe_ratio": 12.53,
         "forward_return": 6.74,
         "start_price": 61.5,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 11.44,
+        "pe_ratio": 11.78,
         "forward_return": 7.73,
         "start_price": 58.1,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.21,
         "forward_return": 9.32,
         "start_price": 55.5,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.36,
         "forward_return": 9.16,
         "start_price": 56.5,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 12.14,
+        "pe_ratio": 13.03,
         "forward_return": 6.91,
         "start_price": 65.1,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 12.47,
+        "pe_ratio": 13.55,
         "forward_return": 6.26,
         "start_price": 68.0,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 14.24,
         "forward_return": 5.05,
         "start_price": 71.0,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 10.4,
+        "pe_ratio": 11.85,
         "forward_return": 7.17,
         "start_price": 58.7,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 10.37,
+        "pe_ratio": 12.09,
         "forward_return": 6.94,
         "start_price": 59.5,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.27,
+        "pe_ratio": 11.33,
         "forward_return": 6.92,
         "start_price": 59.9,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.96,
+        "pe_ratio": 10.44,
         "forward_return": 7.78,
         "start_price": 59.0,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.59,
         "forward_return": 7.63,
         "start_price": 63.2,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.28,
         "forward_return": 5.71,
         "start_price": 72.7,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 13.17,
         "forward_return": 5.11,
         "start_price": 77.3,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.97,
         "forward_return": 4.8,
         "start_price": 76.8,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.97,
+        "pe_ratio": 13.07,
         "forward_return": 4.28,
         "start_price": 78.0,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 13.2,
+        "pe_ratio": 13.19,
         "forward_return": 4.11,
         "start_price": 79.4,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 13.04,
+        "pe_ratio": 12.83,
         "forward_return": 4.87,
         "start_price": 78.4,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 12.85,
+        "pe_ratio": 12.47,
         "forward_return": 4.57,
         "start_price": 77.3,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.38,
         "forward_return": 4.29,
         "start_price": 77.9,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.78,
         "forward_return": 5.11,
         "start_price": 66.8,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 12.14,
+        "pe_ratio": 11.96,
         "forward_return": 4.48,
         "start_price": 73.0,
         "start_year": 2012
@@ -16968,7 +16968,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 11.58,
         "forward_return": 5.37,
         "start_price": 68.9,
         "start_year": 2013
@@ -16977,7 +16977,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.75,
         "forward_return": 6.75,
         "start_price": 63.3,
         "start_year": 2013
@@ -16986,7 +16986,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.41,
         "forward_return": 6.99,
         "start_price": 66.5,
         "start_year": 2013
@@ -16995,7 +16995,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 10.85,
+        "pe_ratio": 10.78,
         "forward_return": 7.65,
         "start_price": 61.0,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 11.73,
+        "pe_ratio": 11.8,
         "forward_return": 9.33,
         "start_price": 64.8,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 11.98,
+        "pe_ratio": 12.22,
         "forward_return": 11.53,
         "start_price": 65.0,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 13.53,
         "forward_return": 14.99,
         "start_price": 69.8,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.07,
+        "pe_ratio": 12.62,
         "forward_return": 16.76,
         "start_price": 63.1,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 12.49,
+        "pe_ratio": 13.24,
         "forward_return": 16.01,
         "start_price": 64.1,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 13.84,
+        "pe_ratio": 14.4,
         "forward_return": 12.81,
         "start_price": 69.7,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 13.35,
+        "pe_ratio": 13.62,
         "forward_return": 14.11,
         "start_price": 65.9,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 15.48,
+        "pe_ratio": 15.45,
         "forward_return": 14.5,
         "start_price": 75.0,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 15.36,
+        "pe_ratio": 15.31,
         "forward_return": 13.98,
         "start_price": 74.5,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.8,
         "forward_return": 15.18,
         "start_price": 82.0,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 17.04,
+        "pe_ratio": 16.94,
         "forward_return": 13.87,
         "start_price": 82.8,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 16.59,
+        "pe_ratio": 16.49,
         "forward_return": 14.68,
         "start_price": 80.7,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 17.86,
+        "pe_ratio": 17.76,
         "forward_return": 15.11,
         "start_price": 87.0,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.19,
         "forward_return": 14.3,
         "start_price": 84.4,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 17.15,
         "forward_return": 14.14,
         "start_price": 84.4,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 15.8,
+        "pe_ratio": 15.66,
         "forward_return": 15.01,
         "start_price": 77.2,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.53,
         "forward_return": 16.51,
         "start_price": 76.4,
         "start_year": 2014
@@ -17166,7 +17166,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 15.73,
+        "pe_ratio": 15.68,
         "forward_return": 16.0,
         "start_price": 77.0,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 15.24,
         "start_price": 77.0,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 16.36,
+        "pe_ratio": 16.82,
         "forward_return": 14.19,
         "start_price": 79.4,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 15.65,
+        "pe_ratio": 16.33,
         "forward_return": 13.71,
         "start_price": 75.6,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 16.02,
+        "pe_ratio": 16.84,
         "forward_return": 14.07,
         "start_price": 77.0,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 16.29,
+        "pe_ratio": 17.25,
         "forward_return": 15.18,
         "start_price": 77.9,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 16.37,
         "forward_return": 16.04,
         "start_price": 73.0,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 12.88,
+        "pe_ratio": 13.4,
         "forward_return": 18.72,
         "start_price": 61.0,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 12.69,
+        "pe_ratio": 12.87,
         "forward_return": 18.27,
         "start_price": 59.8,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 12.17,
+        "pe_ratio": 12.05,
         "forward_return": 19.8,
         "start_price": 57.1,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 11.89,
+        "pe_ratio": 11.81,
         "forward_return": 20.5,
         "start_price": 55.5,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.94,
         "forward_return": 20.88,
         "start_price": 51.0,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 11.54,
         "forward_return": 20.28,
         "start_price": 53.3,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 9.5倍、10.8倍、12.8倍、15.6倍、17.9倍"
+!!! note "本益比河流帶水位: 9.3倍、10.9倍、13.2倍、15.5倍、17.8倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "date": "2006-03-16",
         "price": 53.3,
-        "pe": 13.81,
-        "pe_10": 36.49,
-        "pe_25": 41.8,
-        "pe_50": 49.59,
-        "pe_75": 60.31,
-        "pe_90": 68.94
+        "pe": 14.85,
+        "pe_10": 33.41,
+        "pe_25": 39.27,
+        "pe_50": 47.23,
+        "pe_75": 55.58,
+        "pe_90": 63.79
       },
       {
         "date": "2006-04-15",
         "price": 56.3,
-        "pe": 14.59,
-        "pe_10": 36.49,
-        "pe_25": 41.79,
-        "pe_50": 49.59,
-        "pe_75": 60.3,
-        "pe_90": 68.93
+        "pe": 15.68,
+        "pe_10": 33.42,
+        "pe_25": 39.28,
+        "pe_50": 47.25,
+        "pe_75": 55.6,
+        "pe_90": 63.82
       },
       {
         "date": "2006-05-16",
         "price": 48.1,
-        "pe": 12.46,
-        "pe_10": 36.5,
-        "pe_25": 41.81,
-        "pe_50": 49.61,
-        "pe_75": 60.33,
-        "pe_90": 68.96
+        "pe": 13.4,
+        "pe_10": 33.42,
+        "pe_25": 39.27,
+        "pe_50": 47.24,
+        "pe_75": 55.58,
+        "pe_90": 63.8
       },
       {
         "date": "2006-06-15",
         "price": 51.8,
-        "pe": 13.42,
-        "pe_10": 36.5,
-        "pe_25": 41.8,
-        "pe_50": 49.6,
-        "pe_75": 60.32,
-        "pe_90": 68.95
+        "pe": 14.43,
+        "pe_10": 33.42,
+        "pe_25": 39.27,
+        "pe_50": 47.24,
+        "pe_75": 55.59,
+        "pe_90": 63.8
       },
       {
         "date": "2006-07-16",
         "price": 46.75,
-        "pe": 12.11,
-        "pe_10": 36.5,
-        "pe_25": 41.81,
-        "pe_50": 49.61,
-        "pe_75": 60.33,
-        "pe_90": 68.96
+        "pe": 13.02,
+        "pe_10": 33.43,
+        "pe_25": 39.28,
+        "pe_50": 47.25,
+        "pe_75": 55.6,
+        "pe_90": 63.82
       },
       {
         "date": "2006-08-16",
         "price": 47.2,
-        "pe": 12.23,
-        "pe_10": 36.49,
-        "pe_25": 41.8,
-        "pe_50": 49.59,
-        "pe_75": 60.31,
-        "pe_90": 68.94
+        "pe": 13.15,
+        "pe_10": 33.41,
+        "pe_25": 39.27,
+        "pe_50": 47.24,
+        "pe_75": 55.58,
+        "pe_90": 63.79
       },
       {
         "date": "2006-09-15",
         "price": 47.4,
-        "pe": 12.28,
-        "pe_10": 36.5,
-        "pe_25": 41.8,
-        "pe_50": 49.6,
-        "pe_75": 60.32,
-        "pe_90": 68.95
+        "pe": 13.2,
+        "pe_10": 33.43,
+        "pe_25": 39.28,
+        "pe_50": 47.26,
+        "pe_75": 55.61,
+        "pe_90": 63.82
       },
       {
         "date": "2006-10-16",
         "price": 49.3,
-        "pe": 12.77,
-        "pe_10": 36.5,
-        "pe_25": 41.81,
-        "pe_50": 49.61,
-        "pe_75": 60.33,
-        "pe_90": 68.96
+        "pe": 13.4,
+        "pe_10": 34.25,
+        "pe_25": 40.25,
+        "pe_50": 48.42,
+        "pe_75": 56.97,
+        "pe_90": 65.39
       },
       {
         "date": "2006-11-15",
         "price": 56.4,
-        "pe": 14.61,
-        "pe_10": 36.5,
-        "pe_25": 41.81,
+        "pe": 14.96,
+        "pe_10": 35.1,
+        "pe_25": 41.24,
         "pe_50": 49.61,
-        "pe_75": 60.33,
-        "pe_90": 68.96
+        "pe_75": 58.38,
+        "pe_90": 67.01
       },
       {
         "date": "2006-12-16",
         "price": 59.1,
         "pe": 15.31,
-        "pe_10": 36.5,
-        "pe_25": 41.81,
-        "pe_50": 49.6,
-        "pe_75": 60.33,
-        "pe_90": 68.96
+        "pe_10": 35.93,
+        "pe_25": 42.23,
+        "pe_50": 50.8,
+        "pe_75": 59.78,
+        "pe_90": 68.61
       },
       {
         "date": "2007-01-16",
         "price": 55.6,
-        "pe": 13.96,
-        "pe_10": 37.66,
-        "pe_25": 43.13,
-        "pe_50": 51.18,
-        "pe_75": 62.24,
-        "pe_90": 71.14
+        "pe": 14.15,
+        "pe_10": 36.58,
+        "pe_25": 42.99,
+        "pe_50": 51.71,
+        "pe_75": 60.85,
+        "pe_90": 69.84
       },
       {
         "date": "2007-02-14",
         "price": 56.5,
-        "pe": 13.76,
-        "pe_10": 38.82,
-        "pe_25": 44.47,
-        "pe_50": 52.76,
-        "pe_75": 64.17,
-        "pe_90": 73.35
+        "pe": 14.12,
+        "pe_10": 37.25,
+        "pe_25": 43.78,
+        "pe_50": 52.66,
+        "pe_75": 61.96,
+        "pe_90": 71.12
       },
       {
         "date": "2007-03-16",
         "price": 50.5,
-        "pe": 11.95,
-        "pe_10": 39.96,
-        "pe_25": 45.77,
-        "pe_50": 54.3,
-        "pe_75": 66.04,
-        "pe_90": 75.49
+        "pe": 12.41,
+        "pe_10": 37.88,
+        "pe_25": 44.52,
+        "pe_50": 53.55,
+        "pe_75": 63.01,
+        "pe_90": 72.32
       },
       {
         "date": "2007-04-15",
         "price": 48.0,
-        "pe": 11.03,
-        "pe_10": 41.15,
-        "pe_25": 47.13,
-        "pe_50": 55.92,
-        "pe_75": 68.01,
-        "pe_90": 77.74
+        "pe": 11.23,
+        "pe_10": 39.79,
+        "pe_25": 46.76,
+        "pe_50": 56.25,
+        "pe_75": 66.19,
+        "pe_90": 75.97
       },
       {
         "date": "2007-05-16",
         "price": 50.0,
-        "pe": 11.18,
-        "pe_10": 42.29,
-        "pe_25": 48.43,
-        "pe_50": 57.47,
-        "pe_75": 69.89,
-        "pe_90": 79.89
+        "pe": 11.17,
+        "pe_10": 41.67,
+        "pe_25": 48.97,
+        "pe_50": 58.91,
+        "pe_75": 69.32,
+        "pe_90": 79.56
       },
       {
         "date": "2007-06-15",
         "price": 51.2,
-        "pe": 11.14,
-        "pe_10": 43.46,
-        "pe_25": 49.78,
-        "pe_50": 59.06,
-        "pe_75": 71.82,
-        "pe_90": 82.1
+        "pe": 10.94,
+        "pe_10": 43.57,
+        "pe_25": 51.2,
+        "pe_50": 61.59,
+        "pe_75": 72.47,
+        "pe_90": 83.18
       },
       {
         "date": "2007-07-16",
         "price": 53.7,
-        "pe": 11.38,
-        "pe_10": 44.62,
-        "pe_25": 51.1,
-        "pe_50": 60.64,
-        "pe_75": 73.74,
-        "pe_90": 84.29
+        "pe": 11.27,
+        "pe_10": 44.36,
+        "pe_25": 52.13,
+        "pe_50": 62.71,
+        "pe_75": 73.78,
+        "pe_90": 84.69
       },
       {
         "date": "2007-08-16",
         "price": 53.7,
-        "pe": 11.1,
-        "pe_10": 45.74,
-        "pe_25": 52.39,
-        "pe_50": 62.17,
-        "pe_75": 75.6,
-        "pe_90": 86.42
+        "pe": 11.08,
+        "pe_10": 45.12,
+        "pe_25": 53.02,
+        "pe_50": 63.78,
+        "pe_75": 75.05,
+        "pe_90": 86.14
       },
       {
         "date": "2007-09-15",
         "price": 51.7,
-        "pe": 10.42,
-        "pe_10": 46.91,
-        "pe_25": 53.73,
-        "pe_50": 63.76,
-        "pe_75": 77.54,
-        "pe_90": 88.63
+        "pe": 10.49,
+        "pe_10": 45.88,
+        "pe_25": 53.92,
+        "pe_50": 64.86,
+        "pe_75": 76.32,
+        "pe_90": 87.59
       },
       {
         "date": "2007-10-16",
         "price": 54.1,
-        "pe": 10.64,
-        "pe_10": 48.07,
-        "pe_25": 55.07,
-        "pe_50": 65.34,
-        "pe_75": 79.46,
-        "pe_90": 90.83
+        "pe": 10.68,
+        "pe_10": 47.16,
+        "pe_25": 55.42,
+        "pe_50": 66.66,
+        "pe_75": 78.44,
+        "pe_90": 90.03
       },
       {
         "date": "2007-11-15",
         "price": 48.5,
-        "pe": 9.31,
-        "pe_10": 49.26,
-        "pe_25": 56.42,
-        "pe_50": 66.94,
-        "pe_75": 81.41,
-        "pe_90": 93.06
+        "pe": 9.33,
+        "pe_10": 48.39,
+        "pe_25": 56.87,
+        "pe_50": 68.41,
+        "pe_75": 80.5,
+        "pe_90": 92.39
       },
       {
         "date": "2007-12-16",
         "price": 46.05,
         "pe": 8.64,
-        "pe_10": 50.39,
-        "pe_25": 57.72,
-        "pe_50": 68.49,
-        "pe_75": 83.29,
-        "pe_90": 95.21
+        "pe_10": 49.62,
+        "pe_25": 58.31,
+        "pe_50": 70.14,
+        "pe_75": 82.53,
+        "pe_90": 94.73
       },
       {
         "date": "2008-01-16",
         "price": 37.5,
-        "pe": 7.01,
-        "pe_10": 50.58,
-        "pe_25": 57.94,
-        "pe_50": 68.74,
-        "pe_75": 83.6,
-        "pe_90": 95.56
+        "pe": 6.95,
+        "pe_10": 50.23,
+        "pe_25": 59.03,
+        "pe_50": 71.01,
+        "pe_75": 83.55,
+        "pe_90": 95.9
       },
       {
         "date": "2008-02-15",
         "price": 41.4,
-        "pe": 7.71,
-        "pe_10": 50.77,
-        "pe_25": 58.15,
-        "pe_50": 69.0,
-        "pe_75": 83.91,
-        "pe_90": 95.92
+        "pe": 7.59,
+        "pe_10": 50.78,
+        "pe_25": 59.67,
+        "pe_50": 71.78,
+        "pe_75": 84.46,
+        "pe_90": 96.94
       },
       {
         "date": "2008-03-16",
         "price": 41.95,
-        "pe": 7.78,
-        "pe_10": 50.98,
-        "pe_25": 58.4,
-        "pe_50": 69.29,
-        "pe_75": 84.26,
-        "pe_90": 96.32
+        "pe": 7.6,
+        "pe_10": 51.38,
+        "pe_25": 60.39,
+        "pe_50": 72.64,
+        "pe_75": 85.47,
+        "pe_90": 98.1
       },
       {
         "date": "2008-04-15",
         "price": 50.7,
-        "pe": 9.37,
-        "pe_10": 51.16,
-        "pe_25": 58.6,
-        "pe_50": 69.53,
-        "pe_75": 84.56,
-        "pe_90": 96.65
+        "pe": 9.22,
+        "pe_10": 51.19,
+        "pe_25": 60.16,
+        "pe_50": 72.37,
+        "pe_75": 85.15,
+        "pe_90": 97.73
       },
       {
         "date": "2008-05-16",
         "price": 48.0,
-        "pe": 8.83,
-        "pe_10": 51.4,
-        "pe_25": 58.87,
-        "pe_50": 69.85,
-        "pe_75": 84.95,
-        "pe_90": 97.1
+        "pe": 8.77,
+        "pe_10": 50.95,
+        "pe_25": 59.88,
+        "pe_50": 72.03,
+        "pe_75": 84.75,
+        "pe_90": 97.28
       },
       {
         "date": "2008-06-15",
         "price": 47.0,
         "pe": 8.62,
-        "pe_10": 51.55,
-        "pe_25": 59.05,
-        "pe_50": 70.06,
-        "pe_75": 85.21,
-        "pe_90": 97.4
+        "pe_10": 50.76,
+        "pe_25": 59.65,
+        "pe_50": 71.75,
+        "pe_75": 84.43,
+        "pe_90": 96.91
       },
       {
         "date": "2008-07-16",
         "price": 43.75,
-        "pe": 7.99,
-        "pe_10": 51.77,
-        "pe_25": 59.3,
-        "pe_50": 70.36,
-        "pe_75": 85.57,
-        "pe_90": 97.81
+        "pe": 7.77,
+        "pe_10": 52.42,
+        "pe_25": 61.6,
+        "pe_50": 74.1,
+        "pe_75": 87.19,
+        "pe_90": 100.07
       },
       {
         "date": "2008-08-16",
         "price": 47.8,
-        "pe": 8.7,
-        "pe_10": 51.95,
-        "pe_25": 59.5,
-        "pe_50": 70.6,
-        "pe_75": 85.86,
-        "pe_90": 98.14
+        "pe": 8.22,
+        "pe_10": 54.13,
+        "pe_25": 63.62,
+        "pe_50": 76.53,
+        "pe_75": 90.05,
+        "pe_90": 103.35
       },
       {
         "date": "2008-09-15",
         "price": 39.1,
-        "pe": 7.09,
-        "pe_10": 52.14,
-        "pe_25": 59.73,
-        "pe_50": 70.87,
-        "pe_75": 86.18,
-        "pe_90": 98.51
+        "pe": 6.52,
+        "pe_10": 55.83,
+        "pe_25": 65.61,
+        "pe_50": 78.92,
+        "pe_75": 92.86,
+        "pe_90": 106.58
       },
       {
         "date": "2008-10-16",
         "price": 34.4,
-        "pe": 6.21,
-        "pe_10": 52.38,
-        "pe_25": 59.99,
-        "pe_50": 71.18,
-        "pe_75": 86.57,
-        "pe_90": 98.95
+        "pe": 5.87,
+        "pe_10": 54.55,
+        "pe_25": 64.11,
+        "pe_50": 77.12,
+        "pe_75": 90.75,
+        "pe_90": 104.16
       },
       {
         "date": "2008-11-15",
         "price": 36.0,
-        "pe": 6.48,
-        "pe_10": 52.53,
-        "pe_25": 60.17,
-        "pe_50": 71.39,
-        "pe_75": 86.82,
-        "pe_90": 99.24
+        "pe": 6.29,
+        "pe_10": 53.28,
+        "pe_25": 62.61,
+        "pe_50": 75.32,
+        "pe_75": 88.63,
+        "pe_90": 101.72
       },
       {
         "date": "2008-12-16",
         "price": 34.6,
         "pe": 6.2,
-        "pe_10": 52.77,
-        "pe_25": 60.44,
-        "pe_50": 71.71,
-        "pe_75": 87.21,
-        "pe_90": 99.69
+        "pe_10": 51.95,
+        "pe_25": 61.05,
+        "pe_50": 73.44,
+        "pe_75": 86.42,
+        "pe_90": 99.18
       },
       {
         "date": "2009-01-16",
         "price": 31.6,
-        "pe": 5.62,
-        "pe_10": 53.16,
-        "pe_25": 60.89,
-        "pe_50": 72.25,
-        "pe_75": 87.87,
-        "pe_90": 100.44
+        "pe": 5.61,
+        "pe_10": 52.44,
+        "pe_25": 61.62,
+        "pe_50": 74.13,
+        "pe_75": 87.22,
+        "pe_90": 100.11
       },
       {
         "date": "2009-02-14",
         "price": 35.7,
-        "pe": 6.3,
-        "pe_10": 53.58,
-        "pe_25": 61.37,
-        "pe_50": 72.82,
-        "pe_75": 88.56,
-        "pe_90": 101.22
+        "pe": 6.29,
+        "pe_10": 52.83,
+        "pe_25": 62.09,
+        "pe_50": 74.69,
+        "pe_75": 87.89,
+        "pe_90": 100.87
       },
       {
         "date": "2009-03-16",
         "price": 42.85,
-        "pe": 7.51,
-        "pe_10": 53.95,
-        "pe_25": 61.79,
-        "pe_50": 73.32,
-        "pe_75": 89.17,
-        "pe_90": 101.92
+        "pe": 7.48,
+        "pe_10": 53.33,
+        "pe_25": 62.67,
+        "pe_50": 75.39,
+        "pe_75": 88.71,
+        "pe_90": 101.81
       },
       {
         "date": "2009-04-15",
         "price": 49.4,
-        "pe": 8.59,
-        "pe_10": 54.37,
-        "pe_25": 62.28,
-        "pe_50": 73.9,
-        "pe_75": 89.87,
-        "pe_90": 102.73
+        "pe": 8.69,
+        "pe_10": 52.92,
+        "pe_25": 62.19,
+        "pe_50": 74.81,
+        "pe_75": 88.03,
+        "pe_90": 101.03
       },
       {
         "date": "2009-05-16",
         "price": 52.0,
-        "pe": 8.98,
-        "pe_10": 54.75,
-        "pe_25": 62.71,
-        "pe_50": 74.41,
-        "pe_75": 90.49,
-        "pe_90": 103.44
+        "pe": 9.21,
+        "pe_10": 52.56,
+        "pe_25": 61.77,
+        "pe_50": 74.3,
+        "pe_75": 87.43,
+        "pe_90": 100.35
       },
       {
         "date": "2009-06-15",
         "price": 53.0,
-        "pe": 9.08,
-        "pe_10": 55.19,
-        "pe_25": 63.21,
-        "pe_50": 75.01,
-        "pe_75": 91.22,
-        "pe_90": 104.27
+        "pe": 9.46,
+        "pe_10": 52.15,
+        "pe_25": 61.29,
+        "pe_50": 73.73,
+        "pe_75": 86.76,
+        "pe_90": 99.57
       },
       {
         "date": "2009-07-16",
         "price": 62.1,
-        "pe": 10.57,
-        "pe_10": 55.55,
-        "pe_25": 63.63,
-        "pe_50": 75.5,
-        "pe_75": 91.81,
-        "pe_90": 104.95
+        "pe": 11.28,
+        "pe_10": 51.25,
+        "pe_25": 60.23,
+        "pe_50": 72.45,
+        "pe_75": 85.25,
+        "pe_90": 97.85
       },
       {
         "date": "2009-08-16",
         "price": 68.2,
-        "pe": 11.52,
-        "pe_10": 55.97,
-        "pe_25": 64.12,
-        "pe_50": 76.07,
-        "pe_75": 92.52,
-        "pe_90": 105.75
+        "pe": 12.61,
+        "pe_10": 50.35,
+        "pe_25": 59.17,
+        "pe_50": 71.17,
+        "pe_75": 83.75,
+        "pe_90": 96.12
       },
       {
         "date": "2009-09-15",
         "price": 67.5,
-        "pe": 11.32,
-        "pe_10": 56.38,
-        "pe_25": 64.58,
-        "pe_50": 76.62,
-        "pe_75": 93.19,
-        "pe_90": 106.52
+        "pe": 12.71,
+        "pe_10": 49.44,
+        "pe_25": 58.1,
+        "pe_50": 69.89,
+        "pe_75": 82.24,
+        "pe_90": 94.39
       },
       {
         "date": "2009-10-16",
         "price": 62.5,
-        "pe": 10.41,
-        "pe_10": 56.77,
-        "pe_25": 65.02,
-        "pe_50": 77.15,
-        "pe_75": 93.83,
-        "pe_90": 107.25
+        "pe": 11.22,
+        "pe_10": 51.85,
+        "pe_25": 60.94,
+        "pe_50": 73.31,
+        "pe_75": 86.26,
+        "pe_90": 99.0
       },
       {
         "date": "2009-11-15",
         "price": 65.0,
-        "pe": 10.75,
-        "pe_10": 57.17,
-        "pe_25": 65.48,
-        "pe_50": 77.7,
-        "pe_75": 94.49,
-        "pe_90": 108.01
+        "pe": 11.15,
+        "pe_10": 54.27,
+        "pe_25": 63.78,
+        "pe_50": 76.72,
+        "pe_75": 90.27,
+        "pe_90": 103.61
       },
       {
         "date": "2009-12-16",
         "price": 69.6,
         "pe": 11.43,
-        "pe_10": 57.57,
-        "pe_25": 65.95,
-        "pe_50": 78.25,
-        "pe_75": 95.16,
-        "pe_90": 108.77
+        "pe_10": 56.68,
+        "pe_25": 66.62,
+        "pe_50": 80.13,
+        "pe_75": 94.29,
+        "pe_90": 108.22
       },
       {
         "date": "2010-01-16",
         "price": 63.9,
-        "pe": 10.67,
-        "pe_10": 56.62,
-        "pe_25": 64.86,
-        "pe_50": 76.96,
-        "pe_75": 93.59,
-        "pe_90": 106.98
+        "pe": 10.46,
+        "pe_10": 56.87,
+        "pe_25": 66.83,
+        "pe_50": 80.39,
+        "pe_75": 94.6,
+        "pe_90": 108.58
       },
       {
         "date": "2010-02-14",
         "price": 65.5,
-        "pe": 11.12,
-        "pe_10": 55.69,
-        "pe_25": 63.79,
-        "pe_50": 75.69,
-        "pe_75": 92.05,
-        "pe_90": 105.22
+        "pe": 10.69,
+        "pe_10": 57.04,
+        "pe_25": 67.03,
+        "pe_50": 80.63,
+        "pe_75": 94.88,
+        "pe_90": 108.9
       },
       {
         "date": "2010-03-16",
         "price": 61.6,
-        "pe": 10.64,
-        "pe_10": 54.74,
-        "pe_25": 62.7,
-        "pe_50": 74.39,
-        "pe_75": 90.47,
-        "pe_90": 103.42
+        "pe": 10.02,
+        "pe_10": 57.23,
+        "pe_25": 67.26,
+        "pe_50": 80.9,
+        "pe_75": 95.2,
+        "pe_90": 109.26
       },
       {
         "date": "2010-04-15",
         "price": 59.3,
-        "pe": 10.42,
-        "pe_10": 53.81,
-        "pe_25": 61.63,
-        "pe_50": 73.13,
-        "pe_75": 88.94,
-        "pe_90": 101.66
+        "pe": 9.61,
+        "pe_10": 57.44,
+        "pe_25": 67.51,
+        "pe_50": 81.21,
+        "pe_75": 95.55,
+        "pe_90": 109.67
       },
       {
         "date": "2010-05-16",
         "price": 58.2,
-        "pe": 10.41,
-        "pe_10": 52.86,
-        "pe_25": 60.55,
-        "pe_50": 71.84,
-        "pe_75": 87.37,
-        "pe_90": 99.87
+        "pe": 9.4,
+        "pe_10": 57.64,
+        "pe_25": 67.73,
+        "pe_50": 81.48,
+        "pe_75": 95.88,
+        "pe_90": 110.04
       },
       {
         "date": "2010-06-15",
         "price": 58.5,
-        "pe": 10.66,
-        "pe_10": 51.89,
-        "pe_25": 59.43,
-        "pe_50": 70.52,
-        "pe_75": 85.76,
-        "pe_90": 98.03
+        "pe": 9.42,
+        "pe_10": 57.81,
+        "pe_25": 67.94,
+        "pe_50": 81.73,
+        "pe_75": 96.16,
+        "pe_90": 110.37
       },
       {
         "date": "2010-07-16",
         "price": 58.0,
-        "pe": 10.76,
-        "pe_10": 50.97,
-        "pe_25": 58.38,
-        "pe_50": 69.27,
-        "pe_75": 84.24,
-        "pe_90": 96.29
+        "pe": 9.4,
+        "pe_10": 57.44,
+        "pe_25": 67.5,
+        "pe_50": 81.2,
+        "pe_75": 95.55,
+        "pe_90": 109.66
       },
       {
         "date": "2010-08-16",
         "price": 48.6,
-        "pe": 9.19,
-        "pe_10": 50.0,
-        "pe_25": 57.27,
-        "pe_50": 67.96,
-        "pe_75": 82.64,
-        "pe_90": 94.47
+        "pe": 7.92,
+        "pe_10": 57.12,
+        "pe_25": 67.13,
+        "pe_50": 80.75,
+        "pe_75": 95.02,
+        "pe_90": 109.06
       },
       {
         "date": "2010-09-15",
         "price": 50.7,
-        "pe": 9.77,
-        "pe_10": 49.07,
-        "pe_25": 56.2,
-        "pe_50": 66.68,
-        "pe_75": 81.1,
-        "pe_90": 92.7
+        "pe": 8.31,
+        "pe_10": 56.79,
+        "pe_25": 66.75,
+        "pe_50": 80.29,
+        "pe_75": 94.48,
+        "pe_90": 108.43
       },
       {
         "date": "2010-10-16",
         "price": 56.2,
-        "pe": 11.04,
-        "pe_10": 48.13,
-        "pe_25": 55.13,
-        "pe_50": 65.41,
-        "pe_75": 79.55,
-        "pe_90": 90.93
+        "pe": 9.87,
+        "pe_10": 53.01,
+        "pe_25": 62.29,
+        "pe_50": 74.93,
+        "pe_75": 88.17,
+        "pe_90": 101.2
       },
       {
         "date": "2010-11-15",
         "price": 59.9,
-        "pe": 12.0,
-        "pe_10": 47.2,
-        "pe_25": 54.06,
-        "pe_50": 64.14,
-        "pe_75": 78.01,
-        "pe_90": 89.17
+        "pe": 11.32,
+        "pe_10": 49.26,
+        "pe_25": 57.89,
+        "pe_50": 69.64,
+        "pe_75": 81.94,
+        "pe_90": 94.05
       },
       {
         "date": "2010-12-16",
         "price": 61.2,
         "pe": 12.52,
-        "pe_10": 46.22,
-        "pe_25": 52.94,
-        "pe_50": 62.81,
-        "pe_75": 76.39,
-        "pe_90": 87.32
+        "pe_10": 45.5,
+        "pe_25": 53.48,
+        "pe_50": 64.33,
+        "pe_75": 75.69,
+        "pe_90": 86.88
       },
       {
         "date": "2011-01-16",
         "price": 61.5,
-        "pe": 12.34,
-        "pe_10": 47.12,
-        "pe_25": 53.97,
-        "pe_50": 64.04,
-        "pe_75": 77.88,
-        "pe_90": 89.03
+        "pe": 12.53,
+        "pe_10": 45.69,
+        "pe_25": 53.7,
+        "pe_50": 64.59,
+        "pe_75": 76.0,
+        "pe_90": 87.23
       },
       {
         "date": "2011-02-14",
         "price": 58.1,
-        "pe": 11.44,
-        "pe_10": 48.02,
-        "pe_25": 55.0,
-        "pe_50": 65.26,
-        "pe_75": 79.37,
-        "pe_90": 90.72
+        "pe": 11.78,
+        "pe_10": 45.91,
+        "pe_25": 53.96,
+        "pe_50": 64.91,
+        "pe_75": 76.37,
+        "pe_90": 87.66
       },
       {
         "date": "2011-03-16",
         "price": 55.5,
-        "pe": 10.73,
-        "pe_10": 48.91,
-        "pe_25": 56.02,
-        "pe_50": 66.47,
-        "pe_75": 80.83,
-        "pe_90": 92.39
+        "pe": 11.21,
+        "pe_10": 46.09,
+        "pe_25": 54.16,
+        "pe_50": 65.15,
+        "pe_75": 76.67,
+        "pe_90": 87.99
       },
       {
         "date": "2011-04-15",
         "price": 56.5,
-        "pe": 10.73,
-        "pe_10": 49.79,
-        "pe_25": 57.03,
-        "pe_50": 67.66,
-        "pe_75": 82.29,
-        "pe_90": 94.06
+        "pe": 11.36,
+        "pe_10": 46.3,
+        "pe_25": 54.41,
+        "pe_50": 65.45,
+        "pe_75": 77.02,
+        "pe_90": 88.4
       },
       {
         "date": "2011-05-16",
         "price": 65.1,
-        "pe": 12.14,
-        "pe_10": 50.7,
-        "pe_25": 58.08,
-        "pe_50": 68.91,
-        "pe_75": 83.8,
-        "pe_90": 95.79
+        "pe": 13.03,
+        "pe_10": 46.51,
+        "pe_25": 54.66,
+        "pe_50": 65.75,
+        "pe_75": 77.37,
+        "pe_90": 88.8
       },
       {
         "date": "2011-06-15",
         "price": 68.0,
-        "pe": 12.47,
-        "pe_10": 51.56,
-        "pe_25": 59.06,
-        "pe_50": 70.07,
-        "pe_75": 85.22,
-        "pe_90": 97.41
+        "pe": 13.55,
+        "pe_10": 46.72,
+        "pe_25": 54.9,
+        "pe_50": 66.04,
+        "pe_75": 77.71,
+        "pe_90": 89.19
       },
       {
         "date": "2011-07-16",
         "price": 71.0,
-        "pe": 12.79,
-        "pe_10": 52.49,
-        "pe_25": 60.12,
-        "pe_50": 71.33,
-        "pe_75": 86.75,
-        "pe_90": 99.16
+        "pe": 14.24,
+        "pe_10": 46.41,
+        "pe_25": 54.55,
+        "pe_50": 65.62,
+        "pe_75": 77.21,
+        "pe_90": 88.62
       },
       {
         "date": "2011-08-16",
         "price": 58.7,
-        "pe": 10.4,
-        "pe_10": 53.37,
-        "pe_25": 61.13,
-        "pe_50": 72.53,
-        "pe_75": 88.21,
-        "pe_90": 100.82
+        "pe": 11.85,
+        "pe_10": 46.11,
+        "pe_25": 54.19,
+        "pe_50": 65.19,
+        "pe_75": 76.71,
+        "pe_90": 88.04
       },
       {
         "date": "2011-09-15",
         "price": 59.5,
-        "pe": 10.37,
-        "pe_10": 54.25,
-        "pe_25": 62.14,
-        "pe_50": 73.73,
-        "pe_75": 89.67,
-        "pe_90": 102.49
+        "pe": 12.09,
+        "pe_10": 45.81,
+        "pe_25": 53.84,
+        "pe_50": 64.77,
+        "pe_75": 76.21,
+        "pe_90": 87.47
       },
       {
         "date": "2011-10-16",
         "price": 59.9,
-        "pe": 10.27,
-        "pe_10": 55.15,
-        "pe_25": 63.17,
-        "pe_50": 74.95,
-        "pe_75": 91.15,
-        "pe_90": 104.19
+        "pe": 11.33,
+        "pe_10": 49.22,
+        "pe_25": 57.84,
+        "pe_50": 69.57,
+        "pe_75": 81.87,
+        "pe_90": 93.96
       },
       {
         "date": "2011-11-15",
         "price": 59.0,
-        "pe": 9.96,
-        "pe_10": 56.01,
-        "pe_25": 64.15,
-        "pe_50": 76.12,
-        "pe_75": 92.57,
-        "pe_90": 105.81
+        "pe": 10.44,
+        "pe_10": 52.61,
+        "pe_25": 61.83,
+        "pe_50": 74.37,
+        "pe_75": 87.51,
+        "pe_90": 100.44
       },
       {
         "date": "2011-12-16",
         "price": 63.7,
         "pe": 10.58,
-        "pe_10": 56.93,
-        "pe_25": 65.21,
-        "pe_50": 77.37,
-        "pe_75": 94.09,
-        "pe_90": 107.55
+        "pe_10": 56.05,
+        "pe_25": 65.87,
+        "pe_50": 79.23,
+        "pe_75": 93.23,
+        "pe_90": 107.01
       },
       {
         "date": "2012-01-16",
         "price": 63.2,
-        "pe": 10.5,
-        "pe_10": 56.91,
-        "pe_25": 65.19,
-        "pe_50": 77.34,
-        "pe_75": 94.06,
-        "pe_90": 107.52
+        "pe": 10.59,
+        "pe_10": 55.56,
+        "pe_25": 65.29,
+        "pe_50": 78.54,
+        "pe_75": 92.41,
+        "pe_90": 106.07
       },
       {
         "date": "2012-02-15",
         "price": 72.7,
-        "pe": 12.08,
-        "pe_10": 56.9,
-        "pe_25": 65.18,
-        "pe_50": 77.33,
-        "pe_75": 94.05,
-        "pe_90": 107.5
+        "pe": 12.28,
+        "pe_10": 55.11,
+        "pe_25": 64.77,
+        "pe_50": 77.91,
+        "pe_75": 91.67,
+        "pe_90": 105.22
       },
       {
         "date": "2012-03-16",
         "price": 77.3,
-        "pe": 12.85,
-        "pe_10": 56.88,
-        "pe_25": 65.15,
-        "pe_50": 77.3,
-        "pe_75": 94.01,
-        "pe_90": 107.46
+        "pe": 13.17,
+        "pe_10": 54.64,
+        "pe_25": 64.21,
+        "pe_50": 77.24,
+        "pe_75": 90.89,
+        "pe_90": 104.32
       },
       {
         "date": "2012-04-15",
         "price": 76.8,
-        "pe": 12.76,
-        "pe_10": 56.91,
-        "pe_25": 65.18,
-        "pe_50": 77.34,
-        "pe_75": 94.06,
-        "pe_90": 107.51
+        "pe": 12.97,
+        "pe_10": 55.12,
+        "pe_25": 64.78,
+        "pe_50": 77.93,
+        "pe_75": 91.69,
+        "pe_90": 105.24
       },
       {
         "date": "2012-05-16",
         "price": 78.0,
-        "pe": 12.97,
-        "pe_10": 56.86,
-        "pe_25": 65.13,
-        "pe_50": 77.28,
-        "pe_75": 93.98,
-        "pe_90": 107.43
+        "pe": 13.07,
+        "pe_10": 55.55,
+        "pe_25": 65.29,
+        "pe_50": 78.54,
+        "pe_75": 92.41,
+        "pe_90": 106.07
       },
       {
         "date": "2012-06-15",
         "price": 79.4,
-        "pe": 13.2,
-        "pe_10": 56.87,
-        "pe_25": 65.14,
-        "pe_50": 77.29,
-        "pe_75": 94.0,
-        "pe_90": 107.45
+        "pe": 13.19,
+        "pe_10": 56.04,
+        "pe_25": 65.86,
+        "pe_50": 79.22,
+        "pe_75": 93.22,
+        "pe_90": 106.99
       },
       {
         "date": "2012-07-16",
         "price": 78.4,
-        "pe": 13.04,
-        "pe_10": 56.85,
-        "pe_25": 65.11,
-        "pe_50": 77.26,
-        "pe_75": 93.96,
-        "pe_90": 107.4
+        "pe": 12.83,
+        "pe_10": 56.88,
+        "pe_25": 66.85,
+        "pe_50": 80.42,
+        "pe_75": 94.62,
+        "pe_90": 108.61
       },
       {
         "date": "2012-08-16",
         "price": 77.3,
-        "pe": 12.85,
-        "pe_10": 56.88,
-        "pe_25": 65.15,
-        "pe_50": 77.3,
-        "pe_75": 94.01,
-        "pe_90": 107.46
+        "pe": 12.47,
+        "pe_10": 57.71,
+        "pe_25": 67.82,
+        "pe_50": 81.58,
+        "pe_75": 95.99,
+        "pe_90": 110.17
       },
       {
         "date": "2012-09-15",
         "price": 77.9,
-        "pe": 12.96,
-        "pe_10": 56.83,
-        "pe_25": 65.1,
-        "pe_50": 77.24,
-        "pe_75": 93.93,
-        "pe_90": 107.37
+        "pe": 12.38,
+        "pe_10": 58.58,
+        "pe_25": 68.84,
+        "pe_50": 82.81,
+        "pe_75": 97.44,
+        "pe_90": 111.83
       },
       {
         "date": "2012-10-16",
         "price": 66.8,
-        "pe": 11.11,
-        "pe_10": 56.85,
-        "pe_25": 65.12,
-        "pe_50": 77.26,
-        "pe_75": 93.96,
-        "pe_90": 107.4
+        "pe": 10.78,
+        "pe_10": 57.68,
+        "pe_25": 67.79,
+        "pe_50": 81.55,
+        "pe_75": 95.96,
+        "pe_90": 110.13
       },
       {
         "date": "2012-11-15",
         "price": 73.0,
-        "pe": 12.14,
-        "pe_10": 56.85,
-        "pe_25": 65.12,
-        "pe_50": 77.27,
-        "pe_75": 93.97,
-        "pe_90": 107.41
+        "pe": 11.96,
+        "pe_10": 56.82,
+        "pe_25": 66.77,
+        "pe_50": 80.32,
+        "pe_75": 94.52,
+        "pe_90": 108.48
       },
       {
         "date": "2012-12-16",
         "price": 68.3,
         "pe": 11.36,
-        "pe_10": 56.85,
-        "pe_25": 65.11,
-        "pe_50": 77.26,
-        "pe_75": 93.96,
-        "pe_90": 107.4
+        "pe_10": 55.97,
+        "pe_25": 65.77,
+        "pe_50": 79.12,
+        "pe_75": 93.1,
+        "pe_90": 106.86
       },
       {
         "date": "2013-01-16",
         "price": 68.9,
-        "pe": 11.65,
-        "pe_10": 55.92,
-        "pe_25": 64.05,
-        "pe_50": 76.0,
-        "pe_75": 92.42,
-        "pe_90": 105.64
+        "pe": 11.58,
+        "pe_10": 55.39,
+        "pe_25": 65.09,
+        "pe_50": 78.3,
+        "pe_75": 92.13,
+        "pe_90": 105.75
       },
       {
         "date": "2013-02-14",
         "price": 63.3,
-        "pe": 10.89,
-        "pe_10": 54.96,
-        "pe_25": 62.95,
-        "pe_50": 74.69,
-        "pe_75": 90.84,
-        "pe_90": 103.83
+        "pe": 10.75,
+        "pe_10": 54.81,
+        "pe_25": 64.42,
+        "pe_50": 77.49,
+        "pe_75": 91.18,
+        "pe_90": 104.65
       },
       {
         "date": "2013-03-16",
         "price": 66.5,
-        "pe": 11.63,
-        "pe_10": 54.06,
-        "pe_25": 61.93,
-        "pe_50": 73.48,
-        "pe_75": 89.36,
-        "pe_90": 102.14
+        "pe": 11.41,
+        "pe_10": 54.25,
+        "pe_25": 63.76,
+        "pe_50": 76.7,
+        "pe_75": 90.25,
+        "pe_90": 103.58
       },
       {
         "date": "2013-04-15",
         "price": 61.0,
-        "pe": 10.85,
-        "pe_10": 53.16,
-        "pe_25": 60.89,
-        "pe_50": 72.24,
-        "pe_75": 87.86,
-        "pe_90": 100.43
+        "pe": 10.78,
+        "pe_10": 52.68,
+        "pe_25": 61.91,
+        "pe_50": 74.47,
+        "pe_75": 87.62,
+        "pe_90": 100.57
       },
       {
         "date": "2013-05-16",
         "price": 64.8,
-        "pe": 11.73,
-        "pe_10": 52.23,
-        "pe_25": 59.83,
-        "pe_50": 70.99,
-        "pe_75": 86.33,
-        "pe_90": 98.68
+        "pe": 11.8,
+        "pe_10": 51.12,
+        "pe_25": 60.08,
+        "pe_50": 72.27,
+        "pe_75": 85.04,
+        "pe_90": 97.6
       },
       {
         "date": "2013-06-15",
         "price": 65.0,
-        "pe": 11.98,
-        "pe_10": 51.3,
-        "pe_25": 58.76,
-        "pe_50": 69.72,
-        "pe_75": 84.79,
-        "pe_90": 96.92
+        "pe": 12.22,
+        "pe_10": 49.52,
+        "pe_25": 58.19,
+        "pe_50": 70.0,
+        "pe_75": 82.37,
+        "pe_90": 94.54
       },
       {
         "date": "2013-07-16",
         "price": 69.8,
-        "pe": 13.1,
-        "pe_10": 50.38,
-        "pe_25": 57.7,
-        "pe_50": 68.47,
-        "pe_75": 83.27,
-        "pe_90": 95.18
+        "pe": 13.53,
+        "pe_10": 48.02,
+        "pe_25": 56.44,
+        "pe_50": 67.89,
+        "pe_75": 79.89,
+        "pe_90": 91.69
       },
       {
         "date": "2013-08-16",
         "price": 63.1,
-        "pe": 12.07,
-        "pe_10": 49.43,
-        "pe_25": 56.62,
-        "pe_50": 67.18,
-        "pe_75": 81.7,
-        "pe_90": 93.38
+        "pe": 12.62,
+        "pe_10": 46.55,
+        "pe_25": 54.7,
+        "pe_50": 65.8,
+        "pe_75": 77.42,
+        "pe_90": 88.86
       },
       {
         "date": "2013-09-15",
         "price": 64.1,
-        "pe": 12.49,
-        "pe_10": 48.52,
-        "pe_25": 55.58,
-        "pe_50": 65.95,
-        "pe_75": 80.2,
-        "pe_90": 91.67
+        "pe": 13.24,
+        "pe_10": 45.07,
+        "pe_25": 52.96,
+        "pe_50": 63.71,
+        "pe_75": 74.97,
+        "pe_90": 86.05
       },
       {
         "date": "2013-10-16",
         "price": 69.7,
-        "pe": 13.84,
-        "pe_10": 47.62,
-        "pe_25": 54.54,
-        "pe_50": 64.71,
-        "pe_75": 78.7,
-        "pe_90": 89.96
+        "pe": 14.4,
+        "pe_10": 45.06,
+        "pe_25": 52.95,
+        "pe_50": 63.7,
+        "pe_75": 74.95,
+        "pe_90": 86.03
       },
       {
         "date": "2013-11-15",
         "price": 65.9,
-        "pe": 13.35,
-        "pe_10": 46.67,
-        "pe_25": 53.46,
-        "pe_50": 63.43,
-        "pe_75": 77.14,
-        "pe_90": 88.18
+        "pe": 13.62,
+        "pe_10": 45.04,
+        "pe_25": 52.93,
+        "pe_50": 63.67,
+        "pe_75": 74.92,
+        "pe_90": 85.99
       },
       {
         "date": "2013-12-16",
         "price": 69.5,
         "pe": 14.36,
-        "pe_10": 45.76,
-        "pe_25": 52.42,
-        "pe_50": 62.19,
-        "pe_75": 75.63,
-        "pe_90": 86.45
+        "pe_10": 45.05,
+        "pe_25": 52.95,
+        "pe_50": 63.69,
+        "pe_75": 74.94,
+        "pe_90": 86.02
       },
       {
         "date": "2014-01-16",
         "price": 75.0,
-        "pe": 15.48,
-        "pe_10": 45.81,
-        "pe_25": 52.47,
-        "pe_50": 62.26,
-        "pe_75": 75.71,
-        "pe_90": 86.55
+        "pe": 15.45,
+        "pe_10": 45.19,
+        "pe_25": 53.11,
+        "pe_50": 63.88,
+        "pe_75": 75.17,
+        "pe_90": 86.28
       },
       {
         "date": "2014-02-14",
         "price": 74.5,
-        "pe": 15.36,
-        "pe_10": 45.86,
-        "pe_25": 52.53,
-        "pe_50": 62.33,
-        "pe_75": 75.8,
-        "pe_90": 86.64
+        "pe": 15.31,
+        "pe_10": 45.3,
+        "pe_25": 53.24,
+        "pe_50": 64.04,
+        "pe_75": 75.35,
+        "pe_90": 86.49
       },
       {
         "date": "2014-03-16",
         "price": 82.0,
-        "pe": 16.89,
-        "pe_10": 45.9,
-        "pe_25": 52.58,
-        "pe_50": 62.39,
-        "pe_75": 75.87,
-        "pe_90": 86.72
+        "pe": 16.8,
+        "pe_10": 45.44,
+        "pe_25": 53.4,
+        "pe_50": 64.23,
+        "pe_75": 75.58,
+        "pe_90": 86.75
       },
       {
         "date": "2014-04-15",
         "price": 82.8,
-        "pe": 17.04,
-        "pe_10": 45.94,
-        "pe_25": 52.62,
-        "pe_50": 62.44,
-        "pe_75": 75.94,
-        "pe_90": 86.8
+        "pe": 16.94,
+        "pe_10": 45.5,
+        "pe_25": 53.47,
+        "pe_50": 64.32,
+        "pe_75": 75.69,
+        "pe_90": 86.87
       },
       {
         "date": "2014-05-16",
         "price": 80.7,
-        "pe": 16.59,
-        "pe_10": 45.99,
-        "pe_25": 52.68,
-        "pe_50": 62.51,
-        "pe_75": 76.02,
-        "pe_90": 86.89
+        "pe": 16.49,
+        "pe_10": 45.56,
+        "pe_25": 53.54,
+        "pe_50": 64.4,
+        "pe_75": 75.78,
+        "pe_90": 86.98
       },
       {
         "date": "2014-06-15",
         "price": 87.0,
-        "pe": 17.86,
-        "pe_10": 46.06,
-        "pe_25": 52.76,
-        "pe_50": 62.6,
-        "pe_75": 76.12,
-        "pe_90": 87.01
+        "pe": 17.76,
+        "pe_10": 45.6,
+        "pe_25": 53.59,
+        "pe_50": 64.47,
+        "pe_75": 75.86,
+        "pe_90": 87.06
       },
       {
         "date": "2014-07-16",
         "price": 84.4,
-        "pe": 17.31,
-        "pe_10": 46.1,
-        "pe_25": 52.8,
-        "pe_50": 62.65,
-        "pe_75": 76.2,
-        "pe_90": 87.1
+        "pe": 17.19,
+        "pe_10": 45.71,
+        "pe_25": 53.71,
+        "pe_50": 64.61,
+        "pe_75": 76.03,
+        "pe_90": 87.26
       },
       {
         "date": "2014-08-16",
         "price": 84.4,
-        "pe": 17.3,
-        "pe_10": 46.13,
-        "pe_25": 52.84,
-        "pe_50": 62.69,
-        "pe_75": 76.24,
-        "pe_90": 87.15
+        "pe": 17.15,
+        "pe_10": 45.81,
+        "pe_25": 53.84,
+        "pe_50": 64.76,
+        "pe_75": 76.21,
+        "pe_90": 87.47
       },
       {
         "date": "2014-09-15",
         "price": 77.2,
-        "pe": 15.8,
-        "pe_10": 46.2,
-        "pe_25": 52.92,
-        "pe_50": 62.79,
-        "pe_75": 76.36,
-        "pe_90": 87.28
+        "pe": 15.66,
+        "pe_10": 45.89,
+        "pe_25": 53.93,
+        "pe_50": 64.88,
+        "pe_75": 76.34,
+        "pe_90": 87.62
       },
       {
         "date": "2014-10-16",
         "price": 76.4,
-        "pe": 15.62,
-        "pe_10": 46.25,
-        "pe_25": 52.97,
-        "pe_50": 62.85,
-        "pe_75": 76.44,
-        "pe_90": 87.37
+        "pe": 15.53,
+        "pe_10": 45.8,
+        "pe_25": 53.82,
+        "pe_50": 64.74,
+        "pe_75": 76.18,
+        "pe_90": 87.43
       },
       {
         "date": "2014-11-15",
         "price": 77.0,
-        "pe": 15.73,
-        "pe_10": 46.28,
-        "pe_25": 53.01,
-        "pe_50": 62.9,
-        "pe_75": 76.5,
-        "pe_90": 87.44
+        "pe": 15.68,
+        "pe_10": 45.71,
+        "pe_25": 53.72,
+        "pe_50": 64.62,
+        "pe_75": 76.04,
+        "pe_90": 87.28
       },
       {
         "date": "2014-12-16",
         "price": 79.2,
         "pe": 16.16,
-        "pe_10": 46.34,
-        "pe_25": 53.08,
-        "pe_50": 62.98,
-        "pe_75": 76.59,
-        "pe_90": 87.55
+        "pe_10": 45.62,
+        "pe_25": 53.62,
+        "pe_50": 64.5,
+        "pe_75": 75.89,
+        "pe_90": 87.11
       },
       {
         "date": "2015-01-16",
         "price": 77.0,
-        "pe": 15.79,
-        "pe_10": 46.11,
-        "pe_25": 52.81,
-        "pe_50": 62.66,
-        "pe_75": 76.21,
-        "pe_90": 87.11
+        "pe": 16.01,
+        "pe_10": 44.77,
+        "pe_25": 52.62,
+        "pe_50": 63.29,
+        "pe_75": 74.48,
+        "pe_90": 85.48
       },
       {
         "date": "2015-02-14",
         "price": 79.4,
-        "pe": 16.36,
-        "pe_10": 45.89,
-        "pe_25": 52.56,
-        "pe_50": 62.36,
-        "pe_75": 75.84,
-        "pe_90": 86.69
+        "pe": 16.82,
+        "pe_10": 43.94,
+        "pe_25": 51.64,
+        "pe_50": 62.12,
+        "pe_75": 73.1,
+        "pe_90": 83.9
       },
       {
         "date": "2015-03-16",
         "price": 75.6,
-        "pe": 15.65,
-        "pe_10": 45.67,
-        "pe_25": 52.32,
-        "pe_50": 62.07,
-        "pe_75": 75.49,
-        "pe_90": 86.29
+        "pe": 16.33,
+        "pe_10": 43.1,
+        "pe_25": 50.65,
+        "pe_50": 60.92,
+        "pe_75": 71.69,
+        "pe_90": 82.28
       },
       {
         "date": "2015-04-15",
         "price": 77.0,
-        "pe": 16.02,
-        "pe_10": 45.45,
-        "pe_25": 52.05,
-        "pe_50": 61.76,
-        "pe_75": 75.11,
-        "pe_90": 85.86
+        "pe": 16.84,
+        "pe_10": 42.56,
+        "pe_25": 50.02,
+        "pe_50": 60.17,
+        "pe_75": 70.8,
+        "pe_90": 81.27
       },
       {
         "date": "2015-05-16",
         "price": 77.9,
-        "pe": 16.29,
-        "pe_10": 45.21,
-        "pe_25": 51.79,
-        "pe_50": 61.45,
-        "pe_75": 74.73,
-        "pe_90": 85.42
+        "pe": 17.25,
+        "pe_10": 42.04,
+        "pe_25": 49.4,
+        "pe_50": 59.43,
+        "pe_75": 69.93,
+        "pe_90": 80.26
       },
       {
         "date": "2015-06-15",
         "price": 73.0,
-        "pe": 15.34,
-        "pe_10": 44.99,
-        "pe_25": 51.54,
-        "pe_50": 61.15,
-        "pe_75": 74.37,
-        "pe_90": 85.01
+        "pe": 16.37,
+        "pe_10": 41.51,
+        "pe_25": 48.79,
+        "pe_50": 58.69,
+        "pe_75": 69.05,
+        "pe_90": 79.26
       },
       {
         "date": "2015-07-16",
         "price": 61.0,
-        "pe": 12.88,
-        "pe_10": 44.78,
-        "pe_25": 51.29,
-        "pe_50": 60.86,
-        "pe_75": 74.01,
-        "pe_90": 84.6
+        "pe": 13.4,
+        "pe_10": 42.38,
+        "pe_25": 49.8,
+        "pe_50": 59.91,
+        "pe_75": 70.49,
+        "pe_90": 80.91
       },
       {
         "date": "2015-08-16",
         "price": 59.8,
-        "pe": 12.69,
-        "pe_10": 44.56,
-        "pe_25": 51.03,
-        "pe_50": 60.55,
-        "pe_75": 73.64,
-        "pe_90": 84.18
+        "pe": 12.87,
+        "pe_10": 43.25,
+        "pe_25": 50.83,
+        "pe_50": 61.15,
+        "pe_75": 71.95,
+        "pe_90": 82.58
       },
       {
         "date": "2015-09-15",
         "price": 57.1,
-        "pe": 12.17,
-        "pe_10": 44.36,
-        "pe_25": 50.81,
-        "pe_50": 60.29,
-        "pe_75": 73.32,
-        "pe_90": 83.81
+        "pe": 12.05,
+        "pe_10": 44.11,
+        "pe_25": 51.84,
+        "pe_50": 62.36,
+        "pe_75": 73.38,
+        "pe_90": 84.22
       },
       {
         "date": "2015-10-16",
         "price": 55.5,
-        "pe": 11.89,
-        "pe_10": 44.13,
-        "pe_25": 50.55,
-        "pe_50": 59.98,
-        "pe_75": 72.95,
-        "pe_90": 83.38
+        "pe": 11.81,
+        "pe_10": 43.75,
+        "pe_25": 51.41,
+        "pe_50": 61.84,
+        "pe_75": 72.77,
+        "pe_90": 83.52
       },
       {
         "date": "2015-11-15",
         "price": 51.0,
-        "pe": 10.98,
-        "pe_10": 43.92,
-        "pe_25": 50.3,
-        "pe_50": 59.69,
-        "pe_75": 72.59,
-        "pe_90": 82.97
+        "pe": 10.94,
+        "pe_10": 43.4,
+        "pe_25": 51.0,
+        "pe_50": 61.35,
+        "pe_75": 72.19,
+        "pe_90": 82.85
       },
       {
         "date": "2015-12-16",
         "price": 53.0,
         "pe": 11.47,
-        "pe_10": 43.69,
-        "pe_25": 50.04,
-        "pe_50": 59.38,
-        "pe_75": 72.21,
-        "pe_90": 82.54
+        "pe_10": 43.01,
+        "pe_25": 50.55,
+        "pe_50": 60.81,
+        "pe_75": 71.55,
+        "pe_90": 82.12
       },
       {
         "date": "2016-01-16",
         "price": 53.3,
-        "pe": 11.68,
-        "pe_10": 43.15,
-        "pe_25": 49.42,
-        "pe_50": 58.64,
-        "pe_75": 71.31,
-        "pe_90": 81.52
+        "pe": 11.54,
+        "pe_10": 43.0,
+        "pe_25": 50.53,
+        "pe_50": 60.78,
+        "pe_75": 71.52,
+        "pe_90": 82.09
       },
       {
         "date": "2016-02-15",
         "price": 56.2,
-        "pe": 12.48,
-        "pe_10": 42.58,
-        "pe_25": 48.77,
-        "pe_50": 57.87,
-        "pe_75": 70.37,
-        "pe_90": 80.44
+        "pe": 12.16,
+        "pe_10": 43.02,
+        "pe_25": 50.56,
+        "pe_50": 60.82,
+        "pe_75": 71.57,
+        "pe_90": 82.14
       },
       {
         "date": "2016-03-16",
         "price": 56.2,
-        "pe": 12.64,
-        "pe_10": 42.04,
-        "pe_25": 48.15,
-        "pe_50": 57.13,
-        "pe_75": 69.48,
-        "pe_90": 79.42
+        "pe": 12.16,
+        "pe_10": 43.02,
+        "pe_25": 50.56,
+        "pe_50": 60.82,
+        "pe_75": 71.57,
+        "pe_90": 82.14
       },
       {
         "date": "2016-04-15",
         "price": 52.0,
-        "pe": 11.85,
-        "pe_10": 41.49,
-        "pe_25": 47.52,
-        "pe_50": 56.39,
-        "pe_75": 68.58,
-        "pe_90": 78.39
+        "pe": 11.23,
+        "pe_10": 43.1,
+        "pe_25": 50.66,
+        "pe_50": 60.94,
+        "pe_75": 71.7,
+        "pe_90": 82.3
       },
       {
         "date": "2016-05-16",
         "price": 58.0,
-        "pe": 13.39,
-        "pe_10": 40.96,
-        "pe_25": 46.91,
-        "pe_50": 55.66,
-        "pe_75": 67.69,
-        "pe_90": 77.38
+        "pe": 12.5,
+        "pe_10": 43.19,
+        "pe_25": 50.76,
+        "pe_50": 61.06,
+        "pe_75": 71.85,
+        "pe_90": 82.47
       },
       {
         "date": "2016-06-15",
         "price": 61.0,
-        "pe": 14.27,
-        "pe_10": 40.42,
-        "pe_25": 46.3,
-        "pe_50": 54.93,
-        "pe_75": 66.8,
-        "pe_90": 76.36
+        "pe": 13.12,
+        "pe_10": 43.28,
+        "pe_25": 50.86,
+        "pe_50": 61.19,
+        "pe_75": 72.0,
+        "pe_90": 82.63
       },
       {
         "date": "2016-07-16",
         "price": 64.9,
-        "pe": 15.39,
-        "pe_10": 39.87,
-        "pe_25": 45.67,
-        "pe_50": 54.19,
-        "pe_75": 65.9,
-        "pe_90": 75.33
+        "pe": 14.48,
+        "pe_10": 41.72,
+        "pe_25": 49.03,
+        "pe_50": 58.98,
+        "pe_75": 69.4,
+        "pe_90": 79.66
       },
       {
         "date": "2016-08-16",
         "price": 58.7,
-        "pe": 14.11,
-        "pe_10": 39.33,
-        "pe_25": 45.05,
-        "pe_50": 53.46,
-        "pe_75": 65.01,
-        "pe_90": 74.31
+        "pe": 13.6,
+        "pe_10": 40.18,
+        "pe_25": 47.22,
+        "pe_50": 56.8,
+        "pe_75": 66.84,
+        "pe_90": 76.71
       },
       {
         "date": "2016-09-15",
         "price": 65.4,
-        "pe": 15.94,
-        "pe_10": 38.79,
-        "pe_25": 44.43,
-        "pe_50": 52.72,
-        "pe_75": 64.12,
-        "pe_90": 73.29
+        "pe": 15.76,
+        "pe_10": 38.63,
+        "pe_25": 45.4,
+        "pe_50": 54.61,
+        "pe_75": 64.26,
+        "pe_90": 73.75
       },
       {
         "date": "2016-10-16",
         "price": 64.0,
-        "pe": 15.82,
-        "pe_10": 38.25,
-        "pe_25": 43.81,
-        "pe_50": 51.98,
-        "pe_75": 63.22,
-        "pe_90": 72.26
+        "pe": 15.7,
+        "pe_10": 37.95,
+        "pe_25": 44.6,
+        "pe_50": 53.65,
+        "pe_75": 63.12,
+        "pe_90": 72.45
       },
       {
         "date": "2016-11-15",
         "price": 59.4,
-        "pe": 14.9,
-        "pe_10": 37.69,
-        "pe_25": 43.17,
-        "pe_50": 51.23,
-        "pe_75": 62.3,
-        "pe_90": 71.21
+        "pe": 14.84,
+        "pe_10": 37.26,
+        "pe_25": 43.79,
+        "pe_50": 52.68,
+        "pe_75": 61.98,
+        "pe_90": 71.14
       },
       {
         "date": "2016-12-16",
         "price": 60.3,
         "pe": 15.34,
-        "pe_10": 37.17,
-        "pe_25": 42.57,
-        "pe_50": 50.51,
-        "pe_75": 61.43,
-        "pe_90": 70.22
+        "pe_10": 36.59,
+        "pe_25": 43.0,
+        "pe_50": 51.73,
+        "pe_75": 60.87,
+        "pe_90": 69.86
       },
       {
         "date": "2017-01-16",
         "price": 63.6,
-        "pe": 16.25,
-        "pe_10": 37.01,
-        "pe_25": 42.39,
-        "pe_50": 50.29,
-        "pe_75": 61.16,
-        "pe_90": 69.91
+        "pe": 16.52,
+        "pe_10": 35.84,
+        "pe_25": 42.12,
+        "pe_50": 50.66,
+        "pe_75": 59.62,
+        "pe_90": 68.42
       },
       {
         "date": "2017-02-14",
         "price": 63.7,
-        "pe": 16.35,
-        "pe_10": 36.84,
-        "pe_25": 42.19,
-        "pe_50": 50.06,
-        "pe_75": 60.89,
-        "pe_90": 69.59
+        "pe": 16.9,
+        "pe_10": 35.09,
+        "pe_25": 41.24,
+        "pe_50": 49.6,
+        "pe_75": 58.37,
+        "pe_90": 66.99
       },
       {
         "date": "2017-03-16",
         "price": 61.7,
-        "pe": 15.9,
-        "pe_10": 36.69,
-        "pe_25": 42.03,
-        "pe_50": 49.86,
-        "pe_75": 60.64,
-        "pe_90": 69.32
+        "pe": 16.72,
+        "pe_10": 34.35,
+        "pe_25": 40.37,
+        "pe_50": 48.56,
+        "pe_75": 57.14,
+        "pe_90": 65.59
       },
       {
         "date": "2017-04-15",
         "price": 62.5,
-        "pe": 16.18,
-        "pe_10": 36.52,
-        "pe_25": 41.83,
-        "pe_50": 49.64,
-        "pe_75": 60.37,
-        "pe_90": 69.0
+        "pe": 16.71,
+        "pe_10": 34.82,
+        "pe_25": 40.92,
+        "pe_50": 49.22,
+        "pe_75": 57.92,
+        "pe_90": 66.48
       },
       {
         "date": "2017-05-16",
         "price": 68.8,
-        "pe": 17.89,
-        "pe_10": 36.36,
-        "pe_25": 41.65,
-        "pe_50": 49.42,
-        "pe_75": 60.1,
-        "pe_90": 68.7
+        "pe": 18.15,
+        "pe_10": 35.29,
+        "pe_25": 41.47,
+        "pe_50": 49.88,
+        "pe_75": 58.7,
+        "pe_90": 67.37
       },
       {
         "date": "2017-06-15",
         "price": 72.0,
-        "pe": 18.8,
-        "pe_10": 36.21,
-        "pe_25": 41.48,
-        "pe_50": 49.21,
-        "pe_75": 59.85,
-        "pe_90": 68.41
+        "pe": 18.75,
+        "pe_10": 35.75,
+        "pe_25": 42.01,
+        "pe_50": 50.53,
+        "pe_75": 59.46,
+        "pe_90": 68.25
       },
       {
         "date": "2017-07-16",
         "price": 71.6,
-        "pe": 18.78,
-        "pe_10": 36.05,
-        "pe_25": 41.29,
-        "pe_50": 48.99,
-        "pe_75": 59.58,
-        "pe_90": 68.1
+        "pe": 18.65,
+        "pe_10": 35.74,
+        "pe_25": 42.0,
+        "pe_50": 50.52,
+        "pe_75": 59.45,
+        "pe_90": 68.23
       },
       {
         "date": "2017-08-16",
         "price": 68.7,
-        "pe": 18.09,
-        "pe_10": 35.91,
-        "pe_25": 41.13,
-        "pe_50": 48.8,
-        "pe_75": 59.35,
-        "pe_90": 67.84
+        "pe": 17.89,
+        "pe_10": 35.75,
+        "pe_25": 42.01,
+        "pe_50": 50.54,
+        "pe_75": 59.46,
+        "pe_90": 68.25
       },
       {
         "date": "2017-09-15",
         "price": 69.9,
-        "pe": 18.49,
-        "pe_10": 35.74,
-        "pe_25": 40.94,
-        "pe_50": 48.58,
-        "pe_75": 59.08,
-        "pe_90": 67.53
+        "pe": 18.2,
+        "pe_10": 35.75,
+        "pe_25": 42.02,
+        "pe_50": 50.54,
+        "pe_75": 59.47,
+        "pe_90": 68.26
       },
       {
         "date": "2017-10-16",
         "price": 71.0,
-        "pe": 18.87,
-        "pe_10": 35.58,
-        "pe_25": 40.75,
-        "pe_50": 48.35,
-        "pe_75": 58.8,
-        "pe_90": 67.21
+        "pe": 18.67,
+        "pe_10": 35.4,
+        "pe_25": 41.6,
+        "pe_50": 50.05,
+        "pe_75": 58.89,
+        "pe_90": 67.59
       },
       {
         "date": "2017-11-15",
         "price": 61.5,
-        "pe": 16.41,
-        "pe_10": 35.43,
-        "pe_25": 40.59,
-        "pe_50": 48.16,
-        "pe_75": 58.57,
-        "pe_90": 66.95
+        "pe": 16.33,
+        "pe_10": 35.06,
+        "pe_25": 41.2,
+        "pe_50": 49.56,
+        "pe_75": 58.32,
+        "pe_90": 66.93
       },
       {
         "date": "2017-12-16",
         "price": 61.9,
         "pe": 16.6,
-        "pe_10": 35.26,
-        "pe_25": 40.38,
-        "pe_50": 47.92,
-        "pe_75": 58.27,
-        "pe_90": 66.61
+        "pe_10": 34.71,
+        "pe_25": 40.79,
+        "pe_50": 49.07,
+        "pe_75": 57.74,
+        "pe_90": 66.27
       },
       {
         "date": "2018-01-16",
         "price": 63.5,
-        "pe": 16.95,
-        "pe_10": 35.42,
-        "pe_25": 40.57,
-        "pe_50": 48.14,
-        "pe_75": 58.55,
-        "pe_90": 66.92
+        "pe": 17.05,
+        "pe_10": 34.67,
+        "pe_25": 40.74,
+        "pe_50": 49.01,
+        "pe_75": 57.67,
+        "pe_90": 66.19
       },
       {
         "date": "2018-02-14",
         "price": 59.6,
-        "pe": 15.84,
-        "pe_10": 35.58,
-        "pe_25": 40.75,
-        "pe_50": 48.35,
-        "pe_75": 58.8,
-        "pe_90": 67.21
+        "pe": 16.04,
+        "pe_10": 34.59,
+        "pe_25": 40.65,
+        "pe_50": 48.9,
+        "pe_75": 57.54,
+        "pe_90": 66.04
       },
       {
         "date": "2018-03-16",
         "price": 59.1,
-        "pe": 15.65,
-        "pe_10": 35.71,
-        "pe_25": 40.9,
-        "pe_50": 48.53,
-        "pe_75": 59.02,
-        "pe_90": 67.46
+        "pe": 15.93,
+        "pe_10": 34.54,
+        "pe_25": 40.59,
+        "pe_50": 48.82,
+        "pe_75": 57.45,
+        "pe_90": 65.94
       },
       {
         "date": "2018-04-15",
         "price": 54.1,
-        "pe": 14.26,
-        "pe_10": 35.87,
-        "pe_25": 41.09,
-        "pe_50": 48.75,
-        "pe_75": 59.29,
-        "pe_90": 67.77
+        "pe": 14.73,
+        "pe_10": 34.19,
+        "pe_25": 40.18,
+        "pe_50": 48.33,
+        "pe_75": 56.87,
+        "pe_90": 65.28
       },
       {
         "date": "2018-05-16",
         "price": 53.0,
-        "pe": 13.91,
-        "pe_10": 36.03,
-        "pe_25": 41.26,
-        "pe_50": 48.96,
-        "pe_75": 59.54,
-        "pe_90": 68.06
+        "pe": 14.57,
+        "pe_10": 33.86,
+        "pe_25": 39.8,
+        "pe_50": 47.87,
+        "pe_75": 56.33,
+        "pe_90": 64.65
       },
       {
         "date": "2018-06-15",
         "price": 53.5,
-        "pe": 13.99,
-        "pe_10": 36.16,
-        "pe_25": 41.42,
-        "pe_50": 49.14,
-        "pe_75": 59.76,
-        "pe_90": 68.31
+        "pe": 14.86,
+        "pe_10": 33.51,
+        "pe_25": 39.39,
+        "pe_50": 47.38,
+        "pe_75": 55.75,
+        "pe_90": 63.99
       },
       {
         "date": "2018-07-16",
         "price": 52.9,
-        "pe": 13.77,
-        "pe_10": 36.32,
-        "pe_25": 41.61,
-        "pe_50": 49.37,
-        "pe_75": 60.04,
-        "pe_90": 68.62
+        "pe": 14.45,
+        "pe_10": 34.08,
+        "pe_25": 40.05,
+        "pe_50": 48.18,
+        "pe_75": 56.69,
+        "pe_90": 65.07
       },
       {
         "date": "2018-08-16",
         "price": 52.8,
-        "pe": 13.69,
-        "pe_10": 36.47,
-        "pe_25": 41.77,
-        "pe_50": 49.56,
-        "pe_75": 60.27,
-        "pe_90": 68.89
+        "pe": 14.19,
+        "pe_10": 34.64,
+        "pe_25": 40.71,
+        "pe_50": 48.97,
+        "pe_75": 57.62,
+        "pe_90": 66.13
       },
       {
         "date": "2018-09-15",
         "price": 53.2,
-        "pe": 13.74,
-        "pe_10": 36.61,
-        "pe_25": 41.93,
-        "pe_50": 49.75,
-        "pe_75": 60.51,
-        "pe_90": 69.16
+        "pe": 14.07,
+        "pe_10": 35.2,
+        "pe_25": 41.37,
+        "pe_50": 49.76,
+        "pe_75": 58.55,
+        "pe_90": 67.2
       },
       {
         "date": "2018-10-16",
         "price": 48.85,
-        "pe": 12.56,
-        "pe_10": 36.77,
-        "pe_25": 42.12,
-        "pe_50": 49.98,
-        "pe_75": 60.78,
-        "pe_90": 69.48
+        "pe": 12.77,
+        "pe_10": 35.61,
+        "pe_25": 41.85,
+        "pe_50": 50.34,
+        "pe_75": 59.24,
+        "pe_90": 67.99
       },
       {
         "date": "2018-11-15",
         "price": 49.95,
-        "pe": 12.79,
-        "pe_10": 36.93,
-        "pe_25": 42.3,
-        "pe_50": 50.18,
-        "pe_75": 61.03,
-        "pe_90": 69.76
+        "pe": 12.9,
+        "pe_10": 36.05,
+        "pe_25": 42.36,
+        "pe_50": 50.96,
+        "pe_75": 59.96,
+        "pe_90": 68.82
       },
       {
         "date": "2018-12-16",
         "price": 52.7,
         "pe": 13.44,
-        "pe_10": 37.07,
-        "pe_25": 42.47,
-        "pe_50": 50.39,
-        "pe_75": 61.28,
-        "pe_90": 70.04
+        "pe_10": 36.5,
+        "pe_25": 42.9,
+        "pe_50": 51.6,
+        "pe_75": 60.72,
+        "pe_90": 69.69
       },
       {
         "date": "2019-01-16",
         "price": 55.9,
-        "pe": 14.19,
-        "pe_10": 37.25,
-        "pe_25": 42.66,
-        "pe_50": 50.62,
-        "pe_75": 61.56,
-        "pe_90": 70.37
+        "pe": 14.14,
+        "pe_10": 36.8,
+        "pe_25": 43.25,
+        "pe_50": 52.03,
+        "pe_75": 61.22,
+        "pe_90": 70.26
       },
       {
         "date": "2019-02-14",
         "price": 57.2,
-        "pe": 14.46,
-        "pe_10": 37.4,
-        "pe_25": 42.84,
-        "pe_50": 50.83,
-        "pe_75": 61.82,
-        "pe_90": 70.66
+        "pe": 14.35,
+        "pe_10": 37.11,
+        "pe_25": 43.61,
+        "pe_50": 52.46,
+        "pe_75": 61.72,
+        "pe_90": 70.84
       },
       {
         "date": "2019-03-16",
         "price": 57.8,
-        "pe": 14.54,
-        "pe_10": 37.59,
-        "pe_25": 43.05,
-        "pe_50": 51.08,
-        "pe_75": 62.12,
-        "pe_90": 71.01
+        "pe": 14.38,
+        "pe_10": 37.42,
+        "pe_25": 43.97,
+        "pe_50": 52.9,
+        "pe_75": 62.24,
+        "pe_90": 71.44
       },
       {
         "date": "2019-04-15",
         "price": 59.2,
-        "pe": 14.82,
-        "pe_10": 37.77,
-        "pe_25": 43.26,
-        "pe_50": 51.33,
-        "pe_75": 62.43,
-        "pe_90": 71.36
+        "pe": 14.58,
+        "pe_10": 37.8,
+        "pe_25": 44.42,
+        "pe_50": 53.43,
+        "pe_75": 62.87,
+        "pe_90": 72.16
       },
       {
         "date": "2019-05-16",
         "price": 58.9,
-        "pe": 14.68,
-        "pe_10": 37.94,
-        "pe_25": 43.45,
-        "pe_50": 51.56,
-        "pe_75": 62.7,
-        "pe_90": 71.67
+        "pe": 14.37,
+        "pe_10": 38.16,
+        "pe_25": 44.84,
+        "pe_50": 53.94,
+        "pe_75": 63.47,
+        "pe_90": 72.85
       },
       {
         "date": "2019-06-15",
         "price": 60.4,
-        "pe": 14.99,
-        "pe_10": 38.1,
-        "pe_25": 43.64,
-        "pe_50": 51.78,
-        "pe_75": 62.97,
-        "pe_90": 71.98
+        "pe": 14.59,
+        "pe_10": 38.54,
+        "pe_25": 45.29,
+        "pe_50": 54.48,
+        "pe_75": 64.11,
+        "pe_90": 73.58
       },
       {
         "date": "2019-07-16",
         "price": 57.5,
-        "pe": 14.2,
-        "pe_10": 38.29,
-        "pe_25": 43.85,
-        "pe_50": 52.03,
-        "pe_75": 63.28,
-        "pe_90": 72.33
+        "pe": 13.99,
+        "pe_10": 38.26,
+        "pe_25": 44.96,
+        "pe_50": 54.09,
+        "pe_75": 63.64,
+        "pe_90": 73.05
       },
       {
         "date": "2019-08-16",
         "price": 56.5,
-        "pe": 13.89,
-        "pe_10": 38.46,
-        "pe_25": 44.05,
-        "pe_50": 52.27,
-        "pe_75": 63.57,
-        "pe_90": 72.66
+        "pe": 13.85,
+        "pe_10": 37.98,
+        "pe_25": 44.63,
+        "pe_50": 53.69,
+        "pe_75": 63.17,
+        "pe_90": 72.5
       },
       {
         "date": "2019-09-15",
         "price": 56.6,
-        "pe": 13.86,
-        "pe_10": 38.61,
-        "pe_25": 44.23,
-        "pe_50": 52.48,
-        "pe_75": 63.82,
-        "pe_90": 72.95
+        "pe": 13.98,
+        "pe_10": 37.69,
+        "pe_25": 44.29,
+        "pe_50": 53.28,
+        "pe_75": 62.69,
+        "pe_90": 71.96
       },
       {
         "date": "2019-10-16",
         "price": 58.5,
-        "pe": 14.26,
-        "pe_10": 38.79,
-        "pe_25": 44.43,
-        "pe_50": 52.72,
-        "pe_75": 64.11,
-        "pe_90": 73.28
+        "pe": 14.34,
+        "pe_10": 37.98,
+        "pe_25": 44.63,
+        "pe_50": 53.69,
+        "pe_75": 63.17,
+        "pe_90": 72.5
       },
       {
         "date": "2019-11-15",
         "price": 60.3,
-        "pe": 14.63,
-        "pe_10": 38.97,
-        "pe_25": 44.64,
-        "pe_50": 52.96,
-        "pe_75": 64.41,
-        "pe_90": 73.63
+        "pe": 14.67,
+        "pe_10": 38.26,
+        "pe_25": 44.97,
+        "pe_50": 54.09,
+        "pe_75": 63.65,
+        "pe_90": 73.05
       },
       {
         "date": "2019-12-16",
         "price": 64.3,
         "pe": 15.53,
-        "pe_10": 39.15,
-        "pe_25": 44.84,
-        "pe_50": 53.2,
-        "pe_75": 64.7,
-        "pe_90": 73.96
+        "pe_10": 38.54,
+        "pe_25": 45.3,
+        "pe_50": 54.49,
+        "pe_75": 64.11,
+        "pe_90": 73.59
       },
       {
         "date": "2020-01-16",
         "price": 62.0,
-        "pe": 14.28,
-        "pe_10": 41.05,
-        "pe_25": 47.02,
-        "pe_50": 55.79,
-        "pe_75": 67.85,
-        "pe_90": 77.56
+        "pe": 15.15,
+        "pe_10": 38.1,
+        "pe_25": 44.77,
+        "pe_50": 53.86,
+        "pe_75": 63.37,
+        "pe_90": 72.73
       },
       {
         "date": "2020-02-15",
         "price": 62.0,
-        "pe": 13.64,
-        "pe_10": 42.98,
-        "pe_25": 49.23,
-        "pe_50": 58.41,
-        "pe_75": 71.03,
-        "pe_90": 81.2
+        "pe": 15.32,
+        "pe_10": 37.67,
+        "pe_25": 44.27,
+        "pe_50": 53.26,
+        "pe_75": 62.67,
+        "pe_90": 71.93
       },
       {
         "date": "2020-03-16",
         "price": 60.2,
-        "pe": 12.68,
-        "pe_10": 44.89,
-        "pe_25": 51.42,
-        "pe_50": 61.01,
-        "pe_75": 74.19,
-        "pe_90": 84.81
+        "pe": 15.05,
+        "pe_10": 37.24,
+        "pe_25": 43.76,
+        "pe_50": 52.64,
+        "pe_75": 61.94,
+        "pe_90": 71.09
       },
       {
         "date": "2020-04-15",
         "price": 64.9,
-        "pe": 13.11,
-        "pe_10": 46.81,
-        "pe_25": 53.61,
-        "pe_50": 63.61,
-        "pe_75": 77.36,
-        "pe_90": 88.43
+        "pe": 15.46,
+        "pe_10": 39.08,
+        "pe_25": 45.93,
+        "pe_50": 55.24,
+        "pe_75": 65.0,
+        "pe_90": 74.61
       },
       {
         "date": "2020-05-16",
         "price": 70.0,
-        "pe": 13.59,
-        "pe_10": 48.7,
-        "pe_25": 55.78,
-        "pe_50": 66.19,
-        "pe_75": 80.49,
-        "pe_90": 92.01
+        "pe": 15.93,
+        "pe_10": 40.91,
+        "pe_25": 48.07,
+        "pe_50": 57.83,
+        "pe_75": 68.04,
+        "pe_90": 78.1
       },
       {
         "date": "2020-06-15",
         "price": 71.0,
-        "pe": 13.26,
-        "pe_10": 50.63,
-        "pe_25": 57.99,
-        "pe_50": 68.8,
-        "pe_75": 83.68,
-        "pe_90": 95.65
+        "pe": 15.47,
+        "pe_10": 42.72,
+        "pe_25": 50.21,
+        "pe_50": 60.4,
+        "pe_75": 71.07,
+        "pe_90": 81.57
       },
       {
         "date": "2020-07-16",
         "price": 81.8,
-        "pe": 14.72,
-        "pe_10": 52.54,
-        "pe_25": 60.18,
-        "pe_50": 71.41,
-        "pe_75": 86.84,
-        "pe_90": 99.27
+        "pe": 16.72,
+        "pe_10": 45.54,
+        "pe_25": 53.52,
+        "pe_50": 64.38,
+        "pe_75": 75.76,
+        "pe_90": 86.95
       },
       {
         "date": "2020-08-16",
         "price": 77.0,
-        "pe": 13.37,
-        "pe_10": 54.45,
-        "pe_25": 62.37,
-        "pe_50": 74.01,
-        "pe_75": 90.0,
-        "pe_90": 102.88
+        "pe": 14.82,
+        "pe_10": 48.37,
+        "pe_25": 56.84,
+        "pe_50": 68.38,
+        "pe_75": 80.46,
+        "pe_90": 92.34
       },
       {
         "date": "2020-09-15",
         "price": 75.6,
-        "pe": 12.68,
-        "pe_10": 56.37,
-        "pe_25": 64.57,
-        "pe_50": 76.61,
-        "pe_75": 93.17,
-        "pe_90": 106.5
+        "pe": 13.75,
+        "pe_10": 51.18,
+        "pe_25": 60.15,
+        "pe_50": 72.36,
+        "pe_75": 85.14,
+        "pe_90": 97.72
       },
       {
         "date": "2020-10-16",
         "price": 72.0,
-        "pe": 11.68,
-        "pe_10": 58.28,
-        "pe_25": 66.76,
-        "pe_50": 79.21,
-        "pe_75": 96.33,
-        "pe_90": 110.11
+        "pe": 12.29,
+        "pe_10": 54.54,
+        "pe_25": 64.09,
+        "pe_50": 77.1,
+        "pe_75": 90.72,
+        "pe_90": 104.12
       },
       {
         "date": "2020-11-15",
         "price": 77.0,
-        "pe": 12.09,
-        "pe_10": 60.22,
-        "pe_25": 68.98,
-        "pe_50": 81.84,
-        "pe_75": 99.53,
-        "pe_90": 113.77
+        "pe": 12.39,
+        "pe_10": 57.85,
+        "pe_25": 67.99,
+        "pe_50": 81.79,
+        "pe_75": 96.23,
+        "pe_90": 110.45
       },
       {
         "date": "2020-12-16",
         "price": 80.9,
         "pe": 12.31,
-        "pe_10": 62.14,
-        "pe_25": 71.17,
-        "pe_50": 84.45,
-        "pe_75": 102.7,
-        "pe_90": 117.39
+        "pe_10": 61.18,
+        "pe_25": 71.9,
+        "pe_50": 86.49,
+        "pe_75": 101.77,
+        "pe_90": 116.8
       },
       {
         "date": "2021-01-16",
         "price": 80.7,
-        "pe": 11.96,
-        "pe_10": 63.8,
-        "pe_25": 73.08,
-        "pe_50": 86.71,
-        "pe_75": 105.45,
-        "pe_90": 120.53
+        "pe": 11.59,
+        "pe_10": 64.82,
+        "pe_25": 76.17,
+        "pe_50": 91.63,
+        "pe_75": 107.82,
+        "pe_90": 123.75
       },
       {
         "date": "2021-02-14",
         "price": 85.0,
-        "pe": 12.27,
-        "pe_10": 65.5,
-        "pe_25": 75.02,
-        "pe_50": 89.02,
-        "pe_75": 108.26,
-        "pe_90": 123.75
+        "pe": 11.56,
+        "pe_10": 68.45,
+        "pe_25": 80.44,
+        "pe_50": 96.76,
+        "pe_75": 113.86,
+        "pe_90": 130.68
       },
       {
         "date": "2021-03-16",
         "price": 98.0,
-        "pe": 13.78,
-        "pe_10": 67.24,
-        "pe_25": 77.02,
-        "pe_50": 91.39,
-        "pe_75": 111.14,
-        "pe_90": 127.04
+        "pe": 12.66,
+        "pe_10": 72.06,
+        "pe_25": 84.69,
+        "pe_50": 101.87,
+        "pe_75": 119.87,
+        "pe_90": 137.58
       },
       {
         "date": "2021-04-15",
         "price": 98.4,
-        "pe": 13.5,
-        "pe_10": 68.92,
-        "pe_25": 78.94,
-        "pe_50": 93.66,
-        "pe_75": 113.91,
-        "pe_90": 130.2
+        "pe": 12.48,
+        "pe_10": 73.4,
+        "pe_25": 86.26,
+        "pe_50": 103.76,
+        "pe_75": 122.09,
+        "pe_90": 140.13
       },
       {
         "date": "2021-05-16",
         "price": 89.7,
-        "pe": 12.01,
-        "pe_10": 70.62,
-        "pe_25": 80.89,
-        "pe_50": 95.97,
-        "pe_75": 116.72,
-        "pe_90": 133.41
+        "pe": 11.18,
+        "pe_10": 74.69,
+        "pe_25": 87.77,
+        "pe_50": 105.59,
+        "pe_75": 124.24,
+        "pe_90": 142.6
       },
       {
         "date": "2021-06-15",
         "price": 87.5,
-        "pe": 11.44,
-        "pe_10": 72.32,
-        "pe_25": 82.83,
-        "pe_50": 98.28,
-        "pe_75": 119.53,
-        "pe_90": 136.63
+        "pe": 10.71,
+        "pe_10": 76.05,
+        "pe_25": 89.38,
+        "pe_50": 107.52,
+        "pe_75": 126.51,
+        "pe_90": 145.2
       },
       {
         "date": "2021-07-16",
         "price": 77.3,
-        "pe": 9.87,
-        "pe_10": 74.05,
-        "pe_25": 84.82,
-        "pe_50": 100.64,
-        "pe_75": 122.39,
-        "pe_90": 139.9
+        "pe": 9.31,
+        "pe_10": 77.29,
+        "pe_25": 90.83,
+        "pe_50": 109.27,
+        "pe_75": 128.57,
+        "pe_90": 147.57
       },
       {
         "date": "2021-08-16",
         "price": 78.4,
-        "pe": 9.79,
-        "pe_10": 75.72,
-        "pe_25": 86.73,
-        "pe_50": 102.91,
-        "pe_75": 125.15,
-        "pe_90": 143.05
+        "pe": 9.3,
+        "pe_10": 78.48,
+        "pe_25": 92.23,
+        "pe_50": 110.94,
+        "pe_75": 130.54,
+        "pe_90": 149.83
       },
       {
         "date": "2021-09-15",
         "price": 77.5,
-        "pe": 9.46,
-        "pe_10": 77.46,
-        "pe_25": 88.72,
-        "pe_50": 105.27,
-        "pe_75": 128.03,
-        "pe_90": 146.34
+        "pe": 9.05,
+        "pe_10": 79.72,
+        "pe_25": 93.69,
+        "pe_50": 112.7,
+        "pe_75": 132.61,
+        "pe_90": 152.2
       },
       {
         "date": "2021-10-16",
         "price": 78.0,
-        "pe": 9.32,
-        "pe_10": 79.13,
-        "pe_25": 90.64,
-        "pe_50": 107.54,
-        "pe_75": 130.79,
-        "pe_90": 149.5
+        "pe": 9.05,
+        "pe_10": 80.23,
+        "pe_25": 94.29,
+        "pe_50": 113.42,
+        "pe_75": 133.46,
+        "pe_90": 153.18
       },
       {
         "date": "2021-11-15",
         "price": 85.9,
-        "pe": 10.05,
-        "pe_10": 80.81,
-        "pe_25": 92.57,
-        "pe_50": 109.83,
-        "pe_75": 133.57,
-        "pe_90": 152.68
+        "pe": 9.9,
+        "pe_10": 80.77,
+        "pe_25": 94.92,
+        "pe_50": 114.19,
+        "pe_75": 134.36,
+        "pe_90": 154.21
       },
       {
         "date": "2021-12-16",
         "price": 94.7,
         "pe": 10.85,
-        "pe_10": 82.52,
-        "pe_25": 94.53,
-        "pe_50": 112.16,
-        "pe_75": 136.4,
-        "pe_90": 155.91
+        "pe_10": 81.25,
+        "pe_25": 95.49,
+        "pe_50": 114.86,
+        "pe_75": 135.15,
+        "pe_90": 155.12
       },
       {
         "date": "2022-01-16",
         "price": 92.9,
-        "pe": 10.77,
-        "pe_10": 81.56,
-        "pe_25": 93.42,
-        "pe_50": 110.84,
-        "pe_75": 134.8,
-        "pe_90": 154.08
+        "pe": 10.68,
+        "pe_10": 80.97,
+        "pe_25": 95.16,
+        "pe_50": 114.47,
+        "pe_75": 134.7,
+        "pe_90": 154.6
       },
       {
         "date": "2022-02-14",
         "price": 92.9,
-        "pe": 10.9,
-        "pe_10": 80.58,
-        "pe_25": 92.3,
-        "pe_50": 109.52,
-        "pe_75": 133.19,
-        "pe_90": 152.25
+        "pe": 10.72,
+        "pe_10": 80.67,
+        "pe_25": 94.81,
+        "pe_50": 114.05,
+        "pe_75": 134.19,
+        "pe_90": 154.02
       },
       {
         "date": "2022-03-16",
         "price": 88.3,
-        "pe": 10.48,
-        "pe_10": 79.66,
-        "pe_25": 91.25,
-        "pe_50": 108.27,
-        "pe_75": 131.67,
-        "pe_90": 150.51
+        "pe": 10.23,
+        "pe_10": 80.35,
+        "pe_25": 94.43,
+        "pe_50": 113.59,
+        "pe_75": 133.66,
+        "pe_90": 153.41
       },
       {
         "date": "2022-04-15",
         "price": 83.8,
-        "pe": 10.07,
-        "pe_10": 78.68,
-        "pe_25": 90.12,
-        "pe_50": 106.93,
-        "pe_75": 130.05,
-        "pe_90": 148.65
+        "pe": 10.1,
+        "pe_10": 77.24,
+        "pe_25": 90.77,
+        "pe_50": 109.19,
+        "pe_75": 128.48,
+        "pe_90": 147.46
       },
       {
         "date": "2022-05-16",
         "price": 79.6,
-        "pe": 9.68,
-        "pe_10": 77.75,
-        "pe_25": 89.06,
-        "pe_50": 105.67,
-        "pe_75": 128.51,
-        "pe_90": 146.89
+        "pe": 10.0,
+        "pe_10": 74.1,
+        "pe_25": 87.08,
+        "pe_50": 104.75,
+        "pe_75": 123.26,
+        "pe_90": 141.47
       },
       {
         "date": "2022-06-15",
         "price": 79.8,
-        "pe": 9.83,
-        "pe_10": 76.76,
-        "pe_25": 87.92,
-        "pe_50": 104.32,
-        "pe_75": 126.86,
-        "pe_90": 145.01
+        "pe": 10.47,
+        "pe_10": 70.95,
+        "pe_25": 83.38,
+        "pe_50": 100.3,
+        "pe_75": 118.02,
+        "pe_90": 135.46
       },
       {
         "date": "2022-07-16",
         "price": 84.6,
-        "pe": 10.55,
-        "pe_10": 75.82,
-        "pe_25": 86.85,
-        "pe_50": 103.04,
-        "pe_75": 125.32,
-        "pe_90": 143.24
+        "pe": 11.12,
+        "pe_10": 70.82,
+        "pe_25": 83.23,
+        "pe_50": 100.12,
+        "pe_75": 117.81,
+        "pe_90": 135.22
       },
       {
         "date": "2022-08-16",
         "price": 79.3,
-        "pe": 10.02,
-        "pe_10": 74.83,
-        "pe_25": 85.71,
-        "pe_50": 101.7,
-        "pe_75": 123.68,
-        "pe_90": 141.37
+        "pe": 10.43,
+        "pe_10": 70.78,
+        "pe_25": 83.18,
+        "pe_50": 100.06,
+        "pe_75": 117.73,
+        "pe_90": 135.13
       },
       {
         "date": "2022-09-15",
         "price": 77.0,
-        "pe": 9.85,
-        "pe_10": 73.91,
-        "pe_25": 84.66,
-        "pe_50": 100.45,
-        "pe_75": 122.16,
-        "pe_90": 139.64
+        "pe": 10.14,
+        "pe_10": 70.69,
+        "pe_25": 83.07,
+        "pe_50": 99.93,
+        "pe_75": 117.59,
+        "pe_90": 134.96
       },
       {
         "date": "2022-10-16",
         "price": 68.4,
-        "pe": 8.87,
-        "pe_10": 72.91,
-        "pe_25": 83.51,
-        "pe_50": 99.09,
-        "pe_75": 120.51,
-        "pe_90": 137.75
+        "pe": 9.04,
+        "pe_10": 70.44,
+        "pe_25": 82.78,
+        "pe_50": 99.57,
+        "pe_75": 117.17,
+        "pe_90": 134.48
       },
       {
         "date": "2022-11-15",
         "price": 71.6,
-        "pe": 9.41,
-        "pe_10": 71.94,
-        "pe_25": 82.4,
-        "pe_50": 97.77,
-        "pe_75": 118.91,
-        "pe_90": 135.92
+        "pe": 9.5,
+        "pe_10": 70.16,
+        "pe_25": 82.45,
+        "pe_50": 99.18,
+        "pe_75": 116.71,
+        "pe_90": 133.95
       },
       {
         "date": "2022-12-16",
         "price": 72.3,
         "pe": 9.63,
-        "pe_10": 70.99,
-        "pe_25": 81.31,
-        "pe_50": 96.48,
-        "pe_75": 117.33,
-        "pe_90": 134.11
+        "pe_10": 69.89,
+        "pe_25": 82.14,
+        "pe_50": 98.8,
+        "pe_75": 116.26,
+        "pe_90": 133.44
       },
       {
         "date": "2023-01-16",
         "price": 74.7,
-        "pe": 9.65,
-        "pe_10": 73.19,
-        "pe_25": 83.83,
-        "pe_50": 99.47,
-        "pe_75": 120.97,
-        "pe_90": 138.28
+        "pe": 9.98,
+        "pe_10": 69.68,
+        "pe_25": 81.89,
+        "pe_50": 98.5,
+        "pe_75": 115.9,
+        "pe_90": 133.03
       },
       {
         "date": "2023-02-14",
         "price": 80.1,
-        "pe": 10.05,
-        "pe_10": 75.36,
-        "pe_25": 86.32,
-        "pe_50": 102.42,
-        "pe_75": 124.55,
-        "pe_90": 142.37
+        "pe": 10.73,
+        "pe_10": 69.49,
+        "pe_25": 81.67,
+        "pe_50": 98.24,
+        "pe_75": 115.6,
+        "pe_90": 132.68
       },
       {
         "date": "2023-03-16",
         "price": 89.1,
-        "pe": 10.86,
-        "pe_10": 77.57,
-        "pe_25": 88.85,
-        "pe_50": 105.43,
-        "pe_75": 128.21,
-        "pe_90": 146.56
+        "pe": 11.98,
+        "pe_10": 69.23,
+        "pe_25": 81.37,
+        "pe_50": 97.88,
+        "pe_75": 115.17,
+        "pe_90": 132.18
       },
       {
         "date": "2023-04-15",
         "price": 85.9,
-        "pe": 10.18,
-        "pe_10": 79.78,
-        "pe_25": 91.38,
-        "pe_50": 108.43,
-        "pe_75": 131.87,
-        "pe_90": 150.73
+        "pe": 10.77,
+        "pe_10": 74.25,
+        "pe_25": 87.26,
+        "pe_50": 104.96,
+        "pe_75": 123.51,
+        "pe_90": 141.75
       },
       {
         "date": "2023-05-16",
         "price": 116.5,
-        "pe": 13.44,
-        "pe_10": 81.96,
-        "pe_25": 93.88,
-        "pe_50": 111.39,
-        "pe_75": 135.46,
-        "pe_90": 154.84
+        "pe": 13.68,
+        "pe_10": 79.28,
+        "pe_25": 93.17,
+        "pe_50": 112.07,
+        "pe_75": 131.87,
+        "pe_90": 151.36
       },
       {
         "date": "2023-06-15",
         "price": 152.0,
-        "pe": 17.08,
-        "pe_10": 84.14,
-        "pe_25": 96.38,
-        "pe_50": 114.36,
-        "pe_75": 139.07,
-        "pe_90": 158.97
+        "pe": 16.8,
+        "pe_10": 84.22,
+        "pe_25": 98.98,
+        "pe_50": 119.07,
+        "pe_75": 140.1,
+        "pe_90": 160.8
       },
       {
         "date": "2023-07-16",
         "price": 238.5,
-        "pe": 26.12,
-        "pe_10": 86.33,
-        "pe_25": 98.89,
-        "pe_50": 117.33,
-        "pe_75": 142.69,
-        "pe_90": 163.11
+        "pe": 25.5,
+        "pe_10": 87.07,
+        "pe_25": 102.32,
+        "pe_50": 123.08,
+        "pe_75": 144.83,
+        "pe_90": 166.23
       },
       {
         "date": "2023-08-16",
         "price": 253.5,
-        "pe": 27.07,
-        "pe_10": 88.54,
-        "pe_25": 101.42,
-        "pe_50": 120.34,
-        "pe_75": 146.35,
-        "pe_90": 167.28
+        "pe": 26.25,
+        "pe_10": 89.9,
+        "pe_25": 105.65,
+        "pe_50": 127.09,
+        "pe_75": 149.54,
+        "pe_90": 171.64
       },
       {
         "date": "2023-09-15",
         "price": 239.5,
-        "pe": 24.96,
-        "pe_10": 90.72,
-        "pe_25": 103.92,
-        "pe_50": 123.3,
-        "pe_75": 149.95,
-        "pe_90": 171.4
+        "pe": 24.05,
+        "pe_10": 92.7,
+        "pe_25": 108.95,
+        "pe_50": 131.05,
+        "pe_75": 154.21,
+        "pe_90": 176.99
       },
       {
         "date": "2023-10-16",
         "price": 189.0,
-        "pe": 19.23,
-        "pe_10": 92.93,
-        "pe_25": 106.44,
-        "pe_50": 126.29,
-        "pe_75": 153.59,
-        "pe_90": 175.56
+        "pe": 18.77,
+        "pe_10": 93.73,
+        "pe_25": 110.16,
+        "pe_50": 132.51,
+        "pe_75": 155.92,
+        "pe_90": 178.96
       },
       {
         "date": "2023-11-15",
         "price": 203.0,
-        "pe": 20.18,
-        "pe_10": 95.11,
-        "pe_25": 108.94,
-        "pe_50": 129.26,
-        "pe_75": 157.2,
-        "pe_90": 179.69
+        "pe": 19.94,
+        "pe_10": 94.77,
+        "pe_25": 111.38,
+        "pe_50": 133.98,
+        "pe_75": 157.65,
+        "pe_90": 180.94
       },
       {
         "date": "2023-12-16",
         "price": 224.5,
         "pe": 21.82,
-        "pe_10": 97.28,
-        "pe_25": 111.43,
-        "pe_50": 132.21,
-        "pe_75": 160.79,
-        "pe_90": 183.79
+        "pe_10": 95.78,
+        "pe_25": 112.56,
+        "pe_50": 135.4,
+        "pe_75": 159.32,
+        "pe_90": 182.86
       },
       {
         "date": "2024-01-16",
         "price": 247.0,
-        "pe": 23.03,
-        "pe_10": 101.41,
-        "pe_25": 116.15,
-        "pe_50": 137.82,
-        "pe_75": 167.61,
-        "pe_90": 191.58
+        "pe": 22.93,
+        "pe_10": 100.28,
+        "pe_25": 117.84,
+        "pe_50": 141.76,
+        "pe_75": 166.8,
+        "pe_90": 191.45
       },
       {
         "date": "2024-02-15",
         "price": 232.0,
-        "pe": 20.79,
-        "pe_10": 105.51,
-        "pe_25": 120.85,
-        "pe_50": 143.4,
-        "pe_75": 174.39,
-        "pe_90": 199.34
+        "pe": 20.61,
+        "pe_10": 104.79,
+        "pe_25": 123.15,
+        "pe_50": 148.14,
+        "pe_75": 174.31,
+        "pe_90": 200.06
       },
       {
         "date": "2024-03-16",
         "price": 293.5,
-        "pe": 25.32,
-        "pe_10": 109.6,
-        "pe_25": 125.54,
-        "pe_50": 148.95,
-        "pe_75": 181.15,
-        "pe_90": 207.06
+        "pe": 25.0,
+        "pe_10": 109.29,
+        "pe_25": 128.44,
+        "pe_50": 154.5,
+        "pe_75": 181.79,
+        "pe_90": 208.66
       },
       {
         "date": "2024-04-15",
         "price": 260.0,
-        "pe": 21.62,
-        "pe_10": 113.7,
-        "pe_25": 130.24,
-        "pe_50": 154.53,
-        "pe_75": 187.93,
-        "pe_90": 214.82
+        "pe": 21.35,
+        "pe_10": 113.36,
+        "pe_25": 133.23,
+        "pe_50": 160.26,
+        "pe_75": 188.58,
+        "pe_90": 216.44
       },
       {
         "date": "2024-05-16",
         "price": 274.0,
-        "pe": 22.0,
-        "pe_10": 117.76,
-        "pe_25": 134.88,
-        "pe_50": 160.04,
-        "pe_75": 194.63,
-        "pe_90": 222.48
+        "pe": 21.72,
+        "pe_10": 117.43,
+        "pe_25": 138.01,
+        "pe_50": 166.01,
+        "pe_75": 195.34,
+        "pe_90": 224.21
       },
       {
         "date": "2024-06-15",
         "price": 312.0,
-        "pe": 24.2,
-        "pe_10": 121.9,
-        "pe_25": 139.63,
-        "pe_50": 165.67,
-        "pe_75": 201.48,
-        "pe_90": 230.3
+        "pe": 23.91,
+        "pe_10": 121.47,
+        "pe_25": 142.76,
+        "pe_50": 171.72,
+        "pe_75": 202.06,
+        "pe_90": 231.92
       },
       {
         "date": "2024-07-16",
         "price": 272.5,
-        "pe": 20.45,
-        "pe_10": 125.99,
-        "pe_25": 144.31,
-        "pe_50": 171.23,
-        "pe_75": 208.24,
-        "pe_90": 238.03
+        "pe": 20.37,
+        "pe_10": 124.53,
+        "pe_25": 146.35,
+        "pe_50": 176.05,
+        "pe_75": 207.15,
+        "pe_90": 237.76
       },
       {
         "date": "2024-08-16",
         "price": 268.0,
-        "pe": 19.48,
-        "pe_10": 130.08,
-        "pe_25": 149.0,
-        "pe_50": 176.79,
-        "pe_75": 215.0,
-        "pe_90": 245.75
+        "pe": 19.55,
+        "pe_10": 127.61,
+        "pe_25": 149.97,
+        "pe_50": 180.4,
+        "pe_75": 212.28,
+        "pe_90": 243.64
       },
       {
         "date": "2024-09-15",
         "price": 264.0,
-        "pe": 18.6,
-        "pe_10": 134.2,
-        "pe_25": 153.72,
-        "pe_50": 182.39,
-        "pe_75": 221.81,
-        "pe_90": 253.54
+        "pe": 18.8,
+        "pe_10": 130.72,
+        "pe_25": 153.63,
+        "pe_50": 184.8,
+        "pe_75": 217.45,
+        "pe_90": 249.58
       },
       {
         "date": "2024-10-16",
         "price": 303.5,
-        "pe": 20.75,
-        "pe_10": 138.29,
-        "pe_25": 158.41,
-        "pe_50": 187.95,
-        "pe_75": 228.58,
-        "pe_90": 261.27
+        "pe": 20.9,
+        "pe_10": 135.18,
+        "pe_25": 158.87,
+        "pe_50": 191.1,
+        "pe_75": 224.87,
+        "pe_90": 258.09
       },
       {
         "date": "2024-11-15",
         "price": 291.0,
-        "pe": 19.33,
-        "pe_10": 142.34,
-        "pe_25": 163.04,
-        "pe_50": 193.45,
-        "pe_75": 235.26,
-        "pe_90": 268.92
+        "pe": 19.39,
+        "pe_10": 139.71,
+        "pe_25": 164.18,
+        "pe_50": 197.5,
+        "pe_75": 232.39,
+        "pe_90": 266.73
       },
       {
         "date": "2024-12-16",
         "price": 287.0,
         "pe": 18.53,
-        "pe_10": 146.44,
-        "pe_25": 167.74,
-        "pe_50": 199.03,
-        "pe_75": 242.04,
-        "pe_90": 276.67
+        "pe_10": 144.18,
+        "pe_25": 169.44,
+        "pe_50": 203.83,
+        "pe_75": 239.84,
+        "pe_90": 275.28
       },
       {
         "date": "2025-01-16",
         "price": 269.5,
-        "pe": 17.18,
-        "pe_10": 148.32,
-        "pe_25": 169.89,
-        "pe_50": 201.58,
-        "pe_75": 245.15,
-        "pe_90": 280.21
+        "pe": 16.7,
+        "pe_10": 150.23,
+        "pe_25": 176.55,
+        "pe_50": 212.37,
+        "pe_75": 249.89,
+        "pe_90": 286.82
       },
       {
         "date": "2025-02-14",
         "price": 250.5,
-        "pe": 15.78,
-        "pe_10": 150.09,
-        "pe_25": 171.92,
-        "pe_50": 203.99,
-        "pe_75": 248.08,
-        "pe_90": 283.57
+        "pe": 14.93,
+        "pe_10": 156.19,
+        "pe_25": 183.55,
+        "pe_50": 220.8,
+        "pe_75": 259.81,
+        "pe_90": 298.2
       },
       {
         "date": "2025-03-16",
         "price": 224.5,
-        "pe": 13.97,
-        "pe_10": 151.94,
-        "pe_25": 174.04,
-        "pe_50": 206.5,
-        "pe_75": 251.14,
-        "pe_90": 287.06
+        "pe": 12.89,
+        "pe_10": 162.13,
+        "pe_25": 190.54,
+        "pe_50": 229.2,
+        "pe_75": 269.7,
+        "pe_90": 309.55
       },
       {
         "date": "2025-04-15",
         "price": 238.5,
-        "pe": 14.66,
-        "pe_10": 153.82,
-        "pe_25": 176.19,
-        "pe_50": 209.05,
-        "pe_75": 254.24,
-        "pe_90": 290.61
+        "pe": 13.58,
+        "pe_10": 163.49,
+        "pe_25": 192.13,
+        "pe_50": 231.12,
+        "pe_75": 271.96,
+        "pe_90": 312.14
       },
       {
         "date": "2025-05-16",
         "price": 271.5,
-        "pe": 16.49,
-        "pe_10": 155.67,
-        "pe_25": 178.31,
-        "pe_50": 211.57,
-        "pe_75": 257.3,
-        "pe_90": 294.11
+        "pe": 15.33,
+        "pe_10": 164.87,
+        "pe_25": 193.75,
+        "pe_50": 233.07,
+        "pe_75": 274.25,
+        "pe_90": 314.77
       },
       {
         "date": "2025-06-15",
         "price": 274.5,
-        "pe": 16.48,
-        "pe_10": 157.49,
-        "pe_25": 180.39,
-        "pe_50": 214.04,
-        "pe_75": 260.3,
-        "pe_90": 297.54
+        "pe": 15.37,
+        "pe_10": 166.25,
+        "pe_25": 195.38,
+        "pe_50": 235.03,
+        "pe_75": 276.55,
+        "pe_90": 317.42
       },
       {
         "date": "2025-07-16",
         "price": 281.5,
-        "pe": 16.71,
-        "pe_10": 159.28,
-        "pe_25": 182.44,
-        "pe_50": 216.47,
-        "pe_75": 263.26,
-        "pe_90": 300.92
+        "pe": 15.77,
+        "pe_10": 166.17,
+        "pe_25": 195.28,
+        "pe_50": 234.91,
+        "pe_75": 276.41,
+        "pe_90": 317.25
       },
       {
         "date": "2025-08-16",
         "price": 262.5,
-        "pe": 15.4,
-        "pe_10": 161.16,
-        "pe_25": 184.6,
-        "pe_50": 219.03,
-        "pe_75": 266.38,
-        "pe_90": 304.48
+        "pe": 14.72,
+        "pe_10": 166.01,
+        "pe_25": 195.09,
+        "pe_50": 234.68,
+        "pe_75": 276.14,
+        "pe_90": 316.94
       },
       {
         "date": "2025-09-15",
         "price": 290.0,
-        "pe": 16.82,
-        "pe_10": 163.02,
-        "pe_25": 186.72,
-        "pe_50": 221.55,
-        "pe_75": 269.44,
-        "pe_90": 307.98
+        "pe": 16.27,
+        "pe_10": 165.93,
+        "pe_25": 195.0,
+        "pe_50": 234.57,
+        "pe_75": 276.01,
+        "pe_90": 316.79
       },
       {
         "date": "2025-10-16",
         "price": 300.5,
-        "pe": 17.24,
-        "pe_10": 164.8,
-        "pe_25": 188.77,
-        "pe_50": 223.98,
-        "pe_75": 272.39,
-        "pe_90": 311.36
+        "pe": 16.36,
+        "pe_10": 170.99,
+        "pe_25": 200.95,
+        "pe_50": 241.72,
+        "pe_75": 284.43,
+        "pe_90": 326.45
       },
       {
         "date": "2025-11-15",
         "price": 282.0,
-        "pe": 16.0,
-        "pe_10": 166.64,
-        "pe_25": 190.88,
-        "pe_50": 226.48,
-        "pe_75": 275.43,
-        "pe_90": 314.84
+        "pe": 14.92,
+        "pe_10": 175.95,
+        "pe_25": 206.77,
+        "pe_50": 248.73,
+        "pe_75": 292.68,
+        "pe_90": 335.92
       },
       {
         "date": "2025-12-16",
         "price": 272.0,
-        "pe": 15.26,
-        "pe_10": 168.53,
-        "pe_25": 193.04,
-        "pe_50": 229.04,
-        "pe_75": 278.55,
-        "pe_90": 318.4
+        "pe": 13.98,
+        "pe_10": 181.12,
+        "pe_25": 212.85,
+        "pe_50": 256.05,
+        "pe_75": 301.28,
+        "pe_90": 345.8
       },
       {
         "date": "2026-01-16",
         "price": 280.0,
-        "pe": 15.71,
-        "pe_10": 168.52,
-        "pe_25": 193.02,
-        "pe_50": 229.03,
-        "pe_75": 278.53,
-        "pe_90": 318.37
+        "pe": 14.4,
+        "pe_10": 181.01,
+        "pe_25": 212.72,
+        "pe_50": 255.89,
+        "pe_75": 301.1,
+        "pe_90": 345.59
       },
       {
         "date": "2026-02-14",
         "price": 291.5,
-        "pe": 16.36,
-        "pe_10": 168.47,
-        "pe_25": 192.97,
-        "pe_50": 228.96,
-        "pe_75": 278.45,
-        "pe_90": 318.28
+        "pe": 14.99,
+        "pe_10": 181.03,
+        "pe_25": 212.74,
+        "pe_50": 255.91,
+        "pe_75": 301.13,
+        "pe_90": 345.62
       }
     ]
   },
@@ -20038,19 +20038,19 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (9.5倍)",
+            "title": "PE 10% (9.3倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (12.8倍)",
+            "title": "PE 50% (13.2倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (17.9倍)",
+            "title": "PE 90% (17.8倍)",
             "format": ".1f"
           }
         ]
@@ -21010,6 +21010,10 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "date": "2026-01-16",
         "revenue_yoy": 61.9
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 43.2
       }
     ]
   },
@@ -21077,16 +21081,16 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 13.4 | +77.3% | 0.010 | 2023-04 (+6558.6%) | 2007-10 (-76.7%) |
-| 6個月 | 13.3 | +33.9% | 0.048 | 2023-01 (+994.4%) | 2007-07 (-51.0%) |
-| 1年 | 13.3 | +21.8% | 0.111 | 2023-01 (+239.0%) | 2007-10 (-29.9%) |
-| 2年 | 12.8 | +18.0% | 0.194 | 2022-10 (+115.7%) | 2007-01 (-17.8%) |
-| 3年 | 12.5 | +16.6% | 0.191 | 2022-10 (+68.7%) | 2015-05 (-6.2%) |
-| 4年 | 12.7 | +14.2% | 0.058 | 2020-03 (+51.2%) | 2014-06 (-5.8%) |
-| 5年 | 12.8 | +13.1% | 0.007 | 2019-10 (+41.7%) | 2014-08 (-2.4%) |
-| 6年 | 12.8 | +12.0% | 0.013 | 2018-10 (+38.0%) | 2012-07 (-0.7%) |
-| 8年 | 12.5 | +10.2% | 0.077 | 2016-03 (+24.7%) | 2012-03 (+1.9%) |
-| 10年 | 11.8 | +9.2% | 0.136 | 2015-11 (+20.9%) | 2009-08 (+3.2%) |
+| 3個月 | 13.4 | +77.3% | 0.007 | 2023-04 (+6558.6%) | 2007-10 (-76.7%) |
+| 6個月 | 13.4 | +33.9% | 0.041 | 2023-01 (+994.4%) | 2007-07 (-51.0%) |
+| 1年 | 13.4 | +21.8% | 0.097 | 2023-01 (+239.0%) | 2007-10 (-29.9%) |
+| 2年 | 13.0 | +18.0% | 0.198 | 2022-10 (+115.7%) | 2007-01 (-17.8%) |
+| 3年 | 12.6 | +16.6% | 0.168 | 2022-10 (+68.7%) | 2015-05 (-6.2%) |
+| 4年 | 12.8 | +14.2% | 0.043 | 2020-03 (+51.2%) | 2014-06 (-5.8%) |
+| 5年 | 12.9 | +13.1% | 0.002 | 2019-10 (+41.7%) | 2014-08 (-2.4%) |
+| 6年 | 12.9 | +12.0% | 0.013 | 2018-10 (+38.0%) | 2012-07 (-0.7%) |
+| 8年 | 12.6 | +10.2% | 0.058 | 2016-03 (+24.7%) | 2012-03 (+1.9%) |
+| 10年 | 12.0 | +9.2% | 0.118 | 2015-11 (+20.9%) | 2009-08 (+3.2%) |
 
 
 ## 🎯 使用說明
@@ -21105,4 +21109,4 @@ description: "2382 廣達 (電腦及週邊設備業) 本益比與未來報酬率
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:30:21 CST*
+*數據更新時間: 2026-03-21 12:36:16 CST*

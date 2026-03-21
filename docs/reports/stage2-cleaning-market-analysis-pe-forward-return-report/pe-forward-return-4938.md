@@ -2,7 +2,7 @@
 title: "4938 和碩 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
     - **產業別**: 電腦及週邊設備業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:34:26 CST
+    - **報告生成時間**: 2026-03-21 12:41:05 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 7.46,
         "forward_return": 299.7,
         "start_price": 30.05,
         "start_year": 2010
@@ -48,7 +48,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.55,
+        "pe_ratio": 9.92,
         "forward_return": 56.97,
         "start_price": 37.0,
         "start_year": 2010
@@ -57,7 +57,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 11.69,
         "forward_return": 14.87,
         "start_price": 40.1,
         "start_year": 2010
@@ -66,7 +66,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 13.05,
         "forward_return": 11.79,
         "start_price": 40.85,
         "start_year": 2010
@@ -75,7 +75,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.83,
         "forward_return": -12.32,
         "start_price": 41.45,
         "start_year": 2010
@@ -84,7 +84,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 14.58,
         "forward_return": -49.53,
         "start_price": 41.75,
         "start_year": 2010
@@ -102,7 +102,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 16.73,
         "forward_return": -54.99,
         "start_price": 40.1,
         "start_year": 2011
@@ -111,7 +111,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 15.33,
+        "pe_ratio": 16.96,
         "forward_return": -40.08,
         "start_price": 35.0,
         "start_year": 2011
@@ -120,7 +120,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 16.19,
+        "pe_ratio": 19.28,
         "forward_return": 11.65,
         "start_price": 33.35,
         "start_year": 2011
@@ -129,7 +129,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.44,
+        "pe_ratio": 21.94,
         "forward_return": 72.62,
         "start_price": 30.2,
         "start_year": 2011
@@ -138,7 +138,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 30.15,
         "forward_return": -15.71,
         "start_price": 30.85,
         "start_year": 2011
@@ -147,7 +147,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.4,
+        "pe_ratio": 44.4,
         "forward_return": 4.06,
         "start_price": 29.75,
         "start_year": 2011
@@ -156,7 +156,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 28.41,
+        "pe_ratio": 65.0,
         "forward_return": -4.13,
         "start_price": 33.15,
         "start_year": 2011
@@ -165,7 +165,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.79,
+        "pe_ratio": 80.29,
         "forward_return": 61.07,
         "start_price": 28.1,
         "start_year": 2011
@@ -174,7 +174,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 39.72,
+        "pe_ratio": 150.5,
         "forward_return": 76.52,
         "start_price": 28.6,
         "start_year": 2011
@@ -183,7 +183,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 66.04,
+        "pe_ratio": 228.8,
         "forward_return": 41.55,
         "start_price": 32.8,
         "start_year": 2011
@@ -192,7 +192,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 113.6,
+        "pe_ratio": 321.2,
         "forward_return": 227.54,
         "start_price": 31.05,
         "start_year": 2011
@@ -210,7 +210,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 244.1,
         "forward_return": 55.64,
         "start_price": 35.8,
         "start_year": 2012
@@ -219,7 +219,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 77.92,
+        "pe_ratio": 164.4,
         "forward_return": 15.36,
         "start_price": 40.0,
         "start_year": 2012
@@ -228,7 +228,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 61.74,
+        "pe_ratio": 135.3,
         "forward_return": -37.58,
         "start_price": 46.0,
         "start_year": 2012
@@ -237,7 +237,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 43.31,
+        "pe_ratio": 59.02,
         "forward_return": -25.57,
         "start_price": 42.3,
         "start_year": 2012
@@ -246,7 +246,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 34.3,
+        "pe_ratio": 37.91,
         "forward_return": -32.45,
         "start_price": 41.45,
         "start_year": 2012
@@ -255,7 +255,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.46,
         "forward_return": -7.44,
         "start_price": 38.9,
         "start_year": 2012
@@ -264,7 +264,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.72,
         "forward_return": -22.13,
         "start_price": 39.3,
         "start_year": 2012
@@ -273,7 +273,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 19.73,
+        "pe_ratio": 20.37,
         "forward_return": 0.0,
         "start_price": 37.55,
         "start_year": 2012
@@ -282,7 +282,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.87,
+        "pe_ratio": 18.79,
         "forward_return": -6.16,
         "start_price": 38.15,
         "start_year": 2012
@@ -291,7 +291,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.07,
         "forward_return": 25.85,
         "start_price": 36.9,
         "start_year": 2012
@@ -300,7 +300,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 14.79,
         "forward_return": 82.71,
         "start_price": 37.9,
         "start_year": 2012
@@ -318,7 +318,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 12.43,
         "forward_return": 171.71,
         "start_price": 39.1,
         "start_year": 2013
@@ -327,7 +327,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.11,
+        "pe_ratio": 11.55,
         "forward_return": 245.7,
         "start_price": 40.0,
         "start_year": 2013
@@ -336,7 +336,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 12.22,
         "forward_return": -2.69,
         "start_price": 46.2,
         "start_year": 2013
@@ -345,7 +345,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 14.76,
+        "pe_ratio": 13.05,
         "forward_return": -19.34,
         "start_price": 48.3,
         "start_year": 2013
@@ -354,7 +354,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.0,
         "forward_return": -39.82,
         "start_price": 54.3,
         "start_year": 2013
@@ -363,7 +363,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 13.98,
         "forward_return": -39.13,
         "start_price": 49.5,
         "start_year": 2013
@@ -372,7 +372,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 12.09,
         "forward_return": -27.17,
         "start_price": 44.3,
         "start_year": 2013
@@ -381,7 +381,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 12.23,
         "forward_return": -42.88,
         "start_price": 46.3,
         "start_year": 2013
@@ -390,7 +390,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.79,
         "forward_return": -31.53,
         "start_price": 42.2,
         "start_year": 2013
@@ -399,7 +399,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 10.39,
+        "pe_ratio": 10.24,
         "forward_return": -9.81,
         "start_price": 40.9,
         "start_year": 2013
@@ -408,7 +408,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 9.09,
+        "pe_ratio": 9.03,
         "forward_return": 88.87,
         "start_price": 36.8,
         "start_year": 2013
@@ -426,7 +426,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 9.47,
         "forward_return": 213.42,
         "start_price": 39.85,
         "start_year": 2014
@@ -435,7 +435,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 9.03,
+        "pe_ratio": 9.55,
         "forward_return": 321.03,
         "start_price": 40.7,
         "start_year": 2014
@@ -444,7 +444,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 10.52,
         "forward_return": 134.3,
         "start_price": 45.35,
         "start_year": 2014
@@ -453,7 +453,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 9.43,
+        "pe_ratio": 10.59,
         "forward_return": 202.29,
         "start_price": 45.75,
         "start_year": 2014
@@ -462,7 +462,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 11.54,
+        "pe_ratio": 13.39,
         "forward_return": 68.72,
         "start_price": 58.0,
         "start_year": 2014
@@ -471,7 +471,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 10.96,
+        "pe_ratio": 13.13,
         "forward_return": 12.89,
         "start_price": 57.0,
         "start_year": 2014
@@ -480,7 +480,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 12.33,
         "forward_return": -14.96,
         "start_price": 57.5,
         "start_year": 2014
@@ -489,7 +489,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 11.43,
+        "pe_ratio": 12.71,
         "forward_return": 52.52,
         "start_price": 63.4,
         "start_year": 2014
@@ -498,7 +498,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 9.79,
+        "pe_ratio": 10.55,
         "forward_return": 189.81,
         "start_price": 56.0,
         "start_year": 2014
@@ -507,7 +507,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.82,
         "forward_return": 455.03,
         "start_price": 55.2,
         "start_year": 2014
@@ -516,7 +516,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.11,
         "forward_return": 65.35,
         "start_price": 71.8,
         "start_year": 2014
@@ -534,7 +534,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.99,
         "forward_return": 25.56,
         "start_price": 85.0,
         "start_year": 2015
@@ -543,7 +543,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.59,
         "forward_return": 27.97,
         "start_price": 86.2,
         "start_year": 2015
@@ -552,7 +552,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 11.85,
         "forward_return": 31.6,
         "start_price": 84.7,
         "start_year": 2015
@@ -561,7 +561,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 12.62,
+        "pe_ratio": 12.09,
         "forward_return": 6.93,
         "start_price": 91.3,
         "start_year": 2015
@@ -570,7 +570,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.51,
         "forward_return": -13.8,
         "start_price": 91.6,
         "start_year": 2015
@@ -579,7 +579,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 11.67,
+        "pe_ratio": 10.8,
         "forward_return": -24.11,
         "start_price": 90.3,
         "start_year": 2015
@@ -588,7 +588,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.43,
         "forward_return": -34.57,
         "start_price": 88.8,
         "start_year": 2015
@@ -597,7 +597,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 9.72,
         "forward_return": -37.41,
         "start_price": 84.2,
         "start_year": 2015
@@ -606,7 +606,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 9.1,
         "forward_return": -35.14,
         "start_price": 80.2,
         "start_year": 2015
@@ -615,7 +615,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 9.14,
+        "pe_ratio": 8.92,
         "forward_return": -14.11,
         "start_price": 79.8,
         "start_year": 2015
@@ -624,7 +624,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 9.59,
+        "pe_ratio": 9.47,
         "forward_return": -33.81,
         "start_price": 86.1,
         "start_year": 2015
@@ -642,7 +642,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 8.61,
         "forward_return": -31.05,
         "start_price": 76.8,
         "start_year": 2016
@@ -651,7 +651,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 9.17,
         "forward_return": -45.54,
         "start_price": 79.0,
         "start_year": 2016
@@ -660,7 +660,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.54,
+        "pe_ratio": 9.04,
         "forward_return": 36.52,
         "start_price": 75.1,
         "start_year": 2016
@@ -669,7 +669,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 7.89,
+        "pe_ratio": 8.29,
         "forward_return": 122.18,
         "start_price": 68.3,
         "start_year": 2016
@@ -678,7 +678,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 7.98,
+        "pe_ratio": 8.32,
         "forward_return": 108.76,
         "start_price": 67.9,
         "start_year": 2016
@@ -687,7 +687,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 8.11,
+        "pe_ratio": 8.38,
         "forward_return": 152.67,
         "start_price": 67.8,
         "start_year": 2016
@@ -696,7 +696,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.77,
         "forward_return": 38.54,
         "start_price": 78.3,
         "start_year": 2016
@@ -705,7 +705,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 9.5,
+        "pe_ratio": 9.66,
         "forward_return": 1.18,
         "start_price": 76.7,
         "start_year": 2016
@@ -714,7 +714,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 10.16,
+        "pe_ratio": 10.25,
         "forward_return": -16.76,
         "start_price": 80.6,
         "start_year": 2016
@@ -723,7 +723,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 10.98,
         "forward_return": -38.84,
         "start_price": 85.0,
         "start_year": 2016
@@ -732,7 +732,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.96,
         "forward_return": 66.84,
         "start_price": 75.9,
         "start_year": 2016
@@ -750,7 +750,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 10.04,
         "forward_return": 90.43,
         "start_price": 75.1,
         "start_year": 2017
@@ -759,7 +759,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.22,
+        "pe_ratio": 10.82,
         "forward_return": 76.29,
         "start_price": 80.7,
         "start_year": 2017
@@ -768,7 +768,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.07,
         "forward_return": 53.1,
         "start_price": 89.8,
         "start_year": 2017
@@ -777,7 +777,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.08,
         "forward_return": 84.31,
         "start_price": 88.9,
         "start_year": 2017
@@ -786,7 +786,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.75,
         "forward_return": 34.16,
         "start_price": 92.8,
         "start_year": 2017
@@ -795,7 +795,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.48,
+        "pe_ratio": 13.24,
         "forward_return": -37.88,
         "start_price": 95.3,
         "start_year": 2017
@@ -804,7 +804,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 15.34,
+        "pe_ratio": 14.15,
         "forward_return": -60.56,
         "start_price": 98.6,
         "start_year": 2017
@@ -813,7 +813,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 15.14,
+        "pe_ratio": 14.09,
         "forward_return": -56.39,
         "start_price": 95.0,
         "start_year": 2017
@@ -822,7 +822,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 12.23,
         "forward_return": -33.15,
         "start_price": 79.6,
         "start_year": 2017
@@ -831,7 +831,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.53,
         "forward_return": 5.19,
         "start_price": 78.0,
         "start_year": 2017
@@ -840,7 +840,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.49,
         "forward_return": 22.45,
         "start_price": 68.3,
         "start_year": 2017
@@ -858,7 +858,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.56,
         "forward_return": -49.05,
         "start_price": 79.0,
         "start_year": 2018
@@ -867,7 +867,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.44,
         "forward_return": -49.76,
         "start_price": 75.0,
         "start_year": 2018
@@ -876,7 +876,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 14.72,
         "forward_return": -3.64,
         "start_price": 73.0,
         "start_year": 2018
@@ -885,7 +885,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 14.22,
         "forward_return": 15.9,
         "start_price": 69.5,
         "start_year": 2018
@@ -894,7 +894,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.48,
+        "pe_ratio": 13.15,
         "forward_return": 50.81,
         "start_price": 63.3,
         "start_year": 2018
@@ -903,7 +903,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.65,
+        "pe_ratio": 13.23,
         "forward_return": 16.1,
         "start_price": 62.7,
         "start_year": 2018
@@ -912,7 +912,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.08,
+        "pe_ratio": 14.7,
         "forward_return": -53.02,
         "start_price": 68.1,
         "start_year": 2018
@@ -921,7 +921,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 14.03,
+        "pe_ratio": 14.62,
         "forward_return": -53.12,
         "start_price": 66.2,
         "start_year": 2018
@@ -930,7 +930,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.82,
         "forward_return": -50.04,
         "start_price": 61.1,
         "start_year": 2018
@@ -939,7 +939,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 12.9,
         "forward_return": -28.16,
         "start_price": 56.3,
         "start_year": 2018
@@ -948,7 +948,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.97,
+        "pe_ratio": 12.14,
         "forward_return": 5.93,
         "start_price": 52.3,
         "start_year": 2018
@@ -966,7 +966,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.46,
         "forward_return": -1.75,
         "start_price": 51.8,
         "start_year": 2019
@@ -975,7 +975,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.06,
+        "pe_ratio": 12.99,
         "forward_return": -9.62,
         "start_price": 52.8,
         "start_year": 2019
@@ -984,7 +984,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 13.43,
         "forward_return": 6.31,
         "start_price": 53.3,
         "start_year": 2019
@@ -993,7 +993,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.43,
         "forward_return": -24.26,
         "start_price": 58.3,
         "start_year": 2019
@@ -1002,7 +1002,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 9.26,
+        "pe_ratio": 12.53,
         "forward_return": 38.48,
         "start_price": 51.5,
         "start_year": 2019
@@ -1011,7 +1011,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 9.22,
+        "pe_ratio": 12.85,
         "forward_return": 31.19,
         "start_price": 53.7,
         "start_year": 2019
@@ -1020,7 +1020,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 8.36,
+        "pe_ratio": 11.02,
         "forward_return": 83.39,
         "start_price": 50.9,
         "start_year": 2019
@@ -1029,7 +1029,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 8.25,
+        "pe_ratio": 10.36,
         "forward_return": 122.06,
         "start_price": 52.4,
         "start_year": 2019
@@ -1038,7 +1038,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 8.17,
+        "pe_ratio": 9.82,
         "forward_return": 158.26,
         "start_price": 54.0,
         "start_year": 2019
@@ -1047,7 +1047,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 8.63,
+        "pe_ratio": 9.67,
         "forward_return": 32.04,
         "start_price": 59.3,
         "start_year": 2019
@@ -1056,7 +1056,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 10.05,
         "forward_return": -38.13,
         "start_price": 68.0,
         "start_year": 2019
@@ -1074,7 +1074,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 8.57,
         "forward_return": 4.33,
         "start_price": 63.6,
         "start_year": 2020
@@ -1083,7 +1083,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 8.43,
         "forward_return": 12.03,
         "start_price": 62.7,
         "start_year": 2020
@@ -1092,7 +1092,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 7.75,
+        "pe_ratio": 7.77,
         "forward_return": 48.57,
         "start_price": 58.0,
         "start_year": 2020
@@ -1101,7 +1101,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 8.8,
+        "pe_ratio": 8.34,
         "forward_return": 0.61,
         "start_price": 66.1,
         "start_year": 2020
@@ -1110,7 +1110,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 7.68,
         "forward_return": 16.3,
         "start_price": 64.5,
         "start_year": 2020
@@ -1119,7 +1119,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 8.46,
+        "pe_ratio": 7.22,
         "forward_return": 29.45,
         "start_price": 64.0,
         "start_year": 2020
@@ -1128,7 +1128,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 8.13,
+        "pe_ratio": 6.91,
         "forward_return": -1.28,
         "start_price": 61.7,
         "start_year": 2020
@@ -1137,7 +1137,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 8.2,
+        "pe_ratio": 6.95,
         "forward_return": 24.8,
         "start_price": 62.5,
         "start_year": 2020
@@ -1146,7 +1146,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.34,
+        "pe_ratio": 7.04,
         "forward_return": 23.91,
         "start_price": 63.8,
         "start_year": 2020
@@ -1155,7 +1155,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.14,
         "forward_return": 162.19,
         "start_price": 61.5,
         "start_year": 2020
@@ -1164,7 +1164,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 8.48,
+        "pe_ratio": 7.99,
         "forward_return": 46.93,
         "start_price": 65.3,
         "start_year": 2020
@@ -1182,7 +1182,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.14,
+        "pe_ratio": 9.72,
         "forward_return": -17.83,
         "start_price": 78.4,
         "start_year": 2021
@@ -1191,7 +1191,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.65,
+        "pe_ratio": 8.88,
         "forward_return": -5.85,
         "start_price": 74.6,
         "start_year": 2021
@@ -1200,7 +1200,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.59,
+        "pe_ratio": 8.48,
         "forward_return": -9.05,
         "start_price": 74.1,
         "start_year": 2021
@@ -1209,7 +1209,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 8.63,
         "forward_return": -9.52,
         "start_price": 73.6,
         "start_year": 2021
@@ -1218,7 +1218,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 8.83,
         "forward_return": -20.88,
         "start_price": 73.5,
         "start_year": 2021
@@ -1227,7 +1227,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 8.91,
+        "pe_ratio": 8.48,
         "forward_return": 16.44,
         "start_price": 68.8,
         "start_year": 2021
@@ -1236,7 +1236,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 8.72,
+        "pe_ratio": 8.87,
         "forward_return": 4.19,
         "start_price": 67.3,
         "start_year": 2021
@@ -1245,7 +1245,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 8.4,
+        "pe_ratio": 9.17,
         "forward_return": 21.21,
         "start_price": 64.8,
         "start_year": 2021
@@ -1254,7 +1254,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.68,
+        "pe_ratio": 10.23,
         "forward_return": 13.19,
         "start_price": 67.0,
         "start_year": 2021
@@ -1263,7 +1263,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 8.82,
+        "pe_ratio": 9.8,
         "forward_return": 7.81,
         "start_price": 68.0,
         "start_year": 2021
@@ -1272,7 +1272,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 8.64,
+        "pe_ratio": 9.09,
         "forward_return": 28.94,
         "start_price": 66.6,
         "start_year": 2021
@@ -1290,7 +1290,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 9.48,
         "forward_return": 1.32,
         "start_price": 69.3,
         "start_year": 2022
@@ -1299,7 +1299,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 9.38,
+        "pe_ratio": 9.99,
         "forward_return": 2.97,
         "start_price": 69.1,
         "start_year": 2022
@@ -1308,7 +1308,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 11.1,
         "forward_return": -20.0,
         "start_price": 72.4,
         "start_year": 2022
@@ -1317,7 +1317,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 11.24,
         "forward_return": -16.55,
         "start_price": 70.3,
         "start_year": 2022
@@ -1326,7 +1326,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 11.61,
         "forward_return": -5.58,
         "start_price": 69.6,
         "start_year": 2022
@@ -1335,7 +1335,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.95,
         "forward_return": 53.54,
         "start_price": 57.0,
         "start_year": 2022
@@ -1344,7 +1344,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 9.55,
+        "pe_ratio": 10.26,
         "forward_return": -18.92,
         "start_price": 62.2,
         "start_year": 2022
@@ -1353,7 +1353,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.95,
         "forward_return": -0.47,
         "start_price": 63.6,
         "start_year": 2022
@@ -1362,7 +1362,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 8.71,
         "forward_return": 38.98,
         "start_price": 58.5,
         "start_year": 2022
@@ -1371,7 +1371,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 9.27,
         "forward_return": 42.45,
         "start_price": 59.0,
         "start_year": 2022
@@ -1380,7 +1380,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.31,
         "forward_return": 42.81,
         "start_price": 62.0,
         "start_year": 2022
@@ -1398,7 +1398,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 11.06,
         "forward_return": 60.19,
         "start_price": 64.5,
         "start_year": 2023
@@ -1407,7 +1407,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.33,
         "forward_return": 51.26,
         "start_price": 68.0,
         "start_year": 2023
@@ -1416,7 +1416,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 11.3,
         "forward_return": 53.37,
         "start_price": 69.7,
         "start_year": 2023
@@ -1425,7 +1425,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 12.2,
+        "pe_ratio": 11.35,
         "forward_return": 74.39,
         "start_price": 70.0,
         "start_year": 2023
@@ -1434,7 +1434,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.2,
         "forward_return": 40.29,
         "start_price": 75.3,
         "start_year": 2023
@@ -1443,7 +1443,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 12.94,
+        "pe_ratio": 12.12,
         "forward_return": 34.53,
         "start_price": 74.8,
         "start_year": 2023
@@ -1452,7 +1452,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 12.56,
         "forward_return": -5.1,
         "start_price": 76.4,
         "start_year": 2023
@@ -1461,7 +1461,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 13.01,
         "forward_return": 40.11,
         "start_price": 78.0,
         "start_year": 2023
@@ -1470,7 +1470,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 13.12,
+        "pe_ratio": 12.96,
         "forward_return": 69.01,
         "start_price": 76.6,
         "start_year": 2023
@@ -1479,7 +1479,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.77,
         "forward_return": 44.32,
         "start_price": 75.4,
         "start_year": 2023
@@ -1488,7 +1488,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 13.75,
         "forward_return": 99.06,
         "start_price": 81.2,
         "start_year": 2023
@@ -1506,7 +1506,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.95,
         "forward_return": 111.55,
         "start_price": 82.7,
         "start_year": 2024
@@ -1515,7 +1515,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.36,
         "forward_return": 136.94,
         "start_price": 85.5,
         "start_year": 2024
@@ -1524,7 +1524,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 17.06,
         "forward_return": 7.52,
         "start_price": 102.0,
         "start_year": 2024
@@ -1533,7 +1533,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 16.16,
+        "pe_ratio": 15.52,
         "forward_return": 31.01,
         "start_price": 97.7,
         "start_year": 2024
@@ -1542,7 +1542,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 17.42,
+        "pe_ratio": 16.04,
         "forward_return": 1.89,
         "start_price": 106.0,
         "start_year": 2024
@@ -1551,7 +1551,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 17.08,
+        "pe_ratio": 15.1,
         "forward_return": 9.84,
         "start_price": 104.5,
         "start_year": 2024
@@ -1560,7 +1560,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 16.32,
+        "pe_ratio": 14.61,
         "forward_return": -5.8,
         "start_price": 100.5,
         "start_year": 2024
@@ -1569,7 +1569,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 14.99,
         "forward_return": -27.88,
         "start_price": 102.5,
         "start_year": 2024
@@ -1578,7 +1578,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.15,
         "forward_return": -36.72,
         "start_price": 103.0,
         "start_year": 2024
@@ -1587,7 +1587,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 15.8,
+        "pe_ratio": 14.89,
         "forward_return": -8.91,
         "start_price": 99.0,
         "start_year": 2024
@@ -1596,7 +1596,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.52,
         "forward_return": -29.93,
         "start_price": 94.3,
         "start_year": 2024
@@ -1614,7 +1614,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 14.93,
         "forward_return": -35.09,
         "start_price": 96.7,
         "start_year": 2025
@@ -1623,7 +1623,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 15.61,
+        "pe_ratio": 14.36,
         "forward_return": -39.6,
         "start_price": 95.0,
         "start_year": 2025
@@ -1632,7 +1632,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 14.08,
+        "pe_ratio": 12.43,
         "forward_return": 2.17,
         "start_price": 83.9,
         "start_year": 2025
@@ -1641,7 +1641,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 13.85,
+        "pe_ratio": 13.3,
         "forward_return": 19.7,
         "start_price": 80.8,
         "start_year": 2025
@@ -1650,7 +1650,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 15.53,
         "forward_return": -36.93,
         "start_price": 83.9,
         "start_year": 2025
@@ -1659,7 +1659,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 16.24,
         "forward_return": -7.52,
         "start_price": 76.8,
         "start_year": 2025
@@ -1668,7 +1668,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 14.67,
+        "pe_ratio": 16.81,
         "forward_return": -25.83,
         "start_price": 80.0,
         "start_year": 2025
@@ -1677,7 +1677,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 14.66,
         "forward_return": -6.67,
         "start_price": 70.2,
         "start_year": 2025
@@ -1686,7 +1686,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 13.62,
+        "pe_ratio": 14.69,
         "forward_return": -11.9,
         "start_price": 70.8,
         "start_year": 2025
@@ -1695,7 +1695,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 14.63,
+        "pe_ratio": 14.81,
         "forward_return": -21.99,
         "start_price": 74.2,
         "start_year": 2025
@@ -1704,7 +1704,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 7.46,
         "forward_return": 111.64,
         "start_price": 30.05,
         "start_year": 2010
@@ -1713,7 +1713,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.55,
+        "pe_ratio": 9.92,
         "forward_return": 17.32,
         "start_price": 37.0,
         "start_year": 2010
@@ -1722,7 +1722,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 11.69,
         "forward_return": -27.21,
         "start_price": 40.1,
         "start_year": 2010
@@ -1731,7 +1731,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 13.05,
         "forward_return": -33.59,
         "start_price": 40.85,
         "start_year": 2010
@@ -1740,7 +1740,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.83,
         "forward_return": -39.88,
         "start_price": 41.45,
         "start_year": 2010
@@ -1749,7 +1749,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 14.58,
         "forward_return": -45.7,
         "start_price": 41.75,
         "start_year": 2010
@@ -1767,7 +1767,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 16.73,
         "forward_return": -25.75,
         "start_price": 40.1,
         "start_year": 2011
@@ -1776,7 +1776,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 15.33,
+        "pe_ratio": 16.96,
         "forward_return": -28.8,
         "start_price": 35.0,
         "start_year": 2011
@@ -1785,7 +1785,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 16.19,
+        "pe_ratio": 19.28,
         "forward_return": 4.65,
         "start_price": 33.35,
         "start_year": 2011
@@ -1794,7 +1794,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.44,
+        "pe_ratio": 21.94,
         "forward_return": 28.55,
         "start_price": 30.2,
         "start_year": 2011
@@ -1803,7 +1803,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 30.15,
         "forward_return": 20.43,
         "start_price": 30.85,
         "start_year": 2011
@@ -1812,7 +1812,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.4,
+        "pe_ratio": 44.4,
         "forward_return": 33.62,
         "start_price": 29.75,
         "start_year": 2011
@@ -1821,7 +1821,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 28.41,
+        "pe_ratio": 65.0,
         "forward_return": 16.49,
         "start_price": 33.15,
         "start_year": 2011
@@ -1830,7 +1830,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.79,
+        "pe_ratio": 80.29,
         "forward_return": 132.84,
         "start_price": 28.1,
         "start_year": 2011
@@ -1839,7 +1839,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 39.72,
+        "pe_ratio": 150.5,
         "forward_return": 159.54,
         "start_price": 28.6,
         "start_year": 2011
@@ -1848,7 +1848,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 66.04,
+        "pe_ratio": 228.8,
         "forward_return": 49.39,
         "start_price": 32.8,
         "start_year": 2011
@@ -1857,7 +1857,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 113.6,
+        "pe_ratio": 321.2,
         "forward_return": 78.56,
         "start_price": 31.05,
         "start_year": 2011
@@ -1875,7 +1875,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 244.1,
         "forward_return": 20.59,
         "start_price": 35.8,
         "start_year": 2012
@@ -1884,7 +1884,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 77.92,
+        "pe_ratio": 164.4,
         "forward_return": -11.85,
         "start_price": 40.0,
         "start_year": 2012
@@ -1893,7 +1893,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 61.74,
+        "pe_ratio": 135.3,
         "forward_return": -31.36,
         "start_price": 46.0,
         "start_year": 2012
@@ -1902,7 +1902,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 43.31,
+        "pe_ratio": 59.02,
         "forward_return": -23.86,
         "start_price": 42.3,
         "start_year": 2012
@@ -1911,7 +1911,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 34.3,
+        "pe_ratio": 37.91,
         "forward_return": -15.52,
         "start_price": 41.45,
         "start_year": 2012
@@ -1920,7 +1920,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.46,
         "forward_return": -6.81,
         "start_price": 38.9,
         "start_year": 2012
@@ -1929,7 +1929,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.72,
         "forward_return": -1.01,
         "start_price": 39.3,
         "start_year": 2012
@@ -1938,7 +1938,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 19.73,
+        "pe_ratio": 20.37,
         "forward_return": 42.93,
         "start_price": 37.55,
         "start_year": 2012
@@ -1947,7 +1947,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.87,
+        "pe_ratio": 18.79,
         "forward_return": 47.16,
         "start_price": 38.15,
         "start_year": 2012
@@ -1956,7 +1956,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.07,
         "forward_return": 94.56,
         "start_price": 36.9,
         "start_year": 2012
@@ -1965,7 +1965,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 14.79,
         "forward_return": 106.6,
         "start_price": 37.9,
         "start_year": 2012
@@ -1983,7 +1983,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 12.43,
         "forward_return": 37.48,
         "start_price": 39.1,
         "start_year": 2013
@@ -1992,7 +1992,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.11,
+        "pe_ratio": 11.55,
         "forward_return": 42.86,
         "start_price": 40.0,
         "start_year": 2013
@@ -2001,7 +2001,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 12.22,
         "forward_return": -13.69,
         "start_price": 46.2,
         "start_year": 2013
@@ -2010,7 +2010,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 14.76,
+        "pe_ratio": 13.05,
         "forward_return": -22.97,
         "start_price": 48.3,
         "start_year": 2013
@@ -2019,7 +2019,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.0,
         "forward_return": -40.95,
         "start_price": 54.3,
         "start_year": 2013
@@ -2028,7 +2028,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 13.98,
         "forward_return": -35.03,
         "start_price": 49.5,
         "start_year": 2013
@@ -2037,7 +2037,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 12.09,
         "forward_return": -18.95,
         "start_price": 44.3,
         "start_year": 2013
@@ -2046,7 +2046,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 12.23,
         "forward_return": -3.51,
         "start_price": 46.3,
         "start_year": 2013
@@ -2055,7 +2055,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.79,
         "forward_return": 15.64,
         "start_price": 42.2,
         "start_year": 2013
@@ -2064,7 +2064,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 10.39,
+        "pe_ratio": 10.24,
         "forward_return": 82.54,
         "start_price": 40.9,
         "start_year": 2013
@@ -2073,7 +2073,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 9.09,
+        "pe_ratio": 9.03,
         "forward_return": 150.44,
         "start_price": 36.8,
         "start_year": 2013
@@ -2091,7 +2091,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 9.47,
         "forward_return": 130.43,
         "start_price": 39.85,
         "start_year": 2014
@@ -2100,7 +2100,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 9.03,
+        "pe_ratio": 9.55,
         "forward_return": 165.19,
         "start_price": 40.7,
         "start_year": 2014
@@ -2109,7 +2109,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 10.52,
         "forward_return": 52.04,
         "start_price": 45.35,
         "start_year": 2014
@@ -2118,7 +2118,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 9.43,
+        "pe_ratio": 10.59,
         "forward_return": 60.39,
         "start_price": 45.75,
         "start_year": 2014
@@ -2127,7 +2127,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 11.54,
+        "pe_ratio": 13.39,
         "forward_return": 57.79,
         "start_price": 58.0,
         "start_year": 2014
@@ -2136,7 +2136,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 10.96,
+        "pe_ratio": 13.13,
         "forward_return": 76.49,
         "start_price": 57.0,
         "start_year": 2014
@@ -2145,7 +2145,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 12.33,
         "forward_return": 117.25,
         "start_price": 57.5,
         "start_year": 2014
@@ -2154,7 +2154,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 11.43,
+        "pe_ratio": 12.71,
         "forward_return": 64.71,
         "start_price": 63.4,
         "start_year": 2014
@@ -2163,7 +2163,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 9.79,
+        "pe_ratio": 10.55,
         "forward_return": 130.47,
         "start_price": 56.0,
         "start_year": 2014
@@ -2172,7 +2172,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.82,
         "forward_return": 139.31,
         "start_price": 55.2,
         "start_year": 2014
@@ -2181,7 +2181,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.11,
         "forward_return": 63.47,
         "start_price": 71.8,
         "start_year": 2014
@@ -2199,7 +2199,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.99,
         "forward_return": 19.48,
         "start_price": 85.0,
         "start_year": 2015
@@ -2208,7 +2208,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.59,
         "forward_return": 4.8,
         "start_price": 86.2,
         "start_year": 2015
@@ -2217,7 +2217,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 11.85,
         "forward_return": -1.73,
         "start_price": 84.7,
         "start_year": 2015
@@ -2226,7 +2226,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 12.62,
+        "pe_ratio": 12.09,
         "forward_return": -15.65,
         "start_price": 91.3,
         "start_year": 2015
@@ -2235,7 +2235,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.51,
         "forward_return": -27.23,
         "start_price": 91.6,
         "start_year": 2015
@@ -2244,7 +2244,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 11.67,
+        "pe_ratio": 10.8,
         "forward_return": -29.05,
         "start_price": 90.3,
         "start_year": 2015
@@ -2253,7 +2253,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.43,
         "forward_return": -25.04,
         "start_price": 88.8,
         "start_year": 2015
@@ -2262,7 +2262,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 9.72,
         "forward_return": -17.81,
         "start_price": 84.2,
         "start_year": 2015
@@ -2271,7 +2271,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 9.1,
         "forward_return": -12.35,
         "start_price": 80.2,
         "start_year": 2015
@@ -2280,7 +2280,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 9.14,
+        "pe_ratio": 8.92,
         "forward_return": -24.19,
         "start_price": 79.8,
         "start_year": 2015
@@ -2289,7 +2289,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 9.59,
+        "pe_ratio": 9.47,
         "forward_return": -37.91,
         "start_price": 86.1,
         "start_year": 2015
@@ -2307,7 +2307,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 8.61,
         "forward_return": 17.79,
         "start_price": 76.8,
         "start_year": 2016
@@ -2316,7 +2316,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 9.17,
         "forward_return": 7.02,
         "start_price": 79.0,
         "start_year": 2016
@@ -2325,7 +2325,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.54,
+        "pe_ratio": 9.04,
         "forward_return": 36.27,
         "start_price": 75.1,
         "start_year": 2016
@@ -2334,7 +2334,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 7.89,
+        "pe_ratio": 8.29,
         "forward_return": 73.56,
         "start_price": 68.3,
         "start_year": 2016
@@ -2343,7 +2343,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 7.98,
+        "pe_ratio": 8.32,
         "forward_return": 38.08,
         "start_price": 67.9,
         "start_year": 2016
@@ -2352,7 +2352,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 8.11,
+        "pe_ratio": 8.38,
         "forward_return": 46.27,
         "start_price": 67.8,
         "start_year": 2016
@@ -2361,7 +2361,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.77,
         "forward_return": -7.95,
         "start_price": 78.3,
         "start_year": 2016
@@ -2370,7 +2370,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 9.5,
+        "pe_ratio": 9.66,
         "forward_return": 31.22,
         "start_price": 76.7,
         "start_year": 2016
@@ -2379,7 +2379,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 10.16,
+        "pe_ratio": 10.25,
         "forward_return": 24.37,
         "start_price": 80.6,
         "start_year": 2016
@@ -2388,7 +2388,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 10.98,
         "forward_return": 16.33,
         "start_price": 85.0,
         "start_year": 2016
@@ -2397,7 +2397,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.96,
         "forward_return": 50.03,
         "start_price": 75.9,
         "start_year": 2016
@@ -2415,7 +2415,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 10.04,
         "forward_return": 91.14,
         "start_price": 75.1,
         "start_year": 2017
@@ -2424,7 +2424,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.22,
+        "pe_ratio": 10.82,
         "forward_return": 53.56,
         "start_price": 80.7,
         "start_year": 2017
@@ -2433,7 +2433,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.07,
         "forward_return": -12.7,
         "start_price": 89.8,
         "start_year": 2017
@@ -2442,7 +2442,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.08,
         "forward_return": -12.96,
         "start_price": 88.9,
         "start_year": 2017
@@ -2451,7 +2451,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.75,
         "forward_return": -27.39,
         "start_price": 92.8,
         "start_year": 2017
@@ -2460,7 +2460,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.48,
+        "pe_ratio": 13.24,
         "forward_return": -34.78,
         "start_price": 95.3,
         "start_year": 2017
@@ -2469,7 +2469,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 15.34,
+        "pe_ratio": 14.15,
         "forward_return": -35.59,
         "start_price": 98.6,
         "start_year": 2017
@@ -2478,7 +2478,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 15.14,
+        "pe_ratio": 14.09,
         "forward_return": -36.48,
         "start_price": 95.0,
         "start_year": 2017
@@ -2487,7 +2487,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 12.23,
         "forward_return": -16.03,
         "start_price": 79.6,
         "start_year": 2017
@@ -2496,7 +2496,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.53,
         "forward_return": -30.22,
         "start_price": 78.0,
         "start_year": 2017
@@ -2505,7 +2505,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.49,
         "forward_return": -14.22,
         "start_price": 68.3,
         "start_year": 2017
@@ -2523,7 +2523,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.56,
         "forward_return": -16.84,
         "start_price": 79.0,
         "start_year": 2018
@@ -2532,7 +2532,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.44,
         "forward_return": -12.43,
         "start_price": 75.0,
         "start_year": 2018
@@ -2541,7 +2541,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 14.72,
         "forward_return": -27.83,
         "start_price": 73.0,
         "start_year": 2018
@@ -2550,7 +2550,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 14.22,
         "forward_return": -24.67,
         "start_price": 69.5,
         "start_year": 2018
@@ -2559,7 +2559,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.48,
+        "pe_ratio": 13.15,
         "forward_return": -20.34,
         "start_price": 63.3,
         "start_year": 2018
@@ -2568,7 +2568,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.65,
+        "pe_ratio": 13.23,
         "forward_return": -21.88,
         "start_price": 62.7,
         "start_year": 2018
@@ -2577,7 +2577,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.08,
+        "pe_ratio": 14.7,
         "forward_return": -41.9,
         "start_price": 68.1,
         "start_year": 2018
@@ -2586,7 +2586,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 14.03,
+        "pe_ratio": 14.62,
         "forward_return": -31.16,
         "start_price": 66.2,
         "start_year": 2018
@@ -2595,7 +2595,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.82,
         "forward_return": -24.09,
         "start_price": 61.1,
         "start_year": 2018
@@ -2604,7 +2604,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 12.9,
         "forward_return": -14.23,
         "start_price": 56.3,
         "start_year": 2018
@@ -2613,7 +2613,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.97,
+        "pe_ratio": 12.14,
         "forward_return": -3.06,
         "start_price": 52.3,
         "start_year": 2018
@@ -2631,7 +2631,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.46,
         "forward_return": 10.39,
         "start_price": 51.8,
         "start_year": 2019
@@ -2640,7 +2640,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.06,
+        "pe_ratio": 12.99,
         "forward_return": 12.14,
         "start_price": 52.8,
         "start_year": 2019
@@ -2649,7 +2649,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 13.43,
         "forward_return": 32.31,
         "start_price": 53.3,
         "start_year": 2019
@@ -2658,7 +2658,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.43,
         "forward_return": 16.0,
         "start_price": 58.3,
         "start_year": 2019
@@ -2667,7 +2667,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 9.26,
+        "pe_ratio": 12.53,
         "forward_return": 76.75,
         "start_price": 51.5,
         "start_year": 2019
@@ -2676,7 +2676,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 9.22,
+        "pe_ratio": 12.85,
         "forward_return": 79.06,
         "start_price": 53.7,
         "start_year": 2019
@@ -2685,7 +2685,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 8.36,
+        "pe_ratio": 11.02,
         "forward_return": 55.61,
         "start_price": 50.9,
         "start_year": 2019
@@ -2694,7 +2694,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 8.25,
+        "pe_ratio": 10.36,
         "forward_return": 19.02,
         "start_price": 52.4,
         "start_year": 2019
@@ -2703,7 +2703,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 8.17,
+        "pe_ratio": 9.82,
         "forward_return": 15.42,
         "start_price": 54.0,
         "start_year": 2019
@@ -2712,7 +2712,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 8.63,
+        "pe_ratio": 9.67,
         "forward_return": 15.5,
         "start_price": 59.3,
         "start_year": 2019
@@ -2721,7 +2721,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 10.05,
         "forward_return": -10.06,
         "start_price": 68.0,
         "start_year": 2019
@@ -2739,7 +2739,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 8.57,
         "forward_return": 8.37,
         "start_price": 63.6,
         "start_year": 2020
@@ -2748,7 +2748,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 8.43,
         "forward_return": 14.16,
         "start_price": 62.7,
         "start_year": 2020
@@ -2757,7 +2757,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 7.75,
+        "pe_ratio": 7.77,
         "forward_return": 24.67,
         "start_price": 58.0,
         "start_year": 2020
@@ -2766,7 +2766,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 8.8,
+        "pe_ratio": 8.34,
         "forward_return": -0.3,
         "start_price": 66.1,
         "start_year": 2020
@@ -2775,7 +2775,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 7.68,
         "forward_return": 20.08,
         "start_price": 64.5,
         "start_year": 2020
@@ -2784,7 +2784,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 8.46,
+        "pe_ratio": 7.22,
         "forward_return": 25.8,
         "start_price": 64.0,
         "start_year": 2020
@@ -2793,7 +2793,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 8.13,
+        "pe_ratio": 6.91,
         "forward_return": 60.88,
         "start_price": 61.7,
         "start_year": 2020
@@ -2802,7 +2802,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 8.2,
+        "pe_ratio": 6.95,
         "forward_return": 34.09,
         "start_price": 62.5,
         "start_year": 2020
@@ -2811,7 +2811,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.34,
+        "pe_ratio": 7.04,
         "forward_return": 35.26,
         "start_price": 63.8,
         "start_year": 2020
@@ -2820,7 +2820,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.14,
         "forward_return": 35.95,
         "start_price": 61.5,
         "start_year": 2020
@@ -2829,7 +2829,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 8.48,
+        "pe_ratio": 7.99,
         "forward_return": 26.96,
         "start_price": 65.3,
         "start_year": 2020
@@ -2847,7 +2847,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.14,
+        "pe_ratio": 9.72,
         "forward_return": -16.29,
         "start_price": 78.4,
         "start_year": 2021
@@ -2856,7 +2856,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.65,
+        "pe_ratio": 8.88,
         "forward_return": -13.78,
         "start_price": 74.6,
         "start_year": 2021
@@ -2865,7 +2865,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.59,
+        "pe_ratio": 8.48,
         "forward_return": -3.68,
         "start_price": 74.1,
         "start_year": 2021
@@ -2874,7 +2874,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 8.63,
         "forward_return": -2.99,
         "start_price": 73.6,
         "start_year": 2021
@@ -2883,7 +2883,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 8.83,
         "forward_return": 0.21,
         "start_price": 73.5,
         "start_year": 2021
@@ -2892,7 +2892,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 8.91,
+        "pe_ratio": 8.48,
         "forward_return": 14.37,
         "start_price": 68.8,
         "start_year": 2021
@@ -2901,7 +2901,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 8.72,
+        "pe_ratio": 8.87,
         "forward_return": 5.99,
         "start_price": 67.3,
         "start_year": 2021
@@ -2910,7 +2910,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 8.4,
+        "pe_ratio": 9.17,
         "forward_return": 21.05,
         "start_price": 64.8,
         "start_year": 2021
@@ -2919,7 +2919,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.68,
+        "pe_ratio": 10.23,
         "forward_return": 16.93,
         "start_price": 67.0,
         "start_year": 2021
@@ -2928,7 +2928,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 8.82,
+        "pe_ratio": 9.8,
         "forward_return": 4.09,
         "start_price": 68.0,
         "start_year": 2021
@@ -2937,7 +2937,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 8.64,
+        "pe_ratio": 9.09,
         "forward_return": 9.3,
         "start_price": 66.6,
         "start_year": 2021
@@ -2955,7 +2955,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 9.48,
         "forward_return": -6.02,
         "start_price": 69.3,
         "start_year": 2022
@@ -2964,7 +2964,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 9.38,
+        "pe_ratio": 9.99,
         "forward_return": -1.44,
         "start_price": 69.1,
         "start_year": 2022
@@ -2973,7 +2973,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 11.1,
         "forward_return": -18.98,
         "start_price": 72.4,
         "start_year": 2022
@@ -2982,7 +2982,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 11.24,
         "forward_return": -17.09,
         "start_price": 70.3,
         "start_year": 2022
@@ -2991,7 +2991,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 11.61,
         "forward_return": -2.68,
         "start_price": 69.6,
         "start_year": 2022
@@ -3000,7 +3000,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.95,
         "forward_return": 44.32,
         "start_price": 57.0,
         "start_year": 2022
@@ -3009,7 +3009,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 9.55,
+        "pe_ratio": 10.26,
         "forward_return": 7.47,
         "start_price": 62.2,
         "start_year": 2022
@@ -3018,7 +3018,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.95,
         "forward_return": 17.09,
         "start_price": 63.6,
         "start_year": 2022
@@ -3027,7 +3027,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 8.71,
         "forward_return": 42.4,
         "start_price": 58.5,
         "start_year": 2022
@@ -3036,7 +3036,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 9.27,
         "forward_return": 52.24,
         "start_price": 59.0,
         "start_year": 2022
@@ -3045,7 +3045,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.31,
         "forward_return": 48.02,
         "start_price": 62.0,
         "start_year": 2022
@@ -3063,7 +3063,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 11.06,
         "forward_return": 56.01,
         "start_price": 64.5,
         "start_year": 2023
@@ -3072,7 +3072,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.33,
         "forward_return": 45.61,
         "start_price": 68.0,
         "start_year": 2023
@@ -3081,7 +3081,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 11.3,
         "forward_return": 24.91,
         "start_price": 69.7,
         "start_year": 2023
@@ -3090,7 +3090,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 12.2,
+        "pe_ratio": 11.35,
         "forward_return": 28.6,
         "start_price": 70.0,
         "start_year": 2023
@@ -3099,7 +3099,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.2,
         "forward_return": 38.94,
         "start_price": 75.3,
         "start_year": 2023
@@ -3108,7 +3108,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 12.94,
+        "pe_ratio": 12.12,
         "forward_return": 48.87,
         "start_price": 74.8,
         "start_year": 2023
@@ -3117,7 +3117,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 12.56,
         "forward_return": 17.03,
         "start_price": 76.4,
         "start_year": 2023
@@ -3126,7 +3126,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 13.01,
         "forward_return": 58.41,
         "start_price": 78.0,
         "start_year": 2023
@@ -3135,7 +3135,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 13.12,
+        "pe_ratio": 12.96,
         "forward_return": 77.66,
         "start_price": 76.6,
         "start_year": 2023
@@ -3144,7 +3144,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.77,
         "forward_return": 79.34,
         "start_price": 75.4,
         "start_year": 2023
@@ -3153,7 +3153,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 13.75,
         "forward_return": 70.72,
         "start_price": 81.2,
         "start_year": 2023
@@ -3171,7 +3171,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.95,
         "forward_return": 59.93,
         "start_price": 82.7,
         "start_year": 2024
@@ -3180,7 +3180,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.36,
         "forward_return": 55.02,
         "start_price": 85.5,
         "start_year": 2024
@@ -3189,7 +3189,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 17.06,
         "forward_return": 1.68,
         "start_price": 102.0,
         "start_year": 2024
@@ -3198,7 +3198,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 16.16,
+        "pe_ratio": 15.52,
         "forward_return": 11.12,
         "start_price": 97.7,
         "start_year": 2024
@@ -3207,7 +3207,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 17.42,
+        "pe_ratio": 16.04,
         "forward_return": -15.71,
         "start_price": 106.0,
         "start_year": 2024
@@ -3216,7 +3216,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 17.08,
+        "pe_ratio": 15.1,
         "forward_return": -15.75,
         "start_price": 104.5,
         "start_year": 2024
@@ -3225,7 +3225,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 16.32,
+        "pe_ratio": 14.61,
         "forward_return": -7.37,
         "start_price": 100.5,
         "start_year": 2024
@@ -3234,7 +3234,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 14.99,
         "forward_return": -29.18,
         "start_price": 102.5,
         "start_year": 2024
@@ -3243,7 +3243,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.15,
         "forward_return": -33.89,
         "start_price": 103.0,
         "start_year": 2024
@@ -3252,7 +3252,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 15.8,
+        "pe_ratio": 14.89,
         "forward_return": -24.81,
         "start_price": 99.0,
         "start_year": 2024
@@ -3261,7 +3261,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.52,
         "forward_return": -21.01,
         "start_price": 94.3,
         "start_year": 2024
@@ -3279,7 +3279,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 14.93,
         "forward_return": -23.82,
         "start_price": 96.7,
         "start_year": 2025
@@ -3288,7 +3288,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 15.61,
+        "pe_ratio": 14.36,
         "forward_return": -38.27,
         "start_price": 95.0,
         "start_year": 2025
@@ -3297,7 +3297,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 14.08,
+        "pe_ratio": 12.43,
         "forward_return": -10.34,
         "start_price": 83.9,
         "start_year": 2025
@@ -3306,7 +3306,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 13.85,
+        "pe_ratio": 13.3,
         "forward_return": -5.11,
         "start_price": 80.8,
         "start_year": 2025
@@ -3315,7 +3315,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 15.53,
         "forward_return": -20.95,
         "start_price": 83.9,
         "start_year": 2025
@@ -3324,7 +3324,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 13.76,
+        "pe_ratio": 16.24,
         "forward_return": -9.38,
         "start_price": 76.8,
         "start_year": 2025
@@ -3333,7 +3333,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 14.67,
+        "pe_ratio": 16.81,
         "forward_return": -23.94,
         "start_price": 80.0,
         "start_year": 2025
@@ -3342,7 +3342,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 7.46,
         "forward_return": 4.83,
         "start_price": 30.05,
         "start_year": 2010
@@ -3351,7 +3351,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.55,
+        "pe_ratio": 9.92,
         "forward_return": -6.49,
         "start_price": 37.0,
         "start_year": 2010
@@ -3360,7 +3360,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 11.69,
         "forward_return": -26.32,
         "start_price": 40.1,
         "start_year": 2010
@@ -3369,7 +3369,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 13.05,
         "forward_return": -26.45,
         "start_price": 40.85,
         "start_year": 2010
@@ -3378,7 +3378,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.83,
         "forward_return": -17.38,
         "start_price": 41.45,
         "start_year": 2010
@@ -3387,7 +3387,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 14.58,
         "forward_return": -22.17,
         "start_price": 41.75,
         "start_year": 2010
@@ -3405,7 +3405,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 16.73,
         "forward_return": -7.11,
         "start_price": 40.1,
         "start_year": 2011
@@ -3414,7 +3414,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 15.33,
+        "pe_ratio": 16.96,
         "forward_return": 18.44,
         "start_price": 35.0,
         "start_year": 2011
@@ -3423,7 +3423,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 16.19,
+        "pe_ratio": 19.28,
         "forward_return": 42.18,
         "start_price": 33.35,
         "start_year": 2011
@@ -3432,7 +3432,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.44,
+        "pe_ratio": 21.94,
         "forward_return": 44.76,
         "start_price": 30.2,
         "start_year": 2011
@@ -3441,7 +3441,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 30.15,
         "forward_return": 38.97,
         "start_price": 30.85,
         "start_year": 2011
@@ -3450,7 +3450,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.4,
+        "pe_ratio": 44.4,
         "forward_return": 35.55,
         "start_price": 29.75,
         "start_year": 2011
@@ -3459,7 +3459,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 28.41,
+        "pe_ratio": 65.0,
         "forward_return": 18.51,
         "start_price": 33.15,
         "start_year": 2011
@@ -3468,7 +3468,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.79,
+        "pe_ratio": 80.29,
         "forward_return": 33.55,
         "start_price": 28.1,
         "start_year": 2011
@@ -3477,7 +3477,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 39.72,
+        "pe_ratio": 150.5,
         "forward_return": 33.31,
         "start_price": 28.6,
         "start_year": 2011
@@ -3486,7 +3486,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 66.04,
+        "pe_ratio": 228.8,
         "forward_return": 12.47,
         "start_price": 32.8,
         "start_year": 2011
@@ -3495,7 +3495,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 113.6,
+        "pe_ratio": 321.2,
         "forward_return": 22.01,
         "start_price": 31.05,
         "start_year": 2011
@@ -3513,7 +3513,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 244.1,
         "forward_return": 9.2,
         "start_price": 35.8,
         "start_year": 2012
@@ -3522,7 +3522,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 77.92,
+        "pe_ratio": 164.4,
         "forward_return": 14.25,
         "start_price": 40.0,
         "start_year": 2012
@@ -3531,7 +3531,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 61.74,
+        "pe_ratio": 135.3,
         "forward_return": 0.44,
         "start_price": 46.0,
         "start_year": 2012
@@ -3540,7 +3540,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 43.31,
+        "pe_ratio": 59.02,
         "forward_return": 14.19,
         "start_price": 42.3,
         "start_year": 2012
@@ -3549,7 +3549,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 34.3,
+        "pe_ratio": 37.91,
         "forward_return": 31.03,
         "start_price": 41.45,
         "start_year": 2012
@@ -3558,7 +3558,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.46,
         "forward_return": 27.27,
         "start_price": 38.9,
         "start_year": 2012
@@ -3567,7 +3567,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.72,
         "forward_return": 16.5,
         "start_price": 39.3,
         "start_year": 2012
@@ -3576,7 +3576,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 19.73,
+        "pe_ratio": 20.37,
         "forward_return": 27.27,
         "start_price": 37.55,
         "start_year": 2012
@@ -3585,7 +3585,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.87,
+        "pe_ratio": 18.79,
         "forward_return": 14.51,
         "start_price": 38.15,
         "start_year": 2012
@@ -3594,7 +3594,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.07,
         "forward_return": 14.86,
         "start_price": 36.9,
         "start_year": 2012
@@ -3603,7 +3603,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 14.79,
         "forward_return": 1.01,
         "start_price": 37.9,
         "start_year": 2012
@@ -3621,7 +3621,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 12.43,
         "forward_return": 5.71,
         "start_price": 39.1,
         "start_year": 2013
@@ -3630,7 +3630,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.11,
+        "pe_ratio": 11.55,
         "forward_return": 5.46,
         "start_price": 40.0,
         "start_year": 2013
@@ -3639,7 +3639,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 12.22,
         "forward_return": 1.37,
         "start_price": 46.2,
         "start_year": 2013
@@ -3648,7 +3648,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 14.76,
+        "pe_ratio": 13.05,
         "forward_return": -2.21,
         "start_price": 48.3,
         "start_year": 2013
@@ -3657,7 +3657,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.0,
         "forward_return": 9.55,
         "start_price": 54.3,
         "start_year": 2013
@@ -3666,7 +3666,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 13.98,
         "forward_return": 18.16,
         "start_price": 49.5,
         "start_year": 2013
@@ -3675,7 +3675,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 12.09,
         "forward_return": 36.07,
         "start_price": 44.3,
         "start_year": 2013
@@ -3684,7 +3684,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 12.23,
         "forward_return": 42.95,
         "start_price": 46.3,
         "start_year": 2013
@@ -3693,7 +3693,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.79,
         "forward_return": 39.29,
         "start_price": 42.2,
         "start_year": 2013
@@ -3702,7 +3702,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 10.39,
+        "pe_ratio": 10.24,
         "forward_return": 41.76,
         "start_price": 40.9,
         "start_year": 2013
@@ -3711,7 +3711,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 9.09,
+        "pe_ratio": 9.03,
         "forward_return": 102.73,
         "start_price": 36.8,
         "start_year": 2013
@@ -3729,7 +3729,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 9.47,
         "forward_return": 120.37,
         "start_price": 39.85,
         "start_year": 2014
@@ -3738,7 +3738,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 9.03,
+        "pe_ratio": 9.55,
         "forward_return": 118.71,
         "start_price": 40.7,
         "start_year": 2014
@@ -3747,7 +3747,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 10.52,
         "forward_return": 92.96,
         "start_price": 45.35,
         "start_year": 2014
@@ -3756,7 +3756,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 9.43,
+        "pe_ratio": 10.59,
         "forward_return": 105.71,
         "start_price": 45.75,
         "start_year": 2014
@@ -3765,7 +3765,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 11.54,
+        "pe_ratio": 13.39,
         "forward_return": 62.76,
         "start_price": 58.0,
         "start_year": 2014
@@ -3774,7 +3774,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 10.96,
+        "pe_ratio": 13.13,
         "forward_return": 63.33,
         "start_price": 57.0,
         "start_year": 2014
@@ -3783,7 +3783,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 12.33,
         "forward_return": 61.51,
         "start_price": 57.5,
         "start_year": 2014
@@ -3792,7 +3792,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 11.43,
+        "pe_ratio": 12.71,
         "forward_return": 39.21,
         "start_price": 63.4,
         "start_year": 2014
@@ -3801,7 +3801,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 9.79,
+        "pe_ratio": 10.55,
         "forward_return": 50.47,
         "start_price": 56.0,
         "start_year": 2014
@@ -3810,7 +3810,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.82,
         "forward_return": 51.92,
         "start_price": 55.2,
         "start_year": 2014
@@ -3819,7 +3819,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.11,
         "forward_return": 25.56,
         "start_price": 71.8,
         "start_year": 2014
@@ -3837,7 +3837,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.99,
         "forward_return": -4.9,
         "start_price": 85.0,
         "start_year": 2015
@@ -3846,7 +3846,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.59,
         "forward_return": -3.67,
         "start_price": 86.2,
         "start_year": 2015
@@ -3855,7 +3855,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 11.85,
         "forward_return": -6.55,
         "start_price": 84.7,
         "start_year": 2015
@@ -3864,7 +3864,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 12.62,
+        "pe_ratio": 12.09,
         "forward_return": -20.73,
         "start_price": 91.3,
         "start_year": 2015
@@ -3873,7 +3873,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.51,
         "forward_return": -21.43,
         "start_price": 91.6,
         "start_year": 2015
@@ -3882,7 +3882,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 11.67,
+        "pe_ratio": 10.8,
         "forward_return": -20.41,
         "start_price": 90.3,
         "start_year": 2015
@@ -3891,7 +3891,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.43,
         "forward_return": -6.15,
         "start_price": 88.8,
         "start_year": 2015
@@ -3900,7 +3900,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 9.72,
         "forward_return": -2.93,
         "start_price": 84.2,
         "start_year": 2015
@@ -3909,7 +3909,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 9.1,
         "forward_return": 6.76,
         "start_price": 80.2,
         "start_year": 2015
@@ -3918,7 +3918,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 9.14,
+        "pe_ratio": 8.92,
         "forward_return": 12.79,
         "start_price": 79.8,
         "start_year": 2015
@@ -3927,7 +3927,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 9.59,
+        "pe_ratio": 9.47,
         "forward_return": -5.99,
         "start_price": 86.1,
         "start_year": 2015
@@ -3945,7 +3945,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 8.61,
         "forward_return": 4.33,
         "start_price": 76.8,
         "start_year": 2016
@@ -3954,7 +3954,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 9.17,
         "forward_return": 18.4,
         "start_price": 79.0,
         "start_year": 2016
@@ -3963,7 +3963,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.54,
+        "pe_ratio": 9.04,
         "forward_return": 26.29,
         "start_price": 75.1,
         "start_year": 2016
@@ -3972,7 +3972,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 7.89,
+        "pe_ratio": 8.29,
         "forward_return": 37.56,
         "start_price": 68.3,
         "start_year": 2016
@@ -3981,7 +3981,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 7.98,
+        "pe_ratio": 8.32,
         "forward_return": 44.12,
         "start_price": 67.9,
         "start_year": 2016
@@ -3990,7 +3990,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 8.11,
+        "pe_ratio": 8.38,
         "forward_return": 48.02,
         "start_price": 67.8,
         "start_year": 2016
@@ -3999,7 +3999,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.77,
         "forward_return": 32.25,
         "start_price": 78.3,
         "start_year": 2016
@@ -4008,7 +4008,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 9.5,
+        "pe_ratio": 9.66,
         "forward_return": 30.31,
         "start_price": 76.7,
         "start_year": 2016
@@ -4017,7 +4017,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 10.16,
+        "pe_ratio": 10.25,
         "forward_return": 4.88,
         "start_price": 80.6,
         "start_year": 2016
@@ -4026,7 +4026,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 10.98,
         "forward_return": -2.44,
         "start_price": 85.0,
         "start_year": 2016
@@ -4035,7 +4035,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.96,
         "forward_return": -3.52,
         "start_price": 75.9,
         "start_year": 2016
@@ -4053,7 +4053,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 10.04,
         "forward_return": 11.76,
         "start_price": 75.1,
         "start_year": 2017
@@ -4062,7 +4062,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.22,
+        "pe_ratio": 10.82,
         "forward_return": -0.96,
         "start_price": 80.7,
         "start_year": 2017
@@ -4071,7 +4071,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.07,
         "forward_return": -13.23,
         "start_price": 89.8,
         "start_year": 2017
@@ -4080,7 +4080,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.08,
         "forward_return": -16.29,
         "start_price": 88.9,
         "start_year": 2017
@@ -4089,7 +4089,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.75,
         "forward_return": -26.49,
         "start_price": 92.8,
         "start_year": 2017
@@ -4098,7 +4098,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.48,
+        "pe_ratio": 13.24,
         "forward_return": -29.05,
         "start_price": 95.3,
         "start_year": 2017
@@ -4107,7 +4107,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 15.34,
+        "pe_ratio": 14.15,
         "forward_return": -26.89,
         "start_price": 98.6,
         "start_year": 2017
@@ -4116,7 +4116,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 15.14,
+        "pe_ratio": 14.09,
         "forward_return": -26.12,
         "start_price": 95.0,
         "start_year": 2017
@@ -4125,7 +4125,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 12.23,
         "forward_return": -18.22,
         "start_price": 79.6,
         "start_year": 2017
@@ -4134,7 +4134,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.53,
         "forward_return": -22.7,
         "start_price": 78.0,
         "start_year": 2017
@@ -4143,7 +4143,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.49,
         "forward_return": -17.58,
         "start_price": 68.3,
         "start_year": 2017
@@ -4161,7 +4161,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.56,
         "forward_return": -29.38,
         "start_price": 79.0,
         "start_year": 2018
@@ -4170,7 +4170,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.44,
         "forward_return": -24.28,
         "start_price": 75.0,
         "start_year": 2018
@@ -4179,7 +4179,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 14.72,
         "forward_return": -21.52,
         "start_price": 73.0,
         "start_year": 2018
@@ -4188,7 +4188,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 14.22,
         "forward_return": -10.36,
         "start_price": 69.5,
         "start_year": 2018
@@ -4197,7 +4197,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.48,
+        "pe_ratio": 13.15,
         "forward_return": -12.33,
         "start_price": 63.3,
         "start_year": 2018
@@ -4206,7 +4206,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.65,
+        "pe_ratio": 13.23,
         "forward_return": -7.98,
         "start_price": 62.7,
         "start_year": 2018
@@ -4215,7 +4215,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.08,
+        "pe_ratio": 14.7,
         "forward_return": -20.13,
         "start_price": 68.1,
         "start_year": 2018
@@ -4224,7 +4224,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 14.03,
+        "pe_ratio": 14.62,
         "forward_return": -15.57,
         "start_price": 66.2,
         "start_year": 2018
@@ -4233,7 +4233,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.82,
         "forward_return": -5.89,
         "start_price": 61.1,
         "start_year": 2018
@@ -4242,7 +4242,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 12.9,
         "forward_return": 11.56,
         "start_price": 56.3,
         "start_year": 2018
@@ -4251,7 +4251,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.97,
+        "pe_ratio": 12.14,
         "forward_return": 36.74,
         "start_price": 52.3,
         "start_year": 2018
@@ -4269,7 +4269,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.46,
         "forward_return": 29.56,
         "start_price": 51.8,
         "start_year": 2019
@@ -4278,7 +4278,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.06,
+        "pe_ratio": 12.99,
         "forward_return": 25.4,
         "start_price": 52.8,
         "start_year": 2019
@@ -4287,7 +4287,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 13.43,
         "forward_return": 15.35,
         "start_price": 53.3,
         "start_year": 2019
@@ -4296,7 +4296,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.43,
         "forward_return": 19.34,
         "start_price": 58.3,
         "start_year": 2019
@@ -4305,7 +4305,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 9.26,
+        "pe_ratio": 12.53,
         "forward_return": 31.97,
         "start_price": 51.5,
         "start_year": 2019
@@ -4314,7 +4314,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 9.22,
+        "pe_ratio": 12.85,
         "forward_return": 25.64,
         "start_price": 53.7,
         "start_year": 2019
@@ -4323,7 +4323,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 8.36,
+        "pe_ratio": 11.02,
         "forward_return": 29.99,
         "start_price": 50.9,
         "start_year": 2019
@@ -4332,7 +4332,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 8.25,
+        "pe_ratio": 10.36,
         "forward_return": 27.8,
         "start_price": 52.4,
         "start_year": 2019
@@ -4341,7 +4341,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 8.17,
+        "pe_ratio": 9.82,
         "forward_return": 26.42,
         "start_price": 54.0,
         "start_year": 2019
@@ -4350,7 +4350,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 8.63,
+        "pe_ratio": 9.67,
         "forward_return": 11.27,
         "start_price": 59.3,
         "start_year": 2019
@@ -4359,7 +4359,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 10.05,
         "forward_return": 2.64,
         "start_price": 68.0,
         "start_year": 2019
@@ -4377,7 +4377,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 8.57,
         "forward_return": 30.28,
         "start_price": 63.6,
         "start_year": 2020
@@ -4386,7 +4386,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 8.43,
         "forward_return": 23.24,
         "start_price": 62.7,
         "start_year": 2020
@@ -4395,7 +4395,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 7.75,
+        "pe_ratio": 7.77,
         "forward_return": 35.55,
         "start_price": 58.0,
         "start_year": 2020
@@ -4404,7 +4404,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 8.8,
+        "pe_ratio": 8.34,
         "forward_return": 18.17,
         "start_price": 66.1,
         "start_year": 2020
@@ -4413,7 +4413,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 7.68,
         "forward_return": 20.95,
         "start_price": 64.5,
         "start_year": 2020
@@ -4422,7 +4422,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 8.46,
+        "pe_ratio": 7.22,
         "forward_return": 14.54,
         "start_price": 64.0,
         "start_year": 2020
@@ -4431,7 +4431,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 8.13,
+        "pe_ratio": 6.91,
         "forward_return": 16.36,
         "start_price": 61.7,
         "start_year": 2020
@@ -4440,7 +4440,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 8.2,
+        "pe_ratio": 6.95,
         "forward_return": 10.87,
         "start_price": 62.5,
         "start_year": 2020
@@ -4449,7 +4449,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.34,
+        "pe_ratio": 7.04,
         "forward_return": 12.06,
         "start_price": 63.8,
         "start_year": 2020
@@ -4458,7 +4458,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.14,
         "forward_return": 17.88,
         "start_price": 61.5,
         "start_year": 2020
@@ -4467,7 +4467,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 8.48,
+        "pe_ratio": 7.99,
         "forward_return": 8.87,
         "start_price": 65.3,
         "start_year": 2020
@@ -4485,7 +4485,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.14,
+        "pe_ratio": 9.72,
         "forward_return": -5.89,
         "start_price": 78.4,
         "start_year": 2021
@@ -4494,7 +4494,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.65,
+        "pe_ratio": 8.88,
         "forward_return": -1.36,
         "start_price": 74.6,
         "start_year": 2021
@@ -4503,7 +4503,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.59,
+        "pe_ratio": 8.48,
         "forward_return": 3.77,
         "start_price": 74.1,
         "start_year": 2021
@@ -4512,7 +4512,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 8.63,
         "forward_return": 1.62,
         "start_price": 73.6,
         "start_year": 2021
@@ -4521,7 +4521,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 8.83,
         "forward_return": 0.8,
         "start_price": 73.5,
         "start_year": 2021
@@ -4530,7 +4530,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 8.91,
+        "pe_ratio": 8.48,
         "forward_return": -10.63,
         "start_price": 68.8,
         "start_year": 2021
@@ -4539,7 +4539,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 8.72,
+        "pe_ratio": 8.87,
         "forward_return": -0.15,
         "start_price": 67.3,
         "start_year": 2021
@@ -4548,7 +4548,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 8.4,
+        "pe_ratio": 9.17,
         "forward_return": 5.87,
         "start_price": 64.8,
         "start_year": 2021
@@ -4557,7 +4557,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.68,
+        "pe_ratio": 10.23,
         "forward_return": -5.23,
         "start_price": 67.0,
         "start_year": 2021
@@ -4566,7 +4566,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 8.82,
+        "pe_ratio": 9.8,
         "forward_return": -5.88,
         "start_price": 68.0,
         "start_year": 2021
@@ -4575,7 +4575,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 8.64,
+        "pe_ratio": 9.09,
         "forward_return": 0.6,
         "start_price": 66.6,
         "start_year": 2021
@@ -4593,7 +4593,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 9.48,
         "forward_return": 0.29,
         "start_price": 69.3,
         "start_year": 2022
@@ -4602,7 +4602,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 9.38,
+        "pe_ratio": 9.99,
         "forward_return": 5.65,
         "start_price": 69.1,
         "start_year": 2022
@@ -4611,7 +4611,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 11.1,
         "forward_return": 3.18,
         "start_price": 72.4,
         "start_year": 2022
@@ -4620,7 +4620,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 11.24,
         "forward_return": 6.69,
         "start_price": 70.3,
         "start_year": 2022
@@ -4629,7 +4629,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 11.61,
         "forward_return": 15.39,
         "start_price": 69.6,
         "start_year": 2022
@@ -4638,7 +4638,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.95,
         "forward_return": 40.03,
         "start_price": 57.0,
         "start_year": 2022
@@ -4647,7 +4647,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 9.55,
+        "pe_ratio": 10.26,
         "forward_return": 29.29,
         "start_price": 62.2,
         "start_year": 2022
@@ -4656,7 +4656,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.95,
         "forward_return": 28.96,
         "start_price": 63.6,
         "start_year": 2022
@@ -4665,7 +4665,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 8.71,
         "forward_return": 37.81,
         "start_price": 58.5,
         "start_year": 2022
@@ -4674,7 +4674,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 9.27,
         "forward_return": 34.61,
         "start_price": 59.0,
         "start_year": 2022
@@ -4683,7 +4683,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.31,
         "forward_return": 37.45,
         "start_price": 62.0,
         "start_year": 2022
@@ -4701,7 +4701,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 11.06,
         "forward_return": 34.45,
         "start_price": 64.5,
         "start_year": 2023
@@ -4710,7 +4710,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.33,
         "forward_return": 31.65,
         "start_price": 68.0,
         "start_year": 2023
@@ -4719,7 +4719,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 11.3,
         "forward_return": 51.95,
         "start_price": 69.7,
         "start_year": 2023
@@ -4728,7 +4728,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 12.2,
+        "pe_ratio": 11.35,
         "forward_return": 45.18,
         "start_price": 70.0,
         "start_year": 2023
@@ -4737,7 +4737,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.2,
         "forward_return": 45.97,
         "start_price": 75.3,
         "start_year": 2023
@@ -4746,7 +4746,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 12.94,
+        "pe_ratio": 12.12,
         "forward_return": 44.95,
         "start_price": 74.8,
         "start_year": 2023
@@ -4755,7 +4755,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 12.56,
         "forward_return": 36.69,
         "start_price": 76.4,
         "start_year": 2023
@@ -4764,7 +4764,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 13.01,
         "forward_return": 36.45,
         "start_price": 78.0,
         "start_year": 2023
@@ -4773,7 +4773,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 13.12,
+        "pe_ratio": 12.96,
         "forward_return": 39.59,
         "start_price": 76.6,
         "start_year": 2023
@@ -4782,7 +4782,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.77,
         "forward_return": 36.52,
         "start_price": 75.4,
         "start_year": 2023
@@ -4791,7 +4791,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 13.75,
         "forward_return": 21.01,
         "start_price": 81.2,
         "start_year": 2023
@@ -4809,7 +4809,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.95,
         "forward_return": 21.72,
         "start_price": 82.7,
         "start_year": 2024
@@ -4818,7 +4818,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.36,
         "forward_return": 2.59,
         "start_price": 85.5,
         "start_year": 2024
@@ -4827,7 +4827,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 16.97,
+        "pe_ratio": 17.06,
         "forward_return": -13.83,
         "start_price": 102.0,
         "start_year": 2024
@@ -4836,7 +4836,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 16.16,
+        "pe_ratio": 15.52,
         "forward_return": -13.21,
         "start_price": 97.7,
         "start_year": 2024
@@ -4845,7 +4845,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 17.42,
+        "pe_ratio": 16.04,
         "forward_return": -17.09,
         "start_price": 106.0,
         "start_year": 2024
@@ -4854,7 +4854,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 17.08,
+        "pe_ratio": 15.1,
         "forward_return": -22.69,
         "start_price": 104.5,
         "start_year": 2024
@@ -4863,7 +4863,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 16.32,
+        "pe_ratio": 14.61,
         "forward_return": -15.93,
         "start_price": 100.5,
         "start_year": 2024
@@ -4872,7 +4872,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 14.99,
         "forward_return": -27.13,
         "start_price": 102.5,
         "start_year": 2024
@@ -4881,7 +4881,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 16.53,
+        "pe_ratio": 15.15,
         "forward_return": -26.91,
         "start_price": 103.0,
         "start_year": 2024
@@ -4890,7 +4890,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 15.8,
+        "pe_ratio": 14.89,
         "forward_return": -20.51,
         "start_price": 99.0,
         "start_year": 2024
@@ -4899,7 +4899,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 14.52,
         "forward_return": -18.78,
         "start_price": 94.3,
         "start_year": 2024
@@ -4917,7 +4917,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 14.93,
         "forward_return": -23.28,
         "start_price": 96.7,
         "start_year": 2025
@@ -4926,7 +4926,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 15.61,
+        "pe_ratio": 14.36,
         "forward_return": -17.9,
         "start_price": 95.0,
         "start_year": 2025
@@ -4935,7 +4935,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 7.46,
         "forward_return": 18.35,
         "start_price": 30.05,
         "start_year": 2010
@@ -4944,7 +4944,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.55,
+        "pe_ratio": 9.92,
         "forward_return": 4.94,
         "start_price": 37.0,
         "start_year": 2010
@@ -4953,7 +4953,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 11.69,
         "forward_return": -1.38,
         "start_price": 40.1,
         "start_year": 2010
@@ -4962,7 +4962,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 13.05,
         "forward_return": -1.54,
         "start_price": 40.85,
         "start_year": 2010
@@ -4971,7 +4971,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.83,
         "forward_return": -3.81,
         "start_price": 41.45,
         "start_year": 2010
@@ -4980,7 +4980,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 14.58,
         "forward_return": -2.91,
         "start_price": 41.75,
         "start_year": 2010
@@ -4998,7 +4998,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 16.73,
         "forward_return": 0.56,
         "start_price": 40.1,
         "start_year": 2011
@@ -5007,7 +5007,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 15.33,
+        "pe_ratio": 16.96,
         "forward_return": 8.82,
         "start_price": 35.0,
         "start_year": 2011
@@ -5016,7 +5016,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 16.19,
+        "pe_ratio": 19.28,
         "forward_return": 19.52,
         "start_price": 33.35,
         "start_year": 2011
@@ -5025,7 +5025,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.44,
+        "pe_ratio": 21.94,
         "forward_return": 28.33,
         "start_price": 30.2,
         "start_year": 2011
@@ -5034,7 +5034,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 30.15,
         "forward_return": 34.4,
         "start_price": 30.85,
         "start_year": 2011
@@ -5043,7 +5043,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.4,
+        "pe_ratio": 44.4,
         "forward_return": 30.84,
         "start_price": 29.75,
         "start_year": 2011
@@ -5052,7 +5052,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 28.41,
+        "pe_ratio": 65.0,
         "forward_return": 17.5,
         "start_price": 33.15,
         "start_year": 2011
@@ -5061,7 +5061,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.79,
+        "pe_ratio": 80.29,
         "forward_return": 30.38,
         "start_price": 28.1,
         "start_year": 2011
@@ -5070,7 +5070,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 39.72,
+        "pe_ratio": 150.5,
         "forward_return": 23.57,
         "start_price": 28.6,
         "start_year": 2011
@@ -5079,7 +5079,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 66.04,
+        "pe_ratio": 228.8,
         "forward_return": 13.66,
         "start_price": 32.8,
         "start_year": 2011
@@ -5088,7 +5088,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 113.6,
+        "pe_ratio": 321.2,
         "forward_return": 11.03,
         "start_price": 31.05,
         "start_year": 2011
@@ -5106,7 +5106,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 244.1,
         "forward_return": 7.44,
         "start_price": 35.8,
         "start_year": 2012
@@ -5115,7 +5115,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 77.92,
+        "pe_ratio": 164.4,
         "forward_return": 7.87,
         "start_price": 40.0,
         "start_year": 2012
@@ -5124,7 +5124,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 61.74,
+        "pe_ratio": 135.3,
         "forward_return": 0.9,
         "start_price": 46.0,
         "start_year": 2012
@@ -5133,7 +5133,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 43.31,
+        "pe_ratio": 59.02,
         "forward_return": 5.67,
         "start_price": 42.3,
         "start_year": 2012
@@ -5142,7 +5142,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 34.3,
+        "pe_ratio": 37.91,
         "forward_return": 19.81,
         "start_price": 41.45,
         "start_year": 2012
@@ -5151,7 +5151,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.46,
         "forward_return": 22.63,
         "start_price": 38.9,
         "start_year": 2012
@@ -5160,7 +5160,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.72,
         "forward_return": 25.37,
         "start_price": 39.3,
         "start_year": 2012
@@ -5169,7 +5169,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 19.73,
+        "pe_ratio": 20.37,
         "forward_return": 34.25,
         "start_price": 37.55,
         "start_year": 2012
@@ -5178,7 +5178,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.87,
+        "pe_ratio": 18.79,
         "forward_return": 25.69,
         "start_price": 38.15,
         "start_year": 2012
@@ -5187,7 +5187,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.07,
         "forward_return": 26.95,
         "start_price": 36.9,
         "start_year": 2012
@@ -5196,7 +5196,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 14.79,
         "forward_return": 41.69,
         "start_price": 37.9,
         "start_year": 2012
@@ -5214,7 +5214,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 12.43,
         "forward_return": 51.12,
         "start_price": 39.1,
         "start_year": 2013
@@ -5223,7 +5223,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.11,
+        "pe_ratio": 11.55,
         "forward_return": 50.42,
         "start_price": 40.0,
         "start_year": 2013
@@ -5232,7 +5232,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 12.22,
         "forward_return": 38.79,
         "start_price": 46.2,
         "start_year": 2013
@@ -5241,7 +5241,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 14.76,
+        "pe_ratio": 13.05,
         "forward_return": 40.68,
         "start_price": 48.3,
         "start_year": 2013
@@ -5250,7 +5250,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.0,
         "forward_return": 32.89,
         "start_price": 54.3,
         "start_year": 2013
@@ -5259,7 +5259,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 13.98,
         "forward_return": 38.24,
         "start_price": 49.5,
         "start_year": 2013
@@ -5268,7 +5268,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 12.09,
         "forward_return": 46.94,
         "start_price": 44.3,
         "start_year": 2013
@@ -5277,7 +5277,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 12.23,
         "forward_return": 40.23,
         "start_price": 46.3,
         "start_year": 2013
@@ -5286,7 +5286,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.79,
         "forward_return": 43.62,
         "start_price": 42.2,
         "start_year": 2013
@@ -5295,7 +5295,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 10.39,
+        "pe_ratio": 10.24,
         "forward_return": 45.55,
         "start_price": 40.9,
         "start_year": 2013
@@ -5304,7 +5304,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 9.09,
+        "pe_ratio": 9.03,
         "forward_return": 58.94,
         "start_price": 36.8,
         "start_year": 2013
@@ -5322,7 +5322,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 9.47,
         "forward_return": 44.88,
         "start_price": 39.85,
         "start_year": 2014
@@ -5331,7 +5331,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 9.03,
+        "pe_ratio": 9.55,
         "forward_return": 45.23,
         "start_price": 40.7,
         "start_year": 2014
@@ -5340,7 +5340,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 10.52,
         "forward_return": 34.36,
         "start_price": 45.35,
         "start_year": 2014
@@ -5349,7 +5349,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 9.43,
+        "pe_ratio": 10.59,
         "forward_return": 28.1,
         "start_price": 45.75,
         "start_year": 2014
@@ -5358,7 +5358,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 11.54,
+        "pe_ratio": 13.39,
         "forward_return": 13.48,
         "start_price": 58.0,
         "start_year": 2014
@@ -5367,7 +5367,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 10.96,
+        "pe_ratio": 13.13,
         "forward_return": 14.39,
         "start_price": 57.0,
         "start_year": 2014
@@ -5376,7 +5376,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 12.33,
         "forward_return": 23.25,
         "start_price": 57.5,
         "start_year": 2014
@@ -5385,7 +5385,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 11.43,
+        "pe_ratio": 12.71,
         "forward_return": 16.3,
         "start_price": 63.4,
         "start_year": 2014
@@ -5394,7 +5394,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 9.79,
+        "pe_ratio": 10.55,
         "forward_return": 26.52,
         "start_price": 56.0,
         "start_year": 2014
@@ -5403,7 +5403,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.82,
         "forward_return": 30.52,
         "start_price": 55.2,
         "start_year": 2014
@@ -5412,7 +5412,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.11,
         "forward_return": 8.78,
         "start_price": 71.8,
         "start_year": 2014
@@ -5430,7 +5430,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.99,
         "forward_return": -0.49,
         "start_price": 85.0,
         "start_year": 2015
@@ -5439,7 +5439,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.59,
         "forward_return": 2.05,
         "start_price": 86.2,
         "start_year": 2015
@@ -5448,7 +5448,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 11.85,
         "forward_return": 8.03,
         "start_price": 84.7,
         "start_year": 2015
@@ -5457,7 +5457,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 12.62,
+        "pe_ratio": 12.09,
         "forward_return": 3.58,
         "start_price": 91.3,
         "start_year": 2015
@@ -5466,7 +5466,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.51,
         "forward_return": 5.45,
         "start_price": 91.6,
         "start_year": 2015
@@ -5475,7 +5475,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 11.67,
+        "pe_ratio": 10.8,
         "forward_return": 7.5,
         "start_price": 90.3,
         "start_year": 2015
@@ -5484,7 +5484,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.43,
         "forward_return": 10.56,
         "start_price": 88.8,
         "start_year": 2015
@@ -5493,7 +5493,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 9.72,
         "forward_return": 11.64,
         "start_price": 84.2,
         "start_year": 2015
@@ -5502,7 +5502,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 9.1,
         "forward_return": 5.67,
         "start_price": 80.2,
         "start_year": 2015
@@ -5511,7 +5511,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 9.14,
+        "pe_ratio": 8.92,
         "forward_return": 4.98,
         "start_price": 79.8,
         "start_year": 2015
@@ -5520,7 +5520,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 9.59,
+        "pe_ratio": 9.47,
         "forward_return": -4.66,
         "start_price": 86.1,
         "start_year": 2015
@@ -5538,7 +5538,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 8.61,
         "forward_return": 7.62,
         "start_price": 76.8,
         "start_year": 2016
@@ -5547,7 +5547,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 9.17,
         "forward_return": 2.38,
         "start_price": 79.0,
         "start_year": 2016
@@ -5556,7 +5556,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.54,
+        "pe_ratio": 9.04,
         "forward_return": 5.11,
         "start_price": 75.1,
         "start_year": 2016
@@ -5565,7 +5565,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 7.89,
+        "pe_ratio": 8.29,
         "forward_return": 7.87,
         "start_price": 68.3,
         "start_year": 2016
@@ -5574,7 +5574,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 7.98,
+        "pe_ratio": 8.32,
         "forward_return": 3.87,
         "start_price": 67.9,
         "start_year": 2016
@@ -5583,7 +5583,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 8.11,
+        "pe_ratio": 8.38,
         "forward_return": 3.52,
         "start_price": 67.8,
         "start_year": 2016
@@ -5592,7 +5592,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.77,
         "forward_return": -0.81,
         "start_price": 78.3,
         "start_year": 2016
@@ -5601,7 +5601,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 9.5,
+        "pe_ratio": 9.66,
         "forward_return": -1.03,
         "start_price": 76.7,
         "start_year": 2016
@@ -5610,7 +5610,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 10.16,
+        "pe_ratio": 10.25,
         "forward_return": -6.79,
         "start_price": 80.6,
         "start_year": 2016
@@ -5619,7 +5619,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 10.98,
         "forward_return": -12.41,
         "start_price": 85.0,
         "start_year": 2016
@@ -5628,7 +5628,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.96,
         "forward_return": -10.19,
         "start_price": 75.9,
         "start_year": 2016
@@ -5646,7 +5646,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 10.04,
         "forward_return": -10.08,
         "start_price": 75.1,
         "start_year": 2017
@@ -5655,7 +5655,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.22,
+        "pe_ratio": 10.82,
         "forward_return": -12.55,
         "start_price": 80.7,
         "start_year": 2017
@@ -5664,7 +5664,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.07,
         "forward_return": -16.76,
         "start_price": 89.8,
         "start_year": 2017
@@ -5673,7 +5673,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.08,
         "forward_return": -13.05,
         "start_price": 88.9,
         "start_year": 2017
@@ -5682,7 +5682,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.75,
         "forward_return": -19.32,
         "start_price": 92.8,
         "start_year": 2017
@@ -5691,7 +5691,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.48,
+        "pe_ratio": 13.24,
         "forward_return": -18.94,
         "start_price": 95.3,
         "start_year": 2017
@@ -5700,7 +5700,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 15.34,
+        "pe_ratio": 14.15,
         "forward_return": -23.05,
         "start_price": 98.6,
         "start_year": 2017
@@ -5709,7 +5709,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 15.14,
+        "pe_ratio": 14.09,
         "forward_return": -20.6,
         "start_price": 95.0,
         "start_year": 2017
@@ -5718,7 +5718,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 12.23,
         "forward_return": -12.11,
         "start_price": 79.6,
         "start_year": 2017
@@ -5727,7 +5727,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.53,
         "forward_return": -7.46,
         "start_price": 78.0,
         "start_year": 2017
@@ -5736,7 +5736,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.49,
         "forward_return": 5.14,
         "start_price": 68.3,
         "start_year": 2017
@@ -5754,7 +5754,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.56,
         "forward_return": -5.13,
         "start_price": 79.0,
         "start_year": 2018
@@ -5763,7 +5763,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.44,
         "forward_return": -3.25,
         "start_price": 75.0,
         "start_year": 2018
@@ -5772,7 +5772,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 14.72,
         "forward_return": -5.27,
         "start_price": 73.0,
         "start_year": 2018
@@ -5781,7 +5781,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 14.22,
         "forward_return": 2.91,
         "start_price": 69.5,
         "start_year": 2018
@@ -5790,7 +5790,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.48,
+        "pe_ratio": 13.15,
         "forward_return": 6.65,
         "start_price": 63.3,
         "start_year": 2018
@@ -5799,7 +5799,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.65,
+        "pe_ratio": 13.23,
         "forward_return": 6.78,
         "start_price": 62.7,
         "start_year": 2018
@@ -5808,7 +5808,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.08,
+        "pe_ratio": 14.7,
         "forward_return": 1.17,
         "start_price": 68.1,
         "start_year": 2018
@@ -5817,7 +5817,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 14.03,
+        "pe_ratio": 14.62,
         "forward_return": 3.2,
         "start_price": 66.2,
         "start_year": 2018
@@ -5826,7 +5826,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.82,
         "forward_return": 8.4,
         "start_price": 61.1,
         "start_year": 2018
@@ -5835,7 +5835,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 12.9,
         "forward_return": 11.1,
         "start_price": 56.3,
         "start_year": 2018
@@ -5844,7 +5844,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.97,
+        "pe_ratio": 12.14,
         "forward_return": 18.37,
         "start_price": 52.3,
         "start_year": 2018
@@ -5862,7 +5862,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.46,
         "forward_return": 29.13,
         "start_price": 51.8,
         "start_year": 2019
@@ -5871,7 +5871,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.06,
+        "pe_ratio": 12.99,
         "forward_return": 25.06,
         "start_price": 52.8,
         "start_year": 2019
@@ -5880,7 +5880,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 13.43,
         "forward_return": 24.09,
         "start_price": 53.3,
         "start_year": 2019
@@ -5889,7 +5889,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.43,
         "forward_return": 18.29,
         "start_price": 58.3,
         "start_year": 2019
@@ -5898,7 +5898,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 9.26,
+        "pe_ratio": 12.53,
         "forward_return": 25.78,
         "start_price": 51.5,
         "start_year": 2019
@@ -5907,7 +5907,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 9.22,
+        "pe_ratio": 12.85,
         "forward_return": 19.58,
         "start_price": 53.7,
         "start_year": 2019
@@ -5916,7 +5916,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 8.36,
+        "pe_ratio": 11.02,
         "forward_return": 22.41,
         "start_price": 50.9,
         "start_year": 2019
@@ -5925,7 +5925,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 8.25,
+        "pe_ratio": 10.36,
         "forward_return": 18.65,
         "start_price": 52.4,
         "start_year": 2019
@@ -5934,7 +5934,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 8.17,
+        "pe_ratio": 9.82,
         "forward_return": 18.61,
         "start_price": 54.0,
         "start_year": 2019
@@ -5943,7 +5943,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 8.63,
+        "pe_ratio": 9.67,
         "forward_return": 13.93,
         "start_price": 59.3,
         "start_year": 2019
@@ -5952,7 +5952,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 10.05,
         "forward_return": 5.43,
         "start_price": 68.0,
         "start_year": 2019
@@ -5970,7 +5970,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 8.57,
         "forward_return": 10.94,
         "start_price": 63.6,
         "start_year": 2020
@@ -5979,7 +5979,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 8.43,
         "forward_return": 13.36,
         "start_price": 62.7,
         "start_year": 2020
@@ -5988,7 +5988,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 7.75,
+        "pe_ratio": 7.77,
         "forward_return": 18.47,
         "start_price": 58.0,
         "start_year": 2020
@@ -5997,7 +5997,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 8.8,
+        "pe_ratio": 8.34,
         "forward_return": 9.53,
         "start_price": 66.1,
         "start_year": 2020
@@ -6006,7 +6006,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 7.68,
         "forward_return": 10.39,
         "start_price": 64.5,
         "start_year": 2020
@@ -6015,7 +6015,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 8.46,
+        "pe_ratio": 7.22,
         "forward_return": 1.54,
         "start_price": 64.0,
         "start_year": 2020
@@ -6024,7 +6024,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 8.13,
+        "pe_ratio": 6.91,
         "forward_return": 7.8,
         "start_price": 61.7,
         "start_year": 2020
@@ -6033,7 +6033,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 8.2,
+        "pe_ratio": 6.95,
         "forward_return": 8.15,
         "start_price": 62.5,
         "start_year": 2020
@@ -6042,7 +6042,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.34,
+        "pe_ratio": 7.04,
         "forward_return": 3.23,
         "start_price": 63.8,
         "start_year": 2020
@@ -6051,7 +6051,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.14,
         "forward_return": 5.53,
         "start_price": 61.5,
         "start_year": 2020
@@ -6060,7 +6060,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 8.48,
+        "pe_ratio": 7.99,
         "forward_return": 4.64,
         "start_price": 65.3,
         "start_year": 2020
@@ -6078,7 +6078,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.14,
+        "pe_ratio": 9.72,
         "forward_return": -2.86,
         "start_price": 78.4,
         "start_year": 2021
@@ -6087,7 +6087,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.65,
+        "pe_ratio": 8.88,
         "forward_return": 1.92,
         "start_price": 74.6,
         "start_year": 2021
@@ -6096,7 +6096,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.59,
+        "pe_ratio": 8.48,
         "forward_return": 3.38,
         "start_price": 74.1,
         "start_year": 2021
@@ -6105,7 +6105,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 8.63,
         "forward_return": 3.93,
         "start_price": 73.6,
         "start_year": 2021
@@ -6114,7 +6114,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 8.83,
         "forward_return": 7.41,
         "start_price": 73.5,
         "start_year": 2021
@@ -6123,7 +6123,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 8.91,
+        "pe_ratio": 8.48,
         "forward_return": 10.69,
         "start_price": 68.8,
         "start_year": 2021
@@ -6132,7 +6132,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 8.72,
+        "pe_ratio": 8.87,
         "forward_return": 12.66,
         "start_price": 67.3,
         "start_year": 2021
@@ -6141,7 +6141,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 8.4,
+        "pe_ratio": 9.17,
         "forward_return": 15.88,
         "start_price": 64.8,
         "start_year": 2021
@@ -6150,7 +6150,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.68,
+        "pe_ratio": 10.23,
         "forward_return": 13.04,
         "start_price": 67.0,
         "start_year": 2021
@@ -6159,7 +6159,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 8.82,
+        "pe_ratio": 9.8,
         "forward_return": 11.42,
         "start_price": 68.0,
         "start_year": 2021
@@ -6168,7 +6168,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 8.64,
+        "pe_ratio": 9.09,
         "forward_return": 16.39,
         "start_price": 66.6,
         "start_year": 2021
@@ -6186,7 +6186,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 9.48,
         "forward_return": 15.05,
         "start_price": 69.3,
         "start_year": 2022
@@ -6195,7 +6195,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 9.38,
+        "pe_ratio": 9.99,
         "forward_return": 16.96,
         "start_price": 69.1,
         "start_year": 2022
@@ -6204,7 +6204,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 11.1,
         "forward_return": 23.8,
         "start_price": 72.4,
         "start_year": 2022
@@ -6213,7 +6213,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 11.24,
         "forward_return": 23.18,
         "start_price": 70.3,
         "start_year": 2022
@@ -6222,7 +6222,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 11.61,
         "forward_return": 28.52,
         "start_price": 69.6,
         "start_year": 2022
@@ -6231,7 +6231,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.95,
         "forward_return": 41.08,
         "start_price": 57.0,
         "start_year": 2022
@@ -6240,7 +6240,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 9.55,
+        "pe_ratio": 10.26,
         "forward_return": 32.05,
         "start_price": 62.2,
         "start_year": 2022
@@ -6249,7 +6249,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.95,
         "forward_return": 31.79,
         "start_price": 63.6,
         "start_year": 2022
@@ -6258,7 +6258,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 8.71,
         "forward_return": 37.72,
         "start_price": 58.5,
         "start_year": 2022
@@ -6267,7 +6267,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 9.27,
         "forward_return": 34.64,
         "start_price": 59.0,
         "start_year": 2022
@@ -6276,7 +6276,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.31,
         "forward_return": 28.43,
         "start_price": 62.0,
         "start_year": 2022
@@ -6294,7 +6294,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 11.06,
         "forward_return": 27.39,
         "start_price": 64.5,
         "start_year": 2023
@@ -6303,7 +6303,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.33,
         "forward_return": 23.06,
         "start_price": 68.0,
         "start_year": 2023
@@ -6312,7 +6312,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 11.3,
         "forward_return": 14.82,
         "start_price": 69.7,
         "start_year": 2023
@@ -6321,7 +6321,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 12.2,
+        "pe_ratio": 11.35,
         "forward_return": 12.62,
         "start_price": 70.0,
         "start_year": 2023
@@ -6330,7 +6330,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.2,
         "forward_return": 10.47,
         "start_price": 75.3,
         "start_year": 2023
@@ -6339,7 +6339,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 12.94,
+        "pe_ratio": 12.12,
         "forward_return": 6.47,
         "start_price": 74.8,
         "start_year": 2023
@@ -6348,7 +6348,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 13.17,
+        "pe_ratio": 12.56,
         "forward_return": 7.62,
         "start_price": 76.4,
         "start_year": 2023
@@ -6357,7 +6357,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 13.4,
+        "pe_ratio": 13.01,
         "forward_return": 0.45,
         "start_price": 78.0,
         "start_year": 2023
@@ -6366,7 +6366,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 13.12,
+        "pe_ratio": 12.96,
         "forward_return": 1.75,
         "start_price": 76.6,
         "start_year": 2023
@@ -6375,7 +6375,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.77,
         "forward_return": 4.73,
         "start_price": 75.4,
         "start_year": 2023
@@ -6384,7 +6384,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 13.81,
+        "pe_ratio": 13.75,
         "forward_return": -0.37,
         "start_price": 81.2,
         "start_year": 2023
@@ -6402,7 +6402,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 13.93,
+        "pe_ratio": 13.95,
         "forward_return": -2.75,
         "start_price": 82.7,
         "start_year": 2024
@@ -6411,7 +6411,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 7.46,
         "forward_return": 20.59,
         "start_price": 30.05,
         "start_year": 2010
@@ -6420,7 +6420,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.55,
+        "pe_ratio": 9.92,
         "forward_return": 8.48,
         "start_price": 37.0,
         "start_year": 2010
@@ -6429,7 +6429,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 11.69,
         "forward_return": 7.08,
         "start_price": 40.1,
         "start_year": 2010
@@ -6438,7 +6438,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 13.05,
         "forward_return": 3.38,
         "start_price": 40.85,
         "start_year": 2010
@@ -6447,7 +6447,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.83,
         "forward_return": 1.88,
         "start_price": 41.45,
         "start_year": 2010
@@ -6456,7 +6456,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 14.58,
         "forward_return": -1.64,
         "start_price": 41.75,
         "start_year": 2010
@@ -6474,7 +6474,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 16.73,
         "forward_return": 2.18,
         "start_price": 40.1,
         "start_year": 2011
@@ -6483,7 +6483,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 15.33,
+        "pe_ratio": 16.96,
         "forward_return": 7.62,
         "start_price": 35.0,
         "start_year": 2011
@@ -6492,7 +6492,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 16.19,
+        "pe_ratio": 19.28,
         "forward_return": 13.12,
         "start_price": 33.35,
         "start_year": 2011
@@ -6501,7 +6501,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.44,
+        "pe_ratio": 21.94,
         "forward_return": 17.25,
         "start_price": 30.2,
         "start_year": 2011
@@ -6510,7 +6510,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 30.15,
         "forward_return": 25.46,
         "start_price": 30.85,
         "start_year": 2011
@@ -6519,7 +6519,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.4,
+        "pe_ratio": 44.4,
         "forward_return": 26.29,
         "start_price": 29.75,
         "start_year": 2011
@@ -6528,7 +6528,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 28.41,
+        "pe_ratio": 65.0,
         "forward_return": 23.03,
         "start_price": 33.15,
         "start_year": 2011
@@ -6537,7 +6537,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.79,
+        "pe_ratio": 80.29,
         "forward_return": 34.02,
         "start_price": 28.1,
         "start_year": 2011
@@ -6546,7 +6546,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 39.72,
+        "pe_ratio": 150.5,
         "forward_return": 28.18,
         "start_price": 28.6,
         "start_year": 2011
@@ -6555,7 +6555,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 66.04,
+        "pe_ratio": 228.8,
         "forward_return": 21.92,
         "start_price": 32.8,
         "start_year": 2011
@@ -6564,7 +6564,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 113.6,
+        "pe_ratio": 321.2,
         "forward_return": 34.79,
         "start_price": 31.05,
         "start_year": 2011
@@ -6582,7 +6582,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 244.1,
         "forward_return": 35.58,
         "start_price": 35.8,
         "start_year": 2012
@@ -6591,7 +6591,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 77.92,
+        "pe_ratio": 164.4,
         "forward_return": 29.62,
         "start_price": 40.0,
         "start_year": 2012
@@ -6600,7 +6600,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 61.74,
+        "pe_ratio": 135.3,
         "forward_return": 24.6,
         "start_price": 46.0,
         "start_year": 2012
@@ -6609,7 +6609,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 43.31,
+        "pe_ratio": 59.02,
         "forward_return": 31.23,
         "start_price": 42.3,
         "start_year": 2012
@@ -6618,7 +6618,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 34.3,
+        "pe_ratio": 37.91,
         "forward_return": 32.26,
         "start_price": 41.45,
         "start_year": 2012
@@ -6627,7 +6627,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.46,
         "forward_return": 34.48,
         "start_price": 38.9,
         "start_year": 2012
@@ -6636,7 +6636,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.72,
         "forward_return": 35.21,
         "start_price": 39.3,
         "start_year": 2012
@@ -6645,7 +6645,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 19.73,
+        "pe_ratio": 20.37,
         "forward_return": 35.08,
         "start_price": 37.55,
         "start_year": 2012
@@ -6654,7 +6654,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.87,
+        "pe_ratio": 18.79,
         "forward_return": 32.4,
         "start_price": 38.15,
         "start_year": 2012
@@ -6663,7 +6663,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.07,
         "forward_return": 33.67,
         "start_price": 36.9,
         "start_year": 2012
@@ -6672,7 +6672,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 14.79,
         "forward_return": 35.58,
         "start_price": 37.9,
         "start_year": 2012
@@ -6690,7 +6690,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 12.43,
         "forward_return": 29.61,
         "start_price": 39.1,
         "start_year": 2013
@@ -6699,7 +6699,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.11,
+        "pe_ratio": 11.55,
         "forward_return": 29.73,
         "start_price": 40.0,
         "start_year": 2013
@@ -6708,7 +6708,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 12.22,
         "forward_return": 21.75,
         "start_price": 46.2,
         "start_year": 2013
@@ -6717,7 +6717,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 14.76,
+        "pe_ratio": 13.05,
         "forward_return": 16.61,
         "start_price": 48.3,
         "start_year": 2013
@@ -6726,7 +6726,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.0,
         "forward_return": 11.95,
         "start_price": 54.3,
         "start_year": 2013
@@ -6735,7 +6735,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 13.98,
         "forward_return": 15.4,
         "start_price": 49.5,
         "start_year": 2013
@@ -6744,7 +6744,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 12.09,
         "forward_return": 26.71,
         "start_price": 44.3,
         "start_year": 2013
@@ -6753,7 +6753,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 12.23,
         "forward_return": 24.11,
         "start_price": 46.3,
         "start_year": 2013
@@ -6762,7 +6762,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.79,
         "forward_return": 29.86,
         "start_price": 42.2,
         "start_year": 2013
@@ -6771,7 +6771,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 10.39,
+        "pe_ratio": 10.24,
         "forward_return": 33.27,
         "start_price": 40.9,
         "start_year": 2013
@@ -6780,7 +6780,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 9.09,
+        "pe_ratio": 9.03,
         "forward_return": 33.58,
         "start_price": 36.8,
         "start_year": 2013
@@ -6798,7 +6798,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 9.47,
         "forward_return": 29.69,
         "start_price": 39.85,
         "start_year": 2014
@@ -6807,7 +6807,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 9.03,
+        "pe_ratio": 9.55,
         "forward_return": 31.49,
         "start_price": 40.7,
         "start_year": 2014
@@ -6816,7 +6816,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 10.52,
         "forward_return": 30.86,
         "start_price": 45.35,
         "start_year": 2014
@@ -6825,7 +6825,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 9.43,
+        "pe_ratio": 10.59,
         "forward_return": 30.09,
         "start_price": 45.75,
         "start_year": 2014
@@ -6834,7 +6834,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 11.54,
+        "pe_ratio": 13.39,
         "forward_return": 21.73,
         "start_price": 58.0,
         "start_year": 2014
@@ -6843,7 +6843,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 10.96,
+        "pe_ratio": 13.13,
         "forward_return": 23.4,
         "start_price": 57.0,
         "start_year": 2014
@@ -6852,7 +6852,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 12.33,
         "forward_return": 25.1,
         "start_price": 57.5,
         "start_year": 2014
@@ -6861,7 +6861,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 11.43,
+        "pe_ratio": 12.71,
         "forward_return": 19.79,
         "start_price": 63.4,
         "start_year": 2014
@@ -6870,7 +6870,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 9.79,
+        "pe_ratio": 10.55,
         "forward_return": 18.67,
         "start_price": 56.0,
         "start_year": 2014
@@ -6879,7 +6879,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.82,
         "forward_return": 18.56,
         "start_price": 55.2,
         "start_year": 2014
@@ -6888,7 +6888,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.11,
         "forward_return": 4.65,
         "start_price": 71.8,
         "start_year": 2014
@@ -6906,7 +6906,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.99,
         "forward_return": 3.04,
         "start_price": 85.0,
         "start_year": 2015
@@ -6915,7 +6915,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.59,
         "forward_return": 1.07,
         "start_price": 86.2,
         "start_year": 2015
@@ -6924,7 +6924,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 11.85,
         "forward_return": 0.9,
         "start_price": 84.7,
         "start_year": 2015
@@ -6933,7 +6933,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 12.62,
+        "pe_ratio": 12.09,
         "forward_return": -2.93,
         "start_price": 91.3,
         "start_year": 2015
@@ -6942,7 +6942,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.51,
         "forward_return": -5.5,
         "start_price": 91.6,
         "start_year": 2015
@@ -6951,7 +6951,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 11.67,
+        "pe_ratio": 10.8,
         "forward_return": -5.3,
         "start_price": 90.3,
         "start_year": 2015
@@ -6960,7 +6960,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.43,
         "forward_return": -2.6,
         "start_price": 88.8,
         "start_year": 2015
@@ -6969,7 +6969,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 9.72,
         "forward_return": -1.62,
         "start_price": 84.2,
         "start_year": 2015
@@ -6978,7 +6978,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 9.1,
         "forward_return": -2.18,
         "start_price": 80.2,
         "start_year": 2015
@@ -6987,7 +6987,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 9.14,
+        "pe_ratio": 8.92,
         "forward_return": -4.15,
         "start_price": 79.8,
         "start_year": 2015
@@ -6996,7 +6996,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 9.59,
+        "pe_ratio": 9.47,
         "forward_return": -8.36,
         "start_price": 86.1,
         "start_year": 2015
@@ -7014,7 +7014,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 8.61,
         "forward_return": -5.04,
         "start_price": 76.8,
         "start_year": 2016
@@ -7023,7 +7023,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 9.17,
         "forward_return": -5.09,
         "start_price": 79.0,
         "start_year": 2016
@@ -7032,7 +7032,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.54,
+        "pe_ratio": 9.04,
         "forward_return": -3.61,
         "start_price": 75.1,
         "start_year": 2016
@@ -7041,7 +7041,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 7.89,
+        "pe_ratio": 8.29,
         "forward_return": 1.9,
         "start_price": 68.3,
         "start_year": 2016
@@ -7050,7 +7050,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 7.98,
+        "pe_ratio": 8.32,
         "forward_return": -1.21,
         "start_price": 67.9,
         "start_year": 2016
@@ -7059,7 +7059,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 8.11,
+        "pe_ratio": 8.38,
         "forward_return": -0.07,
         "start_price": 67.8,
         "start_year": 2016
@@ -7068,7 +7068,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.77,
         "forward_return": -6.83,
         "start_price": 78.3,
         "start_year": 2016
@@ -7077,7 +7077,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 9.5,
+        "pe_ratio": 9.66,
         "forward_return": -5.45,
         "start_price": 76.7,
         "start_year": 2016
@@ -7086,7 +7086,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 10.16,
+        "pe_ratio": 10.25,
         "forward_return": -6.24,
         "start_price": 80.6,
         "start_year": 2016
@@ -7095,7 +7095,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 10.98,
         "forward_return": -5.5,
         "start_price": 85.0,
         "start_year": 2016
@@ -7104,7 +7104,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.96,
         "forward_return": 1.95,
         "start_price": 75.9,
         "start_year": 2016
@@ -7122,7 +7122,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 10.04,
         "forward_return": 0.41,
         "start_price": 75.1,
         "start_year": 2017
@@ -7131,7 +7131,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.22,
+        "pe_ratio": 10.82,
         "forward_return": -2.36,
         "start_price": 80.7,
         "start_year": 2017
@@ -7140,7 +7140,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.07,
         "forward_return": -7.78,
         "start_price": 89.8,
         "start_year": 2017
@@ -7149,7 +7149,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.08,
         "forward_return": -4.05,
         "start_price": 88.9,
         "start_year": 2017
@@ -7158,7 +7158,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.75,
         "forward_return": -6.06,
         "start_price": 92.8,
         "start_year": 2017
@@ -7167,7 +7167,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.48,
+        "pe_ratio": 13.24,
         "forward_return": -7.09,
         "start_price": 95.3,
         "start_year": 2017
@@ -7176,7 +7176,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 15.34,
+        "pe_ratio": 14.15,
         "forward_return": -9.24,
         "start_price": 98.6,
         "start_year": 2017
@@ -7185,7 +7185,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 15.14,
+        "pe_ratio": 14.09,
         "forward_return": -7.78,
         "start_price": 95.0,
         "start_year": 2017
@@ -7194,7 +7194,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 12.23,
         "forward_return": -1.62,
         "start_price": 79.6,
         "start_year": 2017
@@ -7203,7 +7203,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.53,
         "forward_return": -1.96,
         "start_price": 78.0,
         "start_year": 2017
@@ -7212,7 +7212,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.49,
         "forward_return": 4.21,
         "start_price": 68.3,
         "start_year": 2017
@@ -7230,7 +7230,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.56,
         "forward_return": 4.6,
         "start_price": 79.0,
         "start_year": 2018
@@ -7239,7 +7239,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.44,
         "forward_return": 4.91,
         "start_price": 75.0,
         "start_year": 2018
@@ -7248,7 +7248,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 14.72,
         "forward_return": 5.66,
         "start_price": 73.0,
         "start_year": 2018
@@ -7257,7 +7257,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 14.22,
         "forward_return": 7.19,
         "start_price": 69.5,
         "start_year": 2018
@@ -7266,7 +7266,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.48,
+        "pe_ratio": 13.15,
         "forward_return": 10.54,
         "start_price": 63.3,
         "start_year": 2018
@@ -7275,7 +7275,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.65,
+        "pe_ratio": 13.23,
         "forward_return": 8.82,
         "start_price": 62.7,
         "start_year": 2018
@@ -7284,7 +7284,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.08,
+        "pe_ratio": 14.7,
         "forward_return": 5.42,
         "start_price": 68.1,
         "start_year": 2018
@@ -7293,7 +7293,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 14.03,
+        "pe_ratio": 14.62,
         "forward_return": 5.3,
         "start_price": 66.2,
         "start_year": 2018
@@ -7302,7 +7302,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.82,
         "forward_return": 9.16,
         "start_price": 61.1,
         "start_year": 2018
@@ -7311,7 +7311,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 12.9,
         "forward_return": 12.65,
         "start_price": 56.3,
         "start_year": 2018
@@ -7320,7 +7320,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.97,
+        "pe_ratio": 12.14,
         "forward_return": 14.78,
         "start_price": 52.3,
         "start_year": 2018
@@ -7338,7 +7338,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.46,
         "forward_return": 16.44,
         "start_price": 51.8,
         "start_year": 2019
@@ -7347,7 +7347,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.06,
+        "pe_ratio": 12.99,
         "forward_return": 15.61,
         "start_price": 52.8,
         "start_year": 2019
@@ -7356,7 +7356,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 13.43,
         "forward_return": 16.78,
         "start_price": 53.3,
         "start_year": 2019
@@ -7365,7 +7365,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.43,
         "forward_return": 12.4,
         "start_price": 58.3,
         "start_year": 2019
@@ -7374,7 +7374,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 9.26,
+        "pe_ratio": 12.53,
         "forward_return": 16.81,
         "start_price": 51.5,
         "start_year": 2019
@@ -7383,7 +7383,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 9.22,
+        "pe_ratio": 12.85,
         "forward_return": 8.97,
         "start_price": 53.7,
         "start_year": 2019
@@ -7392,7 +7392,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 8.36,
+        "pe_ratio": 11.02,
         "forward_return": 14.39,
         "start_price": 50.9,
         "start_year": 2019
@@ -7401,7 +7401,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 8.25,
+        "pe_ratio": 10.36,
         "forward_return": 13.98,
         "start_price": 52.4,
         "start_year": 2019
@@ -7410,7 +7410,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 8.17,
+        "pe_ratio": 9.82,
         "forward_return": 10.31,
         "start_price": 54.0,
         "start_year": 2019
@@ -7419,7 +7419,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 8.63,
+        "pe_ratio": 9.67,
         "forward_return": 7.17,
         "start_price": 59.3,
         "start_year": 2019
@@ -7428,7 +7428,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 10.05,
         "forward_return": 3.77,
         "start_price": 68.0,
         "start_year": 2019
@@ -7446,7 +7446,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 8.57,
         "forward_return": 7.26,
         "start_price": 63.6,
         "start_year": 2020
@@ -7455,7 +7455,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 8.43,
         "forward_return": 9.83,
         "start_price": 62.7,
         "start_year": 2020
@@ -7464,7 +7464,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 7.75,
+        "pe_ratio": 7.77,
         "forward_return": 13.01,
         "start_price": 58.0,
         "start_year": 2020
@@ -7473,7 +7473,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 8.8,
+        "pe_ratio": 8.34,
         "forward_return": 8.32,
         "start_price": 66.1,
         "start_year": 2020
@@ -7482,7 +7482,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 7.68,
         "forward_return": 11.46,
         "start_price": 64.5,
         "start_year": 2020
@@ -7491,7 +7491,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 8.46,
+        "pe_ratio": 7.22,
         "forward_return": 11.54,
         "start_price": 64.0,
         "start_year": 2020
@@ -7500,7 +7500,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 8.13,
+        "pe_ratio": 6.91,
         "forward_return": 13.38,
         "start_price": 61.7,
         "start_year": 2020
@@ -7509,7 +7509,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 8.2,
+        "pe_ratio": 6.95,
         "forward_return": 13.56,
         "start_price": 62.5,
         "start_year": 2020
@@ -7518,7 +7518,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.34,
+        "pe_ratio": 7.04,
         "forward_return": 12.2,
         "start_price": 63.8,
         "start_year": 2020
@@ -7527,7 +7527,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.14,
         "forward_return": 13.08,
         "start_price": 61.5,
         "start_year": 2020
@@ -7536,7 +7536,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 8.48,
+        "pe_ratio": 7.99,
         "forward_return": 13.2,
         "start_price": 65.3,
         "start_year": 2020
@@ -7554,7 +7554,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.14,
+        "pe_ratio": 9.72,
         "forward_return": 7.06,
         "start_price": 78.4,
         "start_year": 2021
@@ -7563,7 +7563,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.65,
+        "pe_ratio": 8.88,
         "forward_return": 9.9,
         "start_price": 74.6,
         "start_year": 2021
@@ -7572,7 +7572,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.59,
+        "pe_ratio": 8.48,
         "forward_return": 15.94,
         "start_price": 74.1,
         "start_year": 2021
@@ -7581,7 +7581,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 8.63,
         "forward_return": 14.74,
         "start_price": 73.6,
         "start_year": 2021
@@ -7590,7 +7590,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 8.83,
         "forward_return": 17.58,
         "start_price": 73.5,
         "start_year": 2021
@@ -7599,7 +7599,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 8.91,
+        "pe_ratio": 8.48,
         "forward_return": 19.69,
         "start_price": 68.8,
         "start_year": 2021
@@ -7608,7 +7608,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 8.72,
+        "pe_ratio": 8.87,
         "forward_return": 19.03,
         "start_price": 67.3,
         "start_year": 2021
@@ -7617,7 +7617,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 8.4,
+        "pe_ratio": 9.17,
         "forward_return": 21.24,
         "start_price": 64.8,
         "start_year": 2021
@@ -7626,7 +7626,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.68,
+        "pe_ratio": 10.23,
         "forward_return": 20.07,
         "start_price": 67.0,
         "start_year": 2021
@@ -7635,7 +7635,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 8.82,
+        "pe_ratio": 9.8,
         "forward_return": 18.09,
         "start_price": 68.0,
         "start_year": 2021
@@ -7644,7 +7644,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 8.64,
+        "pe_ratio": 9.09,
         "forward_return": 17.23,
         "start_price": 66.6,
         "start_year": 2021
@@ -7662,7 +7662,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 9.48,
         "forward_return": 16.54,
         "start_price": 69.3,
         "start_year": 2022
@@ -7671,7 +7671,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 9.38,
+        "pe_ratio": 9.99,
         "forward_return": 16.05,
         "start_price": 69.1,
         "start_year": 2022
@@ -7680,7 +7680,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 11.1,
         "forward_return": 10.2,
         "start_price": 72.4,
         "start_year": 2022
@@ -7689,7 +7689,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 11.24,
         "forward_return": 10.09,
         "start_price": 70.3,
         "start_year": 2022
@@ -7698,7 +7698,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 10.15,
+        "pe_ratio": 11.61,
         "forward_return": 11.66,
         "start_price": 69.6,
         "start_year": 2022
@@ -7707,7 +7707,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.95,
         "forward_return": 16.36,
         "start_price": 57.0,
         "start_year": 2022
@@ -7716,7 +7716,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 9.55,
+        "pe_ratio": 10.26,
         "forward_return": 14.14,
         "start_price": 62.2,
         "start_year": 2022
@@ -7725,7 +7725,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 10.03,
+        "pe_ratio": 9.95,
         "forward_return": 9.15,
         "start_price": 63.6,
         "start_year": 2022
@@ -7734,7 +7734,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.48,
+        "pe_ratio": 8.71,
         "forward_return": 12.5,
         "start_price": 58.5,
         "start_year": 2022
@@ -7743,7 +7743,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.83,
+        "pe_ratio": 9.27,
         "forward_return": 13.69,
         "start_price": 59.0,
         "start_year": 2022
@@ -7752,7 +7752,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.63,
+        "pe_ratio": 10.31,
         "forward_return": 10.92,
         "start_price": 62.0,
         "start_year": 2022
@@ -7770,7 +7770,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 11.06,
         "forward_return": 8.42,
         "start_price": 64.5,
         "start_year": 2023
@@ -7779,7 +7779,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.33,
         "forward_return": 8.14,
         "start_price": 68.0,
         "start_year": 2023
@@ -7788,7 +7788,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 7.46,
         "forward_return": 19.7,
         "start_price": 30.05,
         "start_year": 2010
@@ -7797,7 +7797,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.55,
+        "pe_ratio": 9.92,
         "forward_return": 14.32,
         "start_price": 37.0,
         "start_year": 2010
@@ -7806,7 +7806,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 11.69,
         "forward_return": 14.57,
         "start_price": 40.1,
         "start_year": 2010
@@ -7815,7 +7815,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 13.05,
         "forward_return": 10.86,
         "start_price": 40.85,
         "start_year": 2010
@@ -7824,7 +7824,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.83,
         "forward_return": 10.1,
         "start_price": 41.45,
         "start_year": 2010
@@ -7833,7 +7833,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 14.58,
         "forward_return": 16.72,
         "start_price": 41.75,
         "start_year": 2010
@@ -7851,7 +7851,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 16.73,
         "forward_return": 22.64,
         "start_price": 40.1,
         "start_year": 2011
@@ -7860,7 +7860,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 15.33,
+        "pe_ratio": 16.96,
         "forward_return": 27.29,
         "start_price": 35.0,
         "start_year": 2011
@@ -7869,7 +7869,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 16.19,
+        "pe_ratio": 19.28,
         "forward_return": 28.31,
         "start_price": 33.35,
         "start_year": 2011
@@ -7878,7 +7878,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.44,
+        "pe_ratio": 21.94,
         "forward_return": 33.87,
         "start_price": 30.2,
         "start_year": 2011
@@ -7887,7 +7887,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 30.15,
         "forward_return": 33.26,
         "start_price": 30.85,
         "start_year": 2011
@@ -7896,7 +7896,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.4,
+        "pe_ratio": 44.4,
         "forward_return": 34.03,
         "start_price": 29.75,
         "start_year": 2011
@@ -7905,7 +7905,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 28.41,
+        "pe_ratio": 65.0,
         "forward_return": 30.82,
         "start_price": 33.15,
         "start_year": 2011
@@ -7914,7 +7914,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.79,
+        "pe_ratio": 80.29,
         "forward_return": 34.69,
         "start_price": 28.1,
         "start_year": 2011
@@ -7923,7 +7923,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 39.72,
+        "pe_ratio": 150.5,
         "forward_return": 32.63,
         "start_price": 28.6,
         "start_year": 2011
@@ -7932,7 +7932,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 66.04,
+        "pe_ratio": 228.8,
         "forward_return": 28.01,
         "start_price": 32.8,
         "start_year": 2011
@@ -7941,7 +7941,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 113.6,
+        "pe_ratio": 321.2,
         "forward_return": 32.04,
         "start_price": 31.05,
         "start_year": 2011
@@ -7959,7 +7959,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 244.1,
         "forward_return": 24.16,
         "start_price": 35.8,
         "start_year": 2012
@@ -7968,7 +7968,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 77.92,
+        "pe_ratio": 164.4,
         "forward_return": 21.54,
         "start_price": 40.0,
         "start_year": 2012
@@ -7977,7 +7977,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 61.74,
+        "pe_ratio": 135.3,
         "forward_return": 16.03,
         "start_price": 46.0,
         "start_year": 2012
@@ -7986,7 +7986,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 43.31,
+        "pe_ratio": 59.02,
         "forward_return": 16.0,
         "start_price": 42.3,
         "start_year": 2012
@@ -7995,7 +7995,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 34.3,
+        "pe_ratio": 37.91,
         "forward_return": 16.44,
         "start_price": 41.45,
         "start_year": 2012
@@ -8004,7 +8004,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.46,
         "forward_return": 18.26,
         "start_price": 38.9,
         "start_year": 2012
@@ -8013,7 +8013,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.72,
         "forward_return": 23.56,
         "start_price": 39.3,
         "start_year": 2012
@@ -8022,7 +8022,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 19.73,
+        "pe_ratio": 20.37,
         "forward_return": 24.43,
         "start_price": 37.55,
         "start_year": 2012
@@ -8031,7 +8031,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.87,
+        "pe_ratio": 18.79,
         "forward_return": 25.26,
         "start_price": 38.15,
         "start_year": 2012
@@ -8040,7 +8040,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.07,
         "forward_return": 27.76,
         "start_price": 36.9,
         "start_year": 2012
@@ -8049,7 +8049,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 14.79,
         "forward_return": 23.87,
         "start_price": 37.9,
         "start_year": 2012
@@ -8067,7 +8067,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 12.43,
         "forward_return": 22.63,
         "start_price": 39.1,
         "start_year": 2013
@@ -8076,7 +8076,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.11,
+        "pe_ratio": 11.55,
         "forward_return": 23.82,
         "start_price": 40.0,
         "start_year": 2013
@@ -8085,7 +8085,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 12.22,
         "forward_return": 22.23,
         "start_price": 46.2,
         "start_year": 2013
@@ -8094,7 +8094,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 14.76,
+        "pe_ratio": 13.05,
         "forward_return": 20.61,
         "start_price": 48.3,
         "start_year": 2013
@@ -8103,7 +8103,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.0,
         "forward_return": 18.23,
         "start_price": 54.3,
         "start_year": 2013
@@ -8112,7 +8112,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 13.98,
         "forward_return": 21.71,
         "start_price": 49.5,
         "start_year": 2013
@@ -8121,7 +8121,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 12.09,
         "forward_return": 27.03,
         "start_price": 44.3,
         "start_year": 2013
@@ -8130,7 +8130,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 12.23,
         "forward_return": 24.65,
         "start_price": 46.3,
         "start_year": 2013
@@ -8139,7 +8139,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.79,
         "forward_return": 22.93,
         "start_price": 42.2,
         "start_year": 2013
@@ -8148,7 +8148,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 10.39,
+        "pe_ratio": 10.24,
         "forward_return": 23.38,
         "start_price": 40.9,
         "start_year": 2013
@@ -8157,7 +8157,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 9.09,
+        "pe_ratio": 9.03,
         "forward_return": 23.3,
         "start_price": 36.8,
         "start_year": 2013
@@ -8175,7 +8175,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 9.47,
         "forward_return": 24.51,
         "start_price": 39.85,
         "start_year": 2014
@@ -8184,7 +8184,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 9.03,
+        "pe_ratio": 9.55,
         "forward_return": 22.54,
         "start_price": 40.7,
         "start_year": 2014
@@ -8193,7 +8193,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 10.52,
         "forward_return": 18.61,
         "start_price": 45.35,
         "start_year": 2014
@@ -8202,7 +8202,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 9.43,
+        "pe_ratio": 10.59,
         "forward_return": 17.18,
         "start_price": 45.75,
         "start_year": 2014
@@ -8211,7 +8211,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 11.54,
+        "pe_ratio": 13.39,
         "forward_return": 8.39,
         "start_price": 58.0,
         "start_year": 2014
@@ -8220,7 +8220,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 10.96,
+        "pe_ratio": 13.13,
         "forward_return": 8.66,
         "start_price": 57.0,
         "start_year": 2014
@@ -8229,7 +8229,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 12.33,
         "forward_return": 10.62,
         "start_price": 57.5,
         "start_year": 2014
@@ -8238,7 +8238,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 11.43,
+        "pe_ratio": 12.71,
         "forward_return": 7.35,
         "start_price": 63.4,
         "start_year": 2014
@@ -8247,7 +8247,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 9.79,
+        "pe_ratio": 10.55,
         "forward_return": 9.02,
         "start_price": 56.0,
         "start_year": 2014
@@ -8256,7 +8256,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.82,
         "forward_return": 7.71,
         "start_price": 55.2,
         "start_year": 2014
@@ -8265,7 +8265,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.11,
         "forward_return": -0.53,
         "start_price": 71.8,
         "start_year": 2014
@@ -8283,7 +8283,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.99,
         "forward_return": -4.81,
         "start_price": 85.0,
         "start_year": 2015
@@ -8292,7 +8292,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.59,
         "forward_return": -4.8,
         "start_price": 86.2,
         "start_year": 2015
@@ -8301,7 +8301,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 11.85,
         "forward_return": -4.21,
         "start_price": 84.7,
         "start_year": 2015
@@ -8310,7 +8310,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 12.62,
+        "pe_ratio": 12.09,
         "forward_return": -4.39,
         "start_price": 91.3,
         "start_year": 2015
@@ -8319,7 +8319,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.51,
         "forward_return": -6.67,
         "start_price": 91.6,
         "start_year": 2015
@@ -8328,7 +8328,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 11.67,
+        "pe_ratio": 10.8,
         "forward_return": -5.6,
         "start_price": 90.3,
         "start_year": 2015
@@ -8337,7 +8337,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.43,
         "forward_return": -6.33,
         "start_price": 88.8,
         "start_year": 2015
@@ -8346,7 +8346,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 9.72,
         "forward_return": -4.56,
         "start_price": 84.2,
         "start_year": 2015
@@ -8355,7 +8355,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 9.1,
         "forward_return": -2.84,
         "start_price": 80.2,
         "start_year": 2015
@@ -8364,7 +8364,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 9.14,
+        "pe_ratio": 8.92,
         "forward_return": -0.97,
         "start_price": 79.8,
         "start_year": 2015
@@ -8373,7 +8373,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 9.59,
+        "pe_ratio": 9.47,
         "forward_return": -0.19,
         "start_price": 86.1,
         "start_year": 2015
@@ -8391,7 +8391,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 8.61,
         "forward_return": 1.36,
         "start_price": 76.8,
         "start_year": 2016
@@ -8400,7 +8400,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 9.17,
         "forward_return": 0.37,
         "start_price": 79.0,
         "start_year": 2016
@@ -8409,7 +8409,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.54,
+        "pe_ratio": 9.04,
         "forward_return": 0.12,
         "start_price": 75.1,
         "start_year": 2016
@@ -8418,7 +8418,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 7.89,
+        "pe_ratio": 8.29,
         "forward_return": 5.17,
         "start_price": 68.3,
         "start_year": 2016
@@ -8427,7 +8427,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 7.98,
+        "pe_ratio": 8.32,
         "forward_return": 4.82,
         "start_price": 67.9,
         "start_year": 2016
@@ -8436,7 +8436,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 8.11,
+        "pe_ratio": 8.38,
         "forward_return": 4.7,
         "start_price": 67.8,
         "start_year": 2016
@@ -8445,7 +8445,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.77,
         "forward_return": 0.11,
         "start_price": 78.3,
         "start_year": 2016
@@ -8454,7 +8454,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 9.5,
+        "pe_ratio": 9.66,
         "forward_return": 0.88,
         "start_price": 76.7,
         "start_year": 2016
@@ -8463,7 +8463,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 10.16,
+        "pe_ratio": 10.25,
         "forward_return": 0.04,
         "start_price": 80.6,
         "start_year": 2016
@@ -8472,7 +8472,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 10.98,
         "forward_return": -1.99,
         "start_price": 85.0,
         "start_year": 2016
@@ -8481,7 +8481,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.96,
         "forward_return": 2.02,
         "start_price": 75.9,
         "start_year": 2016
@@ -8499,7 +8499,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 10.04,
         "forward_return": 6.15,
         "start_price": 75.1,
         "start_year": 2017
@@ -8508,7 +8508,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.22,
+        "pe_ratio": 10.82,
         "forward_return": 3.2,
         "start_price": 80.7,
         "start_year": 2017
@@ -8517,7 +8517,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.07,
         "forward_return": 0.34,
         "start_price": 89.8,
         "start_year": 2017
@@ -8526,7 +8526,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.08,
         "forward_return": 0.46,
         "start_price": 88.9,
         "start_year": 2017
@@ -8535,7 +8535,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.75,
         "forward_return": -0.64,
         "start_price": 92.8,
         "start_year": 2017
@@ -8544,7 +8544,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.48,
+        "pe_ratio": 13.24,
         "forward_return": -2.61,
         "start_price": 95.3,
         "start_year": 2017
@@ -8553,7 +8553,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 15.34,
+        "pe_ratio": 14.15,
         "forward_return": -3.99,
         "start_price": 98.6,
         "start_year": 2017
@@ -8562,7 +8562,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 15.14,
+        "pe_ratio": 14.09,
         "forward_return": -3.82,
         "start_price": 95.0,
         "start_year": 2017
@@ -8571,7 +8571,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 12.23,
         "forward_return": 1.2,
         "start_price": 79.6,
         "start_year": 2017
@@ -8580,7 +8580,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.53,
         "forward_return": 2.02,
         "start_price": 78.0,
         "start_year": 2017
@@ -8589,7 +8589,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.49,
         "forward_return": 5.02,
         "start_price": 68.3,
         "start_year": 2017
@@ -8607,7 +8607,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.56,
         "forward_return": 2.08,
         "start_price": 79.0,
         "start_year": 2018
@@ -8616,7 +8616,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.44,
         "forward_return": 3.36,
         "start_price": 75.0,
         "start_year": 2018
@@ -8625,7 +8625,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 14.72,
         "forward_return": 5.05,
         "start_price": 73.0,
         "start_year": 2018
@@ -8634,7 +8634,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 14.22,
         "forward_return": 5.71,
         "start_price": 69.5,
         "start_year": 2018
@@ -8643,7 +8643,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.48,
+        "pe_ratio": 13.15,
         "forward_return": 7.99,
         "start_price": 63.3,
         "start_year": 2018
@@ -8652,7 +8652,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.65,
+        "pe_ratio": 13.23,
         "forward_return": 4.05,
         "start_price": 62.7,
         "start_year": 2018
@@ -8661,7 +8661,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.08,
+        "pe_ratio": 14.7,
         "forward_return": 4.01,
         "start_price": 68.1,
         "start_year": 2018
@@ -8670,7 +8670,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 14.03,
+        "pe_ratio": 14.62,
         "forward_return": 5.2,
         "start_price": 66.2,
         "start_year": 2018
@@ -8679,7 +8679,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.82,
         "forward_return": 5.6,
         "start_price": 61.1,
         "start_year": 2018
@@ -8688,7 +8688,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 12.9,
         "forward_return": 7.96,
         "start_price": 56.3,
         "start_year": 2018
@@ -8697,7 +8697,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.97,
+        "pe_ratio": 12.14,
         "forward_return": 11.03,
         "start_price": 52.3,
         "start_year": 2018
@@ -8715,7 +8715,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.46,
         "forward_return": 12.17,
         "start_price": 51.8,
         "start_year": 2019
@@ -8724,7 +8724,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.06,
+        "pe_ratio": 12.99,
         "forward_return": 12.8,
         "start_price": 52.8,
         "start_year": 2019
@@ -8733,7 +8733,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 13.43,
         "forward_return": 13.09,
         "start_price": 53.3,
         "start_year": 2019
@@ -8742,7 +8742,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.43,
         "forward_return": 10.68,
         "start_price": 58.3,
         "start_year": 2019
@@ -8751,7 +8751,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 9.26,
+        "pe_ratio": 12.53,
         "forward_return": 15.86,
         "start_price": 51.5,
         "start_year": 2019
@@ -8760,7 +8760,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 9.22,
+        "pe_ratio": 12.85,
         "forward_return": 14.5,
         "start_price": 53.7,
         "start_year": 2019
@@ -8769,7 +8769,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 8.36,
+        "pe_ratio": 11.02,
         "forward_return": 16.7,
         "start_price": 50.9,
         "start_year": 2019
@@ -8778,7 +8778,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 8.25,
+        "pe_ratio": 10.36,
         "forward_return": 16.34,
         "start_price": 52.4,
         "start_year": 2019
@@ -8787,7 +8787,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 8.17,
+        "pe_ratio": 9.82,
         "forward_return": 15.04,
         "start_price": 54.0,
         "start_year": 2019
@@ -8796,7 +8796,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 8.63,
+        "pe_ratio": 9.67,
         "forward_return": 12.02,
         "start_price": 59.3,
         "start_year": 2019
@@ -8805,7 +8805,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 10.05,
         "forward_return": 9.9,
         "start_price": 68.0,
         "start_year": 2019
@@ -8823,7 +8823,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 8.57,
         "forward_return": 12.17,
         "start_price": 63.6,
         "start_year": 2020
@@ -8832,7 +8832,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 8.43,
         "forward_return": 13.35,
         "start_price": 62.7,
         "start_year": 2020
@@ -8841,7 +8841,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 7.75,
+        "pe_ratio": 7.77,
         "forward_return": 19.93,
         "start_price": 58.0,
         "start_year": 2020
@@ -8850,7 +8850,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 8.8,
+        "pe_ratio": 8.34,
         "forward_return": 15.02,
         "start_price": 66.1,
         "start_year": 2020
@@ -8859,7 +8859,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 7.68,
         "forward_return": 17.75,
         "start_price": 64.5,
         "start_year": 2020
@@ -8868,7 +8868,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 8.46,
+        "pe_ratio": 7.22,
         "forward_return": 17.62,
         "start_price": 64.0,
         "start_year": 2020
@@ -8877,7 +8877,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 8.13,
+        "pe_ratio": 6.91,
         "forward_return": 17.6,
         "start_price": 61.7,
         "start_year": 2020
@@ -8886,7 +8886,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 8.2,
+        "pe_ratio": 6.95,
         "forward_return": 17.71,
         "start_price": 62.5,
         "start_year": 2020
@@ -8895,7 +8895,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.34,
+        "pe_ratio": 7.04,
         "forward_return": 17.23,
         "start_price": 63.8,
         "start_year": 2020
@@ -8904,7 +8904,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.14,
         "forward_return": 17.32,
         "start_price": 61.5,
         "start_year": 2020
@@ -8913,7 +8913,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 8.48,
+        "pe_ratio": 7.99,
         "forward_return": 14.39,
         "start_price": 65.3,
         "start_year": 2020
@@ -8931,7 +8931,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.14,
+        "pe_ratio": 9.72,
         "forward_return": 9.86,
         "start_price": 78.4,
         "start_year": 2021
@@ -8940,7 +8940,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.65,
+        "pe_ratio": 8.88,
         "forward_return": 10.81,
         "start_price": 74.6,
         "start_year": 2021
@@ -8949,7 +8949,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 9.59,
+        "pe_ratio": 8.48,
         "forward_return": 8.16,
         "start_price": 74.1,
         "start_year": 2021
@@ -8958,7 +8958,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 8.63,
         "forward_return": 7.5,
         "start_price": 73.6,
         "start_year": 2021
@@ -8967,7 +8967,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 8.83,
         "forward_return": 8.38,
         "start_price": 73.5,
         "start_year": 2021
@@ -8976,7 +8976,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 8.91,
+        "pe_ratio": 8.48,
         "forward_return": 8.2,
         "start_price": 68.8,
         "start_year": 2021
@@ -8985,7 +8985,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 8.72,
+        "pe_ratio": 8.87,
         "forward_return": 9.71,
         "start_price": 67.3,
         "start_year": 2021
@@ -8994,7 +8994,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 8.4,
+        "pe_ratio": 9.17,
         "forward_return": 7.86,
         "start_price": 64.8,
         "start_year": 2021
@@ -9003,7 +9003,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.68,
+        "pe_ratio": 10.23,
         "forward_return": 7.15,
         "start_price": 67.0,
         "start_year": 2021
@@ -9012,7 +9012,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 8.82,
+        "pe_ratio": 9.8,
         "forward_return": 7.76,
         "start_price": 68.0,
         "start_year": 2021
@@ -9021,7 +9021,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 8.64,
+        "pe_ratio": 9.09,
         "forward_return": 7.7,
         "start_price": 66.6,
         "start_year": 2021
@@ -9039,7 +9039,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 9.48,
         "forward_return": 5.91,
         "start_price": 69.3,
         "start_year": 2022
@@ -9048,7 +9048,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 9.38,
+        "pe_ratio": 9.99,
         "forward_return": 7.13,
         "start_price": 69.1,
         "start_year": 2022
@@ -9057,7 +9057,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 7.46,
         "forward_return": 26.61,
         "start_price": 30.05,
         "start_year": 2010
@@ -9066,7 +9066,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.55,
+        "pe_ratio": 9.92,
         "forward_return": 21.64,
         "start_price": 37.0,
         "start_year": 2010
@@ -9075,7 +9075,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 11.69,
         "forward_return": 18.56,
         "start_price": 40.1,
         "start_year": 2010
@@ -9084,7 +9084,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 13.05,
         "forward_return": 17.1,
         "start_price": 40.85,
         "start_year": 2010
@@ -9093,7 +9093,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.83,
         "forward_return": 16.66,
         "start_price": 41.45,
         "start_year": 2010
@@ -9102,7 +9102,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 14.58,
         "forward_return": 18.08,
         "start_price": 41.75,
         "start_year": 2010
@@ -9120,7 +9120,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 16.73,
         "forward_return": 16.63,
         "start_price": 40.1,
         "start_year": 2011
@@ -9129,7 +9129,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 15.33,
+        "pe_ratio": 16.96,
         "forward_return": 20.45,
         "start_price": 35.0,
         "start_year": 2011
@@ -9138,7 +9138,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 16.19,
+        "pe_ratio": 19.28,
         "forward_return": 20.52,
         "start_price": 33.35,
         "start_year": 2011
@@ -9147,7 +9147,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.44,
+        "pe_ratio": 21.94,
         "forward_return": 20.9,
         "start_price": 30.2,
         "start_year": 2011
@@ -9156,7 +9156,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 30.15,
         "forward_return": 20.26,
         "start_price": 30.85,
         "start_year": 2011
@@ -9165,7 +9165,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.4,
+        "pe_ratio": 44.4,
         "forward_return": 21.11,
         "start_price": 29.75,
         "start_year": 2011
@@ -9174,7 +9174,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 28.41,
+        "pe_ratio": 65.0,
         "forward_return": 22.54,
         "start_price": 33.15,
         "start_year": 2011
@@ -9183,7 +9183,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.79,
+        "pe_ratio": 80.29,
         "forward_return": 26.21,
         "start_price": 28.1,
         "start_year": 2011
@@ -9192,7 +9192,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 39.72,
+        "pe_ratio": 150.5,
         "forward_return": 26.83,
         "start_price": 28.6,
         "start_year": 2011
@@ -9201,7 +9201,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 66.04,
+        "pe_ratio": 228.8,
         "forward_return": 24.54,
         "start_price": 32.8,
         "start_year": 2011
@@ -9210,7 +9210,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 113.6,
+        "pe_ratio": 321.2,
         "forward_return": 23.49,
         "start_price": 31.05,
         "start_year": 2011
@@ -9228,7 +9228,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 244.1,
         "forward_return": 19.81,
         "start_price": 35.8,
         "start_year": 2012
@@ -9237,7 +9237,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 77.92,
+        "pe_ratio": 164.4,
         "forward_return": 20.49,
         "start_price": 40.0,
         "start_year": 2012
@@ -9246,7 +9246,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 61.74,
+        "pe_ratio": 135.3,
         "forward_return": 17.52,
         "start_price": 46.0,
         "start_year": 2012
@@ -9255,7 +9255,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 43.31,
+        "pe_ratio": 59.02,
         "forward_return": 19.3,
         "start_price": 42.3,
         "start_year": 2012
@@ -9264,7 +9264,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 34.3,
+        "pe_ratio": 37.91,
         "forward_return": 20.69,
         "start_price": 41.45,
         "start_year": 2012
@@ -9273,7 +9273,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.46,
         "forward_return": 22.8,
         "start_price": 38.9,
         "start_year": 2012
@@ -9282,7 +9282,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.72,
         "forward_return": 24.35,
         "start_price": 39.3,
         "start_year": 2012
@@ -9291,7 +9291,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 19.73,
+        "pe_ratio": 20.37,
         "forward_return": 24.71,
         "start_price": 37.55,
         "start_year": 2012
@@ -9300,7 +9300,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.87,
+        "pe_ratio": 18.79,
         "forward_return": 20.73,
         "start_price": 38.15,
         "start_year": 2012
@@ -9309,7 +9309,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.07,
         "forward_return": 21.14,
         "start_price": 36.9,
         "start_year": 2012
@@ -9318,7 +9318,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 14.79,
         "forward_return": 17.96,
         "start_price": 37.9,
         "start_year": 2012
@@ -9336,7 +9336,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 12.43,
         "forward_return": 19.99,
         "start_price": 39.1,
         "start_year": 2013
@@ -9345,7 +9345,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.11,
+        "pe_ratio": 11.55,
         "forward_return": 18.45,
         "start_price": 40.0,
         "start_year": 2013
@@ -9354,7 +9354,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 12.22,
         "forward_return": 14.58,
         "start_price": 46.2,
         "start_year": 2013
@@ -9363,7 +9363,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 14.76,
+        "pe_ratio": 13.05,
         "forward_return": 12.68,
         "start_price": 48.3,
         "start_year": 2013
@@ -9372,7 +9372,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.0,
         "forward_return": 8.47,
         "start_price": 54.3,
         "start_year": 2013
@@ -9381,7 +9381,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 13.98,
         "forward_return": 10.34,
         "start_price": 49.5,
         "start_year": 2013
@@ -9390,7 +9390,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 12.09,
         "forward_return": 14.94,
         "start_price": 44.3,
         "start_year": 2013
@@ -9399,7 +9399,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 12.23,
         "forward_return": 13.44,
         "start_price": 46.3,
         "start_year": 2013
@@ -9408,7 +9408,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.79,
         "forward_return": 14.17,
         "start_price": 42.2,
         "start_year": 2013
@@ -9417,7 +9417,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 10.39,
+        "pe_ratio": 10.24,
         "forward_return": 13.51,
         "start_price": 40.9,
         "start_year": 2013
@@ -9426,7 +9426,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 9.09,
+        "pe_ratio": 9.03,
         "forward_return": 14.7,
         "start_price": 36.8,
         "start_year": 2013
@@ -9444,7 +9444,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 9.47,
         "forward_return": 12.74,
         "start_price": 39.85,
         "start_year": 2014
@@ -9453,7 +9453,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 9.03,
+        "pe_ratio": 9.55,
         "forward_return": 12.57,
         "start_price": 40.7,
         "start_year": 2014
@@ -9462,7 +9462,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 10.52,
         "forward_return": 10.31,
         "start_price": 45.35,
         "start_year": 2014
@@ -9471,7 +9471,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 9.43,
+        "pe_ratio": 10.59,
         "forward_return": 11.56,
         "start_price": 45.75,
         "start_year": 2014
@@ -9480,7 +9480,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 11.54,
+        "pe_ratio": 13.39,
         "forward_return": 4.5,
         "start_price": 58.0,
         "start_year": 2014
@@ -9489,7 +9489,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 10.96,
+        "pe_ratio": 13.13,
         "forward_return": 5.49,
         "start_price": 57.0,
         "start_year": 2014
@@ -9498,7 +9498,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 12.33,
         "forward_return": 4.72,
         "start_price": 57.5,
         "start_year": 2014
@@ -9507,7 +9507,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 11.43,
+        "pe_ratio": 12.71,
         "forward_return": 3.11,
         "start_price": 63.4,
         "start_year": 2014
@@ -9516,7 +9516,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 9.79,
+        "pe_ratio": 10.55,
         "forward_return": 6.16,
         "start_price": 56.0,
         "start_year": 2014
@@ -9525,7 +9525,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.82,
         "forward_return": 7.92,
         "start_price": 55.2,
         "start_year": 2014
@@ -9534,7 +9534,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.11,
         "forward_return": 4.51,
         "start_price": 71.8,
         "start_year": 2014
@@ -9552,7 +9552,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.99,
         "forward_return": 0.02,
         "start_price": 85.0,
         "start_year": 2015
@@ -9561,7 +9561,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.59,
         "forward_return": -0.47,
         "start_price": 86.2,
         "start_year": 2015
@@ -9570,7 +9570,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 11.85,
         "forward_return": -1.26,
         "start_price": 84.7,
         "start_year": 2015
@@ -9579,7 +9579,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 12.62,
+        "pe_ratio": 12.09,
         "forward_return": -0.82,
         "start_price": 91.3,
         "start_year": 2015
@@ -9588,7 +9588,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.51,
         "forward_return": -1.25,
         "start_price": 91.6,
         "start_year": 2015
@@ -9597,7 +9597,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 11.67,
+        "pe_ratio": 10.8,
         "forward_return": -1.09,
         "start_price": 90.3,
         "start_year": 2015
@@ -9606,7 +9606,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.43,
         "forward_return": -1.18,
         "start_price": 88.8,
         "start_year": 2015
@@ -9615,7 +9615,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 9.72,
         "forward_return": 0.06,
         "start_price": 84.2,
         "start_year": 2015
@@ -9624,7 +9624,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 9.1,
         "forward_return": 1.35,
         "start_price": 80.2,
         "start_year": 2015
@@ -9633,7 +9633,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 9.14,
+        "pe_ratio": 8.92,
         "forward_return": 0.9,
         "start_price": 79.8,
         "start_year": 2015
@@ -9642,7 +9642,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 9.59,
+        "pe_ratio": 9.47,
         "forward_return": 0.27,
         "start_price": 86.1,
         "start_year": 2015
@@ -9660,7 +9660,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 8.61,
         "forward_return": 5.5,
         "start_price": 76.8,
         "start_year": 2016
@@ -9669,7 +9669,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 9.17,
         "forward_return": 3.92,
         "start_price": 79.0,
         "start_year": 2016
@@ -9678,7 +9678,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.54,
+        "pe_ratio": 9.04,
         "forward_return": 5.05,
         "start_price": 75.1,
         "start_year": 2016
@@ -9687,7 +9687,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 7.89,
+        "pe_ratio": 8.29,
         "forward_return": 6.95,
         "start_price": 68.3,
         "start_year": 2016
@@ -9696,7 +9696,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 7.98,
+        "pe_ratio": 8.32,
         "forward_return": 7.05,
         "start_price": 67.9,
         "start_year": 2016
@@ -9705,7 +9705,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 8.11,
+        "pe_ratio": 8.38,
         "forward_return": 6.01,
         "start_price": 67.8,
         "start_year": 2016
@@ -9714,7 +9714,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.77,
         "forward_return": 2.53,
         "start_price": 78.3,
         "start_year": 2016
@@ -9723,7 +9723,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 9.5,
+        "pe_ratio": 9.66,
         "forward_return": 2.37,
         "start_price": 76.7,
         "start_year": 2016
@@ -9732,7 +9732,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 10.16,
+        "pe_ratio": 10.25,
         "forward_return": 1.87,
         "start_price": 80.6,
         "start_year": 2016
@@ -9741,7 +9741,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 10.98,
         "forward_return": 1.02,
         "start_price": 85.0,
         "start_year": 2016
@@ -9750,7 +9750,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.96,
         "forward_return": 3.01,
         "start_price": 75.9,
         "start_year": 2016
@@ -9768,7 +9768,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 10.04,
         "forward_return": 3.85,
         "start_price": 75.1,
         "start_year": 2017
@@ -9777,7 +9777,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.22,
+        "pe_ratio": 10.82,
         "forward_return": 2.32,
         "start_price": 80.7,
         "start_year": 2017
@@ -9786,7 +9786,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.07,
         "forward_return": 0.88,
         "start_price": 89.8,
         "start_year": 2017
@@ -9795,7 +9795,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.08,
         "forward_return": 0.63,
         "start_price": 88.9,
         "start_year": 2017
@@ -9804,7 +9804,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.75,
         "forward_return": -0.39,
         "start_price": 92.8,
         "start_year": 2017
@@ -9813,7 +9813,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.48,
+        "pe_ratio": 13.24,
         "forward_return": -3.82,
         "start_price": 95.3,
         "start_year": 2017
@@ -9822,7 +9822,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 15.34,
+        "pe_ratio": 14.15,
         "forward_return": -3.23,
         "start_price": 98.6,
         "start_year": 2017
@@ -9831,7 +9831,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 15.14,
+        "pe_ratio": 14.09,
         "forward_return": -2.18,
         "start_price": 95.0,
         "start_year": 2017
@@ -9840,7 +9840,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 12.23,
         "forward_return": 0.1,
         "start_price": 79.6,
         "start_year": 2017
@@ -9849,7 +9849,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.53,
         "forward_return": 0.63,
         "start_price": 78.0,
         "start_year": 2017
@@ -9858,7 +9858,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.49,
         "forward_return": 4.1,
         "start_price": 68.3,
         "start_year": 2017
@@ -9876,7 +9876,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.56,
         "forward_return": 1.71,
         "start_price": 79.0,
         "start_year": 2018
@@ -9885,7 +9885,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.44,
         "forward_return": 3.6,
         "start_price": 75.0,
         "start_year": 2018
@@ -9894,7 +9894,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 14.72,
         "forward_return": 4.55,
         "start_price": 73.0,
         "start_year": 2018
@@ -9903,7 +9903,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 14.22,
         "forward_return": 5.65,
         "start_price": 69.5,
         "start_year": 2018
@@ -9912,7 +9912,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.48,
+        "pe_ratio": 13.15,
         "forward_return": 8.87,
         "start_price": 63.3,
         "start_year": 2018
@@ -9921,7 +9921,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.65,
+        "pe_ratio": 13.23,
         "forward_return": 8.96,
         "start_price": 62.7,
         "start_year": 2018
@@ -9930,7 +9930,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.08,
+        "pe_ratio": 14.7,
         "forward_return": 7.53,
         "start_price": 68.1,
         "start_year": 2018
@@ -9939,7 +9939,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 14.03,
+        "pe_ratio": 14.62,
         "forward_return": 8.49,
         "start_price": 66.2,
         "start_year": 2018
@@ -9948,7 +9948,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.82,
         "forward_return": 9.93,
         "start_price": 61.1,
         "start_year": 2018
@@ -9957,7 +9957,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 12.9,
         "forward_return": 11.47,
         "start_price": 56.3,
         "start_year": 2018
@@ -9966,7 +9966,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.97,
+        "pe_ratio": 12.14,
         "forward_return": 14.45,
         "start_price": 52.3,
         "start_year": 2018
@@ -9984,7 +9984,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.46,
         "forward_return": 15.0,
         "start_price": 51.8,
         "start_year": 2019
@@ -9993,7 +9993,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.06,
+        "pe_ratio": 12.99,
         "forward_return": 15.17,
         "start_price": 52.8,
         "start_year": 2019
@@ -10002,7 +10002,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 13.43,
         "forward_return": 18.29,
         "start_price": 53.3,
         "start_year": 2019
@@ -10011,7 +10011,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.43,
         "forward_return": 15.37,
         "start_price": 58.3,
         "start_year": 2019
@@ -10020,7 +10020,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 9.26,
+        "pe_ratio": 12.53,
         "forward_return": 19.87,
         "start_price": 51.5,
         "start_year": 2019
@@ -10029,7 +10029,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 9.22,
+        "pe_ratio": 12.85,
         "forward_return": 18.59,
         "start_price": 53.7,
         "start_year": 2019
@@ -10038,7 +10038,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 8.36,
+        "pe_ratio": 11.02,
         "forward_return": 19.19,
         "start_price": 50.9,
         "start_year": 2019
@@ -10047,7 +10047,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 8.25,
+        "pe_ratio": 10.36,
         "forward_return": 18.89,
         "start_price": 52.4,
         "start_year": 2019
@@ -10056,7 +10056,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 8.17,
+        "pe_ratio": 9.82,
         "forward_return": 18.27,
         "start_price": 54.0,
         "start_year": 2019
@@ -10065,7 +10065,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 8.63,
+        "pe_ratio": 9.67,
         "forward_return": 15.32,
         "start_price": 59.3,
         "start_year": 2019
@@ -10074,7 +10074,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 10.05,
         "forward_return": 11.32,
         "start_price": 68.0,
         "start_year": 2019
@@ -10092,7 +10092,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 8.57,
         "forward_return": 13.28,
         "start_price": 63.6,
         "start_year": 2020
@@ -10101,7 +10101,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 8.43,
         "forward_return": 10.86,
         "start_price": 62.7,
         "start_year": 2020
@@ -10110,7 +10110,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 7.75,
+        "pe_ratio": 7.77,
         "forward_return": 12.8,
         "start_price": 58.0,
         "start_year": 2020
@@ -10119,7 +10119,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 8.8,
+        "pe_ratio": 8.34,
         "forward_return": 9.23,
         "start_price": 66.1,
         "start_year": 2020
@@ -10128,7 +10128,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 7.68,
         "forward_return": 10.43,
         "start_price": 64.5,
         "start_year": 2020
@@ -10137,7 +10137,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 8.46,
+        "pe_ratio": 7.22,
         "forward_return": 9.07,
         "start_price": 64.0,
         "start_year": 2020
@@ -10146,7 +10146,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 8.13,
+        "pe_ratio": 6.91,
         "forward_return": 10.58,
         "start_price": 61.7,
         "start_year": 2020
@@ -10155,7 +10155,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 8.2,
+        "pe_ratio": 6.95,
         "forward_return": 8.09,
         "start_price": 62.5,
         "start_year": 2020
@@ -10164,7 +10164,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 8.34,
+        "pe_ratio": 7.04,
         "forward_return": 7.78,
         "start_price": 63.8,
         "start_year": 2020
@@ -10173,7 +10173,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 8.01,
+        "pe_ratio": 7.14,
         "forward_return": 9.36,
         "start_price": 61.5,
         "start_year": 2020
@@ -10182,7 +10182,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 8.48,
+        "pe_ratio": 7.99,
         "forward_return": 7.58,
         "start_price": 65.3,
         "start_year": 2020
@@ -10200,7 +10200,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.14,
+        "pe_ratio": 9.72,
         "forward_return": 3.18,
         "start_price": 78.4,
         "start_year": 2021
@@ -10209,7 +10209,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 9.65,
+        "pe_ratio": 8.88,
         "forward_return": 5.06,
         "start_price": 74.6,
         "start_year": 2021
@@ -10218,7 +10218,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 7.46,
         "forward_return": 17.55,
         "start_price": 30.05,
         "start_year": 2010
@@ -10227,7 +10227,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.55,
+        "pe_ratio": 9.92,
         "forward_return": 16.61,
         "start_price": 37.0,
         "start_year": 2010
@@ -10236,7 +10236,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 11.69,
         "forward_return": 14.73,
         "start_price": 40.1,
         "start_year": 2010
@@ -10245,7 +10245,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 13.05,
         "forward_return": 15.17,
         "start_price": 40.85,
         "start_year": 2010
@@ -10254,7 +10254,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.83,
         "forward_return": 15.76,
         "start_price": 41.45,
         "start_year": 2010
@@ -10263,7 +10263,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 14.58,
         "forward_return": 13.79,
         "start_price": 41.75,
         "start_year": 2010
@@ -10281,7 +10281,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 16.73,
         "forward_return": 14.39,
         "start_price": 40.1,
         "start_year": 2011
@@ -10290,7 +10290,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 15.33,
+        "pe_ratio": 16.96,
         "forward_return": 18.2,
         "start_price": 35.0,
         "start_year": 2011
@@ -10299,7 +10299,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 16.19,
+        "pe_ratio": 19.28,
         "forward_return": 20.98,
         "start_price": 33.35,
         "start_year": 2011
@@ -10308,7 +10308,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.44,
+        "pe_ratio": 21.94,
         "forward_return": 22.81,
         "start_price": 30.2,
         "start_year": 2011
@@ -10317,7 +10317,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 30.15,
         "forward_return": 23.14,
         "start_price": 30.85,
         "start_year": 2011
@@ -10326,7 +10326,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.4,
+        "pe_ratio": 44.4,
         "forward_return": 24.36,
         "start_price": 29.75,
         "start_year": 2011
@@ -10335,7 +10335,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 28.41,
+        "pe_ratio": 65.0,
         "forward_return": 23.36,
         "start_price": 33.15,
         "start_year": 2011
@@ -10344,7 +10344,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.79,
+        "pe_ratio": 80.29,
         "forward_return": 26.14,
         "start_price": 28.1,
         "start_year": 2011
@@ -10353,7 +10353,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 39.72,
+        "pe_ratio": 150.5,
         "forward_return": 22.75,
         "start_price": 28.6,
         "start_year": 2011
@@ -10362,7 +10362,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 66.04,
+        "pe_ratio": 228.8,
         "forward_return": 19.65,
         "start_price": 32.8,
         "start_year": 2011
@@ -10371,7 +10371,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 113.6,
+        "pe_ratio": 321.2,
         "forward_return": 18.63,
         "start_price": 31.05,
         "start_year": 2011
@@ -10389,7 +10389,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 244.1,
         "forward_return": 18.12,
         "start_price": 35.8,
         "start_year": 2012
@@ -10398,7 +10398,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 77.92,
+        "pe_ratio": 164.4,
         "forward_return": 14.52,
         "start_price": 40.0,
         "start_year": 2012
@@ -10407,7 +10407,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 61.74,
+        "pe_ratio": 135.3,
         "forward_return": 12.1,
         "start_price": 46.0,
         "start_year": 2012
@@ -10416,7 +10416,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 43.31,
+        "pe_ratio": 59.02,
         "forward_return": 12.93,
         "start_price": 42.3,
         "start_year": 2012
@@ -10425,7 +10425,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 34.3,
+        "pe_ratio": 37.91,
         "forward_return": 11.94,
         "start_price": 41.45,
         "start_year": 2012
@@ -10434,7 +10434,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.46,
         "forward_return": 12.99,
         "start_price": 38.9,
         "start_year": 2012
@@ -10443,7 +10443,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.72,
         "forward_return": 14.89,
         "start_price": 39.3,
         "start_year": 2012
@@ -10452,7 +10452,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 19.73,
+        "pe_ratio": 20.37,
         "forward_return": 15.35,
         "start_price": 37.55,
         "start_year": 2012
@@ -10461,7 +10461,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.87,
+        "pe_ratio": 18.79,
         "forward_return": 13.91,
         "start_price": 38.15,
         "start_year": 2012
@@ -10470,7 +10470,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.07,
         "forward_return": 13.42,
         "start_price": 36.9,
         "start_year": 2012
@@ -10479,7 +10479,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 14.79,
         "forward_return": 11.94,
         "start_price": 37.9,
         "start_year": 2012
@@ -10497,7 +10497,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 12.43,
         "forward_return": 11.23,
         "start_price": 39.1,
         "start_year": 2013
@@ -10506,7 +10506,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.11,
+        "pe_ratio": 11.55,
         "forward_return": 11.06,
         "start_price": 40.0,
         "start_year": 2013
@@ -10515,7 +10515,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 12.22,
         "forward_return": 8.54,
         "start_price": 46.2,
         "start_year": 2013
@@ -10524,7 +10524,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 14.76,
+        "pe_ratio": 13.05,
         "forward_return": 8.9,
         "start_price": 48.3,
         "start_year": 2013
@@ -10533,7 +10533,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.0,
         "forward_return": 5.24,
         "start_price": 54.3,
         "start_year": 2013
@@ -10542,7 +10542,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 13.98,
         "forward_return": 7.4,
         "start_price": 49.5,
         "start_year": 2013
@@ -10551,7 +10551,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 12.09,
         "forward_return": 9.21,
         "start_price": 44.3,
         "start_year": 2013
@@ -10560,7 +10560,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 12.23,
         "forward_return": 8.77,
         "start_price": 46.3,
         "start_year": 2013
@@ -10569,7 +10569,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.79,
         "forward_return": 10.85,
         "start_price": 42.2,
         "start_year": 2013
@@ -10578,7 +10578,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 10.39,
+        "pe_ratio": 10.24,
         "forward_return": 12.65,
         "start_price": 40.9,
         "start_year": 2013
@@ -10587,7 +10587,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 9.09,
+        "pe_ratio": 9.03,
         "forward_return": 16.56,
         "start_price": 36.8,
         "start_year": 2013
@@ -10605,7 +10605,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 9.47,
         "forward_return": 14.09,
         "start_price": 39.85,
         "start_year": 2014
@@ -10614,7 +10614,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 9.03,
+        "pe_ratio": 9.55,
         "forward_return": 13.49,
         "start_price": 40.7,
         "start_year": 2014
@@ -10623,7 +10623,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 10.52,
         "forward_return": 10.43,
         "start_price": 45.35,
         "start_year": 2014
@@ -10632,7 +10632,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 9.43,
+        "pe_ratio": 10.59,
         "forward_return": 12.01,
         "start_price": 45.75,
         "start_year": 2014
@@ -10641,7 +10641,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 11.54,
+        "pe_ratio": 13.39,
         "forward_return": 7.35,
         "start_price": 58.0,
         "start_year": 2014
@@ -10650,7 +10650,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 10.96,
+        "pe_ratio": 13.13,
         "forward_return": 7.56,
         "start_price": 57.0,
         "start_year": 2014
@@ -10659,7 +10659,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 12.33,
         "forward_return": 7.29,
         "start_price": 57.5,
         "start_year": 2014
@@ -10668,7 +10668,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 11.43,
+        "pe_ratio": 12.71,
         "forward_return": 5.71,
         "start_price": 63.4,
         "start_year": 2014
@@ -10677,7 +10677,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 9.79,
+        "pe_ratio": 10.55,
         "forward_return": 8.19,
         "start_price": 56.0,
         "start_year": 2014
@@ -10686,7 +10686,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.82,
         "forward_return": 7.98,
         "start_price": 55.2,
         "start_year": 2014
@@ -10695,7 +10695,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.11,
         "forward_return": 4.08,
         "start_price": 71.8,
         "start_year": 2014
@@ -10713,7 +10713,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.99,
         "forward_return": 3.48,
         "start_price": 85.0,
         "start_year": 2015
@@ -10722,7 +10722,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.59,
         "forward_return": 2.61,
         "start_price": 86.2,
         "start_year": 2015
@@ -10731,7 +10731,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 11.85,
         "forward_return": 2.82,
         "start_price": 84.7,
         "start_year": 2015
@@ -10740,7 +10740,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 12.62,
+        "pe_ratio": 12.09,
         "forward_return": 1.46,
         "start_price": 91.3,
         "start_year": 2015
@@ -10749,7 +10749,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.51,
         "forward_return": 1.39,
         "start_price": 91.6,
         "start_year": 2015
@@ -10758,7 +10758,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 11.67,
+        "pe_ratio": 10.8,
         "forward_return": 0.81,
         "start_price": 90.3,
         "start_year": 2015
@@ -10767,7 +10767,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.43,
         "forward_return": 0.91,
         "start_price": 88.8,
         "start_year": 2015
@@ -10776,7 +10776,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 9.72,
         "forward_return": 1.35,
         "start_price": 84.2,
         "start_year": 2015
@@ -10785,7 +10785,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 9.1,
         "forward_return": 2.58,
         "start_price": 80.2,
         "start_year": 2015
@@ -10794,7 +10794,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 9.14,
+        "pe_ratio": 8.92,
         "forward_return": 2.85,
         "start_price": 79.8,
         "start_year": 2015
@@ -10803,7 +10803,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 9.59,
+        "pe_ratio": 9.47,
         "forward_return": 1.3,
         "start_price": 86.1,
         "start_year": 2015
@@ -10821,7 +10821,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 8.61,
         "forward_return": 3.74,
         "start_price": 76.8,
         "start_year": 2016
@@ -10830,7 +10830,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 9.17,
         "forward_return": 3.76,
         "start_price": 79.0,
         "start_year": 2016
@@ -10839,7 +10839,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.54,
+        "pe_ratio": 9.04,
         "forward_return": 4.69,
         "start_price": 75.1,
         "start_year": 2016
@@ -10848,7 +10848,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 7.89,
+        "pe_ratio": 8.29,
         "forward_return": 5.98,
         "start_price": 68.3,
         "start_year": 2016
@@ -10857,7 +10857,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 7.98,
+        "pe_ratio": 8.32,
         "forward_return": 5.95,
         "start_price": 67.9,
         "start_year": 2016
@@ -10866,7 +10866,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 8.11,
+        "pe_ratio": 8.38,
         "forward_return": 3.52,
         "start_price": 67.8,
         "start_year": 2016
@@ -10875,7 +10875,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.77,
         "forward_return": 2.09,
         "start_price": 78.3,
         "start_year": 2016
@@ -10884,7 +10884,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 9.5,
+        "pe_ratio": 9.66,
         "forward_return": 2.71,
         "start_price": 76.7,
         "start_year": 2016
@@ -10893,7 +10893,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 10.16,
+        "pe_ratio": 10.25,
         "forward_return": 0.87,
         "start_price": 80.6,
         "start_year": 2016
@@ -10902,7 +10902,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 10.98,
         "forward_return": 0.08,
         "start_price": 85.0,
         "start_year": 2016
@@ -10911,7 +10911,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.96,
         "forward_return": 2.58,
         "start_price": 75.9,
         "start_year": 2016
@@ -10929,7 +10929,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 10.04,
         "forward_return": 3.24,
         "start_price": 75.1,
         "start_year": 2017
@@ -10938,7 +10938,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.22,
+        "pe_ratio": 10.82,
         "forward_return": 2.65,
         "start_price": 80.7,
         "start_year": 2017
@@ -10947,7 +10947,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.07,
         "forward_return": 1.14,
         "start_price": 89.8,
         "start_year": 2017
@@ -10956,7 +10956,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.08,
         "forward_return": 1.36,
         "start_price": 88.9,
         "start_year": 2017
@@ -10965,7 +10965,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.75,
         "forward_return": 1.54,
         "start_price": 92.8,
         "start_year": 2017
@@ -10974,7 +10974,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.48,
+        "pe_ratio": 13.24,
         "forward_return": 1.01,
         "start_price": 95.3,
         "start_year": 2017
@@ -10983,7 +10983,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 15.34,
+        "pe_ratio": 14.15,
         "forward_return": 0.55,
         "start_price": 98.6,
         "start_year": 2017
@@ -10992,7 +10992,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 15.14,
+        "pe_ratio": 14.09,
         "forward_return": 1.44,
         "start_price": 95.0,
         "start_year": 2017
@@ -11001,7 +11001,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 12.23,
         "forward_return": 4.24,
         "start_price": 79.6,
         "start_year": 2017
@@ -11010,7 +11010,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.53,
         "forward_return": 4.38,
         "start_price": 78.0,
         "start_year": 2017
@@ -11019,7 +11019,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.49,
         "forward_return": 7.72,
         "start_price": 68.3,
         "start_year": 2017
@@ -11037,7 +11037,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.56,
         "forward_return": 5.38,
         "start_price": 79.0,
         "start_year": 2018
@@ -11046,7 +11046,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.44,
         "forward_return": 6.75,
         "start_price": 75.0,
         "start_year": 2018
@@ -11055,7 +11055,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 13.75,
+        "pe_ratio": 14.72,
         "forward_return": 9.74,
         "start_price": 73.0,
         "start_year": 2018
@@ -11064,7 +11064,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 14.22,
         "forward_return": 10.01,
         "start_price": 69.5,
         "start_year": 2018
@@ -11073,7 +11073,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.48,
+        "pe_ratio": 13.15,
         "forward_return": 12.96,
         "start_price": 63.3,
         "start_year": 2018
@@ -11082,7 +11082,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.65,
+        "pe_ratio": 13.23,
         "forward_return": 12.92,
         "start_price": 62.7,
         "start_year": 2018
@@ -11091,7 +11091,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.08,
+        "pe_ratio": 14.7,
         "forward_return": 10.8,
         "start_price": 68.1,
         "start_year": 2018
@@ -11100,7 +11100,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 14.03,
+        "pe_ratio": 14.62,
         "forward_return": 11.61,
         "start_price": 66.2,
         "start_year": 2018
@@ -11109,7 +11109,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 13.28,
+        "pe_ratio": 13.82,
         "forward_return": 13.19,
         "start_price": 61.1,
         "start_year": 2018
@@ -11118,7 +11118,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 12.9,
         "forward_return": 14.14,
         "start_price": 56.3,
         "start_year": 2018
@@ -11127,7 +11127,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 11.97,
+        "pe_ratio": 12.14,
         "forward_return": 14.81,
         "start_price": 52.3,
         "start_year": 2018
@@ -11145,7 +11145,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 12.46,
         "forward_return": 15.37,
         "start_price": 51.8,
         "start_year": 2019
@@ -11154,7 +11154,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.06,
+        "pe_ratio": 12.99,
         "forward_return": 14.74,
         "start_price": 52.8,
         "start_year": 2019
@@ -11163,7 +11163,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.58,
+        "pe_ratio": 13.43,
         "forward_return": 12.73,
         "start_price": 53.3,
         "start_year": 2019
@@ -11172,7 +11172,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 11.0,
+        "pe_ratio": 14.43,
         "forward_return": 10.53,
         "start_price": 58.3,
         "start_year": 2019
@@ -11181,7 +11181,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 9.26,
+        "pe_ratio": 12.53,
         "forward_return": 13.38,
         "start_price": 51.5,
         "start_year": 2019
@@ -11190,7 +11190,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 9.22,
+        "pe_ratio": 12.85,
         "forward_return": 11.34,
         "start_price": 53.7,
         "start_year": 2019
@@ -11199,7 +11199,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 8.36,
+        "pe_ratio": 11.02,
         "forward_return": 13.09,
         "start_price": 50.9,
         "start_year": 2019
@@ -11208,7 +11208,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 8.25,
+        "pe_ratio": 10.36,
         "forward_return": 10.75,
         "start_price": 52.4,
         "start_year": 2019
@@ -11217,7 +11217,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 8.17,
+        "pe_ratio": 9.82,
         "forward_return": 10.31,
         "start_price": 54.0,
         "start_year": 2019
@@ -11226,7 +11226,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 8.63,
+        "pe_ratio": 9.67,
         "forward_return": 9.22,
         "start_price": 59.3,
         "start_year": 2019
@@ -11235,7 +11235,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 9.53,
+        "pe_ratio": 10.05,
         "forward_return": 6.39,
         "start_price": 68.0,
         "start_year": 2019
@@ -11253,7 +11253,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 8.56,
+        "pe_ratio": 8.57,
         "forward_return": 7.14,
         "start_price": 63.6,
         "start_year": 2020
@@ -11262,7 +11262,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 7.46,
         "forward_return": 13.74,
         "start_price": 30.05,
         "start_year": 2010
@@ -11271,7 +11271,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.55,
+        "pe_ratio": 9.92,
         "forward_return": 12.03,
         "start_price": 37.0,
         "start_year": 2010
@@ -11280,7 +11280,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 11.69,
         "forward_return": 10.62,
         "start_price": 40.1,
         "start_year": 2010
@@ -11289,7 +11289,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 13.05,
         "forward_return": 9.56,
         "start_price": 40.85,
         "start_year": 2010
@@ -11298,7 +11298,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.83,
         "forward_return": 8.57,
         "start_price": 41.45,
         "start_year": 2010
@@ -11307,7 +11307,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 14.58,
         "forward_return": 7.77,
         "start_price": 41.75,
         "start_year": 2010
@@ -11325,7 +11325,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 16.73,
         "forward_return": 8.23,
         "start_price": 40.1,
         "start_year": 2011
@@ -11334,7 +11334,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 15.33,
+        "pe_ratio": 16.96,
         "forward_return": 10.27,
         "start_price": 35.0,
         "start_year": 2011
@@ -11343,7 +11343,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 16.19,
+        "pe_ratio": 19.28,
         "forward_return": 11.03,
         "start_price": 33.35,
         "start_year": 2011
@@ -11352,7 +11352,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.44,
+        "pe_ratio": 21.94,
         "forward_return": 13.3,
         "start_price": 30.2,
         "start_year": 2011
@@ -11361,7 +11361,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 30.15,
         "forward_return": 11.78,
         "start_price": 30.85,
         "start_year": 2011
@@ -11370,7 +11370,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.4,
+        "pe_ratio": 44.4,
         "forward_return": 12.69,
         "start_price": 29.75,
         "start_year": 2011
@@ -11379,7 +11379,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 28.41,
+        "pe_ratio": 65.0,
         "forward_return": 11.05,
         "start_price": 33.15,
         "start_year": 2011
@@ -11388,7 +11388,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.79,
+        "pe_ratio": 80.29,
         "forward_return": 13.64,
         "start_price": 28.1,
         "start_year": 2011
@@ -11397,7 +11397,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 39.72,
+        "pe_ratio": 150.5,
         "forward_return": 13.68,
         "start_price": 28.6,
         "start_year": 2011
@@ -11406,7 +11406,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 66.04,
+        "pe_ratio": 228.8,
         "forward_return": 12.65,
         "start_price": 32.8,
         "start_year": 2011
@@ -11415,7 +11415,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 113.6,
+        "pe_ratio": 321.2,
         "forward_return": 14.81,
         "start_price": 31.05,
         "start_year": 2011
@@ -11433,7 +11433,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 244.1,
         "forward_return": 12.11,
         "start_price": 35.8,
         "start_year": 2012
@@ -11442,7 +11442,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 77.92,
+        "pe_ratio": 164.4,
         "forward_return": 10.43,
         "start_price": 40.0,
         "start_year": 2012
@@ -11451,7 +11451,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 61.74,
+        "pe_ratio": 135.3,
         "forward_return": 7.78,
         "start_price": 46.0,
         "start_year": 2012
@@ -11460,7 +11460,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 43.31,
+        "pe_ratio": 59.02,
         "forward_return": 10.18,
         "start_price": 42.3,
         "start_year": 2012
@@ -11469,7 +11469,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 34.3,
+        "pe_ratio": 37.91,
         "forward_return": 10.21,
         "start_price": 41.45,
         "start_year": 2012
@@ -11478,7 +11478,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.46,
         "forward_return": 11.02,
         "start_price": 38.9,
         "start_year": 2012
@@ -11487,7 +11487,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.72,
         "forward_return": 11.21,
         "start_price": 39.3,
         "start_year": 2012
@@ -11496,7 +11496,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 19.73,
+        "pe_ratio": 20.37,
         "forward_return": 11.97,
         "start_price": 37.55,
         "start_year": 2012
@@ -11505,7 +11505,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.87,
+        "pe_ratio": 18.79,
         "forward_return": 11.94,
         "start_price": 38.15,
         "start_year": 2012
@@ -11514,7 +11514,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.07,
         "forward_return": 12.06,
         "start_price": 36.9,
         "start_year": 2012
@@ -11523,7 +11523,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 14.79,
         "forward_return": 12.25,
         "start_price": 37.9,
         "start_year": 2012
@@ -11541,7 +11541,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 12.43,
         "forward_return": 13.63,
         "start_price": 39.1,
         "start_year": 2013
@@ -11550,7 +11550,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.11,
+        "pe_ratio": 11.55,
         "forward_return": 12.8,
         "start_price": 40.0,
         "start_year": 2013
@@ -11559,7 +11559,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 12.22,
         "forward_return": 10.72,
         "start_price": 46.2,
         "start_year": 2013
@@ -11568,7 +11568,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 14.76,
+        "pe_ratio": 13.05,
         "forward_return": 10.04,
         "start_price": 48.3,
         "start_year": 2013
@@ -11577,7 +11577,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.0,
         "forward_return": 8.43,
         "start_price": 54.3,
         "start_year": 2013
@@ -11586,7 +11586,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 13.98,
         "forward_return": 9.06,
         "start_price": 49.5,
         "start_year": 2013
@@ -11595,7 +11595,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 12.09,
         "forward_return": 10.79,
         "start_price": 44.3,
         "start_year": 2013
@@ -11604,7 +11604,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 12.23,
         "forward_return": 9.83,
         "start_price": 46.3,
         "start_year": 2013
@@ -11613,7 +11613,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.79,
         "forward_return": 11.42,
         "start_price": 42.2,
         "start_year": 2013
@@ -11622,7 +11622,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 10.39,
+        "pe_ratio": 10.24,
         "forward_return": 12.0,
         "start_price": 40.9,
         "start_year": 2013
@@ -11631,7 +11631,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 9.09,
+        "pe_ratio": 9.03,
         "forward_return": 13.29,
         "start_price": 36.8,
         "start_year": 2013
@@ -11649,7 +11649,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 9.47,
         "forward_return": 12.54,
         "start_price": 39.85,
         "start_year": 2014
@@ -11658,7 +11658,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 9.03,
+        "pe_ratio": 9.55,
         "forward_return": 12.22,
         "start_price": 40.7,
         "start_year": 2014
@@ -11667,7 +11667,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 10.52,
         "forward_return": 11.15,
         "start_price": 45.35,
         "start_year": 2014
@@ -11676,7 +11676,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 9.43,
+        "pe_ratio": 10.59,
         "forward_return": 10.75,
         "start_price": 45.75,
         "start_year": 2014
@@ -11685,7 +11685,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 11.54,
+        "pe_ratio": 13.39,
         "forward_return": 7.42,
         "start_price": 58.0,
         "start_year": 2014
@@ -11694,7 +11694,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 10.96,
+        "pe_ratio": 13.13,
         "forward_return": 5.91,
         "start_price": 57.0,
         "start_year": 2014
@@ -11703,7 +11703,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 12.33,
         "forward_return": 6.85,
         "start_price": 57.5,
         "start_year": 2014
@@ -11712,7 +11712,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 11.43,
+        "pe_ratio": 12.71,
         "forward_return": 5.74,
         "start_price": 63.4,
         "start_year": 2014
@@ -11721,7 +11721,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 9.79,
+        "pe_ratio": 10.55,
         "forward_return": 6.69,
         "start_price": 56.0,
         "start_year": 2014
@@ -11730,7 +11730,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.82,
         "forward_return": 6.95,
         "start_price": 55.2,
         "start_year": 2014
@@ -11739,7 +11739,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.11,
         "forward_return": 3.9,
         "start_price": 71.8,
         "start_year": 2014
@@ -11757,7 +11757,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.99,
         "forward_return": 2.05,
         "start_price": 85.0,
         "start_year": 2015
@@ -11766,7 +11766,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.59,
         "forward_return": 2.31,
         "start_price": 86.2,
         "start_year": 2015
@@ -11775,7 +11775,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 11.85,
         "forward_return": 2.75,
         "start_price": 84.7,
         "start_year": 2015
@@ -11784,7 +11784,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 12.62,
+        "pe_ratio": 12.09,
         "forward_return": 1.82,
         "start_price": 91.3,
         "start_year": 2015
@@ -11793,7 +11793,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.51,
         "forward_return": 2.41,
         "start_price": 91.6,
         "start_year": 2015
@@ -11802,7 +11802,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 11.67,
+        "pe_ratio": 10.8,
         "forward_return": 2.53,
         "start_price": 90.3,
         "start_year": 2015
@@ -11811,7 +11811,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.43,
         "forward_return": 2.93,
         "start_price": 88.8,
         "start_year": 2015
@@ -11820,7 +11820,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 9.72,
         "forward_return": 3.8,
         "start_price": 84.2,
         "start_year": 2015
@@ -11829,7 +11829,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 9.1,
         "forward_return": 4.27,
         "start_price": 80.2,
         "start_year": 2015
@@ -11838,7 +11838,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 9.14,
+        "pe_ratio": 8.92,
         "forward_return": 4.19,
         "start_price": 79.8,
         "start_year": 2015
@@ -11847,7 +11847,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 9.59,
+        "pe_ratio": 9.47,
         "forward_return": 3.87,
         "start_price": 86.1,
         "start_year": 2015
@@ -11865,7 +11865,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 8.61,
         "forward_return": 5.53,
         "start_price": 76.8,
         "start_year": 2016
@@ -11874,7 +11874,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 8.84,
+        "pe_ratio": 9.17,
         "forward_return": 5.47,
         "start_price": 79.0,
         "start_year": 2016
@@ -11883,7 +11883,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 8.54,
+        "pe_ratio": 9.04,
         "forward_return": 7.85,
         "start_price": 75.1,
         "start_year": 2016
@@ -11892,7 +11892,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 7.89,
+        "pe_ratio": 8.29,
         "forward_return": 8.7,
         "start_price": 68.3,
         "start_year": 2016
@@ -11901,7 +11901,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 7.98,
+        "pe_ratio": 8.32,
         "forward_return": 9.61,
         "start_price": 67.9,
         "start_year": 2016
@@ -11910,7 +11910,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 8.11,
+        "pe_ratio": 8.38,
         "forward_return": 9.48,
         "start_price": 67.8,
         "start_year": 2016
@@ -11919,7 +11919,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 9.52,
+        "pe_ratio": 9.77,
         "forward_return": 7.04,
         "start_price": 78.3,
         "start_year": 2016
@@ -11928,7 +11928,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 9.5,
+        "pe_ratio": 9.66,
         "forward_return": 7.51,
         "start_price": 76.7,
         "start_year": 2016
@@ -11937,7 +11937,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 10.16,
+        "pe_ratio": 10.25,
         "forward_return": 6.9,
         "start_price": 80.6,
         "start_year": 2016
@@ -11946,7 +11946,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 10.91,
+        "pe_ratio": 10.98,
         "forward_return": 5.8,
         "start_price": 85.0,
         "start_year": 2016
@@ -11955,7 +11955,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.96,
         "forward_return": 6.83,
         "start_price": 75.9,
         "start_year": 2016
@@ -11973,7 +11973,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 10.22,
+        "pe_ratio": 10.04,
         "forward_return": 7.22,
         "start_price": 75.1,
         "start_year": 2017
@@ -11982,7 +11982,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 11.22,
+        "pe_ratio": 10.82,
         "forward_return": 6.08,
         "start_price": 80.7,
         "start_year": 2017
@@ -11991,7 +11991,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 12.07,
         "forward_return": 3.51,
         "start_price": 89.8,
         "start_year": 2017
@@ -12000,7 +12000,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 12.91,
+        "pe_ratio": 12.08,
         "forward_return": 3.3,
         "start_price": 88.9,
         "start_year": 2017
@@ -12009,7 +12009,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 13.78,
+        "pe_ratio": 12.75,
         "forward_return": 3.08,
         "start_price": 92.8,
         "start_year": 2017
@@ -12018,7 +12018,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 14.48,
+        "pe_ratio": 13.24,
         "forward_return": 1.95,
         "start_price": 95.3,
         "start_year": 2017
@@ -12027,7 +12027,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 15.34,
+        "pe_ratio": 14.15,
         "forward_return": 1.83,
         "start_price": 98.6,
         "start_year": 2017
@@ -12036,7 +12036,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 15.14,
+        "pe_ratio": 14.09,
         "forward_return": 1.16,
         "start_price": 95.0,
         "start_year": 2017
@@ -12045,7 +12045,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 13.01,
+        "pe_ratio": 12.23,
         "forward_return": 3.5,
         "start_price": 79.6,
         "start_year": 2017
@@ -12054,7 +12054,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 13.07,
+        "pe_ratio": 12.53,
         "forward_return": 4.18,
         "start_price": 78.0,
         "start_year": 2017
@@ -12063,7 +12063,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 11.75,
+        "pe_ratio": 11.49,
         "forward_return": 5.66,
         "start_price": 68.3,
         "start_year": 2017
@@ -12081,7 +12081,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 14.25,
+        "pe_ratio": 14.56,
         "forward_return": 3.46,
         "start_price": 79.0,
         "start_year": 2018
@@ -12090,7 +12090,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.44,
         "forward_return": 4.6,
         "start_price": 75.0,
         "start_year": 2018
@@ -12099,7 +12099,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 7.46,
         "forward_return": 11.95,
         "start_price": 30.05,
         "start_year": 2010
@@ -12108,7 +12108,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.55,
+        "pe_ratio": 9.92,
         "forward_return": 9.7,
         "start_price": 37.0,
         "start_year": 2010
@@ -12117,7 +12117,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 14.69,
+        "pe_ratio": 11.69,
         "forward_return": 8.91,
         "start_price": 40.1,
         "start_year": 2010
@@ -12126,7 +12126,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.96,
+        "pe_ratio": 13.05,
         "forward_return": 8.86,
         "start_price": 40.85,
         "start_year": 2010
@@ -12135,7 +12135,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.83,
         "forward_return": 8.44,
         "start_price": 41.45,
         "start_year": 2010
@@ -12144,7 +12144,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.29,
+        "pe_ratio": 14.58,
         "forward_return": 8.79,
         "start_price": 41.75,
         "start_year": 2010
@@ -12162,7 +12162,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 16.73,
         "forward_return": 10.63,
         "start_price": 40.1,
         "start_year": 2011
@@ -12171,7 +12171,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 15.33,
+        "pe_ratio": 16.96,
         "forward_return": 11.75,
         "start_price": 35.0,
         "start_year": 2011
@@ -12180,7 +12180,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 16.19,
+        "pe_ratio": 19.28,
         "forward_return": 12.24,
         "start_price": 33.35,
         "start_year": 2011
@@ -12189,7 +12189,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 16.44,
+        "pe_ratio": 21.94,
         "forward_return": 13.3,
         "start_price": 30.2,
         "start_year": 2011
@@ -12198,7 +12198,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 30.15,
         "forward_return": 13.05,
         "start_price": 30.85,
         "start_year": 2011
@@ -12207,7 +12207,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 21.4,
+        "pe_ratio": 44.4,
         "forward_return": 12.94,
         "start_price": 29.75,
         "start_year": 2011
@@ -12216,7 +12216,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 28.41,
+        "pe_ratio": 65.0,
         "forward_return": 11.9,
         "start_price": 33.15,
         "start_year": 2011
@@ -12225,7 +12225,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 29.79,
+        "pe_ratio": 80.29,
         "forward_return": 13.48,
         "start_price": 28.1,
         "start_year": 2011
@@ -12234,7 +12234,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 39.72,
+        "pe_ratio": 150.5,
         "forward_return": 13.53,
         "start_price": 28.6,
         "start_year": 2011
@@ -12243,7 +12243,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 66.04,
+        "pe_ratio": 228.8,
         "forward_return": 12.09,
         "start_price": 32.8,
         "start_year": 2011
@@ -12252,7 +12252,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 113.6,
+        "pe_ratio": 321.2,
         "forward_return": 12.55,
         "start_price": 31.05,
         "start_year": 2011
@@ -12270,7 +12270,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 244.1,
         "forward_return": 11.26,
         "start_price": 35.8,
         "start_year": 2012
@@ -12279,7 +12279,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 77.92,
+        "pe_ratio": 164.4,
         "forward_return": 10.27,
         "start_price": 40.0,
         "start_year": 2012
@@ -12288,7 +12288,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 61.74,
+        "pe_ratio": 135.3,
         "forward_return": 8.82,
         "start_price": 46.0,
         "start_year": 2012
@@ -12297,7 +12297,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 43.31,
+        "pe_ratio": 59.02,
         "forward_return": 9.52,
         "start_price": 42.3,
         "start_year": 2012
@@ -12306,7 +12306,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 34.3,
+        "pe_ratio": 37.91,
         "forward_return": 9.67,
         "start_price": 41.45,
         "start_year": 2012
@@ -12315,7 +12315,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.46,
         "forward_return": 8.96,
         "start_price": 38.9,
         "start_year": 2012
@@ -12324,7 +12324,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.72,
         "forward_return": 10.0,
         "start_price": 39.3,
         "start_year": 2012
@@ -12333,7 +12333,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 19.73,
+        "pe_ratio": 20.37,
         "forward_return": 10.65,
         "start_price": 37.55,
         "start_year": 2012
@@ -12342,7 +12342,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.87,
+        "pe_ratio": 18.79,
         "forward_return": 9.92,
         "start_price": 38.15,
         "start_year": 2012
@@ -12351,7 +12351,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.07,
         "forward_return": 10.34,
         "start_price": 36.9,
         "start_year": 2012
@@ -12360,7 +12360,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 14.59,
+        "pe_ratio": 14.79,
         "forward_return": 10.38,
         "start_price": 37.9,
         "start_year": 2012
@@ -12378,7 +12378,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 13.3,
+        "pe_ratio": 12.43,
         "forward_return": 10.3,
         "start_price": 39.1,
         "start_year": 2013
@@ -12387,7 +12387,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 13.11,
+        "pe_ratio": 11.55,
         "forward_return": 10.42,
         "start_price": 40.0,
         "start_year": 2013
@@ -12396,7 +12396,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 14.61,
+        "pe_ratio": 12.22,
         "forward_return": 9.01,
         "start_price": 46.2,
         "start_year": 2013
@@ -12405,7 +12405,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 14.76,
+        "pe_ratio": 13.05,
         "forward_return": 8.55,
         "start_price": 48.3,
         "start_year": 2013
@@ -12414,7 +12414,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 15.0,
         "forward_return": 7.8,
         "start_price": 54.3,
         "start_year": 2013
@@ -12423,7 +12423,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 14.16,
+        "pe_ratio": 13.98,
         "forward_return": 8.75,
         "start_price": 49.5,
         "start_year": 2013
@@ -12432,7 +12432,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 12.09,
         "forward_return": 10.36,
         "start_price": 44.3,
         "start_year": 2013
@@ -12441,7 +12441,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 12.46,
+        "pe_ratio": 12.23,
         "forward_return": 10.02,
         "start_price": 46.3,
         "start_year": 2013
@@ -12450,7 +12450,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 11.03,
+        "pe_ratio": 10.79,
         "forward_return": 10.91,
         "start_price": 42.2,
         "start_year": 2013
@@ -12459,7 +12459,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 10.39,
+        "pe_ratio": 10.24,
         "forward_return": 11.15,
         "start_price": 40.9,
         "start_year": 2013
@@ -12468,7 +12468,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 9.09,
+        "pe_ratio": 9.03,
         "forward_return": 12.87,
         "start_price": 36.8,
         "start_year": 2013
@@ -12486,7 +12486,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 9.2,
+        "pe_ratio": 9.47,
         "forward_return": 12.11,
         "start_price": 39.85,
         "start_year": 2014
@@ -12495,7 +12495,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 9.03,
+        "pe_ratio": 9.55,
         "forward_return": 12.12,
         "start_price": 40.7,
         "start_year": 2014
@@ -12504,7 +12504,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 9.69,
+        "pe_ratio": 10.52,
         "forward_return": 12.27,
         "start_price": 45.35,
         "start_year": 2014
@@ -12513,7 +12513,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 9.43,
+        "pe_ratio": 10.59,
         "forward_return": 11.83,
         "start_price": 45.75,
         "start_year": 2014
@@ -12522,7 +12522,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 11.54,
+        "pe_ratio": 13.39,
         "forward_return": 9.84,
         "start_price": 58.0,
         "start_year": 2014
@@ -12531,7 +12531,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 10.96,
+        "pe_ratio": 13.13,
         "forward_return": 9.92,
         "start_price": 57.0,
         "start_year": 2014
@@ -12540,7 +12540,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 10.7,
+        "pe_ratio": 12.33,
         "forward_return": 9.61,
         "start_price": 57.5,
         "start_year": 2014
@@ -12549,7 +12549,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 11.43,
+        "pe_ratio": 12.71,
         "forward_return": 8.7,
         "start_price": 63.4,
         "start_year": 2014
@@ -12558,7 +12558,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 9.79,
+        "pe_ratio": 10.55,
         "forward_return": 10.09,
         "start_price": 56.0,
         "start_year": 2014
@@ -12567,7 +12567,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.82,
         "forward_return": 9.95,
         "start_price": 55.2,
         "start_year": 2014
@@ -12576,7 +12576,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.11,
         "forward_return": 6.73,
         "start_price": 71.8,
         "start_year": 2014
@@ -12594,7 +12594,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.99,
         "forward_return": 5.13,
         "start_price": 85.0,
         "start_year": 2015
@@ -12603,7 +12603,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.59,
         "forward_return": 4.86,
         "start_price": 86.2,
         "start_year": 2015
@@ -12612,7 +12612,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 12.12,
+        "pe_ratio": 11.85,
         "forward_return": 4.17,
         "start_price": 84.7,
         "start_year": 2015
@@ -12621,7 +12621,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 12.62,
+        "pe_ratio": 12.09,
         "forward_return": 3.13,
         "start_price": 91.3,
         "start_year": 2015
@@ -12630,7 +12630,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.51,
         "forward_return": 3.35,
         "start_price": 91.6,
         "start_year": 2015
@@ -12639,7 +12639,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 11.67,
+        "pe_ratio": 10.8,
         "forward_return": 2.91,
         "start_price": 90.3,
         "start_year": 2015
@@ -12648,7 +12648,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.43,
         "forward_return": 3.39,
         "start_price": 88.8,
         "start_year": 2015
@@ -12657,7 +12657,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 9.72,
         "forward_return": 3.09,
         "start_price": 84.2,
         "start_year": 2015
@@ -12666,7 +12666,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 9.45,
+        "pe_ratio": 9.1,
         "forward_return": 3.65,
         "start_price": 80.2,
         "start_year": 2015
@@ -12675,7 +12675,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 9.14,
+        "pe_ratio": 8.92,
         "forward_return": 4.0,
         "start_price": 79.8,
         "start_year": 2015
@@ -12684,7 +12684,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 9.59,
+        "pe_ratio": 9.47,
         "forward_return": 3.03,
         "start_price": 86.1,
         "start_year": 2015
@@ -12702,7 +12702,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 8.45,
+        "pe_ratio": 8.61,
         "forward_return": 4.0,
         "start_price": 76.8,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 8.6倍、9.5倍、12.2倍、14.6倍、17.0倍"
+!!! note "本益比河流帶水位: 8.6倍、9.8倍、12.2倍、14.5倍、17.4倍"
 
 ```vegalite
 {
@@ -12920,1892 +12920,1892 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "date": "2010-06-15",
         "price": 30.05,
-        "pe": 11.01,
-        "pe_10": 23.35,
-        "pe_25": 25.98,
-        "pe_50": 33.41,
-        "pe_75": 39.88,
-        "pe_90": 46.38
+        "pe": 7.46,
+        "pe_10": 34.75,
+        "pe_25": 39.56,
+        "pe_50": 49.22,
+        "pe_75": 58.41,
+        "pe_90": 70.11
       },
       {
         "date": "2010-07-16",
         "price": 37.0,
-        "pe": 13.55,
-        "pe_10": 23.36,
-        "pe_25": 26.0,
-        "pe_50": 33.42,
-        "pe_75": 39.89,
-        "pe_90": 46.4
+        "pe": 9.92,
+        "pe_10": 32.17,
+        "pe_25": 36.63,
+        "pe_50": 45.58,
+        "pe_75": 54.08,
+        "pe_90": 64.92
       },
       {
         "date": "2010-08-16",
         "price": 40.1,
-        "pe": 14.69,
-        "pe_10": 23.36,
-        "pe_25": 25.99,
-        "pe_50": 33.41,
-        "pe_75": 39.88,
-        "pe_90": 46.38
+        "pe": 11.69,
+        "pe_10": 29.59,
+        "pe_25": 33.69,
+        "pe_50": 41.92,
+        "pe_75": 49.74,
+        "pe_90": 59.71
       },
       {
         "date": "2010-09-15",
         "price": 40.85,
-        "pe": 14.96,
-        "pe_10": 23.36,
-        "pe_25": 26.0,
-        "pe_50": 33.42,
-        "pe_75": 39.89,
-        "pe_90": 46.4
+        "pe": 13.05,
+        "pe_10": 27.0,
+        "pe_25": 30.74,
+        "pe_50": 38.25,
+        "pe_75": 45.39,
+        "pe_90": 54.49
       },
       {
         "date": "2010-10-16",
         "price": 41.45,
-        "pe": 15.18,
-        "pe_10": 23.36,
-        "pe_25": 25.99,
-        "pe_50": 33.42,
-        "pe_75": 39.89,
-        "pe_90": 46.4
+        "pe": 13.83,
+        "pe_10": 25.85,
+        "pe_25": 29.43,
+        "pe_50": 36.62,
+        "pe_75": 43.46,
+        "pe_90": 52.17
       },
       {
         "date": "2010-11-15",
         "price": 41.75,
-        "pe": 15.29,
-        "pe_10": 23.36,
-        "pe_25": 25.99,
-        "pe_50": 33.42,
-        "pe_75": 39.89,
-        "pe_90": 46.4
+        "pe": 14.58,
+        "pe_10": 24.7,
+        "pe_25": 28.12,
+        "pe_50": 34.99,
+        "pe_75": 41.52,
+        "pe_90": 49.84
       },
       {
         "date": "2010-12-16",
         "price": 42.0,
         "pe": 15.38,
-        "pe_10": 23.36,
-        "pe_25": 26.0,
-        "pe_50": 33.43,
-        "pe_75": 39.9,
-        "pe_90": 46.4
+        "pe_10": 23.56,
+        "pe_25": 26.82,
+        "pe_50": 33.37,
+        "pe_75": 39.6,
+        "pe_90": 47.53
       },
       {
         "date": "2011-01-16",
         "price": 40.1,
-        "pe": 16.0,
-        "pe_10": 21.44,
-        "pe_25": 23.86,
-        "pe_50": 30.68,
-        "pe_75": 36.62,
-        "pe_90": 42.59
+        "pe": 16.73,
+        "pe_10": 20.68,
+        "pe_25": 23.54,
+        "pe_50": 29.29,
+        "pe_75": 34.75,
+        "pe_90": 41.72
       },
       {
         "date": "2011-02-14",
         "price": 35.0,
-        "pe": 15.33,
-        "pe_10": 19.53,
-        "pe_25": 21.74,
-        "pe_50": 27.95,
-        "pe_75": 33.36,
-        "pe_90": 38.79
+        "pe": 16.96,
+        "pe_10": 17.8,
+        "pe_25": 20.27,
+        "pe_50": 25.22,
+        "pe_75": 29.92,
+        "pe_90": 35.92
       },
       {
         "date": "2011-03-16",
         "price": 33.35,
-        "pe": 16.19,
-        "pe_10": 17.62,
-        "pe_25": 19.61,
-        "pe_50": 25.21,
-        "pe_75": 30.1,
-        "pe_90": 35.0
+        "pe": 19.28,
+        "pe_10": 14.92,
+        "pe_25": 16.99,
+        "pe_50": 21.14,
+        "pe_75": 25.08,
+        "pe_90": 30.11
       },
       {
         "date": "2011-04-15",
         "price": 30.2,
-        "pe": 16.44,
-        "pe_10": 15.72,
-        "pe_25": 17.49,
-        "pe_50": 22.48,
-        "pe_75": 26.84,
-        "pe_90": 31.21
+        "pe": 21.94,
+        "pe_10": 11.87,
+        "pe_25": 13.52,
+        "pe_50": 16.82,
+        "pe_75": 19.96,
+        "pe_90": 23.96
       },
       {
         "date": "2011-05-16",
         "price": 30.85,
-        "pe": 19.12,
-        "pe_10": 13.81,
-        "pe_25": 15.36,
-        "pe_50": 19.75,
-        "pe_75": 23.57,
-        "pe_90": 27.42
+        "pe": 30.15,
+        "pe_10": 8.83,
+        "pe_25": 10.05,
+        "pe_50": 12.5,
+        "pe_75": 14.84,
+        "pe_90": 17.81
       },
       {
         "date": "2011-06-15",
         "price": 29.75,
-        "pe": 21.4,
-        "pe_10": 11.89,
-        "pe_25": 13.23,
-        "pe_50": 17.02,
-        "pe_75": 20.31,
-        "pe_90": 23.62
+        "pe": 44.4,
+        "pe_10": 5.78,
+        "pe_25": 6.58,
+        "pe_50": 8.19,
+        "pe_75": 9.72,
+        "pe_90": 11.66
       },
       {
         "date": "2011-07-16",
         "price": 33.15,
-        "pe": 28.41,
-        "pe_10": 9.98,
-        "pe_25": 11.11,
-        "pe_50": 14.28,
-        "pe_75": 17.05,
-        "pe_90": 19.83
+        "pe": 65.0,
+        "pe_10": 4.4,
+        "pe_25": 5.01,
+        "pe_50": 6.23,
+        "pe_75": 7.4,
+        "pe_90": 8.88
       },
       {
         "date": "2011-08-16",
         "price": 28.1,
-        "pe": 29.79,
-        "pe_10": 8.07,
-        "pe_25": 8.98,
-        "pe_50": 11.55,
-        "pe_75": 13.78,
-        "pe_90": 16.03
+        "pe": 80.29,
+        "pe_10": 3.02,
+        "pe_25": 3.44,
+        "pe_50": 4.28,
+        "pe_75": 5.07,
+        "pe_90": 6.09
       },
       {
         "date": "2011-09-15",
         "price": 28.6,
-        "pe": 39.72,
-        "pe_10": 6.16,
-        "pe_25": 6.85,
-        "pe_50": 8.81,
-        "pe_75": 10.52,
-        "pe_90": 12.23
+        "pe": 150.5,
+        "pe_10": 1.64,
+        "pe_25": 1.87,
+        "pe_50": 2.32,
+        "pe_75": 2.76,
+        "pe_90": 3.31
       },
       {
         "date": "2011-10-16",
         "price": 32.8,
-        "pe": 66.04,
-        "pe_10": 4.25,
-        "pe_25": 4.73,
-        "pe_50": 6.08,
-        "pe_75": 7.26,
-        "pe_90": 8.44
+        "pe": 228.8,
+        "pe_10": 1.24,
+        "pe_25": 1.41,
+        "pe_50": 1.75,
+        "pe_75": 2.08,
+        "pe_90": 2.5
       },
       {
         "date": "2011-11-15",
         "price": 31.05,
-        "pe": 113.6,
-        "pe_10": 2.34,
-        "pe_25": 2.6,
-        "pe_50": 3.35,
-        "pe_75": 3.99,
-        "pe_90": 4.64
+        "pe": 321.2,
+        "pe_10": 0.83,
+        "pe_25": 0.95,
+        "pe_50": 1.18,
+        "pe_75": 1.4,
+        "pe_90": 1.68
       },
       {
         "date": "2011-12-16",
         "price": 32.95,
         "pe": 659.0,
         "pe_10": 0.43,
-        "pe_25": 0.48,
+        "pe_25": 0.49,
         "pe_50": 0.61,
         "pe_75": 0.73,
-        "pe_90": 0.85
+        "pe_90": 0.87
       },
       {
         "date": "2012-01-16",
         "price": 35.8,
-        "pe": 127.1,
-        "pe_10": 2.41,
-        "pe_25": 2.68,
-        "pe_50": 3.45,
-        "pe_75": 4.12,
-        "pe_90": 4.79
+        "pe": 244.1,
+        "pe_10": 1.27,
+        "pe_25": 1.44,
+        "pe_50": 1.79,
+        "pe_75": 2.13,
+        "pe_90": 2.55
       },
       {
         "date": "2012-02-15",
         "price": 40.0,
-        "pe": 77.92,
-        "pe_10": 4.39,
-        "pe_25": 4.89,
-        "pe_50": 6.28,
-        "pe_75": 7.5,
-        "pe_90": 8.72
+        "pe": 164.4,
+        "pe_10": 2.1,
+        "pe_25": 2.39,
+        "pe_50": 2.97,
+        "pe_75": 3.53,
+        "pe_90": 4.24
       },
       {
         "date": "2012-03-16",
         "price": 46.0,
-        "pe": 61.74,
-        "pe_10": 6.37,
-        "pe_25": 7.09,
-        "pe_50": 9.12,
-        "pe_75": 10.89,
-        "pe_90": 12.66
+        "pe": 135.3,
+        "pe_10": 2.93,
+        "pe_25": 3.34,
+        "pe_50": 4.15,
+        "pe_75": 4.93,
+        "pe_90": 5.92
       },
       {
         "date": "2012-04-15",
         "price": 42.3,
-        "pe": 43.31,
-        "pe_10": 8.36,
-        "pe_25": 9.3,
-        "pe_50": 11.95,
-        "pe_75": 14.27,
-        "pe_90": 16.6
+        "pe": 59.02,
+        "pe_10": 6.18,
+        "pe_25": 7.04,
+        "pe_50": 8.76,
+        "pe_75": 10.39,
+        "pe_90": 12.47
       },
       {
         "date": "2012-05-16",
         "price": 41.45,
-        "pe": 34.3,
-        "pe_10": 10.34,
-        "pe_25": 11.5,
-        "pe_50": 14.79,
-        "pe_75": 17.66,
-        "pe_90": 20.53
+        "pe": 37.91,
+        "pe_10": 9.43,
+        "pe_25": 10.74,
+        "pe_50": 13.36,
+        "pe_75": 15.85,
+        "pe_90": 19.03
       },
       {
         "date": "2012-06-15",
         "price": 38.9,
-        "pe": 27.01,
-        "pe_10": 12.32,
-        "pe_25": 13.71,
-        "pe_50": 17.63,
-        "pe_75": 21.04,
-        "pe_90": 24.47
+        "pe": 26.46,
+        "pe_10": 12.68,
+        "pe_25": 14.44,
+        "pe_50": 17.97,
+        "pe_75": 21.32,
+        "pe_90": 25.59
       },
       {
         "date": "2012-07-16",
         "price": 39.3,
-        "pe": 23.51,
-        "pe_10": 14.3,
-        "pe_25": 15.91,
-        "pe_50": 20.46,
-        "pe_75": 24.42,
-        "pe_90": 28.4
+        "pe": 23.72,
+        "pe_10": 14.29,
+        "pe_25": 16.27,
+        "pe_50": 20.25,
+        "pe_75": 24.02,
+        "pe_90": 28.84
       },
       {
         "date": "2012-08-16",
         "price": 37.55,
-        "pe": 19.73,
-        "pe_10": 16.28,
-        "pe_25": 18.12,
-        "pe_50": 23.3,
-        "pe_75": 27.81,
-        "pe_90": 32.34
+        "pe": 20.37,
+        "pe_10": 15.9,
+        "pe_25": 18.1,
+        "pe_50": 22.53,
+        "pe_75": 26.73,
+        "pe_90": 32.09
       },
       {
         "date": "2012-09-15",
         "price": 38.15,
-        "pe": 17.87,
-        "pe_10": 18.27,
-        "pe_25": 20.32,
-        "pe_50": 26.13,
-        "pe_75": 31.19,
-        "pe_90": 36.28
+        "pe": 18.79,
+        "pe_10": 17.51,
+        "pe_25": 19.94,
+        "pe_50": 24.81,
+        "pe_75": 29.44,
+        "pe_90": 35.34
       },
       {
         "date": "2012-10-16",
         "price": 36.9,
-        "pe": 15.59,
-        "pe_10": 20.25,
-        "pe_25": 22.53,
-        "pe_50": 28.97,
-        "pe_75": 34.58,
-        "pe_90": 40.22
+        "pe": 16.07,
+        "pe_10": 19.81,
+        "pe_25": 22.55,
+        "pe_50": 28.06,
+        "pe_75": 33.29,
+        "pe_90": 39.97
       },
       {
         "date": "2012-11-15",
         "price": 37.9,
-        "pe": 14.59,
-        "pe_10": 22.23,
-        "pe_25": 24.73,
-        "pe_50": 31.8,
-        "pe_75": 37.95,
-        "pe_90": 44.14
+        "pe": 14.79,
+        "pe_10": 22.1,
+        "pe_25": 25.16,
+        "pe_50": 31.31,
+        "pe_75": 37.16,
+        "pe_90": 44.6
       },
       {
         "date": "2012-12-16",
         "price": 37.55,
         "pe": 13.27,
-        "pe_10": 24.21,
-        "pe_25": 26.94,
-        "pe_50": 34.64,
-        "pe_75": 41.34,
-        "pe_90": 48.08
+        "pe_10": 24.41,
+        "pe_25": 27.79,
+        "pe_50": 34.58,
+        "pe_75": 41.03,
+        "pe_90": 49.25
       },
       {
         "date": "2013-01-16",
         "price": 39.1,
-        "pe": 13.3,
-        "pe_10": 25.15,
-        "pe_25": 27.99,
-        "pe_50": 35.98,
-        "pe_75": 42.95,
-        "pe_90": 49.95
+        "pe": 12.43,
+        "pe_10": 27.13,
+        "pe_25": 30.89,
+        "pe_50": 38.44,
+        "pe_75": 45.61,
+        "pe_90": 54.75
       },
       {
         "date": "2013-02-14",
         "price": 40.0,
-        "pe": 13.11,
-        "pe_10": 26.11,
-        "pe_25": 29.05,
-        "pe_50": 37.35,
-        "pe_75": 44.58,
-        "pe_90": 51.84
+        "pe": 11.55,
+        "pe_10": 29.87,
+        "pe_25": 34.01,
+        "pe_50": 42.32,
+        "pe_75": 50.22,
+        "pe_90": 60.28
       },
       {
         "date": "2013-03-16",
         "price": 46.2,
-        "pe": 14.61,
-        "pe_10": 27.06,
-        "pe_25": 30.1,
-        "pe_50": 38.71,
-        "pe_75": 46.2,
-        "pe_90": 53.73
+        "pe": 12.22,
+        "pe_10": 32.61,
+        "pe_25": 37.13,
+        "pe_50": 46.2,
+        "pe_75": 54.82,
+        "pe_90": 65.81
       },
       {
         "date": "2013-04-15",
         "price": 48.3,
-        "pe": 14.76,
-        "pe_10": 28.0,
-        "pe_25": 31.15,
-        "pe_50": 40.05,
-        "pe_75": 47.81,
-        "pe_90": 55.6
+        "pe": 13.05,
+        "pe_10": 31.93,
+        "pe_25": 36.35,
+        "pe_50": 45.23,
+        "pe_75": 53.67,
+        "pe_90": 64.42
       },
       {
         "date": "2013-05-16",
         "price": 54.3,
-        "pe": 16.05,
-        "pe_10": 28.95,
-        "pe_25": 32.21,
-        "pe_50": 41.41,
-        "pe_75": 49.43,
-        "pe_90": 57.49
+        "pe": 15.0,
+        "pe_10": 31.23,
+        "pe_25": 35.55,
+        "pe_50": 44.24,
+        "pe_75": 52.49,
+        "pe_90": 63.01
       },
       {
         "date": "2013-06-15",
         "price": 49.5,
-        "pe": 14.16,
-        "pe_10": 29.91,
-        "pe_25": 33.28,
-        "pe_50": 42.79,
-        "pe_75": 51.07,
-        "pe_90": 59.4
+        "pe": 13.98,
+        "pe_10": 30.54,
+        "pe_25": 34.77,
+        "pe_50": 43.27,
+        "pe_75": 51.34,
+        "pe_90": 61.63
       },
       {
         "date": "2013-07-16",
         "price": 44.3,
-        "pe": 12.29,
-        "pe_10": 30.84,
-        "pe_25": 34.32,
-        "pe_50": 44.12,
-        "pe_75": 52.66,
-        "pe_90": 61.25
+        "pe": 12.09,
+        "pe_10": 31.61,
+        "pe_25": 35.98,
+        "pe_50": 44.78,
+        "pe_75": 53.13,
+        "pe_90": 63.78
       },
       {
         "date": "2013-08-16",
         "price": 46.3,
-        "pe": 12.46,
-        "pe_10": 31.79,
-        "pe_25": 35.38,
-        "pe_50": 45.48,
-        "pe_75": 54.29,
-        "pe_90": 63.14
+        "pe": 12.23,
+        "pe_10": 32.66,
+        "pe_25": 37.18,
+        "pe_50": 46.26,
+        "pe_75": 54.89,
+        "pe_90": 65.9
       },
       {
         "date": "2013-09-15",
         "price": 42.2,
-        "pe": 11.03,
-        "pe_10": 32.73,
-        "pe_25": 36.42,
-        "pe_50": 46.83,
-        "pe_75": 55.9,
-        "pe_90": 65.01
+        "pe": 10.79,
+        "pe_10": 33.74,
+        "pe_25": 38.41,
+        "pe_50": 47.79,
+        "pe_75": 56.71,
+        "pe_90": 68.08
       },
       {
         "date": "2013-10-16",
         "price": 40.9,
-        "pe": 10.39,
-        "pe_10": 33.68,
-        "pe_25": 37.48,
-        "pe_50": 48.18,
-        "pe_75": 57.51,
-        "pe_90": 66.89
+        "pe": 10.24,
+        "pe_10": 34.45,
+        "pe_25": 39.22,
+        "pe_50": 48.81,
+        "pe_75": 57.92,
+        "pe_90": 69.52
       },
       {
         "date": "2013-11-15",
         "price": 36.8,
-        "pe": 9.09,
-        "pe_10": 34.64,
-        "pe_25": 38.54,
-        "pe_50": 49.55,
-        "pe_75": 59.15,
-        "pe_90": 68.79
+        "pe": 9.03,
+        "pe_10": 35.15,
+        "pe_25": 40.02,
+        "pe_50": 49.8,
+        "pe_75": 59.09,
+        "pe_90": 70.93
       },
       {
         "date": "2013-12-16",
         "price": 38.4,
         "pe": 9.23,
-        "pe_10": 35.6,
-        "pe_25": 39.61,
-        "pe_50": 50.92,
-        "pe_75": 60.78,
-        "pe_90": 70.69
+        "pe_10": 35.89,
+        "pe_25": 40.85,
+        "pe_50": 50.84,
+        "pe_75": 60.33,
+        "pe_90": 72.41
       },
       {
         "date": "2014-01-16",
         "price": 39.85,
-        "pe": 9.2,
-        "pe_10": 37.06,
-        "pe_25": 41.24,
-        "pe_50": 53.02,
-        "pe_75": 63.28,
-        "pe_90": 73.6
+        "pe": 9.47,
+        "pe_10": 36.3,
+        "pe_25": 41.32,
+        "pe_50": 51.42,
+        "pe_75": 61.02,
+        "pe_90": 73.24
       },
       {
         "date": "2014-02-14",
         "price": 40.7,
-        "pe": 9.03,
-        "pe_10": 38.56,
-        "pe_25": 42.91,
-        "pe_50": 55.17,
-        "pe_75": 65.85,
-        "pe_90": 76.59
+        "pe": 9.55,
+        "pe_10": 36.76,
+        "pe_25": 41.85,
+        "pe_50": 52.08,
+        "pe_75": 61.8,
+        "pe_90": 74.18
       },
       {
         "date": "2014-03-16",
         "price": 45.35,
-        "pe": 9.69,
-        "pe_10": 40.04,
-        "pe_25": 44.55,
-        "pe_50": 57.28,
-        "pe_75": 68.38,
-        "pe_90": 79.52
+        "pe": 10.52,
+        "pe_10": 37.19,
+        "pe_25": 42.33,
+        "pe_50": 52.68,
+        "pe_75": 62.51,
+        "pe_90": 75.03
       },
       {
         "date": "2014-04-15",
         "price": 45.75,
-        "pe": 9.43,
-        "pe_10": 41.51,
-        "pe_25": 46.19,
-        "pe_50": 59.38,
-        "pe_75": 70.88,
-        "pe_90": 82.44
+        "pe": 10.59,
+        "pe_10": 37.27,
+        "pe_25": 42.42,
+        "pe_50": 52.79,
+        "pe_75": 62.64,
+        "pe_90": 75.2
       },
       {
         "date": "2014-05-16",
         "price": 58.0,
-        "pe": 11.54,
-        "pe_10": 43.0,
-        "pe_25": 47.85,
-        "pe_50": 61.52,
-        "pe_75": 73.43,
-        "pe_90": 85.4
+        "pe": 13.39,
+        "pe_10": 37.36,
+        "pe_25": 42.54,
+        "pe_50": 52.93,
+        "pe_75": 62.81,
+        "pe_90": 75.4
       },
       {
         "date": "2014-06-15",
         "price": 57.0,
-        "pe": 10.96,
-        "pe_10": 44.5,
-        "pe_25": 49.51,
-        "pe_50": 63.66,
-        "pe_75": 75.98,
-        "pe_90": 88.37
+        "pe": 13.13,
+        "pe_10": 37.45,
+        "pe_25": 42.63,
+        "pe_50": 53.05,
+        "pe_75": 62.95,
+        "pe_90": 75.56
       },
       {
         "date": "2014-07-16",
         "price": 57.5,
-        "pe": 10.7,
-        "pe_10": 45.98,
-        "pe_25": 51.16,
-        "pe_50": 65.78,
-        "pe_75": 78.51,
-        "pe_90": 91.31
+        "pe": 12.33,
+        "pe_10": 40.23,
+        "pe_25": 45.79,
+        "pe_50": 56.99,
+        "pe_75": 67.62,
+        "pe_90": 81.17
       },
       {
         "date": "2014-08-16",
         "price": 63.4,
-        "pe": 11.43,
-        "pe_10": 47.46,
-        "pe_25": 52.81,
-        "pe_50": 67.89,
-        "pe_75": 81.04,
-        "pe_90": 94.25
+        "pe": 12.71,
+        "pe_10": 43.03,
+        "pe_25": 48.98,
+        "pe_50": 60.96,
+        "pe_75": 72.33,
+        "pe_90": 86.82
       },
       {
         "date": "2014-09-15",
         "price": 56.0,
-        "pe": 9.79,
-        "pe_10": 48.94,
-        "pe_25": 54.46,
-        "pe_50": 70.01,
-        "pe_75": 83.57,
-        "pe_90": 97.2
+        "pe": 10.55,
+        "pe_10": 45.79,
+        "pe_25": 52.13,
+        "pe_50": 64.86,
+        "pe_75": 76.97,
+        "pe_90": 92.39
       },
       {
         "date": "2014-10-16",
         "price": 55.2,
-        "pe": 9.37,
-        "pe_10": 50.4,
-        "pe_25": 56.08,
-        "pe_50": 72.11,
-        "pe_75": 86.07,
-        "pe_90": 100.1
+        "pe": 9.82,
+        "pe_10": 48.49,
+        "pe_25": 55.2,
+        "pe_50": 68.69,
+        "pe_75": 81.51,
+        "pe_90": 97.84
       },
       {
         "date": "2014-11-15",
         "price": 71.8,
-        "pe": 11.84,
-        "pe_10": 51.89,
-        "pe_25": 57.73,
-        "pe_50": 74.23,
-        "pe_75": 88.6,
-        "pe_90": 103.04
+        "pe": 12.11,
+        "pe_10": 51.14,
+        "pe_25": 58.22,
+        "pe_50": 72.45,
+        "pe_75": 85.97,
+        "pe_90": 103.2
       },
       {
         "date": "2014-12-16",
         "price": 73.0,
         "pe": 11.7,
-        "pe_10": 53.38,
-        "pe_25": 59.4,
-        "pe_50": 76.37,
-        "pe_75": 91.16,
-        "pe_90": 106.02
+        "pe_10": 53.82,
+        "pe_25": 61.27,
+        "pe_50": 76.24,
+        "pe_75": 90.47,
+        "pe_90": 108.6
       },
       {
         "date": "2015-01-16",
         "price": 85.0,
-        "pe": 13.1,
-        "pe_10": 55.52,
-        "pe_25": 61.77,
-        "pe_50": 79.42,
-        "pe_75": 94.8,
-        "pe_90": 110.25
+        "pe": 12.99,
+        "pe_10": 56.44,
+        "pe_25": 64.26,
+        "pe_50": 79.96,
+        "pe_75": 94.88,
+        "pe_90": 113.9
       },
       {
         "date": "2015-02-14",
         "price": 86.2,
-        "pe": 12.79,
-        "pe_10": 57.66,
-        "pe_25": 64.16,
-        "pe_50": 82.49,
-        "pe_75": 98.47,
-        "pe_90": 114.52
+        "pe": 12.59,
+        "pe_10": 59.06,
+        "pe_25": 67.23,
+        "pe_50": 83.67,
+        "pe_75": 99.28,
+        "pe_90": 119.17
       },
       {
         "date": "2015-03-16",
         "price": 84.7,
-        "pe": 12.12,
-        "pe_10": 59.79,
-        "pe_25": 66.53,
-        "pe_50": 85.54,
-        "pe_75": 102.1,
-        "pe_90": 118.75
+        "pe": 11.85,
+        "pe_10": 61.66,
+        "pe_25": 70.19,
+        "pe_50": 87.34,
+        "pe_75": 103.64,
+        "pe_90": 124.41
       },
       {
         "date": "2015-04-15",
         "price": 91.3,
-        "pe": 12.62,
-        "pe_10": 61.9,
-        "pe_25": 68.87,
-        "pe_50": 88.55,
-        "pe_75": 105.7,
-        "pe_90": 122.93
+        "pe": 12.09,
+        "pe_10": 65.14,
+        "pe_25": 74.16,
+        "pe_50": 92.28,
+        "pe_75": 109.5,
+        "pe_90": 131.44
       },
       {
         "date": "2015-05-16",
         "price": 91.6,
-        "pe": 12.24,
-        "pe_10": 64.03,
-        "pe_25": 71.24,
-        "pe_50": 91.6,
-        "pe_75": 109.34,
-        "pe_90": 127.16
+        "pe": 11.51,
+        "pe_10": 68.65,
+        "pe_25": 78.15,
+        "pe_50": 97.25,
+        "pe_75": 115.4,
+        "pe_90": 138.52
       },
       {
         "date": "2015-06-15",
         "price": 90.3,
-        "pe": 11.67,
-        "pe_10": 66.2,
-        "pe_25": 73.66,
-        "pe_50": 94.71,
-        "pe_75": 113.05,
-        "pe_90": 131.48
+        "pe": 10.8,
+        "pe_10": 72.12,
+        "pe_25": 82.11,
+        "pe_50": 102.17,
+        "pe_75": 121.24,
+        "pe_90": 145.53
       },
       {
         "date": "2015-07-16",
         "price": 88.8,
-        "pe": 11.12,
-        "pe_10": 68.32,
-        "pe_25": 76.02,
-        "pe_50": 97.74,
-        "pe_75": 116.67,
-        "pe_90": 135.69
+        "pe": 10.43,
+        "pe_10": 73.44,
+        "pe_25": 83.61,
+        "pe_50": 104.04,
+        "pe_75": 123.45,
+        "pe_90": 148.19
       },
       {
         "date": "2015-08-16",
         "price": 84.2,
-        "pe": 10.23,
-        "pe_10": 70.42,
-        "pe_25": 78.36,
-        "pe_50": 100.74,
-        "pe_75": 120.25,
-        "pe_90": 139.86
+        "pe": 9.72,
+        "pe_10": 74.72,
+        "pe_25": 85.07,
+        "pe_50": 105.86,
+        "pe_75": 125.61,
+        "pe_90": 150.78
       },
       {
         "date": "2015-09-15",
         "price": 80.2,
-        "pe": 9.45,
-        "pe_10": 72.61,
-        "pe_25": 80.79,
-        "pe_50": 103.88,
-        "pe_75": 123.99,
-        "pe_90": 144.21
+        "pe": 9.1,
+        "pe_10": 76.02,
+        "pe_25": 86.55,
+        "pe_50": 107.7,
+        "pe_75": 127.79,
+        "pe_90": 153.4
       },
       {
         "date": "2015-10-16",
         "price": 79.8,
-        "pe": 9.14,
-        "pe_10": 74.7,
-        "pe_25": 83.12,
-        "pe_50": 106.87,
-        "pe_75": 127.56,
-        "pe_90": 148.35
+        "pe": 8.92,
+        "pe_10": 77.17,
+        "pe_25": 87.85,
+        "pe_50": 109.32,
+        "pe_75": 129.72,
+        "pe_90": 155.72
       },
       {
         "date": "2015-11-15",
         "price": 86.1,
-        "pe": 9.59,
-        "pe_10": 76.82,
-        "pe_25": 85.47,
-        "pe_50": 109.89,
-        "pe_75": 131.17,
-        "pe_90": 152.56
+        "pe": 9.47,
+        "pe_10": 78.43,
+        "pe_25": 89.28,
+        "pe_50": 111.1,
+        "pe_75": 131.83,
+        "pe_90": 158.25
       },
       {
         "date": "2015-12-16",
         "price": 72.0,
         "pe": 7.8,
-        "pe_10": 78.98,
-        "pe_25": 87.88,
-        "pe_50": 112.98,
-        "pe_75": 134.86,
-        "pe_90": 156.85
+        "pe_10": 79.62,
+        "pe_25": 90.65,
+        "pe_50": 112.8,
+        "pe_75": 133.85,
+        "pe_90": 160.67
       },
       {
         "date": "2016-01-16",
         "price": 76.8,
-        "pe": 8.45,
-        "pe_10": 77.76,
-        "pe_25": 86.52,
-        "pe_50": 111.25,
-        "pe_75": 132.79,
-        "pe_90": 154.44
+        "pe": 8.61,
+        "pe_10": 76.94,
+        "pe_25": 87.59,
+        "pe_50": 109.0,
+        "pe_75": 129.34,
+        "pe_90": 155.26
       },
       {
         "date": "2016-02-15",
         "price": 79.0,
-        "pe": 8.84,
-        "pe_10": 76.46,
-        "pe_25": 85.08,
-        "pe_50": 109.38,
-        "pe_75": 130.56,
-        "pe_90": 151.85
+        "pe": 9.17,
+        "pe_10": 74.31,
+        "pe_25": 84.6,
+        "pe_50": 105.28,
+        "pe_75": 124.92,
+        "pe_90": 149.95
       },
       {
         "date": "2016-03-16",
         "price": 75.1,
-        "pe": 8.54,
-        "pe_10": 75.24,
-        "pe_25": 83.72,
-        "pe_50": 107.64,
-        "pe_75": 128.48,
-        "pe_90": 149.43
+        "pe": 9.04,
+        "pe_10": 71.66,
+        "pe_25": 81.58,
+        "pe_50": 101.52,
+        "pe_75": 120.46,
+        "pe_90": 144.6
       },
       {
         "date": "2016-04-15",
         "price": 68.3,
-        "pe": 7.89,
-        "pe_10": 74.07,
-        "pe_25": 82.41,
-        "pe_50": 105.96,
-        "pe_75": 126.47,
-        "pe_90": 147.09
+        "pe": 8.29,
+        "pe_10": 71.07,
+        "pe_25": 80.91,
+        "pe_50": 100.68,
+        "pe_75": 119.46,
+        "pe_90": 143.41
       },
       {
         "date": "2016-05-16",
         "price": 67.9,
-        "pe": 7.98,
-        "pe_10": 72.8,
-        "pe_25": 81.0,
-        "pe_50": 104.15,
-        "pe_75": 124.31,
-        "pe_90": 144.58
+        "pe": 8.32,
+        "pe_10": 70.4,
+        "pe_25": 80.14,
+        "pe_50": 99.73,
+        "pe_75": 118.34,
+        "pe_90": 142.05
       },
       {
         "date": "2016-06-15",
         "price": 67.8,
-        "pe": 8.11,
-        "pe_10": 71.53,
-        "pe_25": 79.59,
-        "pe_50": 102.33,
-        "pe_75": 122.14,
-        "pe_90": 142.05
+        "pe": 8.38,
+        "pe_10": 69.79,
+        "pe_25": 79.45,
+        "pe_50": 98.87,
+        "pe_75": 117.32,
+        "pe_90": 140.83
       },
       {
         "date": "2016-07-16",
         "price": 78.3,
-        "pe": 9.52,
-        "pe_10": 70.37,
-        "pe_25": 78.3,
-        "pe_50": 100.67,
-        "pe_75": 120.16,
-        "pe_90": 139.76
+        "pe": 9.77,
+        "pe_10": 69.13,
+        "pe_25": 78.7,
+        "pe_50": 97.94,
+        "pe_75": 116.21,
+        "pe_90": 139.5
       },
       {
         "date": "2016-08-16",
         "price": 76.7,
-        "pe": 9.5,
-        "pe_10": 69.08,
-        "pe_25": 76.86,
-        "pe_50": 98.82,
-        "pe_75": 117.96,
-        "pe_90": 137.19
+        "pe": 9.66,
+        "pe_10": 68.49,
+        "pe_25": 77.97,
+        "pe_50": 97.03,
+        "pe_75": 115.13,
+        "pe_90": 138.2
       },
       {
         "date": "2016-09-15",
         "price": 80.6,
-        "pe": 10.16,
-        "pe_10": 67.88,
-        "pe_25": 75.52,
-        "pe_50": 97.1,
-        "pe_75": 115.9,
-        "pe_90": 134.8
+        "pe": 10.25,
+        "pe_10": 67.83,
+        "pe_25": 77.22,
+        "pe_50": 96.09,
+        "pe_75": 114.02,
+        "pe_90": 136.87
       },
       {
         "date": "2016-10-16",
         "price": 85.0,
-        "pe": 10.91,
-        "pe_10": 66.66,
-        "pe_25": 74.17,
-        "pe_50": 95.36,
-        "pe_75": 113.83,
-        "pe_90": 132.38
+        "pe": 10.98,
+        "pe_10": 66.78,
+        "pe_25": 76.02,
+        "pe_50": 94.6,
+        "pe_75": 112.25,
+        "pe_90": 134.75
       },
       {
         "date": "2016-11-15",
         "price": 75.9,
-        "pe": 9.93,
-        "pe_10": 65.4,
-        "pe_25": 72.77,
-        "pe_50": 93.56,
-        "pe_75": 111.67,
-        "pe_90": 129.88
+        "pe": 9.96,
+        "pe_10": 65.73,
+        "pe_25": 74.83,
+        "pe_50": 93.12,
+        "pe_75": 110.5,
+        "pe_90": 132.64
       },
       {
         "date": "2016-12-16",
         "price": 77.0,
         "pe": 10.27,
-        "pe_10": 64.15,
-        "pe_25": 71.38,
-        "pe_50": 91.77,
-        "pe_75": 109.54,
-        "pe_90": 127.4
+        "pe_10": 64.67,
+        "pe_25": 73.63,
+        "pe_50": 91.62,
+        "pe_75": 108.71,
+        "pe_90": 130.5
       },
       {
         "date": "2017-01-16",
         "price": 75.1,
-        "pe": 10.22,
-        "pe_10": 62.87,
-        "pe_25": 69.96,
-        "pe_50": 89.94,
-        "pe_75": 107.36,
-        "pe_90": 124.86
+        "pe": 10.04,
+        "pe_10": 64.52,
+        "pe_25": 73.45,
+        "pe_50": 91.41,
+        "pe_75": 108.46,
+        "pe_90": 130.2
       },
       {
         "date": "2017-02-14",
         "price": 80.7,
-        "pe": 11.22,
-        "pe_10": 61.54,
-        "pe_25": 68.47,
-        "pe_50": 88.04,
-        "pe_75": 105.08,
-        "pe_90": 122.22
+        "pe": 10.82,
+        "pe_10": 64.34,
+        "pe_25": 73.24,
+        "pe_50": 91.14,
+        "pe_75": 108.15,
+        "pe_90": 129.82
       },
       {
         "date": "2017-03-16",
         "price": 89.8,
-        "pe": 12.76,
-        "pe_10": 60.21,
-        "pe_25": 67.0,
-        "pe_50": 86.14,
-        "pe_75": 102.82,
-        "pe_90": 119.58
+        "pe": 12.07,
+        "pe_10": 64.18,
+        "pe_25": 73.06,
+        "pe_50": 90.92,
+        "pe_75": 107.88,
+        "pe_90": 129.5
       },
       {
         "date": "2017-04-15",
         "price": 88.9,
-        "pe": 12.91,
-        "pe_10": 58.92,
-        "pe_25": 65.56,
-        "pe_50": 84.29,
-        "pe_75": 100.61,
-        "pe_90": 117.01
+        "pe": 12.08,
+        "pe_10": 63.48,
+        "pe_25": 72.27,
+        "pe_50": 89.93,
+        "pe_75": 106.71,
+        "pe_90": 128.1
       },
       {
         "date": "2017-05-16",
         "price": 92.8,
-        "pe": 13.78,
-        "pe_10": 57.62,
-        "pe_25": 64.11,
-        "pe_50": 82.43,
-        "pe_75": 98.39,
-        "pe_90": 114.43
+        "pe": 12.75,
+        "pe_10": 62.78,
+        "pe_25": 71.47,
+        "pe_50": 88.94,
+        "pe_75": 105.54,
+        "pe_90": 126.69
       },
       {
         "date": "2017-06-15",
         "price": 95.3,
-        "pe": 14.48,
-        "pe_10": 56.31,
-        "pe_25": 62.66,
-        "pe_50": 80.56,
-        "pe_75": 96.16,
-        "pe_90": 111.83
+        "pe": 13.24,
+        "pe_10": 62.09,
+        "pe_25": 70.68,
+        "pe_50": 87.96,
+        "pe_75": 104.37,
+        "pe_90": 125.29
       },
       {
         "date": "2017-07-16",
         "price": 98.6,
-        "pe": 15.34,
-        "pe_10": 54.99,
-        "pe_25": 61.19,
-        "pe_50": 78.67,
-        "pe_75": 93.91,
-        "pe_90": 109.22
+        "pe": 14.15,
+        "pe_10": 60.11,
+        "pe_25": 68.43,
+        "pe_50": 85.15,
+        "pe_75": 101.04,
+        "pe_90": 121.29
       },
       {
         "date": "2017-08-16",
         "price": 95.0,
-        "pe": 15.14,
-        "pe_10": 53.69,
-        "pe_25": 59.74,
-        "pe_50": 76.8,
-        "pe_75": 91.67,
-        "pe_90": 106.62
+        "pe": 14.09,
+        "pe_10": 58.16,
+        "pe_25": 66.21,
+        "pe_50": 82.39,
+        "pe_75": 97.76,
+        "pe_90": 117.36
       },
       {
         "date": "2017-09-15",
         "price": 79.6,
-        "pe": 13.01,
-        "pe_10": 52.35,
-        "pe_25": 58.25,
-        "pe_50": 74.89,
-        "pe_75": 89.39,
-        "pe_90": 103.96
+        "pe": 12.23,
+        "pe_10": 56.14,
+        "pe_25": 63.91,
+        "pe_50": 79.53,
+        "pe_75": 94.37,
+        "pe_90": 113.29
       },
       {
         "date": "2017-10-16",
         "price": 78.0,
-        "pe": 13.07,
-        "pe_10": 51.06,
-        "pe_25": 56.81,
-        "pe_50": 73.05,
-        "pe_75": 87.19,
-        "pe_90": 101.41
+        "pe": 12.53,
+        "pe_10": 53.7,
+        "pe_25": 61.13,
+        "pe_50": 76.07,
+        "pe_75": 90.26,
+        "pe_90": 108.35
       },
       {
         "date": "2017-11-15",
         "price": 68.3,
-        "pe": 11.75,
-        "pe_10": 49.73,
-        "pe_25": 55.34,
-        "pe_50": 71.15,
-        "pe_75": 84.92,
-        "pe_90": 98.77
+        "pe": 11.49,
+        "pe_10": 51.28,
+        "pe_25": 58.37,
+        "pe_50": 72.64,
+        "pe_75": 86.19,
+        "pe_90": 103.47
       },
       {
         "date": "2017-12-16",
         "price": 72.0,
         "pe": 12.72,
-        "pe_10": 48.43,
-        "pe_25": 53.89,
-        "pe_50": 69.28,
-        "pe_75": 82.7,
-        "pe_90": 96.18
+        "pe_10": 48.83,
+        "pe_25": 55.58,
+        "pe_50": 69.17,
+        "pe_75": 82.08,
+        "pe_90": 98.52
       },
       {
         "date": "2018-01-16",
         "price": 79.0,
-        "pe": 14.25,
-        "pe_10": 47.43,
-        "pe_25": 52.78,
-        "pe_50": 67.86,
-        "pe_75": 81.0,
-        "pe_90": 94.2
+        "pe": 14.56,
+        "pe_10": 46.8,
+        "pe_25": 53.28,
+        "pe_50": 66.3,
+        "pe_75": 78.67,
+        "pe_90": 94.44
       },
       {
         "date": "2018-02-14",
         "price": 75.0,
-        "pe": 13.82,
-        "pe_10": 46.43,
-        "pe_25": 51.66,
-        "pe_50": 66.43,
-        "pe_75": 79.29,
-        "pe_90": 92.21
+        "pe": 14.44,
+        "pe_10": 44.8,
+        "pe_25": 51.0,
+        "pe_50": 63.47,
+        "pe_75": 75.31,
+        "pe_90": 90.41
       },
       {
         "date": "2018-03-16",
         "price": 73.0,
-        "pe": 13.75,
-        "pe_10": 45.42,
-        "pe_25": 50.54,
-        "pe_50": 64.98,
-        "pe_75": 77.57,
-        "pe_90": 90.21
+        "pe": 14.72,
+        "pe_10": 42.78,
+        "pe_25": 48.7,
+        "pe_50": 60.6,
+        "pe_75": 71.91,
+        "pe_90": 86.32
       },
       {
         "date": "2018-04-15",
         "price": 69.5,
-        "pe": 13.39,
-        "pe_10": 44.41,
-        "pe_25": 49.41,
-        "pe_50": 63.53,
-        "pe_75": 75.83,
-        "pe_90": 88.2
+        "pe": 14.22,
+        "pe_10": 42.16,
+        "pe_25": 48.0,
+        "pe_50": 59.73,
+        "pe_75": 70.87,
+        "pe_90": 85.07
       },
       {
         "date": "2018-05-16",
         "price": 63.3,
-        "pe": 12.48,
-        "pe_10": 43.4,
-        "pe_25": 48.29,
-        "pe_50": 62.08,
-        "pe_75": 74.1,
-        "pe_90": 86.19
+        "pe": 13.15,
+        "pe_10": 41.52,
+        "pe_25": 47.27,
+        "pe_50": 58.82,
+        "pe_75": 69.8,
+        "pe_90": 83.79
       },
       {
         "date": "2018-06-15",
         "price": 62.7,
-        "pe": 12.65,
-        "pe_10": 42.41,
-        "pe_25": 47.19,
-        "pe_50": 60.67,
-        "pe_75": 72.41,
-        "pe_90": 84.22
+        "pe": 13.23,
+        "pe_10": 40.88,
+        "pe_25": 46.54,
+        "pe_50": 57.91,
+        "pe_75": 68.72,
+        "pe_90": 82.49
       },
       {
         "date": "2018-07-16",
         "price": 68.1,
-        "pe": 14.08,
-        "pe_10": 41.38,
-        "pe_25": 46.04,
-        "pe_50": 59.2,
-        "pe_75": 70.66,
-        "pe_90": 82.18
+        "pe": 14.7,
+        "pe_10": 39.96,
+        "pe_25": 45.49,
+        "pe_50": 56.61,
+        "pe_75": 67.17,
+        "pe_90": 80.64
       },
       {
         "date": "2018-08-16",
         "price": 66.2,
-        "pe": 14.03,
-        "pe_10": 40.37,
-        "pe_25": 44.92,
-        "pe_50": 57.75,
-        "pe_75": 68.94,
-        "pe_90": 80.18
+        "pe": 14.62,
+        "pe_10": 39.06,
+        "pe_25": 44.47,
+        "pe_50": 55.33,
+        "pe_75": 65.66,
+        "pe_90": 78.82
       },
       {
         "date": "2018-09-15",
         "price": 61.1,
-        "pe": 13.28,
-        "pe_10": 39.37,
-        "pe_25": 43.8,
-        "pe_50": 56.32,
-        "pe_75": 67.22,
-        "pe_90": 78.18
+        "pe": 13.82,
+        "pe_10": 38.14,
+        "pe_25": 43.42,
+        "pe_50": 54.03,
+        "pe_75": 64.11,
+        "pe_90": 76.95
       },
       {
         "date": "2018-10-16",
         "price": 56.3,
-        "pe": 12.55,
-        "pe_10": 38.38,
-        "pe_25": 42.71,
-        "pe_50": 54.91,
-        "pe_75": 65.54,
-        "pe_90": 76.23
+        "pe": 12.9,
+        "pe_10": 37.65,
+        "pe_25": 42.86,
+        "pe_50": 53.33,
+        "pe_75": 63.28,
+        "pe_90": 75.97
       },
       {
         "date": "2018-11-15",
         "price": 52.3,
-        "pe": 11.97,
-        "pe_10": 37.38,
-        "pe_25": 41.6,
-        "pe_50": 53.48,
-        "pe_75": 63.83,
-        "pe_90": 74.24
+        "pe": 12.14,
+        "pe_10": 37.16,
+        "pe_25": 42.31,
+        "pe_50": 52.64,
+        "pe_75": 62.47,
+        "pe_90": 74.99
       },
       {
         "date": "2018-12-16",
         "price": 51.4,
         "pe": 12.09,
-        "pe_10": 36.38,
-        "pe_25": 40.47,
-        "pe_50": 52.04,
-        "pe_75": 62.11,
-        "pe_90": 72.24
+        "pe_10": 36.67,
+        "pe_25": 41.75,
+        "pe_50": 51.95,
+        "pe_75": 61.65,
+        "pe_90": 74.0
       },
       {
         "date": "2019-01-16",
         "price": 51.8,
-        "pe": 11.48,
-        "pe_10": 38.61,
-        "pe_25": 42.96,
-        "pe_50": 55.23,
-        "pe_75": 65.92,
-        "pe_90": 76.67
+        "pe": 12.46,
+        "pe_10": 35.86,
+        "pe_25": 40.82,
+        "pe_50": 50.8,
+        "pe_75": 60.28,
+        "pe_90": 72.36
       },
       {
         "date": "2019-02-14",
         "price": 52.8,
-        "pe": 11.06,
-        "pe_10": 40.85,
-        "pe_25": 45.45,
-        "pe_50": 58.43,
-        "pe_75": 69.75,
-        "pe_90": 81.12
+        "pe": 12.99,
+        "pe_10": 35.06,
+        "pe_25": 39.92,
+        "pe_50": 49.67,
+        "pe_75": 58.94,
+        "pe_90": 70.75
       },
       {
         "date": "2019-03-16",
         "price": 53.3,
-        "pe": 10.58,
-        "pe_10": 43.1,
-        "pe_25": 47.96,
-        "pe_50": 61.66,
-        "pe_75": 73.6,
-        "pe_90": 85.6
+        "pe": 13.43,
+        "pe_10": 34.23,
+        "pe_25": 38.97,
+        "pe_50": 48.5,
+        "pe_75": 57.55,
+        "pe_90": 69.08
       },
       {
         "date": "2019-04-15",
         "price": 58.3,
-        "pe": 11.0,
-        "pe_10": 45.35,
-        "pe_25": 50.46,
-        "pe_50": 64.87,
-        "pe_75": 77.43,
-        "pe_90": 90.06
+        "pe": 14.43,
+        "pe_10": 34.85,
+        "pe_25": 39.67,
+        "pe_50": 49.37,
+        "pe_75": 58.58,
+        "pe_90": 70.32
       },
       {
         "date": "2019-05-16",
         "price": 51.5,
-        "pe": 9.26,
-        "pe_10": 47.58,
-        "pe_25": 52.95,
-        "pe_50": 68.07,
-        "pe_75": 81.25,
-        "pe_90": 94.5
+        "pe": 12.53,
+        "pe_10": 35.45,
+        "pe_25": 40.36,
+        "pe_50": 50.23,
+        "pe_75": 59.6,
+        "pe_90": 71.54
       },
       {
         "date": "2019-06-15",
         "price": 53.7,
-        "pe": 9.22,
-        "pe_10": 49.83,
-        "pe_25": 55.45,
-        "pe_50": 71.29,
-        "pe_75": 85.09,
-        "pe_90": 98.97
+        "pe": 12.85,
+        "pe_10": 36.05,
+        "pe_25": 41.04,
+        "pe_50": 51.07,
+        "pe_75": 60.6,
+        "pe_90": 72.74
       },
       {
         "date": "2019-07-16",
         "price": 50.9,
-        "pe": 8.36,
-        "pe_10": 52.09,
-        "pe_25": 57.96,
-        "pe_50": 74.52,
-        "pe_75": 88.95,
-        "pe_90": 103.46
+        "pe": 11.02,
+        "pe_10": 39.84,
+        "pe_25": 45.36,
+        "pe_50": 56.44,
+        "pe_75": 66.97,
+        "pe_90": 80.4
       },
       {
         "date": "2019-08-16",
         "price": 52.4,
-        "pe": 8.25,
-        "pe_10": 54.34,
-        "pe_25": 60.47,
-        "pe_50": 77.74,
-        "pe_75": 92.8,
-        "pe_90": 107.92
+        "pe": 10.36,
+        "pe_10": 43.63,
+        "pe_25": 49.67,
+        "pe_50": 61.81,
+        "pe_75": 73.34,
+        "pe_90": 88.04
       },
       {
         "date": "2019-09-15",
         "price": 54.0,
-        "pe": 8.17,
-        "pe_10": 56.55,
-        "pe_25": 62.92,
-        "pe_50": 80.9,
-        "pe_75": 96.57,
-        "pe_90": 112.31
+        "pe": 9.82,
+        "pe_10": 47.43,
+        "pe_25": 54.0,
+        "pe_50": 67.2,
+        "pe_75": 79.74,
+        "pe_90": 95.72
       },
       {
         "date": "2019-10-16",
         "price": 59.3,
-        "pe": 8.63,
-        "pe_10": 58.79,
-        "pe_25": 65.42,
-        "pe_50": 84.11,
-        "pe_75": 100.39,
-        "pe_90": 116.76
+        "pe": 9.67,
+        "pe_10": 52.9,
+        "pe_25": 60.22,
+        "pe_50": 74.94,
+        "pe_75": 88.92,
+        "pe_90": 106.74
       },
       {
         "date": "2019-11-15",
         "price": 68.0,
-        "pe": 9.53,
-        "pe_10": 61.05,
-        "pe_25": 67.93,
-        "pe_50": 87.34,
-        "pe_75": 104.25,
-        "pe_90": 121.24
+        "pe": 10.05,
+        "pe_10": 58.36,
+        "pe_25": 66.44,
+        "pe_50": 82.68,
+        "pe_75": 98.11,
+        "pe_90": 117.77
       },
       {
         "date": "2019-12-16",
         "price": 68.4,
         "pe": 9.24,
-        "pe_10": 63.34,
-        "pe_25": 70.47,
-        "pe_50": 90.61,
-        "pe_75": 108.15,
-        "pe_90": 125.78
+        "pe_10": 63.85,
+        "pe_25": 72.69,
+        "pe_50": 90.46,
+        "pe_75": 107.34,
+        "pe_90": 128.85
       },
       {
         "date": "2020-01-16",
         "price": 63.6,
-        "pe": 8.56,
-        "pe_10": 63.57,
-        "pe_25": 70.73,
-        "pe_50": 90.94,
-        "pe_75": 108.55,
-        "pe_90": 126.25
+        "pe": 8.57,
+        "pe_10": 64.02,
+        "pe_25": 72.88,
+        "pe_50": 90.69,
+        "pe_75": 107.61,
+        "pe_90": 129.17
       },
       {
         "date": "2020-02-15",
         "price": 62.7,
-        "pe": 8.41,
-        "pe_10": 63.79,
-        "pe_25": 70.98,
-        "pe_50": 91.25,
-        "pe_75": 108.92,
-        "pe_90": 126.68
+        "pe": 8.43,
+        "pe_10": 64.16,
+        "pe_25": 73.04,
+        "pe_50": 90.89,
+        "pe_75": 107.85,
+        "pe_90": 129.46
       },
       {
         "date": "2020-03-16",
         "price": 58.0,
-        "pe": 7.75,
-        "pe_10": 64.03,
-        "pe_25": 71.25,
-        "pe_50": 91.6,
-        "pe_75": 109.34,
-        "pe_90": 127.17
+        "pe": 7.77,
+        "pe_10": 64.39,
+        "pe_25": 73.3,
+        "pe_50": 91.22,
+        "pe_75": 108.24,
+        "pe_90": 129.93
       },
       {
         "date": "2020-04-15",
         "price": 66.1,
-        "pe": 8.8,
-        "pe_10": 64.27,
-        "pe_25": 71.51,
-        "pe_50": 91.94,
-        "pe_75": 109.74,
-        "pe_90": 127.63
+        "pe": 8.34,
+        "pe_10": 68.37,
+        "pe_25": 77.83,
+        "pe_50": 96.85,
+        "pe_75": 114.92,
+        "pe_90": 137.95
       },
       {
         "date": "2020-05-16",
         "price": 64.5,
-        "pe": 8.56,
-        "pe_10": 64.47,
-        "pe_25": 71.73,
-        "pe_50": 92.23,
-        "pe_75": 110.09,
-        "pe_90": 128.04
+        "pe": 7.68,
+        "pe_10": 72.44,
+        "pe_25": 82.47,
+        "pe_50": 102.63,
+        "pe_75": 121.78,
+        "pe_90": 146.18
       },
       {
         "date": "2020-06-15",
         "price": 64.0,
-        "pe": 8.46,
-        "pe_10": 64.73,
-        "pe_25": 72.02,
-        "pe_50": 92.6,
-        "pe_75": 110.52,
-        "pe_90": 128.54
+        "pe": 7.22,
+        "pe_10": 76.46,
+        "pe_25": 87.05,
+        "pe_50": 108.32,
+        "pe_75": 128.53,
+        "pe_90": 154.29
       },
       {
         "date": "2020-07-16",
         "price": 61.7,
-        "pe": 8.13,
-        "pe_10": 64.93,
-        "pe_25": 72.25,
-        "pe_50": 92.89,
-        "pe_75": 110.88,
-        "pe_90": 128.96
+        "pe": 6.91,
+        "pe_10": 77.02,
+        "pe_25": 87.68,
+        "pe_50": 109.11,
+        "pe_75": 129.47,
+        "pe_90": 155.42
       },
       {
         "date": "2020-08-16",
         "price": 62.5,
-        "pe": 8.2,
-        "pe_10": 65.21,
-        "pe_25": 72.56,
-        "pe_50": 93.29,
-        "pe_75": 111.36,
-        "pe_90": 129.51
+        "pe": 6.95,
+        "pe_10": 77.57,
+        "pe_25": 88.31,
+        "pe_50": 109.89,
+        "pe_75": 130.4,
+        "pe_90": 156.53
       },
       {
         "date": "2020-09-15",
         "price": 63.8,
-        "pe": 8.34,
-        "pe_10": 65.45,
-        "pe_25": 72.83,
-        "pe_50": 93.63,
-        "pe_75": 111.76,
-        "pe_90": 129.99
+        "pe": 7.04,
+        "pe_10": 78.17,
+        "pe_25": 88.99,
+        "pe_50": 110.74,
+        "pe_75": 131.41,
+        "pe_90": 157.74
       },
       {
         "date": "2020-10-16",
         "price": 61.5,
-        "pe": 8.01,
-        "pe_10": 65.69,
-        "pe_25": 73.09,
-        "pe_50": 93.98,
-        "pe_75": 112.17,
-        "pe_90": 130.46
+        "pe": 7.14,
+        "pe_10": 74.3,
+        "pe_25": 84.58,
+        "pe_50": 105.26,
+        "pe_75": 124.89,
+        "pe_90": 149.93
       },
       {
         "date": "2020-11-15",
         "price": 65.3,
-        "pe": 8.48,
-        "pe_10": 65.89,
-        "pe_25": 73.31,
-        "pe_50": 94.25,
-        "pe_75": 112.5,
-        "pe_90": 130.85
+        "pe": 7.99,
+        "pe_10": 70.5,
+        "pe_25": 80.26,
+        "pe_50": 99.87,
+        "pe_75": 118.5,
+        "pe_90": 142.25
       },
       {
         "date": "2020-12-16",
         "price": 67.3,
         "pe": 8.71,
-        "pe_10": 66.11,
-        "pe_25": 73.56,
-        "pe_50": 94.58,
-        "pe_75": 112.89,
-        "pe_90": 131.29
+        "pe_10": 66.65,
+        "pe_25": 75.88,
+        "pe_50": 94.42,
+        "pe_75": 112.04,
+        "pe_90": 134.49
       },
       {
         "date": "2021-01-16",
         "price": 78.4,
-        "pe": 10.14,
-        "pe_10": 66.15,
-        "pe_25": 73.61,
-        "pe_50": 94.64,
-        "pe_75": 112.96,
-        "pe_90": 131.38
+        "pe": 9.72,
+        "pe_10": 69.58,
+        "pe_25": 79.21,
+        "pe_50": 98.56,
+        "pe_75": 116.95,
+        "pe_90": 140.39
       },
       {
         "date": "2021-02-14",
         "price": 74.6,
-        "pe": 9.65,
-        "pe_10": 66.14,
-        "pe_25": 73.6,
-        "pe_50": 94.62,
-        "pe_75": 112.94,
-        "pe_90": 131.36
+        "pe": 8.88,
+        "pe_10": 72.47,
+        "pe_25": 82.5,
+        "pe_50": 102.66,
+        "pe_75": 121.81,
+        "pe_90": 146.23
       },
       {
         "date": "2021-03-16",
         "price": 74.1,
-        "pe": 9.59,
-        "pe_10": 66.11,
-        "pe_25": 73.56,
-        "pe_50": 94.58,
-        "pe_75": 112.89,
-        "pe_90": 131.29
+        "pe": 8.48,
+        "pe_10": 75.38,
+        "pe_25": 85.81,
+        "pe_50": 106.78,
+        "pe_75": 126.7,
+        "pe_90": 152.1
       },
       {
         "date": "2021-04-15",
         "price": 73.6,
-        "pe": 9.53,
-        "pe_10": 66.08,
-        "pe_25": 73.52,
-        "pe_50": 94.53,
-        "pe_75": 112.83,
-        "pe_90": 131.23
+        "pe": 8.63,
+        "pe_10": 73.57,
+        "pe_25": 83.75,
+        "pe_50": 104.22,
+        "pe_75": 123.66,
+        "pe_90": 148.45
       },
       {
         "date": "2021-05-16",
         "price": 73.5,
-        "pe": 9.52,
-        "pe_10": 66.06,
-        "pe_25": 73.5,
-        "pe_50": 94.5,
-        "pe_75": 112.8,
-        "pe_90": 131.19
+        "pe": 8.83,
+        "pe_10": 71.8,
+        "pe_25": 81.74,
+        "pe_50": 101.72,
+        "pe_75": 120.7,
+        "pe_90": 144.89
       },
       {
         "date": "2021-06-15",
         "price": 68.8,
-        "pe": 8.91,
-        "pe_10": 66.07,
-        "pe_25": 73.51,
-        "pe_50": 94.51,
-        "pe_75": 112.81,
-        "pe_90": 131.21
+        "pe": 8.48,
+        "pe_10": 69.98,
+        "pe_25": 79.67,
+        "pe_50": 99.14,
+        "pe_75": 117.64,
+        "pe_90": 141.22
       },
       {
         "date": "2021-07-16",
         "price": 67.3,
-        "pe": 8.72,
-        "pe_10": 66.03,
-        "pe_25": 73.47,
-        "pe_50": 94.47,
-        "pe_75": 112.76,
-        "pe_90": 131.14
+        "pe": 8.87,
+        "pe_10": 65.45,
+        "pe_25": 74.51,
+        "pe_50": 92.72,
+        "pe_75": 110.02,
+        "pe_90": 132.07
       },
       {
         "date": "2021-08-16",
         "price": 64.8,
-        "pe": 8.4,
-        "pe_10": 66.0,
-        "pe_25": 73.44,
-        "pe_50": 94.42,
-        "pe_75": 112.71,
-        "pe_90": 131.08
+        "pe": 9.17,
+        "pe_10": 60.96,
+        "pe_25": 69.39,
+        "pe_50": 86.35,
+        "pe_75": 102.46,
+        "pe_90": 123.0
       },
       {
         "date": "2021-09-15",
         "price": 67.0,
-        "pe": 8.68,
-        "pe_10": 66.04,
-        "pe_25": 73.48,
-        "pe_50": 94.48,
-        "pe_75": 112.77,
-        "pe_90": 131.16
+        "pe": 10.23,
+        "pe_10": 56.49,
+        "pe_25": 64.31,
+        "pe_50": 80.03,
+        "pe_75": 94.97,
+        "pe_90": 114.0
       },
       {
         "date": "2021-10-16",
         "price": 68.0,
-        "pe": 8.82,
-        "pe_10": 65.96,
-        "pe_25": 73.4,
-        "pe_50": 94.37,
-        "pe_75": 112.64,
-        "pe_90": 131.0
+        "pe": 9.8,
+        "pe_10": 59.85,
+        "pe_25": 68.14,
+        "pe_50": 84.79,
+        "pe_75": 100.61,
+        "pe_90": 120.78
       },
       {
         "date": "2021-11-15",
         "price": 66.6,
-        "pe": 8.64,
-        "pe_10": 65.95,
-        "pe_25": 73.38,
-        "pe_50": 94.35,
-        "pe_75": 112.62,
-        "pe_90": 130.98
+        "pe": 9.09,
+        "pe_10": 63.2,
+        "pe_25": 71.95,
+        "pe_50": 89.53,
+        "pe_75": 106.24,
+        "pe_90": 127.53
       },
       {
         "date": "2021-12-16",
         "price": 69.1,
         "pe": 8.96,
-        "pe_10": 65.98,
-        "pe_25": 73.42,
-        "pe_50": 94.4,
-        "pe_75": 112.67,
-        "pe_90": 131.04
+        "pe_10": 66.52,
+        "pe_25": 75.73,
+        "pe_50": 94.24,
+        "pe_75": 111.82,
+        "pe_90": 134.24
       },
       {
         "date": "2022-01-16",
         "price": 69.3,
-        "pe": 9.19,
-        "pe_10": 64.52,
+        "pe": 9.48,
+        "pe_10": 63.06,
         "pe_25": 71.79,
-        "pe_50": 92.3,
-        "pe_75": 110.17,
-        "pe_90": 128.13
+        "pe_50": 89.33,
+        "pe_75": 106.0,
+        "pe_90": 127.24
       },
       {
         "date": "2022-02-14",
         "price": 69.1,
-        "pe": 9.38,
-        "pe_10": 63.03,
-        "pe_25": 70.13,
-        "pe_50": 90.17,
-        "pe_75": 107.63,
-        "pe_90": 125.18
+        "pe": 9.99,
+        "pe_10": 59.67,
+        "pe_25": 67.92,
+        "pe_50": 84.52,
+        "pe_75": 100.3,
+        "pe_90": 120.4
       },
       {
         "date": "2022-03-16",
         "price": 72.4,
-        "pe": 10.06,
-        "pe_10": 61.58,
-        "pe_25": 68.51,
-        "pe_50": 88.09,
-        "pe_75": 105.15,
-        "pe_90": 122.29
+        "pe": 11.1,
+        "pe_10": 56.26,
+        "pe_25": 64.05,
+        "pe_50": 79.71,
+        "pe_75": 94.58,
+        "pe_90": 113.53
       },
       {
         "date": "2022-04-15",
         "price": 70.3,
-        "pe": 10.0,
-        "pe_10": 60.15,
-        "pe_25": 66.93,
-        "pe_50": 86.05,
-        "pe_75": 102.71,
-        "pe_90": 119.45
+        "pe": 11.24,
+        "pe_10": 53.95,
+        "pe_25": 61.42,
+        "pe_50": 76.43,
+        "pe_75": 90.69,
+        "pe_90": 108.86
       },
       {
         "date": "2022-05-16",
         "price": 69.6,
-        "pe": 10.15,
-        "pe_10": 58.67,
-        "pe_25": 65.28,
-        "pe_50": 83.93,
-        "pe_75": 100.18,
-        "pe_90": 116.52
+        "pe": 11.61,
+        "pe_10": 51.71,
+        "pe_25": 58.87,
+        "pe_50": 73.26,
+        "pe_75": 86.93,
+        "pe_90": 104.35
       },
       {
         "date": "2022-06-15",
         "price": 57.0,
-        "pe": 8.53,
-        "pe_10": 57.17,
-        "pe_25": 63.62,
-        "pe_50": 81.79,
-        "pe_75": 97.63,
-        "pe_90": 113.55
+        "pe": 9.95,
+        "pe_10": 49.42,
+        "pe_25": 56.26,
+        "pe_50": 70.0,
+        "pe_75": 83.07,
+        "pe_90": 99.71
       },
       {
         "date": "2022-07-16",
         "price": 62.2,
-        "pe": 9.55,
-        "pe_10": 55.73,
-        "pe_25": 62.0,
-        "pe_50": 79.72,
-        "pe_75": 95.16,
-        "pe_90": 110.67
+        "pe": 10.26,
+        "pe_10": 52.29,
+        "pe_25": 59.53,
+        "pe_50": 74.08,
+        "pe_75": 87.9,
+        "pe_90": 105.52
       },
       {
         "date": "2022-08-16",
         "price": 63.6,
-        "pe": 10.03,
-        "pe_10": 54.25,
-        "pe_25": 60.37,
-        "pe_50": 77.61,
-        "pe_75": 92.64,
-        "pe_90": 107.75
+        "pe": 9.95,
+        "pe_10": 55.14,
+        "pe_25": 62.77,
+        "pe_50": 78.11,
+        "pe_75": 92.68,
+        "pe_90": 111.26
       },
       {
         "date": "2022-09-15",
         "price": 58.5,
-        "pe": 9.48,
-        "pe_10": 52.8,
-        "pe_25": 58.75,
-        "pe_50": 75.53,
-        "pe_75": 90.16,
-        "pe_90": 104.86
+        "pe": 8.71,
+        "pe_10": 57.94,
+        "pe_25": 65.96,
+        "pe_50": 82.07,
+        "pe_75": 97.39,
+        "pe_90": 116.91
       },
       {
         "date": "2022-10-16",
         "price": 59.0,
-        "pe": 9.83,
-        "pe_10": 51.35,
-        "pe_25": 57.14,
-        "pe_50": 73.46,
-        "pe_75": 87.69,
-        "pe_90": 101.99
+        "pe": 9.27,
+        "pe_10": 54.9,
+        "pe_25": 62.5,
+        "pe_50": 77.78,
+        "pe_75": 92.29,
+        "pe_90": 110.78
       },
       {
         "date": "2022-11-15",
         "price": 62.0,
-        "pe": 10.63,
-        "pe_10": 49.9,
-        "pe_25": 55.53,
-        "pe_50": 71.39,
-        "pe_75": 85.21,
-        "pe_90": 99.11
+        "pe": 10.31,
+        "pe_10": 51.87,
+        "pe_25": 59.05,
+        "pe_50": 73.49,
+        "pe_75": 87.2,
+        "pe_90": 104.67
       },
       {
         "date": "2022-12-16",
         "price": 63.5,
         "pe": 11.22,
-        "pe_10": 48.42,
-        "pe_25": 53.88,
-        "pe_50": 69.27,
-        "pe_75": 82.69,
-        "pe_90": 96.17
+        "pe_10": 48.82,
+        "pe_25": 55.58,
+        "pe_50": 69.16,
+        "pe_75": 82.06,
+        "pe_90": 98.51
       },
       {
         "date": "2023-01-16",
         "price": 64.5,
-        "pe": 11.36,
-        "pe_10": 48.58,
-        "pe_25": 54.05,
-        "pe_50": 69.5,
-        "pe_75": 82.95,
-        "pe_90": 96.48
+        "pe": 11.06,
+        "pe_10": 50.31,
+        "pe_25": 57.27,
+        "pe_50": 71.26,
+        "pe_75": 84.56,
+        "pe_90": 101.51
       },
       {
         "date": "2023-02-14",
         "price": 68.0,
-        "pe": 11.93,
-        "pe_10": 48.77,
-        "pe_25": 54.26,
-        "pe_50": 69.77,
-        "pe_75": 83.28,
-        "pe_90": 96.85
+        "pe": 11.33,
+        "pe_10": 51.77,
+        "pe_25": 58.94,
+        "pe_50": 73.34,
+        "pe_75": 87.03,
+        "pe_90": 104.47
       },
       {
         "date": "2023-03-16",
         "price": 69.7,
-        "pe": 12.19,
-        "pe_10": 48.92,
-        "pe_25": 54.43,
-        "pe_50": 69.99,
-        "pe_75": 83.54,
-        "pe_90": 97.16
+        "pe": 11.3,
+        "pe_10": 53.21,
+        "pe_25": 60.57,
+        "pe_50": 75.37,
+        "pe_75": 89.44,
+        "pe_90": 107.36
       },
       {
         "date": "2023-04-15",
         "price": 70.0,
-        "pe": 12.2,
-        "pe_10": 49.09,
-        "pe_25": 54.62,
-        "pe_50": 70.23,
-        "pe_75": 83.83,
-        "pe_90": 97.5
+        "pe": 11.35,
+        "pe_10": 53.2,
+        "pe_25": 60.56,
+        "pe_50": 75.37,
+        "pe_75": 89.43,
+        "pe_90": 107.35
       },
       {
         "date": "2023-05-16",
         "price": 75.3,
-        "pe": 13.07,
-        "pe_10": 49.29,
-        "pe_25": 54.85,
-        "pe_50": 70.52,
-        "pe_75": 84.17,
-        "pe_90": 97.9
+        "pe": 12.2,
+        "pe_10": 53.24,
+        "pe_25": 60.61,
+        "pe_50": 75.42,
+        "pe_75": 89.5,
+        "pe_90": 107.43
       },
       {
         "date": "2023-06-15",
         "price": 74.8,
-        "pe": 12.94,
-        "pe_10": 49.46,
-        "pe_25": 55.03,
-        "pe_50": 70.75,
-        "pe_75": 84.45,
-        "pe_90": 98.22
+        "pe": 12.12,
+        "pe_10": 53.24,
+        "pe_25": 60.61,
+        "pe_50": 75.42,
+        "pe_75": 89.49,
+        "pe_90": 107.42
       },
       {
         "date": "2023-07-16",
         "price": 76.4,
-        "pe": 13.17,
-        "pe_10": 49.63,
-        "pe_25": 55.23,
-        "pe_50": 71.01,
-        "pe_75": 84.75,
-        "pe_90": 98.57
+        "pe": 12.56,
+        "pe_10": 52.47,
+        "pe_25": 59.73,
+        "pe_50": 74.33,
+        "pe_75": 88.2,
+        "pe_90": 105.88
       },
       {
         "date": "2023-08-16",
         "price": 78.0,
-        "pe": 13.4,
-        "pe_10": 49.8,
-        "pe_25": 55.41,
-        "pe_50": 71.25,
-        "pe_75": 85.04,
-        "pe_90": 98.91
+        "pe": 13.01,
+        "pe_10": 51.72,
+        "pe_25": 58.87,
+        "pe_50": 73.26,
+        "pe_75": 86.93,
+        "pe_90": 104.36
       },
       {
         "date": "2023-09-15",
         "price": 76.6,
-        "pe": 13.12,
-        "pe_10": 49.95,
-        "pe_25": 55.58,
-        "pe_50": 71.46,
-        "pe_75": 85.3,
-        "pe_90": 99.21
+        "pe": 12.96,
+        "pe_10": 50.98,
+        "pe_25": 58.04,
+        "pe_50": 72.23,
+        "pe_75": 85.7,
+        "pe_90": 102.88
       },
       {
         "date": "2023-10-16",
         "price": 75.4,
-        "pe": 12.87,
-        "pe_10": 50.13,
-        "pe_25": 55.77,
-        "pe_50": 71.71,
-        "pe_75": 85.59,
-        "pe_90": 99.55
+        "pe": 12.77,
+        "pe_10": 50.93,
+        "pe_25": 57.98,
+        "pe_50": 72.15,
+        "pe_75": 85.61,
+        "pe_90": 102.77
       },
       {
         "date": "2023-11-15",
         "price": 81.2,
-        "pe": 13.81,
-        "pe_10": 50.31,
-        "pe_25": 55.98,
-        "pe_50": 71.97,
-        "pe_75": 85.9,
-        "pe_90": 99.91
+        "pe": 13.75,
+        "pe_10": 50.94,
+        "pe_25": 57.99,
+        "pe_50": 72.16,
+        "pe_75": 85.63,
+        "pe_90": 102.79
       },
       {
         "date": "2023-12-16",
         "price": 87.3,
         "pe": 14.8,
-        "pe_10": 50.47,
-        "pe_25": 56.16,
-        "pe_50": 72.2,
-        "pe_75": 86.18,
-        "pe_90": 100.23
+        "pe_10": 50.88,
+        "pe_25": 57.92,
+        "pe_50": 72.08,
+        "pe_75": 85.53,
+        "pe_90": 102.67
       },
       {
         "date": "2024-01-16",
         "price": 82.7,
-        "pe": 13.93,
-        "pe_10": 50.8,
-        "pe_25": 56.52,
-        "pe_50": 72.67,
-        "pe_75": 86.74,
-        "pe_90": 100.88
+        "pe": 13.95,
+        "pe_10": 51.14,
+        "pe_25": 58.22,
+        "pe_50": 72.44,
+        "pe_75": 85.96,
+        "pe_90": 103.19
       },
       {
         "date": "2024-02-15",
         "price": 85.5,
-        "pe": 14.31,
-        "pe_10": 51.12,
-        "pe_25": 56.88,
-        "pe_50": 73.13,
-        "pe_75": 87.29,
-        "pe_90": 101.52
+        "pe": 14.36,
+        "pe_10": 51.36,
+        "pe_25": 58.47,
+        "pe_50": 72.76,
+        "pe_75": 86.33,
+        "pe_90": 103.64
       },
       {
         "date": "2024-03-16",
         "price": 102.0,
-        "pe": 16.97,
-        "pe_10": 51.43,
-        "pe_25": 57.22,
-        "pe_50": 73.57,
-        "pe_75": 87.81,
-        "pe_90": 102.13
+        "pe": 17.06,
+        "pe_10": 51.57,
+        "pe_25": 58.71,
+        "pe_50": 73.06,
+        "pe_75": 86.69,
+        "pe_90": 104.07
       },
       {
         "date": "2024-04-15",
         "price": 97.7,
-        "pe": 16.16,
-        "pe_10": 51.73,
-        "pe_25": 57.56,
-        "pe_50": 74.0,
-        "pe_75": 88.33,
-        "pe_90": 102.73
+        "pe": 15.52,
+        "pe_10": 54.3,
+        "pe_25": 61.82,
+        "pe_50": 76.93,
+        "pe_75": 91.28,
+        "pe_90": 109.57
       },
       {
         "date": "2024-05-16",
         "price": 106.0,
-        "pe": 17.42,
-        "pe_10": 52.06,
-        "pe_25": 57.93,
-        "pe_50": 74.48,
-        "pe_75": 88.9,
-        "pe_90": 103.4
+        "pe": 16.04,
+        "pe_10": 57.0,
+        "pe_25": 64.9,
+        "pe_50": 80.76,
+        "pe_75": 95.82,
+        "pe_90": 115.03
       },
       {
         "date": "2024-06-15",
         "price": 104.5,
-        "pe": 17.08,
-        "pe_10": 52.35,
-        "pe_25": 58.25,
-        "pe_50": 74.89,
-        "pe_75": 89.39,
-        "pe_90": 103.96
+        "pe": 15.1,
+        "pe_10": 59.7,
+        "pe_25": 67.96,
+        "pe_50": 84.57,
+        "pe_75": 100.35,
+        "pe_90": 120.46
       },
       {
         "date": "2024-07-16",
         "price": 100.5,
-        "pe": 16.32,
-        "pe_10": 52.69,
-        "pe_25": 58.62,
-        "pe_50": 75.38,
-        "pe_75": 89.97,
-        "pe_90": 104.64
+        "pe": 14.61,
+        "pe_10": 59.34,
+        "pe_25": 67.55,
+        "pe_50": 84.06,
+        "pe_75": 99.74,
+        "pe_90": 119.73
       },
       {
         "date": "2024-08-16",
         "price": 102.5,
-        "pe": 16.55,
-        "pe_10": 52.99,
-        "pe_25": 58.96,
-        "pe_50": 75.81,
-        "pe_75": 90.48,
-        "pe_90": 105.24
+        "pe": 14.99,
+        "pe_10": 58.98,
+        "pe_25": 67.15,
+        "pe_50": 83.56,
+        "pe_75": 99.15,
+        "pe_90": 119.02
       },
       {
         "date": "2024-09-15",
         "price": 103.0,
-        "pe": 16.53,
-        "pe_10": 53.31,
-        "pe_25": 59.32,
-        "pe_50": 76.27,
-        "pe_75": 91.04,
-        "pe_90": 105.88
+        "pe": 15.15,
+        "pe_10": 58.65,
+        "pe_25": 66.76,
+        "pe_50": 83.08,
+        "pe_75": 98.58,
+        "pe_90": 118.34
       },
       {
         "date": "2024-10-16",
         "price": 99.0,
-        "pe": 15.8,
-        "pe_10": 53.61,
-        "pe_25": 59.65,
-        "pe_50": 76.69,
-        "pe_75": 91.54,
-        "pe_90": 106.47
+        "pe": 14.89,
+        "pe_10": 57.35,
+        "pe_25": 65.29,
+        "pe_50": 81.25,
+        "pe_75": 96.41,
+        "pe_90": 115.73
       },
       {
         "date": "2024-11-15",
         "price": 94.3,
-        "pe": 14.96,
-        "pe_10": 53.93,
-        "pe_25": 60.01,
-        "pe_50": 77.15,
-        "pe_75": 92.09,
-        "pe_90": 107.11
+        "pe": 14.52,
+        "pe_10": 56.02,
+        "pe_25": 63.78,
+        "pe_50": 79.36,
+        "pe_75": 94.17,
+        "pe_90": 113.04
       },
       {
         "date": "2024-12-16",
         "price": 91.9,
         "pe": 14.5,
-        "pe_10": 54.23,
-        "pe_25": 60.34,
-        "pe_50": 77.58,
-        "pe_75": 92.6,
-        "pe_90": 107.69
+        "pe_10": 54.67,
+        "pe_25": 62.24,
+        "pe_50": 77.45,
+        "pe_75": 91.9,
+        "pe_90": 110.32
       },
       {
         "date": "2025-01-16",
         "price": 96.7,
-        "pe": 15.56,
-        "pe_10": 53.17,
-        "pe_25": 59.16,
-        "pe_50": 76.07,
-        "pe_75": 90.8,
-        "pe_90": 105.6
+        "pe": 14.93,
+        "pe_10": 55.87,
+        "pe_25": 63.6,
+        "pe_50": 79.15,
+        "pe_75": 93.91,
+        "pe_90": 112.74
       },
       {
         "date": "2025-02-14",
         "price": 95.0,
-        "pe": 15.61,
-        "pe_10": 52.07,
-        "pe_25": 57.94,
-        "pe_50": 74.49,
-        "pe_75": 88.91,
-        "pe_90": 103.41
+        "pe": 14.36,
+        "pe_10": 57.07,
+        "pe_25": 64.97,
+        "pe_50": 80.84,
+        "pe_75": 95.93,
+        "pe_90": 115.15
       },
       {
         "date": "2025-03-16",
         "price": 83.9,
-        "pe": 14.08,
-        "pe_10": 50.98,
-        "pe_25": 56.73,
-        "pe_50": 72.94,
-        "pe_75": 87.06,
-        "pe_90": 101.25
+        "pe": 12.43,
+        "pe_10": 58.22,
+        "pe_25": 66.28,
+        "pe_50": 82.48,
+        "pe_75": 97.87,
+        "pe_90": 117.49
       },
       {
         "date": "2025-04-15",
         "price": 80.8,
-        "pe": 13.85,
-        "pe_10": 49.92,
-        "pe_25": 55.54,
-        "pe_50": 71.41,
-        "pe_75": 85.23,
-        "pe_90": 99.13
+        "pe": 13.3,
+        "pe_10": 52.4,
+        "pe_25": 59.66,
+        "pe_50": 74.24,
+        "pe_75": 88.09,
+        "pe_90": 105.74
       },
       {
         "date": "2025-05-16",
         "price": 83.9,
-        "pe": 14.7,
-        "pe_10": 48.83,
-        "pe_25": 54.34,
-        "pe_50": 69.86,
-        "pe_75": 83.39,
-        "pe_90": 96.98
+        "pe": 15.53,
+        "pe_10": 46.6,
+        "pe_25": 53.05,
+        "pe_50": 66.02,
+        "pe_75": 78.34,
+        "pe_90": 94.03
       },
       {
         "date": "2025-06-15",
         "price": 76.8,
-        "pe": 13.76,
-        "pe_10": 47.75,
-        "pe_25": 53.13,
-        "pe_50": 68.32,
-        "pe_75": 81.54,
-        "pe_90": 94.84
+        "pe": 16.24,
+        "pe_10": 40.79,
+        "pe_25": 46.44,
+        "pe_50": 57.79,
+        "pe_75": 68.57,
+        "pe_90": 82.31
       },
       {
         "date": "2025-07-16",
         "price": 80.0,
-        "pe": 14.67,
-        "pe_10": 46.66,
-        "pe_25": 51.92,
-        "pe_50": 66.75,
-        "pe_75": 79.67,
-        "pe_90": 92.66
+        "pe": 16.81,
+        "pe_10": 41.05,
+        "pe_25": 46.73,
+        "pe_50": 58.16,
+        "pe_75": 69.01,
+        "pe_90": 82.84
       },
       {
         "date": "2025-08-16",
         "price": 70.2,
-        "pe": 13.18,
-        "pe_10": 45.57,
-        "pe_25": 50.71,
-        "pe_50": 65.19,
-        "pe_75": 77.82,
-        "pe_90": 90.5
+        "pe": 14.66,
+        "pe_10": 41.31,
+        "pe_25": 47.02,
+        "pe_50": 58.52,
+        "pe_75": 69.43,
+        "pe_90": 83.35
       },
       {
         "date": "2025-09-15",
         "price": 70.8,
-        "pe": 13.62,
-        "pe_10": 44.48,
-        "pe_25": 49.49,
-        "pe_50": 63.63,
-        "pe_75": 75.95,
-        "pe_90": 88.33
+        "pe": 14.69,
+        "pe_10": 41.57,
+        "pe_25": 47.33,
+        "pe_50": 58.9,
+        "pe_75": 69.88,
+        "pe_90": 83.89
       },
       {
         "date": "2025-10-16",
         "price": 74.2,
-        "pe": 14.63,
-        "pe_10": 43.39,
-        "pe_25": 48.28,
-        "pe_50": 62.08,
-        "pe_75": 74.1,
-        "pe_90": 86.18
+        "pe": 14.81,
+        "pe_10": 43.22,
+        "pe_25": 49.2,
+        "pe_50": 61.22,
+        "pe_75": 72.65,
+        "pe_90": 87.21
       },
       {
         "date": "2025-11-15",
         "price": 72.1,
-        "pe": 14.58,
-        "pe_10": 42.31,
-        "pe_25": 47.08,
-        "pe_50": 60.53,
-        "pe_75": 72.25,
-        "pe_90": 84.03
+        "pe": 13.87,
+        "pe_10": 44.84,
+        "pe_25": 51.05,
+        "pe_50": 63.52,
+        "pe_75": 75.37,
+        "pe_90": 90.48
       },
       {
         "date": "2025-12-16",
         "price": 68.6,
-        "pe": 14.23,
-        "pe_10": 41.25,
-        "pe_25": 45.89,
-        "pe_50": 59.01,
-        "pe_75": 70.43,
-        "pe_90": 81.92
+        "pe": 12.73,
+        "pe_10": 46.48,
+        "pe_25": 52.92,
+        "pe_50": 65.85,
+        "pe_75": 78.14,
+        "pe_90": 93.8
       },
       {
         "date": "2026-01-16",
         "price": 69.7,
-        "pe": 14.46,
-        "pe_10": 41.24,
-        "pe_25": 45.89,
-        "pe_50": 59.0,
-        "pe_75": 70.42,
-        "pe_90": 81.9
+        "pe": 12.93,
+        "pe_10": 46.5,
+        "pe_25": 52.94,
+        "pe_50": 65.87,
+        "pe_75": 78.16,
+        "pe_90": 93.83
       },
       {
         "date": "2026-02-14",
         "price": 73.5,
-        "pe": 15.25,
-        "pe_10": 41.24,
-        "pe_25": 45.88,
-        "pe_50": 58.99,
-        "pe_75": 70.42,
-        "pe_90": 81.9
+        "pe": 13.64,
+        "pe_10": 46.48,
+        "pe_25": 52.92,
+        "pe_50": 65.85,
+        "pe_75": 78.13,
+        "pe_90": 93.79
       }
     ]
   },
@@ -14950,7 +14950,7 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (17.0倍)",
+            "title": "PE 90% (17.4倍)",
             "format": ".1f"
           }
         ]
@@ -15670,6 +15670,10 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "date": "2026-01-16",
         "revenue_yoy": -12.5
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": -17.6
       }
     ]
   },
@@ -15737,16 +15741,16 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 18.3 | +28.6% | 0.063 | 2014-10 (+455.0%) | 2010-12 (-60.8%) |
-| 6個月 | 18.4 | +18.6% | 0.001 | 2014-02 (+165.2%) | 2010-11 (-45.7%) |
-| 1年 | 18.5 | +13.8% | 0.000 | 2014-01 (+120.4%) | 2018-01 (-29.4%) |
-| 2年 | 18.7 | +13.2% | 0.001 | 2013-11 (+58.9%) | 2017-07 (-23.1%) |
-| 3年 | 19.1 | +12.4% | 0.054 | 2012-01 (+35.6%) | 2017-07 (-9.2%) |
-| 4年 | 19.8 | +11.8% | 0.041 | 2011-08 (+34.7%) | 2015-05 (-6.7%) |
-| 5年 | 20.8 | +10.7% | 0.054 | 2011-09 (+26.8%) | 2017-06 (-3.8%) |
-| 6年 | 22.2 | +9.8% | 0.051 | 2011-08 (+26.1%) | 2016-10 (+0.1%) |
-| 8年 | 24.9 | +8.2% | 0.060 | 2011-11 (+14.8%) | 2017-08 (+1.2%) |
-| 10年 | 29.9 | +9.2% | 0.034 | 2011-09 (+13.5%) | 2015-06 (+2.9%) |
+| 3個月 | 23.2 | +28.6% | 0.067 | 2014-10 (+455.0%) | 2010-12 (-60.8%) |
+| 6個月 | 23.3 | +18.6% | 0.009 | 2014-02 (+165.2%) | 2010-11 (-45.7%) |
+| 1年 | 23.6 | +13.8% | 0.000 | 2014-01 (+120.4%) | 2018-01 (-29.4%) |
+| 2年 | 24.2 | +13.2% | 0.000 | 2013-11 (+58.9%) | 2017-07 (-23.1%) |
+| 3年 | 25.0 | +12.4% | 0.102 | 2012-01 (+35.6%) | 2017-07 (-9.2%) |
+| 4年 | 26.3 | +11.8% | 0.100 | 2011-08 (+34.7%) | 2015-05 (-6.7%) |
+| 5年 | 27.9 | +10.7% | 0.117 | 2011-09 (+26.8%) | 2017-06 (-3.8%) |
+| 6年 | 30.1 | +9.8% | 0.119 | 2011-08 (+26.1%) | 2016-10 (+0.1%) |
+| 8年 | 34.5 | +8.2% | 0.116 | 2011-11 (+14.8%) | 2017-08 (+1.2%) |
+| 10年 | 43.1 | +9.2% | 0.077 | 2011-09 (+13.5%) | 2015-06 (+2.9%) |
 
 
 ## 🎯 使用說明
@@ -15765,4 +15769,4 @@ description: "4938 和碩 (電腦及週邊設備業) 本益比與未來報酬率
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:34:26 CST*
+*數據更新時間: 2026-03-21 12:41:05 CST*

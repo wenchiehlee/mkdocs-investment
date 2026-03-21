@@ -2,7 +2,7 @@
 title: "2395 研華 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
     - **產業別**: 電腦及週邊設備業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:30:35 CST
+    - **報告生成時間**: 2026-03-21 12:36:34 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 14.27,
+        "pe_ratio": 15.55,
         "forward_return": 54.67,
         "start_price": 89.9,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.89,
+        "pe_ratio": 14.74,
         "forward_return": 100.03,
         "start_price": 87.5,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.23,
         "forward_return": 56.14,
         "start_price": 86.7,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.85,
         "forward_return": 30.83,
         "start_price": 92.8,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 15.84,
         "forward_return": -26.3,
         "start_price": 100.0,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 14.58,
         "forward_return": 98.84,
         "start_price": 93.0,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 15.13,
+        "pe_ratio": 14.8,
         "forward_return": 127.82,
         "start_price": 95.3,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.48,
         "forward_return": 58.56,
         "start_price": 92.6,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.74,
         "forward_return": 19.77,
         "start_price": 99.9,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.66,
         "forward_return": -14.98,
         "start_price": 104.0,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.07,
         "forward_return": -51.76,
         "start_price": 118.0,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.29,
         "forward_return": 5.77,
         "start_price": 106.0,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 44.74,
         "start_price": 98.5,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.96,
         "forward_return": 22.19,
         "start_price": 98.6,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.94,
         "forward_return": -13.6,
         "start_price": 105.0,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 16.8,
+        "pe_ratio": 17.21,
         "forward_return": -48.94,
         "start_price": 104.0,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.94,
         "forward_return": -59.2,
         "start_price": 99.7,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.96,
         "forward_return": -66.71,
         "start_price": 97.2,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.99,
         "forward_return": -68.75,
         "start_price": 87.8,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 12.5,
+        "pe_ratio": 12.8,
         "forward_return": -17.74,
         "start_price": 76.6,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.58,
         "forward_return": 76.06,
         "start_price": 65.5,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.6,
         "forward_return": 38.83,
         "start_price": 72.8,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.29,
         "forward_return": -6.93,
         "start_price": 71.8,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 12.57,
         "forward_return": -36.51,
         "start_price": 78.5,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.89,
         "forward_return": -16.47,
         "start_price": 79.0,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 12.98,
         "forward_return": -51.51,
         "start_price": 78.0,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.31,
         "forward_return": -75.67,
         "start_price": 66.1,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.6,
         "forward_return": -70.61,
         "start_price": 71.5,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.07,
         "forward_return": -63.36,
         "start_price": 61.0,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.75,
+        "pe_ratio": 8.6,
         "forward_return": -36.47,
         "start_price": 46.3,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 7.98,
+        "pe_ratio": 7.91,
         "forward_return": 45.93,
         "start_price": 41.6,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 8.27,
+        "pe_ratio": 8.31,
         "forward_return": 81.12,
         "start_price": 41.3,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 9.06,
+        "pe_ratio": 9.15,
         "forward_return": 70.74,
         "start_price": 44.0,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.13,
         "forward_return": 38.4,
         "start_price": 47.1,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.71,
         "forward_return": 2.33,
         "start_price": 52.2,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.77,
         "forward_return": 54.35,
         "start_price": 50.2,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 10.78,
+        "pe_ratio": 11.43,
         "forward_return": 233.89,
         "start_price": 46.5,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.55,
         "forward_return": 98.09,
         "start_price": 49.5,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 13.11,
+        "pe_ratio": 13.89,
         "forward_return": 148.16,
         "start_price": 53.0,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.26,
         "forward_return": 105.57,
         "start_price": 60.0,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.21,
         "forward_return": 48.88,
         "start_price": 58.8,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 17.23,
         "forward_return": 35.23,
         "start_price": 61.4,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.16,
         "forward_return": 13.19,
         "start_price": 65.0,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 16.53,
+        "pe_ratio": 17.73,
         "forward_return": 18.7,
         "start_price": 64.9,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 18.13,
         "forward_return": 23.23,
         "start_price": 67.8,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 16.24,
+        "pe_ratio": 17.15,
         "forward_return": 11.85,
         "start_price": 70.7,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 15.02,
         "forward_return": 63.29,
         "start_price": 67.7,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.83,
+        "pe_ratio": 13.52,
         "forward_return": 186.93,
         "start_price": 66.1,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 13.53,
         "forward_return": 118.0,
         "start_price": 68.7,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.79,
         "forward_return": 46.63,
         "start_price": 72.6,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 1.47,
         "start_price": 82.2,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.84,
+        "pe_ratio": 14.79,
         "forward_return": 32.26,
         "start_price": 83.6,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.96,
+        "pe_ratio": 13.93,
         "forward_return": 39.36,
         "start_price": 81.6,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.17,
         "forward_return": 8.73,
         "start_price": 89.7,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.39,
         "forward_return": 62.53,
         "start_price": 81.8,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 13.25,
         "forward_return": 36.63,
         "start_price": 91.0,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 14.18,
         "forward_return": 28.95,
         "start_price": 94.8,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.19,
         "forward_return": -20.58,
         "start_price": 92.2,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.47,
         "forward_return": -42.5,
         "start_price": 97.6,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.36,
         "forward_return": -48.73,
         "start_price": 97.5,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.08,
         "forward_return": 1.08,
         "start_price": 83.5,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.68,
         "forward_return": 12.37,
         "start_price": 81.4,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.82,
         "forward_return": 39.46,
         "start_price": 82.4,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.82,
         "forward_return": 92.56,
         "start_price": 82.5,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.14,
         "forward_return": 47.88,
         "start_price": 89.6,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.88,
         "forward_return": 12.73,
         "start_price": 99.0,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 16.04,
+        "pe_ratio": 16.72,
         "forward_return": 28.53,
         "start_price": 102.5,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.57,
+        "pe_ratio": 16.17,
         "forward_return": 59.66,
         "start_price": 99.2,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 16.6,
         "forward_return": 29.98,
         "start_price": 102.0,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.56,
+        "pe_ratio": 16.03,
         "forward_return": 65.64,
         "start_price": 98.6,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.85,
+        "pe_ratio": 17.34,
         "forward_return": -18.98,
         "start_price": 106.5,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.5,
+        "pe_ratio": 16.95,
         "forward_return": 63.26,
         "start_price": 104.0,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 17.46,
         "forward_return": 72.11,
         "start_price": 107.0,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 16.11,
+        "pe_ratio": 16.38,
         "forward_return": 122.21,
         "start_price": 101.0,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.5,
         "forward_return": 44.69,
         "start_price": 108.5,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 19.53,
+        "pe_ratio": 19.7,
         "forward_return": 69.93,
         "start_price": 123.5,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 20.96,
         "forward_return": 54.77,
         "start_price": 132.0,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 19.35,
         "forward_return": 82.95,
         "start_price": 122.5,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.44,
+        "pe_ratio": 21.96,
         "forward_return": 27.8,
         "start_price": 141.0,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 22.58,
         "forward_return": 29.49,
         "start_price": 147.0,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 21.67,
         "forward_return": 100.5,
         "start_price": 143.0,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.22,
+        "pe_ratio": 21.6,
         "forward_return": 183.38,
         "start_price": 145.0,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 21.97,
+        "pe_ratio": 22.27,
         "forward_return": 150.27,
         "start_price": 152.0,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 23.85,
         "forward_return": 143.11,
         "start_price": 165.5,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 26.75,
         "forward_return": 1.06,
         "start_price": 188.5,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 25.51,
+        "pe_ratio": 25.58,
         "forward_return": 26.12,
         "start_price": 183.0,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 25.87,
+        "pe_ratio": 25.51,
         "forward_return": 63.2,
         "start_price": 189.0,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.05,
+        "pe_ratio": 25.33,
         "forward_return": 82.17,
         "start_price": 191.5,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 25.62,
         "forward_return": 80.98,
         "start_price": 197.5,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.15,
         "forward_return": 133.12,
         "start_price": 195.0,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 29.66,
+        "pe_ratio": 28.47,
         "forward_return": 172.54,
         "start_price": 222.0,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 33.86,
+        "pe_ratio": 32.53,
         "forward_return": -44.07,
         "start_price": 255.0,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 31.09,
+        "pe_ratio": 30.51,
         "forward_return": -35.35,
         "start_price": 235.5,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 36.81,
+        "pe_ratio": 36.91,
         "forward_return": -41.51,
         "start_price": 280.5,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.74,
         "forward_return": 41.69,
         "start_price": 215.0,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 27.37,
+        "pe_ratio": 27.81,
         "forward_return": 61.29,
         "start_price": 211.0,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 27.34,
+        "pe_ratio": 27.56,
         "forward_return": 43.12,
         "start_price": 212.0,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 30.42,
+        "pe_ratio": 30.45,
         "forward_return": 12.65,
         "start_price": 238.0,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 30.59,
+        "pe_ratio": 30.64,
         "forward_return": 13.3,
         "start_price": 240.0,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 30.3,
+        "pe_ratio": 30.38,
         "forward_return": -22.54,
         "start_price": 238.5,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 32.12,
+        "pe_ratio": 32.02,
         "forward_return": -44.41,
         "start_price": 253.5,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 31.0,
         "forward_return": -44.9,
         "start_price": 247.5,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.7,
+        "pe_ratio": 26.34,
         "forward_return": 40.59,
         "start_price": 212.0,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 26.75,
+        "pe_ratio": 26.61,
         "forward_return": 44.02,
         "start_price": 213.0,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.02,
         "forward_return": 6.65,
         "start_price": 207.0,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 28.09,
+        "pe_ratio": 28.45,
         "forward_return": -21.99,
         "start_price": 225.0,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 29.07,
+        "pe_ratio": 29.31,
         "forward_return": -42.63,
         "start_price": 233.5,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.73,
         "forward_return": 34.28,
         "start_price": 214.5,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 24.88,
         "forward_return": 67.86,
         "start_price": 203.0,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 27.96,
+        "pe_ratio": 27.91,
         "forward_return": 20.62,
         "start_price": 230.0,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 28.49,
+        "pe_ratio": 28.43,
         "forward_return": 23.83,
         "start_price": 236.5,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 27.23,
+        "pe_ratio": 27.2,
         "forward_return": 54.26,
         "start_price": 228.0,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.7,
+        "pe_ratio": 28.73,
         "forward_return": 59.47,
         "start_price": 244.5,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.71,
         "forward_return": 15.2,
         "start_price": 248.0,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 29.94,
+        "pe_ratio": 29.61,
         "forward_return": -5.66,
         "start_price": 259.5,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 30.78,
+        "pe_ratio": 30.26,
         "forward_return": -19.94,
         "start_price": 269.0,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 29.16,
+        "pe_ratio": 28.83,
         "forward_return": 12.94,
         "start_price": 257.0,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.7,
         "forward_return": -2.94,
         "start_price": 256.5,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.61,
+        "pe_ratio": 29.88,
         "forward_return": -22.22,
         "start_price": 265.0,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 29.25,
+        "pe_ratio": 29.78,
         "forward_return": -24.51,
         "start_price": 261.5,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 28.44,
+        "pe_ratio": 29.23,
         "forward_return": -20.97,
         "start_price": 254.0,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 27.35,
+        "pe_ratio": 28.52,
         "forward_return": -14.3,
         "start_price": 244.0,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 28.97,
         "forward_return": -22.54,
         "start_price": 244.0,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.21,
+        "pe_ratio": 26.0,
         "forward_return": 7.18,
         "start_price": 215.5,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 25.7,
+        "pe_ratio": 27.34,
         "forward_return": -33.74,
         "start_price": 228.5,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 25.06,
+        "pe_ratio": 26.41,
         "forward_return": -15.29,
         "start_price": 222.5,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.01,
+        "pe_ratio": 25.09,
         "forward_return": -4.63,
         "start_price": 213.0,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.93,
         "forward_return": 49.61,
         "start_price": 206.0,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 22.93,
         "forward_return": 16.01,
         "start_price": 200.0,
         "start_year": 2017
@@ -1317,7 +1317,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.75,
+        "pe_ratio": 25.6,
         "forward_return": -29.78,
         "start_price": 228.0,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.53,
+        "pe_ratio": 24.24,
         "forward_return": -24.42,
         "start_price": 217.5,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 23.23,
         "forward_return": -1.28,
         "start_price": 210.0,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 22.99,
+        "pe_ratio": 22.77,
         "forward_return": 9.33,
         "start_price": 204.5,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.78,
+        "pe_ratio": 22.76,
         "forward_return": 27.0,
         "start_price": 203.0,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.52,
+        "pe_ratio": 22.69,
         "forward_return": 83.15,
         "start_price": 201.0,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.65,
+        "pe_ratio": 22.71,
         "forward_return": 22.23,
         "start_price": 202.5,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 23.34,
+        "pe_ratio": 23.29,
         "forward_return": 2.16,
         "start_price": 209.0,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.19,
         "forward_return": -26.78,
         "start_price": 227.5,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 23.61,
         "forward_return": 32.16,
         "start_price": 213.0,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.9,
         "forward_return": 32.31,
         "start_price": 233.5,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.05,
         "forward_return": 57.0,
         "start_price": 228.5,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 25.38,
+        "pe_ratio": 25.46,
         "forward_return": 62.84,
         "start_price": 235.0,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 27.41,
         "forward_return": 17.02,
         "start_price": 256.0,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 26.34,
         "forward_return": 35.78,
         "start_price": 250.0,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 27.49,
         "forward_return": 13.84,
         "start_price": 265.0,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 27.05,
+        "pe_ratio": 26.97,
         "forward_return": 25.95,
         "start_price": 264.0,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 26.61,
+        "pe_ratio": 26.32,
         "forward_return": 72.01,
         "start_price": 263.0,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.19,
         "forward_return": 44.6,
         "start_price": 267.0,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.94,
+        "pe_ratio": 26.25,
         "forward_return": 49.96,
         "start_price": 273.0,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 29.39,
+        "pe_ratio": 28.89,
         "forward_return": -13.13,
         "start_price": 301.5,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 28.6,
         "forward_return": -42.38,
         "start_price": 299.5,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 27.93,
+        "pe_ratio": 28.1,
         "forward_return": 6.35,
         "start_price": 291.0,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 28.52,
+        "pe_ratio": 28.86,
         "forward_return": 3.45,
         "start_price": 294.5,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.38,
+        "pe_ratio": 24.83,
         "forward_return": 104.39,
         "start_price": 249.5,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.01,
+        "pe_ratio": 27.73,
         "forward_return": 55.05,
         "start_price": 284.0,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 29.56,
+        "pe_ratio": 28.46,
         "forward_return": 20.51,
         "start_price": 297.0,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.68,
+        "pe_ratio": 27.8,
         "forward_return": 4.49,
         "start_price": 295.5,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 31.33,
+        "pe_ratio": 30.22,
         "forward_return": -23.33,
         "start_price": 309.0,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 30.92,
         "forward_return": 53.23,
         "start_price": 303.5,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 30.07,
+        "pe_ratio": 30.92,
         "forward_return": 109.8,
         "start_price": 291.0,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 30.15,
+        "pe_ratio": 30.72,
         "forward_return": 104.35,
         "start_price": 289.0,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 32.34,
+        "pe_ratio": 32.65,
         "forward_return": 54.28,
         "start_price": 307.0,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 36.4,
+        "pe_ratio": 35.79,
         "forward_return": -13.82,
         "start_price": 346.0,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 37.71,
+        "pe_ratio": 36.49,
         "forward_return": -32.12,
         "start_price": 362.5,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 36.43,
+        "pe_ratio": 34.71,
         "forward_return": 15.16,
         "start_price": 354.0,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 36.24,
+        "pe_ratio": 35.71,
         "forward_return": 18.14,
         "start_price": 356.0,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.83,
         "forward_return": 101.5,
         "start_price": 329.5,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 34.38,
+        "pe_ratio": 36.28,
         "forward_return": 35.0,
         "start_price": 345.0,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.89,
+        "pe_ratio": 37.69,
         "forward_return": -1.09,
         "start_price": 364.0,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 39.37,
         "forward_return": 8.37,
         "start_price": 386.0,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 35.26,
+        "pe_ratio": 36.68,
         "forward_return": 39.41,
         "start_price": 365.0,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 34.71,
+        "pe_ratio": 35.62,
         "forward_return": 20.55,
         "start_price": 363.0,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 36.16,
+        "pe_ratio": 36.63,
         "forward_return": -9.63,
         "start_price": 382.0,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 34.8,
+        "pe_ratio": 34.76,
         "forward_return": -14.8,
         "start_price": 380.5,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 32.72,
+        "pe_ratio": 32.66,
         "forward_return": -5.95,
         "start_price": 366.5,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 32.23,
+        "pe_ratio": 32.13,
         "forward_return": -14.63,
         "start_price": 369.5,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 31.5,
+        "pe_ratio": 31.35,
         "forward_return": -19.11,
         "start_price": 369.5,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 29.9,
         "forward_return": -25.25,
         "start_price": 361.0,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 27.99,
         "forward_return": -42.12,
         "start_price": 346.0,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 27.35,
+        "pe_ratio": 26.87,
         "forward_return": -46.19,
         "start_price": 342.5,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 25.61,
+        "pe_ratio": 24.94,
         "forward_return": 3.23,
         "start_price": 327.5,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 22.48,
+        "pe_ratio": 21.71,
         "forward_return": 62.03,
         "start_price": 293.5,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 22.0,
+        "pe_ratio": 21.5,
         "forward_return": 82.63,
         "start_price": 293.0,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 24.51,
+        "pe_ratio": 24.24,
         "forward_return": 38.94,
         "start_price": 333.0,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 24.8,
+        "pe_ratio": 24.35,
         "forward_return": 71.35,
         "start_price": 341.0,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 26.15,
+        "pe_ratio": 25.22,
         "forward_return": 70.23,
         "start_price": 357.0,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 25.93,
         "forward_return": 26.67,
         "start_price": 371.0,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 27.58,
+        "pe_ratio": 26.32,
         "forward_return": 37.3,
         "start_price": 371.0,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 30.49,
+        "pe_ratio": 29.33,
         "forward_return": -42.54,
         "start_price": 407.0,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 30.91,
+        "pe_ratio": 29.98,
         "forward_return": -43.29,
         "start_price": 409.5,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 29.77,
+        "pe_ratio": 29.17,
         "forward_return": -48.34,
         "start_price": 391.5,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.09,
         "forward_return": 26.4,
         "start_price": 344.0,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 27.52,
         "forward_return": 14.52,
         "start_price": 337.5,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 31.75,
+        "pe_ratio": 32.84,
         "forward_return": -32.97,
         "start_price": 390.0,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 33.39,
+        "pe_ratio": 35.16,
         "forward_return": -31.55,
         "start_price": 404.0,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 31.89,
+        "pe_ratio": 34.1,
         "forward_return": -23.08,
         "start_price": 380.0,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 30.09,
+        "pe_ratio": 32.7,
         "forward_return": 6.27,
         "start_price": 353.0,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 32.03,
+        "pe_ratio": 35.41,
         "forward_return": -35.78,
         "start_price": 370.0,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 30.48,
+        "pe_ratio": 33.59,
         "forward_return": -27.08,
         "start_price": 346.5,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 31.21,
+        "pe_ratio": 34.27,
         "forward_return": -2.13,
         "start_price": 349.0,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 29.23,
+        "pe_ratio": 31.99,
         "forward_return": 35.06,
         "start_price": 321.5,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 29.58,
+        "pe_ratio": 31.42,
         "forward_return": 95.78,
         "start_price": 320.0,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 31.55,
+        "pe_ratio": 32.52,
         "forward_return": 40.32,
         "start_price": 335.5,
         "start_year": 2024
@@ -2073,7 +2073,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 35.75,
+        "pe_ratio": 35.31,
         "forward_return": -26.85,
         "start_price": 379.0,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 37.77,
+        "pe_ratio": 36.85,
         "forward_return": -50.15,
         "start_price": 406.0,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 34.4,
+        "pe_ratio": 33.19,
         "forward_return": -22.84,
         "start_price": 375.0,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 30.5,
+        "pe_ratio": 29.96,
         "forward_return": 8.46,
         "start_price": 337.0,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 30.54,
+        "pe_ratio": 30.55,
         "forward_return": 12.62,
         "start_price": 342.0,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 29.96,
+        "pe_ratio": 30.52,
         "forward_return": -13.93,
         "start_price": 340.0,
         "start_year": 2025
@@ -2127,7 +2127,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 29.17,
+        "pe_ratio": 29.59,
         "forward_return": -23.61,
         "start_price": 335.5,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 29.53,
+        "pe_ratio": 29.83,
         "forward_return": -41.25,
         "start_price": 344.0,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 27.03,
+        "pe_ratio": 27.2,
         "forward_return": -33.66,
         "start_price": 319.0,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 26.23,
+        "pe_ratio": 26.34,
         "forward_return": -16.59,
         "start_price": 313.5,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 14.27,
+        "pe_ratio": 15.55,
         "forward_return": 13.05,
         "start_price": 89.9,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.89,
+        "pe_ratio": 14.74,
         "forward_return": 21.83,
         "start_price": 87.5,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.23,
         "forward_return": 76.63,
         "start_price": 86.7,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.85,
         "forward_return": 69.82,
         "start_price": 92.8,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 15.84,
         "forward_return": 8.1,
         "start_price": 100.0,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 14.58,
         "forward_return": 25.28,
         "start_price": 93.0,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 15.13,
+        "pe_ratio": 14.8,
         "forward_return": 23.95,
         "start_price": 95.3,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.48,
         "forward_return": 11.42,
         "start_price": 92.6,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.74,
         "forward_return": -2.61,
         "start_price": 99.9,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.66,
         "forward_return": 7.92,
         "start_price": 104.0,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.07,
         "forward_return": -22.83,
         "start_price": 118.0,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.29,
         "forward_return": -21.76,
         "start_price": 106.0,
         "start_year": 2007
@@ -2280,7 +2280,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": -13.11,
         "start_price": 98.5,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.96,
         "forward_return": -33.11,
         "start_price": 98.6,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.94,
         "forward_return": -44.88,
         "start_price": 105.0,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 16.8,
+        "pe_ratio": 17.21,
         "forward_return": -60.06,
         "start_price": 104.0,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.94,
         "forward_return": -43.05,
         "start_price": 99.7,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.96,
         "forward_return": -45.55,
         "start_price": 97.2,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.99,
         "forward_return": -16.57,
         "start_price": 87.8,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 12.5,
+        "pe_ratio": 12.8,
         "forward_return": 6.39,
         "start_price": 76.6,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.58,
         "forward_return": 14.59,
         "start_price": 65.5,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.6,
         "forward_return": 7.54,
         "start_price": 72.8,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.29,
         "forward_return": -45.53,
         "start_price": 71.8,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 12.57,
         "forward_return": -58.87,
         "start_price": 78.5,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.89,
         "forward_return": -51.82,
         "start_price": 79.0,
         "start_year": 2008
@@ -2406,7 +2406,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 12.98,
         "forward_return": -56.33,
         "start_price": 78.0,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.31,
         "forward_return": -60.69,
         "start_price": 66.1,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.6,
         "forward_return": -51.28,
         "start_price": 71.5,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.07,
         "forward_return": -40.66,
         "start_price": 61.0,
         "start_year": 2008
@@ -2442,7 +2442,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.75,
+        "pe_ratio": 8.6,
         "forward_return": 14.95,
         "start_price": 46.3,
         "start_year": 2008
@@ -2451,7 +2451,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 7.98,
+        "pe_ratio": 7.91,
         "forward_return": 46.11,
         "start_price": 41.6,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 8.27,
+        "pe_ratio": 8.31,
         "forward_return": 62.29,
         "start_price": 41.3,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 9.06,
+        "pe_ratio": 9.15,
         "forward_return": 62.25,
         "start_price": 44.0,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.13,
         "forward_return": 58.98,
         "start_price": 47.1,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.71,
         "forward_return": 40.07,
         "start_price": 52.2,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.77,
         "forward_return": 97.52,
         "start_price": 50.2,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 10.78,
+        "pe_ratio": 11.43,
         "forward_return": 158.26,
         "start_price": 46.5,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.55,
         "forward_return": 71.73,
         "start_price": 49.5,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 13.11,
+        "pe_ratio": 13.89,
         "forward_return": 52.85,
         "start_price": 53.0,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.26,
         "forward_return": 27.97,
         "start_price": 60.0,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.21,
         "forward_return": 27.49,
         "start_price": 58.8,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 17.23,
         "forward_return": 21.79,
         "start_price": 61.4,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.16,
         "forward_return": 25.35,
         "start_price": 65.0,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 16.53,
+        "pe_ratio": 17.73,
         "forward_return": 39.46,
         "start_price": 64.9,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 18.13,
         "forward_return": 54.85,
         "start_price": 67.8,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 16.24,
+        "pe_ratio": 17.15,
         "forward_return": 53.39,
         "start_price": 70.7,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 15.02,
         "forward_return": 51.93,
         "start_price": 67.7,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.83,
+        "pe_ratio": 13.52,
         "forward_return": 71.06,
         "start_price": 66.1,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 13.53,
         "forward_return": 69.8,
         "start_price": 68.7,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.79,
         "forward_return": 47.58,
         "start_price": 72.6,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 22.78,
         "start_price": 82.2,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.84,
+        "pe_ratio": 14.79,
         "forward_return": 18.38,
         "start_price": 83.6,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.96,
+        "pe_ratio": 13.93,
         "forward_return": 27.95,
         "start_price": 81.6,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.17,
         "forward_return": 27.05,
         "start_price": 89.7,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.39,
         "forward_return": 13.17,
         "start_price": 81.8,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 13.25,
         "forward_return": -9.37,
         "start_price": 91.0,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 14.18,
         "forward_return": -17.86,
         "start_price": 94.8,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.19,
         "forward_return": -8.9,
         "start_price": 92.2,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.47,
         "forward_return": -19.96,
         "start_price": 97.6,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.36,
         "forward_return": -15.44,
         "start_price": 97.5,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.08,
         "forward_return": 42.13,
         "start_price": 83.5,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.68,
         "forward_return": 58.81,
         "start_price": 81.4,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.82,
         "forward_return": 44.18,
         "start_price": 82.4,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.82,
         "forward_return": 53.08,
         "start_price": 82.5,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.14,
         "forward_return": 54.99,
         "start_price": 89.6,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.88,
         "forward_return": 21.09,
         "start_price": 99.0,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 16.04,
+        "pe_ratio": 16.72,
         "forward_return": 5.84,
         "start_price": 102.5,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.57,
+        "pe_ratio": 16.17,
         "forward_return": 14.07,
         "start_price": 99.2,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 16.6,
         "forward_return": 46.28,
         "start_price": 102.0,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.56,
+        "pe_ratio": 16.03,
         "forward_return": 66.94,
         "start_price": 98.6,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.85,
+        "pe_ratio": 17.34,
         "forward_return": 34.18,
         "start_price": 106.5,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.5,
+        "pe_ratio": 16.95,
         "forward_return": 32.59,
         "start_price": 104.0,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 17.46,
         "forward_return": 31.39,
         "start_price": 107.0,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 16.11,
+        "pe_ratio": 16.38,
         "forward_return": 90.91,
         "start_price": 101.0,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.5,
         "forward_return": 84.56,
         "start_price": 108.5,
         "start_year": 2012
@@ -2901,7 +2901,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 19.53,
+        "pe_ratio": 19.7,
         "forward_return": 47.81,
         "start_price": 123.5,
         "start_year": 2013
@@ -2910,7 +2910,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 20.96,
         "forward_return": 41.43,
         "start_price": 132.0,
         "start_year": 2013
@@ -2919,7 +2919,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 19.35,
         "forward_return": 117.99,
         "start_price": 122.5,
         "start_year": 2013
@@ -2928,7 +2928,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.44,
+        "pe_ratio": 21.96,
         "forward_return": 87.87,
         "start_price": 141.0,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 22.58,
         "forward_return": 85.89,
         "start_price": 147.0,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 21.67,
         "forward_return": 118.16,
         "start_price": 143.0,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.22,
+        "pe_ratio": 21.6,
         "forward_return": 69.23,
         "start_price": 145.0,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 21.97,
+        "pe_ratio": 22.27,
         "forward_return": 57.01,
         "start_price": 152.0,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 23.85,
         "forward_return": 42.86,
         "start_price": 165.5,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 26.75,
         "forward_return": 32.55,
         "start_price": 188.5,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 25.51,
+        "pe_ratio": 25.58,
         "forward_return": 47.68,
         "start_price": 183.0,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 25.87,
+        "pe_ratio": 25.51,
         "forward_return": 63.0,
         "start_price": 189.0,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.05,
+        "pe_ratio": 25.33,
         "forward_return": 123.31,
         "start_price": 191.5,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 25.62,
         "forward_return": 16.77,
         "start_price": 197.5,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.15,
         "forward_return": 22.96,
         "start_price": 195.0,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 29.66,
+        "pe_ratio": 28.47,
         "forward_return": 14.05,
         "start_price": 222.0,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 33.86,
+        "pe_ratio": 32.53,
         "forward_return": -11.56,
         "start_price": 255.0,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 31.09,
+        "pe_ratio": 30.51,
         "forward_return": 2.12,
         "start_price": 235.5,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 36.81,
+        "pe_ratio": 36.91,
         "forward_return": -24.38,
         "start_price": 280.5,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.74,
         "forward_return": 23.28,
         "start_price": 215.0,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 27.37,
+        "pe_ratio": 27.81,
         "forward_return": 31.64,
         "start_price": 211.0,
         "start_year": 2014
@@ -3099,7 +3099,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 27.34,
+        "pe_ratio": 27.56,
         "forward_return": 36.67,
         "start_price": 212.0,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 30.42,
+        "pe_ratio": 30.45,
         "forward_return": -15.46,
         "start_price": 238.0,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 30.59,
+        "pe_ratio": 30.64,
         "forward_return": -21.3,
         "start_price": 240.0,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 30.3,
+        "pe_ratio": 30.38,
         "forward_return": 0.71,
         "start_price": 238.5,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 32.12,
+        "pe_ratio": 32.02,
         "forward_return": -10.72,
         "start_price": 253.5,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 31.0,
         "forward_return": -19.79,
         "start_price": 247.5,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.7,
+        "pe_ratio": 26.34,
         "forward_return": 5.24,
         "start_price": 212.0,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 26.75,
+        "pe_ratio": 26.61,
         "forward_return": -9.1,
         "start_price": 213.0,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.02,
         "forward_return": 25.67,
         "start_price": 207.0,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 28.09,
+        "pe_ratio": 28.45,
         "forward_return": 10.52,
         "start_price": 225.0,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 29.07,
+        "pe_ratio": 29.31,
         "forward_return": 5.57,
         "start_price": 233.5,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.73,
         "forward_return": 26.34,
         "start_price": 214.5,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 24.88,
         "forward_return": 56.8,
         "start_price": 203.0,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 27.96,
+        "pe_ratio": 27.91,
         "forward_return": 33.17,
         "start_price": 230.0,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 28.49,
+        "pe_ratio": 28.43,
         "forward_return": 19.87,
         "start_price": 236.5,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 27.23,
+        "pe_ratio": 27.2,
         "forward_return": 32.98,
         "start_price": 228.0,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.7,
+        "pe_ratio": 28.73,
         "forward_return": 13.49,
         "start_price": 244.5,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.71,
         "forward_return": 14.07,
         "start_price": 248.0,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 29.94,
+        "pe_ratio": 29.61,
         "forward_return": -3.62,
         "start_price": 259.5,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 30.78,
+        "pe_ratio": 30.26,
         "forward_return": -10.93,
         "start_price": 269.0,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 29.16,
+        "pe_ratio": 28.83,
         "forward_return": -8.55,
         "start_price": 257.0,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.7,
         "forward_return": -9.59,
         "start_price": 256.5,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.61,
+        "pe_ratio": 29.88,
         "forward_return": -21.67,
         "start_price": 265.0,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 29.25,
+        "pe_ratio": 29.78,
         "forward_return": -23.52,
         "start_price": 261.5,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 28.44,
+        "pe_ratio": 29.23,
         "forward_return": -26.37,
         "start_price": 254.0,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 27.35,
+        "pe_ratio": 28.52,
         "forward_return": -24.25,
         "start_price": 244.0,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 28.97,
         "forward_return": -18.27,
         "start_price": 244.0,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.21,
+        "pe_ratio": 26.0,
         "forward_return": 1.21,
         "start_price": 215.5,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 25.7,
+        "pe_ratio": 27.34,
         "forward_return": -0.43,
         "start_price": 228.5,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 25.06,
+        "pe_ratio": 26.41,
         "forward_return": -9.48,
         "start_price": 222.5,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.01,
+        "pe_ratio": 25.09,
         "forward_return": -2.82,
         "start_price": 213.0,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.93,
         "forward_return": -2.5,
         "start_price": 206.0,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 22.93,
         "forward_return": 3.05,
         "start_price": 200.0,
         "start_year": 2017
@@ -3441,7 +3441,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.75,
+        "pe_ratio": 25.6,
         "forward_return": -16.03,
         "start_price": 228.0,
         "start_year": 2018
@@ -3450,7 +3450,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.53,
+        "pe_ratio": 24.24,
         "forward_return": -1.75,
         "start_price": 217.5,
         "start_year": 2018
@@ -3459,7 +3459,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 23.23,
         "forward_return": 7.92,
         "start_price": 210.0,
         "start_year": 2018
@@ -3468,7 +3468,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 22.99,
+        "pe_ratio": 22.77,
         "forward_return": 15.27,
         "start_price": 204.5,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.78,
+        "pe_ratio": 22.76,
         "forward_return": 12.14,
         "start_price": 203.0,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.52,
+        "pe_ratio": 22.69,
         "forward_return": 16.62,
         "start_price": 201.0,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.65,
+        "pe_ratio": 22.71,
         "forward_return": 27.1,
         "start_price": 202.5,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 23.34,
+        "pe_ratio": 23.29,
         "forward_return": 41.83,
         "start_price": 209.0,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.19,
         "forward_return": 26.89,
         "start_price": 227.5,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 23.61,
         "forward_return": 45.69,
         "start_price": 213.0,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.9,
         "forward_return": 29.09,
         "start_price": 233.5,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.05,
         "forward_return": 39.83,
         "start_price": 228.5,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 25.38,
+        "pe_ratio": 25.46,
         "forward_return": 35.89,
         "start_price": 235.0,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 27.41,
         "forward_return": 37.34,
         "start_price": 256.0,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 26.34,
         "forward_return": 51.94,
         "start_price": 250.0,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 27.49,
         "forward_return": 29.83,
         "start_price": 265.0,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 27.05,
+        "pe_ratio": 26.97,
         "forward_return": 36.73,
         "start_price": 264.0,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 26.61,
+        "pe_ratio": 26.32,
         "forward_return": 22.24,
         "start_price": 263.0,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.19,
         "forward_return": -10.97,
         "start_price": 267.0,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.94,
+        "pe_ratio": 26.25,
         "forward_return": -16.53,
         "start_price": 273.0,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 29.39,
+        "pe_ratio": 28.89,
         "forward_return": -2.55,
         "start_price": 301.5,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 28.6,
         "forward_return": -1.67,
         "start_price": 299.5,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 27.93,
+        "pe_ratio": 28.1,
         "forward_return": 18.58,
         "start_price": 291.0,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 28.52,
+        "pe_ratio": 28.86,
         "forward_return": 11.7,
         "start_price": 294.5,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.38,
+        "pe_ratio": 24.83,
         "forward_return": 34.48,
         "start_price": 249.5,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.01,
+        "pe_ratio": 27.73,
         "forward_return": 9.19,
         "start_price": 284.0,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 29.56,
+        "pe_ratio": 28.46,
         "forward_return": 37.41,
         "start_price": 297.0,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.68,
+        "pe_ratio": 27.8,
         "forward_return": 46.49,
         "start_price": 295.5,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 31.33,
+        "pe_ratio": 30.22,
         "forward_return": 25.17,
         "start_price": 309.0,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 30.92,
         "forward_return": 30.37,
         "start_price": 303.5,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 30.07,
+        "pe_ratio": 30.92,
         "forward_return": 48.51,
         "start_price": 291.0,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 30.15,
+        "pe_ratio": 30.72,
         "forward_return": 25.35,
         "start_price": 289.0,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 32.34,
+        "pe_ratio": 32.65,
         "forward_return": 15.34,
         "start_price": 307.0,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 36.4,
+        "pe_ratio": 35.79,
         "forward_return": 15.18,
         "start_price": 346.0,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 37.71,
+        "pe_ratio": 36.49,
         "forward_return": 17.66,
         "start_price": 362.5,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 36.43,
+        "pe_ratio": 34.71,
         "forward_return": 7.88,
         "start_price": 354.0,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 36.24,
+        "pe_ratio": 35.71,
         "forward_return": 8.06,
         "start_price": 356.0,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.83,
         "forward_return": 41.37,
         "start_price": 329.5,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 34.38,
+        "pe_ratio": 36.28,
         "forward_return": 36.76,
         "start_price": 345.0,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.89,
+        "pe_ratio": 37.69,
         "forward_return": 9.2,
         "start_price": 364.0,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 39.37,
         "forward_return": -7.25,
         "start_price": 386.0,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 35.26,
+        "pe_ratio": 36.68,
         "forward_return": 2.5,
         "start_price": 365.0,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 34.71,
+        "pe_ratio": 35.62,
         "forward_return": -0.95,
         "start_price": 363.0,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 36.16,
+        "pe_ratio": 36.63,
         "forward_return": -10.78,
         "start_price": 382.0,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 34.8,
+        "pe_ratio": 34.76,
         "forward_return": -15.28,
         "start_price": 380.5,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 32.72,
+        "pe_ratio": 32.66,
         "forward_return": -16.26,
         "start_price": 366.5,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 32.23,
+        "pe_ratio": 32.13,
         "forward_return": -29.54,
         "start_price": 369.5,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 31.5,
+        "pe_ratio": 31.35,
         "forward_return": -33.59,
         "start_price": 369.5,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 29.9,
         "forward_return": -10.19,
         "start_price": 361.0,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 27.99,
         "forward_return": -4.01,
         "start_price": 346.0,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 27.35,
+        "pe_ratio": 26.87,
         "forward_return": -0.87,
         "start_price": 342.5,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 25.61,
+        "pe_ratio": 24.94,
         "forward_return": 23.97,
         "start_price": 327.5,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 22.48,
+        "pe_ratio": 21.71,
         "forward_return": 60.46,
         "start_price": 293.5,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 22.0,
+        "pe_ratio": 21.5,
         "forward_return": 76.16,
         "start_price": 293.0,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 24.51,
+        "pe_ratio": 24.24,
         "forward_return": 49.92,
         "start_price": 333.0,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 24.8,
+        "pe_ratio": 24.35,
         "forward_return": 39.03,
         "start_price": 341.0,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 26.15,
+        "pe_ratio": 25.22,
         "forward_return": -1.69,
         "start_price": 357.0,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 25.93,
         "forward_return": -13.19,
         "start_price": 371.0,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 27.58,
+        "pe_ratio": 26.32,
         "forward_return": -15.25,
         "start_price": 371.0,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 30.49,
+        "pe_ratio": 29.33,
         "forward_return": -10.26,
         "start_price": 407.0,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 30.91,
+        "pe_ratio": 29.98,
         "forward_return": -12.96,
         "start_price": 409.5,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 29.77,
+        "pe_ratio": 29.17,
         "forward_return": -25.52,
         "start_price": 391.5,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.09,
         "forward_return": 31.74,
         "start_price": 344.0,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 27.52,
         "forward_return": 11.27,
         "start_price": 337.5,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 31.75,
+        "pe_ratio": 32.84,
         "forward_return": -15.5,
         "start_price": 390.0,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 33.39,
+        "pe_ratio": 35.16,
         "forward_return": -29.4,
         "start_price": 404.0,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 31.89,
+        "pe_ratio": 34.1,
         "forward_return": -24.79,
         "start_price": 380.0,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 30.09,
+        "pe_ratio": 32.7,
         "forward_return": 1.43,
         "start_price": 353.0,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 32.03,
+        "pe_ratio": 35.41,
         "forward_return": -7.44,
         "start_price": 370.0,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 30.48,
+        "pe_ratio": 33.59,
         "forward_return": 19.48,
         "start_price": 346.5,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 31.21,
+        "pe_ratio": 34.27,
         "forward_return": 13.18,
         "start_price": 349.0,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 29.23,
+        "pe_ratio": 31.99,
         "forward_return": 36.43,
         "start_price": 321.5,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 29.58,
+        "pe_ratio": 31.42,
         "forward_return": 12.14,
         "start_price": 320.0,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 31.55,
+        "pe_ratio": 32.52,
         "forward_return": 3.95,
         "start_price": 335.5,
         "start_year": 2024
@@ -4197,7 +4197,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 35.75,
+        "pe_ratio": 35.31,
         "forward_return": -17.81,
         "start_price": 379.0,
         "start_year": 2025
@@ -4206,7 +4206,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 37.77,
+        "pe_ratio": 36.85,
         "forward_return": -24.74,
         "start_price": 406.0,
         "start_year": 2025
@@ -4215,7 +4215,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 34.4,
+        "pe_ratio": 33.19,
         "forward_return": -22.94,
         "start_price": 375.0,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 30.5,
+        "pe_ratio": 29.96,
         "forward_return": -8.75,
         "start_price": 337.0,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 30.54,
+        "pe_ratio": 30.55,
         "forward_return": -21.67,
         "start_price": 342.0,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 29.96,
+        "pe_ratio": 30.52,
         "forward_return": -23.96,
         "start_price": 340.0,
         "start_year": 2025
@@ -4251,7 +4251,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 29.17,
+        "pe_ratio": 29.59,
         "forward_return": -20.17,
         "start_price": 335.5,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 14.27,
+        "pe_ratio": 15.55,
         "forward_return": 22.37,
         "start_price": 89.9,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.89,
+        "pe_ratio": 14.74,
         "forward_return": 17.15,
         "start_price": 87.5,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.23,
         "forward_return": 18.35,
         "start_price": 86.7,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.85,
         "forward_return": 17.47,
         "start_price": 92.8,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 15.84,
         "forward_return": 8.01,
         "start_price": 100.0,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 14.58,
         "forward_return": 11.52,
         "start_price": 93.0,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 15.13,
+        "pe_ratio": 14.8,
         "forward_return": 6.2,
         "start_price": 95.3,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.48,
         "forward_return": -0.86,
         "start_price": 92.6,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.74,
         "forward_return": -19.33,
         "start_price": 99.9,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.66,
         "forward_return": -33.19,
         "start_price": 104.0,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.07,
         "forward_return": -34.93,
         "start_price": 118.0,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.29,
         "forward_return": -28.44,
         "start_price": 106.0,
         "start_year": 2007
@@ -4377,7 +4377,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": -16.21,
         "start_price": 98.5,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.96,
         "forward_return": -15.79,
         "start_price": 98.6,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.94,
         "forward_return": -21.86,
         "start_price": 105.0,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 16.8,
+        "pe_ratio": 17.21,
         "forward_return": -32.54,
         "start_price": 104.0,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.94,
         "forward_return": -24.23,
         "start_price": 99.7,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.96,
         "forward_return": -33.07,
         "start_price": 97.2,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.99,
         "forward_return": -42.65,
         "start_price": 87.8,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 12.5,
+        "pe_ratio": 12.8,
         "forward_return": -40.41,
         "start_price": 76.6,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.58,
         "forward_return": -30.79,
         "start_price": 65.5,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.6,
         "forward_return": -27.91,
         "start_price": 72.8,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.29,
         "forward_return": -28.85,
         "start_price": 71.8,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 12.57,
         "forward_return": -28.43,
         "start_price": 78.5,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.89,
         "forward_return": -31.41,
         "start_price": 79.0,
         "start_year": 2008
@@ -4503,7 +4503,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 12.98,
         "forward_return": -35.28,
         "start_price": 78.0,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.31,
         "forward_return": -20.59,
         "start_price": 66.1,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.6,
         "forward_return": -21.69,
         "start_price": 71.5,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.07,
         "forward_return": 3.28,
         "start_price": 61.0,
         "start_year": 2008
@@ -4539,7 +4539,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.75,
+        "pe_ratio": 8.6,
         "forward_return": 33.5,
         "start_price": 46.3,
         "start_year": 2008
@@ -4548,7 +4548,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 7.98,
+        "pe_ratio": 7.91,
         "forward_return": 54.85,
         "start_price": 41.6,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 8.27,
+        "pe_ratio": 8.31,
         "forward_return": 64.71,
         "start_price": 41.3,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 9.06,
+        "pe_ratio": 9.15,
         "forward_return": 54.36,
         "start_price": 44.0,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.13,
         "forward_return": 50.36,
         "start_price": 47.1,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.71,
         "forward_return": 41.22,
         "start_price": 52.2,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.77,
         "forward_return": 40.87,
         "start_price": 50.2,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 10.78,
+        "pe_ratio": 11.43,
         "forward_return": 48.64,
         "start_price": 46.5,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.55,
         "forward_return": 46.91,
         "start_price": 49.5,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 13.11,
+        "pe_ratio": 13.89,
         "forward_return": 44.56,
         "start_price": 53.0,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.26,
         "forward_return": 43.7,
         "start_price": 60.0,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.21,
         "forward_return": 49.02,
         "start_price": 58.8,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 17.23,
         "forward_return": 39.45,
         "start_price": 61.4,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.16,
         "forward_return": 44.19,
         "start_price": 65.0,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 16.53,
+        "pe_ratio": 17.73,
         "forward_return": 32.23,
         "start_price": 64.9,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 18.13,
         "forward_return": 40.15,
         "start_price": 67.8,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 16.24,
+        "pe_ratio": 17.15,
         "forward_return": 39.78,
         "start_price": 70.7,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 15.02,
         "forward_return": 42.13,
         "start_price": 67.7,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.83,
+        "pe_ratio": 13.52,
         "forward_return": 53.75,
         "start_price": 66.1,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 13.53,
         "forward_return": 47.05,
         "start_price": 68.7,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.79,
         "forward_return": 19.85,
         "start_price": 72.6,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 3.29,
         "start_price": 82.2,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.84,
+        "pe_ratio": 14.79,
         "forward_return": 2.75,
         "start_price": 83.6,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.96,
+        "pe_ratio": 13.93,
         "forward_return": 5.4,
         "start_price": 81.6,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.17,
         "forward_return": 3.79,
         "start_price": 89.7,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.39,
         "forward_return": 25.32,
         "start_price": 81.8,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 13.25,
         "forward_return": 16.45,
         "start_price": 91.0,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 14.18,
         "forward_return": 8.32,
         "start_price": 94.8,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.19,
         "forward_return": 14.39,
         "start_price": 92.2,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.47,
         "forward_return": 4.6,
         "start_price": 97.6,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.36,
         "forward_return": 14.29,
         "start_price": 97.5,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.08,
         "forward_return": 30.42,
         "start_price": 83.5,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.68,
         "forward_return": 37.46,
         "start_price": 81.4,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.82,
         "forward_return": 28.53,
         "start_price": 82.4,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.82,
         "forward_return": 37.44,
         "start_price": 82.5,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.14,
         "forward_return": 43.27,
         "start_price": 89.6,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.88,
         "forward_return": 26.32,
         "start_price": 99.0,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 16.04,
+        "pe_ratio": 16.72,
         "forward_return": 24.37,
         "start_price": 102.5,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.57,
+        "pe_ratio": 16.17,
         "forward_return": 47.18,
         "start_price": 99.2,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 16.6,
         "forward_return": 49.03,
         "start_price": 102.0,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.56,
+        "pe_ratio": 16.03,
         "forward_return": 50.11,
         "start_price": 98.6,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.85,
+        "pe_ratio": 17.34,
         "forward_return": 40.77,
         "start_price": 106.5,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.5,
+        "pe_ratio": 16.95,
         "forward_return": 50.89,
         "start_price": 104.0,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 17.46,
         "forward_return": 59.29,
         "start_price": 107.0,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 16.11,
+        "pe_ratio": 16.38,
         "forward_return": 91.56,
         "start_price": 101.0,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.5,
         "forward_return": 73.23,
         "start_price": 108.5,
         "start_year": 2012
@@ -4998,7 +4998,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 19.53,
+        "pe_ratio": 19.7,
         "forward_return": 57.04,
         "start_price": 123.5,
         "start_year": 2013
@@ -5007,7 +5007,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 20.96,
         "forward_return": 48.82,
         "start_price": 132.0,
         "start_year": 2013
@@ -5016,7 +5016,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 19.35,
         "forward_return": 65.27,
         "start_price": 122.5,
         "start_year": 2013
@@ -5025,7 +5025,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.44,
+        "pe_ratio": 21.96,
         "forward_return": 41.8,
         "start_price": 141.0,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 22.58,
         "forward_return": 54.39,
         "start_price": 147.0,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 21.67,
         "forward_return": 81.81,
         "start_price": 143.0,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.22,
+        "pe_ratio": 21.6,
         "forward_return": 66.11,
         "start_price": 145.0,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 21.97,
+        "pe_ratio": 22.27,
         "forward_return": 88.09,
         "start_price": 152.0,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 23.85,
         "forward_return": 33.12,
         "start_price": 165.5,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 26.75,
         "forward_return": 14.75,
         "start_price": 188.5,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 25.51,
+        "pe_ratio": 25.58,
         "forward_return": 18.75,
         "start_price": 183.0,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 25.87,
+        "pe_ratio": 25.51,
         "forward_return": 28.74,
         "start_price": 189.0,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.05,
+        "pe_ratio": 25.33,
         "forward_return": 28.1,
         "start_price": 191.5,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 25.62,
         "forward_return": 23.45,
         "start_price": 197.5,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.15,
         "forward_return": 32.73,
         "start_price": 195.0,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 29.66,
+        "pe_ratio": 28.47,
         "forward_return": 13.87,
         "start_price": 222.0,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 33.86,
+        "pe_ratio": 32.53,
         "forward_return": -14.8,
         "start_price": 255.0,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 31.09,
+        "pe_ratio": 30.51,
         "forward_return": -7.01,
         "start_price": 235.5,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 36.81,
+        "pe_ratio": 36.91,
         "forward_return": -24.08,
         "start_price": 280.5,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.74,
         "forward_return": 7.45,
         "start_price": 215.0,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 27.37,
+        "pe_ratio": 27.81,
         "forward_return": 13.52,
         "start_price": 211.0,
         "start_year": 2014
@@ -5196,7 +5196,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 27.34,
+        "pe_ratio": 27.56,
         "forward_return": 4.01,
         "start_price": 212.0,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 30.42,
+        "pe_ratio": 30.45,
         "forward_return": -12.19,
         "start_price": 238.0,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 30.59,
+        "pe_ratio": 30.64,
         "forward_return": -1.67,
         "start_price": 240.0,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 30.3,
+        "pe_ratio": 30.38,
         "forward_return": 1.67,
         "start_price": 238.5,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 32.12,
+        "pe_ratio": 32.02,
         "forward_return": -7.68,
         "start_price": 253.5,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 31.0,
         "forward_return": -0.2,
         "start_price": 247.5,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.7,
+        "pe_ratio": 26.34,
         "forward_return": 18.12,
         "start_price": 212.0,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 26.75,
+        "pe_ratio": 26.61,
         "forward_return": 19.21,
         "start_price": 213.0,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.02,
         "forward_return": 28.2,
         "start_price": 207.0,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 28.09,
+        "pe_ratio": 28.45,
         "forward_return": 22.17,
         "start_price": 225.0,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 29.07,
+        "pe_ratio": 29.31,
         "forward_return": 12.61,
         "start_price": 233.5,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.73,
         "forward_return": 22.33,
         "start_price": 214.5,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 24.88,
         "forward_return": 33.42,
         "start_price": 203.0,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 27.96,
+        "pe_ratio": 27.91,
         "forward_return": 12.0,
         "start_price": 230.0,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 28.49,
+        "pe_ratio": 28.43,
         "forward_return": 9.94,
         "start_price": 236.5,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 27.23,
+        "pe_ratio": 27.2,
         "forward_return": 9.66,
         "start_price": 228.0,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.7,
+        "pe_ratio": 28.73,
         "forward_return": -9.41,
         "start_price": 244.5,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.71,
         "forward_return": -5.33,
         "start_price": 248.0,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 29.94,
+        "pe_ratio": 29.61,
         "forward_return": -11.84,
         "start_price": 259.5,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 30.78,
+        "pe_ratio": 30.26,
         "forward_return": -18.49,
         "start_price": 269.0,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 29.16,
+        "pe_ratio": 28.83,
         "forward_return": -17.4,
         "start_price": 257.0,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.7,
         "forward_return": -19.58,
         "start_price": 256.5,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.61,
+        "pe_ratio": 29.88,
         "forward_return": -11.59,
         "start_price": 265.0,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 29.25,
+        "pe_ratio": 29.78,
         "forward_return": -14.43,
         "start_price": 261.5,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 28.44,
+        "pe_ratio": 29.23,
         "forward_return": -14.85,
         "start_price": 254.0,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 27.35,
+        "pe_ratio": 28.52,
         "forward_return": -13.62,
         "start_price": 244.0,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 28.97,
         "forward_return": -14.23,
         "start_price": 244.0,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.21,
+        "pe_ratio": 26.0,
         "forward_return": -3.81,
         "start_price": 215.5,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 25.7,
+        "pe_ratio": 27.34,
         "forward_return": -8.5,
         "start_price": 228.5,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 25.06,
+        "pe_ratio": 26.41,
         "forward_return": -3.11,
         "start_price": 222.5,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.01,
+        "pe_ratio": 25.09,
         "forward_return": 9.91,
         "start_price": 213.0,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.93,
         "forward_return": 6.6,
         "start_price": 206.0,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 22.93,
         "forward_return": 20.06,
         "start_price": 200.0,
         "start_year": 2017
@@ -5538,7 +5538,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.75,
+        "pe_ratio": 25.6,
         "forward_return": 3.11,
         "start_price": 228.0,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.53,
+        "pe_ratio": 24.24,
         "forward_return": 11.09,
         "start_price": 217.5,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 23.23,
         "forward_return": 25.06,
         "start_price": 210.0,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 22.99,
+        "pe_ratio": 22.77,
         "forward_return": 25.49,
         "start_price": 204.5,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.78,
+        "pe_ratio": 22.76,
         "forward_return": 33.82,
         "start_price": 203.0,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.52,
+        "pe_ratio": 22.69,
         "forward_return": 34.65,
         "start_price": 201.0,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.65,
+        "pe_ratio": 22.71,
         "forward_return": 33.26,
         "start_price": 202.5,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 23.34,
+        "pe_ratio": 23.29,
         "forward_return": 31.03,
         "start_price": 209.0,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.19,
         "forward_return": 23.0,
         "start_price": 227.5,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 23.61,
         "forward_return": 44.78,
         "start_price": 213.0,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.9,
         "forward_return": 31.2,
         "start_price": 233.5,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.05,
         "forward_return": 30.35,
         "start_price": 228.5,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 25.38,
+        "pe_ratio": 25.46,
         "forward_return": 28.23,
         "start_price": 235.0,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 27.41,
         "forward_return": 0.12,
         "start_price": 256.0,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 26.34,
         "forward_return": 16.28,
         "start_price": 250.0,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 27.49,
         "forward_return": 14.61,
         "start_price": 265.0,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 27.05,
+        "pe_ratio": 26.97,
         "forward_return": 14.47,
         "start_price": 264.0,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 26.61,
+        "pe_ratio": 26.32,
         "forward_return": 20.41,
         "start_price": 263.0,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.19,
         "forward_return": 16.55,
         "start_price": 267.0,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.94,
+        "pe_ratio": 26.25,
         "forward_return": 9.43,
         "start_price": 273.0,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 29.39,
+        "pe_ratio": 28.89,
         "forward_return": -1.56,
         "start_price": 301.5,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 28.6,
         "forward_return": 5.09,
         "start_price": 299.5,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 27.93,
+        "pe_ratio": 28.1,
         "forward_return": 21.53,
         "start_price": 291.0,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 28.52,
+        "pe_ratio": 28.86,
         "forward_return": 20.96,
         "start_price": 294.5,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.38,
+        "pe_ratio": 24.83,
         "forward_return": 45.04,
         "start_price": 249.5,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.01,
+        "pe_ratio": 27.73,
         "forward_return": 28.12,
         "start_price": 284.0,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 29.56,
+        "pe_ratio": 28.46,
         "forward_return": 13.58,
         "start_price": 297.0,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.68,
+        "pe_ratio": 27.8,
         "forward_return": 19.4,
         "start_price": 295.5,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 31.33,
+        "pe_ratio": 30.22,
         "forward_return": 20.11,
         "start_price": 309.0,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 30.92,
         "forward_return": 29.54,
         "start_price": 303.5,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 30.07,
+        "pe_ratio": 30.92,
         "forward_return": 27.89,
         "start_price": 291.0,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 30.15,
+        "pe_ratio": 30.72,
         "forward_return": 28.08,
         "start_price": 289.0,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 32.34,
+        "pe_ratio": 32.65,
         "forward_return": 26.76,
         "start_price": 307.0,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 36.4,
+        "pe_ratio": 35.79,
         "forward_return": 12.03,
         "start_price": 346.0,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 37.71,
+        "pe_ratio": 36.49,
         "forward_return": 3.06,
         "start_price": 362.5,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 36.43,
+        "pe_ratio": 34.71,
         "forward_return": 6.39,
         "start_price": 354.0,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 36.24,
+        "pe_ratio": 35.71,
         "forward_return": 5.79,
         "start_price": 356.0,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.83,
         "forward_return": 11.72,
         "start_price": 329.5,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 34.38,
+        "pe_ratio": 36.28,
         "forward_return": 2.35,
         "start_price": 345.0,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.89,
+        "pe_ratio": 37.69,
         "forward_return": -3.72,
         "start_price": 364.0,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 39.37,
         "forward_return": -13.1,
         "start_price": 386.0,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 35.26,
+        "pe_ratio": 36.68,
         "forward_return": -17.41,
         "start_price": 365.0,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 34.71,
+        "pe_ratio": 35.62,
         "forward_return": -17.1,
         "start_price": 363.0,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 36.16,
+        "pe_ratio": 36.63,
         "forward_return": -10.75,
         "start_price": 382.0,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 34.8,
+        "pe_ratio": 34.76,
         "forward_return": -8.29,
         "start_price": 380.5,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 32.72,
+        "pe_ratio": 32.66,
         "forward_return": -0.42,
         "start_price": 366.5,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 32.23,
+        "pe_ratio": 32.13,
         "forward_return": 2.57,
         "start_price": 369.5,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 31.5,
+        "pe_ratio": 31.35,
         "forward_return": 2.57,
         "start_price": 369.5,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 29.9,
         "forward_return": 14.96,
         "start_price": 361.0,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 27.99,
         "forward_return": 20.67,
         "start_price": 346.0,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 27.35,
+        "pe_ratio": 26.87,
         "forward_return": 17.24,
         "start_price": 342.5,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 25.61,
+        "pe_ratio": 24.94,
         "forward_return": 8.09,
         "start_price": 327.5,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 22.48,
+        "pe_ratio": 21.71,
         "forward_return": 20.97,
         "start_price": 293.5,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 22.0,
+        "pe_ratio": 21.5,
         "forward_return": 16.56,
         "start_price": 293.0,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 24.51,
+        "pe_ratio": 24.24,
         "forward_return": 9.16,
         "start_price": 333.0,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 24.8,
+        "pe_ratio": 24.35,
         "forward_return": 1.9,
         "start_price": 341.0,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 26.15,
+        "pe_ratio": 25.22,
         "forward_return": 12.05,
         "start_price": 357.0,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 25.93,
         "forward_return": 11.56,
         "start_price": 371.0,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 27.58,
+        "pe_ratio": 26.32,
         "forward_return": 5.11,
         "start_price": 371.0,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 30.49,
+        "pe_ratio": 29.33,
         "forward_return": -10.79,
         "start_price": 407.0,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 30.91,
+        "pe_ratio": 29.98,
         "forward_return": -7.19,
         "start_price": 409.5,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 29.77,
+        "pe_ratio": 29.17,
         "forward_return": -9.06,
         "start_price": 391.5,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.09,
         "forward_return": 4.19,
         "start_price": 344.0,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 27.52,
         "forward_return": 15.06,
         "start_price": 337.5,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 31.75,
+        "pe_ratio": 32.84,
         "forward_return": -1.32,
         "start_price": 390.0,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 33.39,
+        "pe_ratio": 35.16,
         "forward_return": -4.84,
         "start_price": 404.0,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 31.89,
+        "pe_ratio": 34.1,
         "forward_return": -8.84,
         "start_price": 380.0,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 30.09,
+        "pe_ratio": 32.7,
         "forward_return": -0.44,
         "start_price": 353.0,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 32.03,
+        "pe_ratio": 35.41,
         "forward_return": -5.56,
         "start_price": 370.0,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 30.48,
+        "pe_ratio": 33.59,
         "forward_return": -0.75,
         "start_price": 346.5,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 31.21,
+        "pe_ratio": 34.27,
         "forward_return": 0.97,
         "start_price": 349.0,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 29.23,
+        "pe_ratio": 31.99,
         "forward_return": 1.83,
         "start_price": 321.5,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 29.58,
+        "pe_ratio": 31.42,
         "forward_return": 0.59,
         "start_price": 320.0,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 31.55,
+        "pe_ratio": 32.52,
         "forward_return": -11.66,
         "start_price": 335.5,
         "start_year": 2024
@@ -6294,7 +6294,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 35.75,
+        "pe_ratio": 35.31,
         "forward_return": -18.77,
         "start_price": 379.0,
         "start_year": 2025
@@ -6303,7 +6303,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 37.77,
+        "pe_ratio": 36.85,
         "forward_return": -15.06,
         "start_price": 406.0,
         "start_year": 2025
@@ -6312,7 +6312,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 14.27,
+        "pe_ratio": 15.55,
         "forward_return": -5.78,
         "start_price": 89.9,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.89,
+        "pe_ratio": 14.74,
         "forward_return": -0.57,
         "start_price": 87.5,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.23,
         "forward_return": 0.17,
         "start_price": 86.7,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.85,
         "forward_return": -3.73,
         "start_price": 92.8,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 15.84,
         "forward_return": -13.91,
         "start_price": 100.0,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 14.58,
         "forward_return": -7.54,
         "start_price": 93.0,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 15.13,
+        "pe_ratio": 14.8,
         "forward_return": -14.9,
         "start_price": 95.3,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.48,
         "forward_return": -23.41,
         "start_price": 92.6,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.74,
         "forward_return": -29.52,
         "start_price": 99.9,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.66,
         "forward_return": -31.13,
         "start_price": 104.0,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.07,
         "forward_return": -33.6,
         "start_price": 118.0,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.29,
         "forward_return": -27.88,
         "start_price": 106.0,
         "start_year": 2007
@@ -6429,7 +6429,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": -21.81,
         "start_price": 98.5,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.96,
         "forward_return": -23.15,
         "start_price": 98.6,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.94,
         "forward_return": -27.94,
         "start_price": 105.0,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 16.8,
+        "pe_ratio": 17.21,
         "forward_return": -26.28,
         "start_price": 104.0,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.94,
         "forward_return": -22.41,
         "start_price": 99.7,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.96,
         "forward_return": -16.97,
         "start_price": 97.2,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.99,
         "forward_return": -13.42,
         "start_price": 87.8,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 12.5,
+        "pe_ratio": 12.8,
         "forward_return": -5.5,
         "start_price": 76.6,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.58,
         "forward_return": 4.84,
         "start_price": 65.5,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.6,
         "forward_return": 1.31,
         "start_price": 72.8,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.29,
         "forward_return": 2.07,
         "start_price": 71.8,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 12.57,
         "forward_return": -0.51,
         "start_price": 78.5,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.89,
         "forward_return": -2.76,
         "start_price": 79.0,
         "start_year": 2008
@@ -6555,7 +6555,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 12.98,
         "forward_return": -3.19,
         "start_price": 78.0,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.31,
         "forward_return": 7.02,
         "start_price": 66.1,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.6,
         "forward_return": 5.52,
         "start_price": 71.5,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.07,
         "forward_return": 20.94,
         "start_price": 61.0,
         "start_year": 2008
@@ -6591,7 +6591,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.75,
+        "pe_ratio": 8.6,
         "forward_return": 39.92,
         "start_price": 46.3,
         "start_year": 2008
@@ -6600,7 +6600,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 7.98,
+        "pe_ratio": 7.91,
         "forward_return": 45.98,
         "start_price": 41.6,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 8.27,
+        "pe_ratio": 8.31,
         "forward_return": 53.06,
         "start_price": 41.3,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 9.06,
+        "pe_ratio": 9.15,
         "forward_return": 42.1,
         "start_price": 44.0,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.13,
         "forward_return": 44.28,
         "start_price": 47.1,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.71,
         "forward_return": 39.68,
         "start_price": 52.2,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.77,
         "forward_return": 40.61,
         "start_price": 50.2,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 10.78,
+        "pe_ratio": 11.43,
         "forward_return": 50.02,
         "start_price": 46.5,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.55,
         "forward_return": 45.68,
         "start_price": 49.5,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 13.11,
+        "pe_ratio": 13.89,
         "forward_return": 31.06,
         "start_price": 53.0,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.26,
         "forward_return": 21.74,
         "start_price": 60.0,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.21,
         "forward_return": 23.67,
         "start_price": 58.8,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 17.23,
         "forward_return": 21.09,
         "start_price": 61.4,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.16,
         "forward_return": 22.24,
         "start_price": 65.0,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 16.53,
+        "pe_ratio": 17.73,
         "forward_return": 28.12,
         "start_price": 64.9,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 18.13,
         "forward_return": 27.35,
         "start_price": 67.8,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 16.24,
+        "pe_ratio": 17.15,
         "forward_return": 22.83,
         "start_price": 70.7,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 15.02,
         "forward_return": 27.16,
         "start_price": 67.7,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.83,
+        "pe_ratio": 13.52,
         "forward_return": 26.67,
         "start_price": 66.1,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 13.53,
         "forward_return": 29.34,
         "start_price": 68.7,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.79,
         "forward_return": 24.44,
         "start_price": 72.6,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 18.51,
         "start_price": 82.2,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.84,
+        "pe_ratio": 14.79,
         "forward_return": 14.42,
         "start_price": 83.6,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.96,
+        "pe_ratio": 13.93,
         "forward_return": 19.71,
         "start_price": 81.6,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.17,
         "forward_return": 21.28,
         "start_price": 89.7,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.39,
         "forward_return": 31.02,
         "start_price": 81.8,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 13.25,
         "forward_return": 19.95,
         "start_price": 91.0,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 14.18,
         "forward_return": 25.54,
         "start_price": 94.8,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.19,
         "forward_return": 29.83,
         "start_price": 92.2,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.47,
         "forward_return": 24.56,
         "start_price": 97.6,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.36,
         "forward_return": 26.0,
         "start_price": 97.5,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.08,
         "forward_return": 39.19,
         "start_price": 83.5,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.68,
         "forward_return": 46.73,
         "start_price": 81.4,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.82,
         "forward_return": 55.1,
         "start_price": 82.4,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.82,
         "forward_return": 52.85,
         "start_price": 82.5,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.14,
         "forward_return": 48.93,
         "start_price": 89.6,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.88,
         "forward_return": 42.66,
         "start_price": 99.0,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 16.04,
+        "pe_ratio": 16.72,
         "forward_return": 42.26,
         "start_price": 102.5,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.57,
+        "pe_ratio": 16.17,
         "forward_return": 43.74,
         "start_price": 99.2,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 16.6,
         "forward_return": 50.81,
         "start_price": 102.0,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.56,
+        "pe_ratio": 16.03,
         "forward_return": 63.95,
         "start_price": 98.6,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.85,
+        "pe_ratio": 17.34,
         "forward_return": 51.92,
         "start_price": 106.5,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.5,
+        "pe_ratio": 16.95,
         "forward_return": 67.24,
         "start_price": 104.0,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 17.46,
         "forward_return": 45.1,
         "start_price": 107.0,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 16.11,
+        "pe_ratio": 16.38,
         "forward_return": 48.02,
         "start_price": 101.0,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.5,
         "forward_return": 43.13,
         "start_price": 108.5,
         "start_year": 2012
@@ -7050,7 +7050,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 19.53,
+        "pe_ratio": 19.7,
         "forward_return": 41.79,
         "start_price": 123.5,
         "start_year": 2013
@@ -7059,7 +7059,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 20.96,
         "forward_return": 37.7,
         "start_price": 132.0,
         "start_year": 2013
@@ -7068,7 +7068,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 19.35,
         "forward_return": 42.51,
         "start_price": 122.5,
         "start_year": 2013
@@ -7077,7 +7077,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.44,
+        "pe_ratio": 21.96,
         "forward_return": 36.78,
         "start_price": 141.0,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 22.58,
         "forward_return": 32.42,
         "start_price": 147.0,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 21.67,
         "forward_return": 24.66,
         "start_price": 143.0,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.22,
+        "pe_ratio": 21.6,
         "forward_return": 24.39,
         "start_price": 145.0,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 21.97,
+        "pe_ratio": 22.27,
         "forward_return": 19.85,
         "start_price": 152.0,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 23.85,
         "forward_return": 19.5,
         "start_price": 165.5,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 26.75,
         "forward_return": 13.96,
         "start_price": 188.5,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 25.51,
+        "pe_ratio": 25.58,
         "forward_return": 11.08,
         "start_price": 183.0,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 25.87,
+        "pe_ratio": 25.51,
         "forward_return": 6.48,
         "start_price": 189.0,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.05,
+        "pe_ratio": 25.33,
         "forward_return": 12.25,
         "start_price": 191.5,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 25.62,
         "forward_return": 12.0,
         "start_price": 197.5,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.15,
         "forward_return": 10.76,
         "start_price": 195.0,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 29.66,
+        "pe_ratio": 28.47,
         "forward_return": 6.6,
         "start_price": 222.0,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 33.86,
+        "pe_ratio": 32.53,
         "forward_return": 0.15,
         "start_price": 255.0,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 31.09,
+        "pe_ratio": 30.51,
         "forward_return": 5.07,
         "start_price": 235.5,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 36.81,
+        "pe_ratio": 36.91,
         "forward_return": -1.62,
         "start_price": 280.5,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.74,
         "forward_return": 14.31,
         "start_price": 215.0,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 27.37,
+        "pe_ratio": 27.81,
         "forward_return": 12.9,
         "start_price": 211.0,
         "start_year": 2014
@@ -7248,7 +7248,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 27.34,
+        "pe_ratio": 27.56,
         "forward_return": 12.53,
         "start_price": 212.0,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 30.42,
+        "pe_ratio": 30.45,
         "forward_return": 7.88,
         "start_price": 238.0,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 30.59,
+        "pe_ratio": 30.64,
         "forward_return": 6.75,
         "start_price": 240.0,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 30.3,
+        "pe_ratio": 30.38,
         "forward_return": 5.6,
         "start_price": 238.5,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 32.12,
+        "pe_ratio": 32.02,
         "forward_return": 0.49,
         "start_price": 253.5,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 31.0,
         "forward_return": 1.7,
         "start_price": 247.5,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.7,
+        "pe_ratio": 26.34,
         "forward_return": 3.59,
         "start_price": 212.0,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 26.75,
+        "pe_ratio": 26.61,
         "forward_return": 6.32,
         "start_price": 213.0,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.02,
         "forward_return": 6.5,
         "start_price": 207.0,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 28.09,
+        "pe_ratio": 28.45,
         "forward_return": 0.07,
         "start_price": 225.0,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 29.07,
+        "pe_ratio": 29.31,
         "forward_return": -3.31,
         "start_price": 233.5,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.73,
         "forward_return": -0.51,
         "start_price": 214.5,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 24.88,
         "forward_return": 8.79,
         "start_price": 203.0,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 27.96,
+        "pe_ratio": 27.91,
         "forward_return": -1.62,
         "start_price": 230.0,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 28.49,
+        "pe_ratio": 28.43,
         "forward_return": -3.05,
         "start_price": 236.5,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 27.23,
+        "pe_ratio": 27.2,
         "forward_return": -2.49,
         "start_price": 228.0,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.7,
+        "pe_ratio": 28.73,
         "forward_return": -6.6,
         "start_price": 244.5,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.71,
         "forward_return": -6.81,
         "start_price": 248.0,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 29.94,
+        "pe_ratio": 29.61,
         "forward_return": -7.53,
         "start_price": 259.5,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 30.78,
+        "pe_ratio": 30.26,
         "forward_return": -5.47,
         "start_price": 269.0,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 29.16,
+        "pe_ratio": 28.83,
         "forward_return": -6.25,
         "start_price": 257.0,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.7,
         "forward_return": -1.99,
         "start_price": 256.5,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.61,
+        "pe_ratio": 29.88,
         "forward_return": -4.56,
         "start_price": 265.0,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 29.25,
+        "pe_ratio": 29.78,
         "forward_return": -2.64,
         "start_price": 261.5,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 28.44,
+        "pe_ratio": 29.23,
         "forward_return": 2.89,
         "start_price": 254.0,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 27.35,
+        "pe_ratio": 28.52,
         "forward_return": 3.8,
         "start_price": 244.0,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 28.97,
         "forward_return": 6.72,
         "start_price": 244.0,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.21,
+        "pe_ratio": 26.0,
         "forward_return": 13.36,
         "start_price": 215.5,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 25.7,
+        "pe_ratio": 27.34,
         "forward_return": 9.99,
         "start_price": 228.5,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 25.06,
+        "pe_ratio": 26.41,
         "forward_return": 12.27,
         "start_price": 222.5,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.01,
+        "pe_ratio": 25.09,
         "forward_return": 15.97,
         "start_price": 213.0,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.93,
         "forward_return": 23.65,
         "start_price": 206.0,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 22.93,
         "forward_return": 25.1,
         "start_price": 200.0,
         "start_year": 2017
@@ -7590,7 +7590,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.75,
+        "pe_ratio": 25.6,
         "forward_return": 15.56,
         "start_price": 228.0,
         "start_year": 2018
@@ -7599,7 +7599,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.53,
+        "pe_ratio": 24.24,
         "forward_return": 18.99,
         "start_price": 217.5,
         "start_year": 2018
@@ -7608,7 +7608,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 23.23,
         "forward_return": 11.88,
         "start_price": 210.0,
         "start_year": 2018
@@ -7617,7 +7617,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 22.99,
+        "pe_ratio": 22.77,
         "forward_return": 20.58,
         "start_price": 204.5,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.78,
+        "pe_ratio": 22.76,
         "forward_return": 23.64,
         "start_price": 203.0,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.52,
+        "pe_ratio": 22.69,
         "forward_return": 23.95,
         "start_price": 201.0,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.65,
+        "pe_ratio": 22.71,
         "forward_return": 26.39,
         "start_price": 202.5,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 23.34,
+        "pe_ratio": 23.29,
         "forward_return": 23.35,
         "start_price": 209.0,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.19,
         "forward_return": 15.89,
         "start_price": 227.5,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 23.61,
         "forward_return": 19.37,
         "start_price": 213.0,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.9,
         "forward_return": 17.34,
         "start_price": 233.5,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.05,
         "forward_return": 25.6,
         "start_price": 228.5,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 25.38,
+        "pe_ratio": 25.46,
         "forward_return": 26.65,
         "start_price": 235.0,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 27.41,
         "forward_return": 19.98,
         "start_price": 256.0,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 26.34,
         "forward_return": 21.73,
         "start_price": 250.0,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 27.49,
         "forward_return": 13.94,
         "start_price": 265.0,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 27.05,
+        "pe_ratio": 26.97,
         "forward_return": 16.7,
         "start_price": 264.0,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 26.61,
+        "pe_ratio": 26.32,
         "forward_return": 20.01,
         "start_price": 263.0,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.19,
         "forward_return": 22.52,
         "start_price": 267.0,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.94,
+        "pe_ratio": 26.25,
         "forward_return": 17.95,
         "start_price": 273.0,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 29.39,
+        "pe_ratio": 28.89,
         "forward_return": 11.94,
         "start_price": 301.5,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 28.6,
         "forward_return": 15.1,
         "start_price": 299.5,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 27.93,
+        "pe_ratio": 28.1,
         "forward_return": 16.55,
         "start_price": 291.0,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 28.52,
+        "pe_ratio": 28.86,
         "forward_return": 13.66,
         "start_price": 294.5,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.38,
+        "pe_ratio": 24.83,
         "forward_return": 24.14,
         "start_price": 249.5,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.01,
+        "pe_ratio": 27.73,
         "forward_return": 16.35,
         "start_price": 284.0,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 29.56,
+        "pe_ratio": 28.46,
         "forward_return": 12.51,
         "start_price": 297.0,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.68,
+        "pe_ratio": 27.8,
         "forward_return": 10.52,
         "start_price": 295.5,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 31.33,
+        "pe_ratio": 30.22,
         "forward_return": 7.58,
         "start_price": 309.0,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 30.92,
         "forward_return": 6.25,
         "start_price": 303.5,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 30.07,
+        "pe_ratio": 30.92,
         "forward_return": 2.98,
         "start_price": 291.0,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 30.15,
+        "pe_ratio": 30.72,
         "forward_return": 3.25,
         "start_price": 289.0,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 32.34,
+        "pe_ratio": 32.65,
         "forward_return": 6.48,
         "start_price": 307.0,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 36.4,
+        "pe_ratio": 35.79,
         "forward_return": 1.45,
         "start_price": 346.0,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 37.71,
+        "pe_ratio": 36.49,
         "forward_return": 1.31,
         "start_price": 362.5,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 36.43,
+        "pe_ratio": 34.71,
         "forward_return": 4.43,
         "start_price": 354.0,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 36.24,
+        "pe_ratio": 35.71,
         "forward_return": 4.14,
         "start_price": 356.0,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.83,
         "forward_return": 13.19,
         "start_price": 329.5,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 34.38,
+        "pe_ratio": 36.28,
         "forward_return": 10.94,
         "start_price": 345.0,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.89,
+        "pe_ratio": 37.69,
         "forward_return": 6.07,
         "start_price": 364.0,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 39.37,
         "forward_return": -3.17,
         "start_price": 386.0,
         "start_year": 2021
@@ -7986,7 +7986,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 35.26,
+        "pe_ratio": 36.68,
         "forward_return": -0.28,
         "start_price": 365.0,
         "start_year": 2021
@@ -7995,7 +7995,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 34.71,
+        "pe_ratio": 35.62,
         "forward_return": -1.88,
         "start_price": 363.0,
         "start_year": 2021
@@ -8004,7 +8004,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 36.16,
+        "pe_ratio": 36.63,
         "forward_return": -1.39,
         "start_price": 382.0,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 34.8,
+        "pe_ratio": 34.76,
         "forward_return": -3.35,
         "start_price": 380.5,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 32.72,
+        "pe_ratio": 32.66,
         "forward_return": 5.51,
         "start_price": 366.5,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 32.23,
+        "pe_ratio": 32.13,
         "forward_return": 6.86,
         "start_price": 369.5,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 31.5,
+        "pe_ratio": 31.35,
         "forward_return": 3.78,
         "start_price": 369.5,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 29.9,
         "forward_return": 1.37,
         "start_price": 361.0,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 27.99,
         "forward_return": 5.89,
         "start_price": 346.0,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 27.35,
+        "pe_ratio": 26.87,
         "forward_return": 3.36,
         "start_price": 342.5,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 25.61,
+        "pe_ratio": 24.94,
         "forward_return": 6.06,
         "start_price": 327.5,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 22.48,
+        "pe_ratio": 21.71,
         "forward_return": 7.77,
         "start_price": 293.5,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 22.0,
+        "pe_ratio": 21.5,
         "forward_return": 7.63,
         "start_price": 293.0,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 24.51,
+        "pe_ratio": 24.24,
         "forward_return": 3.24,
         "start_price": 333.0,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 24.8,
+        "pe_ratio": 24.35,
         "forward_return": 8.09,
         "start_price": 341.0,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 26.15,
+        "pe_ratio": 25.22,
         "forward_return": 9.16,
         "start_price": 357.0,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 25.93,
         "forward_return": 3.11,
         "start_price": 371.0,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 27.58,
+        "pe_ratio": 26.32,
         "forward_return": -1.98,
         "start_price": 371.0,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 30.49,
+        "pe_ratio": 29.33,
         "forward_return": -5.76,
         "start_price": 407.0,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 30.91,
+        "pe_ratio": 29.98,
         "forward_return": -6.31,
         "start_price": 409.5,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 29.77,
+        "pe_ratio": 29.17,
         "forward_return": -5.0,
         "start_price": 391.5,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 26.36,
+        "pe_ratio": 26.09,
         "forward_return": 2.56,
         "start_price": 344.0,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 27.07,
+        "pe_ratio": 27.52,
         "forward_return": -3.03,
         "start_price": 337.5,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 14.27,
+        "pe_ratio": 15.55,
         "forward_return": -13.04,
         "start_price": 89.9,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.89,
+        "pe_ratio": 14.74,
         "forward_return": -9.8,
         "start_price": 87.5,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.23,
         "forward_return": -10.48,
         "start_price": 86.7,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.85,
         "forward_return": -14.25,
         "start_price": 92.8,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 15.84,
         "forward_return": -15.42,
         "start_price": 100.0,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 14.58,
         "forward_return": -11.71,
         "start_price": 93.0,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 15.13,
+        "pe_ratio": 14.8,
         "forward_return": -9.34,
         "start_price": 95.3,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.48,
         "forward_return": -8.99,
         "start_price": 92.6,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.74,
         "forward_return": -10.17,
         "start_price": 99.9,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.66,
         "forward_return": -9.92,
         "start_price": 104.0,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.07,
         "forward_return": -13.67,
         "start_price": 118.0,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.29,
         "forward_return": -9.41,
         "start_price": 106.0,
         "start_year": 2007
@@ -8364,7 +8364,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": -6.04,
         "start_price": 98.5,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.96,
         "forward_return": -7.24,
         "start_price": 98.6,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.94,
         "forward_return": -9.78,
         "start_price": 105.0,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 16.8,
+        "pe_ratio": 17.21,
         "forward_return": -8.49,
         "start_price": 104.0,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.94,
         "forward_return": -5.7,
         "start_price": 99.7,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.96,
         "forward_return": -1.39,
         "start_price": 97.2,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.99,
         "forward_return": 2.52,
         "start_price": 87.8,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 12.5,
+        "pe_ratio": 12.8,
         "forward_return": 6.53,
         "start_price": 76.6,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.58,
         "forward_return": 15.41,
         "start_price": 65.5,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.6,
         "forward_return": 11.57,
         "start_price": 72.8,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.29,
         "forward_return": 12.42,
         "start_price": 71.8,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 12.57,
         "forward_return": 10.47,
         "start_price": 78.5,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.89,
         "forward_return": 9.32,
         "start_price": 79.0,
         "start_year": 2008
@@ -8490,7 +8490,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 12.98,
         "forward_return": 11.67,
         "start_price": 78.0,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.31,
         "forward_return": 17.79,
         "start_price": 66.1,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.6,
         "forward_return": 9.56,
         "start_price": 71.5,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.07,
         "forward_return": 14.65,
         "start_price": 61.0,
         "start_year": 2008
@@ -8526,7 +8526,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.75,
+        "pe_ratio": 8.6,
         "forward_return": 26.15,
         "start_price": 46.3,
         "start_year": 2008
@@ -8535,7 +8535,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 7.98,
+        "pe_ratio": 7.91,
         "forward_return": 30.78,
         "start_price": 41.6,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 8.27,
+        "pe_ratio": 8.31,
         "forward_return": 34.35,
         "start_price": 41.3,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 9.06,
+        "pe_ratio": 9.15,
         "forward_return": 35.54,
         "start_price": 44.0,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.13,
         "forward_return": 33.86,
         "start_price": 47.1,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.71,
         "forward_return": 28.08,
         "start_price": 52.2,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.77,
         "forward_return": 30.85,
         "start_price": 50.2,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 10.78,
+        "pe_ratio": 11.43,
         "forward_return": 32.87,
         "start_price": 46.5,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.55,
         "forward_return": 33.94,
         "start_price": 49.5,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 13.11,
+        "pe_ratio": 13.89,
         "forward_return": 30.0,
         "start_price": 53.0,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.26,
         "forward_return": 25.8,
         "start_price": 60.0,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.21,
         "forward_return": 24.49,
         "start_price": 58.8,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 17.23,
         "forward_return": 25.35,
         "start_price": 61.4,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.16,
         "forward_return": 27.88,
         "start_price": 65.0,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 16.53,
+        "pe_ratio": 17.73,
         "forward_return": 30.56,
         "start_price": 64.9,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 18.13,
         "forward_return": 25.79,
         "start_price": 67.8,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 16.24,
+        "pe_ratio": 17.15,
         "forward_return": 29.47,
         "start_price": 70.7,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 15.02,
         "forward_return": 33.04,
         "start_price": 67.7,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.83,
+        "pe_ratio": 13.52,
         "forward_return": 32.98,
         "start_price": 66.1,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 13.53,
         "forward_return": 32.09,
         "start_price": 68.7,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.79,
         "forward_return": 31.56,
         "start_price": 72.6,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 29.57,
         "start_price": 82.2,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.84,
+        "pe_ratio": 14.79,
         "forward_return": 34.15,
         "start_price": 83.6,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.96,
+        "pe_ratio": 13.93,
         "forward_return": 33.99,
         "start_price": 81.6,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.17,
         "forward_return": 31.14,
         "start_price": 89.7,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.39,
         "forward_return": 35.79,
         "start_price": 81.8,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 13.25,
         "forward_return": 32.32,
         "start_price": 91.0,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 14.18,
         "forward_return": 30.01,
         "start_price": 94.8,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.19,
         "forward_return": 36.66,
         "start_price": 92.2,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.47,
         "forward_return": 40.08,
         "start_price": 97.6,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.36,
         "forward_return": 36.98,
         "start_price": 97.5,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.08,
         "forward_return": 52.4,
         "start_price": 83.5,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.68,
         "forward_return": 41.39,
         "start_price": 81.4,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.82,
         "forward_return": 39.99,
         "start_price": 82.4,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.82,
         "forward_return": 40.14,
         "start_price": 82.5,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.14,
         "forward_return": 41.35,
         "start_price": 89.6,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.88,
         "forward_return": 35.72,
         "start_price": 99.0,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 16.04,
+        "pe_ratio": 16.72,
         "forward_return": 35.28,
         "start_price": 102.5,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.57,
+        "pe_ratio": 16.17,
         "forward_return": 39.42,
         "start_price": 99.2,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 16.6,
         "forward_return": 37.09,
         "start_price": 102.0,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.56,
+        "pe_ratio": 16.03,
         "forward_return": 32.09,
         "start_price": 98.6,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.85,
+        "pe_ratio": 17.34,
         "forward_return": 29.12,
         "start_price": 106.5,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.5,
+        "pe_ratio": 16.95,
         "forward_return": 29.0,
         "start_price": 104.0,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 17.46,
         "forward_return": 31.14,
         "start_price": 107.0,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 16.11,
+        "pe_ratio": 16.38,
         "forward_return": 35.24,
         "start_price": 101.0,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.5,
         "forward_return": 28.6,
         "start_price": 108.5,
         "start_year": 2012
@@ -8985,7 +8985,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 19.53,
+        "pe_ratio": 19.7,
         "forward_return": 21.08,
         "start_price": 123.5,
         "start_year": 2013
@@ -8994,7 +8994,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 20.96,
         "forward_return": 23.11,
         "start_price": 132.0,
         "start_year": 2013
@@ -9003,7 +9003,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 19.35,
         "forward_return": 27.28,
         "start_price": 122.5,
         "start_year": 2013
@@ -9012,7 +9012,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.44,
+        "pe_ratio": 21.96,
         "forward_return": 20.08,
         "start_price": 141.0,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 22.58,
         "forward_return": 20.49,
         "start_price": 147.0,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 21.67,
         "forward_return": 22.15,
         "start_price": 143.0,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.22,
+        "pe_ratio": 21.6,
         "forward_return": 22.3,
         "start_price": 145.0,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 21.97,
+        "pe_ratio": 22.27,
         "forward_return": 22.11,
         "start_price": 152.0,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 23.85,
         "forward_return": 20.04,
         "start_price": 165.5,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 26.75,
         "forward_return": 13.31,
         "start_price": 188.5,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 25.51,
+        "pe_ratio": 25.58,
         "forward_return": 14.37,
         "start_price": 183.0,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 25.87,
+        "pe_ratio": 25.51,
         "forward_return": 14.3,
         "start_price": 189.0,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.05,
+        "pe_ratio": 25.33,
         "forward_return": 13.33,
         "start_price": 191.5,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 25.62,
         "forward_return": 11.16,
         "start_price": 197.5,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.15,
         "forward_return": 10.24,
         "start_price": 195.0,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 29.66,
+        "pe_ratio": 28.47,
         "forward_return": 5.58,
         "start_price": 222.0,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 33.86,
+        "pe_ratio": 32.53,
         "forward_return": -2.99,
         "start_price": 255.0,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 31.09,
+        "pe_ratio": 30.51,
         "forward_return": 1.57,
         "start_price": 235.5,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 36.81,
+        "pe_ratio": 36.91,
         "forward_return": -4.96,
         "start_price": 280.5,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.74,
         "forward_return": 2.46,
         "start_price": 215.0,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 27.37,
+        "pe_ratio": 27.81,
         "forward_return": 2.06,
         "start_price": 211.0,
         "start_year": 2014
@@ -9183,7 +9183,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 27.34,
+        "pe_ratio": 27.56,
         "forward_return": 0.98,
         "start_price": 212.0,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 30.42,
+        "pe_ratio": 30.45,
         "forward_return": 1.15,
         "start_price": 238.0,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 30.59,
+        "pe_ratio": 30.64,
         "forward_return": -0.59,
         "start_price": 240.0,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 30.3,
+        "pe_ratio": 30.38,
         "forward_return": -1.45,
         "start_price": 238.5,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 32.12,
+        "pe_ratio": 32.02,
         "forward_return": -4.21,
         "start_price": 253.5,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 31.0,
         "forward_return": -3.66,
         "start_price": 247.5,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.7,
+        "pe_ratio": 26.34,
         "forward_return": 1.13,
         "start_price": 212.0,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 26.75,
+        "pe_ratio": 26.61,
         "forward_return": 1.3,
         "start_price": 213.0,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.02,
         "forward_return": 3.26,
         "start_price": 207.0,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 28.09,
+        "pe_ratio": 28.45,
         "forward_return": 3.07,
         "start_price": 225.0,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 29.07,
+        "pe_ratio": 29.31,
         "forward_return": -0.23,
         "start_price": 233.5,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.73,
         "forward_return": 5.57,
         "start_price": 214.5,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 24.88,
         "forward_return": 6.81,
         "start_price": 203.0,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 27.96,
+        "pe_ratio": 27.91,
         "forward_return": 5.96,
         "start_price": 230.0,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 28.49,
+        "pe_ratio": 28.43,
         "forward_return": 5.15,
         "start_price": 236.5,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 27.23,
+        "pe_ratio": 27.2,
         "forward_return": 5.66,
         "start_price": 228.0,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.7,
+        "pe_ratio": 28.73,
         "forward_return": 4.99,
         "start_price": 244.5,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.71,
         "forward_return": 4.46,
         "start_price": 248.0,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 29.94,
+        "pe_ratio": 29.61,
         "forward_return": 3.38,
         "start_price": 259.5,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 30.78,
+        "pe_ratio": 30.26,
         "forward_return": 2.86,
         "start_price": 269.0,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 29.16,
+        "pe_ratio": 28.83,
         "forward_return": 7.72,
         "start_price": 257.0,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.7,
         "forward_return": 7.57,
         "start_price": 256.5,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.61,
+        "pe_ratio": 29.88,
         "forward_return": 5.45,
         "start_price": 265.0,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 29.25,
+        "pe_ratio": 29.78,
         "forward_return": 6.31,
         "start_price": 261.5,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 28.44,
+        "pe_ratio": 29.23,
         "forward_return": 1.95,
         "start_price": 254.0,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 27.35,
+        "pe_ratio": 28.52,
         "forward_return": 7.57,
         "start_price": 244.0,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 28.97,
         "forward_return": 9.08,
         "start_price": 244.0,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.21,
+        "pe_ratio": 26.0,
         "forward_return": 13.51,
         "start_price": 215.5,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 25.7,
+        "pe_ratio": 27.34,
         "forward_return": 13.05,
         "start_price": 228.5,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 25.06,
+        "pe_ratio": 26.41,
         "forward_return": 13.42,
         "start_price": 222.5,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.01,
+        "pe_ratio": 25.09,
         "forward_return": 13.59,
         "start_price": 213.0,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.93,
         "forward_return": 14.61,
         "start_price": 206.0,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 22.93,
         "forward_return": 17.94,
         "start_price": 200.0,
         "start_year": 2017
@@ -9525,7 +9525,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.75,
+        "pe_ratio": 25.6,
         "forward_return": 17.21,
         "start_price": 228.0,
         "start_year": 2018
@@ -9534,7 +9534,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.53,
+        "pe_ratio": 24.24,
         "forward_return": 20.82,
         "start_price": 217.5,
         "start_year": 2018
@@ -9543,7 +9543,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 23.23,
         "forward_return": 21.34,
         "start_price": 210.0,
         "start_year": 2018
@@ -9552,7 +9552,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 22.99,
+        "pe_ratio": 22.77,
         "forward_return": 22.63,
         "start_price": 204.5,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.78,
+        "pe_ratio": 22.76,
         "forward_return": 19.98,
         "start_price": 203.0,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.52,
+        "pe_ratio": 22.69,
         "forward_return": 22.13,
         "start_price": 201.0,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.65,
+        "pe_ratio": 22.71,
         "forward_return": 23.95,
         "start_price": 202.5,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 23.34,
+        "pe_ratio": 23.29,
         "forward_return": 24.94,
         "start_price": 209.0,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.19,
         "forward_return": 19.34,
         "start_price": 227.5,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 23.61,
         "forward_return": 21.77,
         "start_price": 213.0,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.9,
         "forward_return": 20.01,
         "start_price": 233.5,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.05,
         "forward_return": 20.73,
         "start_price": 228.5,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 25.38,
+        "pe_ratio": 25.46,
         "forward_return": 18.21,
         "start_price": 235.0,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 27.41,
         "forward_return": 15.18,
         "start_price": 256.0,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 26.34,
         "forward_return": 16.09,
         "start_price": 250.0,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 27.49,
         "forward_return": 13.03,
         "start_price": 265.0,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 27.05,
+        "pe_ratio": 26.97,
         "forward_return": 11.67,
         "start_price": 264.0,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 26.61,
+        "pe_ratio": 26.32,
         "forward_return": 11.58,
         "start_price": 263.0,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.19,
         "forward_return": 9.48,
         "start_price": 267.0,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.94,
+        "pe_ratio": 26.25,
         "forward_return": 5.04,
         "start_price": 273.0,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 29.39,
+        "pe_ratio": 28.89,
         "forward_return": 1.56,
         "start_price": 301.5,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 28.6,
         "forward_return": 5.91,
         "start_price": 299.5,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 27.93,
+        "pe_ratio": 28.1,
         "forward_return": 7.73,
         "start_price": 291.0,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 28.52,
+        "pe_ratio": 28.86,
         "forward_return": 9.9,
         "start_price": 294.5,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.38,
+        "pe_ratio": 24.83,
         "forward_return": 16.45,
         "start_price": 249.5,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.01,
+        "pe_ratio": 27.73,
         "forward_return": 11.53,
         "start_price": 284.0,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 29.56,
+        "pe_ratio": 28.46,
         "forward_return": 13.13,
         "start_price": 297.0,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.68,
+        "pe_ratio": 27.8,
         "forward_return": 13.54,
         "start_price": 295.5,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 31.33,
+        "pe_ratio": 30.22,
         "forward_return": 10.48,
         "start_price": 309.0,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 30.92,
         "forward_return": 6.74,
         "start_price": 303.5,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 30.07,
+        "pe_ratio": 30.92,
         "forward_return": 8.35,
         "start_price": 291.0,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 30.15,
+        "pe_ratio": 30.72,
         "forward_return": 7.26,
         "start_price": 289.0,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 32.34,
+        "pe_ratio": 32.65,
         "forward_return": 7.24,
         "start_price": 307.0,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 36.4,
+        "pe_ratio": 35.79,
         "forward_return": 1.57,
         "start_price": 346.0,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 37.71,
+        "pe_ratio": 36.49,
         "forward_return": 4.62,
         "start_price": 362.5,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 36.43,
+        "pe_ratio": 34.71,
         "forward_return": 6.62,
         "start_price": 354.0,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 36.24,
+        "pe_ratio": 35.71,
         "forward_return": 4.4,
         "start_price": 356.0,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.83,
         "forward_return": 4.69,
         "start_price": 329.5,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 34.38,
+        "pe_ratio": 36.28,
         "forward_return": 4.62,
         "start_price": 345.0,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.89,
+        "pe_ratio": 37.69,
         "forward_return": 0.9,
         "start_price": 364.0,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 39.37,
         "forward_return": -0.83,
         "start_price": 386.0,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 35.26,
+        "pe_ratio": 36.68,
         "forward_return": -1.49,
         "start_price": 365.0,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 34.71,
+        "pe_ratio": 35.62,
         "forward_return": -1.45,
         "start_price": 363.0,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 36.16,
+        "pe_ratio": 36.63,
         "forward_return": -1.69,
         "start_price": 382.0,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 34.8,
+        "pe_ratio": 34.76,
         "forward_return": 2.22,
         "start_price": 380.5,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 32.72,
+        "pe_ratio": 32.66,
         "forward_return": 5.75,
         "start_price": 366.5,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 32.23,
+        "pe_ratio": 32.13,
         "forward_return": 2.88,
         "start_price": 369.5,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 31.5,
+        "pe_ratio": 31.35,
         "forward_return": -0.46,
         "start_price": 369.5,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 29.9,
         "forward_return": 0.77,
         "start_price": 361.0,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 28.22,
+        "pe_ratio": 27.99,
         "forward_return": 2.02,
         "start_price": 346.0,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 27.35,
+        "pe_ratio": 26.87,
         "forward_return": 1.99,
         "start_price": 342.5,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 25.61,
+        "pe_ratio": 24.94,
         "forward_return": 4.32,
         "start_price": 327.5,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 22.48,
+        "pe_ratio": 21.71,
         "forward_return": 5.72,
         "start_price": 293.5,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 22.0,
+        "pe_ratio": 21.5,
         "forward_return": 5.22,
         "start_price": 293.0,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 24.51,
+        "pe_ratio": 24.24,
         "forward_return": -1.75,
         "start_price": 333.0,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 24.8,
+        "pe_ratio": 24.35,
         "forward_return": -1.35,
         "start_price": 341.0,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 26.15,
+        "pe_ratio": 25.22,
         "forward_return": 0.68,
         "start_price": 357.0,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 14.27,
+        "pe_ratio": 15.55,
         "forward_return": -2.04,
         "start_price": 89.9,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.89,
+        "pe_ratio": 14.74,
         "forward_return": -0.52,
         "start_price": 87.5,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.23,
         "forward_return": -1.17,
         "start_price": 86.7,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.85,
         "forward_return": -3.31,
         "start_price": 92.8,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 15.84,
         "forward_return": -4.35,
         "start_price": 100.0,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 14.58,
         "forward_return": -1.48,
         "start_price": 93.0,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 15.13,
+        "pe_ratio": 14.8,
         "forward_return": 0.5,
         "start_price": 95.3,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.48,
         "forward_return": 1.58,
         "start_price": 92.6,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.74,
         "forward_return": -0.84,
         "start_price": 99.9,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.66,
         "forward_return": 0.17,
         "start_price": 104.0,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.07,
         "forward_return": -4.83,
         "start_price": 118.0,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.29,
         "forward_return": 0.0,
         "start_price": 106.0,
         "start_year": 2007
@@ -10200,7 +10200,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 2.75,
         "start_price": 98.5,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.96,
         "forward_return": 2.11,
         "start_price": 98.6,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.94,
         "forward_return": 1.76,
         "start_price": 105.0,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 16.8,
+        "pe_ratio": 17.21,
         "forward_return": 1.87,
         "start_price": 104.0,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.94,
         "forward_return": -0.43,
         "start_price": 99.7,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.96,
         "forward_return": -0.34,
         "start_price": 97.2,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.99,
         "forward_return": 2.5,
         "start_price": 87.8,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 12.5,
+        "pe_ratio": 12.8,
         "forward_return": 6.08,
         "start_price": 76.6,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.58,
         "forward_return": 12.28,
         "start_price": 65.5,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.6,
         "forward_return": 11.74,
         "start_price": 72.8,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.29,
         "forward_return": 12.98,
         "start_price": 71.8,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 12.57,
         "forward_return": 9.7,
         "start_price": 78.5,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.89,
         "forward_return": 10.2,
         "start_price": 79.0,
         "start_year": 2008
@@ -10326,7 +10326,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 12.98,
         "forward_return": 9.73,
         "start_price": 78.0,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.31,
         "forward_return": 16.55,
         "start_price": 66.1,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.6,
         "forward_return": 13.69,
         "start_price": 71.5,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.07,
         "forward_return": 19.03,
         "start_price": 61.0,
         "start_year": 2008
@@ -10362,7 +10362,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.75,
+        "pe_ratio": 8.6,
         "forward_return": 25.94,
         "start_price": 46.3,
         "start_year": 2008
@@ -10371,7 +10371,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 7.98,
+        "pe_ratio": 7.91,
         "forward_return": 31.39,
         "start_price": 41.6,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 8.27,
+        "pe_ratio": 8.31,
         "forward_return": 35.44,
         "start_price": 41.3,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 9.06,
+        "pe_ratio": 9.15,
         "forward_return": 35.3,
         "start_price": 44.0,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.13,
         "forward_return": 30.82,
         "start_price": 47.1,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.71,
         "forward_return": 31.58,
         "start_price": 52.2,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.77,
         "forward_return": 34.13,
         "start_price": 50.2,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 10.78,
+        "pe_ratio": 11.43,
         "forward_return": 35.87,
         "start_price": 46.5,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.55,
         "forward_return": 34.57,
         "start_price": 49.5,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 13.11,
+        "pe_ratio": 13.89,
         "forward_return": 33.7,
         "start_price": 53.0,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.26,
         "forward_return": 32.13,
         "start_price": 60.0,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.21,
         "forward_return": 36.79,
         "start_price": 58.8,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 17.23,
         "forward_return": 34.4,
         "start_price": 61.4,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.16,
         "forward_return": 33.48,
         "start_price": 65.0,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 16.53,
+        "pe_ratio": 17.73,
         "forward_return": 33.94,
         "start_price": 64.9,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 18.13,
         "forward_return": 33.42,
         "start_price": 67.8,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 16.24,
+        "pe_ratio": 17.15,
         "forward_return": 31.65,
         "start_price": 70.7,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 15.02,
         "forward_return": 37.12,
         "start_price": 67.7,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.83,
+        "pe_ratio": 13.52,
         "forward_return": 42.47,
         "start_price": 66.1,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 13.53,
         "forward_return": 38.68,
         "start_price": 68.7,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.79,
         "forward_return": 42.47,
         "start_price": 72.6,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 29.84,
         "start_price": 82.2,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.84,
+        "pe_ratio": 14.79,
         "forward_return": 28.74,
         "start_price": 83.6,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.96,
+        "pe_ratio": 13.93,
         "forward_return": 29.66,
         "start_price": 81.6,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.17,
         "forward_return": 30.06,
         "start_price": 89.7,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.39,
         "forward_return": 33.35,
         "start_price": 81.8,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 13.25,
         "forward_return": 29.65,
         "start_price": 91.0,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 14.18,
         "forward_return": 30.16,
         "start_price": 94.8,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.19,
         "forward_return": 30.34,
         "start_price": 92.2,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.47,
         "forward_return": 23.98,
         "start_price": 97.6,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.36,
         "forward_return": 24.48,
         "start_price": 97.5,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.08,
         "forward_return": 28.56,
         "start_price": 83.5,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.68,
         "forward_return": 31.87,
         "start_price": 81.4,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.82,
         "forward_return": 32.58,
         "start_price": 82.4,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.82,
         "forward_return": 30.0,
         "start_price": 82.5,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.14,
         "forward_return": 25.76,
         "start_price": 89.6,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.88,
         "forward_return": 26.2,
         "start_price": 99.0,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 16.04,
+        "pe_ratio": 16.72,
         "forward_return": 25.91,
         "start_price": 102.5,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.57,
+        "pe_ratio": 16.17,
         "forward_return": 25.89,
         "start_price": 99.2,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 16.6,
         "forward_return": 26.61,
         "start_price": 102.0,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.56,
+        "pe_ratio": 16.03,
         "forward_return": 28.11,
         "start_price": 98.6,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.85,
+        "pe_ratio": 17.34,
         "forward_return": 26.2,
         "start_price": 106.5,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.5,
+        "pe_ratio": 16.95,
         "forward_return": 28.28,
         "start_price": 104.0,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 17.46,
         "forward_return": 28.44,
         "start_price": 107.0,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 16.11,
+        "pe_ratio": 16.38,
         "forward_return": 28.94,
         "start_price": 101.0,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.5,
         "forward_return": 26.59,
         "start_price": 108.5,
         "start_year": 2012
@@ -10821,7 +10821,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 19.53,
+        "pe_ratio": 19.7,
         "forward_return": 23.49,
         "start_price": 123.5,
         "start_year": 2013
@@ -10830,7 +10830,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 20.96,
         "forward_return": 21.08,
         "start_price": 132.0,
         "start_year": 2013
@@ -10839,7 +10839,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 19.35,
         "forward_return": 22.53,
         "start_price": 122.5,
         "start_year": 2013
@@ -10848,7 +10848,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.44,
+        "pe_ratio": 21.96,
         "forward_return": 17.21,
         "start_price": 141.0,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 22.58,
         "forward_return": 16.0,
         "start_price": 147.0,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 21.67,
         "forward_return": 13.54,
         "start_price": 143.0,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.22,
+        "pe_ratio": 21.6,
         "forward_return": 14.83,
         "start_price": 145.0,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 21.97,
+        "pe_ratio": 22.27,
         "forward_return": 12.8,
         "start_price": 152.0,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 23.85,
         "forward_return": 9.34,
         "start_price": 165.5,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 26.75,
         "forward_return": 5.05,
         "start_price": 188.5,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 25.51,
+        "pe_ratio": 25.58,
         "forward_return": 5.13,
         "start_price": 183.0,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 25.87,
+        "pe_ratio": 25.51,
         "forward_return": 7.41,
         "start_price": 189.0,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.05,
+        "pe_ratio": 25.33,
         "forward_return": 5.92,
         "start_price": 191.5,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 25.62,
         "forward_return": 4.28,
         "start_price": 197.5,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.15,
         "forward_return": 3.99,
         "start_price": 195.0,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 29.66,
+        "pe_ratio": 28.47,
         "forward_return": 0.51,
         "start_price": 222.0,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 33.86,
+        "pe_ratio": 32.53,
         "forward_return": -3.13,
         "start_price": 255.0,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 31.09,
+        "pe_ratio": 30.51,
         "forward_return": -0.87,
         "start_price": 235.5,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 36.81,
+        "pe_ratio": 36.91,
         "forward_return": -4.44,
         "start_price": 280.5,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.74,
         "forward_return": 4.09,
         "start_price": 215.0,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 27.37,
+        "pe_ratio": 27.81,
         "forward_return": 3.04,
         "start_price": 211.0,
         "start_year": 2014
@@ -11019,7 +11019,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 27.34,
+        "pe_ratio": 27.56,
         "forward_return": 5.07,
         "start_price": 212.0,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 30.42,
+        "pe_ratio": 30.45,
         "forward_return": 1.58,
         "start_price": 238.0,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 30.59,
+        "pe_ratio": 30.64,
         "forward_return": 2.01,
         "start_price": 240.0,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 30.3,
+        "pe_ratio": 30.38,
         "forward_return": 4.17,
         "start_price": 238.5,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 32.12,
+        "pe_ratio": 32.02,
         "forward_return": 2.05,
         "start_price": 253.5,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 31.0,
         "forward_return": 4.03,
         "start_price": 247.5,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.7,
+        "pe_ratio": 26.34,
         "forward_return": 8.04,
         "start_price": 212.0,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 26.75,
+        "pe_ratio": 26.61,
         "forward_return": 7.9,
         "start_price": 213.0,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.02,
         "forward_return": 9.05,
         "start_price": 207.0,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 28.09,
+        "pe_ratio": 28.45,
         "forward_return": 7.34,
         "start_price": 225.0,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 29.07,
+        "pe_ratio": 29.31,
         "forward_return": 8.8,
         "start_price": 233.5,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.73,
         "forward_return": 10.96,
         "start_price": 214.5,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 24.88,
         "forward_return": 11.76,
         "start_price": 203.0,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 27.96,
+        "pe_ratio": 27.91,
         "forward_return": 8.62,
         "start_price": 230.0,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 28.49,
+        "pe_ratio": 28.43,
         "forward_return": 3.86,
         "start_price": 236.5,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 27.23,
+        "pe_ratio": 27.2,
         "forward_return": 7.96,
         "start_price": 228.0,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.7,
+        "pe_ratio": 28.73,
         "forward_return": 7.06,
         "start_price": 244.5,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.71,
         "forward_return": 7.93,
         "start_price": 248.0,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 29.94,
+        "pe_ratio": 29.61,
         "forward_return": 6.27,
         "start_price": 259.5,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 30.78,
+        "pe_ratio": 30.26,
         "forward_return": 4.31,
         "start_price": 269.0,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 29.16,
+        "pe_ratio": 28.83,
         "forward_return": 5.34,
         "start_price": 257.0,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.7,
         "forward_return": 6.86,
         "start_price": 256.5,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.61,
+        "pe_ratio": 29.88,
         "forward_return": 8.96,
         "start_price": 265.0,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 29.25,
+        "pe_ratio": 29.78,
         "forward_return": 10.51,
         "start_price": 261.5,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 28.44,
+        "pe_ratio": 29.23,
         "forward_return": 10.7,
         "start_price": 254.0,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 27.35,
+        "pe_ratio": 28.52,
         "forward_return": 11.97,
         "start_price": 244.0,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 28.97,
         "forward_return": 9.98,
         "start_price": 244.0,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.21,
+        "pe_ratio": 26.0,
         "forward_return": 14.66,
         "start_price": 215.5,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 25.7,
+        "pe_ratio": 27.34,
         "forward_return": 14.47,
         "start_price": 228.5,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 25.06,
+        "pe_ratio": 26.41,
         "forward_return": 16.81,
         "start_price": 222.5,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.01,
+        "pe_ratio": 25.09,
         "forward_return": 16.57,
         "start_price": 213.0,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.93,
         "forward_return": 17.4,
         "start_price": 206.0,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 22.93,
         "forward_return": 19.68,
         "start_price": 200.0,
         "start_year": 2017
@@ -11361,7 +11361,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.75,
+        "pe_ratio": 25.6,
         "forward_return": 15.71,
         "start_price": 228.0,
         "start_year": 2018
@@ -11370,7 +11370,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.53,
+        "pe_ratio": 24.24,
         "forward_return": 16.07,
         "start_price": 217.5,
         "start_year": 2018
@@ -11379,7 +11379,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 23.23,
         "forward_return": 17.32,
         "start_price": 210.0,
         "start_year": 2018
@@ -11388,7 +11388,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 22.99,
+        "pe_ratio": 22.77,
         "forward_return": 18.1,
         "start_price": 204.5,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.78,
+        "pe_ratio": 22.76,
         "forward_return": 17.68,
         "start_price": 203.0,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.52,
+        "pe_ratio": 22.69,
         "forward_return": 16.81,
         "start_price": 201.0,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.65,
+        "pe_ratio": 22.71,
         "forward_return": 16.43,
         "start_price": 202.5,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 23.34,
+        "pe_ratio": 23.29,
         "forward_return": 14.33,
         "start_price": 209.0,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.19,
         "forward_return": 9.17,
         "start_price": 227.5,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 23.61,
         "forward_return": 10.94,
         "start_price": 213.0,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.9,
         "forward_return": 11.64,
         "start_price": 233.5,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.05,
         "forward_return": 12.86,
         "start_price": 228.5,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 25.38,
+        "pe_ratio": 25.46,
         "forward_return": 13.26,
         "start_price": 235.0,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 27.41,
         "forward_return": 11.85,
         "start_price": 256.0,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 26.34,
         "forward_return": 12.51,
         "start_price": 250.0,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 27.49,
         "forward_return": 13.3,
         "start_price": 265.0,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 27.05,
+        "pe_ratio": 26.97,
         "forward_return": 13.57,
         "start_price": 264.0,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 26.61,
+        "pe_ratio": 26.32,
         "forward_return": 12.7,
         "start_price": 263.0,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.19,
         "forward_return": 9.0,
         "start_price": 267.0,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.94,
+        "pe_ratio": 26.25,
         "forward_return": 8.46,
         "start_price": 273.0,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 29.39,
+        "pe_ratio": 28.89,
         "forward_return": 4.85,
         "start_price": 301.5,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 28.6,
         "forward_return": 6.57,
         "start_price": 299.5,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 27.93,
+        "pe_ratio": 28.1,
         "forward_return": 6.21,
         "start_price": 291.0,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 28.52,
+        "pe_ratio": 28.86,
         "forward_return": 9.46,
         "start_price": 294.5,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.38,
+        "pe_ratio": 24.83,
         "forward_return": 15.03,
         "start_price": 249.5,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.01,
+        "pe_ratio": 27.73,
         "forward_return": 9.8,
         "start_price": 284.0,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 29.56,
+        "pe_ratio": 28.46,
         "forward_return": 6.76,
         "start_price": 297.0,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.68,
+        "pe_ratio": 27.8,
         "forward_return": 8.06,
         "start_price": 295.5,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 31.33,
+        "pe_ratio": 30.22,
         "forward_return": 5.38,
         "start_price": 309.0,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 30.92,
         "forward_return": 6.02,
         "start_price": 303.5,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 30.07,
+        "pe_ratio": 30.92,
         "forward_return": 5.17,
         "start_price": 291.0,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 30.15,
+        "pe_ratio": 30.72,
         "forward_return": 5.24,
         "start_price": 289.0,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 32.34,
+        "pe_ratio": 32.65,
         "forward_return": 4.78,
         "start_price": 307.0,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 36.4,
+        "pe_ratio": 35.79,
         "forward_return": 4.56,
         "start_price": 346.0,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 37.71,
+        "pe_ratio": 36.49,
         "forward_return": 4.99,
         "start_price": 362.5,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 36.43,
+        "pe_ratio": 34.71,
         "forward_return": 3.71,
         "start_price": 354.0,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 36.24,
+        "pe_ratio": 35.71,
         "forward_return": 1.07,
         "start_price": 356.0,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.83,
         "forward_return": 3.39,
         "start_price": 329.5,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 34.38,
+        "pe_ratio": 36.28,
         "forward_return": 2.07,
         "start_price": 345.0,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 35.89,
+        "pe_ratio": 37.69,
         "forward_return": 0.5,
         "start_price": 364.0,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 37.67,
+        "pe_ratio": 39.37,
         "forward_return": -0.4,
         "start_price": 386.0,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 35.26,
+        "pe_ratio": 36.68,
         "forward_return": -0.71,
         "start_price": 365.0,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 34.71,
+        "pe_ratio": 35.62,
         "forward_return": -0.96,
         "start_price": 363.0,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 36.16,
+        "pe_ratio": 36.63,
         "forward_return": -4.05,
         "start_price": 382.0,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 34.8,
+        "pe_ratio": 34.76,
         "forward_return": -3.11,
         "start_price": 380.5,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 32.72,
+        "pe_ratio": 32.66,
         "forward_return": 0.39,
         "start_price": 366.5,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 14.27,
+        "pe_ratio": 15.55,
         "forward_return": 4.12,
         "start_price": 89.9,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.89,
+        "pe_ratio": 14.74,
         "forward_return": 5.4,
         "start_price": 87.5,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.23,
         "forward_return": 5.1,
         "start_price": 86.7,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.85,
         "forward_return": 4.67,
         "start_price": 92.8,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 15.84,
         "forward_return": 3.01,
         "start_price": 100.0,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 14.58,
         "forward_return": 1.87,
         "start_price": 93.0,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 15.13,
+        "pe_ratio": 14.8,
         "forward_return": 0.95,
         "start_price": 95.3,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.48,
         "forward_return": 1.73,
         "start_price": 92.6,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.74,
         "forward_return": 0.22,
         "start_price": 99.9,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.66,
         "forward_return": 0.78,
         "start_price": 104.0,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.07,
         "forward_return": -0.08,
         "start_price": 118.0,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.29,
         "forward_return": 2.68,
         "start_price": 106.0,
         "start_year": 2007
@@ -11928,7 +11928,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 3.63,
         "start_price": 98.5,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.96,
         "forward_return": 4.09,
         "start_price": 98.6,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.94,
         "forward_return": 2.21,
         "start_price": 105.0,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 16.8,
+        "pe_ratio": 17.21,
         "forward_return": 3.9,
         "start_price": 104.0,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.94,
         "forward_return": 4.37,
         "start_price": 99.7,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.96,
         "forward_return": 5.4,
         "start_price": 97.2,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.99,
         "forward_return": 6.53,
         "start_price": 87.8,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 12.5,
+        "pe_ratio": 12.8,
         "forward_return": 10.8,
         "start_price": 76.6,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.58,
         "forward_return": 16.89,
         "start_price": 65.5,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.6,
         "forward_return": 14.05,
         "start_price": 72.8,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.29,
         "forward_return": 14.61,
         "start_price": 71.8,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 12.57,
         "forward_return": 15.37,
         "start_price": 78.5,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.89,
         "forward_return": 16.08,
         "start_price": 79.0,
         "start_year": 2008
@@ -12054,7 +12054,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 12.98,
         "forward_return": 15.81,
         "start_price": 78.0,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.31,
         "forward_return": 20.13,
         "start_price": 66.1,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.6,
         "forward_return": 19.24,
         "start_price": 71.5,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.07,
         "forward_return": 24.96,
         "start_price": 61.0,
         "start_year": 2008
@@ -12090,7 +12090,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.75,
+        "pe_ratio": 8.6,
         "forward_return": 35.17,
         "start_price": 46.3,
         "start_year": 2008
@@ -12099,7 +12099,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 7.98,
+        "pe_ratio": 7.91,
         "forward_return": 37.36,
         "start_price": 41.6,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 8.27,
+        "pe_ratio": 8.31,
         "forward_return": 38.36,
         "start_price": 41.3,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 9.06,
+        "pe_ratio": 9.15,
         "forward_return": 36.94,
         "start_price": 44.0,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.13,
         "forward_return": 35.85,
         "start_price": 47.1,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.71,
         "forward_return": 32.77,
         "start_price": 52.2,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.77,
         "forward_return": 37.01,
         "start_price": 50.2,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 10.78,
+        "pe_ratio": 11.43,
         "forward_return": 42.73,
         "start_price": 46.5,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.55,
         "forward_return": 39.14,
         "start_price": 49.5,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 13.11,
+        "pe_ratio": 13.89,
         "forward_return": 41.74,
         "start_price": 53.0,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.26,
         "forward_return": 31.69,
         "start_price": 60.0,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.21,
         "forward_return": 31.78,
         "start_price": 58.8,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 17.23,
         "forward_return": 30.75,
         "start_price": 61.4,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.16,
         "forward_return": 32.02,
         "start_price": 65.0,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 16.53,
+        "pe_ratio": 17.73,
         "forward_return": 32.26,
         "start_price": 64.9,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 18.13,
         "forward_return": 30.96,
         "start_price": 67.8,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 16.24,
+        "pe_ratio": 17.15,
         "forward_return": 31.33,
         "start_price": 70.7,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 15.02,
         "forward_return": 31.89,
         "start_price": 67.7,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.83,
+        "pe_ratio": 13.52,
         "forward_return": 28.84,
         "start_price": 66.1,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 13.53,
         "forward_return": 28.17,
         "start_price": 68.7,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.79,
         "forward_return": 26.12,
         "start_price": 72.6,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 24.88,
         "start_price": 82.2,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.84,
+        "pe_ratio": 14.79,
         "forward_return": 25.3,
         "start_price": 83.6,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.96,
+        "pe_ratio": 13.93,
         "forward_return": 23.99,
         "start_price": 81.6,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.17,
         "forward_return": 20.47,
         "start_price": 89.7,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.39,
         "forward_return": 25.5,
         "start_price": 81.8,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 13.25,
         "forward_return": 23.46,
         "start_price": 91.0,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 14.18,
         "forward_return": 21.65,
         "start_price": 94.8,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.19,
         "forward_return": 23.56,
         "start_price": 92.2,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.47,
         "forward_return": 22.48,
         "start_price": 97.6,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.36,
         "forward_return": 23.05,
         "start_price": 97.5,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.08,
         "forward_return": 27.96,
         "start_price": 83.5,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.68,
         "forward_return": 29.46,
         "start_price": 81.4,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.82,
         "forward_return": 28.08,
         "start_price": 82.4,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.82,
         "forward_return": 28.0,
         "start_price": 82.5,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.14,
         "forward_return": 26.65,
         "start_price": 89.6,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.88,
         "forward_return": 22.8,
         "start_price": 99.0,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 16.04,
+        "pe_ratio": 16.72,
         "forward_return": 22.36,
         "start_price": 102.5,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.57,
+        "pe_ratio": 16.17,
         "forward_return": 22.28,
         "start_price": 99.2,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 16.6,
         "forward_return": 21.6,
         "start_price": 102.0,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.56,
+        "pe_ratio": 16.03,
         "forward_return": 19.74,
         "start_price": 98.6,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.85,
+        "pe_ratio": 17.34,
         "forward_return": 19.26,
         "start_price": 106.5,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.5,
+        "pe_ratio": 16.95,
         "forward_return": 19.27,
         "start_price": 104.0,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 17.46,
         "forward_return": 17.68,
         "start_price": 107.0,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 16.11,
+        "pe_ratio": 16.38,
         "forward_return": 18.35,
         "start_price": 101.0,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.5,
         "forward_return": 16.06,
         "start_price": 108.5,
         "start_year": 2012
@@ -12549,7 +12549,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 19.53,
+        "pe_ratio": 19.7,
         "forward_return": 15.74,
         "start_price": 123.5,
         "start_year": 2013
@@ -12558,7 +12558,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 20.96,
         "forward_return": 13.26,
         "start_price": 132.0,
         "start_year": 2013
@@ -12567,7 +12567,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 19.35,
         "forward_return": 14.25,
         "start_price": 122.5,
         "start_year": 2013
@@ -12576,7 +12576,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.44,
+        "pe_ratio": 21.96,
         "forward_return": 10.57,
         "start_price": 141.0,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 22.58,
         "forward_return": 9.51,
         "start_price": 147.0,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 21.67,
         "forward_return": 9.92,
         "start_price": 143.0,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.22,
+        "pe_ratio": 21.6,
         "forward_return": 9.92,
         "start_price": 145.0,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 21.97,
+        "pe_ratio": 22.27,
         "forward_return": 9.49,
         "start_price": 152.0,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 23.85,
         "forward_return": 9.26,
         "start_price": 165.5,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 26.75,
         "forward_return": 5.23,
         "start_price": 188.5,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 25.51,
+        "pe_ratio": 25.58,
         "forward_return": 7.58,
         "start_price": 183.0,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 25.87,
+        "pe_ratio": 25.51,
         "forward_return": 6.48,
         "start_price": 189.0,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.05,
+        "pe_ratio": 25.33,
         "forward_return": 6.73,
         "start_price": 191.5,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 25.62,
         "forward_return": 7.7,
         "start_price": 197.5,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.15,
         "forward_return": 7.52,
         "start_price": 195.0,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 29.66,
+        "pe_ratio": 28.47,
         "forward_return": 5.86,
         "start_price": 222.0,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 33.86,
+        "pe_ratio": 32.53,
         "forward_return": 2.9,
         "start_price": 255.0,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 31.09,
+        "pe_ratio": 30.51,
         "forward_return": 4.59,
         "start_price": 235.5,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 36.81,
+        "pe_ratio": 36.91,
         "forward_return": 1.26,
         "start_price": 280.5,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.74,
         "forward_return": 7.22,
         "start_price": 215.0,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 27.37,
+        "pe_ratio": 27.81,
         "forward_return": 9.57,
         "start_price": 211.0,
         "start_year": 2014
@@ -12747,7 +12747,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 27.34,
+        "pe_ratio": 27.56,
         "forward_return": 9.33,
         "start_price": 212.0,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 30.42,
+        "pe_ratio": 30.45,
         "forward_return": 6.28,
         "start_price": 238.0,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 30.59,
+        "pe_ratio": 30.64,
         "forward_return": 6.33,
         "start_price": 240.0,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 30.3,
+        "pe_ratio": 30.38,
         "forward_return": 3.35,
         "start_price": 238.5,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 32.12,
+        "pe_ratio": 32.02,
         "forward_return": 4.48,
         "start_price": 253.5,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 31.0,
         "forward_return": 5.84,
         "start_price": 247.5,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.7,
+        "pe_ratio": 26.34,
         "forward_return": 9.06,
         "start_price": 212.0,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 26.75,
+        "pe_ratio": 26.61,
         "forward_return": 9.96,
         "start_price": 213.0,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.02,
         "forward_return": 10.23,
         "start_price": 207.0,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 28.09,
+        "pe_ratio": 28.45,
         "forward_return": 7.59,
         "start_price": 225.0,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 29.07,
+        "pe_ratio": 29.31,
         "forward_return": 6.67,
         "start_price": 233.5,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.73,
         "forward_return": 9.68,
         "start_price": 214.5,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 24.88,
         "forward_return": 13.32,
         "start_price": 203.0,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 27.96,
+        "pe_ratio": 27.91,
         "forward_return": 10.81,
         "start_price": 230.0,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 28.49,
+        "pe_ratio": 28.43,
         "forward_return": 10.38,
         "start_price": 236.5,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 27.23,
+        "pe_ratio": 27.2,
         "forward_return": 11.31,
         "start_price": 228.0,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.7,
+        "pe_ratio": 28.73,
         "forward_return": 9.13,
         "start_price": 244.5,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.71,
         "forward_return": 9.96,
         "start_price": 248.0,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 29.94,
+        "pe_ratio": 29.61,
         "forward_return": 10.14,
         "start_price": 259.5,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 30.78,
+        "pe_ratio": 30.26,
         "forward_return": 8.24,
         "start_price": 269.0,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 29.16,
+        "pe_ratio": 28.83,
         "forward_return": 9.12,
         "start_price": 257.0,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.7,
         "forward_return": 10.19,
         "start_price": 256.5,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.61,
+        "pe_ratio": 29.88,
         "forward_return": 9.39,
         "start_price": 265.0,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 29.25,
+        "pe_ratio": 29.78,
         "forward_return": 8.93,
         "start_price": 261.5,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 28.44,
+        "pe_ratio": 29.23,
         "forward_return": 9.73,
         "start_price": 254.0,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 27.35,
+        "pe_ratio": 28.52,
         "forward_return": 10.62,
         "start_price": 244.0,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 28.97,
         "forward_return": 10.15,
         "start_price": 244.0,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.21,
+        "pe_ratio": 26.0,
         "forward_return": 12.05,
         "start_price": 215.5,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 25.7,
+        "pe_ratio": 27.34,
         "forward_return": 10.64,
         "start_price": 228.5,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 25.06,
+        "pe_ratio": 26.41,
         "forward_return": 10.33,
         "start_price": 222.5,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.01,
+        "pe_ratio": 25.09,
         "forward_return": 9.14,
         "start_price": 213.0,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.93,
         "forward_return": 9.83,
         "start_price": 206.0,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 22.93,
         "forward_return": 13.05,
         "start_price": 200.0,
         "start_year": 2017
@@ -13089,7 +13089,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.75,
+        "pe_ratio": 25.6,
         "forward_return": 10.6,
         "start_price": 228.0,
         "start_year": 2018
@@ -13098,7 +13098,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.53,
+        "pe_ratio": 24.24,
         "forward_return": 12.58,
         "start_price": 217.5,
         "start_year": 2018
@@ -13107,7 +13107,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 23.23,
         "forward_return": 14.17,
         "start_price": 210.0,
         "start_year": 2018
@@ -13116,7 +13116,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 22.99,
+        "pe_ratio": 22.77,
         "forward_return": 14.77,
         "start_price": 204.5,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.78,
+        "pe_ratio": 22.76,
         "forward_return": 16.91,
         "start_price": 203.0,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.52,
+        "pe_ratio": 22.69,
         "forward_return": 17.27,
         "start_price": 201.0,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.65,
+        "pe_ratio": 22.71,
         "forward_return": 16.32,
         "start_price": 202.5,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 23.34,
+        "pe_ratio": 23.29,
         "forward_return": 12.92,
         "start_price": 209.0,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.19,
         "forward_return": 11.08,
         "start_price": 227.5,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 23.61,
         "forward_return": 11.75,
         "start_price": 213.0,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.9,
         "forward_return": 10.98,
         "start_price": 233.5,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.05,
         "forward_return": 10.54,
         "start_price": 228.5,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 25.38,
+        "pe_ratio": 25.46,
         "forward_return": 12.83,
         "start_price": 235.0,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 27.41,
         "forward_return": 11.62,
         "start_price": 256.0,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 26.34,
         "forward_return": 10.91,
         "start_price": 250.0,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 27.49,
         "forward_return": 8.18,
         "start_price": 265.0,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 27.05,
+        "pe_ratio": 26.97,
         "forward_return": 9.18,
         "start_price": 264.0,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 26.61,
+        "pe_ratio": 26.32,
         "forward_return": 8.13,
         "start_price": 263.0,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.19,
         "forward_return": 7.94,
         "start_price": 267.0,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.94,
+        "pe_ratio": 26.25,
         "forward_return": 5.91,
         "start_price": 273.0,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 29.39,
+        "pe_ratio": 28.89,
         "forward_return": 3.74,
         "start_price": 301.5,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 28.6,
         "forward_return": 4.75,
         "start_price": 299.5,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 27.93,
+        "pe_ratio": 28.1,
         "forward_return": 7.68,
         "start_price": 291.0,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 28.52,
+        "pe_ratio": 28.86,
         "forward_return": 7.1,
         "start_price": 294.5,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.38,
+        "pe_ratio": 24.83,
         "forward_return": 10.84,
         "start_price": 249.5,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 28.01,
+        "pe_ratio": 27.73,
         "forward_return": 5.96,
         "start_price": 284.0,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 29.56,
+        "pe_ratio": 28.46,
         "forward_return": 5.29,
         "start_price": 297.0,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.68,
+        "pe_ratio": 27.8,
         "forward_return": 5.29,
         "start_price": 295.5,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 31.33,
+        "pe_ratio": 30.22,
         "forward_return": 4.14,
         "start_price": 309.0,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 31.06,
+        "pe_ratio": 30.92,
         "forward_return": 4.98,
         "start_price": 303.5,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 30.07,
+        "pe_ratio": 30.92,
         "forward_return": 4.46,
         "start_price": 291.0,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 30.15,
+        "pe_ratio": 30.72,
         "forward_return": 4.28,
         "start_price": 289.0,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 32.34,
+        "pe_ratio": 32.65,
         "forward_return": 1.51,
         "start_price": 307.0,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 36.4,
+        "pe_ratio": 35.79,
         "forward_return": -0.21,
         "start_price": 346.0,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 37.71,
+        "pe_ratio": 36.49,
         "forward_return": 0.92,
         "start_price": 362.5,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 14.27,
+        "pe_ratio": 15.55,
         "forward_return": 5.65,
         "start_price": 89.9,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.89,
+        "pe_ratio": 14.74,
         "forward_return": 5.65,
         "start_price": 87.5,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.23,
         "forward_return": 6.22,
         "start_price": 86.7,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.85,
         "forward_return": 4.54,
         "start_price": 92.8,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 15.84,
         "forward_return": 4.46,
         "start_price": 100.0,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 14.58,
         "forward_return": 5.39,
         "start_price": 93.0,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 15.13,
+        "pe_ratio": 14.8,
         "forward_return": 5.37,
         "start_price": 95.3,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.48,
         "forward_return": 5.05,
         "start_price": 92.6,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.74,
         "forward_return": 4.75,
         "start_price": 99.9,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.66,
         "forward_return": 5.93,
         "start_price": 104.0,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.07,
         "forward_return": 4.7,
         "start_price": 118.0,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.29,
         "forward_return": 5.48,
         "start_price": 106.0,
         "start_year": 2007
@@ -13548,7 +13548,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 8.92,
         "start_price": 98.5,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.96,
         "forward_return": 9.55,
         "start_price": 98.6,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.94,
         "forward_return": 7.98,
         "start_price": 105.0,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 16.8,
+        "pe_ratio": 17.21,
         "forward_return": 8.46,
         "start_price": 104.0,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.94,
         "forward_return": 9.97,
         "start_price": 99.7,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.96,
         "forward_return": 11.8,
         "start_price": 97.2,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.99,
         "forward_return": 15.9,
         "start_price": 87.8,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 12.5,
+        "pe_ratio": 12.8,
         "forward_return": 18.05,
         "start_price": 76.6,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.58,
         "forward_return": 21.75,
         "start_price": 65.5,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.6,
         "forward_return": 20.11,
         "start_price": 72.8,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.29,
         "forward_return": 20.69,
         "start_price": 71.8,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 12.57,
         "forward_return": 18.68,
         "start_price": 78.5,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.89,
         "forward_return": 20.88,
         "start_price": 79.0,
         "start_year": 2008
@@ -13674,7 +13674,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 12.98,
         "forward_return": 23.7,
         "start_price": 78.0,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.31,
         "forward_return": 25.74,
         "start_price": 66.1,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.6,
         "forward_return": 27.44,
         "start_price": 71.5,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.07,
         "forward_return": 25.71,
         "start_price": 61.0,
         "start_year": 2008
@@ -13710,7 +13710,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.75,
+        "pe_ratio": 8.6,
         "forward_return": 31.25,
         "start_price": 46.3,
         "start_year": 2008
@@ -13719,7 +13719,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 7.98,
+        "pe_ratio": 7.91,
         "forward_return": 33.71,
         "start_price": 41.6,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 8.27,
+        "pe_ratio": 8.31,
         "forward_return": 36.21,
         "start_price": 41.3,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 9.06,
+        "pe_ratio": 9.15,
         "forward_return": 34.95,
         "start_price": 44.0,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.13,
         "forward_return": 33.3,
         "start_price": 47.1,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.71,
         "forward_return": 32.25,
         "start_price": 52.2,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.77,
         "forward_return": 32.63,
         "start_price": 50.2,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 10.78,
+        "pe_ratio": 11.43,
         "forward_return": 31.25,
         "start_price": 46.5,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.55,
         "forward_return": 30.25,
         "start_price": 49.5,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 13.11,
+        "pe_ratio": 13.89,
         "forward_return": 28.24,
         "start_price": 53.0,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.26,
         "forward_return": 27.16,
         "start_price": 60.0,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.21,
         "forward_return": 28.3,
         "start_price": 58.8,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 17.23,
         "forward_return": 25.79,
         "start_price": 61.4,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.16,
         "forward_return": 23.59,
         "start_price": 65.0,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 16.53,
+        "pe_ratio": 17.73,
         "forward_return": 25.92,
         "start_price": 64.9,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 18.13,
         "forward_return": 25.51,
         "start_price": 67.8,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 16.24,
+        "pe_ratio": 17.15,
         "forward_return": 23.96,
         "start_price": 70.7,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 15.02,
         "forward_return": 25.89,
         "start_price": 67.7,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.83,
+        "pe_ratio": 13.52,
         "forward_return": 26.67,
         "start_price": 66.1,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 13.53,
         "forward_return": 26.28,
         "start_price": 68.7,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.79,
         "forward_return": 25.97,
         "start_price": 72.6,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 24.05,
         "start_price": 82.2,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.84,
+        "pe_ratio": 14.79,
         "forward_return": 22.86,
         "start_price": 83.6,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.96,
+        "pe_ratio": 13.93,
         "forward_return": 23.32,
         "start_price": 81.6,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.17,
         "forward_return": 21.98,
         "start_price": 89.7,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.39,
         "forward_return": 23.63,
         "start_price": 81.8,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 13.25,
         "forward_return": 20.93,
         "start_price": 91.0,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 14.18,
         "forward_return": 19.39,
         "start_price": 94.8,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.19,
         "forward_return": 19.95,
         "start_price": 92.2,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.47,
         "forward_return": 16.66,
         "start_price": 97.6,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.36,
         "forward_return": 17.9,
         "start_price": 97.5,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.08,
         "forward_return": 20.52,
         "start_price": 83.5,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.68,
         "forward_return": 20.27,
         "start_price": 81.4,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.82,
         "forward_return": 19.45,
         "start_price": 82.4,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.82,
         "forward_return": 18.92,
         "start_price": 82.5,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.14,
         "forward_return": 19.53,
         "start_price": 89.6,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.88,
         "forward_return": 15.95,
         "start_price": 99.0,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 16.04,
+        "pe_ratio": 16.72,
         "forward_return": 15.51,
         "start_price": 102.5,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.57,
+        "pe_ratio": 16.17,
         "forward_return": 15.7,
         "start_price": 99.2,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 16.6,
         "forward_return": 15.04,
         "start_price": 102.0,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.56,
+        "pe_ratio": 16.03,
         "forward_return": 15.53,
         "start_price": 98.6,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.85,
+        "pe_ratio": 17.34,
         "forward_return": 14.31,
         "start_price": 106.5,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.5,
+        "pe_ratio": 16.95,
         "forward_return": 15.28,
         "start_price": 104.0,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 17.46,
         "forward_return": 16.14,
         "start_price": 107.0,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 16.11,
+        "pe_ratio": 16.38,
         "forward_return": 16.16,
         "start_price": 101.0,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.5,
         "forward_return": 16.31,
         "start_price": 108.5,
         "start_year": 2012
@@ -14169,7 +14169,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 19.53,
+        "pe_ratio": 19.7,
         "forward_return": 13.47,
         "start_price": 123.5,
         "start_year": 2013
@@ -14178,7 +14178,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 20.96,
         "forward_return": 12.67,
         "start_price": 132.0,
         "start_year": 2013
@@ -14187,7 +14187,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 19.35,
         "forward_return": 15.52,
         "start_price": 122.5,
         "start_year": 2013
@@ -14196,7 +14196,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.44,
+        "pe_ratio": 21.96,
         "forward_return": 12.45,
         "start_price": 141.0,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 22.58,
         "forward_return": 12.63,
         "start_price": 147.0,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 21.67,
         "forward_return": 13.09,
         "start_price": 143.0,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.22,
+        "pe_ratio": 21.6,
         "forward_return": 12.88,
         "start_price": 145.0,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 21.97,
+        "pe_ratio": 22.27,
         "forward_return": 12.25,
         "start_price": 152.0,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 23.85,
         "forward_return": 11.03,
         "start_price": 165.5,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 26.75,
         "forward_return": 10.25,
         "start_price": 188.5,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 25.51,
+        "pe_ratio": 25.58,
         "forward_return": 10.69,
         "start_price": 183.0,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 25.87,
+        "pe_ratio": 25.51,
         "forward_return": 9.62,
         "start_price": 189.0,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.05,
+        "pe_ratio": 25.33,
         "forward_return": 9.58,
         "start_price": 191.5,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 25.62,
         "forward_return": 6.39,
         "start_price": 197.5,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.15,
         "forward_return": 8.66,
         "start_price": 195.0,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 29.66,
+        "pe_ratio": 28.47,
         "forward_return": 7.04,
         "start_price": 222.0,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 33.86,
+        "pe_ratio": 32.53,
         "forward_return": 4.52,
         "start_price": 255.0,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 31.09,
+        "pe_ratio": 30.51,
         "forward_return": 6.75,
         "start_price": 235.5,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 36.81,
+        "pe_ratio": 36.91,
         "forward_return": 3.41,
         "start_price": 280.5,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.74,
         "forward_return": 7.43,
         "start_price": 215.0,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 27.37,
+        "pe_ratio": 27.81,
         "forward_return": 7.65,
         "start_price": 211.0,
         "start_year": 2014
@@ -14367,7 +14367,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 27.34,
+        "pe_ratio": 27.56,
         "forward_return": 8.53,
         "start_price": 212.0,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 30.42,
+        "pe_ratio": 30.45,
         "forward_return": 8.37,
         "start_price": 238.0,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 30.59,
+        "pe_ratio": 30.64,
         "forward_return": 8.97,
         "start_price": 240.0,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 30.3,
+        "pe_ratio": 30.38,
         "forward_return": 8.7,
         "start_price": 238.5,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 32.12,
+        "pe_ratio": 32.02,
         "forward_return": 7.69,
         "start_price": 253.5,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 31.0,
         "forward_return": 6.88,
         "start_price": 247.5,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.7,
+        "pe_ratio": 26.34,
         "forward_return": 10.43,
         "start_price": 212.0,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 26.75,
+        "pe_ratio": 26.61,
         "forward_return": 11.28,
         "start_price": 213.0,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.02,
         "forward_return": 12.8,
         "start_price": 207.0,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 28.09,
+        "pe_ratio": 28.45,
         "forward_return": 10.32,
         "start_price": 225.0,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 29.07,
+        "pe_ratio": 29.31,
         "forward_return": 9.55,
         "start_price": 233.5,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.73,
         "forward_return": 11.96,
         "start_price": 214.5,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 24.88,
         "forward_return": 12.93,
         "start_price": 203.0,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 27.96,
+        "pe_ratio": 27.91,
         "forward_return": 9.98,
         "start_price": 230.0,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 28.49,
+        "pe_ratio": 28.43,
         "forward_return": 9.61,
         "start_price": 236.5,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 27.23,
+        "pe_ratio": 27.2,
         "forward_return": 10.28,
         "start_price": 228.0,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.7,
+        "pe_ratio": 28.73,
         "forward_return": 7.94,
         "start_price": 244.5,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.71,
         "forward_return": 7.61,
         "start_price": 248.0,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 29.94,
+        "pe_ratio": 29.61,
         "forward_return": 6.09,
         "start_price": 259.5,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 30.78,
+        "pe_ratio": 30.26,
         "forward_return": 3.78,
         "start_price": 269.0,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 29.16,
+        "pe_ratio": 28.83,
         "forward_return": 4.55,
         "start_price": 257.0,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.7,
         "forward_return": 6.56,
         "start_price": 256.5,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.61,
+        "pe_ratio": 29.88,
         "forward_return": 6.36,
         "start_price": 265.0,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 29.25,
+        "pe_ratio": 29.78,
         "forward_return": 7.32,
         "start_price": 261.5,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 28.44,
+        "pe_ratio": 29.23,
         "forward_return": 8.47,
         "start_price": 254.0,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 27.35,
+        "pe_ratio": 28.52,
         "forward_return": 9.19,
         "start_price": 244.0,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 28.97,
         "forward_return": 10.72,
         "start_price": 244.0,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.21,
+        "pe_ratio": 26.0,
         "forward_return": 13.15,
         "start_price": 215.5,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 25.7,
+        "pe_ratio": 27.34,
         "forward_return": 11.45,
         "start_price": 228.5,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 25.06,
+        "pe_ratio": 26.41,
         "forward_return": 9.82,
         "start_price": 222.5,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.01,
+        "pe_ratio": 25.09,
         "forward_return": 10.67,
         "start_price": 213.0,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.93,
         "forward_return": 10.64,
         "start_price": 206.0,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 22.93,
         "forward_return": 12.24,
         "start_price": 200.0,
         "start_year": 2017
@@ -14709,7 +14709,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.75,
+        "pe_ratio": 25.6,
         "forward_return": 9.07,
         "start_price": 228.0,
         "start_year": 2018
@@ -14718,7 +14718,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.53,
+        "pe_ratio": 24.24,
         "forward_return": 12.3,
         "start_price": 217.5,
         "start_year": 2018
@@ -14727,7 +14727,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.64,
+        "pe_ratio": 23.23,
         "forward_return": 13.55,
         "start_price": 210.0,
         "start_year": 2018
@@ -14736,7 +14736,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 22.99,
+        "pe_ratio": 22.77,
         "forward_return": 13.02,
         "start_price": 204.5,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.78,
+        "pe_ratio": 22.76,
         "forward_return": 11.93,
         "start_price": 203.0,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.52,
+        "pe_ratio": 22.69,
         "forward_return": 12.9,
         "start_price": 201.0,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.65,
+        "pe_ratio": 22.71,
         "forward_return": 11.8,
         "start_price": 202.5,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 23.34,
+        "pe_ratio": 23.29,
         "forward_return": 11.33,
         "start_price": 209.0,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.19,
         "forward_return": 8.47,
         "start_price": 227.5,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.71,
+        "pe_ratio": 23.61,
         "forward_return": 9.59,
         "start_price": 213.0,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 25.96,
+        "pe_ratio": 25.9,
         "forward_return": 8.67,
         "start_price": 233.5,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 25.01,
+        "pe_ratio": 25.05,
         "forward_return": 11.03,
         "start_price": 228.5,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 25.38,
+        "pe_ratio": 25.46,
         "forward_return": 11.64,
         "start_price": 235.0,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 27.28,
+        "pe_ratio": 27.41,
         "forward_return": 8.77,
         "start_price": 256.0,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 26.29,
+        "pe_ratio": 26.34,
         "forward_return": 7.51,
         "start_price": 250.0,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 27.5,
+        "pe_ratio": 27.49,
         "forward_return": 6.7,
         "start_price": 265.0,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 27.05,
+        "pe_ratio": 26.97,
         "forward_return": 6.68,
         "start_price": 264.0,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 26.61,
+        "pe_ratio": 26.32,
         "forward_return": 6.61,
         "start_price": 263.0,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.19,
         "forward_return": 6.73,
         "start_price": 267.0,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 26.94,
+        "pe_ratio": 26.25,
         "forward_return": 5.18,
         "start_price": 273.0,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 29.39,
+        "pe_ratio": 28.89,
         "forward_return": 3.2,
         "start_price": 301.5,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 28.6,
         "forward_return": 2.07,
         "start_price": 299.5,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 27.93,
+        "pe_ratio": 28.1,
         "forward_return": 3.13,
         "start_price": 291.0,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 14.27,
+        "pe_ratio": 15.55,
         "forward_return": 12.45,
         "start_price": 89.9,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.89,
+        "pe_ratio": 14.74,
         "forward_return": 12.68,
         "start_price": 87.5,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.23,
         "forward_return": 14.4,
         "start_price": 86.7,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.85,
         "forward_return": 15.18,
         "start_price": 92.8,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 15.84,
         "forward_return": 13.17,
         "start_price": 100.0,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 14.58,
         "forward_return": 16.43,
         "start_price": 93.0,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 15.13,
+        "pe_ratio": 14.8,
         "forward_return": 12.73,
         "start_price": 95.3,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.48,
         "forward_return": 12.91,
         "start_price": 92.6,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.74,
         "forward_return": 11.9,
         "start_price": 99.9,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.66,
         "forward_return": 12.75,
         "start_price": 104.0,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.07,
         "forward_return": 11.09,
         "start_price": 118.0,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.29,
         "forward_return": 12.51,
         "start_price": 106.0,
         "start_year": 2007
@@ -15051,7 +15051,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 14.31,
         "start_price": 98.5,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.96,
         "forward_return": 13.99,
         "start_price": 98.6,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.94,
         "forward_return": 11.21,
         "start_price": 105.0,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 16.8,
+        "pe_ratio": 17.21,
         "forward_return": 11.51,
         "start_price": 104.0,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.94,
         "forward_return": 11.76,
         "start_price": 99.7,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.96,
         "forward_return": 13.12,
         "start_price": 97.2,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.99,
         "forward_return": 15.03,
         "start_price": 87.8,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 12.5,
+        "pe_ratio": 12.8,
         "forward_return": 15.94,
         "start_price": 76.6,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.58,
         "forward_return": 17.54,
         "start_price": 65.5,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.6,
         "forward_return": 17.56,
         "start_price": 72.8,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.29,
         "forward_return": 18.12,
         "start_price": 71.8,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 12.57,
         "forward_return": 16.35,
         "start_price": 78.5,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.89,
         "forward_return": 16.96,
         "start_price": 79.0,
         "start_year": 2008
@@ -15177,7 +15177,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 12.98,
         "forward_return": 17.33,
         "start_price": 78.0,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.31,
         "forward_return": 20.07,
         "start_price": 66.1,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.6,
         "forward_return": 19.49,
         "start_price": 71.5,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.07,
         "forward_return": 22.37,
         "start_price": 61.0,
         "start_year": 2008
@@ -15213,7 +15213,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.75,
+        "pe_ratio": 8.6,
         "forward_return": 26.03,
         "start_price": 46.3,
         "start_year": 2008
@@ -15222,7 +15222,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 7.98,
+        "pe_ratio": 7.91,
         "forward_return": 27.7,
         "start_price": 41.6,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 8.27,
+        "pe_ratio": 8.31,
         "forward_return": 28.27,
         "start_price": 41.3,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 9.06,
+        "pe_ratio": 9.15,
         "forward_return": 27.07,
         "start_price": 44.0,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.13,
         "forward_return": 25.6,
         "start_price": 47.1,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.71,
         "forward_return": 23.45,
         "start_price": 52.2,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.77,
         "forward_return": 24.06,
         "start_price": 50.2,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 10.78,
+        "pe_ratio": 11.43,
         "forward_return": 23.59,
         "start_price": 46.5,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.55,
         "forward_return": 23.59,
         "start_price": 49.5,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 13.11,
+        "pe_ratio": 13.89,
         "forward_return": 22.19,
         "start_price": 53.0,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.26,
         "forward_return": 19.76,
         "start_price": 60.0,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.21,
         "forward_return": 19.65,
         "start_price": 58.8,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 17.23,
         "forward_return": 18.64,
         "start_price": 61.4,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.16,
         "forward_return": 19.42,
         "start_price": 65.0,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 16.53,
+        "pe_ratio": 17.73,
         "forward_return": 18.85,
         "start_price": 64.9,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 18.13,
         "forward_return": 17.77,
         "start_price": 67.8,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 16.24,
+        "pe_ratio": 17.15,
         "forward_return": 16.83,
         "start_price": 70.7,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 15.02,
         "forward_return": 17.38,
         "start_price": 67.7,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.83,
+        "pe_ratio": 13.52,
         "forward_return": 17.61,
         "start_price": 66.1,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 13.53,
         "forward_return": 17.29,
         "start_price": 68.7,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.79,
         "forward_return": 16.86,
         "start_price": 72.6,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 16.08,
         "start_price": 82.2,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.84,
+        "pe_ratio": 14.79,
         "forward_return": 15.04,
         "start_price": 83.6,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.96,
+        "pe_ratio": 13.93,
         "forward_return": 16.51,
         "start_price": 81.6,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.17,
         "forward_return": 14.87,
         "start_price": 89.7,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.39,
         "forward_return": 16.55,
         "start_price": 81.8,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 13.25,
         "forward_return": 16.06,
         "start_price": 91.0,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 14.18,
         "forward_return": 15.17,
         "start_price": 94.8,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.19,
         "forward_return": 16.3,
         "start_price": 92.2,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.47,
         "forward_return": 15.43,
         "start_price": 97.6,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.36,
         "forward_return": 15.55,
         "start_price": 97.5,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.08,
         "forward_return": 18.0,
         "start_price": 83.5,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.68,
         "forward_return": 18.65,
         "start_price": 81.4,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.82,
         "forward_return": 19.74,
         "start_price": 82.4,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.82,
         "forward_return": 19.64,
         "start_price": 82.5,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.14,
         "forward_return": 18.04,
         "start_price": 89.6,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.88,
         "forward_return": 16.73,
         "start_price": 99.0,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 16.04,
+        "pe_ratio": 16.72,
         "forward_return": 14.19,
         "start_price": 102.5,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.57,
+        "pe_ratio": 16.17,
         "forward_return": 16.25,
         "start_price": 99.2,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 16.6,
         "forward_return": 16.4,
         "start_price": 102.0,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.56,
+        "pe_ratio": 16.03,
         "forward_return": 16.83,
         "start_price": 98.6,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.85,
+        "pe_ratio": 17.34,
         "forward_return": 16.39,
         "start_price": 106.5,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.5,
+        "pe_ratio": 16.95,
         "forward_return": 16.51,
         "start_price": 104.0,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 17.46,
         "forward_return": 15.57,
         "start_price": 107.0,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 16.11,
+        "pe_ratio": 16.38,
         "forward_return": 16.33,
         "start_price": 101.0,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.5,
         "forward_return": 16.04,
         "start_price": 108.5,
         "start_year": 2012
@@ -15672,7 +15672,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 19.53,
+        "pe_ratio": 19.7,
         "forward_return": 15.67,
         "start_price": 123.5,
         "start_year": 2013
@@ -15681,7 +15681,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 20.96,
         "forward_return": 15.29,
         "start_price": 132.0,
         "start_year": 2013
@@ -15690,7 +15690,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 19.35,
         "forward_return": 16.07,
         "start_price": 122.5,
         "start_year": 2013
@@ -15699,7 +15699,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.44,
+        "pe_ratio": 21.96,
         "forward_return": 14.12,
         "start_price": 141.0,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 22.58,
         "forward_return": 12.57,
         "start_price": 147.0,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 21.67,
         "forward_return": 13.53,
         "start_price": 143.0,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.22,
+        "pe_ratio": 21.6,
         "forward_return": 14.08,
         "start_price": 145.0,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 21.97,
+        "pe_ratio": 22.27,
         "forward_return": 14.14,
         "start_price": 152.0,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 23.85,
         "forward_return": 12.24,
         "start_price": 165.5,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 26.75,
         "forward_return": 10.36,
         "start_price": 188.5,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 25.51,
+        "pe_ratio": 25.58,
         "forward_return": 11.39,
         "start_price": 183.0,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 25.87,
+        "pe_ratio": 25.51,
         "forward_return": 10.9,
         "start_price": 189.0,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.05,
+        "pe_ratio": 25.33,
         "forward_return": 10.26,
         "start_price": 191.5,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 25.62,
         "forward_return": 9.93,
         "start_price": 197.5,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.15,
         "forward_return": 10.11,
         "start_price": 195.0,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 29.66,
+        "pe_ratio": 28.47,
         "forward_return": 8.06,
         "start_price": 222.0,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 33.86,
+        "pe_ratio": 32.53,
         "forward_return": 5.72,
         "start_price": 255.0,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 31.09,
+        "pe_ratio": 30.51,
         "forward_return": 6.75,
         "start_price": 235.5,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 36.81,
+        "pe_ratio": 36.91,
         "forward_return": 3.94,
         "start_price": 280.5,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.74,
         "forward_return": 6.21,
         "start_price": 215.0,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 27.37,
+        "pe_ratio": 27.81,
         "forward_return": 6.44,
         "start_price": 211.0,
         "start_year": 2014
@@ -15870,7 +15870,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 27.34,
+        "pe_ratio": 27.56,
         "forward_return": 7.83,
         "start_price": 212.0,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 30.42,
+        "pe_ratio": 30.45,
         "forward_return": 6.56,
         "start_price": 238.0,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 30.59,
+        "pe_ratio": 30.64,
         "forward_return": 6.97,
         "start_price": 240.0,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 30.3,
+        "pe_ratio": 30.38,
         "forward_return": 7.51,
         "start_price": 238.5,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 32.12,
+        "pe_ratio": 32.02,
         "forward_return": 6.69,
         "start_price": 253.5,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 31.0,
         "forward_return": 8.1,
         "start_price": 247.5,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.7,
+        "pe_ratio": 26.34,
         "forward_return": 10.29,
         "start_price": 212.0,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 26.75,
+        "pe_ratio": 26.61,
         "forward_return": 9.8,
         "start_price": 213.0,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.02,
         "forward_return": 8.67,
         "start_price": 207.0,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 28.09,
+        "pe_ratio": 28.45,
         "forward_return": 7.58,
         "start_price": 225.0,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 29.07,
+        "pe_ratio": 29.31,
         "forward_return": 6.62,
         "start_price": 233.5,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.73,
         "forward_return": 8.5,
         "start_price": 214.5,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 24.88,
         "forward_return": 8.71,
         "start_price": 203.0,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 27.96,
+        "pe_ratio": 27.91,
         "forward_return": 8.71,
         "start_price": 230.0,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 28.49,
+        "pe_ratio": 28.43,
         "forward_return": 8.75,
         "start_price": 236.5,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 27.23,
+        "pe_ratio": 27.2,
         "forward_return": 8.52,
         "start_price": 228.0,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 28.7,
+        "pe_ratio": 28.73,
         "forward_return": 7.27,
         "start_price": 244.5,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.71,
         "forward_return": 6.44,
         "start_price": 248.0,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 29.94,
+        "pe_ratio": 29.61,
         "forward_return": 5.92,
         "start_price": 259.5,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 30.78,
+        "pe_ratio": 30.26,
         "forward_return": 4.53,
         "start_price": 269.0,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 29.16,
+        "pe_ratio": 28.83,
         "forward_return": 5.08,
         "start_price": 257.0,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.86,
+        "pe_ratio": 28.7,
         "forward_return": 5.63,
         "start_price": 256.5,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.61,
+        "pe_ratio": 29.88,
         "forward_return": 6.57,
         "start_price": 265.0,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 29.25,
+        "pe_ratio": 29.78,
         "forward_return": 7.55,
         "start_price": 261.5,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 28.44,
+        "pe_ratio": 29.23,
         "forward_return": 7.02,
         "start_price": 254.0,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 27.35,
+        "pe_ratio": 28.52,
         "forward_return": 6.34,
         "start_price": 244.0,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 27.38,
+        "pe_ratio": 28.97,
         "forward_return": 6.51,
         "start_price": 244.0,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 24.21,
+        "pe_ratio": 26.0,
         "forward_return": 8.1,
         "start_price": 215.5,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 25.7,
+        "pe_ratio": 27.34,
         "forward_return": 7.24,
         "start_price": 228.5,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 25.06,
+        "pe_ratio": 26.41,
         "forward_return": 7.88,
         "start_price": 222.5,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 24.01,
+        "pe_ratio": 25.09,
         "forward_return": 7.61,
         "start_price": 213.0,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 23.93,
         "forward_return": 7.87,
         "start_price": 206.0,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 22.93,
         "forward_return": 7.33,
         "start_price": 200.0,
         "start_year": 2017
@@ -16212,7 +16212,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.75,
+        "pe_ratio": 25.6,
         "forward_return": 6.01,
         "start_price": 228.0,
         "start_year": 2018
@@ -16221,7 +16221,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.53,
+        "pe_ratio": 24.24,
         "forward_return": 7.93,
         "start_price": 217.5,
         "start_year": 2018
@@ -16230,7 +16230,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 14.27,
+        "pe_ratio": 15.55,
         "forward_return": 12.03,
         "start_price": 89.9,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.89,
+        "pe_ratio": 14.74,
         "forward_return": 11.99,
         "start_price": 87.5,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 14.23,
         "forward_return": 12.62,
         "start_price": 86.7,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.85,
         "forward_return": 11.99,
         "start_price": 92.8,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 15.87,
+        "pe_ratio": 15.84,
         "forward_return": 11.37,
         "start_price": 100.0,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 14.76,
+        "pe_ratio": 14.58,
         "forward_return": 12.61,
         "start_price": 93.0,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 15.13,
+        "pe_ratio": 14.8,
         "forward_return": 12.68,
         "start_price": 95.3,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 14.7,
+        "pe_ratio": 14.48,
         "forward_return": 12.57,
         "start_price": 92.6,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 15.86,
+        "pe_ratio": 15.74,
         "forward_return": 11.7,
         "start_price": 99.9,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 16.55,
+        "pe_ratio": 16.66,
         "forward_return": 11.56,
         "start_price": 104.0,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.07,
         "forward_return": 10.04,
         "start_price": 118.0,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 16.95,
+        "pe_ratio": 17.29,
         "forward_return": 10.95,
         "start_price": 106.0,
         "start_year": 2007
@@ -16347,7 +16347,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.01,
         "forward_return": 11.39,
         "start_price": 98.5,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 15.85,
+        "pe_ratio": 15.96,
         "forward_return": 11.38,
         "start_price": 98.6,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 16.92,
+        "pe_ratio": 16.94,
         "forward_return": 9.54,
         "start_price": 105.0,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 16.8,
+        "pe_ratio": 17.21,
         "forward_return": 10.27,
         "start_price": 104.0,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 16.15,
+        "pe_ratio": 16.94,
         "forward_return": 10.49,
         "start_price": 99.7,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.96,
         "forward_return": 10.38,
         "start_price": 97.2,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 14.3,
+        "pe_ratio": 14.99,
         "forward_return": 11.2,
         "start_price": 87.8,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 12.5,
+        "pe_ratio": 12.8,
         "forward_return": 12.46,
         "start_price": 76.6,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 10.87,
+        "pe_ratio": 10.58,
         "forward_return": 15.46,
         "start_price": 65.5,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.6,
         "forward_return": 13.37,
         "start_price": 72.8,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 12.24,
+        "pe_ratio": 11.29,
         "forward_return": 13.64,
         "start_price": 71.8,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 12.57,
         "forward_return": 12.39,
         "start_price": 78.5,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 13.86,
+        "pe_ratio": 12.89,
         "forward_return": 12.25,
         "start_price": 79.0,
         "start_year": 2008
@@ -16473,7 +16473,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 13.88,
+        "pe_ratio": 12.98,
         "forward_return": 12.31,
         "start_price": 78.0,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 11.93,
+        "pe_ratio": 11.31,
         "forward_return": 14.37,
         "start_price": 66.1,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 13.1,
+        "pe_ratio": 12.6,
         "forward_return": 13.76,
         "start_price": 71.5,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.07,
         "forward_return": 16.38,
         "start_price": 61.0,
         "start_year": 2008
@@ -16509,7 +16509,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 8.75,
+        "pe_ratio": 8.6,
         "forward_return": 19.0,
         "start_price": 46.3,
         "start_year": 2008
@@ -16518,7 +16518,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 7.98,
+        "pe_ratio": 7.91,
         "forward_return": 21.18,
         "start_price": 41.6,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 8.27,
+        "pe_ratio": 8.31,
         "forward_return": 21.05,
         "start_price": 41.3,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 9.06,
+        "pe_ratio": 9.15,
         "forward_return": 20.57,
         "start_price": 44.0,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.13,
         "forward_return": 20.6,
         "start_price": 47.1,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 11.38,
+        "pe_ratio": 11.71,
         "forward_return": 19.13,
         "start_price": 52.2,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 11.28,
+        "pe_ratio": 11.77,
         "forward_return": 20.18,
         "start_price": 50.2,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 10.78,
+        "pe_ratio": 11.43,
         "forward_return": 21.07,
         "start_price": 46.5,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 11.84,
+        "pe_ratio": 12.55,
         "forward_return": 20.42,
         "start_price": 49.5,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 13.11,
+        "pe_ratio": 13.89,
         "forward_return": 19.75,
         "start_price": 53.0,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 15.36,
+        "pe_ratio": 16.26,
         "forward_return": 18.49,
         "start_price": 60.0,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 15.59,
+        "pe_ratio": 16.21,
         "forward_return": 19.73,
         "start_price": 58.8,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 16.89,
+        "pe_ratio": 17.23,
         "forward_return": 19.14,
         "start_price": 61.4,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 17.5,
+        "pe_ratio": 18.16,
         "forward_return": 18.18,
         "start_price": 65.0,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 16.53,
+        "pe_ratio": 17.73,
         "forward_return": 18.32,
         "start_price": 64.9,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 16.38,
+        "pe_ratio": 18.13,
         "forward_return": 16.18,
         "start_price": 67.8,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 16.24,
+        "pe_ratio": 17.15,
         "forward_return": 16.94,
         "start_price": 70.7,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 14.82,
+        "pe_ratio": 15.02,
         "forward_return": 17.9,
         "start_price": 67.7,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.83,
+        "pe_ratio": 13.52,
         "forward_return": 18.13,
         "start_price": 66.1,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 13.76,
+        "pe_ratio": 13.53,
         "forward_return": 18.24,
         "start_price": 68.7,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.79,
         "forward_return": 17.41,
         "start_price": 72.6,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 15.56,
         "start_price": 82.2,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.84,
+        "pe_ratio": 14.79,
         "forward_return": 15.3,
         "start_price": 83.6,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.96,
+        "pe_ratio": 13.93,
         "forward_return": 16.16,
         "start_price": 81.6,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 14.73,
+        "pe_ratio": 14.17,
         "forward_return": 16.24,
         "start_price": 89.7,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.39,
         "forward_return": 17.79,
         "start_price": 81.8,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 13.25,
         "forward_return": 16.3,
         "start_price": 91.0,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 15.32,
+        "pe_ratio": 14.18,
         "forward_return": 15.88,
         "start_price": 94.8,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 14.83,
+        "pe_ratio": 14.19,
         "forward_return": 15.44,
         "start_price": 92.2,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 15.62,
+        "pe_ratio": 15.47,
         "forward_return": 15.24,
         "start_price": 97.6,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 15.52,
+        "pe_ratio": 15.36,
         "forward_return": 15.88,
         "start_price": 97.5,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.08,
         "forward_return": 18.28,
         "start_price": 83.5,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 12.83,
+        "pe_ratio": 12.68,
         "forward_return": 18.02,
         "start_price": 81.4,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 12.92,
+        "pe_ratio": 12.82,
         "forward_return": 17.82,
         "start_price": 82.4,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 12.87,
+        "pe_ratio": 12.82,
         "forward_return": 18.32,
         "start_price": 82.5,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 14.14,
         "forward_return": 17.31,
         "start_price": 89.6,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.45,
+        "pe_ratio": 15.88,
         "forward_return": 15.72,
         "start_price": 99.0,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 16.04,
+        "pe_ratio": 16.72,
         "forward_return": 15.45,
         "start_price": 102.5,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.57,
+        "pe_ratio": 16.17,
         "forward_return": 15.83,
         "start_price": 99.2,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 16.05,
+        "pe_ratio": 16.6,
         "forward_return": 15.28,
         "start_price": 102.0,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 15.56,
+        "pe_ratio": 16.03,
         "forward_return": 15.25,
         "start_price": 98.6,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.85,
+        "pe_ratio": 17.34,
         "forward_return": 14.35,
         "start_price": 106.5,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.5,
+        "pe_ratio": 16.95,
         "forward_return": 14.2,
         "start_price": 104.0,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.02,
+        "pe_ratio": 17.46,
         "forward_return": 12.85,
         "start_price": 107.0,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 16.11,
+        "pe_ratio": 16.38,
         "forward_return": 13.48,
         "start_price": 101.0,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.35,
+        "pe_ratio": 17.5,
         "forward_return": 13.87,
         "start_price": 108.5,
         "start_year": 2012
@@ -16968,7 +16968,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 19.53,
+        "pe_ratio": 19.7,
         "forward_return": 12.63,
         "start_price": 123.5,
         "start_year": 2013
@@ -16977,7 +16977,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 20.96,
         "forward_return": 12.32,
         "start_price": 132.0,
         "start_year": 2013
@@ -16986,7 +16986,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 18.87,
+        "pe_ratio": 19.35,
         "forward_return": 13.53,
         "start_price": 122.5,
         "start_year": 2013
@@ -16995,7 +16995,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.44,
+        "pe_ratio": 21.96,
         "forward_return": 11.94,
         "start_price": 141.0,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 22.06,
+        "pe_ratio": 22.58,
         "forward_return": 12.37,
         "start_price": 147.0,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 21.67,
         "forward_return": 12.74,
         "start_price": 143.0,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 21.22,
+        "pe_ratio": 21.6,
         "forward_return": 12.27,
         "start_price": 145.0,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 21.97,
+        "pe_ratio": 22.27,
         "forward_return": 10.54,
         "start_price": 152.0,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 23.63,
+        "pe_ratio": 23.85,
         "forward_return": 9.63,
         "start_price": 165.5,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.59,
+        "pe_ratio": 26.75,
         "forward_return": 7.85,
         "start_price": 188.5,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 25.51,
+        "pe_ratio": 25.58,
         "forward_return": 8.75,
         "start_price": 183.0,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 25.87,
+        "pe_ratio": 25.51,
         "forward_return": 7.98,
         "start_price": 189.0,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 26.05,
+        "pe_ratio": 25.33,
         "forward_return": 9.16,
         "start_price": 191.5,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 25.62,
         "forward_return": 9.14,
         "start_price": 197.5,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.15,
         "forward_return": 8.72,
         "start_price": 195.0,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 29.66,
+        "pe_ratio": 28.47,
         "forward_return": 6.65,
         "start_price": 222.0,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 33.86,
+        "pe_ratio": 32.53,
         "forward_return": 5.6,
         "start_price": 255.0,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 31.09,
+        "pe_ratio": 30.51,
         "forward_return": 5.97,
         "start_price": 235.5,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 36.81,
+        "pe_ratio": 36.91,
         "forward_return": 4.19,
         "start_price": 280.5,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 28.05,
+        "pe_ratio": 28.74,
         "forward_return": 6.28,
         "start_price": 215.0,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 27.37,
+        "pe_ratio": 27.81,
         "forward_return": 6.44,
         "start_price": 211.0,
         "start_year": 2014
@@ -17166,7 +17166,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 27.34,
+        "pe_ratio": 27.56,
         "forward_return": 6.8,
         "start_price": 212.0,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 30.42,
+        "pe_ratio": 30.45,
         "forward_return": 6.65,
         "start_price": 238.0,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 30.59,
+        "pe_ratio": 30.64,
         "forward_return": 7.18,
         "start_price": 240.0,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 30.3,
+        "pe_ratio": 30.38,
         "forward_return": 6.53,
         "start_price": 238.5,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 32.12,
+        "pe_ratio": 32.02,
         "forward_return": 4.95,
         "start_price": 253.5,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 31.0,
         "forward_return": 5.33,
         "start_price": 247.5,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 26.7,
+        "pe_ratio": 26.34,
         "forward_return": 6.92,
         "start_price": 212.0,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 26.75,
+        "pe_ratio": 26.61,
         "forward_return": 6.82,
         "start_price": 213.0,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.02,
         "forward_return": 7.34,
         "start_price": 207.0,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 28.09,
+        "pe_ratio": 28.45,
         "forward_return": 5.8,
         "start_price": 225.0,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 29.07,
+        "pe_ratio": 29.31,
         "forward_return": 5.26,
         "start_price": 233.5,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.73,
         "forward_return": 5.44,
         "start_price": 214.5,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 24.88,
         "forward_return": 6.35,
         "start_price": 203.0,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 13.3倍、15.9倍、25.6倍、29.3倍、32.1倍"
+!!! note "本益比河流帶水位: 13.0倍、16.4倍、25.4倍、29.2倍、32.9倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "date": "2006-03-16",
         "price": 89.9,
-        "pe": 14.27,
-        "pe_10": 84.09,
-        "pe_25": 99.96,
-        "pe_50": 161.03,
-        "pe_75": 184.49,
-        "pe_90": 202.42
+        "pe": 15.55,
+        "pe_10": 74.99,
+        "pe_25": 94.53,
+        "pe_50": 146.82,
+        "pe_75": 168.73,
+        "pe_90": 190.04
       },
       {
         "date": "2006-04-15",
         "price": 87.5,
-        "pe": 13.89,
-        "pe_10": 84.08,
-        "pe_25": 99.96,
-        "pe_50": 161.02,
-        "pe_75": 184.48,
-        "pe_90": 202.41
+        "pe": 14.74,
+        "pe_10": 77.0,
+        "pe_25": 97.06,
+        "pe_50": 150.75,
+        "pe_75": 173.25,
+        "pe_90": 195.14
       },
       {
         "date": "2006-05-16",
         "price": 86.7,
-        "pe": 13.76,
-        "pe_10": 84.1,
-        "pe_25": 99.98,
-        "pe_50": 161.05,
-        "pe_75": 184.52,
-        "pe_90": 202.45
+        "pe": 14.23,
+        "pe_10": 79.03,
+        "pe_25": 99.62,
+        "pe_50": 154.73,
+        "pe_75": 177.82,
+        "pe_90": 200.28
       },
       {
         "date": "2006-06-15",
         "price": 92.8,
-        "pe": 14.73,
-        "pe_10": 84.09,
-        "pe_25": 99.97,
-        "pe_50": 161.03,
-        "pe_75": 184.5,
-        "pe_90": 202.43
+        "pe": 14.85,
+        "pe_10": 81.06,
+        "pe_25": 102.17,
+        "pe_50": 158.7,
+        "pe_75": 182.38,
+        "pe_90": 205.42
       },
       {
         "date": "2006-07-16",
         "price": 100.0,
-        "pe": 15.87,
-        "pe_10": 84.1,
-        "pe_25": 99.98,
-        "pe_50": 161.06,
-        "pe_75": 184.53,
-        "pe_90": 202.46
+        "pe": 15.84,
+        "pe_10": 81.89,
+        "pe_25": 103.22,
+        "pe_50": 160.32,
+        "pe_75": 184.25,
+        "pe_90": 207.53
       },
       {
         "date": "2006-08-16",
         "price": 93.0,
-        "pe": 14.76,
-        "pe_10": 84.1,
-        "pe_25": 99.98,
-        "pe_50": 161.05,
-        "pe_75": 184.52,
-        "pe_90": 202.45
+        "pe": 14.58,
+        "pe_10": 82.74,
+        "pe_25": 104.29,
+        "pe_50": 161.98,
+        "pe_75": 186.16,
+        "pe_90": 209.68
       },
       {
         "date": "2006-09-15",
         "price": 95.3,
-        "pe": 15.13,
-        "pe_10": 84.07,
-        "pe_25": 99.95,
-        "pe_50": 161.0,
-        "pe_75": 184.46,
-        "pe_90": 202.38
+        "pe": 14.8,
+        "pe_10": 83.52,
+        "pe_25": 105.28,
+        "pe_50": 163.52,
+        "pe_75": 187.93,
+        "pe_90": 211.67
       },
       {
         "date": "2006-10-16",
         "price": 92.6,
-        "pe": 14.7,
-        "pe_10": 84.08,
-        "pe_25": 99.95,
-        "pe_50": 161.01,
-        "pe_75": 184.48,
-        "pe_90": 202.4
+        "pe": 14.48,
+        "pe_10": 82.95,
+        "pe_25": 104.56,
+        "pe_50": 162.4,
+        "pe_75": 186.64,
+        "pe_90": 210.22
       },
       {
         "date": "2006-11-15",
         "price": 99.9,
-        "pe": 15.86,
-        "pe_10": 84.07,
-        "pe_25": 99.95,
-        "pe_50": 161.0,
-        "pe_75": 184.46,
-        "pe_90": 202.39
+        "pe": 15.74,
+        "pe_10": 82.33,
+        "pe_25": 103.77,
+        "pe_50": 161.18,
+        "pe_75": 185.23,
+        "pe_90": 208.63
       },
       {
         "date": "2006-12-16",
         "price": 117.0,
         "pe": 18.57,
-        "pe_10": 84.09,
-        "pe_25": 99.97,
-        "pe_50": 161.04,
-        "pe_75": 184.51,
-        "pe_90": 202.44
+        "pe_10": 81.72,
+        "pe_25": 103.01,
+        "pe_50": 160.0,
+        "pe_75": 183.88,
+        "pe_90": 207.11
       },
       {
         "date": "2007-01-16",
         "price": 104.0,
-        "pe": 16.55,
-        "pe_10": 83.87,
-        "pe_25": 99.71,
-        "pe_50": 160.62,
-        "pe_75": 184.03,
-        "pe_90": 201.91
+        "pe": 16.66,
+        "pe_10": 80.97,
+        "pe_25": 102.06,
+        "pe_50": 158.53,
+        "pe_75": 182.19,
+        "pe_90": 205.2
       },
       {
         "date": "2007-02-14",
         "price": 118.0,
-        "pe": 18.82,
-        "pe_10": 83.68,
-        "pe_25": 99.49,
-        "pe_50": 160.26,
-        "pe_75": 183.61,
-        "pe_90": 201.46
+        "pe": 19.07,
+        "pe_10": 80.26,
+        "pe_25": 101.17,
+        "pe_50": 157.14,
+        "pe_75": 180.59,
+        "pe_90": 203.4
       },
       {
         "date": "2007-03-16",
         "price": 106.0,
-        "pe": 16.95,
-        "pe_10": 83.47,
-        "pe_25": 99.23,
-        "pe_50": 159.84,
-        "pe_75": 183.14,
-        "pe_90": 200.94
+        "pe": 17.29,
+        "pe_10": 79.52,
+        "pe_25": 100.24,
+        "pe_50": 155.69,
+        "pe_75": 178.92,
+        "pe_90": 201.53
       },
       {
         "date": "2007-04-15",
         "price": 98.5,
-        "pe": 15.79,
-        "pe_10": 83.26,
-        "pe_25": 98.98,
-        "pe_50": 159.45,
-        "pe_75": 182.68,
-        "pe_90": 200.44
+        "pe": 16.01,
+        "pe_10": 79.8,
+        "pe_25": 100.59,
+        "pe_50": 156.24,
+        "pe_75": 179.56,
+        "pe_90": 202.24
       },
       {
         "date": "2007-05-16",
         "price": 98.6,
-        "pe": 15.85,
-        "pe_10": 83.03,
-        "pe_25": 98.71,
-        "pe_50": 159.0,
-        "pe_75": 182.18,
-        "pe_90": 199.88
+        "pe": 15.96,
+        "pe_10": 80.13,
+        "pe_25": 101.01,
+        "pe_50": 156.89,
+        "pe_75": 180.3,
+        "pe_90": 203.08
       },
       {
         "date": "2007-06-15",
         "price": 105.0,
-        "pe": 16.92,
-        "pe_10": 82.83,
-        "pe_25": 98.47,
-        "pe_50": 158.62,
-        "pe_75": 181.73,
-        "pe_90": 199.39
+        "pe": 16.94,
+        "pe_10": 80.4,
+        "pe_25": 101.34,
+        "pe_50": 157.41,
+        "pe_75": 180.9,
+        "pe_90": 203.75
       },
       {
         "date": "2007-07-16",
         "price": 104.0,
-        "pe": 16.8,
-        "pe_10": 82.62,
-        "pe_25": 98.23,
-        "pe_50": 158.23,
-        "pe_75": 181.29,
-        "pe_90": 198.91
+        "pe": 17.21,
+        "pe_10": 78.38,
+        "pe_25": 98.8,
+        "pe_50": 153.46,
+        "pe_75": 176.36,
+        "pe_90": 198.65
       },
       {
         "date": "2007-08-16",
         "price": 99.7,
-        "pe": 16.15,
-        "pe_10": 82.4,
-        "pe_25": 97.96,
-        "pe_50": 157.79,
-        "pe_75": 180.79,
-        "pe_90": 198.36
+        "pe": 16.94,
+        "pe_10": 76.34,
+        "pe_25": 96.23,
+        "pe_50": 149.46,
+        "pe_75": 171.77,
+        "pe_90": 193.47
       },
       {
         "date": "2007-09-15",
         "price": 97.2,
-        "pe": 15.79,
-        "pe_10": 82.16,
-        "pe_25": 97.68,
-        "pe_50": 157.34,
-        "pe_75": 180.27,
-        "pe_90": 197.79
+        "pe": 16.96,
+        "pe_10": 74.34,
+        "pe_25": 93.7,
+        "pe_50": 145.54,
+        "pe_75": 167.26,
+        "pe_90": 188.39
       },
       {
         "date": "2007-10-16",
         "price": 87.8,
-        "pe": 14.3,
-        "pe_10": 81.95,
-        "pe_25": 97.42,
-        "pe_50": 156.93,
-        "pe_75": 179.81,
-        "pe_90": 197.28
+        "pe": 14.99,
+        "pe_10": 75.97,
+        "pe_25": 95.77,
+        "pe_50": 148.74,
+        "pe_75": 170.94,
+        "pe_90": 192.54
       },
       {
         "date": "2007-11-15",
         "price": 76.6,
-        "pe": 12.5,
-        "pe_10": 81.79,
-        "pe_25": 97.24,
-        "pe_50": 156.63,
-        "pe_75": 179.46,
-        "pe_90": 196.9
+        "pe": 12.8,
+        "pe_10": 77.62,
+        "pe_25": 97.84,
+        "pe_50": 151.97,
+        "pe_75": 174.65,
+        "pe_90": 196.72
       },
       {
         "date": "2007-12-16",
         "price": 73.9,
         "pe": 12.09,
-        "pe_10": 81.58,
-        "pe_25": 96.99,
-        "pe_50": 156.24,
-        "pe_75": 179.0,
-        "pe_90": 196.4
+        "pe_10": 79.29,
+        "pe_25": 99.94,
+        "pe_50": 155.23,
+        "pe_75": 178.39,
+        "pe_90": 200.93
       },
       {
         "date": "2008-01-16",
         "price": 65.5,
-        "pe": 10.87,
-        "pe_10": 80.43,
-        "pe_25": 95.61,
-        "pe_50": 154.02,
-        "pe_75": 176.46,
-        "pe_90": 193.61
+        "pe": 10.58,
+        "pe_10": 80.3,
+        "pe_25": 101.22,
+        "pe_50": 157.22,
+        "pe_75": 180.68,
+        "pe_90": 203.51
       },
       {
         "date": "2008-02-15",
         "price": 72.8,
-        "pe": 12.24,
-        "pe_10": 79.38,
-        "pe_25": 94.38,
-        "pe_50": 152.02,
-        "pe_75": 174.18,
-        "pe_90": 191.11
+        "pe": 11.6,
+        "pe_10": 81.4,
+        "pe_25": 102.61,
+        "pe_50": 159.38,
+        "pe_75": 183.16,
+        "pe_90": 206.3
       },
       {
         "date": "2008-03-16",
         "price": 71.8,
-        "pe": 12.24,
-        "pe_10": 78.29,
-        "pe_25": 93.08,
-        "pe_50": 149.94,
-        "pe_75": 171.79,
-        "pe_90": 188.48
+        "pe": 11.29,
+        "pe_10": 82.49,
+        "pe_25": 103.98,
+        "pe_50": 161.5,
+        "pe_75": 185.61,
+        "pe_90": 209.05
       },
       {
         "date": "2008-04-15",
         "price": 78.5,
-        "pe": 13.57,
-        "pe_10": 77.21,
-        "pe_25": 91.79,
-        "pe_50": 147.86,
-        "pe_75": 169.41,
-        "pe_90": 185.87
+        "pe": 12.57,
+        "pe_10": 81.0,
+        "pe_25": 102.11,
+        "pe_50": 158.59,
+        "pe_75": 182.26,
+        "pe_90": 205.29
       },
       {
         "date": "2008-05-16",
         "price": 79.0,
-        "pe": 13.86,
-        "pe_10": 76.08,
-        "pe_25": 90.44,
-        "pe_50": 145.69,
-        "pe_75": 166.92,
-        "pe_90": 183.14
+        "pe": 12.89,
+        "pe_10": 79.5,
+        "pe_25": 100.21,
+        "pe_50": 155.64,
+        "pe_75": 178.87,
+        "pe_90": 201.47
       },
       {
         "date": "2008-06-15",
         "price": 78.0,
-        "pe": 13.88,
-        "pe_10": 75.0,
-        "pe_25": 89.17,
-        "pe_50": 143.64,
-        "pe_75": 164.57,
-        "pe_90": 180.56
+        "pe": 12.98,
+        "pe_10": 77.95,
+        "pe_25": 98.25,
+        "pe_50": 152.6,
+        "pe_75": 175.38,
+        "pe_90": 197.54
       },
       {
         "date": "2008-07-16",
         "price": 66.1,
-        "pe": 11.93,
-        "pe_10": 73.95,
-        "pe_25": 87.92,
-        "pe_50": 141.62,
-        "pe_75": 162.26,
-        "pe_90": 178.03
+        "pe": 11.31,
+        "pe_10": 75.81,
+        "pe_25": 95.56,
+        "pe_50": 148.42,
+        "pe_75": 170.57,
+        "pe_90": 192.12
       },
       {
         "date": "2008-08-16",
         "price": 71.5,
-        "pe": 13.1,
-        "pe_10": 72.85,
-        "pe_25": 86.61,
-        "pe_50": 139.51,
-        "pe_75": 159.84,
-        "pe_90": 175.37
+        "pe": 12.6,
+        "pe_10": 73.61,
+        "pe_25": 92.78,
+        "pe_50": 144.11,
+        "pe_75": 165.61,
+        "pe_90": 186.54
       },
       {
         "date": "2008-09-15",
         "price": 61.0,
-        "pe": 11.35,
-        "pe_10": 71.73,
-        "pe_25": 85.28,
-        "pe_50": 137.37,
-        "pe_75": 157.39,
-        "pe_90": 172.69
+        "pe": 11.07,
+        "pe_10": 71.48,
+        "pe_25": 90.09,
+        "pe_50": 139.94,
+        "pe_75": 160.82,
+        "pe_90": 181.14
       },
       {
         "date": "2008-10-16",
         "price": 46.3,
-        "pe": 8.75,
-        "pe_10": 70.62,
-        "pe_25": 83.96,
-        "pe_50": 135.25,
-        "pe_75": 154.96,
-        "pe_90": 170.02
+        "pe": 8.6,
+        "pe_10": 69.83,
+        "pe_25": 88.02,
+        "pe_50": 136.72,
+        "pe_75": 157.12,
+        "pe_90": 176.97
       },
       {
         "date": "2008-11-15",
         "price": 41.6,
-        "pe": 7.98,
-        "pe_10": 69.58,
-        "pe_25": 82.72,
-        "pe_50": 133.25,
-        "pe_75": 152.66,
-        "pe_90": 167.5
+        "pe": 7.91,
+        "pe_10": 68.22,
+        "pe_25": 85.99,
+        "pe_50": 133.56,
+        "pe_75": 153.49,
+        "pe_90": 172.88
       },
       {
         "date": "2008-12-16",
         "price": 47.5,
         "pe": 9.26,
-        "pe_10": 68.46,
-        "pe_25": 81.39,
-        "pe_50": 131.11,
-        "pe_75": 150.22,
-        "pe_90": 164.82
+        "pe_10": 66.54,
+        "pe_25": 83.87,
+        "pe_50": 130.27,
+        "pe_75": 149.71,
+        "pe_90": 168.62
       },
       {
         "date": "2009-01-16",
         "price": 41.3,
-        "pe": 8.27,
-        "pe_10": 66.65,
-        "pe_25": 79.24,
-        "pe_50": 127.65,
-        "pe_75": 146.25,
-        "pe_90": 160.46
+        "pe": 8.31,
+        "pe_10": 64.46,
+        "pe_25": 81.26,
+        "pe_50": 126.21,
+        "pe_75": 145.05,
+        "pe_90": 163.37
       },
       {
         "date": "2009-02-14",
         "price": 44.0,
-        "pe": 9.06,
-        "pe_10": 64.82,
-        "pe_25": 77.06,
-        "pe_50": 124.13,
-        "pe_75": 142.22,
-        "pe_90": 156.04
+        "pe": 9.15,
+        "pe_10": 62.37,
+        "pe_25": 78.62,
+        "pe_50": 122.12,
+        "pe_75": 140.34,
+        "pe_90": 158.07
       },
       {
         "date": "2009-03-16",
         "price": 47.1,
-        "pe": 9.97,
-        "pe_10": 63.05,
-        "pe_25": 74.96,
-        "pe_50": 120.75,
-        "pe_75": 138.35,
-        "pe_90": 151.79
+        "pe": 10.13,
+        "pe_10": 60.31,
+        "pe_25": 76.02,
+        "pe_50": 118.08,
+        "pe_75": 135.7,
+        "pe_90": 152.84
       },
       {
         "date": "2009-04-15",
         "price": 52.2,
-        "pe": 11.38,
-        "pe_10": 61.22,
-        "pe_25": 72.78,
-        "pe_50": 117.24,
-        "pe_75": 134.33,
-        "pe_90": 147.38
+        "pe": 11.71,
+        "pe_10": 57.82,
+        "pe_25": 72.88,
+        "pe_50": 113.2,
+        "pe_75": 130.1,
+        "pe_90": 146.53
       },
       {
         "date": "2009-05-16",
         "price": 50.2,
-        "pe": 11.28,
-        "pe_10": 59.4,
-        "pe_25": 70.62,
-        "pe_50": 113.75,
-        "pe_75": 130.33,
-        "pe_90": 142.99
+        "pe": 11.77,
+        "pe_10": 55.32,
+        "pe_25": 69.73,
+        "pe_50": 108.31,
+        "pe_75": 124.48,
+        "pe_90": 140.2
       },
       {
         "date": "2009-06-15",
         "price": 46.5,
-        "pe": 10.78,
-        "pe_10": 57.57,
-        "pe_25": 68.45,
-        "pe_50": 110.25,
-        "pe_75": 126.32,
-        "pe_90": 138.6
+        "pe": 11.43,
+        "pe_10": 52.77,
+        "pe_25": 66.52,
+        "pe_50": 103.31,
+        "pe_75": 118.73,
+        "pe_90": 133.73
       },
       {
         "date": "2009-07-16",
         "price": 49.5,
-        "pe": 11.84,
-        "pe_10": 55.8,
-        "pe_25": 66.34,
-        "pe_50": 106.86,
-        "pe_75": 122.43,
-        "pe_90": 134.33
+        "pe": 12.55,
+        "pe_10": 51.16,
+        "pe_25": 64.49,
+        "pe_50": 100.16,
+        "pe_75": 115.11,
+        "pe_90": 129.65
       },
       {
         "date": "2009-08-16",
         "price": 53.0,
-        "pe": 13.11,
-        "pe_10": 53.96,
-        "pe_25": 64.15,
-        "pe_50": 103.33,
-        "pe_75": 118.39,
-        "pe_90": 129.9
+        "pe": 13.89,
+        "pe_10": 49.49,
+        "pe_25": 62.39,
+        "pe_50": 96.9,
+        "pe_75": 111.36,
+        "pe_90": 125.43
       },
       {
         "date": "2009-09-15",
         "price": 60.0,
-        "pe": 15.36,
-        "pe_10": 52.14,
-        "pe_25": 61.98,
-        "pe_50": 99.84,
-        "pe_75": 114.39,
-        "pe_90": 125.51
+        "pe": 16.26,
+        "pe_10": 47.86,
+        "pe_25": 60.33,
+        "pe_50": 93.71,
+        "pe_75": 107.69,
+        "pe_90": 121.3
       },
       {
         "date": "2009-10-16",
         "price": 58.8,
-        "pe": 15.59,
-        "pe_10": 50.34,
-        "pe_25": 59.85,
-        "pe_50": 96.4,
-        "pe_75": 110.45,
-        "pe_90": 121.19
+        "pe": 16.21,
+        "pe_10": 47.05,
+        "pe_25": 59.31,
+        "pe_50": 92.12,
+        "pe_75": 105.87,
+        "pe_90": 119.24
       },
       {
         "date": "2009-11-15",
         "price": 61.4,
-        "pe": 16.89,
-        "pe_10": 48.52,
-        "pe_25": 57.68,
-        "pe_50": 92.92,
-        "pe_75": 106.46,
-        "pe_90": 116.81
+        "pe": 17.23,
+        "pe_10": 46.22,
+        "pe_25": 58.26,
+        "pe_50": 90.5,
+        "pe_75": 104.0,
+        "pe_90": 117.14
       },
       {
         "date": "2009-12-16",
         "price": 71.8,
         "pe": 20.51,
-        "pe_10": 46.72,
-        "pe_25": 55.55,
-        "pe_50": 89.48,
-        "pe_75": 102.52,
-        "pe_90": 112.48
+        "pe_10": 45.41,
+        "pe_25": 57.24,
+        "pe_50": 88.9,
+        "pe_75": 102.17,
+        "pe_90": 115.08
       },
       {
         "date": "2010-01-16",
         "price": 65.0,
-        "pe": 17.5,
-        "pe_10": 49.57,
-        "pe_25": 58.94,
-        "pe_50": 94.94,
-        "pe_75": 108.77,
-        "pe_90": 119.34
+        "pe": 18.16,
+        "pe_10": 46.43,
+        "pe_25": 58.52,
+        "pe_50": 90.9,
+        "pe_75": 104.46,
+        "pe_90": 117.66
       },
       {
         "date": "2010-02-14",
         "price": 64.9,
-        "pe": 16.53,
-        "pe_10": 52.4,
-        "pe_25": 62.3,
-        "pe_50": 100.35,
-        "pe_75": 114.98,
-        "pe_90": 126.15
+        "pe": 17.73,
+        "pe_10": 47.48,
+        "pe_25": 59.85,
+        "pe_50": 92.96,
+        "pe_75": 106.83,
+        "pe_90": 120.33
       },
       {
         "date": "2010-03-16",
         "price": 67.8,
-        "pe": 16.38,
-        "pe_10": 55.25,
-        "pe_25": 65.68,
-        "pe_50": 105.8,
-        "pe_75": 121.22,
-        "pe_90": 133.0
+        "pe": 18.13,
+        "pe_10": 48.51,
+        "pe_25": 61.14,
+        "pe_50": 94.97,
+        "pe_75": 109.14,
+        "pe_90": 122.93
       },
       {
         "date": "2010-04-15",
         "price": 70.7,
-        "pe": 16.24,
-        "pe_10": 58.11,
-        "pe_25": 69.08,
-        "pe_50": 111.27,
-        "pe_75": 127.49,
-        "pe_90": 139.88
+        "pe": 17.15,
+        "pe_10": 53.47,
+        "pe_25": 67.4,
+        "pe_50": 104.69,
+        "pe_75": 120.31,
+        "pe_90": 135.51
       },
       {
         "date": "2010-05-16",
         "price": 67.7,
-        "pe": 14.82,
-        "pe_10": 60.97,
-        "pe_25": 72.49,
-        "pe_50": 116.76,
-        "pe_75": 133.78,
-        "pe_90": 146.78
+        "pe": 15.02,
+        "pe_10": 58.46,
+        "pe_25": 73.69,
+        "pe_50": 114.46,
+        "pe_75": 131.55,
+        "pe_90": 148.16
       },
       {
         "date": "2010-06-15",
         "price": 66.1,
-        "pe": 13.83,
-        "pe_10": 63.79,
-        "pe_25": 75.84,
-        "pe_50": 122.16,
-        "pe_75": 139.97,
-        "pe_90": 153.57
+        "pe": 13.52,
+        "pe_10": 63.42,
+        "pe_25": 79.94,
+        "pe_50": 124.16,
+        "pe_75": 142.69,
+        "pe_90": 160.71
       },
       {
         "date": "2010-07-16",
         "price": 68.7,
-        "pe": 13.76,
-        "pe_10": 66.64,
-        "pe_25": 79.22,
-        "pe_50": 127.61,
-        "pe_75": 146.21,
-        "pe_90": 160.42
+        "pe": 13.53,
+        "pe_10": 65.86,
+        "pe_25": 83.02,
+        "pe_50": 128.95,
+        "pe_75": 148.19,
+        "pe_90": 166.91
       },
       {
         "date": "2010-08-16",
         "price": 72.6,
-        "pe": 13.94,
-        "pe_10": 69.51,
-        "pe_25": 82.64,
-        "pe_50": 133.12,
-        "pe_75": 152.52,
-        "pe_90": 167.34
+        "pe": 13.79,
+        "pe_10": 68.29,
+        "pe_25": 86.08,
+        "pe_50": 133.7,
+        "pe_75": 153.65,
+        "pe_90": 173.06
       },
       {
         "date": "2010-09-15",
         "price": 82.2,
-        "pe": 15.17,
-        "pe_10": 72.32,
-        "pe_25": 85.98,
-        "pe_50": 138.5,
-        "pe_75": 158.68,
-        "pe_90": 174.1
+        "pe": 15.08,
+        "pe_10": 70.7,
+        "pe_25": 89.12,
+        "pe_50": 138.43,
+        "pe_75": 159.09,
+        "pe_90": 179.18
       },
       {
         "date": "2010-10-16",
         "price": 83.6,
-        "pe": 14.84,
-        "pe_10": 75.19,
-        "pe_25": 89.39,
-        "pe_50": 143.99,
+        "pe": 14.79,
+        "pe_10": 73.32,
+        "pe_25": 92.42,
+        "pe_50": 143.54,
         "pe_75": 164.97,
-        "pe_90": 181.01
+        "pe_90": 185.81
       },
       {
         "date": "2010-11-15",
         "price": 81.6,
-        "pe": 13.96,
-        "pe_10": 78.02,
-        "pe_25": 92.75,
-        "pe_50": 149.41,
-        "pe_75": 171.18,
-        "pe_90": 187.81
+        "pe": 13.93,
+        "pe_10": 75.98,
+        "pe_25": 95.78,
+        "pe_50": 148.76,
+        "pe_75": 170.96,
+        "pe_90": 192.56
       },
       {
         "date": "2010-12-16",
         "price": 82.5,
         "pe": 13.61,
-        "pe_10": 80.91,
-        "pe_25": 96.18,
-        "pe_50": 154.94,
-        "pe_75": 177.52,
-        "pe_90": 194.77
+        "pe_10": 78.63,
+        "pe_25": 99.11,
+        "pe_50": 153.94,
+        "pe_75": 176.91,
+        "pe_90": 199.26
       },
       {
         "date": "2011-01-16",
         "price": 89.7,
-        "pe": 14.73,
-        "pe_10": 81.28,
-        "pe_25": 96.63,
-        "pe_50": 155.65,
-        "pe_75": 178.33,
-        "pe_90": 195.67
+        "pe": 14.17,
+        "pe_10": 82.11,
+        "pe_25": 103.5,
+        "pe_50": 160.76,
+        "pe_75": 184.75,
+        "pe_90": 208.09
       },
       {
         "date": "2011-02-14",
         "price": 81.8,
-        "pe": 13.36,
-        "pe_10": 81.72,
-        "pe_25": 97.15,
-        "pe_50": 156.5,
-        "pe_75": 179.3,
-        "pe_90": 196.73
+        "pe": 12.39,
+        "pe_10": 85.64,
+        "pe_25": 107.94,
+        "pe_50": 167.66,
+        "pe_75": 192.68,
+        "pe_90": 217.02
       },
       {
         "date": "2011-03-16",
         "price": 91.0,
-        "pe": 14.78,
-        "pe_10": 82.18,
-        "pe_25": 97.7,
-        "pe_50": 157.37,
-        "pe_75": 180.31,
-        "pe_90": 197.83
+        "pe": 13.25,
+        "pe_10": 89.08,
+        "pe_25": 112.29,
+        "pe_50": 174.41,
+        "pe_75": 200.44,
+        "pe_90": 225.76
       },
       {
         "date": "2011-04-15",
         "price": 94.8,
-        "pe": 15.32,
-        "pe_10": 82.59,
-        "pe_25": 98.19,
-        "pe_50": 158.17,
-        "pe_75": 181.22,
-        "pe_90": 198.83
+        "pe": 14.18,
+        "pe_10": 86.72,
+        "pe_25": 109.31,
+        "pe_50": 169.78,
+        "pe_75": 195.12,
+        "pe_90": 219.76
       },
       {
         "date": "2011-05-16",
         "price": 92.2,
-        "pe": 14.83,
-        "pe_10": 82.98,
-        "pe_25": 98.65,
-        "pe_50": 158.91,
-        "pe_75": 182.07,
-        "pe_90": 199.76
+        "pe": 14.19,
+        "pe_10": 84.28,
+        "pe_25": 106.23,
+        "pe_50": 165.0,
+        "pe_75": 189.63,
+        "pe_90": 213.59
       },
       {
         "date": "2011-06-15",
         "price": 97.6,
-        "pe": 15.62,
-        "pe_10": 83.4,
-        "pe_25": 99.15,
-        "pe_50": 159.71,
-        "pe_75": 182.98,
-        "pe_90": 200.77
+        "pe": 15.47,
+        "pe_10": 81.83,
+        "pe_25": 103.15,
+        "pe_50": 160.22,
+        "pe_75": 184.13,
+        "pe_90": 207.39
       },
       {
         "date": "2011-07-16",
         "price": 97.5,
-        "pe": 15.52,
-        "pe_10": 83.85,
-        "pe_25": 99.68,
-        "pe_50": 160.57,
-        "pe_75": 183.97,
-        "pe_90": 201.85
+        "pe": 15.36,
+        "pe_10": 82.34,
+        "pe_25": 103.78,
+        "pe_50": 161.2,
+        "pe_75": 185.26,
+        "pe_90": 208.66
       },
       {
         "date": "2011-08-16",
         "price": 83.5,
-        "pe": 13.23,
-        "pe_10": 84.24,
-        "pe_25": 100.15,
-        "pe_50": 161.32,
-        "pe_75": 184.83,
-        "pe_90": 202.79
+        "pe": 13.08,
+        "pe_10": 82.8,
+        "pe_25": 104.38,
+        "pe_50": 162.12,
+        "pe_75": 186.31,
+        "pe_90": 209.85
       },
       {
         "date": "2011-09-15",
         "price": 81.4,
-        "pe": 12.83,
-        "pe_10": 84.68,
-        "pe_25": 100.67,
-        "pe_50": 162.17,
-        "pe_75": 185.8,
-        "pe_90": 203.86
+        "pe": 12.68,
+        "pe_10": 83.27,
+        "pe_25": 104.96,
+        "pe_50": 163.02,
+        "pe_75": 187.35,
+        "pe_90": 211.02
       },
       {
         "date": "2011-10-16",
         "price": 82.4,
-        "pe": 12.92,
-        "pe_10": 85.12,
-        "pe_25": 101.2,
-        "pe_50": 163.01,
-        "pe_75": 186.77,
-        "pe_90": 204.92
+        "pe": 12.82,
+        "pe_10": 83.37,
+        "pe_25": 105.09,
+        "pe_50": 163.23,
+        "pe_75": 187.59,
+        "pe_90": 211.28
       },
       {
         "date": "2011-11-15",
         "price": 82.5,
-        "pe": 12.87,
-        "pe_10": 85.56,
-        "pe_25": 101.71,
-        "pe_50": 163.85,
-        "pe_75": 187.72,
-        "pe_90": 205.97
+        "pe": 12.82,
+        "pe_10": 83.47,
+        "pe_25": 105.22,
+        "pe_50": 163.42,
+        "pe_75": 187.81,
+        "pe_90": 211.54
       },
       {
         "date": "2011-12-16",
         "price": 83.8,
         "pe": 13.01,
-        "pe_10": 85.97,
-        "pe_25": 102.21,
-        "pe_50": 164.64,
-        "pe_75": 188.63,
-        "pe_90": 206.96
+        "pe_10": 83.55,
+        "pe_25": 105.31,
+        "pe_50": 163.57,
+        "pe_75": 187.99,
+        "pe_90": 211.74
       },
       {
         "date": "2012-01-16",
         "price": 89.6,
-        "pe": 13.95,
-        "pe_10": 85.73,
-        "pe_25": 101.92,
-        "pe_50": 164.17,
-        "pe_75": 188.1,
-        "pe_90": 206.38
+        "pe": 14.14,
+        "pe_10": 82.19,
+        "pe_25": 103.6,
+        "pe_50": 160.92,
+        "pe_75": 184.93,
+        "pe_90": 208.3
       },
       {
         "date": "2012-02-15",
         "price": 99.0,
-        "pe": 15.45,
-        "pe_10": 85.52,
-        "pe_25": 101.68,
-        "pe_50": 163.78,
-        "pe_75": 187.65,
-        "pe_90": 205.89
+        "pe": 15.88,
+        "pe_10": 80.86,
+        "pe_25": 101.93,
+        "pe_50": 158.32,
+        "pe_75": 181.95,
+        "pe_90": 204.93
       },
       {
         "date": "2012-03-16",
         "price": 102.5,
-        "pe": 16.04,
-        "pe_10": 85.29,
-        "pe_25": 101.4,
-        "pe_50": 163.34,
-        "pe_75": 187.14,
-        "pe_90": 205.33
+        "pe": 16.72,
+        "pe_10": 79.52,
+        "pe_25": 100.23,
+        "pe_50": 155.68,
+        "pe_75": 178.92,
+        "pe_90": 201.52
       },
       {
         "date": "2012-04-15",
         "price": 99.2,
-        "pe": 15.57,
-        "pe_10": 85.04,
-        "pe_25": 101.1,
-        "pe_50": 162.85,
-        "pe_75": 186.58,
-        "pe_90": 204.71
+        "pe": 16.17,
+        "pe_10": 79.57,
+        "pe_25": 100.3,
+        "pe_50": 155.79,
+        "pe_75": 179.04,
+        "pe_90": 201.66
       },
       {
         "date": "2012-05-16",
         "price": 102.0,
-        "pe": 16.05,
-        "pe_10": 84.82,
-        "pe_25": 100.84,
-        "pe_50": 162.44,
-        "pe_75": 186.11,
-        "pe_90": 204.2
+        "pe": 16.6,
+        "pe_10": 79.7,
+        "pe_25": 100.46,
+        "pe_50": 156.04,
+        "pe_75": 179.33,
+        "pe_90": 201.98
       },
       {
         "date": "2012-06-15",
         "price": 98.6,
-        "pe": 15.56,
-        "pe_10": 84.58,
-        "pe_25": 100.55,
-        "pe_50": 161.97,
-        "pe_75": 185.57,
-        "pe_90": 203.61
+        "pe": 16.03,
+        "pe_10": 79.78,
+        "pe_25": 100.57,
+        "pe_50": 156.2,
+        "pe_75": 179.52,
+        "pe_90": 202.19
       },
       {
         "date": "2012-07-16",
         "price": 106.5,
-        "pe": 16.85,
-        "pe_10": 84.36,
-        "pe_25": 100.29,
-        "pe_50": 161.55,
-        "pe_75": 185.1,
-        "pe_90": 203.08
+        "pe": 17.34,
+        "pe_10": 79.67,
+        "pe_25": 100.42,
+        "pe_50": 155.97,
+        "pe_75": 179.25,
+        "pe_90": 201.9
       },
       {
         "date": "2012-08-16",
         "price": 104.0,
-        "pe": 16.5,
-        "pe_10": 84.13,
-        "pe_25": 100.01,
-        "pe_50": 161.11,
-        "pe_75": 184.58,
-        "pe_90": 202.52
+        "pe": 16.95,
+        "pe_10": 79.59,
+        "pe_25": 100.32,
+        "pe_50": 155.82,
+        "pe_75": 179.07,
+        "pe_90": 201.69
       },
       {
         "date": "2012-09-15",
         "price": 107.0,
-        "pe": 17.02,
-        "pe_10": 83.91,
-        "pe_25": 99.75,
-        "pe_50": 160.69,
-        "pe_75": 184.11,
-        "pe_90": 202.0
+        "pe": 17.46,
+        "pe_10": 79.49,
+        "pe_25": 100.2,
+        "pe_50": 155.63,
+        "pe_75": 178.85,
+        "pe_90": 201.45
       },
       {
         "date": "2012-10-16",
         "price": 101.0,
-        "pe": 16.11,
-        "pe_10": 83.68,
-        "pe_25": 99.48,
-        "pe_50": 160.25,
-        "pe_75": 183.6,
-        "pe_90": 201.44
+        "pe": 16.38,
+        "pe_10": 79.98,
+        "pe_25": 100.82,
+        "pe_50": 156.59,
+        "pe_75": 179.96,
+        "pe_90": 202.69
       },
       {
         "date": "2012-11-15",
         "price": 108.5,
-        "pe": 17.35,
-        "pe_10": 83.47,
-        "pe_25": 99.23,
-        "pe_50": 159.84,
-        "pe_75": 183.14,
-        "pe_90": 200.93
+        "pe": 17.5,
+        "pe_10": 80.42,
+        "pe_25": 101.37,
+        "pe_50": 157.45,
+        "pe_75": 180.95,
+        "pe_90": 203.81
       },
       {
         "date": "2012-12-16",
         "price": 122.5,
         "pe": 19.64,
-        "pe_10": 83.25,
-        "pe_25": 98.97,
-        "pe_50": 159.42,
-        "pe_75": 182.66,
-        "pe_90": 200.41
+        "pe_10": 80.9,
+        "pe_25": 101.98,
+        "pe_50": 158.4,
+        "pe_75": 182.03,
+        "pe_90": 205.03
       },
       {
         "date": "2013-01-16",
         "price": 123.5,
-        "pe": 19.53,
-        "pe_10": 84.4,
-        "pe_25": 100.34,
-        "pe_50": 161.63,
-        "pe_75": 185.19,
-        "pe_90": 203.18
+        "pe": 19.7,
+        "pe_10": 81.32,
+        "pe_25": 102.5,
+        "pe_50": 159.2,
+        "pe_75": 182.96,
+        "pe_90": 206.08
       },
       {
         "date": "2013-02-14",
         "price": 132.0,
-        "pe": 20.6,
-        "pe_10": 85.52,
-        "pe_25": 101.68,
-        "pe_50": 163.78,
-        "pe_75": 187.65,
-        "pe_90": 205.89
+        "pe": 20.96,
+        "pe_10": 81.69,
+        "pe_25": 102.97,
+        "pe_50": 159.93,
+        "pe_75": 183.8,
+        "pe_90": 207.02
       },
       {
         "date": "2013-03-16",
         "price": 122.5,
-        "pe": 18.87,
-        "pe_10": 86.65,
-        "pe_25": 103.01,
-        "pe_50": 165.93,
-        "pe_75": 190.11,
-        "pe_90": 208.59
+        "pe": 19.35,
+        "pe_10": 82.12,
+        "pe_25": 103.51,
+        "pe_50": 160.77,
+        "pe_75": 184.76,
+        "pe_90": 208.1
       },
       {
         "date": "2013-04-15",
         "price": 141.0,
-        "pe": 21.44,
-        "pe_10": 87.78,
-        "pe_25": 104.35,
-        "pe_50": 168.1,
-        "pe_75": 192.59,
-        "pe_90": 211.31
+        "pe": 21.96,
+        "pe_10": 83.28,
+        "pe_25": 104.98,
+        "pe_50": 163.06,
+        "pe_75": 187.39,
+        "pe_90": 211.06
       },
       {
         "date": "2013-05-16",
         "price": 147.0,
-        "pe": 22.06,
-        "pe_10": 88.94,
-        "pe_25": 105.74,
-        "pe_50": 170.32,
-        "pe_75": 195.14,
-        "pe_90": 214.11
+        "pe": 22.58,
+        "pe_10": 84.44,
+        "pe_25": 106.44,
+        "pe_50": 165.33,
+        "pe_75": 190.0,
+        "pe_90": 214.0
       },
       {
         "date": "2013-06-15",
         "price": 143.0,
-        "pe": 21.19,
-        "pe_10": 90.07,
-        "pe_25": 107.08,
-        "pe_50": 172.49,
-        "pe_75": 197.63,
-        "pe_90": 216.83
+        "pe": 21.67,
+        "pe_10": 85.6,
+        "pe_25": 107.89,
+        "pe_50": 167.58,
+        "pe_75": 192.59,
+        "pe_90": 216.92
       },
       {
         "date": "2013-07-16",
         "price": 145.0,
-        "pe": 21.22,
-        "pe_10": 91.2,
-        "pe_25": 108.43,
-        "pe_50": 174.66,
-        "pe_75": 200.11,
-        "pe_90": 219.56
+        "pe": 21.6,
+        "pe_10": 87.07,
+        "pe_25": 109.76,
+        "pe_50": 170.48,
+        "pe_75": 195.92,
+        "pe_90": 220.67
       },
       {
         "date": "2013-08-16",
         "price": 152.0,
-        "pe": 21.97,
-        "pe_10": 92.34,
-        "pe_25": 109.78,
-        "pe_50": 176.84,
-        "pe_75": 202.61,
-        "pe_90": 222.3
+        "pe": 22.27,
+        "pe_10": 88.53,
+        "pe_25": 111.59,
+        "pe_50": 173.33,
+        "pe_75": 199.2,
+        "pe_90": 224.36
       },
       {
         "date": "2013-09-15",
         "price": 165.5,
-        "pe": 23.63,
-        "pe_10": 93.48,
-        "pe_25": 111.13,
-        "pe_50": 179.02,
-        "pe_75": 205.11,
-        "pe_90": 225.04
+        "pe": 23.85,
+        "pe_10": 90.01,
+        "pe_25": 113.46,
+        "pe_50": 176.22,
+        "pe_75": 202.52,
+        "pe_90": 228.11
       },
       {
         "date": "2013-10-16",
         "price": 188.5,
-        "pe": 26.59,
-        "pe_10": 94.62,
-        "pe_25": 112.49,
-        "pe_50": 181.2,
-        "pe_75": 207.61,
-        "pe_90": 227.78
+        "pe": 26.75,
+        "pe_10": 91.4,
+        "pe_25": 115.21,
+        "pe_50": 178.95,
+        "pe_75": 205.66,
+        "pe_90": 231.64
       },
       {
         "date": "2013-11-15",
         "price": 183.0,
-        "pe": 25.51,
-        "pe_10": 95.75,
-        "pe_25": 113.83,
-        "pe_50": 183.36,
-        "pe_75": 210.08,
-        "pe_90": 230.5
+        "pe": 25.58,
+        "pe_10": 92.79,
+        "pe_25": 116.97,
+        "pe_50": 181.68,
+        "pe_75": 208.79,
+        "pe_90": 235.17
       },
       {
         "date": "2013-12-16",
         "price": 206.5,
         "pe": 28.44,
-        "pe_10": 96.91,
-        "pe_25": 115.21,
-        "pe_50": 185.59,
-        "pe_75": 212.64,
-        "pe_90": 233.3
+        "pe_10": 94.18,
+        "pe_25": 118.72,
+        "pe_50": 184.39,
+        "pe_75": 211.91,
+        "pe_90": 238.68
       },
       {
         "date": "2014-01-16",
         "price": 189.0,
-        "pe": 25.87,
-        "pe_10": 97.51,
-        "pe_25": 115.92,
-        "pe_50": 186.74,
-        "pe_75": 213.95,
-        "pe_90": 234.74
+        "pe": 25.51,
+        "pe_10": 96.1,
+        "pe_25": 121.13,
+        "pe_50": 188.15,
+        "pe_75": 216.23,
+        "pe_90": 243.54
       },
       {
         "date": "2014-02-14",
         "price": 191.5,
-        "pe": 26.05,
-        "pe_10": 98.12,
-        "pe_25": 116.65,
-        "pe_50": 187.9,
-        "pe_75": 215.28,
-        "pe_90": 236.2
+        "pe": 25.33,
+        "pe_10": 98.06,
+        "pe_25": 123.61,
+        "pe_50": 191.99,
+        "pe_75": 220.64,
+        "pe_90": 248.52
       },
       {
         "date": "2014-03-16",
         "price": 197.5,
-        "pe": 26.71,
-        "pe_10": 98.69,
-        "pe_25": 117.33,
-        "pe_50": 189.0,
-        "pe_75": 216.54,
-        "pe_90": 237.58
+        "pe": 25.62,
+        "pe_10": 99.99,
+        "pe_25": 126.04,
+        "pe_50": 195.77,
+        "pe_75": 224.98,
+        "pe_90": 253.4
       },
       {
         "date": "2014-04-15",
         "price": 195.0,
-        "pe": 26.21,
-        "pe_10": 99.3,
-        "pe_25": 118.05,
-        "pe_50": 190.16,
-        "pe_75": 217.88,
-        "pe_90": 239.05
+        "pe": 25.15,
+        "pe_10": 100.57,
+        "pe_25": 126.77,
+        "pe_50": 196.9,
+        "pe_75": 226.29,
+        "pe_90": 254.87
       },
       {
         "date": "2014-05-16",
         "price": 222.0,
-        "pe": 29.66,
-        "pe_10": 99.9,
-        "pe_25": 118.77,
-        "pe_50": 191.31,
-        "pe_75": 219.19,
-        "pe_90": 240.5
+        "pe": 28.47,
+        "pe_10": 101.14,
+        "pe_25": 127.49,
+        "pe_50": 198.02,
+        "pe_75": 227.58,
+        "pe_90": 256.33
       },
       {
         "date": "2014-06-15",
         "price": 255.0,
-        "pe": 33.86,
-        "pe_10": 100.52,
-        "pe_25": 119.5,
-        "pe_50": 192.49,
-        "pe_75": 220.55,
-        "pe_90": 241.98
+        "pe": 32.53,
+        "pe_10": 101.68,
+        "pe_25": 128.17,
+        "pe_50": 199.07,
+        "pe_75": 228.78,
+        "pe_90": 257.68
       },
       {
         "date": "2014-07-16",
         "price": 235.5,
-        "pe": 31.09,
-        "pe_10": 101.1,
-        "pe_25": 120.19,
-        "pe_50": 193.61,
-        "pe_75": 221.83,
-        "pe_90": 243.39
+        "pe": 30.51,
+        "pe_10": 100.12,
+        "pe_25": 126.2,
+        "pe_50": 196.02,
+        "pe_75": 225.27,
+        "pe_90": 253.73
       },
       {
         "date": "2014-08-16",
         "price": 280.5,
-        "pe": 36.81,
-        "pe_10": 101.71,
-        "pe_25": 120.91,
-        "pe_50": 194.77,
-        "pe_75": 223.16,
-        "pe_90": 244.85
+        "pe": 36.91,
+        "pe_10": 98.57,
+        "pe_25": 124.25,
+        "pe_50": 192.99,
+        "pe_75": 221.79,
+        "pe_90": 249.81
       },
       {
         "date": "2014-09-15",
         "price": 215.0,
-        "pe": 28.05,
-        "pe_10": 102.3,
-        "pe_25": 121.62,
-        "pe_50": 195.91,
-        "pe_75": 224.47,
-        "pe_90": 246.28
+        "pe": 28.74,
+        "pe_10": 97.03,
+        "pe_25": 122.31,
+        "pe_50": 189.98,
+        "pe_75": 218.33,
+        "pe_90": 245.91
       },
       {
         "date": "2014-10-16",
         "price": 211.0,
-        "pe": 27.37,
-        "pe_10": 102.89,
-        "pe_25": 122.33,
-        "pe_50": 197.05,
-        "pe_75": 225.76,
-        "pe_90": 247.7
+        "pe": 27.81,
+        "pe_10": 98.41,
+        "pe_25": 124.05,
+        "pe_50": 192.68,
+        "pe_75": 221.43,
+        "pe_90": 249.41
       },
       {
         "date": "2014-11-15",
         "price": 212.0,
-        "pe": 27.34,
-        "pe_10": 103.5,
-        "pe_25": 123.04,
-        "pe_50": 198.2,
-        "pe_75": 227.08,
-        "pe_90": 249.15
+        "pe": 27.56,
+        "pe_10": 99.78,
+        "pe_25": 125.77,
+        "pe_50": 195.35,
+        "pe_75": 224.5,
+        "pe_90": 252.86
       },
       {
         "date": "2014-12-16",
         "price": 234.5,
         "pe": 30.06,
-        "pe_10": 104.12,
-        "pe_25": 123.78,
-        "pe_50": 199.4,
-        "pe_75": 228.45,
-        "pe_90": 250.66
+        "pe_10": 101.19,
+        "pe_25": 127.55,
+        "pe_50": 198.11,
+        "pe_75": 227.67,
+        "pe_90": 256.44
       },
       {
         "date": "2015-01-16",
         "price": 238.0,
-        "pe": 30.42,
-        "pe_10": 104.42,
-        "pe_25": 124.14,
-        "pe_50": 199.98,
-        "pe_75": 229.12,
-        "pe_90": 251.39
+        "pe": 30.45,
+        "pe_10": 101.38,
+        "pe_25": 127.79,
+        "pe_50": 198.49,
+        "pe_75": 228.11,
+        "pe_90": 256.93
       },
       {
         "date": "2015-02-14",
         "price": 240.0,
-        "pe": 30.59,
-        "pe_10": 104.72,
-        "pe_25": 124.49,
-        "pe_50": 200.54,
-        "pe_75": 229.76,
-        "pe_90": 252.09
+        "pe": 30.64,
+        "pe_10": 101.6,
+        "pe_25": 128.07,
+        "pe_50": 198.92,
+        "pe_75": 228.6,
+        "pe_90": 257.48
       },
       {
         "date": "2015-03-16",
         "price": 238.5,
-        "pe": 30.3,
-        "pe_10": 105.06,
-        "pe_25": 124.9,
-        "pe_50": 201.19,
-        "pe_75": 230.51,
-        "pe_90": 252.91
+        "pe": 30.38,
+        "pe_10": 101.83,
+        "pe_25": 128.36,
+        "pe_50": 199.36,
+        "pe_75": 229.12,
+        "pe_90": 258.06
       },
       {
         "date": "2015-04-15",
         "price": 253.5,
-        "pe": 32.12,
-        "pe_10": 105.34,
-        "pe_25": 125.23,
-        "pe_50": 201.73,
-        "pe_75": 231.13,
-        "pe_90": 253.59
+        "pe": 32.02,
+        "pe_10": 102.69,
+        "pe_25": 129.44,
+        "pe_50": 201.05,
+        "pe_75": 231.06,
+        "pe_90": 260.25
       },
       {
         "date": "2015-05-16",
         "price": 247.5,
-        "pe": 31.26,
-        "pe_10": 105.67,
-        "pe_25": 125.63,
-        "pe_50": 202.37,
-        "pe_75": 231.86,
-        "pe_90": 254.4
+        "pe": 31.0,
+        "pe_10": 103.56,
+        "pe_25": 130.54,
+        "pe_50": 202.75,
+        "pe_75": 233.01,
+        "pe_90": 262.45
       },
       {
         "date": "2015-06-15",
         "price": 212.0,
-        "pe": 26.7,
-        "pe_10": 105.98,
-        "pe_25": 125.99,
-        "pe_50": 202.95,
-        "pe_75": 232.53,
-        "pe_90": 255.12
+        "pe": 26.34,
+        "pe_10": 104.4,
+        "pe_25": 131.59,
+        "pe_50": 204.39,
+        "pe_75": 234.9,
+        "pe_90": 264.57
       },
       {
         "date": "2015-07-16",
         "price": 213.0,
-        "pe": 26.75,
-        "pe_10": 106.28,
-        "pe_25": 126.35,
-        "pe_50": 203.52,
-        "pe_75": 233.19,
-        "pe_90": 255.85
+        "pe": 26.61,
+        "pe_10": 103.83,
+        "pe_25": 130.87,
+        "pe_50": 203.27,
+        "pe_75": 233.61,
+        "pe_90": 263.12
       },
       {
         "date": "2015-08-16",
         "price": 207.0,
-        "pe": 25.92,
-        "pe_10": 106.59,
-        "pe_25": 126.72,
-        "pe_50": 204.12,
-        "pe_75": 233.87,
-        "pe_90": 256.6
+        "pe": 26.02,
+        "pe_10": 103.19,
+        "pe_25": 130.07,
+        "pe_50": 202.03,
+        "pe_75": 232.18,
+        "pe_90": 261.51
       },
       {
         "date": "2015-09-15",
         "price": 225.0,
-        "pe": 28.09,
-        "pe_10": 106.91,
-        "pe_25": 127.1,
-        "pe_50": 204.73,
-        "pe_75": 234.57,
-        "pe_90": 257.37
+        "pe": 28.45,
+        "pe_10": 102.58,
+        "pe_25": 129.31,
+        "pe_50": 200.84,
+        "pe_75": 230.81,
+        "pe_90": 259.97
       },
       {
         "date": "2015-10-16",
         "price": 233.5,
-        "pe": 29.07,
-        "pe_10": 107.21,
-        "pe_25": 127.45,
-        "pe_50": 205.31,
-        "pe_75": 235.23,
-        "pe_90": 258.09
+        "pe": 29.31,
+        "pe_10": 103.33,
+        "pe_25": 130.25,
+        "pe_50": 202.31,
+        "pe_75": 232.5,
+        "pe_90": 261.88
       },
       {
         "date": "2015-11-15",
         "price": 214.5,
-        "pe": 26.62,
-        "pe_10": 107.55,
-        "pe_25": 127.86,
-        "pe_50": 205.96,
-        "pe_75": 235.97,
-        "pe_90": 258.91
+        "pe": 26.73,
+        "pe_10": 104.09,
+        "pe_25": 131.2,
+        "pe_50": 203.79,
+        "pe_75": 234.2,
+        "pe_90": 263.79
       },
       {
         "date": "2015-12-16",
         "price": 211.5,
         "pe": 26.18,
-        "pe_10": 107.83,
-        "pe_25": 128.19,
-        "pe_50": 206.49,
-        "pe_75": 236.58,
-        "pe_90": 259.58
+        "pe_10": 104.79,
+        "pe_25": 132.09,
+        "pe_50": 205.16,
+        "pe_75": 235.78,
+        "pe_90": 265.56
       },
       {
         "date": "2016-01-16",
         "price": 203.0,
-        "pe": 24.9,
-        "pe_10": 108.81,
-        "pe_25": 129.36,
-        "pe_50": 208.38,
-        "pe_75": 238.75,
-        "pe_90": 261.95
+        "pe": 24.88,
+        "pe_10": 105.83,
+        "pe_25": 133.4,
+        "pe_50": 207.2,
+        "pe_75": 238.13,
+        "pe_90": 268.21
       },
       {
         "date": "2016-02-15",
         "price": 230.0,
-        "pe": 27.96,
-        "pe_10": 109.79,
-        "pe_25": 130.53,
-        "pe_50": 210.26,
-        "pe_75": 240.9,
-        "pe_90": 264.31
+        "pe": 27.91,
+        "pe_10": 106.89,
+        "pe_25": 134.74,
+        "pe_50": 209.27,
+        "pe_75": 240.51,
+        "pe_90": 270.89
       },
       {
         "date": "2016-03-16",
         "price": 236.5,
-        "pe": 28.49,
-        "pe_10": 110.8,
-        "pe_25": 131.72,
-        "pe_50": 212.18,
-        "pe_75": 243.1,
-        "pe_90": 266.72
+        "pe": 28.43,
+        "pe_10": 107.9,
+        "pe_25": 136.01,
+        "pe_50": 211.25,
+        "pe_75": 242.78,
+        "pe_90": 273.45
       },
       {
         "date": "2016-04-15",
         "price": 228.0,
-        "pe": 27.23,
-        "pe_10": 111.76,
-        "pe_25": 132.86,
-        "pe_50": 214.02,
-        "pe_75": 245.21,
-        "pe_90": 269.04
+        "pe": 27.2,
+        "pe_10": 108.73,
+        "pe_25": 137.05,
+        "pe_50": 212.87,
+        "pe_75": 244.64,
+        "pe_90": 275.54
       },
       {
         "date": "2016-05-16",
         "price": 241.0,
         "pe": 28.53,
-        "pe_10": 112.75,
-        "pe_25": 134.04,
-        "pe_50": 215.91,
-        "pe_75": 247.38,
-        "pe_90": 271.42
+        "pe_10": 109.57,
+        "pe_25": 138.11,
+        "pe_50": 214.52,
+        "pe_75": 246.53,
+        "pe_90": 277.68
       },
       {
         "date": "2016-06-15",
         "price": 244.5,
-        "pe": 28.7,
-        "pe_10": 113.71,
-        "pe_25": 135.18,
-        "pe_50": 217.75,
-        "pe_75": 249.48,
-        "pe_90": 273.73
+        "pe": 28.73,
+        "pe_10": 110.39,
+        "pe_25": 139.14,
+        "pe_50": 216.12,
+        "pe_75": 248.37,
+        "pe_90": 279.75
       },
       {
         "date": "2016-07-16",
         "price": 248.0,
-        "pe": 28.86,
-        "pe_10": 114.69,
-        "pe_25": 136.35,
-        "pe_50": 219.64,
-        "pe_75": 251.65,
-        "pe_90": 276.11
+        "pe": 28.71,
+        "pe_10": 112.04,
+        "pe_25": 141.23,
+        "pe_50": 219.36,
+        "pe_75": 252.1,
+        "pe_90": 283.95
       },
       {
         "date": "2016-08-16",
         "price": 259.5,
-        "pe": 29.94,
-        "pe_10": 115.68,
-        "pe_25": 137.53,
-        "pe_50": 221.54,
-        "pe_75": 253.82,
-        "pe_90": 278.49
+        "pe": 29.61,
+        "pe_10": 113.68,
+        "pe_25": 143.29,
+        "pe_50": 222.56,
+        "pe_75": 255.78,
+        "pe_90": 288.09
       },
       {
         "date": "2016-09-15",
         "price": 269.0,
-        "pe": 30.78,
-        "pe_10": 116.65,
-        "pe_25": 138.67,
-        "pe_50": 223.38,
-        "pe_75": 255.93,
-        "pe_90": 280.81
+        "pe": 30.26,
+        "pe_10": 115.31,
+        "pe_25": 145.35,
+        "pe_50": 225.75,
+        "pe_75": 259.44,
+        "pe_90": 292.22
       },
       {
         "date": "2016-10-16",
         "price": 257.0,
-        "pe": 29.16,
-        "pe_10": 117.63,
-        "pe_25": 139.85,
-        "pe_50": 225.27,
-        "pe_75": 258.1,
-        "pe_90": 283.18
+        "pe": 28.83,
+        "pe_10": 115.63,
+        "pe_25": 145.75,
+        "pe_50": 226.38,
+        "pe_75": 260.16,
+        "pe_90": 293.03
       },
       {
         "date": "2016-11-15",
         "price": 256.5,
-        "pe": 28.86,
-        "pe_10": 118.62,
-        "pe_25": 141.03,
-        "pe_50": 227.17,
-        "pe_75": 260.28,
-        "pe_90": 285.57
+        "pe": 28.7,
+        "pe_10": 115.93,
+        "pe_25": 146.12,
+        "pe_50": 226.96,
+        "pe_75": 260.83,
+        "pe_90": 293.79
       },
       {
         "date": "2016-12-16",
         "price": 254.5,
         "pe": 28.4,
-        "pe_10": 119.61,
-        "pe_25": 142.19,
-        "pe_50": 229.05,
-        "pe_75": 262.43,
-        "pe_90": 287.93
+        "pe_10": 116.24,
+        "pe_25": 146.52,
+        "pe_50": 227.57,
+        "pe_75": 261.53,
+        "pe_90": 294.57
       },
       {
         "date": "2017-01-16",
         "price": 265.0,
-        "pe": 29.61,
-        "pe_10": 119.45,
-        "pe_25": 142.01,
-        "pe_50": 228.75,
-        "pe_75": 262.09,
-        "pe_90": 287.56
+        "pe": 29.88,
+        "pe_10": 115.04,
+        "pe_25": 145.01,
+        "pe_50": 225.22,
+        "pe_75": 258.84,
+        "pe_90": 291.54
       },
       {
         "date": "2017-02-14",
         "price": 261.5,
-        "pe": 29.25,
-        "pe_10": 119.32,
-        "pe_25": 141.86,
-        "pe_50": 228.51,
-        "pe_75": 261.81,
-        "pe_90": 287.26
+        "pe": 29.78,
+        "pe_10": 113.9,
+        "pe_25": 143.57,
+        "pe_50": 223.0,
+        "pe_75": 256.28,
+        "pe_90": 288.65
       },
       {
         "date": "2017-03-16",
         "price": 254.0,
-        "pe": 28.44,
-        "pe_10": 119.2,
-        "pe_25": 141.71,
-        "pe_50": 228.28,
-        "pe_75": 261.55,
-        "pe_90": 286.96
+        "pe": 29.23,
+        "pe_10": 112.71,
+        "pe_25": 142.08,
+        "pe_50": 220.67,
+        "pe_75": 253.61,
+        "pe_90": 285.65
       },
       {
         "date": "2017-04-15",
         "price": 244.0,
-        "pe": 27.35,
-        "pe_10": 119.07,
-        "pe_25": 141.56,
-        "pe_50": 228.03,
-        "pe_75": 261.26,
-        "pe_90": 286.65
+        "pe": 28.52,
+        "pe_10": 110.97,
+        "pe_25": 139.88,
+        "pe_50": 217.26,
+        "pe_75": 249.69,
+        "pe_90": 281.23
       },
       {
         "date": "2017-05-16",
         "price": 244.0,
-        "pe": 27.38,
-        "pe_10": 118.94,
-        "pe_25": 141.41,
-        "pe_50": 227.78,
-        "pe_75": 260.98,
-        "pe_90": 286.34
+        "pe": 28.97,
+        "pe_10": 109.25,
+        "pe_25": 137.71,
+        "pe_50": 213.89,
+        "pe_75": 245.81,
+        "pe_90": 276.86
       },
       {
         "date": "2017-06-15",
         "price": 215.5,
-        "pe": 24.21,
-        "pe_10": 118.81,
-        "pe_25": 141.24,
-        "pe_50": 227.52,
-        "pe_75": 260.67,
-        "pe_90": 286.01
+        "pe": 26.0,
+        "pe_10": 107.51,
+        "pe_25": 135.52,
+        "pe_50": 210.49,
+        "pe_75": 241.9,
+        "pe_90": 272.46
       },
       {
         "date": "2017-07-16",
         "price": 228.5,
-        "pe": 25.7,
-        "pe_10": 118.67,
-        "pe_25": 141.08,
-        "pe_50": 227.26,
-        "pe_75": 260.37,
-        "pe_90": 285.68
+        "pe": 27.34,
+        "pe_10": 108.41,
+        "pe_25": 136.65,
+        "pe_50": 212.24,
+        "pe_75": 243.92,
+        "pe_90": 274.73
       },
       {
         "date": "2017-08-16",
         "price": 222.5,
-        "pe": 25.06,
-        "pe_10": 118.5,
-        "pe_25": 140.88,
-        "pe_50": 226.94,
-        "pe_75": 260.01,
-        "pe_90": 285.28
+        "pe": 26.41,
+        "pe_10": 109.28,
+        "pe_25": 137.75,
+        "pe_50": 213.95,
+        "pe_75": 245.88,
+        "pe_90": 276.94
       },
       {
         "date": "2017-09-15",
         "price": 213.0,
-        "pe": 24.01,
-        "pe_10": 118.41,
-        "pe_25": 140.77,
-        "pe_50": 226.75,
-        "pe_75": 259.8,
-        "pe_90": 285.04
+        "pe": 25.09,
+        "pe_10": 110.12,
+        "pe_25": 138.8,
+        "pe_50": 215.59,
+        "pe_75": 247.76,
+        "pe_90": 279.06
       },
       {
         "date": "2017-10-16",
         "price": 206.0,
-        "pe": 23.25,
-        "pe_10": 118.26,
-        "pe_25": 140.59,
-        "pe_50": 226.47,
-        "pe_75": 259.47,
-        "pe_90": 284.69
+        "pe": 23.93,
+        "pe_10": 111.66,
+        "pe_25": 140.75,
+        "pe_50": 218.61,
+        "pe_75": 251.24,
+        "pe_90": 282.98
       },
       {
         "date": "2017-11-15",
         "price": 200.0,
-        "pe": 22.6,
-        "pe_10": 118.12,
-        "pe_25": 140.42,
-        "pe_50": 226.19,
-        "pe_75": 259.16,
-        "pe_90": 284.35
+        "pe": 22.93,
+        "pe_10": 113.14,
+        "pe_25": 142.61,
+        "pe_50": 221.5,
+        "pe_75": 254.56,
+        "pe_90": 286.72
       },
       {
         "date": "2017-12-16",
         "price": 210.5,
         "pe": 23.81,
-        "pe_10": 118.0,
-        "pe_25": 140.28,
-        "pe_50": 225.97,
-        "pe_75": 258.9,
-        "pe_90": 284.06
+        "pe_10": 114.67,
+        "pe_25": 144.55,
+        "pe_50": 224.51,
+        "pe_75": 258.02,
+        "pe_90": 290.62
       },
       {
         "date": "2018-01-16",
         "price": 228.0,
-        "pe": 25.75,
-        "pe_10": 118.18,
-        "pe_25": 140.5,
-        "pe_50": 226.32,
-        "pe_75": 259.3,
-        "pe_90": 284.5
+        "pe": 25.6,
+        "pe_10": 115.52,
+        "pe_25": 145.62,
+        "pe_50": 226.17,
+        "pe_75": 259.93,
+        "pe_90": 292.77
       },
       {
         "date": "2018-02-14",
         "price": 217.5,
-        "pe": 24.53,
-        "pe_10": 118.34,
-        "pe_25": 140.69,
-        "pe_50": 226.63,
-        "pe_75": 259.66,
-        "pe_90": 284.9
+        "pe": 24.24,
+        "pe_10": 116.39,
+        "pe_25": 146.7,
+        "pe_50": 227.86,
+        "pe_75": 261.87,
+        "pe_90": 294.95
       },
       {
         "date": "2018-03-16",
         "price": 210.0,
-        "pe": 23.64,
-        "pe_10": 118.56,
-        "pe_25": 140.95,
-        "pe_50": 227.06,
-        "pe_75": 260.15,
-        "pe_90": 285.43
+        "pe": 23.23,
+        "pe_10": 117.26,
+        "pe_25": 147.8,
+        "pe_50": 229.57,
+        "pe_75": 263.83,
+        "pe_90": 297.16
       },
       {
         "date": "2018-04-15",
         "price": 204.5,
-        "pe": 22.99,
-        "pe_10": 118.72,
-        "pe_25": 141.14,
-        "pe_50": 227.36,
-        "pe_75": 260.5,
-        "pe_90": 285.81
+        "pe": 22.77,
+        "pe_10": 116.49,
+        "pe_25": 146.84,
+        "pe_50": 228.08,
+        "pe_75": 262.11,
+        "pe_90": 295.23
       },
       {
         "date": "2018-05-16",
         "price": 203.0,
-        "pe": 22.78,
-        "pe_10": 118.94,
-        "pe_25": 141.4,
-        "pe_50": 227.77,
-        "pe_75": 260.97,
-        "pe_90": 286.33
+        "pe": 22.76,
+        "pe_10": 115.69,
+        "pe_25": 145.83,
+        "pe_50": 226.5,
+        "pe_75": 260.31,
+        "pe_90": 293.19
       },
       {
         "date": "2018-06-15",
         "price": 201.0,
-        "pe": 22.52,
-        "pe_10": 119.13,
-        "pe_25": 141.62,
-        "pe_50": 228.13,
-        "pe_75": 261.38,
-        "pe_90": 286.78
+        "pe": 22.69,
+        "pe_10": 114.9,
+        "pe_25": 144.84,
+        "pe_50": 224.96,
+        "pe_75": 258.54,
+        "pe_90": 291.2
       },
       {
         "date": "2018-07-16",
         "price": 202.5,
-        "pe": 22.65,
-        "pe_10": 119.33,
-        "pe_25": 141.86,
-        "pe_50": 228.52,
-        "pe_75": 261.82,
-        "pe_90": 287.26
+        "pe": 22.71,
+        "pe_10": 115.66,
+        "pe_25": 145.79,
+        "pe_50": 226.44,
+        "pe_75": 260.24,
+        "pe_90": 293.11
       },
       {
         "date": "2018-08-16",
         "price": 209.0,
-        "pe": 23.34,
-        "pe_10": 119.52,
-        "pe_25": 142.09,
-        "pe_50": 228.88,
-        "pe_75": 262.24,
-        "pe_90": 287.72
+        "pe": 23.29,
+        "pe_10": 116.4,
+        "pe_25": 146.72,
+        "pe_50": 227.89,
+        "pe_75": 261.9,
+        "pe_90": 294.99
       },
       {
         "date": "2018-09-15",
         "price": 227.5,
-        "pe": 25.37,
-        "pe_10": 119.69,
-        "pe_25": 142.29,
-        "pe_50": 229.2,
-        "pe_75": 262.61,
-        "pe_90": 288.13
+        "pe": 25.19,
+        "pe_10": 117.15,
+        "pe_25": 147.66,
+        "pe_50": 229.35,
+        "pe_75": 263.58,
+        "pe_90": 296.88
       },
       {
         "date": "2018-10-16",
         "price": 213.0,
-        "pe": 23.71,
-        "pe_10": 119.9,
-        "pe_25": 142.55,
-        "pe_50": 229.62,
-        "pe_75": 263.08,
-        "pe_90": 288.65
+        "pe": 23.61,
+        "pe_10": 117.02,
+        "pe_25": 147.5,
+        "pe_50": 229.1,
+        "pe_75": 263.3,
+        "pe_90": 296.56
       },
       {
         "date": "2018-11-15",
         "price": 233.5,
-        "pe": 25.96,
-        "pe_10": 120.05,
-        "pe_25": 142.72,
-        "pe_50": 229.9,
-        "pe_75": 263.41,
-        "pe_90": 289.01
+        "pe": 25.9,
+        "pe_10": 116.94,
+        "pe_25": 147.4,
+        "pe_50": 228.95,
+        "pe_75": 263.12,
+        "pe_90": 296.36
       },
       {
         "date": "2018-12-16",
         "price": 210.5,
         "pe": 23.36,
-        "pe_10": 120.27,
-        "pe_25": 142.98,
-        "pe_50": 230.32,
-        "pe_75": 263.89,
-        "pe_90": 289.54
+        "pe_10": 116.88,
+        "pe_25": 147.33,
+        "pe_50": 228.84,
+        "pe_75": 262.99,
+        "pe_90": 296.21
       },
       {
         "date": "2019-01-16",
         "price": 228.5,
-        "pe": 25.01,
-        "pe_10": 121.94,
-        "pe_25": 144.97,
-        "pe_50": 233.52,
-        "pe_75": 267.56,
-        "pe_90": 293.56
+        "pe": 25.05,
+        "pe_10": 118.32,
+        "pe_25": 149.14,
+        "pe_50": 231.65,
+        "pe_75": 266.22,
+        "pe_90": 299.85
       },
       {
         "date": "2019-02-14",
         "price": 235.0,
-        "pe": 25.38,
-        "pe_10": 123.58,
-        "pe_25": 146.92,
-        "pe_50": 236.67,
-        "pe_75": 271.16,
-        "pe_90": 297.51
+        "pe": 25.46,
+        "pe_10": 119.72,
+        "pe_25": 150.91,
+        "pe_50": 234.4,
+        "pe_75": 269.38,
+        "pe_90": 303.41
       },
       {
         "date": "2019-03-16",
         "price": 256.0,
-        "pe": 27.28,
-        "pe_10": 125.25,
-        "pe_25": 148.9,
-        "pe_50": 239.86,
-        "pe_75": 274.82,
-        "pe_90": 301.52
+        "pe": 27.41,
+        "pe_10": 121.14,
+        "pe_25": 152.7,
+        "pe_50": 237.18,
+        "pe_75": 272.58,
+        "pe_90": 307.01
       },
       {
         "date": "2019-04-15",
         "price": 250.0,
-        "pe": 26.29,
-        "pe_10": 126.92,
-        "pe_25": 150.89,
-        "pe_50": 243.06,
-        "pe_75": 278.48,
-        "pe_90": 305.54
+        "pe": 26.34,
+        "pe_10": 123.11,
+        "pe_25": 155.18,
+        "pe_50": 241.03,
+        "pe_75": 277.0,
+        "pe_90": 312.0
       },
       {
         "date": "2019-05-16",
         "price": 265.0,
-        "pe": 27.5,
-        "pe_10": 128.62,
-        "pe_25": 152.91,
-        "pe_50": 246.31,
-        "pe_75": 282.2,
-        "pe_90": 309.63
+        "pe": 27.49,
+        "pe_10": 125.04,
+        "pe_25": 157.61,
+        "pe_50": 244.8,
+        "pe_75": 281.34,
+        "pe_90": 316.88
       },
       {
         "date": "2019-06-15",
         "price": 264.0,
-        "pe": 27.05,
-        "pe_10": 130.26,
-        "pe_25": 154.86,
-        "pe_50": 249.46,
-        "pe_75": 285.81,
-        "pe_90": 313.59
+        "pe": 26.97,
+        "pe_10": 126.97,
+        "pe_25": 160.04,
+        "pe_50": 248.58,
+        "pe_75": 285.68,
+        "pe_90": 321.77
       },
       {
         "date": "2019-07-16",
         "price": 263.0,
-        "pe": 26.61,
-        "pe_10": 131.92,
-        "pe_25": 156.83,
-        "pe_50": 252.62,
-        "pe_75": 289.44,
-        "pe_90": 317.57
+        "pe": 26.32,
+        "pe_10": 129.61,
+        "pe_25": 163.38,
+        "pe_50": 253.76,
+        "pe_75": 291.63,
+        "pe_90": 328.47
       },
       {
         "date": "2019-08-16",
         "price": 267.0,
-        "pe": 26.67,
-        "pe_10": 133.62,
-        "pe_25": 158.85,
-        "pe_50": 255.89,
-        "pe_75": 293.18,
-        "pe_90": 321.67
+        "pe": 26.19,
+        "pe_10": 132.24,
+        "pe_25": 166.68,
+        "pe_50": 258.9,
+        "pe_75": 297.53,
+        "pe_90": 335.12
       },
       {
         "date": "2019-09-15",
         "price": 273.0,
-        "pe": 26.94,
-        "pe_10": 135.25,
-        "pe_25": 160.8,
-        "pe_50": 259.02,
-        "pe_75": 296.76,
-        "pe_90": 325.6
+        "pe": 26.25,
+        "pe_10": 134.9,
+        "pe_25": 170.04,
+        "pe_50": 264.11,
+        "pe_75": 303.52,
+        "pe_90": 341.87
       },
       {
         "date": "2019-10-16",
         "price": 301.5,
-        "pe": 29.39,
-        "pe_10": 136.92,
-        "pe_25": 162.78,
-        "pe_50": 262.21,
-        "pe_75": 300.42,
-        "pe_90": 329.62
+        "pe": 28.89,
+        "pe_10": 135.37,
+        "pe_25": 170.63,
+        "pe_50": 265.03,
+        "pe_75": 304.58,
+        "pe_90": 343.06
       },
       {
         "date": "2019-11-15",
         "price": 299.5,
-        "pe": 28.84,
-        "pe_10": 138.61,
-        "pe_25": 164.78,
-        "pe_50": 265.44,
-        "pe_75": 304.12,
-        "pe_90": 333.68
+        "pe": 28.6,
+        "pe_10": 135.83,
+        "pe_25": 171.22,
+        "pe_50": 265.94,
+        "pe_75": 305.63,
+        "pe_90": 344.24
       },
       {
         "date": "2019-12-16",
         "price": 302.0,
         "pe": 28.73,
-        "pe_10": 140.3,
-        "pe_25": 166.79,
-        "pe_50": 268.68,
-        "pe_75": 307.83,
-        "pe_90": 337.75
+        "pe_10": 136.35,
+        "pe_25": 171.87,
+        "pe_50": 266.94,
+        "pe_75": 306.78,
+        "pe_90": 345.54
       },
       {
         "date": "2020-01-16",
         "price": 291.0,
-        "pe": 27.93,
-        "pe_10": 139.06,
-        "pe_25": 165.32,
-        "pe_50": 266.31,
-        "pe_75": 305.12,
-        "pe_90": 334.77
+        "pe": 28.1,
+        "pe_10": 134.33,
+        "pe_25": 169.32,
+        "pe_50": 262.99,
+        "pe_75": 302.24,
+        "pe_90": 340.42
       },
       {
         "date": "2020-02-15",
         "price": 294.5,
-        "pe": 28.52,
-        "pe_10": 137.82,
-        "pe_25": 163.85,
-        "pe_50": 263.93,
-        "pe_75": 302.4,
-        "pe_90": 331.79
+        "pe": 28.86,
+        "pe_10": 132.36,
+        "pe_25": 166.84,
+        "pe_50": 259.14,
+        "pe_75": 297.82,
+        "pe_90": 335.44
       },
       {
         "date": "2020-03-16",
         "price": 249.5,
-        "pe": 24.38,
-        "pe_10": 136.59,
-        "pe_25": 162.38,
-        "pe_50": 261.58,
-        "pe_75": 299.7,
-        "pe_90": 328.82
+        "pe": 24.83,
+        "pe_10": 130.34,
+        "pe_25": 164.29,
+        "pe_50": 255.18,
+        "pe_75": 293.26,
+        "pe_90": 330.31
       },
       {
         "date": "2020-04-15",
         "price": 284.0,
-        "pe": 28.01,
-        "pe_10": 135.33,
-        "pe_25": 160.88,
-        "pe_50": 259.16,
-        "pe_75": 296.93,
-        "pe_90": 325.78
+        "pe": 27.73,
+        "pe_10": 132.84,
+        "pe_25": 167.45,
+        "pe_50": 260.09,
+        "pe_75": 298.9,
+        "pe_90": 336.66
       },
       {
         "date": "2020-05-16",
         "price": 297.0,
-        "pe": 29.56,
-        "pe_10": 134.1,
-        "pe_25": 159.43,
-        "pe_50": 256.81,
-        "pe_75": 294.24,
-        "pe_90": 322.83
+        "pe": 28.46,
+        "pe_10": 135.36,
+        "pe_25": 170.62,
+        "pe_50": 265.01,
+        "pe_75": 304.57,
+        "pe_90": 343.04
       },
       {
         "date": "2020-06-15",
         "price": 295.5,
-        "pe": 29.68,
-        "pe_10": 132.89,
-        "pe_25": 157.98,
-        "pe_50": 254.48,
-        "pe_75": 291.57,
-        "pe_90": 319.9
+        "pe": 27.8,
+        "pe_10": 137.88,
+        "pe_25": 173.79,
+        "pe_50": 269.94,
+        "pe_75": 310.22,
+        "pe_90": 349.41
       },
       {
         "date": "2020-07-16",
         "price": 309.0,
-        "pe": 31.33,
-        "pe_10": 131.64,
-        "pe_25": 156.5,
-        "pe_50": 252.09,
-        "pe_75": 288.83,
-        "pe_90": 316.9
+        "pe": 30.22,
+        "pe_10": 132.63,
+        "pe_25": 167.18,
+        "pe_50": 259.66,
+        "pe_75": 298.42,
+        "pe_90": 336.12
       },
       {
         "date": "2020-08-16",
         "price": 303.5,
-        "pe": 31.06,
-        "pe_10": 130.42,
-        "pe_25": 155.05,
-        "pe_50": 249.76,
-        "pe_75": 286.16,
-        "pe_90": 313.97
+        "pe": 30.92,
+        "pe_10": 127.32,
+        "pe_25": 160.49,
+        "pe_50": 249.27,
+        "pe_75": 286.47,
+        "pe_90": 322.66
       },
       {
         "date": "2020-09-15",
         "price": 291.0,
-        "pe": 30.07,
-        "pe_10": 129.16,
-        "pe_25": 153.56,
-        "pe_50": 247.35,
-        "pe_75": 283.4,
-        "pe_90": 310.95
+        "pe": 30.92,
+        "pe_10": 122.08,
+        "pe_25": 153.88,
+        "pe_50": 239.0,
+        "pe_75": 274.67,
+        "pe_90": 309.37
       },
       {
         "date": "2020-10-16",
         "price": 289.0,
-        "pe": 30.15,
-        "pe_10": 127.94,
-        "pe_25": 152.1,
-        "pe_50": 245.0,
-        "pe_75": 280.71,
-        "pe_90": 307.99
+        "pe": 30.72,
+        "pe_10": 122.03,
+        "pe_25": 153.81,
+        "pe_50": 238.9,
+        "pe_75": 274.56,
+        "pe_90": 309.25
       },
       {
         "date": "2020-11-15",
         "price": 307.0,
-        "pe": 32.34,
-        "pe_10": 126.7,
-        "pe_25": 150.63,
-        "pe_50": 242.64,
-        "pe_75": 278.0,
-        "pe_90": 305.02
+        "pe": 32.65,
+        "pe_10": 121.96,
+        "pe_25": 153.74,
+        "pe_50": 238.78,
+        "pe_75": 274.42,
+        "pe_90": 309.09
       },
       {
         "date": "2020-12-16",
         "price": 350.0,
         "pe": 37.23,
-        "pe_10": 125.48,
-        "pe_25": 149.17,
-        "pe_50": 240.29,
-        "pe_75": 275.31,
-        "pe_90": 302.06
+        "pe_10": 121.94,
+        "pe_25": 153.71,
+        "pe_50": 238.74,
+        "pe_75": 274.37,
+        "pe_90": 309.03
       },
       {
         "date": "2021-01-16",
         "price": 346.0,
-        "pe": 36.4,
-        "pe_10": 126.87,
-        "pe_25": 150.83,
-        "pe_50": 242.96,
-        "pe_75": 278.37,
-        "pe_90": 305.42
+        "pe": 35.79,
+        "pe_10": 125.4,
+        "pe_25": 158.06,
+        "pe_50": 245.51,
+        "pe_75": 282.15,
+        "pe_90": 317.79
       },
       {
         "date": "2021-02-14",
         "price": 362.5,
-        "pe": 37.71,
-        "pe_10": 128.3,
-        "pe_25": 152.53,
-        "pe_50": 245.7,
-        "pe_75": 281.51,
-        "pe_90": 308.87
+        "pe": 36.49,
+        "pe_10": 128.86,
+        "pe_25": 162.42,
+        "pe_50": 252.28,
+        "pe_75": 289.93,
+        "pe_90": 326.56
       },
       {
         "date": "2021-03-16",
         "price": 354.0,
-        "pe": 36.43,
-        "pe_10": 129.7,
-        "pe_25": 154.19,
-        "pe_50": 248.37,
-        "pe_75": 284.57,
-        "pe_90": 312.23
+        "pe": 34.71,
+        "pe_10": 132.29,
+        "pe_25": 166.75,
+        "pe_50": 259.0,
+        "pe_75": 297.65,
+        "pe_90": 335.25
       },
       {
         "date": "2021-04-15",
         "price": 356.0,
-        "pe": 36.24,
-        "pe_10": 131.11,
-        "pe_25": 155.87,
-        "pe_50": 251.09,
-        "pe_75": 287.68,
-        "pe_90": 315.64
+        "pe": 35.71,
+        "pe_10": 129.31,
+        "pe_25": 163.0,
+        "pe_50": 253.17,
+        "pe_75": 290.95,
+        "pe_90": 327.71
       },
       {
         "date": "2021-05-16",
         "price": 329.5,
-        "pe": 33.19,
-        "pe_10": 132.5,
-        "pe_25": 157.53,
-        "pe_50": 253.75,
-        "pe_75": 290.73,
-        "pe_90": 318.99
+        "pe": 33.83,
+        "pe_10": 126.34,
+        "pe_25": 159.25,
+        "pe_50": 247.34,
+        "pe_75": 284.26,
+        "pe_90": 320.17
       },
       {
         "date": "2021-06-15",
         "price": 345.0,
-        "pe": 34.38,
-        "pe_10": 133.94,
-        "pe_25": 159.23,
-        "pe_50": 256.49,
-        "pe_75": 293.87,
-        "pe_90": 322.43
+        "pe": 36.28,
+        "pe_10": 123.35,
+        "pe_25": 155.48,
+        "pe_50": 241.49,
+        "pe_75": 277.53,
+        "pe_90": 312.59
       },
       {
         "date": "2021-07-16",
         "price": 364.0,
-        "pe": 35.89,
-        "pe_10": 135.37,
-        "pe_25": 160.93,
-        "pe_50": 259.23,
-        "pe_75": 297.01,
-        "pe_90": 325.88
+        "pe": 37.69,
+        "pe_10": 125.27,
+        "pe_25": 157.9,
+        "pe_50": 245.26,
+        "pe_75": 281.86,
+        "pe_90": 317.47
       },
       {
         "date": "2021-08-16",
         "price": 386.0,
-        "pe": 37.67,
-        "pe_10": 136.77,
-        "pe_25": 162.59,
-        "pe_50": 261.91,
-        "pe_75": 300.08,
-        "pe_90": 329.24
+        "pe": 39.37,
+        "pe_10": 127.17,
+        "pe_25": 160.3,
+        "pe_50": 248.98,
+        "pe_75": 286.14,
+        "pe_90": 322.29
       },
       {
         "date": "2021-09-15",
         "price": 365.0,
-        "pe": 35.26,
-        "pe_10": 138.16,
-        "pe_25": 164.26,
-        "pe_50": 264.59,
-        "pe_75": 303.15,
-        "pe_90": 332.61
+        "pe": 36.68,
+        "pe_10": 129.07,
+        "pe_25": 162.7,
+        "pe_50": 252.7,
+        "pe_75": 290.42,
+        "pe_90": 327.11
       },
       {
         "date": "2021-10-16",
         "price": 363.0,
-        "pe": 34.71,
-        "pe_10": 139.58,
-        "pe_25": 165.94,
-        "pe_50": 267.31,
-        "pe_75": 306.26,
-        "pe_90": 336.03
+        "pe": 35.62,
+        "pe_10": 132.19,
+        "pe_25": 166.62,
+        "pe_50": 258.8,
+        "pe_75": 297.42,
+        "pe_90": 335.0
       },
       {
         "date": "2021-11-15",
         "price": 382.0,
-        "pe": 36.16,
-        "pe_10": 141.0,
-        "pe_25": 167.63,
-        "pe_50": 270.02,
-        "pe_75": 309.37,
-        "pe_90": 339.44
+        "pe": 36.63,
+        "pe_10": 135.27,
+        "pe_25": 170.51,
+        "pe_50": 264.83,
+        "pe_75": 304.36,
+        "pe_90": 342.81
       },
       {
         "date": "2021-12-16",
         "price": 396.5,
         "pe": 37.16,
-        "pe_10": 142.41,
-        "pe_25": 169.31,
-        "pe_50": 272.73,
-        "pe_75": 312.47,
-        "pe_90": 342.84
+        "pe_10": 138.4,
+        "pe_25": 174.46,
+        "pe_50": 270.97,
+        "pe_75": 311.41,
+        "pe_90": 350.75
       },
       {
         "date": "2022-01-16",
         "price": 380.5,
-        "pe": 34.8,
-        "pe_10": 145.93,
-        "pe_25": 173.49,
-        "pe_50": 279.47,
-        "pe_75": 320.2,
-        "pe_90": 351.32
+        "pe": 34.76,
+        "pe_10": 141.99,
+        "pe_25": 178.98,
+        "pe_50": 277.99,
+        "pe_75": 319.47,
+        "pe_90": 359.83
       },
       {
         "date": "2022-02-14",
         "price": 366.5,
-        "pe": 32.72,
-        "pe_10": 149.5,
-        "pe_25": 177.73,
-        "pe_50": 286.3,
-        "pe_75": 328.02,
-        "pe_90": 359.9
+        "pe": 32.66,
+        "pe_10": 145.56,
+        "pe_25": 183.47,
+        "pe_50": 284.97,
+        "pe_75": 327.5,
+        "pe_90": 368.88
       },
       {
         "date": "2022-03-16",
         "price": 369.5,
-        "pe": 32.23,
-        "pe_10": 153.02,
-        "pe_25": 181.91,
-        "pe_50": 293.03,
-        "pe_75": 335.74,
-        "pe_90": 368.37
+        "pe": 32.13,
+        "pe_10": 149.17,
+        "pe_25": 188.03,
+        "pe_50": 292.05,
+        "pe_75": 335.63,
+        "pe_90": 378.03
       },
       {
         "date": "2022-04-15",
         "price": 369.5,
-        "pe": 31.5,
-        "pe_10": 156.56,
-        "pe_25": 186.13,
-        "pe_50": 299.82,
-        "pe_75": 343.52,
-        "pe_90": 376.9
+        "pe": 31.35,
+        "pe_10": 152.88,
+        "pe_25": 192.71,
+        "pe_50": 299.31,
+        "pe_75": 343.98,
+        "pe_90": 387.44
       },
       {
         "date": "2022-05-16",
         "price": 361.0,
-        "pe": 30.1,
-        "pe_10": 160.08,
-        "pe_25": 190.3,
-        "pe_50": 306.55,
-        "pe_75": 351.23,
-        "pe_90": 385.36
+        "pe": 29.9,
+        "pe_10": 156.61,
+        "pe_25": 197.4,
+        "pe_50": 306.61,
+        "pe_75": 352.37,
+        "pe_90": 396.88
       },
       {
         "date": "2022-06-15",
         "price": 346.0,
-        "pe": 28.22,
-        "pe_10": 163.65,
-        "pe_25": 194.55,
-        "pe_50": 313.39,
-        "pe_75": 359.06,
-        "pe_90": 393.95
+        "pe": 27.99,
+        "pe_10": 160.34,
+        "pe_25": 202.11,
+        "pe_50": 313.92,
+        "pe_75": 360.77,
+        "pe_90": 406.35
       },
       {
         "date": "2022-07-16",
         "price": 342.5,
-        "pe": 27.35,
-        "pe_10": 167.14,
-        "pe_25": 198.71,
-        "pe_50": 320.08,
-        "pe_75": 366.73,
-        "pe_90": 402.37
+        "pe": 26.87,
+        "pe_10": 165.34,
+        "pe_25": 208.41,
+        "pe_50": 323.7,
+        "pe_75": 372.01,
+        "pe_90": 419.0
       },
       {
         "date": "2022-08-16",
         "price": 327.5,
-        "pe": 25.61,
-        "pe_10": 170.68,
-        "pe_25": 202.91,
-        "pe_50": 326.86,
-        "pe_75": 374.5,
-        "pe_90": 410.89
+        "pe": 24.94,
+        "pe_10": 170.33,
+        "pe_25": 214.7,
+        "pe_50": 333.47,
+        "pe_75": 383.24,
+        "pe_90": 431.66
       },
       {
         "date": "2022-09-15",
         "price": 293.5,
-        "pe": 22.48,
-        "pe_10": 174.26,
-        "pe_25": 207.17,
-        "pe_50": 333.71,
-        "pe_75": 382.35,
-        "pe_90": 419.5
+        "pe": 21.71,
+        "pe_10": 175.36,
+        "pe_25": 221.04,
+        "pe_50": 343.32,
+        "pe_75": 394.56,
+        "pe_90": 444.4
       },
       {
         "date": "2022-10-16",
         "price": 293.0,
-        "pe": 22.0,
-        "pe_10": 177.76,
-        "pe_25": 211.33,
-        "pe_50": 340.41,
-        "pe_75": 390.02,
-        "pe_90": 427.93
+        "pe": 21.5,
+        "pe_10": 176.77,
+        "pe_25": 222.82,
+        "pe_50": 346.08,
+        "pe_75": 397.73,
+        "pe_90": 447.98
       },
       {
         "date": "2022-11-15",
         "price": 333.0,
-        "pe": 24.51,
-        "pe_10": 181.34,
-        "pe_25": 215.58,
-        "pe_50": 347.27,
-        "pe_75": 397.87,
-        "pe_90": 436.54
+        "pe": 24.24,
+        "pe_10": 178.19,
+        "pe_25": 224.61,
+        "pe_50": 348.87,
+        "pe_75": 400.93,
+        "pe_90": 451.58
       },
       {
         "date": "2022-12-16",
         "price": 331.0,
         "pe": 23.9,
-        "pe_10": 184.85,
-        "pe_25": 219.75,
-        "pe_50": 353.99,
-        "pe_75": 405.58,
-        "pe_90": 444.99
+        "pe_10": 179.64,
+        "pe_25": 226.44,
+        "pe_50": 351.7,
+        "pe_75": 404.19,
+        "pe_90": 455.26
       },
       {
         "date": "2023-01-16",
         "price": 341.0,
-        "pe": 24.8,
-        "pe_10": 183.52,
-        "pe_25": 218.18,
-        "pe_50": 351.45,
-        "pe_75": 402.67,
-        "pe_90": 441.8
+        "pe": 24.35,
+        "pe_10": 181.65,
+        "pe_25": 228.97,
+        "pe_50": 355.63,
+        "pe_75": 408.71,
+        "pe_90": 460.34
       },
       {
         "date": "2023-02-14",
         "price": 357.0,
-        "pe": 26.15,
-        "pe_10": 182.21,
-        "pe_25": 216.62,
-        "pe_50": 348.95,
-        "pe_75": 399.8,
-        "pe_90": 438.65
+        "pe": 25.22,
+        "pe_10": 183.61,
+        "pe_25": 231.44,
+        "pe_50": 359.48,
+        "pe_75": 413.13,
+        "pe_90": 465.32
       },
       {
         "date": "2023-03-16",
         "price": 371.0,
-        "pe": 27.38,
-        "pe_10": 180.85,
-        "pe_25": 215.01,
-        "pe_50": 346.34,
-        "pe_75": 396.81,
-        "pe_90": 435.38
+        "pe": 25.93,
+        "pe_10": 185.59,
+        "pe_25": 233.93,
+        "pe_50": 363.35,
+        "pe_75": 417.57,
+        "pe_90": 470.32
       },
       {
         "date": "2023-04-15",
         "price": 371.0,
-        "pe": 27.58,
-        "pe_10": 179.54,
-        "pe_25": 213.45,
-        "pe_50": 343.83,
-        "pe_75": 393.94,
-        "pe_90": 432.22
+        "pe": 26.32,
+        "pe_10": 182.84,
+        "pe_25": 230.47,
+        "pe_50": 357.96,
+        "pe_75": 411.38,
+        "pe_90": 463.36
       },
       {
         "date": "2023-05-16",
         "price": 407.0,
-        "pe": 30.49,
-        "pe_10": 178.16,
-        "pe_25": 211.81,
-        "pe_50": 341.19,
-        "pe_75": 390.91,
-        "pe_90": 428.91
+        "pe": 29.33,
+        "pe_10": 179.99,
+        "pe_25": 226.88,
+        "pe_50": 352.4,
+        "pe_75": 404.99,
+        "pe_90": 456.15
       },
       {
         "date": "2023-06-15",
         "price": 409.5,
-        "pe": 30.91,
-        "pe_10": 176.82,
-        "pe_25": 210.21,
-        "pe_50": 338.62,
-        "pe_75": 387.97,
-        "pe_90": 425.68
+        "pe": 29.98,
+        "pe_10": 177.17,
+        "pe_25": 223.33,
+        "pe_50": 346.87,
+        "pe_75": 398.64,
+        "pe_90": 449.0
       },
       {
         "date": "2023-07-16",
         "price": 391.5,
-        "pe": 29.77,
-        "pe_10": 175.52,
-        "pe_25": 208.67,
-        "pe_50": 336.14,
-        "pe_75": 385.12,
-        "pe_90": 422.55
+        "pe": 29.17,
+        "pe_10": 174.09,
+        "pe_25": 219.44,
+        "pe_50": 340.83,
+        "pe_75": 391.7,
+        "pe_90": 441.19
       },
       {
         "date": "2023-08-16",
         "price": 344.0,
-        "pe": 26.36,
-        "pe_10": 174.18,
-        "pe_25": 207.07,
-        "pe_50": 333.56,
-        "pe_75": 382.17,
-        "pe_90": 419.31
+        "pe": 26.09,
+        "pe_10": 171.02,
+        "pe_25": 215.58,
+        "pe_50": 334.84,
+        "pe_75": 384.81,
+        "pe_90": 433.42
       },
       {
         "date": "2023-09-15",
         "price": 345.0,
         "pe": 26.64,
-        "pe_10": 172.85,
-        "pe_25": 205.49,
-        "pe_50": 331.01,
-        "pe_75": 379.25,
-        "pe_90": 416.11
+        "pe_10": 167.98,
+        "pe_25": 211.74,
+        "pe_50": 328.88,
+        "pe_75": 377.96,
+        "pe_90": 425.71
       },
       {
         "date": "2023-10-16",
         "price": 331.5,
         "pe": 25.8,
-        "pe_10": 171.49,
-        "pe_25": 203.88,
-        "pe_50": 328.42,
-        "pe_75": 376.28,
-        "pe_90": 412.85
+        "pe_10": 166.66,
+        "pe_25": 210.08,
+        "pe_50": 326.3,
+        "pe_75": 374.99,
+        "pe_90": 422.37
       },
       {
         "date": "2023-11-15",
         "price": 353.5,
         "pe": 27.73,
-        "pe_10": 170.15,
-        "pe_25": 202.28,
-        "pe_50": 325.84,
-        "pe_75": 373.32,
-        "pe_90": 409.6
+        "pe_10": 165.35,
+        "pe_25": 208.43,
+        "pe_50": 323.73,
+        "pe_75": 372.05,
+        "pe_90": 419.05
       },
       {
         "date": "2023-12-16",
         "price": 372.0,
         "pe": 29.41,
-        "pe_10": 168.82,
-        "pe_25": 200.7,
-        "pe_50": 323.3,
-        "pe_75": 370.42,
-        "pe_90": 406.42
+        "pe_10": 164.07,
+        "pe_25": 206.81,
+        "pe_50": 321.22,
+        "pe_75": 369.15,
+        "pe_90": 415.79
       },
       {
         "date": "2024-01-16",
         "price": 337.5,
-        "pe": 27.07,
-        "pe_10": 166.41,
-        "pe_25": 197.83,
-        "pe_50": 318.67,
-        "pe_75": 365.12,
-        "pe_90": 400.6
+        "pe": 27.52,
+        "pe_10": 159.07,
+        "pe_25": 200.51,
+        "pe_50": 311.44,
+        "pe_75": 357.92,
+        "pe_90": 403.14
       },
       {
         "date": "2024-02-15",
         "price": 390.0,
-        "pe": 31.75,
-        "pe_10": 163.95,
-        "pe_25": 194.91,
-        "pe_50": 313.97,
-        "pe_75": 359.72,
-        "pe_90": 394.68
+        "pe": 32.84,
+        "pe_10": 154.04,
+        "pe_25": 194.17,
+        "pe_50": 301.58,
+        "pe_75": 346.59,
+        "pe_90": 390.38
       },
       {
         "date": "2024-03-16",
         "price": 404.0,
-        "pe": 33.39,
-        "pe_10": 161.49,
-        "pe_25": 191.99,
-        "pe_50": 309.26,
-        "pe_75": 354.33,
-        "pe_90": 388.77
+        "pe": 35.16,
+        "pe_10": 149.04,
+        "pe_25": 187.87,
+        "pe_50": 291.8,
+        "pe_75": 335.35,
+        "pe_90": 377.71
       },
       {
         "date": "2024-04-15",
         "price": 380.0,
-        "pe": 31.89,
-        "pe_10": 159.04,
-        "pe_25": 189.08,
-        "pe_50": 304.57,
-        "pe_75": 348.96,
-        "pe_90": 382.87
+        "pe": 34.1,
+        "pe_10": 144.54,
+        "pe_25": 182.2,
+        "pe_50": 282.99,
+        "pe_75": 325.23,
+        "pe_90": 366.32
       },
       {
         "date": "2024-05-16",
         "price": 353.0,
-        "pe": 30.09,
-        "pe_10": 156.58,
-        "pe_25": 186.15,
-        "pe_50": 299.86,
-        "pe_75": 343.56,
-        "pe_90": 376.94
+        "pe": 32.7,
+        "pe_10": 140.02,
+        "pe_25": 176.5,
+        "pe_50": 274.14,
+        "pe_75": 315.06,
+        "pe_90": 354.86
       },
       {
         "date": "2024-06-15",
         "price": 370.0,
-        "pe": 32.03,
-        "pe_10": 154.18,
-        "pe_25": 183.3,
-        "pe_50": 295.26,
-        "pe_75": 338.29,
-        "pe_90": 371.17
+        "pe": 35.41,
+        "pe_10": 135.53,
+        "pe_25": 170.84,
+        "pe_50": 265.35,
+        "pe_75": 304.95,
+        "pe_90": 343.48
       },
       {
         "date": "2024-07-16",
         "price": 346.5,
-        "pe": 30.48,
-        "pe_10": 151.73,
-        "pe_25": 180.38,
-        "pe_50": 290.57,
-        "pe_75": 332.92,
-        "pe_90": 365.27
+        "pe": 33.59,
+        "pe_10": 133.8,
+        "pe_25": 168.66,
+        "pe_50": 261.96,
+        "pe_75": 301.06,
+        "pe_90": 339.09
       },
       {
         "date": "2024-08-16",
         "price": 349.0,
-        "pe": 31.21,
-        "pe_10": 149.25,
-        "pe_25": 177.44,
-        "pe_50": 285.82,
-        "pe_75": 327.47,
-        "pe_90": 359.3
+        "pe": 34.27,
+        "pe_10": 132.09,
+        "pe_25": 166.51,
+        "pe_50": 258.62,
+        "pe_75": 297.22,
+        "pe_90": 334.76
       },
       {
         "date": "2024-09-15",
         "price": 321.5,
-        "pe": 29.23,
-        "pe_10": 146.8,
-        "pe_25": 174.53,
-        "pe_50": 281.13,
-        "pe_75": 322.1,
-        "pe_90": 353.41
+        "pe": 31.99,
+        "pe_10": 130.36,
+        "pe_25": 164.32,
+        "pe_50": 255.22,
+        "pe_75": 293.31,
+        "pe_90": 330.36
       },
       {
         "date": "2024-10-16",
         "price": 320.0,
-        "pe": 29.58,
-        "pe_10": 144.39,
-        "pe_25": 171.66,
-        "pe_50": 276.51,
-        "pe_75": 316.81,
-        "pe_90": 347.6
+        "pe": 31.42,
+        "pe_10": 132.1,
+        "pe_25": 166.52,
+        "pe_50": 258.64,
+        "pe_75": 297.24,
+        "pe_90": 334.79
       },
       {
         "date": "2024-11-15",
         "price": 335.5,
-        "pe": 31.55,
-        "pe_10": 141.93,
-        "pe_25": 168.73,
-        "pe_50": 271.8,
-        "pe_75": 311.41,
-        "pe_90": 341.68
+        "pe": 32.52,
+        "pe_10": 133.82,
+        "pe_25": 168.68,
+        "pe_50": 261.99,
+        "pe_75": 301.09,
+        "pe_90": 339.13
       },
       {
         "date": "2024-12-16",
         "price": 346.5,
         "pe": 33.16,
-        "pe_10": 139.47,
-        "pe_25": 165.8,
-        "pe_50": 267.09,
-        "pe_75": 306.01,
-        "pe_90": 335.75
+        "pe_10": 135.54,
+        "pe_25": 170.85,
+        "pe_50": 265.36,
+        "pe_75": 304.96,
+        "pe_90": 343.49
       },
       {
         "date": "2025-01-16",
         "price": 379.0,
-        "pe": 35.75,
-        "pe_10": 141.5,
-        "pe_25": 168.22,
-        "pe_50": 270.97,
-        "pe_75": 310.46,
-        "pe_90": 340.63
+        "pe": 35.31,
+        "pe_10": 139.22,
+        "pe_25": 175.49,
+        "pe_50": 272.58,
+        "pe_75": 313.26,
+        "pe_90": 352.83
       },
       {
         "date": "2025-02-14",
         "price": 406.0,
-        "pe": 37.77,
-        "pe_10": 143.47,
-        "pe_25": 170.56,
-        "pe_50": 274.75,
-        "pe_75": 314.79,
-        "pe_90": 345.38
+        "pe": 36.85,
+        "pe_10": 142.91,
+        "pe_25": 180.14,
+        "pe_50": 279.79,
+        "pe_75": 321.55,
+        "pe_90": 362.17
       },
       {
         "date": "2025-03-16",
         "price": 375.0,
-        "pe": 34.4,
-        "pe_10": 145.5,
-        "pe_25": 172.97,
-        "pe_50": 278.63,
-        "pe_75": 319.24,
-        "pe_90": 350.27
+        "pe": 33.19,
+        "pe_10": 146.55,
+        "pe_25": 184.73,
+        "pe_50": 286.93,
+        "pe_75": 329.75,
+        "pe_90": 371.41
       },
       {
         "date": "2025-04-15",
         "price": 337.0,
-        "pe": 30.5,
-        "pe_10": 147.47,
-        "pe_25": 175.32,
-        "pe_50": 282.42,
-        "pe_75": 323.58,
-        "pe_90": 355.02
+        "pe": 29.96,
+        "pe_10": 145.9,
+        "pe_25": 183.91,
+        "pe_50": 285.65,
+        "pe_75": 328.28,
+        "pe_90": 369.76
       },
       {
         "date": "2025-05-16",
         "price": 342.0,
-        "pe": 30.54,
-        "pe_10": 149.47,
-        "pe_25": 177.69,
-        "pe_50": 286.23,
-        "pe_75": 327.95,
-        "pe_90": 359.82
+        "pe": 30.55,
+        "pe_10": 145.21,
+        "pe_25": 183.03,
+        "pe_50": 284.29,
+        "pe_75": 326.72,
+        "pe_90": 367.99
       },
       {
         "date": "2025-06-15",
         "price": 340.0,
-        "pe": 29.96,
-        "pe_10": 151.47,
-        "pe_25": 180.07,
-        "pe_50": 290.07,
-        "pe_75": 332.34,
-        "pe_90": 364.64
+        "pe": 30.52,
+        "pe_10": 144.5,
+        "pe_25": 182.14,
+        "pe_50": 282.91,
+        "pe_75": 325.13,
+        "pe_90": 366.2
       },
       {
         "date": "2025-07-16",
         "price": 335.5,
-        "pe": 29.17,
-        "pe_10": 153.51,
-        "pe_25": 182.5,
-        "pe_50": 293.98,
-        "pe_75": 336.82,
-        "pe_90": 369.56
+        "pe": 29.59,
+        "pe_10": 147.07,
+        "pe_25": 185.38,
+        "pe_50": 287.94,
+        "pe_75": 330.91,
+        "pe_90": 372.71
       },
       {
         "date": "2025-08-16",
         "price": 344.0,
-        "pe": 29.53,
-        "pe_10": 155.48,
-        "pe_25": 184.84,
-        "pe_50": 297.75,
-        "pe_75": 341.15,
-        "pe_90": 374.3
+        "pe": 29.83,
+        "pe_10": 149.58,
+        "pe_25": 188.55,
+        "pe_50": 292.86,
+        "pe_75": 336.56,
+        "pe_90": 379.08
       },
       {
         "date": "2025-09-15",
         "price": 319.0,
-        "pe": 27.03,
-        "pe_10": 157.52,
-        "pe_25": 187.26,
-        "pe_50": 301.65,
-        "pe_75": 345.61,
-        "pe_90": 379.2
+        "pe": 27.2,
+        "pe_10": 152.12,
+        "pe_25": 191.75,
+        "pe_50": 297.83,
+        "pe_75": 342.28,
+        "pe_90": 385.52
       },
       {
         "date": "2025-10-16",
         "price": 313.5,
-        "pe": 26.23,
-        "pe_10": 159.52,
-        "pe_25": 189.65,
-        "pe_50": 305.49,
-        "pe_75": 350.01,
-        "pe_90": 384.03
+        "pe": 26.34,
+        "pe_10": 154.38,
+        "pe_25": 194.6,
+        "pe_50": 302.25,
+        "pe_75": 347.36,
+        "pe_90": 391.24
       },
       {
         "date": "2025-11-15",
         "price": 288.0,
-        "pe": 23.8,
-        "pe_10": 161.51,
-        "pe_25": 192.01,
-        "pe_50": 309.3,
-        "pe_75": 354.37,
-        "pe_90": 388.81
+        "pe": 23.85,
+        "pe_10": 156.63,
+        "pe_25": 197.43,
+        "pe_50": 306.66,
+        "pe_75": 352.42,
+        "pe_90": 396.94
       },
       {
         "date": "2025-12-16",
         "price": 288.0,
         "pe": 23.51,
-        "pe_10": 163.5,
-        "pe_25": 194.38,
-        "pe_50": 313.11,
-        "pe_75": 358.74,
-        "pe_90": 393.61
+        "pe_10": 158.9,
+        "pe_25": 200.29,
+        "pe_50": 311.09,
+        "pe_75": 357.52,
+        "pe_90": 402.69
       },
       {
         "date": "2026-01-16",
         "price": 299.5,
         "pe": 24.45,
-        "pe_10": 163.49,
-        "pe_25": 194.37,
-        "pe_50": 313.1,
-        "pe_75": 358.73,
-        "pe_90": 393.59
+        "pe_10": 158.89,
+        "pe_25": 200.28,
+        "pe_50": 311.08,
+        "pe_75": 357.5,
+        "pe_90": 402.67
       },
       {
         "date": "2026-02-14",
         "price": 336.5,
         "pe": 27.47,
-        "pe_10": 163.5,
-        "pe_25": 194.37,
-        "pe_50": 313.1,
-        "pe_75": 358.73,
-        "pe_90": 393.6
+        "pe_10": 158.89,
+        "pe_25": 200.28,
+        "pe_50": 311.08,
+        "pe_75": 357.51,
+        "pe_90": 402.67
       }
     ]
   },
@@ -20038,19 +20038,19 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (13.3倍)",
+            "title": "PE 10% (13.0倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (25.6倍)",
+            "title": "PE 50% (25.4倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (32.1倍)",
+            "title": "PE 90% (32.9倍)",
             "format": ".1f"
           }
         ]
@@ -20962,6 +20962,10 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
       {
         "date": "2026-01-16",
         "revenue_yoy": 23.1
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 6.26
       }
     ]
   },
@@ -21029,16 +21033,16 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 23.5 | +22.5% | 0.058 | 2009-06 (+233.9%) | 2008-07 (-75.7%) |
-| 6個月 | 23.5 | +15.9% | 0.074 | 2009-06 (+158.3%) | 2008-07 (-60.7%) |
-| 1年 | 23.3 | +13.0% | 0.091 | 2012-10 (+91.6%) | 2007-10 (-42.6%) |
-| 2年 | 22.8 | +12.6% | 0.153 | 2012-08 (+67.2%) | 2007-02 (-33.6%) |
-| 3年 | 22.5 | +13.2% | 0.257 | 2011-08 (+52.4%) | 2006-07 (-15.4%) |
-| 4年 | 22.2 | +13.7% | 0.393 | 2010-06 (+42.5%) | 2021-12 (-4.9%) |
-| 5年 | 21.4 | +14.0% | 0.447 | 2009-06 (+42.7%) | 2006-12 (-2.6%) |
-| 6年 | 20.6 | +14.1% | 0.545 | 2009-01 (+36.2%) | 2019-12 (+1.9%) |
-| 8年 | 19.8 | +13.5% | 0.805 | 2009-01 (+28.3%) | 2014-08 (+3.9%) |
-| 10年 | 18.2 | +13.1% | 0.735 | 2008-11 (+21.2%) | 2014-08 (+4.2%) |
+| 3個月 | 23.6 | +22.5% | 0.056 | 2009-06 (+233.9%) | 2008-07 (-75.7%) |
+| 6個月 | 23.6 | +15.9% | 0.068 | 2009-06 (+158.3%) | 2008-07 (-60.7%) |
+| 1年 | 23.4 | +13.0% | 0.087 | 2012-10 (+91.6%) | 2007-10 (-42.6%) |
+| 2年 | 22.8 | +12.6% | 0.146 | 2012-08 (+67.2%) | 2007-02 (-33.6%) |
+| 3年 | 22.5 | +13.2% | 0.255 | 2011-08 (+52.4%) | 2006-07 (-15.4%) |
+| 4年 | 22.3 | +13.7% | 0.385 | 2010-06 (+42.5%) | 2021-12 (-4.9%) |
+| 5年 | 21.4 | +14.0% | 0.438 | 2009-06 (+42.7%) | 2006-12 (-2.6%) |
+| 6年 | 20.6 | +14.1% | 0.540 | 2009-01 (+36.2%) | 2019-12 (+1.9%) |
+| 8年 | 19.9 | +13.5% | 0.803 | 2009-01 (+28.3%) | 2014-08 (+3.9%) |
+| 10年 | 18.3 | +13.1% | 0.720 | 2008-11 (+21.2%) | 2014-08 (+4.2%) |
 
 
 ## 🎯 使用說明
@@ -21057,4 +21061,4 @@ description: "2395 研華 (電腦及週邊設備業) 本益比與未來報酬率
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:30:35 CST*
+*數據更新時間: 2026-03-21 12:36:34 CST*

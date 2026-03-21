@@ -2,7 +2,7 @@
 title: "2412 中華電 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
     - **產業別**: 通信網路業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:30:57 CST
+    - **報告生成時間**: 2026-03-21 12:36:59 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 12.8,
         "forward_return": 17.57,
         "start_price": 61.2,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.91,
         "forward_return": 23.42,
         "start_price": 61.3,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.73,
         "forward_return": -10.78,
         "start_price": 60.0,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.5,
         "forward_return": 4.84,
         "start_price": 58.5,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.05,
         "forward_return": -20.02,
         "start_price": 60.3,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.84,
         "forward_return": 41.23,
         "start_price": 54.0,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 12.2,
         "forward_return": 48.66,
         "start_price": 54.9,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.31,
+        "pe_ratio": 12.55,
         "forward_return": 50.67,
         "start_price": 57.0,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 12.82,
         "forward_return": 30.04,
         "start_price": 58.8,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.43,
         "forward_return": -5.67,
         "start_price": 63.2,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.45,
+        "pe_ratio": 12.98,
         "forward_return": -0.65,
         "start_price": 62.1,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 13.19,
         "forward_return": -21.66,
         "start_price": 64.1,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 13.37,
         "forward_return": -23.22,
         "start_price": 63.1,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.54,
         "forward_return": 1.16,
         "start_price": 62.0,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.65,
+        "pe_ratio": 14.12,
         "forward_return": 12.44,
         "start_price": 62.7,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 56.22,
         "start_price": 55.5,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.96,
         "forward_return": 6.79,
         "start_price": 58.6,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.38,
         "forward_return": -7.04,
         "start_price": 61.0,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.62,
         "forward_return": 43.38,
         "start_price": 62.1,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.1,
+        "pe_ratio": 14.12,
         "forward_return": 91.75,
         "start_price": 64.4,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.89,
+        "pe_ratio": 14.55,
         "forward_return": 36.59,
         "start_price": 68.0,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 16.95,
+        "pe_ratio": 16.19,
         "forward_return": -10.44,
         "start_price": 77.5,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 17.45,
+        "pe_ratio": 16.31,
         "forward_return": 7.92,
         "start_price": 79.9,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 17.11,
+        "pe_ratio": 16.02,
         "forward_return": 18.9,
         "start_price": 78.5,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.42,
+        "pe_ratio": 15.39,
         "forward_return": 46.13,
         "start_price": 75.4,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 17.07,
+        "pe_ratio": 16.02,
         "forward_return": 2.35,
         "start_price": 78.5,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.85,
         "forward_return": -75.71,
         "start_price": 77.7,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.04,
         "forward_return": -68.51,
         "start_price": 78.7,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.21,
         "forward_return": -73.81,
         "start_price": 74.7,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 11.29,
         "forward_return": -22.0,
         "start_price": 54.4,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.33,
+        "pe_ratio": 11.1,
         "forward_return": 65.09,
         "start_price": 52.5,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.01,
         "forward_return": 80.13,
         "start_price": 51.1,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.67,
+        "pe_ratio": 11.62,
         "forward_return": 76.51,
         "start_price": 53.9,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.34,
         "forward_return": 42.23,
         "start_price": 61.9,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 13.71,
+        "pe_ratio": 14.09,
         "forward_return": 49.42,
         "start_price": 63.0,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 14.42,
         "forward_return": -10.86,
         "start_price": 62.0,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.32,
+        "pe_ratio": 15.86,
         "forward_return": -20.97,
         "start_price": 65.5,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.42,
+        "pe_ratio": 15.73,
         "forward_return": -41.05,
         "start_price": 65.8,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.31,
         "forward_return": 17.37,
         "start_price": 56.4,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.5,
         "forward_return": 11.56,
         "start_price": 57.9,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.2,
         "forward_return": 3.49,
         "start_price": 57.6,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.98,
         "forward_return": 25.73,
         "start_price": 57.6,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.77,
         "forward_return": 21.27,
         "start_price": 58.1,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.07,
+        "pe_ratio": 13.03,
         "forward_return": 15.04,
         "start_price": 59.8,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.41,
         "forward_return": 55.46,
         "start_price": 62.1,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.12,
         "forward_return": 87.85,
         "start_price": 61.5,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.05,
         "forward_return": 58.91,
         "start_price": 61.9,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 13.31,
         "forward_return": 79.65,
         "start_price": 63.9,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.05,
         "forward_return": 23.45,
         "start_price": 67.9,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.71,
+        "pe_ratio": 13.46,
         "forward_return": 44.68,
         "start_price": 65.5,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.55,
+        "pe_ratio": 14.29,
         "forward_return": 25.67,
         "start_price": 70.0,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 14.6,
         "forward_return": 139.31,
         "start_price": 71.6,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 91.45,
         "start_price": 74.0,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 16.9,
         "forward_return": 15.78,
         "start_price": 89.2,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.28,
+        "pe_ratio": 15.61,
         "forward_return": 27.86,
         "start_price": 88.1,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 15.24,
         "forward_return": 52.75,
         "start_price": 91.6,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 15.08,
         "forward_return": 80.39,
         "start_price": 91.1,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.42,
         "forward_return": 60.37,
         "start_price": 93.6,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 18.05,
+        "pe_ratio": 16.2,
         "forward_return": 37.36,
         "start_price": 98.8,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 17.96,
+        "pe_ratio": 16.38,
         "forward_return": 2.0,
         "start_price": 100.0,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.34,
         "forward_return": 0.3,
         "start_price": 99.9,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.63,
+        "pe_ratio": 16.58,
         "forward_return": -5.8,
         "start_price": 101.5,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.17,
+        "pe_ratio": 16.49,
         "forward_return": -15.94,
         "start_price": 100.5,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 16.75,
+        "pe_ratio": 16.42,
         "forward_return": -24.11,
         "start_price": 99.6,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.1,
+        "pe_ratio": 16.18,
         "forward_return": -17.67,
         "start_price": 96.2,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.44,
         "forward_return": -0.89,
         "start_price": 90.4,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.78,
         "forward_return": 15.79,
         "start_price": 90.9,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 16.06,
         "forward_return": 19.06,
         "start_price": 91.4,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.05,
         "forward_return": 27.86,
         "start_price": 90.2,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 16.65,
+        "pe_ratio": 16.94,
         "forward_return": 24.63,
         "start_price": 94.0,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 16.38,
         "forward_return": 7.25,
         "start_price": 90.0,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.65,
         "forward_return": 13.82,
         "start_price": 90.5,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 17.45,
         "forward_return": 2.59,
         "start_price": 93.9,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 17.01,
+        "pe_ratio": 17.16,
         "forward_return": 10.81,
         "start_price": 91.6,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.66,
+        "pe_ratio": 17.73,
         "forward_return": -3.52,
         "start_price": 93.9,
         "start_year": 2012
@@ -804,7 +804,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 18.1,
         "forward_return": 35.9,
         "start_price": 93.8,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 18.37,
+        "pe_ratio": 18.56,
         "forward_return": 19.82,
         "start_price": 95.5,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.96,
         "forward_return": -7.38,
         "start_price": 102.0,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.78,
         "forward_return": -5.27,
         "start_price": 95.9,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 18.32,
+        "pe_ratio": 18.54,
         "forward_return": -4.67,
         "start_price": 94.6,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.57,
         "forward_return": -6.61,
         "start_price": 94.7,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 18.4,
+        "pe_ratio": 18.52,
         "forward_return": -10.86,
         "start_price": 94.6,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.15,
         "forward_return": 2.98,
         "start_price": 92.8,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 17.99,
+        "pe_ratio": 17.79,
         "forward_return": 14.21,
         "start_price": 91.9,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 18.05,
+        "pe_ratio": 17.65,
         "forward_return": 18.85,
         "start_price": 92.0,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 17.81,
         "forward_return": 7.61,
         "start_price": 93.7,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 18.57,
+        "pe_ratio": 17.93,
         "forward_return": 8.01,
         "start_price": 94.2,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.3,
         "forward_return": 6.02,
         "start_price": 96.0,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.36,
         "forward_return": 0.1,
         "start_price": 96.2,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.16,
+        "pe_ratio": 17.58,
         "forward_return": 5.31,
         "start_price": 91.5,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.48,
+        "pe_ratio": 17.98,
         "forward_return": 3.59,
         "start_price": 92.9,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.88,
         "forward_return": 10.45,
         "start_price": 91.7,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.25,
         "forward_return": 12.54,
         "start_price": 92.7,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.49,
         "forward_return": 22.83,
         "start_price": 93.0,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.16,
         "forward_return": 4.86,
         "start_price": 95.5,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.69,
         "forward_return": -4.87,
         "start_price": 98.2,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 19.45,
+        "pe_ratio": 19.94,
         "forward_return": 10.44,
         "start_price": 99.5,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 19.72,
         "forward_return": 16.58,
         "start_price": 99.0,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 18.64,
+        "pe_ratio": 19.21,
         "forward_return": 30.15,
         "start_price": 97.0,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.37,
         "forward_return": 22.95,
         "start_price": 98.4,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.51,
+        "pe_ratio": 18.97,
         "forward_return": 7.07,
         "start_price": 98.0,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 18.5,
+        "pe_ratio": 18.81,
         "forward_return": 0.91,
         "start_price": 98.8,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 18.35,
+        "pe_ratio": 18.5,
         "forward_return": 1.22,
         "start_price": 98.8,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 18.36,
+        "pe_ratio": 18.46,
         "forward_return": 11.62,
         "start_price": 99.7,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.28,
         "forward_return": 32.31,
         "start_price": 99.8,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 18.67,
+        "pe_ratio": 18.41,
         "forward_return": 23.76,
         "start_price": 102.5,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 19.14,
+        "pe_ratio": 18.62,
         "forward_return": 22.86,
         "start_price": 104.5,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 19.35,
         "forward_return": 28.24,
         "start_price": 109.5,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 20.19,
+        "pe_ratio": 19.25,
         "forward_return": 42.16,
         "start_price": 109.0,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.41,
         "forward_return": 38.87,
         "start_price": 110.0,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 21.82,
+        "pe_ratio": 20.55,
         "forward_return": -1.74,
         "start_price": 116.5,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 21.37,
+        "pe_ratio": 20.36,
         "forward_return": -17.9,
         "start_price": 113.5,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 21.59,
+        "pe_ratio": 20.82,
         "forward_return": -29.37,
         "start_price": 114.0,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 21.05,
+        "pe_ratio": 20.54,
         "forward_return": -28.89,
         "start_price": 110.5,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 20.35,
         "forward_return": -20.3,
         "start_price": 108.0,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.54,
         "forward_return": -12.2,
         "start_price": 107.5,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 19.82,
+        "pe_ratio": 20.09,
         "forward_return": 17.33,
         "start_price": 102.0,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.86,
+        "pe_ratio": 20.43,
         "forward_return": 23.76,
         "start_price": 102.0,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 20.98,
         "forward_return": 11.9,
         "start_price": 103.0,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.96,
+        "pe_ratio": 20.92,
         "forward_return": 20.91,
         "start_price": 102.0,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 22.2,
         "forward_return": 9.33,
         "start_price": 107.5,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 21.24,
+        "pe_ratio": 22.45,
         "forward_return": 5.41,
         "start_price": 108.0,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 21.09,
         "forward_return": 3.95,
         "start_price": 102.0,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 21.59,
         "forward_return": 2.88,
         "start_price": 105.0,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 20.7,
+        "pe_ratio": 21.37,
         "forward_return": 5.89,
         "start_price": 104.5,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 20.46,
+        "pe_ratio": 20.89,
         "forward_return": 22.94,
         "start_price": 103.0,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 20.61,
+        "pe_ratio": 20.82,
         "forward_return": 30.64,
         "start_price": 103.5,
         "start_year": 2017
@@ -1317,7 +1317,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 21.79,
         "forward_return": 1.41,
         "start_price": 108.5,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.12,
         "forward_return": -1.84,
         "start_price": 109.5,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 22.97,
         "forward_return": -5.73,
         "start_price": 113.0,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.11,
         "forward_return": -7.6,
         "start_price": 113.0,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.56,
+        "pe_ratio": 22.43,
         "forward_return": 16.59,
         "start_price": 109.0,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.94,
+        "pe_ratio": 22.77,
         "forward_return": 18.46,
         "start_price": 110.0,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.27,
+        "pe_ratio": 22.28,
         "forward_return": 13.77,
         "start_price": 106.0,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 22.97,
+        "pe_ratio": 23.17,
         "forward_return": 12.94,
         "start_price": 108.5,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.47,
+        "pe_ratio": 23.86,
         "forward_return": 11.4,
         "start_price": 110.0,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.54,
+        "pe_ratio": 23.8,
         "forward_return": -8.76,
         "start_price": 109.5,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 23.18,
+        "pe_ratio": 23.31,
         "forward_return": 7.28,
         "start_price": 107.0,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.43,
         "forward_return": 16.48,
         "start_price": 107.0,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.66,
+        "pe_ratio": 23.5,
         "forward_return": 22.56,
         "start_price": 107.0,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.12,
         "forward_return": 8.37,
         "start_price": 109.5,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.87,
+        "pe_ratio": 24.78,
         "forward_return": 5.46,
         "start_price": 111.0,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.45,
         "forward_return": 3.5,
         "start_price": 112.5,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.92,
         "forward_return": 9.0,
         "start_price": 113.0,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.68,
+        "pe_ratio": 24.88,
         "forward_return": 15.53,
         "start_price": 108.0,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.08,
+        "pe_ratio": 25.23,
         "forward_return": 2.77,
         "start_price": 109.0,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.71,
+        "pe_ratio": 25.81,
         "forward_return": -3.57,
         "start_price": 111.0,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 26.19,
         "forward_return": -13.44,
         "start_price": 112.0,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 26.53,
+        "pe_ratio": 26.57,
         "forward_return": -13.98,
         "start_price": 113.0,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 25.49,
+        "pe_ratio": 25.53,
         "forward_return": 7.15,
         "start_price": 108.0,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.53,
         "forward_return": 9.62,
         "start_price": 108.0,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 25.29,
+        "pe_ratio": 25.41,
         "forward_return": 18.36,
         "start_price": 107.5,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.93,
         "forward_return": 16.41,
         "start_price": 109.5,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.21,
         "forward_return": 8.24,
         "start_price": 110.5,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 27.4,
+        "pe_ratio": 27.79,
         "forward_return": -18.2,
         "start_price": 117.0,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 25.6,
+        "pe_ratio": 25.93,
         "forward_return": -8.76,
         "start_price": 109.5,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 25.33,
+        "pe_ratio": 25.61,
         "forward_return": 1.39,
         "start_price": 108.5,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 24.94,
+        "pe_ratio": 25.18,
         "forward_return": 7.72,
         "start_price": 107.0,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 25.06,
         "forward_return": 3.76,
         "start_price": 107.0,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 25.21,
+        "pe_ratio": 25.29,
         "forward_return": 8.66,
         "start_price": 108.5,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 24.9,
         "forward_return": 16.32,
         "start_price": 108.0,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 25.11,
+        "pe_ratio": 25.1,
         "forward_return": 15.67,
         "start_price": 109.5,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 25.43,
+        "pe_ratio": 25.4,
         "forward_return": 22.46,
         "start_price": 111.5,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 25.85,
+        "pe_ratio": 25.91,
         "forward_return": 20.03,
         "start_price": 114.0,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.59,
+        "pe_ratio": 25.74,
         "forward_return": 10.18,
         "start_price": 113.5,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 25.56,
+        "pe_ratio": 25.79,
         "forward_return": 2.84,
         "start_price": 114.0,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.75,
         "forward_return": -14.66,
         "start_price": 115.0,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.82,
         "forward_return": 12.52,
         "start_price": 112.0,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.23,
         "forward_return": 23.64,
         "start_price": 110.5,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 24.23,
+        "pe_ratio": 24.14,
         "forward_return": 27.62,
         "start_price": 110.5,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 24.43,
+        "pe_ratio": 24.38,
         "forward_return": 46.6,
         "start_price": 112.0,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.41,
         "forward_return": 26.7,
         "start_price": 117.5,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 26.92,
+        "pe_ratio": 26.85,
         "forward_return": 8.4,
         "start_price": 124.5,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.31,
         "forward_return": -2.09,
         "start_price": 127.0,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 28.23,
+        "pe_ratio": 28.01,
         "forward_return": -14.17,
         "start_price": 131.0,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 27.33,
+        "pe_ratio": 27.0,
         "forward_return": -4.28,
         "start_price": 127.0,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.79,
         "forward_return": -10.59,
         "start_price": 122.0,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 26.06,
+        "pe_ratio": 25.69,
         "forward_return": -30.15,
         "start_price": 121.5,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 25.91,
+        "pe_ratio": 25.58,
         "forward_return": -18.52,
         "start_price": 121.0,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.1,
         "forward_return": -3.47,
         "start_price": 114.0,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 23.52,
         "forward_return": 5.47,
         "start_price": 111.0,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 24.19,
+        "pe_ratio": 24.1,
         "forward_return": 16.98,
         "start_price": 113.5,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 23.91,
+        "pe_ratio": 23.82,
         "forward_return": 41.19,
         "start_price": 112.5,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 24.52,
+        "pe_ratio": 24.33,
         "forward_return": 42.35,
         "start_price": 115.5,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 25.34,
+        "pe_ratio": 25.05,
         "forward_return": 3.04,
         "start_price": 119.5,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 26.55,
         "forward_return": -18.47,
         "start_price": 127.0,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.27,
         "forward_return": -15.68,
         "start_price": 126.0,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 24.63,
+        "pe_ratio": 24.22,
         "forward_return": 15.1,
         "start_price": 116.5,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 24.5,
+        "pe_ratio": 24.18,
         "forward_return": 0.0,
         "start_price": 116.0,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.47,
+        "pe_ratio": 24.25,
         "forward_return": 10.68,
         "start_price": 116.0,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 24.45,
+        "pe_ratio": 24.32,
         "forward_return": 14.58,
         "start_price": 116.0,
         "start_year": 2023
@@ -1938,7 +1938,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 24.42,
+        "pe_ratio": 24.34,
         "forward_return": 10.67,
         "start_price": 116.0,
         "start_year": 2023
@@ -1947,7 +1947,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 25.13,
+        "pe_ratio": 25.09,
         "forward_return": 17.34,
         "start_price": 119.5,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 24.98,
+        "pe_ratio": 25.07,
         "forward_return": 24.62,
         "start_price": 119.0,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 25.28,
+        "pe_ratio": 25.46,
         "forward_return": 27.42,
         "start_price": 120.5,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 26.42,
+        "pe_ratio": 26.69,
         "forward_return": 0.61,
         "start_price": 126.0,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 25.98,
+        "pe_ratio": 26.27,
         "forward_return": 7.51,
         "start_price": 124.0,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 26.8,
+        "pe_ratio": 27.12,
         "forward_return": 2.37,
         "start_price": 128.0,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 26.26,
+        "pe_ratio": 26.59,
         "forward_return": 15.92,
         "start_price": 125.5,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 25.4,
+        "pe_ratio": 25.76,
         "forward_return": 1.64,
         "start_price": 121.5,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 25.91,
+        "pe_ratio": 26.31,
         "forward_return": -1.2,
         "start_price": 124.0,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 26.2,
+        "pe_ratio": 26.65,
         "forward_return": -6.24,
         "start_price": 125.5,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.74,
         "forward_return": 8.39,
         "start_price": 122.0,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.79,
         "forward_return": 14.24,
         "start_price": 123.0,
         "start_year": 2024
@@ -2073,7 +2073,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 25.85,
+        "pe_ratio": 25.87,
         "forward_return": 12.73,
         "start_price": 124.5,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 26.49,
+        "pe_ratio": 26.52,
         "forward_return": 4.84,
         "start_price": 128.0,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 26.51,
+        "pe_ratio": 26.55,
         "forward_return": 13.37,
         "start_price": 128.5,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 26.63,
+        "pe_ratio": 26.66,
         "forward_return": 14.69,
         "start_price": 129.5,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 26.54,
+        "pe_ratio": 26.57,
         "forward_return": 26.87,
         "start_price": 129.5,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 27.58,
+        "pe_ratio": 27.61,
         "forward_return": 10.7,
         "start_price": 135.0,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 26.89,
+        "pe_ratio": 26.88,
         "forward_return": -4.45,
         "start_price": 132.5,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 27.01,
+        "pe_ratio": 26.97,
         "forward_return": -8.72,
         "start_price": 133.5,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 26.42,
+        "pe_ratio": 26.39,
         "forward_return": 7.79,
         "start_price": 131.0,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 12.8,
         "forward_return": 0.28,
         "start_price": 61.2,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.91,
         "forward_return": 0.0,
         "start_price": 61.3,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.73,
         "forward_return": 14.34,
         "start_price": 60.0,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.5,
         "forward_return": 23.02,
         "start_price": 58.5,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.05,
         "forward_return": 9.77,
         "start_price": 60.3,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.84,
         "forward_return": 34.37,
         "start_price": 54.0,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 12.2,
         "forward_return": 36.7,
         "start_price": 54.9,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.31,
+        "pe_ratio": 12.55,
         "forward_return": 15.59,
         "start_price": 57.0,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 12.82,
         "forward_return": 11.29,
         "start_price": 58.8,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.43,
         "forward_return": -12.72,
         "start_price": 63.2,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.45,
+        "pe_ratio": 12.98,
         "forward_return": 0.26,
         "start_price": 62.1,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 13.19,
         "forward_return": 4.24,
         "start_price": 64.1,
         "start_year": 2007
@@ -2280,7 +2280,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 13.37,
         "forward_return": 8.33,
         "start_price": 63.1,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.54,
         "forward_return": 4.11,
         "start_price": 62.0,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.65,
+        "pe_ratio": 14.12,
         "forward_return": 2.5,
         "start_price": 62.7,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 49.66,
         "start_price": 55.5,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.96,
         "forward_return": 70.17,
         "start_price": 58.6,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.38,
         "forward_return": 71.89,
         "start_price": 61.0,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.62,
         "forward_return": 39.48,
         "start_price": 62.1,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.1,
+        "pe_ratio": 14.12,
         "forward_return": 37.23,
         "start_price": 64.4,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.89,
+        "pe_ratio": 14.55,
         "forward_return": 45.46,
         "start_price": 68.0,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 16.95,
+        "pe_ratio": 16.19,
         "forward_return": 14.55,
         "start_price": 77.5,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 17.45,
+        "pe_ratio": 16.31,
         "forward_return": -40.99,
         "start_price": 79.9,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 17.11,
+        "pe_ratio": 16.02,
         "forward_return": -44.09,
         "start_price": 78.5,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.42,
+        "pe_ratio": 15.39,
         "forward_return": -36.55,
         "start_price": 75.4,
         "start_year": 2008
@@ -2406,7 +2406,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 17.07,
+        "pe_ratio": 16.02,
         "forward_return": -45.79,
         "start_price": 78.5,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.85,
         "forward_return": -56.48,
         "start_price": 77.7,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.04,
         "forward_return": -33.88,
         "start_price": 78.7,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.21,
         "forward_return": -31.57,
         "start_price": 74.7,
         "start_year": 2008
@@ -2442,7 +2442,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 11.29,
         "forward_return": 25.27,
         "start_price": 54.4,
         "start_year": 2008
@@ -2451,7 +2451,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.33,
+        "pe_ratio": 11.1,
         "forward_return": 39.88,
         "start_price": 52.5,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.01,
         "forward_return": 86.71,
         "start_price": 51.1,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.67,
+        "pe_ratio": 11.62,
         "forward_return": 24.96,
         "start_price": 53.9,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.34,
         "forward_return": -1.29,
         "start_price": 61.9,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 13.71,
+        "pe_ratio": 14.09,
         "forward_return": -4.91,
         "start_price": 63.0,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 14.42,
         "forward_return": 3.69,
         "start_price": 62.0,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.32,
+        "pe_ratio": 15.86,
         "forward_return": -6.5,
         "start_price": 65.5,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.42,
+        "pe_ratio": 15.73,
         "forward_return": -21.89,
         "start_price": 65.8,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.31,
         "forward_return": 18.04,
         "start_price": 56.4,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.5,
         "forward_return": 15.18,
         "start_price": 57.9,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.2,
         "forward_return": 13.21,
         "start_price": 57.6,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.98,
         "forward_return": 15.64,
         "start_price": 57.6,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.77,
         "forward_return": 53.99,
         "start_price": 58.1,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.07,
+        "pe_ratio": 13.03,
         "forward_return": 35.45,
         "start_price": 59.8,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.41,
         "forward_return": 40.09,
         "start_price": 62.1,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.12,
         "forward_return": 51.22,
         "start_price": 61.5,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.05,
         "forward_return": 48.9,
         "start_price": 61.9,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 13.31,
         "forward_return": 49.49,
         "start_price": 63.9,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.05,
         "forward_return": 71.88,
         "start_price": 67.9,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.71,
+        "pe_ratio": 13.46,
         "forward_return": 78.22,
         "start_price": 65.5,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.55,
+        "pe_ratio": 14.29,
         "forward_return": 72.06,
         "start_price": 70.0,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 14.6,
         "forward_return": 58.66,
         "start_price": 71.6,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 60.66,
         "start_price": 74.0,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 16.9,
         "forward_return": 40.37,
         "start_price": 89.2,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.28,
+        "pe_ratio": 15.61,
         "forward_return": 43.37,
         "start_price": 88.1,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 15.24,
         "forward_return": 28.35,
         "start_price": 91.6,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 15.08,
         "forward_return": 35.36,
         "start_price": 91.1,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.42,
         "forward_return": 22.71,
         "start_price": 93.6,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 18.05,
+        "pe_ratio": 16.2,
         "forward_return": 14.04,
         "start_price": 98.8,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 17.96,
+        "pe_ratio": 16.38,
         "forward_return": -7.4,
         "start_price": 100.0,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.34,
         "forward_return": -14.95,
         "start_price": 99.9,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.63,
+        "pe_ratio": 16.58,
         "forward_return": -19.86,
         "start_price": 101.5,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.17,
+        "pe_ratio": 16.49,
         "forward_return": -16.92,
         "start_price": 100.5,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 16.75,
+        "pe_ratio": 16.42,
         "forward_return": -18.04,
         "start_price": 99.6,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.1,
+        "pe_ratio": 16.18,
         "forward_return": -1.54,
         "start_price": 96.2,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.44,
         "forward_return": 12.65,
         "start_price": 90.4,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.78,
         "forward_return": 11.84,
         "start_price": 90.9,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 16.06,
         "forward_return": 12.74,
         "start_price": 91.4,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.05,
         "forward_return": 19.17,
         "start_price": 90.2,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 16.65,
+        "pe_ratio": 16.94,
         "forward_return": 13.06,
         "start_price": 94.0,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 16.38,
         "forward_return": 9.02,
         "start_price": 90.0,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.65,
         "forward_return": 4.42,
         "start_price": 90.5,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 17.45,
         "forward_return": -2.35,
         "start_price": 93.9,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 17.01,
+        "pe_ratio": 17.16,
         "forward_return": 7.45,
         "start_price": 91.6,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.66,
+        "pe_ratio": 17.73,
         "forward_return": 3.47,
         "start_price": 93.9,
         "start_year": 2012
@@ -2928,7 +2928,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 18.1,
         "forward_return": 13.51,
         "start_price": 93.8,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 18.37,
+        "pe_ratio": 18.56,
         "forward_return": 5.33,
         "start_price": 95.5,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.96,
         "forward_return": -6.83,
         "start_price": 102.0,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.78,
         "forward_return": -8.11,
         "start_price": 95.9,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 18.32,
+        "pe_ratio": 18.54,
         "forward_return": -1.63,
         "start_price": 94.6,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.57,
         "forward_return": -2.12,
         "start_price": 94.7,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 18.4,
+        "pe_ratio": 18.52,
         "forward_return": 2.56,
         "start_price": 94.6,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.15,
         "forward_return": 7.08,
         "start_price": 92.8,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 17.99,
+        "pe_ratio": 17.79,
         "forward_return": 9.26,
         "start_price": 91.9,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 18.05,
+        "pe_ratio": 17.65,
         "forward_return": 12.19,
         "start_price": 92.0,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 17.81,
         "forward_return": 6.51,
         "start_price": 93.7,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 18.57,
+        "pe_ratio": 17.93,
         "forward_return": 6.51,
         "start_price": 94.2,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.3,
         "forward_return": 4.53,
         "start_price": 96.0,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.36,
         "forward_return": 4.88,
         "start_price": 96.2,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.16,
+        "pe_ratio": 17.58,
         "forward_return": 8.86,
         "start_price": 91.5,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.48,
+        "pe_ratio": 17.98,
         "forward_return": 12.55,
         "start_price": 92.9,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.88,
         "forward_return": 17.91,
         "start_price": 91.7,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.25,
         "forward_return": 8.13,
         "start_price": 92.7,
         "start_year": 2014
@@ -3099,7 +3099,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.49,
         "forward_return": 8.87,
         "start_price": 93.0,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.16,
         "forward_return": 16.15,
         "start_price": 95.5,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.69,
         "forward_return": 11.46,
         "start_price": 98.2,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 19.45,
+        "pe_ratio": 19.94,
         "forward_return": 8.83,
         "start_price": 99.5,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 19.72,
         "forward_return": 11.51,
         "start_price": 99.0,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 18.64,
+        "pe_ratio": 19.21,
         "forward_return": 12.55,
         "start_price": 97.0,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.37,
         "forward_return": 11.59,
         "start_price": 98.4,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.51,
+        "pe_ratio": 18.97,
         "forward_return": 9.32,
         "start_price": 98.0,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 18.5,
+        "pe_ratio": 18.81,
         "forward_return": 19.28,
         "start_price": 98.8,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 18.35,
+        "pe_ratio": 18.5,
         "forward_return": 22.92,
         "start_price": 98.8,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 18.36,
+        "pe_ratio": 18.46,
         "forward_return": 18.36,
         "start_price": 99.7,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.28,
         "forward_return": 21.57,
         "start_price": 99.8,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 18.67,
+        "pe_ratio": 18.41,
         "forward_return": 34.89,
         "start_price": 102.5,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 19.14,
+        "pe_ratio": 18.62,
         "forward_return": 30.66,
         "start_price": 104.5,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 19.35,
         "forward_return": 6.29,
         "start_price": 109.5,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 20.19,
+        "pe_ratio": 19.25,
         "forward_return": 8.38,
         "start_price": 109.0,
         "start_year": 2016
@@ -3261,7 +3261,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.41,
         "forward_return": -4.63,
         "start_price": 110.0,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 21.82,
+        "pe_ratio": 20.55,
         "forward_return": -15.64,
         "start_price": 116.5,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 21.37,
+        "pe_ratio": 20.36,
         "forward_return": -19.11,
         "start_price": 113.5,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 21.59,
+        "pe_ratio": 20.82,
         "forward_return": -16.04,
         "start_price": 114.0,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 21.05,
+        "pe_ratio": 20.54,
         "forward_return": -13.22,
         "start_price": 110.5,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 20.35,
         "forward_return": -0.8,
         "start_price": 108.0,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.54,
         "forward_return": 0.0,
         "start_price": 107.5,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 19.82,
+        "pe_ratio": 20.09,
         "forward_return": 10.02,
         "start_price": 102.0,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.86,
+        "pe_ratio": 20.43,
         "forward_return": 16.24,
         "start_price": 102.0,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 20.98,
         "forward_return": 8.33,
         "start_price": 103.0,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.96,
+        "pe_ratio": 20.92,
         "forward_return": 11.96,
         "start_price": 102.0,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 22.2,
         "forward_return": 5.53,
         "start_price": 107.5,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 21.24,
+        "pe_ratio": 22.45,
         "forward_return": 5.51,
         "start_price": 108.0,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 21.09,
         "forward_return": 13.05,
         "start_price": 102.0,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 21.59,
         "forward_return": 13.49,
         "start_price": 105.0,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 20.7,
+        "pe_ratio": 21.37,
         "forward_return": 17.09,
         "start_price": 104.5,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 20.46,
+        "pe_ratio": 20.89,
         "forward_return": 10.25,
         "start_price": 103.0,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 20.61,
+        "pe_ratio": 20.82,
         "forward_return": 11.01,
         "start_price": 103.5,
         "start_year": 2017
@@ -3441,7 +3441,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 21.79,
         "forward_return": 4.32,
         "start_price": 108.5,
         "start_year": 2018
@@ -3450,7 +3450,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.12,
         "forward_return": 7.08,
         "start_price": 109.5,
         "start_year": 2018
@@ -3459,7 +3459,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 22.97,
         "forward_return": 1.97,
         "start_price": 113.0,
         "start_year": 2018
@@ -3468,7 +3468,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.11,
         "forward_return": 2.3,
         "start_price": 113.0,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.56,
+        "pe_ratio": 22.43,
         "forward_return": 14.16,
         "start_price": 109.0,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.94,
+        "pe_ratio": 22.77,
         "forward_return": 14.64,
         "start_price": 110.0,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.27,
+        "pe_ratio": 22.28,
         "forward_return": 1.88,
         "start_price": 106.0,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 22.97,
+        "pe_ratio": 23.17,
         "forward_return": 1.59,
         "start_price": 108.5,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.47,
+        "pe_ratio": 23.86,
         "forward_return": -0.92,
         "start_price": 110.0,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.54,
+        "pe_ratio": 23.8,
         "forward_return": 4.77,
         "start_price": 109.5,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 23.18,
+        "pe_ratio": 23.31,
         "forward_return": 10.64,
         "start_price": 107.0,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.43,
         "forward_return": 10.6,
         "start_price": 107.0,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.66,
+        "pe_ratio": 23.5,
         "forward_return": 12.52,
         "start_price": 107.0,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.12,
         "forward_return": 11.12,
         "start_price": 109.5,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.87,
+        "pe_ratio": 24.78,
         "forward_return": 10.09,
         "start_price": 111.0,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.45,
         "forward_return": 3.02,
         "start_price": 112.5,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.92,
         "forward_return": 2.63,
         "start_price": 113.0,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.68,
+        "pe_ratio": 24.88,
         "forward_return": 0.0,
         "start_price": 108.0,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.08,
+        "pe_ratio": 25.23,
         "forward_return": -2.35,
         "start_price": 109.0,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.71,
+        "pe_ratio": 25.81,
         "forward_return": -6.23,
         "start_price": 111.0,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 26.19,
         "forward_return": -2.29,
         "start_price": 112.0,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 26.53,
+        "pe_ratio": 26.57,
         "forward_return": -4.39,
         "start_price": 113.0,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 25.49,
+        "pe_ratio": 25.53,
         "forward_return": 10.92,
         "start_price": 108.0,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.53,
         "forward_return": 8.92,
         "start_price": 108.0,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 25.29,
+        "pe_ratio": 25.41,
         "forward_return": 5.99,
         "start_price": 107.5,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.93,
         "forward_return": 3.17,
         "start_price": 109.5,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.21,
         "forward_return": 4.25,
         "start_price": 110.5,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 27.4,
+        "pe_ratio": 27.79,
         "forward_return": -6.33,
         "start_price": 117.0,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 25.6,
+        "pe_ratio": 25.93,
         "forward_return": -2.7,
         "start_price": 109.5,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 25.33,
+        "pe_ratio": 25.61,
         "forward_return": 4.81,
         "start_price": 108.5,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 24.94,
+        "pe_ratio": 25.18,
         "forward_return": 8.67,
         "start_price": 107.0,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 25.06,
         "forward_return": 10.69,
         "start_price": 107.0,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 25.21,
+        "pe_ratio": 25.29,
         "forward_return": 9.52,
         "start_price": 108.5,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 24.9,
         "forward_return": 22.25,
         "start_price": 108.0,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 25.11,
+        "pe_ratio": 25.1,
         "forward_return": 12.86,
         "start_price": 109.5,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 25.43,
+        "pe_ratio": 25.4,
         "forward_return": 5.11,
         "start_price": 111.5,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 25.85,
+        "pe_ratio": 25.91,
         "forward_return": 1.42,
         "start_price": 114.0,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.59,
+        "pe_ratio": 25.74,
         "forward_return": 11.23,
         "start_price": 113.5,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 25.56,
+        "pe_ratio": 25.79,
         "forward_return": 12.27,
         "start_price": 114.0,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.75,
         "forward_return": 4.36,
         "start_price": 115.0,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.82,
         "forward_return": 24.18,
         "start_price": 112.0,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.23,
         "forward_return": 32.42,
         "start_price": 110.5,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 24.23,
+        "pe_ratio": 24.14,
         "forward_return": 27.1,
         "start_price": 110.5,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 24.43,
+        "pe_ratio": 24.38,
         "forward_return": 28.87,
         "start_price": 112.0,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.41,
         "forward_return": 15.33,
         "start_price": 117.5,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 26.92,
+        "pe_ratio": 26.85,
         "forward_return": 1.79,
         "start_price": 124.5,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.31,
         "forward_return": -14.82,
         "start_price": 127.0,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 28.23,
+        "pe_ratio": 28.01,
         "forward_return": -22.08,
         "start_price": 131.0,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 27.33,
+        "pe_ratio": 27.0,
         "forward_return": -12.29,
         "start_price": 127.0,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.79,
         "forward_return": -7.06,
         "start_price": 122.0,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 26.06,
+        "pe_ratio": 25.69,
         "forward_return": -14.17,
         "start_price": 121.5,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 25.91,
+        "pe_ratio": 25.58,
         "forward_return": -2.13,
         "start_price": 121.0,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.1,
         "forward_return": 9.97,
         "start_price": 114.0,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 23.52,
         "forward_return": 24.41,
         "start_price": 111.0,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 24.19,
+        "pe_ratio": 24.1,
         "forward_return": 23.47,
         "start_price": 113.5,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 23.91,
+        "pe_ratio": 23.82,
         "forward_return": 15.26,
         "start_price": 112.5,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 24.52,
+        "pe_ratio": 24.33,
         "forward_return": 9.24,
         "start_price": 115.5,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 25.34,
+        "pe_ratio": 25.05,
         "forward_return": 1.72,
         "start_price": 119.5,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 26.55,
         "forward_return": -9.65,
         "start_price": 127.0,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.27,
         "forward_return": -1.75,
         "start_price": 126.0,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 24.63,
+        "pe_ratio": 24.22,
         "forward_return": 14.54,
         "start_price": 116.5,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 24.5,
+        "pe_ratio": 24.18,
         "forward_return": 5.2,
         "start_price": 116.0,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.47,
+        "pe_ratio": 24.25,
         "forward_return": 15.23,
         "start_price": 116.0,
         "start_year": 2023
@@ -4053,7 +4053,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 24.45,
+        "pe_ratio": 24.32,
         "forward_return": 18.05,
         "start_price": 116.0,
         "start_year": 2023
@@ -4062,7 +4062,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 24.42,
+        "pe_ratio": 24.34,
         "forward_return": 18.39,
         "start_price": 116.0,
         "start_year": 2023
@@ -4071,7 +4071,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 25.13,
+        "pe_ratio": 25.09,
         "forward_return": 14.79,
         "start_price": 119.5,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 24.98,
+        "pe_ratio": 25.07,
         "forward_return": 12.62,
         "start_price": 119.0,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 25.28,
+        "pe_ratio": 25.46,
         "forward_return": 14.14,
         "start_price": 120.5,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 26.42,
+        "pe_ratio": 26.69,
         "forward_return": 1.03,
         "start_price": 126.0,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 25.98,
+        "pe_ratio": 26.27,
         "forward_return": 4.49,
         "start_price": 124.0,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 26.8,
+        "pe_ratio": 27.12,
         "forward_return": 0.34,
         "start_price": 128.0,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 26.26,
+        "pe_ratio": 26.59,
         "forward_return": 4.43,
         "start_price": 125.5,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 25.4,
+        "pe_ratio": 25.76,
         "forward_return": 4.96,
         "start_price": 121.5,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 25.91,
+        "pe_ratio": 26.31,
         "forward_return": 6.33,
         "start_price": 124.0,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 26.2,
+        "pe_ratio": 26.65,
         "forward_return": 4.88,
         "start_price": 125.5,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.74,
         "forward_return": 10.83,
         "start_price": 122.0,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.79,
         "forward_return": 10.95,
         "start_price": 123.0,
         "start_year": 2024
@@ -4197,7 +4197,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 25.85,
+        "pe_ratio": 25.87,
         "forward_return": 16.0,
         "start_price": 124.5,
         "start_year": 2025
@@ -4206,7 +4206,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 26.49,
+        "pe_ratio": 26.52,
         "forward_return": 15.45,
         "start_price": 128.0,
         "start_year": 2025
@@ -4215,7 +4215,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 26.51,
+        "pe_ratio": 26.55,
         "forward_return": 10.17,
         "start_price": 128.5,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 26.63,
+        "pe_ratio": 26.66,
         "forward_return": 10.27,
         "start_price": 129.5,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 26.54,
+        "pe_ratio": 26.57,
         "forward_return": 8.04,
         "start_price": 129.5,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 27.58,
+        "pe_ratio": 27.61,
         "forward_return": 0.74,
         "start_price": 135.0,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 12.8,
         "forward_return": 11.77,
         "start_price": 61.2,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.91,
         "forward_return": 9.96,
         "start_price": 61.3,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.73,
         "forward_return": 10.51,
         "start_price": 60.0,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.5,
         "forward_return": 14.54,
         "start_price": 58.5,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.05,
         "forward_return": -2.02,
         "start_price": 60.3,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.84,
         "forward_return": 15.16,
         "start_price": 54.0,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 12.2,
         "forward_return": 17.65,
         "start_price": 54.9,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.31,
+        "pe_ratio": 12.55,
         "forward_return": 15.24,
         "start_price": 57.0,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 12.82,
         "forward_return": 15.62,
         "start_price": 58.8,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.43,
         "forward_return": 13.27,
         "start_price": 63.2,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.45,
+        "pe_ratio": 12.98,
         "forward_return": 30.59,
         "start_price": 62.1,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 13.19,
         "forward_return": 30.16,
         "start_price": 64.1,
         "start_year": 2007
@@ -4377,7 +4377,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 13.37,
         "forward_return": 30.01,
         "start_price": 63.1,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.54,
         "forward_return": 27.32,
         "start_price": 62.0,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.65,
+        "pe_ratio": 14.12,
         "forward_return": 30.84,
         "start_price": 62.7,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 47.56,
         "start_price": 55.5,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.96,
         "forward_return": 41.47,
         "start_price": 58.6,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.38,
         "forward_return": 29.37,
         "start_price": 61.0,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.62,
         "forward_return": -5.53,
         "start_price": 62.1,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.1,
+        "pe_ratio": 14.12,
         "forward_return": -11.84,
         "start_price": 64.4,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.89,
+        "pe_ratio": 14.55,
         "forward_return": -18.55,
         "start_price": 68.0,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 16.95,
+        "pe_ratio": 16.19,
         "forward_return": -13.61,
         "start_price": 77.5,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 17.45,
+        "pe_ratio": 16.31,
         "forward_return": -17.21,
         "start_price": 79.9,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 17.11,
+        "pe_ratio": 16.02,
         "forward_return": -14.33,
         "start_price": 78.5,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.42,
+        "pe_ratio": 15.39,
         "forward_return": -12.13,
         "start_price": 75.4,
         "start_year": 2008
@@ -4503,7 +4503,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 17.07,
+        "pe_ratio": 16.02,
         "forward_return": -11.14,
         "start_price": 78.5,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.85,
         "forward_return": -10.39,
         "start_price": 77.7,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.04,
         "forward_return": -23.48,
         "start_price": 78.7,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.21,
         "forward_return": -17.37,
         "start_price": 74.7,
         "start_year": 2008
@@ -4539,7 +4539,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 11.29,
         "forward_return": 12.93,
         "start_price": 54.4,
         "start_year": 2008
@@ -4548,7 +4548,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.33,
+        "pe_ratio": 11.1,
         "forward_return": 17.02,
         "start_price": 52.5,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.01,
         "forward_return": 21.21,
         "start_price": 51.1,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.67,
+        "pe_ratio": 11.62,
         "forward_return": 18.07,
         "start_price": 53.9,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.34,
         "forward_return": 6.52,
         "start_price": 61.9,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 13.71,
+        "pe_ratio": 14.09,
         "forward_return": 3.7,
         "start_price": 63.0,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 14.42,
         "forward_return": 6.02,
         "start_price": 62.0,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.32,
+        "pe_ratio": 15.86,
         "forward_return": 3.41,
         "start_price": 65.5,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.42,
+        "pe_ratio": 15.73,
         "forward_return": 9.37,
         "start_price": 65.8,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.31,
         "forward_return": 23.35,
         "start_price": 56.4,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.5,
         "forward_return": 27.93,
         "start_price": 57.9,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.2,
         "forward_return": 31.38,
         "start_price": 57.6,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.98,
         "forward_return": 35.55,
         "start_price": 57.6,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.77,
         "forward_return": 60.57,
         "start_price": 58.1,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.07,
+        "pe_ratio": 13.03,
         "forward_return": 54.16,
         "start_price": 59.8,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.41,
         "forward_return": 54.09,
         "start_price": 62.1,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.12,
         "forward_return": 54.78,
         "start_price": 61.5,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.05,
         "forward_return": 57.82,
         "start_price": 61.9,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 13.31,
         "forward_return": 61.02,
         "start_price": 63.9,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.05,
         "forward_return": 55.46,
         "start_price": 67.9,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.71,
+        "pe_ratio": 13.46,
         "forward_return": 61.01,
         "start_price": 65.5,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.55,
+        "pe_ratio": 14.29,
         "forward_return": 52.94,
         "start_price": 70.0,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 14.6,
         "forward_return": 48.12,
         "start_price": 71.6,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 42.09,
         "start_price": 74.0,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 16.9,
         "forward_return": 14.05,
         "start_price": 89.2,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.28,
+        "pe_ratio": 15.61,
         "forward_return": 8.89,
         "start_price": 88.1,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 15.24,
         "forward_return": 5.26,
         "start_price": 91.6,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 15.08,
         "forward_return": 6.38,
         "start_price": 91.1,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.42,
         "forward_return": 2.26,
         "start_price": 93.6,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 18.05,
+        "pe_ratio": 16.2,
         "forward_return": 0.73,
         "start_price": 98.8,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 17.96,
+        "pe_ratio": 16.38,
         "forward_return": -4.53,
         "start_price": 100.0,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.34,
         "forward_return": -3.94,
         "start_price": 99.9,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.63,
+        "pe_ratio": 16.58,
         "forward_return": -2.1,
         "start_price": 101.5,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.17,
+        "pe_ratio": 16.49,
         "forward_return": -3.41,
         "start_price": 100.5,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 16.75,
+        "pe_ratio": 16.42,
         "forward_return": -0.24,
         "start_price": 99.6,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.1,
+        "pe_ratio": 16.18,
         "forward_return": 3.38,
         "start_price": 96.2,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.44,
         "forward_return": 8.02,
         "start_price": 90.4,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.78,
         "forward_return": 8.1,
         "start_price": 90.9,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 16.06,
         "forward_return": 8.61,
         "start_price": 91.4,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.05,
         "forward_return": 11.94,
         "start_price": 90.2,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 16.65,
+        "pe_ratio": 16.94,
         "forward_return": 14.33,
         "start_price": 94.0,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 16.38,
         "forward_return": 12.51,
         "start_price": 90.0,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.65,
         "forward_return": 10.45,
         "start_price": 90.5,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 17.45,
         "forward_return": 6.55,
         "start_price": 93.9,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 17.01,
+        "pe_ratio": 17.16,
         "forward_return": 9.12,
         "start_price": 91.6,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.66,
+        "pe_ratio": 17.73,
         "forward_return": 4.53,
         "start_price": 93.9,
         "start_year": 2012
@@ -5025,7 +5025,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 18.1,
         "forward_return": 6.13,
         "start_price": 93.8,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 18.37,
+        "pe_ratio": 18.56,
         "forward_return": 6.13,
         "start_price": 95.5,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.96,
         "forward_return": -0.44,
         "start_price": 102.0,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.78,
         "forward_return": 0.13,
         "start_price": 95.9,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 18.32,
+        "pe_ratio": 18.54,
         "forward_return": 2.99,
         "start_price": 94.6,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.57,
         "forward_return": 1.61,
         "start_price": 94.7,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 18.4,
+        "pe_ratio": 18.52,
         "forward_return": 2.78,
         "start_price": 94.6,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.15,
         "forward_return": 5.1,
         "start_price": 92.8,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 17.99,
+        "pe_ratio": 17.79,
         "forward_return": 8.85,
         "start_price": 91.9,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 18.05,
+        "pe_ratio": 17.65,
         "forward_return": 11.67,
         "start_price": 92.0,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 17.81,
         "forward_return": 11.03,
         "start_price": 93.7,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 18.57,
+        "pe_ratio": 17.93,
         "forward_return": 9.91,
         "start_price": 94.2,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.3,
         "forward_return": 5.76,
         "start_price": 96.0,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.36,
         "forward_return": 7.0,
         "start_price": 96.2,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.16,
+        "pe_ratio": 17.58,
         "forward_return": 12.42,
         "start_price": 91.5,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.48,
+        "pe_ratio": 17.98,
         "forward_return": 11.59,
         "start_price": 92.9,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.88,
         "forward_return": 13.05,
         "start_price": 91.7,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.25,
         "forward_return": 12.8,
         "start_price": 92.7,
         "start_year": 2014
@@ -5196,7 +5196,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.49,
         "forward_return": 12.54,
         "start_price": 93.0,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.16,
         "forward_return": 12.42,
         "start_price": 95.5,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.69,
         "forward_return": 11.37,
         "start_price": 98.2,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 19.45,
+        "pe_ratio": 19.94,
         "forward_return": 14.9,
         "start_price": 99.5,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 19.72,
         "forward_return": 14.97,
         "start_price": 99.0,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 18.64,
+        "pe_ratio": 19.21,
         "forward_return": 18.37,
         "start_price": 97.0,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.37,
         "forward_return": 23.28,
         "start_price": 98.4,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.51,
+        "pe_ratio": 18.97,
         "forward_return": 21.37,
         "start_price": 98.0,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 18.5,
+        "pe_ratio": 18.81,
         "forward_return": 20.89,
         "start_price": 98.8,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 18.35,
+        "pe_ratio": 18.5,
         "forward_return": 17.36,
         "start_price": 98.8,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 18.36,
+        "pe_ratio": 18.46,
         "forward_return": 13.8,
         "start_price": 99.7,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.28,
         "forward_return": 13.18,
         "start_price": 99.8,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 18.67,
+        "pe_ratio": 18.41,
         "forward_return": 4.85,
         "start_price": 102.5,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 19.14,
+        "pe_ratio": 18.62,
         "forward_return": 3.52,
         "start_price": 104.5,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 19.35,
         "forward_return": -0.93,
         "start_price": 109.5,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 20.19,
+        "pe_ratio": 19.25,
         "forward_return": -1.39,
         "start_price": 109.0,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.41,
         "forward_return": 2.72,
         "start_price": 110.0,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 21.82,
+        "pe_ratio": 20.55,
         "forward_return": -2.59,
         "start_price": 116.5,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 21.37,
+        "pe_ratio": 20.36,
         "forward_return": -5.78,
         "start_price": 113.5,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 21.59,
+        "pe_ratio": 20.82,
         "forward_return": -3.56,
         "start_price": 114.0,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 21.05,
+        "pe_ratio": 20.54,
         "forward_return": -0.96,
         "start_price": 110.5,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 20.35,
         "forward_return": -0.05,
         "start_price": 108.0,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.54,
         "forward_return": 0.88,
         "start_price": 107.5,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 19.82,
+        "pe_ratio": 20.09,
         "forward_return": 11.23,
         "start_price": 102.0,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.86,
+        "pe_ratio": 20.43,
         "forward_return": 12.21,
         "start_price": 102.0,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 20.98,
         "forward_return": 14.52,
         "start_price": 103.0,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.96,
+        "pe_ratio": 20.92,
         "forward_return": 15.64,
         "start_price": 102.0,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 22.2,
         "forward_return": 6.0,
         "start_price": 107.5,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 21.24,
+        "pe_ratio": 22.45,
         "forward_return": 6.43,
         "start_price": 108.0,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 21.09,
         "forward_return": 8.63,
         "start_price": 102.0,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 21.59,
         "forward_return": 7.91,
         "start_price": 105.0,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 20.7,
+        "pe_ratio": 21.37,
         "forward_return": 9.86,
         "start_price": 104.5,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 20.46,
+        "pe_ratio": 20.89,
         "forward_return": 10.97,
         "start_price": 103.0,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 20.61,
+        "pe_ratio": 20.82,
         "forward_return": 8.02,
         "start_price": 103.5,
         "start_year": 2017
@@ -5538,7 +5538,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 21.79,
         "forward_return": 3.04,
         "start_price": 108.5,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.12,
         "forward_return": 2.1,
         "start_price": 109.5,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 22.97,
         "forward_return": 1.15,
         "start_price": 113.0,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.11,
         "forward_return": 2.48,
         "start_price": 113.0,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.56,
+        "pe_ratio": 22.43,
         "forward_return": 7.62,
         "start_price": 109.0,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.94,
+        "pe_ratio": 22.77,
         "forward_return": 7.09,
         "start_price": 110.0,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.27,
+        "pe_ratio": 22.28,
         "forward_return": 6.12,
         "start_price": 106.0,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 22.97,
+        "pe_ratio": 23.17,
         "forward_return": 4.59,
         "start_price": 108.5,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.47,
+        "pe_ratio": 23.86,
         "forward_return": 4.98,
         "start_price": 110.0,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.54,
+        "pe_ratio": 23.8,
         "forward_return": 6.38,
         "start_price": 109.5,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 23.18,
+        "pe_ratio": 23.31,
         "forward_return": 9.8,
         "start_price": 107.0,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.43,
         "forward_return": 5.12,
         "start_price": 107.0,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.66,
+        "pe_ratio": 23.5,
         "forward_return": 5.12,
         "start_price": 107.0,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.12,
         "forward_return": 2.26,
         "start_price": 109.5,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.87,
+        "pe_ratio": 24.78,
         "forward_return": 2.68,
         "start_price": 111.0,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.45,
         "forward_return": 2.2,
         "start_price": 112.5,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.92,
         "forward_return": 7.49,
         "start_price": 113.0,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.68,
+        "pe_ratio": 24.88,
         "forward_return": 5.29,
         "start_price": 108.0,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.08,
+        "pe_ratio": 25.23,
         "forward_return": 3.41,
         "start_price": 109.0,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.71,
+        "pe_ratio": 25.81,
         "forward_return": 0.2,
         "start_price": 111.0,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 26.19,
         "forward_return": -0.69,
         "start_price": 112.0,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 26.53,
+        "pe_ratio": 26.57,
         "forward_return": -0.24,
         "start_price": 113.0,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 25.49,
+        "pe_ratio": 25.53,
         "forward_return": 3.9,
         "start_price": 108.0,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.53,
         "forward_return": 6.6,
         "start_price": 108.0,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 25.29,
+        "pe_ratio": 25.41,
         "forward_return": 7.66,
         "start_price": 107.5,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.93,
         "forward_return": 7.97,
         "start_price": 109.5,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.21,
         "forward_return": 6.54,
         "start_price": 110.5,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 27.4,
+        "pe_ratio": 27.79,
         "forward_return": 1.05,
         "start_price": 117.0,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 25.6,
+        "pe_ratio": 25.93,
         "forward_return": 8.96,
         "start_price": 109.5,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 25.33,
+        "pe_ratio": 25.61,
         "forward_return": 7.2,
         "start_price": 108.5,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 24.94,
+        "pe_ratio": 25.18,
         "forward_return": 7.3,
         "start_price": 107.0,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 25.06,
         "forward_return": 7.3,
         "start_price": 107.0,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 25.21,
+        "pe_ratio": 25.29,
         "forward_return": 7.2,
         "start_price": 108.5,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 24.9,
         "forward_return": 12.79,
         "start_price": 108.0,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 25.11,
+        "pe_ratio": 25.1,
         "forward_return": 17.64,
         "start_price": 109.5,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 25.43,
+        "pe_ratio": 25.4,
         "forward_return": 17.78,
         "start_price": 111.5,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 25.85,
+        "pe_ratio": 25.91,
         "forward_return": 18.7,
         "start_price": 114.0,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.59,
+        "pe_ratio": 25.74,
         "forward_return": 15.7,
         "start_price": 113.5,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 25.56,
+        "pe_ratio": 25.79,
         "forward_return": 10.8,
         "start_price": 114.0,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.75,
         "forward_return": 9.67,
         "start_price": 115.0,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.82,
         "forward_return": 12.16,
         "start_price": 112.0,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.23,
         "forward_return": 7.34,
         "start_price": 110.5,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 24.23,
+        "pe_ratio": 24.14,
         "forward_return": 4.63,
         "start_price": 110.5,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 24.43,
+        "pe_ratio": 24.38,
         "forward_return": 5.46,
         "start_price": 112.0,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.41,
         "forward_return": -0.33,
         "start_price": 117.5,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 26.92,
+        "pe_ratio": 26.85,
         "forward_return": -3.53,
         "start_price": 124.5,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.31,
         "forward_return": -2.28,
         "start_price": 127.0,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 28.23,
+        "pe_ratio": 28.01,
         "forward_return": 0.46,
         "start_price": 131.0,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 27.33,
+        "pe_ratio": 27.0,
         "forward_return": 2.84,
         "start_price": 127.0,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.79,
         "forward_return": -0.73,
         "start_price": 122.0,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 26.06,
+        "pe_ratio": 25.69,
         "forward_return": -0.66,
         "start_price": 121.5,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 25.91,
+        "pe_ratio": 25.58,
         "forward_return": -0.25,
         "start_price": 121.0,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.1,
         "forward_return": 5.88,
         "start_price": 114.0,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 23.52,
         "forward_return": 8.75,
         "start_price": 111.0,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 24.19,
+        "pe_ratio": 24.1,
         "forward_return": 9.44,
         "start_price": 113.5,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 23.91,
+        "pe_ratio": 23.82,
         "forward_return": 9.96,
         "start_price": 112.5,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 24.52,
+        "pe_ratio": 24.33,
         "forward_return": 8.41,
         "start_price": 115.5,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 25.34,
+        "pe_ratio": 25.05,
         "forward_return": 9.35,
         "start_price": 119.5,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 26.55,
         "forward_return": 1.34,
         "start_price": 127.0,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.27,
         "forward_return": 5.31,
         "start_price": 126.0,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 24.63,
+        "pe_ratio": 24.22,
         "forward_return": 11.74,
         "start_price": 116.5,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 24.5,
+        "pe_ratio": 24.18,
         "forward_return": 8.82,
         "start_price": 116.0,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.47,
+        "pe_ratio": 24.25,
         "forward_return": 10.97,
         "start_price": 116.0,
         "start_year": 2023
@@ -6150,7 +6150,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 24.45,
+        "pe_ratio": 24.32,
         "forward_return": 12.26,
         "start_price": 116.0,
         "start_year": 2023
@@ -6159,7 +6159,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 24.42,
+        "pe_ratio": 24.34,
         "forward_return": 9.25,
         "start_price": 116.0,
         "start_year": 2023
@@ -6168,7 +6168,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 25.13,
+        "pe_ratio": 25.09,
         "forward_return": 6.9,
         "start_price": 119.5,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 24.98,
+        "pe_ratio": 25.07,
         "forward_return": 8.6,
         "start_price": 119.0,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 25.28,
+        "pe_ratio": 25.46,
         "forward_return": 9.75,
         "start_price": 120.5,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 26.42,
+        "pe_ratio": 26.69,
         "forward_return": 5.76,
         "start_price": 126.0,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 25.98,
+        "pe_ratio": 26.27,
         "forward_return": 8.28,
         "start_price": 124.0,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 26.8,
+        "pe_ratio": 27.12,
         "forward_return": 4.89,
         "start_price": 128.0,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 26.26,
+        "pe_ratio": 26.59,
         "forward_return": 11.37,
         "start_price": 125.5,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 25.4,
+        "pe_ratio": 25.76,
         "forward_return": 10.3,
         "start_price": 121.5,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 25.91,
+        "pe_ratio": 26.31,
         "forward_return": 10.89,
         "start_price": 124.0,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 26.2,
+        "pe_ratio": 26.65,
         "forward_return": 10.37,
         "start_price": 125.5,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.74,
         "forward_return": 11.48,
         "start_price": 122.0,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.79,
         "forward_return": 10.17,
         "start_price": 123.0,
         "start_year": 2024
@@ -6294,7 +6294,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 25.85,
+        "pe_ratio": 25.87,
         "forward_return": 11.25,
         "start_price": 124.5,
         "start_year": 2025
@@ -6303,7 +6303,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 26.49,
+        "pe_ratio": 26.52,
         "forward_return": 8.6,
         "start_price": 128.0,
         "start_year": 2025
@@ -6312,7 +6312,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 12.8,
         "forward_return": 19.75,
         "start_price": 61.2,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.91,
         "forward_return": 18.69,
         "start_price": 61.3,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.73,
         "forward_return": 17.8,
         "start_price": 60.0,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.5,
         "forward_return": 21.5,
         "start_price": 58.5,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.05,
         "forward_return": 19.09,
         "start_price": 60.3,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.84,
         "forward_return": 26.57,
         "start_price": 54.0,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 12.2,
         "forward_return": 22.6,
         "start_price": 54.9,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.31,
+        "pe_ratio": 12.55,
         "forward_return": 4.49,
         "start_price": 57.0,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 12.82,
         "forward_return": 1.3,
         "start_price": 58.8,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.43,
         "forward_return": -3.43,
         "start_price": 63.2,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.45,
+        "pe_ratio": 12.98,
         "forward_return": -0.29,
         "start_price": 62.1,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 13.19,
         "forward_return": 4.3,
         "start_price": 64.1,
         "start_year": 2007
@@ -6429,7 +6429,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 13.37,
         "forward_return": 5.95,
         "start_price": 63.1,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.54,
         "forward_return": 6.13,
         "start_price": 62.0,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.65,
+        "pe_ratio": 14.12,
         "forward_return": 8.15,
         "start_price": 62.7,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 15.37,
         "start_price": 55.5,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.96,
         "forward_return": 4.9,
         "start_price": 58.6,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.38,
         "forward_return": 4.01,
         "start_price": 61.0,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.62,
         "forward_return": 2.85,
         "start_price": 62.1,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.1,
+        "pe_ratio": 14.12,
         "forward_return": 1.0,
         "start_price": 64.4,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.89,
+        "pe_ratio": 14.55,
         "forward_return": -1.34,
         "start_price": 68.0,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 16.95,
+        "pe_ratio": 16.19,
         "forward_return": -4.65,
         "start_price": 77.5,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 17.45,
+        "pe_ratio": 16.31,
         "forward_return": -6.28,
         "start_price": 79.9,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 17.11,
+        "pe_ratio": 16.02,
         "forward_return": -5.85,
         "start_price": 78.5,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.42,
+        "pe_ratio": 15.39,
         "forward_return": -3.66,
         "start_price": 75.4,
         "start_year": 2008
@@ -6555,7 +6555,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 17.07,
+        "pe_ratio": 16.02,
         "forward_return": -4.24,
         "start_price": 78.5,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.85,
         "forward_return": -1.24,
         "start_price": 77.7,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.04,
         "forward_return": -3.43,
         "start_price": 78.7,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.21,
         "forward_return": 2.11,
         "start_price": 74.7,
         "start_year": 2008
@@ -6591,7 +6591,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 11.29,
         "forward_return": 20.9,
         "start_price": 54.4,
         "start_year": 2008
@@ -6600,7 +6600,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.33,
+        "pe_ratio": 11.1,
         "forward_return": 24.91,
         "start_price": 52.5,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.01,
         "forward_return": 37.87,
         "start_price": 51.1,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.67,
+        "pe_ratio": 11.62,
         "forward_return": 33.48,
         "start_price": 53.9,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.34,
         "forward_return": 26.8,
         "start_price": 61.9,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 13.71,
+        "pe_ratio": 14.09,
         "forward_return": 25.37,
         "start_price": 63.0,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 14.42,
         "forward_return": 27.96,
         "start_price": 62.0,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.32,
+        "pe_ratio": 15.86,
         "forward_return": 27.65,
         "start_price": 65.5,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.42,
+        "pe_ratio": 15.73,
         "forward_return": 29.07,
         "start_price": 65.8,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.31,
         "forward_return": 39.36,
         "start_price": 56.4,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.5,
         "forward_return": 38.54,
         "start_price": 57.9,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.2,
         "forward_return": 38.28,
         "start_price": 57.6,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.98,
         "forward_return": 37.71,
         "start_price": 57.6,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.77,
         "forward_return": 34.96,
         "start_price": 58.1,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.07,
+        "pe_ratio": 13.03,
         "forward_return": 29.33,
         "start_price": 59.8,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.41,
         "forward_return": 27.18,
         "start_price": 62.1,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.12,
         "forward_return": 28.12,
         "start_price": 61.5,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.05,
         "forward_return": 26.94,
         "start_price": 61.9,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 13.31,
         "forward_return": 27.3,
         "start_price": 63.9,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.05,
         "forward_return": 21.94,
         "start_price": 67.9,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.71,
+        "pe_ratio": 13.46,
         "forward_return": 24.46,
         "start_price": 65.5,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.55,
+        "pe_ratio": 14.29,
         "forward_return": 22.39,
         "start_price": 70.0,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 14.6,
         "forward_return": 19.68,
         "start_price": 71.6,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 19.04,
         "start_price": 74.0,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 16.9,
         "forward_return": 8.48,
         "start_price": 89.2,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.28,
+        "pe_ratio": 15.61,
         "forward_return": 8.22,
         "start_price": 88.1,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 15.24,
         "forward_return": 6.44,
         "start_price": 91.6,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 15.08,
         "forward_return": 7.24,
         "start_price": 91.1,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.42,
         "forward_return": 6.66,
         "start_price": 93.6,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 18.05,
+        "pe_ratio": 16.2,
         "forward_return": 6.93,
         "start_price": 98.8,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 17.96,
+        "pe_ratio": 16.38,
         "forward_return": 3.3,
         "start_price": 100.0,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.34,
         "forward_return": 2.72,
         "start_price": 99.9,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.63,
+        "pe_ratio": 16.58,
         "forward_return": 1.96,
         "start_price": 101.5,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.17,
+        "pe_ratio": 16.49,
         "forward_return": 2.41,
         "start_price": 100.5,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 16.75,
+        "pe_ratio": 16.42,
         "forward_return": 1.99,
         "start_price": 99.6,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.1,
+        "pe_ratio": 16.18,
         "forward_return": 3.33,
         "start_price": 96.2,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.44,
         "forward_return": 7.22,
         "start_price": 90.4,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.78,
         "forward_return": 7.23,
         "start_price": 90.9,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 16.06,
         "forward_return": 7.19,
         "start_price": 91.4,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.05,
         "forward_return": 8.83,
         "start_price": 90.2,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 16.65,
+        "pe_ratio": 16.94,
         "forward_return": 6.7,
         "start_price": 94.0,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 16.38,
         "forward_return": 6.14,
         "start_price": 90.0,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.65,
         "forward_return": 6.57,
         "start_price": 90.5,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 17.45,
         "forward_return": 4.01,
         "start_price": 93.9,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 17.01,
+        "pe_ratio": 17.16,
         "forward_return": 5.83,
         "start_price": 91.6,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.66,
+        "pe_ratio": 17.73,
         "forward_return": 4.67,
         "start_price": 93.9,
         "start_year": 2012
@@ -7077,7 +7077,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 18.1,
         "forward_return": 7.74,
         "start_price": 93.8,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 18.37,
+        "pe_ratio": 18.56,
         "forward_return": 5.79,
         "start_price": 95.5,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.96,
         "forward_return": 3.03,
         "start_price": 102.0,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.78,
         "forward_return": 5.82,
         "start_price": 95.9,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 18.32,
+        "pe_ratio": 18.54,
         "forward_return": 6.94,
         "start_price": 94.6,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.57,
         "forward_return": 6.89,
         "start_price": 94.7,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 18.4,
+        "pe_ratio": 18.52,
         "forward_return": 7.39,
         "start_price": 94.6,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.15,
         "forward_return": 8.47,
         "start_price": 92.8,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 17.99,
+        "pe_ratio": 17.79,
         "forward_return": 10.34,
         "start_price": 91.9,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 18.05,
+        "pe_ratio": 17.65,
         "forward_return": 11.27,
         "start_price": 92.0,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 17.81,
         "forward_return": 12.63,
         "start_price": 93.7,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 18.57,
+        "pe_ratio": 17.93,
         "forward_return": 12.09,
         "start_price": 94.2,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.3,
         "forward_return": 11.51,
         "start_price": 96.0,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.36,
         "forward_return": 14.38,
         "start_price": 96.2,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.16,
+        "pe_ratio": 17.58,
         "forward_return": 16.33,
         "start_price": 91.5,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.48,
+        "pe_ratio": 17.98,
         "forward_return": 15.68,
         "start_price": 92.9,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.88,
         "forward_return": 14.78,
         "start_price": 91.7,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.25,
         "forward_return": 12.98,
         "start_price": 92.7,
         "start_year": 2014
@@ -7248,7 +7248,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.49,
         "forward_return": 12.56,
         "start_price": 93.0,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.16,
         "forward_return": 8.45,
         "start_price": 95.5,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.69,
         "forward_return": 6.95,
         "start_price": 98.2,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 19.45,
+        "pe_ratio": 19.94,
         "forward_return": 6.72,
         "start_price": 99.5,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 19.72,
         "forward_return": 6.52,
         "start_price": 99.0,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 18.64,
+        "pe_ratio": 19.21,
         "forward_return": 10.21,
         "start_price": 97.0,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.37,
         "forward_return": 9.66,
         "start_price": 98.4,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.51,
+        "pe_ratio": 18.97,
         "forward_return": 7.1,
         "start_price": 98.0,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 18.5,
+        "pe_ratio": 18.81,
         "forward_return": 8.08,
         "start_price": 98.8,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 18.35,
+        "pe_ratio": 18.5,
         "forward_return": 7.85,
         "start_price": 98.8,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 18.36,
+        "pe_ratio": 18.46,
         "forward_return": 6.66,
         "start_price": 99.7,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.28,
         "forward_return": 6.84,
         "start_price": 99.8,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 18.67,
+        "pe_ratio": 18.41,
         "forward_return": 7.71,
         "start_price": 102.5,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 19.14,
+        "pe_ratio": 18.62,
         "forward_return": 8.33,
         "start_price": 104.5,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 19.35,
         "forward_return": 6.17,
         "start_price": 109.5,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 20.19,
+        "pe_ratio": 19.25,
         "forward_return": 6.42,
         "start_price": 109.0,
         "start_year": 2016
@@ -7410,7 +7410,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.41,
         "forward_return": 4.2,
         "start_price": 110.0,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 21.82,
+        "pe_ratio": 20.55,
         "forward_return": 1.67,
         "start_price": 116.5,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 21.37,
+        "pe_ratio": 20.36,
         "forward_return": 0.98,
         "start_price": 113.5,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 21.59,
+        "pe_ratio": 20.82,
         "forward_return": 1.84,
         "start_price": 114.0,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 21.05,
+        "pe_ratio": 20.54,
         "forward_return": 4.1,
         "start_price": 110.5,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 20.35,
         "forward_return": 5.08,
         "start_price": 108.0,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.54,
         "forward_return": 4.21,
         "start_price": 107.5,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 19.82,
+        "pe_ratio": 20.09,
         "forward_return": 6.99,
         "start_price": 102.0,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.86,
+        "pe_ratio": 20.43,
         "forward_return": 6.99,
         "start_price": 102.0,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 20.98,
         "forward_return": 7.6,
         "start_price": 103.0,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.96,
+        "pe_ratio": 20.92,
         "forward_return": 8.8,
         "start_price": 102.0,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 22.2,
         "forward_return": 6.64,
         "start_price": 107.5,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 21.24,
+        "pe_ratio": 22.45,
         "forward_return": 6.61,
         "start_price": 108.0,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 21.09,
         "forward_return": 7.23,
         "start_price": 102.0,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 21.59,
         "forward_return": 6.14,
         "start_price": 105.0,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 20.7,
+        "pe_ratio": 21.37,
         "forward_return": 7.29,
         "start_price": 104.5,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 20.46,
+        "pe_ratio": 20.89,
         "forward_return": 8.52,
         "start_price": 103.0,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 20.61,
+        "pe_ratio": 20.82,
         "forward_return": 8.7,
         "start_price": 103.5,
         "start_year": 2017
@@ -7590,7 +7590,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 21.79,
         "forward_return": 3.97,
         "start_price": 108.5,
         "start_year": 2018
@@ -7599,7 +7599,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.12,
         "forward_return": 3.49,
         "start_price": 109.5,
         "start_year": 2018
@@ -7608,7 +7608,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 22.97,
         "forward_return": 1.66,
         "start_price": 113.0,
         "start_year": 2018
@@ -7617,7 +7617,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.11,
         "forward_return": 2.52,
         "start_price": 113.0,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.56,
+        "pe_ratio": 22.43,
         "forward_return": 4.82,
         "start_price": 109.0,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.94,
+        "pe_ratio": 22.77,
         "forward_return": 7.14,
         "start_price": 110.0,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.27,
+        "pe_ratio": 22.28,
         "forward_return": 5.6,
         "start_price": 106.0,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 22.97,
+        "pe_ratio": 23.17,
         "forward_return": 3.93,
         "start_price": 108.5,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.47,
+        "pe_ratio": 23.86,
         "forward_return": 2.56,
         "start_price": 110.0,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.54,
+        "pe_ratio": 23.8,
         "forward_return": 2.79,
         "start_price": 109.5,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 23.18,
+        "pe_ratio": 23.31,
         "forward_return": 4.66,
         "start_price": 107.0,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.43,
         "forward_return": 4.43,
         "start_price": 107.0,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.66,
+        "pe_ratio": 23.5,
         "forward_return": 5.1,
         "start_price": 107.0,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.12,
         "forward_return": 4.77,
         "start_price": 109.5,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.87,
+        "pe_ratio": 24.78,
         "forward_return": 5.14,
         "start_price": 111.0,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.45,
         "forward_return": 4.22,
         "start_price": 112.5,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.92,
         "forward_return": 4.2,
         "start_price": 113.0,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.68,
+        "pe_ratio": 24.88,
         "forward_return": 6.94,
         "start_price": 108.0,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.08,
+        "pe_ratio": 25.23,
         "forward_return": 5.15,
         "start_price": 109.0,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.71,
+        "pe_ratio": 25.81,
         "forward_return": 3.55,
         "start_price": 111.0,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 26.19,
         "forward_return": 3.09,
         "start_price": 112.0,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 26.53,
+        "pe_ratio": 26.57,
         "forward_return": 3.28,
         "start_price": 113.0,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 25.49,
+        "pe_ratio": 25.53,
         "forward_return": 8.02,
         "start_price": 108.0,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.53,
         "forward_return": 11.53,
         "start_price": 108.0,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 25.29,
+        "pe_ratio": 25.41,
         "forward_return": 12.29,
         "start_price": 107.5,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.93,
         "forward_return": 12.89,
         "start_price": 109.5,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.21,
         "forward_return": 10.76,
         "start_price": 110.5,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 27.4,
+        "pe_ratio": 27.79,
         "forward_return": 5.63,
         "start_price": 117.0,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 25.6,
+        "pe_ratio": 25.93,
         "forward_return": 9.14,
         "start_price": 109.5,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 25.33,
+        "pe_ratio": 25.61,
         "forward_return": 9.43,
         "start_price": 108.5,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 24.94,
+        "pe_ratio": 25.18,
         "forward_return": 7.18,
         "start_price": 107.0,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 25.06,
         "forward_return": 5.87,
         "start_price": 107.0,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 25.21,
+        "pe_ratio": 25.29,
         "forward_return": 6.22,
         "start_price": 108.5,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 24.9,
         "forward_return": 6.03,
         "start_price": 108.0,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 25.11,
+        "pe_ratio": 25.1,
         "forward_return": 6.6,
         "start_price": 109.5,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 25.43,
+        "pe_ratio": 25.4,
         "forward_return": 7.32,
         "start_price": 111.5,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 25.85,
+        "pe_ratio": 25.91,
         "forward_return": 9.2,
         "start_price": 114.0,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.59,
+        "pe_ratio": 25.74,
         "forward_return": 9.03,
         "start_price": 113.5,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 25.56,
+        "pe_ratio": 25.79,
         "forward_return": 4.89,
         "start_price": 114.0,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.75,
         "forward_return": 4.39,
         "start_price": 115.0,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.82,
         "forward_return": 5.78,
         "start_price": 112.0,
         "start_year": 2021
@@ -7986,15 +7986,6 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.37,
-        "forward_return": 6.5,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-10-16",
         "pe_ratio": 24.23,
         "forward_return": 6.5,
         "start_price": 110.5,
@@ -8003,8 +7994,17 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
       {
         "horizon": "2y",
         "horizon_label": "2年",
+        "start_date": "2021-10-16",
+        "pe_ratio": 24.14,
+        "forward_return": 6.5,
+        "start_price": 110.5,
+        "start_year": 2021
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 24.43,
+        "pe_ratio": 24.38,
         "forward_return": 7.25,
         "start_price": 112.0,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.41,
         "forward_return": 4.5,
         "start_price": 117.5,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 26.92,
+        "pe_ratio": 26.85,
         "forward_return": 2.11,
         "start_price": 124.5,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.31,
         "forward_return": 3.22,
         "start_price": 127.0,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 28.23,
+        "pe_ratio": 28.01,
         "forward_return": 0.88,
         "start_price": 131.0,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 27.33,
+        "pe_ratio": 27.0,
         "forward_return": 3.98,
         "start_price": 127.0,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.79,
         "forward_return": 5.12,
         "start_price": 122.0,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 26.06,
+        "pe_ratio": 25.69,
         "forward_return": 3.82,
         "start_price": 121.5,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 25.91,
+        "pe_ratio": 25.58,
         "forward_return": 5.02,
         "start_price": 121.0,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.1,
         "forward_return": 8.8,
         "start_price": 114.0,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 23.52,
         "forward_return": 8.82,
         "start_price": 111.0,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 24.19,
+        "pe_ratio": 24.1,
         "forward_return": 8.02,
         "start_price": 113.5,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 23.91,
+        "pe_ratio": 23.82,
         "forward_return": 9.12,
         "start_price": 112.5,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 24.52,
+        "pe_ratio": 24.33,
         "forward_return": 9.09,
         "start_price": 115.5,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 25.34,
+        "pe_ratio": 25.05,
         "forward_return": 7.44,
         "start_price": 119.5,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 26.55,
         "forward_return": 4.6,
         "start_price": 127.0,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 26.67,
+        "pe_ratio": 26.27,
         "forward_return": 5.01,
         "start_price": 126.0,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 24.63,
+        "pe_ratio": 24.22,
         "forward_return": 11.35,
         "start_price": 116.5,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 24.5,
+        "pe_ratio": 24.18,
         "forward_return": 9.36,
         "start_price": 116.0,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.47,
+        "pe_ratio": 24.25,
         "forward_return": 10.73,
         "start_price": 116.0,
         "start_year": 2023
@@ -8202,7 +8202,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 24.45,
+        "pe_ratio": 24.32,
         "forward_return": 11.12,
         "start_price": 116.0,
         "start_year": 2023
@@ -8211,7 +8211,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 24.42,
+        "pe_ratio": 24.34,
         "forward_return": 10.15,
         "start_price": 116.0,
         "start_year": 2023
@@ -8220,7 +8220,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 25.13,
+        "pe_ratio": 25.09,
         "forward_return": 8.33,
         "start_price": 119.5,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 24.98,
+        "pe_ratio": 25.07,
         "forward_return": 9.71,
         "start_price": 119.0,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 12.8,
         "forward_return": 6.55,
         "start_price": 61.2,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.91,
         "forward_return": 7.02,
         "start_price": 61.3,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.73,
         "forward_return": 7.31,
         "start_price": 60.0,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.5,
         "forward_return": 9.89,
         "start_price": 58.5,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.05,
         "forward_return": 8.71,
         "start_price": 60.3,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.84,
         "forward_return": 8.02,
         "start_price": 54.0,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 12.2,
         "forward_return": 8.21,
         "start_price": 54.9,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.31,
+        "pe_ratio": 12.55,
         "forward_return": 6.71,
         "start_price": 57.0,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 12.82,
         "forward_return": 5.61,
         "start_price": 58.8,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.43,
         "forward_return": 3.35,
         "start_price": 63.2,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.45,
+        "pe_ratio": 12.98,
         "forward_return": 4.79,
         "start_price": 62.1,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 13.19,
         "forward_return": 4.79,
         "start_price": 64.1,
         "start_year": 2007
@@ -8364,7 +8364,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 13.37,
         "forward_return": 5.06,
         "start_price": 63.1,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.54,
         "forward_return": 5.87,
         "start_price": 62.0,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.65,
+        "pe_ratio": 14.12,
         "forward_return": 6.42,
         "start_price": 62.7,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 12.98,
         "start_price": 55.5,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.96,
         "forward_return": 9.83,
         "start_price": 58.6,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.38,
         "forward_return": 10.43,
         "start_price": 61.0,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.62,
         "forward_return": 10.48,
         "start_price": 62.1,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.1,
+        "pe_ratio": 14.12,
         "forward_return": 10.18,
         "start_price": 64.4,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.89,
+        "pe_ratio": 14.55,
         "forward_return": 14.22,
         "start_price": 68.0,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 16.95,
+        "pe_ratio": 16.19,
         "forward_return": 9.93,
         "start_price": 77.5,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 17.45,
+        "pe_ratio": 16.31,
         "forward_return": 9.1,
         "start_price": 79.9,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 17.11,
+        "pe_ratio": 16.02,
         "forward_return": 9.57,
         "start_price": 78.5,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.42,
+        "pe_ratio": 15.39,
         "forward_return": 11.94,
         "start_price": 75.4,
         "start_year": 2008
@@ -8490,7 +8490,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 17.07,
+        "pe_ratio": 16.02,
         "forward_return": 12.23,
         "start_price": 78.5,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.85,
         "forward_return": 13.45,
         "start_price": 77.7,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.04,
         "forward_return": 12.93,
         "start_price": 78.7,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.21,
         "forward_return": 15.45,
         "start_price": 74.7,
         "start_year": 2008
@@ -8526,7 +8526,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 11.29,
         "forward_return": 27.96,
         "start_price": 54.4,
         "start_year": 2008
@@ -8535,7 +8535,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.33,
+        "pe_ratio": 11.1,
         "forward_return": 29.14,
         "start_price": 52.5,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.01,
         "forward_return": 28.99,
         "start_price": 51.1,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.67,
+        "pe_ratio": 11.62,
         "forward_return": 24.44,
         "start_price": 53.9,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.34,
         "forward_return": 19.0,
         "start_price": 61.9,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 13.71,
+        "pe_ratio": 14.09,
         "forward_return": 18.49,
         "start_price": 63.0,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 14.42,
         "forward_return": 18.67,
         "start_price": 62.0,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.32,
+        "pe_ratio": 15.86,
         "forward_return": 17.92,
         "start_price": 65.5,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.42,
+        "pe_ratio": 15.73,
         "forward_return": 16.87,
         "start_price": 65.8,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.31,
         "forward_return": 23.22,
         "start_price": 56.4,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.5,
         "forward_return": 23.45,
         "start_price": 57.9,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.2,
         "forward_return": 22.79,
         "start_price": 57.6,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.98,
         "forward_return": 23.66,
         "start_price": 57.6,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.77,
         "forward_return": 23.35,
         "start_price": 58.1,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.07,
+        "pe_ratio": 13.03,
         "forward_return": 21.49,
         "start_price": 59.8,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.41,
         "forward_return": 20.19,
         "start_price": 62.1,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.12,
         "forward_return": 20.96,
         "start_price": 61.5,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.05,
         "forward_return": 21.32,
         "start_price": 61.9,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 13.31,
         "forward_return": 22.35,
         "start_price": 63.9,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.05,
         "forward_return": 18.23,
         "start_price": 67.9,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.71,
+        "pe_ratio": 13.46,
         "forward_return": 19.2,
         "start_price": 65.5,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.55,
+        "pe_ratio": 14.29,
         "forward_return": 16.62,
         "start_price": 70.0,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 14.6,
         "forward_return": 15.71,
         "start_price": 71.6,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 13.82,
         "start_price": 74.0,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 16.9,
         "forward_return": 6.66,
         "start_price": 89.2,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.28,
+        "pe_ratio": 15.61,
         "forward_return": 7.13,
         "start_price": 88.1,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 15.24,
         "forward_return": 6.3,
         "start_price": 91.6,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 15.08,
         "forward_return": 6.66,
         "start_price": 91.1,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.42,
         "forward_return": 6.27,
         "start_price": 93.6,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 18.05,
+        "pe_ratio": 16.2,
         "forward_return": 4.43,
         "start_price": 98.8,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 17.96,
+        "pe_ratio": 16.38,
         "forward_return": 2.23,
         "start_price": 100.0,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.34,
         "forward_return": 2.71,
         "start_price": 99.9,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.63,
+        "pe_ratio": 16.58,
         "forward_return": 1.79,
         "start_price": 101.5,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.17,
+        "pe_ratio": 16.49,
         "forward_return": 2.44,
         "start_price": 100.5,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 16.75,
+        "pe_ratio": 16.42,
         "forward_return": 2.84,
         "start_price": 99.6,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.1,
+        "pe_ratio": 16.18,
         "forward_return": 4.83,
         "start_price": 96.2,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.44,
         "forward_return": 8.08,
         "start_price": 90.4,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.78,
         "forward_return": 8.11,
         "start_price": 90.9,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 16.06,
         "forward_return": 7.75,
         "start_price": 91.4,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.05,
         "forward_return": 7.6,
         "start_price": 90.2,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 16.65,
+        "pe_ratio": 16.94,
         "forward_return": 6.56,
         "start_price": 94.0,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 16.38,
         "forward_return": 7.8,
         "start_price": 90.0,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.65,
         "forward_return": 7.86,
         "start_price": 90.5,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 17.45,
         "forward_return": 6.54,
         "start_price": 93.9,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 17.01,
+        "pe_ratio": 17.16,
         "forward_return": 7.71,
         "start_price": 91.6,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.66,
+        "pe_ratio": 17.73,
         "forward_return": 6.85,
         "start_price": 93.9,
         "start_year": 2012
@@ -9012,7 +9012,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 18.1,
         "forward_return": 9.67,
         "start_price": 93.8,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 18.37,
+        "pe_ratio": 18.56,
         "forward_return": 9.31,
         "start_price": 95.5,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.96,
         "forward_return": 8.76,
         "start_price": 102.0,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.78,
         "forward_return": 10.2,
         "start_price": 95.9,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 18.32,
+        "pe_ratio": 18.54,
         "forward_return": 10.85,
         "start_price": 94.6,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.57,
         "forward_return": 9.8,
         "start_price": 94.7,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 18.4,
+        "pe_ratio": 18.52,
         "forward_return": 9.1,
         "start_price": 94.6,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.15,
         "forward_return": 9.66,
         "start_price": 92.8,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 17.99,
+        "pe_ratio": 17.79,
         "forward_return": 8.34,
         "start_price": 91.9,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 18.05,
+        "pe_ratio": 17.65,
         "forward_return": 8.3,
         "start_price": 92.0,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 17.81,
         "forward_return": 7.95,
         "start_price": 93.7,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 18.57,
+        "pe_ratio": 17.93,
         "forward_return": 7.45,
         "start_price": 94.2,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.3,
         "forward_return": 8.42,
         "start_price": 96.0,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.36,
         "forward_return": 8.5,
         "start_price": 96.2,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.16,
+        "pe_ratio": 17.58,
         "forward_return": 8.63,
         "start_price": 91.5,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.48,
+        "pe_ratio": 17.98,
         "forward_return": 8.99,
         "start_price": 92.9,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.88,
         "forward_return": 9.31,
         "start_price": 91.7,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.25,
         "forward_return": 8.46,
         "start_price": 92.7,
         "start_year": 2014
@@ -9183,7 +9183,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.49,
         "forward_return": 8.5,
         "start_price": 93.0,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.16,
         "forward_return": 9.03,
         "start_price": 95.5,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.69,
         "forward_return": 8.31,
         "start_price": 98.2,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 19.45,
+        "pe_ratio": 19.94,
         "forward_return": 8.84,
         "start_price": 99.5,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 19.72,
         "forward_return": 9.02,
         "start_price": 99.0,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 18.64,
+        "pe_ratio": 19.21,
         "forward_return": 8.61,
         "start_price": 97.0,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.37,
         "forward_return": 8.38,
         "start_price": 98.4,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.51,
+        "pe_ratio": 18.97,
         "forward_return": 7.34,
         "start_price": 98.0,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 18.5,
+        "pe_ratio": 18.81,
         "forward_return": 7.78,
         "start_price": 98.8,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 18.35,
+        "pe_ratio": 18.5,
         "forward_return": 8.22,
         "start_price": 98.8,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 18.36,
+        "pe_ratio": 18.46,
         "forward_return": 7.75,
         "start_price": 99.7,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.28,
         "forward_return": 6.99,
         "start_price": 99.8,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 18.67,
+        "pe_ratio": 18.41,
         "forward_return": 6.04,
         "start_price": 102.5,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 19.14,
+        "pe_ratio": 18.62,
         "forward_return": 5.91,
         "start_price": 104.5,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 19.35,
         "forward_return": 4.44,
         "start_price": 109.5,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 20.19,
+        "pe_ratio": 19.25,
         "forward_return": 5.02,
         "start_price": 109.0,
         "start_year": 2016
@@ -9345,7 +9345,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.41,
         "forward_return": 5.11,
         "start_price": 110.0,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 21.82,
+        "pe_ratio": 20.55,
         "forward_return": 3.25,
         "start_price": 116.5,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 21.37,
+        "pe_ratio": 20.36,
         "forward_return": 2.5,
         "start_price": 113.5,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 21.59,
+        "pe_ratio": 20.82,
         "forward_return": 2.63,
         "start_price": 114.0,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 21.05,
+        "pe_ratio": 20.54,
         "forward_return": 4.26,
         "start_price": 110.5,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 20.35,
         "forward_return": 5.34,
         "start_price": 108.0,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.54,
         "forward_return": 5.78,
         "start_price": 107.5,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 19.82,
+        "pe_ratio": 20.09,
         "forward_return": 6.22,
         "start_price": 102.0,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.86,
+        "pe_ratio": 20.43,
         "forward_return": 6.22,
         "start_price": 102.0,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 20.98,
         "forward_return": 5.72,
         "start_price": 103.0,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.96,
+        "pe_ratio": 20.92,
         "forward_return": 6.64,
         "start_price": 102.0,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 22.2,
         "forward_return": 5.08,
         "start_price": 107.5,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 21.24,
+        "pe_ratio": 22.45,
         "forward_return": 6.7,
         "start_price": 108.0,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 21.09,
         "forward_return": 6.44,
         "start_price": 102.0,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 21.59,
         "forward_return": 5.13,
         "start_price": 105.0,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 20.7,
+        "pe_ratio": 21.37,
         "forward_return": 4.86,
         "start_price": 104.5,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 20.46,
+        "pe_ratio": 20.89,
         "forward_return": 5.37,
         "start_price": 103.0,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 20.61,
+        "pe_ratio": 20.82,
         "forward_return": 5.63,
         "start_price": 103.5,
         "start_year": 2017
@@ -9525,7 +9525,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 21.79,
         "forward_return": 3.84,
         "start_price": 108.5,
         "start_year": 2018
@@ -9534,7 +9534,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.12,
         "forward_return": 3.95,
         "start_price": 109.5,
         "start_year": 2018
@@ -9543,7 +9543,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 22.97,
         "forward_return": 3.42,
         "start_price": 113.0,
         "start_year": 2018
@@ -9552,7 +9552,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.11,
         "forward_return": 4.11,
         "start_price": 113.0,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.56,
+        "pe_ratio": 22.43,
         "forward_return": 5.23,
         "start_price": 109.0,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.94,
+        "pe_ratio": 22.77,
         "forward_return": 5.04,
         "start_price": 110.0,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.27,
+        "pe_ratio": 22.28,
         "forward_return": 6.49,
         "start_price": 106.0,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 22.97,
+        "pe_ratio": 23.17,
         "forward_return": 4.83,
         "start_price": 108.5,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.47,
+        "pe_ratio": 23.86,
         "forward_return": 3.94,
         "start_price": 110.0,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.54,
+        "pe_ratio": 23.8,
         "forward_return": 4.09,
         "start_price": 109.5,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 23.18,
+        "pe_ratio": 23.31,
         "forward_return": 5.32,
         "start_price": 107.0,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.43,
         "forward_return": 6.84,
         "start_price": 107.0,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.66,
+        "pe_ratio": 23.5,
         "forward_return": 8.72,
         "start_price": 107.0,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.12,
         "forward_return": 8.54,
         "start_price": 109.5,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.87,
+        "pe_ratio": 24.78,
         "forward_return": 9.06,
         "start_price": 111.0,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.45,
         "forward_return": 7.56,
         "start_price": 112.5,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.92,
         "forward_return": 6.11,
         "start_price": 113.0,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.68,
+        "pe_ratio": 24.88,
         "forward_return": 7.62,
         "start_price": 108.0,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.08,
+        "pe_ratio": 25.23,
         "forward_return": 7.16,
         "start_price": 109.0,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.71,
+        "pe_ratio": 25.81,
         "forward_return": 4.63,
         "start_price": 111.0,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 26.19,
         "forward_return": 3.49,
         "start_price": 112.0,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 26.53,
+        "pe_ratio": 26.57,
         "forward_return": 3.87,
         "start_price": 113.0,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 25.49,
+        "pe_ratio": 25.53,
         "forward_return": 5.17,
         "start_price": 108.0,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.53,
         "forward_return": 6.9,
         "start_price": 108.0,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 25.29,
+        "pe_ratio": 25.41,
         "forward_return": 7.26,
         "start_price": 107.5,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.93,
         "forward_return": 8.58,
         "start_price": 109.5,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.21,
         "forward_return": 7.99,
         "start_price": 110.5,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 27.4,
+        "pe_ratio": 27.79,
         "forward_return": 3.48,
         "start_price": 117.0,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 25.6,
+        "pe_ratio": 25.93,
         "forward_return": 5.79,
         "start_price": 109.5,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 25.33,
+        "pe_ratio": 25.61,
         "forward_return": 6.11,
         "start_price": 108.5,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 24.94,
+        "pe_ratio": 25.18,
         "forward_return": 6.6,
         "start_price": 107.0,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 25.06,
         "forward_return": 6.6,
         "start_price": 107.0,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 25.21,
+        "pe_ratio": 25.29,
         "forward_return": 7.06,
         "start_price": 108.5,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 24.9,
         "forward_return": 7.09,
         "start_price": 108.0,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 25.11,
+        "pe_ratio": 25.1,
         "forward_return": 7.0,
         "start_price": 109.5,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 25.43,
+        "pe_ratio": 25.4,
         "forward_return": 7.78,
         "start_price": 111.5,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 25.85,
+        "pe_ratio": 25.91,
         "forward_return": 6.48,
         "start_price": 114.0,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.59,
+        "pe_ratio": 25.74,
         "forward_return": 7.65,
         "start_price": 113.5,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 25.56,
+        "pe_ratio": 25.79,
         "forward_return": 6.86,
         "start_price": 114.0,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.75,
         "forward_return": 5.64,
         "start_price": 115.0,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.82,
         "forward_return": 7.22,
         "start_price": 112.0,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.23,
         "forward_return": 8.09,
         "start_price": 110.5,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 24.23,
+        "pe_ratio": 24.14,
         "forward_return": 7.18,
         "start_price": 110.5,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 24.43,
+        "pe_ratio": 24.38,
         "forward_return": 6.96,
         "start_price": 112.0,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.41,
         "forward_return": 5.65,
         "start_price": 117.5,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 26.92,
+        "pe_ratio": 26.85,
         "forward_return": 4.5,
         "start_price": 124.5,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 27.42,
+        "pe_ratio": 27.31,
         "forward_return": 3.93,
         "start_price": 127.0,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 28.23,
+        "pe_ratio": 28.01,
         "forward_return": 3.1,
         "start_price": 131.0,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 27.33,
+        "pe_ratio": 27.0,
         "forward_return": 4.17,
         "start_price": 127.0,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 26.21,
+        "pe_ratio": 25.79,
         "forward_return": 6.91,
         "start_price": 122.0,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 26.06,
+        "pe_ratio": 25.69,
         "forward_return": 5.69,
         "start_price": 121.5,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 25.91,
+        "pe_ratio": 25.58,
         "forward_return": 6.69,
         "start_price": 121.0,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.1,
         "forward_return": 9.08,
         "start_price": 114.0,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 23.69,
+        "pe_ratio": 23.52,
         "forward_return": 9.43,
         "start_price": 111.0,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 24.19,
+        "pe_ratio": 24.1,
         "forward_return": 8.49,
         "start_price": 113.5,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 23.91,
+        "pe_ratio": 23.82,
         "forward_return": 9.56,
         "start_price": 112.5,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 24.52,
+        "pe_ratio": 24.33,
         "forward_return": 8.73,
         "start_price": 115.5,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 12.8,
         "forward_return": 6.28,
         "start_price": 61.2,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.91,
         "forward_return": 6.03,
         "start_price": 61.3,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.73,
         "forward_return": 6.73,
         "start_price": 60.0,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.5,
         "forward_return": 8.1,
         "start_price": 58.5,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.05,
         "forward_return": 8.52,
         "start_price": 60.3,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.84,
         "forward_return": 10.75,
         "start_price": 54.0,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 12.2,
         "forward_return": 11.79,
         "start_price": 54.9,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.31,
+        "pe_ratio": 12.55,
         "forward_return": 11.26,
         "start_price": 57.0,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 12.82,
         "forward_return": 11.15,
         "start_price": 58.8,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.43,
         "forward_return": 13.51,
         "start_price": 63.2,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.45,
+        "pe_ratio": 12.98,
         "forward_return": 13.71,
         "start_price": 62.1,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 13.19,
         "forward_return": 13.75,
         "start_price": 64.1,
         "start_year": 2007
@@ -10200,7 +10200,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 13.37,
         "forward_return": 14.07,
         "start_price": 63.1,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.54,
         "forward_return": 15.24,
         "start_price": 62.0,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.65,
+        "pe_ratio": 14.12,
         "forward_return": 16.26,
         "start_price": 62.7,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 20.67,
         "start_price": 55.5,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.96,
         "forward_return": 19.02,
         "start_price": 58.6,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.38,
         "forward_return": 18.23,
         "start_price": 61.0,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.62,
         "forward_return": 17.45,
         "start_price": 62.1,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.1,
+        "pe_ratio": 14.12,
         "forward_return": 16.17,
         "start_price": 64.4,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.89,
+        "pe_ratio": 14.55,
         "forward_return": 13.76,
         "start_price": 68.0,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 16.95,
+        "pe_ratio": 16.19,
         "forward_return": 8.67,
         "start_price": 77.5,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 17.45,
+        "pe_ratio": 16.31,
         "forward_return": 7.97,
         "start_price": 79.9,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 17.11,
+        "pe_ratio": 16.02,
         "forward_return": 8.57,
         "start_price": 78.5,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.42,
+        "pe_ratio": 15.39,
         "forward_return": 9.37,
         "start_price": 75.4,
         "start_year": 2008
@@ -10326,7 +10326,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 17.07,
+        "pe_ratio": 16.02,
         "forward_return": 9.21,
         "start_price": 78.5,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.85,
         "forward_return": 8.8,
         "start_price": 77.7,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.04,
         "forward_return": 8.58,
         "start_price": 78.7,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.21,
         "forward_return": 10.85,
         "start_price": 74.7,
         "start_year": 2008
@@ -10362,7 +10362,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 11.29,
         "forward_return": 19.38,
         "start_price": 54.4,
         "start_year": 2008
@@ -10371,7 +10371,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.33,
+        "pe_ratio": 11.1,
         "forward_return": 21.06,
         "start_price": 52.5,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.01,
         "forward_return": 21.91,
         "start_price": 51.1,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.67,
+        "pe_ratio": 11.62,
         "forward_return": 19.81,
         "start_price": 53.9,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.34,
         "forward_return": 15.9,
         "start_price": 61.9,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 13.71,
+        "pe_ratio": 14.09,
         "forward_return": 15.64,
         "start_price": 63.0,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 14.42,
         "forward_return": 16.54,
         "start_price": 62.0,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.32,
+        "pe_ratio": 15.86,
         "forward_return": 16.55,
         "start_price": 65.5,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.42,
+        "pe_ratio": 15.73,
         "forward_return": 15.3,
         "start_price": 65.8,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.31,
         "forward_return": 19.5,
         "start_price": 56.4,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.5,
         "forward_return": 18.74,
         "start_price": 57.9,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.2,
         "forward_return": 18.87,
         "start_price": 57.6,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.98,
         "forward_return": 18.4,
         "start_price": 57.6,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.77,
         "forward_return": 17.91,
         "start_price": 58.1,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.07,
+        "pe_ratio": 13.03,
         "forward_return": 17.09,
         "start_price": 59.8,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.41,
         "forward_return": 16.42,
         "start_price": 62.1,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.12,
         "forward_return": 16.83,
         "start_price": 61.5,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.05,
         "forward_return": 17.1,
         "start_price": 61.9,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 13.31,
         "forward_return": 16.22,
         "start_price": 63.9,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.05,
         "forward_return": 13.42,
         "start_price": 67.9,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.71,
+        "pe_ratio": 13.46,
         "forward_return": 14.8,
         "start_price": 65.5,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.55,
+        "pe_ratio": 14.29,
         "forward_return": 12.61,
         "start_price": 70.0,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 14.6,
         "forward_return": 12.22,
         "start_price": 71.6,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 11.37,
         "start_price": 74.0,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 16.9,
         "forward_return": 6.87,
         "start_price": 89.2,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.28,
+        "pe_ratio": 15.61,
         "forward_return": 7.82,
         "start_price": 88.1,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 15.24,
         "forward_return": 7.06,
         "start_price": 91.6,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 15.08,
         "forward_return": 7.1,
         "start_price": 91.1,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.42,
         "forward_return": 5.93,
         "start_price": 93.6,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 18.05,
+        "pe_ratio": 16.2,
         "forward_return": 4.82,
         "start_price": 98.8,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 17.96,
+        "pe_ratio": 16.38,
         "forward_return": 4.27,
         "start_price": 100.0,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.34,
         "forward_return": 4.47,
         "start_price": 99.9,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.63,
+        "pe_ratio": 16.58,
         "forward_return": 4.05,
         "start_price": 101.5,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.17,
+        "pe_ratio": 16.49,
         "forward_return": 4.51,
         "start_price": 100.5,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 16.75,
+        "pe_ratio": 16.42,
         "forward_return": 4.77,
         "start_price": 99.6,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.1,
+        "pe_ratio": 16.18,
         "forward_return": 6.27,
         "start_price": 96.2,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.44,
         "forward_return": 8.37,
         "start_price": 90.4,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.78,
         "forward_return": 9.29,
         "start_price": 90.9,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 16.06,
         "forward_return": 9.04,
         "start_price": 91.4,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.05,
         "forward_return": 9.61,
         "start_price": 90.2,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 16.65,
+        "pe_ratio": 16.94,
         "forward_return": 9.81,
         "start_price": 94.0,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 16.38,
         "forward_return": 10.4,
         "start_price": 90.0,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.65,
         "forward_return": 10.35,
         "start_price": 90.5,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 17.45,
         "forward_return": 8.62,
         "start_price": 93.9,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 17.01,
+        "pe_ratio": 17.16,
         "forward_return": 8.77,
         "start_price": 91.6,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.66,
+        "pe_ratio": 17.73,
         "forward_return": 7.99,
         "start_price": 93.9,
         "start_year": 2012
@@ -10848,7 +10848,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 18.1,
         "forward_return": 6.84,
         "start_price": 93.8,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 18.37,
+        "pe_ratio": 18.56,
         "forward_return": 7.54,
         "start_price": 95.5,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.96,
         "forward_return": 5.89,
         "start_price": 102.0,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.78,
         "forward_return": 6.16,
         "start_price": 95.9,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 18.32,
+        "pe_ratio": 18.54,
         "forward_return": 7.17,
         "start_price": 94.6,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.57,
         "forward_return": 7.04,
         "start_price": 94.7,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 18.4,
+        "pe_ratio": 18.52,
         "forward_return": 6.74,
         "start_price": 94.6,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.15,
         "forward_return": 7.36,
         "start_price": 92.8,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 17.99,
+        "pe_ratio": 17.79,
         "forward_return": 8.7,
         "start_price": 91.9,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 18.05,
+        "pe_ratio": 17.65,
         "forward_return": 8.88,
         "start_price": 92.0,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 17.81,
         "forward_return": 9.11,
         "start_price": 93.7,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 18.57,
+        "pe_ratio": 17.93,
         "forward_return": 8.97,
         "start_price": 94.2,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.3,
         "forward_return": 7.63,
         "start_price": 96.0,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.36,
         "forward_return": 7.78,
         "start_price": 96.2,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.16,
+        "pe_ratio": 17.58,
         "forward_return": 8.34,
         "start_price": 91.5,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.48,
+        "pe_ratio": 17.98,
         "forward_return": 8.46,
         "start_price": 92.9,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.88,
         "forward_return": 9.13,
         "start_price": 91.7,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.25,
         "forward_return": 8.73,
         "start_price": 92.7,
         "start_year": 2014
@@ -11019,7 +11019,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.49,
         "forward_return": 8.12,
         "start_price": 93.0,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.16,
         "forward_return": 7.4,
         "start_price": 95.5,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.69,
         "forward_return": 6.66,
         "start_price": 98.2,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 19.45,
+        "pe_ratio": 19.94,
         "forward_return": 6.83,
         "start_price": 99.5,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 19.72,
         "forward_return": 7.27,
         "start_price": 99.0,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 18.64,
+        "pe_ratio": 19.21,
         "forward_return": 8.12,
         "start_price": 97.0,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.37,
         "forward_return": 7.84,
         "start_price": 98.4,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.51,
+        "pe_ratio": 18.97,
         "forward_return": 6.84,
         "start_price": 98.0,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 18.5,
+        "pe_ratio": 18.81,
         "forward_return": 6.83,
         "start_price": 98.8,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 18.35,
+        "pe_ratio": 18.5,
         "forward_return": 7.25,
         "start_price": 98.8,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 18.36,
+        "pe_ratio": 18.46,
         "forward_return": 7.21,
         "start_price": 99.7,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.28,
         "forward_return": 7.38,
         "start_price": 99.8,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 18.67,
+        "pe_ratio": 18.41,
         "forward_return": 5.65,
         "start_price": 102.5,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 19.14,
+        "pe_ratio": 18.62,
         "forward_return": 5.14,
         "start_price": 104.5,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 19.35,
         "forward_return": 3.82,
         "start_price": 109.5,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 20.19,
+        "pe_ratio": 19.25,
         "forward_return": 4.34,
         "start_price": 109.0,
         "start_year": 2016
@@ -11181,7 +11181,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.41,
         "forward_return": 4.31,
         "start_price": 110.0,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 21.82,
+        "pe_ratio": 20.55,
         "forward_return": 4.08,
         "start_price": 116.5,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 21.37,
+        "pe_ratio": 20.36,
         "forward_return": 3.04,
         "start_price": 113.5,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 21.59,
+        "pe_ratio": 20.82,
         "forward_return": 2.72,
         "start_price": 114.0,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 21.05,
+        "pe_ratio": 20.54,
         "forward_return": 3.22,
         "start_price": 110.5,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 20.35,
         "forward_return": 3.81,
         "start_price": 108.0,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.54,
         "forward_return": 4.24,
         "start_price": 107.5,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 19.82,
+        "pe_ratio": 20.09,
         "forward_return": 5.52,
         "start_price": 102.0,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.86,
+        "pe_ratio": 20.43,
         "forward_return": 5.83,
         "start_price": 102.0,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 20.98,
         "forward_return": 5.98,
         "start_price": 103.0,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.96,
+        "pe_ratio": 20.92,
         "forward_return": 6.75,
         "start_price": 102.0,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 22.2,
         "forward_return": 5.26,
         "start_price": 107.5,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 21.24,
+        "pe_ratio": 22.45,
         "forward_return": 5.23,
         "start_price": 108.0,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 21.09,
         "forward_return": 6.82,
         "start_price": 102.0,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 21.59,
         "forward_return": 5.45,
         "start_price": 105.0,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 20.7,
+        "pe_ratio": 21.37,
         "forward_return": 5.26,
         "start_price": 104.5,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 20.46,
+        "pe_ratio": 20.89,
         "forward_return": 5.65,
         "start_price": 103.0,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 20.61,
+        "pe_ratio": 20.82,
         "forward_return": 5.83,
         "start_price": 103.5,
         "start_year": 2017
@@ -11361,7 +11361,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 21.79,
         "forward_return": 5.68,
         "start_price": 108.5,
         "start_year": 2018
@@ -11370,7 +11370,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.12,
         "forward_return": 6.77,
         "start_price": 109.5,
         "start_year": 2018
@@ -11379,7 +11379,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 22.97,
         "forward_return": 6.4,
         "start_price": 113.0,
         "start_year": 2018
@@ -11388,7 +11388,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.11,
         "forward_return": 7.12,
         "start_price": 113.0,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.56,
+        "pe_ratio": 22.43,
         "forward_return": 7.36,
         "start_price": 109.0,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.94,
+        "pe_ratio": 22.77,
         "forward_return": 6.18,
         "start_price": 110.0,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.27,
+        "pe_ratio": 22.28,
         "forward_return": 7.03,
         "start_price": 106.0,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 22.97,
+        "pe_ratio": 23.17,
         "forward_return": 6.32,
         "start_price": 108.5,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.47,
+        "pe_ratio": 23.86,
         "forward_return": 4.59,
         "start_price": 110.0,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.54,
+        "pe_ratio": 23.8,
         "forward_return": 4.11,
         "start_price": 109.5,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 23.18,
+        "pe_ratio": 23.31,
         "forward_return": 5.21,
         "start_price": 107.0,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.43,
         "forward_return": 5.01,
         "start_price": 107.0,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.66,
+        "pe_ratio": 23.5,
         "forward_return": 5.61,
         "start_price": 107.0,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.12,
         "forward_return": 5.78,
         "start_price": 109.5,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.87,
+        "pe_ratio": 24.78,
         "forward_return": 6.84,
         "start_price": 111.0,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.45,
         "forward_return": 6.3,
         "start_price": 112.5,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.92,
         "forward_return": 4.38,
         "start_price": 113.0,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.68,
+        "pe_ratio": 24.88,
         "forward_return": 5.51,
         "start_price": 108.0,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.08,
+        "pe_ratio": 25.23,
         "forward_return": 5.27,
         "start_price": 109.0,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.71,
+        "pe_ratio": 25.81,
         "forward_return": 4.79,
         "start_price": 111.0,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 26.19,
         "forward_return": 4.55,
         "start_price": 112.0,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 26.53,
+        "pe_ratio": 26.57,
         "forward_return": 5.0,
         "start_price": 113.0,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 25.49,
+        "pe_ratio": 25.53,
         "forward_return": 6.1,
         "start_price": 108.0,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.53,
         "forward_return": 6.39,
         "start_price": 108.0,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 25.29,
+        "pe_ratio": 25.41,
         "forward_return": 7.55,
         "start_price": 107.5,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.93,
         "forward_return": 6.68,
         "start_price": 109.5,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.21,
         "forward_return": 7.18,
         "start_price": 110.5,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 27.4,
+        "pe_ratio": 27.79,
         "forward_return": 5.21,
         "start_price": 117.0,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 25.6,
+        "pe_ratio": 25.93,
         "forward_return": 6.31,
         "start_price": 109.5,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 25.33,
+        "pe_ratio": 25.61,
         "forward_return": 7.03,
         "start_price": 108.5,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 24.94,
+        "pe_ratio": 25.18,
         "forward_return": 7.68,
         "start_price": 107.0,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 25.06,
         "forward_return": 7.02,
         "start_price": 107.0,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 25.21,
+        "pe_ratio": 25.29,
         "forward_return": 6.84,
         "start_price": 108.5,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 24.9,
         "forward_return": 7.25,
         "start_price": 108.0,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 25.11,
+        "pe_ratio": 25.1,
         "forward_return": 7.53,
         "start_price": 109.5,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 25.43,
+        "pe_ratio": 25.4,
         "forward_return": 7.13,
         "start_price": 111.5,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 25.85,
+        "pe_ratio": 25.91,
         "forward_return": 6.72,
         "start_price": 114.0,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 25.59,
+        "pe_ratio": 25.74,
         "forward_return": 6.84,
         "start_price": 113.5,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 25.56,
+        "pe_ratio": 25.79,
         "forward_return": 7.7,
         "start_price": 114.0,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 25.64,
+        "pe_ratio": 25.75,
         "forward_return": 6.52,
         "start_price": 115.0,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 24.83,
+        "pe_ratio": 24.82,
         "forward_return": 7.86,
         "start_price": 112.0,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.23,
         "forward_return": 8.4,
         "start_price": 110.5,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 24.23,
+        "pe_ratio": 24.14,
         "forward_return": 7.95,
         "start_price": 110.5,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 24.43,
+        "pe_ratio": 24.38,
         "forward_return": 7.5,
         "start_price": 112.0,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.41,
         "forward_return": 6.75,
         "start_price": 117.5,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 26.92,
+        "pe_ratio": 26.85,
         "forward_return": 5.3,
         "start_price": 124.5,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 12.8,
         "forward_return": 12.78,
         "start_price": 61.2,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.91,
         "forward_return": 12.64,
         "start_price": 61.3,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.73,
         "forward_return": 13.63,
         "start_price": 60.0,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.5,
         "forward_return": 15.23,
         "start_price": 58.5,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.05,
         "forward_return": 15.0,
         "start_price": 60.3,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.84,
         "forward_return": 17.54,
         "start_price": 54.0,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 12.2,
         "forward_return": 17.46,
         "start_price": 54.9,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.31,
+        "pe_ratio": 12.55,
         "forward_return": 16.39,
         "start_price": 57.0,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 12.82,
         "forward_return": 15.5,
         "start_price": 58.8,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.43,
         "forward_return": 13.2,
         "start_price": 63.2,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.45,
+        "pe_ratio": 12.98,
         "forward_return": 12.45,
         "start_price": 62.1,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 13.19,
         "forward_return": 11.83,
         "start_price": 64.1,
         "start_year": 2007
@@ -11928,7 +11928,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 13.37,
         "forward_return": 12.29,
         "start_price": 63.1,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.54,
         "forward_return": 12.44,
         "start_price": 62.0,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.65,
+        "pe_ratio": 14.12,
         "forward_return": 12.94,
         "start_price": 62.7,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 15.3,
         "start_price": 55.5,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.96,
         "forward_return": 14.16,
         "start_price": 58.6,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.38,
         "forward_return": 13.91,
         "start_price": 61.0,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.62,
         "forward_return": 13.06,
         "start_price": 62.1,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.1,
+        "pe_ratio": 14.12,
         "forward_return": 12.68,
         "start_price": 64.4,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.89,
+        "pe_ratio": 14.55,
         "forward_return": 11.48,
         "start_price": 68.0,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 16.95,
+        "pe_ratio": 16.19,
         "forward_return": 8.25,
         "start_price": 77.5,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 17.45,
+        "pe_ratio": 16.31,
         "forward_return": 7.73,
         "start_price": 79.9,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 17.11,
+        "pe_ratio": 16.02,
         "forward_return": 8.3,
         "start_price": 78.5,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.42,
+        "pe_ratio": 15.39,
         "forward_return": 9.49,
         "start_price": 75.4,
         "start_year": 2008
@@ -12054,7 +12054,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 17.07,
+        "pe_ratio": 16.02,
         "forward_return": 9.78,
         "start_price": 78.5,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.85,
         "forward_return": 9.11,
         "start_price": 77.7,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.04,
         "forward_return": 8.59,
         "start_price": 78.7,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.21,
         "forward_return": 9.75,
         "start_price": 74.7,
         "start_year": 2008
@@ -12090,7 +12090,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 11.29,
         "forward_return": 16.92,
         "start_price": 54.4,
         "start_year": 2008
@@ -12099,7 +12099,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.33,
+        "pe_ratio": 11.1,
         "forward_return": 17.39,
         "start_price": 52.5,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.01,
         "forward_return": 17.84,
         "start_price": 51.1,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.67,
+        "pe_ratio": 11.62,
         "forward_return": 16.61,
         "start_price": 53.9,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.34,
         "forward_return": 13.76,
         "start_price": 61.9,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 13.71,
+        "pe_ratio": 14.09,
         "forward_return": 13.46,
         "start_price": 63.0,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 14.42,
         "forward_return": 14.16,
         "start_price": 62.0,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.32,
+        "pe_ratio": 15.86,
         "forward_return": 12.95,
         "start_price": 65.5,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.42,
+        "pe_ratio": 15.73,
         "forward_return": 12.09,
         "start_price": 65.8,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.31,
         "forward_return": 15.88,
         "start_price": 56.4,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.5,
         "forward_return": 15.03,
         "start_price": 57.9,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.2,
         "forward_return": 15.35,
         "start_price": 57.6,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.98,
         "forward_return": 15.41,
         "start_price": 57.6,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.77,
         "forward_return": 15.69,
         "start_price": 58.1,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.07,
+        "pe_ratio": 13.03,
         "forward_return": 15.54,
         "start_price": 59.8,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.41,
         "forward_return": 14.91,
         "start_price": 62.1,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.12,
         "forward_return": 15.04,
         "start_price": 61.5,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.05,
         "forward_return": 14.52,
         "start_price": 61.9,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 13.31,
         "forward_return": 14.06,
         "start_price": 63.9,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.05,
         "forward_return": 12.75,
         "start_price": 67.9,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.71,
+        "pe_ratio": 13.46,
         "forward_return": 13.71,
         "start_price": 65.5,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.55,
+        "pe_ratio": 14.29,
         "forward_return": 12.21,
         "start_price": 70.0,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 14.6,
         "forward_return": 11.87,
         "start_price": 71.6,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 11.15,
         "start_price": 74.0,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 16.9,
         "forward_return": 7.53,
         "start_price": 89.2,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.28,
+        "pe_ratio": 15.61,
         "forward_return": 8.13,
         "start_price": 88.1,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 15.24,
         "forward_return": 8.1,
         "start_price": 91.6,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 15.08,
         "forward_return": 8.13,
         "start_price": 91.1,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.42,
         "forward_return": 7.71,
         "start_price": 93.6,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 18.05,
+        "pe_ratio": 16.2,
         "forward_return": 7.55,
         "start_price": 98.8,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 17.96,
+        "pe_ratio": 16.38,
         "forward_return": 6.83,
         "start_price": 100.0,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.34,
         "forward_return": 6.93,
         "start_price": 99.9,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.63,
+        "pe_ratio": 16.58,
         "forward_return": 6.05,
         "start_price": 101.5,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.17,
+        "pe_ratio": 16.49,
         "forward_return": 5.87,
         "start_price": 100.5,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 16.75,
+        "pe_ratio": 16.42,
         "forward_return": 5.98,
         "start_price": 99.6,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.1,
+        "pe_ratio": 16.18,
         "forward_return": 5.82,
         "start_price": 96.2,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.44,
         "forward_return": 7.2,
         "start_price": 90.4,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.78,
         "forward_return": 7.2,
         "start_price": 90.9,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 16.06,
         "forward_return": 6.91,
         "start_price": 91.4,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.05,
         "forward_return": 8.11,
         "start_price": 90.2,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 16.65,
+        "pe_ratio": 16.94,
         "forward_return": 7.3,
         "start_price": 94.0,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 16.38,
         "forward_return": 7.16,
         "start_price": 90.0,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.65,
         "forward_return": 7.54,
         "start_price": 90.5,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 17.45,
         "forward_return": 6.67,
         "start_price": 93.9,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 17.01,
+        "pe_ratio": 17.16,
         "forward_return": 6.95,
         "start_price": 91.6,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.66,
+        "pe_ratio": 17.73,
         "forward_return": 6.5,
         "start_price": 93.9,
         "start_year": 2012
@@ -12576,7 +12576,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 18.1,
         "forward_return": 8.05,
         "start_price": 93.8,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 18.37,
+        "pe_ratio": 18.56,
         "forward_return": 7.04,
         "start_price": 95.5,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.96,
         "forward_return": 5.79,
         "start_price": 102.0,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.78,
         "forward_return": 6.37,
         "start_price": 95.9,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 18.32,
+        "pe_ratio": 18.54,
         "forward_return": 7.07,
         "start_price": 94.6,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.57,
         "forward_return": 7.29,
         "start_price": 94.7,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 18.4,
+        "pe_ratio": 18.52,
         "forward_return": 7.23,
         "start_price": 94.6,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.15,
         "forward_return": 7.24,
         "start_price": 92.8,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 17.99,
+        "pe_ratio": 17.79,
         "forward_return": 7.45,
         "start_price": 91.9,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 18.05,
+        "pe_ratio": 17.65,
         "forward_return": 7.42,
         "start_price": 92.0,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 17.81,
         "forward_return": 7.43,
         "start_price": 93.7,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 18.57,
+        "pe_ratio": 17.93,
         "forward_return": 7.56,
         "start_price": 94.2,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.3,
         "forward_return": 7.39,
         "start_price": 96.0,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.36,
         "forward_return": 7.42,
         "start_price": 96.2,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.16,
+        "pe_ratio": 17.58,
         "forward_return": 7.7,
         "start_price": 91.5,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.48,
+        "pe_ratio": 17.98,
         "forward_return": 7.53,
         "start_price": 92.9,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.88,
         "forward_return": 8.13,
         "start_price": 91.7,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.25,
         "forward_return": 8.06,
         "start_price": 92.7,
         "start_year": 2014
@@ -12747,7 +12747,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.49,
         "forward_return": 8.14,
         "start_price": 93.0,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.16,
         "forward_return": 6.78,
         "start_price": 95.5,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.69,
         "forward_return": 6.18,
         "start_price": 98.2,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 19.45,
+        "pe_ratio": 19.94,
         "forward_return": 5.82,
         "start_price": 99.5,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 19.72,
         "forward_return": 6.25,
         "start_price": 99.0,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 18.64,
+        "pe_ratio": 19.21,
         "forward_return": 6.84,
         "start_price": 97.0,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.37,
         "forward_return": 7.54,
         "start_price": 98.4,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.51,
+        "pe_ratio": 18.97,
         "forward_return": 6.36,
         "start_price": 98.0,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 18.5,
+        "pe_ratio": 18.81,
         "forward_return": 6.03,
         "start_price": 98.8,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 18.35,
+        "pe_ratio": 18.5,
         "forward_return": 5.79,
         "start_price": 98.8,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 18.36,
+        "pe_ratio": 18.46,
         "forward_return": 5.6,
         "start_price": 99.7,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.28,
         "forward_return": 5.82,
         "start_price": 99.8,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 18.67,
+        "pe_ratio": 18.41,
         "forward_return": 5.18,
         "start_price": 102.5,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 19.14,
+        "pe_ratio": 18.62,
         "forward_return": 5.23,
         "start_price": 104.5,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 19.35,
         "forward_return": 4.34,
         "start_price": 109.5,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 20.19,
+        "pe_ratio": 19.25,
         "forward_return": 4.82,
         "start_price": 109.0,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.41,
         "forward_return": 4.55,
         "start_price": 110.0,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 21.82,
+        "pe_ratio": 20.55,
         "forward_return": 3.43,
         "start_price": 116.5,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 21.37,
+        "pe_ratio": 20.36,
         "forward_return": 3.95,
         "start_price": 113.5,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 21.59,
+        "pe_ratio": 20.82,
         "forward_return": 3.4,
         "start_price": 114.0,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 21.05,
+        "pe_ratio": 20.54,
         "forward_return": 3.82,
         "start_price": 110.5,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 20.35,
         "forward_return": 4.29,
         "start_price": 108.0,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.54,
         "forward_return": 4.62,
         "start_price": 107.5,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 19.82,
+        "pe_ratio": 20.09,
         "forward_return": 6.58,
         "start_price": 102.0,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.86,
+        "pe_ratio": 20.43,
         "forward_return": 7.62,
         "start_price": 102.0,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 20.98,
         "forward_return": 7.77,
         "start_price": 103.0,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.96,
+        "pe_ratio": 20.92,
         "forward_return": 8.55,
         "start_price": 102.0,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 22.2,
         "forward_return": 6.86,
         "start_price": 107.5,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 21.24,
+        "pe_ratio": 22.45,
         "forward_return": 6.03,
         "start_price": 108.0,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 21.09,
         "forward_return": 7.13,
         "start_price": 102.0,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 21.59,
         "forward_return": 6.44,
         "start_price": 105.0,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 20.7,
+        "pe_ratio": 21.37,
         "forward_return": 5.48,
         "start_price": 104.5,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 20.46,
+        "pe_ratio": 20.89,
         "forward_return": 5.31,
         "start_price": 103.0,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 20.61,
+        "pe_ratio": 20.82,
         "forward_return": 5.6,
         "start_price": 103.5,
         "start_year": 2017
@@ -13089,7 +13089,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 21.79,
         "forward_return": 4.45,
         "start_price": 108.5,
         "start_year": 2018
@@ -13098,7 +13098,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.12,
         "forward_return": 4.72,
         "start_price": 109.5,
         "start_year": 2018
@@ -13107,7 +13107,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 22.97,
         "forward_return": 4.66,
         "start_price": 113.0,
         "start_year": 2018
@@ -13116,7 +13116,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.11,
         "forward_return": 5.75,
         "start_price": 113.0,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.56,
+        "pe_ratio": 22.43,
         "forward_return": 6.37,
         "start_price": 109.0,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.94,
+        "pe_ratio": 22.77,
         "forward_return": 4.78,
         "start_price": 110.0,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.27,
+        "pe_ratio": 22.28,
         "forward_return": 5.47,
         "start_price": 106.0,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 22.97,
+        "pe_ratio": 23.17,
         "forward_return": 4.98,
         "start_price": 108.5,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.47,
+        "pe_ratio": 23.86,
         "forward_return": 4.69,
         "start_price": 110.0,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.54,
+        "pe_ratio": 23.8,
         "forward_return": 4.78,
         "start_price": 109.5,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 23.18,
+        "pe_ratio": 23.31,
         "forward_return": 5.8,
         "start_price": 107.0,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.43,
         "forward_return": 5.72,
         "start_price": 107.0,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.66,
+        "pe_ratio": 23.5,
         "forward_return": 5.95,
         "start_price": 107.0,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.12,
         "forward_return": 6.25,
         "start_price": 109.5,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.87,
+        "pe_ratio": 24.78,
         "forward_return": 5.68,
         "start_price": 111.0,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.45,
         "forward_return": 5.97,
         "start_price": 112.5,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.92,
         "forward_return": 5.52,
         "start_price": 113.0,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.68,
+        "pe_ratio": 24.88,
         "forward_return": 5.93,
         "start_price": 108.0,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.08,
+        "pe_ratio": 25.23,
         "forward_return": 6.1,
         "start_price": 109.0,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.71,
+        "pe_ratio": 25.81,
         "forward_return": 5.93,
         "start_price": 111.0,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 26.19,
         "forward_return": 5.24,
         "start_price": 112.0,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 26.53,
+        "pe_ratio": 26.57,
         "forward_return": 5.2,
         "start_price": 113.0,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 25.49,
+        "pe_ratio": 25.53,
         "forward_return": 6.37,
         "start_price": 108.0,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 25.45,
+        "pe_ratio": 25.53,
         "forward_return": 6.83,
         "start_price": 108.0,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 25.29,
+        "pe_ratio": 25.41,
         "forward_return": 7.05,
         "start_price": 107.5,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.93,
         "forward_return": 6.79,
         "start_price": 109.5,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 25.92,
+        "pe_ratio": 26.21,
         "forward_return": 6.6,
         "start_price": 110.5,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 27.4,
+        "pe_ratio": 27.79,
         "forward_return": 6.14,
         "start_price": 117.0,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 25.6,
+        "pe_ratio": 25.93,
         "forward_return": 6.83,
         "start_price": 109.5,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 25.33,
+        "pe_ratio": 25.61,
         "forward_return": 7.52,
         "start_price": 108.5,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 24.94,
+        "pe_ratio": 25.18,
         "forward_return": 7.95,
         "start_price": 107.0,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 24.9,
+        "pe_ratio": 25.06,
         "forward_return": 7.61,
         "start_price": 107.0,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 25.21,
+        "pe_ratio": 25.29,
         "forward_return": 7.24,
         "start_price": 108.5,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 24.91,
+        "pe_ratio": 24.9,
         "forward_return": 7.75,
         "start_price": 108.0,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 25.11,
+        "pe_ratio": 25.1,
         "forward_return": 7.52,
         "start_price": 109.5,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 12.8,
         "forward_return": 11.32,
         "start_price": 61.2,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.91,
         "forward_return": 11.36,
         "start_price": 61.3,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.73,
         "forward_return": 11.57,
         "start_price": 60.0,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.5,
         "forward_return": 12.65,
         "start_price": 58.5,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.05,
         "forward_return": 11.63,
         "start_price": 60.3,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.84,
         "forward_return": 13.79,
         "start_price": 54.0,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 12.2,
         "forward_return": 14.01,
         "start_price": 54.9,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.31,
+        "pe_ratio": 12.55,
         "forward_return": 12.94,
         "start_price": 57.0,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 12.82,
         "forward_return": 12.72,
         "start_price": 58.8,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.43,
         "forward_return": 11.39,
         "start_price": 63.2,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.45,
+        "pe_ratio": 12.98,
         "forward_return": 11.43,
         "start_price": 62.1,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 13.19,
         "forward_return": 10.94,
         "start_price": 64.1,
         "start_year": 2007
@@ -13548,7 +13548,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 13.37,
         "forward_return": 11.38,
         "start_price": 63.1,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.54,
         "forward_return": 11.97,
         "start_price": 62.0,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.65,
+        "pe_ratio": 14.12,
         "forward_return": 12.73,
         "start_price": 62.7,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 14.39,
         "start_price": 55.5,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.96,
         "forward_return": 13.16,
         "start_price": 58.6,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.38,
         "forward_return": 12.42,
         "start_price": 61.0,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.62,
         "forward_return": 12.07,
         "start_price": 62.1,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.1,
+        "pe_ratio": 14.12,
         "forward_return": 11.12,
         "start_price": 64.4,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.89,
+        "pe_ratio": 14.55,
         "forward_return": 9.99,
         "start_price": 68.0,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 16.95,
+        "pe_ratio": 16.19,
         "forward_return": 7.77,
         "start_price": 77.5,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 17.45,
+        "pe_ratio": 16.31,
         "forward_return": 7.34,
         "start_price": 79.9,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 17.11,
+        "pe_ratio": 16.02,
         "forward_return": 7.73,
         "start_price": 78.5,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.42,
+        "pe_ratio": 15.39,
         "forward_return": 8.72,
         "start_price": 75.4,
         "start_year": 2008
@@ -13674,7 +13674,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 17.07,
+        "pe_ratio": 16.02,
         "forward_return": 8.02,
         "start_price": 78.5,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.85,
         "forward_return": 7.55,
         "start_price": 77.7,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.04,
         "forward_return": 7.53,
         "start_price": 78.7,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.21,
         "forward_return": 8.29,
         "start_price": 74.7,
         "start_year": 2008
@@ -13710,7 +13710,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 11.29,
         "forward_return": 14.33,
         "start_price": 54.4,
         "start_year": 2008
@@ -13719,7 +13719,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.33,
+        "pe_ratio": 11.1,
         "forward_return": 15.05,
         "start_price": 52.5,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.01,
         "forward_return": 15.97,
         "start_price": 51.1,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.67,
+        "pe_ratio": 11.62,
         "forward_return": 15.35,
         "start_price": 53.9,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.34,
         "forward_return": 12.91,
         "start_price": 61.9,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 13.71,
+        "pe_ratio": 14.09,
         "forward_return": 12.51,
         "start_price": 63.0,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 14.42,
         "forward_return": 12.51,
         "start_price": 62.0,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.32,
+        "pe_ratio": 15.86,
         "forward_return": 11.69,
         "start_price": 65.5,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.42,
+        "pe_ratio": 15.73,
         "forward_return": 11.7,
         "start_price": 65.8,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.31,
         "forward_return": 14.73,
         "start_price": 56.4,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.5,
         "forward_return": 14.22,
         "start_price": 57.9,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.2,
         "forward_return": 14.46,
         "start_price": 57.6,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.98,
         "forward_return": 14.47,
         "start_price": 57.6,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.77,
         "forward_return": 14.7,
         "start_price": 58.1,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.07,
+        "pe_ratio": 13.03,
         "forward_return": 14.44,
         "start_price": 59.8,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.41,
         "forward_return": 14.41,
         "start_price": 62.1,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.12,
         "forward_return": 14.52,
         "start_price": 61.5,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.05,
         "forward_return": 14.54,
         "start_price": 61.9,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 13.31,
         "forward_return": 14.8,
         "start_price": 63.9,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.05,
         "forward_return": 13.44,
         "start_price": 67.9,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.71,
+        "pe_ratio": 13.46,
         "forward_return": 14.18,
         "start_price": 65.5,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.55,
+        "pe_ratio": 14.29,
         "forward_return": 12.47,
         "start_price": 70.0,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 14.6,
         "forward_return": 11.71,
         "start_price": 71.6,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 11.04,
         "start_price": 74.0,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 16.9,
         "forward_return": 6.91,
         "start_price": 89.2,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.28,
+        "pe_ratio": 15.61,
         "forward_return": 7.13,
         "start_price": 88.1,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 15.24,
         "forward_return": 6.57,
         "start_price": 91.6,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 15.08,
         "forward_return": 6.53,
         "start_price": 91.1,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.42,
         "forward_return": 6.77,
         "start_price": 93.6,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 18.05,
+        "pe_ratio": 16.2,
         "forward_return": 5.88,
         "start_price": 98.8,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 17.96,
+        "pe_ratio": 16.38,
         "forward_return": 4.82,
         "start_price": 100.0,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.34,
         "forward_return": 5.23,
         "start_price": 99.9,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.63,
+        "pe_ratio": 16.58,
         "forward_return": 4.88,
         "start_price": 101.5,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.17,
+        "pe_ratio": 16.49,
         "forward_return": 4.86,
         "start_price": 100.5,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 16.75,
+        "pe_ratio": 16.42,
         "forward_return": 5.08,
         "start_price": 99.6,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.1,
+        "pe_ratio": 16.18,
         "forward_return": 6.34,
         "start_price": 96.2,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.44,
         "forward_return": 7.91,
         "start_price": 90.4,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.78,
         "forward_return": 7.92,
         "start_price": 90.9,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 16.06,
         "forward_return": 7.82,
         "start_price": 91.4,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.05,
         "forward_return": 7.55,
         "start_price": 90.2,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 16.65,
+        "pe_ratio": 16.94,
         "forward_return": 6.94,
         "start_price": 94.0,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 16.38,
         "forward_return": 7.12,
         "start_price": 90.0,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.65,
         "forward_return": 7.35,
         "start_price": 90.5,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 17.45,
         "forward_return": 6.88,
         "start_price": 93.9,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 17.01,
+        "pe_ratio": 17.16,
         "forward_return": 7.26,
         "start_price": 91.6,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.66,
+        "pe_ratio": 17.73,
         "forward_return": 6.49,
         "start_price": 93.9,
         "start_year": 2012
@@ -14196,7 +14196,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 18.1,
         "forward_return": 7.03,
         "start_price": 93.8,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 18.37,
+        "pe_ratio": 18.56,
         "forward_return": 6.89,
         "start_price": 95.5,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.96,
         "forward_return": 5.79,
         "start_price": 102.0,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.78,
         "forward_return": 6.14,
         "start_price": 95.9,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 18.32,
+        "pe_ratio": 18.54,
         "forward_return": 6.51,
         "start_price": 94.6,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.57,
         "forward_return": 6.74,
         "start_price": 94.7,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 18.4,
+        "pe_ratio": 18.52,
         "forward_return": 6.89,
         "start_price": 94.6,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.15,
         "forward_return": 7.36,
         "start_price": 92.8,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 17.99,
+        "pe_ratio": 17.79,
         "forward_return": 6.89,
         "start_price": 91.9,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 18.05,
+        "pe_ratio": 17.65,
         "forward_return": 6.87,
         "start_price": 92.0,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 17.81,
         "forward_return": 6.48,
         "start_price": 93.7,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 18.57,
+        "pe_ratio": 17.93,
         "forward_return": 6.64,
         "start_price": 94.2,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.3,
         "forward_return": 6.44,
         "start_price": 96.0,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.36,
         "forward_return": 7.21,
         "start_price": 96.2,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.16,
+        "pe_ratio": 17.58,
         "forward_return": 7.12,
         "start_price": 91.5,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.48,
+        "pe_ratio": 17.98,
         "forward_return": 6.72,
         "start_price": 92.9,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.88,
         "forward_return": 6.76,
         "start_price": 91.7,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.25,
         "forward_return": 6.57,
         "start_price": 92.7,
         "start_year": 2014
@@ -14367,7 +14367,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.49,
         "forward_return": 6.7,
         "start_price": 93.0,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.16,
         "forward_return": 6.17,
         "start_price": 95.5,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.69,
         "forward_return": 5.87,
         "start_price": 98.2,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 19.45,
+        "pe_ratio": 19.94,
         "forward_return": 5.89,
         "start_price": 99.5,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 19.72,
         "forward_return": 6.29,
         "start_price": 99.0,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 18.64,
+        "pe_ratio": 19.21,
         "forward_return": 6.59,
         "start_price": 97.0,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.37,
         "forward_return": 6.4,
         "start_price": 98.4,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.51,
+        "pe_ratio": 18.97,
         "forward_return": 6.53,
         "start_price": 98.0,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 18.5,
+        "pe_ratio": 18.81,
         "forward_return": 6.01,
         "start_price": 98.8,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 18.35,
+        "pe_ratio": 18.5,
         "forward_return": 5.82,
         "start_price": 98.8,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 18.36,
+        "pe_ratio": 18.46,
         "forward_return": 5.66,
         "start_price": 99.7,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.28,
         "forward_return": 5.83,
         "start_price": 99.8,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 18.67,
+        "pe_ratio": 18.41,
         "forward_return": 6.04,
         "start_price": 102.5,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 19.14,
+        "pe_ratio": 18.62,
         "forward_return": 6.72,
         "start_price": 104.5,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 19.35,
         "forward_return": 5.99,
         "start_price": 109.5,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 20.19,
+        "pe_ratio": 19.25,
         "forward_return": 6.52,
         "start_price": 109.0,
         "start_year": 2016
@@ -14529,7 +14529,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.41,
         "forward_return": 5.91,
         "start_price": 110.0,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 21.82,
+        "pe_ratio": 20.55,
         "forward_return": 4.33,
         "start_price": 116.5,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 21.37,
+        "pe_ratio": 20.36,
         "forward_return": 4.62,
         "start_price": 113.5,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 21.59,
+        "pe_ratio": 20.82,
         "forward_return": 4.49,
         "start_price": 114.0,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 21.05,
+        "pe_ratio": 20.54,
         "forward_return": 4.19,
         "start_price": 110.5,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 20.35,
         "forward_return": 4.22,
         "start_price": 108.0,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.54,
         "forward_return": 4.61,
         "start_price": 107.5,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 19.82,
+        "pe_ratio": 20.09,
         "forward_return": 5.4,
         "start_price": 102.0,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.86,
+        "pe_ratio": 20.43,
         "forward_return": 5.78,
         "start_price": 102.0,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 20.98,
         "forward_return": 6.09,
         "start_price": 103.0,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.96,
+        "pe_ratio": 20.92,
         "forward_return": 7.15,
         "start_price": 102.0,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 22.2,
         "forward_return": 6.1,
         "start_price": 107.5,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 21.24,
+        "pe_ratio": 22.45,
         "forward_return": 4.9,
         "start_price": 108.0,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 21.09,
         "forward_return": 5.81,
         "start_price": 102.0,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 21.59,
         "forward_return": 5.3,
         "start_price": 105.0,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 20.7,
+        "pe_ratio": 21.37,
         "forward_return": 5.38,
         "start_price": 104.5,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 20.46,
+        "pe_ratio": 20.89,
         "forward_return": 5.64,
         "start_price": 103.0,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 20.61,
+        "pe_ratio": 20.82,
         "forward_return": 5.98,
         "start_price": 103.5,
         "start_year": 2017
@@ -14709,7 +14709,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 21.79,
         "forward_return": 5.09,
         "start_price": 108.5,
         "start_year": 2018
@@ -14718,7 +14718,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.12,
         "forward_return": 5.11,
         "start_price": 109.5,
         "start_year": 2018
@@ -14727,7 +14727,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.05,
+        "pe_ratio": 22.97,
         "forward_return": 5.19,
         "start_price": 113.0,
         "start_year": 2018
@@ -14736,7 +14736,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 23.22,
+        "pe_ratio": 23.11,
         "forward_return": 4.96,
         "start_price": 113.0,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 22.56,
+        "pe_ratio": 22.43,
         "forward_return": 6.06,
         "start_price": 109.0,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 22.94,
+        "pe_ratio": 22.77,
         "forward_return": 5.61,
         "start_price": 110.0,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 22.27,
+        "pe_ratio": 22.28,
         "forward_return": 5.79,
         "start_price": 106.0,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 22.97,
+        "pe_ratio": 23.17,
         "forward_return": 5.67,
         "start_price": 108.5,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 23.47,
+        "pe_ratio": 23.86,
         "forward_return": 5.6,
         "start_price": 110.0,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 23.54,
+        "pe_ratio": 23.8,
         "forward_return": 5.28,
         "start_price": 109.5,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 23.18,
+        "pe_ratio": 23.31,
         "forward_return": 5.8,
         "start_price": 107.0,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 23.51,
+        "pe_ratio": 23.43,
         "forward_return": 5.98,
         "start_price": 107.0,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 23.66,
+        "pe_ratio": 23.5,
         "forward_return": 6.38,
         "start_price": 107.0,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 24.37,
+        "pe_ratio": 24.12,
         "forward_return": 6.03,
         "start_price": 109.5,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.87,
+        "pe_ratio": 24.78,
         "forward_return": 5.9,
         "start_price": 111.0,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 25.37,
+        "pe_ratio": 25.45,
         "forward_return": 5.66,
         "start_price": 112.5,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 25.65,
+        "pe_ratio": 25.92,
         "forward_return": 6.19,
         "start_price": 113.0,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.68,
+        "pe_ratio": 24.88,
         "forward_return": 6.39,
         "start_price": 108.0,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 25.08,
+        "pe_ratio": 25.23,
         "forward_return": 6.62,
         "start_price": 109.0,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.71,
+        "pe_ratio": 25.81,
         "forward_return": 6.4,
         "start_price": 111.0,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 26.12,
+        "pe_ratio": 26.19,
         "forward_return": 5.97,
         "start_price": 112.0,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 26.53,
+        "pe_ratio": 26.57,
         "forward_return": 5.76,
         "start_price": 113.0,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 25.49,
+        "pe_ratio": 25.53,
         "forward_return": 6.89,
         "start_price": 108.0,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 12.8,
         "forward_return": 9.88,
         "start_price": 61.2,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.91,
         "forward_return": 9.91,
         "start_price": 61.3,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.73,
         "forward_return": 10.4,
         "start_price": 60.0,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.5,
         "forward_return": 10.77,
         "start_price": 58.5,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.05,
         "forward_return": 9.88,
         "start_price": 60.3,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.84,
         "forward_return": 11.55,
         "start_price": 54.0,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 12.2,
         "forward_return": 11.19,
         "start_price": 54.9,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.31,
+        "pe_ratio": 12.55,
         "forward_return": 10.78,
         "start_price": 57.0,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 12.82,
         "forward_return": 10.38,
         "start_price": 58.8,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.43,
         "forward_return": 9.65,
         "start_price": 63.2,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.45,
+        "pe_ratio": 12.98,
         "forward_return": 10.17,
         "start_price": 62.1,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 13.19,
         "forward_return": 9.87,
         "start_price": 64.1,
         "start_year": 2007
@@ -15051,7 +15051,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 13.37,
         "forward_return": 10.03,
         "start_price": 63.1,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.54,
         "forward_return": 10.07,
         "start_price": 62.0,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.65,
+        "pe_ratio": 14.12,
         "forward_return": 10.06,
         "start_price": 62.7,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 11.84,
         "start_price": 55.5,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.96,
         "forward_return": 11.17,
         "start_price": 58.6,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.38,
         "forward_return": 10.61,
         "start_price": 61.0,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.62,
         "forward_return": 10.45,
         "start_price": 62.1,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.1,
+        "pe_ratio": 14.12,
         "forward_return": 9.96,
         "start_price": 64.4,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.89,
+        "pe_ratio": 14.55,
         "forward_return": 9.48,
         "start_price": 68.0,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 16.95,
+        "pe_ratio": 16.19,
         "forward_return": 7.9,
         "start_price": 77.5,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 17.45,
+        "pe_ratio": 16.31,
         "forward_return": 7.95,
         "start_price": 79.9,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 17.11,
+        "pe_ratio": 16.02,
         "forward_return": 8.15,
         "start_price": 78.5,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.42,
+        "pe_ratio": 15.39,
         "forward_return": 8.78,
         "start_price": 75.4,
         "start_year": 2008
@@ -15177,7 +15177,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 17.07,
+        "pe_ratio": 16.02,
         "forward_return": 8.82,
         "start_price": 78.5,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.85,
         "forward_return": 8.8,
         "start_price": 77.7,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.04,
         "forward_return": 8.67,
         "start_price": 78.7,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.21,
         "forward_return": 9.07,
         "start_price": 74.7,
         "start_year": 2008
@@ -15213,7 +15213,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 11.29,
         "forward_return": 13.24,
         "start_price": 54.4,
         "start_year": 2008
@@ -15222,7 +15222,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.33,
+        "pe_ratio": 11.1,
         "forward_return": 13.7,
         "start_price": 52.5,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.01,
         "forward_return": 13.54,
         "start_price": 51.1,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.67,
+        "pe_ratio": 11.62,
         "forward_return": 12.78,
         "start_price": 53.9,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.34,
         "forward_return": 10.95,
         "start_price": 61.9,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 13.71,
+        "pe_ratio": 14.09,
         "forward_return": 10.6,
         "start_price": 63.0,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 14.42,
         "forward_return": 11.36,
         "start_price": 62.0,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.32,
+        "pe_ratio": 15.86,
         "forward_return": 10.64,
         "start_price": 65.5,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.42,
+        "pe_ratio": 15.73,
         "forward_return": 10.11,
         "start_price": 65.8,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.31,
         "forward_return": 12.55,
         "start_price": 56.4,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.5,
         "forward_return": 12.13,
         "start_price": 57.9,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.2,
         "forward_return": 12.06,
         "start_price": 57.6,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.98,
         "forward_return": 12.11,
         "start_price": 57.6,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.77,
         "forward_return": 12.47,
         "start_price": 58.1,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.07,
+        "pe_ratio": 13.03,
         "forward_return": 12.15,
         "start_price": 59.8,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.41,
         "forward_return": 11.95,
         "start_price": 62.1,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.12,
         "forward_return": 12.09,
         "start_price": 61.5,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.05,
         "forward_return": 11.62,
         "start_price": 61.9,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 13.31,
         "forward_return": 11.27,
         "start_price": 63.9,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.05,
         "forward_return": 10.13,
         "start_price": 67.9,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.71,
+        "pe_ratio": 13.46,
         "forward_return": 10.86,
         "start_price": 65.5,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.55,
+        "pe_ratio": 14.29,
         "forward_return": 10.08,
         "start_price": 70.0,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 14.6,
         "forward_return": 9.73,
         "start_price": 71.6,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 9.05,
         "start_price": 74.0,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 16.9,
         "forward_return": 6.53,
         "start_price": 89.2,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.28,
+        "pe_ratio": 15.61,
         "forward_return": 6.69,
         "start_price": 88.1,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 15.24,
         "forward_return": 6.4,
         "start_price": 91.6,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 15.08,
         "forward_return": 6.6,
         "start_price": 91.1,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.42,
         "forward_return": 6.37,
         "start_price": 93.6,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 18.05,
+        "pe_ratio": 16.2,
         "forward_return": 5.7,
         "start_price": 98.8,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 17.96,
+        "pe_ratio": 16.38,
         "forward_return": 5.01,
         "start_price": 100.0,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.34,
         "forward_return": 5.11,
         "start_price": 99.9,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.63,
+        "pe_ratio": 16.58,
         "forward_return": 5.08,
         "start_price": 101.5,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.17,
+        "pe_ratio": 16.49,
         "forward_return": 5.3,
         "start_price": 100.5,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 16.75,
+        "pe_ratio": 16.42,
         "forward_return": 5.5,
         "start_price": 99.6,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.1,
+        "pe_ratio": 16.18,
         "forward_return": 5.52,
         "start_price": 96.2,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.44,
         "forward_return": 6.35,
         "start_price": 90.4,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.78,
         "forward_return": 6.23,
         "start_price": 90.9,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 16.06,
         "forward_return": 6.33,
         "start_price": 91.4,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.05,
         "forward_return": 6.6,
         "start_price": 90.2,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 16.65,
+        "pe_ratio": 16.94,
         "forward_return": 6.61,
         "start_price": 94.0,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 16.38,
         "forward_return": 6.43,
         "start_price": 90.0,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.65,
         "forward_return": 6.27,
         "start_price": 90.5,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 17.45,
         "forward_return": 5.64,
         "start_price": 93.9,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 17.01,
+        "pe_ratio": 17.16,
         "forward_return": 5.97,
         "start_price": 91.6,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.66,
+        "pe_ratio": 17.73,
         "forward_return": 5.78,
         "start_price": 93.9,
         "start_year": 2012
@@ -15699,7 +15699,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 18.1,
         "forward_return": 6.28,
         "start_price": 93.8,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 18.37,
+        "pe_ratio": 18.56,
         "forward_return": 6.0,
         "start_price": 95.5,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.96,
         "forward_return": 5.17,
         "start_price": 102.0,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.78,
         "forward_return": 5.98,
         "start_price": 95.9,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 18.32,
+        "pe_ratio": 18.54,
         "forward_return": 5.9,
         "start_price": 94.6,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.57,
         "forward_return": 5.75,
         "start_price": 94.7,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 18.4,
+        "pe_ratio": 18.52,
         "forward_return": 5.76,
         "start_price": 94.6,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.15,
         "forward_return": 6.15,
         "start_price": 92.8,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 17.99,
+        "pe_ratio": 17.79,
         "forward_return": 6.76,
         "start_price": 91.9,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 18.05,
+        "pe_ratio": 17.65,
         "forward_return": 7.34,
         "start_price": 92.0,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 17.81,
         "forward_return": 7.3,
         "start_price": 93.7,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 18.57,
+        "pe_ratio": 17.93,
         "forward_return": 7.55,
         "start_price": 94.2,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.3,
         "forward_return": 6.97,
         "start_price": 96.0,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.36,
         "forward_return": 6.53,
         "start_price": 96.2,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.16,
+        "pe_ratio": 17.58,
         "forward_return": 7.17,
         "start_price": 91.5,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.48,
+        "pe_ratio": 17.98,
         "forward_return": 6.92,
         "start_price": 92.9,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.88,
         "forward_return": 6.49,
         "start_price": 91.7,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.25,
         "forward_return": 6.08,
         "start_price": 92.7,
         "start_year": 2014
@@ -15870,7 +15870,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.49,
         "forward_return": 6.26,
         "start_price": 93.0,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.16,
         "forward_return": 5.82,
         "start_price": 95.5,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.69,
         "forward_return": 5.72,
         "start_price": 98.2,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 19.45,
+        "pe_ratio": 19.94,
         "forward_return": 5.88,
         "start_price": 99.5,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 19.72,
         "forward_return": 6.57,
         "start_price": 99.0,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 18.64,
+        "pe_ratio": 19.21,
         "forward_return": 6.76,
         "start_price": 97.0,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.37,
         "forward_return": 5.78,
         "start_price": 98.4,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.51,
+        "pe_ratio": 18.97,
         "forward_return": 5.77,
         "start_price": 98.0,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 18.5,
+        "pe_ratio": 18.81,
         "forward_return": 5.67,
         "start_price": 98.8,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 18.35,
+        "pe_ratio": 18.5,
         "forward_return": 5.67,
         "start_price": 98.8,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 18.36,
+        "pe_ratio": 18.46,
         "forward_return": 5.55,
         "start_price": 99.7,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.28,
         "forward_return": 5.83,
         "start_price": 99.8,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 18.67,
+        "pe_ratio": 18.41,
         "forward_return": 5.44,
         "start_price": 102.5,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 19.14,
+        "pe_ratio": 18.62,
         "forward_return": 5.31,
         "start_price": 104.5,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 20.17,
+        "pe_ratio": 19.35,
         "forward_return": 5.14,
         "start_price": 109.5,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 20.19,
+        "pe_ratio": 19.25,
         "forward_return": 5.04,
         "start_price": 109.0,
         "start_year": 2016
@@ -16032,7 +16032,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.41,
         "forward_return": 5.24,
         "start_price": 110.0,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 21.82,
+        "pe_ratio": 20.55,
         "forward_return": 4.29,
         "start_price": 116.5,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 21.37,
+        "pe_ratio": 20.36,
         "forward_return": 4.25,
         "start_price": 113.5,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 21.59,
+        "pe_ratio": 20.82,
         "forward_return": 4.39,
         "start_price": 114.0,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 21.05,
+        "pe_ratio": 20.54,
         "forward_return": 4.92,
         "start_price": 110.5,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 20.69,
+        "pe_ratio": 20.35,
         "forward_return": 4.94,
         "start_price": 108.0,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 20.71,
+        "pe_ratio": 20.54,
         "forward_return": 5.08,
         "start_price": 107.5,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 19.82,
+        "pe_ratio": 20.09,
         "forward_return": 5.9,
         "start_price": 102.0,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 19.86,
+        "pe_ratio": 20.43,
         "forward_return": 6.18,
         "start_price": 102.0,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 20.98,
         "forward_return": 6.09,
         "start_price": 103.0,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 19.96,
+        "pe_ratio": 20.92,
         "forward_return": 6.3,
         "start_price": 102.0,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 22.2,
         "forward_return": 5.61,
         "start_price": 107.5,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 21.24,
+        "pe_ratio": 22.45,
         "forward_return": 5.98,
         "start_price": 108.0,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 20.11,
+        "pe_ratio": 21.09,
         "forward_return": 6.27,
         "start_price": 102.0,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 20.75,
+        "pe_ratio": 21.59,
         "forward_return": 6.16,
         "start_price": 105.0,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 20.7,
+        "pe_ratio": 21.37,
         "forward_return": 6.3,
         "start_price": 104.5,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 20.46,
+        "pe_ratio": 20.89,
         "forward_return": 6.3,
         "start_price": 103.0,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 20.61,
+        "pe_ratio": 20.82,
         "forward_return": 6.19,
         "start_price": 103.5,
         "start_year": 2017
@@ -16212,7 +16212,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 21.81,
+        "pe_ratio": 21.79,
         "forward_return": 5.8,
         "start_price": 108.5,
         "start_year": 2018
@@ -16221,7 +16221,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 22.17,
+        "pe_ratio": 22.12,
         "forward_return": 5.72,
         "start_price": 109.5,
         "start_year": 2018
@@ -16230,7 +16230,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 13.22,
+        "pe_ratio": 12.8,
         "forward_return": 9.75,
         "start_price": 61.2,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.91,
         "forward_return": 9.7,
         "start_price": 61.3,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.73,
         "forward_return": 10.01,
         "start_price": 60.0,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 12.63,
+        "pe_ratio": 12.5,
         "forward_return": 10.74,
         "start_price": 58.5,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 13.02,
+        "pe_ratio": 13.05,
         "forward_return": 10.28,
         "start_price": 60.3,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 11.84,
         "forward_return": 11.54,
         "start_price": 54.0,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 11.86,
+        "pe_ratio": 12.2,
         "forward_return": 11.11,
         "start_price": 54.9,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 12.31,
+        "pe_ratio": 12.55,
         "forward_return": 10.51,
         "start_price": 57.0,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 12.7,
+        "pe_ratio": 12.82,
         "forward_return": 10.14,
         "start_price": 58.8,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 13.43,
         "forward_return": 8.95,
         "start_price": 63.2,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 13.45,
+        "pe_ratio": 12.98,
         "forward_return": 9.14,
         "start_price": 62.1,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 13.19,
         "forward_return": 8.87,
         "start_price": 64.1,
         "start_year": 2007
@@ -16347,7 +16347,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 13.7,
+        "pe_ratio": 13.37,
         "forward_return": 8.97,
         "start_price": 63.1,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 13.48,
+        "pe_ratio": 13.54,
         "forward_return": 9.55,
         "start_price": 62.0,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 13.65,
+        "pe_ratio": 14.12,
         "forward_return": 9.47,
         "start_price": 62.7,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 12.09,
+        "pe_ratio": 12.39,
         "forward_return": 10.47,
         "start_price": 55.5,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.96,
         "forward_return": 10.09,
         "start_price": 58.6,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 13.33,
+        "pe_ratio": 13.38,
         "forward_return": 9.62,
         "start_price": 61.0,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 13.58,
+        "pe_ratio": 13.62,
         "forward_return": 9.31,
         "start_price": 62.1,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 14.1,
+        "pe_ratio": 14.12,
         "forward_return": 8.95,
         "start_price": 64.4,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 14.89,
+        "pe_ratio": 14.55,
         "forward_return": 8.71,
         "start_price": 68.0,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 16.95,
+        "pe_ratio": 16.19,
         "forward_return": 7.54,
         "start_price": 77.5,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 17.45,
+        "pe_ratio": 16.31,
         "forward_return": 7.28,
         "start_price": 79.9,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 17.11,
+        "pe_ratio": 16.02,
         "forward_return": 7.47,
         "start_price": 78.5,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 16.42,
+        "pe_ratio": 15.39,
         "forward_return": 7.63,
         "start_price": 75.4,
         "start_year": 2008
@@ -16473,7 +16473,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 17.07,
+        "pe_ratio": 16.02,
         "forward_return": 7.27,
         "start_price": 78.5,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.85,
         "forward_return": 7.14,
         "start_price": 77.7,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 17.06,
+        "pe_ratio": 16.04,
         "forward_return": 7.17,
         "start_price": 78.7,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.17,
+        "pe_ratio": 15.21,
         "forward_return": 7.84,
         "start_price": 74.7,
         "start_year": 2008
@@ -16509,7 +16509,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 11.76,
+        "pe_ratio": 11.29,
         "forward_return": 11.28,
         "start_price": 54.4,
         "start_year": 2008
@@ -16518,7 +16518,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 11.33,
+        "pe_ratio": 11.1,
         "forward_return": 11.49,
         "start_price": 52.5,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.01,
         "forward_return": 11.8,
         "start_price": 51.1,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 11.67,
+        "pe_ratio": 11.62,
         "forward_return": 11.2,
         "start_price": 53.9,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 13.43,
+        "pe_ratio": 13.34,
         "forward_return": 9.85,
         "start_price": 61.9,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 13.71,
+        "pe_ratio": 14.09,
         "forward_return": 9.76,
         "start_price": 63.0,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 13.52,
+        "pe_ratio": 14.42,
         "forward_return": 10.04,
         "start_price": 62.0,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 14.32,
+        "pe_ratio": 15.86,
         "forward_return": 9.47,
         "start_price": 65.5,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 14.42,
+        "pe_ratio": 15.73,
         "forward_return": 9.12,
         "start_price": 65.8,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 12.39,
+        "pe_ratio": 13.31,
         "forward_return": 10.89,
         "start_price": 56.4,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 12.75,
+        "pe_ratio": 13.5,
         "forward_return": 10.73,
         "start_price": 57.9,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 12.71,
+        "pe_ratio": 13.2,
         "forward_return": 10.86,
         "start_price": 57.6,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 12.98,
         "forward_return": 10.93,
         "start_price": 57.6,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 12.79,
+        "pe_ratio": 12.77,
         "forward_return": 10.49,
         "start_price": 58.1,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 13.07,
+        "pe_ratio": 13.03,
         "forward_return": 10.17,
         "start_price": 59.8,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 13.47,
+        "pe_ratio": 13.41,
         "forward_return": 9.72,
         "start_price": 62.1,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.12,
         "forward_return": 9.96,
         "start_price": 61.5,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 13.05,
         "forward_return": 9.96,
         "start_price": 61.9,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 13.57,
+        "pe_ratio": 13.31,
         "forward_return": 10.05,
         "start_price": 63.9,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.31,
+        "pe_ratio": 14.05,
         "forward_return": 8.89,
         "start_price": 67.9,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 13.71,
+        "pe_ratio": 13.46,
         "forward_return": 9.21,
         "start_price": 65.5,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 14.55,
+        "pe_ratio": 14.29,
         "forward_return": 8.39,
         "start_price": 70.0,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.78,
+        "pe_ratio": 14.6,
         "forward_return": 8.14,
         "start_price": 71.6,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 15.17,
+        "pe_ratio": 15.08,
         "forward_return": 7.89,
         "start_price": 74.0,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 16.9,
         "forward_return": 5.86,
         "start_price": 89.2,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 17.28,
+        "pe_ratio": 15.61,
         "forward_return": 6.09,
         "start_price": 88.1,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 15.24,
         "forward_return": 5.81,
         "start_price": 91.6,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 15.08,
         "forward_return": 6.03,
         "start_price": 91.1,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 17.4,
+        "pe_ratio": 15.42,
         "forward_return": 5.71,
         "start_price": 93.6,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 18.05,
+        "pe_ratio": 16.2,
         "forward_return": 5.17,
         "start_price": 98.8,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 17.96,
+        "pe_ratio": 16.38,
         "forward_return": 5.03,
         "start_price": 100.0,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 17.64,
+        "pe_ratio": 16.34,
         "forward_return": 4.85,
         "start_price": 99.9,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 17.63,
+        "pe_ratio": 16.58,
         "forward_return": 4.59,
         "start_price": 101.5,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 17.17,
+        "pe_ratio": 16.49,
         "forward_return": 4.69,
         "start_price": 100.5,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 16.75,
+        "pe_ratio": 16.42,
         "forward_return": 4.88,
         "start_price": 99.6,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.1,
+        "pe_ratio": 16.18,
         "forward_return": 5.6,
         "start_price": 96.2,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 15.3,
+        "pe_ratio": 15.44,
         "forward_return": 6.8,
         "start_price": 90.4,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 15.56,
+        "pe_ratio": 15.78,
         "forward_return": 6.8,
         "start_price": 90.9,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 15.82,
+        "pe_ratio": 16.06,
         "forward_return": 6.98,
         "start_price": 91.4,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 15.79,
+        "pe_ratio": 16.05,
         "forward_return": 6.88,
         "start_price": 90.2,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 16.65,
+        "pe_ratio": 16.94,
         "forward_return": 6.13,
         "start_price": 94.0,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 16.13,
+        "pe_ratio": 16.38,
         "forward_return": 6.51,
         "start_price": 90.0,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 16.41,
+        "pe_ratio": 16.65,
         "forward_return": 6.42,
         "start_price": 90.5,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 17.23,
+        "pe_ratio": 17.45,
         "forward_return": 5.58,
         "start_price": 93.9,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 17.01,
+        "pe_ratio": 17.16,
         "forward_return": 5.64,
         "start_price": 91.6,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 17.66,
+        "pe_ratio": 17.73,
         "forward_return": 5.55,
         "start_price": 93.9,
         "start_year": 2012
@@ -16995,7 +16995,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 18.01,
+        "pe_ratio": 18.1,
         "forward_return": 6.41,
         "start_price": 93.8,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 18.37,
+        "pe_ratio": 18.56,
         "forward_return": 6.16,
         "start_price": 95.5,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 19.67,
+        "pe_ratio": 19.96,
         "forward_return": 4.87,
         "start_price": 102.0,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.78,
         "forward_return": 5.44,
         "start_price": 95.9,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 18.32,
+        "pe_ratio": 18.54,
         "forward_return": 5.59,
         "start_price": 94.6,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.57,
         "forward_return": 5.58,
         "start_price": 94.7,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 18.4,
+        "pe_ratio": 18.52,
         "forward_return": 5.59,
         "start_price": 94.6,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 18.09,
+        "pe_ratio": 18.15,
         "forward_return": 6.02,
         "start_price": 92.8,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 17.99,
+        "pe_ratio": 17.79,
         "forward_return": 6.09,
         "start_price": 91.9,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 18.05,
+        "pe_ratio": 17.65,
         "forward_return": 6.17,
         "start_price": 92.0,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 17.81,
         "forward_return": 6.32,
         "start_price": 93.7,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 18.57,
+        "pe_ratio": 17.93,
         "forward_return": 6.14,
         "start_price": 94.2,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 18.97,
+        "pe_ratio": 18.3,
         "forward_return": 6.18,
         "start_price": 96.0,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 19.05,
+        "pe_ratio": 18.36,
         "forward_return": 6.01,
         "start_price": 96.2,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 18.16,
+        "pe_ratio": 17.58,
         "forward_return": 6.31,
         "start_price": 91.5,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 18.48,
+        "pe_ratio": 17.98,
         "forward_return": 6.3,
         "start_price": 92.9,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 18.29,
+        "pe_ratio": 17.88,
         "forward_return": 6.53,
         "start_price": 91.7,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 18.53,
+        "pe_ratio": 18.25,
         "forward_return": 6.2,
         "start_price": 92.7,
         "start_year": 2014
@@ -17166,7 +17166,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.49,
         "forward_return": 6.23,
         "start_price": 93.0,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 19.16,
         "forward_return": 6.04,
         "start_price": 95.5,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.69,
         "forward_return": 5.96,
         "start_price": 98.2,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 19.45,
+        "pe_ratio": 19.94,
         "forward_return": 5.85,
         "start_price": 99.5,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 19.72,
         "forward_return": 5.96,
         "start_price": 99.0,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 18.64,
+        "pe_ratio": 19.21,
         "forward_return": 6.18,
         "start_price": 97.0,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 19.37,
         "forward_return": 6.35,
         "start_price": 98.4,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 18.51,
+        "pe_ratio": 18.97,
         "forward_return": 6.05,
         "start_price": 98.0,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 18.5,
+        "pe_ratio": 18.81,
         "forward_return": 6.17,
         "start_price": 98.8,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 18.35,
+        "pe_ratio": 18.5,
         "forward_return": 6.23,
         "start_price": 98.8,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 18.36,
+        "pe_ratio": 18.46,
         "forward_return": 5.98,
         "start_price": 99.7,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 18.23,
+        "pe_ratio": 18.28,
         "forward_return": 5.94,
         "start_price": 99.8,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 18.67,
+        "pe_ratio": 18.41,
         "forward_return": 5.84,
         "start_price": 102.5,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 13.2倍、16.6倍、19.7倍、25.1倍、26.2倍"
+!!! note "本益比河流帶水位: 13.2倍、16.0倍、19.7倍、25.1倍、26.3倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
       {
         "date": "2006-03-16",
         "price": 61.2,
-        "pe": 13.22,
-        "pe_10": 61.28,
-        "pe_25": 76.97,
-        "pe_50": 91.06,
-        "pe_75": 116.27,
-        "pe_90": 121.29
+        "pe": 12.8,
+        "pe_10": 63.04,
+        "pe_25": 76.6,
+        "pe_50": 94.09,
+        "pe_75": 120.11,
+        "pe_90": 125.6
       },
       {
         "date": "2006-04-15",
         "price": 61.3,
-        "pe": 13.24,
-        "pe_10": 61.29,
-        "pe_25": 76.98,
-        "pe_50": 91.07,
-        "pe_75": 116.28,
-        "pe_90": 121.31
+        "pe": 12.91,
+        "pe_10": 62.61,
+        "pe_25": 76.07,
+        "pe_50": 93.45,
+        "pe_75": 119.28,
+        "pe_90": 124.74
       },
       {
         "date": "2006-05-16",
         "price": 60.0,
-        "pe": 12.96,
-        "pe_10": 61.29,
-        "pe_25": 76.98,
-        "pe_50": 91.06,
-        "pe_75": 116.27,
-        "pe_90": 121.3
+        "pe": 12.73,
+        "pe_10": 62.14,
+        "pe_25": 75.51,
+        "pe_50": 92.76,
+        "pe_75": 118.4,
+        "pe_90": 123.82
       },
       {
         "date": "2006-06-15",
         "price": 58.5,
-        "pe": 12.63,
-        "pe_10": 61.32,
-        "pe_25": 77.02,
-        "pe_50": 91.11,
-        "pe_75": 116.33,
-        "pe_90": 121.36
+        "pe": 12.5,
+        "pe_10": 61.71,
+        "pe_25": 74.97,
+        "pe_50": 92.1,
+        "pe_75": 117.56,
+        "pe_90": 122.94
       },
       {
         "date": "2006-07-16",
         "price": 60.3,
-        "pe": 13.02,
-        "pe_10": 61.31,
-        "pe_25": 77.01,
-        "pe_50": 91.1,
-        "pe_75": 116.32,
-        "pe_90": 121.35
+        "pe": 13.05,
+        "pe_10": 60.92,
+        "pe_25": 74.02,
+        "pe_50": 90.94,
+        "pe_75": 116.07,
+        "pe_90": 121.39
       },
       {
         "date": "2006-08-16",
         "price": 54.0,
-        "pe": 11.66,
-        "pe_10": 61.31,
-        "pe_25": 77.01,
-        "pe_50": 91.1,
-        "pe_75": 116.31,
-        "pe_90": 121.34
+        "pe": 11.84,
+        "pe_10": 60.13,
+        "pe_25": 73.06,
+        "pe_50": 89.76,
+        "pe_75": 114.57,
+        "pe_90": 119.81
       },
       {
         "date": "2006-09-15",
         "price": 54.9,
-        "pe": 11.86,
-        "pe_10": 61.28,
-        "pe_25": 76.97,
-        "pe_50": 91.05,
-        "pe_75": 116.26,
-        "pe_90": 121.28
+        "pe": 12.2,
+        "pe_10": 59.33,
+        "pe_25": 72.09,
+        "pe_50": 88.56,
+        "pe_75": 113.04,
+        "pe_90": 118.22
       },
       {
         "date": "2006-10-16",
         "price": 57.0,
-        "pe": 12.31,
-        "pe_10": 61.3,
-        "pe_25": 76.99,
-        "pe_50": 91.08,
-        "pe_75": 116.29,
-        "pe_90": 121.32
+        "pe": 12.55,
+        "pe_10": 59.88,
+        "pe_25": 72.76,
+        "pe_50": 89.38,
+        "pe_75": 114.09,
+        "pe_90": 119.31
       },
       {
         "date": "2006-11-15",
         "price": 58.8,
-        "pe": 12.7,
-        "pe_10": 61.29,
-        "pe_25": 76.98,
-        "pe_50": 91.07,
-        "pe_75": 116.28,
-        "pe_90": 121.31
+        "pe": 12.82,
+        "pe_10": 60.47,
+        "pe_25": 73.48,
+        "pe_50": 90.26,
+        "pe_75": 115.21,
+        "pe_90": 120.49
       },
       {
         "date": "2006-12-16",
         "price": 60.6,
         "pe": 13.09,
-        "pe_10": 61.29,
-        "pe_25": 76.98,
-        "pe_50": 91.06,
-        "pe_75": 116.27,
-        "pe_90": 121.3
+        "pe_10": 61.04,
+        "pe_25": 74.16,
+        "pe_50": 91.11,
+        "pe_75": 116.29,
+        "pe_90": 121.62
       },
       {
         "date": "2007-01-16",
         "price": 63.2,
-        "pe": 13.67,
-        "pe_10": 61.2,
-        "pe_25": 76.87,
-        "pe_50": 90.94,
-        "pe_75": 116.11,
-        "pe_90": 121.13
+        "pe": 13.43,
+        "pe_10": 62.05,
+        "pe_25": 75.39,
+        "pe_50": 92.61,
+        "pe_75": 118.21,
+        "pe_90": 123.62
       },
       {
         "date": "2007-02-14",
         "price": 62.1,
-        "pe": 13.45,
-        "pe_10": 61.12,
-        "pe_25": 76.77,
-        "pe_50": 90.82,
-        "pe_75": 115.96,
-        "pe_90": 120.97
+        "pe": 12.98,
+        "pe_10": 63.08,
+        "pe_25": 76.64,
+        "pe_50": 94.15,
+        "pe_75": 120.18,
+        "pe_90": 125.68
       },
       {
         "date": "2007-03-16",
         "price": 64.1,
-        "pe": 13.9,
-        "pe_10": 61.05,
-        "pe_25": 76.68,
-        "pe_50": 90.71,
-        "pe_75": 115.82,
-        "pe_90": 120.83
+        "pe": 13.19,
+        "pe_10": 64.08,
+        "pe_25": 77.85,
+        "pe_50": 95.64,
+        "pe_75": 122.08,
+        "pe_90": 127.67
       },
       {
         "date": "2007-04-15",
         "price": 63.1,
-        "pe": 13.7,
-        "pe_10": 60.97,
-        "pe_25": 76.58,
-        "pe_50": 90.6,
-        "pe_75": 115.68,
-        "pe_90": 120.68
+        "pe": 13.37,
+        "pe_10": 62.23,
+        "pe_25": 75.61,
+        "pe_50": 92.88,
+        "pe_75": 118.55,
+        "pe_90": 123.98
       },
       {
         "date": "2007-05-16",
         "price": 62.0,
-        "pe": 13.48,
-        "pe_10": 60.89,
-        "pe_25": 76.48,
-        "pe_50": 90.47,
-        "pe_75": 115.51,
-        "pe_90": 120.51
+        "pe": 13.54,
+        "pe_10": 60.37,
+        "pe_25": 73.36,
+        "pe_50": 90.12,
+        "pe_75": 115.03,
+        "pe_90": 120.29
       },
       {
         "date": "2007-06-15",
         "price": 62.7,
-        "pe": 13.65,
-        "pe_10": 60.81,
-        "pe_25": 76.38,
-        "pe_50": 90.35,
-        "pe_75": 115.36,
-        "pe_90": 120.35
+        "pe": 14.12,
+        "pe_10": 58.55,
+        "pe_25": 71.14,
+        "pe_50": 87.39,
+        "pe_75": 111.55,
+        "pe_90": 116.65
       },
       {
         "date": "2007-07-16",
         "price": 55.5,
-        "pe": 12.09,
-        "pe_10": 60.77,
-        "pe_25": 76.33,
-        "pe_50": 90.3,
-        "pe_75": 115.29,
-        "pe_90": 120.28
+        "pe": 12.39,
+        "pe_10": 59.06,
+        "pe_25": 71.76,
+        "pe_50": 88.15,
+        "pe_75": 112.52,
+        "pe_90": 117.67
       },
       {
         "date": "2007-08-16",
         "price": 58.6,
-        "pe": 12.79,
-        "pe_10": 60.65,
-        "pe_25": 76.18,
-        "pe_50": 90.12,
-        "pe_75": 115.07,
-        "pe_90": 120.05
+        "pe": 12.96,
+        "pe_10": 59.62,
+        "pe_25": 72.44,
+        "pe_50": 88.99,
+        "pe_75": 113.58,
+        "pe_90": 118.78
       },
       {
         "date": "2007-09-15",
         "price": 61.0,
-        "pe": 13.33,
-        "pe_10": 60.58,
-        "pe_25": 76.09,
-        "pe_50": 90.01,
-        "pe_75": 114.93,
-        "pe_90": 119.9
+        "pe": 13.38,
+        "pe_10": 60.11,
+        "pe_25": 73.04,
+        "pe_50": 89.72,
+        "pe_75": 114.52,
+        "pe_90": 119.77
       },
       {
         "date": "2007-10-16",
         "price": 62.1,
-        "pe": 13.58,
-        "pe_10": 60.54,
-        "pe_25": 76.04,
-        "pe_50": 89.95,
-        "pe_75": 114.85,
-        "pe_90": 119.81
+        "pe": 13.62,
+        "pe_10": 60.12,
+        "pe_25": 73.04,
+        "pe_50": 89.73,
+        "pe_75": 114.53,
+        "pe_90": 119.78
       },
       {
         "date": "2007-11-15",
         "price": 64.4,
-        "pe": 14.1,
-        "pe_10": 60.46,
-        "pe_25": 75.94,
-        "pe_50": 89.84,
-        "pe_75": 114.71,
-        "pe_90": 119.67
+        "pe": 14.12,
+        "pe_10": 60.14,
+        "pe_25": 73.07,
+        "pe_50": 89.76,
+        "pe_75": 114.57,
+        "pe_90": 119.82
       },
       {
         "date": "2007-12-16",
         "price": 59.9,
         "pe": 13.14,
-        "pe_10": 60.35,
-        "pe_25": 75.8,
-        "pe_50": 89.67,
-        "pe_75": 114.49,
-        "pe_90": 119.44
+        "pe_10": 60.11,
+        "pe_25": 73.03,
+        "pe_50": 89.71,
+        "pe_75": 114.51,
+        "pe_90": 119.75
       },
       {
         "date": "2008-01-16",
         "price": 68.0,
-        "pe": 14.89,
-        "pe_10": 60.46,
-        "pe_25": 75.93,
-        "pe_50": 89.83,
-        "pe_75": 114.7,
-        "pe_90": 119.66
+        "pe": 14.55,
+        "pe_10": 61.62,
+        "pe_25": 74.87,
+        "pe_50": 91.98,
+        "pe_75": 117.4,
+        "pe_90": 122.77
       },
       {
         "date": "2008-02-15",
         "price": 77.5,
-        "pe": 16.95,
-        "pe_10": 60.53,
-        "pe_25": 76.03,
-        "pe_50": 89.94,
-        "pe_75": 114.83,
-        "pe_90": 119.8
+        "pe": 16.19,
+        "pe_10": 63.12,
+        "pe_25": 76.69,
+        "pe_50": 94.21,
+        "pe_75": 120.25,
+        "pe_90": 125.75
       },
       {
         "date": "2008-03-16",
         "price": 79.9,
-        "pe": 17.45,
-        "pe_10": 60.61,
-        "pe_25": 76.13,
-        "pe_50": 90.06,
-        "pe_75": 115.0,
-        "pe_90": 119.97
+        "pe": 16.31,
+        "pe_10": 64.59,
+        "pe_25": 78.48,
+        "pe_50": 96.41,
+        "pe_75": 123.06,
+        "pe_90": 128.69
       },
       {
         "date": "2008-04-15",
         "price": 78.5,
-        "pe": 17.11,
-        "pe_10": 60.74,
-        "pe_25": 76.29,
-        "pe_50": 90.25,
-        "pe_75": 115.23,
-        "pe_90": 120.21
+        "pe": 16.02,
+        "pe_10": 64.61,
+        "pe_25": 78.5,
+        "pe_50": 96.43,
+        "pe_75": 123.09,
+        "pe_90": 128.73
       },
       {
         "date": "2008-05-16",
         "price": 75.4,
-        "pe": 16.42,
-        "pe_10": 60.79,
-        "pe_25": 76.35,
-        "pe_50": 90.32,
-        "pe_75": 115.33,
-        "pe_90": 120.31
+        "pe": 15.39,
+        "pe_10": 64.6,
+        "pe_25": 78.49,
+        "pe_50": 96.42,
+        "pe_75": 123.07,
+        "pe_90": 128.7
       },
       {
         "date": "2008-06-15",
         "price": 78.5,
-        "pe": 17.07,
-        "pe_10": 60.88,
-        "pe_25": 76.47,
-        "pe_50": 90.46,
-        "pe_75": 115.5,
-        "pe_90": 120.49
+        "pe": 16.02,
+        "pe_10": 64.61,
+        "pe_25": 78.5,
+        "pe_50": 96.43,
+        "pe_75": 123.09,
+        "pe_90": 128.73
       },
       {
         "date": "2008-07-16",
         "price": 77.7,
-        "pe": 16.87,
-        "pe_10": 60.97,
-        "pe_25": 76.58,
-        "pe_50": 90.6,
-        "pe_75": 115.67,
-        "pe_90": 120.68
+        "pe": 15.85,
+        "pe_10": 64.64,
+        "pe_25": 78.53,
+        "pe_50": 96.48,
+        "pe_75": 123.14,
+        "pe_90": 128.78
       },
       {
         "date": "2008-08-16",
         "price": 78.7,
-        "pe": 17.06,
-        "pe_10": 61.07,
-        "pe_25": 76.7,
-        "pe_50": 90.74,
-        "pe_75": 115.86,
-        "pe_90": 120.87
+        "pe": 16.04,
+        "pe_10": 64.69,
+        "pe_25": 78.6,
+        "pe_50": 96.56,
+        "pe_75": 123.25,
+        "pe_90": 128.89
       },
       {
         "date": "2008-09-15",
         "price": 74.7,
-        "pe": 16.17,
-        "pe_10": 61.16,
-        "pe_25": 76.81,
-        "pe_50": 90.87,
-        "pe_75": 116.02,
-        "pe_90": 121.04
+        "pe": 15.21,
+        "pe_10": 64.75,
+        "pe_25": 78.68,
+        "pe_50": 96.65,
+        "pe_75": 123.37,
+        "pe_90": 129.02
       },
       {
         "date": "2008-10-16",
         "price": 54.4,
-        "pe": 11.76,
-        "pe_10": 61.24,
-        "pe_25": 76.92,
-        "pe_50": 90.99,
-        "pe_75": 116.18,
-        "pe_90": 121.2
+        "pe": 11.29,
+        "pe_10": 63.53,
+        "pe_25": 77.19,
+        "pe_50": 94.83,
+        "pe_75": 121.04,
+        "pe_90": 126.58
       },
       {
         "date": "2008-11-15",
         "price": 52.5,
-        "pe": 11.33,
-        "pe_10": 61.34,
-        "pe_25": 77.05,
-        "pe_50": 91.15,
-        "pe_75": 116.38,
-        "pe_90": 121.41
+        "pe": 11.1,
+        "pe_10": 62.36,
+        "pe_25": 75.77,
+        "pe_50": 93.08,
+        "pe_75": 118.81,
+        "pe_90": 124.25
       },
       {
         "date": "2008-12-16",
         "price": 53.5,
         "pe": 11.53,
-        "pe_10": 61.43,
-        "pe_25": 77.15,
-        "pe_50": 91.27,
-        "pe_75": 116.54,
-        "pe_90": 121.57
+        "pe_10": 61.18,
+        "pe_25": 74.33,
+        "pe_50": 91.32,
+        "pe_75": 116.56,
+        "pe_90": 121.89
       },
       {
         "date": "2009-01-16",
         "price": 51.1,
-        "pe": 11.04,
-        "pe_10": 61.27,
-        "pe_25": 76.96,
-        "pe_50": 91.05,
-        "pe_75": 116.25,
-        "pe_90": 121.27
+        "pe": 11.01,
+        "pe_10": 61.19,
+        "pe_25": 74.35,
+        "pe_50": 91.34,
+        "pe_75": 116.59,
+        "pe_90": 121.93
       },
       {
         "date": "2009-02-14",
         "price": 53.9,
-        "pe": 11.67,
-        "pe_10": 61.14,
-        "pe_25": 76.8,
-        "pe_50": 90.85,
-        "pe_75": 116.0,
-        "pe_90": 121.01
+        "pe": 11.62,
+        "pe_10": 61.16,
+        "pe_25": 74.31,
+        "pe_50": 91.29,
+        "pe_75": 116.52,
+        "pe_90": 121.85
       },
       {
         "date": "2009-03-16",
         "price": 61.9,
-        "pe": 13.43,
-        "pe_10": 61.02,
-        "pe_25": 76.64,
-        "pe_50": 90.66,
-        "pe_75": 115.76,
-        "pe_90": 120.76
+        "pe": 13.34,
+        "pe_10": 61.18,
+        "pe_25": 74.34,
+        "pe_50": 91.32,
+        "pe_75": 116.56,
+        "pe_90": 121.9
       },
       {
         "date": "2009-04-15",
         "price": 63.0,
-        "pe": 13.71,
-        "pe_10": 60.83,
-        "pe_25": 76.41,
-        "pe_50": 90.39,
-        "pe_75": 115.41,
-        "pe_90": 120.4
+        "pe": 14.09,
+        "pe_10": 58.95,
+        "pe_25": 71.63,
+        "pe_50": 87.99,
+        "pe_75": 112.32,
+        "pe_90": 117.46
       },
       {
         "date": "2009-05-16",
         "price": 62.0,
-        "pe": 13.52,
-        "pe_10": 60.71,
-        "pe_25": 76.25,
-        "pe_50": 90.2,
-        "pe_75": 115.17,
-        "pe_90": 120.15
+        "pe": 14.42,
+        "pe_10": 56.69,
+        "pe_25": 68.88,
+        "pe_50": 84.62,
+        "pe_75": 108.01,
+        "pe_90": 112.95
       },
       {
         "date": "2009-06-15",
         "price": 65.5,
-        "pe": 14.32,
-        "pe_10": 60.55,
-        "pe_25": 76.05,
-        "pe_50": 89.97,
-        "pe_75": 114.88,
-        "pe_90": 119.84
+        "pe": 15.86,
+        "pe_10": 54.45,
+        "pe_25": 66.16,
+        "pe_50": 81.28,
+        "pe_75": 103.74,
+        "pe_90": 108.49
       },
       {
         "date": "2009-07-16",
         "price": 65.8,
-        "pe": 14.42,
-        "pe_10": 60.41,
-        "pe_25": 75.87,
-        "pe_50": 89.76,
-        "pe_75": 114.6,
-        "pe_90": 119.56
+        "pe": 15.73,
+        "pe_10": 55.15,
+        "pe_25": 67.01,
+        "pe_50": 82.32,
+        "pe_75": 105.08,
+        "pe_90": 109.89
       },
       {
         "date": "2009-08-16",
         "price": 56.4,
-        "pe": 12.39,
-        "pe_10": 60.26,
-        "pe_25": 75.69,
-        "pe_50": 89.54,
-        "pe_75": 114.32,
-        "pe_90": 119.27
+        "pe": 13.31,
+        "pe_10": 55.87,
+        "pe_25": 67.88,
+        "pe_50": 83.39,
+        "pe_75": 106.44,
+        "pe_90": 111.32
       },
       {
         "date": "2009-09-15",
         "price": 57.9,
-        "pe": 12.75,
-        "pe_10": 60.12,
-        "pe_25": 75.51,
-        "pe_50": 89.32,
-        "pe_75": 114.05,
-        "pe_90": 118.98
+        "pe": 13.5,
+        "pe_10": 56.55,
+        "pe_25": 68.71,
+        "pe_50": 84.41,
+        "pe_75": 107.74,
+        "pe_90": 112.67
       },
       {
         "date": "2009-10-16",
         "price": 57.6,
-        "pe": 12.71,
-        "pe_10": 59.99,
-        "pe_25": 75.35,
-        "pe_50": 89.14,
-        "pe_75": 113.82,
-        "pe_90": 118.74
+        "pe": 13.2,
+        "pe_10": 57.53,
+        "pe_25": 69.91,
+        "pe_50": 85.88,
+        "pe_75": 109.61,
+        "pe_90": 114.63
       },
       {
         "date": "2009-11-15",
         "price": 57.6,
-        "pe": 12.74,
-        "pe_10": 59.85,
-        "pe_25": 75.18,
-        "pe_50": 88.93,
-        "pe_75": 113.55,
-        "pe_90": 118.46
+        "pe": 12.98,
+        "pe_10": 58.51,
+        "pe_25": 71.09,
+        "pe_50": 87.33,
+        "pe_75": 111.47,
+        "pe_90": 116.58
       },
       {
         "date": "2009-12-16",
         "price": 59.5,
         "pe": 13.19,
-        "pe_10": 59.72,
-        "pe_25": 75.01,
-        "pe_50": 88.73,
-        "pe_75": 113.29,
-        "pe_90": 118.19
+        "pe_10": 59.48,
+        "pe_25": 72.27,
+        "pe_50": 88.78,
+        "pe_75": 113.32,
+        "pe_90": 118.5
       },
       {
         "date": "2010-01-16",
         "price": 58.1,
-        "pe": 12.79,
-        "pe_10": 60.14,
-        "pe_25": 75.53,
-        "pe_50": 89.35,
-        "pe_75": 114.09,
-        "pe_90": 119.02
+        "pe": 12.77,
+        "pe_10": 59.99,
+        "pe_25": 72.89,
+        "pe_50": 89.54,
+        "pe_75": 114.29,
+        "pe_90": 119.52
       },
       {
         "date": "2010-02-14",
         "price": 59.8,
-        "pe": 13.07,
-        "pe_10": 60.57,
-        "pe_25": 76.08,
-        "pe_50": 90.0,
-        "pe_75": 114.91,
-        "pe_90": 119.88
+        "pe": 13.03,
+        "pe_10": 60.51,
+        "pe_25": 73.52,
+        "pe_50": 90.32,
+        "pe_75": 115.29,
+        "pe_90": 120.56
       },
       {
         "date": "2010-03-16",
         "price": 62.1,
-        "pe": 13.47,
-        "pe_10": 61.03,
-        "pe_25": 76.66,
-        "pe_50": 90.68,
-        "pe_75": 115.79,
-        "pe_90": 120.79
+        "pe": 13.41,
+        "pe_10": 61.06,
+        "pe_25": 74.19,
+        "pe_50": 91.14,
+        "pe_75": 116.33,
+        "pe_90": 121.65
       },
       {
         "date": "2010-04-15",
         "price": 61.5,
-        "pe": 13.24,
-        "pe_10": 61.49,
-        "pe_25": 77.23,
-        "pe_50": 91.37,
-        "pe_75": 116.66,
-        "pe_90": 121.7
+        "pe": 13.12,
+        "pe_10": 61.8,
+        "pe_25": 75.09,
+        "pe_50": 92.25,
+        "pe_75": 117.75,
+        "pe_90": 123.14
       },
       {
         "date": "2010-05-16",
         "price": 61.9,
-        "pe": 13.24,
-        "pe_10": 61.89,
-        "pe_25": 77.74,
-        "pe_50": 91.96,
-        "pe_75": 117.42,
-        "pe_90": 122.5
+        "pe": 13.05,
+        "pe_10": 62.54,
+        "pe_25": 75.99,
+        "pe_50": 93.35,
+        "pe_75": 119.15,
+        "pe_90": 124.61
       },
       {
         "date": "2010-06-15",
         "price": 63.9,
-        "pe": 13.57,
-        "pe_10": 62.34,
-        "pe_25": 78.3,
-        "pe_50": 92.62,
-        "pe_75": 118.26,
-        "pe_90": 123.38
+        "pe": 13.31,
+        "pe_10": 63.3,
+        "pe_25": 76.91,
+        "pe_50": 94.48,
+        "pe_75": 120.6,
+        "pe_90": 126.12
       },
       {
         "date": "2010-07-16",
         "price": 67.9,
-        "pe": 14.31,
-        "pe_10": 62.81,
-        "pe_25": 78.9,
-        "pe_50": 93.33,
-        "pe_75": 119.17,
-        "pe_90": 124.32
+        "pe": 14.05,
+        "pe_10": 63.72,
+        "pe_25": 77.42,
+        "pe_50": 95.11,
+        "pe_75": 121.4,
+        "pe_90": 126.96
       },
       {
         "date": "2010-08-16",
         "price": 65.5,
-        "pe": 13.71,
-        "pe_10": 63.25,
-        "pe_25": 79.44,
-        "pe_50": 93.97,
-        "pe_75": 119.99,
-        "pe_90": 125.18
+        "pe": 13.46,
+        "pe_10": 64.16,
+        "pe_25": 77.96,
+        "pe_50": 95.77,
+        "pe_75": 122.24,
+        "pe_90": 127.84
       },
       {
         "date": "2010-09-15",
         "price": 70.0,
-        "pe": 14.55,
-        "pe_10": 63.69,
-        "pe_25": 79.99,
-        "pe_50": 94.63,
-        "pe_75": 120.83,
-        "pe_90": 126.05
+        "pe": 14.29,
+        "pe_10": 64.59,
+        "pe_25": 78.47,
+        "pe_50": 96.4,
+        "pe_75": 123.05,
+        "pe_90": 128.68
       },
       {
         "date": "2010-10-16",
         "price": 71.6,
-        "pe": 14.78,
-        "pe_10": 64.13,
-        "pe_25": 80.55,
-        "pe_50": 95.29,
-        "pe_75": 121.67,
-        "pe_90": 126.93
+        "pe": 14.6,
+        "pe_10": 64.66,
+        "pe_25": 78.56,
+        "pe_50": 96.51,
+        "pe_75": 123.19,
+        "pe_90": 128.83
       },
       {
         "date": "2010-11-15",
         "price": 74.0,
-        "pe": 15.17,
-        "pe_10": 64.58,
-        "pe_25": 81.11,
-        "pe_50": 95.95,
-        "pe_75": 122.51,
-        "pe_90": 127.81
+        "pe": 15.08,
+        "pe_10": 64.7,
+        "pe_25": 78.61,
+        "pe_50": 96.57,
+        "pe_75": 123.27,
+        "pe_90": 128.91
       },
       {
         "date": "2010-12-16",
         "price": 74.1,
         "pe": 15.09,
-        "pe_10": 65.01,
-        "pe_25": 81.65,
-        "pe_50": 96.59,
-        "pe_75": 123.33,
-        "pe_90": 128.66
+        "pe_10": 64.75,
+        "pe_25": 78.67,
+        "pe_50": 96.64,
+        "pe_75": 123.35,
+        "pe_90": 129.0
       },
       {
         "date": "2011-01-16",
         "price": 89.2,
-        "pe": 17.83,
-        "pe_10": 66.23,
-        "pe_25": 83.18,
-        "pe_50": 98.41,
-        "pe_75": 125.65,
-        "pe_90": 131.08
+        "pe": 16.9,
+        "pe_10": 69.59,
+        "pe_25": 84.56,
+        "pe_50": 103.87,
+        "pe_75": 132.59,
+        "pe_90": 138.66
       },
       {
         "date": "2011-02-14",
         "price": 88.1,
-        "pe": 17.28,
-        "pe_10": 67.49,
-        "pe_25": 84.77,
-        "pe_50": 100.29,
-        "pe_75": 128.05,
-        "pe_90": 133.58
+        "pe": 15.61,
+        "pe_10": 74.41,
+        "pe_25": 90.41,
+        "pe_50": 111.07,
+        "pe_75": 141.77,
+        "pe_90": 148.26
       },
       {
         "date": "2011-03-16",
         "price": 91.6,
-        "pe": 17.64,
-        "pe_10": 68.74,
-        "pe_25": 86.34,
-        "pe_50": 102.14,
-        "pe_75": 130.42,
-        "pe_90": 136.06
+        "pe": 15.24,
+        "pe_10": 79.25,
+        "pe_25": 96.29,
+        "pe_50": 118.29,
+        "pe_75": 150.98,
+        "pe_90": 157.9
       },
       {
         "date": "2011-04-15",
         "price": 91.1,
-        "pe": 17.23,
-        "pe_10": 69.99,
-        "pe_25": 87.91,
-        "pe_50": 104.0,
-        "pe_75": 132.79,
-        "pe_90": 138.53
+        "pe": 15.08,
+        "pe_10": 79.65,
+        "pe_25": 96.78,
+        "pe_50": 118.89,
+        "pe_75": 151.75,
+        "pe_90": 158.7
       },
       {
         "date": "2011-05-16",
         "price": 93.6,
-        "pe": 17.4,
-        "pe_10": 71.21,
-        "pe_25": 89.44,
-        "pe_50": 105.81,
-        "pe_75": 135.1,
-        "pe_90": 140.94
+        "pe": 15.42,
+        "pe_10": 80.03,
+        "pe_25": 97.24,
+        "pe_50": 119.46,
+        "pe_75": 152.48,
+        "pe_90": 159.46
       },
       {
         "date": "2011-06-15",
         "price": 98.8,
-        "pe": 18.05,
-        "pe_10": 72.46,
-        "pe_25": 91.01,
-        "pe_50": 107.67,
-        "pe_75": 137.47,
-        "pe_90": 143.42
+        "pe": 16.2,
+        "pe_10": 80.41,
+        "pe_25": 97.7,
+        "pe_50": 120.02,
+        "pe_75": 153.2,
+        "pe_90": 160.21
       },
       {
         "date": "2011-07-16",
         "price": 100.0,
-        "pe": 17.96,
-        "pe_10": 73.71,
-        "pe_25": 92.58,
-        "pe_50": 109.52,
-        "pe_75": 139.84,
-        "pe_90": 145.89
+        "pe": 16.38,
+        "pe_10": 80.49,
+        "pe_25": 97.8,
+        "pe_50": 120.15,
+        "pe_75": 153.36,
+        "pe_90": 160.38
       },
       {
         "date": "2011-08-16",
         "price": 99.9,
-        "pe": 17.64,
-        "pe_10": 74.97,
-        "pe_25": 94.17,
-        "pe_50": 111.4,
-        "pe_75": 142.23,
-        "pe_90": 148.38
+        "pe": 16.34,
+        "pe_10": 80.61,
+        "pe_25": 97.94,
+        "pe_50": 120.32,
+        "pe_75": 153.58,
+        "pe_90": 160.61
       },
       {
         "date": "2011-09-15",
         "price": 101.5,
-        "pe": 17.63,
-        "pe_10": 76.21,
-        "pe_25": 95.73,
-        "pe_50": 113.24,
-        "pe_75": 144.59,
-        "pe_90": 150.85
+        "pe": 16.58,
+        "pe_10": 80.72,
+        "pe_25": 98.07,
+        "pe_50": 120.48,
+        "pe_75": 153.78,
+        "pe_90": 160.82
       },
       {
         "date": "2011-10-16",
         "price": 100.5,
-        "pe": 17.17,
-        "pe_10": 77.49,
-        "pe_25": 97.32,
-        "pe_50": 115.13,
-        "pe_75": 147.0,
-        "pe_90": 153.36
+        "pe": 16.49,
+        "pe_10": 80.36,
+        "pe_25": 97.64,
+        "pe_50": 119.94,
+        "pe_75": 153.1,
+        "pe_90": 160.11
       },
       {
         "date": "2011-11-15",
         "price": 99.6,
-        "pe": 16.75,
-        "pe_10": 78.72,
-        "pe_25": 98.87,
-        "pe_50": 116.96,
-        "pe_75": 149.34,
-        "pe_90": 155.8
+        "pe": 16.42,
+        "pe_10": 79.98,
+        "pe_25": 97.17,
+        "pe_50": 119.37,
+        "pe_75": 152.37,
+        "pe_90": 159.35
       },
       {
         "date": "2011-12-16",
         "price": 100.0,
         "pe": 16.56,
-        "pe_10": 79.94,
-        "pe_25": 100.41,
-        "pe_50": 118.78,
-        "pe_75": 151.66,
-        "pe_90": 158.22
+        "pe_10": 79.62,
+        "pe_25": 96.74,
+        "pe_50": 118.84,
+        "pe_75": 151.69,
+        "pe_90": 158.64
       },
       {
         "date": "2012-01-16",
         "price": 96.2,
-        "pe": 16.1,
-        "pe_10": 79.1,
-        "pe_25": 99.35,
-        "pe_50": 117.53,
-        "pe_75": 150.07,
-        "pe_90": 156.56
+        "pe": 16.18,
+        "pe_10": 78.39,
+        "pe_25": 95.25,
+        "pe_50": 117.01,
+        "pe_75": 149.35,
+        "pe_90": 156.19
       },
       {
         "date": "2012-02-15",
         "price": 90.4,
-        "pe": 15.3,
-        "pe_10": 78.22,
-        "pe_25": 98.24,
-        "pe_50": 116.22,
-        "pe_75": 148.39,
-        "pe_90": 154.81
+        "pe": 15.44,
+        "pe_10": 77.2,
+        "pe_25": 93.8,
+        "pe_50": 115.22,
+        "pe_75": 147.08,
+        "pe_90": 153.81
       },
       {
         "date": "2012-03-16",
         "price": 90.9,
-        "pe": 15.56,
-        "pe_10": 77.34,
-        "pe_25": 97.14,
-        "pe_50": 114.91,
-        "pe_75": 146.72,
-        "pe_90": 153.06
+        "pe": 15.78,
+        "pe_10": 75.95,
+        "pe_25": 92.28,
+        "pe_50": 113.37,
+        "pe_75": 144.7,
+        "pe_90": 151.33
       },
       {
         "date": "2012-04-15",
         "price": 91.4,
-        "pe": 15.82,
-        "pe_10": 76.48,
-        "pe_25": 96.07,
-        "pe_50": 113.64,
-        "pe_75": 145.1,
-        "pe_90": 151.38
+        "pe": 16.06,
+        "pe_10": 75.04,
+        "pe_25": 91.17,
+        "pe_50": 112.0,
+        "pe_75": 142.96,
+        "pe_90": 149.51
       },
       {
         "date": "2012-05-16",
         "price": 90.2,
-        "pe": 15.79,
-        "pe_10": 75.62,
-        "pe_25": 94.98,
-        "pe_50": 112.36,
-        "pe_75": 143.47,
-        "pe_90": 149.67
+        "pe": 16.05,
+        "pe_10": 74.1,
+        "pe_25": 90.03,
+        "pe_50": 110.6,
+        "pe_75": 141.17,
+        "pe_90": 147.64
       },
       {
         "date": "2012-06-15",
         "price": 94.0,
-        "pe": 16.65,
-        "pe_10": 74.74,
-        "pe_25": 93.87,
-        "pe_50": 111.05,
-        "pe_75": 141.79,
-        "pe_90": 147.92
+        "pe": 16.94,
+        "pe_10": 73.16,
+        "pe_25": 88.89,
+        "pe_50": 109.2,
+        "pe_75": 139.39,
+        "pe_90": 145.77
       },
       {
         "date": "2012-07-16",
         "price": 90.0,
-        "pe": 16.13,
-        "pe_10": 73.86,
-        "pe_25": 92.78,
-        "pe_50": 109.75,
-        "pe_75": 140.13,
-        "pe_90": 146.19
+        "pe": 16.38,
+        "pe_10": 72.45,
+        "pe_25": 88.02,
+        "pe_50": 108.13,
+        "pe_75": 138.02,
+        "pe_90": 144.34
       },
       {
         "date": "2012-08-16",
         "price": 90.5,
-        "pe": 16.41,
-        "pe_10": 73.01,
-        "pe_25": 91.7,
-        "pe_50": 108.48,
-        "pe_75": 138.51,
-        "pe_90": 144.5
+        "pe": 16.65,
+        "pe_10": 71.67,
+        "pe_25": 87.08,
+        "pe_50": 106.97,
+        "pe_75": 136.54,
+        "pe_90": 142.79
       },
       {
         "date": "2012-09-15",
         "price": 93.9,
-        "pe": 17.23,
-        "pe_10": 72.14,
-        "pe_25": 90.62,
-        "pe_50": 107.2,
-        "pe_75": 136.87,
-        "pe_90": 142.79
+        "pe": 17.45,
+        "pe_10": 70.95,
+        "pe_25": 86.21,
+        "pe_50": 105.9,
+        "pe_75": 135.17,
+        "pe_90": 141.36
       },
       {
         "date": "2012-10-16",
         "price": 91.6,
-        "pe": 17.01,
-        "pe_10": 71.29,
-        "pe_25": 89.54,
-        "pe_50": 105.92,
-        "pe_75": 135.25,
-        "pe_90": 141.09
+        "pe": 17.16,
+        "pe_10": 70.38,
+        "pe_25": 85.51,
+        "pe_50": 105.05,
+        "pe_75": 134.09,
+        "pe_90": 140.23
       },
       {
         "date": "2012-11-15",
         "price": 93.9,
-        "pe": 17.66,
-        "pe_10": 70.39,
-        "pe_25": 88.41,
-        "pe_50": 104.59,
-        "pe_75": 133.54,
-        "pe_90": 139.31
+        "pe": 17.73,
+        "pe_10": 69.83,
+        "pe_25": 84.84,
+        "pe_50": 104.23,
+        "pe_75": 133.04,
+        "pe_90": 139.13
       },
       {
         "date": "2012-12-16",
         "price": 94.5,
         "pe": 17.99,
-        "pe_10": 69.54,
-        "pe_25": 87.34,
-        "pe_50": 103.32,
-        "pe_75": 131.93,
-        "pe_90": 137.63
+        "pe_10": 69.26,
+        "pe_25": 84.15,
+        "pe_50": 103.38,
+        "pe_75": 131.95,
+        "pe_90": 137.99
       },
       {
         "date": "2013-01-16",
         "price": 94.0,
         "pe": 17.93,
-        "pe_10": 69.4,
-        "pe_25": 87.17,
-        "pe_50": 103.12,
-        "pe_75": 131.67,
-        "pe_90": 137.36
+        "pe_10": 69.12,
+        "pe_25": 83.99,
+        "pe_50": 103.17,
+        "pe_75": 131.69,
+        "pe_90": 137.72
       },
       {
         "date": "2013-02-14",
         "price": 92.2,
         "pe": 17.63,
-        "pe_10": 69.23,
-        "pe_25": 86.96,
-        "pe_50": 102.87,
-        "pe_75": 131.34,
-        "pe_90": 137.02
+        "pe_10": 68.95,
+        "pe_25": 83.78,
+        "pe_50": 102.92,
+        "pe_75": 131.37,
+        "pe_90": 137.38
       },
       {
         "date": "2013-03-16",
         "price": 92.8,
         "pe": 17.78,
-        "pe_10": 69.09,
-        "pe_25": 86.78,
-        "pe_50": 102.66,
-        "pe_75": 131.08,
-        "pe_90": 136.75
+        "pe_10": 68.82,
+        "pe_25": 83.61,
+        "pe_50": 102.72,
+        "pe_75": 131.11,
+        "pe_90": 137.11
       },
       {
         "date": "2013-04-15",
         "price": 93.8,
-        "pe": 18.01,
-        "pe_10": 68.95,
-        "pe_25": 86.6,
-        "pe_50": 102.45,
-        "pe_75": 130.8,
-        "pe_90": 136.46
+        "pe": 18.1,
+        "pe_10": 68.33,
+        "pe_25": 83.02,
+        "pe_50": 101.99,
+        "pe_75": 130.18,
+        "pe_90": 136.14
       },
       {
         "date": "2013-05-16",
         "price": 95.5,
-        "pe": 18.37,
-        "pe_10": 68.82,
-        "pe_25": 86.44,
-        "pe_50": 102.26,
-        "pe_75": 130.57,
-        "pe_90": 136.21
+        "pe": 18.56,
+        "pe_10": 67.84,
+        "pe_25": 82.43,
+        "pe_50": 101.26,
+        "pe_75": 129.25,
+        "pe_90": 135.17
       },
       {
         "date": "2013-06-15",
         "price": 102.0,
-        "pe": 19.67,
-        "pe_10": 68.65,
-        "pe_25": 86.22,
-        "pe_50": 102.0,
-        "pe_75": 130.24,
-        "pe_90": 135.87
+        "pe": 19.96,
+        "pe_10": 67.38,
+        "pe_25": 81.87,
+        "pe_50": 100.57,
+        "pe_75": 128.37,
+        "pe_90": 134.25
       },
       {
         "date": "2013-07-16",
         "price": 95.9,
-        "pe": 18.53,
-        "pe_10": 68.51,
-        "pe_25": 86.05,
-        "pe_50": 101.8,
-        "pe_75": 129.98,
-        "pe_90": 135.6
+        "pe": 18.78,
+        "pe_10": 67.33,
+        "pe_25": 81.81,
+        "pe_50": 100.5,
+        "pe_75": 128.28,
+        "pe_90": 134.15
       },
       {
         "date": "2013-08-16",
         "price": 94.6,
-        "pe": 18.32,
-        "pe_10": 68.36,
-        "pe_25": 85.86,
-        "pe_50": 101.57,
-        "pe_75": 129.69,
-        "pe_90": 135.3
+        "pe": 18.54,
+        "pe_10": 67.28,
+        "pe_25": 81.74,
+        "pe_50": 100.42,
+        "pe_75": 128.17,
+        "pe_90": 134.04
       },
       {
         "date": "2013-09-15",
         "price": 94.7,
-        "pe": 18.38,
-        "pe_10": 68.21,
-        "pe_25": 85.67,
-        "pe_50": 101.35,
-        "pe_75": 129.4,
-        "pe_90": 135.0
+        "pe": 18.57,
+        "pe_10": 67.24,
+        "pe_25": 81.7,
+        "pe_50": 100.36,
+        "pe_75": 128.1,
+        "pe_90": 133.97
       },
       {
         "date": "2013-10-16",
         "price": 94.6,
-        "pe": 18.4,
-        "pe_10": 68.06,
-        "pe_25": 85.49,
-        "pe_50": 101.13,
-        "pe_75": 129.12,
-        "pe_90": 134.71
+        "pe": 18.52,
+        "pe_10": 67.35,
+        "pe_25": 81.83,
+        "pe_50": 100.53,
+        "pe_75": 128.31,
+        "pe_90": 134.19
       },
       {
         "date": "2013-11-15",
         "price": 92.8,
-        "pe": 18.09,
-        "pe_10": 67.91,
-        "pe_25": 85.3,
-        "pe_50": 100.91,
-        "pe_75": 128.84,
-        "pe_90": 134.41
+        "pe": 18.15,
+        "pe_10": 67.41,
+        "pe_25": 81.91,
+        "pe_50": 100.62,
+        "pe_75": 128.44,
+        "pe_90": 134.32
       },
       {
         "date": "2013-12-16",
         "price": 93.1,
         "pe": 18.18,
-        "pe_10": 67.79,
-        "pe_25": 85.15,
-        "pe_50": 100.73,
-        "pe_75": 128.61,
-        "pe_90": 134.18
+        "pe_10": 67.52,
+        "pe_25": 82.04,
+        "pe_50": 100.78,
+        "pe_75": 128.64,
+        "pe_90": 134.53
       },
       {
         "date": "2014-01-16",
         "price": 91.9,
-        "pe": 17.99,
-        "pe_10": 67.62,
-        "pe_25": 84.94,
-        "pe_50": 100.48,
-        "pe_75": 128.3,
-        "pe_90": 133.85
+        "pe": 17.79,
+        "pe_10": 68.11,
+        "pe_25": 82.76,
+        "pe_50": 101.66,
+        "pe_75": 129.77,
+        "pe_90": 135.71
       },
       {
         "date": "2014-02-14",
         "price": 92.0,
-        "pe": 18.05,
-        "pe_10": 67.47,
-        "pe_25": 84.75,
-        "pe_50": 100.26,
-        "pe_75": 128.01,
-        "pe_90": 133.55
+        "pe": 17.65,
+        "pe_10": 68.73,
+        "pe_25": 83.5,
+        "pe_50": 102.58,
+        "pe_75": 130.94,
+        "pe_90": 136.93
       },
       {
         "date": "2014-03-16",
         "price": 93.7,
-        "pe": 18.43,
-        "pe_10": 67.3,
-        "pe_25": 84.54,
-        "pe_50": 100.0,
-        "pe_75": 127.69,
-        "pe_90": 133.21
+        "pe": 17.81,
+        "pe_10": 69.37,
+        "pe_25": 84.28,
+        "pe_50": 103.54,
+        "pe_75": 132.16,
+        "pe_90": 138.21
       },
       {
         "date": "2014-04-15",
         "price": 94.2,
-        "pe": 18.57,
-        "pe_10": 67.15,
-        "pe_25": 84.35,
-        "pe_50": 99.78,
-        "pe_75": 127.4,
-        "pe_90": 132.91
+        "pe": 17.93,
+        "pe_10": 69.27,
+        "pe_25": 84.17,
+        "pe_50": 103.39,
+        "pe_75": 131.97,
+        "pe_90": 138.02
       },
       {
         "date": "2014-05-16",
         "price": 96.0,
-        "pe": 18.97,
-        "pe_10": 66.99,
-        "pe_25": 84.15,
-        "pe_50": 99.54,
-        "pe_75": 127.1,
-        "pe_90": 132.59
+        "pe": 18.3,
+        "pe_10": 69.17,
+        "pe_25": 84.04,
+        "pe_50": 103.24,
+        "pe_75": 131.78,
+        "pe_90": 137.81
       },
       {
         "date": "2014-06-15",
         "price": 96.2,
-        "pe": 19.05,
-        "pe_10": 66.85,
-        "pe_25": 83.97,
-        "pe_50": 99.33,
-        "pe_75": 126.83,
-        "pe_90": 132.31
+        "pe": 18.36,
+        "pe_10": 69.08,
+        "pe_25": 83.94,
+        "pe_50": 103.12,
+        "pe_75": 131.62,
+        "pe_90": 137.65
       },
       {
         "date": "2014-07-16",
         "price": 91.5,
-        "pe": 18.16,
-        "pe_10": 66.7,
-        "pe_25": 83.78,
-        "pe_50": 99.11,
-        "pe_75": 126.54,
-        "pe_90": 132.01
+        "pe": 17.58,
+        "pe_10": 68.63,
+        "pe_25": 83.38,
+        "pe_50": 102.43,
+        "pe_75": 130.74,
+        "pe_90": 136.73
       },
       {
         "date": "2014-08-16",
         "price": 92.9,
-        "pe": 18.48,
-        "pe_10": 66.55,
-        "pe_25": 83.59,
-        "pe_50": 98.88,
-        "pe_75": 126.25,
-        "pe_90": 131.71
+        "pe": 17.98,
+        "pe_10": 68.12,
+        "pe_25": 82.77,
+        "pe_50": 101.68,
+        "pe_75": 129.79,
+        "pe_90": 135.73
       },
       {
         "date": "2014-09-15",
         "price": 91.7,
-        "pe": 18.29,
-        "pe_10": 66.37,
-        "pe_25": 83.36,
-        "pe_50": 98.62,
-        "pe_75": 125.92,
-        "pe_90": 131.36
+        "pe": 17.88,
+        "pe_10": 67.62,
+        "pe_25": 82.16,
+        "pe_50": 100.93,
+        "pe_75": 128.83,
+        "pe_90": 134.73
       },
       {
         "date": "2014-10-16",
         "price": 92.7,
-        "pe": 18.53,
-        "pe_10": 66.23,
-        "pe_25": 83.18,
-        "pe_50": 98.4,
-        "pe_75": 125.64,
-        "pe_90": 131.08
+        "pe": 18.25,
+        "pe_10": 66.97,
+        "pe_25": 81.37,
+        "pe_50": 99.96,
+        "pe_75": 127.6,
+        "pe_90": 133.44
       },
       {
         "date": "2014-11-15",
         "price": 93.0,
-        "pe": 18.63,
-        "pe_10": 66.08,
-        "pe_25": 83.0,
-        "pe_50": 98.19,
-        "pe_75": 125.37,
-        "pe_90": 130.79
+        "pe": 18.49,
+        "pe_10": 66.32,
+        "pe_25": 80.58,
+        "pe_50": 98.99,
+        "pe_75": 126.35,
+        "pe_90": 132.13
       },
       {
         "date": "2014-12-16",
         "price": 94.0,
         "pe": 18.88,
-        "pe_10": 65.91,
-        "pe_25": 82.79,
-        "pe_50": 97.93,
-        "pe_75": 125.04,
-        "pe_90": 130.45
+        "pe_10": 65.65,
+        "pe_25": 79.76,
+        "pe_50": 97.98,
+        "pe_75": 125.07,
+        "pe_90": 130.79
       },
       {
         "date": "2015-01-16",
         "price": 95.5,
-        "pe": 19.0,
-        "pe_10": 66.54,
-        "pe_25": 83.58,
-        "pe_50": 98.87,
-        "pe_75": 126.24,
-        "pe_90": 131.69
+        "pe": 19.16,
+        "pe_10": 65.72,
+        "pe_25": 79.85,
+        "pe_50": 98.09,
+        "pe_75": 125.21,
+        "pe_90": 130.94
       },
       {
         "date": "2015-02-14",
         "price": 98.2,
-        "pe": 19.37,
-        "pe_10": 67.11,
-        "pe_25": 84.3,
-        "pe_50": 99.72,
-        "pe_75": 127.33,
-        "pe_90": 132.83
+        "pe": 19.69,
+        "pe_10": 65.76,
+        "pe_25": 79.9,
+        "pe_50": 98.15,
+        "pe_75": 125.28,
+        "pe_90": 131.02
       },
       {
         "date": "2015-03-16",
         "price": 99.5,
-        "pe": 19.45,
-        "pe_10": 67.72,
-        "pe_25": 85.06,
-        "pe_50": 100.63,
-        "pe_75": 128.48,
-        "pe_90": 134.04
+        "pe": 19.94,
+        "pe_10": 65.79,
+        "pe_25": 79.94,
+        "pe_50": 98.2,
+        "pe_75": 125.35,
+        "pe_90": 131.09
       },
       {
         "date": "2015-04-15",
         "price": 99.0,
-        "pe": 19.19,
-        "pe_10": 68.29,
-        "pe_25": 85.78,
-        "pe_50": 101.48,
-        "pe_75": 129.57,
-        "pe_90": 135.17
+        "pe": 19.72,
+        "pe_10": 66.19,
+        "pe_25": 80.42,
+        "pe_50": 98.8,
+        "pe_75": 126.11,
+        "pe_90": 131.88
       },
       {
         "date": "2015-05-16",
         "price": 97.0,
-        "pe": 18.64,
-        "pe_10": 68.89,
-        "pe_25": 86.53,
-        "pe_50": 102.36,
-        "pe_75": 130.7,
-        "pe_90": 136.35
+        "pe": 19.21,
+        "pe_10": 66.58,
+        "pe_25": 80.89,
+        "pe_50": 99.37,
+        "pe_75": 126.84,
+        "pe_90": 132.65
       },
       {
         "date": "2015-06-15",
         "price": 98.4,
-        "pe": 18.74,
-        "pe_10": 69.51,
-        "pe_25": 87.31,
-        "pe_50": 103.28,
-        "pe_75": 131.87,
-        "pe_90": 137.58
+        "pe": 19.37,
+        "pe_10": 66.98,
+        "pe_25": 81.38,
+        "pe_50": 99.97,
+        "pe_75": 127.61,
+        "pe_90": 133.45
       },
       {
         "date": "2015-07-16",
         "price": 98.0,
-        "pe": 18.51,
-        "pe_10": 70.09,
-        "pe_25": 88.03,
-        "pe_50": 104.14,
-        "pe_75": 132.97,
-        "pe_90": 138.72
+        "pe": 18.97,
+        "pe_10": 68.11,
+        "pe_25": 82.76,
+        "pe_50": 101.67,
+        "pe_75": 129.77,
+        "pe_90": 135.71
       },
       {
         "date": "2015-08-16",
         "price": 98.8,
-        "pe": 18.5,
-        "pe_10": 70.7,
-        "pe_25": 88.8,
-        "pe_50": 105.05,
-        "pe_75": 134.13,
-        "pe_90": 139.93
+        "pe": 18.81,
+        "pe_10": 69.25,
+        "pe_25": 84.15,
+        "pe_50": 103.37,
+        "pe_75": 131.94,
+        "pe_90": 137.98
       },
       {
         "date": "2015-09-15",
         "price": 98.8,
-        "pe": 18.35,
-        "pe_10": 71.28,
-        "pe_25": 89.53,
-        "pe_50": 105.91,
-        "pe_75": 135.22,
-        "pe_90": 141.07
+        "pe": 18.5,
+        "pe_10": 70.42,
+        "pe_25": 85.56,
+        "pe_50": 105.1,
+        "pe_75": 134.15,
+        "pe_90": 140.3
       },
       {
         "date": "2015-10-16",
         "price": 99.7,
-        "pe": 18.36,
-        "pe_10": 71.89,
-        "pe_25": 90.29,
-        "pe_50": 106.81,
-        "pe_75": 136.38,
-        "pe_90": 142.28
+        "pe": 18.46,
+        "pe_10": 71.21,
+        "pe_25": 86.52,
+        "pe_50": 106.29,
+        "pe_75": 135.67,
+        "pe_90": 141.88
       },
       {
         "date": "2015-11-15",
         "price": 99.8,
-        "pe": 18.23,
-        "pe_10": 72.47,
-        "pe_25": 91.03,
-        "pe_50": 107.68,
-        "pe_75": 137.49,
-        "pe_90": 143.44
+        "pe": 18.28,
+        "pe_10": 71.98,
+        "pe_25": 87.46,
+        "pe_50": 107.44,
+        "pe_75": 137.14,
+        "pe_90": 143.42
       },
       {
         "date": "2015-12-16",
         "price": 99.1,
         "pe": 17.95,
-        "pe_10": 73.09,
-        "pe_25": 91.8,
-        "pe_50": 108.6,
-        "pe_75": 138.66,
-        "pe_90": 144.65
+        "pe_10": 72.79,
+        "pe_25": 88.44,
+        "pe_50": 108.65,
+        "pe_75": 138.68,
+        "pe_90": 145.03
       },
       {
         "date": "2016-01-16",
         "price": 102.5,
-        "pe": 18.67,
-        "pe_10": 72.68,
-        "pe_25": 91.29,
-        "pe_50": 107.99,
-        "pe_75": 137.88,
-        "pe_90": 143.85
+        "pe": 18.41,
+        "pe_10": 73.41,
+        "pe_25": 89.19,
+        "pe_50": 109.57,
+        "pe_75": 139.86,
+        "pe_90": 146.26
       },
       {
         "date": "2016-02-15",
         "price": 104.5,
-        "pe": 19.14,
-        "pe_10": 72.28,
-        "pe_25": 90.78,
-        "pe_50": 107.39,
-        "pe_75": 137.12,
-        "pe_90": 143.05
+        "pe": 18.62,
+        "pe_10": 74.0,
+        "pe_25": 89.91,
+        "pe_50": 110.45,
+        "pe_75": 140.98,
+        "pe_90": 147.43
       },
       {
         "date": "2016-03-16",
         "price": 109.5,
-        "pe": 20.17,
-        "pe_10": 71.87,
-        "pe_25": 90.27,
-        "pe_50": 106.79,
-        "pe_75": 136.35,
-        "pe_90": 142.24
+        "pe": 19.35,
+        "pe_10": 74.61,
+        "pe_25": 90.66,
+        "pe_50": 111.37,
+        "pe_75": 142.15,
+        "pe_90": 148.66
       },
       {
         "date": "2016-04-15",
         "price": 109.0,
-        "pe": 20.19,
-        "pe_10": 71.47,
-        "pe_25": 89.77,
-        "pe_50": 106.19,
-        "pe_75": 135.59,
-        "pe_90": 141.45
+        "pe": 19.25,
+        "pe_10": 74.66,
+        "pe_25": 90.71,
+        "pe_50": 111.43,
+        "pe_75": 142.24,
+        "pe_90": 148.75
       },
       {
         "date": "2016-05-16",
         "price": 110.0,
-        "pe": 20.48,
-        "pe_10": 71.1,
-        "pe_25": 89.31,
-        "pe_50": 105.65,
-        "pe_75": 134.9,
-        "pe_90": 140.73
+        "pe": 19.41,
+        "pe_10": 74.72,
+        "pe_25": 90.79,
+        "pe_50": 111.53,
+        "pe_75": 142.36,
+        "pe_90": 148.88
       },
       {
         "date": "2016-06-15",
         "price": 116.5,
-        "pe": 21.82,
-        "pe_10": 70.68,
-        "pe_25": 88.78,
-        "pe_50": 105.02,
-        "pe_75": 134.09,
-        "pe_90": 139.89
+        "pe": 20.55,
+        "pe_10": 74.75,
+        "pe_25": 90.82,
+        "pe_50": 111.57,
+        "pe_75": 142.41,
+        "pe_90": 148.93
       },
       {
         "date": "2016-07-16",
         "price": 113.5,
-        "pe": 21.37,
-        "pe_10": 70.31,
-        "pe_25": 88.31,
-        "pe_50": 104.47,
-        "pe_75": 133.39,
-        "pe_90": 139.16
+        "pe": 20.36,
+        "pe_10": 73.5,
+        "pe_25": 89.31,
+        "pe_50": 109.71,
+        "pe_75": 140.04,
+        "pe_90": 146.45
       },
       {
         "date": "2016-08-16",
         "price": 114.0,
-        "pe": 21.59,
-        "pe_10": 69.9,
-        "pe_25": 87.8,
-        "pe_50": 103.86,
-        "pe_75": 132.61,
-        "pe_90": 138.35
+        "pe": 20.82,
+        "pe_10": 72.19,
+        "pe_25": 87.72,
+        "pe_50": 107.76,
+        "pe_75": 137.54,
+        "pe_90": 143.84
       },
       {
         "date": "2016-09-15",
         "price": 110.5,
-        "pe": 21.05,
-        "pe_10": 69.49,
-        "pe_25": 87.28,
-        "pe_50": 103.26,
-        "pe_75": 131.84,
-        "pe_90": 137.54
+        "pe": 20.54,
+        "pe_10": 70.93,
+        "pe_25": 86.18,
+        "pe_50": 105.87,
+        "pe_75": 135.14,
+        "pe_90": 141.33
       },
       {
         "date": "2016-10-16",
         "price": 108.0,
-        "pe": 20.69,
-        "pe_10": 69.1,
-        "pe_25": 86.79,
-        "pe_50": 102.68,
-        "pe_75": 131.1,
-        "pe_90": 136.77
+        "pe": 20.35,
+        "pe_10": 69.97,
+        "pe_25": 85.02,
+        "pe_50": 104.44,
+        "pe_75": 133.31,
+        "pe_90": 139.42
       },
       {
         "date": "2016-11-15",
         "price": 107.5,
-        "pe": 20.71,
-        "pe_10": 68.71,
-        "pe_25": 86.31,
-        "pe_50": 102.1,
-        "pe_75": 130.37,
-        "pe_90": 136.0
+        "pe": 20.54,
+        "pe_10": 69.01,
+        "pe_25": 83.84,
+        "pe_50": 103.0,
+        "pe_75": 131.47,
+        "pe_90": 137.49
       },
       {
         "date": "2016-12-16",
         "price": 101.5,
         "pe": 19.67,
-        "pe_10": 68.31,
-        "pe_25": 85.8,
-        "pe_50": 101.5,
-        "pe_75": 129.6,
-        "pe_90": 135.2
+        "pe_10": 68.04,
+        "pe_25": 82.67,
+        "pe_50": 101.55,
+        "pe_75": 129.62,
+        "pe_90": 135.56
       },
       {
         "date": "2017-01-16",
         "price": 102.0,
-        "pe": 19.82,
-        "pe_10": 68.13,
-        "pe_25": 85.57,
-        "pe_50": 101.23,
-        "pe_75": 129.25,
-        "pe_90": 134.84
+        "pe": 20.09,
+        "pe_10": 66.94,
+        "pe_25": 81.34,
+        "pe_50": 99.92,
+        "pe_75": 127.54,
+        "pe_90": 133.38
       },
       {
         "date": "2017-02-14",
         "price": 102.0,
-        "pe": 19.86,
-        "pe_10": 67.99,
-        "pe_25": 85.4,
-        "pe_50": 101.02,
-        "pe_75": 128.99,
-        "pe_90": 134.57
+        "pe": 20.43,
+        "pe_10": 65.83,
+        "pe_25": 79.98,
+        "pe_50": 98.26,
+        "pe_75": 125.42,
+        "pe_90": 131.16
       },
       {
         "date": "2017-03-16",
         "price": 103.0,
-        "pe": 20.11,
-        "pe_10": 67.8,
-        "pe_25": 85.16,
-        "pe_50": 100.75,
-        "pe_75": 128.63,
-        "pe_90": 134.2
+        "pe": 20.98,
+        "pe_10": 64.73,
+        "pe_25": 78.65,
+        "pe_50": 96.62,
+        "pe_75": 123.33,
+        "pe_90": 128.97
       },
       {
         "date": "2017-04-15",
         "price": 102.0,
-        "pe": 19.96,
-        "pe_10": 67.65,
-        "pe_25": 84.97,
-        "pe_50": 100.52,
-        "pe_75": 128.34,
-        "pe_90": 133.89
+        "pe": 20.92,
+        "pe_10": 64.29,
+        "pe_25": 78.11,
+        "pe_50": 95.95,
+        "pe_75": 122.48,
+        "pe_90": 128.09
       },
       {
         "date": "2017-05-16",
         "price": 107.5,
-        "pe": 21.09,
-        "pe_10": 67.48,
-        "pe_25": 84.75,
-        "pe_50": 100.26,
-        "pe_75": 128.02,
-        "pe_90": 133.55
+        "pe": 22.2,
+        "pe_10": 63.85,
+        "pe_25": 77.57,
+        "pe_50": 95.3,
+        "pe_75": 121.64,
+        "pe_90": 127.21
       },
       {
         "date": "2017-06-15",
         "price": 108.0,
-        "pe": 21.24,
-        "pe_10": 67.31,
-        "pe_25": 84.55,
-        "pe_50": 100.02,
-        "pe_75": 127.7,
-        "pe_90": 133.23
+        "pe": 22.45,
+        "pe_10": 63.43,
+        "pe_25": 77.07,
+        "pe_50": 94.67,
+        "pe_75": 120.84,
+        "pe_90": 126.38
       },
       {
         "date": "2017-07-16",
         "price": 102.0,
-        "pe": 20.11,
-        "pe_10": 67.14,
-        "pe_25": 84.34,
-        "pe_50": 99.77,
-        "pe_75": 127.39,
-        "pe_90": 132.89
+        "pe": 21.09,
+        "pe_10": 63.77,
+        "pe_25": 77.48,
+        "pe_50": 95.18,
+        "pe_75": 121.49,
+        "pe_90": 127.05
       },
       {
         "date": "2017-08-16",
         "price": 105.0,
-        "pe": 20.75,
-        "pe_10": 66.99,
-        "pe_25": 84.14,
-        "pe_50": 99.53,
-        "pe_75": 127.09,
-        "pe_90": 132.58
+        "pe": 21.59,
+        "pe_10": 64.12,
+        "pe_25": 77.91,
+        "pe_50": 95.71,
+        "pe_75": 122.17,
+        "pe_90": 127.76
       },
       {
         "date": "2017-09-15",
         "price": 104.5,
-        "pe": 20.7,
-        "pe_10": 66.83,
-        "pe_25": 83.94,
-        "pe_50": 99.3,
-        "pe_75": 126.79,
-        "pe_90": 132.27
+        "pe": 21.37,
+        "pe_10": 64.48,
+        "pe_25": 78.34,
+        "pe_50": 96.24,
+        "pe_75": 122.84,
+        "pe_90": 128.46
       },
       {
         "date": "2017-10-16",
         "price": 103.0,
-        "pe": 20.46,
-        "pe_10": 66.64,
-        "pe_25": 83.71,
-        "pe_50": 99.02,
-        "pe_75": 126.43,
-        "pe_90": 131.9
+        "pe": 20.89,
+        "pe_10": 65.01,
+        "pe_25": 78.99,
+        "pe_50": 97.03,
+        "pe_75": 123.86,
+        "pe_90": 129.53
       },
       {
         "date": "2017-11-15",
         "price": 103.5,
-        "pe": 20.61,
-        "pe_10": 66.48,
-        "pe_25": 83.5,
-        "pe_50": 98.78,
-        "pe_75": 126.12,
-        "pe_90": 131.58
+        "pe": 20.82,
+        "pe_10": 65.55,
+        "pe_25": 79.64,
+        "pe_50": 97.83,
+        "pe_75": 124.88,
+        "pe_90": 130.59
       },
       {
         "date": "2017-12-16",
         "price": 106.0,
         "pe": 21.16,
-        "pe_10": 66.32,
-        "pe_25": 83.29,
-        "pe_50": 98.54,
-        "pe_75": 125.81,
-        "pe_90": 131.25
+        "pe_10": 66.05,
+        "pe_25": 80.25,
+        "pe_50": 98.59,
+        "pe_75": 125.84,
+        "pe_90": 131.6
       },
       {
         "date": "2018-01-16",
         "price": 108.5,
-        "pe": 21.81,
-        "pe_10": 65.86,
-        "pe_25": 82.72,
-        "pe_50": 97.85,
-        "pe_75": 124.94,
-        "pe_90": 130.34
+        "pe": 21.79,
+        "pe_10": 65.65,
+        "pe_25": 79.77,
+        "pe_50": 97.99,
+        "pe_75": 125.08,
+        "pe_90": 130.81
       },
       {
         "date": "2018-02-14",
         "price": 109.5,
-        "pe": 22.17,
-        "pe_10": 65.38,
-        "pe_25": 82.12,
-        "pe_50": 97.15,
-        "pe_75": 124.05,
-        "pe_90": 129.41
+        "pe": 22.12,
+        "pe_10": 65.27,
+        "pe_25": 79.3,
+        "pe_50": 97.42,
+        "pe_75": 124.35,
+        "pe_90": 130.04
       },
       {
         "date": "2018-03-16",
         "price": 113.0,
-        "pe": 23.05,
-        "pe_10": 64.9,
-        "pe_25": 81.51,
-        "pe_50": 96.43,
-        "pe_75": 123.12,
-        "pe_90": 128.45
+        "pe": 22.97,
+        "pe_10": 64.86,
+        "pe_25": 78.81,
+        "pe_50": 96.81,
+        "pe_75": 123.58,
+        "pe_90": 129.23
       },
       {
         "date": "2018-04-15",
         "price": 113.0,
-        "pe": 23.22,
-        "pe_10": 64.42,
-        "pe_25": 80.92,
-        "pe_50": 95.72,
-        "pe_75": 122.22,
-        "pe_90": 127.51
+        "pe": 23.11,
+        "pe_10": 64.47,
+        "pe_25": 78.33,
+        "pe_50": 96.23,
+        "pe_75": 122.83,
+        "pe_90": 128.45
       },
       {
         "date": "2018-05-16",
         "price": 109.0,
-        "pe": 22.56,
-        "pe_10": 63.96,
-        "pe_25": 80.34,
-        "pe_50": 95.04,
-        "pe_75": 121.34,
-        "pe_90": 126.59
+        "pe": 22.43,
+        "pe_10": 64.07,
+        "pe_25": 77.85,
+        "pe_50": 95.64,
+        "pe_75": 122.07,
+        "pe_90": 127.66
       },
       {
         "date": "2018-06-15",
         "price": 110.0,
-        "pe": 22.94,
-        "pe_10": 63.48,
-        "pe_25": 79.73,
-        "pe_50": 94.32,
-        "pe_75": 120.43,
-        "pe_90": 125.64
+        "pe": 22.77,
+        "pe_10": 63.7,
+        "pe_25": 77.39,
+        "pe_50": 95.07,
+        "pe_75": 121.35,
+        "pe_90": 126.91
       },
       {
         "date": "2018-07-16",
         "price": 106.0,
-        "pe": 22.27,
-        "pe_10": 63.01,
-        "pe_25": 79.14,
-        "pe_50": 93.62,
-        "pe_75": 119.54,
-        "pe_90": 124.71
+        "pe": 22.28,
+        "pe_10": 62.73,
+        "pe_25": 76.22,
+        "pe_50": 93.63,
+        "pe_75": 119.51,
+        "pe_90": 124.98
       },
       {
         "date": "2018-08-16",
         "price": 108.5,
-        "pe": 22.97,
-        "pe_10": 62.53,
-        "pe_25": 78.54,
-        "pe_50": 92.91,
-        "pe_75": 118.63,
-        "pe_90": 123.76
+        "pe": 23.17,
+        "pe_10": 61.74,
+        "pe_25": 75.02,
+        "pe_50": 92.16,
+        "pe_75": 117.63,
+        "pe_90": 123.02
       },
       {
         "date": "2018-09-15",
         "price": 110.0,
-        "pe": 23.47,
-        "pe_10": 62.04,
-        "pe_25": 77.93,
-        "pe_50": 92.19,
-        "pe_75": 117.71,
-        "pe_90": 122.8
+        "pe": 23.86,
+        "pe_10": 60.79,
+        "pe_25": 73.86,
+        "pe_50": 90.73,
+        "pe_75": 115.81,
+        "pe_90": 121.11
       },
       {
         "date": "2018-10-16",
         "price": 109.5,
-        "pe": 23.54,
-        "pe_10": 61.58,
-        "pe_25": 77.35,
-        "pe_50": 91.5,
-        "pe_75": 116.83,
-        "pe_90": 121.88
+        "pe": 23.8,
+        "pe_10": 60.66,
+        "pe_25": 73.71,
+        "pe_50": 90.54,
+        "pe_75": 115.57,
+        "pe_90": 120.86
       },
       {
         "date": "2018-11-15",
         "price": 107.0,
-        "pe": 23.18,
-        "pe_10": 61.11,
-        "pe_25": 76.75,
-        "pe_50": 90.8,
-        "pe_75": 115.93,
-        "pe_90": 120.95
+        "pe": 23.31,
+        "pe_10": 60.52,
+        "pe_25": 73.54,
+        "pe_50": 90.34,
+        "pe_75": 115.31,
+        "pe_90": 120.59
       },
       {
         "date": "2018-12-16",
         "price": 113.0,
         "pe": 24.67,
-        "pe_10": 60.64,
-        "pe_25": 76.16,
-        "pe_50": 90.1,
-        "pe_75": 115.04,
-        "pe_90": 120.01
+        "pe_10": 60.39,
+        "pe_25": 73.38,
+        "pe_50": 90.14,
+        "pe_75": 115.06,
+        "pe_90": 120.33
       },
       {
         "date": "2019-01-16",
         "price": 107.0,
-        "pe": 23.51,
-        "pe_10": 60.25,
-        "pe_25": 75.68,
-        "pe_50": 89.52,
-        "pe_75": 114.3,
-        "pe_90": 119.25
+        "pe": 23.43,
+        "pe_10": 60.21,
+        "pe_25": 73.16,
+        "pe_50": 89.87,
+        "pe_75": 114.72,
+        "pe_90": 119.97
       },
       {
         "date": "2019-02-14",
         "price": 107.0,
-        "pe": 23.66,
-        "pe_10": 59.87,
-        "pe_25": 75.2,
-        "pe_50": 88.96,
-        "pe_75": 113.58,
-        "pe_90": 118.49
+        "pe": 23.5,
+        "pe_10": 60.03,
+        "pe_25": 72.94,
+        "pe_50": 89.61,
+        "pe_75": 114.38,
+        "pe_90": 119.61
       },
       {
         "date": "2019-03-16",
         "price": 109.5,
-        "pe": 24.37,
-        "pe_10": 59.48,
-        "pe_25": 74.71,
-        "pe_50": 88.38,
-        "pe_75": 112.85,
-        "pe_90": 117.73
+        "pe": 24.12,
+        "pe_10": 59.86,
+        "pe_25": 72.73,
+        "pe_50": 89.34,
+        "pe_75": 114.04,
+        "pe_90": 119.26
       },
       {
         "date": "2019-04-15",
         "price": 111.0,
-        "pe": 24.87,
-        "pe_10": 59.08,
-        "pe_25": 74.21,
-        "pe_50": 87.79,
-        "pe_75": 112.09,
-        "pe_90": 116.94
+        "pe": 24.78,
+        "pe_10": 59.06,
+        "pe_25": 71.76,
+        "pe_50": 88.15,
+        "pe_75": 112.52,
+        "pe_90": 117.67
       },
       {
         "date": "2019-05-16",
         "price": 112.5,
-        "pe": 25.37,
-        "pe_10": 58.7,
-        "pe_25": 73.73,
-        "pe_50": 87.22,
-        "pe_75": 111.37,
-        "pe_90": 116.18
+        "pe": 25.45,
+        "pe_10": 58.28,
+        "pe_25": 70.82,
+        "pe_50": 86.99,
+        "pe_75": 111.04,
+        "pe_90": 116.12
       },
       {
         "date": "2019-06-15",
         "price": 113.0,
-        "pe": 25.65,
-        "pe_10": 58.32,
-        "pe_25": 73.25,
-        "pe_50": 86.66,
-        "pe_75": 110.64,
-        "pe_90": 115.43
+        "pe": 25.92,
+        "pe_10": 57.48,
+        "pe_25": 69.84,
+        "pe_50": 85.8,
+        "pe_75": 109.51,
+        "pe_90": 114.53
       },
       {
         "date": "2019-07-16",
         "price": 108.0,
-        "pe": 24.68,
-        "pe_10": 57.93,
-        "pe_25": 72.76,
-        "pe_50": 86.08,
-        "pe_75": 109.9,
-        "pe_90": 114.66
+        "pe": 24.88,
+        "pe_10": 57.23,
+        "pe_25": 69.54,
+        "pe_50": 85.43,
+        "pe_75": 109.04,
+        "pe_90": 114.03
       },
       {
         "date": "2019-08-16",
         "price": 109.0,
-        "pe": 25.08,
-        "pe_10": 57.53,
-        "pe_25": 72.26,
-        "pe_50": 85.49,
-        "pe_75": 109.15,
-        "pe_90": 113.87
+        "pe": 25.23,
+        "pe_10": 56.96,
+        "pe_25": 69.21,
+        "pe_50": 85.02,
+        "pe_75": 108.52,
+        "pe_90": 113.49
       },
       {
         "date": "2019-09-15",
         "price": 111.0,
-        "pe": 25.71,
-        "pe_10": 57.15,
-        "pe_25": 71.79,
-        "pe_50": 84.92,
-        "pe_75": 108.43,
-        "pe_90": 113.12
+        "pe": 25.81,
+        "pe_10": 56.7,
+        "pe_25": 68.9,
+        "pe_50": 84.64,
+        "pe_75": 108.03,
+        "pe_90": 112.98
       },
       {
         "date": "2019-10-16",
         "price": 112.0,
-        "pe": 26.12,
-        "pe_10": 56.76,
-        "pe_25": 71.3,
-        "pe_50": 84.34,
-        "pe_75": 107.69,
-        "pe_90": 112.35
+        "pe": 26.19,
+        "pe_10": 56.38,
+        "pe_25": 68.51,
+        "pe_50": 84.16,
+        "pe_75": 107.42,
+        "pe_90": 112.34
       },
       {
         "date": "2019-11-15",
         "price": 113.0,
-        "pe": 26.53,
-        "pe_10": 56.38,
-        "pe_25": 70.82,
-        "pe_50": 83.78,
-        "pe_75": 106.97,
-        "pe_90": 111.6
+        "pe": 26.57,
+        "pe_10": 56.07,
+        "pe_25": 68.13,
+        "pe_50": 83.7,
+        "pe_75": 106.83,
+        "pe_90": 111.72
       },
       {
         "date": "2019-12-16",
         "price": 110.0,
         "pe": 26.0,
-        "pe_10": 56.01,
-        "pe_25": 70.35,
-        "pe_50": 83.22,
-        "pe_75": 106.26,
-        "pe_90": 110.85
+        "pe_10": 55.78,
+        "pe_25": 67.78,
+        "pe_50": 83.26,
+        "pe_75": 106.28,
+        "pe_90": 111.14
       },
       {
         "date": "2020-01-16",
         "price": 108.0,
-        "pe": 25.49,
-        "pe_10": 56.09,
-        "pe_25": 70.45,
-        "pe_50": 83.34,
-        "pe_75": 106.41,
-        "pe_90": 111.01
+        "pe": 25.53,
+        "pe_10": 55.78,
+        "pe_25": 67.77,
+        "pe_50": 83.25,
+        "pe_75": 106.27,
+        "pe_90": 111.13
       },
       {
         "date": "2020-02-15",
         "price": 108.0,
-        "pe": 25.45,
-        "pe_10": 56.18,
-        "pe_25": 70.56,
-        "pe_50": 83.47,
-        "pe_75": 106.58,
-        "pe_90": 111.19
+        "pe": 25.53,
+        "pe_10": 55.78,
+        "pe_25": 67.77,
+        "pe_50": 83.25,
+        "pe_75": 106.27,
+        "pe_90": 111.13
       },
       {
         "date": "2020-03-16",
         "price": 107.5,
-        "pe": 25.29,
-        "pe_10": 56.27,
-        "pe_25": 70.68,
-        "pe_50": 83.61,
-        "pe_75": 106.76,
-        "pe_90": 111.37
+        "pe": 25.41,
+        "pe_10": 55.78,
+        "pe_25": 67.77,
+        "pe_50": 83.26,
+        "pe_75": 106.27,
+        "pe_90": 111.14
       },
       {
         "date": "2020-04-15",
         "price": 109.5,
-        "pe": 25.72,
-        "pe_10": 56.36,
-        "pe_25": 70.79,
-        "pe_50": 83.74,
-        "pe_75": 106.92,
-        "pe_90": 111.55
+        "pe": 25.93,
+        "pe_10": 55.68,
+        "pe_25": 67.65,
+        "pe_50": 83.11,
+        "pe_75": 106.08,
+        "pe_90": 110.94
       },
       {
         "date": "2020-05-16",
         "price": 110.5,
-        "pe": 25.92,
-        "pe_10": 56.44,
-        "pe_25": 70.88,
-        "pe_50": 83.86,
-        "pe_75": 107.07,
-        "pe_90": 111.7
+        "pe": 26.21,
+        "pe_10": 55.59,
+        "pe_25": 67.54,
+        "pe_50": 82.97,
+        "pe_75": 105.9,
+        "pe_90": 110.75
       },
       {
         "date": "2020-06-15",
         "price": 117.0,
-        "pe": 27.4,
-        "pe_10": 56.53,
-        "pe_25": 71.0,
-        "pe_50": 83.99,
-        "pe_75": 107.24,
-        "pe_90": 111.88
+        "pe": 27.79,
+        "pe_10": 55.51,
+        "pe_25": 67.45,
+        "pe_50": 82.86,
+        "pe_75": 105.76,
+        "pe_90": 110.6
       },
       {
         "date": "2020-07-16",
         "price": 109.5,
-        "pe": 25.6,
-        "pe_10": 56.62,
-        "pe_25": 71.12,
-        "pe_50": 84.14,
-        "pe_75": 107.43,
-        "pe_90": 112.07
+        "pe": 25.93,
+        "pe_10": 55.68,
+        "pe_25": 67.65,
+        "pe_50": 83.11,
+        "pe_75": 106.08,
+        "pe_90": 110.94
       },
       {
         "date": "2020-08-16",
         "price": 108.5,
-        "pe": 25.33,
-        "pe_10": 56.7,
-        "pe_25": 71.22,
-        "pe_50": 84.26,
-        "pe_75": 107.58,
-        "pe_90": 112.23
+        "pe": 25.61,
+        "pe_10": 55.86,
+        "pe_25": 67.87,
+        "pe_50": 83.38,
+        "pe_75": 106.42,
+        "pe_90": 111.3
       },
       {
         "date": "2020-09-15",
         "price": 107.0,
-        "pe": 24.94,
-        "pe_10": 56.79,
-        "pe_25": 71.34,
-        "pe_50": 84.39,
-        "pe_75": 107.75,
-        "pe_90": 112.41
+        "pe": 25.18,
+        "pe_10": 56.03,
+        "pe_25": 68.08,
+        "pe_50": 83.63,
+        "pe_75": 106.75,
+        "pe_90": 111.63
       },
       {
         "date": "2020-10-16",
         "price": 107.0,
-        "pe": 24.9,
-        "pe_10": 56.89,
-        "pe_25": 71.45,
-        "pe_50": 84.53,
-        "pe_75": 107.92,
-        "pe_90": 112.59
+        "pe": 25.06,
+        "pe_10": 56.3,
+        "pe_25": 68.4,
+        "pe_50": 84.03,
+        "pe_75": 107.26,
+        "pe_90": 112.17
       },
       {
         "date": "2020-11-15",
         "price": 108.5,
-        "pe": 25.21,
-        "pe_10": 56.97,
-        "pe_25": 71.56,
-        "pe_50": 84.66,
-        "pe_75": 108.09,
-        "pe_90": 112.77
+        "pe": 25.29,
+        "pe_10": 56.57,
+        "pe_25": 68.73,
+        "pe_50": 84.43,
+        "pe_75": 107.77,
+        "pe_90": 112.7
       },
       {
         "date": "2020-12-16",
         "price": 109.0,
         "pe": 25.29,
-        "pe_10": 57.06,
-        "pe_25": 71.66,
-        "pe_50": 84.78,
-        "pe_75": 108.25,
-        "pe_90": 112.93
+        "pe_10": 56.83,
+        "pe_25": 69.05,
+        "pe_50": 84.82,
+        "pe_75": 108.27,
+        "pe_90": 113.22
       },
       {
         "date": "2021-01-16",
         "price": 108.0,
-        "pe": 24.91,
-        "pe_10": 57.39,
-        "pe_25": 72.09,
-        "pe_50": 85.28,
-        "pe_75": 108.89,
-        "pe_90": 113.6
+        "pe": 24.9,
+        "pe_10": 57.19,
+        "pe_25": 69.48,
+        "pe_50": 85.36,
+        "pe_75": 108.95,
+        "pe_90": 113.94
       },
       {
         "date": "2021-02-14",
         "price": 109.5,
-        "pe": 25.11,
-        "pe_10": 57.73,
-        "pe_25": 72.51,
-        "pe_50": 85.78,
-        "pe_75": 109.52,
-        "pe_90": 114.26
+        "pe": 25.1,
+        "pe_10": 57.52,
+        "pe_25": 69.89,
+        "pe_50": 85.85,
+        "pe_75": 109.59,
+        "pe_90": 114.6
       },
       {
         "date": "2021-03-16",
         "price": 111.5,
-        "pe": 25.43,
-        "pe_10": 58.04,
-        "pe_25": 72.9,
-        "pe_50": 86.24,
-        "pe_75": 110.12,
-        "pe_90": 114.88
+        "pe": 25.4,
+        "pe_10": 57.88,
+        "pe_25": 70.32,
+        "pe_50": 86.39,
+        "pe_75": 110.27,
+        "pe_90": 115.32
       },
       {
         "date": "2021-04-15",
         "price": 114.0,
-        "pe": 25.85,
-        "pe_10": 58.38,
-        "pe_25": 73.33,
-        "pe_50": 86.75,
-        "pe_75": 110.76,
-        "pe_90": 115.55
+        "pe": 25.91,
+        "pe_10": 58.01,
+        "pe_25": 70.49,
+        "pe_50": 86.59,
+        "pe_75": 110.52,
+        "pe_90": 115.58
       },
       {
         "date": "2021-05-16",
         "price": 113.5,
-        "pe": 25.59,
-        "pe_10": 58.71,
-        "pe_25": 73.75,
-        "pe_50": 87.24,
-        "pe_75": 111.39,
-        "pe_90": 116.21
+        "pe": 25.74,
+        "pe_10": 58.14,
+        "pe_25": 70.64,
+        "pe_50": 86.78,
+        "pe_75": 110.77,
+        "pe_90": 115.84
       },
       {
         "date": "2021-06-15",
         "price": 114.0,
-        "pe": 25.56,
-        "pe_10": 59.04,
-        "pe_25": 74.16,
-        "pe_50": 87.73,
-        "pe_75": 112.02,
-        "pe_90": 116.86
+        "pe": 25.79,
+        "pe_10": 58.28,
+        "pe_25": 70.81,
+        "pe_50": 86.99,
+        "pe_75": 111.04,
+        "pe_90": 116.12
       },
       {
         "date": "2021-07-16",
         "price": 115.0,
-        "pe": 25.64,
-        "pe_10": 59.37,
-        "pe_25": 74.58,
-        "pe_50": 88.22,
-        "pe_75": 112.65,
-        "pe_90": 117.52
+        "pe": 25.75,
+        "pe_10": 58.88,
+        "pe_25": 71.55,
+        "pe_50": 87.89,
+        "pe_75": 112.19,
+        "pe_90": 117.32
       },
       {
         "date": "2021-08-16",
         "price": 112.0,
-        "pe": 24.83,
-        "pe_10": 59.71,
-        "pe_25": 75.0,
-        "pe_50": 88.72,
-        "pe_75": 113.29,
-        "pe_90": 118.18
+        "pe": 24.82,
+        "pe_10": 59.5,
+        "pe_25": 72.29,
+        "pe_50": 88.81,
+        "pe_75": 113.35,
+        "pe_90": 118.54
       },
       {
         "date": "2021-09-15",
         "price": 110.5,
-        "pe": 24.37,
-        "pe_10": 60.02,
-        "pe_25": 75.39,
-        "pe_50": 89.19,
-        "pe_75": 113.88,
-        "pe_90": 118.8
+        "pe": 24.23,
+        "pe_10": 60.13,
+        "pe_25": 73.06,
+        "pe_50": 89.75,
+        "pe_75": 114.56,
+        "pe_90": 119.8
       },
       {
         "date": "2021-10-16",
         "price": 110.5,
-        "pe": 24.23,
-        "pe_10": 60.37,
-        "pe_25": 75.83,
-        "pe_50": 89.7,
-        "pe_75": 114.54,
-        "pe_90": 119.49
+        "pe": 24.14,
+        "pe_10": 60.35,
+        "pe_25": 73.33,
+        "pe_50": 90.08,
+        "pe_75": 114.99,
+        "pe_90": 120.25
       },
       {
         "date": "2021-11-15",
         "price": 112.0,
-        "pe": 24.43,
-        "pe_10": 60.69,
-        "pe_25": 76.23,
-        "pe_50": 90.18,
-        "pe_75": 115.14,
-        "pe_90": 120.12
+        "pe": 24.38,
+        "pe_10": 60.57,
+        "pe_25": 73.59,
+        "pe_50": 90.41,
+        "pe_75": 115.4,
+        "pe_90": 120.68
       },
       {
         "date": "2021-12-16",
         "price": 116.5,
         "pe": 25.27,
-        "pe_10": 61.03,
-        "pe_25": 76.66,
-        "pe_50": 90.68,
-        "pe_75": 115.79,
-        "pe_90": 120.79
+        "pe_10": 60.79,
+        "pe_25": 73.86,
+        "pe_50": 90.73,
+        "pe_75": 115.81,
+        "pe_90": 121.11
       },
       {
         "date": "2022-01-16",
         "price": 117.5,
-        "pe": 25.45,
-        "pe_10": 61.12,
-        "pe_25": 76.77,
-        "pe_50": 90.81,
-        "pe_75": 115.95,
-        "pe_90": 120.97
+        "pe": 25.41,
+        "pe_10": 60.97,
+        "pe_25": 74.08,
+        "pe_50": 91.0,
+        "pe_75": 116.16,
+        "pe_90": 121.48
       },
       {
         "date": "2022-02-14",
         "price": 124.5,
-        "pe": 26.92,
-        "pe_10": 61.22,
-        "pe_25": 76.9,
-        "pe_50": 90.97,
-        "pe_75": 116.15,
-        "pe_90": 121.17
+        "pe": 26.85,
+        "pe_10": 61.14,
+        "pe_25": 74.28,
+        "pe_50": 91.25,
+        "pe_75": 116.48,
+        "pe_90": 121.81
       },
       {
         "date": "2022-03-16",
         "price": 127.0,
-        "pe": 27.42,
+        "pe": 27.31,
         "pe_10": 61.31,
-        "pe_25": 77.01,
-        "pe_50": 91.1,
-        "pe_75": 116.32,
-        "pe_90": 121.35
+        "pe_25": 74.5,
+        "pe_50": 91.52,
+        "pe_75": 116.82,
+        "pe_90": 122.16
       },
       {
         "date": "2022-04-15",
         "price": 131.0,
-        "pe": 28.23,
-        "pe_10": 61.43,
-        "pe_25": 77.16,
-        "pe_50": 91.28,
-        "pe_75": 116.54,
-        "pe_90": 121.58
+        "pe": 28.01,
+        "pe_10": 61.66,
+        "pe_25": 74.92,
+        "pe_50": 92.04,
+        "pe_75": 117.48,
+        "pe_90": 122.86
       },
       {
         "date": "2022-05-16",
         "price": 127.0,
-        "pe": 27.33,
-        "pe_10": 61.52,
-        "pe_25": 77.27,
-        "pe_50": 91.4,
-        "pe_75": 116.71,
-        "pe_90": 121.75
+        "pe": 27.0,
+        "pe_10": 62.02,
+        "pe_25": 75.35,
+        "pe_50": 92.57,
+        "pe_75": 118.16,
+        "pe_90": 123.57
       },
       {
         "date": "2022-06-15",
         "price": 122.0,
-        "pe": 26.21,
-        "pe_10": 61.62,
-        "pe_25": 77.4,
-        "pe_50": 91.56,
-        "pe_75": 116.9,
-        "pe_90": 121.96
+        "pe": 25.79,
+        "pe_10": 62.37,
+        "pe_25": 75.78,
+        "pe_50": 93.1,
+        "pe_75": 118.83,
+        "pe_90": 124.27
       },
       {
         "date": "2022-07-16",
         "price": 121.5,
-        "pe": 26.06,
-        "pe_10": 61.72,
-        "pe_25": 77.52,
-        "pe_50": 91.71,
-        "pe_75": 117.09,
-        "pe_90": 122.16
+        "pe": 25.69,
+        "pe_10": 62.36,
+        "pe_25": 75.77,
+        "pe_50": 93.08,
+        "pe_75": 118.8,
+        "pe_90": 124.24
       },
       {
         "date": "2022-08-16",
         "price": 121.0,
-        "pe": 25.91,
-        "pe_10": 61.82,
-        "pe_25": 77.65,
-        "pe_50": 91.86,
-        "pe_75": 117.29,
-        "pe_90": 122.36
+        "pe": 25.58,
+        "pe_10": 62.37,
+        "pe_25": 75.78,
+        "pe_50": 93.09,
+        "pe_75": 118.82,
+        "pe_90": 124.26
       },
       {
         "date": "2022-09-15",
         "price": 114.0,
-        "pe": 24.37,
-        "pe_10": 61.93,
-        "pe_25": 77.78,
-        "pe_50": 92.01,
-        "pe_75": 117.49,
-        "pe_90": 122.57
+        "pe": 24.1,
+        "pe_10": 62.37,
+        "pe_25": 75.78,
+        "pe_50": 93.09,
+        "pe_75": 118.82,
+        "pe_90": 124.26
       },
       {
         "date": "2022-10-16",
         "price": 111.0,
-        "pe": 23.69,
-        "pe_10": 62.03,
-        "pe_25": 77.91,
-        "pe_50": 92.16,
-        "pe_75": 117.68,
-        "pe_90": 122.77
+        "pe": 23.52,
+        "pe_10": 62.23,
+        "pe_25": 75.6,
+        "pe_50": 92.88,
+        "pe_75": 118.55,
+        "pe_90": 123.98
       },
       {
         "date": "2022-11-15",
         "price": 113.5,
-        "pe": 24.19,
-        "pe_10": 62.11,
-        "pe_25": 78.02,
-        "pe_50": 92.29,
-        "pe_75": 117.84,
-        "pe_90": 122.94
+        "pe": 24.1,
+        "pe_10": 62.1,
+        "pe_25": 75.45,
+        "pe_50": 92.68,
+        "pe_75": 118.3,
+        "pe_90": 123.72
       },
       {
         "date": "2022-12-16",
         "price": 113.0,
         "pe": 24.04,
-        "pe_10": 62.23,
-        "pe_25": 78.16,
-        "pe_50": 92.46,
-        "pe_75": 118.05,
-        "pe_90": 123.16
+        "pe_10": 61.98,
+        "pe_25": 75.3,
+        "pe_50": 92.51,
+        "pe_75": 118.08,
+        "pe_90": 123.48
       },
       {
         "date": "2023-01-16",
         "price": 112.5,
-        "pe": 23.91,
-        "pe_10": 62.29,
-        "pe_25": 78.23,
-        "pe_50": 92.55,
-        "pe_75": 118.17,
-        "pe_90": 123.28
+        "pe": 23.82,
+        "pe_10": 62.27,
+        "pe_25": 75.66,
+        "pe_50": 92.95,
+        "pe_75": 118.64,
+        "pe_90": 124.07
       },
       {
         "date": "2023-02-14",
         "price": 115.5,
-        "pe": 24.52,
-        "pe_10": 62.36,
-        "pe_25": 78.32,
-        "pe_50": 92.65,
-        "pe_75": 118.3,
-        "pe_90": 123.42
+        "pe": 24.33,
+        "pe_10": 62.59,
+        "pe_25": 76.05,
+        "pe_50": 93.43,
+        "pe_75": 119.25,
+        "pe_90": 124.71
       },
       {
         "date": "2023-03-16",
         "price": 119.5,
-        "pe": 25.34,
-        "pe_10": 62.43,
-        "pe_25": 78.41,
-        "pe_50": 92.76,
-        "pe_75": 118.44,
-        "pe_90": 123.56
+        "pe": 25.05,
+        "pe_10": 62.9,
+        "pe_25": 76.42,
+        "pe_50": 93.88,
+        "pe_75": 119.83,
+        "pe_90": 125.32
       },
       {
         "date": "2023-04-15",
         "price": 127.0,
-        "pe": 26.91,
-        "pe_10": 62.48,
-        "pe_25": 78.47,
-        "pe_50": 92.83,
-        "pe_75": 118.53,
-        "pe_90": 123.65
+        "pe": 26.55,
+        "pe_10": 63.07,
+        "pe_25": 76.63,
+        "pe_50": 94.14,
+        "pe_75": 120.16,
+        "pe_90": 125.66
       },
       {
         "date": "2023-05-16",
         "price": 126.0,
-        "pe": 26.67,
-        "pe_10": 62.54,
-        "pe_25": 78.56,
-        "pe_50": 92.93,
-        "pe_75": 118.65,
-        "pe_90": 123.78
+        "pe": 26.27,
+        "pe_10": 63.24,
+        "pe_25": 76.84,
+        "pe_50": 94.39,
+        "pe_75": 120.48,
+        "pe_90": 126.0
       },
       {
         "date": "2023-06-15",
         "price": 116.5,
-        "pe": 24.63,
-        "pe_10": 62.62,
-        "pe_25": 78.65,
-        "pe_50": 93.04,
-        "pe_75": 118.79,
-        "pe_90": 123.93
+        "pe": 24.22,
+        "pe_10": 63.42,
+        "pe_25": 77.06,
+        "pe_50": 94.66,
+        "pe_75": 120.83,
+        "pe_90": 126.36
       },
       {
         "date": "2023-07-16",
         "price": 116.0,
-        "pe": 24.5,
-        "pe_10": 62.68,
-        "pe_25": 78.73,
-        "pe_50": 93.13,
-        "pe_75": 118.91,
-        "pe_90": 124.05
+        "pe": 24.18,
+        "pe_10": 63.25,
+        "pe_25": 76.85,
+        "pe_50": 94.41,
+        "pe_75": 120.51,
+        "pe_90": 126.03
       },
       {
         "date": "2023-08-16",
         "price": 116.0,
-        "pe": 24.47,
-        "pe_10": 62.75,
-        "pe_25": 78.82,
-        "pe_50": 93.25,
-        "pe_75": 119.06,
-        "pe_90": 124.21
+        "pe": 24.25,
+        "pe_10": 63.07,
+        "pe_25": 76.63,
+        "pe_50": 94.14,
+        "pe_75": 120.16,
+        "pe_90": 125.66
       },
       {
         "date": "2023-09-15",
         "price": 116.0,
-        "pe": 24.45,
-        "pe_10": 62.81,
-        "pe_25": 78.89,
-        "pe_50": 93.32,
-        "pe_75": 119.16,
-        "pe_90": 124.31
+        "pe": 24.32,
+        "pe_10": 62.89,
+        "pe_25": 76.41,
+        "pe_50": 93.87,
+        "pe_75": 119.82,
+        "pe_90": 125.3
       },
       {
         "date": "2023-10-16",
         "price": 116.0,
-        "pe": 24.42,
-        "pe_10": 62.88,
-        "pe_25": 78.98,
-        "pe_50": 93.44,
-        "pe_75": 119.3,
-        "pe_90": 124.46
+        "pe": 24.34,
+        "pe_10": 62.84,
+        "pe_25": 76.35,
+        "pe_50": 93.79,
+        "pe_75": 119.72,
+        "pe_90": 125.2
       },
       {
         "date": "2023-11-15",
         "price": 119.5,
-        "pe": 25.13,
-        "pe_10": 62.95,
-        "pe_25": 79.07,
-        "pe_50": 93.54,
-        "pe_75": 119.43,
-        "pe_90": 124.59
+        "pe": 25.09,
+        "pe_10": 62.8,
+        "pe_25": 76.3,
+        "pe_50": 93.73,
+        "pe_75": 119.64,
+        "pe_90": 125.12
       },
       {
         "date": "2023-12-16",
         "price": 120.0,
         "pe": 25.21,
-        "pe_10": 63.01,
-        "pe_25": 79.15,
-        "pe_50": 93.63,
-        "pe_75": 119.55,
-        "pe_90": 124.72
+        "pe_10": 62.76,
+        "pe_25": 76.26,
+        "pe_50": 93.68,
+        "pe_75": 119.57,
+        "pe_90": 125.05
       },
       {
         "date": "2024-01-16",
         "price": 119.0,
-        "pe": 24.98,
-        "pe_10": 63.06,
-        "pe_25": 79.21,
-        "pe_50": 93.7,
-        "pe_75": 119.64,
-        "pe_90": 124.82
+        "pe": 25.07,
+        "pe_10": 62.59,
+        "pe_25": 76.04,
+        "pe_50": 93.42,
+        "pe_75": 119.24,
+        "pe_90": 124.7
       },
       {
         "date": "2024-02-15",
         "price": 120.5,
-        "pe": 25.28,
-        "pe_10": 63.1,
-        "pe_25": 79.26,
-        "pe_50": 93.76,
-        "pe_75": 119.71,
-        "pe_90": 124.89
+        "pe": 25.46,
+        "pe_10": 62.4,
+        "pe_25": 75.82,
+        "pe_50": 93.14,
+        "pe_75": 118.89,
+        "pe_90": 124.33
       },
       {
         "date": "2024-03-16",
         "price": 126.0,
-        "pe": 26.42,
-        "pe_10": 63.13,
-        "pe_25": 79.3,
-        "pe_50": 93.81,
-        "pe_75": 119.78,
-        "pe_90": 124.96
+        "pe": 26.69,
+        "pe_10": 62.24,
+        "pe_25": 75.63,
+        "pe_50": 92.91,
+        "pe_75": 118.59,
+        "pe_90": 124.02
       },
       {
         "date": "2024-04-15",
         "price": 124.0,
-        "pe": 25.98,
-        "pe_10": 63.18,
-        "pe_25": 79.36,
-        "pe_50": 93.88,
-        "pe_75": 119.87,
-        "pe_90": 125.05
+        "pe": 26.27,
+        "pe_10": 62.24,
+        "pe_25": 75.62,
+        "pe_50": 92.89,
+        "pe_75": 118.57,
+        "pe_90": 124.0
       },
       {
         "date": "2024-05-16",
         "price": 128.0,
-        "pe": 26.8,
-        "pe_10": 63.23,
-        "pe_25": 79.41,
-        "pe_50": 93.95,
-        "pe_75": 119.95,
-        "pe_90": 125.14
+        "pe": 27.12,
+        "pe_10": 62.23,
+        "pe_25": 75.61,
+        "pe_50": 92.88,
+        "pe_75": 118.56,
+        "pe_90": 123.99
       },
       {
         "date": "2024-06-15",
         "price": 125.5,
-        "pe": 26.26,
-        "pe_10": 63.27,
-        "pe_25": 79.47,
-        "pe_50": 94.01,
-        "pe_75": 120.03,
-        "pe_90": 125.22
+        "pe": 26.59,
+        "pe_10": 62.23,
+        "pe_25": 75.61,
+        "pe_50": 92.89,
+        "pe_75": 118.56,
+        "pe_90": 123.99
       },
       {
         "date": "2024-07-16",
         "price": 121.5,
-        "pe": 25.4,
-        "pe_10": 63.32,
-        "pe_25": 79.54,
-        "pe_50": 94.09,
-        "pe_75": 120.14,
-        "pe_90": 125.33
+        "pe": 25.76,
+        "pe_10": 62.19,
+        "pe_25": 75.56,
+        "pe_50": 92.82,
+        "pe_75": 118.48,
+        "pe_90": 123.91
       },
       {
         "date": "2024-08-16",
         "price": 124.0,
-        "pe": 25.91,
-        "pe_10": 63.35,
-        "pe_25": 79.58,
-        "pe_50": 94.14,
-        "pe_75": 120.2,
-        "pe_90": 125.39
+        "pe": 26.31,
+        "pe_10": 62.14,
+        "pe_25": 75.5,
+        "pe_50": 92.75,
+        "pe_75": 118.39,
+        "pe_90": 123.81
       },
       {
         "date": "2024-09-15",
         "price": 125.5,
-        "pe": 26.2,
-        "pe_10": 63.41,
-        "pe_25": 79.65,
-        "pe_50": 94.22,
-        "pe_75": 120.3,
-        "pe_90": 125.5
+        "pe": 26.65,
+        "pe_10": 62.09,
+        "pe_25": 75.44,
+        "pe_50": 92.68,
+        "pe_75": 118.29,
+        "pe_90": 123.71
       },
       {
         "date": "2024-10-16",
         "price": 122.0,
-        "pe": 25.45,
-        "pe_10": 63.46,
-        "pe_25": 79.71,
-        "pe_50": 94.29,
-        "pe_75": 120.39,
-        "pe_90": 125.6
+        "pe": 25.74,
+        "pe_10": 62.49,
+        "pe_25": 75.93,
+        "pe_50": 93.28,
+        "pe_75": 119.06,
+        "pe_90": 124.51
       },
       {
         "date": "2024-11-15",
         "price": 123.0,
-        "pe": 25.64,
-        "pe_10": 63.51,
-        "pe_25": 79.77,
-        "pe_50": 94.36,
-        "pe_75": 120.48,
-        "pe_90": 125.69
+        "pe": 25.79,
+        "pe_10": 62.88,
+        "pe_25": 76.4,
+        "pe_50": 93.86,
+        "pe_75": 119.8,
+        "pe_90": 125.29
       },
       {
         "date": "2024-12-16",
         "price": 123.5,
         "pe": 25.73,
-        "pe_10": 63.54,
-        "pe_25": 79.81,
-        "pe_50": 94.41,
-        "pe_75": 120.55,
-        "pe_90": 125.76
+        "pe_10": 63.29,
+        "pe_25": 76.89,
+        "pe_50": 94.46,
+        "pe_75": 120.57,
+        "pe_90": 126.09
       },
       {
         "date": "2025-01-16",
         "price": 124.5,
-        "pe": 25.85,
-        "pe_10": 63.76,
-        "pe_25": 80.08,
-        "pe_50": 94.74,
-        "pe_75": 120.96,
-        "pe_90": 126.19
+        "pe": 25.87,
+        "pe_10": 63.45,
+        "pe_25": 77.1,
+        "pe_50": 94.71,
+        "pe_75": 120.89,
+        "pe_90": 126.43
       },
       {
         "date": "2025-02-14",
         "price": 128.0,
-        "pe": 26.49,
-        "pe_10": 63.97,
-        "pe_25": 80.34,
-        "pe_50": 95.05,
-        "pe_75": 121.36,
-        "pe_90": 126.6
+        "pe": 26.52,
+        "pe_10": 63.64,
+        "pe_25": 77.32,
+        "pe_50": 94.99,
+        "pe_75": 121.24,
+        "pe_90": 126.79
       },
       {
         "date": "2025-03-16",
         "price": 128.5,
-        "pe": 26.51,
-        "pe_10": 64.17,
-        "pe_25": 80.6,
-        "pe_50": 95.34,
-        "pe_75": 121.74,
-        "pe_90": 127.0
+        "pe": 26.55,
+        "pe_10": 63.81,
+        "pe_25": 77.54,
+        "pe_50": 95.25,
+        "pe_75": 121.58,
+        "pe_90": 127.14
       },
       {
         "date": "2025-04-15",
         "price": 129.5,
-        "pe": 26.63,
-        "pe_10": 64.38,
-        "pe_25": 80.86,
-        "pe_50": 95.65,
-        "pe_75": 122.13,
-        "pe_90": 127.41
+        "pe": 26.66,
+        "pe_10": 64.05,
+        "pe_25": 77.82,
+        "pe_50": 95.59,
+        "pe_75": 122.02,
+        "pe_90": 127.61
       },
       {
         "date": "2025-05-16",
         "price": 129.5,
-        "pe": 26.54,
-        "pe_10": 64.59,
-        "pe_25": 81.13,
-        "pe_50": 95.98,
-        "pe_75": 122.55,
-        "pe_90": 127.85
+        "pe": 26.57,
+        "pe_10": 64.26,
+        "pe_25": 78.08,
+        "pe_50": 95.92,
+        "pe_75": 122.43,
+        "pe_90": 128.04
       },
       {
         "date": "2025-06-15",
         "price": 135.0,
-        "pe": 27.58,
-        "pe_10": 64.8,
-        "pe_25": 81.39,
-        "pe_50": 96.28,
-        "pe_75": 122.93,
-        "pe_90": 128.25
+        "pe": 27.61,
+        "pe_10": 64.47,
+        "pe_25": 78.33,
+        "pe_50": 96.23,
+        "pe_75": 122.83,
+        "pe_90": 128.45
       },
       {
         "date": "2025-07-16",
         "price": 129.0,
         "pe": 26.27,
-        "pe_10": 65.01,
-        "pe_25": 81.65,
-        "pe_50": 96.59,
-        "pe_75": 123.33,
-        "pe_90": 128.66
+        "pe_10": 64.75,
+        "pe_25": 78.67,
+        "pe_50": 96.64,
+        "pe_75": 123.35,
+        "pe_90": 129.0
       },
       {
         "date": "2025-08-16",
         "price": 132.5,
-        "pe": 26.89,
-        "pe_10": 65.23,
-        "pe_25": 81.93,
-        "pe_50": 96.92,
-        "pe_75": 123.75,
-        "pe_90": 129.1
+        "pe": 26.88,
+        "pe_10": 64.99,
+        "pe_25": 78.97,
+        "pe_50": 97.01,
+        "pe_75": 123.82,
+        "pe_90": 129.49
       },
       {
         "date": "2025-09-15",
         "price": 133.5,
-        "pe": 27.01,
-        "pe_10": 65.43,
-        "pe_25": 82.18,
-        "pe_50": 97.22,
-        "pe_75": 124.13,
-        "pe_90": 129.5
+        "pe": 26.97,
+        "pe_10": 65.27,
+        "pe_25": 79.3,
+        "pe_50": 97.41,
+        "pe_75": 124.34,
+        "pe_90": 130.04
       },
       {
         "date": "2025-10-16",
         "price": 131.0,
-        "pe": 26.42,
-        "pe_10": 65.64,
-        "pe_25": 82.45,
-        "pe_50": 97.53,
-        "pe_75": 124.53,
-        "pe_90": 129.91
+        "pe": 26.39,
+        "pe_10": 65.45,
+        "pe_25": 79.52,
+        "pe_50": 97.69,
+        "pe_75": 124.7,
+        "pe_90": 130.4
       },
       {
         "date": "2025-11-15",
         "price": 130.5,
-        "pe": 26.24,
-        "pe_10": 65.84,
-        "pe_25": 82.69,
-        "pe_50": 97.83,
-        "pe_75": 124.91,
-        "pe_90": 130.31
+        "pe": 26.22,
+        "pe_10": 65.62,
+        "pe_25": 79.73,
+        "pe_50": 97.95,
+        "pe_75": 125.03,
+        "pe_90": 130.75
       },
       {
         "date": "2025-12-16",
         "price": 130.5,
         "pe": 26.15,
-        "pe_10": 66.06,
-        "pe_25": 82.98,
-        "pe_50": 98.16,
-        "pe_75": 125.33,
-        "pe_90": 130.75
+        "pe_10": 65.8,
+        "pe_25": 79.95,
+        "pe_50": 98.21,
+        "pe_75": 125.36,
+        "pe_90": 131.1
       },
       {
         "date": "2026-01-16",
         "price": 133.5,
         "pe": 26.75,
-        "pe_10": 66.07,
-        "pe_25": 82.98,
-        "pe_50": 98.17,
-        "pe_75": 125.34,
-        "pe_90": 130.76
+        "pe_10": 65.8,
+        "pe_25": 79.95,
+        "pe_50": 98.22,
+        "pe_75": 125.37,
+        "pe_90": 131.1
       },
       {
         "date": "2026-02-14",
         "price": 134.0,
         "pe": 26.85,
-        "pe_10": 66.07,
-        "pe_25": 82.98,
-        "pe_50": 98.17,
-        "pe_75": 125.34,
-        "pe_90": 130.76
+        "pe_10": 65.8,
+        "pe_25": 79.95,
+        "pe_50": 98.22,
+        "pe_75": 125.37,
+        "pe_90": 131.11
       }
     ]
   },
@@ -20050,7 +20050,7 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (26.2倍)",
+            "title": "PE 90% (26.3倍)",
             "format": ".1f"
           }
         ]
@@ -20770,6 +20770,10 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
       {
         "date": "2026-01-16",
         "revenue_yoy": 12.2
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 2.73
       }
     ]
   },
@@ -20838,15 +20842,15 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
 | 3個月 | 20.0 | +13.8% | 0.084 | 2007-12 (+217.8%) | 2008-07 (-75.7%) |
-| 6個月 | 20.0 | +11.4% | 0.114 | 2009-01 (+86.7%) | 2008-07 (-56.5%) |
-| 1年 | 19.8 | +10.2% | 0.147 | 2010-06 (+61.0%) | 2008-08 (-23.5%) |
-| 2年 | 19.4 | +9.4% | 0.231 | 2009-08 (+39.4%) | 2008-03 (-6.3%) |
-| 3年 | 19.1 | +8.9% | 0.333 | 2008-11 (+29.1%) | 2011-09 (+1.8%) |
-| 4年 | 18.7 | +8.9% | 0.518 | 2009-01 (+21.9%) | 2016-08 (+2.7%) |
-| 5年 | 18.3 | +8.7% | 0.645 | 2009-01 (+17.8%) | 2016-08 (+3.4%) |
-| 6年 | 17.7 | +8.3% | 0.690 | 2009-01 (+16.0%) | 2016-09 (+4.2%) |
-| 8年 | 16.7 | +7.8% | 0.819 | 2008-11 (+13.7%) | 2016-07 (+4.2%) |
-| 10年 | 15.8 | +7.7% | 0.890 | 2009-01 (+11.8%) | 2011-09 (+4.6%) |
+| 6個月 | 19.9 | +11.4% | 0.103 | 2009-01 (+86.7%) | 2008-07 (-56.5%) |
+| 1年 | 19.7 | +10.2% | 0.124 | 2010-06 (+61.0%) | 2008-08 (-23.5%) |
+| 2年 | 19.3 | +9.4% | 0.197 | 2009-08 (+39.4%) | 2008-03 (-6.3%) |
+| 3年 | 19.0 | +8.9% | 0.305 | 2008-11 (+29.1%) | 2011-09 (+1.8%) |
+| 4年 | 18.6 | +8.9% | 0.469 | 2009-01 (+21.9%) | 2016-08 (+2.7%) |
+| 5年 | 18.2 | +8.7% | 0.599 | 2009-01 (+17.8%) | 2016-08 (+3.4%) |
+| 6年 | 17.6 | +8.3% | 0.632 | 2009-01 (+16.0%) | 2016-09 (+4.2%) |
+| 8年 | 16.6 | +7.8% | 0.750 | 2008-11 (+13.7%) | 2016-07 (+4.2%) |
+| 10年 | 15.7 | +7.7% | 0.800 | 2009-01 (+11.8%) | 2011-09 (+4.6%) |
 
 
 ## 🎯 使用說明
@@ -20865,4 +20869,4 @@ description: "2412 中華電 (通信網路業) 本益比與未來報酬率關係
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:30:57 CST*
+*數據更新時間: 2026-03-21 12:36:59 CST*

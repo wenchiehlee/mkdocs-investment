@@ -2,7 +2,7 @@
 title: "6462 神盾 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
     - **產業別**: 半導體業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:35:59 CST
+    - **報告生成時間**: 2026-03-21 12:42:53 CST
 
 ## 📈 互動式圖表
 
@@ -38,53 +38,8 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2016-06-15",
-        "pe_ratio": 1409.0,
-        "forward_return": 375.02,
-        "start_price": 155.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-07-16",
-        "pe_ratio": 517.2,
-        "forward_return": 109.48,
-        "start_price": 190.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-08-16",
-        "pe_ratio": 375.8,
-        "forward_return": 42.38,
-        "start_price": 235.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-09-15",
-        "pe_ratio": 259.3,
-        "forward_return": 78.12,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-10-16",
-        "pe_ratio": 200.7,
-        "forward_return": 71.76,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 200.8,
+        "pe_ratio": 586.5,
         "forward_return": -33.65,
         "start_price": 281.5,
         "start_year": 2016
@@ -102,7 +57,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 117.9,
+        "pe_ratio": 93.93,
         "forward_return": -62.83,
         "start_price": 263.0,
         "start_year": 2017
@@ -111,7 +66,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 93.57,
+        "pe_ratio": 66.5,
         "forward_return": -72.86,
         "start_price": 262.0,
         "start_year": 2017
@@ -120,7 +75,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 73.0,
+        "pe_ratio": 48.43,
         "forward_return": -2.41,
         "start_price": 246.0,
         "start_year": 2017
@@ -129,7 +84,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 42.26,
+        "pe_ratio": 29.77,
         "forward_return": 363.64,
         "start_price": 166.5,
         "start_year": 2017
@@ -138,7 +93,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 42.13,
+        "pe_ratio": 31.11,
         "forward_return": 366.21,
         "start_price": 190.0,
         "start_year": 2017
@@ -147,7 +102,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 40.94,
+        "pe_ratio": 31.42,
         "forward_return": 194.35,
         "start_price": 208.0,
         "start_year": 2017
@@ -156,7 +111,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 43.19,
+        "pe_ratio": 33.23,
         "forward_return": -26.23,
         "start_price": 244.0,
         "start_year": 2017
@@ -165,7 +120,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 45.02,
+        "pe_ratio": 34.71,
         "forward_return": -47.0,
         "start_price": 280.0,
         "start_year": 2017
@@ -174,7 +129,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 40.21,
+        "pe_ratio": 31.06,
         "forward_return": -52.74,
         "start_price": 273.0,
         "start_year": 2017
@@ -183,7 +138,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 30.71,
+        "pe_ratio": 26.0,
         "forward_return": -8.5,
         "start_price": 226.0,
         "start_year": 2017
@@ -192,7 +147,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 32.16,
+        "pe_ratio": 29.66,
         "forward_return": -82.99,
         "start_price": 255.0,
         "start_year": 2017
@@ -210,7 +165,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.64,
         "forward_return": -62.94,
         "start_price": 221.0,
         "start_year": 2018
@@ -219,7 +174,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.65,
         "forward_return": -8.43,
         "start_price": 163.0,
         "start_year": 2018
@@ -228,7 +183,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 16.08,
         "forward_return": -6.61,
         "start_price": 142.5,
         "start_year": 2018
@@ -237,7 +192,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 14.43,
         "forward_return": -10.03,
         "start_price": 143.0,
         "start_year": 2018
@@ -246,7 +201,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 14.55,
         "forward_return": 7.11,
         "start_price": 159.5,
         "start_year": 2018
@@ -255,7 +210,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 11.82,
         "forward_return": -57.03,
         "start_price": 142.0,
         "start_year": 2018
@@ -264,7 +219,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 11.19,
         "forward_return": -72.86,
         "start_price": 135.0,
         "start_year": 2018
@@ -273,7 +228,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 17.09,
+        "pe_ratio": 13.03,
         "forward_return": 105.58,
         "start_price": 158.0,
         "start_year": 2018
@@ -282,7 +237,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.83,
+        "pe_ratio": 9.07,
         "forward_return": 1003.84,
         "start_price": 110.5,
         "start_year": 2018
@@ -291,7 +246,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.3,
+        "pe_ratio": 8.58,
         "forward_return": 1654.24,
         "start_price": 97.2,
         "start_year": 2018
@@ -300,7 +255,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.42,
+        "pe_ratio": 15.85,
         "forward_return": 195.59,
         "start_price": 166.0,
         "start_year": 2018
@@ -318,7 +273,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 21.54,
         "forward_return": 45.06,
         "start_price": 200.0,
         "start_year": 2019
@@ -327,7 +282,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.05,
+        "pe_ratio": 23.79,
         "forward_return": 27.18,
         "start_price": 213.0,
         "start_year": 2019
@@ -336,7 +291,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 22.87,
+        "pe_ratio": 27.49,
         "forward_return": -7.28,
         "start_price": 237.0,
         "start_year": 2019
@@ -345,7 +300,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.4,
+        "pe_ratio": 31.08,
         "forward_return": -36.72,
         "start_price": 259.0,
         "start_year": 2019
@@ -354,7 +309,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.81,
+        "pe_ratio": 28.09,
         "forward_return": 116.67,
         "start_price": 226.0,
         "start_year": 2019
@@ -363,7 +318,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 21.83,
+        "pe_ratio": 31.25,
         "forward_return": 60.27,
         "start_price": 242.5,
         "start_year": 2019
@@ -372,7 +327,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.63,
+        "pe_ratio": 26.96,
         "forward_return": 128.17,
         "start_price": 223.0,
         "start_year": 2019
@@ -381,7 +336,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.96,
+        "pe_ratio": 30.35,
         "forward_return": -30.06,
         "start_price": 266.5,
         "start_year": 2019
@@ -390,7 +345,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 22.35,
+        "pe_ratio": 28.53,
         "forward_return": -36.66,
         "start_price": 265.0,
         "start_year": 2019
@@ -399,7 +354,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.68,
+        "pe_ratio": 26.41,
         "forward_return": -71.55,
         "start_price": 274.5,
         "start_year": 2019
@@ -408,7 +363,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.78,
+        "pe_ratio": 20.18,
         "forward_return": -74.26,
         "start_price": 232.0,
         "start_year": 2019
@@ -426,7 +381,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.24,
+        "pe_ratio": 15.33,
         "forward_return": -20.97,
         "start_price": 200.0,
         "start_year": 2020
@@ -435,7 +390,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 17.88,
+        "pe_ratio": 15.94,
         "forward_return": -45.29,
         "start_price": 215.0,
         "start_year": 2020
@@ -444,7 +399,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 10.62,
         "forward_return": 161.37,
         "start_price": 148.0,
         "start_year": 2020
@@ -453,7 +408,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 14.07,
         "forward_return": 28.89,
         "start_price": 191.5,
         "start_year": 2020
@@ -462,7 +417,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.58,
+        "pe_ratio": 13.91,
         "forward_return": -17.96,
         "start_price": 185.0,
         "start_year": 2020
@@ -471,7 +426,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 14.83,
         "forward_return": -28.34,
         "start_price": 192.5,
         "start_year": 2020
@@ -480,7 +435,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 15.4,
         "forward_return": -59.81,
         "start_price": 195.0,
         "start_year": 2020
@@ -489,7 +444,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 16.22,
+        "pe_ratio": 13.53,
         "forward_return": 9.23,
         "start_price": 167.0,
         "start_year": 2020
@@ -498,7 +453,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 16.79,
+        "pe_ratio": 13.98,
         "forward_return": 9.9,
         "start_price": 168.0,
         "start_year": 2020
@@ -507,7 +462,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 14.01,
         "forward_return": -9.86,
         "start_price": 155.0,
         "start_year": 2020
@@ -516,7 +471,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 18.83,
+        "pe_ratio": 17.57,
         "forward_return": -7.52,
         "start_price": 177.5,
         "start_year": 2020
@@ -534,7 +489,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 18.6,
+        "pe_ratio": 18.14,
         "forward_return": 32.19,
         "start_price": 151.0,
         "start_year": 2021
@@ -543,7 +498,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.77,
+        "pe_ratio": 20.58,
         "forward_return": 32.2,
         "start_price": 154.5,
         "start_year": 2021
@@ -552,7 +507,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.47,
+        "pe_ratio": 25.86,
         "forward_return": -10.83,
         "start_price": 173.0,
         "start_year": 2021
@@ -561,7 +516,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.33,
+        "pe_ratio": 33.03,
         "forward_return": 7.57,
         "start_price": 163.5,
         "start_year": 2021
@@ -570,7 +525,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 41.01,
+        "pe_ratio": 51.56,
         "forward_return": -56.11,
         "start_price": 165.5,
         "start_year": 2021
@@ -579,7 +534,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 54.39,
+        "pe_ratio": 111.6,
         "forward_return": -55.16,
         "start_price": 164.0,
         "start_year": 2021
@@ -588,70 +543,16 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 75.97,
+        "pe_ratio": 1010.0,
         "forward_return": -41.26,
         "start_price": 151.5,
         "start_year": 2021
       },
       {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-08-16",
-        "pe_ratio": 122.8,
-        "forward_return": -8.52,
-        "start_price": 119.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-06-15",
-        "pe_ratio": 1409.0,
-        "forward_return": 191.66,
-        "start_price": 155.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-07-16",
-        "pe_ratio": 517.2,
-        "forward_return": 89.68,
-        "start_price": 190.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-08-16",
-        "pe_ratio": 375.8,
-        "forward_return": 7.8,
-        "start_price": 235.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-09-15",
-        "pe_ratio": 259.3,
-        "forward_return": 15.04,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-10-16",
-        "pe_ratio": 200.7,
-        "forward_return": -27.78,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 200.8,
+        "pe_ratio": 586.5,
         "forward_return": -54.76,
         "start_price": 281.5,
         "start_year": 2016
@@ -669,7 +570,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 117.9,
+        "pe_ratio": 93.93,
         "forward_return": -14.04,
         "start_price": 263.0,
         "start_year": 2017
@@ -678,7 +579,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 93.57,
+        "pe_ratio": 66.5,
         "forward_return": 14.26,
         "start_price": 262.0,
         "start_year": 2017
@@ -687,7 +588,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 73.0,
+        "pe_ratio": 48.43,
         "forward_return": -13.47,
         "start_price": 246.0,
         "start_year": 2017
@@ -696,7 +597,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 42.26,
+        "pe_ratio": 29.77,
         "forward_return": 84.01,
         "start_price": 166.5,
         "start_year": 2017
@@ -705,7 +606,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 42.13,
+        "pe_ratio": 31.11,
         "forward_return": 34.97,
         "start_price": 190.0,
         "start_year": 2017
@@ -714,7 +615,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 40.94,
+        "pe_ratio": 31.42,
         "forward_return": 18.54,
         "start_price": 208.0,
         "start_year": 2017
@@ -723,7 +624,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 43.19,
+        "pe_ratio": 33.23,
         "forward_return": -17.84,
         "start_price": 244.0,
         "start_year": 2017
@@ -732,7 +633,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 45.02,
+        "pe_ratio": 34.71,
         "forward_return": -68.77,
         "start_price": 280.0,
         "start_year": 2017
@@ -741,7 +642,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 40.21,
+        "pe_ratio": 31.06,
         "forward_return": -73.07,
         "start_price": 273.0,
         "start_year": 2017
@@ -750,7 +651,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 30.71,
+        "pe_ratio": 26.0,
         "forward_return": -45.14,
         "start_price": 226.0,
         "start_year": 2017
@@ -759,7 +660,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 32.16,
+        "pe_ratio": 29.66,
         "forward_return": -61.2,
         "start_price": 255.0,
         "start_year": 2017
@@ -777,7 +678,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.64,
         "forward_return": -60.61,
         "start_price": 221.0,
         "start_year": 2018
@@ -786,7 +687,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.65,
         "forward_return": -0.88,
         "start_price": 163.0,
         "start_year": 2018
@@ -795,7 +696,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 16.08,
         "forward_return": -43.97,
         "start_price": 142.5,
         "start_year": 2018
@@ -804,7 +705,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 14.43,
         "forward_return": -49.57,
         "start_price": 143.0,
         "start_year": 2018
@@ -813,7 +714,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 14.55,
         "forward_return": 53.83,
         "start_price": 159.5,
         "start_year": 2018
@@ -822,7 +723,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 11.82,
         "forward_return": 108.68,
         "start_price": 142.0,
         "start_year": 2018
@@ -831,7 +732,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 11.19,
         "forward_return": 118.19,
         "start_price": 135.0,
         "start_year": 2018
@@ -840,7 +741,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 17.09,
+        "pe_ratio": 13.03,
         "forward_return": 101.09,
         "start_price": 158.0,
         "start_year": 2018
@@ -849,7 +750,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.83,
+        "pe_ratio": 9.07,
         "forward_return": 366.36,
         "start_price": 110.5,
         "start_year": 2018
@@ -858,7 +759,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.3,
+        "pe_ratio": 8.58,
         "forward_return": 327.89,
         "start_price": 97.2,
         "start_year": 2018
@@ -867,7 +768,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.42,
+        "pe_ratio": 15.85,
         "forward_return": 86.38,
         "start_price": 166.0,
         "start_year": 2018
@@ -885,7 +786,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 21.54,
         "forward_return": 33.86,
         "start_price": 200.0,
         "start_year": 2019
@@ -894,7 +795,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.05,
+        "pe_ratio": 23.79,
         "forward_return": 66.49,
         "start_price": 213.0,
         "start_year": 2019
@@ -903,7 +804,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 22.87,
+        "pe_ratio": 27.49,
         "forward_return": 35.03,
         "start_price": 237.0,
         "start_year": 2019
@@ -912,7 +813,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.4,
+        "pe_ratio": 31.08,
         "forward_return": 19.01,
         "start_price": 259.0,
         "start_year": 2019
@@ -921,7 +822,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.81,
+        "pe_ratio": 28.09,
         "forward_return": 14.45,
         "start_price": 226.0,
         "start_year": 2019
@@ -930,7 +831,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 21.83,
+        "pe_ratio": 31.25,
         "forward_return": 1.73,
         "start_price": 242.5,
         "start_year": 2019
@@ -939,7 +840,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.63,
+        "pe_ratio": 26.96,
         "forward_return": -19.43,
         "start_price": 223.0,
         "start_year": 2019
@@ -948,7 +849,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.96,
+        "pe_ratio": 30.35,
         "forward_return": -63.53,
         "start_price": 266.5,
         "start_year": 2019
@@ -957,7 +858,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 22.35,
+        "pe_ratio": 28.53,
         "forward_return": -68.93,
         "start_price": 265.0,
         "start_year": 2019
@@ -966,7 +867,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.68,
+        "pe_ratio": 26.41,
         "forward_return": -49.17,
         "start_price": 274.5,
         "start_year": 2019
@@ -975,7 +876,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.78,
+        "pe_ratio": 20.18,
         "forward_return": -36.51,
         "start_price": 232.0,
         "start_year": 2019
@@ -993,7 +894,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.24,
+        "pe_ratio": 15.33,
         "forward_return": 4.06,
         "start_price": 200.0,
         "start_year": 2020
@@ -1002,7 +903,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 17.88,
+        "pe_ratio": 15.94,
         "forward_return": -32.93,
         "start_price": 215.0,
         "start_year": 2020
@@ -1011,7 +912,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 10.62,
         "forward_return": 19.15,
         "start_price": 148.0,
         "start_year": 2020
@@ -1020,7 +921,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 14.07,
         "forward_return": -26.61,
         "start_price": 191.5,
         "start_year": 2020
@@ -1029,7 +930,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.58,
+        "pe_ratio": 13.91,
         "forward_return": -3.66,
         "start_price": 185.0,
         "start_year": 2020
@@ -1038,7 +939,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 14.83,
         "forward_return": -11.57,
         "start_price": 192.5,
         "start_year": 2020
@@ -1047,7 +948,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 15.4,
         "forward_return": -39.81,
         "start_price": 195.0,
         "start_year": 2020
@@ -1056,7 +957,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 16.22,
+        "pe_ratio": 13.53,
         "forward_return": 6.27,
         "start_price": 167.0,
         "start_year": 2020
@@ -1065,7 +966,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 16.79,
+        "pe_ratio": 13.98,
         "forward_return": 6.1,
         "start_price": 168.0,
         "start_year": 2020
@@ -1074,7 +975,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 14.01,
         "forward_return": 11.96,
         "start_price": 155.0,
         "start_year": 2020
@@ -1083,7 +984,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 18.83,
+        "pe_ratio": 17.57,
         "forward_return": -13.17,
         "start_price": 177.5,
         "start_year": 2020
@@ -1101,7 +1002,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 18.6,
+        "pe_ratio": 18.14,
         "forward_return": 21.8,
         "start_price": 151.0,
         "start_year": 2021
@@ -1110,7 +1011,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.77,
+        "pe_ratio": 20.58,
         "forward_return": -24.29,
         "start_price": 154.5,
         "start_year": 2021
@@ -1119,7 +1020,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.47,
+        "pe_ratio": 25.86,
         "forward_return": -23.83,
         "start_price": 173.0,
         "start_year": 2021
@@ -1128,7 +1029,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.33,
+        "pe_ratio": 33.03,
         "forward_return": -18.58,
         "start_price": 163.5,
         "start_year": 2021
@@ -1137,7 +1038,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 41.01,
+        "pe_ratio": 51.56,
         "forward_return": -32.9,
         "start_price": 165.5,
         "start_year": 2021
@@ -1146,7 +1047,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 54.39,
+        "pe_ratio": 111.6,
         "forward_return": -36.14,
         "start_price": 164.0,
         "start_year": 2021
@@ -1155,70 +1056,16 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 75.97,
+        "pe_ratio": 1010.0,
         "forward_return": -47.98,
         "start_price": 151.5,
         "start_year": 2021
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-08-16",
-        "pe_ratio": 122.8,
-        "forward_return": -10.57,
-        "start_price": 119.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 1409.0,
-        "forward_return": 34.22,
-        "start_price": 155.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-07-16",
-        "pe_ratio": 517.2,
-        "forward_return": 28.11,
-        "start_price": 190.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-08-16",
-        "pe_ratio": 375.8,
-        "forward_return": 18.91,
-        "start_price": 235.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-09-15",
-        "pe_ratio": 259.3,
-        "forward_return": 18.97,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-10-16",
-        "pe_ratio": 200.7,
-        "forward_return": -1.53,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 200.8,
+        "pe_ratio": 586.5,
         "forward_return": -9.42,
         "start_price": 281.5,
         "start_year": 2016
@@ -1236,7 +1083,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 117.9,
+        "pe_ratio": 93.93,
         "forward_return": -15.98,
         "start_price": 263.0,
         "start_year": 2017
@@ -1245,7 +1092,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 93.57,
+        "pe_ratio": 66.5,
         "forward_return": -37.81,
         "start_price": 262.0,
         "start_year": 2017
@@ -1254,7 +1101,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 73.0,
+        "pe_ratio": 48.43,
         "forward_return": -42.09,
         "start_price": 246.0,
         "start_year": 2017
@@ -1263,7 +1110,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 42.26,
+        "pe_ratio": 29.77,
         "forward_return": -14.12,
         "start_price": 166.5,
         "start_year": 2017
@@ -1272,7 +1119,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 42.13,
+        "pe_ratio": 31.11,
         "forward_return": -16.06,
         "start_price": 190.0,
         "start_year": 2017
@@ -1281,7 +1128,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 40.94,
+        "pe_ratio": 31.42,
         "forward_return": -31.75,
         "start_price": 208.0,
         "start_year": 2017
@@ -1290,7 +1137,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 43.19,
+        "pe_ratio": 33.23,
         "forward_return": -42.94,
         "start_price": 244.0,
         "start_year": 2017
@@ -1299,7 +1146,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 45.02,
+        "pe_ratio": 34.71,
         "forward_return": -42.06,
         "start_price": 280.0,
         "start_year": 2017
@@ -1308,7 +1155,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 40.21,
+        "pe_ratio": 31.06,
         "forward_return": -57.98,
         "start_price": 273.0,
         "start_year": 2017
@@ -1317,7 +1164,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 30.71,
+        "pe_ratio": 26.0,
         "forward_return": -55.12,
         "start_price": 226.0,
         "start_year": 2017
@@ -1326,7 +1173,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 32.16,
+        "pe_ratio": 29.66,
         "forward_return": -33.24,
         "start_price": 255.0,
         "start_year": 2017
@@ -1344,7 +1191,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.64,
         "forward_return": -7.57,
         "start_price": 221.0,
         "start_year": 2018
@@ -1353,7 +1200,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.65,
         "forward_return": 33.33,
         "start_price": 163.0,
         "start_year": 2018
@@ -1362,7 +1209,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 16.08,
         "forward_return": 69.38,
         "start_price": 142.5,
         "start_year": 2018
@@ -1371,7 +1218,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 14.43,
         "forward_return": 84.19,
         "start_price": 143.0,
         "start_year": 2018
@@ -1380,7 +1227,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 14.55,
         "forward_return": 44.41,
         "start_price": 159.5,
         "start_year": 2018
@@ -1389,7 +1236,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 11.82,
         "forward_return": 73.86,
         "start_price": 142.0,
         "start_year": 2018
@@ -1398,7 +1245,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 11.19,
         "forward_return": 71.24,
         "start_price": 135.0,
         "start_year": 2018
@@ -1407,7 +1254,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 17.09,
+        "pe_ratio": 13.03,
         "forward_return": 73.86,
         "start_price": 158.0,
         "start_year": 2018
@@ -1416,7 +1263,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.83,
+        "pe_ratio": 9.07,
         "forward_return": 147.3,
         "start_price": 110.5,
         "start_year": 2018
@@ -1425,7 +1272,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.3,
+        "pe_ratio": 8.58,
         "forward_return": 190.95,
         "start_price": 97.2,
         "start_year": 2018
@@ -1434,7 +1281,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.42,
+        "pe_ratio": 15.85,
         "forward_return": 44.67,
         "start_price": 166.0,
         "start_year": 2018
@@ -1452,7 +1299,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 21.54,
         "forward_return": 4.05,
         "start_price": 200.0,
         "start_year": 2019
@@ -1461,7 +1308,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.05,
+        "pe_ratio": 23.79,
         "forward_return": 4.74,
         "start_price": 213.0,
         "start_year": 2019
@@ -1470,7 +1317,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 22.87,
+        "pe_ratio": 27.49,
         "forward_return": -34.08,
         "start_price": 237.0,
         "start_year": 2019
@@ -1479,7 +1326,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.4,
+        "pe_ratio": 31.08,
         "forward_return": -22.9,
         "start_price": 259.0,
         "start_year": 2019
@@ -1488,7 +1335,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.81,
+        "pe_ratio": 28.09,
         "forward_return": -14.53,
         "start_price": 226.0,
         "start_year": 2019
@@ -1497,7 +1344,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 21.83,
+        "pe_ratio": 31.25,
         "forward_return": -17.25,
         "start_price": 242.5,
         "start_year": 2019
@@ -1506,7 +1353,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.63,
+        "pe_ratio": 26.96,
         "forward_return": -8.5,
         "start_price": 223.0,
         "start_year": 2019
@@ -1515,7 +1362,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.96,
+        "pe_ratio": 30.35,
         "forward_return": -33.9,
         "start_price": 266.5,
         "start_year": 2019
@@ -1524,7 +1371,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 22.35,
+        "pe_ratio": 28.53,
         "forward_return": -33.15,
         "start_price": 265.0,
         "start_year": 2019
@@ -1533,7 +1380,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.68,
+        "pe_ratio": 26.41,
         "forward_return": -40.19,
         "start_price": 274.5,
         "start_year": 2019
@@ -1542,7 +1389,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.78,
+        "pe_ratio": 20.18,
         "forward_return": -19.58,
         "start_price": 232.0,
         "start_year": 2019
@@ -1560,7 +1407,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.24,
+        "pe_ratio": 15.33,
         "forward_return": -19.96,
         "start_price": 200.0,
         "start_year": 2020
@@ -1569,7 +1416,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 17.88,
+        "pe_ratio": 15.94,
         "forward_return": -14.28,
         "start_price": 215.0,
         "start_year": 2020
@@ -1578,7 +1425,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 10.62,
         "forward_return": 22.99,
         "start_price": 148.0,
         "start_year": 2020
@@ -1587,7 +1434,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 14.07,
         "forward_return": -9.93,
         "start_price": 191.5,
         "start_year": 2020
@@ -1596,7 +1443,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.58,
+        "pe_ratio": 13.91,
         "forward_return": -5.68,
         "start_price": 185.0,
         "start_year": 2020
@@ -1605,7 +1452,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 14.83,
         "forward_return": -10.14,
         "start_price": 192.5,
         "start_year": 2020
@@ -1614,7 +1461,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 15.4,
         "forward_return": -14.62,
         "start_price": 195.0,
         "start_year": 2020
@@ -1623,7 +1470,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 16.22,
+        "pe_ratio": 13.53,
         "forward_return": -19.47,
         "start_price": 167.0,
         "start_year": 2020
@@ -1632,7 +1479,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 16.79,
+        "pe_ratio": 13.98,
         "forward_return": -20.25,
         "start_price": 168.0,
         "start_year": 2020
@@ -1641,7 +1488,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 14.01,
         "forward_return": -4.84,
         "start_price": 155.0,
         "start_year": 2020
@@ -1650,7 +1497,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 18.83,
+        "pe_ratio": 17.57,
         "forward_return": -29.88,
         "start_price": 177.5,
         "start_year": 2020
@@ -1668,7 +1515,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 18.6,
+        "pe_ratio": 18.14,
         "forward_return": -17.89,
         "start_price": 151.0,
         "start_year": 2021
@@ -1677,7 +1524,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.77,
+        "pe_ratio": 20.58,
         "forward_return": -22.67,
         "start_price": 154.5,
         "start_year": 2021
@@ -1686,7 +1533,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.47,
+        "pe_ratio": 25.86,
         "forward_return": -26.61,
         "start_price": 173.0,
         "start_year": 2021
@@ -1695,7 +1542,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.33,
+        "pe_ratio": 33.03,
         "forward_return": -23.26,
         "start_price": 163.5,
         "start_year": 2021
@@ -1704,7 +1551,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 41.01,
+        "pe_ratio": 51.56,
         "forward_return": -26.9,
         "start_price": 165.5,
         "start_year": 2021
@@ -1713,7 +1560,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 54.39,
+        "pe_ratio": 111.6,
         "forward_return": -36.0,
         "start_price": 164.0,
         "start_year": 2021
@@ -1722,70 +1569,16 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 75.97,
+        "pe_ratio": 1010.0,
         "forward_return": -40.02,
         "start_price": 151.5,
         "start_year": 2021
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-08-16",
-        "pe_ratio": 122.8,
-        "forward_return": -24.2,
-        "start_price": 119.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 1409.0,
-        "forward_return": -4.29,
-        "start_price": 155.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-07-16",
-        "pe_ratio": 517.2,
-        "forward_return": -14.5,
-        "start_price": 190.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-08-16",
-        "pe_ratio": 375.8,
-        "forward_return": -17.0,
-        "start_price": 235.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-09-15",
-        "pe_ratio": 259.3,
-        "forward_return": -29.3,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-10-16",
-        "pe_ratio": 200.7,
-        "forward_return": -33.52,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 200.8,
+        "pe_ratio": 586.5,
         "forward_return": -22.24,
         "start_price": 281.5,
         "start_year": 2016
@@ -1803,7 +1596,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 117.9,
+        "pe_ratio": 93.93,
         "forward_return": -11.87,
         "start_price": 263.0,
         "start_year": 2017
@@ -1812,7 +1605,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 93.57,
+        "pe_ratio": 66.5,
         "forward_return": -8.94,
         "start_price": 262.0,
         "start_year": 2017
@@ -1821,7 +1614,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 73.0,
+        "pe_ratio": 48.43,
         "forward_return": -0.96,
         "start_price": 246.0,
         "start_year": 2017
@@ -1830,7 +1623,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 42.26,
+        "pe_ratio": 29.77,
         "forward_return": 25.77,
         "start_price": 166.5,
         "start_year": 2017
@@ -1839,7 +1632,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 42.13,
+        "pe_ratio": 31.11,
         "forward_return": 10.1,
         "start_price": 190.0,
         "start_year": 2017
@@ -1848,7 +1641,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 40.94,
+        "pe_ratio": 31.42,
         "forward_return": 8.93,
         "start_price": 208.0,
         "start_year": 2017
@@ -1857,7 +1650,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 43.19,
+        "pe_ratio": 33.23,
         "forward_return": -1.78,
         "start_price": 244.0,
         "start_year": 2017
@@ -1866,7 +1659,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 45.02,
+        "pe_ratio": 34.71,
         "forward_return": -0.2,
         "start_price": 280.0,
         "start_year": 2017
@@ -1875,7 +1668,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 40.21,
+        "pe_ratio": 31.06,
         "forward_return": 0.8,
         "start_price": 273.0,
         "start_year": 2017
@@ -1884,7 +1677,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 30.71,
+        "pe_ratio": 26.0,
         "forward_return": 12.68,
         "start_price": 226.0,
         "start_year": 2017
@@ -1893,7 +1686,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 32.16,
+        "pe_ratio": 29.66,
         "forward_return": -2.11,
         "start_price": 255.0,
         "start_year": 2017
@@ -1911,7 +1704,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.64,
         "forward_return": -1.97,
         "start_price": 221.0,
         "start_year": 2018
@@ -1920,7 +1713,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.65,
         "forward_return": 18.12,
         "start_price": 163.0,
         "start_year": 2018
@@ -1929,7 +1722,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 16.08,
         "forward_return": 6.08,
         "start_price": 142.5,
         "start_year": 2018
@@ -1938,7 +1731,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 14.43,
         "forward_return": 19.39,
         "start_price": 143.0,
         "start_year": 2018
@@ -1947,7 +1740,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 14.55,
         "forward_return": 11.23,
         "start_price": 159.5,
         "start_year": 2018
@@ -1956,7 +1749,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 11.82,
         "forward_return": 20.1,
         "start_price": 142.0,
         "start_year": 2018
@@ -1965,7 +1758,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 11.19,
         "forward_return": 25.32,
         "start_price": 135.0,
         "start_year": 2018
@@ -1974,7 +1767,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 17.09,
+        "pe_ratio": 13.03,
         "forward_return": 7.94,
         "start_price": 158.0,
         "start_year": 2018
@@ -1983,7 +1776,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.83,
+        "pe_ratio": 9.07,
         "forward_return": 29.4,
         "start_price": 110.5,
         "start_year": 2018
@@ -1992,7 +1785,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.3,
+        "pe_ratio": 8.58,
         "forward_return": 33.03,
         "start_price": 97.2,
         "start_year": 2018
@@ -2001,7 +1794,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.42,
+        "pe_ratio": 15.85,
         "forward_return": 8.26,
         "start_price": 166.0,
         "start_year": 2018
@@ -2019,7 +1812,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 21.54,
         "forward_return": -8.32,
         "start_price": 200.0,
         "start_year": 2019
@@ -2028,7 +1821,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.05,
+        "pe_ratio": 23.79,
         "forward_return": -10.24,
         "start_price": 213.0,
         "start_year": 2019
@@ -2037,7 +1830,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 22.87,
+        "pe_ratio": 27.49,
         "forward_return": -10.43,
         "start_price": 237.0,
         "start_year": 2019
@@ -2046,7 +1839,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.4,
+        "pe_ratio": 31.08,
         "forward_return": -16.49,
         "start_price": 259.0,
         "start_year": 2019
@@ -2055,7 +1848,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.81,
+        "pe_ratio": 28.09,
         "forward_return": -10.11,
         "start_price": 226.0,
         "start_year": 2019
@@ -2064,7 +1857,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 21.83,
+        "pe_ratio": 31.25,
         "forward_return": -13.57,
         "start_price": 242.5,
         "start_year": 2019
@@ -2073,7 +1866,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.63,
+        "pe_ratio": 26.96,
         "forward_return": -11.28,
         "start_price": 223.0,
         "start_year": 2019
@@ -2082,7 +1875,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.96,
+        "pe_ratio": 30.35,
         "forward_return": -26.6,
         "start_price": 266.5,
         "start_year": 2019
@@ -2091,7 +1884,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 22.35,
+        "pe_ratio": 28.53,
         "forward_return": -26.53,
         "start_price": 265.0,
         "start_year": 2019
@@ -2100,7 +1893,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.68,
+        "pe_ratio": 26.41,
         "forward_return": -24.48,
         "start_price": 274.5,
         "start_year": 2019
@@ -2109,7 +1902,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.78,
+        "pe_ratio": 20.18,
         "forward_return": -24.13,
         "start_price": 232.0,
         "start_year": 2019
@@ -2127,7 +1920,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.24,
+        "pe_ratio": 15.33,
         "forward_return": -18.44,
         "start_price": 200.0,
         "start_year": 2020
@@ -2136,7 +1929,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 17.88,
+        "pe_ratio": 15.94,
         "forward_return": -19.76,
         "start_price": 215.0,
         "start_year": 2020
@@ -2145,7 +1938,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 10.62,
         "forward_return": -4.14,
         "start_price": 148.0,
         "start_year": 2020
@@ -2154,7 +1947,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 14.07,
         "forward_return": -16.2,
         "start_price": 191.5,
         "start_year": 2020
@@ -2163,7 +1956,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.58,
+        "pe_ratio": 13.91,
         "forward_return": -16.18,
         "start_price": 185.0,
         "start_year": 2020
@@ -2172,7 +1965,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 14.83,
         "forward_return": -23.06,
         "start_price": 192.5,
         "start_year": 2020
@@ -2181,7 +1974,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 15.4,
         "forward_return": -26.32,
         "start_price": 195.0,
         "start_year": 2020
@@ -2190,7 +1983,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 16.22,
+        "pe_ratio": 13.53,
         "forward_return": -20.49,
         "start_price": 167.0,
         "start_year": 2020
@@ -2199,7 +1992,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 16.79,
+        "pe_ratio": 13.98,
         "forward_return": -26.54,
         "start_price": 168.0,
         "start_year": 2020
@@ -2208,7 +2001,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 14.01,
         "forward_return": -27.68,
         "start_price": 155.0,
         "start_year": 2020
@@ -2217,7 +2010,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 18.83,
+        "pe_ratio": 17.57,
         "forward_return": -28.77,
         "start_price": 177.5,
         "start_year": 2020
@@ -2235,7 +2028,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 18.6,
+        "pe_ratio": 18.14,
         "forward_return": -22.6,
         "start_price": 151.0,
         "start_year": 2021
@@ -2244,7 +2037,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.77,
+        "pe_ratio": 20.58,
         "forward_return": -17.89,
         "start_price": 154.5,
         "start_year": 2021
@@ -2253,7 +2046,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.47,
+        "pe_ratio": 25.86,
         "forward_return": -19.23,
         "start_price": 173.0,
         "start_year": 2021
@@ -2262,7 +2055,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.33,
+        "pe_ratio": 33.03,
         "forward_return": -17.95,
         "start_price": 163.5,
         "start_year": 2021
@@ -2271,7 +2064,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 41.01,
+        "pe_ratio": 51.56,
         "forward_return": -18.26,
         "start_price": 165.5,
         "start_year": 2021
@@ -2280,7 +2073,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 54.39,
+        "pe_ratio": 111.6,
         "forward_return": -10.29,
         "start_price": 164.0,
         "start_year": 2021
@@ -2289,70 +2082,16 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 75.97,
+        "pe_ratio": 1010.0,
         "forward_return": -12.58,
         "start_price": 151.5,
         "start_year": 2021
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-08-16",
-        "pe_ratio": 122.8,
-        "forward_return": -10.94,
-        "start_price": 119.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 1409.0,
-        "forward_return": 16.78,
-        "start_price": 155.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-07-16",
-        "pe_ratio": 517.2,
-        "forward_return": 7.31,
-        "start_price": 190.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-08-16",
-        "pe_ratio": 375.8,
-        "forward_return": 5.8,
-        "start_price": 235.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-09-15",
-        "pe_ratio": 259.3,
-        "forward_return": 6.52,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-10-16",
-        "pe_ratio": 200.7,
-        "forward_return": 7.73,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 200.8,
+        "pe_ratio": 586.5,
         "forward_return": -4.61,
         "start_price": 281.5,
         "start_year": 2016
@@ -2370,7 +2109,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 117.9,
+        "pe_ratio": 93.93,
         "forward_return": -6.88,
         "start_price": 263.0,
         "start_year": 2017
@@ -2379,7 +2118,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 93.57,
+        "pe_ratio": 66.5,
         "forward_return": -4.62,
         "start_price": 262.0,
         "start_year": 2017
@@ -2388,7 +2127,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 73.0,
+        "pe_ratio": 48.43,
         "forward_return": -13.29,
         "start_price": 246.0,
         "start_year": 2017
@@ -2397,7 +2136,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 42.26,
+        "pe_ratio": 29.77,
         "forward_return": 6.98,
         "start_price": 166.5,
         "start_year": 2017
@@ -2406,7 +2145,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 42.13,
+        "pe_ratio": 31.11,
         "forward_return": 1.28,
         "start_price": 190.0,
         "start_year": 2017
@@ -2415,7 +2154,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 40.94,
+        "pe_ratio": 31.42,
         "forward_return": -0.5,
         "start_price": 208.0,
         "start_year": 2017
@@ -2424,7 +2163,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 43.19,
+        "pe_ratio": 33.23,
         "forward_return": -3.92,
         "start_price": 244.0,
         "start_year": 2017
@@ -2433,7 +2172,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 45.02,
+        "pe_ratio": 34.71,
         "forward_return": -12.37,
         "start_price": 280.0,
         "start_year": 2017
@@ -2442,7 +2181,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 40.21,
+        "pe_ratio": 31.06,
         "forward_return": -11.47,
         "start_price": 273.0,
         "start_year": 2017
@@ -2451,7 +2190,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 30.71,
+        "pe_ratio": 26.0,
         "forward_return": -7.93,
         "start_price": 226.0,
         "start_year": 2017
@@ -2460,7 +2199,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 32.16,
+        "pe_ratio": 29.66,
         "forward_return": -7.95,
         "start_price": 255.0,
         "start_year": 2017
@@ -2478,7 +2217,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.64,
         "forward_return": -7.95,
         "start_price": 221.0,
         "start_year": 2018
@@ -2487,7 +2226,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.65,
         "forward_return": 2.57,
         "start_price": 163.0,
         "start_year": 2018
@@ -2496,7 +2235,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 16.08,
         "forward_return": 10.9,
         "start_price": 142.5,
         "start_year": 2018
@@ -2505,7 +2244,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 14.43,
         "forward_return": 8.94,
         "start_price": 143.0,
         "start_year": 2018
@@ -2514,7 +2253,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 14.55,
         "forward_return": 5.42,
         "start_price": 159.5,
         "start_year": 2018
@@ -2523,7 +2262,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 11.82,
         "forward_return": 9.29,
         "start_price": 142.0,
         "start_year": 2018
@@ -2532,7 +2271,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 11.19,
         "forward_return": 10.79,
         "start_price": 135.0,
         "start_year": 2018
@@ -2541,7 +2280,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 17.09,
+        "pe_ratio": 13.03,
         "forward_return": -1.37,
         "start_price": 158.0,
         "start_year": 2018
@@ -2550,7 +2289,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.83,
+        "pe_ratio": 9.07,
         "forward_return": 10.99,
         "start_price": 110.5,
         "start_year": 2018
@@ -2559,7 +2298,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.3,
+        "pe_ratio": 8.58,
         "forward_return": 19.19,
         "start_price": 97.2,
         "start_year": 2018
@@ -2568,7 +2307,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.42,
+        "pe_ratio": 15.85,
         "forward_return": -5.16,
         "start_price": 166.0,
         "start_year": 2018
@@ -2586,7 +2325,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 21.54,
         "forward_return": -10.98,
         "start_price": 200.0,
         "start_year": 2019
@@ -2595,7 +2334,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.05,
+        "pe_ratio": 23.79,
         "forward_return": -13.76,
         "start_price": 213.0,
         "start_year": 2019
@@ -2604,7 +2343,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 22.87,
+        "pe_ratio": 27.49,
         "forward_return": -15.28,
         "start_price": 237.0,
         "start_year": 2019
@@ -2613,7 +2352,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.4,
+        "pe_ratio": 31.08,
         "forward_return": -18.04,
         "start_price": 259.0,
         "start_year": 2019
@@ -2622,7 +2361,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.81,
+        "pe_ratio": 28.09,
         "forward_return": -15.14,
         "start_price": 226.0,
         "start_year": 2019
@@ -2631,7 +2370,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 21.83,
+        "pe_ratio": 31.25,
         "forward_return": -20.44,
         "start_price": 242.5,
         "start_year": 2019
@@ -2640,7 +2379,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.63,
+        "pe_ratio": 26.96,
         "forward_return": -19.83,
         "start_price": 223.0,
         "start_year": 2019
@@ -2649,7 +2388,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.96,
+        "pe_ratio": 30.35,
         "forward_return": -24.52,
         "start_price": 266.5,
         "start_year": 2019
@@ -2658,7 +2397,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 22.35,
+        "pe_ratio": 28.53,
         "forward_return": -27.8,
         "start_price": 265.0,
         "start_year": 2019
@@ -2667,7 +2406,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.68,
+        "pe_ratio": 26.41,
         "forward_return": -31.01,
         "start_price": 274.5,
         "start_year": 2019
@@ -2676,7 +2415,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.78,
+        "pe_ratio": 20.18,
         "forward_return": -24.68,
         "start_price": 232.0,
         "start_year": 2019
@@ -2694,7 +2433,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.24,
+        "pe_ratio": 15.33,
         "forward_return": -20.76,
         "start_price": 200.0,
         "start_year": 2020
@@ -2703,7 +2442,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 17.88,
+        "pe_ratio": 15.94,
         "forward_return": -16.83,
         "start_price": 215.0,
         "start_year": 2020
@@ -2712,7 +2451,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 10.62,
         "forward_return": -6.27,
         "start_price": 148.0,
         "start_year": 2020
@@ -2721,7 +2460,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 14.07,
         "forward_return": -14.65,
         "start_price": 191.5,
         "start_year": 2020
@@ -2730,7 +2469,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.58,
+        "pe_ratio": 13.91,
         "forward_return": -13.54,
         "start_price": 185.0,
         "start_year": 2020
@@ -2739,7 +2478,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 14.83,
         "forward_return": -9.86,
         "start_price": 192.5,
         "start_year": 2020
@@ -2748,7 +2487,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 15.4,
         "forward_return": -12.47,
         "start_price": 195.0,
         "start_year": 2020
@@ -2757,7 +2496,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 16.22,
+        "pe_ratio": 13.53,
         "forward_return": -13.05,
         "start_price": 167.0,
         "start_year": 2020
@@ -2766,7 +2505,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 16.79,
+        "pe_ratio": 13.98,
         "forward_return": -12.86,
         "start_price": 168.0,
         "start_year": 2020
@@ -2775,7 +2514,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 14.01,
         "forward_return": -9.71,
         "start_price": 155.0,
         "start_year": 2020
@@ -2784,7 +2523,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 18.83,
+        "pe_ratio": 17.57,
         "forward_return": -8.32,
         "start_price": 177.5,
         "start_year": 2020
@@ -2802,7 +2541,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 18.6,
+        "pe_ratio": 18.14,
         "forward_return": 25.7,
         "start_price": 151.0,
         "start_year": 2021
@@ -2811,7 +2550,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.77,
+        "pe_ratio": 20.58,
         "forward_return": 33.06,
         "start_price": 154.5,
         "start_year": 2021
@@ -2820,7 +2559,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.47,
+        "pe_ratio": 25.86,
         "forward_return": 20.18,
         "start_price": 173.0,
         "start_year": 2021
@@ -2829,7 +2568,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.33,
+        "pe_ratio": 33.03,
         "forward_return": 18.89,
         "start_price": 163.5,
         "start_year": 2021
@@ -2838,7 +2577,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 41.01,
+        "pe_ratio": 51.56,
         "forward_return": 19.97,
         "start_price": 165.5,
         "start_year": 2021
@@ -2847,7 +2586,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 54.39,
+        "pe_ratio": 111.6,
         "forward_return": 19.13,
         "start_price": 164.0,
         "start_year": 2021
@@ -2856,70 +2595,16 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 75.97,
+        "pe_ratio": 1010.0,
         "forward_return": 18.68,
         "start_price": 151.5,
         "start_year": 2021
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-08-16",
-        "pe_ratio": 122.8,
-        "forward_return": 28.87,
-        "start_price": 119.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 1409.0,
-        "forward_return": 7.22,
-        "start_price": 155.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-07-16",
-        "pe_ratio": 517.2,
-        "forward_return": 3.24,
-        "start_price": 190.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-08-16",
-        "pe_ratio": 375.8,
-        "forward_return": -5.43,
-        "start_price": 235.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-09-15",
-        "pe_ratio": 259.3,
-        "forward_return": -4.69,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-10-16",
-        "pe_ratio": 200.7,
-        "forward_return": -6.37,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 200.8,
+        "pe_ratio": 586.5,
         "forward_return": -8.32,
         "start_price": 281.5,
         "start_year": 2016
@@ -2937,7 +2622,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 117.9,
+        "pe_ratio": 93.93,
         "forward_return": -10.02,
         "start_price": 263.0,
         "start_year": 2017
@@ -2946,7 +2631,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 93.57,
+        "pe_ratio": 66.5,
         "forward_return": -9.48,
         "start_price": 262.0,
         "start_year": 2017
@@ -2955,7 +2640,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 73.0,
+        "pe_ratio": 48.43,
         "forward_return": -5.72,
         "start_price": 246.0,
         "start_year": 2017
@@ -2964,7 +2649,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 42.26,
+        "pe_ratio": 29.77,
         "forward_return": 2.65,
         "start_price": 166.5,
         "start_year": 2017
@@ -2973,7 +2658,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 42.13,
+        "pe_ratio": 31.11,
         "forward_return": -0.41,
         "start_price": 190.0,
         "start_year": 2017
@@ -2982,7 +2667,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 40.94,
+        "pe_ratio": 31.42,
         "forward_return": -2.84,
         "start_price": 208.0,
         "start_year": 2017
@@ -2991,7 +2676,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 43.19,
+        "pe_ratio": 33.23,
         "forward_return": -6.33,
         "start_price": 244.0,
         "start_year": 2017
@@ -3000,7 +2685,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 45.02,
+        "pe_ratio": 34.71,
         "forward_return": -13.62,
         "start_price": 280.0,
         "start_year": 2017
@@ -3009,7 +2694,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 40.21,
+        "pe_ratio": 31.06,
         "forward_return": -13.14,
         "start_price": 273.0,
         "start_year": 2017
@@ -3018,7 +2703,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 30.71,
+        "pe_ratio": 26.0,
         "forward_return": -7.03,
         "start_price": 226.0,
         "start_year": 2017
@@ -3027,7 +2712,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 32.16,
+        "pe_ratio": 29.66,
         "forward_return": -13.03,
         "start_price": 255.0,
         "start_year": 2017
@@ -3045,7 +2730,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.64,
         "forward_return": -9.94,
         "start_price": 221.0,
         "start_year": 2018
@@ -3054,7 +2739,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.65,
         "forward_return": -3.58,
         "start_price": 163.0,
         "start_year": 2018
@@ -3063,7 +2748,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 16.08,
         "forward_return": 1.02,
         "start_price": 142.5,
         "start_year": 2018
@@ -3072,7 +2757,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 14.43,
         "forward_return": 0.67,
         "start_price": 143.0,
         "start_year": 2018
@@ -3081,7 +2766,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 14.55,
         "forward_return": -2.8,
         "start_price": 159.5,
         "start_year": 2018
@@ -3090,7 +2775,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 11.82,
         "forward_return": -2.87,
         "start_price": 142.0,
         "start_year": 2018
@@ -3099,7 +2784,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 11.19,
         "forward_return": -2.3,
         "start_price": 135.0,
         "start_year": 2018
@@ -3108,7 +2793,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 17.09,
+        "pe_ratio": 13.03,
         "forward_return": -6.13,
         "start_price": 158.0,
         "start_year": 2018
@@ -3117,7 +2802,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.83,
+        "pe_ratio": 9.07,
         "forward_return": -0.62,
         "start_price": 110.5,
         "start_year": 2018
@@ -3126,7 +2811,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.3,
+        "pe_ratio": 8.58,
         "forward_return": 0.25,
         "start_price": 97.2,
         "start_year": 2018
@@ -3135,7 +2820,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.42,
+        "pe_ratio": 15.85,
         "forward_return": -10.36,
         "start_price": 166.0,
         "start_year": 2018
@@ -3153,7 +2838,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 21.54,
         "forward_return": -14.36,
         "start_price": 200.0,
         "start_year": 2019
@@ -3162,7 +2847,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.05,
+        "pe_ratio": 23.79,
         "forward_return": -13.13,
         "start_price": 213.0,
         "start_year": 2019
@@ -3171,7 +2856,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 22.87,
+        "pe_ratio": 27.49,
         "forward_return": -13.94,
         "start_price": 237.0,
         "start_year": 2019
@@ -3180,7 +2865,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.4,
+        "pe_ratio": 31.08,
         "forward_return": -16.29,
         "start_price": 259.0,
         "start_year": 2019
@@ -3189,7 +2874,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.81,
+        "pe_ratio": 28.09,
         "forward_return": -13.3,
         "start_price": 226.0,
         "start_year": 2019
@@ -3198,7 +2883,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 21.83,
+        "pe_ratio": 31.25,
         "forward_return": -11.45,
         "start_price": 242.5,
         "start_year": 2019
@@ -3207,7 +2892,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.63,
+        "pe_ratio": 26.96,
         "forward_return": -11.02,
         "start_price": 223.0,
         "start_year": 2019
@@ -3216,7 +2901,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.96,
+        "pe_ratio": 30.35,
         "forward_return": -18.29,
         "start_price": 266.5,
         "start_year": 2019
@@ -3225,7 +2910,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 22.35,
+        "pe_ratio": 28.53,
         "forward_return": -17.93,
         "start_price": 265.0,
         "start_year": 2019
@@ -3234,7 +2919,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.68,
+        "pe_ratio": 26.41,
         "forward_return": -18.17,
         "start_price": 274.5,
         "start_year": 2019
@@ -3243,7 +2928,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.78,
+        "pe_ratio": 20.18,
         "forward_return": -10.96,
         "start_price": 232.0,
         "start_year": 2019
@@ -3261,7 +2946,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.24,
+        "pe_ratio": 15.33,
         "forward_return": 11.47,
         "start_price": 200.0,
         "start_year": 2020
@@ -3270,7 +2955,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 17.88,
+        "pe_ratio": 15.94,
         "forward_return": 14.75,
         "start_price": 215.0,
         "start_year": 2020
@@ -3279,7 +2964,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 10.62,
         "forward_return": 20.23,
         "start_price": 148.0,
         "start_year": 2020
@@ -3288,7 +2973,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 14.07,
         "forward_return": 10.33,
         "start_price": 191.5,
         "start_year": 2020
@@ -3297,7 +2982,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.58,
+        "pe_ratio": 13.91,
         "forward_return": 12.35,
         "start_price": 185.0,
         "start_year": 2020
@@ -3306,7 +2991,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 14.83,
         "forward_return": 10.43,
         "start_price": 192.5,
         "start_year": 2020
@@ -3315,7 +3000,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 15.4,
         "forward_return": 8.3,
         "start_price": 195.0,
         "start_year": 2020
@@ -3324,7 +3009,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 16.22,
+        "pe_ratio": 13.53,
         "forward_return": 12.84,
         "start_price": 167.0,
         "start_year": 2020
@@ -3333,7 +3018,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 16.79,
+        "pe_ratio": 13.98,
         "forward_return": 9.07,
         "start_price": 168.0,
         "start_year": 2020
@@ -3342,7 +3027,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 14.01,
         "forward_return": 9.06,
         "start_price": 155.0,
         "start_year": 2020
@@ -3351,7 +3036,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 18.83,
+        "pe_ratio": 17.57,
         "forward_return": 3.89,
         "start_price": 177.5,
         "start_year": 2020
@@ -3369,7 +3054,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 18.6,
+        "pe_ratio": 18.14,
         "forward_return": 4.82,
         "start_price": 151.0,
         "start_year": 2021
@@ -3378,7 +3063,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.77,
+        "pe_ratio": 20.58,
         "forward_return": 2.24,
         "start_price": 154.5,
         "start_year": 2021
@@ -3387,7 +3072,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.47,
+        "pe_ratio": 25.86,
         "forward_return": -6.22,
         "start_price": 173.0,
         "start_year": 2021
@@ -3396,7 +3081,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 32.33,
+        "pe_ratio": 33.03,
         "forward_return": -6.47,
         "start_price": 163.5,
         "start_year": 2021
@@ -3405,7 +3090,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 41.01,
+        "pe_ratio": 51.56,
         "forward_return": -7.26,
         "start_price": 165.5,
         "start_year": 2021
@@ -3414,7 +3099,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 54.39,
+        "pe_ratio": 111.6,
         "forward_return": -2.82,
         "start_price": 164.0,
         "start_year": 2021
@@ -3423,70 +3108,16 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 75.97,
+        "pe_ratio": 1010.0,
         "forward_return": -0.79,
         "start_price": 151.5,
         "start_year": 2021
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-08-16",
-        "pe_ratio": 122.8,
-        "forward_return": 4.19,
-        "start_price": 119.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 1409.0,
-        "forward_return": 3.64,
-        "start_price": 155.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-07-16",
-        "pe_ratio": 517.2,
-        "forward_return": -0.28,
-        "start_price": 190.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-08-16",
-        "pe_ratio": 375.8,
-        "forward_return": -7.92,
-        "start_price": 235.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-09-15",
-        "pe_ratio": 259.3,
-        "forward_return": -7.51,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-10-16",
-        "pe_ratio": 200.7,
-        "forward_return": -5.95,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 200.8,
+        "pe_ratio": 586.5,
         "forward_return": -12.32,
         "start_price": 281.5,
         "start_year": 2016
@@ -3504,7 +3135,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 117.9,
+        "pe_ratio": 93.93,
         "forward_return": -11.18,
         "start_price": 263.0,
         "start_year": 2017
@@ -3513,7 +3144,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 93.57,
+        "pe_ratio": 66.5,
         "forward_return": -11.67,
         "start_price": 262.0,
         "start_year": 2017
@@ -3522,7 +3153,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 73.0,
+        "pe_ratio": 48.43,
         "forward_return": -9.62,
         "start_price": 246.0,
         "start_year": 2017
@@ -3531,7 +3162,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 42.26,
+        "pe_ratio": 29.77,
         "forward_return": -2.48,
         "start_price": 166.5,
         "start_year": 2017
@@ -3540,7 +3171,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 42.13,
+        "pe_ratio": 31.11,
         "forward_return": -5.61,
         "start_price": 190.0,
         "start_year": 2017
@@ -3549,7 +3180,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 40.94,
+        "pe_ratio": 31.42,
         "forward_return": -9.49,
         "start_price": 208.0,
         "start_year": 2017
@@ -3558,7 +3189,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 43.19,
+        "pe_ratio": 33.23,
         "forward_return": -12.21,
         "start_price": 244.0,
         "start_year": 2017
@@ -3567,7 +3198,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 45.02,
+        "pe_ratio": 34.71,
         "forward_return": -14.63,
         "start_price": 280.0,
         "start_year": 2017
@@ -3576,7 +3207,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 40.21,
+        "pe_ratio": 31.06,
         "forward_return": -16.31,
         "start_price": 273.0,
         "start_year": 2017
@@ -3585,7 +3216,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 30.71,
+        "pe_ratio": 26.0,
         "forward_return": -14.63,
         "start_price": 226.0,
         "start_year": 2017
@@ -3594,7 +3225,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 32.16,
+        "pe_ratio": 29.66,
         "forward_return": -15.25,
         "start_price": 255.0,
         "start_year": 2017
@@ -3612,7 +3243,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.64,
         "forward_return": -12.73,
         "start_price": 221.0,
         "start_year": 2018
@@ -3621,7 +3252,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.65,
         "forward_return": -5.08,
         "start_price": 163.0,
         "start_year": 2018
@@ -3630,7 +3261,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 16.08,
         "forward_return": -1.18,
         "start_price": 142.5,
         "start_year": 2018
@@ -3639,7 +3270,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 14.43,
         "forward_return": -1.67,
         "start_price": 143.0,
         "start_year": 2018
@@ -3648,7 +3279,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 14.55,
         "forward_return": -3.72,
         "start_price": 159.5,
         "start_year": 2018
@@ -3657,7 +3288,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 11.82,
         "forward_return": 1.55,
         "start_price": 142.0,
         "start_year": 2018
@@ -3666,7 +3297,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 11.19,
         "forward_return": 1.84,
         "start_price": 135.0,
         "start_year": 2018
@@ -3675,7 +3306,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 17.09,
+        "pe_ratio": 13.03,
         "forward_return": -4.29,
         "start_price": 158.0,
         "start_year": 2018
@@ -3684,7 +3315,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.83,
+        "pe_ratio": 9.07,
         "forward_return": 3.03,
         "start_price": 110.5,
         "start_year": 2018
@@ -3693,7 +3324,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.3,
+        "pe_ratio": 8.58,
         "forward_return": 6.18,
         "start_price": 97.2,
         "start_year": 2018
@@ -3702,7 +3333,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.42,
+        "pe_ratio": 15.85,
         "forward_return": -1.5,
         "start_price": 166.0,
         "start_year": 2018
@@ -3720,7 +3351,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 21.54,
         "forward_return": 9.64,
         "start_price": 200.0,
         "start_year": 2019
@@ -3729,7 +3360,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.05,
+        "pe_ratio": 23.79,
         "forward_return": 12.33,
         "start_price": 213.0,
         "start_year": 2019
@@ -3738,7 +3369,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 22.87,
+        "pe_ratio": 27.49,
         "forward_return": 6.01,
         "start_price": 237.0,
         "start_year": 2019
@@ -3747,7 +3378,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.4,
+        "pe_ratio": 31.08,
         "forward_return": 2.42,
         "start_price": 259.0,
         "start_year": 2019
@@ -3756,7 +3387,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.81,
+        "pe_ratio": 28.09,
         "forward_return": 6.03,
         "start_price": 226.0,
         "start_year": 2019
@@ -3765,7 +3396,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 21.83,
+        "pe_ratio": 31.25,
         "forward_return": 3.95,
         "start_price": 242.5,
         "start_year": 2019
@@ -3774,7 +3405,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.63,
+        "pe_ratio": 26.96,
         "forward_return": 4.45,
         "start_price": 223.0,
         "start_year": 2019
@@ -3783,7 +3414,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.96,
+        "pe_ratio": 30.35,
         "forward_return": 0.98,
         "start_price": 266.5,
         "start_year": 2019
@@ -3792,7 +3423,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 22.35,
+        "pe_ratio": 28.53,
         "forward_return": -1.41,
         "start_price": 265.0,
         "start_year": 2019
@@ -3801,7 +3432,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.68,
+        "pe_ratio": 26.41,
         "forward_return": -3.62,
         "start_price": 274.5,
         "start_year": 2019
@@ -3810,7 +3441,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.78,
+        "pe_ratio": 20.18,
         "forward_return": -1.44,
         "start_price": 232.0,
         "start_year": 2019
@@ -3828,7 +3459,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.24,
+        "pe_ratio": 15.33,
         "forward_return": -0.89,
         "start_price": 200.0,
         "start_year": 2020
@@ -3837,7 +3468,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 17.88,
+        "pe_ratio": 15.94,
         "forward_return": -7.74,
         "start_price": 215.0,
         "start_year": 2020
@@ -3846,7 +3477,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.61,
+        "pe_ratio": 10.62,
         "forward_return": -0.71,
         "start_price": 148.0,
         "start_year": 2020
@@ -3855,7 +3486,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 16.73,
+        "pe_ratio": 14.07,
         "forward_return": -6.88,
         "start_price": 191.5,
         "start_year": 2020
@@ -3864,7 +3495,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 16.58,
+        "pe_ratio": 13.91,
         "forward_return": -6.61,
         "start_price": 185.0,
         "start_year": 2020
@@ -3873,7 +3504,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 14.83,
         "forward_return": -4.2,
         "start_price": 192.5,
         "start_year": 2020
@@ -3882,7 +3513,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 18.43,
+        "pe_ratio": 15.4,
         "forward_return": -3.66,
         "start_price": 195.0,
         "start_year": 2020
@@ -3891,7 +3522,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 16.22,
+        "pe_ratio": 13.53,
         "forward_return": -1.38,
         "start_price": 167.0,
         "start_year": 2020
@@ -3900,7 +3531,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 16.79,
+        "pe_ratio": 13.98,
         "forward_return": -1.56,
         "start_price": 168.0,
         "start_year": 2020
@@ -3909,7 +3540,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 15.95,
+        "pe_ratio": 14.01,
         "forward_return": 1.29,
         "start_price": 155.0,
         "start_year": 2020
@@ -3918,7 +3549,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 18.83,
+        "pe_ratio": 17.57,
         "forward_return": -2.26,
         "start_price": 177.5,
         "start_year": 2020
@@ -3936,7 +3567,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 18.6,
+        "pe_ratio": 18.14,
         "forward_return": -1.32,
         "start_price": 151.0,
         "start_year": 2021
@@ -3945,7 +3576,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.77,
+        "pe_ratio": 20.58,
         "forward_return": -0.88,
         "start_price": 154.5,
         "start_year": 2021
@@ -3953,53 +3584,8 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 1409.0,
-        "forward_return": -3.35,
-        "start_price": 155.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-07-16",
-        "pe_ratio": 517.2,
-        "forward_return": -6.5,
-        "start_price": 190.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-08-16",
-        "pe_ratio": 375.8,
-        "forward_return": -9.78,
-        "start_price": 235.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-09-15",
-        "pe_ratio": 259.3,
-        "forward_return": -11.26,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-10-16",
-        "pe_ratio": 200.7,
-        "forward_return": -12.58,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 200.8,
+        "pe_ratio": 586.5,
         "forward_return": -14.31,
         "start_price": 281.5,
         "start_year": 2016
@@ -4017,7 +3603,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 117.9,
+        "pe_ratio": 93.93,
         "forward_return": -13.28,
         "start_price": 263.0,
         "start_year": 2017
@@ -4026,7 +3612,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 93.57,
+        "pe_ratio": 66.5,
         "forward_return": -11.54,
         "start_price": 262.0,
         "start_year": 2017
@@ -4035,7 +3621,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 73.0,
+        "pe_ratio": 48.43,
         "forward_return": -9.6,
         "start_price": 246.0,
         "start_year": 2017
@@ -4044,7 +3630,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 42.26,
+        "pe_ratio": 29.77,
         "forward_return": -3.86,
         "start_price": 166.5,
         "start_year": 2017
@@ -4053,7 +3639,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 42.13,
+        "pe_ratio": 31.11,
         "forward_return": -5.89,
         "start_price": 190.0,
         "start_year": 2017
@@ -4062,7 +3648,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 40.94,
+        "pe_ratio": 31.42,
         "forward_return": -4.95,
         "start_price": 208.0,
         "start_year": 2017
@@ -4071,7 +3657,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 43.19,
+        "pe_ratio": 33.23,
         "forward_return": -7.57,
         "start_price": 244.0,
         "start_year": 2017
@@ -4080,7 +3666,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 45.02,
+        "pe_ratio": 34.71,
         "forward_return": -11.87,
         "start_price": 280.0,
         "start_year": 2017
@@ -4089,7 +3675,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 40.21,
+        "pe_ratio": 31.06,
         "forward_return": -11.34,
         "start_price": 273.0,
         "start_year": 2017
@@ -4098,7 +3684,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 30.71,
+        "pe_ratio": 26.0,
         "forward_return": -8.18,
         "start_price": 226.0,
         "start_year": 2017
@@ -4107,7 +3693,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 32.16,
+        "pe_ratio": 29.66,
         "forward_return": -7.65,
         "start_price": 255.0,
         "start_year": 2017
@@ -4125,7 +3711,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.64,
         "forward_return": 6.43,
         "start_price": 221.0,
         "start_year": 2018
@@ -4134,7 +3720,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.65,
         "forward_return": 15.41,
         "start_price": 163.0,
         "start_year": 2018
@@ -4143,7 +3729,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 16.08,
         "forward_return": 14.53,
         "start_price": 142.5,
         "start_year": 2018
@@ -4152,7 +3738,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 16.12,
+        "pe_ratio": 14.43,
         "forward_return": 12.9,
         "start_price": 143.0,
         "start_year": 2018
@@ -4161,7 +3747,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 17.79,
+        "pe_ratio": 14.55,
         "forward_return": 11.54,
         "start_price": 159.5,
         "start_year": 2018
@@ -4170,7 +3756,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 15.67,
+        "pe_ratio": 11.82,
         "forward_return": 13.19,
         "start_price": 142.0,
         "start_year": 2018
@@ -4179,7 +3765,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 14.75,
+        "pe_ratio": 11.19,
         "forward_return": 13.28,
         "start_price": 135.0,
         "start_year": 2018
@@ -4188,7 +3774,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 17.09,
+        "pe_ratio": 13.03,
         "forward_return": 10.51,
         "start_price": 158.0,
         "start_year": 2018
@@ -4197,7 +3783,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 11.83,
+        "pe_ratio": 9.07,
         "forward_return": 14.94,
         "start_price": 110.5,
         "start_year": 2018
@@ -4206,7 +3792,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.3,
+        "pe_ratio": 8.58,
         "forward_return": 15.96,
         "start_price": 97.2,
         "start_year": 2018
@@ -4215,7 +3801,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.42,
+        "pe_ratio": 15.85,
         "forward_return": 5.11,
         "start_price": 166.0,
         "start_year": 2018
@@ -4233,7 +3819,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 20.27,
+        "pe_ratio": 21.54,
         "forward_return": -0.05,
         "start_price": 200.0,
         "start_year": 2019
@@ -4242,7 +3828,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 21.05,
+        "pe_ratio": 23.79,
         "forward_return": -2.24,
         "start_price": 213.0,
         "start_year": 2019
@@ -4251,7 +3837,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 22.87,
+        "pe_ratio": 27.49,
         "forward_return": -7.25,
         "start_price": 237.0,
         "start_year": 2019
@@ -4260,7 +3846,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 24.4,
+        "pe_ratio": 31.08,
         "forward_return": -9.51,
         "start_price": 259.0,
         "start_year": 2019
@@ -4269,7 +3855,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.81,
+        "pe_ratio": 28.09,
         "forward_return": -7.73,
         "start_price": 226.0,
         "start_year": 2019
@@ -4278,7 +3864,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 21.83,
+        "pe_ratio": 31.25,
         "forward_return": -6.37,
         "start_price": 242.5,
         "start_year": 2019
@@ -4287,7 +3873,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.63,
+        "pe_ratio": 26.96,
         "forward_return": -4.35,
         "start_price": 223.0,
         "start_year": 2019
@@ -4296,7 +3882,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.96,
+        "pe_ratio": 30.35,
         "forward_return": -7.7,
         "start_price": 266.5,
         "start_year": 2019
@@ -4305,7 +3891,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 22.35,
+        "pe_ratio": 28.53,
         "forward_return": -7.66,
         "start_price": 265.0,
         "start_year": 2019
@@ -4314,7 +3900,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.68,
+        "pe_ratio": 26.41,
         "forward_return": -7.29,
         "start_price": 274.5,
         "start_year": 2019
@@ -4323,7 +3909,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.78,
+        "pe_ratio": 20.18,
         "forward_return": -5.3,
         "start_price": 232.0,
         "start_year": 2019
@@ -4341,7 +3927,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 16.24,
+        "pe_ratio": 15.33,
         "forward_return": -4.65,
         "start_price": 200.0,
         "start_year": 2020
@@ -4349,53 +3935,8 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 1409.0,
-        "forward_return": 8.54,
-        "start_price": 155.0,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-07-16",
-        "pe_ratio": 517.2,
-        "forward_return": 5.38,
-        "start_price": 190.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-08-16",
-        "pe_ratio": 375.8,
-        "forward_return": 2.73,
-        "start_price": 235.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-09-15",
-        "pe_ratio": 259.3,
-        "forward_return": 1.53,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-10-16",
-        "pe_ratio": 200.7,
-        "forward_return": 0.6,
-        "start_price": 229.5,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 200.8,
+        "pe_ratio": 586.5,
         "forward_return": -2.59,
         "start_price": 281.5,
         "start_year": 2016
@@ -4413,7 +3954,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 117.9,
+        "pe_ratio": 93.93,
         "forward_return": -3.14,
         "start_price": 263.0,
         "start_year": 2017
@@ -4422,7 +3963,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 93.57,
+        "pe_ratio": 66.5,
         "forward_return": -3.93,
         "start_price": 262.0,
         "start_year": 2017
@@ -4431,7 +3972,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 73.0,
+        "pe_ratio": 48.43,
         "forward_return": -5.6,
         "start_price": 246.0,
         "start_year": 2017
@@ -4440,7 +3981,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 42.26,
+        "pe_ratio": 29.77,
         "forward_return": -1.59,
         "start_price": 166.5,
         "start_year": 2017
@@ -4449,7 +3990,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 42.13,
+        "pe_ratio": 31.11,
         "forward_return": -3.42,
         "start_price": 190.0,
         "start_year": 2017
@@ -4458,7 +3999,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 40.94,
+        "pe_ratio": 31.42,
         "forward_return": -2.66,
         "start_price": 208.0,
         "start_year": 2017
@@ -4467,7 +4008,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 43.19,
+        "pe_ratio": 33.23,
         "forward_return": -3.52,
         "start_price": 244.0,
         "start_year": 2017
@@ -4476,7 +4017,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 45.02,
+        "pe_ratio": 34.71,
         "forward_return": -5.56,
         "start_price": 280.0,
         "start_year": 2017
@@ -4485,7 +4026,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 40.21,
+        "pe_ratio": 31.06,
         "forward_return": -5.29,
         "start_price": 273.0,
         "start_year": 2017
@@ -4494,7 +4035,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 30.71,
+        "pe_ratio": 26.0,
         "forward_return": -2.36,
         "start_price": 226.0,
         "start_year": 2017
@@ -4503,7 +4044,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 32.16,
+        "pe_ratio": 29.66,
         "forward_return": -4.28,
         "start_price": 255.0,
         "start_year": 2017
@@ -4521,7 +4062,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.72,
+        "pe_ratio": 25.64,
         "forward_return": -3.76,
         "start_price": 221.0,
         "start_year": 2018
@@ -4530,7 +4071,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.65,
         "forward_return": 0.47,
         "start_price": 163.0,
         "start_year": 2018
@@ -4737,7 +4278,7 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 16.1倍、17.8倍、21.8倍、42.2倍、152.2倍"
+!!! note "本益比河流帶水位: 13.3倍、15.3倍、23.8倍、31.1倍、57.5倍"
 
 ```vegalite
 {
@@ -4746,634 +4287,574 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
   "data": {
     "values": [
       {
-        "date": "2016-06-15",
-        "price": 155.0,
-        "pe": 1409.0,
-        "pe_10": 1.78,
-        "pe_25": 1.95,
-        "pe_50": 2.4,
-        "pe_75": 4.64,
-        "pe_90": 16.75
-      },
-      {
-        "date": "2016-07-16",
-        "price": 190.5,
-        "pe": 517.2,
-        "pe_10": 5.94,
-        "pe_25": 6.54,
-        "pe_50": 8.04,
-        "pe_75": 15.54,
-        "pe_90": 56.07
-      },
-      {
-        "date": "2016-08-16",
-        "price": 235.5,
-        "pe": 375.8,
-        "pe_10": 10.11,
-        "pe_25": 11.12,
-        "pe_50": 13.68,
-        "pe_75": 26.44,
-        "pe_90": 95.4
-      },
-      {
-        "date": "2016-09-15",
-        "price": 229.5,
-        "pe": 259.3,
-        "pe_10": 14.29,
-        "pe_25": 15.71,
-        "pe_50": 19.32,
-        "pe_75": 37.35,
-        "pe_90": 134.74
-      },
-      {
-        "date": "2016-10-16",
-        "price": 229.5,
-        "pe": 200.7,
-        "pe_10": 18.46,
-        "pe_25": 20.3,
-        "pe_50": 24.96,
-        "pe_75": 48.25,
-        "pe_90": 174.09
-      },
-      {
         "date": "2016-11-15",
         "price": 281.5,
-        "pe": 200.8,
-        "pe_10": 22.63,
-        "pe_25": 24.88,
-        "pe_50": 30.6,
-        "pe_75": 59.15,
-        "pe_90": 213.42
+        "pe": 586.5,
+        "pe_10": 6.4,
+        "pe_25": 7.36,
+        "pe_50": 11.42,
+        "pe_75": 14.92,
+        "pe_90": 27.62
       },
       {
         "date": "2016-12-16",
         "price": 265.0,
         "pe": 159.6,
-        "pe_10": 26.8,
-        "pe_25": 29.47,
-        "pe_50": 36.25,
-        "pe_75": 70.06,
-        "pe_90": 252.78
+        "pe_10": 22.13,
+        "pe_25": 25.45,
+        "pe_50": 39.5,
+        "pe_75": 51.61,
+        "pe_90": 95.53
       },
       {
         "date": "2017-01-16",
         "price": 263.0,
-        "pe": 117.9,
-        "pe_10": 36.0,
-        "pe_25": 39.59,
-        "pe_50": 48.7,
-        "pe_75": 94.12,
-        "pe_90": 339.6
+        "pe": 93.93,
+        "pe_10": 37.32,
+        "pe_25": 42.92,
+        "pe_50": 66.61,
+        "pe_75": 87.02,
+        "pe_90": 161.1
       },
       {
         "date": "2017-02-14",
         "price": 262.0,
-        "pe": 93.57,
-        "pe_10": 45.19,
-        "pe_25": 49.7,
-        "pe_50": 61.12,
-        "pe_75": 118.15,
-        "pe_90": 426.28
+        "pe": 66.5,
+        "pe_10": 52.52,
+        "pe_25": 60.4,
+        "pe_50": 93.73,
+        "pe_75": 122.45,
+        "pe_90": 226.68
       },
       {
         "date": "2017-03-16",
         "price": 246.0,
-        "pe": 73.0,
-        "pe_10": 54.39,
-        "pe_25": 59.82,
-        "pe_50": 73.56,
-        "pe_75": 142.19,
-        "pe_90": 513.03
+        "pe": 48.43,
+        "pe_10": 67.71,
+        "pe_25": 77.87,
+        "pe_50": 120.84,
+        "pe_75": 157.87,
+        "pe_90": 292.25
       },
       {
         "date": "2017-04-15",
         "price": 166.5,
-        "pe": 42.26,
-        "pe_10": 63.59,
-        "pe_25": 69.93,
-        "pe_50": 86.01,
-        "pe_75": 166.24,
-        "pe_90": 599.81
+        "pe": 29.77,
+        "pe_10": 74.55,
+        "pe_25": 85.74,
+        "pe_50": 133.05,
+        "pe_75": 173.83,
+        "pe_90": 321.79
       },
       {
         "date": "2017-05-16",
         "price": 190.0,
-        "pe": 42.13,
-        "pe_10": 72.79,
-        "pe_25": 80.05,
-        "pe_50": 98.45,
-        "pe_75": 190.29,
-        "pe_90": 686.58
+        "pe": 31.11,
+        "pe_10": 81.41,
+        "pe_25": 93.63,
+        "pe_50": 145.29,
+        "pe_75": 189.82,
+        "pe_90": 351.39
       },
       {
         "date": "2017-06-15",
         "price": 208.0,
-        "pe": 40.94,
-        "pe_10": 82.0,
-        "pe_25": 90.18,
-        "pe_50": 110.91,
-        "pe_75": 214.38,
-        "pe_90": 773.47
+        "pe": 31.42,
+        "pe_10": 88.24,
+        "pe_25": 101.48,
+        "pe_50": 157.49,
+        "pe_75": 205.75,
+        "pe_90": 380.89
       },
       {
         "date": "2017-07-16",
         "price": 244.0,
-        "pe": 43.19,
-        "pe_10": 91.18,
-        "pe_25": 100.28,
-        "pe_50": 123.33,
-        "pe_75": 238.38,
-        "pe_90": 860.07
+        "pe": 33.23,
+        "pe_10": 97.88,
+        "pe_25": 112.56,
+        "pe_50": 174.68,
+        "pe_75": 228.21,
+        "pe_90": 422.47
       },
       {
         "date": "2017-08-16",
         "price": 280.0,
-        "pe": 45.02,
-        "pe_10": 100.38,
-        "pe_25": 110.4,
-        "pe_50": 135.77,
-        "pe_75": 262.43,
-        "pe_90": 946.85
+        "pe": 34.71,
+        "pe_10": 107.53,
+        "pe_25": 123.66,
+        "pe_50": 191.91,
+        "pe_75": 250.72,
+        "pe_90": 464.13
       },
       {
         "date": "2017-09-15",
         "price": 273.0,
-        "pe": 40.21,
-        "pe_10": 109.58,
-        "pe_25": 120.51,
-        "pe_50": 148.21,
-        "pe_75": 286.48,
-        "pe_90": 1033.61
+        "pe": 31.06,
+        "pe_10": 117.16,
+        "pe_25": 134.74,
+        "pe_50": 209.1,
+        "pe_75": 273.18,
+        "pe_90": 505.71
       },
       {
         "date": "2017-10-16",
         "price": 226.0,
-        "pe": 30.71,
-        "pe_10": 118.78,
-        "pe_25": 130.63,
-        "pe_50": 160.65,
-        "pe_75": 310.52,
-        "pe_90": 1120.36
+        "pe": 26.0,
+        "pe_10": 115.87,
+        "pe_25": 133.25,
+        "pe_50": 206.79,
+        "pe_75": 270.16,
+        "pe_90": 500.12
       },
       {
         "date": "2017-11-15",
         "price": 255.0,
-        "pe": 32.16,
-        "pe_10": 127.98,
-        "pe_25": 140.74,
-        "pe_50": 173.09,
-        "pe_75": 334.57,
-        "pe_90": 1207.13
+        "pe": 29.66,
+        "pe_10": 114.6,
+        "pe_25": 131.8,
+        "pe_50": 204.53,
+        "pe_75": 267.21,
+        "pe_90": 494.66
       },
       {
         "date": "2017-12-16",
         "price": 226.5,
         "pe": 26.65,
-        "pe_10": 137.17,
-        "pe_25": 150.86,
-        "pe_50": 185.53,
-        "pe_75": 358.62,
-        "pe_90": 1293.9
+        "pe_10": 113.29,
+        "pe_25": 130.29,
+        "pe_50": 202.19,
+        "pe_75": 264.15,
+        "pe_90": 489.0
       },
       {
         "date": "2018-01-16",
         "price": 221.0,
-        "pe": 25.72,
-        "pe_10": 138.68,
-        "pe_25": 152.52,
-        "pe_50": 187.58,
-        "pe_75": 362.56,
-        "pe_90": 1308.13
+        "pe": 25.64,
+        "pe_10": 114.9,
+        "pe_25": 132.13,
+        "pe_50": 205.05,
+        "pe_75": 267.89,
+        "pe_90": 495.92
       },
       {
         "date": "2018-02-14",
         "price": 163.0,
-        "pe": 18.76,
-        "pe_10": 140.24,
-        "pe_25": 154.22,
-        "pe_50": 189.67,
-        "pe_75": 366.62,
-        "pe_90": 1322.77
+        "pe": 18.65,
+        "pe_10": 116.5,
+        "pe_25": 133.98,
+        "pe_50": 207.92,
+        "pe_75": 271.64,
+        "pe_90": 502.86
       },
       {
         "date": "2018-03-16",
         "price": 142.5,
-        "pe": 16.23,
-        "pe_10": 141.71,
-        "pe_25": 155.85,
-        "pe_50": 191.67,
-        "pe_75": 370.47,
-        "pe_90": 1336.67
+        "pe": 16.08,
+        "pe_10": 118.13,
+        "pe_25": 135.85,
+        "pe_50": 210.83,
+        "pe_75": 275.43,
+        "pe_90": 509.88
       },
       {
         "date": "2018-04-15",
         "price": 143.0,
-        "pe": 16.12,
-        "pe_10": 143.18,
-        "pe_25": 157.46,
-        "pe_50": 193.65,
-        "pe_75": 374.31,
-        "pe_90": 1350.52
+        "pe": 14.43,
+        "pe_10": 132.1,
+        "pe_25": 151.92,
+        "pe_50": 235.76,
+        "pe_75": 308.0,
+        "pe_90": 570.18
       },
       {
         "date": "2018-05-16",
         "price": 159.5,
-        "pe": 17.79,
-        "pe_10": 144.71,
-        "pe_25": 159.14,
-        "pe_50": 195.72,
-        "pe_75": 378.31,
-        "pe_90": 1364.94
+        "pe": 14.55,
+        "pe_10": 146.13,
+        "pe_25": 168.05,
+        "pe_50": 260.79,
+        "pe_75": 340.71,
+        "pe_90": 630.72
       },
       {
         "date": "2018-06-15",
         "price": 142.0,
-        "pe": 15.67,
-        "pe_10": 146.26,
-        "pe_25": 160.85,
-        "pe_50": 197.82,
-        "pe_75": 382.37,
-        "pe_90": 1379.58
+        "pe": 11.82,
+        "pe_10": 160.14,
+        "pe_25": 184.17,
+        "pe_50": 285.8,
+        "pe_75": 373.38,
+        "pe_90": 691.21
       },
       {
         "date": "2018-07-16",
         "price": 135.0,
-        "pe": 14.75,
-        "pe_10": 147.72,
-        "pe_25": 162.46,
-        "pe_50": 199.8,
-        "pe_75": 386.19,
-        "pe_90": 1393.38
+        "pe": 11.19,
+        "pe_10": 160.82,
+        "pe_25": 184.95,
+        "pe_50": 287.01,
+        "pe_75": 374.96,
+        "pe_90": 694.13
       },
       {
         "date": "2018-08-16",
         "price": 158.0,
-        "pe": 17.09,
-        "pe_10": 149.22,
-        "pe_25": 164.1,
-        "pe_50": 201.82,
-        "pe_75": 390.1,
-        "pe_90": 1407.49
+        "pe": 13.03,
+        "pe_10": 161.64,
+        "pe_25": 185.89,
+        "pe_50": 288.47,
+        "pe_75": 376.87,
+        "pe_90": 697.67
       },
       {
         "date": "2018-09-15",
         "price": 110.5,
-        "pe": 11.83,
-        "pe_10": 150.76,
-        "pe_25": 165.8,
-        "pe_50": 203.91,
-        "pe_75": 394.13,
-        "pe_90": 1422.02
+        "pe": 9.07,
+        "pe_10": 162.4,
+        "pe_25": 186.77,
+        "pe_50": 289.83,
+        "pe_75": 378.65,
+        "pe_90": 700.96
       },
       {
         "date": "2018-10-16",
         "price": 97.2,
-        "pe": 10.3,
-        "pe_10": 152.31,
-        "pe_25": 167.5,
-        "pe_50": 206.01,
-        "pe_75": 398.19,
-        "pe_90": 1436.67
+        "pe": 8.58,
+        "pe_10": 151.01,
+        "pe_25": 173.67,
+        "pe_50": 269.51,
+        "pe_75": 352.1,
+        "pe_90": 651.81
       },
       {
         "date": "2018-11-15",
         "price": 166.0,
-        "pe": 17.42,
-        "pe_10": 153.8,
-        "pe_25": 169.14,
-        "pe_50": 208.02,
-        "pe_75": 402.09,
-        "pe_90": 1450.74
+        "pe": 15.85,
+        "pe_10": 139.61,
+        "pe_25": 160.55,
+        "pe_50": 249.16,
+        "pe_75": 325.51,
+        "pe_90": 602.59
       },
       {
         "date": "2018-12-16",
         "price": 201.0,
         "pe": 20.89,
-        "pe_10": 155.3,
-        "pe_25": 170.79,
-        "pe_50": 210.04,
-        "pe_75": 405.99,
-        "pe_90": 1464.83
+        "pe_10": 128.26,
+        "pe_25": 147.5,
+        "pe_50": 228.9,
+        "pe_75": 299.05,
+        "pe_90": 553.6
       },
       {
         "date": "2019-01-16",
         "price": 200.0,
-        "pe": 20.27,
-        "pe_10": 159.25,
-        "pe_25": 175.14,
-        "pe_50": 215.39,
-        "pe_75": 416.33,
-        "pe_90": 1502.12
+        "pe": 21.54,
+        "pe_10": 123.77,
+        "pe_25": 142.34,
+        "pe_50": 220.89,
+        "pe_75": 288.58,
+        "pe_90": 534.22
       },
       {
         "date": "2019-02-14",
         "price": 213.0,
-        "pe": 21.05,
-        "pe_10": 163.32,
-        "pe_25": 179.61,
-        "pe_50": 220.89,
-        "pe_75": 426.96,
-        "pe_90": 1540.48
+        "pe": 23.79,
+        "pe_10": 119.35,
+        "pe_25": 137.25,
+        "pe_50": 213.0,
+        "pe_75": 278.27,
+        "pe_90": 515.14
       },
       {
         "date": "2019-03-16",
         "price": 237.0,
-        "pe": 22.87,
-        "pe_10": 167.26,
-        "pe_25": 183.94,
-        "pe_50": 226.22,
-        "pe_75": 437.26,
-        "pe_90": 1577.65
+        "pe": 27.49,
+        "pe_10": 114.92,
+        "pe_25": 132.16,
+        "pe_50": 205.1,
+        "pe_75": 267.95,
+        "pe_90": 496.04
       },
       {
         "date": "2019-04-15",
         "price": 259.0,
-        "pe": 24.4,
-        "pe_10": 171.32,
-        "pe_25": 188.41,
-        "pe_50": 231.72,
-        "pe_75": 447.89,
-        "pe_90": 1615.99
+        "pe": 31.08,
+        "pe_10": 111.08,
+        "pe_25": 127.75,
+        "pe_50": 198.25,
+        "pe_75": 259.0,
+        "pe_90": 479.47
       },
       {
         "date": "2019-05-16",
         "price": 226.0,
-        "pe": 20.81,
-        "pe_10": 175.28,
-        "pe_25": 192.77,
-        "pe_50": 237.08,
-        "pe_75": 458.24,
-        "pe_90": 1653.35
+        "pe": 28.09,
+        "pe_10": 107.25,
+        "pe_25": 123.34,
+        "pe_50": 191.4,
+        "pe_75": 250.06,
+        "pe_90": 462.91
       },
       {
         "date": "2019-06-15",
         "price": 242.5,
-        "pe": 21.83,
-        "pe_10": 179.29,
-        "pe_25": 197.18,
-        "pe_50": 242.5,
-        "pe_75": 468.73,
-        "pe_90": 1691.17
+        "pe": 31.25,
+        "pe_10": 103.44,
+        "pe_25": 118.96,
+        "pe_50": 184.61,
+        "pe_75": 241.18,
+        "pe_90": 446.48
       },
       {
         "date": "2019-07-16",
         "price": 223.0,
-        "pe": 19.63,
-        "pe_10": 183.35,
-        "pe_25": 201.64,
-        "pe_50": 247.99,
-        "pe_75": 479.34,
-        "pe_90": 1729.47
+        "pe": 26.96,
+        "pe_10": 110.26,
+        "pe_25": 126.8,
+        "pe_50": 196.78,
+        "pe_75": 257.08,
+        "pe_90": 475.91
       },
       {
         "date": "2019-08-16",
         "price": 266.5,
-        "pe": 22.96,
-        "pe_10": 187.34,
-        "pe_25": 206.03,
-        "pe_50": 253.38,
-        "pe_75": 489.76,
-        "pe_90": 1767.07
+        "pe": 30.35,
+        "pe_10": 117.05,
+        "pe_25": 134.61,
+        "pe_50": 208.9,
+        "pe_75": 272.91,
+        "pe_90": 505.22
       },
       {
         "date": "2019-09-15",
         "price": 265.0,
-        "pe": 22.35,
-        "pe_10": 191.37,
-        "pe_25": 210.46,
-        "pe_50": 258.83,
-        "pe_75": 500.3,
-        "pe_90": 1805.08
+        "pe": 28.53,
+        "pe_10": 123.82,
+        "pe_25": 142.39,
+        "pe_50": 220.97,
+        "pe_75": 288.69,
+        "pe_90": 534.42
       },
       {
         "date": "2019-10-16",
         "price": 274.5,
-        "pe": 22.68,
-        "pe_10": 195.35,
-        "pe_25": 214.83,
-        "pe_50": 264.21,
-        "pe_75": 510.69,
-        "pe_90": 1842.59
+        "pe": 26.41,
+        "pe_10": 138.55,
+        "pe_25": 159.34,
+        "pe_50": 247.27,
+        "pe_75": 323.04,
+        "pe_90": 598.02
       },
       {
         "date": "2019-11-15",
         "price": 232.0,
-        "pe": 18.78,
-        "pe_10": 199.39,
-        "pe_25": 219.28,
-        "pe_50": 269.68,
-        "pe_75": 521.26,
-        "pe_90": 1880.71
+        "pe": 20.18,
+        "pe_10": 153.25,
+        "pe_25": 176.24,
+        "pe_50": 273.5,
+        "pe_75": 357.31,
+        "pe_90": 661.46
       },
       {
         "date": "2019-12-16",
         "price": 236.5,
         "pe": 18.77,
-        "pe_10": 203.36,
-        "pe_25": 223.65,
-        "pe_50": 275.06,
-        "pe_75": 531.65,
-        "pe_90": 1918.21
+        "pe_10": 167.96,
+        "pe_25": 193.16,
+        "pe_50": 299.75,
+        "pe_75": 391.6,
+        "pe_90": 724.95
       },
       {
         "date": "2020-01-16",
         "price": 200.0,
-        "pe": 16.24,
-        "pe_10": 198.77,
-        "pe_25": 218.6,
-        "pe_50": 268.84,
-        "pe_75": 519.64,
-        "pe_90": 1874.88
+        "pe": 15.33,
+        "pe_10": 173.91,
+        "pe_25": 200.0,
+        "pe_50": 310.37,
+        "pe_75": 405.48,
+        "pe_90": 750.63
       },
       {
         "date": "2020-02-15",
         "price": 215.0,
-        "pe": 17.88,
-        "pe_10": 194.08,
-        "pe_25": 213.44,
-        "pe_50": 262.5,
-        "pe_75": 507.38,
-        "pe_90": 1830.63
+        "pe": 15.94,
+        "pe_10": 179.8,
+        "pe_25": 206.77,
+        "pe_50": 320.88,
+        "pe_75": 419.21,
+        "pe_90": 776.05
       },
       {
         "date": "2020-03-16",
         "price": 148.0,
-        "pe": 12.61,
-        "pe_10": 189.43,
-        "pe_25": 208.33,
-        "pe_50": 256.21,
-        "pe_75": 495.23,
-        "pe_90": 1786.8
+        "pe": 10.62,
+        "pe_10": 185.77,
+        "pe_25": 213.64,
+        "pe_50": 331.54,
+        "pe_75": 433.13,
+        "pe_90": 801.82
       },
       {
         "date": "2020-04-15",
         "price": 191.5,
-        "pe": 16.73,
-        "pe_10": 184.75,
-        "pe_25": 203.18,
-        "pe_50": 249.88,
-        "pe_75": 482.99,
-        "pe_90": 1742.62
+        "pe": 14.07,
+        "pe_10": 181.43,
+        "pe_25": 208.65,
+        "pe_50": 323.79,
+        "pe_75": 423.01,
+        "pe_90": 783.09
       },
       {
         "date": "2020-05-16",
         "price": 185.0,
-        "pe": 16.58,
-        "pe_10": 180.09,
-        "pe_25": 198.05,
-        "pe_50": 243.58,
-        "pe_75": 470.81,
-        "pe_90": 1698.7
+        "pe": 13.91,
+        "pe_10": 177.29,
+        "pe_25": 203.89,
+        "pe_50": 316.4,
+        "pe_75": 413.36,
+        "pe_90": 765.22
       },
       {
         "date": "2020-06-15",
         "price": 192.5,
-        "pe": 17.71,
-        "pe_10": 175.43,
-        "pe_25": 192.93,
-        "pe_50": 237.28,
-        "pe_75": 458.64,
-        "pe_90": 1654.78
+        "pe": 14.83,
+        "pe_10": 173.03,
+        "pe_25": 198.99,
+        "pe_50": 308.8,
+        "pe_75": 403.43,
+        "pe_90": 746.84
       },
       {
         "date": "2020-07-16",
         "price": 195.0,
-        "pe": 18.43,
-        "pe_10": 170.77,
-        "pe_25": 187.81,
-        "pe_50": 230.97,
-        "pe_75": 446.45,
-        "pe_90": 1610.79
+        "pe": 15.4,
+        "pe_10": 168.79,
+        "pe_25": 194.11,
+        "pe_50": 301.24,
+        "pe_75": 393.55,
+        "pe_90": 728.54
       },
       {
         "date": "2020-08-16",
         "price": 167.0,
-        "pe": 16.22,
-        "pe_10": 166.18,
-        "pe_25": 182.75,
-        "pe_50": 224.76,
-        "pe_75": 434.44,
-        "pe_90": 1567.45
+        "pe": 13.53,
+        "pe_10": 164.53,
+        "pe_25": 189.22,
+        "pe_50": 293.64,
+        "pe_75": 383.62,
+        "pe_90": 710.16
       },
       {
         "date": "2020-09-15",
         "price": 168.0,
-        "pe": 16.79,
-        "pe_10": 161.5,
-        "pe_25": 177.61,
-        "pe_50": 218.43,
-        "pe_75": 422.2,
-        "pe_90": 1523.31
+        "pe": 13.98,
+        "pe_10": 160.19,
+        "pe_25": 184.22,
+        "pe_50": 285.89,
+        "pe_75": 373.49,
+        "pe_90": 691.42
       },
       {
         "date": "2020-10-16",
         "price": 155.0,
-        "pe": 15.95,
-        "pe_10": 156.85,
-        "pe_25": 172.49,
-        "pe_50": 212.14,
-        "pe_75": 410.05,
-        "pe_90": 1479.45
+        "pe": 14.01,
+        "pe_10": 147.48,
+        "pe_25": 169.6,
+        "pe_50": 263.2,
+        "pe_75": 343.85,
+        "pe_90": 636.55
       },
       {
         "date": "2020-11-15",
         "price": 177.5,
-        "pe": 18.83,
-        "pe_10": 152.14,
-        "pe_25": 167.32,
-        "pe_50": 205.78,
-        "pe_75": 397.75,
-        "pe_90": 1435.08
+        "pe": 17.57,
+        "pe_10": 134.67,
+        "pe_25": 154.87,
+        "pe_50": 240.34,
+        "pe_75": 313.98,
+        "pe_90": 581.25
       },
       {
         "date": "2020-12-16",
         "price": 172.0,
         "pe": 18.82,
-        "pe_10": 147.51,
-        "pe_25": 162.22,
-        "pe_50": 199.51,
-        "pe_75": 385.63,
-        "pe_90": 1391.35
+        "pe_10": 121.83,
+        "pe_25": 140.1,
+        "pe_50": 217.42,
+        "pe_75": 284.05,
+        "pe_90": 525.83
       },
       {
         "date": "2021-01-16",
         "price": 151.0,
-        "pe": 18.6,
-        "pe_10": 131.03,
-        "pe_25": 144.1,
-        "pe_50": 177.22,
-        "pe_75": 342.55,
-        "pe_90": 1235.93
+        "pe": 18.14,
+        "pe_10": 110.96,
+        "pe_25": 127.61,
+        "pe_50": 198.03,
+        "pe_75": 258.71,
+        "pe_90": 478.94
       },
       {
         "date": "2021-02-14",
         "price": 154.5,
-        "pe": 21.77,
-        "pe_10": 114.54,
-        "pe_25": 125.97,
-        "pe_50": 154.93,
-        "pe_75": 299.45,
-        "pe_90": 1080.44
+        "pe": 20.58,
+        "pe_10": 100.07,
+        "pe_25": 115.09,
+        "pe_50": 178.6,
+        "pe_75": 233.33,
+        "pe_90": 431.94
       },
       {
         "date": "2021-03-16",
         "price": 173.0,
-        "pe": 28.47,
-        "pe_10": 98.08,
-        "pe_25": 107.86,
-        "pe_50": 132.65,
-        "pe_75": 256.4,
-        "pe_90": 925.1
+        "pe": 25.86,
+        "pe_10": 89.18,
+        "pe_25": 102.56,
+        "pe_50": 159.15,
+        "pe_75": 207.92,
+        "pe_90": 384.91
       },
       {
         "date": "2021-04-15",
         "price": 163.5,
-        "pe": 32.33,
-        "pe_10": 81.62,
-        "pe_25": 89.77,
-        "pe_50": 110.4,
-        "pe_75": 213.39,
-        "pe_90": 769.91
+        "pe": 33.03,
+        "pe_10": 65.98,
+        "pe_25": 75.88,
+        "pe_50": 117.76,
+        "pe_75": 153.85,
+        "pe_90": 284.81
       },
       {
         "date": "2021-05-16",
         "price": 165.5,
-        "pe": 41.01,
-        "pe_10": 65.13,
-        "pe_25": 71.63,
-        "pe_50": 88.1,
-        "pe_75": 170.28,
-        "pe_90": 614.38
+        "pe": 51.56,
+        "pe_10": 42.79,
+        "pe_25": 49.21,
+        "pe_50": 76.36,
+        "pe_75": 99.76,
+        "pe_90": 184.68
       },
       {
         "date": "2021-06-15",
         "price": 164.0,
-        "pe": 54.39,
-        "pe_10": 48.67,
-        "pe_25": 53.52,
-        "pe_50": 65.82,
-        "pe_75": 127.23,
-        "pe_90": 459.04
+        "pe": 111.6,
+        "pe_10": 19.59,
+        "pe_25": 22.53,
+        "pe_50": 34.96,
+        "pe_75": 45.67,
+        "pe_90": 84.55
       },
       {
         "date": "2021-07-16",
         "price": 151.5,
-        "pe": 75.97,
-        "pe_10": 32.19,
-        "pe_25": 35.4,
-        "pe_50": 43.53,
-        "pe_75": 84.15,
-        "pe_90": 303.6
-      },
-      {
-        "date": "2021-08-16",
-        "price": 119.5,
-        "pe": 122.8,
-        "pe_10": 15.71,
-        "pe_25": 17.27,
-        "pe_50": 21.24,
-        "pe_75": 41.06,
-        "pe_90": 148.15
+        "pe": 1010.0,
+        "pe_10": 2.0,
+        "pe_25": 2.3,
+        "pe_50": 3.57,
+        "pe_75": 4.66,
+        "pe_90": 8.63
       }
     ]
   },
@@ -5506,19 +4987,19 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (16.1倍)",
+            "title": "PE 10% (13.3倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (21.8倍)",
+            "title": "PE 50% (23.8倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (152.2倍)",
+            "title": "PE 90% (57.5倍)",
             "format": ".1f"
           }
         ]
@@ -6178,6 +5659,10 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
       {
         "date": "2026-01-16",
         "revenue_yoy": 200.1
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 32.9
       }
     ]
   },
@@ -6245,15 +5730,15 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 76.3 | +161.5% | 0.014 | 2023-10 (+9435.2%) | 2024-12 (-87.4%) |
-| 6個月 | 76.3 | +41.1% | 0.065 | 2023-09 (+976.3%) | 2024-08 (-76.0%) |
-| 1年 | 76.3 | +16.6% | 0.008 | 2023-02 (+328.2%) | 2024-02 (-65.6%) |
-| 2年 | 76.3 | +5.6% | 0.005 | 2022-10 (+86.0%) | 2024-01 (-35.4%) |
-| 3年 | 76.3 | +2.6% | 0.061 | 2022-10 (+35.7%) | 2019-10 (-31.0%) |
-| 4年 | 76.3 | -1.8% | 0.015 | 2020-03 (+20.2%) | 2019-08 (-18.3%) |
-| 5年 | 78.1 | -2.7% | 0.002 | 2019-02 (+12.3%) | 2017-09 (-16.3%) |
-| 6年 | 96.0 | -2.3% | 0.034 | 2018-10 (+16.0%) | 2016-11 (-14.3%) |
-| 8年 | 180.7 | +0.8% | 0.715 | 2016-02 (+11.5%) | 2017-03 (-5.6%) |
+| 3個月 | 55.6 | +161.5% | 0.009 | 2023-10 (+9435.2%) | 2024-12 (-87.4%) |
+| 6個月 | 55.6 | +41.1% | 0.029 | 2023-09 (+976.3%) | 2024-08 (-76.0%) |
+| 1年 | 55.6 | +16.6% | 0.024 | 2023-02 (+328.2%) | 2024-02 (-65.6%) |
+| 2年 | 55.6 | +5.6% | 0.014 | 2022-10 (+86.0%) | 2024-01 (-35.4%) |
+| 3年 | 55.6 | +2.6% | 0.040 | 2022-10 (+35.7%) | 2019-10 (-31.0%) |
+| 4年 | 55.6 | -1.8% | 0.002 | 2020-03 (+20.2%) | 2019-08 (-18.3%) |
+| 5年 | 37.3 | -2.7% | 0.079 | 2019-02 (+12.3%) | 2017-09 (-16.3%) |
+| 6年 | 44.6 | -2.3% | 0.129 | 2018-10 (+16.0%) | 2016-11 (-14.3%) |
+| 8年 | 79.5 | +0.8% | 0.019 | 2016-02 (+11.5%) | 2017-03 (-5.6%) |
 | 10年 | N/A | +1.2% | 0.000 | 2015-12 (+1.7%) | 2016-01 (+0.6%) |
 
 
@@ -6273,4 +5758,4 @@ description: "6462 神盾 (半導體業) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:35:59 CST*
+*數據更新時間: 2026-03-21 12:42:53 CST*

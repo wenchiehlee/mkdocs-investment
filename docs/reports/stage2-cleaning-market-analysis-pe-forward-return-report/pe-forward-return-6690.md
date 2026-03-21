@@ -2,7 +2,7 @@
 title: "6690 安碁資訊 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -22,8 +22,8 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
     - **公司名稱**: 安碁資訊
     - **產業別**: 數位雲端
     - **報告類型**: 互動式多期間分析
-    - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年
-    - **報告生成時間**: 2026-03-07 12:36:17 CST
+    - **可選期間**: 3個月, 6個月, 1年, 2年, 3年
+    - **報告生成時間**: 2026-03-21 12:43:15 CST
 
 ## 📈 互動式圖表
 
@@ -38,341 +38,8 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2019-10-16",
-        "pe_ratio": 27.1,
-        "forward_return": -70.31,
-        "start_price": 138.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2019-11-15",
-        "pe_ratio": 23.19,
-        "forward_return": -14.52,
-        "start_price": 118.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2019-12-16",
-        "pe_ratio": 21.14,
-        "forward_return": 17.8,
-        "start_price": 108.0,
-        "start_year": 2019
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-01-16",
-        "pe_ratio": 20.02,
-        "forward_return": 107.96,
-        "start_price": 102.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-02-15",
-        "pe_ratio": 21.65,
-        "forward_return": 95.52,
-        "start_price": 110.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-03-16",
-        "pe_ratio": 22.21,
-        "forward_return": 350.55,
-        "start_price": 112.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-04-15",
-        "pe_ratio": 28.61,
-        "forward_return": 175.48,
-        "start_price": 144.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-05-16",
-        "pe_ratio": 25.82,
-        "forward_return": 210.96,
-        "start_price": 130.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-06-15",
-        "pe_ratio": 35.06,
-        "forward_return": -26.26,
-        "start_price": 176.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-07-16",
-        "pe_ratio": 36.56,
-        "forward_return": -54.59,
-        "start_price": 183.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-08-16",
-        "pe_ratio": 34.07,
-        "forward_return": -40.42,
-        "start_price": 170.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-09-15",
-        "pe_ratio": 32.16,
-        "forward_return": -36.29,
-        "start_price": 160.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-10-16",
-        "pe_ratio": 30.24,
-        "forward_return": -55.25,
-        "start_price": 150.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-11-15",
-        "pe_ratio": 29.73,
-        "forward_return": -25.41,
-        "start_price": 147.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2020-12-16",
-        "pe_ratio": 29.01,
-        "forward_return": -24.34,
-        "start_price": 143.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-01-16",
-        "pe_ratio": 24.77,
-        "forward_return": -32.81,
-        "start_price": 122.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-02-14",
-        "pe_ratio": 26.41,
-        "forward_return": -55.17,
-        "start_price": 131.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-03-16",
-        "pe_ratio": 26.83,
-        "forward_return": -38.0,
-        "start_price": 133.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-04-15",
-        "pe_ratio": 25.05,
-        "forward_return": -31.39,
-        "start_price": 125.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-05-16",
-        "pe_ratio": 21.48,
-        "forward_return": 16.85,
-        "start_price": 107.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-06-15",
-        "pe_ratio": 20.92,
-        "forward_return": 50.05,
-        "start_price": 105.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-07-16",
-        "pe_ratio": 21.95,
-        "forward_return": 0.0,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-08-16",
-        "pe_ratio": 21.49,
-        "forward_return": 69.84,
-        "start_price": 108.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-09-15",
-        "pe_ratio": 22.31,
-        "forward_return": 72.81,
-        "start_price": 113.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-10-16",
-        "pe_ratio": 21.75,
-        "forward_return": 58.03,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-11-15",
-        "pe_ratio": 24.34,
-        "forward_return": -18.37,
-        "start_price": 124.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2021-12-16",
-        "pe_ratio": 25.34,
-        "forward_return": -36.03,
-        "start_price": 129.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-01-16",
-        "pe_ratio": 23.2,
-        "forward_return": -38.85,
-        "start_price": 124.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-02-14",
-        "pe_ratio": 21.69,
-        "forward_return": -42.67,
-        "start_price": 121.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-03-16",
-        "pe_ratio": 19.96,
-        "forward_return": -24.3,
-        "start_price": 116.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-04-15",
-        "pe_ratio": 19.51,
-        "forward_return": -35.71,
-        "start_price": 118.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-05-16",
-        "pe_ratio": 16.8,
-        "forward_return": 97.33,
-        "start_price": 105.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-06-15",
-        "pe_ratio": 14.61,
-        "forward_return": 78.76,
-        "start_price": 95.2,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-07-16",
-        "pe_ratio": 15.11,
-        "forward_return": 3.95,
-        "start_price": 102.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-08-16",
-        "pe_ratio": 17.4,
-        "forward_return": -18.45,
-        "start_price": 121.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-09-15",
-        "pe_ratio": 14.76,
-        "forward_return": 29.11,
-        "start_price": 106.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2022-10-16",
-        "pe_ratio": 13.82,
-        "forward_return": 68.69,
-        "start_price": 103.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.24,
         "forward_return": 254.12,
         "start_price": 116.5,
         "start_year": 2022
@@ -390,7 +57,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 15.1,
         "forward_return": 254.03,
         "start_price": 117.5,
         "start_year": 2023
@@ -399,7 +66,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 20.64,
+        "pe_ratio": 21.71,
         "forward_return": 32.74,
         "start_price": 166.0,
         "start_year": 2023
@@ -408,7 +75,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 21.78,
+        "pe_ratio": 23.5,
         "forward_return": 10.53,
         "start_price": 176.5,
         "start_year": 2023
@@ -417,7 +84,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 25.86,
         "forward_return": -29.35,
         "start_price": 199.0,
         "start_year": 2023
@@ -426,7 +93,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.63,
+        "pe_ratio": 22.58,
         "forward_return": -19.57,
         "start_price": 178.0,
         "start_year": 2023
@@ -435,7 +102,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 20.33,
+        "pe_ratio": 20.88,
         "forward_return": -10.19,
         "start_price": 168.5,
         "start_year": 2023
@@ -444,7 +111,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 21.31,
+        "pe_ratio": 21.8,
         "forward_return": -34.51,
         "start_price": 178.0,
         "start_year": 2023
@@ -453,7 +120,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 19.86,
         "forward_return": 61.56,
         "start_price": 164.0,
         "start_year": 2023
@@ -462,7 +129,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.1,
         "forward_return": 112.72,
         "start_price": 159.5,
         "start_year": 2023
@@ -471,7 +138,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 18.93,
         "forward_return": 74.17,
         "start_price": 160.0,
         "start_year": 2023
@@ -480,7 +147,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 20.39,
         "forward_return": 0.87,
         "start_price": 174.5,
         "start_year": 2023
@@ -498,7 +165,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 20.95,
+        "pe_ratio": 21.01,
         "forward_return": -16.98,
         "start_price": 184.0,
         "start_year": 2024
@@ -507,7 +174,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 20.83,
+        "pe_ratio": 20.95,
         "forward_return": -24.42,
         "start_price": 185.5,
         "start_year": 2024
@@ -516,7 +183,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 19.39,
+        "pe_ratio": 19.55,
         "forward_return": 122.83,
         "start_price": 175.0,
         "start_year": 2024
@@ -525,7 +192,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.73,
         "forward_return": 225.03,
         "start_price": 170.5,
         "start_year": 2024
@@ -534,7 +201,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 18.66,
+        "pe_ratio": 18.69,
         "forward_return": 261.96,
         "start_price": 173.0,
         "start_year": 2024
@@ -543,7 +210,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 18.89,
+        "pe_ratio": 18.86,
         "forward_return": 240.65,
         "start_price": 177.5,
         "start_year": 2024
@@ -552,7 +219,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.4,
         "forward_return": 13.02,
         "start_price": 223.5,
         "start_year": 2024
@@ -561,7 +228,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 24.27,
+        "pe_ratio": 24.15,
         "forward_return": -31.22,
         "start_price": 234.0,
         "start_year": 2024
@@ -570,7 +237,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 24.23,
+        "pe_ratio": 24.06,
         "forward_return": -41.98,
         "start_price": 236.5,
         "start_year": 2024
@@ -579,7 +246,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 23.32,
+        "pe_ratio": 23.21,
         "forward_return": -48.0,
         "start_price": 230.5,
         "start_year": 2024
@@ -588,7 +255,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 20.13,
+        "pe_ratio": 20.09,
         "forward_return": -28.47,
         "start_price": 201.5,
         "start_year": 2024
@@ -606,7 +273,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.83,
         "forward_return": -22.23,
         "start_price": 195.5,
         "start_year": 2025
@@ -615,7 +282,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 20.16,
+        "pe_ratio": 23.66,
         "forward_return": -40.42,
         "start_price": 204.5,
         "start_year": 2025
@@ -624,7 +291,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 17.78,
+        "pe_ratio": 22.85,
         "forward_return": -4.09,
         "start_price": 180.5,
         "start_year": 2025
@@ -633,7 +300,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 18.26,
+        "pe_ratio": 22.86,
         "forward_return": -15.27,
         "start_price": 185.5,
         "start_year": 2025
@@ -642,7 +309,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 21.62,
         "forward_return": 25.24,
         "start_price": 180.0,
         "start_year": 2025
@@ -651,7 +318,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 17.1,
+        "pe_ratio": 20.37,
         "forward_return": 13.15,
         "start_price": 174.0,
         "start_year": 2025
@@ -660,7 +327,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 19.61,
         "forward_return": 10.8,
         "start_price": 172.0,
         "start_year": 2025
@@ -669,7 +336,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 18.11,
+        "pe_ratio": 20.5,
         "forward_return": -16.09,
         "start_price": 184.5,
         "start_year": 2025
@@ -678,7 +345,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 17.01,
+        "pe_ratio": 18.8,
         "forward_return": 1.16,
         "start_price": 173.5,
         "start_year": 2025
@@ -687,349 +354,34 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 17.3,
+        "pe_ratio": 18.46,
         "forward_return": -27.09,
         "start_price": 176.5,
         "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2019-10-16",
-        "pe_ratio": 27.1,
-        "forward_return": -10.29,
-        "start_price": 138.5,
-        "start_year": 2019
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-11-15",
+        "pe_ratio": 17.09,
+        "forward_return": 0.9,
+        "start_price": 169.0,
+        "start_year": 2025
       },
       {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2019-11-15",
-        "pe_ratio": 23.19,
-        "forward_return": 20.43,
-        "start_price": 118.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2019-12-16",
-        "pe_ratio": 21.14,
-        "forward_return": 154.01,
-        "start_price": 108.0,
-        "start_year": 2019
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-01-16",
-        "pe_ratio": 20.02,
-        "forward_return": 233.9,
-        "start_price": 102.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-02-15",
-        "pe_ratio": 21.65,
-        "forward_return": 146.89,
-        "start_price": 110.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-03-16",
-        "pe_ratio": 22.21,
-        "forward_return": 69.01,
-        "start_price": 112.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-04-15",
-        "pe_ratio": 28.61,
-        "forward_return": 12.08,
-        "start_price": 144.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-05-16",
-        "pe_ratio": 25.82,
-        "forward_return": 21.91,
-        "start_price": 130.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-06-15",
-        "pe_ratio": 35.06,
-        "forward_return": -31.13,
-        "start_price": 176.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-07-16",
-        "pe_ratio": 36.56,
-        "forward_return": -54.92,
-        "start_price": 183.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-08-16",
-        "pe_ratio": 34.07,
-        "forward_return": -34.06,
-        "start_price": 170.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-09-15",
-        "pe_ratio": 32.16,
-        "forward_return": -30.61,
-        "start_price": 160.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-10-16",
-        "pe_ratio": 30.24,
-        "forward_return": -43.67,
-        "start_price": 150.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-11-15",
-        "pe_ratio": 29.73,
-        "forward_return": -46.82,
-        "start_price": 147.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2020-12-16",
-        "pe_ratio": 29.01,
-        "forward_return": -32.53,
-        "start_price": 143.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-01-16",
-        "pe_ratio": 24.77,
-        "forward_return": -13.81,
-        "start_price": 122.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-02-14",
-        "pe_ratio": 26.41,
-        "forward_return": -27.24,
-        "start_price": 131.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-03-16",
-        "pe_ratio": 26.83,
-        "forward_return": -23.85,
-        "start_price": 133.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-04-15",
-        "pe_ratio": 25.05,
-        "forward_return": -17.09,
-        "start_price": 125.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-05-16",
-        "pe_ratio": 21.48,
-        "forward_return": 43.44,
-        "start_price": 107.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-06-15",
-        "pe_ratio": 20.92,
-        "forward_return": 59.81,
-        "start_price": 105.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-07-16",
-        "pe_ratio": 21.95,
-        "forward_return": 25.71,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-08-16",
-        "pe_ratio": 21.49,
-        "forward_return": 12.2,
-        "start_price": 108.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-09-15",
-        "pe_ratio": 22.31,
-        "forward_return": 5.43,
-        "start_price": 113.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-10-16",
-        "pe_ratio": 21.75,
-        "forward_return": -7.67,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-11-15",
-        "pe_ratio": 24.34,
-        "forward_return": -27.82,
-        "start_price": 124.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2021-12-16",
-        "pe_ratio": 25.34,
-        "forward_return": -29.52,
-        "start_price": 129.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-01-16",
-        "pe_ratio": 23.2,
-        "forward_return": -27.55,
-        "start_price": 124.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-02-14",
-        "pe_ratio": 21.69,
-        "forward_return": 7.09,
-        "start_price": 121.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-03-16",
-        "pe_ratio": 19.96,
-        "forward_return": -13.29,
-        "start_price": 116.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-04-15",
-        "pe_ratio": 19.51,
-        "forward_return": -18.2,
-        "start_price": 118.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-05-16",
-        "pe_ratio": 16.8,
-        "forward_return": 19.66,
-        "start_price": 105.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-06-15",
-        "pe_ratio": 14.61,
-        "forward_return": 51.43,
-        "start_price": 95.2,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-07-16",
-        "pe_ratio": 15.11,
-        "forward_return": 32.42,
-        "start_price": 102.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-08-16",
-        "pe_ratio": 17.4,
-        "forward_return": 90.28,
-        "start_price": 121.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-09-15",
-        "pe_ratio": 14.76,
-        "forward_return": 177.16,
-        "start_price": 106.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2022-10-16",
-        "pe_ratio": 13.82,
-        "forward_return": 156.64,
-        "start_price": 103.0,
-        "start_year": 2022
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2025-12-16",
+        "pe_ratio": 17.03,
+        "forward_return": -10.09,
+        "start_price": 174.0,
+        "start_year": 2025
       },
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.24,
         "forward_return": 135.23,
         "start_price": 116.5,
         "start_year": 2022
@@ -1047,7 +399,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 15.1,
         "forward_return": 143.16,
         "start_price": 117.5,
         "start_year": 2023
@@ -1056,7 +408,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 20.64,
+        "pe_ratio": 21.71,
         "forward_return": 3.05,
         "start_price": 166.0,
         "start_year": 2023
@@ -1065,7 +417,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 21.78,
+        "pe_ratio": 23.5,
         "forward_return": -11.32,
         "start_price": 176.5,
         "start_year": 2023
@@ -1074,7 +426,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 25.86,
         "forward_return": -31.61,
         "start_price": 199.0,
         "start_year": 2023
@@ -1083,7 +435,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.63,
+        "pe_ratio": 22.58,
         "forward_return": 18.9,
         "start_price": 178.0,
         "start_year": 2023
@@ -1092,7 +444,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 20.33,
+        "pe_ratio": 20.88,
         "forward_return": 36.6,
         "start_price": 168.5,
         "start_year": 2023
@@ -1101,7 +453,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 21.31,
+        "pe_ratio": 21.8,
         "forward_return": 6.8,
         "start_price": 178.0,
         "start_year": 2023
@@ -1110,7 +462,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 19.86,
         "forward_return": 11.78,
         "start_price": 164.0,
         "start_year": 2023
@@ -1119,7 +471,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.1,
         "forward_return": 20.46,
         "start_price": 159.5,
         "start_year": 2023
@@ -1128,7 +480,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 18.93,
         "forward_return": 14.33,
         "start_price": 160.0,
         "start_year": 2023
@@ -1137,7 +489,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 20.39,
         "forward_return": -1.72,
         "start_price": 174.5,
         "start_year": 2023
@@ -1155,7 +507,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 20.95,
+        "pe_ratio": 21.01,
         "forward_return": 54.72,
         "start_price": 184.0,
         "start_year": 2024
@@ -1164,7 +516,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 20.83,
+        "pe_ratio": 20.95,
         "forward_return": 66.11,
         "start_price": 185.5,
         "start_year": 2024
@@ -1173,7 +525,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 19.39,
+        "pe_ratio": 19.55,
         "forward_return": 66.24,
         "start_price": 175.0,
         "start_year": 2024
@@ -1182,7 +534,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.73,
         "forward_return": 90.85,
         "start_price": 170.5,
         "start_year": 2024
@@ -1191,7 +543,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 18.66,
+        "pe_ratio": 18.69,
         "forward_return": 41.14,
         "start_price": 173.0,
         "start_year": 2024
@@ -1200,7 +552,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 18.89,
+        "pe_ratio": 18.86,
         "forward_return": 42.15,
         "start_price": 177.5,
         "start_year": 2024
@@ -1209,7 +561,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.4,
         "forward_return": -23.33,
         "start_price": 223.5,
         "start_year": 2024
@@ -1218,7 +570,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 24.27,
+        "pe_ratio": 24.15,
         "forward_return": -36.06,
         "start_price": 234.0,
         "start_year": 2024
@@ -1227,7 +579,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 24.23,
+        "pe_ratio": 24.06,
         "forward_return": -42.03,
         "start_price": 236.5,
         "start_year": 2024
@@ -1236,7 +588,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 23.32,
+        "pe_ratio": 23.21,
         "forward_return": -34.69,
         "start_price": 230.5,
         "start_year": 2024
@@ -1245,7 +597,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 20.13,
+        "pe_ratio": 20.09,
         "forward_return": -20.36,
         "start_price": 201.5,
         "start_year": 2024
@@ -1263,7 +615,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.83,
         "forward_return": -17.24,
         "start_price": 195.5,
         "start_year": 2025
@@ -1272,7 +624,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 20.16,
+        "pe_ratio": 23.66,
         "forward_return": -13.27,
         "start_price": 204.5,
         "start_year": 2025
@@ -1281,7 +633,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 17.78,
+        "pe_ratio": 22.85,
         "forward_return": 1.9,
         "start_price": 180.5,
         "start_year": 2025
@@ -1290,7 +642,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 18.26,
+        "pe_ratio": 22.86,
         "forward_return": -3.2,
         "start_price": 185.5,
         "start_year": 2025
@@ -1299,7 +651,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 17.7,
+        "pe_ratio": 21.62,
         "forward_return": 0.0,
         "start_price": 180.0,
         "start_year": 2025
@@ -1308,7 +660,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 17.1,
+        "pe_ratio": 20.37,
         "forward_return": 7.0,
         "start_price": 174.0,
         "start_year": 2025
@@ -1317,349 +669,34 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 19.61,
         "forward_return": -10.12,
         "start_price": 172.0,
         "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2019-10-16",
-        "pe_ratio": 27.1,
-        "forward_return": 10.45,
-        "start_price": 138.5,
-        "start_year": 2019
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-08-16",
+        "pe_ratio": 20.5,
+        "forward_return": -13.59,
+        "start_price": 184.5,
+        "start_year": 2025
       },
       {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2019-11-15",
-        "pe_ratio": 23.19,
-        "forward_return": 26.52,
-        "start_price": 118.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2019-12-16",
-        "pe_ratio": 21.14,
-        "forward_return": 35.1,
-        "start_price": 108.0,
-        "start_year": 2019
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 20.02,
-        "forward_return": 22.99,
-        "start_price": 102.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-02-15",
-        "pe_ratio": 21.65,
-        "forward_return": 22.09,
-        "start_price": 110.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-03-16",
-        "pe_ratio": 22.21,
-        "forward_return": 21.35,
-        "start_price": 112.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-04-15",
-        "pe_ratio": 28.61,
-        "forward_return": -11.43,
-        "start_price": 144.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-05-16",
-        "pe_ratio": 25.82,
-        "forward_return": -15.01,
-        "start_price": 130.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-06-15",
-        "pe_ratio": 35.06,
-        "forward_return": -38.66,
-        "start_price": 176.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-07-16",
-        "pe_ratio": 36.56,
-        "forward_return": -37.83,
-        "start_price": 183.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-08-16",
-        "pe_ratio": 34.07,
-        "forward_return": -34.25,
-        "start_price": 170.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-09-15",
-        "pe_ratio": 32.16,
-        "forward_return": -27.33,
-        "start_price": 160.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-10-16",
-        "pe_ratio": 30.24,
-        "forward_return": -24.15,
-        "start_price": 150.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-11-15",
-        "pe_ratio": 29.73,
-        "forward_return": -13.41,
-        "start_price": 147.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2020-12-16",
-        "pe_ratio": 29.01,
-        "forward_return": -7.14,
-        "start_price": 143.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-01-16",
-        "pe_ratio": 24.77,
-        "forward_return": 3.92,
-        "start_price": 122.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-02-14",
-        "pe_ratio": 26.41,
-        "forward_return": -5.12,
-        "start_price": 131.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-03-16",
-        "pe_ratio": 26.83,
-        "forward_return": -10.64,
-        "start_price": 133.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-04-15",
-        "pe_ratio": 25.05,
-        "forward_return": -2.96,
-        "start_price": 125.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-05-16",
-        "pe_ratio": 21.48,
-        "forward_return": 1.21,
-        "start_price": 107.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-06-15",
-        "pe_ratio": 20.92,
-        "forward_return": -6.19,
-        "start_price": 105.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-07-16",
-        "pe_ratio": 21.95,
-        "forward_return": -4.35,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-08-16",
-        "pe_ratio": 21.49,
-        "forward_return": 15.4,
-        "start_price": 108.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-09-15",
-        "pe_ratio": 22.31,
-        "forward_return": -2.48,
-        "start_price": 113.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-10-16",
-        "pe_ratio": 21.75,
-        "forward_return": -3.44,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-11-15",
-        "pe_ratio": 24.34,
-        "forward_return": -3.07,
-        "start_price": 124.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2021-12-16",
-        "pe_ratio": 25.34,
-        "forward_return": -9.5,
-        "start_price": 129.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-01-16",
-        "pe_ratio": 23.2,
-        "forward_return": -2.26,
-        "start_price": 124.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-02-14",
-        "pe_ratio": 21.69,
-        "forward_return": 40.28,
-        "start_price": 121.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-03-16",
-        "pe_ratio": 19.96,
-        "forward_return": 55.39,
-        "start_price": 116.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-04-15",
-        "pe_ratio": 19.51,
-        "forward_return": 71.84,
-        "start_price": 118.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-05-16",
-        "pe_ratio": 16.8,
-        "forward_return": 72.29,
-        "start_price": 105.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-06-15",
-        "pe_ratio": 14.61,
-        "forward_return": 80.96,
-        "start_price": 95.2,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-07-16",
-        "pe_ratio": 15.11,
-        "forward_return": 78.99,
-        "start_price": 102.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-08-16",
-        "pe_ratio": 17.4,
-        "forward_return": 38.71,
-        "start_price": 121.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-09-15",
-        "pe_ratio": 14.76,
-        "forward_return": 54.04,
-        "start_price": 106.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2022-10-16",
-        "pe_ratio": 13.82,
-        "forward_return": 59.76,
-        "start_price": 103.0,
-        "start_year": 2022
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2025-09-15",
+        "pe_ratio": 18.8,
+        "forward_return": -4.6,
+        "start_price": 173.5,
+        "start_year": 2025
       },
       {
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.24,
         "forward_return": 53.69,
         "start_price": 116.5,
         "start_year": 2022
@@ -1677,7 +714,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 15.1,
         "forward_return": 60.48,
         "start_price": 117.5,
         "start_year": 2023
@@ -1686,7 +723,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 20.64,
+        "pe_ratio": 21.71,
         "forward_return": 14.47,
         "start_price": 166.0,
         "start_year": 2023
@@ -1695,7 +732,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 21.78,
+        "pe_ratio": 23.5,
         "forward_return": 1.7,
         "start_price": 176.5,
         "start_year": 2023
@@ -1704,7 +741,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 25.86,
         "forward_return": -12.04,
         "start_price": 199.0,
         "start_year": 2023
@@ -1713,7 +750,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.63,
+        "pe_ratio": 22.58,
         "forward_return": -0.28,
         "start_price": 178.0,
         "start_year": 2023
@@ -1722,7 +759,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 20.33,
+        "pe_ratio": 20.88,
         "forward_return": 7.99,
         "start_price": 168.5,
         "start_year": 2023
@@ -1731,7 +768,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 21.31,
+        "pe_ratio": 21.8,
         "forward_return": 28.42,
         "start_price": 178.0,
         "start_year": 2023
@@ -1740,7 +777,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 19.86,
         "forward_return": 45.74,
         "start_price": 164.0,
         "start_year": 2023
@@ -1749,7 +786,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.1,
         "forward_return": 51.41,
         "start_price": 159.5,
         "start_year": 2023
@@ -1758,7 +795,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 18.93,
         "forward_return": 47.2,
         "start_price": 160.0,
         "start_year": 2023
@@ -1767,7 +804,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 20.39,
         "forward_return": 18.41,
         "start_price": 174.5,
         "start_year": 2023
@@ -1785,7 +822,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 20.95,
+        "pe_ratio": 21.01,
         "forward_return": 9.06,
         "start_price": 184.0,
         "start_year": 2024
@@ -1794,7 +831,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 20.83,
+        "pe_ratio": 20.95,
         "forward_return": 0.1,
         "start_price": 185.5,
         "start_year": 2024
@@ -1803,7 +840,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 19.39,
+        "pe_ratio": 19.55,
         "forward_return": 6.12,
         "start_price": 175.0,
         "start_year": 2024
@@ -1812,7 +849,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.73,
         "forward_return": 11.86,
         "start_price": 170.5,
         "start_year": 2024
@@ -1821,7 +858,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 18.66,
+        "pe_ratio": 18.69,
         "forward_return": 7.06,
         "start_price": 173.0,
         "start_year": 2024
@@ -1830,7 +867,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 18.89,
+        "pe_ratio": 18.86,
         "forward_return": 0.96,
         "start_price": 177.5,
         "start_year": 2024
@@ -1839,7 +876,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.4,
         "forward_return": -20.37,
         "start_price": 223.5,
         "start_year": 2024
@@ -1848,7 +885,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 24.27,
+        "pe_ratio": 24.15,
         "forward_return": -18.6,
         "start_price": 234.0,
         "start_year": 2024
@@ -1857,7 +894,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 24.23,
+        "pe_ratio": 24.06,
         "forward_return": -24.12,
         "start_price": 236.5,
         "start_year": 2024
@@ -1866,7 +903,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 23.32,
+        "pe_ratio": 23.21,
         "forward_return": -20.84,
         "start_price": 230.5,
         "start_year": 2024
@@ -1875,7 +912,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 20.13,
+        "pe_ratio": 20.09,
         "forward_return": -13.16,
         "start_price": 201.5,
         "start_year": 2024
@@ -1893,7 +930,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.83,
         "forward_return": -13.56,
         "start_price": 195.5,
         "start_year": 2025
@@ -1902,349 +939,25 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 20.16,
+        "pe_ratio": 23.66,
         "forward_return": -16.39,
         "start_price": 204.5,
         "start_year": 2025
       },
       {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2019-10-16",
-        "pe_ratio": 27.1,
-        "forward_return": -8.16,
-        "start_price": 138.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2019-11-15",
-        "pe_ratio": 23.19,
-        "forward_return": 4.86,
-        "start_price": 118.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2019-12-16",
-        "pe_ratio": 21.14,
-        "forward_return": 12.13,
-        "start_price": 108.0,
-        "start_year": 2019
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 20.02,
-        "forward_return": 13.01,
-        "start_price": 102.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-02-15",
-        "pe_ratio": 21.65,
-        "forward_return": 5.23,
-        "start_price": 110.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-03-16",
-        "pe_ratio": 22.21,
-        "forward_return": 4.27,
-        "start_price": 112.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-04-15",
-        "pe_ratio": 28.61,
-        "forward_return": -7.26,
-        "start_price": 144.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-05-16",
-        "pe_ratio": 25.82,
-        "forward_return": -7.27,
-        "start_price": 130.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-06-15",
-        "pe_ratio": 35.06,
-        "forward_return": -24.07,
-        "start_price": 176.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-07-16",
-        "pe_ratio": 36.56,
-        "forward_return": -22.84,
-        "start_price": 183.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-08-16",
-        "pe_ratio": 34.07,
-        "forward_return": -13.07,
-        "start_price": 170.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-09-15",
-        "pe_ratio": 32.16,
-        "forward_return": -15.79,
-        "start_price": 160.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-10-16",
-        "pe_ratio": 30.24,
-        "forward_return": -14.37,
-        "start_price": 150.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-11-15",
-        "pe_ratio": 29.73,
-        "forward_return": -8.35,
-        "start_price": 147.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2020-12-16",
-        "pe_ratio": 29.01,
-        "forward_return": -8.21,
-        "start_price": 143.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-01-16",
-        "pe_ratio": 24.77,
-        "forward_return": 0.81,
-        "start_price": 122.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-02-14",
-        "pe_ratio": 26.41,
-        "forward_return": 14.93,
-        "start_price": 131.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-03-16",
-        "pe_ratio": 26.83,
-        "forward_return": 17.25,
-        "start_price": 133.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-04-15",
-        "pe_ratio": 25.05,
-        "forward_return": 28.4,
-        "start_price": 125.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-05-16",
-        "pe_ratio": 21.48,
-        "forward_return": 31.21,
-        "start_price": 107.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-06-15",
-        "pe_ratio": 20.92,
-        "forward_return": 29.31,
-        "start_price": 105.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-07-16",
-        "pe_ratio": 21.95,
-        "forward_return": 29.83,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-08-16",
-        "pe_ratio": 21.49,
-        "forward_return": 26.0,
-        "start_price": 108.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-09-15",
-        "pe_ratio": 22.31,
-        "forward_return": 21.84,
-        "start_price": 113.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-10-16",
-        "pe_ratio": 21.75,
-        "forward_return": 23.39,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-11-15",
-        "pe_ratio": 24.34,
-        "forward_return": 21.4,
-        "start_price": 124.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2021-12-16",
-        "pe_ratio": 25.34,
-        "forward_return": 24.51,
-        "start_price": 129.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-01-16",
-        "pe_ratio": 23.2,
-        "forward_return": 24.52,
-        "start_price": 124.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-02-14",
-        "pe_ratio": 21.69,
-        "forward_return": 26.54,
-        "start_price": 121.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-03-16",
-        "pe_ratio": 19.96,
-        "forward_return": 25.65,
-        "start_price": 116.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-04-15",
-        "pe_ratio": 19.51,
-        "forward_return": 23.04,
-        "start_price": 118.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-05-16",
-        "pe_ratio": 16.8,
-        "forward_return": 31.03,
-        "start_price": 105.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-06-15",
-        "pe_ratio": 14.61,
-        "forward_return": 39.63,
-        "start_price": 95.2,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-07-16",
-        "pe_ratio": 15.11,
-        "forward_return": 51.16,
-        "start_price": 102.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-08-16",
-        "pe_ratio": 17.4,
-        "forward_return": 41.59,
-        "start_price": 121.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-09-15",
-        "pe_ratio": 14.76,
-        "forward_return": 52.0,
-        "start_price": 106.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2022-10-16",
-        "pe_ratio": 13.82,
-        "forward_return": 52.67,
-        "start_price": 103.0,
-        "start_year": 2022
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2025-03-16",
+        "pe_ratio": 22.85,
+        "forward_return": -2.77,
+        "start_price": 180.5,
+        "start_year": 2025
       },
       {
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.24,
         "forward_return": 34.62,
         "start_price": 116.5,
         "start_year": 2022
@@ -2262,7 +975,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 15.1,
         "forward_return": 32.13,
         "start_price": 117.5,
         "start_year": 2023
@@ -2271,7 +984,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 20.64,
+        "pe_ratio": 21.71,
         "forward_return": 13.58,
         "start_price": 166.0,
         "start_year": 2023
@@ -2280,7 +993,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 21.78,
+        "pe_ratio": 23.5,
         "forward_return": 3.81,
         "start_price": 176.5,
         "start_year": 2023
@@ -2289,7 +1002,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 24.37,
+        "pe_ratio": 25.86,
         "forward_return": -0.96,
         "start_price": 199.0,
         "start_year": 2023
@@ -2298,7 +1011,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.63,
+        "pe_ratio": 22.58,
         "forward_return": 3.23,
         "start_price": 178.0,
         "start_year": 2023
@@ -2307,7 +1020,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 20.33,
+        "pe_ratio": 20.88,
         "forward_return": 4.41,
         "start_price": 168.5,
         "start_year": 2023
@@ -2316,7 +1029,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 21.31,
+        "pe_ratio": 21.8,
         "forward_return": 1.45,
         "start_price": 178.0,
         "start_year": 2023
@@ -2325,7 +1038,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 19.86,
         "forward_return": 9.23,
         "start_price": 164.0,
         "start_year": 2023
@@ -2334,7 +1047,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 18.82,
+        "pe_ratio": 19.1,
         "forward_return": 7.61,
         "start_price": 159.5,
         "start_year": 2023
@@ -2343,7 +1056,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 18.74,
+        "pe_ratio": 18.93,
         "forward_return": 8.31,
         "start_price": 160.0,
         "start_year": 2023
@@ -2352,7 +1065,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 20.29,
+        "pe_ratio": 20.39,
         "forward_return": 1.62,
         "start_price": 174.5,
         "start_year": 2023
@@ -2370,349 +1083,34 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 20.95,
+        "pe_ratio": 21.01,
         "forward_return": -2.7,
         "start_price": 184.0,
         "start_year": 2024
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2019-10-16",
-        "pe_ratio": 27.1,
-        "forward_return": -6.56,
-        "start_price": 138.5,
-        "start_year": 2019
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-02-15",
+        "pe_ratio": 20.95,
+        "forward_return": -1.25,
+        "start_price": 185.5,
+        "start_year": 2024
       },
       {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2019-11-15",
-        "pe_ratio": 23.19,
-        "forward_return": 2.2,
-        "start_price": 118.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2019-12-16",
-        "pe_ratio": 21.14,
-        "forward_return": 4.57,
-        "start_price": 108.0,
-        "start_year": 2019
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 20.02,
-        "forward_return": 7.72,
-        "start_price": 102.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-02-15",
-        "pe_ratio": 21.65,
-        "forward_return": 18.7,
-        "start_price": 110.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-03-16",
-        "pe_ratio": 22.21,
-        "forward_return": 18.37,
-        "start_price": 112.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-04-15",
-        "pe_ratio": 28.61,
-        "forward_return": 13.1,
-        "start_price": 144.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-05-16",
-        "pe_ratio": 25.82,
-        "forward_return": 13.09,
-        "start_price": 130.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-06-15",
-        "pe_ratio": 35.06,
-        "forward_return": 0.47,
-        "start_price": 176.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-07-16",
-        "pe_ratio": 36.56,
-        "forward_return": 1.17,
-        "start_price": 183.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-08-16",
-        "pe_ratio": 34.07,
-        "forward_return": 1.07,
-        "start_price": 170.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-09-15",
-        "pe_ratio": 32.16,
-        "forward_return": 2.24,
-        "start_price": 160.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-10-16",
-        "pe_ratio": 30.24,
-        "forward_return": 4.57,
-        "start_price": 150.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-11-15",
-        "pe_ratio": 29.73,
-        "forward_return": 8.17,
-        "start_price": 147.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2020-12-16",
-        "pe_ratio": 29.01,
-        "forward_return": 12.58,
-        "start_price": 143.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-01-16",
-        "pe_ratio": 24.77,
-        "forward_return": 16.87,
-        "start_price": 122.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-02-14",
-        "pe_ratio": 26.41,
-        "forward_return": 14.58,
-        "start_price": 131.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-03-16",
-        "pe_ratio": 26.83,
-        "forward_return": 11.79,
-        "start_price": 133.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-04-15",
-        "pe_ratio": 25.05,
-        "forward_return": 13.34,
-        "start_price": 125.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-05-16",
-        "pe_ratio": 21.48,
-        "forward_return": 19.72,
-        "start_price": 107.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-06-15",
-        "pe_ratio": 20.92,
-        "forward_return": 21.64,
-        "start_price": 105.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-07-16",
-        "pe_ratio": 21.95,
-        "forward_return": 28.94,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-08-16",
-        "pe_ratio": 21.49,
-        "forward_return": 31.61,
-        "start_price": 108.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-09-15",
-        "pe_ratio": 22.31,
-        "forward_return": 30.28,
-        "start_price": 113.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-10-16",
-        "pe_ratio": 21.75,
-        "forward_return": 30.19,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-11-15",
-        "pe_ratio": 24.34,
-        "forward_return": 20.11,
-        "start_price": 124.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2021-12-16",
-        "pe_ratio": 25.34,
-        "forward_return": 19.3,
-        "start_price": 129.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-01-16",
-        "pe_ratio": 23.2,
-        "forward_return": 18.98,
-        "start_price": 124.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-02-14",
-        "pe_ratio": 21.69,
-        "forward_return": 21.66,
-        "start_price": 121.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-03-16",
-        "pe_ratio": 19.96,
-        "forward_return": 18.67,
-        "start_price": 116.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-04-15",
-        "pe_ratio": 19.51,
-        "forward_return": 19.01,
-        "start_price": 118.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-05-16",
-        "pe_ratio": 16.8,
-        "forward_return": 22.38,
-        "start_price": 105.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-06-15",
-        "pe_ratio": 14.61,
-        "forward_return": 25.32,
-        "start_price": 95.2,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-07-16",
-        "pe_ratio": 15.11,
-        "forward_return": 22.54,
-        "start_price": 102.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-08-16",
-        "pe_ratio": 17.4,
-        "forward_return": 18.11,
-        "start_price": 121.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-09-15",
-        "pe_ratio": 14.76,
-        "forward_return": 21.11,
-        "start_price": 106.5,
-        "start_year": 2022
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2022-10-16",
-        "pe_ratio": 13.82,
-        "forward_return": 23.11,
-        "start_price": 103.0,
-        "start_year": 2022
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2024-03-16",
+        "pe_ratio": 19.55,
+        "forward_return": 1.62,
+        "start_price": 175.0,
+        "start_year": 2024
       },
       {
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 15.16,
+        "pe_ratio": 15.24,
         "forward_return": 16.6,
         "start_price": 116.5,
         "start_year": 2022
@@ -2730,7 +1128,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 14.72,
+        "pe_ratio": 15.1,
         "forward_return": 15.0,
         "start_price": 117.5,
         "start_year": 2023
@@ -2739,467 +1137,26 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 20.64,
+        "pe_ratio": 21.71,
         "forward_return": 2.87,
         "start_price": 166.0,
         "start_year": 2023
       },
       {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2019-10-16",
-        "pe_ratio": 27.1,
-        "forward_return": 5.95,
-        "start_price": 138.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2019-11-15",
-        "pe_ratio": 23.19,
-        "forward_return": 12.38,
-        "start_price": 118.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2019-12-16",
-        "pe_ratio": 21.14,
-        "forward_return": 17.66,
-        "start_price": 108.0,
-        "start_year": 2019
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 20.02,
-        "forward_return": 18.11,
-        "start_price": 102.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-02-15",
-        "pe_ratio": 21.65,
-        "forward_return": 16.12,
-        "start_price": 110.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-03-16",
-        "pe_ratio": 22.21,
-        "forward_return": 13.92,
-        "start_price": 112.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-04-15",
-        "pe_ratio": 28.61,
-        "forward_return": 6.37,
-        "start_price": 144.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-05-16",
-        "pe_ratio": 25.82,
-        "forward_return": 9.59,
-        "start_price": 130.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-06-15",
-        "pe_ratio": 35.06,
-        "forward_return": 2.2,
-        "start_price": 176.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-07-16",
-        "pe_ratio": 36.56,
-        "forward_return": 7.04,
-        "start_price": 183.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-08-16",
-        "pe_ratio": 34.07,
-        "forward_return": 10.2,
-        "start_price": 170.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-09-15",
-        "pe_ratio": 32.16,
-        "forward_return": 12.16,
-        "start_price": 160.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-10-16",
-        "pe_ratio": 30.24,
-        "forward_return": 13.3,
-        "start_price": 150.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-11-15",
-        "pe_ratio": 29.73,
-        "forward_return": 10.38,
-        "start_price": 147.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2020-12-16",
-        "pe_ratio": 29.01,
-        "forward_return": 11.77,
-        "start_price": 143.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-01-16",
-        "pe_ratio": 24.77,
-        "forward_return": 14.72,
-        "start_price": 122.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-02-14",
-        "pe_ratio": 26.41,
-        "forward_return": 13.99,
-        "start_price": 131.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-03-16",
-        "pe_ratio": 26.83,
-        "forward_return": 10.24,
-        "start_price": 133.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-04-15",
-        "pe_ratio": 25.05,
-        "forward_return": 12.78,
-        "start_price": 125.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-05-16",
-        "pe_ratio": 21.48,
-        "forward_return": 16.31,
-        "start_price": 107.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-06-15",
-        "pe_ratio": 20.92,
-        "forward_return": 16.09,
-        "start_price": 105.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-07-16",
-        "pe_ratio": 21.95,
-        "forward_return": 14.72,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-08-16",
-        "pe_ratio": 21.49,
-        "forward_return": 17.08,
-        "start_price": 108.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-09-15",
-        "pe_ratio": 22.31,
-        "forward_return": 14.3,
-        "start_price": 113.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-10-16",
-        "pe_ratio": 21.75,
-        "forward_return": 15.39,
-        "start_price": 110.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-11-15",
-        "pe_ratio": 24.34,
-        "forward_return": 11.02,
-        "start_price": 124.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2021-12-16",
-        "pe_ratio": 25.34,
-        "forward_return": 10.55,
-        "start_price": 129.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2022-01-16",
-        "pe_ratio": 23.2,
-        "forward_return": 10.13,
-        "start_price": 124.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2022-02-14",
-        "pe_ratio": 21.69,
-        "forward_return": 11.11,
-        "start_price": 121.0,
-        "start_year": 2022
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2019-10-16",
-        "pe_ratio": 27.1,
-        "forward_return": 12.55,
-        "start_price": 138.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2019-11-15",
-        "pe_ratio": 23.19,
-        "forward_return": 13.29,
-        "start_price": 118.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2019-12-16",
-        "pe_ratio": 21.14,
-        "forward_return": 15.93,
-        "start_price": 108.0,
-        "start_year": 2019
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 20.02,
-        "forward_return": 16.1,
-        "start_price": 102.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-02-15",
-        "pe_ratio": 21.65,
-        "forward_return": 12.51,
-        "start_price": 110.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-03-16",
-        "pe_ratio": 22.21,
-        "forward_return": 12.22,
-        "start_price": 112.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-04-15",
-        "pe_ratio": 28.61,
-        "forward_return": 7.27,
-        "start_price": 144.5,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-05-16",
-        "pe_ratio": 25.82,
-        "forward_return": 8.97,
-        "start_price": 130.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-06-15",
-        "pe_ratio": 35.06,
-        "forward_return": 1.94,
-        "start_price": 176.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-07-16",
-        "pe_ratio": 36.56,
-        "forward_return": 1.25,
-        "start_price": 183.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-08-16",
-        "pe_ratio": 34.07,
-        "forward_return": 4.04,
-        "start_price": 170.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-09-15",
-        "pe_ratio": 32.16,
-        "forward_return": 4.16,
-        "start_price": 160.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-10-16",
-        "pe_ratio": 30.24,
-        "forward_return": 5.84,
-        "start_price": 150.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-11-15",
-        "pe_ratio": 29.73,
-        "forward_return": 5.45,
-        "start_price": 147.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2020-12-16",
-        "pe_ratio": 29.01,
-        "forward_return": 6.59,
-        "start_price": 143.0,
-        "start_year": 2020
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2021-01-16",
-        "pe_ratio": 24.77,
-        "forward_return": 8.68,
-        "start_price": 122.5,
-        "start_year": 2021
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2021-02-14",
-        "pe_ratio": 26.41,
-        "forward_return": 7.46,
-        "start_price": 131.0,
-        "start_year": 2021
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2019-10-16",
-        "pe_ratio": 27.1,
-        "forward_return": 6.51,
-        "start_price": 138.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2019-11-15",
-        "pe_ratio": 23.19,
-        "forward_return": 8.63,
-        "start_price": 118.5,
-        "start_year": 2019
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2019-12-16",
-        "pe_ratio": 21.14,
-        "forward_return": 10.79,
-        "start_price": 108.0,
-        "start_year": 2019
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2020-01-16",
-        "pe_ratio": 20.02,
-        "forward_return": 10.79,
-        "start_price": 102.0,
-        "start_year": 2020
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2023-03-16",
+        "pe_ratio": 23.5,
+        "forward_return": 1.62,
+        "start_price": 176.5,
+        "start_year": 2023
       }
     ]
   },
   "params": [
     {
       "name": "horizon_select",
-      "value": "5y",
+      "value": "0.25y",
       "bind": {
         "input": "select",
         "options": [
@@ -3208,10 +1165,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
           "0.5y",
           "1y",
           "2y",
-          "3y",
-          "4y",
-          "5y",
-          "6y"
+          "3y"
         ],
         "labels": [
           "全部期間",
@@ -3219,10 +1173,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
           "6個月",
           "1年",
           "2年",
-          "3年",
-          "4年",
-          "5年",
-          "6年"
+          "3年"
         ],
         "name": "投資期間: "
       }
@@ -3392,7 +1343,7 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 16.1倍、18.1倍、20.8倍、23.5倍、27.7倍"
+!!! note "本益比河流帶水位: 16.1倍、18.7倍、20.4倍、22.2倍、23.5倍"
 
 ```vegalite
 {
@@ -3401,774 +1352,414 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
   "data": {
     "values": [
       {
-        "date": "2019-10-16",
-        "price": 138.5,
-        "pe": 27.1,
-        "pe_10": 82.1,
-        "pe_25": 92.55,
-        "pe_50": 106.46,
-        "pe_75": 120.0,
-        "pe_90": 141.59
-      },
-      {
-        "date": "2019-11-15",
-        "price": 118.5,
-        "pe": 23.19,
-        "pe_10": 82.09,
-        "pe_25": 92.54,
-        "pe_50": 106.44,
-        "pe_75": 119.98,
-        "pe_90": 141.57
-      },
-      {
-        "date": "2019-12-16",
-        "price": 108.0,
-        "pe": 21.14,
-        "pe_10": 82.07,
-        "pe_25": 92.52,
-        "pe_50": 106.42,
-        "pe_75": 119.95,
-        "pe_90": 141.53
-      },
-      {
-        "date": "2020-01-16",
-        "price": 102.0,
-        "pe": 20.02,
-        "pe_10": 81.84,
-        "pe_25": 92.27,
-        "pe_50": 106.13,
-        "pe_75": 119.63,
-        "pe_90": 141.15
-      },
-      {
-        "date": "2020-02-15",
-        "price": 110.0,
-        "pe": 21.65,
-        "pe_10": 81.62,
-        "pe_25": 92.01,
-        "pe_50": 105.83,
-        "pe_75": 119.3,
-        "pe_90": 140.76
-      },
-      {
-        "date": "2020-03-16",
-        "price": 112.5,
-        "pe": 22.21,
-        "pe_10": 81.37,
-        "pe_25": 91.73,
-        "pe_50": 105.51,
-        "pe_75": 118.93,
-        "pe_90": 140.33
-      },
-      {
-        "date": "2020-04-15",
-        "price": 144.5,
-        "pe": 28.61,
-        "pe_10": 81.13,
-        "pe_25": 91.47,
-        "pe_50": 105.21,
-        "pe_75": 118.59,
-        "pe_90": 139.92
-      },
-      {
-        "date": "2020-05-16",
-        "price": 130.0,
-        "pe": 25.82,
-        "pe_10": 80.88,
-        "pe_25": 91.18,
-        "pe_50": 104.88,
-        "pe_75": 118.22,
-        "pe_90": 139.49
-      },
-      {
-        "date": "2020-06-15",
-        "price": 176.0,
-        "pe": 35.06,
-        "pe_10": 80.64,
-        "pe_25": 90.91,
-        "pe_50": 104.57,
-        "pe_75": 117.87,
-        "pe_90": 139.07
-      },
-      {
-        "date": "2020-07-16",
-        "price": 183.0,
-        "pe": 36.56,
-        "pe_10": 80.41,
-        "pe_25": 90.65,
-        "pe_50": 104.26,
-        "pe_75": 117.53,
-        "pe_90": 138.67
-      },
-      {
-        "date": "2020-08-16",
-        "price": 170.0,
-        "pe": 34.07,
-        "pe_10": 80.15,
-        "pe_25": 90.36,
-        "pe_50": 103.94,
-        "pe_75": 117.16,
-        "pe_90": 138.24
-      },
-      {
-        "date": "2020-09-15",
-        "price": 160.0,
-        "pe": 32.16,
-        "pe_10": 79.92,
-        "pe_25": 90.1,
-        "pe_50": 103.63,
-        "pe_75": 116.82,
-        "pe_90": 137.83
-      },
-      {
-        "date": "2020-10-16",
-        "price": 150.0,
-        "pe": 30.24,
-        "pe_10": 79.68,
-        "pe_25": 89.83,
-        "pe_50": 103.32,
-        "pe_75": 116.47,
-        "pe_90": 137.42
-      },
-      {
-        "date": "2020-11-15",
-        "price": 147.0,
-        "pe": 29.73,
-        "pe_10": 79.43,
-        "pe_25": 89.54,
-        "pe_50": 102.99,
-        "pe_75": 116.1,
-        "pe_90": 136.98
-      },
-      {
-        "date": "2020-12-16",
-        "price": 143.0,
-        "pe": 29.01,
-        "pe_10": 79.18,
-        "pe_25": 89.27,
-        "pe_50": 102.68,
-        "pe_75": 115.74,
-        "pe_90": 136.56
-      },
-      {
-        "date": "2021-01-16",
-        "price": 122.5,
-        "pe": 24.77,
-        "pe_10": 79.44,
-        "pe_25": 89.56,
-        "pe_50": 103.01,
-        "pe_75": 116.12,
-        "pe_90": 137.01
-      },
-      {
-        "date": "2021-02-14",
-        "price": 131.0,
-        "pe": 26.41,
-        "pe_10": 79.68,
-        "pe_25": 89.83,
-        "pe_50": 103.32,
-        "pe_75": 116.47,
-        "pe_90": 137.42
-      },
-      {
-        "date": "2021-03-16",
-        "price": 133.5,
-        "pe": 26.83,
-        "pe_10": 79.93,
-        "pe_25": 90.11,
-        "pe_50": 103.65,
-        "pe_75": 116.83,
-        "pe_90": 137.85
-      },
-      {
-        "date": "2021-04-15",
-        "price": 125.0,
-        "pe": 25.05,
-        "pe_10": 80.16,
-        "pe_25": 90.37,
-        "pe_50": 103.94,
-        "pe_75": 117.17,
-        "pe_90": 138.24
-      },
-      {
-        "date": "2021-05-16",
-        "price": 107.5,
-        "pe": 21.48,
-        "pe_10": 80.39,
-        "pe_25": 90.63,
-        "pe_50": 104.25,
-        "pe_75": 117.51,
-        "pe_90": 138.65
-      },
-      {
-        "date": "2021-06-15",
-        "price": 105.0,
-        "pe": 20.92,
-        "pe_10": 80.63,
-        "pe_25": 90.9,
-        "pe_50": 104.55,
-        "pe_75": 117.85,
-        "pe_90": 139.05
-      },
-      {
-        "date": "2021-07-16",
-        "price": 110.5,
-        "pe": 21.95,
-        "pe_10": 80.87,
-        "pe_25": 91.17,
-        "pe_50": 104.86,
-        "pe_75": 118.2,
-        "pe_90": 139.47
-      },
-      {
-        "date": "2021-08-16",
-        "price": 108.5,
-        "pe": 21.49,
-        "pe_10": 81.1,
-        "pe_25": 91.43,
-        "pe_50": 105.17,
-        "pe_75": 118.55,
-        "pe_90": 139.87
-      },
-      {
-        "date": "2021-09-15",
-        "price": 113.0,
-        "pe": 22.31,
-        "pe_10": 81.36,
-        "pe_25": 91.73,
-        "pe_50": 105.5,
-        "pe_75": 118.93,
-        "pe_90": 140.32
-      },
-      {
-        "date": "2021-10-16",
-        "price": 110.5,
-        "pe": 21.75,
-        "pe_10": 81.61,
-        "pe_25": 92.01,
-        "pe_50": 105.83,
-        "pe_75": 119.29,
-        "pe_90": 140.75
-      },
-      {
-        "date": "2021-11-15",
-        "price": 124.0,
-        "pe": 24.34,
-        "pe_10": 81.84,
-        "pe_25": 92.26,
-        "pe_50": 106.12,
-        "pe_75": 119.62,
-        "pe_90": 141.14
-      },
-      {
-        "date": "2021-12-16",
-        "price": 129.5,
-        "pe": 25.34,
-        "pe_10": 82.1,
-        "pe_25": 92.55,
-        "pe_50": 106.45,
-        "pe_75": 119.99,
-        "pe_90": 141.58
-      },
-      {
-        "date": "2022-01-16",
-        "price": 124.0,
-        "pe": 23.2,
-        "pe_10": 85.86,
-        "pe_25": 96.79,
-        "pe_50": 111.33,
-        "pe_75": 125.5,
-        "pe_90": 148.07
-      },
-      {
-        "date": "2022-02-14",
-        "price": 121.0,
-        "pe": 21.69,
-        "pe_10": 89.61,
-        "pe_25": 101.03,
-        "pe_50": 116.2,
-        "pe_75": 130.99,
-        "pe_90": 154.55
-      },
-      {
-        "date": "2022-03-16",
-        "price": 116.0,
-        "pe": 19.96,
-        "pe_10": 93.36,
-        "pe_25": 105.25,
-        "pe_50": 121.06,
-        "pe_75": 136.46,
-        "pe_90": 161.01
-      },
-      {
-        "date": "2022-04-15",
-        "price": 118.0,
-        "pe": 19.51,
-        "pe_10": 97.16,
-        "pe_25": 109.53,
-        "pe_50": 125.98,
-        "pe_75": 142.01,
-        "pe_90": 167.56
-      },
-      {
-        "date": "2022-05-16",
-        "price": 105.5,
-        "pe": 16.8,
-        "pe_10": 100.88,
-        "pe_25": 113.73,
-        "pe_50": 130.81,
-        "pe_75": 147.45,
-        "pe_90": 173.97
-      },
-      {
-        "date": "2022-06-15",
-        "price": 95.2,
-        "pe": 14.61,
-        "pe_10": 104.67,
-        "pe_25": 118.01,
-        "pe_50": 135.73,
-        "pe_75": 153.0,
-        "pe_90": 180.52
-      },
-      {
-        "date": "2022-07-16",
-        "price": 102.0,
-        "pe": 15.11,
-        "pe_10": 108.44,
-        "pe_25": 122.25,
-        "pe_50": 140.61,
-        "pe_75": 158.5,
-        "pe_90": 187.02
-      },
-      {
-        "date": "2022-08-16",
-        "price": 121.5,
-        "pe": 17.4,
-        "pe_10": 112.17,
-        "pe_25": 126.46,
-        "pe_50": 145.45,
-        "pe_75": 163.96,
-        "pe_90": 193.45
-      },
-      {
-        "date": "2022-09-15",
-        "price": 106.5,
-        "pe": 14.76,
-        "pe_10": 115.91,
-        "pe_25": 130.67,
-        "pe_50": 150.3,
-        "pe_75": 169.42,
-        "pe_90": 199.9
-      },
-      {
-        "date": "2022-10-16",
-        "price": 103.0,
-        "pe": 13.82,
-        "pe_10": 119.72,
-        "pe_25": 134.97,
-        "pe_50": 155.25,
-        "pe_75": 175.0,
-        "pe_90": 206.48
-      },
-      {
         "date": "2022-11-15",
         "price": 116.5,
-        "pe": 15.16,
-        "pe_10": 123.45,
-        "pe_25": 139.17,
-        "pe_50": 160.07,
-        "pe_75": 180.44,
-        "pe_90": 212.9
+        "pe": 15.24,
+        "pe_10": 123.38,
+        "pe_25": 143.18,
+        "pe_50": 155.79,
+        "pe_75": 169.93,
+        "pe_90": 179.64
       },
       {
         "date": "2022-12-16",
         "price": 113.5,
         "pe": 14.33,
-        "pe_10": 127.23,
-        "pe_25": 143.44,
-        "pe_50": 164.98,
-        "pe_75": 185.97,
-        "pe_90": 219.43
+        "pe_10": 127.84,
+        "pe_25": 148.35,
+        "pe_50": 161.42,
+        "pe_75": 176.07,
+        "pe_90": 186.13
       },
       {
         "date": "2023-01-16",
         "price": 117.5,
-        "pe": 14.72,
-        "pe_10": 128.23,
-        "pe_25": 144.56,
-        "pe_50": 166.27,
-        "pe_75": 187.43,
-        "pe_90": 221.14
+        "pe": 15.1,
+        "pe_10": 125.59,
+        "pe_25": 145.75,
+        "pe_50": 158.59,
+        "pe_75": 172.98,
+        "pe_90": 182.86
       },
       {
         "date": "2023-02-14",
         "price": 166.0,
-        "pe": 20.64,
-        "pe_10": 129.2,
-        "pe_25": 145.65,
-        "pe_50": 167.53,
-        "pe_75": 188.84,
-        "pe_90": 222.81
+        "pe": 21.71,
+        "pe_10": 123.41,
+        "pe_25": 143.21,
+        "pe_50": 155.83,
+        "pe_75": 169.98,
+        "pe_90": 179.69
       },
       {
         "date": "2023-03-16",
         "price": 176.5,
-        "pe": 21.78,
-        "pe_10": 130.18,
-        "pe_25": 146.76,
-        "pe_50": 168.8,
-        "pe_75": 190.28,
-        "pe_90": 224.51
+        "pe": 23.5,
+        "pe_10": 121.22,
+        "pe_25": 140.67,
+        "pe_50": 153.07,
+        "pe_75": 166.96,
+        "pe_90": 176.5
       },
       {
         "date": "2023-04-15",
         "price": 199.0,
-        "pe": 24.37,
-        "pe_10": 131.18,
-        "pe_25": 147.88,
-        "pe_50": 170.09,
-        "pe_75": 191.73,
-        "pe_90": 226.22
+        "pe": 25.86,
+        "pe_10": 124.2,
+        "pe_25": 144.13,
+        "pe_50": 156.83,
+        "pe_75": 171.07,
+        "pe_90": 180.84
       },
       {
         "date": "2023-05-16",
         "price": 178.0,
-        "pe": 21.63,
-        "pe_10": 132.2,
-        "pe_25": 149.03,
-        "pe_50": 171.42,
-        "pe_75": 193.22,
-        "pe_90": 227.98
+        "pe": 22.58,
+        "pe_10": 127.23,
+        "pe_25": 147.65,
+        "pe_50": 160.66,
+        "pe_75": 175.24,
+        "pe_90": 185.25
       },
       {
         "date": "2023-06-15",
         "price": 168.5,
-        "pe": 20.33,
-        "pe_10": 133.14,
-        "pe_25": 150.1,
-        "pe_50": 172.64,
-        "pe_75": 194.61,
-        "pe_90": 229.62
+        "pe": 20.88,
+        "pe_10": 130.25,
+        "pe_25": 151.15,
+        "pe_50": 164.47,
+        "pe_75": 179.39,
+        "pe_90": 189.64
       },
       {
         "date": "2023-07-16",
         "price": 178.0,
-        "pe": 21.31,
-        "pe_10": 134.18,
-        "pe_25": 151.27,
-        "pe_50": 173.99,
-        "pe_75": 196.13,
-        "pe_90": 231.41
+        "pe": 21.8,
+        "pe_10": 131.79,
+        "pe_25": 152.93,
+        "pe_50": 166.41,
+        "pe_75": 181.51,
+        "pe_90": 191.88
       },
       {
         "date": "2023-08-16",
         "price": 164.0,
-        "pe": 19.49,
-        "pe_10": 135.17,
-        "pe_25": 152.39,
-        "pe_50": 175.28,
-        "pe_75": 197.57,
-        "pe_90": 233.12
+        "pe": 19.86,
+        "pe_10": 133.28,
+        "pe_25": 154.67,
+        "pe_50": 168.29,
+        "pe_75": 183.57,
+        "pe_90": 194.06
       },
       {
         "date": "2023-09-15",
         "price": 159.5,
-        "pe": 18.82,
-        "pe_10": 136.14,
-        "pe_25": 153.48,
-        "pe_50": 176.53,
-        "pe_75": 198.99,
-        "pe_90": 234.79
+        "pe": 19.1,
+        "pe_10": 134.78,
+        "pe_25": 156.41,
+        "pe_50": 170.19,
+        "pe_75": 185.64,
+        "pe_90": 196.24
       },
       {
         "date": "2023-10-16",
         "price": 160.0,
-        "pe": 18.74,
-        "pe_10": 137.15,
-        "pe_25": 154.62,
-        "pe_50": 177.84,
-        "pe_75": 200.47,
-        "pe_90": 236.53
+        "pe": 18.93,
+        "pe_10": 136.42,
+        "pe_25": 158.31,
+        "pe_50": 172.26,
+        "pe_75": 187.89,
+        "pe_90": 198.63
       },
       {
         "date": "2023-11-15",
         "price": 174.5,
-        "pe": 20.29,
-        "pe_10": 138.16,
-        "pe_25": 155.75,
-        "pe_50": 179.14,
-        "pe_75": 201.93,
-        "pe_90": 238.26
+        "pe": 20.39,
+        "pe_10": 138.13,
+        "pe_25": 160.29,
+        "pe_50": 174.41,
+        "pe_75": 190.25,
+        "pe_90": 201.12
       },
       {
         "date": "2023-12-16",
         "price": 192.5,
         "pe": 22.23,
-        "pe_10": 139.11,
-        "pe_25": 156.82,
-        "pe_50": 180.38,
-        "pe_75": 203.32,
-        "pe_90": 239.9
+        "pe_10": 139.76,
+        "pe_25": 162.19,
+        "pe_50": 176.48,
+        "pe_75": 192.5,
+        "pe_90": 203.5
       },
       {
         "date": "2024-01-16",
         "price": 184.0,
-        "pe": 20.95,
-        "pe_10": 141.09,
-        "pe_25": 159.06,
-        "pe_50": 182.95,
-        "pe_75": 206.22,
-        "pe_90": 243.32
+        "pe": 21.01,
+        "pe_10": 141.35,
+        "pe_25": 164.03,
+        "pe_50": 178.48,
+        "pe_75": 194.68,
+        "pe_90": 205.81
       },
       {
         "date": "2024-02-15",
         "price": 185.5,
-        "pe": 20.83,
-        "pe_10": 143.06,
-        "pe_25": 161.28,
-        "pe_50": 185.5,
-        "pe_75": 209.1,
-        "pe_90": 246.72
+        "pe": 20.95,
+        "pe_10": 142.91,
+        "pe_25": 165.84,
+        "pe_50": 180.45,
+        "pe_75": 196.83,
+        "pe_90": 208.08
       },
       {
         "date": "2024-03-16",
         "price": 175.0,
-        "pe": 19.39,
-        "pe_10": 144.98,
-        "pe_25": 163.45,
-        "pe_50": 188.0,
-        "pe_75": 211.91,
-        "pe_90": 250.04
+        "pe": 19.55,
+        "pe_10": 144.48,
+        "pe_25": 167.66,
+        "pe_50": 182.43,
+        "pe_75": 198.99,
+        "pe_90": 210.36
       },
       {
         "date": "2024-04-15",
         "price": 170.5,
-        "pe": 18.63,
-        "pe_10": 147.02,
-        "pe_25": 165.74,
-        "pe_50": 190.63,
-        "pe_75": 214.89,
-        "pe_90": 253.54
+        "pe": 18.73,
+        "pe_10": 146.92,
+        "pe_25": 170.5,
+        "pe_50": 185.52,
+        "pe_75": 202.36,
+        "pe_90": 213.92
       },
       {
         "date": "2024-05-16",
         "price": 173.0,
-        "pe": 18.66,
-        "pe_10": 148.93,
-        "pe_25": 167.9,
-        "pe_50": 193.12,
-        "pe_75": 217.69,
-        "pe_90": 256.85
+        "pe": 18.69,
+        "pe_10": 149.4,
+        "pe_25": 173.37,
+        "pe_50": 188.64,
+        "pe_75": 205.77,
+        "pe_90": 217.52
       },
       {
         "date": "2024-06-15",
         "price": 177.5,
-        "pe": 18.89,
-        "pe_10": 150.95,
-        "pe_25": 170.17,
-        "pe_50": 195.73,
-        "pe_75": 220.63,
-        "pe_90": 260.32
+        "pe": 18.86,
+        "pe_10": 151.9,
+        "pe_25": 176.28,
+        "pe_50": 191.81,
+        "pe_75": 209.22,
+        "pe_90": 221.17
       },
       {
         "date": "2024-07-16",
         "price": 223.5,
-        "pe": 23.48,
-        "pe_10": 152.91,
-        "pe_25": 172.38,
-        "pe_50": 198.28,
-        "pe_75": 223.5,
-        "pe_90": 263.71
+        "pe": 23.4,
+        "pe_10": 154.16,
+        "pe_25": 178.9,
+        "pe_50": 194.66,
+        "pe_75": 212.32,
+        "pe_90": 224.46
       },
       {
         "date": "2024-08-16",
         "price": 234.0,
-        "pe": 24.27,
-        "pe_10": 154.88,
-        "pe_25": 174.61,
-        "pe_50": 200.83,
-        "pe_75": 226.38,
-        "pe_90": 267.11
+        "pe": 24.15,
+        "pe_10": 156.39,
+        "pe_25": 181.48,
+        "pe_50": 197.47,
+        "pe_75": 215.4,
+        "pe_90": 227.7
       },
       {
         "date": "2024-09-15",
         "price": 236.5,
-        "pe": 24.23,
-        "pe_10": 156.79,
-        "pe_25": 176.76,
-        "pe_50": 203.31,
-        "pe_75": 229.18,
-        "pe_90": 270.41
+        "pe": 24.06,
+        "pe_10": 158.65,
+        "pe_25": 184.11,
+        "pe_50": 200.33,
+        "pe_75": 218.51,
+        "pe_90": 231.0
       },
       {
         "date": "2024-10-16",
         "price": 230.5,
-        "pe": 23.32,
-        "pe_10": 158.78,
-        "pe_25": 179.0,
-        "pe_50": 205.89,
-        "pe_75": 232.08,
-        "pe_90": 273.83
+        "pe": 23.21,
+        "pe_10": 160.29,
+        "pe_25": 186.01,
+        "pe_50": 202.4,
+        "pe_75": 220.77,
+        "pe_90": 233.38
       },
       {
         "date": "2024-11-15",
         "price": 201.5,
-        "pe": 20.13,
-        "pe_10": 160.8,
-        "pe_25": 181.28,
-        "pe_50": 208.51,
-        "pe_75": 235.03,
-        "pe_90": 277.32
+        "pe": 20.09,
+        "pe_10": 161.88,
+        "pe_25": 187.86,
+        "pe_50": 204.41,
+        "pe_75": 222.96,
+        "pe_90": 235.7
       },
       {
         "date": "2024-12-16",
         "price": 206.5,
         "pe": 20.38,
-        "pe_10": 162.77,
-        "pe_25": 183.5,
-        "pe_50": 211.06,
-        "pe_75": 237.91,
-        "pe_90": 280.71
+        "pe_10": 163.54,
+        "pe_25": 189.78,
+        "pe_50": 206.5,
+        "pe_75": 225.25,
+        "pe_90": 238.11
       },
       {
         "date": "2025-01-16",
         "price": 195.5,
-        "pe": 19.28,
-        "pe_10": 162.89,
-        "pe_25": 183.64,
-        "pe_50": 211.22,
-        "pe_75": 238.09,
-        "pe_90": 280.92
+        "pe": 20.83,
+        "pe_10": 151.48,
+        "pe_25": 175.79,
+        "pe_50": 191.28,
+        "pe_75": 208.64,
+        "pe_90": 220.56
       },
       {
         "date": "2025-02-14",
         "price": 204.5,
-        "pe": 20.16,
-        "pe_10": 162.95,
-        "pe_25": 183.71,
-        "pe_50": 211.3,
-        "pe_75": 238.18,
-        "pe_90": 281.03
+        "pe": 23.66,
+        "pe_10": 139.5,
+        "pe_25": 161.89,
+        "pe_50": 176.15,
+        "pe_75": 192.14,
+        "pe_90": 203.12
       },
       {
         "date": "2025-03-16",
         "price": 180.5,
-        "pe": 17.78,
-        "pe_10": 163.08,
-        "pe_25": 183.85,
-        "pe_50": 211.46,
-        "pe_75": 238.37,
-        "pe_90": 281.25
+        "pe": 22.85,
+        "pe_10": 127.5,
+        "pe_25": 147.95,
+        "pe_50": 160.99,
+        "pe_75": 175.6,
+        "pe_90": 185.63
       },
       {
         "date": "2025-04-15",
         "price": 185.5,
-        "pe": 18.26,
-        "pe_10": 163.19,
-        "pe_25": 183.98,
-        "pe_50": 211.61,
-        "pe_75": 238.53,
-        "pe_90": 281.44
+        "pe": 22.86,
+        "pe_10": 130.97,
+        "pe_25": 151.99,
+        "pe_50": 165.38,
+        "pe_75": 180.39,
+        "pe_90": 190.69
       },
       {
         "date": "2025-05-16",
         "price": 180.0,
-        "pe": 17.7,
-        "pe_10": 163.36,
-        "pe_25": 184.17,
-        "pe_50": 211.83,
-        "pe_75": 238.78,
-        "pe_90": 281.74
+        "pe": 21.62,
+        "pe_10": 134.38,
+        "pe_25": 155.94,
+        "pe_50": 169.68,
+        "pe_75": 185.08,
+        "pe_90": 195.65
       },
       {
         "date": "2025-06-15",
         "price": 174.0,
-        "pe": 17.1,
-        "pe_10": 163.46,
-        "pe_25": 184.28,
-        "pe_50": 211.95,
-        "pe_75": 238.92,
-        "pe_90": 281.9
+        "pe": 20.37,
+        "pe_10": 137.87,
+        "pe_25": 159.99,
+        "pe_50": 174.09,
+        "pe_75": 189.89,
+        "pe_90": 200.74
       },
       {
         "date": "2025-07-16",
         "price": 172.0,
-        "pe": 16.89,
-        "pe_10": 163.59,
-        "pe_25": 184.42,
-        "pe_50": 212.12,
-        "pe_75": 239.11,
-        "pe_90": 282.12
+        "pe": 19.61,
+        "pe_10": 141.56,
+        "pe_25": 164.28,
+        "pe_50": 178.75,
+        "pe_75": 194.98,
+        "pe_90": 206.12
       },
       {
         "date": "2025-08-16",
         "price": 184.5,
-        "pe": 18.11,
-        "pe_10": 163.66,
-        "pe_25": 184.5,
-        "pe_50": 212.21,
-        "pe_75": 239.21,
-        "pe_90": 282.24
+        "pe": 20.5,
+        "pe_10": 145.26,
+        "pe_25": 168.57,
+        "pe_50": 183.42,
+        "pe_75": 200.07,
+        "pe_90": 211.5
       },
       {
         "date": "2025-09-15",
         "price": 173.5,
-        "pe": 17.01,
-        "pe_10": 163.85,
-        "pe_25": 184.72,
-        "pe_50": 212.46,
-        "pe_75": 239.49,
-        "pe_90": 282.58
+        "pe": 18.8,
+        "pe_10": 148.95,
+        "pe_25": 172.85,
+        "pe_50": 188.08,
+        "pe_75": 205.15,
+        "pe_90": 216.88
       },
       {
         "date": "2025-10-16",
         "price": 176.5,
-        "pe": 17.3,
-        "pe_10": 163.89,
-        "pe_25": 184.76,
-        "pe_50": 212.51,
-        "pe_75": 239.55,
-        "pe_90": 282.64
+        "pe": 18.46,
+        "pe_10": 154.32,
+        "pe_25": 179.08,
+        "pe_50": 194.86,
+        "pe_75": 212.55,
+        "pe_90": 224.69
       },
       {
         "date": "2025-11-15",
         "price": 169.0,
-        "pe": 16.55,
-        "pe_10": 164.04,
-        "pe_25": 184.93,
-        "pe_50": 212.71,
-        "pe_75": 239.77,
-        "pe_90": 282.9
+        "pe": 17.09,
+        "pe_10": 159.61,
+        "pe_25": 185.22,
+        "pe_50": 201.53,
+        "pe_75": 219.83,
+        "pe_90": 232.39
       },
       {
         "date": "2025-12-16",
         "price": 174.0,
         "pe": 17.03,
-        "pe_10": 164.13,
-        "pe_25": 185.03,
-        "pe_50": 212.83,
-        "pe_75": 239.9,
-        "pe_90": 283.06
+        "pe_10": 164.91,
+        "pe_25": 191.37,
+        "pe_50": 208.23,
+        "pe_75": 227.13,
+        "pe_90": 240.11
       },
       {
         "date": "2026-01-16",
         "price": 163.0,
         "pe": 15.95,
-        "pe_10": 164.17,
-        "pe_25": 185.07,
-        "pe_50": 212.87,
-        "pe_75": 239.95,
-        "pe_90": 283.12
+        "pe_10": 164.94,
+        "pe_25": 191.41,
+        "pe_50": 208.27,
+        "pe_75": 227.18,
+        "pe_90": 240.16
       },
       {
         "date": "2026-02-14",
         "price": 165.0,
         "pe": 16.14,
-        "pe_10": 164.22,
-        "pe_25": 185.14,
-        "pe_50": 212.95,
-        "pe_75": 240.04,
-        "pe_90": 283.22
+        "pe_10": 165.0,
+        "pe_25": 191.48,
+        "pe_50": 208.35,
+        "pe_75": 227.26,
+        "pe_90": 240.24
+      },
+      {
+        "date": "2026-03-16",
+        "price": 169.5,
+        "pe": 16.59,
+        "pe_10": 164.9,
+        "pe_25": 191.36,
+        "pe_50": 208.22,
+        "pe_75": 227.12,
+        "pe_90": 240.1
       }
     ]
   },
@@ -4307,13 +1898,13 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (20.8倍)",
+            "title": "PE 50% (20.4倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (27.7倍)",
+            "title": "PE 90% (23.5倍)",
             "format": ".1f"
           }
         ]
@@ -4844,14 +2435,11 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 21.7 | +34.5% | 0.144 | 2022-12 (+500.0%) | 2019-10 (-70.3%) |
-| 6個月 | 21.9 | +21.5% | 0.325 | 2020-01 (+233.9%) | 2020-07 (-54.9%) |
-| 1年 | 22.2 | +11.5% | 0.591 | 2022-06 (+81.0%) | 2020-06 (-38.7%) |
-| 2年 | 22.5 | +13.4% | 0.639 | 2022-10 (+52.7%) | 2020-06 (-24.1%) |
-| 3年 | 22.9 | +15.2% | 0.368 | 2021-08 (+31.6%) | 2019-10 (-6.6%) |
-| 4年 | 25.7 | +12.3% | 0.535 | 2020-01 (+18.1%) | 2020-06 (+2.2%) |
-| 5年 | 27.5 | +8.5% | 0.897 | 2020-01 (+16.1%) | 2020-07 (+1.2%) |
-| 6年 | 22.9 | +9.2% | 0.967 | 2020-01 (+10.8%) | 2019-10 (+6.5%) |
+| 3個月 | 20.5 | +45.3% | 0.487 | 2022-12 (+500.0%) | 2024-10 (-48.0%) |
+| 6個月 | 20.7 | +18.2% | 0.630 | 2023-01 (+143.2%) | 2024-09 (-42.0%) |
+| 1年 | 20.8 | +10.1% | 0.629 | 2022-12 (+73.6%) | 2024-09 (-24.1%) |
+| 2年 | 20.2 | +9.0% | 0.726 | 2022-12 (+38.0%) | 2024-01 (-2.7%) |
+| 3年 | 18.0 | +10.9% | 0.981 | 2022-12 (+18.7%) | 2023-03 (+1.6%) |
 
 
 ## 🎯 使用說明
@@ -4870,4 +2458,4 @@ description: "6690 安碁資訊 (數位雲端) 本益比與未來報酬率關係
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:36:17 CST*
+*數據更新時間: 2026-03-21 12:43:15 CST*

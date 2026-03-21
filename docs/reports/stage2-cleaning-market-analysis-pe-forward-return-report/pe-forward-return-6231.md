@@ -2,7 +2,7 @@
 title: "6231 系微 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
     - **產業別**: 資訊服務業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:35:43 CST
+    - **報告生成時間**: 2026-03-21 12:42:34 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 61.54,
+        "pe_ratio": 35.56,
         "forward_return": -42.5,
         "start_price": 32.0,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 73.08,
+        "pe_ratio": 50.22,
         "forward_return": -76.11,
         "start_price": 38.0,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 69.81,
+        "pe_ratio": 59.18,
         "forward_return": -77.25,
         "start_price": 36.3,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 60.0,
+        "pe_ratio": 66.38,
         "forward_return": 2.57,
         "start_price": 31.2,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 51.15,
+        "pe_ratio": 68.79,
         "forward_return": 253.1,
         "start_price": 26.6,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 48.08,
+        "pe_ratio": 82.42,
         "forward_return": 228.66,
         "start_price": 25.0,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 60.38,
+        "pe_ratio": 142.7,
         "forward_return": 97.45,
         "start_price": 31.4,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 70.29,
+        "pe_ratio": 114.2,
         "forward_return": 29.38,
         "start_price": 36.55,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 73.85,
+        "pe_ratio": 91.43,
         "forward_return": 6.89,
         "start_price": 38.4,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 65.09,
+        "pe_ratio": 77.48,
         "forward_return": 6.38,
         "start_price": 39.0,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 52.04,
+        "pe_ratio": 72.53,
         "forward_return": 62.73,
         "start_price": 35.3,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 51.82,
+        "pe_ratio": 83.51,
         "forward_return": 2882.17,
         "start_price": 39.25,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 47.45,
+        "pe_ratio": 59.55,
         "forward_return": 8956.8,
         "start_price": 39.7,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 43.46,
+        "pe_ratio": 46.1,
         "forward_return": 4786.24,
         "start_price": 39.8,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 54.27,
+        "pe_ratio": 50.94,
         "forward_return": 1328.04,
         "start_price": 54.0,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 113.6,
+        "pe_ratio": 111.2,
         "forward_return": 36.72,
         "start_price": 122.0,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 91.91,
+        "pe_ratio": 93.53,
         "forward_return": -43.11,
         "start_price": 106.0,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 85.6,
+        "pe_ratio": 90.17,
         "forward_return": -52.15,
         "start_price": 105.5,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 100.6,
+        "pe_ratio": 103.9,
         "forward_return": -92.21,
         "start_price": 132.0,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 68.61,
         "forward_return": 29.86,
         "start_price": 94.0,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 41.62,
+        "pe_ratio": 41.47,
         "forward_return": 119.15,
         "start_price": 69.4,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 41.82,
+        "pe_ratio": 41.56,
         "forward_return": 77.6,
         "start_price": 78.0,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 49.7,
+        "pe_ratio": 49.28,
         "forward_return": 27.11,
         "start_price": 102.5,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 53.1,
+        "pe_ratio": 56.34,
         "forward_return": -26.73,
         "start_price": 120.0,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 36.62,
+        "pe_ratio": 41.28,
         "forward_return": 39.95,
         "start_price": 90.0,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 32.24,
+        "pe_ratio": 38.39,
         "forward_return": -82.79,
         "start_price": 85.6,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 44.64,
         "forward_return": -96.53,
         "start_price": 111.0,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 32.1,
+        "pe_ratio": 35.69,
         "forward_return": -79.57,
         "start_price": 97.9,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.91,
+        "pe_ratio": 18.3,
         "forward_return": 21.25,
         "start_price": 54.9,
         "start_year": 2008
@@ -318,7 +318,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.51,
         "forward_return": 142.52,
         "start_price": 47.6,
         "start_year": 2008
@@ -327,7 +327,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 13.59,
+        "pe_ratio": 13.9,
         "forward_return": 606.58,
         "start_price": 49.5,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.33,
         "forward_return": 3298.5,
         "start_price": 59.5,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.11,
         "forward_return": 3063.78,
         "start_price": 80.9,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 19.69,
         "forward_return": 482.21,
         "start_price": 94.1,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 26.84,
+        "pe_ratio": 25.19,
         "forward_return": 189.98,
         "start_price": 130.0,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 37.2,
+        "pe_ratio": 34.21,
         "forward_return": -45.69,
         "start_price": 189.5,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 31.06,
+        "pe_ratio": 28.04,
         "forward_return": -39.95,
         "start_price": 166.0,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 29.93,
+        "pe_ratio": 27.38,
         "forward_return": -55.63,
         "start_price": 167.5,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 27.45,
+        "pe_ratio": 25.42,
         "forward_return": -17.52,
         "start_price": 160.5,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.62,
+        "pe_ratio": 22.12,
         "forward_return": 19.39,
         "start_price": 144.0,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.5,
+        "pe_ratio": 20.61,
         "forward_return": -20.1,
         "start_price": 136.5,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 23.79,
+        "pe_ratio": 23.31,
         "forward_return": -44.35,
         "start_price": 157.0,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 18.9,
+        "pe_ratio": 19.23,
         "forward_return": -42.59,
         "start_price": 129.0,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.14,
+        "pe_ratio": 17.73,
         "forward_return": -27.84,
         "start_price": 116.5,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 20.14,
         "forward_return": -56.2,
         "start_price": 129.5,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 19.03,
         "forward_return": -54.36,
         "start_price": 119.5,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 17.54,
         "forward_return": -51.5,
         "start_price": 107.5,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 15.24,
+        "pe_ratio": 17.06,
         "forward_return": -34.21,
         "start_price": 102.0,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.76,
         "forward_return": 10.13,
         "start_price": 93.5,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.41,
         "forward_return": 130.0,
         "start_price": 84.8,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.9,
         "forward_return": 175.61,
         "start_price": 87.0,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.53,
+        "pe_ratio": 15.77,
         "forward_return": 106.52,
         "start_price": 95.8,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.35,
         "forward_return": 563.23,
         "start_price": 90.5,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.96,
+        "pe_ratio": 16.34,
         "forward_return": 102.5,
         "start_price": 115.0,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.5,
+        "pe_ratio": 18.19,
         "forward_return": 25.9,
         "start_price": 137.0,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 23.19,
+        "pe_ratio": 20.98,
         "forward_return": -36.87,
         "start_price": 168.5,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 17.17,
         "forward_return": 8.79,
         "start_price": 141.5,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.16,
         "forward_return": -52.04,
         "start_price": 145.0,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 19.82,
+        "pe_ratio": 18.3,
         "forward_return": -48.66,
         "start_price": 158.5,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.42,
         "forward_return": -10.95,
         "start_price": 139.0,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.27,
         "forward_return": 94.03,
         "start_price": 115.0,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 13.21,
         "forward_return": 55.76,
         "start_price": 128.5,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.01,
         "forward_return": 44.05,
         "start_price": 135.0,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.14,
+        "pe_ratio": 12.68,
         "forward_return": 85.56,
         "start_price": 121.0,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.57,
         "forward_return": -26.75,
         "start_price": 148.0,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.1,
+        "pe_ratio": 18.13,
         "forward_return": -41.38,
         "start_price": 152.5,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.82,
         "forward_return": -53.48,
         "start_price": 148.5,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.24,
+        "pe_ratio": 18.06,
         "forward_return": -47.46,
         "start_price": 135.0,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.38,
+        "pe_ratio": 18.92,
         "forward_return": -44.69,
         "start_price": 133.5,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.85,
+        "pe_ratio": 20.03,
         "forward_return": -15.44,
         "start_price": 133.0,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 18.33,
+        "pe_ratio": 17.66,
         "forward_return": -58.38,
         "start_price": 107.5,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.43,
         "forward_return": -58.09,
         "start_price": 107.5,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 24.79,
+        "pe_ratio": 24.1,
         "forward_return": -79.96,
         "start_price": 120.0,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 19.91,
+        "pe_ratio": 19.49,
         "forward_return": -40.6,
         "start_price": 86.2,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 20.28,
+        "pe_ratio": 20.03,
         "forward_return": -22.77,
         "start_price": 77.4,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 24.46,
+        "pe_ratio": 30.56,
         "forward_return": -63.89,
         "start_price": 75.6,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 24.79,
+        "pe_ratio": 43.43,
         "forward_return": -67.38,
         "start_price": 71.3,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 87.78,
         "forward_return": -72.33,
         "start_price": 71.1,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.41,
+        "pe_ratio": 65.23,
         "forward_return": -39.21,
         "start_price": 52.4,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 24.24,
+        "pe_ratio": 67.91,
         "forward_return": 29.04,
         "start_price": 54.1,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 68.73,
         "forward_return": 3.62,
         "start_price": 54.3,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 66.36,
         "forward_return": 103.75,
         "start_price": 43.8,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 34.75,
+        "pe_ratio": 104.2,
         "forward_return": -30.22,
         "start_price": 55.2,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 38.07,
+        "pe_ratio": 130.7,
         "forward_return": -23.33,
         "start_price": 52.3,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 102.7,
         "forward_return": -8.08,
         "start_price": 52.4,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 48.7,
+        "pe_ratio": 74.19,
         "forward_return": 55.68,
         "start_price": 46.0,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 71.75,
+        "pe_ratio": 52.71,
         "forward_return": 40.77,
         "start_price": 51.3,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 77.43,
+        "pe_ratio": 44.55,
         "forward_return": 26.21,
         "start_price": 54.2,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 77.66,
+        "pe_ratio": 36.44,
         "forward_return": -13.16,
         "start_price": 53.2,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 88.06,
+        "pe_ratio": 51.01,
         "forward_return": -45.37,
         "start_price": 59.0,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 87.63,
+        "pe_ratio": 67.27,
         "forward_return": -26.32,
         "start_price": 57.4,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 89.84,
+        "pe_ratio": 104.5,
         "forward_return": -2.39,
         "start_price": 57.5,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 80.32,
+        "pe_ratio": 81.85,
         "forward_return": -3.9,
         "start_price": 50.2,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 86.23,
+        "pe_ratio": 77.73,
         "forward_return": -14.08,
         "start_price": 52.6,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 95.13,
+        "pe_ratio": 76.49,
         "forward_return": -39.2,
         "start_price": 56.6,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 85.69,
+        "pe_ratio": 73.45,
         "forward_return": -12.18,
         "start_price": 49.7,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 87.52,
+        "pe_ratio": 80.62,
         "forward_return": -20.82,
         "start_price": 49.45,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 80.28,
+        "pe_ratio": 63.29,
         "forward_return": -57.54,
         "start_price": 48.1,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 74.5,
+        "pe_ratio": 49.79,
         "forward_return": -68.62,
         "start_price": 48.3,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 65.66,
+        "pe_ratio": 38.81,
         "forward_return": -65.17,
         "start_price": 45.8,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 52.9,
+        "pe_ratio": 31.02,
         "forward_return": -55.96,
         "start_price": 39.5,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 45.61,
+        "pe_ratio": 26.56,
         "forward_return": -69.35,
         "start_price": 36.3,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 40.24,
+        "pe_ratio": 23.29,
         "forward_return": -55.03,
         "start_price": 34.0,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 35.56,
+        "pe_ratio": 22.55,
         "forward_return": -3.69,
         "start_price": 31.8,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 28.14,
+        "pe_ratio": 19.52,
         "forward_return": -17.97,
         "start_price": 26.55,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.92,
         "forward_return": -32.44,
         "start_price": 27.4,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 30.24,
+        "pe_ratio": 25.13,
         "forward_return": -73.24,
         "start_price": 31.5,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.17,
+        "pe_ratio": 23.86,
         "forward_return": -53.2,
         "start_price": 28.55,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.62,
         "forward_return": 67.28,
         "start_price": 22.6,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 31.08,
+        "pe_ratio": 31.55,
         "forward_return": 45.73,
         "start_price": 24.4,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 36.54,
+        "pe_ratio": 37.63,
         "forward_return": 221.75,
         "start_price": 22.2,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 78.6,
+        "pe_ratio": 169.0,
         "forward_return": -11.36,
         "start_price": 33.8,
         "start_year": 2016
@@ -1136,26 +1136,17 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2016-05-16",
-        "pe_ratio": 106.1,
-        "forward_return": 111.11,
-        "start_price": 26.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2016-06-15",
-        "pe_ratio": 416.0,
-        "forward_return": 11.26,
-        "start_price": 31.2,
-        "start_year": 2016
+        "start_date": "2017-06-15",
+        "pe_ratio": 166.7,
+        "forward_return": 261.79,
+        "start_price": 40.0,
+        "start_year": 2017
       },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 333.0,
+        "pe_ratio": 115.2,
         "forward_return": 39.16,
         "start_price": 53.0,
         "start_year": 2017
@@ -1164,7 +1155,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 158.0,
+        "pe_ratio": 75.15,
         "forward_return": -13.41,
         "start_price": 51.1,
         "start_year": 2017
@@ -1173,7 +1164,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 112.8,
+        "pe_ratio": 61.11,
         "forward_return": -38.63,
         "start_price": 55.0,
         "start_year": 2017
@@ -1182,7 +1173,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 88.39,
+        "pe_ratio": 62.16,
         "forward_return": -55.96,
         "start_price": 57.6,
         "start_year": 2017
@@ -1191,7 +1182,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 68.27,
+        "pe_ratio": 58.43,
         "forward_return": -58.42,
         "start_price": 55.7,
         "start_year": 2017
@@ -1209,7 +1200,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 44.9,
+        "pe_ratio": 46.39,
         "forward_return": -32.37,
         "start_price": 46.85,
         "start_year": 2018
@@ -1218,7 +1209,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 36.42,
+        "pe_ratio": 38.75,
         "forward_return": 9.38,
         "start_price": 40.3,
         "start_year": 2018
@@ -1227,7 +1218,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 35.68,
+        "pe_ratio": 39.02,
         "forward_return": -10.38,
         "start_price": 41.75,
         "start_year": 2018
@@ -1236,7 +1227,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 29.51,
+        "pe_ratio": 32.21,
         "forward_return": 49.71,
         "start_price": 36.4,
         "start_year": 2018
@@ -1245,7 +1236,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 31.77,
+        "pe_ratio": 34.62,
         "forward_return": -13.26,
         "start_price": 41.2,
         "start_year": 2018
@@ -1254,7 +1245,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 30.15,
+        "pe_ratio": 32.8,
         "forward_return": -1.44,
         "start_price": 41.0,
         "start_year": 2018
@@ -1263,7 +1254,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.68,
+        "pe_ratio": 28.21,
         "forward_return": -69.56,
         "start_price": 39.4,
         "start_year": 2018
@@ -1272,7 +1263,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.17,
+        "pe_ratio": 25.21,
         "forward_return": -23.31,
         "start_price": 38.9,
         "start_year": 2018
@@ -1281,7 +1272,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.81,
+        "pe_ratio": 23.67,
         "forward_return": -37.36,
         "start_price": 40.0,
         "start_year": 2018
@@ -1290,7 +1281,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.1,
+        "pe_ratio": 17.11,
         "forward_return": 255.81,
         "start_price": 29.2,
         "start_year": 2018
@@ -1299,7 +1290,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.37,
+        "pe_ratio": 21.76,
         "forward_return": 103.37,
         "start_price": 37.5,
         "start_year": 2018
@@ -1317,7 +1308,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.29,
         "forward_return": 0.76,
         "start_price": 40.2,
         "start_year": 2019
@@ -1326,7 +1317,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 22.89,
+        "pe_ratio": 22.53,
         "forward_return": -15.85,
         "start_price": 42.05,
         "start_year": 2019
@@ -1335,7 +1326,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.53,
         "forward_return": -26.36,
         "start_price": 47.35,
         "start_year": 2019
@@ -1344,7 +1335,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.17,
+        "pe_ratio": 22.4,
         "forward_return": -17.14,
         "start_price": 44.8,
         "start_year": 2019
@@ -1353,7 +1344,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.34,
+        "pe_ratio": 19.47,
         "forward_return": 1241.21,
         "start_price": 40.3,
         "start_year": 2019
@@ -1362,7 +1353,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 19.61,
+        "pe_ratio": 18.6,
         "forward_return": 333.87,
         "start_price": 39.8,
         "start_year": 2019
@@ -1371,7 +1362,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.19,
         "forward_return": 716.26,
         "start_price": 41.25,
         "start_year": 2019
@@ -1380,7 +1371,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 35.74,
+        "pe_ratio": 35.19,
         "forward_return": -32.35,
         "start_price": 76.0,
         "start_year": 2019
@@ -1389,7 +1380,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.85,
         "forward_return": 100.3,
         "start_price": 56.1,
         "start_year": 2019
@@ -1398,7 +1389,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.48,
+        "pe_ratio": 31.53,
         "forward_return": -55.46,
         "start_price": 70.0,
         "start_year": 2019
@@ -1407,7 +1398,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 27.64,
+        "pe_ratio": 27.67,
         "forward_return": -57.9,
         "start_price": 62.8,
         "start_year": 2019
@@ -1425,7 +1416,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.96,
         "forward_return": 228.8,
         "start_price": 57.1,
         "start_year": 2020
@@ -1434,7 +1425,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 22.39,
+        "pe_ratio": 23.87,
         "forward_return": 344.73,
         "start_price": 58.4,
         "start_year": 2020
@@ -1443,7 +1434,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 18.78,
         "forward_return": 1305.76,
         "start_price": 47.15,
         "start_year": 2020
@@ -1452,7 +1443,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 21.37,
+        "pe_ratio": 22.03,
         "forward_return": 1060.11,
         "start_price": 61.9,
         "start_year": 2020
@@ -1461,7 +1452,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.23,
         "forward_return": 121.63,
         "start_price": 84.7,
         "start_year": 2020
@@ -1470,7 +1461,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.7,
+        "pe_ratio": 27.74,
         "forward_return": 2.11,
         "start_price": 94.6,
         "start_year": 2020
@@ -1479,7 +1470,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 33.64,
+        "pe_ratio": 30.52,
         "forward_return": -60.56,
         "start_price": 112.0,
         "start_year": 2020
@@ -1488,7 +1479,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 25.83,
         "forward_return": 25.5,
         "start_price": 101.5,
         "start_year": 2020
@@ -1497,7 +1488,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 25.74,
+        "pe_ratio": 22.22,
         "forward_return": 91.79,
         "start_price": 93.1,
         "start_year": 2020
@@ -1506,7 +1497,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 23.55,
+        "pe_ratio": 21.38,
         "forward_return": 6.42,
         "start_price": 88.6,
         "start_year": 2020
@@ -1515,7 +1506,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 23.27,
+        "pe_ratio": 22.19,
         "forward_return": 10.03,
         "start_price": 90.9,
         "start_year": 2020
@@ -1533,7 +1524,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.67,
         "forward_return": -35.06,
         "start_price": 90.0,
         "start_year": 2021
@@ -1542,7 +1533,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.65,
+        "pe_ratio": 22.2,
         "forward_return": -53.86,
         "start_price": 94.5,
         "start_year": 2021
@@ -1551,7 +1542,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 21.51,
         "forward_return": 34.26,
         "start_price": 93.8,
         "start_year": 2021
@@ -1560,7 +1551,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 21.03,
         "forward_return": 94.42,
         "start_price": 87.7,
         "start_year": 2021
@@ -1569,7 +1560,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 16.14,
+        "pe_ratio": 19.62,
         "forward_return": -9.79,
         "start_price": 78.1,
         "start_year": 2021
@@ -1578,7 +1569,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 15.92,
+        "pe_ratio": 20.98,
         "forward_return": -13.27,
         "start_price": 79.5,
         "start_year": 2021
@@ -1587,7 +1578,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 19.41,
+        "pe_ratio": 26.09,
         "forward_return": -62.33,
         "start_price": 100.0,
         "start_year": 2021
@@ -1596,7 +1587,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 18.73,
         "forward_return": 49.3,
         "start_price": 72.6,
         "start_year": 2021
@@ -1605,7 +1596,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 18.67,
         "forward_return": 65.58,
         "start_price": 73.2,
         "start_year": 2021
@@ -1614,7 +1605,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 17.02,
         "forward_return": 11.09,
         "start_price": 78.2,
         "start_year": 2021
@@ -1623,7 +1614,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 14.8,
+        "pe_ratio": 16.25,
         "forward_return": 117.53,
         "start_price": 85.6,
         "start_year": 2021
@@ -1641,7 +1632,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.67,
         "forward_return": 49.79,
         "start_price": 80.3,
         "start_year": 2022
@@ -1650,7 +1641,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.45,
+        "pe_ratio": 14.21,
         "forward_return": -15.91,
         "start_price": 95.7,
         "start_year": 2022
@@ -1659,7 +1650,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 15.5,
         "forward_return": -63.1,
         "start_price": 110.5,
         "start_year": 2022
@@ -1668,7 +1659,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.58,
+        "pe_ratio": 12.68,
         "forward_return": -49.72,
         "start_price": 94.0,
         "start_year": 2022
@@ -1677,7 +1668,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 11.91,
         "forward_return": -35.53,
         "start_price": 91.7,
         "start_year": 2022
@@ -1686,7 +1677,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 10.94,
+        "pe_ratio": 9.19,
         "forward_return": -17.18,
         "start_price": 73.3,
         "start_year": 2022
@@ -1695,7 +1686,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.84,
+        "pe_ratio": 9.08,
         "forward_return": 1.62,
         "start_price": 74.0,
         "start_year": 2022
@@ -1704,7 +1695,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 9.25,
         "forward_return": 24.77,
         "start_price": 76.9,
         "start_year": 2022
@@ -1713,7 +1704,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.14,
+        "pe_ratio": 7.63,
         "forward_return": 169.14,
         "start_price": 64.7,
         "start_year": 2022
@@ -1722,7 +1713,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.31,
+        "pe_ratio": 9.13,
         "forward_return": 133.57,
         "start_price": 74.3,
         "start_year": 2022
@@ -1731,7 +1722,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.32,
         "forward_return": 325.06,
         "start_price": 80.5,
         "start_year": 2022
@@ -1749,7 +1740,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.01,
         "forward_return": 139.05,
         "start_price": 92.0,
         "start_year": 2023
@@ -1758,7 +1749,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 14.8,
+        "pe_ratio": 15.55,
         "forward_return": 94.34,
         "start_price": 104.0,
         "start_year": 2023
@@ -1767,7 +1758,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 19.02,
+        "pe_ratio": 20.56,
         "forward_return": 164.89,
         "start_price": 129.5,
         "start_year": 2023
@@ -1776,7 +1767,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 21.34,
         "forward_return": 305.55,
         "start_price": 126.5,
         "start_year": 2023
@@ -1785,7 +1776,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 22.06,
         "forward_return": 134.29,
         "start_price": 122.5,
         "start_year": 2023
@@ -1794,7 +1785,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 18.26,
+        "pe_ratio": 21.72,
         "forward_return": 241.62,
         "start_price": 112.5,
         "start_year": 2023
@@ -1803,7 +1794,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 29.11,
+        "pe_ratio": 34.03,
         "forward_return": -43.24,
         "start_price": 173.0,
         "start_year": 2023
@@ -1812,7 +1803,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 25.41,
+        "pe_ratio": 29.18,
         "forward_return": 465.3,
         "start_price": 145.5,
         "start_year": 2023
@@ -1821,7 +1812,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 30.06,
         "forward_return": 878.75,
         "start_price": 147.0,
         "start_year": 2023
@@ -1830,7 +1821,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 28.34,
+        "pe_ratio": 30.74,
         "forward_return": 703.04,
         "start_price": 150.0,
         "start_year": 2023
@@ -1839,7 +1830,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 34.87,
+        "pe_ratio": 36.34,
         "forward_return": 183.59,
         "start_price": 177.0,
         "start_year": 2023
@@ -1857,7 +1848,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 50.01,
+        "pe_ratio": 48.56,
         "forward_return": 139.37,
         "start_price": 253.5,
         "start_year": 2024
@@ -1866,7 +1857,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 55.6,
+        "pe_ratio": 52.6,
         "forward_return": 77.28,
         "start_price": 293.5,
         "start_year": 2024
@@ -1875,7 +1866,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 45.56,
+        "pe_ratio": 42.09,
         "forward_return": 349.46,
         "start_price": 250.0,
         "start_year": 2024
@@ -1884,7 +1875,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 41.69,
+        "pe_ratio": 36.94,
         "forward_return": 821.4,
         "start_price": 237.5,
         "start_year": 2024
@@ -1893,7 +1884,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 57.32,
+        "pe_ratio": 48.92,
         "forward_return": 183.25,
         "start_price": 338.5,
         "start_year": 2024
@@ -1902,7 +1893,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 65.9,
+        "pe_ratio": 54.39,
         "forward_return": 178.26,
         "start_price": 403.0,
         "start_year": 2024
@@ -1911,7 +1902,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 64.91,
+        "pe_ratio": 57.44,
         "forward_return": 175.76,
         "start_price": 410.5,
         "start_year": 2024
@@ -1920,7 +1911,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 66.96,
+        "pe_ratio": 63.56,
         "forward_return": -31.27,
         "start_price": 437.5,
         "start_year": 2024
@@ -1929,7 +1920,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 76.97,
+        "pe_ratio": 78.4,
         "forward_return": -69.53,
         "start_price": 519.0,
         "start_year": 2024
@@ -1938,7 +1929,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 76.24,
+        "pe_ratio": 77.15,
         "forward_return": -66.96,
         "start_price": 530.0,
         "start_year": 2024
@@ -1947,7 +1938,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 65.36,
+        "pe_ratio": 65.73,
         "forward_return": -79.29,
         "start_price": 468.0,
         "start_year": 2024
@@ -1965,7 +1956,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 54.89,
+        "pe_ratio": 54.12,
         "forward_return": -83.35,
         "start_price": 401.0,
         "start_year": 2025
@@ -1974,7 +1965,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 54.2,
+        "pe_ratio": 52.68,
         "forward_return": -90.01,
         "start_price": 392.5,
         "start_year": 2025
@@ -1983,7 +1974,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 38.87,
+        "pe_ratio": 37.25,
         "forward_return": -47.83,
         "start_price": 279.0,
         "start_year": 2025
@@ -1992,7 +1983,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 35.99,
+        "pe_ratio": 35.44,
         "forward_return": -40.96,
         "start_price": 256.0,
         "start_year": 2025
@@ -2001,7 +1992,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 31.56,
+        "pe_ratio": 31.98,
         "forward_return": 39.59,
         "start_price": 222.5,
         "start_year": 2025
@@ -2010,7 +2001,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 36.86,
+        "pe_ratio": 38.49,
         "forward_return": 28.89,
         "start_price": 257.5,
         "start_year": 2025
@@ -2019,7 +2010,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 31.5,
+        "pe_ratio": 32.73,
         "forward_return": 19.49,
         "start_price": 218.0,
         "start_year": 2025
@@ -2028,7 +2019,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 34.35,
+        "pe_ratio": 35.52,
         "forward_return": -24.92,
         "start_price": 235.5,
         "start_year": 2025
@@ -2037,7 +2028,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 39.46,
+        "pe_ratio": 40.61,
         "forward_return": -59.47,
         "start_price": 268.0,
         "start_year": 2025
@@ -2046,7 +2037,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 33.89,
+        "pe_ratio": 34.44,
         "forward_return": -36.32,
         "start_price": 228.0,
         "start_year": 2025
@@ -2055,7 +2046,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 61.54,
+        "pe_ratio": 35.56,
         "forward_return": 25.47,
         "start_price": 32.0,
         "start_year": 2006
@@ -2064,7 +2055,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 73.08,
+        "pe_ratio": 50.22,
         "forward_return": -7.47,
         "start_price": 38.0,
         "start_year": 2006
@@ -2073,7 +2064,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 69.81,
+        "pe_ratio": 59.18,
         "forward_return": 4.27,
         "start_price": 36.3,
         "start_year": 2006
@@ -2082,7 +2073,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 60.0,
+        "pe_ratio": 66.38,
         "forward_return": 42.06,
         "start_price": 31.2,
         "start_year": 2006
@@ -2091,7 +2082,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 51.15,
+        "pe_ratio": 68.79,
         "forward_return": 113.74,
         "start_price": 26.6,
         "start_year": 2006
@@ -2100,7 +2091,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 48.08,
+        "pe_ratio": 82.42,
         "forward_return": 117.53,
         "start_price": 25.0,
         "start_year": 2006
@@ -2109,7 +2100,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 60.38,
+        "pe_ratio": 142.7,
         "forward_return": 56.88,
         "start_price": 31.4,
         "start_year": 2006
@@ -2118,7 +2109,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 70.29,
+        "pe_ratio": 114.2,
         "forward_return": 15.81,
         "start_price": 36.55,
         "start_year": 2006
@@ -2127,7 +2118,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 73.85,
+        "pe_ratio": 91.43,
         "forward_return": 7.49,
         "start_price": 38.4,
         "start_year": 2006
@@ -2145,7 +2136,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 65.09,
+        "pe_ratio": 77.48,
         "forward_return": 898.81,
         "start_price": 39.0,
         "start_year": 2007
@@ -2154,7 +2145,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 52.04,
+        "pe_ratio": 72.53,
         "forward_return": 808.54,
         "start_price": 35.3,
         "start_year": 2007
@@ -2163,7 +2154,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 51.82,
+        "pe_ratio": 83.51,
         "forward_return": 692.53,
         "start_price": 39.25,
         "start_year": 2007
@@ -2172,7 +2163,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 47.45,
+        "pe_ratio": 59.55,
         "forward_return": 1000.09,
         "start_price": 39.7,
         "start_year": 2007
@@ -2181,7 +2172,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 43.46,
+        "pe_ratio": 46.1,
         "forward_return": 285.89,
         "start_price": 39.8,
         "start_year": 2007
@@ -2190,7 +2181,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 54.27,
+        "pe_ratio": 50.94,
         "forward_return": 163.84,
         "start_price": 54.0,
         "start_year": 2007
@@ -2199,7 +2190,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 113.6,
+        "pe_ratio": 111.2,
         "forward_return": -67.37,
         "start_price": 122.0,
         "start_year": 2007
@@ -2208,7 +2199,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 91.91,
+        "pe_ratio": 93.53,
         "forward_return": -5.6,
         "start_price": 106.0,
         "start_year": 2007
@@ -2217,7 +2208,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 85.6,
+        "pe_ratio": 90.17,
         "forward_return": -5.63,
         "start_price": 105.5,
         "start_year": 2007
@@ -2226,7 +2217,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 100.6,
+        "pe_ratio": 103.9,
         "forward_return": -48.15,
         "start_price": 132.0,
         "start_year": 2007
@@ -2235,7 +2226,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 68.61,
         "forward_return": -8.36,
         "start_price": 94.0,
         "start_year": 2007
@@ -2253,7 +2244,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 41.62,
+        "pe_ratio": 41.47,
         "forward_return": 156.88,
         "start_price": 69.4,
         "start_year": 2008
@@ -2262,7 +2253,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 41.82,
+        "pe_ratio": 41.56,
         "forward_return": 57.55,
         "start_price": 78.0,
         "start_year": 2008
@@ -2271,7 +2262,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 49.7,
+        "pe_ratio": 49.28,
         "forward_return": -72.94,
         "start_price": 102.5,
         "start_year": 2008
@@ -2280,7 +2271,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 53.1,
+        "pe_ratio": 56.34,
         "forward_return": -84.17,
         "start_price": 120.0,
         "start_year": 2008
@@ -2289,7 +2280,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 36.62,
+        "pe_ratio": 41.28,
         "forward_return": -53.24,
         "start_price": 90.0,
         "start_year": 2008
@@ -2298,7 +2289,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 32.24,
+        "pe_ratio": 38.39,
         "forward_return": -54.57,
         "start_price": 85.6,
         "start_year": 2008
@@ -2307,7 +2298,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 44.64,
         "forward_return": -71.0,
         "start_price": 111.0,
         "start_year": 2008
@@ -2316,7 +2307,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 32.1,
+        "pe_ratio": 35.69,
         "forward_return": -6.59,
         "start_price": 97.9,
         "start_year": 2008
@@ -2325,7 +2316,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.91,
+        "pe_ratio": 18.3,
         "forward_return": 196.64,
         "start_price": 54.9,
         "start_year": 2008
@@ -2334,7 +2325,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.51,
         "forward_return": 980.76,
         "start_price": 47.6,
         "start_year": 2008
@@ -2343,7 +2334,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-11-15",
-        "pe_ratio": 13.59,
+        "pe_ratio": 13.9,
         "forward_return": 1401.33,
         "start_price": 49.5,
         "start_year": 2008
@@ -2361,7 +2352,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.33,
         "forward_return": 726.81,
         "start_price": 59.5,
         "start_year": 2009
@@ -2370,7 +2361,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.11,
         "forward_return": 305.35,
         "start_price": 80.9,
         "start_year": 2009
@@ -2379,7 +2370,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 19.69,
         "forward_return": 93.39,
         "start_price": 94.1,
         "start_year": 2009
@@ -2388,7 +2379,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 26.84,
+        "pe_ratio": 25.19,
         "forward_return": 13.46,
         "start_price": 130.0,
         "start_year": 2009
@@ -2397,7 +2388,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 37.2,
+        "pe_ratio": 34.21,
         "forward_return": -30.99,
         "start_price": 189.5,
         "start_year": 2009
@@ -2406,7 +2397,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 31.06,
+        "pe_ratio": 28.04,
         "forward_return": -15.59,
         "start_price": 166.0,
         "start_year": 2009
@@ -2415,7 +2406,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 29.93,
+        "pe_ratio": 27.38,
         "forward_return": -40.46,
         "start_price": 167.5,
         "start_year": 2009
@@ -2424,7 +2415,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 27.45,
+        "pe_ratio": 25.42,
         "forward_return": -30.91,
         "start_price": 160.5,
         "start_year": 2009
@@ -2433,7 +2424,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.62,
+        "pe_ratio": 22.12,
         "forward_return": -19.28,
         "start_price": 144.0,
         "start_year": 2009
@@ -2442,7 +2433,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.5,
+        "pe_ratio": 20.61,
         "forward_return": -33.73,
         "start_price": 136.5,
         "start_year": 2009
@@ -2451,7 +2442,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 23.79,
+        "pe_ratio": 23.31,
         "forward_return": -53.43,
         "start_price": 157.0,
         "start_year": 2009
@@ -2469,7 +2460,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 18.9,
+        "pe_ratio": 19.23,
         "forward_return": -42.23,
         "start_price": 129.0,
         "start_year": 2010
@@ -2478,7 +2469,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.14,
+        "pe_ratio": 17.73,
         "forward_return": -40.97,
         "start_price": 116.5,
         "start_year": 2010
@@ -2487,7 +2478,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 20.14,
         "forward_return": -35.03,
         "start_price": 129.5,
         "start_year": 2010
@@ -2496,7 +2487,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 19.03,
         "forward_return": -29.1,
         "start_price": 119.5,
         "start_year": 2010
@@ -2505,7 +2496,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 17.54,
         "forward_return": 15.19,
         "start_price": 107.5,
         "start_year": 2010
@@ -2514,7 +2505,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 15.24,
+        "pe_ratio": 17.06,
         "forward_return": 31.03,
         "start_price": 102.0,
         "start_year": 2010
@@ -2523,7 +2514,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.76,
         "forward_return": 50.81,
         "start_price": 93.5,
         "start_year": 2010
@@ -2532,7 +2523,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.41,
         "forward_return": 226.41,
         "start_price": 84.8,
         "start_year": 2010
@@ -2541,7 +2532,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.9,
         "forward_return": 279.59,
         "start_price": 87.0,
         "start_year": 2010
@@ -2550,7 +2541,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.53,
+        "pe_ratio": 15.77,
         "forward_return": 104.23,
         "start_price": 95.8,
         "start_year": 2010
@@ -2559,7 +2550,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.35,
         "forward_return": 158.89,
         "start_price": 90.5,
         "start_year": 2010
@@ -2577,7 +2568,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.96,
+        "pe_ratio": 16.34,
         "forward_return": 58.53,
         "start_price": 115.0,
         "start_year": 2011
@@ -2586,7 +2577,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.5,
+        "pe_ratio": 18.19,
         "forward_return": -22.71,
         "start_price": 137.0,
         "start_year": 2011
@@ -2595,7 +2586,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 23.19,
+        "pe_ratio": 20.98,
         "forward_return": -26.67,
         "start_price": 168.5,
         "start_year": 2011
@@ -2604,7 +2595,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 17.17,
         "forward_return": -1.41,
         "start_price": 141.5,
         "start_year": 2011
@@ -2613,7 +2604,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.16,
         "forward_return": 4.75,
         "start_price": 145.0,
         "start_year": 2011
@@ -2622,7 +2613,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 19.82,
+        "pe_ratio": 18.3,
         "forward_return": -11.61,
         "start_price": 158.5,
         "start_year": 2011
@@ -2631,7 +2622,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.42,
         "forward_return": 13.26,
         "start_price": 139.0,
         "start_year": 2011
@@ -2640,7 +2631,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.27,
         "forward_return": 55.02,
         "start_price": 115.0,
         "start_year": 2011
@@ -2649,7 +2640,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 13.21,
         "forward_return": 33.68,
         "start_price": 128.5,
         "start_year": 2011
@@ -2658,7 +2649,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.01,
         "forward_return": -1.9,
         "start_price": 135.0,
         "start_year": 2011
@@ -2667,7 +2658,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.14,
+        "pe_ratio": 12.68,
         "forward_return": 21.81,
         "start_price": 121.0,
         "start_year": 2011
@@ -2685,7 +2676,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.57,
         "forward_return": -39.73,
         "start_price": 148.0,
         "start_year": 2012
@@ -2694,7 +2685,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.1,
+        "pe_ratio": 18.13,
         "forward_return": -43.07,
         "start_price": 152.5,
         "start_year": 2012
@@ -2703,7 +2694,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.82,
         "forward_return": -54.43,
         "start_price": 148.5,
         "start_year": 2012
@@ -2712,7 +2703,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.24,
+        "pe_ratio": 18.06,
         "forward_return": -51.75,
         "start_price": 135.0,
         "start_year": 2012
@@ -2721,7 +2712,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.38,
+        "pe_ratio": 18.92,
         "forward_return": -51.0,
         "start_price": 133.5,
         "start_year": 2012
@@ -2730,7 +2721,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.85,
+        "pe_ratio": 20.03,
         "forward_return": -56.25,
         "start_price": 133.0,
         "start_year": 2012
@@ -2739,7 +2730,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 18.33,
+        "pe_ratio": 17.66,
         "forward_return": -50.28,
         "start_price": 107.5,
         "start_year": 2012
@@ -2748,7 +2739,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.43,
         "forward_return": -50.95,
         "start_price": 107.5,
         "start_year": 2012
@@ -2757,7 +2748,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 24.79,
+        "pe_ratio": 24.1,
         "forward_return": -65.22,
         "start_price": 120.0,
         "start_year": 2012
@@ -2766,7 +2757,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 19.91,
+        "pe_ratio": 19.49,
         "forward_return": -55.18,
         "start_price": 86.2,
         "start_year": 2012
@@ -2775,7 +2766,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 20.28,
+        "pe_ratio": 20.03,
         "forward_return": -51.46,
         "start_price": 77.4,
         "start_year": 2012
@@ -2793,7 +2784,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 24.46,
+        "pe_ratio": 30.56,
         "forward_return": -62.84,
         "start_price": 75.6,
         "start_year": 2013
@@ -2802,7 +2793,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 24.79,
+        "pe_ratio": 43.43,
         "forward_return": -34.63,
         "start_price": 71.3,
         "start_year": 2013
@@ -2811,7 +2802,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 87.78,
         "forward_return": -35.71,
         "start_price": 71.1,
         "start_year": 2013
@@ -2820,7 +2811,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.41,
+        "pe_ratio": 65.23,
         "forward_return": 9.7,
         "start_price": 52.4,
         "start_year": 2013
@@ -2829,7 +2820,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 24.24,
+        "pe_ratio": 67.91,
         "forward_return": -8.25,
         "start_price": 54.1,
         "start_year": 2013
@@ -2838,7 +2829,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 68.73,
         "forward_return": -10.24,
         "start_price": 54.3,
         "start_year": 2013
@@ -2847,7 +2838,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 66.36,
         "forward_return": 36.85,
         "start_price": 43.8,
         "start_year": 2013
@@ -2856,7 +2847,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 34.75,
+        "pe_ratio": 104.2,
         "forward_return": -6.16,
         "start_price": 55.2,
         "start_year": 2013
@@ -2865,7 +2856,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 38.07,
+        "pe_ratio": 130.7,
         "forward_return": 3.5,
         "start_price": 52.3,
         "start_year": 2013
@@ -2874,7 +2865,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 102.7,
         "forward_return": 17.0,
         "start_price": 52.4,
         "start_year": 2013
@@ -2883,7 +2874,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 48.7,
+        "pe_ratio": 74.19,
         "forward_return": 56.33,
         "start_price": 46.0,
         "start_year": 2013
@@ -2901,7 +2892,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 71.75,
+        "pe_ratio": 52.71,
         "forward_return": -2.15,
         "start_price": 51.3,
         "start_year": 2014
@@ -2910,7 +2901,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 77.43,
+        "pe_ratio": 44.55,
         "forward_return": -3.85,
         "start_price": 54.2,
         "start_year": 2014
@@ -2919,7 +2910,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 77.66,
+        "pe_ratio": 36.44,
         "forward_return": -9.28,
         "start_price": 53.2,
         "start_year": 2014
@@ -2928,7 +2919,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 88.06,
+        "pe_ratio": 51.01,
         "forward_return": -27.41,
         "start_price": 59.0,
         "start_year": 2014
@@ -2937,7 +2928,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 87.63,
+        "pe_ratio": 67.27,
         "forward_return": -19.5,
         "start_price": 57.4,
         "start_year": 2014
@@ -2946,7 +2937,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 89.84,
+        "pe_ratio": 104.5,
         "forward_return": -22.67,
         "start_price": 57.5,
         "start_year": 2014
@@ -2955,7 +2946,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 80.32,
+        "pe_ratio": 81.85,
         "forward_return": -8.13,
         "start_price": 50.2,
         "start_year": 2014
@@ -2964,7 +2955,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 86.23,
+        "pe_ratio": 77.73,
         "forward_return": -21.22,
         "start_price": 52.6,
         "start_year": 2014
@@ -2973,7 +2964,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 95.13,
+        "pe_ratio": 76.49,
         "forward_return": -34.77,
         "start_price": 56.6,
         "start_year": 2014
@@ -2982,7 +2973,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 85.69,
+        "pe_ratio": 73.45,
         "forward_return": -41.8,
         "start_price": 49.7,
         "start_year": 2014
@@ -2991,7 +2982,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 87.52,
+        "pe_ratio": 80.62,
         "forward_return": -46.41,
         "start_price": 49.45,
         "start_year": 2014
@@ -3009,7 +3000,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 80.28,
+        "pe_ratio": 63.29,
         "forward_return": -55.51,
         "start_price": 48.1,
         "start_year": 2015
@@ -3018,7 +3009,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 74.5,
+        "pe_ratio": 49.79,
         "forward_return": -68.99,
         "start_price": 48.3,
         "start_year": 2015
@@ -3027,7 +3018,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 65.66,
+        "pe_ratio": 38.81,
         "forward_return": -46.06,
         "start_price": 45.8,
         "start_year": 2015
@@ -3036,7 +3027,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 52.9,
+        "pe_ratio": 31.02,
         "forward_return": -34.72,
         "start_price": 39.5,
         "start_year": 2015
@@ -3045,7 +3036,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 45.61,
+        "pe_ratio": 26.56,
         "forward_return": -46.18,
         "start_price": 36.3,
         "start_year": 2015
@@ -3054,7 +3045,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 40.24,
+        "pe_ratio": 23.29,
         "forward_return": -44.78,
         "start_price": 34.0,
         "start_year": 2015
@@ -3063,7 +3054,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 35.56,
+        "pe_ratio": 22.55,
         "forward_return": -49.23,
         "start_price": 31.8,
         "start_year": 2015
@@ -3072,7 +3063,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 28.14,
+        "pe_ratio": 19.52,
         "forward_return": -26.42,
         "start_price": 26.55,
         "start_year": 2015
@@ -3081,7 +3072,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.92,
         "forward_return": -34.45,
         "start_price": 27.4,
         "start_year": 2015
@@ -3090,7 +3081,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 30.24,
+        "pe_ratio": 25.13,
         "forward_return": -24.2,
         "start_price": 31.5,
         "start_year": 2015
@@ -3099,7 +3090,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.17,
+        "pe_ratio": 23.86,
         "forward_return": -11.92,
         "start_price": 28.55,
         "start_year": 2015
@@ -3117,7 +3108,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.62,
         "forward_return": 111.17,
         "start_price": 22.6,
         "start_year": 2016
@@ -3126,7 +3117,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 31.08,
+        "pe_ratio": 31.55,
         "forward_return": 75.58,
         "start_price": 24.4,
         "start_year": 2016
@@ -3135,7 +3126,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 36.54,
+        "pe_ratio": 37.63,
         "forward_return": 68.61,
         "start_price": 22.2,
         "start_year": 2016
@@ -3144,7 +3135,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 78.6,
+        "pe_ratio": 169.0,
         "forward_return": -20.39,
         "start_price": 33.8,
         "start_year": 2016
@@ -3152,26 +3143,17 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2016-05-16",
-        "pe_ratio": 106.1,
-        "forward_return": -11.49,
-        "start_price": 26.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2016-06-15",
-        "pe_ratio": 416.0,
-        "forward_return": -35.99,
-        "start_price": 31.2,
-        "start_year": 2016
+        "start_date": "2017-06-15",
+        "pe_ratio": 166.7,
+        "forward_return": 49.94,
+        "start_price": 40.0,
+        "start_year": 2017
       },
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 333.0,
+        "pe_ratio": 115.2,
         "forward_return": -21.72,
         "start_price": 53.0,
         "start_year": 2017
@@ -3180,7 +3162,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 158.0,
+        "pe_ratio": 75.15,
         "forward_return": -29.4,
         "start_price": 51.1,
         "start_year": 2017
@@ -3189,7 +3171,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 112.8,
+        "pe_ratio": 61.11,
         "forward_return": -42.66,
         "start_price": 55.0,
         "start_year": 2017
@@ -3198,7 +3180,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 88.39,
+        "pe_ratio": 62.16,
         "forward_return": -43.86,
         "start_price": 57.6,
         "start_year": 2017
@@ -3207,7 +3189,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 68.27,
+        "pe_ratio": 58.43,
         "forward_return": -45.58,
         "start_price": 55.7,
         "start_year": 2017
@@ -3225,7 +3207,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 44.9,
+        "pe_ratio": 46.39,
         "forward_return": -26.39,
         "start_price": 46.85,
         "start_year": 2018
@@ -3234,7 +3216,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 36.42,
+        "pe_ratio": 38.75,
         "forward_return": -2.72,
         "start_price": 40.3,
         "start_year": 2018
@@ -3243,7 +3225,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 35.68,
+        "pe_ratio": 39.02,
         "forward_return": -42.95,
         "start_price": 41.75,
         "start_year": 2018
@@ -3252,7 +3234,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 29.51,
+        "pe_ratio": 32.21,
         "forward_return": -31.79,
         "start_price": 36.4,
         "start_year": 2018
@@ -3261,7 +3243,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 31.77,
+        "pe_ratio": 34.62,
         "forward_return": -18.87,
         "start_price": 41.2,
         "start_year": 2018
@@ -3270,7 +3252,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 30.15,
+        "pe_ratio": 32.8,
         "forward_return": -20.93,
         "start_price": 41.0,
         "start_year": 2018
@@ -3279,7 +3261,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.68,
+        "pe_ratio": 28.21,
         "forward_return": 4.07,
         "start_price": 39.4,
         "start_year": 2018
@@ -3288,7 +3270,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.17,
+        "pe_ratio": 25.21,
         "forward_return": 40.31,
         "start_price": 38.9,
         "start_year": 2018
@@ -3297,7 +3279,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.81,
+        "pe_ratio": 23.67,
         "forward_return": 40.55,
         "start_price": 40.0,
         "start_year": 2018
@@ -3306,7 +3288,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.1,
+        "pe_ratio": 17.11,
         "forward_return": 74.21,
         "start_price": 29.2,
         "start_year": 2018
@@ -3315,7 +3297,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.37,
+        "pe_ratio": 21.76,
         "forward_return": 15.64,
         "start_price": 37.5,
         "start_year": 2018
@@ -3333,7 +3315,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.29,
         "forward_return": 13.21,
         "start_price": 40.2,
         "start_year": 2019
@@ -3342,7 +3324,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 22.89,
+        "pe_ratio": 22.53,
         "forward_return": 241.11,
         "start_price": 42.05,
         "start_year": 2019
@@ -3351,7 +3333,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.53,
         "forward_return": 102.06,
         "start_price": 47.35,
         "start_year": 2019
@@ -3360,7 +3342,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.17,
+        "pe_ratio": 22.4,
         "forward_return": 154.23,
         "start_price": 44.8,
         "start_year": 2019
@@ -3369,7 +3351,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.34,
+        "pe_ratio": 19.47,
         "forward_return": 145.45,
         "start_price": 40.3,
         "start_year": 2019
@@ -3378,7 +3360,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 19.61,
+        "pe_ratio": 18.6,
         "forward_return": 192.98,
         "start_price": 39.8,
         "start_year": 2019
@@ -3387,7 +3369,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.19,
         "forward_return": 90.68,
         "start_price": 41.25,
         "start_year": 2019
@@ -3396,7 +3378,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 35.74,
+        "pe_ratio": 35.19,
         "forward_return": -55.9,
         "start_price": 76.0,
         "start_year": 2019
@@ -3405,7 +3387,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.85,
         "forward_return": -29.45,
         "start_price": 56.1,
         "start_year": 2019
@@ -3414,7 +3396,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.48,
+        "pe_ratio": 31.53,
         "forward_return": 38.66,
         "start_price": 70.0,
         "start_year": 2019
@@ -3423,7 +3405,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 27.64,
+        "pe_ratio": 27.67,
         "forward_return": 82.28,
         "start_price": 62.8,
         "start_year": 2019
@@ -3441,7 +3423,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.96,
         "forward_return": 300.5,
         "start_price": 57.1,
         "start_year": 2020
@@ -3450,7 +3432,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 22.39,
+        "pe_ratio": 23.87,
         "forward_return": 213.35,
         "start_price": 58.4,
         "start_year": 2020
@@ -3459,7 +3441,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 18.78,
         "forward_return": 204.87,
         "start_price": 47.15,
         "start_year": 2020
@@ -3468,7 +3450,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 21.37,
+        "pe_ratio": 22.03,
         "forward_return": 113.89,
         "start_price": 61.9,
         "start_year": 2020
@@ -3477,7 +3459,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.23,
         "forward_return": 59.87,
         "start_price": 84.7,
         "start_year": 2020
@@ -3486,7 +3468,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.7,
+        "pe_ratio": 27.74,
         "forward_return": 38.83,
         "start_price": 94.6,
         "start_year": 2020
@@ -3495,7 +3477,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 33.64,
+        "pe_ratio": 30.52,
         "forward_return": -35.22,
         "start_price": 112.0,
         "start_year": 2020
@@ -3504,7 +3486,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 25.83,
         "forward_return": -12.71,
         "start_price": 101.5,
         "start_year": 2020
@@ -3513,7 +3495,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 25.74,
+        "pe_ratio": 22.22,
         "forward_return": 1.52,
         "start_price": 93.1,
         "start_year": 2020
@@ -3522,7 +3504,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 23.55,
+        "pe_ratio": 21.38,
         "forward_return": -19.53,
         "start_price": 88.6,
         "start_year": 2020
@@ -3531,7 +3513,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 23.27,
+        "pe_ratio": 22.19,
         "forward_return": -26.38,
         "start_price": 90.9,
         "start_year": 2020
@@ -3549,7 +3531,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.67,
         "forward_return": 32.58,
         "start_price": 90.0,
         "start_year": 2021
@@ -3558,7 +3540,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.65,
+        "pe_ratio": 22.2,
         "forward_return": -35.25,
         "start_price": 94.5,
         "start_year": 2021
@@ -3567,7 +3549,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 21.51,
         "forward_return": -21.0,
         "start_price": 93.8,
         "start_year": 2021
@@ -3576,7 +3558,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 21.03,
         "forward_return": -13.19,
         "start_price": 87.7,
         "start_year": 2021
@@ -3585,7 +3567,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 16.14,
+        "pe_ratio": 19.62,
         "forward_return": 19.05,
         "start_price": 78.1,
         "start_year": 2021
@@ -3594,7 +3576,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 15.92,
+        "pe_ratio": 20.98,
         "forward_return": 18.34,
         "start_price": 79.5,
         "start_year": 2021
@@ -3603,7 +3585,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 19.41,
+        "pe_ratio": 26.09,
         "forward_return": -35.31,
         "start_price": 100.0,
         "start_year": 2021
@@ -3612,7 +3594,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 18.73,
         "forward_return": 106.2,
         "start_price": 72.6,
         "start_year": 2021
@@ -3621,7 +3603,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 18.67,
         "forward_return": 129.57,
         "start_price": 73.2,
         "start_year": 2021
@@ -3630,7 +3612,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 17.02,
         "forward_return": 31.57,
         "start_price": 78.2,
         "start_year": 2021
@@ -3639,7 +3621,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 14.8,
+        "pe_ratio": 16.25,
         "forward_return": 14.9,
         "start_price": 85.6,
         "start_year": 2021
@@ -3657,7 +3639,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.67,
         "forward_return": -2.75,
         "start_price": 80.3,
         "start_year": 2022
@@ -3666,7 +3648,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.45,
+        "pe_ratio": 14.21,
         "forward_return": -26.48,
         "start_price": 95.7,
         "start_year": 2022
@@ -3675,7 +3657,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 15.5,
         "forward_return": -42.99,
         "start_price": 110.5,
         "start_year": 2022
@@ -3684,7 +3666,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.58,
+        "pe_ratio": 12.68,
         "forward_return": -28.42,
         "start_price": 94.0,
         "start_year": 2022
@@ -3693,7 +3675,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 11.91,
         "forward_return": -6.79,
         "start_price": 91.7,
         "start_year": 2022
@@ -3702,7 +3684,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 10.94,
+        "pe_ratio": 9.19,
         "forward_return": 44.02,
         "start_price": 73.3,
         "start_year": 2022
@@ -3711,7 +3693,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.84,
+        "pe_ratio": 9.08,
         "forward_return": 54.06,
         "start_price": 74.0,
         "start_year": 2022
@@ -3720,7 +3702,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 9.25,
         "forward_return": 145.45,
         "start_price": 76.9,
         "start_year": 2022
@@ -3729,7 +3711,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.14,
+        "pe_ratio": 7.63,
         "forward_return": 305.64,
         "start_price": 64.7,
         "start_year": 2022
@@ -3738,7 +3720,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.31,
+        "pe_ratio": 9.13,
         "forward_return": 136.66,
         "start_price": 74.3,
         "start_year": 2022
@@ -3747,7 +3729,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.32,
         "forward_return": 133.32,
         "start_price": 80.5,
         "start_year": 2022
@@ -3765,7 +3747,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.01,
         "forward_return": 284.4,
         "start_price": 92.0,
         "start_year": 2023
@@ -3774,7 +3756,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 14.8,
+        "pe_ratio": 15.55,
         "forward_return": 113.6,
         "start_price": 104.0,
         "start_year": 2023
@@ -3783,7 +3765,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 19.02,
+        "pe_ratio": 20.56,
         "forward_return": 37.86,
         "start_price": 129.5,
         "start_year": 2023
@@ -3792,7 +3774,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 21.34,
         "forward_return": 52.53,
         "start_price": 126.5,
         "start_year": 2023
@@ -3801,7 +3783,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 22.06,
         "forward_return": 275.14,
         "start_price": 122.5,
         "start_year": 2023
@@ -3810,7 +3792,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 18.26,
+        "pe_ratio": 21.72,
         "forward_return": 456.26,
         "start_price": 112.5,
         "start_year": 2023
@@ -3819,7 +3801,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 29.11,
+        "pe_ratio": 34.03,
         "forward_return": 113.49,
         "start_price": 173.0,
         "start_year": 2023
@@ -3828,7 +3810,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 25.41,
+        "pe_ratio": 29.18,
         "forward_return": 152.99,
         "start_price": 145.5,
         "start_year": 2023
@@ -3837,7 +3819,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 30.06,
         "forward_return": 190.29,
         "start_price": 147.0,
         "start_year": 2023
@@ -3846,7 +3828,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 28.34,
+        "pe_ratio": 30.74,
         "forward_return": 303.76,
         "start_price": 150.0,
         "start_year": 2023
@@ -3855,7 +3837,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 34.87,
+        "pe_ratio": 36.34,
         "forward_return": 267.37,
         "start_price": 177.0,
         "start_year": 2023
@@ -3873,7 +3855,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 50.01,
+        "pe_ratio": 48.56,
         "forward_return": 166.32,
         "start_price": 253.5,
         "start_year": 2024
@@ -3882,7 +3864,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 55.6,
+        "pe_ratio": 52.6,
         "forward_return": 124.37,
         "start_price": 293.5,
         "start_year": 2024
@@ -3891,7 +3873,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 45.56,
+        "pe_ratio": 42.09,
         "forward_return": 263.47,
         "start_price": 250.0,
         "start_year": 2024
@@ -3900,7 +3882,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 41.69,
+        "pe_ratio": 36.94,
         "forward_return": 401.04,
         "start_price": 237.5,
         "start_year": 2024
@@ -3909,7 +3891,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 57.32,
+        "pe_ratio": 48.92,
         "forward_return": 26.51,
         "start_price": 338.5,
         "start_year": 2024
@@ -3918,7 +3900,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 65.9,
+        "pe_ratio": 54.39,
         "forward_return": -7.05,
         "start_price": 403.0,
         "start_year": 2024
@@ -3927,7 +3909,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 64.91,
+        "pe_ratio": 57.44,
         "forward_return": -4.54,
         "start_price": 410.5,
         "start_year": 2024
@@ -3936,7 +3918,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 66.96,
+        "pe_ratio": 63.56,
         "forward_return": -53.93,
         "start_price": 437.5,
         "start_year": 2024
@@ -3945,7 +3927,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 76.97,
+        "pe_ratio": 78.4,
         "forward_return": -71.42,
         "start_price": 519.0,
         "start_year": 2024
@@ -3954,7 +3936,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 76.24,
+        "pe_ratio": 77.15,
         "forward_return": -77.58,
         "start_price": 530.0,
         "start_year": 2024
@@ -3963,7 +3945,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 65.36,
+        "pe_ratio": 65.73,
         "forward_return": -77.7,
         "start_price": 468.0,
         "start_year": 2024
@@ -3981,7 +3963,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 54.89,
+        "pe_ratio": 54.12,
         "forward_return": -68.98,
         "start_price": 401.0,
         "start_year": 2025
@@ -3990,7 +3972,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 54.2,
+        "pe_ratio": 52.68,
         "forward_return": -62.11,
         "start_price": 392.5,
         "start_year": 2025
@@ -3999,7 +3981,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 38.87,
+        "pe_ratio": 37.25,
         "forward_return": -25.66,
         "start_price": 279.0,
         "start_year": 2025
@@ -4008,7 +3990,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 35.99,
+        "pe_ratio": 35.44,
         "forward_return": -16.06,
         "start_price": 256.0,
         "start_year": 2025
@@ -4017,7 +3999,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 31.56,
+        "pe_ratio": 31.98,
         "forward_return": -1.53,
         "start_price": 222.5,
         "start_year": 2025
@@ -4026,7 +4008,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 36.86,
+        "pe_ratio": 38.49,
         "forward_return": -26.63,
         "start_price": 257.5,
         "start_year": 2025
@@ -4035,7 +4017,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 31.5,
+        "pe_ratio": 32.73,
         "forward_return": -12.77,
         "start_price": 218.0,
         "start_year": 2025
@@ -4044,7 +4026,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 61.54,
+        "pe_ratio": 35.56,
         "forward_return": 22.67,
         "start_price": 32.0,
         "start_year": 2006
@@ -4053,7 +4035,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 73.08,
+        "pe_ratio": 50.22,
         "forward_return": 4.48,
         "start_price": 38.0,
         "start_year": 2006
@@ -4062,7 +4044,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 69.81,
+        "pe_ratio": 59.18,
         "forward_return": 9.65,
         "start_price": 36.3,
         "start_year": 2006
@@ -4071,7 +4053,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 60.0,
+        "pe_ratio": 66.38,
         "forward_return": 73.14,
         "start_price": 31.2,
         "start_year": 2006
@@ -4080,7 +4062,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 51.15,
+        "pe_ratio": 68.79,
         "forward_return": 359.13,
         "start_price": 26.6,
         "start_year": 2006
@@ -4089,7 +4071,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 48.08,
+        "pe_ratio": 82.42,
         "forward_return": 324.42,
         "start_price": 25.0,
         "start_year": 2006
@@ -4098,7 +4080,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 60.38,
+        "pe_ratio": 142.7,
         "forward_return": 236.27,
         "start_price": 31.4,
         "start_year": 2006
@@ -4107,7 +4089,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 70.29,
+        "pe_ratio": 114.2,
         "forward_return": 261.47,
         "start_price": 36.55,
         "start_year": 2006
@@ -4116,7 +4098,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 73.85,
+        "pe_ratio": 91.43,
         "forward_return": 144.94,
         "start_price": 38.4,
         "start_year": 2006
@@ -4134,7 +4116,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 65.09,
+        "pe_ratio": 77.48,
         "forward_return": 78.02,
         "start_price": 39.0,
         "start_year": 2007
@@ -4143,7 +4125,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 52.04,
+        "pe_ratio": 72.53,
         "forward_return": 121.08,
         "start_price": 35.3,
         "start_year": 2007
@@ -4152,7 +4134,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 51.82,
+        "pe_ratio": 83.51,
         "forward_return": 160.63,
         "start_price": 39.25,
         "start_year": 2007
@@ -4161,7 +4143,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 47.45,
+        "pe_ratio": 59.55,
         "forward_return": 201.58,
         "start_price": 39.7,
         "start_year": 2007
@@ -4170,7 +4152,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 43.46,
+        "pe_ratio": 46.1,
         "forward_return": 125.75,
         "start_price": 39.8,
         "start_year": 2007
@@ -4179,7 +4161,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 54.27,
+        "pe_ratio": 50.94,
         "forward_return": 58.37,
         "start_price": 54.0,
         "start_year": 2007
@@ -4188,7 +4170,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 113.6,
+        "pe_ratio": 111.2,
         "forward_return": -8.96,
         "start_price": 122.0,
         "start_year": 2007
@@ -4197,7 +4179,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 91.91,
+        "pe_ratio": 93.53,
         "forward_return": -7.58,
         "start_price": 106.0,
         "start_year": 2007
@@ -4206,7 +4188,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 85.6,
+        "pe_ratio": 90.17,
         "forward_return": -47.84,
         "start_price": 105.5,
         "start_year": 2007
@@ -4215,7 +4197,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 100.6,
+        "pe_ratio": 103.9,
         "forward_return": -63.82,
         "start_price": 132.0,
         "start_year": 2007
@@ -4224,7 +4206,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 68.61,
         "forward_return": -47.22,
         "start_price": 94.0,
         "start_year": 2007
@@ -4242,7 +4224,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 41.62,
+        "pe_ratio": 41.47,
         "forward_return": -14.16,
         "start_price": 69.4,
         "start_year": 2008
@@ -4251,7 +4233,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 41.82,
+        "pe_ratio": 41.56,
         "forward_return": 19.01,
         "start_price": 78.0,
         "start_year": 2008
@@ -4260,7 +4242,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 49.7,
+        "pe_ratio": 49.28,
         "forward_return": -8.15,
         "start_price": 102.5,
         "start_year": 2008
@@ -4269,7 +4251,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 53.1,
+        "pe_ratio": 56.34,
         "forward_return": 8.38,
         "start_price": 120.0,
         "start_year": 2008
@@ -4278,7 +4260,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 36.62,
+        "pe_ratio": 41.28,
         "forward_return": 110.72,
         "start_price": 90.0,
         "start_year": 2008
@@ -4287,7 +4269,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 32.24,
+        "pe_ratio": 38.39,
         "forward_return": 94.07,
         "start_price": 85.6,
         "start_year": 2008
@@ -4296,7 +4278,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 44.64,
         "forward_return": 52.74,
         "start_price": 111.0,
         "start_year": 2008
@@ -4305,7 +4287,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 32.1,
+        "pe_ratio": 35.69,
         "forward_return": 66.03,
         "start_price": 97.9,
         "start_year": 2008
@@ -4314,7 +4296,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.91,
+        "pe_ratio": 18.3,
         "forward_return": 166.09,
         "start_price": 54.9,
         "start_year": 2008
@@ -4323,7 +4305,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.51,
         "forward_return": 191.15,
         "start_price": 47.6,
         "start_year": 2008
@@ -4332,7 +4314,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-11-15",
-        "pe_ratio": 13.59,
+        "pe_ratio": 13.9,
         "forward_return": 221.44,
         "start_price": 49.5,
         "start_year": 2008
@@ -4350,7 +4332,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.33,
         "forward_return": 120.27,
         "start_price": 59.5,
         "start_year": 2009
@@ -4359,7 +4341,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.11,
         "forward_return": 46.5,
         "start_price": 80.9,
         "start_year": 2009
@@ -4368,7 +4350,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 19.69,
         "forward_return": 39.76,
         "start_price": 94.1,
         "start_year": 2009
@@ -4377,7 +4359,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 26.84,
+        "pe_ratio": 25.19,
         "forward_return": -6.55,
         "start_price": 130.0,
         "start_year": 2009
@@ -4386,7 +4368,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 37.2,
+        "pe_ratio": 34.21,
         "forward_return": -42.24,
         "start_price": 189.5,
         "start_year": 2009
@@ -4395,7 +4377,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 31.06,
+        "pe_ratio": 28.04,
         "forward_return": -37.38,
         "start_price": 166.0,
         "start_year": 2009
@@ -4404,7 +4386,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 29.93,
+        "pe_ratio": 27.38,
         "forward_return": -41.34,
         "start_price": 167.5,
         "start_year": 2009
@@ -4413,7 +4395,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 27.45,
+        "pe_ratio": 25.42,
         "forward_return": -44.2,
         "start_price": 160.5,
         "start_year": 2009
@@ -4422,7 +4404,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.62,
+        "pe_ratio": 22.12,
         "forward_return": -36.28,
         "start_price": 144.0,
         "start_year": 2009
@@ -4431,7 +4413,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.5,
+        "pe_ratio": 20.61,
         "forward_return": -26.32,
         "start_price": 136.5,
         "start_year": 2009
@@ -4440,7 +4422,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 23.79,
+        "pe_ratio": 23.31,
         "forward_return": -39.33,
         "start_price": 157.0,
         "start_year": 2009
@@ -4458,7 +4440,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 18.9,
+        "pe_ratio": 19.23,
         "forward_return": -7.15,
         "start_price": 129.0,
         "start_year": 2010
@@ -4467,7 +4449,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.14,
+        "pe_ratio": 17.73,
         "forward_return": 21.72,
         "start_price": 116.5,
         "start_year": 2010
@@ -4476,7 +4458,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 20.14,
         "forward_return": 33.84,
         "start_price": 129.5,
         "start_year": 2010
@@ -4485,7 +4467,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 19.03,
         "forward_return": 22.43,
         "start_price": 119.5,
         "start_year": 2010
@@ -4494,7 +4476,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 17.54,
         "forward_return": 39.37,
         "start_price": 107.5,
         "start_year": 2010
@@ -4503,7 +4485,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 15.24,
+        "pe_ratio": 17.06,
         "forward_return": 60.14,
         "start_price": 102.0,
         "start_year": 2010
@@ -4512,7 +4494,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.76,
         "forward_return": 54.59,
         "start_price": 93.5,
         "start_year": 2010
@@ -4521,7 +4503,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.41,
         "forward_return": 42.13,
         "start_price": 84.8,
         "start_year": 2010
@@ -4530,7 +4512,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.9,
         "forward_return": 54.07,
         "start_price": 87.0,
         "start_year": 2010
@@ -4539,7 +4521,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.53,
+        "pe_ratio": 15.77,
         "forward_return": 46.7,
         "start_price": 95.8,
         "start_year": 2010
@@ -4548,7 +4530,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.35,
         "forward_return": 39.81,
         "start_price": 90.5,
         "start_year": 2010
@@ -4566,7 +4548,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.96,
+        "pe_ratio": 16.34,
         "forward_return": 33.5,
         "start_price": 115.0,
         "start_year": 2011
@@ -4575,7 +4557,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.5,
+        "pe_ratio": 18.19,
         "forward_return": 15.34,
         "start_price": 137.0,
         "start_year": 2011
@@ -4584,7 +4566,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 23.19,
+        "pe_ratio": 20.98,
         "forward_return": -8.59,
         "start_price": 168.5,
         "start_year": 2011
@@ -4593,7 +4575,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 17.17,
         "forward_return": -0.71,
         "start_price": 141.5,
         "start_year": 2011
@@ -4602,7 +4584,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.16,
         "forward_return": -4.13,
         "start_price": 145.0,
         "start_year": 2011
@@ -4611,7 +4593,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 19.82,
+        "pe_ratio": 18.3,
         "forward_return": -12.59,
         "start_price": 158.5,
         "start_year": 2011
@@ -4620,7 +4602,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.42,
         "forward_return": -17.23,
         "start_price": 139.0,
         "start_year": 2011
@@ -4629,7 +4611,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.27,
         "forward_return": 0.0,
         "start_price": 115.0,
         "start_year": 2011
@@ -4638,7 +4620,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 13.21,
         "forward_return": -0.78,
         "start_price": 128.5,
         "start_year": 2011
@@ -4647,7 +4629,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.01,
         "forward_return": -30.54,
         "start_price": 135.0,
         "start_year": 2011
@@ -4656,7 +4638,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.14,
+        "pe_ratio": 12.68,
         "forward_return": -29.78,
         "start_price": 121.0,
         "start_year": 2011
@@ -4674,7 +4656,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.57,
         "forward_return": -43.78,
         "start_price": 148.0,
         "start_year": 2012
@@ -4683,7 +4665,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.1,
+        "pe_ratio": 18.13,
         "forward_return": -45.82,
         "start_price": 152.5,
         "start_year": 2012
@@ -4692,7 +4674,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.82,
         "forward_return": -47.09,
         "start_price": 148.5,
         "start_year": 2012
@@ -4701,7 +4683,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.24,
+        "pe_ratio": 18.06,
         "forward_return": -55.65,
         "start_price": 135.0,
         "start_year": 2012
@@ -4710,7 +4692,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.38,
+        "pe_ratio": 18.92,
         "forward_return": -53.88,
         "start_price": 133.5,
         "start_year": 2012
@@ -4719,7 +4701,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.85,
+        "pe_ratio": 20.03,
         "forward_return": -53.56,
         "start_price": 133.0,
         "start_year": 2012
@@ -4728,7 +4710,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 18.33,
+        "pe_ratio": 17.66,
         "forward_return": -56.97,
         "start_price": 107.5,
         "start_year": 2012
@@ -4737,7 +4719,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.43,
         "forward_return": -46.36,
         "start_price": 107.5,
         "start_year": 2012
@@ -4746,7 +4728,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 24.79,
+        "pe_ratio": 24.1,
         "forward_return": -54.37,
         "start_price": 120.0,
         "start_year": 2012
@@ -4755,7 +4737,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 19.91,
+        "pe_ratio": 19.49,
         "forward_return": -36.34,
         "start_price": 86.2,
         "start_year": 2012
@@ -4764,7 +4746,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 20.28,
+        "pe_ratio": 20.03,
         "forward_return": -37.37,
         "start_price": 77.4,
         "start_year": 2012
@@ -4782,7 +4764,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 24.46,
+        "pe_ratio": 30.56,
         "forward_return": -28.87,
         "start_price": 75.6,
         "start_year": 2013
@@ -4791,7 +4773,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 24.79,
+        "pe_ratio": 43.43,
         "forward_return": -20.51,
         "start_price": 71.3,
         "start_year": 2013
@@ -4800,7 +4782,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 87.78,
         "forward_return": -21.69,
         "start_price": 71.1,
         "start_year": 2013
@@ -4809,7 +4791,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.41,
+        "pe_ratio": 65.23,
         "forward_return": 17.36,
         "start_price": 52.4,
         "start_year": 2013
@@ -4818,7 +4800,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 24.24,
+        "pe_ratio": 67.91,
         "forward_return": 10.71,
         "start_price": 54.1,
         "start_year": 2013
@@ -4827,7 +4809,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 68.73,
         "forward_return": 10.48,
         "start_price": 54.3,
         "start_year": 2013
@@ -4836,7 +4818,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 66.36,
         "forward_return": 15.88,
         "start_price": 43.8,
         "start_year": 2013
@@ -4845,7 +4827,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 34.75,
+        "pe_ratio": 104.2,
         "forward_return": -3.72,
         "start_price": 55.2,
         "start_year": 2013
@@ -4854,7 +4836,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 38.07,
+        "pe_ratio": 130.7,
         "forward_return": 9.28,
         "start_price": 52.3,
         "start_year": 2013
@@ -4863,7 +4845,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 102.7,
         "forward_return": -4.11,
         "start_price": 52.4,
         "start_year": 2013
@@ -4872,7 +4854,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 48.7,
+        "pe_ratio": 74.19,
         "forward_return": 8.7,
         "start_price": 46.0,
         "start_year": 2013
@@ -4890,7 +4872,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 71.75,
+        "pe_ratio": 52.71,
         "forward_return": -5.17,
         "start_price": 51.3,
         "start_year": 2014
@@ -4899,7 +4881,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 77.43,
+        "pe_ratio": 44.55,
         "forward_return": -9.88,
         "start_price": 54.2,
         "start_year": 2014
@@ -4908,7 +4890,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 77.66,
+        "pe_ratio": 36.44,
         "forward_return": -12.88,
         "start_price": 53.2,
         "start_year": 2014
@@ -4917,7 +4899,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 88.06,
+        "pe_ratio": 51.01,
         "forward_return": -32.14,
         "start_price": 59.0,
         "start_year": 2014
@@ -4926,7 +4908,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 87.63,
+        "pe_ratio": 67.27,
         "forward_return": -35.82,
         "start_price": 57.4,
         "start_year": 2014
@@ -4935,7 +4917,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 89.84,
+        "pe_ratio": 104.5,
         "forward_return": -39.93,
         "start_price": 57.5,
         "start_year": 2014
@@ -4944,7 +4926,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 80.32,
+        "pe_ratio": 81.85,
         "forward_return": -35.88,
         "start_price": 50.2,
         "start_year": 2014
@@ -4953,7 +4935,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 86.23,
+        "pe_ratio": 77.73,
         "forward_return": -48.79,
         "start_price": 52.6,
         "start_year": 2014
@@ -4962,7 +4944,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 95.13,
+        "pe_ratio": 76.49,
         "forward_return": -50.91,
         "start_price": 56.6,
         "start_year": 2014
@@ -4971,7 +4953,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 85.69,
+        "pe_ratio": 73.45,
         "forward_return": -35.83,
         "start_price": 49.7,
         "start_year": 2014
@@ -4980,7 +4962,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 87.52,
+        "pe_ratio": 80.62,
         "forward_return": -41.48,
         "start_price": 49.45,
         "start_year": 2014
@@ -4998,7 +4980,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 80.28,
+        "pe_ratio": 63.29,
         "forward_return": -52.21,
         "start_price": 48.1,
         "start_year": 2015
@@ -5007,7 +4989,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 74.5,
+        "pe_ratio": 49.79,
         "forward_return": -48.68,
         "start_price": 48.3,
         "start_year": 2015
@@ -5016,7 +4998,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 65.66,
+        "pe_ratio": 38.81,
         "forward_return": -50.58,
         "start_price": 45.8,
         "start_year": 2015
@@ -5025,7 +5007,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 52.9,
+        "pe_ratio": 31.02,
         "forward_return": -13.39,
         "start_price": 39.5,
         "start_year": 2015
@@ -5034,7 +5016,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 45.61,
+        "pe_ratio": 26.56,
         "forward_return": -25.02,
         "start_price": 36.3,
         "start_year": 2015
@@ -5043,7 +5025,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 40.24,
+        "pe_ratio": 23.29,
         "forward_return": -7.04,
         "start_price": 34.0,
         "start_year": 2015
@@ -5052,7 +5034,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 35.56,
+        "pe_ratio": 22.55,
         "forward_return": 3.14,
         "start_price": 31.8,
         "start_year": 2015
@@ -5061,7 +5043,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 28.14,
+        "pe_ratio": 19.52,
         "forward_return": 21.8,
         "start_price": 26.55,
         "start_year": 2015
@@ -5070,7 +5052,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.92,
         "forward_return": 16.93,
         "start_price": 27.4,
         "start_year": 2015
@@ -5079,7 +5061,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 30.24,
+        "pe_ratio": 25.13,
         "forward_return": -4.28,
         "start_price": 31.5,
         "start_year": 2015
@@ -5088,7 +5070,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.17,
+        "pe_ratio": 23.86,
         "forward_return": -10.66,
         "start_price": 28.55,
         "start_year": 2015
@@ -5106,7 +5088,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.62,
         "forward_return": 9.05,
         "start_price": 22.6,
         "start_year": 2016
@@ -5115,7 +5097,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 31.08,
+        "pe_ratio": 31.55,
         "forward_return": 13.01,
         "start_price": 24.4,
         "start_year": 2016
@@ -5124,7 +5106,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 36.54,
+        "pe_ratio": 37.63,
         "forward_return": 25.47,
         "start_price": 22.2,
         "start_year": 2016
@@ -5133,7 +5115,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 78.6,
+        "pe_ratio": 169.0,
         "forward_return": -1.92,
         "start_price": 33.8,
         "start_year": 2016
@@ -5141,26 +5123,17 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2016-05-16",
-        "pe_ratio": 106.1,
-        "forward_return": 24.65,
-        "start_price": 26.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 416.0,
-        "forward_return": 30.95,
-        "start_price": 31.2,
-        "start_year": 2016
+        "start_date": "2017-06-15",
+        "pe_ratio": 166.7,
+        "forward_return": 3.25,
+        "start_price": 40.0,
+        "start_year": 2017
       },
       {
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 333.0,
+        "pe_ratio": 115.2,
         "forward_return": -24.07,
         "start_price": 53.0,
         "start_year": 2017
@@ -5169,7 +5142,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 158.0,
+        "pe_ratio": 75.15,
         "forward_return": -22.22,
         "start_price": 51.1,
         "start_year": 2017
@@ -5178,7 +5151,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 112.8,
+        "pe_ratio": 61.11,
         "forward_return": -25.74,
         "start_price": 55.0,
         "start_year": 2017
@@ -5187,7 +5160,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 88.39,
+        "pe_ratio": 62.16,
         "forward_return": -47.85,
         "start_price": 57.6,
         "start_year": 2017
@@ -5196,7 +5169,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 68.27,
+        "pe_ratio": 58.43,
         "forward_return": -31.17,
         "start_price": 55.7,
         "start_year": 2017
@@ -5214,7 +5187,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 44.9,
+        "pe_ratio": 46.39,
         "forward_return": -12.39,
         "start_price": 46.85,
         "start_year": 2018
@@ -5223,7 +5196,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 36.42,
+        "pe_ratio": 38.75,
         "forward_return": 6.46,
         "start_price": 40.3,
         "start_year": 2018
@@ -5232,7 +5205,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 35.68,
+        "pe_ratio": 39.02,
         "forward_return": 15.46,
         "start_price": 41.75,
         "start_year": 2018
@@ -5241,7 +5214,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 29.51,
+        "pe_ratio": 32.21,
         "forward_return": 25.43,
         "start_price": 36.4,
         "start_year": 2018
@@ -5250,7 +5223,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 31.77,
+        "pe_ratio": 34.62,
         "forward_return": -0.12,
         "start_price": 41.2,
         "start_year": 2018
@@ -5259,7 +5232,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 30.15,
+        "pe_ratio": 32.8,
         "forward_return": -0.85,
         "start_price": 41.0,
         "start_year": 2018
@@ -5268,7 +5241,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.68,
+        "pe_ratio": 28.21,
         "forward_return": 8.51,
         "start_price": 39.4,
         "start_year": 2018
@@ -5277,7 +5250,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.17,
+        "pe_ratio": 25.21,
         "forward_return": 99.32,
         "start_price": 38.9,
         "start_year": 2018
@@ -5286,7 +5259,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.81,
+        "pe_ratio": 23.67,
         "forward_return": 44.04,
         "start_price": 40.0,
         "start_year": 2018
@@ -5295,7 +5268,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.1,
+        "pe_ratio": 17.11,
         "forward_return": 145.01,
         "start_price": 29.2,
         "start_year": 2018
@@ -5304,7 +5277,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.37,
+        "pe_ratio": 21.76,
         "forward_return": 71.53,
         "start_price": 37.5,
         "start_year": 2018
@@ -5322,7 +5295,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.29,
         "forward_return": 45.81,
         "start_price": 40.2,
         "start_year": 2019
@@ -5331,7 +5304,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 22.89,
+        "pe_ratio": 22.53,
         "forward_return": 42.48,
         "start_price": 42.05,
         "start_year": 2019
@@ -5340,7 +5313,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.53,
         "forward_return": 2.74,
         "start_price": 47.35,
         "start_year": 2019
@@ -5349,7 +5322,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.17,
+        "pe_ratio": 22.4,
         "forward_return": 41.42,
         "start_price": 44.8,
         "start_year": 2019
@@ -5358,7 +5331,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.34,
+        "pe_ratio": 19.47,
         "forward_return": 113.56,
         "start_price": 40.3,
         "start_year": 2019
@@ -5367,7 +5340,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 19.61,
+        "pe_ratio": 18.6,
         "forward_return": 141.02,
         "start_price": 39.8,
         "start_year": 2019
@@ -5376,7 +5349,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.19,
         "forward_return": 175.79,
         "start_price": 41.25,
         "start_year": 2019
@@ -5385,7 +5358,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 35.74,
+        "pe_ratio": 35.19,
         "forward_return": 36.1,
         "start_price": 76.0,
         "start_year": 2019
@@ -5394,7 +5367,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.85,
         "forward_return": 69.34,
         "start_price": 56.1,
         "start_year": 2019
@@ -5403,7 +5376,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.48,
+        "pe_ratio": 31.53,
         "forward_return": 29.36,
         "start_price": 70.0,
         "start_year": 2019
@@ -5412,7 +5385,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 27.64,
+        "pe_ratio": 27.67,
         "forward_return": 47.81,
         "start_price": 62.8,
         "start_year": 2019
@@ -5430,7 +5403,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.96,
         "forward_return": 60.96,
         "start_price": 57.1,
         "start_year": 2020
@@ -5439,7 +5412,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 22.39,
+        "pe_ratio": 23.87,
         "forward_return": 58.04,
         "start_price": 58.4,
         "start_year": 2020
@@ -5448,7 +5421,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 18.78,
         "forward_return": 103.28,
         "start_price": 47.15,
         "start_year": 2020
@@ -5457,7 +5430,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 21.37,
+        "pe_ratio": 22.03,
         "forward_return": 44.95,
         "start_price": 61.9,
         "start_year": 2020
@@ -5466,7 +5439,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.23,
         "forward_return": -5.43,
         "start_price": 84.7,
         "start_year": 2020
@@ -5475,7 +5448,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.7,
+        "pe_ratio": 27.74,
         "forward_return": -13.86,
         "start_price": 94.6,
         "start_year": 2020
@@ -5484,7 +5457,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 33.64,
+        "pe_ratio": 30.52,
         "forward_return": -7.59,
         "start_price": 112.0,
         "start_year": 2020
@@ -5493,7 +5466,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 25.83,
         "forward_return": -25.04,
         "start_price": 101.5,
         "start_year": 2020
@@ -5502,7 +5475,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 25.74,
+        "pe_ratio": 22.22,
         "forward_return": -17.63,
         "start_price": 93.1,
         "start_year": 2020
@@ -5511,7 +5484,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 23.55,
+        "pe_ratio": 21.38,
         "forward_return": -7.79,
         "start_price": 88.6,
         "start_year": 2020
@@ -5520,7 +5493,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 23.27,
+        "pe_ratio": 22.19,
         "forward_return": -1.98,
         "start_price": 90.9,
         "start_year": 2020
@@ -5538,7 +5511,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.67,
         "forward_return": -6.89,
         "start_price": 90.0,
         "start_year": 2021
@@ -5547,7 +5520,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.65,
+        "pe_ratio": 22.2,
         "forward_return": 4.98,
         "start_price": 94.5,
         "start_year": 2021
@@ -5556,7 +5529,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 21.51,
         "forward_return": 21.55,
         "start_price": 93.8,
         "start_year": 2021
@@ -5565,7 +5538,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 21.03,
         "forward_return": 11.18,
         "start_price": 87.7,
         "start_year": 2021
@@ -5574,7 +5547,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 16.14,
+        "pe_ratio": 19.62,
         "forward_return": 21.91,
         "start_price": 78.1,
         "start_year": 2021
@@ -5583,7 +5556,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 15.92,
+        "pe_ratio": 20.98,
         "forward_return": -3.4,
         "start_price": 79.5,
         "start_year": 2021
@@ -5592,7 +5565,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 19.41,
+        "pe_ratio": 26.09,
         "forward_return": -20.81,
         "start_price": 100.0,
         "start_year": 2021
@@ -5601,7 +5574,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 18.73,
         "forward_return": 13.09,
         "start_price": 72.6,
         "start_year": 2021
@@ -5610,7 +5583,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 18.67,
         "forward_return": -4.51,
         "start_price": 73.2,
         "start_year": 2021
@@ -5619,7 +5592,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 17.02,
         "forward_return": 1.66,
         "start_price": 78.2,
         "start_year": 2021
@@ -5628,7 +5601,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 14.8,
+        "pe_ratio": 16.25,
         "forward_return": 0.12,
         "start_price": 85.6,
         "start_year": 2021
@@ -5646,7 +5619,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.67,
         "forward_return": 21.06,
         "start_price": 80.3,
         "start_year": 2022
@@ -5655,7 +5628,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.45,
+        "pe_ratio": 14.21,
         "forward_return": 14.12,
         "start_price": 95.7,
         "start_year": 2022
@@ -5664,7 +5637,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 15.5,
         "forward_return": 21.92,
         "start_price": 110.5,
         "start_year": 2022
@@ -5673,7 +5646,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.58,
+        "pe_ratio": 12.68,
         "forward_return": 40.14,
         "start_price": 94.0,
         "start_year": 2022
@@ -5682,7 +5655,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 11.91,
         "forward_return": 39.29,
         "start_price": 91.7,
         "start_year": 2022
@@ -5691,7 +5664,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 10.94,
+        "pe_ratio": 9.19,
         "forward_return": 60.63,
         "start_price": 73.3,
         "start_year": 2022
@@ -5700,7 +5673,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.84,
+        "pe_ratio": 9.08,
         "forward_return": 142.44,
         "start_price": 74.0,
         "start_year": 2022
@@ -5709,7 +5682,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 9.25,
         "forward_return": 97.49,
         "start_price": 76.9,
         "start_year": 2022
@@ -5718,7 +5691,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.14,
+        "pe_ratio": 7.63,
         "forward_return": 137.08,
         "start_price": 64.7,
         "start_year": 2022
@@ -5727,7 +5700,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.31,
+        "pe_ratio": 9.13,
         "forward_return": 110.47,
         "start_price": 74.3,
         "start_year": 2022
@@ -5736,7 +5709,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.32,
         "forward_return": 127.83,
         "start_price": 80.5,
         "start_year": 2022
@@ -5754,7 +5727,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.01,
         "forward_return": 182.59,
         "start_price": 92.0,
         "start_year": 2023
@@ -5763,7 +5736,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 14.8,
+        "pe_ratio": 15.55,
         "forward_return": 188.48,
         "start_price": 104.0,
         "start_year": 2023
@@ -5772,7 +5745,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 19.02,
+        "pe_ratio": 20.56,
         "forward_return": 97.64,
         "start_price": 129.5,
         "start_year": 2023
@@ -5781,7 +5754,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 21.34,
         "forward_return": 92.47,
         "start_price": 126.5,
         "start_year": 2023
@@ -5790,7 +5763,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 22.06,
         "forward_return": 180.87,
         "start_price": 122.5,
         "start_year": 2023
@@ -5799,7 +5772,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 18.26,
+        "pe_ratio": 21.72,
         "forward_return": 262.86,
         "start_price": 112.5,
         "start_year": 2023
@@ -5808,7 +5781,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 29.11,
+        "pe_ratio": 34.03,
         "forward_return": 138.3,
         "start_price": 173.0,
         "start_year": 2023
@@ -5817,7 +5790,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 25.41,
+        "pe_ratio": 29.18,
         "forward_return": 201.72,
         "start_price": 145.5,
         "start_year": 2023
@@ -5826,7 +5799,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 30.06,
         "forward_return": 253.84,
         "start_price": 147.0,
         "start_year": 2023
@@ -5835,7 +5808,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 28.34,
+        "pe_ratio": 30.74,
         "forward_return": 254.08,
         "start_price": 150.0,
         "start_year": 2023
@@ -5844,7 +5817,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 34.87,
+        "pe_ratio": 36.34,
         "forward_return": 165.29,
         "start_price": 177.0,
         "start_year": 2023
@@ -5862,7 +5835,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 50.01,
+        "pe_ratio": 48.56,
         "forward_return": 59.02,
         "start_price": 253.5,
         "start_year": 2024
@@ -5871,7 +5844,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 55.6,
+        "pe_ratio": 52.6,
         "forward_return": -3.79,
         "start_price": 293.5,
         "start_year": 2024
@@ -5880,7 +5853,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 45.56,
+        "pe_ratio": 42.09,
         "forward_return": 12.61,
         "start_price": 250.0,
         "start_year": 2024
@@ -5889,7 +5862,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 41.69,
+        "pe_ratio": 36.94,
         "forward_return": 8.85,
         "start_price": 237.5,
         "start_year": 2024
@@ -5898,7 +5871,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 57.32,
+        "pe_ratio": 48.92,
         "forward_return": -33.55,
         "start_price": 338.5,
         "start_year": 2024
@@ -5907,7 +5880,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 65.9,
+        "pe_ratio": 54.39,
         "forward_return": -35.5,
         "start_price": 403.0,
         "start_year": 2024
@@ -5916,7 +5889,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 64.91,
+        "pe_ratio": 57.44,
         "forward_return": -45.33,
         "start_price": 410.5,
         "start_year": 2024
@@ -5925,7 +5898,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 66.96,
+        "pe_ratio": 63.56,
         "forward_return": -44.71,
         "start_price": 437.5,
         "start_year": 2024
@@ -5934,7 +5907,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 76.97,
+        "pe_ratio": 78.4,
         "forward_return": -47.13,
         "start_price": 519.0,
         "start_year": 2024
@@ -5943,7 +5916,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 76.24,
+        "pe_ratio": 77.15,
         "forward_return": -55.78,
         "start_price": 530.0,
         "start_year": 2024
@@ -5952,7 +5925,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 65.36,
+        "pe_ratio": 65.73,
         "forward_return": -53.12,
         "start_price": 468.0,
         "start_year": 2024
@@ -5970,7 +5943,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 54.89,
+        "pe_ratio": 54.12,
         "forward_return": -47.65,
         "start_price": 401.0,
         "start_year": 2025
@@ -5979,7 +5952,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 54.2,
+        "pe_ratio": 52.68,
         "forward_return": -48.81,
         "start_price": 392.5,
         "start_year": 2025
@@ -5988,7 +5961,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 61.54,
+        "pe_ratio": 35.56,
         "forward_return": 78.9,
         "start_price": 32.0,
         "start_year": 2006
@@ -5997,7 +5970,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 73.08,
+        "pe_ratio": 50.22,
         "forward_return": 77.63,
         "start_price": 38.0,
         "start_year": 2006
@@ -6006,7 +5979,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 69.81,
+        "pe_ratio": 59.18,
         "forward_return": 57.41,
         "start_price": 36.3,
         "start_year": 2006
@@ -6015,7 +5988,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 60.0,
+        "pe_ratio": 66.38,
         "forward_return": 65.58,
         "start_price": 31.2,
         "start_year": 2006
@@ -6024,7 +5997,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 51.15,
+        "pe_ratio": 68.79,
         "forward_return": 104.23,
         "start_price": 26.6,
         "start_year": 2006
@@ -6033,7 +6006,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 48.08,
+        "pe_ratio": 82.42,
         "forward_return": 97.85,
         "start_price": 25.0,
         "start_year": 2006
@@ -6042,7 +6015,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 60.38,
+        "pe_ratio": 142.7,
         "forward_return": 32.26,
         "start_price": 31.4,
         "start_year": 2006
@@ -6051,7 +6024,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 70.29,
+        "pe_ratio": 114.2,
         "forward_return": 14.17,
         "start_price": 36.55,
         "start_year": 2006
@@ -6060,7 +6033,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 73.85,
+        "pe_ratio": 91.43,
         "forward_return": 13.59,
         "start_price": 38.4,
         "start_year": 2006
@@ -6078,7 +6051,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 65.09,
+        "pe_ratio": 77.48,
         "forward_return": 23.55,
         "start_price": 39.0,
         "start_year": 2007
@@ -6087,7 +6060,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 52.04,
+        "pe_ratio": 72.53,
         "forward_return": 51.39,
         "start_price": 35.3,
         "start_year": 2007
@@ -6096,7 +6069,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 51.82,
+        "pe_ratio": 83.51,
         "forward_return": 54.83,
         "start_price": 39.25,
         "start_year": 2007
@@ -6105,7 +6078,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 47.45,
+        "pe_ratio": 59.55,
         "forward_return": 80.92,
         "start_price": 39.7,
         "start_year": 2007
@@ -6114,7 +6087,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 43.46,
+        "pe_ratio": 46.1,
         "forward_return": 118.12,
         "start_price": 39.8,
         "start_year": 2007
@@ -6123,7 +6096,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 54.27,
+        "pe_ratio": 50.94,
         "forward_return": 75.29,
         "start_price": 54.0,
         "start_year": 2007
@@ -6132,7 +6105,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 113.6,
+        "pe_ratio": 111.2,
         "forward_return": 17.87,
         "start_price": 122.0,
         "start_year": 2007
@@ -6141,7 +6114,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 91.91,
+        "pe_ratio": 93.53,
         "forward_return": 23.81,
         "start_price": 106.0,
         "start_year": 2007
@@ -6150,7 +6123,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 85.6,
+        "pe_ratio": 90.17,
         "forward_return": 17.64,
         "start_price": 105.5,
         "start_year": 2007
@@ -6159,7 +6132,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 100.6,
+        "pe_ratio": 103.9,
         "forward_return": 2.45,
         "start_price": 132.0,
         "start_year": 2007
@@ -6168,7 +6141,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 68.61,
         "forward_return": 30.05,
         "start_price": 94.0,
         "start_year": 2007
@@ -6186,7 +6159,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 41.62,
+        "pe_ratio": 41.47,
         "forward_return": 37.38,
         "start_price": 69.4,
         "start_year": 2008
@@ -6195,7 +6168,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 41.82,
+        "pe_ratio": 41.56,
         "forward_return": 28.55,
         "start_price": 78.0,
         "start_year": 2008
@@ -6204,7 +6177,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 49.7,
+        "pe_ratio": 49.28,
         "forward_return": 13.29,
         "start_price": 102.5,
         "start_year": 2008
@@ -6213,7 +6186,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 53.1,
+        "pe_ratio": 56.34,
         "forward_return": 0.64,
         "start_price": 120.0,
         "start_year": 2008
@@ -6222,7 +6195,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 36.62,
+        "pe_ratio": 41.28,
         "forward_return": 10.33,
         "start_price": 90.0,
         "start_year": 2008
@@ -6231,7 +6204,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 32.24,
+        "pe_ratio": 38.39,
         "forward_return": 10.25,
         "start_price": 85.6,
         "start_year": 2008
@@ -6240,7 +6213,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 44.64,
         "forward_return": -4.96,
         "start_price": 111.0,
         "start_year": 2008
@@ -6249,7 +6222,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 32.1,
+        "pe_ratio": 35.69,
         "forward_return": -3.29,
         "start_price": 97.9,
         "start_year": 2008
@@ -6258,7 +6231,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.91,
+        "pe_ratio": 18.3,
         "forward_return": 30.72,
         "start_price": 54.9,
         "start_year": 2008
@@ -6267,7 +6240,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.51,
         "forward_return": 46.84,
         "start_price": 47.6,
         "start_year": 2008
@@ -6276,7 +6249,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-11-15",
-        "pe_ratio": 13.59,
+        "pe_ratio": 13.9,
         "forward_return": 40.22,
         "start_price": 49.5,
         "start_year": 2008
@@ -6294,7 +6267,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.33,
         "forward_return": 43.1,
         "start_price": 59.5,
         "start_year": 2009
@@ -6303,7 +6276,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.11,
         "forward_return": 33.34,
         "start_price": 80.9,
         "start_year": 2009
@@ -6312,7 +6285,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 19.69,
         "forward_return": 36.51,
         "start_price": 94.1,
         "start_year": 2009
@@ -6321,7 +6294,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 26.84,
+        "pe_ratio": 25.19,
         "forward_return": 6.8,
         "start_price": 130.0,
         "start_year": 2009
@@ -6330,7 +6303,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 37.2,
+        "pe_ratio": 34.21,
         "forward_return": -10.51,
         "start_price": 189.5,
         "start_year": 2009
@@ -6339,7 +6312,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 31.06,
+        "pe_ratio": 28.04,
         "forward_return": -0.22,
         "start_price": 166.0,
         "start_year": 2009
@@ -6348,7 +6321,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 29.93,
+        "pe_ratio": 27.38,
         "forward_return": -5.6,
         "start_price": 167.5,
         "start_year": 2009
@@ -6357,7 +6330,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 27.45,
+        "pe_ratio": 25.42,
         "forward_return": -11.65,
         "start_price": 160.5,
         "start_year": 2009
@@ -6366,7 +6339,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.62,
+        "pe_ratio": 22.12,
         "forward_return": -1.83,
         "start_price": 144.0,
         "start_year": 2009
@@ -6375,7 +6348,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.5,
+        "pe_ratio": 20.61,
         "forward_return": 3.17,
         "start_price": 136.5,
         "start_year": 2009
@@ -6384,7 +6357,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 23.79,
+        "pe_ratio": 23.31,
         "forward_return": -8.56,
         "start_price": 157.0,
         "start_year": 2009
@@ -6402,7 +6375,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 18.9,
+        "pe_ratio": 19.23,
         "forward_return": 10.78,
         "start_price": 129.0,
         "start_year": 2010
@@ -6411,7 +6384,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.14,
+        "pe_ratio": 17.73,
         "forward_return": 18.22,
         "start_price": 116.5,
         "start_year": 2010
@@ -6420,7 +6393,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 20.14,
         "forward_return": 10.72,
         "start_price": 129.5,
         "start_year": 2010
@@ -6429,7 +6402,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 19.03,
         "forward_return": 10.26,
         "start_price": 119.5,
         "start_year": 2010
@@ -6438,7 +6411,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 17.54,
         "forward_return": 15.64,
         "start_price": 107.5,
         "start_year": 2010
@@ -6447,7 +6420,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 15.24,
+        "pe_ratio": 17.06,
         "forward_return": 18.51,
         "start_price": 102.0,
         "start_year": 2010
@@ -6456,7 +6429,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.76,
         "forward_return": 13.51,
         "start_price": 93.5,
         "start_year": 2010
@@ -6465,7 +6438,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.41,
         "forward_return": 19.19,
         "start_price": 84.8,
         "start_year": 2010
@@ -6474,7 +6447,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.9,
         "forward_return": 23.62,
         "start_price": 87.0,
         "start_year": 2010
@@ -6483,7 +6456,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.53,
+        "pe_ratio": 15.77,
         "forward_return": 1.76,
         "start_price": 95.8,
         "start_year": 2010
@@ -6492,7 +6465,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.35,
         "forward_return": -0.06,
         "start_price": 90.5,
         "start_year": 2010
@@ -6510,7 +6483,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.96,
+        "pe_ratio": 16.34,
         "forward_return": -12.22,
         "start_price": 115.0,
         "start_year": 2011
@@ -6519,7 +6492,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.5,
+        "pe_ratio": 18.19,
         "forward_return": -21.54,
         "start_price": 137.0,
         "start_year": 2011
@@ -6528,7 +6501,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 23.19,
+        "pe_ratio": 20.98,
         "forward_return": -29.34,
         "start_price": 168.5,
         "start_year": 2011
@@ -6537,7 +6510,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 17.17,
         "forward_return": -32.0,
         "start_price": 141.5,
         "start_year": 2011
@@ -6546,7 +6519,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.16,
         "forward_return": -31.96,
         "start_price": 145.0,
         "start_year": 2011
@@ -6555,7 +6528,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 19.82,
+        "pe_ratio": 18.3,
         "forward_return": -34.82,
         "start_price": 158.5,
         "start_year": 2011
@@ -6564,7 +6537,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.42,
         "forward_return": -37.77,
         "start_price": 139.0,
         "start_year": 2011
@@ -6573,7 +6546,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.27,
         "forward_return": -24.7,
         "start_price": 115.0,
         "start_year": 2011
@@ -6582,7 +6555,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 13.21,
         "forward_return": -30.36,
         "start_price": 128.5,
         "start_year": 2011
@@ -6591,7 +6564,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.01,
         "forward_return": -32.0,
         "start_price": 135.0,
         "start_year": 2011
@@ -6600,7 +6573,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.14,
+        "pe_ratio": 12.68,
         "forward_return": -31.96,
         "start_price": 121.0,
         "start_year": 2011
@@ -6618,7 +6591,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.57,
         "forward_return": -35.63,
         "start_price": 148.0,
         "start_year": 2012
@@ -6627,7 +6600,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.1,
+        "pe_ratio": 18.13,
         "forward_return": -34.52,
         "start_price": 152.5,
         "start_year": 2012
@@ -6636,7 +6609,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.82,
         "forward_return": -34.79,
         "start_price": 148.5,
         "start_year": 2012
@@ -6645,7 +6618,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.24,
+        "pe_ratio": 18.06,
         "forward_return": -28.53,
         "start_price": 135.0,
         "start_year": 2012
@@ -6654,7 +6627,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.38,
+        "pe_ratio": 18.92,
         "forward_return": -28.97,
         "start_price": 133.5,
         "start_year": 2012
@@ -6663,7 +6636,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.85,
+        "pe_ratio": 20.03,
         "forward_return": -28.78,
         "start_price": 133.0,
         "start_year": 2012
@@ -6672,7 +6645,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 18.33,
+        "pe_ratio": 17.66,
         "forward_return": -29.64,
         "start_price": 107.5,
         "start_year": 2012
@@ -6681,7 +6654,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.43,
         "forward_return": -28.07,
         "start_price": 107.5,
         "start_year": 2012
@@ -6690,7 +6663,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 24.79,
+        "pe_ratio": 24.1,
         "forward_return": -29.52,
         "start_price": 120.0,
         "start_year": 2012
@@ -6699,7 +6672,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 19.91,
+        "pe_ratio": 19.49,
         "forward_return": -21.79,
         "start_price": 86.2,
         "start_year": 2012
@@ -6708,7 +6681,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 20.28,
+        "pe_ratio": 20.03,
         "forward_return": -17.66,
         "start_price": 77.4,
         "start_year": 2012
@@ -6726,7 +6699,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 24.46,
+        "pe_ratio": 30.56,
         "forward_return": -17.77,
         "start_price": 75.6,
         "start_year": 2013
@@ -6735,7 +6708,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 24.79,
+        "pe_ratio": 43.43,
         "forward_return": -15.16,
         "start_price": 71.3,
         "start_year": 2013
@@ -6744,7 +6717,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 87.78,
         "forward_return": -17.13,
         "start_price": 71.1,
         "start_year": 2013
@@ -6753,7 +6726,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.41,
+        "pe_ratio": 65.23,
         "forward_return": -9.91,
         "start_price": 52.4,
         "start_year": 2013
@@ -6762,7 +6735,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 24.24,
+        "pe_ratio": 67.91,
         "forward_return": -14.74,
         "start_price": 54.1,
         "start_year": 2013
@@ -6771,7 +6744,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 68.73,
         "forward_return": -17.42,
         "start_price": 54.3,
         "start_year": 2013
@@ -6780,7 +6753,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 66.36,
         "forward_return": -13.54,
         "start_price": 43.8,
         "start_year": 2013
@@ -6789,7 +6762,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 34.75,
+        "pe_ratio": 104.2,
         "forward_return": -29.43,
         "start_price": 55.2,
         "start_year": 2013
@@ -6798,7 +6771,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 38.07,
+        "pe_ratio": 130.7,
         "forward_return": -26.39,
         "start_price": 52.3,
         "start_year": 2013
@@ -6807,7 +6780,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 102.7,
         "forward_return": -21.32,
         "start_price": 52.4,
         "start_year": 2013
@@ -6816,7 +6789,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 48.7,
+        "pe_ratio": 74.19,
         "forward_return": -19.93,
         "start_price": 46.0,
         "start_year": 2013
@@ -6834,7 +6807,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 71.75,
+        "pe_ratio": 52.71,
         "forward_return": -32.26,
         "start_price": 51.3,
         "start_year": 2014
@@ -6843,7 +6816,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 77.43,
+        "pe_ratio": 44.55,
         "forward_return": -31.63,
         "start_price": 54.2,
         "start_year": 2014
@@ -6852,7 +6825,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 77.66,
+        "pe_ratio": 36.44,
         "forward_return": -34.02,
         "start_price": 53.2,
         "start_year": 2014
@@ -6861,7 +6834,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 88.06,
+        "pe_ratio": 51.01,
         "forward_return": -23.24,
         "start_price": 59.0,
         "start_year": 2014
@@ -6870,7 +6843,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 87.63,
+        "pe_ratio": 67.27,
         "forward_return": -30.45,
         "start_price": 57.4,
         "start_year": 2014
@@ -6879,7 +6852,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 89.84,
+        "pe_ratio": 104.5,
         "forward_return": -25.21,
         "start_price": 57.5,
         "start_year": 2014
@@ -6888,7 +6861,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 80.32,
+        "pe_ratio": 81.85,
         "forward_return": -18.66,
         "start_price": 50.2,
         "start_year": 2014
@@ -6897,7 +6870,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 86.23,
+        "pe_ratio": 77.73,
         "forward_return": -21.08,
         "start_price": 52.6,
         "start_year": 2014
@@ -6906,7 +6879,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 95.13,
+        "pe_ratio": 76.49,
         "forward_return": -24.27,
         "start_price": 56.6,
         "start_year": 2014
@@ -6915,7 +6888,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 85.69,
+        "pe_ratio": 73.45,
         "forward_return": -21.58,
         "start_price": 49.7,
         "start_year": 2014
@@ -6924,7 +6897,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 87.52,
+        "pe_ratio": 80.62,
         "forward_return": -27.61,
         "start_price": 49.45,
         "start_year": 2014
@@ -6942,7 +6915,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 80.28,
+        "pe_ratio": 63.29,
         "forward_return": -27.82,
         "start_price": 48.1,
         "start_year": 2015
@@ -6951,7 +6924,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 74.5,
+        "pe_ratio": 49.79,
         "forward_return": -25.57,
         "start_price": 48.3,
         "start_year": 2015
@@ -6960,7 +6933,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 65.66,
+        "pe_ratio": 38.81,
         "forward_return": -21.45,
         "start_price": 45.8,
         "start_year": 2015
@@ -6969,7 +6942,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 52.9,
+        "pe_ratio": 31.02,
         "forward_return": -7.83,
         "start_price": 39.5,
         "start_year": 2015
@@ -6978,7 +6951,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 45.61,
+        "pe_ratio": 26.56,
         "forward_return": -3.5,
         "start_price": 36.3,
         "start_year": 2015
@@ -6987,7 +6960,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 40.24,
+        "pe_ratio": 23.29,
         "forward_return": 10.14,
         "start_price": 34.0,
         "start_year": 2015
@@ -6996,7 +6969,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 35.56,
+        "pe_ratio": 22.55,
         "forward_return": 30.47,
         "start_price": 31.8,
         "start_year": 2015
@@ -7005,7 +6978,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 28.14,
+        "pe_ratio": 19.52,
         "forward_return": 40.25,
         "start_price": 26.55,
         "start_year": 2015
@@ -7014,7 +6987,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.92,
         "forward_return": 43.12,
         "start_price": 27.4,
         "start_year": 2015
@@ -7023,7 +6996,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 30.24,
+        "pe_ratio": 25.13,
         "forward_return": 36.54,
         "start_price": 31.5,
         "start_year": 2015
@@ -7032,7 +7005,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.17,
+        "pe_ratio": 23.86,
         "forward_return": 41.08,
         "start_price": 28.55,
         "start_year": 2015
@@ -7050,7 +7023,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.62,
         "forward_return": 45.7,
         "start_price": 22.6,
         "start_year": 2016
@@ -7059,7 +7032,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 31.08,
+        "pe_ratio": 31.55,
         "forward_return": 31.15,
         "start_price": 24.4,
         "start_year": 2016
@@ -7068,7 +7041,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 36.54,
+        "pe_ratio": 37.63,
         "forward_return": 39.04,
         "start_price": 22.2,
         "start_year": 2016
@@ -7077,7 +7050,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 78.6,
+        "pe_ratio": 169.0,
         "forward_return": 5.41,
         "start_price": 33.8,
         "start_year": 2016
@@ -7085,26 +7058,17 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2016-05-16",
-        "pe_ratio": 106.1,
-        "forward_return": 25.73,
-        "start_price": 26.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 416.0,
-        "forward_return": 16.24,
-        "start_price": 31.2,
-        "start_year": 2016
+        "start_date": "2017-06-15",
+        "pe_ratio": 166.7,
+        "forward_return": 1.18,
+        "start_price": 40.0,
+        "start_year": 2017
       },
       {
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 333.0,
+        "pe_ratio": 115.2,
         "forward_return": -9.31,
         "start_price": 53.0,
         "start_year": 2017
@@ -7113,7 +7077,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 158.0,
+        "pe_ratio": 75.15,
         "forward_return": 23.84,
         "start_price": 51.1,
         "start_year": 2017
@@ -7122,7 +7086,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 112.8,
+        "pe_ratio": 61.11,
         "forward_return": 3.09,
         "start_price": 55.0,
         "start_year": 2017
@@ -7131,7 +7095,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 88.39,
+        "pe_ratio": 62.16,
         "forward_return": 12.08,
         "start_price": 57.6,
         "start_year": 2017
@@ -7140,7 +7104,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 68.27,
+        "pe_ratio": 58.43,
         "forward_return": 8.16,
         "start_price": 55.7,
         "start_year": 2017
@@ -7158,7 +7122,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 44.9,
+        "pe_ratio": 46.39,
         "forward_return": 12.66,
         "start_price": 46.85,
         "start_year": 2018
@@ -7167,7 +7131,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 36.42,
+        "pe_ratio": 38.75,
         "forward_return": 22.8,
         "start_price": 40.3,
         "start_year": 2018
@@ -7176,7 +7140,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 35.68,
+        "pe_ratio": 39.02,
         "forward_return": 8.88,
         "start_price": 41.75,
         "start_year": 2018
@@ -7185,7 +7149,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 29.51,
+        "pe_ratio": 32.21,
         "forward_return": 32.83,
         "start_price": 36.4,
         "start_year": 2018
@@ -7194,7 +7158,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 31.77,
+        "pe_ratio": 34.62,
         "forward_return": 45.32,
         "start_price": 41.2,
         "start_year": 2018
@@ -7203,7 +7167,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 30.15,
+        "pe_ratio": 32.8,
         "forward_return": 53.73,
         "start_price": 41.0,
         "start_year": 2018
@@ -7212,7 +7176,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.68,
+        "pe_ratio": 28.21,
         "forward_return": 71.15,
         "start_price": 39.4,
         "start_year": 2018
@@ -7221,7 +7185,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.17,
+        "pe_ratio": 25.21,
         "forward_return": 64.24,
         "start_price": 38.9,
         "start_year": 2018
@@ -7230,7 +7194,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.81,
+        "pe_ratio": 23.67,
         "forward_return": 55.36,
         "start_price": 40.0,
         "start_year": 2018
@@ -7239,7 +7203,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.1,
+        "pe_ratio": 17.11,
         "forward_return": 77.53,
         "start_price": 29.2,
         "start_year": 2018
@@ -7248,7 +7212,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.37,
+        "pe_ratio": 21.76,
         "forward_return": 58.61,
         "start_price": 37.5,
         "start_year": 2018
@@ -7266,7 +7230,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.29,
         "forward_return": 52.46,
         "start_price": 40.2,
         "start_year": 2019
@@ -7275,7 +7239,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 22.89,
+        "pe_ratio": 22.53,
         "forward_return": 52.62,
         "start_price": 42.05,
         "start_year": 2019
@@ -7284,7 +7248,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.53,
         "forward_return": 43.31,
         "start_price": 47.35,
         "start_year": 2019
@@ -7293,7 +7257,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.17,
+        "pe_ratio": 22.4,
         "forward_return": 42.64,
         "start_price": 44.8,
         "start_year": 2019
@@ -7302,7 +7266,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.34,
+        "pe_ratio": 19.47,
         "forward_return": 42.26,
         "start_price": 40.3,
         "start_year": 2019
@@ -7311,7 +7275,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 19.61,
+        "pe_ratio": 18.6,
         "forward_return": 44.37,
         "start_price": 39.8,
         "start_year": 2019
@@ -7320,7 +7284,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.19,
         "forward_return": 59.87,
         "start_price": 41.25,
         "start_year": 2019
@@ -7329,7 +7293,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 35.74,
+        "pe_ratio": 35.19,
         "forward_return": 1.37,
         "start_price": 76.0,
         "start_year": 2019
@@ -7338,7 +7302,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.85,
         "forward_return": 18.43,
         "start_price": 56.1,
         "start_year": 2019
@@ -7347,7 +7311,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.48,
+        "pe_ratio": 31.53,
         "forward_return": 9.34,
         "start_price": 70.0,
         "start_year": 2019
@@ -7356,7 +7320,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 27.64,
+        "pe_ratio": 27.67,
         "forward_return": 20.43,
         "start_price": 62.8,
         "start_year": 2019
@@ -7374,7 +7338,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.96,
         "forward_return": 22.56,
         "start_price": 57.1,
         "start_year": 2020
@@ -7383,7 +7347,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 22.39,
+        "pe_ratio": 23.87,
         "forward_return": 39.07,
         "start_price": 58.4,
         "start_year": 2020
@@ -7392,7 +7356,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 18.78,
         "forward_return": 56.9,
         "start_price": 47.15,
         "start_year": 2020
@@ -7401,7 +7365,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 21.37,
+        "pe_ratio": 22.03,
         "forward_return": 26.81,
         "start_price": 61.9,
         "start_year": 2020
@@ -7410,7 +7374,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.23,
         "forward_return": 7.13,
         "start_price": 84.7,
         "start_year": 2020
@@ -7419,7 +7383,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.7,
+        "pe_ratio": 27.74,
         "forward_return": -8.74,
         "start_price": 94.6,
         "start_year": 2020
@@ -7428,7 +7392,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 33.64,
+        "pe_ratio": 30.52,
         "forward_return": -14.08,
         "start_price": 112.0,
         "start_year": 2020
@@ -7437,7 +7401,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 25.83,
         "forward_return": -8.17,
         "start_price": 101.5,
         "start_year": 2020
@@ -7446,7 +7410,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 25.74,
+        "pe_ratio": 22.22,
         "forward_return": -11.22,
         "start_price": 93.1,
         "start_year": 2020
@@ -7455,7 +7419,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 23.55,
+        "pe_ratio": 21.38,
         "forward_return": -3.21,
         "start_price": 88.6,
         "start_year": 2020
@@ -7464,7 +7428,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 23.27,
+        "pe_ratio": 22.19,
         "forward_return": -0.94,
         "start_price": 90.9,
         "start_year": 2020
@@ -7482,7 +7446,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.67,
         "forward_return": 5.78,
         "start_price": 90.0,
         "start_year": 2021
@@ -7491,7 +7455,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.65,
+        "pe_ratio": 22.2,
         "forward_return": 9.21,
         "start_price": 94.5,
         "start_year": 2021
@@ -7500,7 +7464,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 21.51,
         "forward_return": 21.4,
         "start_price": 93.8,
         "start_year": 2021
@@ -7509,7 +7473,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 21.03,
         "forward_return": 24.18,
         "start_price": 87.7,
         "start_year": 2021
@@ -7518,7 +7482,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 16.14,
+        "pe_ratio": 19.62,
         "forward_return": 29.63,
         "start_price": 78.1,
         "start_year": 2021
@@ -7527,7 +7491,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 15.92,
+        "pe_ratio": 20.98,
         "forward_return": 23.49,
         "start_price": 79.5,
         "start_year": 2021
@@ -7536,7 +7500,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 19.41,
+        "pe_ratio": 26.09,
         "forward_return": 35.86,
         "start_price": 100.0,
         "start_year": 2021
@@ -7545,7 +7509,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 18.73,
         "forward_return": 47.09,
         "start_price": 72.6,
         "start_year": 2021
@@ -7554,7 +7518,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 18.67,
         "forward_return": 47.19,
         "start_price": 73.2,
         "start_year": 2021
@@ -7563,7 +7527,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 17.02,
         "forward_return": 43.74,
         "start_price": 78.2,
         "start_year": 2021
@@ -7572,7 +7536,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 14.8,
+        "pe_ratio": 16.25,
         "forward_return": 48.43,
         "start_price": 85.6,
         "start_year": 2021
@@ -7590,7 +7554,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.67,
         "forward_return": 81.74,
         "start_price": 80.3,
         "start_year": 2022
@@ -7599,7 +7563,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.45,
+        "pe_ratio": 14.21,
         "forward_return": 78.59,
         "start_price": 95.7,
         "start_year": 2022
@@ -7608,7 +7572,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 15.5,
         "forward_return": 53.79,
         "start_price": 110.5,
         "start_year": 2022
@@ -7617,7 +7581,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.58,
+        "pe_ratio": 12.68,
         "forward_return": 62.7,
         "start_price": 94.0,
         "start_year": 2022
@@ -7626,7 +7590,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 11.91,
         "forward_return": 95.28,
         "start_price": 91.7,
         "start_year": 2022
@@ -7635,7 +7599,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 10.94,
+        "pe_ratio": 9.19,
         "forward_return": 137.66,
         "start_price": 73.3,
         "start_year": 2022
@@ -7644,7 +7608,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.84,
+        "pe_ratio": 9.08,
         "forward_return": 137.9,
         "start_price": 74.0,
         "start_year": 2022
@@ -7653,7 +7617,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 9.25,
         "forward_return": 140.76,
         "start_price": 76.9,
         "start_year": 2022
@@ -7662,7 +7626,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.14,
+        "pe_ratio": 7.63,
         "forward_return": 185.41,
         "start_price": 64.7,
         "start_year": 2022
@@ -7671,7 +7635,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.31,
+        "pe_ratio": 9.13,
         "forward_return": 169.11,
         "start_price": 74.3,
         "start_year": 2022
@@ -7680,7 +7644,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.32,
         "forward_return": 143.22,
         "start_price": 80.5,
         "start_year": 2022
@@ -7698,7 +7662,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.01,
         "forward_return": 110.95,
         "start_price": 92.0,
         "start_year": 2023
@@ -7707,7 +7671,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 14.8,
+        "pe_ratio": 15.55,
         "forward_return": 96.34,
         "start_price": 104.0,
         "start_year": 2023
@@ -7716,7 +7680,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 19.02,
+        "pe_ratio": 20.56,
         "forward_return": 49.04,
         "start_price": 129.5,
         "start_year": 2023
@@ -7725,7 +7689,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 19.19,
+        "pe_ratio": 21.34,
         "forward_return": 44.65,
         "start_price": 126.5,
         "start_year": 2023
@@ -7734,7 +7698,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 22.06,
         "forward_return": 37.38,
         "start_price": 122.5,
         "start_year": 2023
@@ -7743,7 +7707,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 18.26,
+        "pe_ratio": 21.72,
         "forward_return": 53.81,
         "start_price": 112.5,
         "start_year": 2023
@@ -7752,7 +7716,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 29.11,
+        "pe_ratio": 34.03,
         "forward_return": 14.54,
         "start_price": 173.0,
         "start_year": 2023
@@ -7761,7 +7725,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 25.41,
+        "pe_ratio": 29.18,
         "forward_return": 29.61,
         "start_price": 145.5,
         "start_year": 2023
@@ -7770,7 +7734,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 26.68,
+        "pe_ratio": 30.06,
         "forward_return": 37.24,
         "start_price": 147.0,
         "start_year": 2023
@@ -7779,7 +7743,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 28.34,
+        "pe_ratio": 30.74,
         "forward_return": 25.68,
         "start_price": 150.0,
         "start_year": 2023
@@ -7788,7 +7752,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 34.87,
+        "pe_ratio": 36.34,
         "forward_return": 11.98,
         "start_price": 177.0,
         "start_year": 2023
@@ -7806,7 +7770,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 50.01,
+        "pe_ratio": 48.56,
         "forward_return": -8.44,
         "start_price": 253.5,
         "start_year": 2024
@@ -7815,7 +7779,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 61.54,
+        "pe_ratio": 35.56,
         "forward_return": 43.28,
         "start_price": 32.0,
         "start_year": 2006
@@ -7824,7 +7788,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 73.08,
+        "pe_ratio": 50.22,
         "forward_return": 50.69,
         "start_price": 38.0,
         "start_year": 2006
@@ -7833,7 +7797,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 69.81,
+        "pe_ratio": 59.18,
         "forward_return": 73.47,
         "start_price": 36.3,
         "start_year": 2006
@@ -7842,7 +7806,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 60.0,
+        "pe_ratio": 66.38,
         "forward_return": 74.57,
         "start_price": 31.2,
         "start_year": 2006
@@ -7851,7 +7815,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 51.15,
+        "pe_ratio": 68.79,
         "forward_return": 85.38,
         "start_price": 26.6,
         "start_year": 2006
@@ -7860,7 +7824,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 48.08,
+        "pe_ratio": 82.42,
         "forward_return": 86.61,
         "start_price": 25.0,
         "start_year": 2006
@@ -7869,7 +7833,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 60.38,
+        "pe_ratio": 142.7,
         "forward_return": 66.9,
         "start_price": 31.4,
         "start_year": 2006
@@ -7878,7 +7842,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 70.29,
+        "pe_ratio": 114.2,
         "forward_return": 55.9,
         "start_price": 36.55,
         "start_year": 2006
@@ -7887,7 +7851,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 73.85,
+        "pe_ratio": 91.43,
         "forward_return": 60.58,
         "start_price": 38.4,
         "start_year": 2006
@@ -7905,7 +7869,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 65.09,
+        "pe_ratio": 77.48,
         "forward_return": 49.76,
         "start_price": 39.0,
         "start_year": 2007
@@ -7914,7 +7878,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 52.04,
+        "pe_ratio": 72.53,
         "forward_return": 49.74,
         "start_price": 35.3,
         "start_year": 2007
@@ -7923,7 +7887,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 51.82,
+        "pe_ratio": 83.51,
         "forward_return": 49.63,
         "start_price": 39.25,
         "start_year": 2007
@@ -7932,7 +7896,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 47.45,
+        "pe_ratio": 59.55,
         "forward_return": 45.19,
         "start_price": 39.7,
         "start_year": 2007
@@ -7941,7 +7905,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 43.46,
+        "pe_ratio": 46.1,
         "forward_return": 40.13,
         "start_price": 39.8,
         "start_year": 2007
@@ -7950,7 +7914,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 54.27,
+        "pe_ratio": 50.94,
         "forward_return": 24.43,
         "start_price": 54.0,
         "start_year": 2007
@@ -7959,7 +7923,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 113.6,
+        "pe_ratio": 111.2,
         "forward_return": -6.31,
         "start_price": 122.0,
         "start_year": 2007
@@ -7968,7 +7932,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 91.91,
+        "pe_ratio": 93.53,
         "forward_return": -4.74,
         "start_price": 106.0,
         "start_year": 2007
@@ -7977,7 +7941,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 85.6,
+        "pe_ratio": 90.17,
         "forward_return": -3.83,
         "start_price": 105.5,
         "start_year": 2007
@@ -7986,7 +7950,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 100.6,
+        "pe_ratio": 103.9,
         "forward_return": -8.05,
         "start_price": 132.0,
         "start_year": 2007
@@ -7995,7 +7959,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 68.61,
         "forward_return": 1.17,
         "start_price": 94.0,
         "start_year": 2007
@@ -8013,7 +7977,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 41.62,
+        "pe_ratio": 41.47,
         "forward_return": 20.63,
         "start_price": 69.4,
         "start_year": 2008
@@ -8022,7 +7986,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 41.82,
+        "pe_ratio": 41.56,
         "forward_return": 30.08,
         "start_price": 78.0,
         "start_year": 2008
@@ -8031,7 +7995,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 49.7,
+        "pe_ratio": 49.28,
         "forward_return": 19.61,
         "start_price": 102.5,
         "start_year": 2008
@@ -8040,7 +8004,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 53.1,
+        "pe_ratio": 56.34,
         "forward_return": 7.33,
         "start_price": 120.0,
         "start_year": 2008
@@ -8049,7 +8013,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 36.62,
+        "pe_ratio": 41.28,
         "forward_return": 19.06,
         "start_price": 90.0,
         "start_year": 2008
@@ -8058,7 +8022,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 32.24,
+        "pe_ratio": 38.39,
         "forward_return": 24.55,
         "start_price": 85.6,
         "start_year": 2008
@@ -8067,7 +8031,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 44.64,
         "forward_return": 10.88,
         "start_price": 111.0,
         "start_year": 2008
@@ -8076,7 +8040,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 32.1,
+        "pe_ratio": 35.69,
         "forward_return": 9.15,
         "start_price": 97.9,
         "start_year": 2008
@@ -8085,7 +8049,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.91,
+        "pe_ratio": 18.3,
         "forward_return": 36.9,
         "start_price": 54.9,
         "start_year": 2008
@@ -8094,7 +8058,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.51,
         "forward_return": 45.75,
         "start_price": 47.6,
         "start_year": 2008
@@ -8103,7 +8067,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-11-15",
-        "pe_ratio": 13.59,
+        "pe_ratio": 13.9,
         "forward_return": 39.15,
         "start_price": 49.5,
         "start_year": 2008
@@ -8121,7 +8085,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.33,
         "forward_return": 39.17,
         "start_price": 59.5,
         "start_year": 2009
@@ -8130,7 +8094,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.11,
         "forward_return": 26.78,
         "start_price": 80.9,
         "start_year": 2009
@@ -8139,7 +8103,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 19.69,
         "forward_return": 19.54,
         "start_price": 94.1,
         "start_year": 2009
@@ -8148,7 +8112,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 26.84,
+        "pe_ratio": 25.19,
         "forward_return": 4.25,
         "start_price": 130.0,
         "start_year": 2009
@@ -8157,7 +8121,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 37.2,
+        "pe_ratio": 34.21,
         "forward_return": -8.37,
         "start_price": 189.5,
         "start_year": 2009
@@ -8166,7 +8130,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 31.06,
+        "pe_ratio": 28.04,
         "forward_return": -4.35,
         "start_price": 166.0,
         "start_year": 2009
@@ -8175,7 +8139,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 29.93,
+        "pe_ratio": 27.38,
         "forward_return": -9.22,
         "start_price": 167.5,
         "start_year": 2009
@@ -8184,7 +8148,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 27.45,
+        "pe_ratio": 25.42,
         "forward_return": -7.92,
         "start_price": 160.5,
         "start_year": 2009
@@ -8193,7 +8157,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.62,
+        "pe_ratio": 22.12,
         "forward_return": -1.46,
         "start_price": 144.0,
         "start_year": 2009
@@ -8202,7 +8166,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.5,
+        "pe_ratio": 20.61,
         "forward_return": -8.67,
         "start_price": 136.5,
         "start_year": 2009
@@ -8211,7 +8175,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 23.79,
+        "pe_ratio": 23.31,
         "forward_return": -15.36,
         "start_price": 157.0,
         "start_year": 2009
@@ -8229,7 +8193,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 18.9,
+        "pe_ratio": 19.23,
         "forward_return": -10.21,
         "start_price": 129.0,
         "start_year": 2010
@@ -8238,7 +8202,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.14,
+        "pe_ratio": 17.73,
         "forward_return": -8.55,
         "start_price": 116.5,
         "start_year": 2010
@@ -8247,7 +8211,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 20.14,
         "forward_return": -11.79,
         "start_price": 129.5,
         "start_year": 2010
@@ -8256,7 +8220,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 19.03,
         "forward_return": -16.25,
         "start_price": 119.5,
         "start_year": 2010
@@ -8265,7 +8229,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 17.54,
         "forward_return": -12.55,
         "start_price": 107.5,
         "start_year": 2010
@@ -8274,7 +8238,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 15.24,
+        "pe_ratio": 17.06,
         "forward_return": -10.92,
         "start_price": 102.0,
         "start_year": 2010
@@ -8283,7 +8247,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.76,
         "forward_return": -14.09,
         "start_price": 93.5,
         "start_year": 2010
@@ -8292,7 +8256,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.41,
         "forward_return": -5.89,
         "start_price": 84.8,
         "start_year": 2010
@@ -8301,7 +8265,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.9,
         "forward_return": -7.98,
         "start_price": 87.0,
         "start_year": 2010
@@ -8310,7 +8274,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.53,
+        "pe_ratio": 15.77,
         "forward_return": -10.84,
         "start_price": 95.8,
         "start_year": 2010
@@ -8319,7 +8283,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.35,
         "forward_return": -12.09,
         "start_price": 90.5,
         "start_year": 2010
@@ -8337,7 +8301,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.96,
+        "pe_ratio": 16.34,
         "forward_return": -16.56,
         "start_price": 115.0,
         "start_year": 2011
@@ -8346,7 +8310,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.5,
+        "pe_ratio": 18.19,
         "forward_return": -20.17,
         "start_price": 137.0,
         "start_year": 2011
@@ -8355,7 +8319,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 23.19,
+        "pe_ratio": 20.98,
         "forward_return": -25.85,
         "start_price": 168.5,
         "start_year": 2011
@@ -8364,7 +8328,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 17.17,
         "forward_return": -19.25,
         "start_price": 141.5,
         "start_year": 2011
@@ -8373,7 +8337,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.16,
         "forward_return": -20.48,
         "start_price": 145.0,
         "start_year": 2011
@@ -8382,7 +8346,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 19.82,
+        "pe_ratio": 18.3,
         "forward_return": -22.77,
         "start_price": 158.5,
         "start_year": 2011
@@ -8391,7 +8355,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.42,
         "forward_return": -24.11,
         "start_price": 139.0,
         "start_year": 2011
@@ -8400,7 +8364,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.27,
         "forward_return": -18.11,
         "start_price": 115.0,
         "start_year": 2011
@@ -8409,7 +8373,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 13.21,
         "forward_return": -19.45,
         "start_price": 128.5,
         "start_year": 2011
@@ -8418,7 +8382,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.01,
         "forward_return": -23.58,
         "start_price": 135.0,
         "start_year": 2011
@@ -8427,7 +8391,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.14,
+        "pe_ratio": 12.68,
         "forward_return": -20.85,
         "start_price": 121.0,
         "start_year": 2011
@@ -8445,7 +8409,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.57,
         "forward_return": -26.55,
         "start_price": 148.0,
         "start_year": 2012
@@ -8454,7 +8418,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.1,
+        "pe_ratio": 18.13,
         "forward_return": -27.62,
         "start_price": 152.5,
         "start_year": 2012
@@ -8463,7 +8427,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.82,
         "forward_return": -27.62,
         "start_price": 148.5,
         "start_year": 2012
@@ -8472,7 +8436,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.24,
+        "pe_ratio": 18.06,
         "forward_return": -28.18,
         "start_price": 135.0,
         "start_year": 2012
@@ -8481,7 +8445,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.38,
+        "pe_ratio": 18.92,
         "forward_return": -29.49,
         "start_price": 133.5,
         "start_year": 2012
@@ -8490,7 +8454,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.85,
+        "pe_ratio": 20.03,
         "forward_return": -30.57,
         "start_price": 133.0,
         "start_year": 2012
@@ -8499,7 +8463,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 18.33,
+        "pe_ratio": 17.66,
         "forward_return": -31.07,
         "start_price": 107.5,
         "start_year": 2012
@@ -8508,7 +8472,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.43,
         "forward_return": -34.68,
         "start_price": 107.5,
         "start_year": 2012
@@ -8517,7 +8481,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 24.79,
+        "pe_ratio": 24.1,
         "forward_return": -36.44,
         "start_price": 120.0,
         "start_year": 2012
@@ -8526,7 +8490,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 19.91,
+        "pe_ratio": 19.49,
         "forward_return": -26.01,
         "start_price": 86.2,
         "start_year": 2012
@@ -8535,7 +8499,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 20.28,
+        "pe_ratio": 20.03,
         "forward_return": -25.53,
         "start_price": 77.4,
         "start_year": 2012
@@ -8553,7 +8517,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 24.46,
+        "pe_ratio": 30.56,
         "forward_return": -29.92,
         "start_price": 75.6,
         "start_year": 2013
@@ -8562,7 +8526,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 24.79,
+        "pe_ratio": 43.43,
         "forward_return": -26.93,
         "start_price": 71.3,
         "start_year": 2013
@@ -8571,7 +8535,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 87.78,
         "forward_return": -28.82,
         "start_price": 71.1,
         "start_year": 2013
@@ -8580,7 +8544,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.41,
+        "pe_ratio": 65.23,
         "forward_return": -10.76,
         "start_price": 52.4,
         "start_year": 2013
@@ -8589,7 +8553,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 24.24,
+        "pe_ratio": 67.91,
         "forward_return": -17.62,
         "start_price": 54.1,
         "start_year": 2013
@@ -8598,7 +8562,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 68.73,
         "forward_return": -13.91,
         "start_price": 54.3,
         "start_year": 2013
@@ -8607,7 +8571,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 66.36,
         "forward_return": -8.32,
         "start_price": 43.8,
         "start_year": 2013
@@ -8616,7 +8580,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 34.75,
+        "pe_ratio": 104.2,
         "forward_return": -15.5,
         "start_price": 55.2,
         "start_year": 2013
@@ -8625,7 +8589,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 38.07,
+        "pe_ratio": 130.7,
         "forward_return": -14.23,
         "start_price": 52.3,
         "start_year": 2013
@@ -8634,7 +8598,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 102.7,
         "forward_return": -15.96,
         "start_price": 52.4,
         "start_year": 2013
@@ -8643,7 +8607,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 48.7,
+        "pe_ratio": 74.19,
         "forward_return": -16.84,
         "start_price": 46.0,
         "start_year": 2013
@@ -8661,7 +8625,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 71.75,
+        "pe_ratio": 52.71,
         "forward_return": -20.68,
         "start_price": 51.3,
         "start_year": 2014
@@ -8670,7 +8634,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 77.43,
+        "pe_ratio": 44.55,
         "forward_return": -20.43,
         "start_price": 54.2,
         "start_year": 2014
@@ -8679,7 +8643,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 77.66,
+        "pe_ratio": 36.44,
         "forward_return": -18.5,
         "start_price": 53.2,
         "start_year": 2014
@@ -8688,7 +8652,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 88.06,
+        "pe_ratio": 51.01,
         "forward_return": -16.7,
         "start_price": 59.0,
         "start_year": 2014
@@ -8697,7 +8661,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 87.63,
+        "pe_ratio": 67.27,
         "forward_return": -15.73,
         "start_price": 57.4,
         "start_year": 2014
@@ -8706,7 +8670,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 89.84,
+        "pe_ratio": 104.5,
         "forward_return": -10.08,
         "start_price": 57.5,
         "start_year": 2014
@@ -8715,7 +8679,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 80.32,
+        "pe_ratio": 81.85,
         "forward_return": 2.81,
         "start_price": 50.2,
         "start_year": 2014
@@ -8724,7 +8688,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 86.23,
+        "pe_ratio": 77.73,
         "forward_return": 0.03,
         "start_price": 52.6,
         "start_year": 2014
@@ -8733,7 +8697,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 95.13,
+        "pe_ratio": 76.49,
         "forward_return": -0.03,
         "start_price": 56.6,
         "start_year": 2014
@@ -8742,7 +8706,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 85.69,
+        "pe_ratio": 73.45,
         "forward_return": 5.97,
         "start_price": 49.7,
         "start_year": 2014
@@ -8751,7 +8715,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 87.52,
+        "pe_ratio": 80.62,
         "forward_return": 5.0,
         "start_price": 49.45,
         "start_year": 2014
@@ -8769,7 +8733,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 80.28,
+        "pe_ratio": 63.29,
         "forward_return": 0.21,
         "start_price": 48.1,
         "start_year": 2015
@@ -8778,7 +8742,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 74.5,
+        "pe_ratio": 49.79,
         "forward_return": -4.66,
         "start_price": 48.3,
         "start_year": 2015
@@ -8787,7 +8751,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 65.66,
+        "pe_ratio": 38.81,
         "forward_return": -1.85,
         "start_price": 45.8,
         "start_year": 2015
@@ -8796,7 +8760,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 52.9,
+        "pe_ratio": 31.02,
         "forward_return": -1.33,
         "start_price": 39.5,
         "start_year": 2015
@@ -8805,7 +8769,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 45.61,
+        "pe_ratio": 26.56,
         "forward_return": 5.6,
         "start_price": 36.3,
         "start_year": 2015
@@ -8814,7 +8778,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 40.24,
+        "pe_ratio": 23.29,
         "forward_return": 7.76,
         "start_price": 34.0,
         "start_year": 2015
@@ -8823,7 +8787,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 35.56,
+        "pe_ratio": 22.55,
         "forward_return": 9.19,
         "start_price": 31.8,
         "start_year": 2015
@@ -8832,7 +8796,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 28.14,
+        "pe_ratio": 19.52,
         "forward_return": 15.49,
         "start_price": 26.55,
         "start_year": 2015
@@ -8841,7 +8805,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.92,
         "forward_return": 15.3,
         "start_price": 27.4,
         "start_year": 2015
@@ -8850,7 +8814,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 30.24,
+        "pe_ratio": 25.13,
         "forward_return": -0.32,
         "start_price": 31.5,
         "start_year": 2015
@@ -8859,7 +8823,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.17,
+        "pe_ratio": 23.86,
         "forward_return": 11.43,
         "start_price": 28.55,
         "start_year": 2015
@@ -8877,7 +8841,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.62,
         "forward_return": 23.13,
         "start_price": 22.6,
         "start_year": 2016
@@ -8886,7 +8850,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 31.08,
+        "pe_ratio": 31.55,
         "forward_return": 25.69,
         "start_price": 24.4,
         "start_year": 2016
@@ -8895,7 +8859,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 36.54,
+        "pe_ratio": 37.63,
         "forward_return": 30.53,
         "start_price": 22.2,
         "start_year": 2016
@@ -8904,7 +8868,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 78.6,
+        "pe_ratio": 169.0,
         "forward_return": 11.47,
         "start_price": 33.8,
         "start_year": 2016
@@ -8912,26 +8876,17 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2016-05-16",
-        "pe_ratio": 106.1,
-        "forward_return": 16.44,
-        "start_price": 26.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 416.0,
-        "forward_return": 10.25,
-        "start_price": 31.2,
-        "start_year": 2016
+        "start_date": "2017-06-15",
+        "pe_ratio": 166.7,
+        "forward_return": 34.46,
+        "start_price": 40.0,
+        "start_year": 2017
       },
       {
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 333.0,
+        "pe_ratio": 115.2,
         "forward_return": 29.96,
         "start_price": 53.0,
         "start_year": 2017
@@ -8940,7 +8895,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 158.0,
+        "pe_ratio": 75.15,
         "forward_return": 27.47,
         "start_price": 51.1,
         "start_year": 2017
@@ -8949,7 +8904,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 112.8,
+        "pe_ratio": 61.11,
         "forward_return": 21.0,
         "start_price": 55.0,
         "start_year": 2017
@@ -8958,7 +8913,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 88.39,
+        "pe_ratio": 62.16,
         "forward_return": 17.29,
         "start_price": 57.6,
         "start_year": 2017
@@ -8967,7 +8922,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 68.27,
+        "pe_ratio": 58.43,
         "forward_return": 19.58,
         "start_price": 55.7,
         "start_year": 2017
@@ -8985,7 +8940,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 44.9,
+        "pe_ratio": 46.39,
         "forward_return": 26.28,
         "start_price": 46.85,
         "start_year": 2018
@@ -8994,7 +8949,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 36.42,
+        "pe_ratio": 38.75,
         "forward_return": 34.85,
         "start_price": 40.3,
         "start_year": 2018
@@ -9003,7 +8958,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 35.68,
+        "pe_ratio": 39.02,
         "forward_return": 32.96,
         "start_price": 41.75,
         "start_year": 2018
@@ -9012,7 +8967,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 29.51,
+        "pe_ratio": 32.21,
         "forward_return": 36.23,
         "start_price": 36.4,
         "start_year": 2018
@@ -9021,7 +8976,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 31.77,
+        "pe_ratio": 34.62,
         "forward_return": 26.01,
         "start_price": 41.2,
         "start_year": 2018
@@ -9030,7 +8985,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 30.15,
+        "pe_ratio": 32.8,
         "forward_return": 26.93,
         "start_price": 41.0,
         "start_year": 2018
@@ -9039,7 +8994,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.68,
+        "pe_ratio": 28.21,
         "forward_return": 39.51,
         "start_price": 39.4,
         "start_year": 2018
@@ -9048,7 +9003,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.17,
+        "pe_ratio": 25.21,
         "forward_return": 26.95,
         "start_price": 38.9,
         "start_year": 2018
@@ -9057,7 +9012,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.81,
+        "pe_ratio": 23.67,
         "forward_return": 26.09,
         "start_price": 40.0,
         "start_year": 2018
@@ -9066,7 +9021,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.1,
+        "pe_ratio": 17.11,
         "forward_return": 42.88,
         "start_price": 29.2,
         "start_year": 2018
@@ -9075,7 +9030,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.37,
+        "pe_ratio": 21.76,
         "forward_return": 35.15,
         "start_price": 37.5,
         "start_year": 2018
@@ -9093,7 +9048,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.29,
         "forward_return": 29.49,
         "start_price": 40.2,
         "start_year": 2019
@@ -9102,7 +9057,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 22.89,
+        "pe_ratio": 22.53,
         "forward_return": 34.66,
         "start_price": 42.05,
         "start_year": 2019
@@ -9111,7 +9066,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.53,
         "forward_return": 35.38,
         "start_price": 47.35,
         "start_year": 2019
@@ -9120,7 +9075,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.17,
+        "pe_ratio": 22.4,
         "forward_return": 31.12,
         "start_price": 44.8,
         "start_year": 2019
@@ -9129,7 +9084,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.34,
+        "pe_ratio": 19.47,
         "forward_return": 34.78,
         "start_price": 40.3,
         "start_year": 2019
@@ -9138,7 +9093,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 19.61,
+        "pe_ratio": 18.6,
         "forward_return": 26.35,
         "start_price": 39.8,
         "start_year": 2019
@@ -9147,7 +9102,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.19,
         "forward_return": 27.1,
         "start_price": 41.25,
         "start_year": 2019
@@ -9156,7 +9111,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 35.74,
+        "pe_ratio": 35.19,
         "forward_return": 4.85,
         "start_price": 76.0,
         "start_year": 2019
@@ -9165,7 +9120,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.85,
         "forward_return": 10.36,
         "start_price": 56.1,
         "start_year": 2019
@@ -9174,7 +9129,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.48,
+        "pe_ratio": 31.53,
         "forward_return": 6.68,
         "start_price": 70.0,
         "start_year": 2019
@@ -9183,7 +9138,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 27.64,
+        "pe_ratio": 27.67,
         "forward_return": 13.24,
         "start_price": 62.8,
         "start_year": 2019
@@ -9201,7 +9156,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.96,
         "forward_return": 21.61,
         "start_price": 57.1,
         "start_year": 2020
@@ -9210,7 +9165,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 22.39,
+        "pe_ratio": 23.87,
         "forward_return": 32.89,
         "start_price": 58.4,
         "start_year": 2020
@@ -9219,7 +9174,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 18.78,
         "forward_return": 43.83,
         "start_price": 47.15,
         "start_year": 2020
@@ -9228,7 +9183,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 21.37,
+        "pe_ratio": 22.03,
         "forward_return": 30.41,
         "start_price": 61.9,
         "start_year": 2020
@@ -9237,7 +9192,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.23,
         "forward_return": 16.3,
         "start_price": 84.7,
         "start_year": 2020
@@ -9246,7 +9201,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.7,
+        "pe_ratio": 27.74,
         "forward_return": 9.21,
         "start_price": 94.6,
         "start_year": 2020
@@ -9255,7 +9210,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 33.64,
+        "pe_ratio": 30.52,
         "forward_return": 18.86,
         "start_price": 112.0,
         "start_year": 2020
@@ -9264,7 +9219,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 25.83,
         "forward_return": 16.51,
         "start_price": 101.5,
         "start_year": 2020
@@ -9273,7 +9228,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 25.74,
+        "pe_ratio": 22.22,
         "forward_return": 20.29,
         "start_price": 93.1,
         "start_year": 2020
@@ -9282,7 +9237,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 23.55,
+        "pe_ratio": 21.38,
         "forward_return": 23.05,
         "start_price": 88.6,
         "start_year": 2020
@@ -9291,7 +9246,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 23.27,
+        "pe_ratio": 22.19,
         "forward_return": 28.33,
         "start_price": 90.9,
         "start_year": 2020
@@ -9309,7 +9264,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.67,
         "forward_return": 43.99,
         "start_price": 90.0,
         "start_year": 2021
@@ -9318,7 +9273,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.65,
+        "pe_ratio": 22.2,
         "forward_return": 48.39,
         "start_price": 94.5,
         "start_year": 2021
@@ -9327,7 +9282,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 21.51,
         "forward_return": 41.36,
         "start_price": 93.8,
         "start_year": 2021
@@ -9336,7 +9291,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 21.03,
         "forward_return": 42.25,
         "start_price": 87.7,
         "start_year": 2021
@@ -9345,7 +9300,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 16.14,
+        "pe_ratio": 19.62,
         "forward_return": 65.4,
         "start_price": 78.1,
         "start_year": 2021
@@ -9354,7 +9309,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 15.92,
+        "pe_ratio": 20.98,
         "forward_return": 73.87,
         "start_price": 79.5,
         "start_year": 2021
@@ -9363,7 +9318,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 19.41,
+        "pe_ratio": 26.09,
         "forward_return": 61.9,
         "start_price": 100.0,
         "start_year": 2021
@@ -9372,7 +9327,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 18.73,
         "forward_return": 83.87,
         "start_price": 72.6,
         "start_year": 2021
@@ -9381,7 +9336,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 18.67,
         "forward_return": 93.79,
         "start_price": 73.2,
         "start_year": 2021
@@ -9390,7 +9345,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 17.02,
         "forward_return": 90.87,
         "start_price": 78.2,
         "start_year": 2021
@@ -9399,7 +9354,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 14.8,
+        "pe_ratio": 16.25,
         "forward_return": 77.88,
         "start_price": 85.6,
         "start_year": 2021
@@ -9417,7 +9372,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.67,
         "forward_return": 72.87,
         "start_price": 80.3,
         "start_year": 2022
@@ -9426,7 +9381,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.45,
+        "pe_ratio": 14.21,
         "forward_return": 61.93,
         "start_price": 95.7,
         "start_year": 2022
@@ -9435,7 +9390,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 17.48,
+        "pe_ratio": 15.5,
         "forward_return": 38.4,
         "start_price": 110.5,
         "start_year": 2022
@@ -9444,7 +9399,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 14.58,
+        "pe_ratio": 12.68,
         "forward_return": 42.14,
         "start_price": 94.0,
         "start_year": 2022
@@ -9453,7 +9408,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 13.95,
+        "pe_ratio": 11.91,
         "forward_return": 37.13,
         "start_price": 91.7,
         "start_year": 2022
@@ -9462,7 +9417,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 10.94,
+        "pe_ratio": 9.19,
         "forward_return": 54.71,
         "start_price": 73.3,
         "start_year": 2022
@@ -9471,7 +9426,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.84,
+        "pe_ratio": 9.08,
         "forward_return": 46.62,
         "start_price": 74.0,
         "start_year": 2022
@@ -9480,7 +9435,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 9.25,
         "forward_return": 48.28,
         "start_price": 76.9,
         "start_year": 2022
@@ -9489,7 +9444,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 9.14,
+        "pe_ratio": 7.63,
         "forward_return": 63.58,
         "start_price": 64.7,
         "start_year": 2022
@@ -9498,7 +9453,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 10.31,
+        "pe_ratio": 9.13,
         "forward_return": 48.48,
         "start_price": 74.3,
         "start_year": 2022
@@ -9507,7 +9462,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 10.98,
+        "pe_ratio": 10.32,
         "forward_return": 41.54,
         "start_price": 80.5,
         "start_year": 2022
@@ -9525,7 +9480,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.01,
         "forward_return": 33.47,
         "start_price": 92.0,
         "start_year": 2023
@@ -9534,7 +9489,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 14.8,
+        "pe_ratio": 15.55,
         "forward_return": 26.35,
         "start_price": 104.0,
         "start_year": 2023
@@ -9543,7 +9498,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 61.54,
+        "pe_ratio": 35.56,
         "forward_return": 42.39,
         "start_price": 32.0,
         "start_year": 2006
@@ -9552,7 +9507,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 73.08,
+        "pe_ratio": 50.22,
         "forward_return": 33.73,
         "start_price": 38.0,
         "start_year": 2006
@@ -9561,7 +9516,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 69.81,
+        "pe_ratio": 59.18,
         "forward_return": 31.8,
         "start_price": 36.3,
         "start_year": 2006
@@ -9570,7 +9525,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 60.0,
+        "pe_ratio": 66.38,
         "forward_return": 35.13,
         "start_price": 31.2,
         "start_year": 2006
@@ -9579,7 +9534,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 51.15,
+        "pe_ratio": 68.79,
         "forward_return": 39.36,
         "start_price": 26.6,
         "start_year": 2006
@@ -9588,7 +9543,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 48.08,
+        "pe_ratio": 82.42,
         "forward_return": 38.36,
         "start_price": 25.0,
         "start_year": 2006
@@ -9597,7 +9552,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 60.38,
+        "pe_ratio": 142.7,
         "forward_return": 31.48,
         "start_price": 31.4,
         "start_year": 2006
@@ -9606,7 +9561,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 70.29,
+        "pe_ratio": 114.2,
         "forward_return": 29.45,
         "start_price": 36.55,
         "start_year": 2006
@@ -9615,7 +9570,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 73.85,
+        "pe_ratio": 91.43,
         "forward_return": 26.18,
         "start_price": 38.4,
         "start_year": 2006
@@ -9633,7 +9588,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 65.09,
+        "pe_ratio": 77.48,
         "forward_return": 32.94,
         "start_price": 39.0,
         "start_year": 2007
@@ -9642,7 +9597,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 52.04,
+        "pe_ratio": 72.53,
         "forward_return": 42.08,
         "start_price": 35.3,
         "start_year": 2007
@@ -9651,7 +9606,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 51.82,
+        "pe_ratio": 83.51,
         "forward_return": 45.38,
         "start_price": 39.25,
         "start_year": 2007
@@ -9660,7 +9615,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 47.45,
+        "pe_ratio": 59.55,
         "forward_return": 39.03,
         "start_price": 39.7,
         "start_year": 2007
@@ -9669,7 +9624,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 43.46,
+        "pe_ratio": 46.1,
         "forward_return": 39.76,
         "start_price": 39.8,
         "start_year": 2007
@@ -9678,7 +9633,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 54.27,
+        "pe_ratio": 50.94,
         "forward_return": 32.28,
         "start_price": 54.0,
         "start_year": 2007
@@ -9687,7 +9642,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 113.6,
+        "pe_ratio": 111.2,
         "forward_return": 5.53,
         "start_price": 122.0,
         "start_year": 2007
@@ -9696,7 +9651,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 91.91,
+        "pe_ratio": 93.53,
         "forward_return": 4.69,
         "start_price": 106.0,
         "start_year": 2007
@@ -9705,7 +9660,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 85.6,
+        "pe_ratio": 90.17,
         "forward_return": 7.49,
         "start_price": 105.5,
         "start_year": 2007
@@ -9714,7 +9669,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 100.6,
+        "pe_ratio": 103.9,
         "forward_return": 2.78,
         "start_price": 132.0,
         "start_year": 2007
@@ -9723,7 +9678,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 68.61,
         "forward_return": 9.13,
         "start_price": 94.0,
         "start_year": 2007
@@ -9741,7 +9696,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 41.62,
+        "pe_ratio": 41.47,
         "forward_return": 23.29,
         "start_price": 69.4,
         "start_year": 2008
@@ -9750,7 +9705,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 41.82,
+        "pe_ratio": 41.56,
         "forward_return": 20.57,
         "start_price": 78.0,
         "start_year": 2008
@@ -9759,7 +9714,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 49.7,
+        "pe_ratio": 49.28,
         "forward_return": 11.92,
         "start_price": 102.5,
         "start_year": 2008
@@ -9768,7 +9723,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 53.1,
+        "pe_ratio": 56.34,
         "forward_return": 5.26,
         "start_price": 120.0,
         "start_year": 2008
@@ -9777,7 +9732,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 36.62,
+        "pe_ratio": 41.28,
         "forward_return": 12.82,
         "start_price": 90.0,
         "start_year": 2008
@@ -9786,7 +9741,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 32.24,
+        "pe_ratio": 38.39,
         "forward_return": 14.15,
         "start_price": 85.6,
         "start_year": 2008
@@ -9795,7 +9750,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 44.64,
         "forward_return": 3.48,
         "start_price": 111.0,
         "start_year": 2008
@@ -9804,7 +9759,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 32.1,
+        "pe_ratio": 35.69,
         "forward_return": 6.78,
         "start_price": 97.9,
         "start_year": 2008
@@ -9813,7 +9768,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.91,
+        "pe_ratio": 18.3,
         "forward_return": 26.32,
         "start_price": 54.9,
         "start_year": 2008
@@ -9822,7 +9777,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.51,
         "forward_return": 22.15,
         "start_price": 47.6,
         "start_year": 2008
@@ -9831,7 +9786,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-11-15",
-        "pe_ratio": 13.59,
+        "pe_ratio": 13.9,
         "forward_return": 18.37,
         "start_price": 49.5,
         "start_year": 2008
@@ -9849,7 +9804,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.33,
         "forward_return": 12.52,
         "start_price": 59.5,
         "start_year": 2009
@@ -9858,7 +9813,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.11,
         "forward_return": 3.01,
         "start_price": 80.9,
         "start_year": 2009
@@ -9867,7 +9822,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 19.69,
         "forward_return": -0.87,
         "start_price": 94.1,
         "start_year": 2009
@@ -9876,7 +9831,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 26.84,
+        "pe_ratio": 25.19,
         "forward_return": -13.68,
         "start_price": 130.0,
         "start_year": 2009
@@ -9885,7 +9840,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 37.2,
+        "pe_ratio": 34.21,
         "forward_return": -20.98,
         "start_price": 189.5,
         "start_year": 2009
@@ -9894,7 +9849,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 31.06,
+        "pe_ratio": 28.04,
         "forward_return": -18.27,
         "start_price": 166.0,
         "start_year": 2009
@@ -9903,7 +9858,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 29.93,
+        "pe_ratio": 27.38,
         "forward_return": -21.35,
         "start_price": 167.5,
         "start_year": 2009
@@ -9912,7 +9867,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 27.45,
+        "pe_ratio": 25.42,
         "forward_return": -17.19,
         "start_price": 160.5,
         "start_year": 2009
@@ -9921,7 +9876,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.62,
+        "pe_ratio": 22.12,
         "forward_return": -15.74,
         "start_price": 144.0,
         "start_year": 2009
@@ -9930,7 +9885,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.5,
+        "pe_ratio": 20.61,
         "forward_return": -14.58,
         "start_price": 136.5,
         "start_year": 2009
@@ -9939,7 +9894,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 23.79,
+        "pe_ratio": 23.31,
         "forward_return": -19.39,
         "start_price": 157.0,
         "start_year": 2009
@@ -9957,7 +9912,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 18.9,
+        "pe_ratio": 19.23,
         "forward_return": -13.69,
         "start_price": 129.0,
         "start_year": 2010
@@ -9966,7 +9921,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.14,
+        "pe_ratio": 17.73,
         "forward_return": -10.58,
         "start_price": 116.5,
         "start_year": 2010
@@ -9975,7 +9930,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 20.14,
         "forward_return": -13.21,
         "start_price": 129.5,
         "start_year": 2010
@@ -9984,7 +9939,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 19.03,
         "forward_return": -9.75,
         "start_price": 119.5,
         "start_year": 2010
@@ -9993,7 +9948,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 17.54,
         "forward_return": -7.8,
         "start_price": 107.5,
         "start_year": 2010
@@ -10002,7 +9957,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 15.24,
+        "pe_ratio": 17.06,
         "forward_return": -6.55,
         "start_price": 102.0,
         "start_year": 2010
@@ -10011,7 +9966,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.76,
         "forward_return": -8.26,
         "start_price": 93.5,
         "start_year": 2010
@@ -10020,7 +9975,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.41,
         "forward_return": -5.15,
         "start_price": 84.8,
         "start_year": 2010
@@ -10029,7 +9984,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.9,
         "forward_return": -4.41,
         "start_price": 87.0,
         "start_year": 2010
@@ -10038,7 +9993,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.53,
+        "pe_ratio": 15.77,
         "forward_return": -8.99,
         "start_price": 95.8,
         "start_year": 2010
@@ -10047,7 +10002,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.35,
         "forward_return": -7.77,
         "start_price": 90.5,
         "start_year": 2010
@@ -10065,7 +10020,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.96,
+        "pe_ratio": 16.34,
         "forward_return": -13.58,
         "start_price": 115.0,
         "start_year": 2011
@@ -10074,7 +10029,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.5,
+        "pe_ratio": 18.19,
         "forward_return": -17.22,
         "start_price": 137.0,
         "start_year": 2011
@@ -10083,7 +10038,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 23.19,
+        "pe_ratio": 20.98,
         "forward_return": -22.17,
         "start_price": 168.5,
         "start_year": 2011
@@ -10092,7 +10047,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 17.17,
         "forward_return": -20.85,
         "start_price": 141.5,
         "start_year": 2011
@@ -10101,7 +10056,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.16,
         "forward_return": -22.49,
         "start_price": 145.0,
         "start_year": 2011
@@ -10110,7 +10065,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 19.82,
+        "pe_ratio": 18.3,
         "forward_return": -25.04,
         "start_price": 158.5,
         "start_year": 2011
@@ -10119,7 +10074,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.42,
         "forward_return": -25.54,
         "start_price": 139.0,
         "start_year": 2011
@@ -10128,7 +10083,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.27,
         "forward_return": -24.44,
         "start_price": 115.0,
         "start_year": 2011
@@ -10137,7 +10092,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 13.21,
         "forward_return": -26.09,
         "start_price": 128.5,
         "start_year": 2011
@@ -10146,7 +10101,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.01,
         "forward_return": -25.12,
         "start_price": 135.0,
         "start_year": 2011
@@ -10155,7 +10110,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.14,
+        "pe_ratio": 12.68,
         "forward_return": -24.42,
         "start_price": 121.0,
         "start_year": 2011
@@ -10173,7 +10128,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.57,
         "forward_return": -31.0,
         "start_price": 148.0,
         "start_year": 2012
@@ -10182,7 +10137,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.1,
+        "pe_ratio": 18.13,
         "forward_return": -30.62,
         "start_price": 152.5,
         "start_year": 2012
@@ -10191,7 +10146,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.82,
         "forward_return": -31.27,
         "start_price": 148.5,
         "start_year": 2012
@@ -10200,7 +10155,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.24,
+        "pe_ratio": 18.06,
         "forward_return": -24.13,
         "start_price": 135.0,
         "start_year": 2012
@@ -10209,7 +10164,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.38,
+        "pe_ratio": 18.92,
         "forward_return": -27.08,
         "start_price": 133.5,
         "start_year": 2012
@@ -10218,7 +10173,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.85,
+        "pe_ratio": 20.03,
         "forward_return": -24.98,
         "start_price": 133.0,
         "start_year": 2012
@@ -10227,7 +10182,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 18.33,
+        "pe_ratio": 17.66,
         "forward_return": -23.8,
         "start_price": 107.5,
         "start_year": 2012
@@ -10236,7 +10191,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.43,
         "forward_return": -24.04,
         "start_price": 107.5,
         "start_year": 2012
@@ -10245,7 +10200,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 24.79,
+        "pe_ratio": 24.1,
         "forward_return": -26.26,
         "start_price": 120.0,
         "start_year": 2012
@@ -10254,7 +10209,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 19.91,
+        "pe_ratio": 19.49,
         "forward_return": -20.99,
         "start_price": 86.2,
         "start_year": 2012
@@ -10263,7 +10218,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 20.28,
+        "pe_ratio": 20.03,
         "forward_return": -21.8,
         "start_price": 77.4,
         "start_year": 2012
@@ -10281,7 +10236,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 24.46,
+        "pe_ratio": 30.56,
         "forward_return": -21.93,
         "start_price": 75.6,
         "start_year": 2013
@@ -10290,7 +10245,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 24.79,
+        "pe_ratio": 43.43,
         "forward_return": -19.6,
         "start_price": 71.3,
         "start_year": 2013
@@ -10299,7 +10254,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 87.78,
         "forward_return": -18.55,
         "start_price": 71.1,
         "start_year": 2013
@@ -10308,7 +10263,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.41,
+        "pe_ratio": 65.23,
         "forward_return": -8.59,
         "start_price": 52.4,
         "start_year": 2013
@@ -10317,7 +10272,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 24.24,
+        "pe_ratio": 67.91,
         "forward_return": -9.16,
         "start_price": 54.1,
         "start_year": 2013
@@ -10326,7 +10281,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 68.73,
         "forward_return": -4.97,
         "start_price": 54.3,
         "start_year": 2013
@@ -10335,7 +10290,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 66.36,
         "forward_return": 5.91,
         "start_price": 43.8,
         "start_year": 2013
@@ -10344,7 +10299,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 34.75,
+        "pe_ratio": 104.2,
         "forward_return": -0.92,
         "start_price": 55.2,
         "start_year": 2013
@@ -10353,7 +10308,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 38.07,
+        "pe_ratio": 130.7,
         "forward_return": 2.22,
         "start_price": 52.3,
         "start_year": 2013
@@ -10362,7 +10317,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 102.7,
         "forward_return": 3.31,
         "start_price": 52.4,
         "start_year": 2013
@@ -10371,7 +10326,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 48.7,
+        "pe_ratio": 74.19,
         "forward_return": 5.87,
         "start_price": 46.0,
         "start_year": 2013
@@ -10389,7 +10344,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 71.75,
+        "pe_ratio": 52.71,
         "forward_return": -1.17,
         "start_price": 51.3,
         "start_year": 2014
@@ -10398,7 +10353,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 77.43,
+        "pe_ratio": 44.55,
         "forward_return": -5.95,
         "start_price": 54.2,
         "start_year": 2014
@@ -10407,7 +10362,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 77.66,
+        "pe_ratio": 36.44,
         "forward_return": -4.72,
         "start_price": 53.2,
         "start_year": 2014
@@ -10416,7 +10371,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 88.06,
+        "pe_ratio": 51.01,
         "forward_return": -10.12,
         "start_price": 59.0,
         "start_year": 2014
@@ -10425,7 +10380,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 87.63,
+        "pe_ratio": 67.27,
         "forward_return": -6.8,
         "start_price": 57.4,
         "start_year": 2014
@@ -10434,7 +10389,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 89.84,
+        "pe_ratio": 104.5,
         "forward_return": -6.95,
         "start_price": 57.5,
         "start_year": 2014
@@ -10443,7 +10398,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 80.32,
+        "pe_ratio": 81.85,
         "forward_return": -4.47,
         "start_price": 50.2,
         "start_year": 2014
@@ -10452,7 +10407,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 86.23,
+        "pe_ratio": 77.73,
         "forward_return": -5.87,
         "start_price": 52.6,
         "start_year": 2014
@@ -10461,7 +10416,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 95.13,
+        "pe_ratio": 76.49,
         "forward_return": -6.97,
         "start_price": 56.6,
         "start_year": 2014
@@ -10470,7 +10425,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 85.69,
+        "pe_ratio": 73.45,
         "forward_return": -10.7,
         "start_price": 49.7,
         "start_year": 2014
@@ -10479,7 +10434,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 87.52,
+        "pe_ratio": 80.62,
         "forward_return": -5.22,
         "start_price": 49.45,
         "start_year": 2014
@@ -10497,7 +10452,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 80.28,
+        "pe_ratio": 63.29,
         "forward_return": -2.99,
         "start_price": 48.1,
         "start_year": 2015
@@ -10506,7 +10461,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 74.5,
+        "pe_ratio": 49.79,
         "forward_return": -2.06,
         "start_price": 48.3,
         "start_year": 2015
@@ -10515,7 +10470,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 65.66,
+        "pe_ratio": 38.81,
         "forward_return": 2.09,
         "start_price": 45.8,
         "start_year": 2015
@@ -10524,7 +10479,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 52.9,
+        "pe_ratio": 31.02,
         "forward_return": 4.55,
         "start_price": 39.5,
         "start_year": 2015
@@ -10533,7 +10488,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 45.61,
+        "pe_ratio": 26.56,
         "forward_return": 4.14,
         "start_price": 36.3,
         "start_year": 2015
@@ -10542,7 +10497,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 40.24,
+        "pe_ratio": 23.29,
         "forward_return": 5.55,
         "start_price": 34.0,
         "start_year": 2015
@@ -10551,7 +10506,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 35.56,
+        "pe_ratio": 22.55,
         "forward_return": 8.92,
         "start_price": 31.8,
         "start_year": 2015
@@ -10560,7 +10515,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 28.14,
+        "pe_ratio": 19.52,
         "forward_return": 31.55,
         "start_price": 26.55,
         "start_year": 2015
@@ -10569,7 +10524,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.92,
         "forward_return": 21.44,
         "start_price": 27.4,
         "start_year": 2015
@@ -10578,7 +10533,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 30.24,
+        "pe_ratio": 25.13,
         "forward_return": 23.59,
         "start_price": 31.5,
         "start_year": 2015
@@ -10587,7 +10542,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.17,
+        "pe_ratio": 23.86,
         "forward_return": 23.45,
         "start_price": 28.55,
         "start_year": 2015
@@ -10605,7 +10560,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.62,
         "forward_return": 27.96,
         "start_price": 22.6,
         "start_year": 2016
@@ -10614,7 +10569,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 31.08,
+        "pe_ratio": 31.55,
         "forward_return": 26.2,
         "start_price": 24.4,
         "start_year": 2016
@@ -10623,7 +10578,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 36.54,
+        "pe_ratio": 37.63,
         "forward_return": 22.9,
         "start_price": 22.2,
         "start_year": 2016
@@ -10632,7 +10587,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 78.6,
+        "pe_ratio": 169.0,
         "forward_return": 17.94,
         "start_price": 33.8,
         "start_year": 2016
@@ -10640,26 +10595,17 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2016-05-16",
-        "pe_ratio": 106.1,
-        "forward_return": 34.69,
-        "start_price": 26.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 416.0,
-        "forward_return": 33.16,
-        "start_price": 31.2,
-        "start_year": 2016
+        "start_date": "2017-06-15",
+        "pe_ratio": 166.7,
+        "forward_return": 20.43,
+        "start_price": 40.0,
+        "start_year": 2017
       },
       {
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 333.0,
+        "pe_ratio": 115.2,
         "forward_return": 19.44,
         "start_price": 53.0,
         "start_year": 2017
@@ -10668,7 +10614,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 158.0,
+        "pe_ratio": 75.15,
         "forward_return": 12.02,
         "start_price": 51.1,
         "start_year": 2017
@@ -10677,7 +10623,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 112.8,
+        "pe_ratio": 61.11,
         "forward_return": 10.18,
         "start_price": 55.0,
         "start_year": 2017
@@ -10686,7 +10632,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 88.39,
+        "pe_ratio": 62.16,
         "forward_return": 10.56,
         "start_price": 57.6,
         "start_year": 2017
@@ -10695,7 +10641,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 68.27,
+        "pe_ratio": 58.43,
         "forward_return": 13.81,
         "start_price": 55.7,
         "start_year": 2017
@@ -10713,7 +10659,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 44.9,
+        "pe_ratio": 46.39,
         "forward_return": 17.12,
         "start_price": 46.85,
         "start_year": 2018
@@ -10722,7 +10668,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 36.42,
+        "pe_ratio": 38.75,
         "forward_return": 26.61,
         "start_price": 40.3,
         "start_year": 2018
@@ -10731,7 +10677,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 35.68,
+        "pe_ratio": 39.02,
         "forward_return": 29.76,
         "start_price": 41.75,
         "start_year": 2018
@@ -10740,7 +10686,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 29.51,
+        "pe_ratio": 32.21,
         "forward_return": 29.33,
         "start_price": 36.4,
         "start_year": 2018
@@ -10749,7 +10695,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 31.77,
+        "pe_ratio": 34.62,
         "forward_return": 24.68,
         "start_price": 41.2,
         "start_year": 2018
@@ -10758,7 +10704,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 30.15,
+        "pe_ratio": 32.8,
         "forward_return": 18.61,
         "start_price": 41.0,
         "start_year": 2018
@@ -10767,7 +10713,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.68,
+        "pe_ratio": 28.21,
         "forward_return": 21.62,
         "start_price": 39.4,
         "start_year": 2018
@@ -10776,7 +10722,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.17,
+        "pe_ratio": 25.21,
         "forward_return": 23.02,
         "start_price": 38.9,
         "start_year": 2018
@@ -10785,7 +10731,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.81,
+        "pe_ratio": 23.67,
         "forward_return": 17.75,
         "start_price": 40.0,
         "start_year": 2018
@@ -10794,7 +10740,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.1,
+        "pe_ratio": 17.11,
         "forward_return": 31.19,
         "start_price": 29.2,
         "start_year": 2018
@@ -10803,7 +10749,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.37,
+        "pe_ratio": 21.76,
         "forward_return": 25.39,
         "start_price": 37.5,
         "start_year": 2018
@@ -10821,7 +10767,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.29,
         "forward_return": 26.89,
         "start_price": 40.2,
         "start_year": 2019
@@ -10830,7 +10776,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 22.89,
+        "pe_ratio": 22.53,
         "forward_return": 28.93,
         "start_price": 42.05,
         "start_year": 2019
@@ -10839,7 +10785,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.53,
         "forward_return": 31.53,
         "start_price": 47.35,
         "start_year": 2019
@@ -10848,7 +10794,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.17,
+        "pe_ratio": 22.4,
         "forward_return": 32.65,
         "start_price": 44.8,
         "start_year": 2019
@@ -10857,7 +10803,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.34,
+        "pe_ratio": 19.47,
         "forward_return": 35.21,
         "start_price": 40.3,
         "start_year": 2019
@@ -10866,7 +10812,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 19.61,
+        "pe_ratio": 18.6,
         "forward_return": 33.04,
         "start_price": 39.8,
         "start_year": 2019
@@ -10875,7 +10821,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.19,
         "forward_return": 46.5,
         "start_price": 41.25,
         "start_year": 2019
@@ -10884,7 +10830,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 35.74,
+        "pe_ratio": 35.19,
         "forward_return": 20.92,
         "start_price": 76.0,
         "start_year": 2019
@@ -10893,7 +10839,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.85,
         "forward_return": 30.76,
         "start_price": 56.1,
         "start_year": 2019
@@ -10902,7 +10848,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.48,
+        "pe_ratio": 31.53,
         "forward_return": 24.28,
         "start_price": 70.0,
         "start_year": 2019
@@ -10911,7 +10857,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 27.64,
+        "pe_ratio": 27.67,
         "forward_return": 32.57,
         "start_price": 62.8,
         "start_year": 2019
@@ -10929,7 +10875,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.96,
         "forward_return": 47.53,
         "start_price": 57.1,
         "start_year": 2020
@@ -10938,7 +10884,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 22.39,
+        "pe_ratio": 23.87,
         "forward_return": 51.85,
         "start_price": 58.4,
         "start_year": 2020
@@ -10947,7 +10893,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 18.78,
         "forward_return": 54.26,
         "start_price": 47.15,
         "start_year": 2020
@@ -10956,7 +10902,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 21.37,
+        "pe_ratio": 22.03,
         "forward_return": 42.4,
         "start_price": 61.9,
         "start_year": 2020
@@ -10965,7 +10911,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.23,
         "forward_return": 43.13,
         "start_price": 84.7,
         "start_year": 2020
@@ -10974,7 +10920,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.7,
+        "pe_ratio": 27.74,
         "forward_return": 45.16,
         "start_price": 94.6,
         "start_year": 2020
@@ -10983,7 +10929,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 33.64,
+        "pe_ratio": 30.52,
         "forward_return": 39.82,
         "start_price": 112.0,
         "start_year": 2020
@@ -10992,7 +10938,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 25.83,
         "forward_return": 45.51,
         "start_price": 101.5,
         "start_year": 2020
@@ -11001,7 +10947,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 25.74,
+        "pe_ratio": 22.22,
         "forward_return": 54.94,
         "start_price": 93.1,
         "start_year": 2020
@@ -11010,7 +10956,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 23.55,
+        "pe_ratio": 21.38,
         "forward_return": 57.67,
         "start_price": 88.6,
         "start_year": 2020
@@ -11019,7 +10965,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 23.27,
+        "pe_ratio": 22.19,
         "forward_return": 52.02,
         "start_price": 90.9,
         "start_year": 2020
@@ -11037,7 +10983,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.67,
         "forward_return": 46.85,
         "start_price": 90.0,
         "start_year": 2021
@@ -11046,7 +10992,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.65,
+        "pe_ratio": 22.2,
         "forward_return": 44.32,
         "start_price": 94.5,
         "start_year": 2021
@@ -11055,7 +11001,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 21.51,
         "forward_return": 33.34,
         "start_price": 93.8,
         "start_year": 2021
@@ -11064,7 +11010,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 18.74,
+        "pe_ratio": 21.03,
         "forward_return": 32.89,
         "start_price": 87.7,
         "start_year": 2021
@@ -11073,7 +11019,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 16.14,
+        "pe_ratio": 19.62,
         "forward_return": 32.4,
         "start_price": 78.1,
         "start_year": 2021
@@ -11082,7 +11028,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 15.92,
+        "pe_ratio": 20.98,
         "forward_return": 36.38,
         "start_price": 79.5,
         "start_year": 2021
@@ -11091,7 +11037,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 19.41,
+        "pe_ratio": 26.09,
         "forward_return": 24.27,
         "start_price": 100.0,
         "start_year": 2021
@@ -11100,7 +11046,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 13.67,
+        "pe_ratio": 18.73,
         "forward_return": 37.03,
         "start_price": 72.6,
         "start_year": 2021
@@ -11109,7 +11055,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 13.39,
+        "pe_ratio": 18.67,
         "forward_return": 40.9,
         "start_price": 73.2,
         "start_year": 2021
@@ -11118,7 +11064,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 13.9,
+        "pe_ratio": 17.02,
         "forward_return": 33.51,
         "start_price": 78.2,
         "start_year": 2021
@@ -11127,7 +11073,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 14.8,
+        "pe_ratio": 16.25,
         "forward_return": 28.51,
         "start_price": 85.6,
         "start_year": 2021
@@ -11145,7 +11091,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 13.24,
+        "pe_ratio": 12.67,
         "forward_return": 29.24,
         "start_price": 80.3,
         "start_year": 2022
@@ -11154,7 +11100,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 15.45,
+        "pe_ratio": 14.21,
         "forward_return": 22.43,
         "start_price": 95.7,
         "start_year": 2022
@@ -11163,7 +11109,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 61.54,
+        "pe_ratio": 35.56,
         "forward_return": 40.53,
         "start_price": 32.0,
         "start_year": 2006
@@ -11172,7 +11118,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 73.08,
+        "pe_ratio": 50.22,
         "forward_return": 31.31,
         "start_price": 38.0,
         "start_year": 2006
@@ -11181,7 +11127,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 69.81,
+        "pe_ratio": 59.18,
         "forward_return": 33.14,
         "start_price": 36.3,
         "start_year": 2006
@@ -11190,7 +11136,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 60.0,
+        "pe_ratio": 66.38,
         "forward_return": 39.59,
         "start_price": 31.2,
         "start_year": 2006
@@ -11199,7 +11145,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 51.15,
+        "pe_ratio": 68.79,
         "forward_return": 41.59,
         "start_price": 26.6,
         "start_year": 2006
@@ -11208,7 +11154,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 48.08,
+        "pe_ratio": 82.42,
         "forward_return": 38.49,
         "start_price": 25.0,
         "start_year": 2006
@@ -11217,7 +11163,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 60.38,
+        "pe_ratio": 142.7,
         "forward_return": 35.01,
         "start_price": 31.4,
         "start_year": 2006
@@ -11226,7 +11172,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 70.29,
+        "pe_ratio": 114.2,
         "forward_return": 32.16,
         "start_price": 36.55,
         "start_year": 2006
@@ -11235,7 +11181,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 73.85,
+        "pe_ratio": 91.43,
         "forward_return": 28.27,
         "start_price": 38.4,
         "start_year": 2006
@@ -11253,7 +11199,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 65.09,
+        "pe_ratio": 77.48,
         "forward_return": 32.68,
         "start_price": 39.0,
         "start_year": 2007
@@ -11262,7 +11208,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 52.04,
+        "pe_ratio": 72.53,
         "forward_return": 36.1,
         "start_price": 35.3,
         "start_year": 2007
@@ -11271,7 +11217,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 51.82,
+        "pe_ratio": 83.51,
         "forward_return": 32.57,
         "start_price": 39.25,
         "start_year": 2007
@@ -11280,7 +11226,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 47.45,
+        "pe_ratio": 59.55,
         "forward_return": 29.97,
         "start_price": 39.7,
         "start_year": 2007
@@ -11289,7 +11235,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 43.46,
+        "pe_ratio": 46.1,
         "forward_return": 29.64,
         "start_price": 39.8,
         "start_year": 2007
@@ -11298,7 +11244,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 54.27,
+        "pe_ratio": 50.94,
         "forward_return": 21.89,
         "start_price": 54.0,
         "start_year": 2007
@@ -11307,7 +11253,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 113.6,
+        "pe_ratio": 111.2,
         "forward_return": 0.86,
         "start_price": 122.0,
         "start_year": 2007
@@ -11316,7 +11262,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 91.91,
+        "pe_ratio": 93.53,
         "forward_return": 3.73,
         "start_price": 106.0,
         "start_year": 2007
@@ -11325,7 +11271,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 85.6,
+        "pe_ratio": 90.17,
         "forward_return": 5.79,
         "start_price": 105.5,
         "start_year": 2007
@@ -11334,7 +11280,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 100.6,
+        "pe_ratio": 103.9,
         "forward_return": -4.29,
         "start_price": 132.0,
         "start_year": 2007
@@ -11343,7 +11289,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 68.61,
         "forward_return": 0.68,
         "start_price": 94.0,
         "start_year": 2007
@@ -11361,7 +11307,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 41.62,
+        "pe_ratio": 41.47,
         "forward_return": 6.57,
         "start_price": 69.4,
         "start_year": 2008
@@ -11370,7 +11316,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 41.82,
+        "pe_ratio": 41.56,
         "forward_return": 3.06,
         "start_price": 78.0,
         "start_year": 2008
@@ -11379,7 +11325,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 49.7,
+        "pe_ratio": 49.28,
         "forward_return": -2.37,
         "start_price": 102.5,
         "start_year": 2008
@@ -11388,7 +11334,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 53.1,
+        "pe_ratio": 56.34,
         "forward_return": -9.66,
         "start_price": 120.0,
         "start_year": 2008
@@ -11397,7 +11343,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 36.62,
+        "pe_ratio": 41.28,
         "forward_return": -3.86,
         "start_price": 90.0,
         "start_year": 2008
@@ -11406,7 +11352,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 32.24,
+        "pe_ratio": 38.39,
         "forward_return": -2.84,
         "start_price": 85.6,
         "start_year": 2008
@@ -11415,7 +11361,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 44.64,
         "forward_return": -9.86,
         "start_price": 111.0,
         "start_year": 2008
@@ -11424,7 +11370,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 32.1,
+        "pe_ratio": 35.69,
         "forward_return": -4.58,
         "start_price": 97.9,
         "start_year": 2008
@@ -11433,7 +11379,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.91,
+        "pe_ratio": 18.3,
         "forward_return": 6.32,
         "start_price": 54.9,
         "start_year": 2008
@@ -11442,7 +11388,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.51,
         "forward_return": 9.42,
         "start_price": 47.6,
         "start_year": 2008
@@ -11451,7 +11397,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-11-15",
-        "pe_ratio": 13.59,
+        "pe_ratio": 13.9,
         "forward_return": 6.64,
         "start_price": 49.5,
         "start_year": 2008
@@ -11469,7 +11415,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.33,
         "forward_return": 4.34,
         "start_price": 59.5,
         "start_year": 2009
@@ -11478,7 +11424,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.11,
         "forward_return": -1.12,
         "start_price": 80.9,
         "start_year": 2009
@@ -11487,7 +11433,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 19.69,
         "forward_return": -4.32,
         "start_price": 94.1,
         "start_year": 2009
@@ -11496,7 +11442,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 26.84,
+        "pe_ratio": 25.19,
         "forward_return": -8.97,
         "start_price": 130.0,
         "start_year": 2009
@@ -11505,7 +11451,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 37.2,
+        "pe_ratio": 34.21,
         "forward_return": -15.91,
         "start_price": 189.5,
         "start_year": 2009
@@ -11514,7 +11460,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 31.06,
+        "pe_ratio": 28.04,
         "forward_return": -13.64,
         "start_price": 166.0,
         "start_year": 2009
@@ -11523,7 +11469,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 29.93,
+        "pe_ratio": 27.38,
         "forward_return": -15.77,
         "start_price": 167.5,
         "start_year": 2009
@@ -11532,7 +11478,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 27.45,
+        "pe_ratio": 25.42,
         "forward_return": -14.48,
         "start_price": 160.5,
         "start_year": 2009
@@ -11541,7 +11487,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.62,
+        "pe_ratio": 22.12,
         "forward_return": -11.67,
         "start_price": 144.0,
         "start_year": 2009
@@ -11550,7 +11496,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.5,
+        "pe_ratio": 20.61,
         "forward_return": -12.37,
         "start_price": 136.5,
         "start_year": 2009
@@ -11559,7 +11505,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 23.79,
+        "pe_ratio": 23.31,
         "forward_return": -14.85,
         "start_price": 157.0,
         "start_year": 2009
@@ -11577,7 +11523,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 18.9,
+        "pe_ratio": 19.23,
         "forward_return": -11.78,
         "start_price": 129.0,
         "start_year": 2010
@@ -11586,7 +11532,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.14,
+        "pe_ratio": 17.73,
         "forward_return": -9.91,
         "start_price": 116.5,
         "start_year": 2010
@@ -11595,7 +11541,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 20.14,
         "forward_return": -12.45,
         "start_price": 129.5,
         "start_year": 2010
@@ -11604,7 +11550,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 19.03,
         "forward_return": -12.78,
         "start_price": 119.5,
         "start_year": 2010
@@ -11613,7 +11559,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 17.54,
         "forward_return": -11.88,
         "start_price": 107.5,
         "start_year": 2010
@@ -11622,7 +11568,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 15.24,
+        "pe_ratio": 17.06,
         "forward_return": -11.68,
         "start_price": 102.0,
         "start_year": 2010
@@ -11631,7 +11577,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.76,
         "forward_return": -12.4,
         "start_price": 93.5,
         "start_year": 2010
@@ -11640,7 +11586,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.41,
         "forward_return": -12.71,
         "start_price": 84.8,
         "start_year": 2010
@@ -11649,7 +11595,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.9,
         "forward_return": -12.81,
         "start_price": 87.0,
         "start_year": 2010
@@ -11658,7 +11604,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.53,
+        "pe_ratio": 15.77,
         "forward_return": -12.93,
         "start_price": 95.8,
         "start_year": 2010
@@ -11667,7 +11613,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.35,
         "forward_return": -13.05,
         "start_price": 90.5,
         "start_year": 2010
@@ -11685,7 +11631,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.96,
+        "pe_ratio": 16.34,
         "forward_return": -19.44,
         "start_price": 115.0,
         "start_year": 2011
@@ -11694,7 +11640,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.5,
+        "pe_ratio": 18.19,
         "forward_return": -21.5,
         "start_price": 137.0,
         "start_year": 2011
@@ -11703,7 +11649,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 23.19,
+        "pe_ratio": 20.98,
         "forward_return": -25.5,
         "start_price": 168.5,
         "start_year": 2011
@@ -11712,7 +11658,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 17.17,
         "forward_return": -18.7,
         "start_price": 141.5,
         "start_year": 2011
@@ -11721,7 +11667,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.16,
         "forward_return": -21.49,
         "start_price": 145.0,
         "start_year": 2011
@@ -11730,7 +11676,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 19.82,
+        "pe_ratio": 18.3,
         "forward_return": -21.36,
         "start_price": 158.5,
         "start_year": 2011
@@ -11739,7 +11685,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.42,
         "forward_return": -20.64,
         "start_price": 139.0,
         "start_year": 2011
@@ -11748,7 +11694,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.27,
         "forward_return": -17.74,
         "start_price": 115.0,
         "start_year": 2011
@@ -11757,7 +11703,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 13.21,
         "forward_return": -19.66,
         "start_price": 128.5,
         "start_year": 2011
@@ -11766,7 +11712,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.01,
         "forward_return": -21.17,
         "start_price": 135.0,
         "start_year": 2011
@@ -11775,7 +11721,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.14,
+        "pe_ratio": 12.68,
         "forward_return": -21.33,
         "start_price": 121.0,
         "start_year": 2011
@@ -11793,7 +11739,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.57,
         "forward_return": -24.79,
         "start_price": 148.0,
         "start_year": 2012
@@ -11802,7 +11748,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.1,
+        "pe_ratio": 18.13,
         "forward_return": -23.62,
         "start_price": 152.5,
         "start_year": 2012
@@ -11811,7 +11757,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.82,
         "forward_return": -23.55,
         "start_price": 148.5,
         "start_year": 2012
@@ -11820,7 +11766,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.24,
+        "pe_ratio": 18.06,
         "forward_return": -20.06,
         "start_price": 135.0,
         "start_year": 2012
@@ -11829,7 +11775,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.38,
+        "pe_ratio": 18.92,
         "forward_return": -19.79,
         "start_price": 133.5,
         "start_year": 2012
@@ -11838,7 +11784,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.85,
+        "pe_ratio": 20.03,
         "forward_return": -17.19,
         "start_price": 133.0,
         "start_year": 2012
@@ -11847,7 +11793,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 18.33,
+        "pe_ratio": 17.66,
         "forward_return": -11.74,
         "start_price": 107.5,
         "start_year": 2012
@@ -11856,7 +11802,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.43,
         "forward_return": -12.33,
         "start_price": 107.5,
         "start_year": 2012
@@ -11865,7 +11811,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 24.79,
+        "pe_ratio": 24.1,
         "forward_return": -13.07,
         "start_price": 120.0,
         "start_year": 2012
@@ -11874,7 +11820,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 19.91,
+        "pe_ratio": 19.49,
         "forward_return": -6.32,
         "start_price": 86.2,
         "start_year": 2012
@@ -11883,7 +11829,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 20.28,
+        "pe_ratio": 20.03,
         "forward_return": -4.87,
         "start_price": 77.4,
         "start_year": 2012
@@ -11901,7 +11847,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 24.46,
+        "pe_ratio": 30.56,
         "forward_return": -7.41,
         "start_price": 75.6,
         "start_year": 2013
@@ -11910,7 +11856,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 24.79,
+        "pe_ratio": 43.43,
         "forward_return": -8.84,
         "start_price": 71.3,
         "start_year": 2013
@@ -11919,7 +11865,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 87.78,
         "forward_return": -8.21,
         "start_price": 71.1,
         "start_year": 2013
@@ -11928,7 +11874,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.41,
+        "pe_ratio": 65.23,
         "forward_return": -4.79,
         "start_price": 52.4,
         "start_year": 2013
@@ -11937,7 +11883,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 24.24,
+        "pe_ratio": 67.91,
         "forward_return": -3.28,
         "start_price": 54.1,
         "start_year": 2013
@@ -11946,7 +11892,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 68.73,
         "forward_return": -3.44,
         "start_price": 54.3,
         "start_year": 2013
@@ -11955,7 +11901,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 66.36,
         "forward_return": -0.67,
         "start_price": 43.8,
         "start_year": 2013
@@ -11964,7 +11910,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 34.75,
+        "pe_ratio": 104.2,
         "forward_return": -5.39,
         "start_price": 55.2,
         "start_year": 2013
@@ -11973,7 +11919,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 38.07,
+        "pe_ratio": 130.7,
         "forward_return": -3.86,
         "start_price": 52.3,
         "start_year": 2013
@@ -11982,7 +11928,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 102.7,
         "forward_return": -9.31,
         "start_price": 52.4,
         "start_year": 2013
@@ -11991,7 +11937,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 48.7,
+        "pe_ratio": 74.19,
         "forward_return": -2.54,
         "start_price": 46.0,
         "start_year": 2013
@@ -12009,7 +11955,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 71.75,
+        "pe_ratio": 52.71,
         "forward_return": -3.4,
         "start_price": 51.3,
         "start_year": 2014
@@ -12018,7 +11964,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 77.43,
+        "pe_ratio": 44.55,
         "forward_return": -3.65,
         "start_price": 54.2,
         "start_year": 2014
@@ -12027,7 +11973,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 77.66,
+        "pe_ratio": 36.44,
         "forward_return": -1.11,
         "start_price": 53.2,
         "start_year": 2014
@@ -12036,7 +11982,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 88.06,
+        "pe_ratio": 51.01,
         "forward_return": -4.14,
         "start_price": 59.0,
         "start_year": 2014
@@ -12045,7 +11991,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 87.63,
+        "pe_ratio": 67.27,
         "forward_return": -5.5,
         "start_price": 57.4,
         "start_year": 2014
@@ -12054,7 +12000,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 89.84,
+        "pe_ratio": 104.5,
         "forward_return": -5.76,
         "start_price": 57.5,
         "start_year": 2014
@@ -12063,7 +12009,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 80.32,
+        "pe_ratio": 81.85,
         "forward_return": -2.1,
         "start_price": 50.2,
         "start_year": 2014
@@ -12072,7 +12018,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 86.23,
+        "pe_ratio": 77.73,
         "forward_return": 8.72,
         "start_price": 52.6,
         "start_year": 2014
@@ -12081,7 +12027,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 95.13,
+        "pe_ratio": 76.49,
         "forward_return": 1.17,
         "start_price": 56.6,
         "start_year": 2014
@@ -12090,7 +12036,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 85.69,
+        "pe_ratio": 73.45,
         "forward_return": 8.26,
         "start_price": 49.7,
         "start_year": 2014
@@ -12099,7 +12045,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 87.52,
+        "pe_ratio": 80.62,
         "forward_return": 6.17,
         "start_price": 49.45,
         "start_year": 2014
@@ -12117,7 +12063,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 80.28,
+        "pe_ratio": 63.29,
         "forward_return": 4.87,
         "start_price": 48.1,
         "start_year": 2015
@@ -12126,7 +12072,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 74.5,
+        "pe_ratio": 49.79,
         "forward_return": 5.22,
         "start_price": 48.3,
         "start_year": 2015
@@ -12135,7 +12081,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 65.66,
+        "pe_ratio": 38.81,
         "forward_return": 2.19,
         "start_price": 45.8,
         "start_year": 2015
@@ -12144,7 +12090,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 52.9,
+        "pe_ratio": 31.02,
         "forward_return": 10.74,
         "start_price": 39.5,
         "start_year": 2015
@@ -12153,7 +12099,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 45.61,
+        "pe_ratio": 26.56,
         "forward_return": 19.53,
         "start_price": 36.3,
         "start_year": 2015
@@ -12162,7 +12108,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 40.24,
+        "pe_ratio": 23.29,
         "forward_return": 23.7,
         "start_price": 34.0,
         "start_year": 2015
@@ -12171,7 +12117,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 35.56,
+        "pe_ratio": 22.55,
         "forward_return": 29.86,
         "start_price": 31.8,
         "start_year": 2015
@@ -12180,7 +12126,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 28.14,
+        "pe_ratio": 19.52,
         "forward_return": 32.13,
         "start_price": 26.55,
         "start_year": 2015
@@ -12189,7 +12135,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.92,
         "forward_return": 29.18,
         "start_price": 27.4,
         "start_year": 2015
@@ -12198,7 +12144,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 30.24,
+        "pe_ratio": 25.13,
         "forward_return": 24.46,
         "start_price": 31.5,
         "start_year": 2015
@@ -12207,7 +12153,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.17,
+        "pe_ratio": 23.86,
         "forward_return": 27.54,
         "start_price": 28.55,
         "start_year": 2015
@@ -12225,7 +12171,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.62,
         "forward_return": 33.39,
         "start_price": 22.6,
         "start_year": 2016
@@ -12234,7 +12180,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 31.08,
+        "pe_ratio": 31.55,
         "forward_return": 31.81,
         "start_price": 24.4,
         "start_year": 2016
@@ -12243,7 +12189,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 36.54,
+        "pe_ratio": 37.63,
         "forward_return": 34.94,
         "start_price": 22.2,
         "start_year": 2016
@@ -12252,7 +12198,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 78.6,
+        "pe_ratio": 169.0,
         "forward_return": 22.49,
         "start_price": 33.8,
         "start_year": 2016
@@ -12260,26 +12206,17 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2016-05-16",
-        "pe_ratio": 106.1,
-        "forward_return": 25.55,
-        "start_price": 26.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 416.0,
-        "forward_return": 22.2,
-        "start_price": 31.2,
-        "start_year": 2016
+        "start_date": "2017-06-15",
+        "pe_ratio": 166.7,
+        "forward_return": 15.29,
+        "start_price": 40.0,
+        "start_year": 2017
       },
       {
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 333.0,
+        "pe_ratio": 115.2,
         "forward_return": 10.43,
         "start_price": 53.0,
         "start_year": 2017
@@ -12288,7 +12225,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 158.0,
+        "pe_ratio": 75.15,
         "forward_return": 11.98,
         "start_price": 51.1,
         "start_year": 2017
@@ -12297,7 +12234,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 112.8,
+        "pe_ratio": 61.11,
         "forward_return": 7.17,
         "start_price": 55.0,
         "start_year": 2017
@@ -12306,7 +12243,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 88.39,
+        "pe_ratio": 62.16,
         "forward_return": 8.69,
         "start_price": 57.6,
         "start_year": 2017
@@ -12315,7 +12252,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 68.27,
+        "pe_ratio": 58.43,
         "forward_return": 10.93,
         "start_price": 55.7,
         "start_year": 2017
@@ -12333,7 +12270,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 44.9,
+        "pe_ratio": 46.39,
         "forward_return": 17.53,
         "start_price": 46.85,
         "start_year": 2018
@@ -12342,7 +12279,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 36.42,
+        "pe_ratio": 38.75,
         "forward_return": 23.77,
         "start_price": 40.3,
         "start_year": 2018
@@ -12351,7 +12288,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 35.68,
+        "pe_ratio": 39.02,
         "forward_return": 27.84,
         "start_price": 41.75,
         "start_year": 2018
@@ -12360,7 +12297,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 29.51,
+        "pe_ratio": 32.21,
         "forward_return": 30.84,
         "start_price": 36.4,
         "start_year": 2018
@@ -12369,7 +12306,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 31.77,
+        "pe_ratio": 34.62,
         "forward_return": 26.9,
         "start_price": 41.2,
         "start_year": 2018
@@ -12378,7 +12315,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 30.15,
+        "pe_ratio": 32.8,
         "forward_return": 25.09,
         "start_price": 41.0,
         "start_year": 2018
@@ -12387,7 +12324,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.68,
+        "pe_ratio": 28.21,
         "forward_return": 37.2,
         "start_price": 39.4,
         "start_year": 2018
@@ -12396,7 +12333,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.17,
+        "pe_ratio": 25.21,
         "forward_return": 33.35,
         "start_price": 38.9,
         "start_year": 2018
@@ -12405,7 +12342,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.81,
+        "pe_ratio": 23.67,
         "forward_return": 32.85,
         "start_price": 40.0,
         "start_year": 2018
@@ -12414,7 +12351,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.1,
+        "pe_ratio": 17.11,
         "forward_return": 41.99,
         "start_price": 29.2,
         "start_year": 2018
@@ -12423,7 +12360,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.37,
+        "pe_ratio": 21.76,
         "forward_return": 39.14,
         "start_price": 37.5,
         "start_year": 2018
@@ -12441,7 +12378,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.29,
         "forward_return": 46.59,
         "start_price": 40.2,
         "start_year": 2019
@@ -12450,7 +12387,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 22.89,
+        "pe_ratio": 22.53,
         "forward_return": 49.31,
         "start_price": 42.05,
         "start_year": 2019
@@ -12459,7 +12396,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.53,
         "forward_return": 41.47,
         "start_price": 47.35,
         "start_year": 2019
@@ -12468,7 +12405,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.17,
+        "pe_ratio": 22.4,
         "forward_return": 41.69,
         "start_price": 44.8,
         "start_year": 2019
@@ -12477,7 +12414,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.34,
+        "pe_ratio": 19.47,
         "forward_return": 54.67,
         "start_price": 40.3,
         "start_year": 2019
@@ -12486,7 +12423,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 19.61,
+        "pe_ratio": 18.6,
         "forward_return": 60.29,
         "start_price": 39.8,
         "start_year": 2019
@@ -12495,7 +12432,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.19,
         "forward_return": 59.78,
         "start_price": 41.25,
         "start_year": 2019
@@ -12504,7 +12441,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 35.74,
+        "pe_ratio": 35.19,
         "forward_return": 43.14,
         "start_price": 76.0,
         "start_year": 2019
@@ -12513,7 +12450,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.85,
         "forward_return": 57.17,
         "start_price": 56.1,
         "start_year": 2019
@@ -12522,7 +12459,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.48,
+        "pe_ratio": 31.53,
         "forward_return": 50.97,
         "start_price": 70.0,
         "start_year": 2019
@@ -12531,7 +12468,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 27.64,
+        "pe_ratio": 27.67,
         "forward_return": 50.64,
         "start_price": 62.8,
         "start_year": 2019
@@ -12549,7 +12486,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.96,
         "forward_return": 49.06,
         "start_price": 57.1,
         "start_year": 2020
@@ -12558,7 +12495,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 22.39,
+        "pe_ratio": 23.87,
         "forward_return": 37.86,
         "start_price": 58.4,
         "start_year": 2020
@@ -12567,7 +12504,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 17.13,
+        "pe_ratio": 18.78,
         "forward_return": 44.65,
         "start_price": 47.15,
         "start_year": 2020
@@ -12576,7 +12513,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 21.37,
+        "pe_ratio": 22.03,
         "forward_return": 34.8,
         "start_price": 61.9,
         "start_year": 2020
@@ -12585,7 +12522,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 27.85,
+        "pe_ratio": 27.23,
         "forward_return": 23.37,
         "start_price": 84.7,
         "start_year": 2020
@@ -12594,7 +12531,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 29.7,
+        "pe_ratio": 27.74,
         "forward_return": 23.97,
         "start_price": 94.6,
         "start_year": 2020
@@ -12603,7 +12540,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 33.64,
+        "pe_ratio": 30.52,
         "forward_return": 16.66,
         "start_price": 112.0,
         "start_year": 2020
@@ -12612,7 +12549,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 29.22,
+        "pe_ratio": 25.83,
         "forward_return": 20.66,
         "start_price": 101.5,
         "start_year": 2020
@@ -12621,7 +12558,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 25.74,
+        "pe_ratio": 22.22,
         "forward_return": 25.69,
         "start_price": 93.1,
         "start_year": 2020
@@ -12630,7 +12567,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 23.55,
+        "pe_ratio": 21.38,
         "forward_return": 23.26,
         "start_price": 88.6,
         "start_year": 2020
@@ -12639,7 +12576,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 23.27,
+        "pe_ratio": 22.19,
         "forward_return": 21.13,
         "start_price": 90.9,
         "start_year": 2020
@@ -12657,7 +12594,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.67,
         "forward_return": 20.38,
         "start_price": 90.0,
         "start_year": 2021
@@ -12666,7 +12603,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 21.65,
+        "pe_ratio": 22.2,
         "forward_return": 18.25,
         "start_price": 94.5,
         "start_year": 2021
@@ -12675,7 +12612,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 61.54,
+        "pe_ratio": 35.56,
         "forward_return": 30.87,
         "start_price": 32.0,
         "start_year": 2006
@@ -12684,7 +12621,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 73.08,
+        "pe_ratio": 50.22,
         "forward_return": 25.33,
         "start_price": 38.0,
         "start_year": 2006
@@ -12693,7 +12630,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 69.81,
+        "pe_ratio": 59.18,
         "forward_return": 26.08,
         "start_price": 36.3,
         "start_year": 2006
@@ -12702,7 +12639,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 60.0,
+        "pe_ratio": 66.38,
         "forward_return": 29.22,
         "start_price": 31.2,
         "start_year": 2006
@@ -12711,7 +12648,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 51.15,
+        "pe_ratio": 68.79,
         "forward_return": 29.81,
         "start_price": 26.6,
         "start_year": 2006
@@ -12720,7 +12657,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 48.08,
+        "pe_ratio": 82.42,
         "forward_return": 31.16,
         "start_price": 25.0,
         "start_year": 2006
@@ -12729,7 +12666,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 60.38,
+        "pe_ratio": 142.7,
         "forward_return": 28.26,
         "start_price": 31.4,
         "start_year": 2006
@@ -12738,7 +12675,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 70.29,
+        "pe_ratio": 114.2,
         "forward_return": 19.42,
         "start_price": 36.55,
         "start_year": 2006
@@ -12747,7 +12684,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 73.85,
+        "pe_ratio": 91.43,
         "forward_return": 16.74,
         "start_price": 38.4,
         "start_year": 2006
@@ -12765,7 +12702,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 65.09,
+        "pe_ratio": 77.48,
         "forward_return": 16.08,
         "start_price": 39.0,
         "start_year": 2007
@@ -12774,7 +12711,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 52.04,
+        "pe_ratio": 72.53,
         "forward_return": 17.12,
         "start_price": 35.3,
         "start_year": 2007
@@ -12783,7 +12720,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 51.82,
+        "pe_ratio": 83.51,
         "forward_return": 15.03,
         "start_price": 39.25,
         "start_year": 2007
@@ -12792,7 +12729,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 47.45,
+        "pe_ratio": 59.55,
         "forward_return": 10.49,
         "start_price": 39.7,
         "start_year": 2007
@@ -12801,7 +12738,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 43.46,
+        "pe_ratio": 46.1,
         "forward_return": 10.87,
         "start_price": 39.8,
         "start_year": 2007
@@ -12810,7 +12747,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 54.27,
+        "pe_ratio": 50.94,
         "forward_return": 5.42,
         "start_price": 54.0,
         "start_year": 2007
@@ -12819,7 +12756,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 113.6,
+        "pe_ratio": 111.2,
         "forward_return": -9.7,
         "start_price": 122.0,
         "start_year": 2007
@@ -12828,7 +12765,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 91.91,
+        "pe_ratio": 93.53,
         "forward_return": -5.08,
         "start_price": 106.0,
         "start_year": 2007
@@ -12837,7 +12774,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 85.6,
+        "pe_ratio": 90.17,
         "forward_return": -5.61,
         "start_price": 105.5,
         "start_year": 2007
@@ -12846,7 +12783,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 100.6,
+        "pe_ratio": 103.9,
         "forward_return": -9.05,
         "start_price": 132.0,
         "start_year": 2007
@@ -12855,7 +12792,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 68.61,
         "forward_return": -5.18,
         "start_price": 94.0,
         "start_year": 2007
@@ -12873,7 +12810,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 41.62,
+        "pe_ratio": 41.47,
         "forward_return": 0.99,
         "start_price": 69.4,
         "start_year": 2008
@@ -12882,7 +12819,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 41.82,
+        "pe_ratio": 41.56,
         "forward_return": -0.53,
         "start_price": 78.0,
         "start_year": 2008
@@ -12891,7 +12828,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 49.7,
+        "pe_ratio": 49.28,
         "forward_return": -4.97,
         "start_price": 102.5,
         "start_year": 2008
@@ -12900,7 +12837,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 53.1,
+        "pe_ratio": 56.34,
         "forward_return": -6.28,
         "start_price": 120.0,
         "start_year": 2008
@@ -12909,7 +12846,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 36.62,
+        "pe_ratio": 41.28,
         "forward_return": -2.0,
         "start_price": 90.0,
         "start_year": 2008
@@ -12918,7 +12855,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 32.24,
+        "pe_ratio": 38.39,
         "forward_return": -1.16,
         "start_price": 85.6,
         "start_year": 2008
@@ -12927,7 +12864,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 44.64,
         "forward_return": -6.74,
         "start_price": 111.0,
         "start_year": 2008
@@ -12936,7 +12873,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 32.1,
+        "pe_ratio": 35.69,
         "forward_return": -4.26,
         "start_price": 97.9,
         "start_year": 2008
@@ -12945,7 +12882,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.91,
+        "pe_ratio": 18.3,
         "forward_return": 6.35,
         "start_price": 54.9,
         "start_year": 2008
@@ -12954,7 +12891,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.51,
         "forward_return": 7.27,
         "start_price": 47.6,
         "start_year": 2008
@@ -12963,7 +12900,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-11-15",
-        "pe_ratio": 13.59,
+        "pe_ratio": 13.9,
         "forward_return": 6.51,
         "start_price": 49.5,
         "start_year": 2008
@@ -12981,7 +12918,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.33,
         "forward_return": 2.97,
         "start_price": 59.5,
         "start_year": 2009
@@ -12990,7 +12927,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.11,
         "forward_return": -2.13,
         "start_price": 80.9,
         "start_year": 2009
@@ -12999,7 +12936,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 19.69,
         "forward_return": -5.13,
         "start_price": 94.1,
         "start_year": 2009
@@ -13008,7 +12945,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 26.84,
+        "pe_ratio": 25.19,
         "forward_return": -11.54,
         "start_price": 130.0,
         "start_year": 2009
@@ -13017,7 +12954,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 37.2,
+        "pe_ratio": 34.21,
         "forward_return": -17.65,
         "start_price": 189.5,
         "start_year": 2009
@@ -13026,7 +12963,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 31.06,
+        "pe_ratio": 28.04,
         "forward_return": -16.37,
         "start_price": 166.0,
         "start_year": 2009
@@ -13035,7 +12972,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 29.93,
+        "pe_ratio": 27.38,
         "forward_return": -17.45,
         "start_price": 167.5,
         "start_year": 2009
@@ -13044,7 +12981,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 27.45,
+        "pe_ratio": 25.42,
         "forward_return": -18.29,
         "start_price": 160.5,
         "start_year": 2009
@@ -13053,7 +12990,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.62,
+        "pe_ratio": 22.12,
         "forward_return": -16.55,
         "start_price": 144.0,
         "start_year": 2009
@@ -13062,7 +12999,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.5,
+        "pe_ratio": 20.61,
         "forward_return": -14.66,
         "start_price": 136.5,
         "start_year": 2009
@@ -13071,7 +13008,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 23.79,
+        "pe_ratio": 23.31,
         "forward_return": -17.43,
         "start_price": 157.0,
         "start_year": 2009
@@ -13089,7 +13026,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 18.9,
+        "pe_ratio": 19.23,
         "forward_return": -16.47,
         "start_price": 129.0,
         "start_year": 2010
@@ -13098,7 +13035,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.14,
+        "pe_ratio": 17.73,
         "forward_return": -14.47,
         "start_price": 116.5,
         "start_year": 2010
@@ -13107,7 +13044,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 20.14,
         "forward_return": -16.64,
         "start_price": 129.5,
         "start_year": 2010
@@ -13116,7 +13053,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 19.03,
         "forward_return": -12.12,
         "start_price": 119.5,
         "start_year": 2010
@@ -13125,7 +13062,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 17.54,
         "forward_return": -12.56,
         "start_price": 107.5,
         "start_year": 2010
@@ -13134,7 +13071,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 15.24,
+        "pe_ratio": 17.06,
         "forward_return": -10.5,
         "start_price": 102.0,
         "start_year": 2010
@@ -13143,7 +13080,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.76,
         "forward_return": -10.13,
         "start_price": 93.5,
         "start_year": 2010
@@ -13152,7 +13089,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.41,
         "forward_return": -8.8,
         "start_price": 84.8,
         "start_year": 2010
@@ -13161,7 +13098,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.9,
         "forward_return": -9.28,
         "start_price": 87.0,
         "start_year": 2010
@@ -13170,7 +13107,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.53,
+        "pe_ratio": 15.77,
         "forward_return": -11.32,
         "start_price": 95.8,
         "start_year": 2010
@@ -13179,7 +13116,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.35,
         "forward_return": -12.03,
         "start_price": 90.5,
         "start_year": 2010
@@ -13197,7 +13134,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.96,
+        "pe_ratio": 16.34,
         "forward_return": -15.76,
         "start_price": 115.0,
         "start_year": 2011
@@ -13206,7 +13143,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.5,
+        "pe_ratio": 18.19,
         "forward_return": -17.63,
         "start_price": 137.0,
         "start_year": 2011
@@ -13215,7 +13152,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 23.19,
+        "pe_ratio": 20.98,
         "forward_return": -19.96,
         "start_price": 168.5,
         "start_year": 2011
@@ -13224,7 +13161,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 17.17,
         "forward_return": -16.03,
         "start_price": 141.5,
         "start_year": 2011
@@ -13233,7 +13170,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.16,
         "forward_return": -16.3,
         "start_price": 145.0,
         "start_year": 2011
@@ -13242,7 +13179,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 19.82,
+        "pe_ratio": 18.3,
         "forward_return": -15.6,
         "start_price": 158.5,
         "start_year": 2011
@@ -13251,7 +13188,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.42,
         "forward_return": -11.88,
         "start_price": 139.0,
         "start_year": 2011
@@ -13260,7 +13197,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.27,
         "forward_return": -9.5,
         "start_price": 115.0,
         "start_year": 2011
@@ -13269,7 +13206,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 13.21,
         "forward_return": -10.26,
         "start_price": 128.5,
         "start_year": 2011
@@ -13278,7 +13215,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.01,
         "forward_return": -10.43,
         "start_price": 135.0,
         "start_year": 2011
@@ -13287,7 +13224,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.14,
+        "pe_ratio": 12.68,
         "forward_return": -9.2,
         "start_price": 121.0,
         "start_year": 2011
@@ -13305,7 +13242,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.57,
         "forward_return": -14.22,
         "start_price": 148.0,
         "start_year": 2012
@@ -13314,7 +13251,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.1,
+        "pe_ratio": 18.13,
         "forward_return": -15.74,
         "start_price": 152.5,
         "start_year": 2012
@@ -13323,7 +13260,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.82,
         "forward_return": -15.56,
         "start_price": 148.5,
         "start_year": 2012
@@ -13332,7 +13269,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.24,
+        "pe_ratio": 18.06,
         "forward_return": -15.69,
         "start_price": 135.0,
         "start_year": 2012
@@ -13341,7 +13278,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.38,
+        "pe_ratio": 18.92,
         "forward_return": -14.2,
         "start_price": 133.5,
         "start_year": 2012
@@ -13350,7 +13287,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.85,
+        "pe_ratio": 20.03,
         "forward_return": -14.2,
         "start_price": 133.0,
         "start_year": 2012
@@ -13359,7 +13296,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 18.33,
+        "pe_ratio": 17.66,
         "forward_return": -13.56,
         "start_price": 107.5,
         "start_year": 2012
@@ -13368,7 +13305,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.43,
         "forward_return": -13.73,
         "start_price": 107.5,
         "start_year": 2012
@@ -13377,7 +13314,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 24.79,
+        "pe_ratio": 24.1,
         "forward_return": -14.95,
         "start_price": 120.0,
         "start_year": 2012
@@ -13386,7 +13323,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 19.91,
+        "pe_ratio": 19.49,
         "forward_return": -14.1,
         "start_price": 86.2,
         "start_year": 2012
@@ -13395,7 +13332,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 20.28,
+        "pe_ratio": 20.03,
         "forward_return": -9.36,
         "start_price": 77.4,
         "start_year": 2012
@@ -13413,7 +13350,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 24.46,
+        "pe_ratio": 30.56,
         "forward_return": -8.07,
         "start_price": 75.6,
         "start_year": 2013
@@ -13422,7 +13359,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 24.79,
+        "pe_ratio": 43.43,
         "forward_return": -6.55,
         "start_price": 71.3,
         "start_year": 2013
@@ -13431,7 +13368,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 87.78,
         "forward_return": -4.84,
         "start_price": 71.1,
         "start_year": 2013
@@ -13440,7 +13377,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.41,
+        "pe_ratio": 65.23,
         "forward_return": -0.7,
         "start_price": 52.4,
         "start_year": 2013
@@ -13449,7 +13386,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 24.24,
+        "pe_ratio": 67.91,
         "forward_return": -2.76,
         "start_price": 54.1,
         "start_year": 2013
@@ -13458,7 +13395,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 68.73,
         "forward_return": -3.0,
         "start_price": 54.3,
         "start_year": 2013
@@ -13467,7 +13404,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 66.36,
         "forward_return": 0.71,
         "start_price": 43.8,
         "start_year": 2013
@@ -13476,7 +13413,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 34.75,
+        "pe_ratio": 104.2,
         "forward_return": 6.48,
         "start_price": 55.2,
         "start_year": 2013
@@ -13485,7 +13422,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 38.07,
+        "pe_ratio": 130.7,
         "forward_return": 2.47,
         "start_price": 52.3,
         "start_year": 2013
@@ -13494,7 +13431,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 102.7,
         "forward_return": 6.03,
         "start_price": 52.4,
         "start_year": 2013
@@ -13503,7 +13440,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 48.7,
+        "pe_ratio": 74.19,
         "forward_return": 6.54,
         "start_price": 46.0,
         "start_year": 2013
@@ -13521,7 +13458,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 71.75,
+        "pe_ratio": 52.71,
         "forward_return": 3.08,
         "start_price": 51.3,
         "start_year": 2014
@@ -13530,7 +13467,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 77.43,
+        "pe_ratio": 44.55,
         "forward_return": 2.5,
         "start_price": 54.2,
         "start_year": 2014
@@ -13539,7 +13476,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 77.66,
+        "pe_ratio": 36.44,
         "forward_return": -0.51,
         "start_price": 53.2,
         "start_year": 2014
@@ -13548,7 +13485,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 88.06,
+        "pe_ratio": 51.01,
         "forward_return": 1.98,
         "start_price": 59.0,
         "start_year": 2014
@@ -13557,7 +13494,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 87.63,
+        "pe_ratio": 67.27,
         "forward_return": 7.61,
         "start_price": 57.4,
         "start_year": 2014
@@ -13566,7 +13503,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 89.84,
+        "pe_ratio": 104.5,
         "forward_return": 9.49,
         "start_price": 57.5,
         "start_year": 2014
@@ -13575,7 +13512,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 80.32,
+        "pe_ratio": 81.85,
         "forward_return": 15.29,
         "start_price": 50.2,
         "start_year": 2014
@@ -13584,7 +13521,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 86.23,
+        "pe_ratio": 77.73,
         "forward_return": 12.63,
         "start_price": 52.6,
         "start_year": 2014
@@ -13593,7 +13530,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 95.13,
+        "pe_ratio": 76.49,
         "forward_return": 9.76,
         "start_price": 56.6,
         "start_year": 2014
@@ -13602,7 +13539,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 85.69,
+        "pe_ratio": 73.45,
         "forward_return": 11.3,
         "start_price": 49.7,
         "start_year": 2014
@@ -13611,7 +13548,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 87.52,
+        "pe_ratio": 80.62,
         "forward_return": 11.84,
         "start_price": 49.45,
         "start_year": 2014
@@ -13629,7 +13566,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 80.28,
+        "pe_ratio": 63.29,
         "forward_return": 12.18,
         "start_price": 48.1,
         "start_year": 2015
@@ -13638,7 +13575,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 74.5,
+        "pe_ratio": 49.79,
         "forward_return": 12.97,
         "start_price": 48.3,
         "start_year": 2015
@@ -13647,7 +13584,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 65.66,
+        "pe_ratio": 38.81,
         "forward_return": 13.84,
         "start_price": 45.8,
         "start_year": 2015
@@ -13656,7 +13593,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 52.9,
+        "pe_ratio": 31.02,
         "forward_return": 15.46,
         "start_price": 39.5,
         "start_year": 2015
@@ -13665,7 +13602,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 45.61,
+        "pe_ratio": 26.56,
         "forward_return": 15.0,
         "start_price": 36.3,
         "start_year": 2015
@@ -13674,7 +13611,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 40.24,
+        "pe_ratio": 23.29,
         "forward_return": 16.59,
         "start_price": 34.0,
         "start_year": 2015
@@ -13683,7 +13620,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 35.56,
+        "pe_ratio": 22.55,
         "forward_return": 22.79,
         "start_price": 31.8,
         "start_year": 2015
@@ -13692,7 +13629,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 28.14,
+        "pe_ratio": 19.52,
         "forward_return": 20.57,
         "start_price": 26.55,
         "start_year": 2015
@@ -13701,7 +13638,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.92,
         "forward_return": 20.09,
         "start_price": 27.4,
         "start_year": 2015
@@ -13710,7 +13647,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 30.24,
+        "pe_ratio": 25.13,
         "forward_return": 18.49,
         "start_price": 31.5,
         "start_year": 2015
@@ -13719,7 +13656,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.17,
+        "pe_ratio": 23.86,
         "forward_return": 22.09,
         "start_price": 28.55,
         "start_year": 2015
@@ -13737,7 +13674,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.62,
         "forward_return": 25.73,
         "start_price": 22.6,
         "start_year": 2016
@@ -13746,7 +13683,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 31.08,
+        "pe_ratio": 31.55,
         "forward_return": 29.86,
         "start_price": 24.4,
         "start_year": 2016
@@ -13755,7 +13692,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 36.54,
+        "pe_ratio": 37.63,
         "forward_return": 32.39,
         "start_price": 22.2,
         "start_year": 2016
@@ -13764,7 +13701,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 78.6,
+        "pe_ratio": 169.0,
         "forward_return": 20.41,
         "start_price": 33.8,
         "start_year": 2016
@@ -13772,26 +13709,17 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2016-05-16",
-        "pe_ratio": 106.1,
-        "forward_return": 24.69,
-        "start_price": 26.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 416.0,
-        "forward_return": 17.55,
-        "start_price": 31.2,
-        "start_year": 2016
+        "start_date": "2017-06-15",
+        "pe_ratio": 166.7,
+        "forward_return": 21.06,
+        "start_price": 40.0,
+        "start_year": 2017
       },
       {
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 333.0,
+        "pe_ratio": 115.2,
         "forward_return": 23.97,
         "start_price": 53.0,
         "start_year": 2017
@@ -13800,7 +13728,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 158.0,
+        "pe_ratio": 75.15,
         "forward_return": 21.56,
         "start_price": 51.1,
         "start_year": 2017
@@ -13809,7 +13737,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 112.8,
+        "pe_ratio": 61.11,
         "forward_return": 20.26,
         "start_price": 55.0,
         "start_year": 2017
@@ -13818,7 +13746,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 88.39,
+        "pe_ratio": 62.16,
         "forward_return": 19.7,
         "start_price": 57.6,
         "start_year": 2017
@@ -13827,7 +13755,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 68.27,
+        "pe_ratio": 58.43,
         "forward_return": 23.37,
         "start_price": 55.7,
         "start_year": 2017
@@ -13845,7 +13773,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 44.9,
+        "pe_ratio": 46.39,
         "forward_return": 34.14,
         "start_price": 46.85,
         "start_year": 2018
@@ -13854,7 +13782,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 36.42,
+        "pe_ratio": 38.75,
         "forward_return": 40.73,
         "start_price": 40.3,
         "start_year": 2018
@@ -13863,7 +13791,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 35.68,
+        "pe_ratio": 39.02,
         "forward_return": 36.43,
         "start_price": 41.75,
         "start_year": 2018
@@ -13872,7 +13800,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 29.51,
+        "pe_ratio": 32.21,
         "forward_return": 38.48,
         "start_price": 36.4,
         "start_year": 2018
@@ -13881,7 +13809,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 31.77,
+        "pe_ratio": 34.62,
         "forward_return": 43.36,
         "start_price": 41.2,
         "start_year": 2018
@@ -13890,7 +13818,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 30.15,
+        "pe_ratio": 32.8,
         "forward_return": 47.49,
         "start_price": 41.0,
         "start_year": 2018
@@ -13899,7 +13827,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 27.68,
+        "pe_ratio": 28.21,
         "forward_return": 49.01,
         "start_price": 39.4,
         "start_year": 2018
@@ -13908,7 +13836,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 26.17,
+        "pe_ratio": 25.21,
         "forward_return": 50.84,
         "start_price": 38.9,
         "start_year": 2018
@@ -13917,7 +13845,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 25.81,
+        "pe_ratio": 23.67,
         "forward_return": 54.29,
         "start_price": 40.0,
         "start_year": 2018
@@ -13926,7 +13854,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 18.1,
+        "pe_ratio": 17.11,
         "forward_return": 63.15,
         "start_price": 29.2,
         "start_year": 2018
@@ -13935,7 +13863,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 22.37,
+        "pe_ratio": 21.76,
         "forward_return": 53.4,
         "start_price": 37.5,
         "start_year": 2018
@@ -13953,7 +13881,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 22.48,
+        "pe_ratio": 22.29,
         "forward_return": 47.96,
         "start_price": 40.2,
         "start_year": 2019
@@ -13962,7 +13890,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 22.89,
+        "pe_ratio": 22.53,
         "forward_return": 46.36,
         "start_price": 42.05,
         "start_year": 2019
@@ -13971,7 +13899,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.53,
         "forward_return": 36.02,
         "start_price": 47.35,
         "start_year": 2019
@@ -13980,7 +13908,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 23.17,
+        "pe_ratio": 22.4,
         "forward_return": 35.47,
         "start_price": 44.8,
         "start_year": 2019
@@ -13989,7 +13917,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.34,
+        "pe_ratio": 19.47,
         "forward_return": 34.95,
         "start_price": 40.3,
         "start_year": 2019
@@ -13998,7 +13926,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 19.61,
+        "pe_ratio": 18.6,
         "forward_return": 38.29,
         "start_price": 39.8,
         "start_year": 2019
@@ -14007,7 +13935,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.19,
         "forward_return": 34.47,
         "start_price": 41.25,
         "start_year": 2019
@@ -14016,7 +13944,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 35.74,
+        "pe_ratio": 35.19,
         "forward_return": 22.86,
         "start_price": 76.0,
         "start_year": 2019
@@ -14025,7 +13953,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.85,
         "forward_return": 31.79,
         "start_price": 56.1,
         "start_year": 2019
@@ -14034,7 +13962,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 31.48,
+        "pe_ratio": 31.53,
         "forward_return": 23.96,
         "start_price": 70.0,
         "start_year": 2019
@@ -14043,7 +13971,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 27.64,
+        "pe_ratio": 27.67,
         "forward_return": 24.94,
         "start_price": 62.8,
         "start_year": 2019
@@ -14061,7 +13989,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.96,
         "forward_return": 26.09,
         "start_price": 57.1,
         "start_year": 2020
@@ -14070,7 +13998,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 61.54,
+        "pe_ratio": 35.56,
         "forward_return": 11.33,
         "start_price": 32.0,
         "start_year": 2006
@@ -14079,7 +14007,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 73.08,
+        "pe_ratio": 50.22,
         "forward_return": 9.98,
         "start_price": 38.0,
         "start_year": 2006
@@ -14088,7 +14016,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 69.81,
+        "pe_ratio": 59.18,
         "forward_return": 10.33,
         "start_price": 36.3,
         "start_year": 2006
@@ -14097,7 +14025,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 60.0,
+        "pe_ratio": 66.38,
         "forward_return": 12.46,
         "start_price": 31.2,
         "start_year": 2006
@@ -14106,7 +14034,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 51.15,
+        "pe_ratio": 68.79,
         "forward_return": 13.46,
         "start_price": 26.6,
         "start_year": 2006
@@ -14115,7 +14043,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 48.08,
+        "pe_ratio": 82.42,
         "forward_return": 14.81,
         "start_price": 25.0,
         "start_year": 2006
@@ -14124,7 +14052,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 60.38,
+        "pe_ratio": 142.7,
         "forward_return": 12.31,
         "start_price": 31.4,
         "start_year": 2006
@@ -14133,7 +14061,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 70.29,
+        "pe_ratio": 114.2,
         "forward_return": 8.95,
         "start_price": 36.55,
         "start_year": 2006
@@ -14142,7 +14070,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 73.85,
+        "pe_ratio": 91.43,
         "forward_return": 8.23,
         "start_price": 38.4,
         "start_year": 2006
@@ -14160,7 +14088,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 65.09,
+        "pe_ratio": 77.48,
         "forward_return": 7.77,
         "start_price": 39.0,
         "start_year": 2007
@@ -14169,7 +14097,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 52.04,
+        "pe_ratio": 72.53,
         "forward_return": 9.16,
         "start_price": 35.3,
         "start_year": 2007
@@ -14178,7 +14106,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 51.82,
+        "pe_ratio": 83.51,
         "forward_return": 7.24,
         "start_price": 39.25,
         "start_year": 2007
@@ -14187,7 +14115,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 47.45,
+        "pe_ratio": 59.55,
         "forward_return": 5.81,
         "start_price": 39.7,
         "start_year": 2007
@@ -14196,7 +14124,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 43.46,
+        "pe_ratio": 46.1,
         "forward_return": 5.08,
         "start_price": 39.8,
         "start_year": 2007
@@ -14205,7 +14133,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 54.27,
+        "pe_ratio": 50.94,
         "forward_return": 0.65,
         "start_price": 54.0,
         "start_year": 2007
@@ -14214,7 +14142,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 113.6,
+        "pe_ratio": 111.2,
         "forward_return": -9.47,
         "start_price": 122.0,
         "start_year": 2007
@@ -14223,7 +14151,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 91.91,
+        "pe_ratio": 93.53,
         "forward_return": -9.01,
         "start_price": 106.0,
         "start_year": 2007
@@ -14232,7 +14160,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 85.6,
+        "pe_ratio": 90.17,
         "forward_return": -8.76,
         "start_price": 105.5,
         "start_year": 2007
@@ -14241,7 +14169,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 100.6,
+        "pe_ratio": 103.9,
         "forward_return": -10.41,
         "start_price": 132.0,
         "start_year": 2007
@@ -14250,7 +14178,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 68.61,
         "forward_return": -7.17,
         "start_price": 94.0,
         "start_year": 2007
@@ -14268,7 +14196,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 41.62,
+        "pe_ratio": 41.47,
         "forward_return": -5.05,
         "start_price": 69.4,
         "start_year": 2008
@@ -14277,7 +14205,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 41.82,
+        "pe_ratio": 41.56,
         "forward_return": -5.97,
         "start_price": 78.0,
         "start_year": 2008
@@ -14286,7 +14214,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 49.7,
+        "pe_ratio": 49.28,
         "forward_return": -9.66,
         "start_price": 102.5,
         "start_year": 2008
@@ -14295,7 +14223,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 53.1,
+        "pe_ratio": 56.34,
         "forward_return": -8.87,
         "start_price": 120.0,
         "start_year": 2008
@@ -14304,7 +14232,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 36.62,
+        "pe_ratio": 41.28,
         "forward_return": -7.07,
         "start_price": 90.0,
         "start_year": 2008
@@ -14313,7 +14241,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 32.24,
+        "pe_ratio": 38.39,
         "forward_return": -5.49,
         "start_price": 85.6,
         "start_year": 2008
@@ -14322,7 +14250,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 44.64,
         "forward_return": -8.19,
         "start_price": 111.0,
         "start_year": 2008
@@ -14331,7 +14259,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 32.1,
+        "pe_ratio": 35.69,
         "forward_return": -6.84,
         "start_price": 97.9,
         "start_year": 2008
@@ -14340,7 +14268,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.91,
+        "pe_ratio": 18.3,
         "forward_return": 0.08,
         "start_price": 54.9,
         "start_year": 2008
@@ -14349,7 +14277,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.51,
         "forward_return": 1.44,
         "start_price": 47.6,
         "start_year": 2008
@@ -14358,7 +14286,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-11-15",
-        "pe_ratio": 13.59,
+        "pe_ratio": 13.9,
         "forward_return": -0.2,
         "start_price": 49.5,
         "start_year": 2008
@@ -14376,7 +14304,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.33,
         "forward_return": -2.68,
         "start_price": 59.5,
         "start_year": 2009
@@ -14385,7 +14313,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.11,
         "forward_return": -5.94,
         "start_price": 80.9,
         "start_year": 2009
@@ -14394,7 +14322,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 19.69,
         "forward_return": -7.36,
         "start_price": 94.1,
         "start_year": 2009
@@ -14403,7 +14331,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 26.84,
+        "pe_ratio": 25.19,
         "forward_return": -9.92,
         "start_price": 130.0,
         "start_year": 2009
@@ -14412,7 +14340,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 37.2,
+        "pe_ratio": 34.21,
         "forward_return": -14.02,
         "start_price": 189.5,
         "start_year": 2009
@@ -14421,7 +14349,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 31.06,
+        "pe_ratio": 28.04,
         "forward_return": -11.22,
         "start_price": 166.0,
         "start_year": 2009
@@ -14430,7 +14358,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 29.93,
+        "pe_ratio": 27.38,
         "forward_return": -9.5,
         "start_price": 167.5,
         "start_year": 2009
@@ -14439,7 +14367,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 27.45,
+        "pe_ratio": 25.42,
         "forward_return": -9.3,
         "start_price": 160.5,
         "start_year": 2009
@@ -14448,7 +14376,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.62,
+        "pe_ratio": 22.12,
         "forward_return": -7.47,
         "start_price": 144.0,
         "start_year": 2009
@@ -14457,7 +14385,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.5,
+        "pe_ratio": 20.61,
         "forward_return": -6.46,
         "start_price": 136.5,
         "start_year": 2009
@@ -14466,7 +14394,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 23.79,
+        "pe_ratio": 23.31,
         "forward_return": -8.36,
         "start_price": 157.0,
         "start_year": 2009
@@ -14484,7 +14412,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 18.9,
+        "pe_ratio": 19.23,
         "forward_return": -7.49,
         "start_price": 129.0,
         "start_year": 2010
@@ -14493,7 +14421,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.14,
+        "pe_ratio": 17.73,
         "forward_return": -7.46,
         "start_price": 116.5,
         "start_year": 2010
@@ -14502,7 +14430,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 20.14,
         "forward_return": -8.41,
         "start_price": 129.5,
         "start_year": 2010
@@ -14511,7 +14439,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 19.03,
         "forward_return": -8.49,
         "start_price": 119.5,
         "start_year": 2010
@@ -14520,7 +14448,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 17.54,
         "forward_return": -6.35,
         "start_price": 107.5,
         "start_year": 2010
@@ -14529,7 +14457,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 15.24,
+        "pe_ratio": 17.06,
         "forward_return": -5.77,
         "start_price": 102.0,
         "start_year": 2010
@@ -14538,7 +14466,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.76,
         "forward_return": -5.83,
         "start_price": 93.5,
         "start_year": 2010
@@ -14547,7 +14475,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.41,
         "forward_return": -4.77,
         "start_price": 84.8,
         "start_year": 2010
@@ -14556,7 +14484,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.9,
         "forward_return": -4.85,
         "start_price": 87.0,
         "start_year": 2010
@@ -14565,7 +14493,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.53,
+        "pe_ratio": 15.77,
         "forward_return": -8.36,
         "start_price": 95.8,
         "start_year": 2010
@@ -14574,7 +14502,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.35,
         "forward_return": -5.84,
         "start_price": 90.5,
         "start_year": 2010
@@ -14592,7 +14520,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.96,
+        "pe_ratio": 16.34,
         "forward_return": -8.07,
         "start_price": 115.0,
         "start_year": 2011
@@ -14601,7 +14529,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.5,
+        "pe_ratio": 18.19,
         "forward_return": -9.71,
         "start_price": 137.0,
         "start_year": 2011
@@ -14610,7 +14538,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 23.19,
+        "pe_ratio": 20.98,
         "forward_return": -11.09,
         "start_price": 168.5,
         "start_year": 2011
@@ -14619,7 +14547,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 17.17,
         "forward_return": -9.58,
         "start_price": 141.5,
         "start_year": 2011
@@ -14628,7 +14556,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.16,
         "forward_return": -10.68,
         "start_price": 145.0,
         "start_year": 2011
@@ -14637,7 +14565,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 19.82,
+        "pe_ratio": 18.3,
         "forward_return": -11.76,
         "start_price": 158.5,
         "start_year": 2011
@@ -14646,7 +14574,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.42,
         "forward_return": -10.8,
         "start_price": 139.0,
         "start_year": 2011
@@ -14655,7 +14583,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.27,
         "forward_return": -2.96,
         "start_price": 115.0,
         "start_year": 2011
@@ -14664,7 +14592,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 13.21,
         "forward_return": -7.22,
         "start_price": 128.5,
         "start_year": 2011
@@ -14673,7 +14601,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.01,
         "forward_return": -5.7,
         "start_price": 135.0,
         "start_year": 2011
@@ -14682,7 +14610,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.14,
+        "pe_ratio": 12.68,
         "forward_return": -5.46,
         "start_price": 121.0,
         "start_year": 2011
@@ -14700,7 +14628,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.57,
         "forward_return": -8.69,
         "start_price": 148.0,
         "start_year": 2012
@@ -14709,7 +14637,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.1,
+        "pe_ratio": 18.13,
         "forward_return": -8.82,
         "start_price": 152.5,
         "start_year": 2012
@@ -14718,7 +14646,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.82,
         "forward_return": -10.42,
         "start_price": 148.5,
         "start_year": 2012
@@ -14727,7 +14655,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.24,
+        "pe_ratio": 18.06,
         "forward_return": -6.88,
         "start_price": 135.0,
         "start_year": 2012
@@ -14736,7 +14664,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.38,
+        "pe_ratio": 18.92,
         "forward_return": -3.65,
         "start_price": 133.5,
         "start_year": 2012
@@ -14745,7 +14673,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.85,
+        "pe_ratio": 20.03,
         "forward_return": -2.45,
         "start_price": 133.0,
         "start_year": 2012
@@ -14754,7 +14682,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 18.33,
+        "pe_ratio": 17.66,
         "forward_return": 1.48,
         "start_price": 107.5,
         "start_year": 2012
@@ -14763,7 +14691,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.43,
         "forward_return": 0.34,
         "start_price": 107.5,
         "start_year": 2012
@@ -14772,7 +14700,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 24.79,
+        "pe_ratio": 24.1,
         "forward_return": -2.01,
         "start_price": 120.0,
         "start_year": 2012
@@ -14781,7 +14709,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 19.91,
+        "pe_ratio": 19.49,
         "forward_return": 1.56,
         "start_price": 86.2,
         "start_year": 2012
@@ -14790,7 +14718,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 20.28,
+        "pe_ratio": 20.03,
         "forward_return": 3.23,
         "start_price": 77.4,
         "start_year": 2012
@@ -14808,7 +14736,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 24.46,
+        "pe_ratio": 30.56,
         "forward_return": 3.42,
         "start_price": 75.6,
         "start_year": 2013
@@ -14817,7 +14745,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 24.79,
+        "pe_ratio": 43.43,
         "forward_return": 4.76,
         "start_price": 71.3,
         "start_year": 2013
@@ -14826,7 +14754,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 87.78,
         "forward_return": 4.71,
         "start_price": 71.1,
         "start_year": 2013
@@ -14835,7 +14763,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.41,
+        "pe_ratio": 65.23,
         "forward_return": 7.95,
         "start_price": 52.4,
         "start_year": 2013
@@ -14844,7 +14772,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 24.24,
+        "pe_ratio": 67.91,
         "forward_return": 6.12,
         "start_price": 54.1,
         "start_year": 2013
@@ -14853,7 +14781,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 68.73,
         "forward_return": 6.29,
         "start_price": 54.3,
         "start_year": 2013
@@ -14862,7 +14790,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 66.36,
         "forward_return": 12.19,
         "start_price": 43.8,
         "start_year": 2013
@@ -14871,7 +14799,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 34.75,
+        "pe_ratio": 104.2,
         "forward_return": 5.16,
         "start_price": 55.2,
         "start_year": 2013
@@ -14880,7 +14808,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 38.07,
+        "pe_ratio": 130.7,
         "forward_return": 5.97,
         "start_price": 52.3,
         "start_year": 2013
@@ -14889,7 +14817,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 102.7,
         "forward_return": 6.72,
         "start_price": 52.4,
         "start_year": 2013
@@ -14898,7 +14826,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 48.7,
+        "pe_ratio": 74.19,
         "forward_return": 9.57,
         "start_price": 46.0,
         "start_year": 2013
@@ -14916,7 +14844,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 71.75,
+        "pe_ratio": 52.71,
         "forward_return": 7.32,
         "start_price": 51.3,
         "start_year": 2014
@@ -14925,7 +14853,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 77.43,
+        "pe_ratio": 44.55,
         "forward_return": 8.7,
         "start_price": 54.2,
         "start_year": 2014
@@ -14934,7 +14862,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 77.66,
+        "pe_ratio": 36.44,
         "forward_return": 10.75,
         "start_price": 53.2,
         "start_year": 2014
@@ -14943,7 +14871,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 88.06,
+        "pe_ratio": 51.01,
         "forward_return": 7.34,
         "start_price": 59.0,
         "start_year": 2014
@@ -14952,7 +14880,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 87.63,
+        "pe_ratio": 67.27,
         "forward_return": 7.4,
         "start_price": 57.4,
         "start_year": 2014
@@ -14961,7 +14889,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 89.84,
+        "pe_ratio": 104.5,
         "forward_return": 4.73,
         "start_price": 57.5,
         "start_year": 2014
@@ -14970,7 +14898,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 80.32,
+        "pe_ratio": 81.85,
         "forward_return": 7.36,
         "start_price": 50.2,
         "start_year": 2014
@@ -14979,7 +14907,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 86.23,
+        "pe_ratio": 77.73,
         "forward_return": 7.17,
         "start_price": 52.6,
         "start_year": 2014
@@ -14988,7 +14916,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 95.13,
+        "pe_ratio": 76.49,
         "forward_return": 4.31,
         "start_price": 56.6,
         "start_year": 2014
@@ -14997,7 +14925,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 85.69,
+        "pe_ratio": 73.45,
         "forward_return": 7.54,
         "start_price": 49.7,
         "start_year": 2014
@@ -15006,7 +14934,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 87.52,
+        "pe_ratio": 80.62,
         "forward_return": 8.52,
         "start_price": 49.45,
         "start_year": 2014
@@ -15024,7 +14952,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 80.28,
+        "pe_ratio": 63.29,
         "forward_return": 10.46,
         "start_price": 48.1,
         "start_year": 2015
@@ -15033,7 +14961,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 74.5,
+        "pe_ratio": 49.79,
         "forward_return": 11.88,
         "start_price": 48.3,
         "start_year": 2015
@@ -15042,7 +14970,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 65.66,
+        "pe_ratio": 38.81,
         "forward_return": 15.41,
         "start_price": 45.8,
         "start_year": 2015
@@ -15051,7 +14979,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 52.9,
+        "pe_ratio": 31.02,
         "forward_return": 17.25,
         "start_price": 39.5,
         "start_year": 2015
@@ -15060,7 +14988,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 45.61,
+        "pe_ratio": 26.56,
         "forward_return": 18.07,
         "start_price": 36.3,
         "start_year": 2015
@@ -15069,7 +14997,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 40.24,
+        "pe_ratio": 23.29,
         "forward_return": 17.92,
         "start_price": 34.0,
         "start_year": 2015
@@ -15078,7 +15006,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 35.56,
+        "pe_ratio": 22.55,
         "forward_return": 25.32,
         "start_price": 31.8,
         "start_year": 2015
@@ -15087,7 +15015,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 28.14,
+        "pe_ratio": 19.52,
         "forward_return": 25.75,
         "start_price": 26.55,
         "start_year": 2015
@@ -15096,7 +15024,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.92,
         "forward_return": 25.4,
         "start_price": 27.4,
         "start_year": 2015
@@ -15105,7 +15033,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 30.24,
+        "pe_ratio": 25.13,
         "forward_return": 23.5,
         "start_price": 31.5,
         "start_year": 2015
@@ -15114,7 +15042,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.17,
+        "pe_ratio": 23.86,
         "forward_return": 27.35,
         "start_price": 28.55,
         "start_year": 2015
@@ -15132,7 +15060,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.62,
         "forward_return": 36.6,
         "start_price": 22.6,
         "start_year": 2016
@@ -15141,7 +15069,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 31.08,
+        "pe_ratio": 31.55,
         "forward_return": 37.62,
         "start_price": 24.4,
         "start_year": 2016
@@ -15150,7 +15078,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 36.54,
+        "pe_ratio": 37.63,
         "forward_return": 36.69,
         "start_price": 22.2,
         "start_year": 2016
@@ -15159,7 +15087,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 78.6,
+        "pe_ratio": 169.0,
         "forward_return": 28.93,
         "start_price": 33.8,
         "start_year": 2016
@@ -15167,26 +15095,17 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2016-05-16",
-        "pe_ratio": 106.1,
-        "forward_return": 38.32,
-        "start_price": 26.8,
-        "start_year": 2016
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2016-06-15",
-        "pe_ratio": 416.0,
-        "forward_return": 38.54,
-        "start_price": 31.2,
-        "start_year": 2016
+        "start_date": "2017-06-15",
+        "pe_ratio": 166.7,
+        "forward_return": 27.52,
+        "start_price": 40.0,
+        "start_year": 2017
       },
       {
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 333.0,
+        "pe_ratio": 115.2,
         "forward_return": 21.17,
         "start_price": 53.0,
         "start_year": 2017
@@ -15195,7 +15114,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 158.0,
+        "pe_ratio": 75.15,
         "forward_return": 22.78,
         "start_price": 51.1,
         "start_year": 2017
@@ -15204,7 +15123,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 112.8,
+        "pe_ratio": 61.11,
         "forward_return": 23.43,
         "start_price": 55.0,
         "start_year": 2017
@@ -15213,7 +15132,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 88.39,
+        "pe_ratio": 62.16,
         "forward_return": 20.52,
         "start_price": 57.6,
         "start_year": 2017
@@ -15222,7 +15141,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 68.27,
+        "pe_ratio": 58.43,
         "forward_return": 20.12,
         "start_price": 55.7,
         "start_year": 2017
@@ -15240,7 +15159,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 44.9,
+        "pe_ratio": 46.39,
         "forward_return": 22.13,
         "start_price": 46.85,
         "start_year": 2018
@@ -15249,7 +15168,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 36.42,
+        "pe_ratio": 38.75,
         "forward_return": 23.83,
         "start_price": 40.3,
         "start_year": 2018
@@ -15258,7 +15177,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 61.54,
+        "pe_ratio": 35.56,
         "forward_return": 3.57,
         "start_price": 32.0,
         "start_year": 2006
@@ -15267,7 +15186,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 73.08,
+        "pe_ratio": 50.22,
         "forward_return": 4.15,
         "start_price": 38.0,
         "start_year": 2006
@@ -15276,7 +15195,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 69.81,
+        "pe_ratio": 59.18,
         "forward_return": 3.27,
         "start_price": 36.3,
         "start_year": 2006
@@ -15285,7 +15204,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 60.0,
+        "pe_ratio": 66.38,
         "forward_return": 5.73,
         "start_price": 31.2,
         "start_year": 2006
@@ -15294,7 +15213,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 51.15,
+        "pe_ratio": 68.79,
         "forward_return": 7.74,
         "start_price": 26.6,
         "start_year": 2006
@@ -15303,7 +15222,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 48.08,
+        "pe_ratio": 82.42,
         "forward_return": 8.32,
         "start_price": 25.0,
         "start_year": 2006
@@ -15312,7 +15231,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 60.38,
+        "pe_ratio": 142.7,
         "forward_return": 5.83,
         "start_price": 31.4,
         "start_year": 2006
@@ -15321,7 +15240,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 70.29,
+        "pe_ratio": 114.2,
         "forward_return": 3.87,
         "start_price": 36.55,
         "start_year": 2006
@@ -15330,7 +15249,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 73.85,
+        "pe_ratio": 91.43,
         "forward_return": 2.42,
         "start_price": 38.4,
         "start_year": 2006
@@ -15348,7 +15267,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 65.09,
+        "pe_ratio": 77.48,
         "forward_return": 2.08,
         "start_price": 39.0,
         "start_year": 2007
@@ -15357,7 +15276,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 52.04,
+        "pe_ratio": 72.53,
         "forward_return": 3.46,
         "start_price": 35.3,
         "start_year": 2007
@@ -15366,7 +15285,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 51.82,
+        "pe_ratio": 83.51,
         "forward_return": 2.68,
         "start_price": 39.25,
         "start_year": 2007
@@ -15375,7 +15294,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 47.45,
+        "pe_ratio": 59.55,
         "forward_return": 3.58,
         "start_price": 39.7,
         "start_year": 2007
@@ -15384,7 +15303,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 43.46,
+        "pe_ratio": 46.1,
         "forward_return": 3.6,
         "start_price": 39.8,
         "start_year": 2007
@@ -15393,7 +15312,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 54.27,
+        "pe_ratio": 50.94,
         "forward_return": 1.73,
         "start_price": 54.0,
         "start_year": 2007
@@ -15402,7 +15321,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 113.6,
+        "pe_ratio": 111.2,
         "forward_return": -4.45,
         "start_price": 122.0,
         "start_year": 2007
@@ -15411,7 +15330,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 91.91,
+        "pe_ratio": 93.53,
         "forward_return": -3.33,
         "start_price": 106.0,
         "start_year": 2007
@@ -15420,7 +15339,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 85.6,
+        "pe_ratio": 90.17,
         "forward_return": -2.8,
         "start_price": 105.5,
         "start_year": 2007
@@ -15429,7 +15348,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 100.6,
+        "pe_ratio": 103.9,
         "forward_return": -4.65,
         "start_price": 132.0,
         "start_year": 2007
@@ -15438,7 +15357,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 67.59,
+        "pe_ratio": 68.61,
         "forward_return": -1.59,
         "start_price": 94.0,
         "start_year": 2007
@@ -15456,7 +15375,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 41.62,
+        "pe_ratio": 41.47,
         "forward_return": 0.27,
         "start_price": 69.4,
         "start_year": 2008
@@ -15465,7 +15384,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 41.82,
+        "pe_ratio": 41.56,
         "forward_return": -1.62,
         "start_price": 78.0,
         "start_year": 2008
@@ -15474,7 +15393,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 49.7,
+        "pe_ratio": 49.28,
         "forward_return": -4.28,
         "start_price": 102.5,
         "start_year": 2008
@@ -15483,7 +15402,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 53.1,
+        "pe_ratio": 56.34,
         "forward_return": -6.57,
         "start_price": 120.0,
         "start_year": 2008
@@ -15492,7 +15411,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 36.62,
+        "pe_ratio": 41.28,
         "forward_return": -3.11,
         "start_price": 90.0,
         "start_year": 2008
@@ -15501,7 +15420,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 32.24,
+        "pe_ratio": 38.39,
         "forward_return": -2.65,
         "start_price": 85.6,
         "start_year": 2008
@@ -15510,7 +15429,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 38.91,
+        "pe_ratio": 44.64,
         "forward_return": -5.27,
         "start_price": 111.0,
         "start_year": 2008
@@ -15519,7 +15438,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 32.1,
+        "pe_ratio": 35.69,
         "forward_return": -4.14,
         "start_price": 97.9,
         "start_year": 2008
@@ -15528,7 +15447,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 16.91,
+        "pe_ratio": 18.3,
         "forward_return": 1.74,
         "start_price": 54.9,
         "start_year": 2008
@@ -15537,7 +15456,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-10-16",
-        "pe_ratio": 13.82,
+        "pe_ratio": 14.51,
         "forward_return": 1.35,
         "start_price": 47.6,
         "start_year": 2008
@@ -15546,7 +15465,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-11-15",
-        "pe_ratio": 13.59,
+        "pe_ratio": 13.9,
         "forward_return": 2.39,
         "start_price": 49.5,
         "start_year": 2008
@@ -15564,7 +15483,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 14.54,
+        "pe_ratio": 14.33,
         "forward_return": 0.95,
         "start_price": 59.5,
         "start_year": 2009
@@ -15573,7 +15492,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 18.63,
+        "pe_ratio": 18.11,
         "forward_return": -1.83,
         "start_price": 80.9,
         "start_year": 2009
@@ -15582,7 +15501,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 19.69,
         "forward_return": -2.57,
         "start_price": 94.1,
         "start_year": 2009
@@ -15591,7 +15510,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 26.84,
+        "pe_ratio": 25.19,
         "forward_return": -6.0,
         "start_price": 130.0,
         "start_year": 2009
@@ -15600,7 +15519,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 37.2,
+        "pe_ratio": 34.21,
         "forward_return": -10.08,
         "start_price": 189.5,
         "start_year": 2009
@@ -15609,7 +15528,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 31.06,
+        "pe_ratio": 28.04,
         "forward_return": -8.95,
         "start_price": 166.0,
         "start_year": 2009
@@ -15618,7 +15537,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 29.93,
+        "pe_ratio": 27.38,
         "forward_return": -8.9,
         "start_price": 167.5,
         "start_year": 2009
@@ -15627,7 +15546,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 27.45,
+        "pe_ratio": 25.42,
         "forward_return": -4.55,
         "start_price": 160.5,
         "start_year": 2009
@@ -15636,7 +15555,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 23.62,
+        "pe_ratio": 22.12,
         "forward_return": -5.61,
         "start_price": 144.0,
         "start_year": 2009
@@ -15645,7 +15564,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 21.5,
+        "pe_ratio": 20.61,
         "forward_return": -3.59,
         "start_price": 136.5,
         "start_year": 2009
@@ -15654,7 +15573,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 23.79,
+        "pe_ratio": 23.31,
         "forward_return": -5.68,
         "start_price": 157.0,
         "start_year": 2009
@@ -15672,7 +15591,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 18.9,
+        "pe_ratio": 19.23,
         "forward_return": -4.45,
         "start_price": 129.0,
         "start_year": 2010
@@ -15681,7 +15600,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 17.14,
+        "pe_ratio": 17.73,
         "forward_return": -3.32,
         "start_price": 116.5,
         "start_year": 2010
@@ -15690,7 +15609,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 19.12,
+        "pe_ratio": 20.14,
         "forward_return": -5.72,
         "start_price": 129.5,
         "start_year": 2010
@@ -15699,7 +15618,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 17.71,
+        "pe_ratio": 19.03,
         "forward_return": -3.17,
         "start_price": 119.5,
         "start_year": 2010
@@ -15708,7 +15627,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 16.0,
+        "pe_ratio": 17.54,
         "forward_return": 0.18,
         "start_price": 107.5,
         "start_year": 2010
@@ -15717,7 +15636,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 15.24,
+        "pe_ratio": 17.06,
         "forward_return": 1.58,
         "start_price": 102.0,
         "start_year": 2010
@@ -15726,7 +15645,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 14.02,
+        "pe_ratio": 15.76,
         "forward_return": 3.66,
         "start_price": 93.5,
         "start_year": 2010
@@ -15735,7 +15654,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 12.76,
+        "pe_ratio": 14.41,
         "forward_return": 3.83,
         "start_price": 84.8,
         "start_year": 2010
@@ -15744,7 +15663,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 13.15,
+        "pe_ratio": 14.9,
         "forward_return": 2.83,
         "start_price": 87.0,
         "start_year": 2010
@@ -15753,7 +15672,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 14.53,
+        "pe_ratio": 15.77,
         "forward_return": 1.44,
         "start_price": 95.8,
         "start_year": 2010
@@ -15762,7 +15681,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 13.78,
+        "pe_ratio": 14.35,
         "forward_return": 2.23,
         "start_price": 90.5,
         "start_year": 2010
@@ -15780,7 +15699,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 16.96,
+        "pe_ratio": 16.34,
         "forward_return": -0.27,
         "start_price": 115.0,
         "start_year": 2011
@@ -15789,7 +15708,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 19.5,
+        "pe_ratio": 18.19,
         "forward_return": -1.61,
         "start_price": 137.0,
         "start_year": 2011
@@ -15798,7 +15717,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 23.19,
+        "pe_ratio": 20.98,
         "forward_return": -3.69,
         "start_price": 168.5,
         "start_year": 2011
@@ -15807,7 +15726,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 17.17,
         "forward_return": -2.52,
         "start_price": 141.5,
         "start_year": 2011
@@ -15816,7 +15735,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 18.7,
+        "pe_ratio": 17.16,
         "forward_return": -3.64,
         "start_price": 145.0,
         "start_year": 2011
@@ -15825,7 +15744,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 19.82,
+        "pe_ratio": 18.3,
         "forward_return": -4.36,
         "start_price": 158.5,
         "start_year": 2011
@@ -15834,7 +15753,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 16.87,
+        "pe_ratio": 15.42,
         "forward_return": -1.46,
         "start_price": 139.0,
         "start_year": 2011
@@ -15843,7 +15762,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 13.56,
+        "pe_ratio": 12.27,
         "forward_return": -2.15,
         "start_price": 115.0,
         "start_year": 2011
@@ -15852,7 +15771,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 14.73,
+        "pe_ratio": 13.21,
         "forward_return": -3.17,
         "start_price": 128.5,
         "start_year": 2011
@@ -15861,7 +15780,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 15.06,
+        "pe_ratio": 14.01,
         "forward_return": -3.14,
         "start_price": 135.0,
         "start_year": 2011
@@ -15870,7 +15789,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 13.14,
+        "pe_ratio": 12.68,
         "forward_return": -1.36,
         "start_price": 121.0,
         "start_year": 2011
@@ -15888,7 +15807,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.57,
         "forward_return": -3.82,
         "start_price": 148.0,
         "start_year": 2012
@@ -15897,7 +15816,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 18.1,
+        "pe_ratio": 18.13,
         "forward_return": -1.54,
         "start_price": 152.5,
         "start_year": 2012
@@ -15906,7 +15825,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 18.76,
+        "pe_ratio": 18.82,
         "forward_return": -1.29,
         "start_price": 148.5,
         "start_year": 2012
@@ -15915,7 +15834,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 18.24,
+        "pe_ratio": 18.06,
         "forward_return": -1.68,
         "start_price": 135.0,
         "start_year": 2012
@@ -15924,7 +15843,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 19.38,
+        "pe_ratio": 18.92,
         "forward_return": -1.77,
         "start_price": 133.5,
         "start_year": 2012
@@ -15933,7 +15852,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 20.85,
+        "pe_ratio": 20.03,
         "forward_return": -3.49,
         "start_price": 133.0,
         "start_year": 2012
@@ -15942,7 +15861,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 18.33,
+        "pe_ratio": 17.66,
         "forward_return": -1.58,
         "start_price": 107.5,
         "start_year": 2012
@@ -15951,7 +15870,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 20.08,
+        "pe_ratio": 19.43,
         "forward_return": -1.28,
         "start_price": 107.5,
         "start_year": 2012
@@ -15960,7 +15879,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 24.79,
+        "pe_ratio": 24.1,
         "forward_return": -3.7,
         "start_price": 120.0,
         "start_year": 2012
@@ -15969,7 +15888,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 19.91,
+        "pe_ratio": 19.49,
         "forward_return": 0.65,
         "start_price": 86.2,
         "start_year": 2012
@@ -15978,7 +15897,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 20.28,
+        "pe_ratio": 20.03,
         "forward_return": 2.4,
         "start_price": 77.4,
         "start_year": 2012
@@ -15996,7 +15915,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 24.46,
+        "pe_ratio": 30.56,
         "forward_return": 3.79,
         "start_price": 75.6,
         "start_year": 2013
@@ -16005,7 +15924,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 24.79,
+        "pe_ratio": 43.43,
         "forward_return": 5.49,
         "start_price": 71.3,
         "start_year": 2013
@@ -16014,7 +15933,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 26.71,
+        "pe_ratio": 87.78,
         "forward_return": 7.54,
         "start_price": 71.1,
         "start_year": 2013
@@ -16023,7 +15942,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 21.41,
+        "pe_ratio": 65.23,
         "forward_return": 10.65,
         "start_price": 52.4,
         "start_year": 2013
@@ -16032,7 +15951,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 24.24,
+        "pe_ratio": 67.91,
         "forward_return": 9.99,
         "start_price": 54.1,
         "start_year": 2013
@@ -16041,7 +15960,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 26.91,
+        "pe_ratio": 68.73,
         "forward_return": 9.14,
         "start_price": 54.3,
         "start_year": 2013
@@ -16050,7 +15969,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 24.29,
+        "pe_ratio": 66.36,
         "forward_return": 16.08,
         "start_price": 43.8,
         "start_year": 2013
@@ -16059,7 +15978,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 34.75,
+        "pe_ratio": 104.2,
         "forward_return": 11.7,
         "start_price": 55.2,
         "start_year": 2013
@@ -16068,7 +15987,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 38.07,
+        "pe_ratio": 130.7,
         "forward_return": 12.41,
         "start_price": 52.3,
         "start_year": 2013
@@ -16077,7 +15996,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 102.7,
         "forward_return": 12.59,
         "start_price": 52.4,
         "start_year": 2013
@@ -16086,7 +16005,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 48.7,
+        "pe_ratio": 74.19,
         "forward_return": 15.74,
         "start_price": 46.0,
         "start_year": 2013
@@ -16104,7 +16023,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 71.75,
+        "pe_ratio": 52.71,
         "forward_return": 18.28,
         "start_price": 51.3,
         "start_year": 2014
@@ -16113,7 +16032,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 77.43,
+        "pe_ratio": 44.55,
         "forward_return": 19.24,
         "start_price": 54.2,
         "start_year": 2014
@@ -16122,7 +16041,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 77.66,
+        "pe_ratio": 36.44,
         "forward_return": 17.7,
         "start_price": 53.2,
         "start_year": 2014
@@ -16131,7 +16050,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 88.06,
+        "pe_ratio": 51.01,
         "forward_return": 15.94,
         "start_price": 59.0,
         "start_year": 2014
@@ -16140,7 +16059,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 87.63,
+        "pe_ratio": 67.27,
         "forward_return": 20.15,
         "start_price": 57.4,
         "start_year": 2014
@@ -16149,7 +16068,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 89.84,
+        "pe_ratio": 104.5,
         "forward_return": 22.12,
         "start_price": 57.5,
         "start_year": 2014
@@ -16158,7 +16077,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 80.32,
+        "pe_ratio": 81.85,
         "forward_return": 24.07,
         "start_price": 50.2,
         "start_year": 2014
@@ -16167,7 +16086,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 86.23,
+        "pe_ratio": 77.73,
         "forward_return": 24.24,
         "start_price": 52.6,
         "start_year": 2014
@@ -16176,7 +16095,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 95.13,
+        "pe_ratio": 76.49,
         "forward_return": 25.35,
         "start_price": 56.6,
         "start_year": 2014
@@ -16185,7 +16104,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 85.69,
+        "pe_ratio": 73.45,
         "forward_return": 27.25,
         "start_price": 49.7,
         "start_year": 2014
@@ -16194,7 +16113,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 87.52,
+        "pe_ratio": 80.62,
         "forward_return": 25.81,
         "start_price": 49.45,
         "start_year": 2014
@@ -16212,7 +16131,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 80.28,
+        "pe_ratio": 63.29,
         "forward_return": 24.32,
         "start_price": 48.1,
         "start_year": 2015
@@ -16221,7 +16140,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 74.5,
+        "pe_ratio": 49.79,
         "forward_return": 24.02,
         "start_price": 48.3,
         "start_year": 2015
@@ -16230,7 +16149,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 65.66,
+        "pe_ratio": 38.81,
         "forward_return": 20.77,
         "start_price": 45.8,
         "start_year": 2015
@@ -16239,7 +16158,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 52.9,
+        "pe_ratio": 31.02,
         "forward_return": 21.6,
         "start_price": 39.5,
         "start_year": 2015
@@ -16248,7 +16167,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 45.61,
+        "pe_ratio": 26.56,
         "forward_return": 21.08,
         "start_price": 36.3,
         "start_year": 2015
@@ -16257,7 +16176,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 40.24,
+        "pe_ratio": 23.29,
         "forward_return": 23.51,
         "start_price": 34.0,
         "start_year": 2015
@@ -16266,7 +16185,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 35.56,
+        "pe_ratio": 22.55,
         "forward_return": 22.77,
         "start_price": 31.8,
         "start_year": 2015
@@ -16275,7 +16194,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 28.14,
+        "pe_ratio": 19.52,
         "forward_return": 25.86,
         "start_price": 26.55,
         "start_year": 2015
@@ -16284,7 +16203,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 27.61,
+        "pe_ratio": 20.92,
         "forward_return": 26.93,
         "start_price": 27.4,
         "start_year": 2015
@@ -16293,7 +16212,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 30.24,
+        "pe_ratio": 25.13,
         "forward_return": 23.38,
         "start_price": 31.5,
         "start_year": 2015
@@ -16302,7 +16221,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 26.17,
+        "pe_ratio": 23.86,
         "forward_return": 23.85,
         "start_price": 28.55,
         "start_year": 2015
@@ -16320,7 +16239,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 23.48,
+        "pe_ratio": 23.62,
         "forward_return": 26.27,
         "start_price": 22.6,
         "start_year": 2016
@@ -16527,7 +16446,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 14.5倍、19.1倍、27.7倍、50.3倍、77.1倍"
+!!! note "本益比河流帶水位: 15.0倍、19.3倍、27.7倍、51.7倍、77.3倍"
 
 ```vegalite
 {
@@ -16538,2282 +16457,2272 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "date": "2006-03-16",
         "price": 32.0,
-        "pe": 61.54,
-        "pe_10": 7.56,
-        "pe_25": 9.93,
-        "pe_50": 14.38,
-        "pe_75": 26.15,
-        "pe_90": 40.1
+        "pe": 35.56,
+        "pe_10": 13.46,
+        "pe_25": 17.39,
+        "pe_50": 24.96,
+        "pe_75": 46.52,
+        "pe_90": 69.55
       },
       {
         "date": "2006-04-15",
         "price": 38.0,
-        "pe": 73.08,
-        "pe_10": 7.56,
-        "pe_25": 9.93,
-        "pe_50": 14.38,
-        "pe_75": 26.15,
-        "pe_90": 40.09
+        "pe": 50.22,
+        "pe_10": 11.32,
+        "pe_25": 14.63,
+        "pe_50": 20.99,
+        "pe_75": 39.11,
+        "pe_90": 58.48
       },
       {
         "date": "2006-05-16",
         "price": 36.3,
-        "pe": 69.81,
-        "pe_10": 7.56,
-        "pe_25": 9.93,
-        "pe_50": 14.38,
-        "pe_75": 26.15,
-        "pe_90": 40.09
+        "pe": 59.18,
+        "pe_10": 9.18,
+        "pe_25": 11.86,
+        "pe_50": 17.02,
+        "pe_75": 31.71,
+        "pe_90": 47.4
       },
       {
         "date": "2006-06-15",
         "price": 31.2,
-        "pe": 60.0,
-        "pe_10": 7.56,
-        "pe_25": 9.93,
-        "pe_50": 14.38,
-        "pe_75": 26.15,
-        "pe_90": 40.1
+        "pe": 66.38,
+        "pe_10": 7.03,
+        "pe_25": 9.09,
+        "pe_50": 13.04,
+        "pe_75": 24.3,
+        "pe_90": 36.32
       },
       {
         "date": "2006-07-16",
         "price": 26.6,
-        "pe": 51.15,
-        "pe_10": 7.56,
-        "pe_25": 9.93,
-        "pe_50": 14.38,
-        "pe_75": 26.16,
-        "pe_90": 40.1
+        "pe": 68.79,
+        "pe_10": 5.78,
+        "pe_25": 7.47,
+        "pe_50": 10.73,
+        "pe_75": 19.99,
+        "pe_90": 29.88
       },
       {
         "date": "2006-08-16",
         "price": 25.0,
-        "pe": 48.08,
-        "pe_10": 7.56,
-        "pe_25": 9.93,
-        "pe_50": 14.38,
-        "pe_75": 26.15,
-        "pe_90": 40.09
+        "pe": 82.42,
+        "pe_10": 4.54,
+        "pe_25": 5.86,
+        "pe_50": 8.41,
+        "pe_75": 15.68,
+        "pe_90": 23.44
       },
       {
         "date": "2006-09-15",
         "price": 31.4,
-        "pe": 60.38,
-        "pe_10": 7.56,
-        "pe_25": 9.93,
-        "pe_50": 14.38,
-        "pe_75": 26.16,
-        "pe_90": 40.1
+        "pe": 142.7,
+        "pe_10": 3.29,
+        "pe_25": 4.25,
+        "pe_50": 6.1,
+        "pe_75": 11.37,
+        "pe_90": 17.01
       },
       {
         "date": "2006-10-16",
         "price": 36.55,
-        "pe": 70.29,
-        "pe_10": 7.56,
-        "pe_25": 9.93,
-        "pe_50": 14.38,
-        "pe_75": 26.15,
-        "pe_90": 40.1
+        "pe": 114.2,
+        "pe_10": 4.79,
+        "pe_25": 6.19,
+        "pe_50": 8.88,
+        "pe_75": 16.54,
+        "pe_90": 24.73
       },
       {
         "date": "2006-11-15",
         "price": 38.4,
-        "pe": 73.85,
-        "pe_10": 7.56,
-        "pe_25": 9.93,
-        "pe_50": 14.38,
-        "pe_75": 26.15,
-        "pe_90": 40.09
+        "pe": 91.43,
+        "pe_10": 6.28,
+        "pe_25": 8.12,
+        "pe_50": 11.65,
+        "pe_75": 21.71,
+        "pe_90": 32.46
       },
       {
         "date": "2006-12-16",
         "price": 37.2,
         "pe": 71.54,
-        "pe_10": 7.56,
-        "pe_25": 9.93,
-        "pe_50": 14.38,
-        "pe_75": 26.15,
-        "pe_90": 40.1
+        "pe_10": 7.78,
+        "pe_25": 10.05,
+        "pe_50": 14.42,
+        "pe_75": 26.88,
+        "pe_90": 40.19
       },
       {
         "date": "2007-01-16",
         "price": 39.0,
-        "pe": 65.09,
-        "pe_10": 8.71,
-        "pe_25": 11.44,
-        "pe_50": 16.57,
-        "pe_75": 30.14,
-        "pe_90": 46.2
+        "pe": 77.48,
+        "pe_10": 7.53,
+        "pe_25": 9.73,
+        "pe_50": 13.96,
+        "pe_75": 26.02,
+        "pe_90": 38.9
       },
       {
         "date": "2007-02-14",
         "price": 35.3,
-        "pe": 52.04,
-        "pe_10": 9.86,
-        "pe_25": 12.95,
-        "pe_50": 18.76,
-        "pe_75": 34.12,
-        "pe_90": 52.3
+        "pe": 72.53,
+        "pe_10": 7.28,
+        "pe_25": 9.41,
+        "pe_50": 13.5,
+        "pe_75": 25.16,
+        "pe_90": 37.61
       },
       {
         "date": "2007-03-16",
         "price": 39.25,
-        "pe": 51.82,
-        "pe_10": 11.01,
-        "pe_25": 14.46,
-        "pe_50": 20.95,
-        "pe_75": 38.09,
-        "pe_90": 58.4
+        "pe": 83.51,
+        "pe_10": 7.03,
+        "pe_25": 9.09,
+        "pe_50": 13.04,
+        "pe_75": 24.29,
+        "pe_90": 36.32
       },
       {
         "date": "2007-04-15",
         "price": 39.7,
-        "pe": 47.45,
-        "pe_10": 12.16,
-        "pe_25": 15.98,
-        "pe_50": 23.14,
-        "pe_75": 42.08,
-        "pe_90": 64.51
+        "pe": 59.55,
+        "pe_10": 9.97,
+        "pe_25": 12.89,
+        "pe_50": 18.49,
+        "pe_75": 34.46,
+        "pe_90": 51.52
       },
       {
         "date": "2007-05-16",
         "price": 39.8,
-        "pe": 43.46,
-        "pe_10": 13.31,
-        "pe_25": 17.49,
-        "pe_50": 25.33,
-        "pe_75": 46.06,
-        "pe_90": 70.61
+        "pe": 46.1,
+        "pe_10": 12.92,
+        "pe_25": 16.69,
+        "pe_50": 23.95,
+        "pe_75": 44.63,
+        "pe_90": 66.72
       },
       {
         "date": "2007-06-15",
         "price": 54.0,
-        "pe": 54.27,
-        "pe_10": 14.46,
-        "pe_25": 19.0,
-        "pe_50": 27.52,
-        "pe_75": 50.04,
-        "pe_90": 76.72
+        "pe": 50.94,
+        "pe_10": 15.86,
+        "pe_25": 20.49,
+        "pe_50": 29.41,
+        "pe_75": 54.8,
+        "pe_90": 81.92
       },
       {
         "date": "2007-07-16",
         "price": 122.0,
-        "pe": 113.6,
-        "pe_10": 15.61,
-        "pe_25": 20.51,
-        "pe_50": 29.71,
-        "pe_75": 54.01,
-        "pe_90": 82.81
+        "pe": 111.2,
+        "pe_10": 16.41,
+        "pe_25": 21.21,
+        "pe_50": 30.43,
+        "pe_75": 56.71,
+        "pe_90": 84.79
       },
       {
         "date": "2007-08-16",
         "price": 106.0,
-        "pe": 91.91,
-        "pe_10": 16.77,
-        "pe_25": 22.02,
-        "pe_50": 31.9,
-        "pe_75": 58.01,
-        "pe_90": 88.93
+        "pe": 93.53,
+        "pe_10": 16.95,
+        "pe_25": 21.91,
+        "pe_50": 31.44,
+        "pe_75": 58.58,
+        "pe_90": 87.59
       },
       {
         "date": "2007-09-15",
         "price": 105.5,
-        "pe": 85.6,
-        "pe_10": 17.92,
-        "pe_25": 23.53,
-        "pe_50": 34.09,
-        "pe_75": 61.99,
-        "pe_90": 95.03
+        "pe": 90.17,
+        "pe_10": 17.5,
+        "pe_25": 22.62,
+        "pe_50": 32.46,
+        "pe_75": 60.48,
+        "pe_90": 90.42
       },
       {
         "date": "2007-10-16",
         "price": 132.0,
-        "pe": 100.6,
-        "pe_10": 19.07,
-        "pe_25": 25.06,
-        "pe_50": 36.29,
-        "pe_75": 65.99,
-        "pe_90": 101.18
+        "pe": 103.9,
+        "pe_10": 19.01,
+        "pe_25": 24.56,
+        "pe_50": 35.24,
+        "pe_75": 65.67,
+        "pe_90": 98.18
       },
       {
         "date": "2007-11-15",
         "price": 94.0,
-        "pe": 67.59,
-        "pe_10": 20.22,
-        "pe_25": 26.56,
-        "pe_50": 38.47,
-        "pe_75": 69.95,
-        "pe_90": 107.24
+        "pe": 68.61,
+        "pe_10": 20.5,
+        "pe_25": 26.48,
+        "pe_50": 38.01,
+        "pe_75": 70.82,
+        "pe_90": 105.88
       },
       {
         "date": "2007-12-16",
         "price": 87.8,
         "pe": 59.73,
-        "pe_10": 21.37,
-        "pe_25": 28.07,
-        "pe_50": 40.66,
-        "pe_75": 73.93,
-        "pe_90": 113.34
+        "pe_10": 21.99,
+        "pe_25": 28.41,
+        "pe_50": 40.78,
+        "pe_75": 75.98,
+        "pe_90": 113.6
       },
       {
         "date": "2008-01-16",
         "price": 69.4,
-        "pe": 41.62,
-        "pe_10": 24.24,
-        "pe_25": 31.84,
-        "pe_50": 46.12,
-        "pe_75": 83.87,
-        "pe_90": 128.58
+        "pe": 41.47,
+        "pe_10": 25.04,
+        "pe_25": 32.35,
+        "pe_50": 46.42,
+        "pe_75": 86.5,
+        "pe_90": 129.33
       },
       {
         "date": "2008-02-15",
         "price": 78.0,
-        "pe": 41.82,
-        "pe_10": 27.11,
-        "pe_25": 35.61,
-        "pe_50": 51.59,
-        "pe_75": 93.81,
-        "pe_90": 143.82
+        "pe": 41.56,
+        "pe_10": 28.08,
+        "pe_25": 36.28,
+        "pe_50": 52.06,
+        "pe_75": 97.01,
+        "pe_90": 145.04
       },
       {
         "date": "2008-03-16",
         "price": 102.5,
-        "pe": 49.7,
-        "pe_10": 29.98,
-        "pe_25": 39.38,
-        "pe_50": 57.05,
-        "pe_75": 103.73,
-        "pe_90": 159.03
+        "pe": 49.28,
+        "pe_10": 31.12,
+        "pe_25": 40.21,
+        "pe_50": 57.7,
+        "pe_75": 107.51,
+        "pe_90": 160.74
       },
       {
         "date": "2008-04-15",
         "price": 120.0,
-        "pe": 53.1,
-        "pe_10": 32.85,
-        "pe_25": 43.15,
-        "pe_50": 62.51,
-        "pe_75": 113.66,
-        "pe_90": 174.26
+        "pe": 56.34,
+        "pe_10": 31.86,
+        "pe_25": 41.17,
+        "pe_50": 59.08,
+        "pe_75": 110.1,
+        "pe_90": 164.6
       },
       {
         "date": "2008-05-16",
         "price": 90.0,
-        "pe": 36.62,
-        "pe_10": 35.73,
-        "pe_25": 46.93,
-        "pe_50": 67.98,
-        "pe_75": 123.61,
-        "pe_90": 189.51
+        "pe": 41.28,
+        "pe_10": 32.62,
+        "pe_25": 42.14,
+        "pe_50": 60.48,
+        "pe_75": 112.7,
+        "pe_90": 168.49
       },
       {
         "date": "2008-06-15",
         "price": 85.6,
-        "pe": 32.24,
-        "pe_10": 38.6,
-        "pe_25": 50.7,
-        "pe_50": 73.44,
-        "pe_75": 133.54,
-        "pe_90": 204.73
+        "pe": 38.39,
+        "pe_10": 33.36,
+        "pe_25": 43.1,
+        "pe_50": 61.85,
+        "pe_75": 115.26,
+        "pe_90": 172.32
       },
       {
         "date": "2008-07-16",
         "price": 111.0,
-        "pe": 38.91,
-        "pe_10": 41.47,
-        "pe_25": 54.47,
-        "pe_50": 78.91,
-        "pe_75": 143.48,
-        "pe_90": 219.97
+        "pe": 44.64,
+        "pe_10": 37.2,
+        "pe_25": 48.07,
+        "pe_50": 68.98,
+        "pe_75": 128.53,
+        "pe_90": 192.17
       },
       {
         "date": "2008-08-16",
         "price": 97.9,
-        "pe": 32.1,
-        "pe_10": 44.34,
-        "pe_25": 58.24,
-        "pe_50": 84.36,
-        "pe_75": 153.39,
-        "pe_90": 235.17
+        "pe": 35.69,
+        "pe_10": 41.04,
+        "pe_25": 53.02,
+        "pe_50": 76.09,
+        "pe_75": 141.79,
+        "pe_90": 211.99
       },
       {
         "date": "2008-09-15",
         "price": 54.9,
-        "pe": 16.91,
-        "pe_10": 47.2,
-        "pe_25": 61.99,
-        "pe_50": 89.8,
-        "pe_75": 163.29,
-        "pe_90": 250.34
+        "pe": 18.3,
+        "pe_10": 44.88,
+        "pe_25": 57.99,
+        "pe_50": 83.22,
+        "pe_75": 155.07,
+        "pe_90": 231.85
       },
       {
         "date": "2008-10-16",
         "price": 47.6,
-        "pe": 13.82,
-        "pe_10": 50.07,
-        "pe_25": 65.77,
-        "pe_50": 95.27,
-        "pe_75": 173.23,
-        "pe_90": 265.58
+        "pe": 14.51,
+        "pe_10": 49.08,
+        "pe_25": 63.41,
+        "pe_50": 91.0,
+        "pe_75": 169.57,
+        "pe_90": 253.52
       },
       {
         "date": "2008-11-15",
         "price": 49.5,
-        "pe": 13.59,
-        "pe_10": 52.95,
-        "pe_25": 69.55,
-        "pe_50": 100.75,
-        "pe_75": 183.19,
-        "pe_90": 280.86
+        "pe": 13.9,
+        "pe_10": 53.27,
+        "pe_25": 68.84,
+        "pe_50": 98.79,
+        "pe_75": 184.08,
+        "pe_90": 275.21
       },
       {
         "date": "2008-12-16",
         "price": 57.6,
         "pe": 15.0,
-        "pe_10": 55.82,
-        "pe_25": 73.32,
-        "pe_50": 106.21,
-        "pe_75": 193.13,
-        "pe_90": 296.09
+        "pe_10": 57.45,
+        "pe_25": 74.23,
+        "pe_50": 106.52,
+        "pe_75": 198.49,
+        "pe_90": 296.76
       },
       {
         "date": "2009-01-16",
         "price": 59.5,
-        "pe": 14.54,
-        "pe_10": 59.49,
-        "pe_25": 78.14,
-        "pe_50": 113.19,
-        "pe_75": 205.82,
-        "pe_90": 315.54
+        "pe": 14.33,
+        "pe_10": 62.12,
+        "pe_25": 80.26,
+        "pe_50": 115.18,
+        "pe_75": 214.62,
+        "pe_90": 320.88
       },
       {
         "date": "2009-02-14",
         "price": 80.9,
-        "pe": 18.63,
-        "pe_10": 63.13,
-        "pe_25": 82.92,
-        "pe_50": 120.11,
-        "pe_75": 218.4,
-        "pe_90": 334.84
+        "pe": 18.11,
+        "pe_10": 66.83,
+        "pe_25": 86.35,
+        "pe_50": 123.92,
+        "pe_75": 230.91,
+        "pe_90": 345.23
       },
       {
         "date": "2009-03-16",
         "price": 94.1,
-        "pe": 20.49,
-        "pe_10": 66.76,
-        "pe_25": 87.69,
-        "pe_50": 127.03,
-        "pe_75": 230.98,
-        "pe_90": 354.12
+        "pe": 19.69,
+        "pe_10": 71.49,
+        "pe_25": 92.38,
+        "pe_50": 132.57,
+        "pe_75": 247.03,
+        "pe_90": 369.34
       },
       {
         "date": "2009-04-15",
         "price": 130.0,
-        "pe": 26.84,
-        "pe_10": 70.41,
-        "pe_25": 92.49,
-        "pe_50": 133.97,
-        "pe_75": 243.6,
-        "pe_90": 373.47
+        "pe": 25.19,
+        "pe_10": 77.21,
+        "pe_25": 99.76,
+        "pe_50": 143.16,
+        "pe_75": 266.76,
+        "pe_90": 398.84
       },
       {
         "date": "2009-05-16",
         "price": 189.5,
-        "pe": 37.2,
-        "pe_10": 74.05,
-        "pe_25": 97.27,
-        "pe_50": 140.9,
-        "pe_75": 256.21,
-        "pe_90": 392.79
+        "pe": 34.21,
+        "pe_10": 82.87,
+        "pe_25": 107.07,
+        "pe_50": 153.66,
+        "pe_75": 286.33,
+        "pe_90": 428.09
       },
       {
         "date": "2009-06-15",
         "price": 166.0,
-        "pe": 31.06,
-        "pe_10": 77.69,
-        "pe_25": 102.05,
-        "pe_50": 147.83,
-        "pe_75": 268.8,
-        "pe_90": 412.1
+        "pe": 28.04,
+        "pe_10": 88.56,
+        "pe_25": 114.44,
+        "pe_50": 164.22,
+        "pe_75": 306.01,
+        "pe_90": 457.52
       },
       {
         "date": "2009-07-16",
         "price": 167.5,
-        "pe": 29.93,
-        "pe_10": 81.35,
-        "pe_25": 106.86,
-        "pe_50": 154.8,
-        "pe_75": 281.47,
-        "pe_90": 431.53
+        "pe": 27.38,
+        "pe_10": 91.52,
+        "pe_25": 118.25,
+        "pe_50": 169.7,
+        "pe_75": 316.22,
+        "pe_90": 472.78
       },
       {
         "date": "2009-08-16",
         "price": 160.5,
-        "pe": 27.45,
-        "pe_10": 85.0,
-        "pe_25": 111.65,
-        "pe_50": 161.73,
-        "pe_75": 294.07,
-        "pe_90": 450.85
+        "pe": 25.42,
+        "pe_10": 94.46,
+        "pe_25": 122.05,
+        "pe_50": 175.15,
+        "pe_75": 326.37,
+        "pe_90": 487.95
       },
       {
         "date": "2009-09-15",
         "price": 144.0,
-        "pe": 23.62,
-        "pe_10": 88.63,
-        "pe_25": 116.41,
-        "pe_50": 168.63,
-        "pe_75": 306.62,
-        "pe_90": 470.09
+        "pe": 22.12,
+        "pe_10": 97.39,
+        "pe_25": 125.84,
+        "pe_50": 180.59,
+        "pe_75": 336.5,
+        "pe_90": 503.1
       },
       {
         "date": "2009-10-16",
         "price": 136.5,
-        "pe": 21.5,
-        "pe_10": 92.29,
-        "pe_25": 121.23,
-        "pe_50": 175.61,
-        "pe_75": 319.31,
-        "pe_90": 489.55
+        "pe": 20.61,
+        "pe_10": 99.08,
+        "pe_25": 128.02,
+        "pe_50": 183.72,
+        "pe_75": 342.34,
+        "pe_90": 511.84
       },
       {
         "date": "2009-11-15",
         "price": 157.0,
-        "pe": 23.79,
-        "pe_10": 95.94,
-        "pe_25": 126.02,
-        "pe_50": 182.54,
-        "pe_75": 331.92,
-        "pe_90": 508.87
+        "pe": 23.31,
+        "pe_10": 100.76,
+        "pe_25": 130.19,
+        "pe_50": 186.84,
+        "pe_75": 348.15,
+        "pe_90": 520.52
       },
       {
         "date": "2009-12-16",
         "price": 150.5,
         "pe": 21.97,
-        "pe_10": 99.58,
-        "pe_25": 130.81,
-        "pe_50": 189.48,
-        "pe_75": 344.53,
-        "pe_90": 528.21
+        "pe_10": 102.48,
+        "pe_25": 132.42,
+        "pe_50": 190.03,
+        "pe_75": 354.09,
+        "pe_90": 529.4
       },
       {
         "date": "2010-01-16",
         "price": 129.0,
-        "pe": 18.9,
-        "pe_10": 99.22,
-        "pe_25": 130.33,
-        "pe_50": 188.79,
-        "pe_75": 343.28,
-        "pe_90": 526.29
+        "pe": 19.23,
+        "pe_10": 100.36,
+        "pe_25": 129.67,
+        "pe_50": 186.09,
+        "pe_75": 346.75,
+        "pe_90": 518.43
       },
       {
         "date": "2010-02-14",
         "price": 116.5,
-        "pe": 17.14,
-        "pe_10": 98.81,
-        "pe_25": 129.79,
-        "pe_50": 188.0,
-        "pe_75": 341.85,
-        "pe_90": 524.1
+        "pe": 17.73,
+        "pe_10": 98.3,
+        "pe_25": 127.01,
+        "pe_50": 182.27,
+        "pe_75": 339.64,
+        "pe_90": 507.8
       },
       {
         "date": "2010-03-16",
         "price": 129.5,
-        "pe": 19.12,
-        "pe_10": 98.46,
-        "pe_25": 129.33,
-        "pe_50": 187.34,
-        "pe_75": 340.65,
-        "pe_90": 522.25
+        "pe": 20.14,
+        "pe_10": 96.19,
+        "pe_25": 124.29,
+        "pe_50": 178.37,
+        "pe_75": 332.37,
+        "pe_90": 496.92
       },
       {
         "date": "2010-04-15",
         "price": 119.5,
-        "pe": 17.71,
-        "pe_10": 98.09,
-        "pe_25": 128.85,
-        "pe_50": 186.64,
-        "pe_75": 339.37,
-        "pe_90": 520.29
+        "pe": 19.03,
+        "pe_10": 93.94,
+        "pe_25": 121.38,
+        "pe_50": 174.19,
+        "pe_75": 324.59,
+        "pe_90": 485.3
       },
       {
         "date": "2010-05-16",
         "price": 107.5,
-        "pe": 16.0,
-        "pe_10": 97.67,
-        "pe_25": 128.29,
-        "pe_50": 185.84,
-        "pe_75": 337.92,
-        "pe_90": 518.07
+        "pe": 17.54,
+        "pe_10": 91.69,
+        "pe_25": 118.47,
+        "pe_50": 170.01,
+        "pe_75": 316.8,
+        "pe_90": 473.65
       },
       {
         "date": "2010-06-15",
         "price": 102.0,
-        "pe": 15.24,
-        "pe_10": 97.29,
-        "pe_25": 127.8,
-        "pe_50": 185.13,
-        "pe_75": 336.62,
-        "pe_90": 516.08
+        "pe": 17.06,
+        "pe_10": 89.44,
+        "pe_25": 115.57,
+        "pe_50": 165.85,
+        "pe_75": 309.05,
+        "pe_90": 462.06
       },
       {
         "date": "2010-07-16",
         "price": 93.5,
-        "pe": 14.02,
-        "pe_10": 96.95,
-        "pe_25": 127.35,
-        "pe_50": 184.47,
-        "pe_75": 335.42,
-        "pe_90": 514.24
+        "pe": 15.76,
+        "pe_10": 88.75,
+        "pe_25": 114.68,
+        "pe_50": 164.57,
+        "pe_75": 306.66,
+        "pe_90": 458.49
       },
       {
         "date": "2010-08-16",
         "price": 84.8,
-        "pe": 12.76,
-        "pe_10": 96.61,
-        "pe_25": 126.9,
-        "pe_50": 183.82,
-        "pe_75": 334.25,
-        "pe_90": 512.44
+        "pe": 14.41,
+        "pe_10": 88.04,
+        "pe_25": 113.75,
+        "pe_50": 163.24,
+        "pe_75": 304.19,
+        "pe_90": 454.79
       },
       {
         "date": "2010-09-15",
         "price": 87.0,
-        "pe": 13.15,
-        "pe_10": 96.18,
-        "pe_25": 126.33,
-        "pe_50": 183.0,
-        "pe_75": 332.75,
-        "pe_90": 510.14
+        "pe": 14.9,
+        "pe_10": 87.35,
+        "pe_25": 112.87,
+        "pe_50": 161.97,
+        "pe_75": 301.81,
+        "pe_90": 451.24
       },
       {
         "date": "2010-10-16",
         "price": 95.8,
-        "pe": 14.53,
-        "pe_10": 95.85,
-        "pe_25": 125.9,
-        "pe_50": 182.37,
-        "pe_75": 331.61,
-        "pe_90": 508.39
+        "pe": 15.77,
+        "pe_10": 90.88,
+        "pe_25": 117.43,
+        "pe_50": 168.52,
+        "pe_75": 314.01,
+        "pe_90": 469.47
       },
       {
         "date": "2010-11-15",
         "price": 90.5,
-        "pe": 13.78,
-        "pe_10": 95.47,
-        "pe_25": 125.41,
-        "pe_50": 181.66,
-        "pe_75": 330.31,
-        "pe_90": 506.41
+        "pe": 14.35,
+        "pe_10": 94.35,
+        "pe_25": 121.91,
+        "pe_50": 174.95,
+        "pe_75": 325.99,
+        "pe_90": 487.39
       },
       {
         "date": "2010-12-16",
         "price": 112.0,
         "pe": 17.13,
-        "pe_10": 95.05,
-        "pe_25": 124.85,
-        "pe_50": 180.85,
-        "pe_75": 328.84,
-        "pe_90": 504.15
+        "pe_10": 97.81,
+        "pe_25": 126.38,
+        "pe_50": 181.37,
+        "pe_75": 337.96,
+        "pe_90": 505.29
       },
       {
         "date": "2011-01-16",
         "price": 115.0,
-        "pe": 16.96,
-        "pe_10": 98.57,
-        "pe_25": 129.48,
-        "pe_50": 187.55,
-        "pe_75": 341.03,
-        "pe_90": 522.84
+        "pe": 16.34,
+        "pe_10": 105.29,
+        "pe_25": 136.04,
+        "pe_50": 195.23,
+        "pe_75": 363.79,
+        "pe_90": 543.91
       },
       {
         "date": "2011-02-14",
         "price": 137.0,
-        "pe": 19.5,
-        "pe_10": 102.13,
-        "pe_25": 134.15,
-        "pe_50": 194.33,
-        "pe_75": 353.35,
-        "pe_90": 541.73
+        "pe": 18.19,
+        "pe_10": 112.67,
+        "pe_25": 145.59,
+        "pe_50": 208.93,
+        "pe_75": 389.31,
+        "pe_90": 582.06
       },
       {
         "date": "2011-03-16",
         "price": 168.5,
-        "pe": 23.19,
-        "pe_10": 105.63,
-        "pe_25": 138.75,
-        "pe_50": 200.98,
-        "pe_75": 365.45,
-        "pe_90": 560.27
+        "pe": 20.98,
+        "pe_10": 120.15,
+        "pe_25": 155.25,
+        "pe_50": 222.79,
+        "pe_75": 415.15,
+        "pe_90": 620.69
       },
       {
         "date": "2011-04-15",
         "price": 141.5,
-        "pe": 18.84,
-        "pe_10": 109.18,
-        "pe_25": 143.42,
-        "pe_50": 207.74,
-        "pe_75": 377.75,
-        "pe_90": 579.13
+        "pe": 17.17,
+        "pe_10": 123.29,
+        "pe_25": 159.3,
+        "pe_50": 228.61,
+        "pe_75": 425.98,
+        "pe_90": 636.89
       },
       {
         "date": "2011-05-16",
         "price": 145.0,
-        "pe": 18.7,
-        "pe_10": 112.72,
-        "pe_25": 148.06,
-        "pe_50": 214.48,
-        "pe_75": 389.99,
-        "pe_90": 597.9
+        "pe": 17.16,
+        "pe_10": 126.41,
+        "pe_25": 163.34,
+        "pe_50": 234.4,
+        "pe_75": 436.77,
+        "pe_90": 653.02
       },
       {
         "date": "2011-06-15",
         "price": 158.5,
-        "pe": 19.82,
-        "pe_10": 116.25,
-        "pe_25": 152.7,
-        "pe_50": 221.2,
-        "pe_75": 402.21,
-        "pe_90": 616.63
+        "pe": 18.3,
+        "pe_10": 129.57,
+        "pe_25": 167.42,
+        "pe_50": 240.26,
+        "pe_75": 447.7,
+        "pe_90": 669.36
       },
       {
         "date": "2011-07-16",
         "price": 139.0,
-        "pe": 16.87,
-        "pe_10": 119.78,
-        "pe_25": 157.33,
-        "pe_50": 227.9,
-        "pe_75": 414.4,
-        "pe_90": 635.33
+        "pe": 15.42,
+        "pe_10": 134.85,
+        "pe_25": 174.25,
+        "pe_50": 250.06,
+        "pe_75": 465.95,
+        "pe_90": 696.64
       },
       {
         "date": "2011-08-16",
         "price": 115.0,
-        "pe": 13.56,
-        "pe_10": 123.29,
-        "pe_25": 161.94,
-        "pe_50": 234.58,
-        "pe_75": 426.54,
-        "pe_90": 653.94
+        "pe": 12.27,
+        "pe_10": 140.21,
+        "pe_25": 181.17,
+        "pe_50": 259.99,
+        "pe_75": 484.46,
+        "pe_90": 724.32
       },
       {
         "date": "2011-09-15",
         "price": 128.5,
-        "pe": 14.73,
-        "pe_10": 126.82,
-        "pe_25": 166.58,
-        "pe_50": 241.3,
-        "pe_75": 438.76,
-        "pe_90": 672.67
+        "pe": 13.21,
+        "pe_10": 145.52,
+        "pe_25": 188.03,
+        "pe_50": 269.84,
+        "pe_75": 502.81,
+        "pe_90": 751.76
       },
       {
         "date": "2011-10-16",
         "price": 135.0,
-        "pe": 15.06,
-        "pe_10": 130.31,
-        "pe_25": 171.17,
-        "pe_50": 247.95,
-        "pe_75": 450.85,
-        "pe_90": 691.21
+        "pe": 14.01,
+        "pe_10": 144.15,
+        "pe_25": 186.26,
+        "pe_50": 267.3,
+        "pe_75": 498.08,
+        "pe_90": 744.69
       },
       {
         "date": "2011-11-15",
         "price": 121.0,
-        "pe": 13.14,
-        "pe_10": 133.86,
-        "pe_25": 175.84,
-        "pe_50": 254.71,
-        "pe_75": 463.14,
-        "pe_90": 710.05
+        "pe": 12.68,
+        "pe_10": 142.76,
+        "pe_25": 184.46,
+        "pe_50": 264.71,
+        "pe_75": 493.26,
+        "pe_90": 737.47
       },
       {
         "date": "2011-12-16",
         "price": 143.5,
         "pe": 15.19,
-        "pe_10": 137.33,
-        "pe_25": 180.39,
-        "pe_50": 261.3,
-        "pe_75": 475.14,
-        "pe_90": 728.44
+        "pe_10": 141.33,
+        "pe_25": 182.61,
+        "pe_50": 262.06,
+        "pe_75": 488.32,
+        "pe_90": 730.08
       },
       {
         "date": "2012-01-16",
         "price": 148.0,
-        "pe": 16.56,
-        "pe_10": 129.92,
-        "pe_25": 170.66,
-        "pe_50": 247.2,
-        "pe_75": 449.5,
-        "pe_90": 689.13
+        "pe": 16.57,
+        "pe_10": 133.62,
+        "pe_25": 172.65,
+        "pe_50": 247.77,
+        "pe_75": 461.68,
+        "pe_90": 690.27
       },
       {
         "date": "2012-02-15",
         "price": 152.5,
-        "pe": 18.1,
-        "pe_10": 122.48,
-        "pe_25": 160.88,
-        "pe_50": 233.05,
-        "pe_75": 423.76,
-        "pe_90": 649.67
+        "pe": 18.13,
+        "pe_10": 125.84,
+        "pe_25": 162.59,
+        "pe_50": 233.33,
+        "pe_75": 434.79,
+        "pe_90": 650.06
       },
       {
         "date": "2012-03-16",
         "price": 148.5,
-        "pe": 18.76,
-        "pe_10": 115.07,
-        "pe_25": 151.15,
-        "pe_50": 218.95,
-        "pe_75": 398.12,
-        "pe_90": 610.37
+        "pe": 18.82,
+        "pe_10": 118.04,
+        "pe_25": 152.52,
+        "pe_50": 218.88,
+        "pe_75": 407.86,
+        "pe_90": 609.8
       },
       {
         "date": "2012-04-15",
         "price": 135.0,
-        "pe": 18.24,
-        "pe_10": 107.59,
-        "pe_25": 141.33,
-        "pe_50": 204.72,
-        "pe_75": 372.25,
-        "pe_90": 570.7
+        "pe": 18.06,
+        "pe_10": 111.83,
+        "pe_25": 144.49,
+        "pe_50": 207.36,
+        "pe_75": 386.39,
+        "pe_90": 577.69
       },
       {
         "date": "2012-05-16",
         "price": 133.5,
-        "pe": 19.38,
-        "pe_10": 100.14,
-        "pe_25": 131.54,
-        "pe_50": 190.54,
-        "pe_75": 346.46,
-        "pe_90": 531.16
+        "pe": 18.92,
+        "pe_10": 105.56,
+        "pe_25": 136.39,
+        "pe_50": 195.73,
+        "pe_75": 364.73,
+        "pe_90": 545.3
       },
       {
         "date": "2012-06-15",
         "price": 133.0,
-        "pe": 20.85,
-        "pe_10": 92.73,
-        "pe_25": 121.81,
-        "pe_50": 176.44,
-        "pe_75": 320.83,
-        "pe_90": 491.86
+        "pe": 20.03,
+        "pe_10": 99.33,
+        "pe_25": 128.35,
+        "pe_50": 184.19,
+        "pe_75": 343.22,
+        "pe_90": 513.16
       },
       {
         "date": "2012-07-16",
         "price": 107.5,
-        "pe": 18.33,
-        "pe_10": 85.26,
-        "pe_25": 111.99,
-        "pe_50": 162.22,
-        "pe_75": 294.97,
-        "pe_90": 452.22
+        "pe": 17.66,
+        "pe_10": 91.06,
+        "pe_25": 117.67,
+        "pe_50": 168.86,
+        "pe_75": 314.65,
+        "pe_90": 470.43
       },
       {
         "date": "2012-08-16",
         "price": 107.5,
-        "pe": 20.08,
-        "pe_10": 77.83,
-        "pe_25": 102.23,
-        "pe_50": 148.08,
-        "pe_75": 269.26,
-        "pe_90": 412.8
+        "pe": 19.43,
+        "pe_10": 82.77,
+        "pe_25": 106.95,
+        "pe_50": 153.48,
+        "pe_75": 285.98,
+        "pe_90": 427.58
       },
       {
         "date": "2012-09-15",
         "price": 120.0,
-        "pe": 24.79,
-        "pe_10": 70.37,
-        "pe_25": 92.43,
-        "pe_50": 133.89,
-        "pe_75": 243.46,
-        "pe_90": 373.25
+        "pe": 24.1,
+        "pe_10": 74.49,
+        "pe_25": 96.25,
+        "pe_50": 138.12,
+        "pe_75": 257.38,
+        "pe_90": 384.81
       },
       {
         "date": "2012-10-16",
         "price": 86.2,
-        "pe": 19.91,
-        "pe_10": 62.94,
-        "pe_25": 82.67,
-        "pe_50": 119.75,
-        "pe_75": 217.75,
-        "pe_90": 333.84
+        "pe": 19.49,
+        "pe_10": 66.16,
+        "pe_25": 85.49,
+        "pe_50": 122.69,
+        "pe_75": 228.61,
+        "pe_90": 341.8
       },
       {
         "date": "2012-11-15",
         "price": 77.4,
-        "pe": 20.28,
-        "pe_10": 55.48,
-        "pe_25": 72.88,
-        "pe_50": 105.57,
-        "pe_75": 191.95,
-        "pe_90": 294.29
+        "pe": 20.03,
+        "pe_10": 57.81,
+        "pe_25": 74.7,
+        "pe_50": 107.19,
+        "pe_75": 199.74,
+        "pe_90": 298.63
       },
       {
         "date": "2012-12-16",
         "price": 80.4,
         "pe": 24.32,
-        "pe_10": 48.06,
-        "pe_25": 63.13,
-        "pe_50": 91.44,
-        "pe_75": 166.27,
-        "pe_90": 254.91
+        "pe_10": 49.46,
+        "pe_25": 63.9,
+        "pe_50": 91.71,
+        "pe_75": 170.88,
+        "pe_90": 255.49
       },
       {
         "date": "2013-01-16",
         "price": 75.6,
-        "pe": 24.46,
-        "pe_10": 44.93,
-        "pe_25": 59.02,
-        "pe_50": 85.49,
-        "pe_75": 155.45,
-        "pe_90": 238.32
+        "pe": 30.56,
+        "pe_10": 37.01,
+        "pe_25": 47.82,
+        "pe_50": 68.62,
+        "pe_75": 127.87,
+        "pe_90": 191.18
       },
       {
         "date": "2013-02-14",
         "price": 71.3,
-        "pe": 24.79,
-        "pe_10": 41.81,
-        "pe_25": 54.92,
-        "pe_50": 79.55,
-        "pe_75": 144.66,
-        "pe_90": 221.77
+        "pe": 43.43,
+        "pe_10": 24.56,
+        "pe_25": 31.73,
+        "pe_50": 45.54,
+        "pe_75": 84.86,
+        "pe_90": 126.88
       },
       {
         "date": "2013-03-16",
         "price": 71.1,
-        "pe": 26.71,
-        "pe_10": 38.7,
-        "pe_25": 50.83,
-        "pe_50": 73.63,
-        "pe_75": 133.88,
-        "pe_90": 205.26
+        "pe": 87.78,
+        "pe_10": 12.12,
+        "pe_25": 15.66,
+        "pe_50": 22.47,
+        "pe_75": 41.87,
+        "pe_90": 62.6
       },
       {
         "date": "2013-04-15",
         "price": 52.4,
-        "pe": 21.41,
-        "pe_10": 35.58,
-        "pe_25": 46.73,
-        "pe_50": 67.7,
-        "pe_75": 123.09,
-        "pe_90": 188.72
+        "pe": 65.23,
+        "pe_10": 12.02,
+        "pe_25": 15.53,
+        "pe_50": 22.28,
+        "pe_75": 41.52,
+        "pe_90": 62.08
       },
       {
         "date": "2013-05-16",
         "price": 54.1,
-        "pe": 24.24,
-        "pe_10": 32.44,
-        "pe_25": 42.62,
-        "pe_50": 61.73,
-        "pe_75": 112.25,
-        "pe_90": 172.09
+        "pe": 67.91,
+        "pe_10": 11.92,
+        "pe_25": 15.4,
+        "pe_50": 22.1,
+        "pe_75": 41.18,
+        "pe_90": 61.57
       },
       {
         "date": "2013-06-15",
         "price": 54.3,
-        "pe": 26.91,
-        "pe_10": 29.33,
-        "pe_25": 38.53,
-        "pe_50": 55.81,
-        "pe_75": 101.49,
-        "pe_90": 155.59
+        "pe": 68.73,
+        "pe_10": 11.82,
+        "pe_25": 15.27,
+        "pe_50": 21.92,
+        "pe_75": 40.84,
+        "pe_90": 61.06
       },
       {
         "date": "2013-07-16",
         "price": 43.8,
-        "pe": 24.29,
-        "pe_10": 26.21,
-        "pe_25": 34.43,
-        "pe_50": 49.88,
-        "pe_75": 90.69,
-        "pe_90": 139.04
+        "pe": 66.36,
+        "pe_10": 9.87,
+        "pe_25": 12.76,
+        "pe_50": 18.31,
+        "pe_75": 34.12,
+        "pe_90": 51.01
       },
       {
         "date": "2013-08-16",
         "price": 55.2,
-        "pe": 34.75,
-        "pe_10": 23.09,
-        "pe_25": 30.33,
-        "pe_50": 43.94,
-        "pe_75": 79.89,
-        "pe_90": 122.49
+        "pe": 104.2,
+        "pe_10": 7.93,
+        "pe_25": 10.24,
+        "pe_50": 14.7,
+        "pe_75": 27.38,
+        "pe_90": 40.94
       },
       {
         "date": "2013-09-15",
         "price": 52.3,
-        "pe": 38.07,
-        "pe_10": 19.97,
-        "pe_25": 26.23,
-        "pe_50": 38.0,
-        "pe_75": 69.09,
-        "pe_90": 105.93
+        "pe": 130.7,
+        "pe_10": 5.99,
+        "pe_25": 7.73,
+        "pe_50": 11.1,
+        "pe_75": 20.68,
+        "pe_90": 30.92
       },
       {
         "date": "2013-10-16",
         "price": 52.4,
-        "pe": 45.2,
-        "pe_10": 16.85,
-        "pe_25": 22.14,
-        "pe_50": 32.07,
-        "pe_75": 58.31,
-        "pe_90": 89.39
+        "pe": 102.7,
+        "pe_10": 7.63,
+        "pe_25": 9.86,
+        "pe_50": 14.15,
+        "pe_75": 26.37,
+        "pe_90": 39.43
       },
       {
         "date": "2013-11-15",
         "price": 46.0,
-        "pe": 48.7,
-        "pe_10": 13.73,
-        "pe_25": 18.04,
-        "pe_50": 26.13,
-        "pe_75": 47.51,
-        "pe_90": 72.83
+        "pe": 74.19,
+        "pe_10": 9.28,
+        "pe_25": 11.99,
+        "pe_50": 17.2,
+        "pe_75": 32.05,
+        "pe_90": 47.92
       },
       {
         "date": "2013-12-16",
         "price": 48.95,
         "pe": 67.05,
-        "pe_10": 10.61,
-        "pe_25": 13.94,
-        "pe_50": 20.19,
-        "pe_75": 36.72,
-        "pe_90": 56.29
+        "pe_10": 10.92,
+        "pe_25": 14.11,
+        "pe_50": 20.25,
+        "pe_75": 37.74,
+        "pe_90": 56.42
       },
       {
         "date": "2014-01-16",
         "price": 51.3,
-        "pe": 71.75,
-        "pe_10": 10.39,
-        "pe_25": 13.65,
-        "pe_50": 19.78,
-        "pe_75": 35.96,
-        "pe_90": 55.13
+        "pe": 52.71,
+        "pe_10": 14.56,
+        "pe_25": 18.81,
+        "pe_50": 27.0,
+        "pe_75": 50.31,
+        "pe_90": 75.21
       },
       {
         "date": "2014-02-14",
         "price": 54.2,
-        "pe": 77.43,
-        "pe_10": 10.18,
-        "pe_25": 13.37,
-        "pe_50": 19.36,
-        "pe_75": 35.21,
-        "pe_90": 53.97
+        "pe": 44.55,
+        "pe_10": 18.2,
+        "pe_25": 23.52,
+        "pe_50": 33.75,
+        "pe_75": 62.89,
+        "pe_90": 94.02
       },
       {
         "date": "2014-03-16",
         "price": 53.2,
-        "pe": 77.66,
-        "pe_10": 9.96,
-        "pe_25": 13.08,
-        "pe_50": 18.95,
-        "pe_75": 34.45,
-        "pe_90": 52.82
+        "pe": 36.44,
+        "pe_10": 21.84,
+        "pe_25": 28.22,
+        "pe_50": 40.5,
+        "pe_75": 75.46,
+        "pe_90": 112.83
       },
       {
         "date": "2014-04-15",
         "price": 59.0,
-        "pe": 88.06,
-        "pe_10": 9.74,
-        "pe_25": 12.79,
-        "pe_50": 18.53,
-        "pe_75": 33.7,
-        "pe_90": 51.66
+        "pe": 51.01,
+        "pe_10": 17.3,
+        "pe_25": 22.36,
+        "pe_50": 32.09,
+        "pe_75": 59.79,
+        "pe_90": 89.39
       },
       {
         "date": "2014-05-16",
         "price": 57.4,
-        "pe": 87.63,
-        "pe_10": 9.52,
-        "pe_25": 12.51,
-        "pe_50": 18.12,
-        "pe_75": 32.94,
-        "pe_90": 50.51
+        "pe": 67.27,
+        "pe_10": 12.77,
+        "pe_25": 16.49,
+        "pe_50": 23.67,
+        "pe_75": 44.11,
+        "pe_90": 65.94
       },
       {
         "date": "2014-06-15",
         "price": 57.5,
-        "pe": 89.84,
-        "pe_10": 9.3,
-        "pe_25": 12.22,
-        "pe_50": 17.7,
-        "pe_75": 32.19,
-        "pe_90": 49.35
+        "pe": 104.5,
+        "pe_10": 8.23,
+        "pe_25": 10.64,
+        "pe_50": 15.26,
+        "pe_75": 28.44,
+        "pe_90": 42.52
       },
       {
         "date": "2014-07-16",
         "price": 50.2,
-        "pe": 80.32,
-        "pe_10": 9.09,
-        "pe_25": 11.93,
-        "pe_50": 17.29,
-        "pe_75": 31.43,
-        "pe_90": 48.19
+        "pe": 81.85,
+        "pe_10": 9.18,
+        "pe_25": 11.86,
+        "pe_50": 17.01,
+        "pe_75": 31.7,
+        "pe_90": 47.4
       },
       {
         "date": "2014-08-16",
         "price": 52.6,
-        "pe": 86.23,
-        "pe_10": 8.87,
-        "pe_25": 11.65,
-        "pe_50": 16.87,
-        "pe_75": 30.68,
-        "pe_90": 47.04
+        "pe": 77.73,
+        "pe_10": 10.12,
+        "pe_25": 13.08,
+        "pe_50": 18.77,
+        "pe_75": 34.98,
+        "pe_90": 52.3
       },
       {
         "date": "2014-09-15",
         "price": 56.6,
-        "pe": 95.13,
-        "pe_10": 8.65,
-        "pe_25": 11.36,
-        "pe_50": 16.46,
-        "pe_75": 29.92,
-        "pe_90": 45.88
+        "pe": 76.49,
+        "pe_10": 11.07,
+        "pe_25": 14.3,
+        "pe_50": 20.53,
+        "pe_75": 38.25,
+        "pe_90": 57.19
       },
       {
         "date": "2014-10-16",
         "price": 49.7,
-        "pe": 85.69,
-        "pe_10": 8.43,
-        "pe_25": 11.08,
-        "pe_50": 16.04,
-        "pe_75": 29.17,
-        "pe_90": 44.72
+        "pe": 73.45,
+        "pe_10": 10.12,
+        "pe_25": 13.08,
+        "pe_50": 18.77,
+        "pe_75": 34.98,
+        "pe_90": 52.29
       },
       {
         "date": "2014-11-15",
         "price": 49.45,
-        "pe": 87.52,
-        "pe_10": 8.21,
-        "pe_25": 10.79,
-        "pe_50": 15.63,
-        "pe_75": 28.42,
-        "pe_90": 43.57
+        "pe": 80.62,
+        "pe_10": 9.18,
+        "pe_25": 11.86,
+        "pe_50": 17.01,
+        "pe_75": 31.71,
+        "pe_90": 47.4
       },
       {
         "date": "2014-12-16",
         "price": 50.0,
         "pe": 90.91,
-        "pe_10": 8.0,
-        "pe_25": 10.5,
-        "pe_50": 15.21,
-        "pe_75": 27.66,
-        "pe_90": 42.41
+        "pe_10": 8.23,
+        "pe_25": 10.63,
+        "pe_50": 15.26,
+        "pe_75": 28.43,
+        "pe_90": 42.5
       },
       {
         "date": "2015-01-16",
         "price": 48.1,
-        "pe": 80.28,
-        "pe_10": 8.71,
-        "pe_25": 11.44,
-        "pe_50": 16.57,
-        "pe_75": 30.13,
-        "pe_90": 46.2
+        "pe": 63.29,
+        "pe_10": 11.37,
+        "pe_25": 14.69,
+        "pe_50": 21.08,
+        "pe_75": 39.28,
+        "pe_90": 58.73
       },
       {
         "date": "2015-02-14",
         "price": 48.3,
-        "pe": 74.5,
-        "pe_10": 9.42,
-        "pe_25": 12.38,
-        "pe_50": 17.93,
-        "pe_75": 32.61,
-        "pe_90": 49.99
+        "pe": 49.79,
+        "pe_10": 14.51,
+        "pe_25": 18.75,
+        "pe_50": 26.91,
+        "pe_75": 50.14,
+        "pe_90": 74.97
       },
       {
         "date": "2015-03-16",
         "price": 45.8,
-        "pe": 65.66,
-        "pe_10": 10.14,
-        "pe_25": 13.32,
-        "pe_50": 19.29,
-        "pe_75": 35.08,
-        "pe_90": 53.79
+        "pe": 38.81,
+        "pe_10": 17.65,
+        "pe_25": 22.81,
+        "pe_50": 32.74,
+        "pe_75": 61.0,
+        "pe_90": 91.2
       },
       {
         "date": "2015-04-15",
         "price": 39.5,
-        "pe": 52.9,
-        "pe_10": 10.85,
-        "pe_25": 14.26,
-        "pe_50": 20.65,
-        "pe_75": 37.55,
-        "pe_90": 57.58
+        "pe": 31.02,
+        "pe_10": 19.05,
+        "pe_25": 24.61,
+        "pe_50": 35.32,
+        "pe_75": 65.82,
+        "pe_90": 98.41
       },
       {
         "date": "2015-05-16",
         "price": 36.3,
-        "pe": 45.61,
-        "pe_10": 11.57,
-        "pe_25": 15.2,
-        "pe_50": 22.01,
-        "pe_75": 40.03,
-        "pe_90": 61.37
+        "pe": 26.56,
+        "pe_10": 20.45,
+        "pe_25": 26.42,
+        "pe_50": 37.91,
+        "pe_75": 70.65,
+        "pe_90": 105.62
       },
       {
         "date": "2015-06-15",
         "price": 34.0,
-        "pe": 40.24,
-        "pe_10": 12.28,
-        "pe_25": 16.13,
-        "pe_50": 23.37,
-        "pe_75": 42.5,
-        "pe_90": 65.15
+        "pe": 23.29,
+        "pe_10": 21.84,
+        "pe_25": 28.22,
+        "pe_50": 40.5,
+        "pe_75": 75.46,
+        "pe_90": 112.82
       },
       {
         "date": "2015-07-16",
         "price": 31.8,
-        "pe": 35.56,
-        "pe_10": 13.0,
-        "pe_25": 17.08,
-        "pe_50": 24.74,
-        "pe_75": 44.98,
-        "pe_90": 68.95
+        "pe": 22.55,
+        "pe_10": 21.1,
+        "pe_25": 27.26,
+        "pe_50": 39.12,
+        "pe_75": 72.89,
+        "pe_90": 108.98
       },
       {
         "date": "2015-08-16",
         "price": 26.55,
-        "pe": 28.14,
-        "pe_10": 13.72,
-        "pe_25": 18.02,
-        "pe_50": 26.1,
-        "pe_75": 47.45,
-        "pe_90": 72.75
+        "pe": 19.52,
+        "pe_10": 20.35,
+        "pe_25": 26.29,
+        "pe_50": 37.73,
+        "pe_75": 70.31,
+        "pe_90": 105.11
       },
       {
         "date": "2015-09-15",
         "price": 27.4,
-        "pe": 27.61,
-        "pe_10": 14.43,
-        "pe_25": 18.95,
-        "pe_50": 27.45,
-        "pe_75": 49.91,
-        "pe_90": 76.52
+        "pe": 20.92,
+        "pe_10": 19.59,
+        "pe_25": 25.32,
+        "pe_50": 36.33,
+        "pe_75": 67.7,
+        "pe_90": 101.22
       },
       {
         "date": "2015-10-16",
         "price": 31.5,
-        "pe": 30.24,
-        "pe_10": 15.14,
-        "pe_25": 19.89,
-        "pe_50": 28.81,
-        "pe_75": 52.39,
-        "pe_90": 80.32
+        "pe": 25.13,
+        "pe_10": 18.75,
+        "pe_25": 24.23,
+        "pe_50": 34.77,
+        "pe_75": 64.79,
+        "pe_90": 96.87
       },
       {
         "date": "2015-11-15",
         "price": 28.55,
-        "pe": 26.17,
-        "pe_10": 15.86,
-        "pe_25": 20.83,
-        "pe_50": 30.18,
-        "pe_75": 54.87,
-        "pe_90": 84.12
+        "pe": 23.86,
+        "pe_10": 17.9,
+        "pe_25": 23.13,
+        "pe_50": 33.19,
+        "pe_75": 61.85,
+        "pe_90": 92.47
       },
       {
         "date": "2015-12-16",
         "price": 24.85,
         "pe": 21.8,
-        "pe_10": 16.57,
-        "pe_25": 21.77,
-        "pe_50": 31.53,
-        "pe_75": 57.33,
-        "pe_90": 87.9
+        "pe_10": 17.05,
+        "pe_25": 22.03,
+        "pe_50": 31.62,
+        "pe_75": 58.92,
+        "pe_90": 88.09
       },
       {
         "date": "2016-01-16",
         "price": 22.6,
-        "pe": 23.48,
-        "pe_10": 13.99,
-        "pe_25": 18.38,
-        "pe_50": 26.62,
-        "pe_75": 48.41,
-        "pe_90": 74.22
+        "pe": 23.62,
+        "pe_10": 14.31,
+        "pe_25": 18.5,
+        "pe_50": 26.54,
+        "pe_75": 49.46,
+        "pe_90": 73.94
       },
       {
         "date": "2016-02-15",
         "price": 24.4,
-        "pe": 31.08,
-        "pe_10": 11.41,
-        "pe_25": 14.99,
-        "pe_50": 21.72,
-        "pe_75": 39.49,
-        "pe_90": 60.54
+        "pe": 31.55,
+        "pe_10": 11.57,
+        "pe_25": 14.95,
+        "pe_50": 21.45,
+        "pe_75": 39.98,
+        "pe_90": 59.77
       },
       {
         "date": "2016-03-16",
         "price": 22.2,
-        "pe": 36.54,
+        "pe": 37.63,
         "pe_10": 8.83,
-        "pe_25": 11.6,
-        "pe_50": 16.8,
-        "pe_75": 30.56,
-        "pe_90": 46.85
+        "pe_25": 11.4,
+        "pe_50": 16.37,
+        "pe_75": 30.49,
+        "pe_90": 45.59
       },
       {
         "date": "2016-04-15",
         "price": 33.8,
-        "pe": 78.6,
-        "pe_10": 6.25,
-        "pe_25": 8.21,
-        "pe_50": 11.89,
-        "pe_75": 21.63,
-        "pe_90": 33.16
+        "pe": 169.0,
+        "pe_10": 2.99,
+        "pe_25": 3.87,
+        "pe_50": 5.55,
+        "pe_75": 10.34,
+        "pe_90": 15.46
       },
       {
-        "date": "2016-05-16",
-        "price": 26.8,
-        "pe": 106.1,
-        "pe_10": 3.67,
-        "pe_25": 4.82,
-        "pe_50": 6.99,
-        "pe_75": 12.7,
-        "pe_90": 19.48
-      },
-      {
-        "date": "2016-06-15",
-        "price": 31.2,
-        "pe": 416.0,
-        "pe_10": 1.09,
-        "pe_25": 1.43,
-        "pe_50": 2.07,
-        "pe_75": 3.77,
-        "pe_90": 5.78
+        "date": "2017-06-15",
+        "price": 40.0,
+        "pe": 166.7,
+        "pe_10": 3.59,
+        "pe_25": 4.64,
+        "pe_50": 6.66,
+        "pe_75": 12.4,
+        "pe_90": 18.54
       },
       {
         "date": "2017-07-16",
         "price": 53.0,
-        "pe": 333.0,
-        "pe_10": 2.31,
-        "pe_25": 3.04,
-        "pe_50": 4.4,
-        "pe_75": 8.0,
-        "pe_90": 12.27
+        "pe": 115.2,
+        "pe_10": 6.88,
+        "pe_25": 8.89,
+        "pe_50": 12.76,
+        "pe_75": 23.78,
+        "pe_90": 35.56
       },
       {
         "date": "2017-08-16",
         "price": 51.1,
-        "pe": 158.0,
-        "pe_10": 4.7,
-        "pe_25": 6.18,
-        "pe_50": 8.95,
-        "pe_75": 16.27,
-        "pe_90": 24.94
+        "pe": 75.15,
+        "pe_10": 10.17,
+        "pe_25": 13.14,
+        "pe_50": 18.86,
+        "pe_75": 35.15,
+        "pe_90": 52.55
       },
       {
         "date": "2017-09-15",
         "price": 55.0,
-        "pe": 112.8,
-        "pe_10": 7.09,
-        "pe_25": 9.31,
-        "pe_50": 13.49,
-        "pe_75": 24.52,
-        "pe_90": 37.6
+        "pe": 61.11,
+        "pe_10": 13.46,
+        "pe_25": 17.4,
+        "pe_50": 24.97,
+        "pe_75": 46.52,
+        "pe_90": 69.56
       },
       {
         "date": "2017-10-16",
         "price": 57.6,
-        "pe": 88.39,
-        "pe_10": 9.47,
-        "pe_25": 12.44,
-        "pe_50": 18.02,
-        "pe_75": 32.78,
-        "pe_90": 50.25
+        "pe": 62.16,
+        "pe_10": 13.86,
+        "pe_25": 17.91,
+        "pe_50": 25.71,
+        "pe_75": 47.9,
+        "pe_90": 71.61
       },
       {
         "date": "2017-11-15",
         "price": 55.7,
-        "pe": 68.27,
-        "pe_10": 11.86,
-        "pe_25": 15.58,
-        "pe_50": 22.57,
-        "pe_75": 41.03,
-        "pe_90": 62.91
+        "pe": 58.43,
+        "pe_10": 14.26,
+        "pe_25": 18.43,
+        "pe_50": 26.44,
+        "pe_75": 49.27,
+        "pe_90": 73.67
       },
       {
         "date": "2017-12-16",
         "price": 48.7,
         "pe": 49.69,
-        "pe_10": 14.25,
-        "pe_25": 18.71,
-        "pe_50": 27.11,
-        "pe_75": 49.29,
-        "pe_90": 75.57
+        "pe_10": 14.66,
+        "pe_25": 18.94,
+        "pe_50": 27.19,
+        "pe_75": 50.66,
+        "pe_90": 75.74
       },
       {
         "date": "2018-01-16",
         "price": 46.85,
-        "pe": 44.9,
-        "pe_10": 15.17,
-        "pe_25": 19.92,
-        "pe_50": 28.86,
-        "pe_75": 52.48,
-        "pe_90": 80.46
+        "pe": 46.39,
+        "pe_10": 15.11,
+        "pe_25": 19.52,
+        "pe_50": 28.02,
+        "pe_75": 52.2,
+        "pe_90": 78.05
       },
       {
         "date": "2018-02-14",
         "price": 40.3,
-        "pe": 36.42,
-        "pe_10": 16.09,
-        "pe_25": 21.13,
-        "pe_50": 30.61,
-        "pe_75": 55.65,
-        "pe_90": 85.32
+        "pe": 38.75,
+        "pe_10": 15.56,
+        "pe_25": 20.1,
+        "pe_50": 28.85,
+        "pe_75": 53.76,
+        "pe_90": 80.37
       },
       {
         "date": "2018-03-16",
         "price": 41.75,
-        "pe": 35.68,
-        "pe_10": 17.01,
-        "pe_25": 22.34,
-        "pe_50": 32.37,
-        "pe_75": 58.85,
-        "pe_90": 90.23
+        "pe": 39.02,
+        "pe_10": 16.01,
+        "pe_25": 20.68,
+        "pe_50": 29.68,
+        "pe_75": 55.31,
+        "pe_90": 82.69
       },
       {
         "date": "2018-04-15",
         "price": 36.4,
-        "pe": 29.51,
-        "pe_10": 17.93,
-        "pe_25": 23.55,
-        "pe_50": 34.12,
-        "pe_75": 62.04,
-        "pe_90": 95.11
+        "pe": 32.21,
+        "pe_10": 16.91,
+        "pe_25": 21.84,
+        "pe_50": 31.35,
+        "pe_75": 58.41,
+        "pe_90": 87.34
       },
       {
         "date": "2018-05-16",
         "price": 41.2,
-        "pe": 31.77,
-        "pe_10": 18.85,
-        "pe_25": 24.76,
-        "pe_50": 35.87,
-        "pe_75": 65.22,
-        "pe_90": 100.0
+        "pe": 34.62,
+        "pe_10": 17.8,
+        "pe_25": 23.0,
+        "pe_50": 33.01,
+        "pe_75": 61.51,
+        "pe_90": 91.97
       },
       {
         "date": "2018-06-15",
         "price": 41.0,
-        "pe": 30.15,
-        "pe_10": 19.77,
-        "pe_25": 25.97,
-        "pe_50": 37.61,
-        "pe_75": 68.39,
-        "pe_90": 104.86
+        "pe": 32.8,
+        "pe_10": 18.7,
+        "pe_25": 24.16,
+        "pe_50": 34.67,
+        "pe_75": 64.61,
+        "pe_90": 96.6
       },
       {
         "date": "2018-07-16",
         "price": 39.4,
-        "pe": 27.68,
-        "pe_10": 20.69,
-        "pe_25": 27.18,
-        "pe_50": 39.37,
-        "pe_75": 71.59,
-        "pe_90": 109.76
+        "pe": 28.21,
+        "pe_10": 20.89,
+        "pe_25": 27.0,
+        "pe_50": 38.74,
+        "pe_75": 72.19,
+        "pe_90": 107.94
       },
       {
         "date": "2018-08-16",
         "price": 38.9,
-        "pe": 26.17,
-        "pe_10": 21.61,
-        "pe_25": 28.38,
-        "pe_50": 41.11,
-        "pe_75": 74.76,
-        "pe_90": 114.62
+        "pe": 25.21,
+        "pe_10": 23.08,
+        "pe_25": 29.83,
+        "pe_50": 42.8,
+        "pe_75": 79.76,
+        "pe_90": 119.25
       },
       {
         "date": "2018-09-15",
         "price": 40.0,
-        "pe": 25.81,
-        "pe_10": 22.53,
-        "pe_25": 29.59,
-        "pe_50": 42.87,
-        "pe_75": 77.95,
-        "pe_90": 119.5
+        "pe": 23.67,
+        "pe_10": 25.28,
+        "pe_25": 32.67,
+        "pe_50": 46.88,
+        "pe_75": 87.35,
+        "pe_90": 130.6
       },
       {
         "date": "2018-10-16",
         "price": 29.2,
-        "pe": 18.1,
-        "pe_10": 23.45,
-        "pe_25": 30.81,
-        "pe_50": 44.62,
-        "pe_75": 81.14,
-        "pe_90": 124.4
+        "pe": 17.11,
+        "pe_10": 25.53,
+        "pe_25": 32.99,
+        "pe_50": 47.34,
+        "pe_75": 88.21,
+        "pe_90": 131.89
       },
       {
         "date": "2018-11-15",
         "price": 37.5,
-        "pe": 22.37,
-        "pe_10": 24.37,
-        "pe_25": 32.01,
-        "pe_50": 46.37,
-        "pe_75": 84.31,
-        "pe_90": 129.26
+        "pe": 21.76,
+        "pe_10": 25.78,
+        "pe_25": 33.31,
+        "pe_50": 47.81,
+        "pe_75": 89.08,
+        "pe_90": 133.18
       },
       {
         "date": "2018-12-16",
         "price": 35.6,
         "pe": 20.46,
-        "pe_10": 25.29,
-        "pe_25": 33.22,
-        "pe_50": 48.13,
-        "pe_75": 87.51,
-        "pe_90": 134.17
+        "pe_10": 26.03,
+        "pe_25": 33.63,
+        "pe_50": 48.27,
+        "pe_75": 89.94,
+        "pe_90": 134.47
       },
       {
         "date": "2019-01-16",
         "price": 40.2,
-        "pe": 22.48,
-        "pe_10": 26.0,
-        "pe_25": 34.15,
-        "pe_50": 49.46,
-        "pe_75": 89.94,
-        "pe_90": 137.89
+        "pe": 22.29,
+        "pe_10": 26.98,
+        "pe_25": 34.86,
+        "pe_50": 50.03,
+        "pe_75": 93.22,
+        "pe_90": 139.38
       },
       {
         "date": "2019-02-14",
         "price": 42.05,
-        "pe": 22.89,
-        "pe_10": 26.71,
-        "pe_25": 35.08,
-        "pe_50": 50.81,
-        "pe_75": 92.39,
-        "pe_90": 141.65
+        "pe": 22.53,
+        "pe_10": 27.92,
+        "pe_25": 36.08,
+        "pe_50": 51.77,
+        "pe_75": 96.47,
+        "pe_90": 144.24
       },
       {
         "date": "2019-03-16",
         "price": 47.35,
-        "pe": 25.12,
-        "pe_10": 27.4,
-        "pe_25": 35.99,
-        "pe_50": 52.14,
-        "pe_75": 94.8,
-        "pe_90": 145.34
+        "pe": 24.53,
+        "pe_10": 28.88,
+        "pe_25": 37.31,
+        "pe_50": 53.55,
+        "pe_75": 99.78,
+        "pe_90": 149.18
       },
       {
         "date": "2019-04-15",
         "price": 44.8,
-        "pe": 23.17,
-        "pe_10": 28.11,
-        "pe_25": 36.92,
-        "pe_50": 53.48,
-        "pe_75": 97.25,
-        "pe_90": 149.09
+        "pe": 22.4,
+        "pe_10": 29.92,
+        "pe_25": 38.66,
+        "pe_50": 55.48,
+        "pe_75": 103.38,
+        "pe_90": 154.56
       },
       {
         "date": "2019-05-16",
         "price": 40.3,
-        "pe": 20.34,
-        "pe_10": 28.8,
-        "pe_25": 37.83,
-        "pe_50": 54.8,
-        "pe_75": 99.65,
-        "pe_90": 152.78
+        "pe": 19.47,
+        "pe_10": 30.96,
+        "pe_25": 40.01,
+        "pe_50": 57.42,
+        "pe_75": 106.99,
+        "pe_90": 159.96
       },
       {
         "date": "2019-06-15",
         "price": 39.8,
-        "pe": 19.61,
-        "pe_10": 29.5,
-        "pe_25": 38.75,
-        "pe_50": 56.14,
-        "pe_75": 102.08,
-        "pe_90": 156.5
+        "pe": 18.6,
+        "pe_10": 32.01,
+        "pe_25": 41.36,
+        "pe_50": 59.36,
+        "pe_75": 110.61,
+        "pe_90": 165.37
       },
       {
         "date": "2019-07-16",
         "price": 41.25,
-        "pe": 19.85,
-        "pe_10": 30.21,
-        "pe_25": 39.68,
-        "pe_50": 57.48,
-        "pe_75": 104.52,
-        "pe_90": 160.24
+        "pe": 19.19,
+        "pe_10": 32.16,
+        "pe_25": 41.55,
+        "pe_50": 59.63,
+        "pe_75": 111.11,
+        "pe_90": 166.12
       },
       {
         "date": "2019-08-16",
         "price": 76.0,
-        "pe": 35.74,
-        "pe_10": 30.91,
-        "pe_25": 40.6,
-        "pe_50": 58.82,
-        "pe_75": 106.95,
-        "pe_90": 163.97
+        "pe": 35.19,
+        "pe_10": 32.31,
+        "pe_25": 41.75,
+        "pe_50": 59.91,
+        "pe_75": 111.64,
+        "pe_90": 166.91
       },
       {
         "date": "2019-09-15",
         "price": 56.1,
-        "pe": 25.79,
-        "pe_10": 31.62,
-        "pe_25": 41.54,
-        "pe_50": 60.17,
-        "pe_75": 109.4,
-        "pe_90": 167.73
+        "pe": 25.85,
+        "pe_10": 32.47,
+        "pe_25": 41.95,
+        "pe_50": 60.2,
+        "pe_75": 112.18,
+        "pe_90": 167.72
       },
       {
         "date": "2019-10-16",
         "price": 70.0,
-        "pe": 31.48,
-        "pe_10": 32.32,
-        "pe_25": 42.46,
-        "pe_50": 61.51,
-        "pe_75": 111.84,
-        "pe_90": 171.46
+        "pe": 31.53,
+        "pe_10": 33.21,
+        "pe_25": 42.91,
+        "pe_50": 61.59,
+        "pe_75": 114.76,
+        "pe_90": 171.57
       },
       {
         "date": "2019-11-15",
         "price": 62.8,
-        "pe": 27.64,
-        "pe_10": 33.03,
-        "pe_25": 43.39,
-        "pe_50": 62.85,
-        "pe_75": 114.27,
-        "pe_90": 175.19
+        "pe": 27.67,
+        "pe_10": 33.95,
+        "pe_25": 43.87,
+        "pe_50": 62.96,
+        "pe_75": 117.32,
+        "pe_90": 175.4
       },
       {
         "date": "2019-12-16",
         "price": 66.7,
         "pe": 28.75,
-        "pe_10": 33.73,
-        "pe_25": 44.3,
-        "pe_50": 64.17,
-        "pe_75": 116.68,
-        "pe_90": 178.89
+        "pe_10": 34.71,
+        "pe_25": 44.85,
+        "pe_50": 64.36,
+        "pe_75": 119.92,
+        "pe_90": 179.29
       },
       {
         "date": "2020-01-16",
         "price": 57.1,
-        "pe": 23.17,
-        "pe_10": 35.82,
-        "pe_25": 47.06,
-        "pe_50": 68.17,
-        "pe_75": 123.95,
-        "pe_90": 190.02
+        "pe": 23.96,
+        "pe_10": 35.65,
+        "pe_25": 46.07,
+        "pe_50": 66.11,
+        "pe_75": 123.18,
+        "pe_90": 184.17
       },
       {
         "date": "2020-02-15",
         "price": 58.4,
-        "pe": 22.39,
-        "pe_10": 37.92,
-        "pe_25": 49.81,
-        "pe_50": 72.15,
-        "pe_75": 131.18,
-        "pe_90": 201.12
+        "pe": 23.87,
+        "pe_10": 36.6,
+        "pe_25": 47.29,
+        "pe_50": 67.87,
+        "pe_75": 126.46,
+        "pe_90": 189.08
       },
       {
         "date": "2020-03-16",
         "price": 47.15,
-        "pe": 17.13,
-        "pe_10": 40.01,
-        "pe_25": 52.56,
-        "pe_50": 76.13,
-        "pe_75": 138.44,
-        "pe_90": 212.24
+        "pe": 18.78,
+        "pe_10": 37.56,
+        "pe_25": 48.53,
+        "pe_50": 69.65,
+        "pe_75": 129.78,
+        "pe_90": 194.03
       },
       {
         "date": "2020-04-15",
         "price": 61.9,
-        "pe": 21.37,
-        "pe_10": 42.11,
-        "pe_25": 55.31,
-        "pe_50": 80.12,
-        "pe_75": 145.68,
-        "pe_90": 223.35
+        "pe": 22.03,
+        "pe_10": 42.03,
+        "pe_25": 54.31,
+        "pe_50": 77.94,
+        "pe_75": 145.24,
+        "pe_90": 217.15
       },
       {
         "date": "2020-05-16",
         "price": 84.7,
-        "pe": 27.85,
-        "pe_10": 44.21,
-        "pe_25": 58.07,
-        "pe_50": 84.12,
-        "pe_75": 152.96,
-        "pe_90": 234.51
+        "pe": 27.23,
+        "pe_10": 46.53,
+        "pe_25": 60.13,
+        "pe_50": 86.29,
+        "pe_75": 160.78,
+        "pe_90": 240.39
       },
       {
         "date": "2020-06-15",
         "price": 94.6,
-        "pe": 29.7,
-        "pe_10": 46.3,
-        "pe_25": 60.82,
-        "pe_50": 88.1,
-        "pe_75": 160.2,
-        "pe_90": 245.6
+        "pe": 27.74,
+        "pe_10": 51.02,
+        "pe_25": 65.92,
+        "pe_50": 94.6,
+        "pe_75": 176.28,
+        "pe_90": 263.55
       },
       {
         "date": "2020-07-16",
         "price": 112.0,
-        "pe": 33.64,
-        "pe_10": 48.4,
-        "pe_25": 63.57,
-        "pe_50": 92.09,
-        "pe_75": 167.45,
-        "pe_90": 256.72
+        "pe": 30.52,
+        "pe_10": 54.9,
+        "pe_25": 70.94,
+        "pe_50": 101.8,
+        "pe_75": 189.69,
+        "pe_90": 283.6
       },
       {
         "date": "2020-08-16",
         "price": 101.5,
-        "pe": 29.22,
-        "pe_10": 50.5,
-        "pe_25": 66.33,
-        "pe_50": 96.08,
-        "pe_75": 174.71,
-        "pe_90": 267.85
+        "pe": 25.83,
+        "pe_10": 58.79,
+        "pe_25": 75.96,
+        "pe_50": 109.01,
+        "pe_75": 203.12,
+        "pe_90": 303.68
       },
       {
         "date": "2020-09-15",
         "price": 93.1,
-        "pe": 25.74,
-        "pe_10": 52.58,
-        "pe_25": 69.07,
-        "pe_50": 100.04,
-        "pe_75": 181.91,
-        "pe_90": 278.89
+        "pe": 22.22,
+        "pe_10": 62.68,
+        "pe_25": 80.99,
+        "pe_50": 116.23,
+        "pe_75": 216.58,
+        "pe_90": 323.81
       },
       {
         "date": "2020-10-16",
         "price": 88.6,
-        "pe": 23.55,
-        "pe_10": 54.69,
-        "pe_25": 71.84,
-        "pe_50": 104.06,
-        "pe_75": 189.22,
-        "pe_90": 290.1
+        "pe": 21.38,
+        "pe_10": 62.0,
+        "pe_25": 80.1,
+        "pe_50": 114.96,
+        "pe_75": 214.21,
+        "pe_90": 320.26
       },
       {
         "date": "2020-11-15",
         "price": 90.9,
-        "pe": 23.27,
-        "pe_10": 56.79,
-        "pe_25": 74.59,
-        "pe_50": 108.05,
-        "pe_75": 196.47,
-        "pe_90": 301.21
+        "pe": 22.19,
+        "pe_10": 61.28,
+        "pe_25": 79.18,
+        "pe_50": 113.64,
+        "pe_75": 211.74,
+        "pe_90": 316.58
       },
       {
         "date": "2020-12-16",
         "price": 109.5,
         "pe": 27.04,
-        "pe_10": 58.87,
-        "pe_25": 77.33,
-        "pe_50": 112.01,
-        "pe_75": 203.67,
-        "pe_90": 312.25
+        "pe_10": 60.58,
+        "pe_25": 78.28,
+        "pe_50": 112.33,
+        "pe_75": 209.32,
+        "pe_90": 312.96
       },
       {
         "date": "2021-01-16",
         "price": 90.0,
-        "pe": 21.39,
-        "pe_10": 61.17,
-        "pe_25": 80.34,
-        "pe_50": 116.38,
-        "pe_75": 211.62,
-        "pe_90": 324.44
+        "pe": 21.67,
+        "pe_10": 62.13,
+        "pe_25": 80.28,
+        "pe_50": 115.21,
+        "pe_75": 214.68,
+        "pe_90": 320.97
       },
       {
         "date": "2021-02-14",
         "price": 94.5,
-        "pe": 21.65,
-        "pe_10": 63.45,
-        "pe_25": 83.35,
-        "pe_50": 120.73,
-        "pe_75": 219.53,
-        "pe_90": 336.57
+        "pe": 22.2,
+        "pe_10": 63.68,
+        "pe_25": 82.28,
+        "pe_50": 118.08,
+        "pe_75": 220.03,
+        "pe_90": 328.97
       },
       {
         "date": "2021-03-16",
         "price": 93.8,
-        "pe": 20.74,
-        "pe_10": 65.75,
-        "pe_25": 86.36,
-        "pe_50": 125.1,
-        "pe_75": 227.47,
-        "pe_90": 348.73
+        "pe": 21.51,
+        "pe_10": 65.24,
+        "pe_25": 84.29,
+        "pe_50": 120.97,
+        "pe_75": 225.41,
+        "pe_90": 337.01
       },
       {
         "date": "2021-04-15",
         "price": 87.7,
-        "pe": 18.74,
-        "pe_10": 68.03,
-        "pe_25": 89.36,
-        "pe_50": 129.44,
-        "pe_75": 235.37,
-        "pe_90": 360.85
+        "pe": 21.03,
+        "pe_10": 62.39,
+        "pe_25": 80.61,
+        "pe_50": 115.68,
+        "pe_75": 215.56,
+        "pe_90": 322.28
       },
       {
         "date": "2021-05-16",
         "price": 78.1,
-        "pe": 16.14,
-        "pe_10": 70.34,
-        "pe_25": 92.4,
-        "pe_50": 133.84,
-        "pe_75": 243.37,
-        "pe_90": 373.12
+        "pe": 19.62,
+        "pe_10": 59.55,
+        "pe_25": 76.95,
+        "pe_50": 110.42,
+        "pe_75": 205.76,
+        "pe_90": 307.63
       },
       {
         "date": "2021-06-15",
         "price": 79.5,
-        "pe": 15.92,
-        "pe_10": 72.59,
-        "pe_25": 95.36,
-        "pe_50": 138.13,
-        "pe_75": 251.16,
-        "pe_90": 385.06
+        "pe": 20.98,
+        "pe_10": 56.69,
+        "pe_25": 73.25,
+        "pe_50": 105.12,
+        "pe_75": 195.87,
+        "pe_90": 292.85
       },
       {
         "date": "2021-07-16",
         "price": 100.0,
-        "pe": 19.41,
-        "pe_10": 74.89,
-        "pe_25": 98.38,
-        "pe_50": 142.5,
-        "pe_75": 259.12,
-        "pe_90": 397.26
+        "pe": 26.09,
+        "pe_10": 57.34,
+        "pe_25": 74.09,
+        "pe_50": 106.32,
+        "pe_75": 198.12,
+        "pe_90": 296.21
       },
       {
         "date": "2021-08-16",
         "price": 72.6,
-        "pe": 13.67,
-        "pe_10": 77.2,
-        "pe_25": 101.41,
-        "pe_50": 146.9,
-        "pe_75": 267.11,
-        "pe_90": 409.51
+        "pe": 18.73,
+        "pe_10": 57.99,
+        "pe_25": 74.93,
+        "pe_50": 107.52,
+        "pe_75": 200.36,
+        "pe_90": 299.56
       },
       {
         "date": "2021-09-15",
         "price": 73.2,
-        "pe": 13.39,
-        "pe_10": 79.47,
-        "pe_25": 104.39,
-        "pe_50": 151.21,
-        "pe_75": 274.95,
-        "pe_90": 421.53
+        "pe": 18.67,
+        "pe_10": 58.65,
+        "pe_25": 75.79,
+        "pe_50": 108.76,
+        "pe_75": 202.66,
+        "pe_90": 303.0
       },
       {
         "date": "2021-10-16",
         "price": 78.2,
-        "pe": 13.9,
-        "pe_10": 81.78,
-        "pe_25": 107.43,
-        "pe_50": 155.61,
-        "pe_75": 282.95,
-        "pe_90": 433.8
+        "pe": 17.02,
+        "pe_10": 68.74,
+        "pe_25": 88.81,
+        "pe_50": 127.45,
+        "pe_75": 237.49,
+        "pe_90": 355.08
       },
       {
         "date": "2021-11-15",
         "price": 85.6,
-        "pe": 14.8,
-        "pe_10": 84.08,
-        "pe_25": 110.44,
-        "pe_50": 159.98,
-        "pe_75": 290.9,
-        "pe_90": 445.98
+        "pe": 16.25,
+        "pe_10": 78.8,
+        "pe_25": 101.82,
+        "pe_50": 146.13,
+        "pe_75": 272.29,
+        "pe_90": 407.1
       },
       {
         "date": "2021-12-16",
         "price": 83.0,
         "pe": 13.97,
-        "pe_10": 86.37,
-        "pe_25": 113.45,
-        "pe_50": 164.34,
-        "pe_75": 298.82,
-        "pe_90": 458.12
+        "pe_10": 88.88,
+        "pe_25": 114.85,
+        "pe_50": 164.81,
+        "pe_75": 307.11,
+        "pe_90": 459.16
       },
       {
         "date": "2022-01-16",
         "price": 80.3,
-        "pe": 13.24,
-        "pe_10": 88.17,
-        "pe_25": 115.81,
-        "pe_50": 167.76,
-        "pe_75": 305.04,
-        "pe_90": 467.66
+        "pe": 12.67,
+        "pe_10": 94.81,
+        "pe_25": 122.51,
+        "pe_50": 175.81,
+        "pe_75": 327.6,
+        "pe_90": 489.8
       },
       {
         "date": "2022-02-14",
         "price": 95.7,
-        "pe": 15.45,
-        "pe_10": 90.04,
-        "pe_25": 118.28,
-        "pe_50": 171.33,
-        "pe_75": 311.54,
-        "pe_90": 477.62
+        "pe": 14.21,
+        "pe_10": 100.75,
+        "pe_25": 130.18,
+        "pe_50": 186.82,
+        "pe_75": 348.12,
+        "pe_90": 520.47
       },
       {
         "date": "2022-03-16",
         "price": 110.5,
-        "pe": 17.48,
-        "pe_10": 91.9,
-        "pe_25": 120.71,
-        "pe_50": 174.85,
-        "pe_75": 317.94,
-        "pe_90": 487.44
+        "pe": 15.5,
+        "pe_10": 106.65,
+        "pe_25": 137.8,
+        "pe_50": 197.76,
+        "pe_75": 368.5,
+        "pe_90": 550.95
       },
       {
         "date": "2022-04-15",
         "price": 94.0,
-        "pe": 14.58,
-        "pe_10": 93.72,
-        "pe_25": 123.11,
-        "pe_50": 178.33,
-        "pe_75": 324.26,
-        "pe_90": 497.13
+        "pe": 12.68,
+        "pe_10": 110.9,
+        "pe_25": 143.3,
+        "pe_50": 205.64,
+        "pe_75": 383.19,
+        "pe_90": 572.91
       },
       {
         "date": "2022-05-16",
         "price": 91.7,
-        "pe": 13.95,
-        "pe_10": 95.56,
-        "pe_25": 125.52,
-        "pe_50": 181.82,
-        "pe_75": 330.61,
-        "pe_90": 506.87
+        "pe": 11.91,
+        "pe_10": 115.18,
+        "pe_25": 148.83,
+        "pe_50": 213.58,
+        "pe_75": 397.98,
+        "pe_90": 595.03
       },
       {
         "date": "2022-06-15",
         "price": 73.3,
-        "pe": 10.94,
-        "pe_10": 97.4,
-        "pe_25": 127.94,
-        "pe_50": 185.33,
-        "pe_75": 336.99,
-        "pe_90": 516.64
+        "pe": 9.19,
+        "pe_10": 119.32,
+        "pe_25": 154.18,
+        "pe_50": 221.26,
+        "pe_75": 412.28,
+        "pe_90": 616.41
       },
       {
         "date": "2022-07-16",
         "price": 74.0,
-        "pe": 10.84,
-        "pe_10": 99.24,
-        "pe_25": 130.35,
-        "pe_50": 188.82,
-        "pe_75": 343.34,
-        "pe_90": 526.38
+        "pe": 9.08,
+        "pe_10": 121.92,
+        "pe_25": 157.54,
+        "pe_50": 226.07,
+        "pe_75": 421.26,
+        "pe_90": 629.83
       },
       {
         "date": "2022-08-16",
         "price": 76.9,
-        "pe": 11.06,
-        "pe_10": 101.08,
-        "pe_25": 132.77,
-        "pe_50": 192.32,
-        "pe_75": 349.7,
-        "pe_90": 536.13
+        "pe": 9.25,
+        "pe_10": 124.37,
+        "pe_25": 160.7,
+        "pe_50": 230.62,
+        "pe_75": 429.73,
+        "pe_90": 642.48
       },
       {
         "date": "2022-09-15",
         "price": 64.7,
-        "pe": 9.14,
-        "pe_10": 102.9,
-        "pe_25": 135.17,
-        "pe_50": 195.8,
-        "pe_75": 356.03,
-        "pe_90": 545.83
+        "pe": 7.63,
+        "pe_10": 126.86,
+        "pe_25": 163.91,
+        "pe_50": 235.23,
+        "pe_75": 438.31,
+        "pe_90": 655.33
       },
       {
         "date": "2022-10-16",
         "price": 74.3,
-        "pe": 10.31,
-        "pe_10": 104.76,
-        "pe_25": 137.61,
-        "pe_50": 199.33,
-        "pe_75": 362.46,
-        "pe_90": 555.69
+        "pe": 9.13,
+        "pe_10": 121.74,
+        "pe_25": 157.31,
+        "pe_50": 225.75,
+        "pe_75": 420.65,
+        "pe_90": 628.92
       },
       {
         "date": "2022-11-15",
         "price": 80.5,
-        "pe": 10.98,
-        "pe_10": 106.58,
-        "pe_25": 140.0,
-        "pe_50": 202.79,
-        "pe_75": 368.74,
-        "pe_90": 565.32
+        "pe": 10.32,
+        "pe_10": 116.69,
+        "pe_25": 150.78,
+        "pe_50": 216.38,
+        "pe_75": 403.2,
+        "pe_90": 602.83
       },
       {
         "date": "2022-12-16",
         "price": 82.8,
         "pe": 11.1,
-        "pe_10": 108.44,
-        "pe_25": 142.44,
-        "pe_50": 206.33,
-        "pe_75": 375.17,
-        "pe_90": 575.18
+        "pe_10": 111.59,
+        "pe_25": 144.19,
+        "pe_50": 206.93,
+        "pe_75": 385.58,
+        "pe_90": 576.48
       },
       {
         "date": "2023-01-16",
         "price": 92.0,
-        "pe": 12.7,
-        "pe_10": 105.31,
-        "pe_25": 138.33,
-        "pe_50": 200.37,
-        "pe_75": 364.34,
-        "pe_90": 558.58
+        "pe": 13.01,
+        "pe_10": 105.79,
+        "pe_25": 136.69,
+        "pe_50": 196.16,
+        "pe_75": 365.52,
+        "pe_90": 546.5
       },
       {
         "date": "2023-02-14",
         "price": 104.0,
-        "pe": 14.8,
-        "pe_10": 102.15,
-        "pe_25": 134.18,
-        "pe_50": 194.37,
-        "pe_75": 353.42,
-        "pe_90": 541.84
+        "pe": 15.55,
+        "pe_10": 100.05,
+        "pe_25": 129.28,
+        "pe_50": 185.53,
+        "pe_75": 345.71,
+        "pe_90": 516.87
       },
       {
         "date": "2023-03-16",
         "price": 129.5,
-        "pe": 19.02,
-        "pe_10": 98.98,
-        "pe_25": 130.01,
-        "pe_50": 188.33,
-        "pe_75": 342.44,
-        "pe_90": 525.0
+        "pe": 20.56,
+        "pe_10": 94.23,
+        "pe_25": 121.75,
+        "pe_50": 174.72,
+        "pe_75": 325.58,
+        "pe_90": 486.77
       },
       {
         "date": "2023-04-15",
         "price": 126.5,
-        "pe": 19.19,
-        "pe_10": 95.83,
-        "pe_25": 125.87,
-        "pe_50": 182.33,
-        "pe_75": 331.54,
-        "pe_90": 508.29
+        "pe": 21.34,
+        "pe_10": 88.68,
+        "pe_25": 114.59,
+        "pe_50": 164.44,
+        "pe_75": 306.41,
+        "pe_90": 458.11
       },
       {
         "date": "2023-05-16",
         "price": 122.5,
-        "pe": 19.21,
-        "pe_10": 92.7,
-        "pe_25": 121.77,
-        "pe_50": 176.38,
-        "pe_75": 320.73,
-        "pe_90": 491.71
+        "pe": 22.06,
+        "pe_10": 83.07,
+        "pe_25": 107.34,
+        "pe_50": 154.04,
+        "pe_75": 287.04,
+        "pe_90": 429.15
       },
       {
         "date": "2023-06-15",
         "price": 112.5,
-        "pe": 18.26,
-        "pe_10": 89.56,
-        "pe_25": 117.64,
-        "pe_50": 170.41,
-        "pe_75": 309.87,
-        "pe_90": 475.06
+        "pe": 21.72,
+        "pe_10": 77.49,
+        "pe_25": 100.12,
+        "pe_50": 143.68,
+        "pe_75": 267.73,
+        "pe_90": 400.29
       },
       {
         "date": "2023-07-16",
         "price": 173.0,
-        "pe": 29.11,
-        "pe_10": 86.39,
-        "pe_25": 113.48,
-        "pe_50": 164.38,
-        "pe_75": 298.9,
-        "pe_90": 458.25
+        "pe": 34.03,
+        "pe_10": 76.05,
+        "pe_25": 98.27,
+        "pe_50": 141.02,
+        "pe_75": 262.78,
+        "pe_90": 392.88
       },
       {
         "date": "2023-08-16",
         "price": 145.5,
-        "pe": 25.41,
-        "pe_10": 83.24,
-        "pe_25": 109.34,
-        "pe_50": 158.38,
-        "pe_75": 287.99,
-        "pe_90": 441.53
+        "pe": 29.18,
+        "pe_10": 74.59,
+        "pe_25": 96.39,
+        "pe_50": 138.32,
+        "pe_75": 257.74,
+        "pe_90": 385.35
       },
       {
         "date": "2023-09-15",
         "price": 147.0,
-        "pe": 26.68,
-        "pe_10": 80.1,
-        "pe_25": 105.21,
-        "pe_50": 152.4,
-        "pe_75": 277.11,
-        "pe_90": 424.85
+        "pe": 30.06,
+        "pe_10": 73.16,
+        "pe_25": 94.53,
+        "pe_50": 135.65,
+        "pe_75": 252.78,
+        "pe_90": 377.93
       },
       {
         "date": "2023-10-16",
         "price": 150.0,
-        "pe": 28.34,
-        "pe_10": 76.94,
-        "pe_25": 101.07,
-        "pe_50": 146.4,
-        "pe_75": 266.21,
-        "pe_90": 408.12
+        "pe": 30.74,
+        "pe_10": 73.0,
+        "pe_25": 94.32,
+        "pe_50": 135.36,
+        "pe_75": 252.23,
+        "pe_90": 377.11
       },
       {
         "date": "2023-11-15",
         "price": 177.0,
-        "pe": 34.87,
-        "pe_10": 73.79,
-        "pe_25": 96.93,
-        "pe_50": 140.4,
-        "pe_75": 255.3,
-        "pe_90": 391.4
+        "pe": 36.34,
+        "pe_10": 72.87,
+        "pe_25": 94.15,
+        "pe_50": 135.11,
+        "pe_75": 251.76,
+        "pe_90": 376.41
       },
       {
         "date": "2023-12-16",
         "price": 259.5,
         "pe": 53.4,
-        "pe_10": 70.64,
-        "pe_25": 92.79,
-        "pe_50": 134.42,
-        "pe_75": 244.41,
-        "pe_90": 374.71
+        "pe_10": 72.7,
+        "pe_25": 93.94,
+        "pe_50": 134.8,
+        "pe_75": 251.19,
+        "pe_90": 375.56
       },
       {
         "date": "2024-01-16",
         "price": 253.5,
-        "pe": 50.01,
-        "pe_10": 73.69,
-        "pe_25": 96.79,
-        "pe_50": 140.21,
-        "pe_75": 254.94,
-        "pe_90": 390.86
+        "pe": 48.56,
+        "pe_10": 78.1,
+        "pe_25": 100.91,
+        "pe_50": 144.81,
+        "pe_75": 269.84,
+        "pe_90": 403.44
       },
       {
         "date": "2024-02-15",
         "price": 293.5,
-        "pe": 55.6,
-        "pe_10": 76.74,
-        "pe_25": 100.8,
-        "pe_50": 146.01,
-        "pe_75": 265.5,
-        "pe_90": 407.04
+        "pe": 52.6,
+        "pe_10": 83.47,
+        "pe_25": 107.86,
+        "pe_50": 154.78,
+        "pe_75": 288.42,
+        "pe_90": 431.22
       },
       {
         "date": "2024-03-16",
         "price": 250.0,
-        "pe": 45.56,
-        "pe_10": 79.77,
-        "pe_25": 104.78,
-        "pe_50": 151.78,
-        "pe_75": 275.98,
-        "pe_90": 423.11
+        "pe": 42.09,
+        "pe_10": 88.86,
+        "pe_25": 114.81,
+        "pe_50": 164.77,
+        "pe_75": 307.02,
+        "pe_90": 459.03
       },
       {
         "date": "2024-04-15",
         "price": 237.5,
-        "pe": 41.69,
-        "pe_10": 82.81,
-        "pe_25": 108.78,
-        "pe_50": 157.57,
-        "pe_75": 286.52,
-        "pe_90": 439.27
+        "pe": 36.94,
+        "pe_10": 96.18,
+        "pe_25": 124.28,
+        "pe_50": 178.35,
+        "pe_75": 332.33,
+        "pe_90": 496.87
       },
       {
         "date": "2024-05-16",
         "price": 338.5,
-        "pe": 57.32,
-        "pe_10": 85.85,
-        "pe_25": 112.76,
-        "pe_50": 163.34,
-        "pe_75": 297.01,
-        "pe_90": 455.36
+        "pe": 48.92,
+        "pe_10": 103.52,
+        "pe_25": 133.75,
+        "pe_50": 191.95,
+        "pe_75": 357.67,
+        "pe_90": 534.75
       },
       {
         "date": "2024-06-15",
         "price": 403.0,
-        "pe": 65.9,
-        "pe_10": 88.9,
-        "pe_25": 116.77,
-        "pe_50": 169.15,
-        "pe_75": 307.57,
-        "pe_90": 471.54
+        "pe": 54.39,
+        "pe_10": 110.85,
+        "pe_25": 143.22,
+        "pe_50": 205.54,
+        "pe_75": 382.99,
+        "pe_90": 572.62
       },
       {
         "date": "2024-07-16",
         "price": 410.5,
-        "pe": 64.91,
-        "pe_10": 91.93,
-        "pe_25": 120.76,
-        "pe_50": 174.93,
-        "pe_75": 318.07,
-        "pe_90": 487.64
+        "pe": 57.44,
+        "pe_10": 106.91,
+        "pe_25": 138.14,
+        "pe_50": 198.25,
+        "pe_75": 369.41,
+        "pe_90": 552.3
       },
       {
         "date": "2024-08-16",
         "price": 437.5,
-        "pe": 66.96,
-        "pe_10": 94.98,
-        "pe_25": 124.76,
-        "pe_50": 180.72,
-        "pe_75": 328.62,
-        "pe_90": 503.8
+        "pe": 63.56,
+        "pe_10": 102.97,
+        "pe_25": 133.05,
+        "pe_50": 190.94,
+        "pe_75": 355.8,
+        "pe_90": 531.95
       },
       {
         "date": "2024-09-15",
         "price": 519.0,
-        "pe": 76.97,
-        "pe_10": 98.02,
-        "pe_25": 128.76,
-        "pe_50": 186.51,
-        "pe_75": 339.13,
-        "pe_90": 519.93
+        "pe": 78.4,
+        "pe_10": 99.03,
+        "pe_25": 127.96,
+        "pe_50": 183.64,
+        "pe_75": 342.18,
+        "pe_90": 511.6
       },
       {
         "date": "2024-10-16",
         "price": 530.0,
-        "pe": 76.24,
-        "pe_10": 101.06,
-        "pe_25": 132.74,
-        "pe_50": 192.28,
-        "pe_75": 349.64,
-        "pe_90": 536.03
+        "pe": 77.15,
+        "pe_10": 102.77,
+        "pe_25": 132.79,
+        "pe_50": 190.57,
+        "pe_75": 355.1,
+        "pe_90": 530.91
       },
       {
         "date": "2024-11-15",
         "price": 468.0,
-        "pe": 65.36,
-        "pe_10": 104.09,
-        "pe_25": 136.73,
-        "pe_50": 198.06,
-        "pe_75": 360.13,
-        "pe_90": 552.12
+        "pe": 65.73,
+        "pe_10": 106.52,
+        "pe_25": 137.63,
+        "pe_50": 197.51,
+        "pe_75": 368.03,
+        "pe_90": 550.25
       },
       {
         "date": "2024-12-16",
         "price": 386.0,
         "pe": 52.37,
-        "pe_10": 107.15,
-        "pe_25": 140.74,
-        "pe_50": 203.87,
-        "pe_75": 370.71,
-        "pe_90": 568.33
+        "pe_10": 110.26,
+        "pe_25": 142.47,
+        "pe_50": 204.46,
+        "pe_75": 380.99,
+        "pe_90": 569.62
       },
       {
         "date": "2025-01-16",
         "price": 401.0,
-        "pe": 54.89,
-        "pe_10": 106.2,
-        "pe_25": 139.5,
-        "pe_50": 202.07,
-        "pe_75": 367.43,
-        "pe_90": 563.31
+        "pe": 54.12,
+        "pe_10": 110.85,
+        "pe_25": 143.22,
+        "pe_50": 205.54,
+        "pe_75": 383.0,
+        "pe_90": 572.62
       },
       {
         "date": "2025-02-14",
         "price": 392.5,
-        "pe": 54.2,
-        "pe_10": 105.27,
-        "pe_25": 138.28,
-        "pe_50": 200.31,
-        "pe_75": 364.22,
-        "pe_90": 558.39
+        "pe": 52.68,
+        "pe_10": 111.46,
+        "pe_25": 144.02,
+        "pe_50": 206.68,
+        "pe_75": 385.12,
+        "pe_90": 575.8
       },
       {
         "date": "2025-03-16",
         "price": 279.0,
-        "pe": 38.87,
-        "pe_10": 104.34,
-        "pe_25": 137.06,
-        "pe_50": 198.54,
-        "pe_75": 361.01,
-        "pe_90": 553.46
+        "pe": 37.25,
+        "pe_10": 112.05,
+        "pe_25": 144.78,
+        "pe_50": 207.77,
+        "pe_75": 387.15,
+        "pe_90": 578.84
       },
       {
         "date": "2025-04-15",
         "price": 256.0,
-        "pe": 35.99,
-        "pe_10": 103.4,
-        "pe_25": 135.82,
-        "pe_50": 196.75,
-        "pe_75": 357.75,
-        "pe_90": 548.48
+        "pe": 35.44,
+        "pe_10": 108.06,
+        "pe_25": 139.63,
+        "pe_50": 200.38,
+        "pe_75": 373.38,
+        "pe_90": 558.24
       },
       {
         "date": "2025-05-16",
         "price": 222.5,
-        "pe": 31.56,
-        "pe_10": 102.49,
-        "pe_25": 134.62,
-        "pe_50": 195.0,
-        "pe_75": 354.58,
-        "pe_90": 543.62
+        "pe": 31.98,
+        "pe_10": 104.08,
+        "pe_25": 134.49,
+        "pe_50": 193.0,
+        "pe_75": 359.63,
+        "pe_90": 537.69
       },
       {
         "date": "2025-06-15",
         "price": 257.5,
-        "pe": 36.86,
-        "pe_10": 101.55,
-        "pe_25": 133.4,
-        "pe_50": 193.23,
-        "pe_75": 351.36,
-        "pe_90": 538.67
+        "pe": 38.49,
+        "pe_10": 100.08,
+        "pe_25": 129.32,
+        "pe_50": 185.58,
+        "pe_75": 345.81,
+        "pe_90": 517.02
       },
       {
         "date": "2025-07-16",
         "price": 218.0,
-        "pe": 31.5,
-        "pe_10": 100.61,
-        "pe_25": 132.15,
-        "pe_50": 191.42,
-        "pe_75": 348.07,
-        "pe_90": 533.64
+        "pe": 32.73,
+        "pe_10": 99.64,
+        "pe_25": 128.75,
+        "pe_50": 184.76,
+        "pe_75": 344.28,
+        "pe_90": 514.74
       },
       {
         "date": "2025-08-16",
         "price": 235.5,
-        "pe": 34.35,
-        "pe_10": 99.66,
-        "pe_25": 130.91,
-        "pe_50": 189.63,
-        "pe_75": 344.82,
-        "pe_90": 528.64
+        "pe": 35.52,
+        "pe_10": 99.19,
+        "pe_25": 128.16,
+        "pe_50": 183.92,
+        "pe_75": 342.71,
+        "pe_90": 512.38
       },
       {
         "date": "2025-09-15",
         "price": 268.0,
-        "pe": 39.46,
+        "pe": 40.61,
         "pe_10": 98.73,
-        "pe_25": 129.69,
-        "pe_50": 187.86,
-        "pe_75": 341.59,
-        "pe_90": 523.69
+        "pe_25": 127.57,
+        "pe_50": 183.07,
+        "pe_75": 341.12,
+        "pe_90": 510.01
       },
       {
         "date": "2025-10-16",
         "price": 228.0,
-        "pe": 33.89,
-        "pe_10": 97.8,
-        "pe_25": 128.46,
-        "pe_50": 186.09,
-        "pe_75": 338.37,
-        "pe_90": 518.76
+        "pe": 34.44,
+        "pe_10": 99.04,
+        "pe_25": 127.97,
+        "pe_50": 183.64,
+        "pe_75": 342.2,
+        "pe_90": 511.62
       },
       {
         "date": "2025-11-15",
         "price": 213.0,
-        "pe": 31.96,
-        "pe_10": 96.88,
-        "pe_25": 127.26,
-        "pe_50": 184.34,
-        "pe_75": 335.2,
-        "pe_90": 513.89
+        "pe": 32.08,
+        "pe_10": 99.33,
+        "pe_25": 128.34,
+        "pe_50": 184.18,
+        "pe_75": 343.2,
+        "pe_90": 513.13
       },
       {
         "date": "2025-12-16",
         "price": 214.0,
-        "pe": 32.42,
-        "pe_10": 95.96,
-        "pe_25": 126.04,
-        "pe_50": 182.58,
-        "pe_75": 331.99,
-        "pe_90": 508.98
+        "pe": 32.13,
+        "pe_10": 99.64,
+        "pe_25": 128.75,
+        "pe_50": 184.76,
+        "pe_75": 344.28,
+        "pe_90": 514.73
       },
       {
         "date": "2026-01-16",
         "price": 203.5,
-        "pe": 30.83,
-        "pe_10": 95.95,
-        "pe_25": 126.04,
-        "pe_50": 182.58,
-        "pe_75": 331.98,
-        "pe_90": 508.97
+        "pe": 30.56,
+        "pe_10": 99.62,
+        "pe_25": 128.72,
+        "pe_50": 184.72,
+        "pe_75": 344.21,
+        "pe_90": 514.62
       },
       {
         "date": "2026-02-14",
         "price": 194.5,
-        "pe": 29.47,
-        "pe_10": 95.94,
-        "pe_25": 126.03,
-        "pe_50": 182.55,
-        "pe_75": 331.94,
-        "pe_90": 508.91
+        "pe": 29.2,
+        "pe_10": 99.65,
+        "pe_25": 128.76,
+        "pe_50": 184.77,
+        "pe_75": 344.3,
+        "pe_90": 514.77
       }
     ]
   },
@@ -18946,7 +18855,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (14.5倍)",
+            "title": "PE 10% (15.0倍)",
             "format": ".1f"
           },
           {
@@ -18958,7 +18867,7 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (77.1倍)",
+            "title": "PE 90% (77.3倍)",
             "format": ".1f"
           }
         ]
@@ -19918,6 +19827,10 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
       {
         "date": "2026-01-16",
         "revenue_yoy": -7.25
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 12.7
       }
     ]
   },
@@ -19985,16 +19898,16 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 40.0 | +173.5% | 0.002 | 2007-04 (+8956.8%) | 2008-07 (-96.5%) |
-| 6個月 | 40.1 | +68.1% | 0.015 | 2008-11 (+1401.3%) | 2008-04 (-84.2%) |
-| 1年 | 40.2 | +31.8% | 0.029 | 2006-07 (+359.1%) | 2007-10 (-63.8%) |
-| 2年 | 38.9 | +20.1% | 0.026 | 2022-09 (+185.4%) | 2011-07 (-37.8%) |
-| 3年 | 39.5 | +16.1% | 0.000 | 2021-09 (+93.8%) | 2012-09 (-36.4%) |
-| 4年 | 41.3 | +12.3% | 0.007 | 2020-10 (+57.7%) | 2012-03 (-31.3%) |
-| 5年 | 43.1 | +10.8% | 0.008 | 2019-06 (+60.3%) | 2011-03 (-25.5%) |
-| 6年 | 44.6 | +9.3% | 0.027 | 2018-10 (+63.1%) | 2011-03 (-20.0%) |
-| 8年 | 47.9 | +6.9% | 0.169 | 2016-11 (+45.3%) | 2009-05 (-14.0%) |
-| 10年 | 40.1 | +5.3% | 0.183 | 2014-10 (+27.2%) | 2009-05 (-10.1%) |
+| 3個月 | 39.0 | +173.5% | 0.000 | 2007-04 (+8956.8%) | 2008-07 (-96.5%) |
+| 6個月 | 39.1 | +68.1% | 0.004 | 2008-11 (+1401.3%) | 2008-04 (-84.2%) |
+| 1年 | 39.1 | +31.8% | 0.005 | 2006-07 (+359.1%) | 2007-10 (-63.8%) |
+| 2年 | 38.0 | +20.1% | 0.050 | 2022-09 (+185.4%) | 2011-07 (-37.8%) |
+| 3年 | 38.4 | +16.1% | 0.000 | 2021-09 (+93.8%) | 2012-09 (-36.4%) |
+| 4年 | 40.2 | +12.3% | 0.004 | 2020-10 (+57.7%) | 2012-03 (-31.3%) |
+| 5年 | 41.8 | +10.8% | 0.008 | 2019-06 (+60.3%) | 2011-03 (-25.5%) |
+| 6年 | 43.3 | +9.3% | 0.025 | 2018-10 (+63.1%) | 2011-03 (-20.0%) |
+| 8年 | 46.3 | +6.9% | 0.111 | 2016-11 (+45.3%) | 2009-05 (-14.0%) |
+| 10年 | 43.3 | +5.3% | 0.089 | 2014-10 (+27.2%) | 2009-05 (-10.1%) |
 
 
 ## 🎯 使用說明
@@ -20013,4 +19926,4 @@ description: "6231 系微 (資訊服務業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:35:43 CST*
+*數據更新時間: 2026-03-21 12:42:34 CST*

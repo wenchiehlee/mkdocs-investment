@@ -2,7 +2,7 @@
 title: "3711 日月光投控 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
     - **產業別**: 半導體業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年
-    - **報告生成時間**: 2026-03-07 12:34:12 CST
+    - **報告生成時間**: 2026-03-21 12:40:49 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.01,
         "forward_return": 3.03,
         "start_price": 80.3,
         "start_year": 2018
@@ -48,7 +48,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.32,
         "forward_return": 9.73,
         "start_price": 76.0,
         "start_year": 2018
@@ -57,7 +57,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 11.6,
         "forward_return": 33.46,
         "start_price": 71.6,
         "start_year": 2018
@@ -66,7 +66,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 12.73,
         "forward_return": -59.59,
         "start_price": 78.4,
         "start_year": 2018
@@ -75,7 +75,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.66,
+        "pe_ratio": 12.24,
         "forward_return": -53.52,
         "start_price": 75.3,
         "start_year": 2018
@@ -84,7 +84,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.13,
         "forward_return": -62.62,
         "start_price": 74.5,
         "start_year": 2018
@@ -93,7 +93,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.27,
         "forward_return": -14.42,
         "start_price": 62.4,
         "start_year": 2018
@@ -102,7 +102,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.38,
         "forward_return": 27.01,
         "start_price": 62.4,
         "start_year": 2018
@@ -120,7 +120,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.37,
+        "pe_ratio": 10.1,
         "forward_return": -1.01,
         "start_price": 60.0,
         "start_year": 2019
@@ -129,7 +129,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.61,
         "forward_return": -18.54,
         "start_price": 62.9,
         "start_year": 2019
@@ -138,7 +138,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 11.4,
         "forward_return": 23.34,
         "start_price": 67.5,
         "start_year": 2019
@@ -147,7 +147,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.56,
+        "pe_ratio": 13.71,
         "forward_return": 3.97,
         "start_price": 71.7,
         "start_year": 2019
@@ -156,7 +156,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 13.17,
         "forward_return": 131.74,
         "start_price": 59.8,
         "start_year": 2019
@@ -165,7 +165,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 15.97,
         "forward_return": 100.73,
         "start_price": 61.5,
         "start_year": 2019
@@ -174,7 +174,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.6,
+        "pe_ratio": 18.33,
         "forward_return": 66.68,
         "start_price": 69.9,
         "start_year": 2019
@@ -183,7 +183,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.44,
+        "pe_ratio": 18.91,
         "forward_return": 58.08,
         "start_price": 71.4,
         "start_year": 2019
@@ -192,7 +192,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 18.93,
         "forward_return": 91.13,
         "start_price": 70.8,
         "start_year": 2019
@@ -201,7 +201,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.52,
+        "pe_ratio": 20.85,
         "forward_return": -22.32,
         "start_price": 79.5,
         "start_year": 2019
@@ -210,7 +210,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.32,
+        "pe_ratio": 19.45,
         "forward_return": -53.65,
         "start_price": 75.6,
         "start_year": 2019
@@ -228,7 +228,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": -43.35,
         "start_price": 74.6,
         "start_year": 2020
@@ -237,7 +237,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.28,
+        "pe_ratio": 16.74,
         "forward_return": -43.67,
         "start_price": 71.3,
         "start_year": 2020
@@ -246,7 +246,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.29,
         "forward_return": 131.8,
         "start_price": 58.6,
         "start_year": 2020
@@ -255,7 +255,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.18,
         "forward_return": 79.22,
         "start_price": 67.1,
         "start_year": 2020
@@ -264,7 +264,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.35,
+        "pe_ratio": 12.22,
         "forward_return": 9.29,
         "start_price": 61.8,
         "start_year": 2020
@@ -273,7 +273,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.57,
         "forward_return": -32.63,
         "start_price": 67.6,
         "start_year": 2020
@@ -282,7 +282,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.85,
         "forward_return": -50.9,
         "start_price": 75.6,
         "start_year": 2020
@@ -291,7 +291,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.05,
         "forward_return": 134.02,
         "start_price": 61.2,
         "start_year": 2020
@@ -300,7 +300,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.53,
         "forward_return": 257.25,
         "start_price": 59.2,
         "start_year": 2020
@@ -309,7 +309,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.71,
         "forward_return": 344.03,
         "start_price": 63.2,
         "start_year": 2020
@@ -318,7 +318,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.38,
         "forward_return": 180.53,
         "start_price": 76.6,
         "start_year": 2020
@@ -336,7 +336,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 12.84,
+        "pe_ratio": 13.52,
         "forward_return": 79.52,
         "start_price": 92.0,
         "start_year": 2021
@@ -345,7 +345,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 13.16,
+        "pe_ratio": 14.49,
         "forward_return": 35.28,
         "start_price": 103.5,
         "start_year": 2021
@@ -354,7 +354,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 14.37,
         "forward_return": 63.52,
         "start_price": 107.5,
         "start_year": 2021
@@ -363,7 +363,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 15.25,
         "forward_return": 33.01,
         "start_price": 118.0,
         "start_year": 2021
@@ -372,7 +372,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 13.94,
         "forward_return": 99.53,
         "start_price": 111.5,
         "start_year": 2021
@@ -381,7 +381,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 13.56,
         "forward_return": 4.29,
         "start_price": 112.0,
         "start_year": 2021
@@ -390,7 +390,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 13.86,
         "forward_return": -55.68,
         "start_price": 122.5,
         "start_year": 2021
@@ -399,7 +399,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 13.65,
         "forward_return": -43.0,
         "start_price": 128.5,
         "start_year": 2021
@@ -408,7 +408,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.55,
+        "pe_ratio": 10.91,
         "forward_return": -8.89,
         "start_price": 109.0,
         "start_year": 2021
@@ -417,7 +417,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.42,
+        "pe_ratio": 8.6,
         "forward_return": -3.92,
         "start_price": 99.8,
         "start_year": 2021
@@ -426,7 +426,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.21,
+        "pe_ratio": 7.71,
         "forward_return": 4.54,
         "start_price": 102.0,
         "start_year": 2021
@@ -444,7 +444,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.67,
+        "pe_ratio": 6.5,
         "forward_return": 18.62,
         "start_price": 98.8,
         "start_year": 2022
@@ -453,7 +453,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 6.71,
+        "pe_ratio": 6.38,
         "forward_return": 23.02,
         "start_price": 99.3,
         "start_year": 2022
@@ -462,7 +462,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.49,
         "forward_return": -26.47,
         "start_price": 103.5,
         "start_year": 2022
@@ -471,7 +471,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.49,
+        "pe_ratio": 5.85,
         "forward_return": -8.94,
         "start_price": 95.6,
         "start_year": 2022
@@ -480,7 +480,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 7.1,
+        "pe_ratio": 6.23,
         "forward_return": -38.66,
         "start_price": 104.5,
         "start_year": 2022
@@ -489,7 +489,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.2,
+        "pe_ratio": 4.45,
         "forward_return": 68.24,
         "start_price": 76.4,
         "start_year": 2022
@@ -498,7 +498,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 5.89,
+        "pe_ratio": 4.96,
         "forward_return": -24.85,
         "start_price": 86.4,
         "start_year": 2022
@@ -507,7 +507,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 5.84,
+        "pe_ratio": 4.84,
         "forward_return": 32.85,
         "start_price": 85.4,
         "start_year": 2022
@@ -516,7 +516,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 5.48,
+        "pe_ratio": 4.47,
         "forward_return": 89.27,
         "start_price": 80.1,
         "start_year": 2022
@@ -525,7 +525,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 5.51,
+        "pe_ratio": 4.79,
         "forward_return": 137.76,
         "start_price": 80.4,
         "start_year": 2022
@@ -534,7 +534,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 6.68,
+        "pe_ratio": 6.21,
         "forward_return": 56.04,
         "start_price": 97.2,
         "start_year": 2022
@@ -552,7 +552,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": 39.28,
         "start_price": 100.0,
         "start_year": 2023
@@ -561,7 +561,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 7.95,
+        "pe_ratio": 7.9,
         "forward_return": 22.79,
         "start_price": 106.0,
         "start_year": 2023
@@ -570,7 +570,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.75,
         "forward_return": 31.56,
         "start_price": 112.5,
         "start_year": 2023
@@ -579,7 +579,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 8.31,
+        "pe_ratio": 8.27,
         "forward_return": 122.67,
         "start_price": 101.0,
         "start_year": 2023
@@ -597,7 +597,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 10.14,
         "forward_return": 31.07,
         "start_price": 110.5,
         "start_year": 2023
@@ -606,7 +606,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 11.05,
+        "pe_ratio": 11.2,
         "forward_return": -3.42,
         "start_price": 114.5,
         "start_year": 2023
@@ -615,7 +615,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.37,
         "forward_return": 49.62,
         "start_price": 118.0,
         "start_year": 2023
@@ -624,7 +624,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.36,
         "forward_return": 131.7,
         "start_price": 109.5,
         "start_year": 2023
@@ -633,7 +633,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.56,
         "forward_return": 105.03,
         "start_price": 113.5,
         "start_year": 2023
@@ -642,7 +642,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 16.03,
+        "pe_ratio": 16.24,
         "forward_return": 99.85,
         "start_price": 128.0,
         "start_year": 2023
@@ -660,7 +660,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.45,
         "forward_return": 54.26,
         "start_price": 136.0,
         "start_year": 2024
@@ -669,7 +669,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.91,
         "forward_return": 63.03,
         "start_price": 139.0,
         "start_year": 2024
@@ -678,7 +678,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 21.69,
+        "pe_ratio": 21.96,
         "forward_return": -10.4,
         "start_price": 161.0,
         "start_year": 2024
@@ -687,7 +687,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 19.91,
+        "pe_ratio": 20.21,
         "forward_return": 21.01,
         "start_price": 148.0,
         "start_year": 2024
@@ -696,7 +696,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 21.46,
         "forward_return": 4.37,
         "start_price": 157.0,
         "start_year": 2024
@@ -705,7 +705,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 23.05,
         "forward_return": -25.98,
         "start_price": 168.5,
         "start_year": 2024
@@ -714,7 +714,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.3,
         "forward_return": 19.85,
         "start_price": 150.0,
         "start_year": 2024
@@ -723,7 +723,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.53,
+        "pe_ratio": 20.55,
         "forward_return": 17.51,
         "start_price": 153.5,
         "start_year": 2024
@@ -732,7 +732,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 20.17,
+        "pe_ratio": 20.0,
         "forward_return": 32.61,
         "start_price": 151.0,
         "start_year": 2024
@@ -741,7 +741,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 20.82,
         "forward_return": 60.97,
         "start_price": 157.0,
         "start_year": 2024
@@ -750,7 +750,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 20.18,
+        "pe_ratio": 20.12,
         "forward_return": -16.12,
         "start_price": 151.5,
         "start_year": 2024
@@ -768,7 +768,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 23.09,
         "forward_return": -53.12,
         "start_price": 177.0,
         "start_year": 2025
@@ -777,7 +777,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 22.43,
+        "pe_ratio": 21.89,
         "forward_return": -58.11,
         "start_price": 171.0,
         "start_year": 2025
@@ -786,7 +786,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 17.96,
         "forward_return": 34.28,
         "start_price": 143.0,
         "start_year": 2025
@@ -795,7 +795,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.08,
         "forward_return": 84.3,
         "start_price": 135.5,
         "start_year": 2025
@@ -804,7 +804,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 17.74,
+        "pe_ratio": 17.45,
         "forward_return": 63.93,
         "start_price": 138.0,
         "start_year": 2025
@@ -813,7 +813,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 18.72,
         "forward_return": 72.83,
         "start_price": 147.5,
         "start_year": 2025
@@ -822,7 +822,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 19.35,
+        "pe_ratio": 19.14,
         "forward_return": 583.81,
         "start_price": 152.5,
         "start_year": 2025
@@ -831,7 +831,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 19.03,
+        "pe_ratio": 18.75,
         "forward_return": 355.14,
         "start_price": 151.0,
         "start_year": 2025
@@ -840,7 +840,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 20.54,
+        "pe_ratio": 20.15,
         "forward_return": 447.5,
         "start_price": 164.0,
         "start_year": 2025
@@ -849,7 +849,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 30.8,
+        "pe_ratio": 28.95,
         "forward_return": 106.23,
         "start_price": 247.5,
         "start_year": 2025
@@ -858,7 +858,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.01,
         "forward_return": -34.62,
         "start_price": 80.3,
         "start_year": 2018
@@ -867,7 +867,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.32,
         "forward_return": -31.67,
         "start_price": 76.0,
         "start_year": 2018
@@ -876,7 +876,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 11.6,
         "forward_return": -27.85,
         "start_price": 71.6,
         "start_year": 2018
@@ -885,7 +885,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 12.73,
         "forward_return": -41.2,
         "start_price": 78.4,
         "start_year": 2018
@@ -894,7 +894,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.66,
+        "pe_ratio": 12.24,
         "forward_return": -17.17,
         "start_price": 75.3,
         "start_year": 2018
@@ -903,7 +903,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.13,
         "forward_return": -18.05,
         "start_price": 74.5,
         "start_year": 2018
@@ -912,7 +912,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.27,
         "forward_return": -7.07,
         "start_price": 62.4,
         "start_year": 2018
@@ -921,7 +921,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.38,
         "forward_return": -8.23,
         "start_price": 62.4,
         "start_year": 2018
@@ -939,7 +939,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.37,
+        "pe_ratio": 10.1,
         "forward_return": 46.09,
         "start_price": 60.0,
         "start_year": 2019
@@ -948,7 +948,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.61,
         "forward_return": 38.18,
         "start_price": 62.9,
         "start_year": 2019
@@ -957,7 +957,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 11.4,
         "forward_return": 39.39,
         "start_price": 67.5,
         "start_year": 2019
@@ -966,7 +966,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.56,
+        "pe_ratio": 13.71,
         "forward_return": 30.72,
         "start_price": 71.7,
         "start_year": 2019
@@ -975,7 +975,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 13.17,
         "forward_return": 84.81,
         "start_price": 59.8,
         "start_year": 2019
@@ -984,7 +984,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 15.97,
         "forward_return": 93.91,
         "start_price": 61.5,
         "start_year": 2019
@@ -993,7 +993,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.6,
+        "pe_ratio": 18.33,
         "forward_return": 13.79,
         "start_price": 69.9,
         "start_year": 2019
@@ -1002,7 +1002,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.44,
+        "pe_ratio": 18.91,
         "forward_return": -28.74,
         "start_price": 71.4,
         "start_year": 2019
@@ -1011,7 +1011,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 18.93,
         "forward_return": -31.58,
         "start_price": 70.8,
         "start_year": 2019
@@ -1020,7 +1020,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.52,
+        "pe_ratio": 20.85,
         "forward_return": -35.07,
         "start_price": 79.5,
         "start_year": 2019
@@ -1029,7 +1029,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.32,
+        "pe_ratio": 19.45,
         "forward_return": -33.27,
         "start_price": 75.6,
         "start_year": 2019
@@ -1047,7 +1047,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 8.23,
         "start_price": 74.6,
         "start_year": 2020
@@ -1056,7 +1056,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.28,
+        "pe_ratio": 16.74,
         "forward_return": -21.4,
         "start_price": 71.3,
         "start_year": 2020
@@ -1065,7 +1065,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.29,
         "forward_return": 19.97,
         "start_price": 58.6,
         "start_year": 2020
@@ -1074,7 +1074,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.18,
         "forward_return": -5.58,
         "start_price": 67.1,
         "start_year": 2020
@@ -1083,7 +1083,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.35,
+        "pe_ratio": 12.22,
         "forward_return": 66.45,
         "start_price": 61.8,
         "start_year": 2020
@@ -1092,7 +1092,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.57,
         "forward_return": 51.71,
         "start_price": 67.6,
         "start_year": 2020
@@ -1101,7 +1101,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.85,
         "forward_return": 47.66,
         "start_price": 75.6,
         "start_year": 2020
@@ -1110,7 +1110,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.05,
         "forward_return": 163.95,
         "start_price": 61.2,
         "start_year": 2020
@@ -1119,7 +1119,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.53,
         "forward_return": 233.29,
         "start_price": 59.2,
         "start_year": 2020
@@ -1128,7 +1128,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.71,
         "forward_return": 165.94,
         "start_price": 63.2,
         "start_year": 2020
@@ -1137,7 +1137,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.38,
         "forward_return": 113.31,
         "start_price": 76.6,
         "start_year": 2020
@@ -1155,7 +1155,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 12.84,
+        "pe_ratio": 13.52,
         "forward_return": 90.73,
         "start_price": 92.0,
         "start_year": 2021
@@ -1164,7 +1164,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 13.16,
+        "pe_ratio": 14.49,
         "forward_return": 64.64,
         "start_price": 103.5,
         "start_year": 2021
@@ -1173,7 +1173,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 14.37,
         "forward_return": -5.51,
         "start_price": 107.5,
         "start_year": 2021
@@ -1182,7 +1182,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 15.25,
         "forward_return": -22.29,
         "start_price": 118.0,
         "start_year": 2021
@@ -1191,7 +1191,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 13.94,
         "forward_return": -1.24,
         "start_price": 111.5,
         "start_year": 2021
@@ -1200,7 +1200,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 13.56,
         "forward_return": -2.32,
         "start_price": 112.0,
         "start_year": 2021
@@ -1209,7 +1209,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 13.86,
         "forward_return": -34.74,
         "start_price": 122.5,
         "start_year": 2021
@@ -1218,7 +1218,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 13.65,
         "forward_return": -31.12,
         "start_price": 128.5,
         "start_year": 2021
@@ -1227,7 +1227,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.55,
+        "pe_ratio": 10.91,
         "forward_return": -9.92,
         "start_price": 109.0,
         "start_year": 2021
@@ -1236,7 +1236,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.42,
+        "pe_ratio": 8.6,
         "forward_return": 8.25,
         "start_price": 99.8,
         "start_year": 2021
@@ -1245,7 +1245,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.21,
+        "pe_ratio": 7.71,
         "forward_return": 5.01,
         "start_price": 102.0,
         "start_year": 2021
@@ -1263,7 +1263,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.67,
+        "pe_ratio": 6.5,
         "forward_return": -10.73,
         "start_price": 98.8,
         "start_year": 2022
@@ -1272,7 +1272,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 6.71,
+        "pe_ratio": 6.38,
         "forward_return": -13.46,
         "start_price": 99.3,
         "start_year": 2022
@@ -1281,7 +1281,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.49,
         "forward_return": -25.07,
         "start_price": 103.5,
         "start_year": 2022
@@ -1290,7 +1290,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.49,
+        "pe_ratio": 5.85,
         "forward_return": -16.4,
         "start_price": 95.6,
         "start_year": 2022
@@ -1299,7 +1299,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 7.1,
+        "pe_ratio": 6.23,
         "forward_return": -5.81,
         "start_price": 104.5,
         "start_year": 2022
@@ -1308,7 +1308,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.2,
+        "pe_ratio": 4.45,
         "forward_return": 74.21,
         "start_price": 76.4,
         "start_year": 2022
@@ -1317,7 +1317,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 5.89,
+        "pe_ratio": 4.96,
         "forward_return": 33.67,
         "start_price": 86.4,
         "start_year": 2022
@@ -1326,7 +1326,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 5.84,
+        "pe_ratio": 4.84,
         "forward_return": 60.78,
         "start_price": 85.4,
         "start_year": 2022
@@ -1335,7 +1335,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 5.48,
+        "pe_ratio": 4.47,
         "forward_return": 98.47,
         "start_price": 80.1,
         "start_year": 2022
@@ -1344,7 +1344,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 5.51,
+        "pe_ratio": 4.79,
         "forward_return": 75.66,
         "start_price": 80.4,
         "start_year": 2022
@@ -1353,7 +1353,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 6.68,
+        "pe_ratio": 6.21,
         "forward_return": 31.91,
         "start_price": 97.2,
         "start_year": 2022
@@ -1371,7 +1371,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": 52.58,
         "start_price": 100.0,
         "start_year": 2023
@@ -1380,7 +1380,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 7.95,
+        "pe_ratio": 7.9,
         "forward_return": 43.26,
         "start_price": 106.0,
         "start_year": 2023
@@ -1389,7 +1389,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.75,
         "forward_return": 15.31,
         "start_price": 112.5,
         "start_year": 2023
@@ -1398,7 +1398,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 8.31,
+        "pe_ratio": 8.27,
         "forward_return": 46.49,
         "start_price": 101.0,
         "start_year": 2023
@@ -1416,7 +1416,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 10.14,
         "forward_return": 69.15,
         "start_price": 110.5,
         "start_year": 2023
@@ -1425,7 +1425,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 11.05,
+        "pe_ratio": 11.2,
         "forward_return": 40.72,
         "start_price": 114.5,
         "start_year": 2023
@@ -1434,7 +1434,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.37,
         "forward_return": 70.37,
         "start_price": 118.0,
         "start_year": 2023
@@ -1443,7 +1443,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.36,
         "forward_return": 116.76,
         "start_price": 109.5,
         "start_year": 2023
@@ -1452,7 +1452,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.56,
         "forward_return": 74.43,
         "start_price": 113.5,
         "start_year": 2023
@@ -1461,7 +1461,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 16.03,
+        "pe_ratio": 16.24,
         "forward_return": 50.66,
         "start_price": 128.0,
         "start_year": 2023
@@ -1479,7 +1479,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.45,
         "forward_return": 30.35,
         "start_price": 136.0,
         "start_year": 2024
@@ -1488,7 +1488,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.91,
         "forward_return": 30.29,
         "start_price": 139.0,
         "start_year": 2024
@@ -1497,7 +1497,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 21.69,
+        "pe_ratio": 21.96,
         "forward_return": 1.28,
         "start_price": 161.0,
         "start_year": 2024
@@ -1506,7 +1506,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 19.91,
+        "pe_ratio": 20.21,
         "forward_return": 20.07,
         "start_price": 148.0,
         "start_year": 2024
@@ -1515,7 +1515,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 21.46,
         "forward_return": 11.34,
         "start_price": 157.0,
         "start_year": 2024
@@ -1524,7 +1524,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 23.05,
         "forward_return": -1.53,
         "start_price": 168.5,
         "start_year": 2024
@@ -1533,7 +1533,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.3,
         "forward_return": 38.9,
         "start_price": 150.0,
         "start_year": 2024
@@ -1542,7 +1542,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.53,
+        "pe_ratio": 20.55,
         "forward_return": -11.49,
         "start_price": 153.5,
         "start_year": 2024
@@ -1551,7 +1551,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 20.17,
+        "pe_ratio": 20.0,
         "forward_return": -10.4,
         "start_price": 151.0,
         "start_year": 2024
@@ -1560,7 +1560,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 20.82,
         "forward_return": -19.93,
         "start_price": 157.0,
         "start_year": 2024
@@ -1569,7 +1569,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 20.18,
+        "pe_ratio": 20.12,
         "forward_return": -17.17,
         "start_price": 151.5,
         "start_year": 2024
@@ -1587,7 +1587,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 23.09,
         "forward_return": -20.69,
         "start_price": 177.0,
         "start_year": 2025
@@ -1596,7 +1596,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 22.43,
+        "pe_ratio": 21.89,
         "forward_return": -16.51,
         "start_price": 171.0,
         "start_year": 2025
@@ -1605,7 +1605,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 18.63,
+        "pe_ratio": 17.96,
         "forward_return": 164.43,
         "start_price": 143.0,
         "start_year": 2025
@@ -1614,7 +1614,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 17.54,
+        "pe_ratio": 17.08,
         "forward_return": 247.18,
         "start_price": 135.5,
         "start_year": 2025
@@ -1623,7 +1623,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 17.74,
+        "pe_ratio": 17.45,
         "forward_return": 186.71,
         "start_price": 138.0,
         "start_year": 2025
@@ -1632,7 +1632,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 18.84,
+        "pe_ratio": 18.72,
         "forward_return": 200.07,
         "start_price": 147.5,
         "start_year": 2025
@@ -1641,7 +1641,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 19.35,
+        "pe_ratio": 19.14,
         "forward_return": 275.53,
         "start_price": 152.5,
         "start_year": 2025
@@ -1650,7 +1650,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.01,
         "forward_return": -7.6,
         "start_price": 80.3,
         "start_year": 2018
@@ -1659,7 +1659,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.32,
         "forward_return": -18.04,
         "start_price": 76.0,
         "start_year": 2018
@@ -1668,7 +1668,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 11.6,
         "forward_return": -10.62,
         "start_price": 71.6,
         "start_year": 2018
@@ -1677,7 +1677,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 12.73,
         "forward_return": -7.66,
         "start_price": 78.4,
         "start_year": 2018
@@ -1686,7 +1686,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.66,
+        "pe_ratio": 12.24,
         "forward_return": -1.86,
         "start_price": 75.3,
         "start_year": 2018
@@ -1695,7 +1695,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.13,
         "forward_return": -1.61,
         "start_price": 74.5,
         "start_year": 2018
@@ -1704,7 +1704,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.27,
         "forward_return": 31.43,
         "start_price": 62.4,
         "start_year": 2018
@@ -1713,7 +1713,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.38,
         "forward_return": 25.18,
         "start_price": 62.4,
         "start_year": 2018
@@ -1731,7 +1731,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.37,
+        "pe_ratio": 10.1,
         "forward_return": 28.52,
         "start_price": 60.0,
         "start_year": 2019
@@ -1740,7 +1740,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.61,
         "forward_return": 17.34,
         "start_price": 62.9,
         "start_year": 2019
@@ -1749,7 +1749,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 11.4,
         "forward_return": -9.46,
         "start_price": 67.5,
         "start_year": 2019
@@ -1758,7 +1758,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.56,
+        "pe_ratio": 13.71,
         "forward_return": -2.92,
         "start_price": 71.7,
         "start_year": 2019
@@ -1767,7 +1767,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 13.17,
         "forward_return": 7.51,
         "start_price": 59.8,
         "start_year": 2019
@@ -1776,7 +1776,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 15.97,
         "forward_return": 13.95,
         "start_price": 61.5,
         "start_year": 2019
@@ -1785,7 +1785,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.6,
+        "pe_ratio": 18.33,
         "forward_return": 10.99,
         "start_price": 69.9,
         "start_year": 2019
@@ -1794,7 +1794,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.44,
+        "pe_ratio": 18.91,
         "forward_return": -11.47,
         "start_price": 71.4,
         "start_year": 2019
@@ -1803,7 +1803,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 18.93,
         "forward_return": -13.54,
         "start_price": 70.8,
         "start_year": 2019
@@ -1812,7 +1812,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.52,
+        "pe_ratio": 20.85,
         "forward_return": -17.96,
         "start_price": 79.5,
         "start_year": 2019
@@ -1821,7 +1821,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.32,
+        "pe_ratio": 19.45,
         "forward_return": 3.96,
         "start_price": 75.6,
         "start_year": 2019
@@ -1839,7 +1839,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 25.94,
         "start_price": 74.6,
         "start_year": 2020
@@ -1848,7 +1848,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.28,
+        "pe_ratio": 16.74,
         "forward_return": 48.69,
         "start_price": 71.3,
         "start_year": 2020
@@ -1857,7 +1857,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.29,
         "forward_return": 86.94,
         "start_price": 58.6,
         "start_year": 2020
@@ -1866,7 +1866,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.18,
         "forward_return": 78.91,
         "start_price": 67.1,
         "start_year": 2020
@@ -1875,7 +1875,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.35,
+        "pe_ratio": 12.22,
         "forward_return": 83.73,
         "start_price": 61.8,
         "start_year": 2020
@@ -1884,7 +1884,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.57,
         "forward_return": 68.7,
         "start_price": 67.6,
         "start_year": 2020
@@ -1893,7 +1893,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.85,
         "forward_return": 67.64,
         "start_price": 75.6,
         "start_year": 2020
@@ -1902,7 +1902,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.05,
         "forward_return": 116.93,
         "start_price": 61.2,
         "start_year": 2020
@@ -1911,7 +1911,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.53,
         "forward_return": 91.29,
         "start_price": 59.2,
         "start_year": 2020
@@ -1920,7 +1920,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.71,
         "forward_return": 64.6,
         "start_price": 63.2,
         "start_year": 2020
@@ -1929,7 +1929,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.38,
         "forward_return": 38.66,
         "start_price": 76.6,
         "start_year": 2020
@@ -1947,7 +1947,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 12.84,
+        "pe_ratio": 13.52,
         "forward_return": 11.96,
         "start_price": 92.0,
         "start_year": 2021
@@ -1956,7 +1956,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 13.16,
+        "pe_ratio": 14.49,
         "forward_return": -0.01,
         "start_price": 103.5,
         "start_year": 2021
@@ -1965,7 +1965,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 14.37,
         "forward_return": 0.18,
         "start_price": 107.5,
         "start_year": 2021
@@ -1974,7 +1974,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 15.25,
         "forward_return": -15.44,
         "start_price": 118.0,
         "start_year": 2021
@@ -1983,7 +1983,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 13.94,
         "forward_return": -2.52,
         "start_price": 111.5,
         "start_year": 2021
@@ -1992,7 +1992,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 13.56,
         "forward_return": -28.06,
         "start_price": 112.0,
         "start_year": 2021
@@ -2001,7 +2001,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 13.86,
         "forward_return": -23.77,
         "start_price": 122.5,
         "start_year": 2021
@@ -2010,7 +2010,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 13.65,
         "forward_return": -28.11,
         "start_price": 128.5,
         "start_year": 2021
@@ -2019,7 +2019,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.55,
+        "pe_ratio": 10.91,
         "forward_return": -20.11,
         "start_price": 109.0,
         "start_year": 2021
@@ -2028,7 +2028,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.42,
+        "pe_ratio": 8.6,
         "forward_return": -12.44,
         "start_price": 99.8,
         "start_year": 2021
@@ -2037,7 +2037,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.21,
+        "pe_ratio": 7.71,
         "forward_return": 2.15,
         "start_price": 102.0,
         "start_year": 2021
@@ -2055,7 +2055,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.67,
+        "pe_ratio": 6.5,
         "forward_return": 8.3,
         "start_price": 98.8,
         "start_year": 2022
@@ -2064,7 +2064,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 6.71,
+        "pe_ratio": 6.38,
         "forward_return": 13.8,
         "start_price": 99.3,
         "start_year": 2022
@@ -2073,7 +2073,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.49,
         "forward_return": 15.47,
         "start_price": 103.5,
         "start_year": 2022
@@ -2082,7 +2082,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.49,
+        "pe_ratio": 5.85,
         "forward_return": 12.98,
         "start_price": 95.6,
         "start_year": 2022
@@ -2091,7 +2091,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 7.1,
+        "pe_ratio": 6.23,
         "forward_return": 13.4,
         "start_price": 104.5,
         "start_year": 2022
@@ -2100,7 +2100,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.2,
+        "pe_ratio": 4.45,
         "forward_return": 53.84,
         "start_price": 76.4,
         "start_year": 2022
@@ -2109,7 +2109,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 5.89,
+        "pe_ratio": 4.96,
         "forward_return": 42.73,
         "start_price": 86.4,
         "start_year": 2022
@@ -2118,7 +2118,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 5.84,
+        "pe_ratio": 4.84,
         "forward_return": 48.51,
         "start_price": 85.4,
         "start_year": 2022
@@ -2127,7 +2127,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 5.48,
+        "pe_ratio": 4.47,
         "forward_return": 47.72,
         "start_price": 80.1,
         "start_year": 2022
@@ -2136,7 +2136,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 5.51,
+        "pe_ratio": 4.79,
         "forward_return": 52.15,
         "start_price": 80.4,
         "start_year": 2022
@@ -2145,7 +2145,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 6.68,
+        "pe_ratio": 6.21,
         "forward_return": 40.77,
         "start_price": 97.2,
         "start_year": 2022
@@ -2163,7 +2163,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": 44.83,
         "start_price": 100.0,
         "start_year": 2023
@@ -2172,7 +2172,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 7.95,
+        "pe_ratio": 7.9,
         "forward_return": 39.46,
         "start_price": 106.0,
         "start_year": 2023
@@ -2181,7 +2181,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.75,
         "forward_return": 50.8,
         "start_price": 112.5,
         "start_year": 2023
@@ -2190,7 +2190,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 8.31,
+        "pe_ratio": 8.27,
         "forward_return": 55.1,
         "start_price": 101.0,
         "start_year": 2023
@@ -2208,7 +2208,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 10.14,
         "forward_return": 60.29,
         "start_price": 110.5,
         "start_year": 2023
@@ -2217,7 +2217,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 11.05,
+        "pe_ratio": 11.2,
         "forward_return": 35.46,
         "start_price": 114.5,
         "start_year": 2023
@@ -2226,7 +2226,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.37,
         "forward_return": 34.41,
         "start_price": 118.0,
         "start_year": 2023
@@ -2235,7 +2235,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.36,
         "forward_return": 42.55,
         "start_price": 109.5,
         "start_year": 2023
@@ -2244,7 +2244,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.56,
         "forward_return": 42.8,
         "start_price": 113.5,
         "start_year": 2023
@@ -2253,7 +2253,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 16.03,
+        "pe_ratio": 16.24,
         "forward_return": 22.37,
         "start_price": 128.0,
         "start_year": 2023
@@ -2271,7 +2271,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.45,
         "forward_return": 33.89,
         "start_price": 136.0,
         "start_year": 2024
@@ -2280,7 +2280,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 18.75,
+        "pe_ratio": 18.91,
         "forward_return": 6.11,
         "start_price": 139.0,
         "start_year": 2024
@@ -2289,7 +2289,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 21.69,
+        "pe_ratio": 21.96,
         "forward_return": -7.95,
         "start_price": 161.0,
         "start_year": 2024
@@ -2298,7 +2298,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 19.91,
+        "pe_ratio": 20.21,
         "forward_return": -4.93,
         "start_price": 148.0,
         "start_year": 2024
@@ -2307,7 +2307,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 21.09,
+        "pe_ratio": 21.46,
         "forward_return": -8.79,
         "start_price": 157.0,
         "start_year": 2024
@@ -2316,7 +2316,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 22.6,
+        "pe_ratio": 23.05,
         "forward_return": -9.38,
         "start_price": 168.5,
         "start_year": 2024
@@ -2325,7 +2325,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 20.3,
         "forward_return": 5.2,
         "start_price": 150.0,
         "start_year": 2024
@@ -2334,7 +2334,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.53,
+        "pe_ratio": 20.55,
         "forward_return": 1.82,
         "start_price": 153.5,
         "start_year": 2024
@@ -2343,7 +2343,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 20.17,
+        "pe_ratio": 20.0,
         "forward_return": 12.13,
         "start_price": 151.0,
         "start_year": 2024
@@ -2352,7 +2352,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 20.94,
+        "pe_ratio": 20.82,
         "forward_return": 61.07,
         "start_price": 157.0,
         "start_year": 2024
@@ -2361,7 +2361,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 20.18,
+        "pe_ratio": 20.12,
         "forward_return": 55.03,
         "start_price": 151.5,
         "start_year": 2024
@@ -2379,7 +2379,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 23.38,
+        "pe_ratio": 23.09,
         "forward_return": 70.85,
         "start_price": 177.0,
         "start_year": 2025
@@ -2388,7 +2388,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 22.43,
+        "pe_ratio": 21.89,
         "forward_return": 129.84,
         "start_price": 171.0,
         "start_year": 2025
@@ -2397,7 +2397,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.01,
         "forward_return": -5.24,
         "start_price": 80.3,
         "start_year": 2018
@@ -2406,7 +2406,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.32,
         "forward_return": -6.25,
         "start_price": 76.0,
         "start_year": 2018
@@ -2415,7 +2415,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 11.6,
         "forward_return": 0.69,
         "start_price": 71.6,
         "start_year": 2018
@@ -2424,7 +2424,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 12.73,
         "forward_return": 1.08,
         "start_price": 78.4,
         "start_year": 2018
@@ -2433,7 +2433,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.66,
+        "pe_ratio": 12.24,
         "forward_return": -6.59,
         "start_price": 75.3,
         "start_year": 2018
@@ -2442,7 +2442,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.13,
         "forward_return": -7.53,
         "start_price": 74.5,
         "start_year": 2018
@@ -2451,7 +2451,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.27,
         "forward_return": 4.16,
         "start_price": 62.4,
         "start_year": 2018
@@ -2460,7 +2460,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.38,
         "forward_return": 13.99,
         "start_price": 62.4,
         "start_year": 2018
@@ -2478,7 +2478,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.37,
+        "pe_ratio": 10.1,
         "forward_return": 26.8,
         "start_price": 60.0,
         "start_year": 2019
@@ -2487,7 +2487,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.61,
         "forward_return": 31.01,
         "start_price": 62.9,
         "start_year": 2019
@@ -2496,7 +2496,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 11.4,
         "forward_return": 28.79,
         "start_price": 67.5,
         "start_year": 2019
@@ -2505,7 +2505,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.56,
+        "pe_ratio": 13.71,
         "forward_return": 30.68,
         "start_price": 71.7,
         "start_year": 2019
@@ -2514,7 +2514,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 13.17,
         "forward_return": 39.24,
         "start_price": 59.8,
         "start_year": 2019
@@ -2523,7 +2523,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 15.97,
         "forward_return": 37.6,
         "start_price": 61.5,
         "start_year": 2019
@@ -2532,7 +2532,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.6,
+        "pe_ratio": 18.33,
         "forward_return": 35.66,
         "start_price": 69.9,
         "start_year": 2019
@@ -2541,7 +2541,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.44,
+        "pe_ratio": 18.91,
         "forward_return": 37.32,
         "start_price": 71.4,
         "start_year": 2019
@@ -2550,7 +2550,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 18.93,
         "forward_return": 27.53,
         "start_price": 70.8,
         "start_year": 2019
@@ -2559,7 +2559,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.52,
+        "pe_ratio": 20.85,
         "forward_return": 15.45,
         "start_price": 79.5,
         "start_year": 2019
@@ -2568,7 +2568,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.32,
+        "pe_ratio": 19.45,
         "forward_return": 19.61,
         "start_price": 75.6,
         "start_year": 2019
@@ -2586,7 +2586,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 18.62,
         "start_price": 74.6,
         "start_year": 2020
@@ -2595,7 +2595,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.28,
+        "pe_ratio": 16.74,
         "forward_return": 23.0,
         "start_price": 71.3,
         "start_year": 2020
@@ -2604,7 +2604,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.29,
         "forward_return": 36.84,
         "start_price": 58.6,
         "start_year": 2020
@@ -2613,7 +2613,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.18,
         "forward_return": 23.18,
         "start_price": 67.1,
         "start_year": 2020
@@ -2622,7 +2622,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.35,
+        "pe_ratio": 12.22,
         "forward_return": 33.86,
         "start_price": 61.8,
         "start_year": 2020
@@ -2631,7 +2631,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.57,
         "forward_return": 10.54,
         "start_price": 67.6,
         "start_year": 2020
@@ -2640,7 +2640,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.85,
         "forward_return": 13.62,
         "start_price": 75.6,
         "start_year": 2020
@@ -2649,7 +2649,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.05,
         "forward_return": 25.65,
         "start_price": 61.2,
         "start_year": 2020
@@ -2658,7 +2658,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.53,
         "forward_return": 24.2,
         "start_price": 59.2,
         "start_year": 2020
@@ -2667,7 +2667,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.71,
         "forward_return": 20.4,
         "start_price": 63.2,
         "start_year": 2020
@@ -2676,7 +2676,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.38,
         "forward_return": 18.97,
         "start_price": 76.6,
         "start_year": 2020
@@ -2694,7 +2694,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 12.84,
+        "pe_ratio": 13.52,
         "forward_return": 9.94,
         "start_price": 92.0,
         "start_year": 2021
@@ -2703,7 +2703,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 13.16,
+        "pe_ratio": 14.49,
         "forward_return": 6.41,
         "start_price": 103.5,
         "start_year": 2021
@@ -2712,7 +2712,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 14.37,
         "forward_return": 7.27,
         "start_price": 107.5,
         "start_year": 2021
@@ -2721,7 +2721,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 15.25,
         "forward_return": -2.5,
         "start_price": 118.0,
         "start_year": 2021
@@ -2730,7 +2730,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 13.94,
         "forward_return": 4.9,
         "start_price": 111.5,
         "start_year": 2021
@@ -2739,7 +2739,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 13.56,
         "forward_return": 4.24,
         "start_price": 112.0,
         "start_year": 2021
@@ -2748,7 +2748,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 13.86,
         "forward_return": 3.13,
         "start_price": 122.5,
         "start_year": 2021
@@ -2757,7 +2757,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 13.65,
         "forward_return": 2.04,
         "start_price": 128.5,
         "start_year": 2021
@@ -2766,7 +2766,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.55,
+        "pe_ratio": 10.91,
         "forward_return": 7.22,
         "start_price": 109.0,
         "start_year": 2021
@@ -2775,7 +2775,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.42,
+        "pe_ratio": 8.6,
         "forward_return": 13.83,
         "start_price": 99.8,
         "start_year": 2021
@@ -2784,7 +2784,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.21,
+        "pe_ratio": 7.71,
         "forward_return": 18.74,
         "start_price": 102.0,
         "start_year": 2021
@@ -2802,7 +2802,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.67,
+        "pe_ratio": 6.5,
         "forward_return": 23.97,
         "start_price": 98.8,
         "start_year": 2022
@@ -2811,7 +2811,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 6.71,
+        "pe_ratio": 6.38,
         "forward_return": 24.87,
         "start_price": 99.3,
         "start_year": 2022
@@ -2820,7 +2820,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.49,
         "forward_return": 30.67,
         "start_price": 103.5,
         "start_year": 2022
@@ -2829,7 +2829,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.49,
+        "pe_ratio": 5.85,
         "forward_return": 30.87,
         "start_price": 95.6,
         "start_year": 2022
@@ -2838,7 +2838,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 7.1,
+        "pe_ratio": 6.23,
         "forward_return": 28.57,
         "start_price": 104.5,
         "start_year": 2022
@@ -2847,7 +2847,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.2,
+        "pe_ratio": 4.45,
         "forward_return": 55.26,
         "start_price": 76.4,
         "start_year": 2022
@@ -2856,7 +2856,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 5.89,
+        "pe_ratio": 4.96,
         "forward_return": 37.74,
         "start_price": 86.4,
         "start_year": 2022
@@ -2865,7 +2865,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 5.84,
+        "pe_ratio": 4.84,
         "forward_return": 40.01,
         "start_price": 85.4,
         "start_year": 2022
@@ -2874,7 +2874,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 5.48,
+        "pe_ratio": 4.47,
         "forward_return": 43.49,
         "start_price": 80.1,
         "start_year": 2022
@@ -2883,7 +2883,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 5.51,
+        "pe_ratio": 4.79,
         "forward_return": 45.8,
         "start_price": 80.4,
         "start_year": 2022
@@ -2892,7 +2892,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 6.68,
+        "pe_ratio": 6.21,
         "forward_return": 30.46,
         "start_price": 97.2,
         "start_year": 2022
@@ -2910,7 +2910,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": 38.17,
         "start_price": 100.0,
         "start_year": 2023
@@ -2919,7 +2919,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 7.95,
+        "pe_ratio": 7.9,
         "forward_return": 32.08,
         "start_price": 106.0,
         "start_year": 2023
@@ -2928,7 +2928,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 8.83,
+        "pe_ratio": 8.75,
         "forward_return": 18.12,
         "start_price": 112.5,
         "start_year": 2023
@@ -2937,7 +2937,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 8.31,
+        "pe_ratio": 8.27,
         "forward_return": 21.65,
         "start_price": 101.0,
         "start_year": 2023
@@ -2955,7 +2955,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 10.08,
+        "pe_ratio": 10.14,
         "forward_return": 20.88,
         "start_price": 110.5,
         "start_year": 2023
@@ -2964,7 +2964,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 11.05,
+        "pe_ratio": 11.2,
         "forward_return": 19.3,
         "start_price": 114.5,
         "start_year": 2023
@@ -2973,7 +2973,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 12.08,
+        "pe_ratio": 12.37,
         "forward_return": 16.98,
         "start_price": 118.0,
         "start_year": 2023
@@ -2982,7 +2982,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 11.93,
+        "pe_ratio": 12.36,
         "forward_return": 26.22,
         "start_price": 109.5,
         "start_year": 2023
@@ -2991,7 +2991,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 13.23,
+        "pe_ratio": 13.56,
         "forward_return": 50.73,
         "start_price": 113.5,
         "start_year": 2023
@@ -3000,7 +3000,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 16.03,
+        "pe_ratio": 16.24,
         "forward_return": 36.9,
         "start_price": 128.0,
         "start_year": 2023
@@ -3018,7 +3018,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 18.38,
+        "pe_ratio": 18.45,
         "forward_return": 50.32,
         "start_price": 136.0,
         "start_year": 2024
@@ -3027,7 +3027,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.01,
         "forward_return": 15.89,
         "start_price": 80.3,
         "start_year": 2018
@@ -3036,7 +3036,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.32,
         "forward_return": 15.95,
         "start_price": 76.0,
         "start_year": 2018
@@ -3045,7 +3045,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 11.6,
         "forward_return": 18.45,
         "start_price": 71.6,
         "start_year": 2018
@@ -3054,7 +3054,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 12.73,
         "forward_return": 18.72,
         "start_price": 78.4,
         "start_year": 2018
@@ -3063,7 +3063,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.66,
+        "pe_ratio": 12.24,
         "forward_return": 22.13,
         "start_price": 75.3,
         "start_year": 2018
@@ -3072,7 +3072,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.13,
         "forward_return": 16.46,
         "start_price": 74.5,
         "start_year": 2018
@@ -3081,7 +3081,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.27,
         "forward_return": 20.24,
         "start_price": 62.4,
         "start_year": 2018
@@ -3090,7 +3090,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.38,
         "forward_return": 21.05,
         "start_price": 62.4,
         "start_year": 2018
@@ -3108,7 +3108,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.37,
+        "pe_ratio": 10.1,
         "forward_return": 21.45,
         "start_price": 60.0,
         "start_year": 2019
@@ -3117,7 +3117,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.61,
         "forward_return": 19.74,
         "start_price": 62.9,
         "start_year": 2019
@@ -3126,7 +3126,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 11.4,
         "forward_return": 18.45,
         "start_price": 67.5,
         "start_year": 2019
@@ -3135,7 +3135,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.56,
+        "pe_ratio": 13.71,
         "forward_return": 13.3,
         "start_price": 71.7,
         "start_year": 2019
@@ -3144,7 +3144,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 13.17,
         "forward_return": 23.69,
         "start_price": 59.8,
         "start_year": 2019
@@ -3153,7 +3153,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 15.97,
         "forward_return": 11.43,
         "start_price": 61.5,
         "start_year": 2019
@@ -3162,7 +3162,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.6,
+        "pe_ratio": 18.33,
         "forward_return": 12.52,
         "start_price": 69.9,
         "start_year": 2019
@@ -3171,7 +3171,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.44,
+        "pe_ratio": 18.91,
         "forward_return": 11.35,
         "start_price": 71.4,
         "start_year": 2019
@@ -3180,7 +3180,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 18.93,
         "forward_return": 9.63,
         "start_price": 70.8,
         "start_year": 2019
@@ -3189,7 +3189,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.52,
+        "pe_ratio": 20.85,
         "forward_return": 5.59,
         "start_price": 79.5,
         "start_year": 2019
@@ -3198,7 +3198,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.32,
+        "pe_ratio": 19.45,
         "forward_return": 13.44,
         "start_price": 75.6,
         "start_year": 2019
@@ -3216,7 +3216,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 14.9,
         "start_price": 74.6,
         "start_year": 2020
@@ -3225,7 +3225,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.28,
+        "pe_ratio": 16.74,
         "forward_return": 20.21,
         "start_price": 71.3,
         "start_year": 2020
@@ -3234,7 +3234,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.29,
         "forward_return": 28.98,
         "start_price": 58.6,
         "start_year": 2020
@@ -3243,7 +3243,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.18,
         "forward_return": 19.4,
         "start_price": 67.1,
         "start_year": 2020
@@ -3252,7 +3252,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.35,
+        "pe_ratio": 12.22,
         "forward_return": 26.38,
         "start_price": 61.8,
         "start_year": 2020
@@ -3261,7 +3261,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.57,
         "forward_return": 22.33,
         "start_price": 67.6,
         "start_year": 2020
@@ -3270,7 +3270,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.85,
         "forward_return": 21.18,
         "start_price": 75.6,
         "start_year": 2020
@@ -3279,7 +3279,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.05,
         "forward_return": 31.15,
         "start_price": 61.2,
         "start_year": 2020
@@ -3288,7 +3288,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.53,
         "forward_return": 29.83,
         "start_price": 59.2,
         "start_year": 2020
@@ -3297,7 +3297,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.71,
         "forward_return": 28.32,
         "start_price": 63.2,
         "start_year": 2020
@@ -3306,7 +3306,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.38,
         "forward_return": 24.56,
         "start_price": 76.6,
         "start_year": 2020
@@ -3324,7 +3324,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 12.84,
+        "pe_ratio": 13.52,
         "forward_return": 19.26,
         "start_price": 92.0,
         "start_year": 2021
@@ -3333,7 +3333,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 13.16,
+        "pe_ratio": 14.49,
         "forward_return": 15.39,
         "start_price": 103.5,
         "start_year": 2021
@@ -3342,7 +3342,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 14.37,
         "forward_return": 18.96,
         "start_price": 107.5,
         "start_year": 2021
@@ -3351,7 +3351,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 15.25,
         "forward_return": 12.49,
         "start_price": 118.0,
         "start_year": 2021
@@ -3360,7 +3360,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 13.94,
         "forward_return": 16.65,
         "start_price": 111.5,
         "start_year": 2021
@@ -3369,7 +3369,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 13.56,
         "forward_return": 18.94,
         "start_price": 112.0,
         "start_year": 2021
@@ -3378,7 +3378,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 13.86,
         "forward_return": 11.76,
         "start_price": 122.5,
         "start_year": 2021
@@ -3387,7 +3387,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 13.65,
         "forward_return": 10.73,
         "start_price": 128.5,
         "start_year": 2021
@@ -3396,7 +3396,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.55,
+        "pe_ratio": 10.91,
         "forward_return": 16.42,
         "start_price": 109.0,
         "start_year": 2021
@@ -3405,7 +3405,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.42,
+        "pe_ratio": 8.6,
         "forward_return": 21.27,
         "start_price": 99.8,
         "start_year": 2021
@@ -3414,7 +3414,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.21,
+        "pe_ratio": 7.71,
         "forward_return": 19.13,
         "start_price": 102.0,
         "start_year": 2021
@@ -3432,7 +3432,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.67,
+        "pe_ratio": 6.5,
         "forward_return": 26.07,
         "start_price": 98.8,
         "start_year": 2022
@@ -3441,7 +3441,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 6.71,
+        "pe_ratio": 6.38,
         "forward_return": 24.57,
         "start_price": 99.3,
         "start_year": 2022
@@ -3450,7 +3450,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 7.01,
+        "pe_ratio": 6.49,
         "forward_return": 16.58,
         "start_price": 103.5,
         "start_year": 2022
@@ -3459,7 +3459,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 6.49,
+        "pe_ratio": 5.85,
         "forward_return": 17.85,
         "start_price": 95.6,
         "start_year": 2022
@@ -3468,7 +3468,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 7.1,
+        "pe_ratio": 6.23,
         "forward_return": 15.01,
         "start_price": 104.5,
         "start_year": 2022
@@ -3477,7 +3477,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 5.2,
+        "pe_ratio": 4.45,
         "forward_return": 30.16,
         "start_price": 76.4,
         "start_year": 2022
@@ -3486,7 +3486,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 5.89,
+        "pe_ratio": 4.96,
         "forward_return": 25.74,
         "start_price": 86.4,
         "start_year": 2022
@@ -3495,7 +3495,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 5.84,
+        "pe_ratio": 4.84,
         "forward_return": 25.86,
         "start_price": 85.4,
         "start_year": 2022
@@ -3504,7 +3504,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 5.48,
+        "pe_ratio": 4.47,
         "forward_return": 31.77,
         "start_price": 80.1,
         "start_year": 2022
@@ -3513,7 +3513,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 5.51,
+        "pe_ratio": 4.79,
         "forward_return": 49.14,
         "start_price": 80.4,
         "start_year": 2022
@@ -3522,7 +3522,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 6.68,
+        "pe_ratio": 6.21,
         "forward_return": 36.78,
         "start_price": 97.2,
         "start_year": 2022
@@ -3540,7 +3540,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.18,
+        "pe_ratio": 7.16,
         "forward_return": 46.78,
         "start_price": 100.0,
         "start_year": 2023
@@ -3549,7 +3549,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 7.95,
+        "pe_ratio": 7.9,
         "forward_return": 56.55,
         "start_price": 106.0,
         "start_year": 2023
@@ -3558,7 +3558,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.01,
         "forward_return": 7.39,
         "start_price": 80.3,
         "start_year": 2018
@@ -3567,7 +3567,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.32,
         "forward_return": 11.08,
         "start_price": 76.0,
         "start_year": 2018
@@ -3576,7 +3576,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 11.6,
         "forward_return": 5.17,
         "start_price": 71.6,
         "start_year": 2018
@@ -3585,7 +3585,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 12.73,
         "forward_return": 6.82,
         "start_price": 78.4,
         "start_year": 2018
@@ -3594,7 +3594,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.66,
+        "pe_ratio": 12.24,
         "forward_return": 7.64,
         "start_price": 75.3,
         "start_year": 2018
@@ -3603,7 +3603,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.13,
         "forward_return": 6.48,
         "start_price": 74.5,
         "start_year": 2018
@@ -3612,7 +3612,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.27,
         "forward_return": 11.4,
         "start_price": 62.4,
         "start_year": 2018
@@ -3621,7 +3621,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.38,
         "forward_return": 15.97,
         "start_price": 62.4,
         "start_year": 2018
@@ -3639,7 +3639,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.37,
+        "pe_ratio": 10.1,
         "forward_return": 17.84,
         "start_price": 60.0,
         "start_year": 2019
@@ -3648,7 +3648,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.61,
         "forward_return": 17.94,
         "start_price": 62.9,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 11.4,
         "forward_return": 17.39,
         "start_price": 67.5,
         "start_year": 2019
@@ -3666,7 +3666,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.56,
+        "pe_ratio": 13.71,
         "forward_return": 12.95,
         "start_price": 71.7,
         "start_year": 2019
@@ -3675,7 +3675,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 13.17,
         "forward_return": 20.76,
         "start_price": 59.8,
         "start_year": 2019
@@ -3684,7 +3684,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 15.97,
         "forward_return": 19.68,
         "start_price": 61.5,
         "start_year": 2019
@@ -3693,7 +3693,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.6,
+        "pe_ratio": 18.33,
         "forward_return": 18.21,
         "start_price": 69.9,
         "start_year": 2019
@@ -3702,7 +3702,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.44,
+        "pe_ratio": 18.91,
         "forward_return": 18.33,
         "start_price": 71.4,
         "start_year": 2019
@@ -3711,7 +3711,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 18.93,
         "forward_return": 16.74,
         "start_price": 70.8,
         "start_year": 2019
@@ -3720,7 +3720,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.52,
+        "pe_ratio": 20.85,
         "forward_return": 14.26,
         "start_price": 79.5,
         "start_year": 2019
@@ -3729,7 +3729,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.32,
+        "pe_ratio": 19.45,
         "forward_return": 18.68,
         "start_price": 75.6,
         "start_year": 2019
@@ -3747,7 +3747,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 20.63,
         "start_price": 74.6,
         "start_year": 2020
@@ -3756,7 +3756,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.28,
+        "pe_ratio": 16.74,
         "forward_return": 22.58,
         "start_price": 71.3,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.29,
         "forward_return": 32.93,
         "start_price": 58.6,
         "start_year": 2020
@@ -3774,7 +3774,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.18,
         "forward_return": 26.16,
         "start_price": 67.1,
         "start_year": 2020
@@ -3783,7 +3783,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.35,
+        "pe_ratio": 12.22,
         "forward_return": 30.45,
         "start_price": 61.8,
         "start_year": 2020
@@ -3792,7 +3792,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.57,
         "forward_return": 29.56,
         "start_price": 67.6,
         "start_year": 2020
@@ -3801,7 +3801,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.85,
         "forward_return": 23.38,
         "start_price": 75.6,
         "start_year": 2020
@@ -3810,7 +3810,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.05,
         "forward_return": 30.72,
         "start_price": 61.2,
         "start_year": 2020
@@ -3819,7 +3819,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.53,
         "forward_return": 31.34,
         "start_price": 59.2,
         "start_year": 2020
@@ -3828,7 +3828,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.71,
         "forward_return": 30.3,
         "start_price": 63.2,
         "start_year": 2020
@@ -3837,7 +3837,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.38,
         "forward_return": 23.24,
         "start_price": 76.6,
         "start_year": 2020
@@ -3855,7 +3855,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 12.84,
+        "pe_ratio": 13.52,
         "forward_return": 21.76,
         "start_price": 92.0,
         "start_year": 2021
@@ -3864,7 +3864,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 13.16,
+        "pe_ratio": 14.49,
         "forward_return": 17.34,
         "start_price": 103.5,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 14.37,
         "forward_return": 11.84,
         "start_price": 107.5,
         "start_year": 2021
@@ -3882,7 +3882,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 12.74,
+        "pe_ratio": 15.25,
         "forward_return": 8.02,
         "start_price": 118.0,
         "start_year": 2021
@@ -3891,7 +3891,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 11.2,
+        "pe_ratio": 13.94,
         "forward_return": 9.99,
         "start_price": 111.5,
         "start_year": 2021
@@ -3900,7 +3900,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 10.51,
+        "pe_ratio": 13.56,
         "forward_return": 11.43,
         "start_price": 112.0,
         "start_year": 2021
@@ -3909,7 +3909,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.79,
+        "pe_ratio": 13.86,
         "forward_return": 9.91,
         "start_price": 122.5,
         "start_year": 2021
@@ -3918,7 +3918,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 13.65,
         "forward_return": 8.38,
         "start_price": 128.5,
         "start_year": 2021
@@ -3927,7 +3927,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 8.55,
+        "pe_ratio": 10.91,
         "forward_return": 14.95,
         "start_price": 109.0,
         "start_year": 2021
@@ -3936,7 +3936,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 7.42,
+        "pe_ratio": 8.6,
         "forward_return": 28.7,
         "start_price": 99.8,
         "start_year": 2021
@@ -3945,7 +3945,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 7.21,
+        "pe_ratio": 7.71,
         "forward_return": 25.84,
         "start_price": 102.0,
         "start_year": 2021
@@ -3963,7 +3963,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 6.67,
+        "pe_ratio": 6.5,
         "forward_return": 34.5,
         "start_price": 98.8,
         "start_year": 2022
@@ -3972,7 +3972,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 6.71,
+        "pe_ratio": 6.38,
         "forward_return": 42.88,
         "start_price": 99.3,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.01,
         "forward_return": 8.22,
         "start_price": 80.3,
         "start_year": 2018
@@ -3990,7 +3990,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.32,
         "forward_return": 11.28,
         "start_price": 76.0,
         "start_year": 2018
@@ -3999,7 +3999,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 11.6,
         "forward_return": 12.44,
         "start_price": 71.6,
         "start_year": 2018
@@ -4008,7 +4008,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 12.73,
         "forward_return": 12.13,
         "start_price": 78.4,
         "start_year": 2018
@@ -4017,7 +4017,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.66,
+        "pe_ratio": 12.24,
         "forward_return": 13.61,
         "start_price": 75.3,
         "start_year": 2018
@@ -4026,7 +4026,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.13,
         "forward_return": 12.46,
         "start_price": 74.5,
         "start_year": 2018
@@ -4035,7 +4035,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.27,
         "forward_return": 17.2,
         "start_price": 62.4,
         "start_year": 2018
@@ -4044,7 +4044,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.38,
         "forward_return": 19.57,
         "start_price": 62.4,
         "start_year": 2018
@@ -4062,7 +4062,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.37,
+        "pe_ratio": 10.1,
         "forward_return": 21.75,
         "start_price": 60.0,
         "start_year": 2019
@@ -4071,7 +4071,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.61,
         "forward_return": 21.05,
         "start_price": 62.9,
         "start_year": 2019
@@ -4080,7 +4080,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 11.4,
         "forward_return": 22.39,
         "start_price": 67.5,
         "start_year": 2019
@@ -4089,7 +4089,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.56,
+        "pe_ratio": 13.71,
         "forward_return": 19.18,
         "start_price": 71.7,
         "start_year": 2019
@@ -4098,7 +4098,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 13.17,
         "forward_return": 24.85,
         "start_price": 59.8,
         "start_year": 2019
@@ -4107,7 +4107,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 15.97,
         "forward_return": 25.69,
         "start_price": 61.5,
         "start_year": 2019
@@ -4116,7 +4116,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.6,
+        "pe_ratio": 18.33,
         "forward_return": 20.44,
         "start_price": 69.9,
         "start_year": 2019
@@ -4125,7 +4125,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.44,
+        "pe_ratio": 18.91,
         "forward_return": 20.4,
         "start_price": 71.4,
         "start_year": 2019
@@ -4134,7 +4134,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 18.93,
         "forward_return": 20.26,
         "start_price": 70.8,
         "start_year": 2019
@@ -4143,7 +4143,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.52,
+        "pe_ratio": 20.85,
         "forward_return": 18.29,
         "start_price": 79.5,
         "start_year": 2019
@@ -4152,7 +4152,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.32,
+        "pe_ratio": 19.45,
         "forward_return": 18.76,
         "start_price": 75.6,
         "start_year": 2019
@@ -4170,7 +4170,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 22.3,
         "start_price": 74.6,
         "start_year": 2020
@@ -4179,7 +4179,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 16.28,
+        "pe_ratio": 16.74,
         "forward_return": 18.67,
         "start_price": 71.3,
         "start_year": 2020
@@ -4188,7 +4188,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 13.29,
         "forward_return": 23.77,
         "start_price": 58.6,
         "start_year": 2020
@@ -4197,7 +4197,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 13.99,
+        "pe_ratio": 14.18,
         "forward_return": 19.38,
         "start_price": 67.1,
         "start_year": 2020
@@ -4206,7 +4206,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 12.35,
+        "pe_ratio": 12.22,
         "forward_return": 21.73,
         "start_price": 61.8,
         "start_year": 2020
@@ -4215,7 +4215,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 12.96,
+        "pe_ratio": 12.57,
         "forward_return": 20.91,
         "start_price": 67.6,
         "start_year": 2020
@@ -4224,7 +4224,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 13.94,
+        "pe_ratio": 13.85,
         "forward_return": 19.34,
         "start_price": 75.6,
         "start_year": 2020
@@ -4233,7 +4233,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 10.86,
+        "pe_ratio": 11.05,
         "forward_return": 24.29,
         "start_price": 61.2,
         "start_year": 2020
@@ -4242,7 +4242,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.13,
+        "pe_ratio": 10.53,
         "forward_return": 26.86,
         "start_price": 59.2,
         "start_year": 2020
@@ -4251,7 +4251,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.44,
+        "pe_ratio": 10.71,
         "forward_return": 34.49,
         "start_price": 63.2,
         "start_year": 2020
@@ -4260,7 +4260,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 12.23,
+        "pe_ratio": 12.38,
         "forward_return": 27.69,
         "start_price": 76.6,
         "start_year": 2020
@@ -4278,7 +4278,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 12.84,
+        "pe_ratio": 13.52,
         "forward_return": 28.91,
         "start_price": 92.0,
         "start_year": 2021
@@ -4287,7 +4287,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 13.16,
+        "pe_ratio": 14.49,
         "forward_return": 32.21,
         "start_price": 103.5,
         "start_year": 2021
@@ -4296,7 +4296,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.5,
+        "pe_ratio": 13.01,
         "forward_return": 13.86,
         "start_price": 80.3,
         "start_year": 2018
@@ -4305,7 +4305,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 12.77,
+        "pe_ratio": 12.32,
         "forward_return": 15.87,
         "start_price": 76.0,
         "start_year": 2018
@@ -4314,7 +4314,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 12.03,
+        "pe_ratio": 11.6,
         "forward_return": 18.22,
         "start_price": 71.6,
         "start_year": 2018
@@ -4323,7 +4323,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 13.18,
+        "pe_ratio": 12.73,
         "forward_return": 14.82,
         "start_price": 78.4,
         "start_year": 2018
@@ -4332,7 +4332,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 12.66,
+        "pe_ratio": 12.24,
         "forward_return": 15.97,
         "start_price": 75.3,
         "start_year": 2018
@@ -4341,7 +4341,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 12.52,
+        "pe_ratio": 12.13,
         "forward_return": 15.91,
         "start_price": 74.5,
         "start_year": 2018
@@ -4350,7 +4350,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.27,
         "forward_return": 20.03,
         "start_price": 62.4,
         "start_year": 2018
@@ -4359,7 +4359,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 10.38,
         "forward_return": 19.44,
         "start_price": 62.4,
         "start_year": 2018
@@ -4377,7 +4377,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 10.37,
+        "pe_ratio": 10.1,
         "forward_return": 22.89,
         "start_price": 60.0,
         "start_year": 2019
@@ -4386,7 +4386,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 11.2,
+        "pe_ratio": 10.61,
         "forward_return": 21.33,
         "start_price": 62.9,
         "start_year": 2019
@@ -4395,7 +4395,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 12.38,
+        "pe_ratio": 11.4,
         "forward_return": 16.94,
         "start_price": 67.5,
         "start_year": 2019
@@ -4404,7 +4404,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 13.56,
+        "pe_ratio": 13.71,
         "forward_return": 14.92,
         "start_price": 71.7,
         "start_year": 2019
@@ -4413,7 +4413,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.68,
+        "pe_ratio": 13.17,
         "forward_return": 18.74,
         "start_price": 59.8,
         "start_year": 2019
@@ -4422,7 +4422,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 12.41,
+        "pe_ratio": 15.97,
         "forward_return": 19.28,
         "start_price": 61.5,
         "start_year": 2019
@@ -4431,7 +4431,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 14.6,
+        "pe_ratio": 18.33,
         "forward_return": 17.6,
         "start_price": 69.9,
         "start_year": 2019
@@ -4440,7 +4440,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 15.44,
+        "pe_ratio": 18.91,
         "forward_return": 17.03,
         "start_price": 71.4,
         "start_year": 2019
@@ -4449,7 +4449,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 18.93,
         "forward_return": 18.54,
         "start_price": 70.8,
         "start_year": 2019
@@ -4458,7 +4458,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 18.52,
+        "pe_ratio": 20.85,
         "forward_return": 23.34,
         "start_price": 79.5,
         "start_year": 2019
@@ -4467,7 +4467,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 18.32,
+        "pe_ratio": 19.45,
         "forward_return": 23.01,
         "start_price": 75.6,
         "start_year": 2019
@@ -4485,7 +4485,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 17.89,
+        "pe_ratio": 18.15,
         "forward_return": 28.08,
         "start_price": 74.6,
         "start_year": 2020
@@ -4688,7 +4688,7 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 6.8倍、10.2倍、12.7倍、18.6倍、21.4倍"
+!!! note "本益比河流帶水位: 6.5倍、10.3倍、13.6倍、18.9倍、21.5倍"
 
 ```vegalite
 {
@@ -4699,952 +4699,952 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
       {
         "date": "2018-04-15",
         "price": 80.3,
-        "pe": 13.5,
-        "pe_10": 40.63,
-        "pe_25": 60.97,
-        "pe_50": 75.78,
-        "pe_75": 110.49,
-        "pe_90": 127.05
+        "pe": 13.01,
+        "pe_10": 39.95,
+        "pe_25": 63.73,
+        "pe_50": 83.69,
+        "pe_75": 116.72,
+        "pe_90": 132.75
       },
       {
         "date": "2018-05-16",
         "price": 76.0,
-        "pe": 12.77,
-        "pe_10": 40.65,
-        "pe_25": 61.0,
-        "pe_50": 75.82,
-        "pe_75": 110.55,
-        "pe_90": 127.12
+        "pe": 12.32,
+        "pe_10": 39.92,
+        "pe_25": 63.69,
+        "pe_50": 83.65,
+        "pe_75": 116.65,
+        "pe_90": 132.68
       },
       {
         "date": "2018-06-15",
         "price": 71.6,
-        "pe": 12.03,
-        "pe_10": 40.65,
-        "pe_25": 61.01,
-        "pe_50": 75.83,
-        "pe_75": 110.55,
-        "pe_90": 127.13
+        "pe": 11.6,
+        "pe_10": 39.95,
+        "pe_25": 63.73,
+        "pe_50": 83.7,
+        "pe_75": 116.72,
+        "pe_90": 132.76
       },
       {
         "date": "2018-07-16",
         "price": 78.4,
-        "pe": 13.18,
-        "pe_10": 40.63,
-        "pe_25": 60.97,
-        "pe_50": 75.78,
-        "pe_75": 110.49,
-        "pe_90": 127.06
+        "pe": 12.73,
+        "pe_10": 39.86,
+        "pe_25": 63.59,
+        "pe_50": 83.51,
+        "pe_75": 116.46,
+        "pe_90": 132.46
       },
       {
         "date": "2018-08-16",
         "price": 75.3,
-        "pe": 12.66,
-        "pe_10": 40.62,
-        "pe_25": 60.97,
-        "pe_50": 75.78,
-        "pe_75": 110.48,
-        "pe_90": 127.05
+        "pe": 12.24,
+        "pe_10": 39.82,
+        "pe_25": 63.52,
+        "pe_50": 83.42,
+        "pe_75": 116.33,
+        "pe_90": 132.32
       },
       {
         "date": "2018-09-15",
         "price": 74.5,
-        "pe": 12.52,
-        "pe_10": 40.64,
-        "pe_25": 60.99,
-        "pe_50": 75.81,
-        "pe_75": 110.53,
-        "pe_90": 127.1
+        "pe": 12.13,
+        "pe_10": 39.75,
+        "pe_25": 63.41,
+        "pe_50": 83.28,
+        "pe_75": 116.14,
+        "pe_90": 132.1
       },
       {
         "date": "2018-10-16",
         "price": 62.4,
-        "pe": 10.49,
-        "pe_10": 40.63,
-        "pe_25": 60.97,
-        "pe_50": 75.78,
-        "pe_75": 110.49,
-        "pe_90": 127.06
+        "pe": 10.27,
+        "pe_10": 39.32,
+        "pe_25": 62.73,
+        "pe_50": 82.39,
+        "pe_75": 114.9,
+        "pe_90": 130.68
       },
       {
         "date": "2018-11-15",
         "price": 62.4,
-        "pe": 10.49,
-        "pe_10": 40.63,
-        "pe_25": 60.97,
-        "pe_50": 75.78,
-        "pe_75": 110.49,
-        "pe_90": 127.06
+        "pe": 10.38,
+        "pe_10": 38.91,
+        "pe_25": 62.07,
+        "pe_50": 81.52,
+        "pe_75": 113.68,
+        "pe_90": 129.3
       },
       {
         "date": "2018-12-16",
         "price": 58.3,
         "pe": 9.8,
-        "pe_10": 40.63,
-        "pe_25": 60.98,
-        "pe_50": 75.79,
-        "pe_75": 110.5,
-        "pe_90": 127.07
+        "pe_10": 38.5,
+        "pe_25": 61.42,
+        "pe_50": 80.67,
+        "pe_75": 112.5,
+        "pe_90": 127.95
       },
       {
         "date": "2019-01-16",
         "price": 60.0,
-        "pe": 10.37,
-        "pe_10": 39.52,
-        "pe_25": 59.31,
-        "pe_50": 73.71,
-        "pe_75": 107.47,
-        "pe_90": 123.59
+        "pe": 10.1,
+        "pe_10": 38.45,
+        "pe_25": 61.34,
+        "pe_50": 80.55,
+        "pe_75": 112.34,
+        "pe_90": 127.77
       },
       {
         "date": "2019-02-14",
         "price": 62.9,
-        "pe": 11.2,
-        "pe_10": 38.36,
-        "pe_25": 57.56,
-        "pe_50": 71.55,
-        "pe_75": 104.32,
-        "pe_90": 119.96
+        "pe": 10.61,
+        "pe_10": 38.37,
+        "pe_25": 61.21,
+        "pe_50": 80.39,
+        "pe_75": 112.11,
+        "pe_90": 127.51
       },
       {
         "date": "2019-03-16",
         "price": 67.5,
-        "pe": 12.38,
-        "pe_10": 37.24,
-        "pe_25": 55.89,
-        "pe_50": 69.46,
-        "pe_75": 101.28,
-        "pe_90": 116.46
+        "pe": 11.4,
+        "pe_10": 38.32,
+        "pe_25": 61.13,
+        "pe_50": 80.29,
+        "pe_75": 111.97,
+        "pe_90": 127.35
       },
       {
         "date": "2019-04-15",
         "price": 71.7,
-        "pe": 13.56,
-        "pe_10": 36.11,
-        "pe_25": 54.2,
-        "pe_50": 67.36,
-        "pe_75": 98.22,
-        "pe_90": 112.94
+        "pe": 13.71,
+        "pe_10": 33.85,
+        "pe_25": 54.0,
+        "pe_50": 70.92,
+        "pe_75": 98.89,
+        "pe_90": 112.48
       },
       {
         "date": "2019-05-16",
         "price": 59.8,
-        "pe": 11.68,
-        "pe_10": 34.97,
-        "pe_25": 52.48,
-        "pe_50": 65.23,
-        "pe_75": 95.1,
-        "pe_90": 109.36
+        "pe": 13.17,
+        "pe_10": 29.39,
+        "pe_25": 46.88,
+        "pe_50": 61.57,
+        "pe_75": 85.86,
+        "pe_90": 97.66
       },
       {
         "date": "2019-06-15",
         "price": 61.5,
-        "pe": 12.41,
-        "pe_10": 33.85,
-        "pe_25": 50.8,
-        "pe_50": 63.14,
-        "pe_75": 92.05,
-        "pe_90": 105.85
+        "pe": 15.97,
+        "pe_10": 24.92,
+        "pe_25": 39.76,
+        "pe_50": 52.22,
+        "pe_75": 72.82,
+        "pe_90": 82.83
       },
       {
         "date": "2019-07-16",
         "price": 69.9,
-        "pe": 14.6,
-        "pe_10": 32.7,
-        "pe_25": 49.07,
-        "pe_50": 60.99,
-        "pe_75": 88.93,
-        "pe_90": 102.26
+        "pe": 18.33,
+        "pe_10": 24.68,
+        "pe_25": 39.37,
+        "pe_50": 51.71,
+        "pe_75": 72.11,
+        "pe_90": 82.02
       },
       {
         "date": "2019-08-16",
         "price": 71.4,
-        "pe": 15.44,
-        "pe_10": 31.58,
-        "pe_25": 47.4,
-        "pe_50": 58.91,
-        "pe_75": 85.9,
-        "pe_90": 98.78
+        "pe": 18.91,
+        "pe_10": 24.44,
+        "pe_25": 38.98,
+        "pe_50": 51.2,
+        "pe_75": 71.4,
+        "pe_90": 81.21
       },
       {
         "date": "2019-09-15",
         "price": 70.8,
-        "pe": 15.88,
-        "pe_10": 30.45,
-        "pe_25": 45.7,
-        "pe_50": 56.8,
-        "pe_75": 82.82,
-        "pe_90": 95.23
+        "pe": 18.93,
+        "pe_10": 24.21,
+        "pe_25": 38.62,
+        "pe_50": 50.72,
+        "pe_75": 70.73,
+        "pe_90": 80.44
       },
       {
         "date": "2019-10-16",
         "price": 79.5,
-        "pe": 18.52,
-        "pe_10": 29.32,
-        "pe_25": 44.0,
-        "pe_50": 54.69,
-        "pe_75": 79.74,
-        "pe_90": 91.69
+        "pe": 20.85,
+        "pe_10": 24.68,
+        "pe_25": 39.37,
+        "pe_50": 51.7,
+        "pe_75": 72.1,
+        "pe_90": 82.01
       },
       {
         "date": "2019-11-15",
         "price": 75.6,
-        "pe": 18.32,
-        "pe_10": 28.18,
-        "pe_25": 42.3,
-        "pe_50": 52.57,
-        "pe_75": 76.65,
-        "pe_90": 88.14
+        "pe": 19.45,
+        "pe_10": 25.16,
+        "pe_25": 40.13,
+        "pe_50": 52.71,
+        "pe_75": 73.5,
+        "pe_90": 83.6
       },
       {
         "date": "2019-12-16",
         "price": 83.2,
         "pe": 21.01,
-        "pe_10": 27.05,
-        "pe_25": 40.59,
-        "pe_50": 50.45,
-        "pe_75": 73.56,
-        "pe_90": 84.59
+        "pe_10": 25.63,
+        "pe_25": 40.89,
+        "pe_50": 53.7,
+        "pe_75": 74.88,
+        "pe_90": 85.17
       },
       {
         "date": "2020-01-16",
         "price": 74.6,
-        "pe": 17.89,
-        "pe_10": 28.48,
-        "pe_25": 42.74,
-        "pe_50": 53.12,
-        "pe_75": 77.46,
-        "pe_90": 89.07
+        "pe": 18.15,
+        "pe_10": 26.6,
+        "pe_25": 42.44,
+        "pe_50": 55.73,
+        "pe_75": 77.72,
+        "pe_90": 88.4
       },
       {
         "date": "2020-02-15",
         "price": 71.3,
-        "pe": 16.28,
-        "pe_10": 29.91,
-        "pe_25": 44.89,
-        "pe_50": 55.8,
-        "pe_75": 81.35,
-        "pe_90": 93.55
+        "pe": 16.74,
+        "pe_10": 27.57,
+        "pe_25": 43.98,
+        "pe_50": 57.76,
+        "pe_75": 80.54,
+        "pe_90": 91.61
       },
       {
         "date": "2020-03-16",
         "price": 58.6,
-        "pe": 12.77,
-        "pe_10": 31.34,
-        "pe_25": 47.04,
-        "pe_50": 58.46,
-        "pe_75": 85.24,
-        "pe_90": 98.02
+        "pe": 13.29,
+        "pe_10": 28.54,
+        "pe_25": 45.53,
+        "pe_50": 59.79,
+        "pe_75": 83.38,
+        "pe_90": 94.84
       },
       {
         "date": "2020-04-15",
         "price": 67.1,
-        "pe": 13.99,
-        "pe_10": 32.76,
-        "pe_25": 49.16,
-        "pe_50": 61.1,
-        "pe_75": 89.09,
-        "pe_90": 102.45
+        "pe": 14.18,
+        "pe_10": 30.63,
+        "pe_25": 48.86,
+        "pe_50": 64.17,
+        "pe_75": 89.48,
+        "pe_90": 101.78
       },
       {
         "date": "2020-05-16",
         "price": 61.8,
-        "pe": 12.35,
-        "pe_10": 34.18,
-        "pe_25": 51.29,
-        "pe_50": 63.75,
-        "pe_75": 92.95,
-        "pe_90": 106.89
+        "pe": 12.22,
+        "pe_10": 32.73,
+        "pe_25": 52.22,
+        "pe_50": 68.58,
+        "pe_75": 95.63,
+        "pe_90": 108.77
       },
       {
         "date": "2020-06-15",
         "price": 67.6,
-        "pe": 12.96,
-        "pe_10": 35.63,
-        "pe_25": 53.46,
-        "pe_50": 66.45,
-        "pe_75": 96.89,
-        "pe_90": 111.41
+        "pe": 12.57,
+        "pe_10": 34.81,
+        "pe_25": 55.53,
+        "pe_50": 72.92,
+        "pe_75": 101.7,
+        "pe_90": 115.67
       },
       {
         "date": "2020-07-16",
         "price": 75.6,
-        "pe": 13.94,
-        "pe_10": 37.04,
-        "pe_25": 55.59,
-        "pe_50": 69.09,
-        "pe_75": 100.74,
-        "pe_90": 115.84
+        "pe": 13.85,
+        "pe_10": 35.33,
+        "pe_25": 56.36,
+        "pe_50": 74.02,
+        "pe_75": 103.22,
+        "pe_90": 117.4
       },
       {
         "date": "2020-08-16",
         "price": 61.2,
-        "pe": 10.86,
-        "pe_10": 38.49,
-        "pe_25": 57.76,
-        "pe_50": 71.79,
-        "pe_75": 104.68,
-        "pe_90": 120.37
+        "pe": 11.05,
+        "pe_10": 35.84,
+        "pe_25": 57.18,
+        "pe_50": 75.1,
+        "pe_75": 104.73,
+        "pe_90": 119.12
       },
       {
         "date": "2020-09-15",
         "price": 59.2,
-        "pe": 10.13,
-        "pe_10": 39.91,
-        "pe_25": 59.9,
-        "pe_50": 74.45,
-        "pe_75": 108.55,
-        "pe_90": 124.83
+        "pe": 10.53,
+        "pe_10": 36.39,
+        "pe_25": 58.05,
+        "pe_50": 76.23,
+        "pe_75": 106.31,
+        "pe_90": 120.92
       },
       {
         "date": "2020-10-16",
         "price": 63.2,
-        "pe": 10.44,
-        "pe_10": 41.35,
-        "pe_25": 62.05,
-        "pe_50": 77.12,
-        "pe_75": 112.45,
-        "pe_90": 129.31
+        "pe": 10.71,
+        "pe_10": 38.19,
+        "pe_25": 60.93,
+        "pe_50": 80.02,
+        "pe_75": 111.59,
+        "pe_90": 126.92
       },
       {
         "date": "2020-11-15",
         "price": 76.6,
-        "pe": 12.23,
-        "pe_10": 42.78,
-        "pe_25": 64.2,
-        "pe_50": 79.79,
-        "pe_75": 116.34,
-        "pe_90": 133.78
+        "pe": 12.38,
+        "pe_10": 40.04,
+        "pe_25": 63.88,
+        "pe_50": 83.9,
+        "pe_75": 117.0,
+        "pe_90": 133.08
       },
       {
         "date": "2020-12-16",
         "price": 81.3,
         "pe": 12.57,
-        "pe_10": 44.17,
-        "pe_25": 66.29,
-        "pe_50": 82.4,
-        "pe_75": 120.14,
-        "pe_90": 138.15
+        "pe_10": 41.86,
+        "pe_25": 66.78,
+        "pe_50": 87.7,
+        "pe_75": 122.31,
+        "pe_90": 139.11
       },
       {
         "date": "2021-01-16",
         "price": 92.0,
-        "pe": 12.84,
-        "pe_10": 48.94,
-        "pe_25": 73.44,
-        "pe_50": 91.28,
-        "pe_75": 133.09,
-        "pe_90": 153.05
+        "pe": 13.52,
+        "pe_10": 44.04,
+        "pe_25": 70.26,
+        "pe_50": 92.27,
+        "pe_75": 128.68,
+        "pe_90": 146.36
       },
       {
         "date": "2021-02-14",
         "price": 103.5,
-        "pe": 13.16,
-        "pe_10": 53.72,
-        "pe_25": 80.61,
-        "pe_50": 100.2,
-        "pe_75": 146.09,
-        "pe_90": 167.99
+        "pe": 14.49,
+        "pe_10": 46.23,
+        "pe_25": 73.75,
+        "pe_50": 96.86,
+        "pe_75": 135.07,
+        "pe_90": 153.63
       },
       {
         "date": "2021-03-16",
         "price": 107.5,
-        "pe": 12.55,
-        "pe_10": 58.5,
-        "pe_25": 87.8,
-        "pe_50": 109.13,
-        "pe_75": 159.11,
-        "pe_90": 182.96
+        "pe": 14.37,
+        "pe_10": 48.42,
+        "pe_25": 77.24,
+        "pe_50": 101.44,
+        "pe_75": 141.46,
+        "pe_90": 160.9
       },
       {
         "date": "2021-04-15",
         "price": 118.0,
-        "pe": 12.74,
-        "pe_10": 63.26,
-        "pe_25": 94.94,
-        "pe_50": 118.0,
-        "pe_75": 172.04,
-        "pe_90": 197.84
+        "pe": 15.25,
+        "pe_10": 50.08,
+        "pe_25": 79.89,
+        "pe_50": 104.92,
+        "pe_75": 146.32,
+        "pe_90": 166.42
       },
       {
         "date": "2021-05-16",
         "price": 111.5,
-        "pe": 11.2,
-        "pe_10": 68.0,
-        "pe_25": 102.04,
-        "pe_50": 126.83,
-        "pe_75": 184.92,
-        "pe_90": 212.65
+        "pe": 13.94,
+        "pe_10": 51.77,
+        "pe_25": 82.59,
+        "pe_50": 108.46,
+        "pe_75": 151.25,
+        "pe_90": 172.03
       },
       {
         "date": "2021-06-15",
         "price": 112.0,
-        "pe": 10.51,
-        "pe_10": 72.78,
-        "pe_25": 109.23,
-        "pe_50": 135.76,
-        "pe_75": 197.94,
-        "pe_90": 227.62
+        "pe": 13.56,
+        "pe_10": 53.46,
+        "pe_25": 85.28,
+        "pe_50": 112.0,
+        "pe_75": 156.19,
+        "pe_90": 177.65
       },
       {
         "date": "2021-07-16",
         "price": 122.5,
-        "pe": 10.79,
-        "pe_10": 77.54,
-        "pe_25": 116.37,
-        "pe_50": 144.64,
-        "pe_75": 210.88,
-        "pe_90": 242.5
+        "pe": 13.86,
+        "pe_10": 57.2,
+        "pe_25": 91.26,
+        "pe_50": 119.85,
+        "pe_75": 167.13,
+        "pe_90": 190.1
       },
       {
         "date": "2021-08-16",
         "price": 128.5,
-        "pe": 10.66,
-        "pe_10": 82.33,
-        "pe_25": 123.56,
-        "pe_50": 153.57,
-        "pe_75": 223.91,
-        "pe_90": 257.48
+        "pe": 13.65,
+        "pe_10": 60.93,
+        "pe_25": 97.2,
+        "pe_50": 127.65,
+        "pe_75": 178.02,
+        "pe_90": 202.47
       },
       {
         "date": "2021-09-15",
         "price": 109.0,
-        "pe": 8.55,
-        "pe_10": 87.07,
-        "pe_25": 130.67,
-        "pe_50": 162.42,
-        "pe_75": 236.8,
-        "pe_90": 272.31
+        "pe": 10.91,
+        "pe_10": 64.66,
+        "pe_25": 103.16,
+        "pe_50": 135.48,
+        "pe_75": 188.93,
+        "pe_90": 214.88
       },
       {
         "date": "2021-10-16",
         "price": 99.8,
-        "pe": 7.42,
-        "pe_10": 91.86,
-        "pe_25": 137.86,
-        "pe_50": 171.35,
-        "pe_75": 249.84,
-        "pe_90": 287.29
+        "pe": 8.6,
+        "pe_10": 75.11,
+        "pe_25": 119.82,
+        "pe_50": 157.36,
+        "pe_75": 219.44,
+        "pe_90": 249.59
       },
       {
         "date": "2021-11-15",
         "price": 102.0,
-        "pe": 7.21,
-        "pe_10": 96.62,
-        "pe_25": 145.01,
-        "pe_50": 180.23,
-        "pe_75": 262.78,
-        "pe_90": 302.18
+        "pe": 7.71,
+        "pe_10": 85.62,
+        "pe_25": 136.6,
+        "pe_50": 179.39,
+        "pe_75": 250.17,
+        "pe_90": 284.54
       },
       {
         "date": "2021-12-16",
         "price": 106.5,
         "pe": 7.18,
-        "pe_10": 101.31,
-        "pe_25": 152.04,
-        "pe_50": 188.97,
-        "pe_75": 275.52,
-        "pe_90": 316.83
+        "pe_10": 96.0,
+        "pe_25": 153.15,
+        "pe_50": 201.13,
+        "pe_75": 280.49,
+        "pe_90": 319.03
       },
       {
         "date": "2022-01-16",
         "price": 98.8,
-        "pe": 6.67,
-        "pe_10": 101.17,
-        "pe_25": 151.83,
-        "pe_50": 188.71,
-        "pe_75": 275.14,
-        "pe_90": 316.4
+        "pe": 6.5,
+        "pe_10": 98.37,
+        "pe_25": 156.94,
+        "pe_50": 206.11,
+        "pe_75": 287.43,
+        "pe_90": 326.92
       },
       {
         "date": "2022-02-14",
         "price": 99.3,
-        "pe": 6.71,
-        "pe_10": 101.08,
-        "pe_25": 151.69,
-        "pe_50": 188.54,
-        "pe_75": 274.89,
-        "pe_90": 316.1
+        "pe": 6.38,
+        "pe_10": 100.73,
+        "pe_25": 160.7,
+        "pe_50": 211.05,
+        "pe_75": 294.32,
+        "pe_90": 334.76
       },
       {
         "date": "2022-03-16",
         "price": 103.5,
-        "pe": 7.01,
-        "pe_10": 100.84,
-        "pe_25": 151.34,
-        "pe_50": 188.1,
-        "pe_75": 274.25,
-        "pe_90": 315.37
+        "pe": 6.49,
+        "pe_10": 103.21,
+        "pe_25": 164.66,
+        "pe_50": 216.25,
+        "pe_75": 301.57,
+        "pe_90": 343.0
       },
       {
         "date": "2022-04-15",
         "price": 95.6,
-        "pe": 6.49,
-        "pe_10": 100.61,
-        "pe_25": 150.99,
-        "pe_50": 187.66,
-        "pe_75": 273.62,
-        "pe_90": 314.64
+        "pe": 5.85,
+        "pe_10": 105.76,
+        "pe_25": 168.73,
+        "pe_50": 221.6,
+        "pe_75": 309.02,
+        "pe_90": 351.48
       },
       {
         "date": "2022-05-16",
         "price": 104.5,
-        "pe": 7.1,
-        "pe_10": 100.53,
-        "pe_25": 150.86,
-        "pe_50": 187.51,
-        "pe_75": 273.39,
-        "pe_90": 314.38
+        "pe": 6.23,
+        "pe_10": 108.56,
+        "pe_25": 173.19,
+        "pe_50": 227.45,
+        "pe_75": 317.19,
+        "pe_90": 360.77
       },
       {
         "date": "2022-06-15",
         "price": 76.4,
-        "pe": 5.2,
-        "pe_10": 100.35,
-        "pe_25": 150.6,
-        "pe_50": 187.18,
-        "pe_75": 272.91,
-        "pe_90": 313.83
+        "pe": 4.45,
+        "pe_10": 111.11,
+        "pe_25": 177.27,
+        "pe_50": 232.81,
+        "pe_75": 324.66,
+        "pe_90": 369.26
       },
       {
         "date": "2022-07-16",
         "price": 86.4,
-        "pe": 5.89,
-        "pe_10": 100.19,
-        "pe_25": 150.36,
-        "pe_50": 186.88,
-        "pe_75": 272.48,
-        "pe_90": 313.33
+        "pe": 4.96,
+        "pe_10": 112.74,
+        "pe_25": 179.85,
+        "pe_50": 236.21,
+        "pe_75": 329.4,
+        "pe_90": 374.66
       },
       {
         "date": "2022-08-16",
         "price": 85.4,
-        "pe": 5.84,
-        "pe_10": 99.88,
-        "pe_25": 149.89,
-        "pe_50": 186.3,
-        "pe_75": 271.63,
-        "pe_90": 312.35
+        "pe": 4.84,
+        "pe_10": 114.2,
+        "pe_25": 182.18,
+        "pe_50": 239.26,
+        "pe_75": 333.66,
+        "pe_90": 379.5
       },
       {
         "date": "2022-09-15",
         "price": 80.1,
-        "pe": 5.48,
-        "pe_10": 99.83,
-        "pe_25": 149.82,
-        "pe_50": 186.22,
-        "pe_75": 271.51,
-        "pe_90": 312.21
+        "pe": 4.47,
+        "pe_10": 115.97,
+        "pe_25": 185.02,
+        "pe_50": 242.99,
+        "pe_75": 338.86,
+        "pe_90": 385.41
       },
       {
         "date": "2022-10-16",
         "price": 80.4,
-        "pe": 5.51,
-        "pe_10": 99.66,
-        "pe_25": 149.56,
-        "pe_50": 185.9,
-        "pe_75": 271.04,
-        "pe_90": 311.68
+        "pe": 4.79,
+        "pe_10": 108.63,
+        "pe_25": 173.3,
+        "pe_50": 227.6,
+        "pe_75": 317.4,
+        "pe_90": 361.01
       },
       {
         "date": "2022-11-15",
         "price": 97.2,
-        "pe": 6.68,
-        "pe_10": 99.38,
-        "pe_25": 149.15,
-        "pe_50": 185.38,
-        "pe_75": 270.28,
-        "pe_90": 310.81
+        "pe": 6.21,
+        "pe_10": 101.3,
+        "pe_25": 161.61,
+        "pe_50": 212.24,
+        "pe_75": 295.98,
+        "pe_90": 336.65
       },
       {
         "date": "2022-12-16",
         "price": 93.9,
         "pe": 6.46,
-        "pe_10": 99.28,
-        "pe_25": 148.99,
-        "pe_50": 185.18,
-        "pe_75": 270.0,
-        "pe_90": 310.48
+        "pe_10": 94.07,
+        "pe_25": 150.08,
+        "pe_50": 197.1,
+        "pe_75": 274.87,
+        "pe_90": 312.63
       },
       {
         "date": "2023-01-16",
         "price": 100.0,
-        "pe": 7.18,
-        "pe_10": 95.13,
-        "pe_25": 142.76,
-        "pe_50": 177.44,
-        "pe_75": 258.7,
-        "pe_90": 297.49
+        "pe": 7.16,
+        "pe_10": 90.39,
+        "pe_25": 144.2,
+        "pe_50": 189.39,
+        "pe_75": 264.11,
+        "pe_90": 300.39
       },
       {
         "date": "2023-02-14",
         "price": 106.0,
-        "pe": 7.95,
-        "pe_10": 91.07,
-        "pe_25": 136.67,
-        "pe_50": 169.87,
-        "pe_75": 247.67,
-        "pe_90": 284.8
+        "pe": 7.9,
+        "pe_10": 86.84,
+        "pe_25": 138.54,
+        "pe_50": 181.94,
+        "pe_75": 253.73,
+        "pe_90": 288.59
       },
       {
         "date": "2023-03-16",
         "price": 112.5,
-        "pe": 8.83,
-        "pe_10": 87.02,
-        "pe_25": 130.59,
-        "pe_50": 162.32,
-        "pe_75": 236.66,
-        "pe_90": 272.14
+        "pe": 8.75,
+        "pe_10": 83.21,
+        "pe_25": 132.75,
+        "pe_50": 174.34,
+        "pe_75": 243.13,
+        "pe_90": 276.53
       },
       {
         "date": "2023-04-15",
         "price": 101.0,
-        "pe": 8.31,
-        "pe_10": 83.01,
-        "pe_25": 124.58,
-        "pe_50": 154.84,
-        "pe_75": 225.76,
-        "pe_90": 259.61
+        "pe": 8.27,
+        "pe_10": 79.04,
+        "pe_25": 126.1,
+        "pe_50": 165.61,
+        "pe_75": 230.94,
+        "pe_90": 262.67
       },
       {
         "date": "2023-05-16",
         "price": 111.5,
         "pe": 9.65,
-        "pe_10": 78.92,
-        "pe_25": 118.43,
-        "pe_50": 147.2,
-        "pe_75": 214.62,
-        "pe_90": 246.8
+        "pe_10": 74.78,
+        "pe_25": 119.3,
+        "pe_50": 156.68,
+        "pe_75": 218.49,
+        "pe_90": 248.51
       },
       {
         "date": "2023-06-15",
         "price": 110.5,
-        "pe": 10.08,
-        "pe_10": 74.87,
-        "pe_25": 112.36,
-        "pe_50": 139.66,
-        "pe_75": 203.62,
-        "pe_90": 234.15
+        "pe": 10.14,
+        "pe_10": 70.53,
+        "pe_25": 112.52,
+        "pe_50": 147.77,
+        "pe_75": 206.07,
+        "pe_90": 234.38
       },
       {
         "date": "2023-07-16",
         "price": 114.5,
-        "pe": 11.05,
-        "pe_10": 70.77,
-        "pe_25": 106.21,
-        "pe_50": 132.01,
-        "pe_75": 192.47,
-        "pe_90": 221.33
+        "pe": 11.2,
+        "pe_10": 66.16,
+        "pe_25": 105.55,
+        "pe_50": 138.63,
+        "pe_75": 193.32,
+        "pe_90": 219.88
       },
       {
         "date": "2023-08-16",
         "price": 118.0,
-        "pe": 12.08,
-        "pe_10": 66.72,
-        "pe_25": 100.12,
-        "pe_50": 124.45,
-        "pe_75": 181.44,
-        "pe_90": 208.65
+        "pe": 12.37,
+        "pe_10": 61.74,
+        "pe_25": 98.49,
+        "pe_50": 129.35,
+        "pe_75": 180.39,
+        "pe_90": 205.17
       },
       {
         "date": "2023-09-15",
         "price": 109.5,
-        "pe": 11.93,
-        "pe_10": 62.69,
-        "pe_25": 94.08,
-        "pe_50": 116.93,
-        "pe_75": 170.49,
-        "pe_90": 196.05
+        "pe": 12.36,
+        "pe_10": 57.34,
+        "pe_25": 91.47,
+        "pe_50": 120.13,
+        "pe_75": 167.53,
+        "pe_90": 190.54
       },
       {
         "date": "2023-10-16",
         "price": 113.5,
-        "pe": 13.23,
-        "pe_10": 58.59,
-        "pe_25": 87.93,
-        "pe_50": 109.3,
-        "pe_75": 159.35,
-        "pe_90": 183.25
+        "pe": 13.56,
+        "pe_10": 54.17,
+        "pe_25": 86.42,
+        "pe_50": 113.5,
+        "pe_75": 158.28,
+        "pe_90": 180.03
       },
       {
         "date": "2023-11-15",
         "price": 128.0,
-        "pe": 16.03,
-        "pe_10": 54.54,
-        "pe_25": 81.85,
-        "pe_50": 101.73,
-        "pe_75": 148.32,
-        "pe_90": 170.56
+        "pe": 16.24,
+        "pe_10": 51.01,
+        "pe_25": 81.38,
+        "pe_50": 106.88,
+        "pe_75": 149.04,
+        "pe_90": 169.52
       },
       {
         "date": "2023-12-16",
         "price": 135.0,
         "pe": 18.27,
-        "pe_10": 50.47,
-        "pe_25": 75.74,
-        "pe_50": 94.14,
-        "pe_75": 137.25,
-        "pe_90": 157.83
+        "pe_10": 47.82,
+        "pe_25": 76.29,
+        "pe_50": 100.2,
+        "pe_75": 139.73,
+        "pe_90": 158.93
       },
       {
         "date": "2024-01-16",
         "price": 136.0,
-        "pe": 18.38,
-        "pe_10": 50.54,
-        "pe_25": 75.84,
-        "pe_50": 94.27,
-        "pe_75": 137.44,
-        "pe_90": 158.05
+        "pe": 18.45,
+        "pe_10": 47.71,
+        "pe_25": 76.11,
+        "pe_50": 99.95,
+        "pe_75": 139.39,
+        "pe_90": 158.54
       },
       {
         "date": "2024-02-15",
         "price": 139.0,
-        "pe": 18.75,
-        "pe_10": 50.63,
-        "pe_25": 75.99,
-        "pe_50": 94.45,
-        "pe_75": 137.7,
-        "pe_90": 158.35
+        "pe": 18.91,
+        "pe_10": 47.57,
+        "pe_25": 75.9,
+        "pe_50": 99.67,
+        "pe_75": 139.0,
+        "pe_90": 158.1
       },
       {
         "date": "2024-03-16",
         "price": 161.0,
-        "pe": 21.69,
-        "pe_10": 50.7,
-        "pe_25": 76.08,
-        "pe_50": 94.57,
-        "pe_75": 137.88,
-        "pe_90": 158.55
+        "pe": 21.96,
+        "pe_10": 47.45,
+        "pe_25": 75.7,
+        "pe_50": 99.42,
+        "pe_75": 138.64,
+        "pe_90": 157.69
       },
       {
         "date": "2024-04-15",
         "price": 148.0,
-        "pe": 19.91,
-        "pe_10": 50.77,
-        "pe_25": 76.19,
-        "pe_50": 94.7,
-        "pe_75": 138.08,
-        "pe_90": 158.78
+        "pe": 20.21,
+        "pe_10": 47.4,
+        "pe_25": 75.61,
+        "pe_50": 99.3,
+        "pe_75": 138.48,
+        "pe_90": 157.51
       },
       {
         "date": "2024-05-16",
         "price": 157.0,
-        "pe": 21.09,
-        "pe_10": 50.84,
-        "pe_25": 76.3,
-        "pe_50": 94.84,
-        "pe_75": 138.28,
-        "pe_90": 159.01
+        "pe": 21.46,
+        "pe_10": 47.35,
+        "pe_25": 75.54,
+        "pe_50": 99.2,
+        "pe_75": 138.34,
+        "pe_90": 157.35
       },
       {
         "date": "2024-06-15",
         "price": 168.5,
-        "pe": 22.6,
-        "pe_10": 50.92,
-        "pe_25": 76.42,
-        "pe_50": 94.99,
-        "pe_75": 138.49,
-        "pe_90": 159.25
+        "pe": 23.05,
+        "pe_10": 47.31,
+        "pe_25": 75.48,
+        "pe_50": 99.13,
+        "pe_75": 138.24,
+        "pe_90": 157.23
       },
       {
         "date": "2024-07-16",
         "price": 150.0,
-        "pe": 20.09,
-        "pe_10": 51.0,
-        "pe_25": 76.53,
-        "pe_50": 95.12,
-        "pe_75": 138.69,
-        "pe_90": 159.48
+        "pe": 20.3,
+        "pe_10": 47.82,
+        "pe_25": 76.29,
+        "pe_50": 100.2,
+        "pe_75": 139.73,
+        "pe_90": 158.93
       },
       {
         "date": "2024-08-16",
         "price": 153.5,
-        "pe": 20.53,
-        "pe_10": 51.07,
-        "pe_25": 76.64,
-        "pe_50": 95.26,
-        "pe_75": 138.88,
-        "pe_90": 159.71
+        "pe": 20.55,
+        "pe_10": 48.34,
+        "pe_25": 77.12,
+        "pe_50": 101.29,
+        "pe_75": 141.25,
+        "pe_90": 160.66
       },
       {
         "date": "2024-09-15",
         "price": 151.0,
-        "pe": 20.17,
-        "pe_10": 51.13,
-        "pe_25": 76.74,
-        "pe_50": 95.38,
-        "pe_75": 139.06,
-        "pe_90": 159.91
+        "pe": 20.0,
+        "pe_10": 48.86,
+        "pe_25": 77.95,
+        "pe_50": 102.38,
+        "pe_75": 142.77,
+        "pe_90": 162.39
       },
       {
         "date": "2024-10-16",
         "price": 157.0,
-        "pe": 20.94,
-        "pe_10": 51.21,
-        "pe_25": 76.85,
-        "pe_50": 95.52,
-        "pe_75": 139.27,
-        "pe_90": 160.15
+        "pe": 20.82,
+        "pe_10": 48.8,
+        "pe_25": 77.86,
+        "pe_50": 102.25,
+        "pe_75": 142.6,
+        "pe_90": 162.19
       },
       {
         "date": "2024-11-15",
         "price": 151.5,
-        "pe": 20.18,
-        "pe_10": 51.28,
-        "pe_25": 76.95,
-        "pe_50": 95.64,
-        "pe_75": 139.45,
-        "pe_90": 160.36
+        "pe": 20.12,
+        "pe_10": 48.73,
+        "pe_25": 77.75,
+        "pe_50": 102.1,
+        "pe_75": 142.39,
+        "pe_90": 161.95
       },
       {
         "date": "2024-12-16",
         "price": 162.0,
         "pe": 21.54,
-        "pe_10": 51.37,
-        "pe_25": 77.09,
-        "pe_50": 95.82,
-        "pe_75": 139.7,
-        "pe_90": 160.65
+        "pe_10": 48.68,
+        "pe_25": 77.65,
+        "pe_50": 101.98,
+        "pe_75": 142.22,
+        "pe_90": 161.76
       },
       {
         "date": "2025-01-16",
         "price": 177.0,
-        "pe": 23.38,
-        "pe_10": 51.71,
-        "pe_25": 77.6,
-        "pe_50": 96.45,
-        "pe_75": 140.62,
-        "pe_90": 161.71
+        "pe": 23.09,
+        "pe_10": 49.61,
+        "pe_25": 79.15,
+        "pe_50": 103.95,
+        "pe_75": 144.96,
+        "pe_90": 164.87
       },
       {
         "date": "2025-02-14",
         "price": 171.0,
-        "pe": 22.43,
-        "pe_10": 52.07,
-        "pe_25": 78.14,
-        "pe_50": 97.13,
-        "pe_75": 141.61,
-        "pe_90": 162.84
+        "pe": 21.89,
+        "pe_10": 50.56,
+        "pe_25": 80.66,
+        "pe_50": 105.93,
+        "pe_75": 147.72,
+        "pe_90": 168.02
       },
       {
         "date": "2025-03-16",
         "price": 143.0,
-        "pe": 18.63,
-        "pe_10": 52.43,
-        "pe_25": 78.68,
-        "pe_50": 97.79,
-        "pe_75": 142.58,
-        "pe_90": 163.95
+        "pe": 17.96,
+        "pe_10": 51.53,
+        "pe_25": 82.21,
+        "pe_50": 107.97,
+        "pe_75": 150.56,
+        "pe_90": 171.25
       },
       {
         "date": "2025-04-15",
         "price": 135.5,
-        "pe": 17.54,
-        "pe_10": 52.76,
-        "pe_25": 79.18,
-        "pe_50": 98.42,
-        "pe_75": 143.5,
-        "pe_90": 165.01
+        "pe": 17.08,
+        "pe_10": 51.34,
+        "pe_25": 81.91,
+        "pe_50": 107.57,
+        "pe_75": 150.02,
+        "pe_90": 170.63
       },
       {
         "date": "2025-05-16",
         "price": 138.0,
-        "pe": 17.74,
-        "pe_10": 53.13,
-        "pe_25": 79.74,
-        "pe_50": 99.1,
-        "pe_75": 144.5,
-        "pe_90": 166.16
+        "pe": 17.45,
+        "pe_10": 51.18,
+        "pe_25": 81.65,
+        "pe_50": 107.24,
+        "pe_75": 149.55,
+        "pe_90": 170.09
       },
       {
         "date": "2025-06-15",
         "price": 147.5,
-        "pe": 18.84,
-        "pe_10": 53.47,
-        "pe_25": 80.25,
-        "pe_50": 99.74,
-        "pe_75": 145.43,
-        "pe_90": 167.23
+        "pe": 18.72,
+        "pe_10": 50.99,
+        "pe_25": 81.35,
+        "pe_50": 106.84,
+        "pe_75": 149.0,
+        "pe_90": 169.47
       },
       {
         "date": "2025-07-16",
         "price": 152.5,
-        "pe": 19.35,
-        "pe_10": 53.83,
-        "pe_25": 80.78,
-        "pe_50": 100.41,
-        "pe_75": 146.39,
-        "pe_90": 168.34
+        "pe": 19.14,
+        "pe_10": 51.57,
+        "pe_25": 82.27,
+        "pe_50": 108.04,
+        "pe_75": 150.67,
+        "pe_90": 171.37
       },
       {
         "date": "2025-08-16",
         "price": 151.0,
-        "pe": 19.03,
-        "pe_10": 54.19,
-        "pe_25": 81.33,
-        "pe_50": 101.09,
-        "pe_75": 147.39,
-        "pe_90": 169.49
+        "pe": 18.75,
+        "pe_10": 52.12,
+        "pe_25": 83.15,
+        "pe_50": 109.2,
+        "pe_75": 152.29,
+        "pe_90": 173.21
       },
       {
         "date": "2025-09-15",
         "price": 164.0,
-        "pe": 20.54,
-        "pe_10": 54.53,
-        "pe_25": 81.84,
-        "pe_50": 101.72,
-        "pe_75": 148.31,
-        "pe_90": 170.55
+        "pe": 20.15,
+        "pe_10": 52.68,
+        "pe_25": 84.03,
+        "pe_50": 110.36,
+        "pe_75": 153.91,
+        "pe_90": 175.05
       },
       {
         "date": "2025-10-16",
         "price": 247.5,
-        "pe": 30.8,
-        "pe_10": 54.88,
-        "pe_25": 82.37,
-        "pe_50": 102.37,
-        "pe_75": 149.26,
-        "pe_90": 171.64
+        "pe": 28.95,
+        "pe_10": 55.33,
+        "pe_25": 88.27,
+        "pe_50": 115.93,
+        "pe_75": 161.67,
+        "pe_90": 183.88
       },
       {
         "date": "2025-11-15",
         "price": 229.5,
-        "pe": 28.37,
-        "pe_10": 55.25,
-        "pe_25": 82.92,
-        "pe_50": 103.06,
-        "pe_75": 150.26,
-        "pe_90": 172.79
+        "pe": 25.61,
+        "pe_10": 58.0,
+        "pe_25": 92.53,
+        "pe_50": 121.52,
+        "pe_75": 169.46,
+        "pe_90": 192.74
       },
       {
         "date": "2025-12-16",
         "price": 250.5,
-        "pe": 30.77,
-        "pe_10": 55.6,
-        "pe_25": 83.45,
-        "pe_50": 103.72,
-        "pe_75": 151.22,
-        "pe_90": 173.89
+        "pe": 26.73,
+        "pe_10": 60.65,
+        "pe_25": 96.76,
+        "pe_50": 127.08,
+        "pe_75": 177.21,
+        "pe_90": 201.56
       },
       {
         "date": "2026-01-16",
         "price": 297.0,
-        "pe": 36.49,
-        "pe_10": 55.59,
-        "pe_25": 83.43,
-        "pe_50": 103.69,
-        "pe_75": 151.19,
-        "pe_90": 173.85
+        "pe": 31.7,
+        "pe_10": 60.64,
+        "pe_25": 96.74,
+        "pe_50": 127.04,
+        "pe_75": 177.17,
+        "pe_90": 201.51
       },
       {
         "date": "2026-02-14",
         "price": 387.5,
-        "pe": 47.6,
-        "pe_10": 55.6,
-        "pe_25": 83.44,
-        "pe_50": 103.71,
-        "pe_75": 151.21,
-        "pe_90": 173.89
+        "pe": 41.36,
+        "pe_10": 60.64,
+        "pe_25": 96.73,
+        "pe_50": 127.04,
+        "pe_75": 177.17,
+        "pe_90": 201.51
       }
     ]
   },
@@ -5777,19 +5777,19 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (6.8倍)",
+            "title": "PE 10% (6.5倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (12.7倍)",
+            "title": "PE 50% (13.6倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (21.4倍)",
+            "title": "PE 90% (21.5倍)",
             "format": ".1f"
           }
         ]
@@ -6205,6 +6205,10 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
       {
         "date": "2026-01-16",
         "revenue_yoy": 21.3
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 15.9
       }
     ]
   },
@@ -6272,14 +6276,14 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 13.5 | +51.6% | 0.003 | 2025-07 (+583.8%) | 2019-12 (-75.5%) |
-| 6個月 | 13.2 | +36.3% | 0.001 | 2025-07 (+275.5%) | 2018-07 (-41.2%) |
-| 1年 | 12.8 | +25.0% | 0.003 | 2025-02 (+129.8%) | 2021-08 (-28.1%) |
-| 2年 | 11.3 | +21.9% | 0.033 | 2022-06 (+55.3%) | 2018-09 (-7.5%) |
-| 3年 | 11.1 | +21.7% | 0.346 | 2023-02 (+56.5%) | 2019-10 (+5.6%) |
-| 4年 | 12.3 | +19.1% | 0.086 | 2022-02 (+42.9%) | 2018-06 (+5.2%) |
-| 5年 | 13.3 | +20.8% | 0.054 | 2020-10 (+34.5%) | 2018-04 (+8.2%) |
-| 6年 | 13.7 | +19.1% | 0.132 | 2020-01 (+28.1%) | 2018-04 (+13.9%) |
+| 3個月 | 13.8 | +51.6% | 0.002 | 2025-07 (+583.8%) | 2019-12 (-75.5%) |
+| 6個月 | 13.5 | +36.3% | 0.006 | 2025-07 (+275.5%) | 2018-07 (-41.2%) |
+| 1年 | 13.2 | +25.0% | 0.023 | 2025-02 (+129.8%) | 2021-08 (-28.1%) |
+| 2年 | 11.8 | +21.9% | 0.044 | 2022-06 (+55.3%) | 2018-09 (-7.5%) |
+| 3年 | 11.6 | +21.7% | 0.408 | 2023-02 (+56.5%) | 2019-10 (+5.6%) |
+| 4年 | 13.1 | +19.1% | 0.119 | 2022-02 (+42.9%) | 2018-06 (+5.2%) |
+| 5年 | 13.8 | +20.8% | 0.008 | 2020-10 (+34.5%) | 2018-04 (+8.2%) |
+| 6年 | 14.3 | +19.1% | 0.103 | 2020-01 (+28.1%) | 2018-04 (+13.9%) |
 
 
 ## 🎯 使用說明
@@ -6298,4 +6302,4 @@ description: "3711 日月光投控 (半導體業) 本益比與未來報酬率關
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:34:12 CST*
+*數據更新時間: 2026-03-21 12:40:49 CST*

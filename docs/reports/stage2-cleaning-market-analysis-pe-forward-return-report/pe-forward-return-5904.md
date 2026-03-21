@@ -2,7 +2,7 @@
 title: "5904 寶雅 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
     - **產業別**: 居家生活
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:35:06 CST
+    - **報告生成時間**: 2026-03-21 12:41:51 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 7.56,
         "forward_return": -11.16,
         "start_price": 27.6,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 7.85,
         "forward_return": -31.0,
         "start_price": 29.1,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 7.37,
         "forward_return": -41.16,
         "start_price": 27.75,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 7.09,
         "forward_return": -29.9,
         "start_price": 27.1,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 7.07,
         "forward_return": -57.28,
         "start_price": 25.15,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.12,
+        "pe_ratio": 6.95,
         "forward_return": -13.11,
         "start_price": 22.9,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 9.32,
+        "pe_ratio": 7.72,
         "forward_return": -24.05,
         "start_price": 23.4,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 8.09,
+        "pe_ratio": 7.11,
         "forward_return": 25.61,
         "start_price": 20.3,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 7.86,
         "forward_return": 7.39,
         "start_price": 21.1,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.97,
         "forward_return": 13.29,
         "start_price": 21.5,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.37,
         "forward_return": 20.36,
         "start_price": 21.4,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 8.61,
+        "pe_ratio": 9.95,
         "forward_return": 171.32,
         "start_price": 21.6,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 10.17,
         "forward_return": 232.39,
         "start_price": 22.35,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 8.94,
+        "pe_ratio": 10.07,
         "forward_return": 89.04,
         "start_price": 22.4,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.38,
+        "pe_ratio": 13.78,
         "forward_return": -51.41,
         "start_price": 31.0,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.46,
+        "pe_ratio": 12.97,
         "forward_return": -36.48,
         "start_price": 28.7,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 11.42,
         "forward_return": -47.8,
         "start_price": 24.85,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 9.75,
+        "pe_ratio": 11.4,
         "forward_return": -54.98,
         "start_price": 24.4,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 11.33,
         "forward_return": -71.87,
         "start_price": 25.6,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.03,
         "forward_return": 38.51,
         "start_price": 21.5,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.3,
+        "pe_ratio": 7.22,
         "forward_return": 216.7,
         "start_price": 18.6,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.82,
+        "pe_ratio": 7.65,
         "forward_return": 226.02,
         "start_price": 20.3,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.05,
+        "pe_ratio": 8.77,
         "forward_return": 24.95,
         "start_price": 23.95,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.78,
+        "pe_ratio": 9.55,
         "forward_return": -8.12,
         "start_price": 26.35,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.77,
         "forward_return": -9.82,
         "start_price": 27.25,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.83,
         "forward_return": -39.93,
         "start_price": 24.9,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 8.46,
+        "pe_ratio": 8.4,
         "forward_return": -64.04,
         "start_price": 24.0,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.55,
         "forward_return": -26.81,
         "start_price": 24.75,
         "start_year": 2008
@@ -309,7 +309,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.86,
         "forward_return": 51.72,
         "start_price": 20.1,
         "start_year": 2008
@@ -345,7 +345,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 7.61,
+        "pe_ratio": 7.52,
         "forward_return": 87.06,
         "start_price": 23.2,
         "start_year": 2009
@@ -354,7 +354,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 120.67,
         "start_price": 23.45,
         "start_year": 2009
@@ -363,7 +363,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.43,
+        "pe_ratio": 8.14,
         "forward_return": 36.43,
         "start_price": 25.15,
         "start_year": 2009
@@ -372,7 +372,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 9.69,
+        "pe_ratio": 9.55,
         "forward_return": -9.47,
         "start_price": 28.6,
         "start_year": 2009
@@ -381,7 +381,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.77,
+        "pe_ratio": 9.84,
         "forward_return": -2.76,
         "start_price": 28.5,
         "start_year": 2009
@@ -390,7 +390,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.95,
+        "pe_ratio": 10.25,
         "forward_return": 9.3,
         "start_price": 28.7,
         "start_year": 2009
@@ -399,7 +399,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.38,
         "forward_return": 17.81,
         "start_price": 26.1,
         "start_year": 2009
@@ -408,7 +408,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 9.58,
         "forward_return": 26.31,
         "start_price": 26.5,
         "start_year": 2009
@@ -417,7 +417,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.02,
         "forward_return": 17.02,
         "start_price": 27.55,
         "start_year": 2009
@@ -426,7 +426,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.96,
         "forward_return": 14.6,
         "start_price": 27.2,
         "start_year": 2009
@@ -435,7 +435,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.02,
         "forward_return": 32.77,
         "start_price": 27.15,
         "start_year": 2009
@@ -453,7 +453,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.28,
+        "pe_ratio": 10.04,
         "forward_return": 43.55,
         "start_price": 28.15,
         "start_year": 2010
@@ -462,7 +462,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.25,
+        "pe_ratio": 9.79,
         "forward_return": 52.92,
         "start_price": 28.55,
         "start_year": 2010
@@ -471,7 +471,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.52,
+        "pe_ratio": 9.83,
         "forward_return": 59.1,
         "start_price": 29.8,
         "start_year": 2010
@@ -480,7 +480,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 10.05,
         "forward_return": 55.01,
         "start_price": 31.2,
         "start_year": 2010
@@ -489,7 +489,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.83,
+        "pe_ratio": 9.98,
         "forward_return": 71.25,
         "start_price": 31.7,
         "start_year": 2010
@@ -498,7 +498,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 9.94,
         "forward_return": -12.85,
         "start_price": 32.3,
         "start_year": 2010
@@ -507,7 +507,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.06,
         "forward_return": -46.14,
         "start_price": 34.3,
         "start_year": 2010
@@ -516,7 +516,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 12.14,
         "forward_return": -41.09,
         "start_price": 35.8,
         "start_year": 2010
@@ -525,7 +525,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.96,
         "forward_return": -8.84,
         "start_price": 30.7,
         "start_year": 2010
@@ -534,7 +534,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.27,
+        "pe_ratio": 9.94,
         "forward_return": 5.52,
         "start_price": 29.35,
         "start_year": 2010
@@ -543,7 +543,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 9.03,
         "forward_return": 22.7,
         "start_price": 28.05,
         "start_year": 2010
@@ -561,7 +561,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 9.01,
+        "pe_ratio": 8.98,
         "forward_return": 55.59,
         "start_price": 29.75,
         "start_year": 2011
@@ -570,7 +570,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 8.82,
+        "pe_ratio": 8.76,
         "forward_return": 86.57,
         "start_price": 29.5,
         "start_year": 2011
@@ -579,7 +579,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 8.86,
+        "pe_ratio": 8.77,
         "forward_return": 305.88,
         "start_price": 30.0,
         "start_year": 2011
@@ -588,7 +588,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.21,
         "forward_return": 284.33,
         "start_price": 34.25,
         "start_year": 2011
@@ -597,7 +597,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 9.92,
+        "pe_ratio": 10.47,
         "forward_return": 169.31,
         "start_price": 34.4,
         "start_year": 2011
@@ -606,7 +606,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.41,
         "forward_return": 15.4,
         "start_price": 36.75,
         "start_year": 2011
@@ -615,7 +615,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.85,
         "forward_return": -49.34,
         "start_price": 45.1,
         "start_year": 2011
@@ -624,7 +624,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.56,
         "forward_return": -41.6,
         "start_price": 41.35,
         "start_year": 2011
@@ -633,7 +633,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.6,
         "forward_return": -8.26,
         "start_price": 35.3,
         "start_year": 2011
@@ -642,7 +642,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.94,
         "forward_return": 1.05,
         "start_price": 38.0,
         "start_year": 2011
@@ -651,7 +651,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 9.3,
         "forward_return": 153.59,
         "start_price": 33.65,
         "start_year": 2011
@@ -669,7 +669,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.78,
         "forward_return": 180.21,
         "start_price": 38.1,
         "start_year": 2012
@@ -678,7 +678,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 10.43,
         "forward_return": 164.88,
         "start_price": 42.05,
         "start_year": 2012
@@ -687,7 +687,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.98,
         "forward_return": 179.76,
         "start_price": 45.8,
         "start_year": 2012
@@ -696,7 +696,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.16,
+        "pe_ratio": 11.41,
         "forward_return": 193.15,
         "start_price": 49.4,
         "start_year": 2012
@@ -705,7 +705,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.94,
         "forward_return": 122.74,
         "start_price": 53.6,
         "start_year": 2012
@@ -714,7 +714,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.74,
         "forward_return": 141.53,
         "start_price": 54.6,
         "start_year": 2012
@@ -723,7 +723,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 12.57,
         "forward_return": 56.31,
         "start_price": 61.3,
         "start_year": 2012
@@ -732,7 +732,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 12.21,
         "forward_return": 77.77,
         "start_price": 62.3,
         "start_year": 2012
@@ -741,7 +741,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 12.18,
         "forward_return": 83.53,
         "start_price": 64.9,
         "start_year": 2012
@@ -750,7 +750,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.42,
         "forward_return": 145.34,
         "start_price": 68.6,
         "start_year": 2012
@@ -759,7 +759,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 14.92,
         "forward_return": 124.38,
         "start_price": 73.0,
         "start_year": 2012
@@ -777,7 +777,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 17.97,
+        "pe_ratio": 17.86,
         "forward_return": 200.87,
         "start_price": 86.0,
         "start_year": 2013
@@ -786,7 +786,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.14,
         "forward_return": 191.26,
         "start_price": 94.9,
         "start_year": 2013
@@ -795,7 +795,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 18.67,
         "forward_return": 401.2,
         "start_price": 95.2,
         "start_year": 2013
@@ -804,7 +804,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 20.2,
+        "pe_ratio": 19.98,
         "forward_return": 520.54,
         "start_price": 103.5,
         "start_year": 2013
@@ -813,7 +813,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 23.58,
+        "pe_ratio": 23.48,
         "forward_return": 72.11,
         "start_price": 123.5,
         "start_year": 2013
@@ -822,7 +822,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 20.04,
         "forward_return": 273.31,
         "start_price": 107.0,
         "start_year": 2013
@@ -831,7 +831,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 29.23,
         "forward_return": -10.77,
         "start_price": 159.0,
         "start_year": 2013
@@ -840,7 +840,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 24.82,
         "forward_return": 149.07,
         "start_price": 137.5,
         "start_year": 2013
@@ -849,7 +849,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 25.48,
+        "pe_ratio": 25.71,
         "forward_return": 174.63,
         "start_price": 145.0,
         "start_year": 2013
@@ -858,7 +858,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.78,
         "forward_return": 129.69,
         "start_price": 154.5,
         "start_year": 2013
@@ -867,7 +867,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 31.86,
+        "pe_ratio": 31.95,
         "forward_return": 16.14,
         "start_price": 188.5,
         "start_year": 2013
@@ -885,7 +885,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 30.66,
+        "pe_ratio": 31.61,
         "forward_return": 0.8,
         "start_price": 190.5,
         "start_year": 2014
@@ -894,7 +894,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 28.77,
+        "pe_ratio": 30.55,
         "forward_return": 16.36,
         "start_price": 184.0,
         "start_year": 2014
@@ -903,7 +903,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 32.89,
         "forward_return": -25.07,
         "start_price": 198.0,
         "start_year": 2014
@@ -912,7 +912,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 27.81,
+        "pe_ratio": 30.37,
         "forward_return": -16.39,
         "start_price": 188.0,
         "start_year": 2014
@@ -921,7 +921,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 27.51,
+        "pe_ratio": 30.03,
         "forward_return": -17.8,
         "start_price": 191.0,
         "start_year": 2014
@@ -930,7 +930,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.49,
+        "pe_ratio": 26.72,
         "forward_return": 54.79,
         "start_price": 174.5,
         "start_year": 2014
@@ -939,7 +939,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.95,
+        "pe_ratio": 25.52,
         "forward_return": 87.42,
         "start_price": 175.0,
         "start_year": 2014
@@ -948,7 +948,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 23.63,
+        "pe_ratio": 24.64,
         "forward_return": 147.28,
         "start_price": 177.0,
         "start_year": 2014
@@ -957,7 +957,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.76,
+        "pe_ratio": 25.3,
         "forward_return": 153.27,
         "start_price": 190.0,
         "start_year": 2014
@@ -966,7 +966,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 26.1,
+        "pe_ratio": 26.46,
         "forward_return": 177.1,
         "start_price": 205.0,
         "start_year": 2014
@@ -975,7 +975,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 29.05,
+        "pe_ratio": 29.25,
         "forward_return": 110.1,
         "start_price": 233.5,
         "start_year": 2014
@@ -993,7 +993,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 31.67,
+        "pe_ratio": 31.34,
         "forward_return": 219.16,
         "start_price": 265.0,
         "start_year": 2015
@@ -1002,7 +1002,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 31.76,
+        "pe_ratio": 31.12,
         "forward_return": 332.31,
         "start_price": 270.5,
         "start_year": 2015
@@ -1011,7 +1011,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 34.39,
+        "pe_ratio": 33.37,
         "forward_return": 81.87,
         "start_price": 298.0,
         "start_year": 2015
@@ -1020,7 +1020,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 37.27,
+        "pe_ratio": 36.17,
         "forward_return": 50.8,
         "start_price": 328.5,
         "start_year": 2015
@@ -1029,7 +1029,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 43.3,
+        "pe_ratio": 42.01,
         "forward_return": -52.06,
         "start_price": 388.0,
         "start_year": 2015
@@ -1038,7 +1038,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 36.06,
+        "pe_ratio": 34.98,
         "forward_return": 8.6,
         "start_price": 328.5,
         "start_year": 2015
@@ -1047,7 +1047,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 38.51,
+        "pe_ratio": 37.55,
         "forward_return": 15.9,
         "start_price": 356.5,
         "start_year": 2015
@@ -1056,7 +1056,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 33.49,
+        "pe_ratio": 32.82,
         "forward_return": -10.09,
         "start_price": 315.0,
         "start_year": 2015
@@ -1065,7 +1065,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 34.33,
+        "pe_ratio": 33.81,
         "forward_return": -26.29,
         "start_price": 328.0,
         "start_year": 2015
@@ -1074,7 +1074,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 38.13,
+        "pe_ratio": 37.76,
         "forward_return": -54.46,
         "start_price": 370.0,
         "start_year": 2015
@@ -1083,7 +1083,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.03,
         "forward_return": 14.5,
         "start_price": 327.0,
         "start_year": 2015
@@ -1101,7 +1101,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 30.25,
         "forward_return": 77.44,
         "start_price": 303.5,
         "start_year": 2016
@@ -1110,7 +1110,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.28,
         "forward_return": 44.22,
         "start_price": 335.0,
         "start_year": 2016
@@ -1119,7 +1119,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.47,
+        "pe_ratio": 33.86,
         "forward_return": 62.61,
         "start_price": 342.0,
         "start_year": 2016
@@ -1128,7 +1128,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 31.93,
+        "pe_ratio": 33.17,
         "forward_return": 91.9,
         "start_price": 342.0,
         "start_year": 2016
@@ -1137,7 +1137,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.89,
         "forward_return": 198.28,
         "start_price": 367.0,
         "start_year": 2016
@@ -1146,7 +1146,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.36,
         "forward_return": 206.79,
         "start_price": 358.0,
         "start_year": 2016
@@ -1155,7 +1155,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 35.0,
+        "pe_ratio": 35.86,
         "forward_return": 85.08,
         "start_price": 393.5,
         "start_year": 2016
@@ -1164,7 +1164,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 41.55,
+        "pe_ratio": 42.3,
         "forward_return": -51.16,
         "start_price": 474.5,
         "start_year": 2016
@@ -1173,7 +1173,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 40.18,
+        "pe_ratio": 40.66,
         "forward_return": -58.86,
         "start_price": 466.0,
         "start_year": 2016
@@ -1182,7 +1182,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 39.02,
+        "pe_ratio": 39.33,
         "forward_return": -51.72,
         "start_price": 459.5,
         "start_year": 2016
@@ -1191,7 +1191,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 33.38,
+        "pe_ratio": 33.51,
         "forward_return": -28.72,
         "start_price": 399.0,
         "start_year": 2016
@@ -1209,7 +1209,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 31.0,
+        "pe_ratio": 30.81,
         "forward_return": 25.84,
         "start_price": 382.5,
         "start_year": 2017
@@ -1218,7 +1218,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 28.41,
+        "pe_ratio": 28.08,
         "forward_return": 80.78,
         "start_price": 356.5,
         "start_year": 2017
@@ -1227,7 +1227,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 27.99,
+        "pe_ratio": 27.5,
         "forward_return": 36.09,
         "start_price": 357.0,
         "start_year": 2017
@@ -1236,7 +1236,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 31.78,
+        "pe_ratio": 31.75,
         "forward_return": -14.96,
         "start_price": 412.0,
         "start_year": 2017
@@ -1245,7 +1245,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 31.32,
+        "pe_ratio": 31.8,
         "forward_return": -8.66,
         "start_price": 412.5,
         "start_year": 2017
@@ -1254,7 +1254,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.85,
+        "pe_ratio": 29.76,
         "forward_return": -13.92,
         "start_price": 386.0,
         "start_year": 2017
@@ -1263,7 +1263,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 28.33,
+        "pe_ratio": 29.06,
         "forward_return": 1.56,
         "start_price": 385.0,
         "start_year": 2017
@@ -1272,7 +1272,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.02,
         "forward_return": -14.49,
         "start_price": 392.5,
         "start_year": 2017
@@ -1281,7 +1281,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 25.78,
+        "pe_ratio": 26.16,
         "forward_return": 13.41,
         "start_price": 361.0,
         "start_year": 2017
@@ -1290,7 +1290,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 27.19,
+        "pe_ratio": 27.46,
         "forward_return": -12.7,
         "start_price": 386.5,
         "start_year": 2017
@@ -1299,7 +1299,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.92,
         "forward_return": -6.79,
         "start_price": 372.0,
         "start_year": 2017
@@ -1317,7 +1317,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.86,
         "forward_return": -38.72,
         "start_price": 373.5,
         "start_year": 2018
@@ -1326,7 +1326,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.99,
+        "pe_ratio": 24.49,
         "forward_return": -50.15,
         "start_price": 377.5,
         "start_year": 2018
@@ -1335,7 +1335,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 22.99,
         "forward_return": -17.77,
         "start_price": 363.5,
         "start_year": 2018
@@ -1344,7 +1344,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.49,
         "forward_return": 14.79,
         "start_price": 329.0,
         "start_year": 2018
@@ -1353,7 +1353,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.51,
         "forward_return": 13.08,
         "start_price": 318.0,
         "start_year": 2018
@@ -1362,7 +1362,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 20.42,
+        "pe_ratio": 19.83,
         "forward_return": -37.82,
         "start_price": 328.0,
         "start_year": 2018
@@ -1371,7 +1371,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.6,
         "forward_return": -53.88,
         "start_price": 327.5,
         "start_year": 2018
@@ -1380,7 +1380,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.04,
+        "pe_ratio": 18.65,
         "forward_return": 1.43,
         "start_price": 315.0,
         "start_year": 2018
@@ -1389,7 +1389,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.3,
         "forward_return": 68.3,
         "start_price": 278.0,
         "start_year": 2018
@@ -1398,7 +1398,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.66,
         "forward_return": 76.58,
         "start_price": 269.5,
         "start_year": 2018
@@ -1407,7 +1407,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.32,
+        "pe_ratio": 17.23,
         "forward_return": 82.74,
         "start_price": 299.0,
         "start_year": 2018
@@ -1425,7 +1425,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 17.73,
         "forward_return": 75.32,
         "start_price": 311.0,
         "start_year": 2019
@@ -1434,7 +1434,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.69,
+        "pe_ratio": 17.92,
         "forward_return": 100.72,
         "start_price": 315.0,
         "start_year": 2019
@@ -1443,7 +1443,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.7,
         "forward_return": 82.66,
         "start_price": 364.5,
         "start_year": 2019
@@ -1452,7 +1452,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.69,
+        "pe_ratio": 21.03,
         "forward_return": 101.19,
         "start_price": 374.5,
         "start_year": 2019
@@ -1461,7 +1461,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 20.77,
         "forward_return": 76.84,
         "start_price": 374.0,
         "start_year": 2019
@@ -1470,7 +1470,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 22.82,
+        "pe_ratio": 23.08,
         "forward_return": 38.91,
         "start_price": 420.0,
         "start_year": 2019
@@ -1479,7 +1479,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.54,
         "forward_return": -10.2,
         "start_price": 430.0,
         "start_year": 2019
@@ -1488,7 +1488,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.69,
         "forward_return": 4.01,
         "start_price": 416.0,
         "start_year": 2019
@@ -1497,7 +1497,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 23.36,
+        "pe_ratio": 23.94,
         "forward_return": -16.22,
         "start_price": 440.5,
         "start_year": 2019
@@ -1506,7 +1506,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.38,
         "forward_return": 16.59,
         "start_price": 418.5,
         "start_year": 2019
@@ -1515,7 +1515,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.73,
         "forward_return": -2.08,
         "start_price": 432.0,
         "start_year": 2019
@@ -1533,7 +1533,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 22.31,
+        "pe_ratio": 22.37,
         "forward_return": 135.84,
         "start_price": 435.0,
         "start_year": 2020
@@ -1542,7 +1542,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 24.22,
+        "pe_ratio": 24.35,
         "forward_return": 116.16,
         "start_price": 477.0,
         "start_year": 2020
@@ -1551,7 +1551,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 21.58,
+        "pe_ratio": 21.74,
         "forward_return": 217.61,
         "start_price": 429.0,
         "start_year": 2020
@@ -1560,7 +1560,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.45,
         "forward_return": 154.63,
         "start_price": 500.0,
         "start_year": 2020
@@ -1569,7 +1569,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 28.52,
+        "pe_ratio": 29.56,
         "forward_return": 10.04,
         "start_price": 578.0,
         "start_year": 2020
@@ -1578,7 +1578,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.89,
         "forward_return": -7.87,
         "start_price": 582.0,
         "start_year": 2020
@@ -1587,7 +1587,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 29.74,
+        "pe_ratio": 30.55,
         "forward_return": 1.3,
         "start_price": 614.0,
         "start_year": 2020
@@ -1596,7 +1596,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.6,
+        "pe_ratio": 27.74,
         "forward_return": 0.52,
         "start_price": 575.0,
         "start_year": 2020
@@ -1605,7 +1605,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.3,
+        "pe_ratio": 25.89,
         "forward_return": 17.77,
         "start_price": 553.0,
         "start_year": 2020
@@ -1614,7 +1614,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 29.03,
+        "pe_ratio": 28.73,
         "forward_return": -21.26,
         "start_price": 616.0,
         "start_year": 2020
@@ -1623,7 +1623,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.93,
+        "pe_ratio": 27.79,
         "forward_return": -1.01,
         "start_price": 598.0,
         "start_year": 2020
@@ -1641,7 +1641,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.2,
+        "pe_ratio": 26.4,
         "forward_return": -20.9,
         "start_price": 580.0,
         "start_year": 2021
@@ -1650,7 +1650,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.75,
+        "pe_ratio": 28.01,
         "forward_return": -46.33,
         "start_price": 626.0,
         "start_year": 2021
@@ -1659,7 +1659,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 26.23,
         "forward_return": 10.23,
         "start_price": 596.0,
         "start_year": 2021
@@ -1668,7 +1668,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 27.4,
         "forward_return": 2.45,
         "start_price": 612.0,
         "start_year": 2021
@@ -1677,7 +1677,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.58,
+        "pe_ratio": 24.47,
         "forward_return": -9.48,
         "start_price": 537.0,
         "start_year": 2021
@@ -1686,7 +1686,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.25,
+        "pe_ratio": 25.19,
         "forward_return": -32.84,
         "start_price": 543.0,
         "start_year": 2021
@@ -1695,7 +1695,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 30.39,
+        "pe_ratio": 29.29,
         "forward_return": -51.7,
         "start_price": 597.0,
         "start_year": 2021
@@ -1704,7 +1704,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 26.08,
+        "pe_ratio": 26.3,
         "forward_return": -40.96,
         "start_price": 505.0,
         "start_year": 2021
@@ -1713,7 +1713,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 26.22,
         "forward_return": -35.56,
         "start_price": 472.5,
         "start_year": 2021
@@ -1722,7 +1722,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.42,
+        "pe_ratio": 27.46,
         "forward_return": -48.26,
         "start_price": 497.0,
         "start_year": 2021
@@ -1731,7 +1731,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.34,
+        "pe_ratio": 26.85,
         "forward_return": -49.85,
         "start_price": 488.0,
         "start_year": 2021
@@ -1749,7 +1749,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 22.86,
+        "pe_ratio": 23.5,
         "forward_return": -68.85,
         "start_price": 421.0,
         "start_year": 2022
@@ -1758,7 +1758,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.03,
         "forward_return": -75.28,
         "start_price": 405.0,
         "start_year": 2022
@@ -1767,7 +1767,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 22.55,
         "forward_return": -2.67,
         "start_price": 389.0,
         "start_year": 2022
@@ -1776,7 +1776,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 16.7,
+        "pe_ratio": 18.33,
         "forward_return": 122.09,
         "start_price": 316.0,
         "start_year": 2022
@@ -1785,7 +1785,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.04,
+        "pe_ratio": 16.65,
         "forward_return": 435.65,
         "start_price": 287.0,
         "start_year": 2022
@@ -1794,7 +1794,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 18.34,
         "forward_return": 166.51,
         "start_price": 316.0,
         "start_year": 2022
@@ -1803,7 +1803,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.92,
         "forward_return": 43.27,
         "start_price": 374.5,
         "start_year": 2022
@@ -1812,7 +1812,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 21.8,
+        "pe_ratio": 22.99,
         "forward_return": 58.01,
         "start_price": 427.0,
         "start_year": 2022
@@ -1821,7 +1821,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 19.92,
+        "pe_ratio": 20.44,
         "forward_return": 156.33,
         "start_price": 393.5,
         "start_year": 2022
@@ -1830,7 +1830,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 20.58,
+        "pe_ratio": 20.93,
         "forward_return": 156.92,
         "start_price": 410.0,
         "start_year": 2022
@@ -1839,7 +1839,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 22.4,
+        "pe_ratio": 22.59,
         "forward_return": 105.34,
         "start_price": 450.0,
         "start_year": 2022
@@ -1857,7 +1857,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 25.24,
+        "pe_ratio": 25.07,
         "forward_return": 7.19,
         "start_price": 520.0,
         "start_year": 2023
@@ -1866,7 +1866,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 28.3,
+        "pe_ratio": 27.94,
         "forward_return": -35.63,
         "start_price": 593.0,
         "start_year": 2023
@@ -1875,7 +1875,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 26.76,
+        "pe_ratio": 26.26,
         "forward_return": -16.86,
         "start_price": 570.0,
         "start_year": 2023
@@ -1884,7 +1884,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 26.52,
+        "pe_ratio": 25.81,
         "forward_return": -24.09,
         "start_price": 574.0,
         "start_year": 2023
@@ -1893,7 +1893,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 24.19,
+        "pe_ratio": 23.37,
         "forward_return": -15.5,
         "start_price": 532.0,
         "start_year": 2023
@@ -1902,7 +1902,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 26.51,
+        "pe_ratio": 25.42,
         "forward_return": -46.42,
         "start_price": 592.0,
         "start_year": 2023
@@ -1911,7 +1911,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 21.71,
         "forward_return": -10.78,
         "start_price": 512.0,
         "start_year": 2023
@@ -1920,7 +1920,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.35,
         "forward_return": 46.41,
         "start_price": 486.0,
         "start_year": 2023
@@ -1929,7 +1929,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 20.62,
+        "pe_ratio": 19.93,
         "forward_return": 72.34,
         "start_price": 482.0,
         "start_year": 2023
@@ -1938,7 +1938,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 20.98,
+        "pe_ratio": 20.51,
         "forward_return": 16.49,
         "start_price": 497.5,
         "start_year": 2023
@@ -1947,7 +1947,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 20.96,
         "forward_return": -8.62,
         "start_price": 510.0,
         "start_year": 2023
@@ -1965,7 +1965,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 21.01,
+        "pe_ratio": 21.06,
         "forward_return": -5.73,
         "start_price": 517.0,
         "start_year": 2024
@@ -1974,7 +1974,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 19.8,
+        "pe_ratio": 19.89,
         "forward_return": 13.74,
         "start_price": 491.0,
         "start_year": 2024
@@ -1983,7 +1983,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 19.81,
+        "pe_ratio": 19.94,
         "forward_return": 26.19,
         "start_price": 495.0,
         "start_year": 2024
@@ -1992,7 +1992,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.93,
         "forward_return": 31.2,
         "start_price": 500.0,
         "start_year": 2024
@@ -2001,7 +2001,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 20.01,
         "forward_return": 13.13,
         "start_price": 507.0,
         "start_year": 2024
@@ -2010,7 +2010,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 19.24,
+        "pe_ratio": 19.23,
         "forward_return": 53.41,
         "start_price": 492.0,
         "start_year": 2024
@@ -2019,7 +2019,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 19.95,
+        "pe_ratio": 19.96,
         "forward_return": -9.67,
         "start_price": 514.0,
         "start_year": 2024
@@ -2028,7 +2028,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 19.33,
+        "pe_ratio": 19.37,
         "forward_return": -3.24,
         "start_price": 502.0,
         "start_year": 2024
@@ -2037,7 +2037,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 20.21,
         "forward_return": -21.28,
         "start_price": 527.0,
         "start_year": 2024
@@ -2046,7 +2046,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 19.01,
+        "pe_ratio": 19.05,
         "forward_return": -12.81,
         "start_price": 501.0,
         "start_year": 2024
@@ -2055,7 +2055,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 18.04,
+        "pe_ratio": 18.06,
         "forward_return": -0.63,
         "start_price": 479.0,
         "start_year": 2024
@@ -2073,7 +2073,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 17.92,
         "forward_return": 12.43,
         "start_price": 484.0,
         "start_year": 2025
@@ -2082,7 +2082,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 19.08,
+        "pe_ratio": 19.03,
         "forward_return": -11.93,
         "start_price": 519.0,
         "start_year": 2025
@@ -2091,7 +2091,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 17.42,
+        "pe_ratio": 17.36,
         "forward_return": 5.09,
         "start_price": 478.0,
         "start_year": 2025
@@ -2100,7 +2100,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.47,
         "forward_return": 6.0,
         "start_price": 479.0,
         "start_year": 2025
@@ -2109,7 +2109,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 18.02,
+        "pe_ratio": 18.41,
         "forward_return": -9.87,
         "start_price": 503.0,
         "start_year": 2025
@@ -2118,7 +2118,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 17.84,
+        "pe_ratio": 18.45,
         "forward_return": -7.68,
         "start_price": 502.0,
         "start_year": 2025
@@ -2127,7 +2127,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 16.32,
+        "pe_ratio": 16.93,
         "forward_return": -7.09,
         "start_price": 463.0,
         "start_year": 2025
@@ -2136,7 +2136,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 16.32,
+        "pe_ratio": 16.99,
         "forward_return": -16.61,
         "start_price": 467.0,
         "start_year": 2025
@@ -2145,7 +2145,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 16.26,
+        "pe_ratio": 16.98,
         "forward_return": -22.95,
         "start_price": 469.0,
         "start_year": 2025
@@ -2154,7 +2154,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 15.63,
+        "pe_ratio": 16.08,
         "forward_return": -42.13,
         "start_price": 454.5,
         "start_year": 2025
@@ -2163,7 +2163,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 7.56,
         "forward_return": -33.77,
         "start_price": 27.6,
         "start_year": 2006
@@ -2172,7 +2172,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 7.85,
         "forward_return": -44.43,
         "start_price": 29.1,
         "start_year": 2006
@@ -2181,7 +2181,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 7.37,
         "forward_return": -26.17,
         "start_price": 27.75,
         "start_year": 2006
@@ -2190,7 +2190,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 7.09,
         "forward_return": -26.48,
         "start_price": 27.1,
         "start_year": 2006
@@ -2199,7 +2199,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 7.07,
         "forward_return": -26.75,
         "start_price": 25.15,
         "start_year": 2006
@@ -2208,7 +2208,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.12,
+        "pe_ratio": 6.95,
         "forward_return": -9.58,
         "start_price": 22.9,
         "start_year": 2006
@@ -2217,7 +2217,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 9.32,
+        "pe_ratio": 7.72,
         "forward_return": -14.92,
         "start_price": 23.4,
         "start_year": 2006
@@ -2226,7 +2226,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 8.09,
+        "pe_ratio": 7.11,
         "forward_return": 18.48,
         "start_price": 20.3,
         "start_year": 2006
@@ -2235,7 +2235,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 7.86,
         "forward_return": 12.82,
         "start_price": 21.1,
         "start_year": 2006
@@ -2253,7 +2253,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.97,
         "forward_return": 97.81,
         "start_price": 21.5,
         "start_year": 2007
@@ -2262,7 +2262,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.37,
         "forward_return": 51.22,
         "start_price": 21.4,
         "start_year": 2007
@@ -2271,7 +2271,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 8.61,
+        "pe_ratio": 9.95,
         "forward_return": 46.79,
         "start_price": 21.6,
         "start_year": 2007
@@ -2280,7 +2280,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 10.17,
         "forward_return": 46.33,
         "start_price": 22.35,
         "start_year": 2007
@@ -2289,7 +2289,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 8.94,
+        "pe_ratio": 10.07,
         "forward_return": -7.15,
         "start_price": 22.4,
         "start_year": 2007
@@ -2298,7 +2298,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.38,
+        "pe_ratio": 13.78,
         "forward_return": -52.06,
         "start_price": 31.0,
         "start_year": 2007
@@ -2307,7 +2307,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.46,
+        "pe_ratio": 12.97,
         "forward_return": -57.73,
         "start_price": 28.7,
         "start_year": 2007
@@ -2316,7 +2316,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 11.42,
         "forward_return": -6.13,
         "start_price": 24.85,
         "start_year": 2007
@@ -2325,7 +2325,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 9.75,
+        "pe_ratio": 11.4,
         "forward_return": -3.67,
         "start_price": 24.4,
         "start_year": 2007
@@ -2334,7 +2334,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 11.33,
         "forward_return": 11.31,
         "start_price": 25.6,
         "start_year": 2007
@@ -2343,7 +2343,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.03,
         "forward_return": 60.9,
         "start_price": 21.5,
         "start_year": 2007
@@ -2361,7 +2361,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.3,
+        "pe_ratio": 7.22,
         "forward_return": 92.84,
         "start_price": 18.6,
         "start_year": 2008
@@ -2370,7 +2370,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.82,
+        "pe_ratio": 7.65,
         "forward_return": 70.87,
         "start_price": 20.3,
         "start_year": 2008
@@ -2379,7 +2379,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.05,
+        "pe_ratio": 8.77,
         "forward_return": -24.27,
         "start_price": 23.95,
         "start_year": 2008
@@ -2388,7 +2388,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.78,
+        "pe_ratio": 9.55,
         "forward_return": -40.29,
         "start_price": 26.35,
         "start_year": 2008
@@ -2397,7 +2397,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.77,
         "forward_return": -18.91,
         "start_price": 27.25,
         "start_year": 2008
@@ -2406,7 +2406,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.83,
         "forward_return": -6.31,
         "start_price": 24.9,
         "start_year": 2008
@@ -2415,7 +2415,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 8.46,
+        "pe_ratio": 8.4,
         "forward_return": -6.51,
         "start_price": 24.0,
         "start_year": 2008
@@ -2424,7 +2424,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.55,
         "forward_return": 2.8,
         "start_price": 24.75,
         "start_year": 2008
@@ -2433,7 +2433,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.86,
         "forward_return": 57.19,
         "start_price": 20.1,
         "start_year": 2008
@@ -2469,7 +2469,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-01-16",
-        "pe_ratio": 7.61,
+        "pe_ratio": 7.52,
         "forward_return": 45.1,
         "start_price": 23.2,
         "start_year": 2009
@@ -2478,7 +2478,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 45.83,
         "start_price": 23.45,
         "start_year": 2009
@@ -2487,7 +2487,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.43,
+        "pe_ratio": 8.14,
         "forward_return": 27.52,
         "start_price": 25.15,
         "start_year": 2009
@@ -2496,7 +2496,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-04-15",
-        "pe_ratio": 9.69,
+        "pe_ratio": 9.55,
         "forward_return": 2.81,
         "start_price": 28.6,
         "start_year": 2009
@@ -2505,7 +2505,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.77,
+        "pe_ratio": 9.84,
         "forward_return": 11.96,
         "start_price": 28.5,
         "start_year": 2009
@@ -2514,7 +2514,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.95,
+        "pe_ratio": 10.25,
         "forward_return": 12.54,
         "start_price": 28.7,
         "start_year": 2009
@@ -2523,7 +2523,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-07-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.38,
         "forward_return": 16.19,
         "start_price": 26.1,
         "start_year": 2009
@@ -2532,7 +2532,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 9.58,
         "forward_return": 22.41,
         "start_price": 26.5,
         "start_year": 2009
@@ -2541,7 +2541,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.02,
         "forward_return": 17.17,
         "start_price": 27.55,
         "start_year": 2009
@@ -2550,7 +2550,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.96,
         "forward_return": 30.18,
         "start_price": 27.2,
         "start_year": 2009
@@ -2559,7 +2559,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.02,
         "forward_return": 36.71,
         "start_price": 27.15,
         "start_year": 2009
@@ -2577,7 +2577,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.28,
+        "pe_ratio": 10.04,
         "forward_return": 53.41,
         "start_price": 28.15,
         "start_year": 2010
@@ -2586,7 +2586,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.25,
+        "pe_ratio": 9.79,
         "forward_return": 61.93,
         "start_price": 28.55,
         "start_year": 2010
@@ -2595,7 +2595,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.52,
+        "pe_ratio": 9.83,
         "forward_return": 0.29,
         "start_price": 29.8,
         "start_year": 2010
@@ -2604,7 +2604,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 10.05,
         "forward_return": -8.45,
         "start_price": 31.2,
         "start_year": 2010
@@ -2613,7 +2613,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.83,
+        "pe_ratio": 9.98,
         "forward_return": -6.37,
         "start_price": 31.7,
         "start_year": 2010
@@ -2622,7 +2622,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 9.94,
         "forward_return": -10.81,
         "start_price": 32.3,
         "start_year": 2010
@@ -2631,7 +2631,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.06,
         "forward_return": -24.61,
         "start_price": 34.3,
         "start_year": 2010
@@ -2640,7 +2640,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 12.14,
         "forward_return": -26.25,
         "start_price": 35.8,
         "start_year": 2010
@@ -2649,7 +2649,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.96,
         "forward_return": -4.55,
         "start_price": 30.7,
         "start_year": 2010
@@ -2658,7 +2658,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.27,
+        "pe_ratio": 9.94,
         "forward_return": 31.46,
         "start_price": 29.35,
         "start_year": 2010
@@ -2667,7 +2667,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 9.03,
         "forward_return": 50.95,
         "start_price": 28.05,
         "start_year": 2010
@@ -2685,7 +2685,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 9.01,
+        "pe_ratio": 8.98,
         "forward_return": 161.46,
         "start_price": 29.75,
         "start_year": 2011
@@ -2694,7 +2694,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 8.82,
+        "pe_ratio": 8.76,
         "forward_return": 124.61,
         "start_price": 29.5,
         "start_year": 2011
@@ -2703,7 +2703,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 8.86,
+        "pe_ratio": 8.77,
         "forward_return": 69.01,
         "start_price": 30.0,
         "start_year": 2011
@@ -2712,7 +2712,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.21,
         "forward_return": 41.8,
         "start_price": 34.25,
         "start_year": 2011
@@ -2721,7 +2721,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-05-16",
-        "pe_ratio": 9.92,
+        "pe_ratio": 10.47,
         "forward_return": 15.08,
         "start_price": 34.4,
         "start_year": 2011
@@ -2730,7 +2730,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-06-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.41,
         "forward_return": 3.29,
         "start_price": 36.75,
         "start_year": 2011
@@ -2739,7 +2739,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.85,
         "forward_return": -28.45,
         "start_price": 45.1,
         "start_year": 2011
@@ -2748,7 +2748,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.56,
         "forward_return": 19.16,
         "start_price": 41.35,
         "start_year": 2011
@@ -2757,7 +2757,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-09-15",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.6,
         "forward_return": 68.64,
         "start_price": 35.3,
         "start_year": 2011
@@ -2766,7 +2766,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.94,
         "forward_return": 80.37,
         "start_price": 38.0,
         "start_year": 2011
@@ -2775,7 +2775,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 9.3,
         "forward_return": 154.54,
         "start_price": 33.65,
         "start_year": 2011
@@ -2793,7 +2793,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.78,
         "forward_return": 188.35,
         "start_price": 38.1,
         "start_year": 2012
@@ -2802,7 +2802,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 10.43,
         "forward_return": 142.78,
         "start_price": 42.05,
         "start_year": 2012
@@ -2811,7 +2811,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.98,
         "forward_return": 115.82,
         "start_price": 45.8,
         "start_year": 2012
@@ -2820,7 +2820,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.16,
+        "pe_ratio": 11.41,
         "forward_return": 111.39,
         "start_price": 49.4,
         "start_year": 2012
@@ -2829,7 +2829,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.94,
         "forward_return": 92.96,
         "start_price": 53.6,
         "start_year": 2012
@@ -2838,7 +2838,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.74,
         "forward_return": 107.87,
         "start_price": 54.6,
         "start_year": 2012
@@ -2847,7 +2847,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 12.57,
         "forward_return": 95.83,
         "start_price": 61.3,
         "start_year": 2012
@@ -2856,7 +2856,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 12.21,
         "forward_return": 107.62,
         "start_price": 62.3,
         "start_year": 2012
@@ -2865,7 +2865,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 12.18,
         "forward_return": 116.66,
         "start_price": 64.9,
         "start_year": 2012
@@ -2874,7 +2874,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.42,
         "forward_return": 175.37,
         "start_price": 68.6,
         "start_year": 2012
@@ -2883,7 +2883,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 14.92,
         "forward_return": 188.93,
         "start_price": 73.0,
         "start_year": 2012
@@ -2901,7 +2901,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 17.97,
+        "pe_ratio": 17.86,
         "forward_return": 263.83,
         "start_price": 86.0,
         "start_year": 2013
@@ -2910,7 +2910,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.14,
         "forward_return": 123.25,
         "start_price": 94.9,
         "start_year": 2013
@@ -2919,7 +2919,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 18.67,
         "forward_return": 138.97,
         "start_price": 95.2,
         "start_year": 2013
@@ -2928,7 +2928,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 20.2,
+        "pe_ratio": 19.98,
         "forward_return": 134.4,
         "start_price": 103.5,
         "start_year": 2013
@@ -2937,7 +2937,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 23.58,
+        "pe_ratio": 23.48,
         "forward_return": 109.73,
         "start_price": 123.5,
         "start_year": 2013
@@ -2946,7 +2946,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 20.04,
         "forward_return": 216.56,
         "start_price": 107.0,
         "start_year": 2013
@@ -2955,7 +2955,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 29.23,
         "forward_return": 43.16,
         "start_price": 159.0,
         "start_year": 2013
@@ -2964,7 +2964,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 24.82,
         "forward_return": 87.43,
         "start_price": 137.5,
         "start_year": 2013
@@ -2973,7 +2973,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 25.48,
+        "pe_ratio": 25.71,
         "forward_return": 87.51,
         "start_price": 145.0,
         "start_year": 2013
@@ -2982,7 +2982,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.78,
         "forward_return": 44.11,
         "start_price": 154.5,
         "start_year": 2013
@@ -2991,7 +2991,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 31.86,
+        "pe_ratio": 31.95,
         "forward_return": 2.69,
         "start_price": 188.5,
         "start_year": 2013
@@ -3009,7 +3009,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 30.66,
+        "pe_ratio": 31.61,
         "forward_return": -11.01,
         "start_price": 190.5,
         "start_year": 2014
@@ -3018,7 +3018,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 28.77,
+        "pe_ratio": 30.55,
         "forward_return": -2.39,
         "start_price": 184.0,
         "start_year": 2014
@@ -3027,7 +3027,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 32.89,
         "forward_return": 10.38,
         "start_price": 198.0,
         "start_year": 2014
@@ -3036,7 +3036,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 27.81,
+        "pe_ratio": 30.37,
         "forward_return": 24.48,
         "start_price": 188.0,
         "start_year": 2014
@@ -3045,7 +3045,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 27.51,
+        "pe_ratio": 30.03,
         "forward_return": 52.21,
         "start_price": 191.0,
         "start_year": 2014
@@ -3054,7 +3054,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.49,
+        "pe_ratio": 26.72,
         "forward_return": 95.73,
         "start_price": 174.5,
         "start_year": 2014
@@ -3063,7 +3063,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.95,
+        "pe_ratio": 25.52,
         "forward_return": 127.89,
         "start_price": 175.0,
         "start_year": 2014
@@ -3072,7 +3072,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 23.63,
+        "pe_ratio": 24.64,
         "forward_return": 145.35,
         "start_price": 177.0,
         "start_year": 2014
@@ -3081,7 +3081,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.76,
+        "pe_ratio": 25.3,
         "forward_return": 147.99,
         "start_price": 190.0,
         "start_year": 2014
@@ -3090,7 +3090,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 26.1,
+        "pe_ratio": 26.46,
         "forward_return": 200.17,
         "start_price": 205.0,
         "start_year": 2014
@@ -3099,7 +3099,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 29.05,
+        "pe_ratio": 29.25,
         "forward_return": 178.64,
         "start_price": 233.5,
         "start_year": 2014
@@ -3117,7 +3117,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 31.67,
+        "pe_ratio": 31.34,
         "forward_return": 89.65,
         "start_price": 265.0,
         "start_year": 2015
@@ -3126,7 +3126,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 31.76,
+        "pe_ratio": 31.12,
         "forward_return": 42.23,
         "start_price": 270.5,
         "start_year": 2015
@@ -3135,7 +3135,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 34.39,
+        "pe_ratio": 33.37,
         "forward_return": 49.65,
         "start_price": 298.0,
         "start_year": 2015
@@ -3144,7 +3144,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 37.27,
+        "pe_ratio": 36.17,
         "forward_return": 31.91,
         "start_price": 328.5,
         "start_year": 2015
@@ -3153,7 +3153,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 43.3,
+        "pe_ratio": 42.01,
         "forward_return": -31.3,
         "start_price": 388.0,
         "start_year": 2015
@@ -3162,7 +3162,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 36.06,
+        "pe_ratio": 34.98,
         "forward_return": -10.12,
         "start_price": 328.5,
         "start_year": 2015
@@ -3171,7 +3171,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 38.51,
+        "pe_ratio": 37.55,
         "forward_return": -27.35,
         "start_price": 356.5,
         "start_year": 2015
@@ -3180,7 +3180,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 33.49,
+        "pe_ratio": 32.82,
         "forward_return": 15.14,
         "start_price": 315.0,
         "start_year": 2015
@@ -3189,7 +3189,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 34.33,
+        "pe_ratio": 33.81,
         "forward_return": 8.75,
         "start_price": 328.0,
         "start_year": 2015
@@ -3198,7 +3198,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 38.13,
+        "pe_ratio": 37.76,
         "forward_return": -1.39,
         "start_price": 370.0,
         "start_year": 2015
@@ -3207,7 +3207,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.03,
         "forward_return": 26.06,
         "start_price": 327.0,
         "start_year": 2015
@@ -3225,7 +3225,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 30.25,
         "forward_return": 76.04,
         "start_price": 303.5,
         "start_year": 2016
@@ -3234,7 +3234,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.28,
         "forward_return": 107.82,
         "start_price": 335.0,
         "start_year": 2016
@@ -3243,7 +3243,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.47,
+        "pe_ratio": 33.86,
         "forward_return": 70.99,
         "start_price": 342.0,
         "start_year": 2016
@@ -3252,7 +3252,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 31.93,
+        "pe_ratio": 33.17,
         "forward_return": 87.26,
         "start_price": 342.0,
         "start_year": 2016
@@ -3261,7 +3261,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.89,
         "forward_return": 7.22,
         "start_price": 367.0,
         "start_year": 2016
@@ -3270,7 +3270,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.36,
         "forward_return": 14.01,
         "start_price": 358.0,
         "start_year": 2016
@@ -3279,7 +3279,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 35.0,
+        "pe_ratio": 35.86,
         "forward_return": -5.47,
         "start_price": 393.5,
         "start_year": 2016
@@ -3288,7 +3288,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 41.55,
+        "pe_ratio": 42.3,
         "forward_return": -38.75,
         "start_price": 474.5,
         "start_year": 2016
@@ -3297,7 +3297,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 40.18,
+        "pe_ratio": 40.66,
         "forward_return": -41.59,
         "start_price": 466.0,
         "start_year": 2016
@@ -3306,7 +3306,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 39.02,
+        "pe_ratio": 39.33,
         "forward_return": -16.96,
         "start_price": 459.5,
         "start_year": 2016
@@ -3315,7 +3315,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 33.38,
+        "pe_ratio": 33.51,
         "forward_return": 6.95,
         "start_price": 399.0,
         "start_year": 2016
@@ -3333,7 +3333,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 31.0,
+        "pe_ratio": 30.81,
         "forward_return": 7.09,
         "start_price": 382.5,
         "start_year": 2017
@@ -3342,7 +3342,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 28.41,
+        "pe_ratio": 28.08,
         "forward_return": 28.02,
         "start_price": 356.5,
         "start_year": 2017
@@ -3351,7 +3351,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-03-16",
-        "pe_ratio": 27.99,
+        "pe_ratio": 27.5,
         "forward_return": 19.98,
         "start_price": 357.0,
         "start_year": 2017
@@ -3360,7 +3360,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-04-15",
-        "pe_ratio": 31.78,
+        "pe_ratio": 31.75,
         "forward_return": -7.04,
         "start_price": 412.0,
         "start_year": 2017
@@ -3369,7 +3369,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-05-16",
-        "pe_ratio": 31.32,
+        "pe_ratio": 31.8,
         "forward_return": -11.82,
         "start_price": 412.5,
         "start_year": 2017
@@ -3378,7 +3378,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.85,
+        "pe_ratio": 29.76,
         "forward_return": -1.44,
         "start_price": 386.0,
         "start_year": 2017
@@ -3387,7 +3387,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-07-16",
-        "pe_ratio": 28.33,
+        "pe_ratio": 29.06,
         "forward_return": -5.84,
         "start_price": 385.0,
         "start_year": 2017
@@ -3396,7 +3396,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.02,
         "forward_return": -12.39,
         "start_price": 392.5,
         "start_year": 2017
@@ -3405,7 +3405,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-09-15",
-        "pe_ratio": 25.78,
+        "pe_ratio": 26.16,
         "forward_return": 1.4,
         "start_price": 361.0,
         "start_year": 2017
@@ -3414,7 +3414,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-10-16",
-        "pe_ratio": 27.19,
+        "pe_ratio": 27.46,
         "forward_return": -28.54,
         "start_price": 386.5,
         "start_year": 2017
@@ -3423,7 +3423,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-11-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.92,
         "forward_return": -27.13,
         "start_price": 372.0,
         "start_year": 2017
@@ -3441,7 +3441,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.86,
         "forward_return": -17.03,
         "start_price": 373.5,
         "start_year": 2018
@@ -3450,7 +3450,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.99,
+        "pe_ratio": 24.49,
         "forward_return": -24.58,
         "start_price": 377.5,
         "start_year": 2018
@@ -3459,7 +3459,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 22.99,
         "forward_return": -34.97,
         "start_price": 363.5,
         "start_year": 2018
@@ -3468,7 +3468,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.49,
         "forward_return": -26.22,
         "start_price": 329.0,
         "start_year": 2018
@@ -3477,7 +3477,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.51,
         "forward_return": 6.25,
         "start_price": 318.0,
         "start_year": 2018
@@ -3486,7 +3486,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 20.42,
+        "pe_ratio": 19.83,
         "forward_return": 0.91,
         "start_price": 328.0,
         "start_year": 2018
@@ -3495,7 +3495,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.6,
         "forward_return": -9.75,
         "start_price": 327.5,
         "start_year": 2018
@@ -3504,7 +3504,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.04,
+        "pe_ratio": 18.65,
         "forward_return": 28.59,
         "start_price": 315.0,
         "start_year": 2018
@@ -3513,7 +3513,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.3,
         "forward_return": 72.75,
         "start_price": 278.0,
         "start_year": 2018
@@ -3522,7 +3522,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.66,
         "forward_return": 75.87,
         "start_price": 269.5,
         "start_year": 2018
@@ -3531,7 +3531,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.32,
+        "pe_ratio": 17.23,
         "forward_return": 57.09,
         "start_price": 299.0,
         "start_year": 2018
@@ -3549,7 +3549,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 17.73,
         "forward_return": 106.76,
         "start_price": 311.0,
         "start_year": 2019
@@ -3558,7 +3558,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.69,
+        "pe_ratio": 17.92,
         "forward_return": 88.27,
         "start_price": 315.0,
         "start_year": 2019
@@ -3567,7 +3567,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.7,
         "forward_return": 34.83,
         "start_price": 364.5,
         "start_year": 2019
@@ -3576,7 +3576,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.69,
+        "pe_ratio": 21.03,
         "forward_return": 34.37,
         "start_price": 374.5,
         "start_year": 2019
@@ -3585,7 +3585,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 20.77,
         "forward_return": 30.56,
         "start_price": 374.0,
         "start_year": 2019
@@ -3594,7 +3594,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 22.82,
+        "pe_ratio": 23.08,
         "forward_return": 8.37,
         "start_price": 420.0,
         "start_year": 2019
@@ -3603,7 +3603,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.54,
         "forward_return": 2.32,
         "start_price": 430.0,
         "start_year": 2019
@@ -3612,7 +3612,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.69,
         "forward_return": 5.42,
         "start_price": 416.0,
         "start_year": 2019
@@ -3621,7 +3621,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 23.36,
+        "pe_ratio": 23.94,
         "forward_return": -5.17,
         "start_price": 440.5,
         "start_year": 2019
@@ -3630,7 +3630,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.38,
         "forward_return": 73.97,
         "start_price": 418.5,
         "start_year": 2019
@@ -3639,7 +3639,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.73,
         "forward_return": 79.37,
         "start_price": 432.0,
         "start_year": 2019
@@ -3657,7 +3657,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 22.31,
+        "pe_ratio": 22.37,
         "forward_return": 111.02,
         "start_price": 435.0,
         "start_year": 2020
@@ -3666,7 +3666,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 24.22,
+        "pe_ratio": 24.35,
         "forward_return": 53.95,
         "start_price": 477.0,
         "start_year": 2020
@@ -3675,7 +3675,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 21.58,
+        "pe_ratio": 21.74,
         "forward_return": 94.3,
         "start_price": 429.0,
         "start_year": 2020
@@ -3684,7 +3684,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.45,
         "forward_return": 60.17,
         "start_price": 500.0,
         "start_year": 2020
@@ -3693,7 +3693,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 28.52,
+        "pe_ratio": 29.56,
         "forward_return": 4.5,
         "start_price": 578.0,
         "start_year": 2020
@@ -3702,7 +3702,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.89,
         "forward_return": 3.84,
         "start_price": 582.0,
         "start_year": 2020
@@ -3711,7 +3711,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 29.74,
+        "pe_ratio": 30.55,
         "forward_return": -10.69,
         "start_price": 614.0,
         "start_year": 2020
@@ -3720,7 +3720,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.6,
+        "pe_ratio": 27.74,
         "forward_return": 6.38,
         "start_price": 575.0,
         "start_year": 2020
@@ -3729,7 +3729,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.3,
+        "pe_ratio": 25.89,
         "forward_return": 16.31,
         "start_price": 553.0,
         "start_year": 2020
@@ -3738,7 +3738,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 29.03,
+        "pe_ratio": 28.73,
         "forward_return": -21.06,
         "start_price": 616.0,
         "start_year": 2020
@@ -3747,7 +3747,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.93,
+        "pe_ratio": 27.79,
         "forward_return": -19.52,
         "start_price": 598.0,
         "start_year": 2020
@@ -3765,7 +3765,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.2,
+        "pe_ratio": 26.4,
         "forward_return": 12.81,
         "start_price": 580.0,
         "start_year": 2021
@@ -3774,7 +3774,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.75,
+        "pe_ratio": 28.01,
         "forward_return": -30.1,
         "start_price": 626.0,
         "start_year": 2021
@@ -3783,7 +3783,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 26.23,
         "forward_return": -21.89,
         "start_price": 596.0,
         "start_year": 2021
@@ -3792,7 +3792,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 27.4,
         "forward_return": -28.94,
         "start_price": 612.0,
         "start_year": 2021
@@ -3801,7 +3801,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.58,
+        "pe_ratio": 24.47,
         "forward_return": -28.22,
         "start_price": 537.0,
         "start_year": 2021
@@ -3810,7 +3810,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.25,
+        "pe_ratio": 25.19,
         "forward_return": -33.63,
         "start_price": 543.0,
         "start_year": 2021
@@ -3819,7 +3819,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 30.39,
+        "pe_ratio": 29.29,
         "forward_return": -50.01,
         "start_price": 597.0,
         "start_year": 2021
@@ -3828,7 +3828,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 26.08,
+        "pe_ratio": 26.3,
         "forward_return": -36.21,
         "start_price": 505.0,
         "start_year": 2021
@@ -3837,7 +3837,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 26.22,
         "forward_return": -32.46,
         "start_price": 472.5,
         "start_year": 2021
@@ -3846,7 +3846,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.42,
+        "pe_ratio": 27.46,
         "forward_return": -61.17,
         "start_price": 497.0,
         "start_year": 2021
@@ -3855,7 +3855,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.34,
+        "pe_ratio": 26.85,
         "forward_return": -65.74,
         "start_price": 488.0,
         "start_year": 2021
@@ -3873,7 +3873,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 22.86,
+        "pe_ratio": 23.5,
         "forward_return": -16.29,
         "start_price": 421.0,
         "start_year": 2022
@@ -3882,7 +3882,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.03,
         "forward_return": 17.02,
         "start_price": 405.0,
         "start_year": 2022
@@ -3891,7 +3891,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 22.55,
         "forward_return": 14.45,
         "start_price": 389.0,
         "start_year": 2022
@@ -3900,7 +3900,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 16.7,
+        "pe_ratio": 18.33,
         "forward_return": 77.29,
         "start_price": 316.0,
         "start_year": 2022
@@ -3909,7 +3909,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.04,
+        "pe_ratio": 16.65,
         "forward_return": 165.45,
         "start_price": 287.0,
         "start_year": 2022
@@ -3918,7 +3918,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 18.34,
         "forward_return": 158.44,
         "start_price": 316.0,
         "start_year": 2022
@@ -3927,7 +3927,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.92,
         "forward_return": 91.85,
         "start_price": 374.5,
         "start_year": 2022
@@ -3936,7 +3936,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 21.8,
+        "pe_ratio": 22.99,
         "forward_return": 64.49,
         "start_price": 427.0,
         "start_year": 2022
@@ -3945,7 +3945,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 19.92,
+        "pe_ratio": 20.44,
         "forward_return": 111.23,
         "start_price": 393.5,
         "start_year": 2022
@@ -3954,7 +3954,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 20.58,
+        "pe_ratio": 20.93,
         "forward_return": 56.64,
         "start_price": 410.0,
         "start_year": 2022
@@ -3963,7 +3963,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 22.4,
+        "pe_ratio": 22.59,
         "forward_return": 40.19,
         "start_price": 450.0,
         "start_year": 2022
@@ -3981,7 +3981,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 25.24,
+        "pe_ratio": 25.07,
         "forward_return": 6.27,
         "start_price": 520.0,
         "start_year": 2023
@@ -3990,7 +3990,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 28.3,
+        "pe_ratio": 27.94,
         "forward_return": -26.14,
         "start_price": 593.0,
         "start_year": 2023
@@ -3999,7 +3999,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 26.76,
+        "pe_ratio": 26.26,
         "forward_return": -14.11,
         "start_price": 570.0,
         "start_year": 2023
@@ -4008,7 +4008,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 26.52,
+        "pe_ratio": 25.81,
         "forward_return": -17.46,
         "start_price": 574.0,
         "start_year": 2023
@@ -4017,7 +4017,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 24.19,
+        "pe_ratio": 23.37,
         "forward_return": 14.49,
         "start_price": 532.0,
         "start_year": 2023
@@ -4026,7 +4026,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 26.51,
+        "pe_ratio": 25.42,
         "forward_return": -5.35,
         "start_price": 592.0,
         "start_year": 2023
@@ -4035,7 +4035,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 21.71,
         "forward_return": 1.95,
         "start_price": 512.0,
         "start_year": 2023
@@ -4044,7 +4044,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.35,
         "forward_return": 3.2,
         "start_price": 486.0,
         "start_year": 2023
@@ -4053,7 +4053,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 20.62,
+        "pe_ratio": 19.93,
         "forward_return": 5.49,
         "start_price": 482.0,
         "start_year": 2023
@@ -4062,7 +4062,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 20.98,
+        "pe_ratio": 20.51,
         "forward_return": 3.3,
         "start_price": 497.5,
         "start_year": 2023
@@ -4071,7 +4071,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 20.96,
         "forward_return": -1.18,
         "start_price": 510.0,
         "start_year": 2023
@@ -4089,7 +4089,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 21.01,
+        "pe_ratio": 21.06,
         "forward_return": 7.11,
         "start_price": 517.0,
         "start_year": 2024
@@ -4098,7 +4098,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 19.8,
+        "pe_ratio": 19.89,
         "forward_return": 13.43,
         "start_price": 491.0,
         "start_year": 2024
@@ -4107,7 +4107,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 19.81,
+        "pe_ratio": 19.94,
         "forward_return": 9.49,
         "start_price": 495.0,
         "start_year": 2024
@@ -4116,7 +4116,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.93,
         "forward_return": 8.97,
         "start_price": 500.0,
         "start_year": 2024
@@ -4125,7 +4125,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 20.01,
         "forward_return": 3.56,
         "start_price": 507.0,
         "start_year": 2024
@@ -4134,7 +4134,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 19.24,
+        "pe_ratio": 19.23,
         "forward_return": 10.61,
         "start_price": 492.0,
         "start_year": 2024
@@ -4143,7 +4143,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 19.95,
+        "pe_ratio": 19.96,
         "forward_return": -11.25,
         "start_price": 514.0,
         "start_year": 2024
@@ -4152,7 +4152,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 19.33,
+        "pe_ratio": 19.37,
         "forward_return": -8.09,
         "start_price": 502.0,
         "start_year": 2024
@@ -4161,7 +4161,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 20.21,
         "forward_return": -17.88,
         "start_price": 527.0,
         "start_year": 2024
@@ -4170,7 +4170,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 19.01,
+        "pe_ratio": 19.05,
         "forward_return": 0.69,
         "start_price": 501.0,
         "start_year": 2024
@@ -4179,7 +4179,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 18.04,
+        "pe_ratio": 18.06,
         "forward_return": 10.37,
         "start_price": 479.0,
         "start_year": 2024
@@ -4197,7 +4197,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 17.92,
         "forward_return": 0.84,
         "start_price": 484.0,
         "start_year": 2025
@@ -4206,7 +4206,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 19.08,
+        "pe_ratio": 19.03,
         "forward_return": -10.9,
         "start_price": 519.0,
         "start_year": 2025
@@ -4215,7 +4215,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 17.42,
+        "pe_ratio": 17.36,
         "forward_return": -0.18,
         "start_price": 478.0,
         "start_year": 2025
@@ -4224,7 +4224,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 17.31,
+        "pe_ratio": 17.47,
         "forward_return": -0.62,
         "start_price": 479.0,
         "start_year": 2025
@@ -4233,7 +4233,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 18.02,
+        "pe_ratio": 18.41,
         "forward_return": -13.35,
         "start_price": 503.0,
         "start_year": 2025
@@ -4242,7 +4242,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 17.84,
+        "pe_ratio": 18.45,
         "forward_return": -15.09,
         "start_price": 502.0,
         "start_year": 2025
@@ -4251,7 +4251,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 16.32,
+        "pe_ratio": 16.93,
         "forward_return": -26.68,
         "start_price": 463.0,
         "start_year": 2025
@@ -4260,7 +4260,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 7.56,
         "forward_return": -16.75,
         "start_price": 27.6,
         "start_year": 2006
@@ -4269,7 +4269,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 7.85,
         "forward_return": -18.47,
         "start_price": 29.1,
         "start_year": 2006
@@ -4278,7 +4278,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 7.37,
         "forward_return": -14.32,
         "start_price": 27.75,
         "start_year": 2006
@@ -4287,7 +4287,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 7.09,
         "forward_return": 19.5,
         "start_price": 27.1,
         "start_year": 2006
@@ -4296,7 +4296,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 7.07,
         "forward_return": 19.88,
         "start_price": 25.15,
         "start_year": 2006
@@ -4305,7 +4305,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.12,
+        "pe_ratio": 6.95,
         "forward_return": 14.84,
         "start_price": 22.9,
         "start_year": 2006
@@ -4314,7 +4314,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 9.32,
+        "pe_ratio": 7.72,
         "forward_return": 10.46,
         "start_price": 23.4,
         "start_year": 2006
@@ -4323,7 +4323,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 8.09,
+        "pe_ratio": 7.11,
         "forward_return": 33.26,
         "start_price": 20.3,
         "start_year": 2006
@@ -4332,7 +4332,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 7.86,
         "forward_return": 8.76,
         "start_price": 21.1,
         "start_year": 2006
@@ -4350,7 +4350,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.97,
         "forward_return": -6.76,
         "start_price": 21.5,
         "start_year": 2007
@@ -4359,7 +4359,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.37,
         "forward_return": 1.62,
         "start_price": 21.4,
         "start_year": 2007
@@ -4368,7 +4368,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 8.61,
+        "pe_ratio": 9.95,
         "forward_return": 17.54,
         "start_price": 21.6,
         "start_year": 2007
@@ -4377,7 +4377,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 10.17,
         "forward_return": 24.32,
         "start_price": 22.35,
         "start_year": 2007
@@ -4386,7 +4386,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 8.94,
+        "pe_ratio": 10.07,
         "forward_return": 28.05,
         "start_price": 22.4,
         "start_year": 2007
@@ -4395,7 +4395,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.38,
+        "pe_ratio": 13.78,
         "forward_return": -14.98,
         "start_price": 31.0,
         "start_year": 2007
@@ -4404,7 +4404,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.46,
+        "pe_ratio": 12.97,
         "forward_return": -10.08,
         "start_price": 28.7,
         "start_year": 2007
@@ -4413,7 +4413,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 11.42,
         "forward_return": 6.83,
         "start_price": 24.85,
         "start_year": 2007
@@ -4422,7 +4422,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 9.75,
+        "pe_ratio": 11.4,
         "forward_return": -10.23,
         "start_price": 24.4,
         "start_year": 2007
@@ -4431,7 +4431,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 11.33,
         "forward_return": -20.47,
         "start_price": 25.6,
         "start_year": 2007
@@ -4440,7 +4440,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.03,
         "forward_return": -3.25,
         "start_price": 21.5,
         "start_year": 2007
@@ -4458,7 +4458,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.3,
+        "pe_ratio": 7.22,
         "forward_return": 34.33,
         "start_price": 18.6,
         "start_year": 2008
@@ -4467,7 +4467,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.82,
+        "pe_ratio": 7.65,
         "forward_return": 29.96,
         "start_price": 20.3,
         "start_year": 2008
@@ -4476,7 +4476,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.05,
+        "pe_ratio": 8.77,
         "forward_return": 12.54,
         "start_price": 23.95,
         "start_year": 2008
@@ -4485,7 +4485,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.78,
+        "pe_ratio": 9.55,
         "forward_return": 15.38,
         "start_price": 26.35,
         "start_year": 2008
@@ -4494,7 +4494,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.77,
         "forward_return": 11.2,
         "start_price": 27.25,
         "start_year": 2008
@@ -4503,7 +4503,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.83,
         "forward_return": 22.51,
         "start_price": 24.9,
         "start_year": 2008
@@ -4512,7 +4512,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 8.46,
+        "pe_ratio": 8.4,
         "forward_return": 16.26,
         "start_price": 24.0,
         "start_year": 2008
@@ -4521,7 +4521,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.55,
         "forward_return": 14.35,
         "start_price": 24.75,
         "start_year": 2008
@@ -4530,7 +4530,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.86,
         "forward_return": 46.06,
         "start_price": 20.1,
         "start_year": 2008
@@ -4566,7 +4566,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-01-16",
-        "pe_ratio": 7.61,
+        "pe_ratio": 7.52,
         "forward_return": 29.12,
         "start_price": 23.2,
         "start_year": 2009
@@ -4575,7 +4575,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 29.45,
         "start_price": 23.45,
         "start_year": 2009
@@ -4584,7 +4584,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.43,
+        "pe_ratio": 8.14,
         "forward_return": 25.67,
         "start_price": 25.15,
         "start_year": 2009
@@ -4593,7 +4593,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-04-15",
-        "pe_ratio": 9.69,
+        "pe_ratio": 9.55,
         "forward_return": 15.4,
         "start_price": 28.6,
         "start_year": 2009
@@ -4602,7 +4602,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.77,
+        "pe_ratio": 9.84,
         "forward_return": 17.56,
         "start_price": 28.5,
         "start_year": 2009
@@ -4611,7 +4611,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.95,
+        "pe_ratio": 10.25,
         "forward_return": 18.83,
         "start_price": 28.7,
         "start_year": 2009
@@ -4620,7 +4620,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-07-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.38,
         "forward_return": 33.36,
         "start_price": 26.1,
         "start_year": 2009
@@ -4629,7 +4629,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 9.58,
         "forward_return": 37.01,
         "start_price": 26.5,
         "start_year": 2009
@@ -4638,7 +4638,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.02,
         "forward_return": 13.26,
         "start_price": 27.55,
         "start_year": 2009
@@ -4647,7 +4647,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.96,
         "forward_return": 9.75,
         "start_price": 27.2,
         "start_year": 2009
@@ -4656,7 +4656,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.02,
         "forward_return": 5.16,
         "start_price": 27.15,
         "start_year": 2009
@@ -4674,7 +4674,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.28,
+        "pe_ratio": 10.04,
         "forward_return": 7.47,
         "start_price": 28.15,
         "start_year": 2010
@@ -4683,7 +4683,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.25,
+        "pe_ratio": 9.79,
         "forward_return": 5.08,
         "start_price": 28.55,
         "start_year": 2010
@@ -4692,7 +4692,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.52,
+        "pe_ratio": 9.83,
         "forward_return": 2.35,
         "start_price": 29.8,
         "start_year": 2010
@@ -4701,7 +4701,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 10.05,
         "forward_return": 11.39,
         "start_price": 31.2,
         "start_year": 2010
@@ -4710,7 +4710,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.83,
+        "pe_ratio": 9.98,
         "forward_return": 10.1,
         "start_price": 31.7,
         "start_year": 2010
@@ -4719,7 +4719,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 9.94,
         "forward_return": 15.34,
         "start_price": 32.3,
         "start_year": 2010
@@ -4728,7 +4728,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.06,
         "forward_return": 39.68,
         "start_price": 34.3,
         "start_year": 2010
@@ -4737,7 +4737,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 12.14,
         "forward_return": 23.34,
         "start_price": 35.8,
         "start_year": 2010
@@ -4746,7 +4746,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.96,
         "forward_return": 24.12,
         "start_price": 30.7,
         "start_year": 2010
@@ -4755,7 +4755,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.27,
+        "pe_ratio": 9.94,
         "forward_return": 39.04,
         "start_price": 29.35,
         "start_year": 2010
@@ -4764,7 +4764,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 9.03,
         "forward_return": 29.97,
         "start_price": 28.05,
         "start_year": 2010
@@ -4782,7 +4782,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 9.01,
+        "pe_ratio": 8.98,
         "forward_return": 37.51,
         "start_price": 29.75,
         "start_year": 2011
@@ -4791,7 +4791,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 8.82,
+        "pe_ratio": 8.76,
         "forward_return": 52.08,
         "start_price": 29.5,
         "start_year": 2011
@@ -4800,7 +4800,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 8.86,
+        "pe_ratio": 8.77,
         "forward_return": 61.84,
         "start_price": 30.0,
         "start_year": 2011
@@ -4809,7 +4809,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.21,
         "forward_return": 52.28,
         "start_price": 34.25,
         "start_year": 2011
@@ -4818,7 +4818,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-05-16",
-        "pe_ratio": 9.92,
+        "pe_ratio": 10.47,
         "forward_return": 63.79,
         "start_price": 34.4,
         "start_year": 2011
@@ -4827,7 +4827,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-06-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.41,
         "forward_return": 56.05,
         "start_price": 36.75,
         "start_year": 2011
@@ -4836,7 +4836,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.85,
         "forward_return": 43.09,
         "start_price": 45.1,
         "start_year": 2011
@@ -4845,7 +4845,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.56,
         "forward_return": 58.45,
         "start_price": 41.35,
         "start_year": 2011
@@ -4854,7 +4854,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-09-15",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.6,
         "forward_return": 92.88,
         "start_price": 35.3,
         "start_year": 2011
@@ -4863,7 +4863,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.94,
         "forward_return": 88.91,
         "start_price": 38.0,
         "start_year": 2011
@@ -4872,7 +4872,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 9.3,
         "forward_return": 126.31,
         "start_price": 33.65,
         "start_year": 2011
@@ -4890,7 +4890,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.78,
         "forward_return": 133.92,
         "start_price": 38.1,
         "start_year": 2012
@@ -4899,7 +4899,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 10.43,
         "forward_return": 119.66,
         "start_price": 42.05,
         "start_year": 2012
@@ -4908,7 +4908,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.98,
         "forward_return": 115.13,
         "start_price": 45.8,
         "start_year": 2012
@@ -4917,7 +4917,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.16,
+        "pe_ratio": 11.41,
         "forward_return": 116.27,
         "start_price": 49.4,
         "start_year": 2012
@@ -4926,7 +4926,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.94,
         "forward_return": 136.67,
         "start_price": 53.6,
         "start_year": 2012
@@ -4935,7 +4935,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.74,
         "forward_return": 102.08,
         "start_price": 54.6,
         "start_year": 2012
@@ -4944,7 +4944,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 12.57,
         "forward_return": 166.25,
         "start_price": 61.3,
         "start_year": 2012
@@ -4953,7 +4953,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 12.21,
         "forward_return": 127.42,
         "start_price": 62.3,
         "start_year": 2012
@@ -4962,7 +4962,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 12.18,
         "forward_return": 129.87,
         "start_price": 64.9,
         "start_year": 2012
@@ -4971,7 +4971,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.42,
         "forward_return": 131.33,
         "start_price": 68.6,
         "start_year": 2012
@@ -4980,7 +4980,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 14.92,
         "forward_return": 164.01,
         "start_price": 73.0,
         "start_year": 2012
@@ -4998,7 +4998,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 17.97,
+        "pe_ratio": 17.86,
         "forward_return": 126.41,
         "start_price": 86.0,
         "start_year": 2013
@@ -5007,7 +5007,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.14,
         "forward_return": 98.3,
         "start_price": 94.9,
         "start_year": 2013
@@ -5016,7 +5016,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 18.67,
         "forward_return": 112.4,
         "start_price": 95.2,
         "start_year": 2013
@@ -5025,7 +5025,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 20.2,
+        "pe_ratio": 19.98,
         "forward_return": 85.68,
         "start_price": 103.5,
         "start_year": 2013
@@ -5034,7 +5034,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 23.58,
+        "pe_ratio": 23.48,
         "forward_return": 58.03,
         "start_price": 123.5,
         "start_year": 2013
@@ -5043,7 +5043,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 20.04,
         "forward_return": 66.97,
         "start_price": 107.0,
         "start_year": 2013
@@ -5052,7 +5052,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 29.23,
         "forward_return": 13.09,
         "start_price": 159.0,
         "start_year": 2013
@@ -5061,7 +5061,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 24.82,
         "forward_return": 32.24,
         "start_price": 137.5,
         "start_year": 2013
@@ -5070,7 +5070,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 25.48,
+        "pe_ratio": 25.71,
         "forward_return": 34.37,
         "start_price": 145.0,
         "start_year": 2013
@@ -5079,7 +5079,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.78,
         "forward_return": 35.82,
         "start_price": 154.5,
         "start_year": 2013
@@ -5088,7 +5088,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 31.86,
+        "pe_ratio": 31.95,
         "forward_return": 26.44,
         "start_price": 188.5,
         "start_year": 2013
@@ -5106,7 +5106,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 30.66,
+        "pe_ratio": 31.61,
         "forward_return": 41.66,
         "start_price": 190.5,
         "start_year": 2014
@@ -5115,7 +5115,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 28.77,
+        "pe_ratio": 30.55,
         "forward_return": 49.66,
         "start_price": 184.0,
         "start_year": 2014
@@ -5124,7 +5124,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 32.89,
         "forward_return": 52.97,
         "start_price": 198.0,
         "start_year": 2014
@@ -5133,7 +5133,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 27.81,
+        "pe_ratio": 30.37,
         "forward_return": 77.36,
         "start_price": 188.0,
         "start_year": 2014
@@ -5142,7 +5142,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 27.51,
+        "pe_ratio": 30.03,
         "forward_return": 105.76,
         "start_price": 191.0,
         "start_year": 2014
@@ -5151,7 +5151,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.49,
+        "pe_ratio": 26.72,
         "forward_return": 91.09,
         "start_price": 174.5,
         "start_year": 2014
@@ -5160,7 +5160,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.95,
+        "pe_ratio": 25.52,
         "forward_return": 108.05,
         "start_price": 175.0,
         "start_year": 2014
@@ -5169,7 +5169,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 23.63,
+        "pe_ratio": 24.64,
         "forward_return": 82.22,
         "start_price": 177.0,
         "start_year": 2014
@@ -5178,7 +5178,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.76,
+        "pe_ratio": 25.3,
         "forward_return": 76.6,
         "start_price": 190.0,
         "start_year": 2014
@@ -5187,7 +5187,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 26.1,
+        "pe_ratio": 26.46,
         "forward_return": 84.17,
         "start_price": 205.0,
         "start_year": 2014
@@ -5196,7 +5196,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 29.05,
+        "pe_ratio": 29.25,
         "forward_return": 43.25,
         "start_price": 233.5,
         "start_year": 2014
@@ -5214,7 +5214,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 31.67,
+        "pe_ratio": 31.34,
         "forward_return": 17.33,
         "start_price": 265.0,
         "start_year": 2015
@@ -5223,7 +5223,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 31.76,
+        "pe_ratio": 31.12,
         "forward_return": 26.6,
         "start_price": 270.5,
         "start_year": 2015
@@ -5232,7 +5232,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 34.39,
+        "pe_ratio": 33.37,
         "forward_return": 17.21,
         "start_price": 298.0,
         "start_year": 2015
@@ -5241,7 +5241,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 37.27,
+        "pe_ratio": 36.17,
         "forward_return": 6.35,
         "start_price": 328.5,
         "start_year": 2015
@@ -5250,7 +5250,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 43.3,
+        "pe_ratio": 42.01,
         "forward_return": -3.5,
         "start_price": 388.0,
         "start_year": 2015
@@ -5259,7 +5259,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 36.06,
+        "pe_ratio": 34.98,
         "forward_return": 11.21,
         "start_price": 328.5,
         "start_year": 2015
@@ -5268,7 +5268,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 38.51,
+        "pe_ratio": 37.55,
         "forward_return": 12.82,
         "start_price": 356.5,
         "start_year": 2015
@@ -5277,7 +5277,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 33.49,
+        "pe_ratio": 32.82,
         "forward_return": 53.29,
         "start_price": 315.0,
         "start_year": 2015
@@ -5286,7 +5286,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 34.33,
+        "pe_ratio": 33.81,
         "forward_return": 44.65,
         "start_price": 328.0,
         "start_year": 2015
@@ -5295,7 +5295,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 38.13,
+        "pe_ratio": 37.76,
         "forward_return": 26.51,
         "start_price": 370.0,
         "start_year": 2015
@@ -5304,7 +5304,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.03,
         "forward_return": 24.65,
         "start_price": 327.0,
         "start_year": 2015
@@ -5322,7 +5322,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 30.25,
         "forward_return": 28.86,
         "start_price": 303.5,
         "start_year": 2016
@@ -5331,7 +5331,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.28,
         "forward_return": 8.47,
         "start_price": 335.0,
         "start_year": 2016
@@ -5340,7 +5340,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.47,
+        "pe_ratio": 33.86,
         "forward_return": 6.96,
         "start_price": 342.0,
         "start_year": 2016
@@ -5349,7 +5349,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 31.93,
+        "pe_ratio": 33.17,
         "forward_return": 23.06,
         "start_price": 342.0,
         "start_year": 2016
@@ -5358,7 +5358,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.89,
         "forward_return": 14.81,
         "start_price": 367.0,
         "start_year": 2016
@@ -5367,7 +5367,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.36,
         "forward_return": 10.29,
         "start_price": 358.0,
         "start_year": 2016
@@ -5376,7 +5376,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 35.0,
+        "pe_ratio": 35.86,
         "forward_return": 0.56,
         "start_price": 393.5,
         "start_year": 2016
@@ -5385,7 +5385,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 41.55,
+        "pe_ratio": 42.3,
         "forward_return": -15.04,
         "start_price": 474.5,
         "start_year": 2016
@@ -5394,7 +5394,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 40.18,
+        "pe_ratio": 40.66,
         "forward_return": -20.25,
         "start_price": 466.0,
         "start_year": 2016
@@ -5403,7 +5403,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 39.02,
+        "pe_ratio": 39.33,
         "forward_return": -13.57,
         "start_price": 459.5,
         "start_year": 2016
@@ -5412,7 +5412,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 33.38,
+        "pe_ratio": 33.51,
         "forward_return": -4.09,
         "start_price": 399.0,
         "start_year": 2016
@@ -5430,7 +5430,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 31.0,
+        "pe_ratio": 30.81,
         "forward_return": 0.44,
         "start_price": 382.5,
         "start_year": 2017
@@ -5439,7 +5439,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 28.41,
+        "pe_ratio": 28.08,
         "forward_return": 8.9,
         "start_price": 356.5,
         "start_year": 2017
@@ -5448,7 +5448,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-03-16",
-        "pe_ratio": 27.99,
+        "pe_ratio": 27.5,
         "forward_return": 4.82,
         "start_price": 357.0,
         "start_year": 2017
@@ -5457,7 +5457,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-04-15",
-        "pe_ratio": 31.78,
+        "pe_ratio": 31.75,
         "forward_return": -17.56,
         "start_price": 412.0,
         "start_year": 2017
@@ -5466,7 +5466,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-05-16",
-        "pe_ratio": 31.32,
+        "pe_ratio": 31.8,
         "forward_return": -20.33,
         "start_price": 412.5,
         "start_year": 2017
@@ -5475,7 +5475,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.85,
+        "pe_ratio": 29.76,
         "forward_return": -12.26,
         "start_price": 386.0,
         "start_year": 2017
@@ -5484,7 +5484,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-07-16",
-        "pe_ratio": 28.33,
+        "pe_ratio": 29.06,
         "forward_return": -11.57,
         "start_price": 385.0,
         "start_year": 2017
@@ -5493,7 +5493,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.02,
         "forward_return": -16.44,
         "start_price": 392.5,
         "start_year": 2017
@@ -5502,7 +5502,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-09-15",
-        "pe_ratio": 25.78,
+        "pe_ratio": 26.16,
         "forward_return": -19.4,
         "start_price": 361.0,
         "start_year": 2017
@@ -5511,7 +5511,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-10-16",
-        "pe_ratio": 27.19,
+        "pe_ratio": 27.46,
         "forward_return": -26.92,
         "start_price": 386.5,
         "start_year": 2017
@@ -5520,7 +5520,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-11-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.92,
         "forward_return": -16.14,
         "start_price": 372.0,
         "start_year": 2017
@@ -5538,7 +5538,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.86,
         "forward_return": -13.26,
         "start_price": 373.5,
         "start_year": 2018
@@ -5547,7 +5547,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.99,
+        "pe_ratio": 24.49,
         "forward_return": -13.12,
         "start_price": 377.5,
         "start_year": 2018
@@ -5556,7 +5556,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 22.99,
         "forward_return": 3.85,
         "start_price": 363.5,
         "start_year": 2018
@@ -5565,7 +5565,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.49,
         "forward_return": 17.79,
         "start_price": 329.0,
         "start_year": 2018
@@ -5574,7 +5574,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.51,
         "forward_return": 21.71,
         "start_price": 318.0,
         "start_year": 2018
@@ -5583,7 +5583,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 20.42,
+        "pe_ratio": 19.83,
         "forward_return": 32.04,
         "start_price": 328.0,
         "start_year": 2018
@@ -5592,7 +5592,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.6,
         "forward_return": 36.14,
         "start_price": 327.5,
         "start_year": 2018
@@ -5601,7 +5601,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.04,
+        "pe_ratio": 18.65,
         "forward_return": 37.09,
         "start_price": 315.0,
         "start_year": 2018
@@ -5610,7 +5610,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.3,
         "forward_return": 64.17,
         "start_price": 278.0,
         "start_year": 2018
@@ -5619,7 +5619,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.66,
         "forward_return": 61.18,
         "start_price": 269.5,
         "start_year": 2018
@@ -5628,7 +5628,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.32,
+        "pe_ratio": 17.23,
         "forward_return": 49.79,
         "start_price": 299.0,
         "start_year": 2018
@@ -5646,7 +5646,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 17.73,
         "forward_return": 44.97,
         "start_price": 311.0,
         "start_year": 2019
@@ -5655,7 +5655,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.69,
+        "pe_ratio": 17.92,
         "forward_return": 56.48,
         "start_price": 315.0,
         "start_year": 2019
@@ -5664,7 +5664,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.7,
         "forward_return": 21.97,
         "start_price": 364.5,
         "start_year": 2019
@@ -5673,7 +5673,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.69,
+        "pe_ratio": 21.03,
         "forward_return": 37.63,
         "start_price": 374.5,
         "start_year": 2019
@@ -5682,7 +5682,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 20.77,
         "forward_return": 58.61,
         "start_price": 374.0,
         "start_year": 2019
@@ -5691,7 +5691,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 22.82,
+        "pe_ratio": 23.08,
         "forward_return": 42.22,
         "start_price": 420.0,
         "start_year": 2019
@@ -5700,7 +5700,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.54,
         "forward_return": 46.65,
         "start_price": 430.0,
         "start_year": 2019
@@ -5709,7 +5709,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.69,
         "forward_return": 42.23,
         "start_price": 416.0,
         "start_year": 2019
@@ -5718,7 +5718,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 23.36,
+        "pe_ratio": 23.94,
         "forward_return": 29.35,
         "start_price": 440.5,
         "start_year": 2019
@@ -5727,7 +5727,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.38,
         "forward_return": 51.15,
         "start_price": 418.5,
         "start_year": 2019
@@ -5736,7 +5736,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.73,
         "forward_return": 42.28,
         "start_price": 432.0,
         "start_year": 2019
@@ -5754,7 +5754,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 22.31,
+        "pe_ratio": 22.37,
         "forward_return": 37.18,
         "start_price": 435.0,
         "start_year": 2020
@@ -5763,7 +5763,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 24.22,
+        "pe_ratio": 24.35,
         "forward_return": 26.13,
         "start_price": 477.0,
         "start_year": 2020
@@ -5772,7 +5772,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 21.58,
+        "pe_ratio": 21.74,
         "forward_return": 42.95,
         "start_price": 429.0,
         "start_year": 2020
@@ -5781,7 +5781,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.45,
         "forward_return": 25.84,
         "start_price": 500.0,
         "start_year": 2020
@@ -5790,7 +5790,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 28.52,
+        "pe_ratio": 29.56,
         "forward_return": -4.14,
         "start_price": 578.0,
         "start_year": 2020
@@ -5799,7 +5799,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.89,
         "forward_return": -3.77,
         "start_price": 582.0,
         "start_year": 2020
@@ -5808,7 +5808,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 29.74,
+        "pe_ratio": 30.55,
         "forward_return": 0.28,
         "start_price": 614.0,
         "start_year": 2020
@@ -5817,7 +5817,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.6,
+        "pe_ratio": 27.74,
         "forward_return": -8.93,
         "start_price": 575.0,
         "start_year": 2020
@@ -5826,7 +5826,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.3,
+        "pe_ratio": 25.89,
         "forward_return": -11.18,
         "start_price": 553.0,
         "start_year": 2020
@@ -5835,7 +5835,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 29.03,
+        "pe_ratio": 28.73,
         "forward_return": -16.29,
         "start_price": 616.0,
         "start_year": 2020
@@ -5844,7 +5844,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.93,
+        "pe_ratio": 27.79,
         "forward_return": -15.28,
         "start_price": 598.0,
         "start_year": 2020
@@ -5862,7 +5862,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.2,
+        "pe_ratio": 26.4,
         "forward_return": -24.2,
         "start_price": 580.0,
         "start_year": 2021
@@ -5871,7 +5871,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.75,
+        "pe_ratio": 28.01,
         "forward_return": -32.33,
         "start_price": 626.0,
         "start_year": 2021
@@ -5880,7 +5880,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 26.23,
         "forward_return": -31.61,
         "start_price": 596.0,
         "start_year": 2021
@@ -5889,7 +5889,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 27.4,
         "forward_return": -45.33,
         "start_price": 612.0,
         "start_year": 2021
@@ -5898,7 +5898,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.58,
+        "pe_ratio": 24.47,
         "forward_return": -43.09,
         "start_price": 537.0,
         "start_year": 2021
@@ -5907,7 +5907,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.25,
+        "pe_ratio": 25.19,
         "forward_return": -38.38,
         "start_price": 543.0,
         "start_year": 2021
@@ -5916,7 +5916,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 30.39,
+        "pe_ratio": 29.29,
         "forward_return": -35.45,
         "start_price": 597.0,
         "start_year": 2021
@@ -5925,7 +5925,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 26.08,
+        "pe_ratio": 26.3,
         "forward_return": -13.28,
         "start_price": 505.0,
         "start_year": 2021
@@ -5934,7 +5934,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 26.22,
         "forward_return": -14.4,
         "start_price": 472.5,
         "start_year": 2021
@@ -5943,7 +5943,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.42,
+        "pe_ratio": 27.46,
         "forward_return": -15.3,
         "start_price": 497.0,
         "start_year": 2021
@@ -5952,7 +5952,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.34,
+        "pe_ratio": 26.85,
         "forward_return": -5.54,
         "start_price": 488.0,
         "start_year": 2021
@@ -5970,7 +5970,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 22.86,
+        "pe_ratio": 23.5,
         "forward_return": 26.15,
         "start_price": 421.0,
         "start_year": 2022
@@ -5979,7 +5979,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.03,
         "forward_return": 49.18,
         "start_price": 405.0,
         "start_year": 2022
@@ -5988,7 +5988,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 22.55,
         "forward_return": 49.4,
         "start_price": 389.0,
         "start_year": 2022
@@ -5997,7 +5997,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 16.7,
+        "pe_ratio": 18.33,
         "forward_return": 85.2,
         "start_price": 316.0,
         "start_year": 2022
@@ -6006,7 +6006,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.04,
+        "pe_ratio": 16.65,
         "forward_return": 89.28,
         "start_price": 287.0,
         "start_year": 2022
@@ -6015,7 +6015,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 18.34,
         "forward_return": 90.91,
         "start_price": 316.0,
         "start_year": 2022
@@ -6024,7 +6024,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.92,
         "forward_return": 43.13,
         "start_price": 374.5,
         "start_year": 2022
@@ -6033,7 +6033,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 21.8,
+        "pe_ratio": 22.99,
         "forward_return": 19.43,
         "start_price": 427.0,
         "start_year": 2022
@@ -6042,7 +6042,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 19.92,
+        "pe_ratio": 20.44,
         "forward_return": 28.59,
         "start_price": 393.5,
         "start_year": 2022
@@ -6051,7 +6051,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 20.58,
+        "pe_ratio": 20.93,
         "forward_return": 27.19,
         "start_price": 410.0,
         "start_year": 2022
@@ -6060,7 +6060,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 22.4,
+        "pe_ratio": 22.59,
         "forward_return": 18.66,
         "start_price": 450.0,
         "start_year": 2022
@@ -6078,7 +6078,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 25.24,
+        "pe_ratio": 25.07,
         "forward_return": 4.02,
         "start_price": 520.0,
         "start_year": 2023
@@ -6087,7 +6087,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 28.3,
+        "pe_ratio": 27.94,
         "forward_return": -13.18,
         "start_price": 593.0,
         "start_year": 2023
@@ -6096,7 +6096,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 26.76,
+        "pe_ratio": 26.26,
         "forward_return": -8.95,
         "start_price": 570.0,
         "start_year": 2023
@@ -6105,7 +6105,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 26.52,
+        "pe_ratio": 25.81,
         "forward_return": -8.71,
         "start_price": 574.0,
         "start_year": 2023
@@ -6114,7 +6114,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 24.19,
+        "pe_ratio": 23.37,
         "forward_return": -0.21,
         "start_price": 532.0,
         "start_year": 2023
@@ -6123,7 +6123,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 26.51,
+        "pe_ratio": 25.42,
         "forward_return": -12.83,
         "start_price": 592.0,
         "start_year": 2023
@@ -6132,7 +6132,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 21.71,
         "forward_return": 4.48,
         "start_price": 512.0,
         "start_year": 2023
@@ -6141,7 +6141,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.35,
         "forward_return": 7.6,
         "start_price": 486.0,
         "start_year": 2023
@@ -6150,7 +6150,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 20.62,
+        "pe_ratio": 19.93,
         "forward_return": 13.66,
         "start_price": 482.0,
         "start_year": 2023
@@ -6159,7 +6159,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 20.98,
+        "pe_ratio": 20.51,
         "forward_return": 4.91,
         "start_price": 497.5,
         "start_year": 2023
@@ -6168,7 +6168,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 20.96,
         "forward_return": -1.96,
         "start_price": 510.0,
         "start_year": 2023
@@ -6186,7 +6186,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 21.01,
+        "pe_ratio": 21.06,
         "forward_return": -2.32,
         "start_price": 517.0,
         "start_year": 2024
@@ -6195,7 +6195,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 19.8,
+        "pe_ratio": 19.89,
         "forward_return": 1.51,
         "start_price": 491.0,
         "start_year": 2024
@@ -6204,7 +6204,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 19.81,
+        "pe_ratio": 19.94,
         "forward_return": 0.81,
         "start_price": 495.0,
         "start_year": 2024
@@ -6213,7 +6213,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 19.85,
+        "pe_ratio": 19.93,
         "forward_return": 0.0,
         "start_price": 500.0,
         "start_year": 2024
@@ -6222,7 +6222,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 19.98,
+        "pe_ratio": 20.01,
         "forward_return": 3.36,
         "start_price": 507.0,
         "start_year": 2024
@@ -6231,7 +6231,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 19.24,
+        "pe_ratio": 19.23,
         "forward_return": 6.31,
         "start_price": 492.0,
         "start_year": 2024
@@ -6240,7 +6240,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 19.95,
+        "pe_ratio": 19.96,
         "forward_return": -5.45,
         "start_price": 514.0,
         "start_year": 2024
@@ -6249,7 +6249,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 19.33,
+        "pe_ratio": 19.37,
         "forward_return": -2.39,
         "start_price": 502.0,
         "start_year": 2024
@@ -6258,7 +6258,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 20.21,
         "forward_return": -6.65,
         "start_price": 527.0,
         "start_year": 2024
@@ -6267,7 +6267,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 19.01,
+        "pe_ratio": 19.05,
         "forward_return": -4.69,
         "start_price": 501.0,
         "start_year": 2024
@@ -6276,7 +6276,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 18.04,
+        "pe_ratio": 18.06,
         "forward_return": -3.55,
         "start_price": 479.0,
         "start_year": 2024
@@ -6294,7 +6294,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 17.94,
+        "pe_ratio": 17.92,
         "forward_return": -13.44,
         "start_price": 484.0,
         "start_year": 2025
@@ -6303,7 +6303,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 19.08,
+        "pe_ratio": 19.03,
         "forward_return": 1.93,
         "start_price": 519.0,
         "start_year": 2025
@@ -6312,7 +6312,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 7.56,
         "forward_return": -1.5,
         "start_price": 27.6,
         "start_year": 2006
@@ -6321,7 +6321,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 7.85,
         "forward_return": 0.13,
         "start_price": 29.1,
         "start_year": 2006
@@ -6330,7 +6330,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 7.37,
         "forward_return": 4.11,
         "start_price": 27.75,
         "start_year": 2006
@@ -6339,7 +6339,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 7.09,
         "forward_return": 1.15,
         "start_price": 27.1,
         "start_year": 2006
@@ -6348,7 +6348,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 7.07,
         "forward_return": 4.08,
         "start_price": 25.15,
         "start_year": 2006
@@ -6357,7 +6357,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.12,
+        "pe_ratio": 6.95,
         "forward_return": 10.56,
         "start_price": 22.9,
         "start_year": 2006
@@ -6366,7 +6366,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 9.32,
+        "pe_ratio": 7.72,
         "forward_return": -0.11,
         "start_price": 23.4,
         "start_year": 2006
@@ -6375,7 +6375,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 8.09,
+        "pe_ratio": 7.11,
         "forward_return": 3.62,
         "start_price": 20.3,
         "start_year": 2006
@@ -6384,7 +6384,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 7.86,
         "forward_return": 2.68,
         "start_price": 21.1,
         "start_year": 2006
@@ -6402,7 +6402,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.97,
         "forward_return": 10.9,
         "start_price": 21.5,
         "start_year": 2007
@@ -6411,7 +6411,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.37,
         "forward_return": 11.68,
         "start_price": 21.4,
         "start_year": 2007
@@ -6420,7 +6420,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 8.61,
+        "pe_ratio": 9.95,
         "forward_return": 14.65,
         "start_price": 21.6,
         "start_year": 2007
@@ -6429,7 +6429,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 10.17,
         "forward_return": 19.36,
         "start_price": 22.35,
         "start_year": 2007
@@ -6438,7 +6438,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 8.94,
+        "pe_ratio": 10.07,
         "forward_return": 19.04,
         "start_price": 22.4,
         "start_year": 2007
@@ -6447,7 +6447,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.38,
+        "pe_ratio": 13.78,
         "forward_return": 1.51,
         "start_price": 31.0,
         "start_year": 2007
@@ -6456,7 +6456,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.46,
+        "pe_ratio": 12.97,
         "forward_return": 1.73,
         "start_price": 28.7,
         "start_year": 2007
@@ -6465,7 +6465,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 11.42,
         "forward_return": 10.05,
         "start_price": 24.85,
         "start_year": 2007
@@ -6474,7 +6474,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 9.75,
+        "pe_ratio": 11.4,
         "forward_return": 12.98,
         "start_price": 24.4,
         "start_year": 2007
@@ -6483,7 +6483,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 11.33,
         "forward_return": 9.68,
         "start_price": 25.6,
         "start_year": 2007
@@ -6492,7 +6492,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.03,
         "forward_return": 19.58,
         "start_price": 21.5,
         "start_year": 2007
@@ -6510,7 +6510,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.3,
+        "pe_ratio": 7.22,
         "forward_return": 30.63,
         "start_price": 18.6,
         "start_year": 2008
@@ -6519,7 +6519,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.82,
+        "pe_ratio": 7.65,
         "forward_return": 27.04,
         "start_price": 20.3,
         "start_year": 2008
@@ -6528,7 +6528,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.05,
+        "pe_ratio": 8.77,
         "forward_return": 18.11,
         "start_price": 23.95,
         "start_year": 2008
@@ -6537,7 +6537,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.78,
+        "pe_ratio": 9.55,
         "forward_return": 14.93,
         "start_price": 26.35,
         "start_year": 2008
@@ -6546,7 +6546,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.77,
         "forward_return": 13.83,
         "start_price": 27.25,
         "start_year": 2008
@@ -6555,7 +6555,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.83,
         "forward_return": 20.09,
         "start_price": 24.9,
         "start_year": 2008
@@ -6564,7 +6564,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 8.46,
+        "pe_ratio": 8.4,
         "forward_return": 23.51,
         "start_price": 24.0,
         "start_year": 2008
@@ -6573,7 +6573,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.55,
         "forward_return": 24.09,
         "start_price": 24.75,
         "start_year": 2008
@@ -6582,7 +6582,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.86,
         "forward_return": 28.15,
         "start_price": 20.1,
         "start_year": 2008
@@ -6618,7 +6618,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-01-16",
-        "pe_ratio": 7.61,
+        "pe_ratio": 7.52,
         "forward_return": 17.55,
         "start_price": 23.2,
         "start_year": 2009
@@ -6627,7 +6627,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 16.46,
         "start_price": 23.45,
         "start_year": 2009
@@ -6636,7 +6636,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.43,
+        "pe_ratio": 8.14,
         "forward_return": 13.34,
         "start_price": 25.15,
         "start_year": 2009
@@ -6645,7 +6645,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-04-15",
-        "pe_ratio": 9.69,
+        "pe_ratio": 9.55,
         "forward_return": 13.06,
         "start_price": 28.6,
         "start_year": 2009
@@ -6654,7 +6654,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.77,
+        "pe_ratio": 9.84,
         "forward_return": 13.49,
         "start_price": 28.5,
         "start_year": 2009
@@ -6663,7 +6663,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.95,
+        "pe_ratio": 10.25,
         "forward_return": 16.66,
         "start_price": 28.7,
         "start_year": 2009
@@ -6672,7 +6672,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-07-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.38,
         "forward_return": 36.21,
         "start_price": 26.1,
         "start_year": 2009
@@ -6681,7 +6681,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 9.58,
         "forward_return": 29.83,
         "start_price": 26.5,
         "start_year": 2009
@@ -6690,7 +6690,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.02,
         "forward_return": 18.38,
         "start_price": 27.55,
         "start_year": 2009
@@ -6699,7 +6699,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.96,
         "forward_return": 23.24,
         "start_price": 27.2,
         "start_year": 2009
@@ -6708,7 +6708,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.02,
         "forward_return": 16.67,
         "start_price": 27.15,
         "start_year": 2009
@@ -6726,7 +6726,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.28,
+        "pe_ratio": 10.04,
         "forward_return": 21.29,
         "start_price": 28.15,
         "start_year": 2010
@@ -6735,7 +6735,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.25,
+        "pe_ratio": 9.79,
         "forward_return": 26.05,
         "start_price": 28.55,
         "start_year": 2010
@@ -6744,7 +6744,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.52,
+        "pe_ratio": 9.83,
         "forward_return": 28.34,
         "start_price": 29.8,
         "start_year": 2010
@@ -6753,7 +6753,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 10.05,
         "forward_return": 29.94,
         "start_price": 31.2,
         "start_year": 2010
@@ -6762,7 +6762,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.83,
+        "pe_ratio": 9.98,
         "forward_return": 33.95,
         "start_price": 31.7,
         "start_year": 2010
@@ -6771,7 +6771,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 9.94,
         "forward_return": 33.86,
         "start_price": 32.3,
         "start_year": 2010
@@ -6780,7 +6780,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.06,
         "forward_return": 40.13,
         "start_price": 34.3,
         "start_year": 2010
@@ -6789,7 +6789,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 12.14,
         "forward_return": 38.17,
         "start_price": 35.8,
         "start_year": 2010
@@ -6798,7 +6798,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.96,
         "forward_return": 52.01,
         "start_price": 30.7,
         "start_year": 2010
@@ -6807,7 +6807,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.27,
+        "pe_ratio": 9.94,
         "forward_return": 59.46,
         "start_price": 29.35,
         "start_year": 2010
@@ -6816,7 +6816,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 9.03,
         "forward_return": 67.85,
         "start_price": 28.05,
         "start_year": 2010
@@ -6834,7 +6834,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 9.01,
+        "pe_ratio": 8.98,
         "forward_return": 75.86,
         "start_price": 29.75,
         "start_year": 2011
@@ -6843,7 +6843,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 8.82,
+        "pe_ratio": 8.76,
         "forward_return": 84.94,
         "start_price": 29.5,
         "start_year": 2011
@@ -6852,7 +6852,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 8.86,
+        "pe_ratio": 8.77,
         "forward_return": 83.66,
         "start_price": 30.0,
         "start_year": 2011
@@ -6861,7 +6861,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.21,
         "forward_return": 78.8,
         "start_price": 34.25,
         "start_year": 2011
@@ -6870,7 +6870,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-05-16",
-        "pe_ratio": 9.92,
+        "pe_ratio": 10.47,
         "forward_return": 94.0,
         "start_price": 34.4,
         "start_year": 2011
@@ -6879,7 +6879,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-06-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.41,
         "forward_return": 75.35,
         "start_price": 36.75,
         "start_year": 2011
@@ -6888,7 +6888,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.85,
         "forward_return": 91.99,
         "start_price": 45.1,
         "start_year": 2011
@@ -6897,7 +6897,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.56,
         "forward_return": 87.1,
         "start_price": 41.35,
         "start_year": 2011
@@ -6906,7 +6906,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-09-15",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.6,
         "forward_return": 107.66,
         "start_price": 35.3,
         "start_year": 2011
@@ -6915,7 +6915,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.94,
         "forward_return": 106.3,
         "start_price": 38.0,
         "start_year": 2011
@@ -6924,7 +6924,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 9.3,
         "forward_return": 141.12,
         "start_price": 33.65,
         "start_year": 2011
@@ -6942,7 +6942,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.78,
         "forward_return": 127.77,
         "start_price": 38.1,
         "start_year": 2012
@@ -6951,7 +6951,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 10.43,
         "forward_return": 114.3,
         "start_price": 42.05,
         "start_year": 2012
@@ -6960,7 +6960,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.98,
         "forward_return": 111.87,
         "start_price": 45.8,
         "start_year": 2012
@@ -6969,7 +6969,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.16,
+        "pe_ratio": 11.41,
         "forward_return": 98.97,
         "start_price": 49.4,
         "start_year": 2012
@@ -6978,7 +6978,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.94,
         "forward_return": 92.47,
         "start_price": 53.6,
         "start_year": 2012
@@ -6987,7 +6987,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.74,
         "forward_return": 82.59,
         "start_price": 54.6,
         "start_year": 2012
@@ -6996,7 +6996,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 12.57,
         "forward_return": 73.27,
         "start_price": 61.3,
         "start_year": 2012
@@ -7005,7 +7005,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 12.21,
         "forward_return": 72.81,
         "start_price": 62.3,
         "start_year": 2012
@@ -7014,7 +7014,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 12.18,
         "forward_return": 75.13,
         "start_price": 64.9,
         "start_year": 2012
@@ -7023,7 +7023,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.42,
         "forward_return": 76.65,
         "start_price": 68.6,
         "start_year": 2012
@@ -7032,7 +7032,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 14.92,
         "forward_return": 82.3,
         "start_price": 73.0,
         "start_year": 2012
@@ -7050,7 +7050,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 17.97,
+        "pe_ratio": 17.86,
         "forward_return": 78.53,
         "start_price": 86.0,
         "start_year": 2013
@@ -7059,7 +7059,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.14,
         "forward_return": 71.65,
         "start_price": 94.9,
         "start_year": 2013
@@ -7068,7 +7068,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 18.67,
         "forward_return": 79.62,
         "start_price": 95.2,
         "start_year": 2013
@@ -7077,7 +7077,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 20.2,
+        "pe_ratio": 19.98,
         "forward_return": 80.63,
         "start_price": 103.5,
         "start_year": 2013
@@ -7086,7 +7086,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 23.58,
+        "pe_ratio": 23.48,
         "forward_return": 79.34,
         "start_price": 123.5,
         "start_year": 2013
@@ -7095,7 +7095,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 20.04,
         "forward_return": 77.64,
         "start_price": 107.0,
         "start_year": 2013
@@ -7104,7 +7104,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 29.23,
         "forward_return": 52.32,
         "start_price": 159.0,
         "start_year": 2013
@@ -7113,7 +7113,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 24.82,
         "forward_return": 54.31,
         "start_price": 137.5,
         "start_year": 2013
@@ -7122,7 +7122,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 25.48,
+        "pe_ratio": 25.71,
         "forward_return": 53.22,
         "start_price": 145.0,
         "start_year": 2013
@@ -7131,7 +7131,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.78,
         "forward_return": 57.33,
         "start_price": 154.5,
         "start_year": 2013
@@ -7140,7 +7140,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 31.86,
+        "pe_ratio": 31.95,
         "forward_return": 34.17,
         "start_price": 188.5,
         "start_year": 2013
@@ -7158,7 +7158,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 30.66,
+        "pe_ratio": 31.61,
         "forward_return": 28.76,
         "start_price": 190.5,
         "start_year": 2014
@@ -7167,7 +7167,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 28.77,
+        "pe_ratio": 30.55,
         "forward_return": 37.4,
         "start_price": 184.0,
         "start_year": 2014
@@ -7176,7 +7176,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 32.89,
         "forward_return": 33.72,
         "start_price": 198.0,
         "start_year": 2014
@@ -7185,7 +7185,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 27.81,
+        "pe_ratio": 30.37,
         "forward_return": 37.23,
         "start_price": 188.0,
         "start_year": 2014
@@ -7194,7 +7194,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 27.51,
+        "pe_ratio": 30.03,
         "forward_return": 40.87,
         "start_price": 191.0,
         "start_year": 2014
@@ -7203,7 +7203,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.49,
+        "pe_ratio": 26.72,
         "forward_return": 45.62,
         "start_price": 174.5,
         "start_year": 2014
@@ -7212,7 +7212,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.95,
+        "pe_ratio": 25.52,
         "forward_return": 52.96,
         "start_price": 175.0,
         "start_year": 2014
@@ -7221,7 +7221,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 23.63,
+        "pe_ratio": 24.64,
         "forward_return": 66.44,
         "start_price": 177.0,
         "start_year": 2014
@@ -7230,7 +7230,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.76,
+        "pe_ratio": 25.3,
         "forward_return": 59.26,
         "start_price": 190.0,
         "start_year": 2014
@@ -7239,7 +7239,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 26.1,
+        "pe_ratio": 26.46,
         "forward_return": 52.29,
         "start_price": 205.0,
         "start_year": 2014
@@ -7248,7 +7248,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 29.05,
+        "pe_ratio": 29.25,
         "forward_return": 33.32,
         "start_price": 233.5,
         "start_year": 2014
@@ -7266,7 +7266,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 31.67,
+        "pe_ratio": 31.34,
         "forward_return": 22.64,
         "start_price": 265.0,
         "start_year": 2015
@@ -7275,7 +7275,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 31.76,
+        "pe_ratio": 31.12,
         "forward_return": 17.37,
         "start_price": 270.5,
         "start_year": 2015
@@ -7284,7 +7284,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 34.39,
+        "pe_ratio": 33.37,
         "forward_return": 11.9,
         "start_price": 298.0,
         "start_year": 2015
@@ -7293,7 +7293,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 37.27,
+        "pe_ratio": 36.17,
         "forward_return": 14.16,
         "start_price": 328.5,
         "start_year": 2015
@@ -7302,7 +7302,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 43.3,
+        "pe_ratio": 42.01,
         "forward_return": 5.11,
         "start_price": 388.0,
         "start_year": 2015
@@ -7311,7 +7311,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 36.06,
+        "pe_ratio": 34.98,
         "forward_return": 10.64,
         "start_price": 328.5,
         "start_year": 2015
@@ -7320,7 +7320,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 38.51,
+        "pe_ratio": 37.55,
         "forward_return": 6.51,
         "start_price": 356.5,
         "start_year": 2015
@@ -7329,7 +7329,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 33.49,
+        "pe_ratio": 32.82,
         "forward_return": 14.35,
         "start_price": 315.0,
         "start_year": 2015
@@ -7338,7 +7338,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 34.33,
+        "pe_ratio": 33.81,
         "forward_return": 7.7,
         "start_price": 328.0,
         "start_year": 2015
@@ -7347,7 +7347,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 38.13,
+        "pe_ratio": 37.76,
         "forward_return": 4.75,
         "start_price": 370.0,
         "start_year": 2015
@@ -7356,7 +7356,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.03,
         "forward_return": 9.41,
         "start_price": 327.0,
         "start_year": 2015
@@ -7374,7 +7374,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 30.25,
         "forward_return": 13.78,
         "start_price": 303.5,
         "start_year": 2016
@@ -7383,7 +7383,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.28,
         "forward_return": 6.65,
         "start_price": 335.0,
         "start_year": 2016
@@ -7392,7 +7392,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.47,
+        "pe_ratio": 33.86,
         "forward_return": 5.83,
         "start_price": 342.0,
         "start_year": 2016
@@ -7401,7 +7401,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 31.93,
+        "pe_ratio": 33.17,
         "forward_return": 0.95,
         "start_price": 342.0,
         "start_year": 2016
@@ -7410,7 +7410,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.89,
         "forward_return": -4.11,
         "start_price": 367.0,
         "start_year": 2016
@@ -7419,7 +7419,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.36,
         "forward_return": -1.48,
         "start_price": 358.0,
         "start_year": 2016
@@ -7428,7 +7428,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 35.0,
+        "pe_ratio": 35.86,
         "forward_return": -5.53,
         "start_price": 393.5,
         "start_year": 2016
@@ -7437,7 +7437,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 41.55,
+        "pe_ratio": 42.3,
         "forward_return": -15.52,
         "start_price": 474.5,
         "start_year": 2016
@@ -7446,7 +7446,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 40.18,
+        "pe_ratio": 40.66,
         "forward_return": -19.55,
         "start_price": 466.0,
         "start_year": 2016
@@ -7455,7 +7455,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 39.02,
+        "pe_ratio": 39.33,
         "forward_return": -20.13,
         "start_price": 459.5,
         "start_year": 2016
@@ -7464,7 +7464,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 33.38,
+        "pe_ratio": 33.51,
         "forward_return": -10.07,
         "start_price": 399.0,
         "start_year": 2016
@@ -7482,7 +7482,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 31.0,
+        "pe_ratio": 30.81,
         "forward_return": -6.46,
         "start_price": 382.5,
         "start_year": 2017
@@ -7491,7 +7491,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 28.41,
+        "pe_ratio": 28.08,
         "forward_return": -2.53,
         "start_price": 356.5,
         "start_year": 2017
@@ -7500,7 +7500,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-03-16",
-        "pe_ratio": 27.99,
+        "pe_ratio": 27.5,
         "forward_return": 4.28,
         "start_price": 357.0,
         "start_year": 2017
@@ -7509,7 +7509,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-04-15",
-        "pe_ratio": 31.78,
+        "pe_ratio": 31.75,
         "forward_return": -1.69,
         "start_price": 412.0,
         "start_year": 2017
@@ -7518,7 +7518,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-05-16",
-        "pe_ratio": 31.32,
+        "pe_ratio": 31.8,
         "forward_return": -1.81,
         "start_price": 412.5,
         "start_year": 2017
@@ -7527,7 +7527,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.85,
+        "pe_ratio": 29.76,
         "forward_return": 7.22,
         "start_price": 386.0,
         "start_year": 2017
@@ -7536,7 +7536,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-07-16",
-        "pe_ratio": 28.33,
+        "pe_ratio": 29.06,
         "forward_return": 9.17,
         "start_price": 385.0,
         "start_year": 2017
@@ -7545,7 +7545,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.02,
         "forward_return": 6.45,
         "start_price": 392.5,
         "start_year": 2017
@@ -7554,7 +7554,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-09-15",
-        "pe_ratio": 25.78,
+        "pe_ratio": 26.16,
         "forward_return": 14.02,
         "start_price": 361.0,
         "start_year": 2017
@@ -7563,7 +7563,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-10-16",
-        "pe_ratio": 27.19,
+        "pe_ratio": 27.46,
         "forward_return": 7.58,
         "start_price": 386.5,
         "start_year": 2017
@@ -7572,7 +7572,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-11-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.92,
         "forward_return": 11.3,
         "start_price": 372.0,
         "start_year": 2017
@@ -7590,7 +7590,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.86,
         "forward_return": 11.44,
         "start_price": 373.5,
         "start_year": 2018
@@ -7599,7 +7599,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.99,
+        "pe_ratio": 24.49,
         "forward_return": 15.76,
         "start_price": 377.5,
         "start_year": 2018
@@ -7608,7 +7608,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 22.99,
         "forward_return": 12.21,
         "start_price": 363.5,
         "start_year": 2018
@@ -7617,7 +7617,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.49,
         "forward_return": 26.75,
         "start_price": 329.0,
         "start_year": 2018
@@ -7626,7 +7626,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.51,
         "forward_return": 38.1,
         "start_price": 318.0,
         "start_year": 2018
@@ -7635,7 +7635,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 20.42,
+        "pe_ratio": 19.83,
         "forward_return": 36.43,
         "start_price": 328.0,
         "start_year": 2018
@@ -7644,7 +7644,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.6,
         "forward_return": 40.51,
         "start_price": 327.5,
         "start_year": 2018
@@ -7653,7 +7653,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.04,
+        "pe_ratio": 18.65,
         "forward_return": 38.88,
         "start_price": 315.0,
         "start_year": 2018
@@ -7662,7 +7662,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.3,
         "forward_return": 45.13,
         "start_price": 278.0,
         "start_year": 2018
@@ -7671,7 +7671,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.66,
         "forward_return": 55.12,
         "start_price": 269.5,
         "start_year": 2018
@@ -7680,7 +7680,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.32,
+        "pe_ratio": 17.23,
         "forward_return": 45.22,
         "start_price": 299.0,
         "start_year": 2018
@@ -7698,7 +7698,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 17.73,
         "forward_return": 40.34,
         "start_price": 311.0,
         "start_year": 2019
@@ -7707,7 +7707,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.69,
+        "pe_ratio": 17.92,
         "forward_return": 44.59,
         "start_price": 315.0,
         "start_year": 2019
@@ -7716,7 +7716,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.7,
         "forward_return": 31.32,
         "start_price": 364.5,
         "start_year": 2019
@@ -7725,7 +7725,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.69,
+        "pe_ratio": 21.03,
         "forward_return": 31.2,
         "start_price": 374.5,
         "start_year": 2019
@@ -7734,7 +7734,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 20.77,
         "forward_return": 23.42,
         "start_price": 374.0,
         "start_year": 2019
@@ -7743,7 +7743,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 22.82,
+        "pe_ratio": 23.08,
         "forward_return": 17.08,
         "start_price": 420.0,
         "start_year": 2019
@@ -7752,7 +7752,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.54,
         "forward_return": 21.29,
         "start_price": 430.0,
         "start_year": 2019
@@ -7761,7 +7761,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.69,
         "forward_return": 14.01,
         "start_price": 416.0,
         "start_year": 2019
@@ -7770,7 +7770,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 23.36,
+        "pe_ratio": 23.94,
         "forward_return": 7.42,
         "start_price": 440.5,
         "start_year": 2019
@@ -7779,7 +7779,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.38,
         "forward_return": 12.82,
         "start_price": 418.5,
         "start_year": 2019
@@ -7788,7 +7788,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.73,
         "forward_return": 10.11,
         "start_price": 432.0,
         "start_year": 2019
@@ -7806,7 +7806,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 22.31,
+        "pe_ratio": 22.37,
         "forward_return": 2.47,
         "start_price": 435.0,
         "start_year": 2020
@@ -7815,7 +7815,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 24.22,
+        "pe_ratio": 24.35,
         "forward_return": -5.42,
         "start_price": 477.0,
         "start_year": 2020
@@ -7824,7 +7824,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 21.58,
+        "pe_ratio": 21.74,
         "forward_return": -0.49,
         "start_price": 429.0,
         "start_year": 2020
@@ -7833,7 +7833,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.45,
         "forward_return": -16.13,
         "start_price": 500.0,
         "start_year": 2020
@@ -7842,7 +7842,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 28.52,
+        "pe_ratio": 29.56,
         "forward_return": -25.28,
         "start_price": 578.0,
         "start_year": 2020
@@ -7851,7 +7851,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.89,
         "forward_return": -22.27,
         "start_price": 582.0,
         "start_year": 2020
@@ -7860,7 +7860,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 29.74,
+        "pe_ratio": 30.55,
         "forward_return": -18.88,
         "start_price": 614.0,
         "start_year": 2020
@@ -7869,7 +7869,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.6,
+        "pe_ratio": 27.74,
         "forward_return": -10.89,
         "start_price": 575.0,
         "start_year": 2020
@@ -7878,7 +7878,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.3,
+        "pe_ratio": 25.89,
         "forward_return": -12.53,
         "start_price": 553.0,
         "start_year": 2020
@@ -7887,7 +7887,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 29.03,
+        "pe_ratio": 28.73,
         "forward_return": -15.52,
         "start_price": 616.0,
         "start_year": 2020
@@ -7896,7 +7896,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.93,
+        "pe_ratio": 27.79,
         "forward_return": -10.44,
         "start_price": 598.0,
         "start_year": 2020
@@ -7914,7 +7914,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.2,
+        "pe_ratio": 26.4,
         "forward_return": -2.65,
         "start_price": 580.0,
         "start_year": 2021
@@ -7923,7 +7923,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.75,
+        "pe_ratio": 28.01,
         "forward_return": -0.26,
         "start_price": 626.0,
         "start_year": 2021
@@ -7932,7 +7932,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 26.23,
         "forward_return": 0.31,
         "start_price": 596.0,
         "start_year": 2021
@@ -7941,7 +7941,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 27.4,
         "forward_return": -0.68,
         "start_price": 612.0,
         "start_year": 2021
@@ -7950,7 +7950,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.58,
+        "pe_ratio": 24.47,
         "forward_return": 2.28,
         "start_price": 537.0,
         "start_year": 2021
@@ -7959,7 +7959,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.25,
+        "pe_ratio": 25.19,
         "forward_return": 7.01,
         "start_price": 543.0,
         "start_year": 2021
@@ -7968,7 +7968,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 30.39,
+        "pe_ratio": 29.29,
         "forward_return": -4.29,
         "start_price": 597.0,
         "start_year": 2021
@@ -7977,7 +7977,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 26.08,
+        "pe_ratio": 26.3,
         "forward_return": 1.56,
         "start_price": 505.0,
         "start_year": 2021
@@ -7986,7 +7986,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 26.22,
         "forward_return": 4.6,
         "start_price": 472.5,
         "start_year": 2021
@@ -7995,7 +7995,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.42,
+        "pe_ratio": 27.46,
         "forward_return": 3.5,
         "start_price": 497.0,
         "start_year": 2021
@@ -8004,7 +8004,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.34,
+        "pe_ratio": 26.85,
         "forward_return": 5.67,
         "start_price": 488.0,
         "start_year": 2021
@@ -8022,7 +8022,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 22.86,
+        "pe_ratio": 23.5,
         "forward_return": 14.51,
         "start_price": 421.0,
         "start_year": 2022
@@ -8031,7 +8031,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.03,
         "forward_return": 13.96,
         "start_price": 405.0,
         "start_year": 2022
@@ -8040,7 +8040,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 22.55,
         "forward_return": 16.7,
         "start_price": 389.0,
         "start_year": 2022
@@ -8049,7 +8049,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 16.7,
+        "pe_ratio": 18.33,
         "forward_return": 30.08,
         "start_price": 316.0,
         "start_year": 2022
@@ -8058,7 +8058,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.04,
+        "pe_ratio": 16.65,
         "forward_return": 37.38,
         "start_price": 287.0,
         "start_year": 2022
@@ -8067,7 +8067,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 18.34,
         "forward_return": 29.11,
         "start_price": 316.0,
         "start_year": 2022
@@ -8076,7 +8076,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.92,
         "forward_return": 22.15,
         "start_price": 374.5,
         "start_year": 2022
@@ -8085,7 +8085,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 21.8,
+        "pe_ratio": 22.99,
         "forward_return": 13.16,
         "start_price": 427.0,
         "start_year": 2022
@@ -8094,7 +8094,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 19.92,
+        "pe_ratio": 20.44,
         "forward_return": 20.54,
         "start_price": 393.5,
         "start_year": 2022
@@ -8103,7 +8103,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 20.58,
+        "pe_ratio": 20.93,
         "forward_return": 15.38,
         "start_price": 410.0,
         "start_year": 2022
@@ -8112,7 +8112,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 22.4,
+        "pe_ratio": 22.59,
         "forward_return": 7.89,
         "start_price": 450.0,
         "start_year": 2022
@@ -8130,7 +8130,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 25.24,
+        "pe_ratio": 25.07,
         "forward_return": 0.85,
         "start_price": 520.0,
         "start_year": 2023
@@ -8139,7 +8139,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 28.3,
+        "pe_ratio": 27.94,
         "forward_return": -2.48,
         "start_price": 593.0,
         "start_year": 2023
@@ -8148,7 +8148,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 26.76,
+        "pe_ratio": 26.26,
         "forward_return": -4.22,
         "start_price": 570.0,
         "start_year": 2023
@@ -8157,7 +8157,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 26.52,
+        "pe_ratio": 25.81,
         "forward_return": -4.46,
         "start_price": 574.0,
         "start_year": 2023
@@ -8166,7 +8166,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 24.19,
+        "pe_ratio": 23.37,
         "forward_return": 1.48,
         "start_price": 532.0,
         "start_year": 2023
@@ -8175,7 +8175,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 26.51,
+        "pe_ratio": 25.42,
         "forward_return": -3.88,
         "start_price": 592.0,
         "start_year": 2023
@@ -8184,7 +8184,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 22.57,
+        "pe_ratio": 21.71,
         "forward_return": -0.49,
         "start_price": 512.0,
         "start_year": 2023
@@ -8193,7 +8193,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.35,
         "forward_return": 2.54,
         "start_price": 486.0,
         "start_year": 2023
@@ -8202,7 +8202,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 20.62,
+        "pe_ratio": 19.93,
         "forward_return": 3.16,
         "start_price": 482.0,
         "start_year": 2023
@@ -8211,7 +8211,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 20.98,
+        "pe_ratio": 20.51,
         "forward_return": 0.1,
         "start_price": 497.5,
         "start_year": 2023
@@ -8220,7 +8220,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 21.19,
+        "pe_ratio": 20.96,
         "forward_return": -2.68,
         "start_price": 510.0,
         "start_year": 2023
@@ -8238,7 +8238,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 21.01,
+        "pe_ratio": 21.06,
         "forward_return": -7.74,
         "start_price": 517.0,
         "start_year": 2024
@@ -8247,7 +8247,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 7.56,
         "forward_return": 2.56,
         "start_price": 27.6,
         "start_year": 2006
@@ -8256,7 +8256,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 7.85,
         "forward_return": 4.52,
         "start_price": 29.1,
         "start_year": 2006
@@ -8265,7 +8265,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 7.37,
         "forward_return": 6.08,
         "start_price": 27.75,
         "start_year": 2006
@@ -8274,7 +8274,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 7.09,
         "forward_return": 7.14,
         "start_price": 27.1,
         "start_year": 2006
@@ -8283,7 +8283,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 7.07,
         "forward_return": 7.39,
         "start_price": 25.15,
         "start_year": 2006
@@ -8292,7 +8292,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.12,
+        "pe_ratio": 6.95,
         "forward_return": 11.27,
         "start_price": 22.9,
         "start_year": 2006
@@ -8301,7 +8301,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 9.32,
+        "pe_ratio": 7.72,
         "forward_return": 11.68,
         "start_price": 23.4,
         "start_year": 2006
@@ -8310,7 +8310,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 8.09,
+        "pe_ratio": 7.11,
         "forward_return": 16.68,
         "start_price": 20.3,
         "start_year": 2006
@@ -8319,7 +8319,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 7.86,
         "forward_return": 15.12,
         "start_price": 21.1,
         "start_year": 2006
@@ -8337,7 +8337,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.97,
         "forward_return": 15.58,
         "start_price": 21.5,
         "start_year": 2007
@@ -8346,7 +8346,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.37,
         "forward_return": 16.22,
         "start_price": 21.4,
         "start_year": 2007
@@ -8355,7 +8355,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 8.61,
+        "pe_ratio": 9.95,
         "forward_return": 17.28,
         "start_price": 21.6,
         "start_year": 2007
@@ -8364,7 +8364,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 10.17,
         "forward_return": 17.48,
         "start_price": 22.35,
         "start_year": 2007
@@ -8373,7 +8373,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 8.94,
+        "pe_ratio": 10.07,
         "forward_return": 17.93,
         "start_price": 22.4,
         "start_year": 2007
@@ -8382,7 +8382,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.38,
+        "pe_ratio": 13.78,
         "forward_return": 6.4,
         "start_price": 31.0,
         "start_year": 2007
@@ -8391,7 +8391,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.46,
+        "pe_ratio": 12.97,
         "forward_return": 10.19,
         "start_price": 28.7,
         "start_year": 2007
@@ -8400,7 +8400,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 11.42,
         "forward_return": 17.09,
         "start_price": 24.85,
         "start_year": 2007
@@ -8409,7 +8409,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 9.75,
+        "pe_ratio": 11.4,
         "forward_return": 12.56,
         "start_price": 24.4,
         "start_year": 2007
@@ -8418,7 +8418,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 11.33,
         "forward_return": 9.32,
         "start_price": 25.6,
         "start_year": 2007
@@ -8427,7 +8427,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.03,
         "forward_return": 14.35,
         "start_price": 21.5,
         "start_year": 2007
@@ -8445,7 +8445,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.3,
+        "pe_ratio": 7.22,
         "forward_return": 22.08,
         "start_price": 18.6,
         "start_year": 2008
@@ -8454,7 +8454,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.82,
+        "pe_ratio": 7.65,
         "forward_return": 18.34,
         "start_price": 20.3,
         "start_year": 2008
@@ -8463,7 +8463,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.05,
+        "pe_ratio": 8.77,
         "forward_return": 12.51,
         "start_price": 23.95,
         "start_year": 2008
@@ -8472,7 +8472,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.78,
+        "pe_ratio": 9.55,
         "forward_return": 13.34,
         "start_price": 26.35,
         "start_year": 2008
@@ -8481,7 +8481,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.77,
         "forward_return": 12.22,
         "start_price": 27.25,
         "start_year": 2008
@@ -8490,7 +8490,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.83,
         "forward_return": 17.95,
         "start_price": 24.9,
         "start_year": 2008
@@ -8499,7 +8499,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 8.46,
+        "pe_ratio": 8.4,
         "forward_return": 27.91,
         "start_price": 24.0,
         "start_year": 2008
@@ -8508,7 +8508,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.55,
         "forward_return": 23.37,
         "start_price": 24.75,
         "start_year": 2008
@@ -8517,7 +8517,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.86,
         "forward_return": 26.22,
         "start_price": 20.1,
         "start_year": 2008
@@ -8553,7 +8553,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-01-16",
-        "pe_ratio": 7.61,
+        "pe_ratio": 7.52,
         "forward_return": 23.04,
         "start_price": 23.2,
         "start_year": 2009
@@ -8562,7 +8562,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 26.24,
         "start_price": 23.45,
         "start_year": 2009
@@ -8571,7 +8571,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.43,
+        "pe_ratio": 8.14,
         "forward_return": 26.48,
         "start_price": 25.15,
         "start_year": 2009
@@ -8580,7 +8580,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-04-15",
-        "pe_ratio": 9.69,
+        "pe_ratio": 9.55,
         "forward_return": 23.97,
         "start_price": 28.6,
         "start_year": 2009
@@ -8589,7 +8589,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.77,
+        "pe_ratio": 9.84,
         "forward_return": 27.23,
         "start_price": 28.5,
         "start_year": 2009
@@ -8598,7 +8598,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.95,
+        "pe_ratio": 10.25,
         "forward_return": 27.65,
         "start_price": 28.7,
         "start_year": 2009
@@ -8607,7 +8607,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-07-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.38,
         "forward_return": 37.51,
         "start_price": 26.1,
         "start_year": 2009
@@ -8616,7 +8616,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 9.58,
         "forward_return": 37.48,
         "start_price": 26.5,
         "start_year": 2009
@@ -8625,7 +8625,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.02,
         "forward_return": 37.4,
         "start_price": 27.55,
         "start_year": 2009
@@ -8634,7 +8634,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.96,
         "forward_return": 40.33,
         "start_price": 27.2,
         "start_year": 2009
@@ -8643,7 +8643,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.02,
         "forward_return": 43.1,
         "start_price": 27.15,
         "start_year": 2009
@@ -8661,7 +8661,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.28,
+        "pe_ratio": 10.04,
         "forward_return": 48.7,
         "start_price": 28.15,
         "start_year": 2010
@@ -8670,7 +8670,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.25,
+        "pe_ratio": 9.79,
         "forward_return": 52.6,
         "start_price": 28.55,
         "start_year": 2010
@@ -8679,7 +8679,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.52,
+        "pe_ratio": 9.83,
         "forward_return": 50.58,
         "start_price": 29.8,
         "start_year": 2010
@@ -8688,7 +8688,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 10.05,
         "forward_return": 52.22,
         "start_price": 31.2,
         "start_year": 2010
@@ -8697,7 +8697,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.83,
+        "pe_ratio": 9.98,
         "forward_return": 60.08,
         "start_price": 31.7,
         "start_year": 2010
@@ -8706,7 +8706,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 9.94,
         "forward_return": 52.05,
         "start_price": 32.3,
         "start_year": 2010
@@ -8715,7 +8715,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.06,
         "forward_return": 70.2,
         "start_price": 34.3,
         "start_year": 2010
@@ -8724,7 +8724,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 12.14,
         "forward_return": 60.36,
         "start_price": 35.8,
         "start_year": 2010
@@ -8733,7 +8733,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.96,
         "forward_return": 71.6,
         "start_price": 30.7,
         "start_year": 2010
@@ -8742,7 +8742,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.27,
+        "pe_ratio": 9.94,
         "forward_return": 77.67,
         "start_price": 29.35,
         "start_year": 2010
@@ -8751,7 +8751,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 9.03,
         "forward_return": 92.02,
         "start_price": 28.05,
         "start_year": 2010
@@ -8769,7 +8769,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 9.01,
+        "pe_ratio": 8.98,
         "forward_return": 88.92,
         "start_price": 29.75,
         "start_year": 2011
@@ -8778,7 +8778,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 8.82,
+        "pe_ratio": 8.76,
         "forward_return": 87.38,
         "start_price": 29.5,
         "start_year": 2011
@@ -8787,7 +8787,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 8.86,
+        "pe_ratio": 8.77,
         "forward_return": 90.71,
         "start_price": 30.0,
         "start_year": 2011
@@ -8796,7 +8796,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.21,
         "forward_return": 79.5,
         "start_price": 34.25,
         "start_year": 2011
@@ -8805,7 +8805,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-05-16",
-        "pe_ratio": 9.92,
+        "pe_ratio": 10.47,
         "forward_return": 80.14,
         "start_price": 34.4,
         "start_year": 2011
@@ -8814,7 +8814,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-06-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.41,
         "forward_return": 71.26,
         "start_price": 36.75,
         "start_year": 2011
@@ -8823,7 +8823,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.85,
         "forward_return": 60.69,
         "start_price": 45.1,
         "start_year": 2011
@@ -8832,7 +8832,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.56,
         "forward_return": 65.99,
         "start_price": 41.35,
         "start_year": 2011
@@ -8841,7 +8841,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-09-15",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.6,
         "forward_return": 78.89,
         "start_price": 35.3,
         "start_year": 2011
@@ -8850,7 +8850,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.94,
         "forward_return": 78.77,
         "start_price": 38.0,
         "start_year": 2011
@@ -8859,7 +8859,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 9.3,
         "forward_return": 93.97,
         "start_price": 33.65,
         "start_year": 2011
@@ -8877,7 +8877,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.78,
         "forward_return": 93.74,
         "start_price": 38.1,
         "start_year": 2012
@@ -8886,7 +8886,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 10.43,
         "forward_return": 91.32,
         "start_price": 42.05,
         "start_year": 2012
@@ -8895,7 +8895,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.98,
         "forward_return": 89.28,
         "start_price": 45.8,
         "start_year": 2012
@@ -8904,7 +8904,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.16,
+        "pe_ratio": 11.41,
         "forward_return": 90.43,
         "start_price": 49.4,
         "start_year": 2012
@@ -8913,7 +8913,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.94,
         "forward_return": 95.54,
         "start_price": 53.6,
         "start_year": 2012
@@ -8922,7 +8922,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.74,
         "forward_return": 84.18,
         "start_price": 54.6,
         "start_year": 2012
@@ -8931,7 +8931,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 12.57,
         "forward_return": 82.61,
         "start_price": 61.3,
         "start_year": 2012
@@ -8940,7 +8940,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 12.21,
         "forward_return": 74.61,
         "start_price": 62.3,
         "start_year": 2012
@@ -8949,7 +8949,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 12.18,
         "forward_return": 74.47,
         "start_price": 64.9,
         "start_year": 2012
@@ -8958,7 +8958,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.42,
         "forward_return": 77.98,
         "start_price": 68.6,
         "start_year": 2012
@@ -8967,7 +8967,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 14.92,
         "forward_return": 67.6,
         "start_price": 73.0,
         "start_year": 2012
@@ -8985,7 +8985,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 17.97,
+        "pe_ratio": 17.86,
         "forward_return": 54.97,
         "start_price": 86.0,
         "start_year": 2013
@@ -8994,7 +8994,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.14,
         "forward_return": 54.74,
         "start_price": 94.9,
         "start_year": 2013
@@ -9003,7 +9003,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 18.67,
         "forward_return": 55.53,
         "start_price": 95.2,
         "start_year": 2013
@@ -9012,7 +9012,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 20.2,
+        "pe_ratio": 19.98,
         "forward_return": 51.26,
         "start_price": 103.5,
         "start_year": 2013
@@ -9021,7 +9021,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 23.58,
+        "pe_ratio": 23.48,
         "forward_return": 45.85,
         "start_price": 123.5,
         "start_year": 2013
@@ -9030,7 +9030,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 20.04,
         "forward_return": 51.79,
         "start_price": 107.0,
         "start_year": 2013
@@ -9039,7 +9039,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 29.23,
         "forward_return": 37.62,
         "start_price": 159.0,
         "start_year": 2013
@@ -9048,7 +9048,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 24.82,
         "forward_return": 53.3,
         "start_price": 137.5,
         "start_year": 2013
@@ -9057,7 +9057,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 25.48,
+        "pe_ratio": 25.71,
         "forward_return": 49.74,
         "start_price": 145.0,
         "start_year": 2013
@@ -9066,7 +9066,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.78,
         "forward_return": 45.95,
         "start_price": 154.5,
         "start_year": 2013
@@ -9075,7 +9075,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 31.86,
+        "pe_ratio": 31.95,
         "forward_return": 30.6,
         "start_price": 188.5,
         "start_year": 2013
@@ -9093,7 +9093,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 30.66,
+        "pe_ratio": 31.61,
         "forward_return": 28.42,
         "start_price": 190.5,
         "start_year": 2014
@@ -9102,7 +9102,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 28.77,
+        "pe_ratio": 30.55,
         "forward_return": 27.06,
         "start_price": 184.0,
         "start_year": 2014
@@ -9111,7 +9111,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 32.89,
         "forward_return": 24.05,
         "start_price": 198.0,
         "start_year": 2014
@@ -9120,7 +9120,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 27.81,
+        "pe_ratio": 30.37,
         "forward_return": 32.05,
         "start_price": 188.0,
         "start_year": 2014
@@ -9129,7 +9129,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 27.51,
+        "pe_ratio": 30.03,
         "forward_return": 31.41,
         "start_price": 191.0,
         "start_year": 2014
@@ -9138,7 +9138,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.49,
+        "pe_ratio": 26.72,
         "forward_return": 32.61,
         "start_price": 174.5,
         "start_year": 2014
@@ -9147,7 +9147,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.95,
+        "pe_ratio": 25.52,
         "forward_return": 33.01,
         "start_price": 175.0,
         "start_year": 2014
@@ -9156,7 +9156,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 23.63,
+        "pe_ratio": 24.64,
         "forward_return": 33.31,
         "start_price": 177.0,
         "start_year": 2014
@@ -9165,7 +9165,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.76,
+        "pe_ratio": 25.3,
         "forward_return": 26.85,
         "start_price": 190.0,
         "start_year": 2014
@@ -9174,7 +9174,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 26.1,
+        "pe_ratio": 26.46,
         "forward_return": 26.33,
         "start_price": 205.0,
         "start_year": 2014
@@ -9183,7 +9183,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 29.05,
+        "pe_ratio": 29.25,
         "forward_return": 19.54,
         "start_price": 233.5,
         "start_year": 2014
@@ -9201,7 +9201,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 31.67,
+        "pe_ratio": 31.34,
         "forward_return": 14.75,
         "start_price": 265.0,
         "start_year": 2015
@@ -9210,7 +9210,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 31.76,
+        "pe_ratio": 31.12,
         "forward_return": 14.34,
         "start_price": 270.5,
         "start_year": 2015
@@ -9219,7 +9219,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 34.39,
+        "pe_ratio": 33.37,
         "forward_return": 9.42,
         "start_price": 298.0,
         "start_year": 2015
@@ -9228,7 +9228,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 37.27,
+        "pe_ratio": 36.17,
         "forward_return": 2.71,
         "start_price": 328.5,
         "start_year": 2015
@@ -9237,7 +9237,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 43.3,
+        "pe_ratio": 42.01,
         "forward_return": -3.85,
         "start_price": 388.0,
         "start_year": 2015
@@ -9246,7 +9246,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 36.06,
+        "pe_ratio": 34.98,
         "forward_return": 2.61,
         "start_price": 328.5,
         "start_year": 2015
@@ -9255,7 +9255,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 38.51,
+        "pe_ratio": 37.55,
         "forward_return": 0.33,
         "start_price": 356.5,
         "start_year": 2015
@@ -9264,7 +9264,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 33.49,
+        "pe_ratio": 32.82,
         "forward_return": 3.33,
         "start_price": 315.0,
         "start_year": 2015
@@ -9273,7 +9273,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 34.33,
+        "pe_ratio": 33.81,
         "forward_return": -1.81,
         "start_price": 328.0,
         "start_year": 2015
@@ -9282,7 +9282,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 38.13,
+        "pe_ratio": 37.76,
         "forward_return": -6.54,
         "start_price": 370.0,
         "start_year": 2015
@@ -9291,7 +9291,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.03,
         "forward_return": 0.46,
         "start_price": 327.0,
         "start_year": 2015
@@ -9309,7 +9309,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 30.25,
         "forward_return": 4.21,
         "start_price": 303.5,
         "start_year": 2016
@@ -9318,7 +9318,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.28,
         "forward_return": 5.67,
         "start_price": 335.0,
         "start_year": 2016
@@ -9327,7 +9327,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.47,
+        "pe_ratio": 33.86,
         "forward_return": 5.1,
         "start_price": 342.0,
         "start_year": 2016
@@ -9336,7 +9336,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 31.93,
+        "pe_ratio": 33.17,
         "forward_return": 5.98,
         "start_price": 342.0,
         "start_year": 2016
@@ -9345,7 +9345,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.89,
         "forward_return": 3.47,
         "start_price": 367.0,
         "start_year": 2016
@@ -9354,7 +9354,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.36,
         "forward_return": 8.13,
         "start_price": 358.0,
         "start_year": 2016
@@ -9363,7 +9363,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 35.0,
+        "pe_ratio": 35.86,
         "forward_return": 6.06,
         "start_price": 393.5,
         "start_year": 2016
@@ -9372,7 +9372,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 41.55,
+        "pe_ratio": 42.3,
         "forward_return": -1.36,
         "start_price": 474.5,
         "start_year": 2016
@@ -9381,7 +9381,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 40.18,
+        "pe_ratio": 40.66,
         "forward_return": 0.99,
         "start_price": 466.0,
         "start_year": 2016
@@ -9390,7 +9390,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 39.02,
+        "pe_ratio": 39.33,
         "forward_return": -0.11,
         "start_price": 459.5,
         "start_year": 2016
@@ -9399,7 +9399,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 33.38,
+        "pe_ratio": 33.51,
         "forward_return": 5.72,
         "start_price": 399.0,
         "start_year": 2016
@@ -9417,7 +9417,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 31.0,
+        "pe_ratio": 30.81,
         "forward_return": 7.45,
         "start_price": 382.5,
         "start_year": 2017
@@ -9426,7 +9426,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 28.41,
+        "pe_ratio": 28.08,
         "forward_return": 13.16,
         "start_price": 356.5,
         "start_year": 2017
@@ -9435,7 +9435,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-03-16",
-        "pe_ratio": 27.99,
+        "pe_ratio": 27.5,
         "forward_return": 9.48,
         "start_price": 357.0,
         "start_year": 2017
@@ -9444,7 +9444,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-04-15",
-        "pe_ratio": 31.78,
+        "pe_ratio": 31.75,
         "forward_return": 9.4,
         "start_price": 412.0,
         "start_year": 2017
@@ -9453,7 +9453,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-05-16",
-        "pe_ratio": 31.32,
+        "pe_ratio": 31.8,
         "forward_return": 14.39,
         "start_price": 412.5,
         "start_year": 2017
@@ -9462,7 +9462,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.85,
+        "pe_ratio": 29.76,
         "forward_return": 17.2,
         "start_price": 386.0,
         "start_year": 2017
@@ -9471,7 +9471,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-07-16",
-        "pe_ratio": 28.33,
+        "pe_ratio": 29.06,
         "forward_return": 19.67,
         "start_price": 385.0,
         "start_year": 2017
@@ -9480,7 +9480,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.02,
         "forward_return": 16.51,
         "start_price": 392.5,
         "start_year": 2017
@@ -9489,7 +9489,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-09-15",
-        "pe_ratio": 25.78,
+        "pe_ratio": 26.16,
         "forward_return": 18.37,
         "start_price": 361.0,
         "start_year": 2017
@@ -9498,7 +9498,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-10-16",
-        "pe_ratio": 27.19,
+        "pe_ratio": 27.46,
         "forward_return": 19.63,
         "start_price": 386.5,
         "start_year": 2017
@@ -9507,7 +9507,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-11-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.92,
         "forward_return": 20.06,
         "start_price": 372.0,
         "start_year": 2017
@@ -9525,7 +9525,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.86,
         "forward_return": 18.77,
         "start_price": 373.5,
         "start_year": 2018
@@ -9534,7 +9534,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.99,
+        "pe_ratio": 24.49,
         "forward_return": 21.18,
         "start_price": 377.5,
         "start_year": 2018
@@ -9543,7 +9543,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 22.99,
         "forward_return": 20.86,
         "start_price": 363.5,
         "start_year": 2018
@@ -9552,7 +9552,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.49,
         "forward_return": 25.98,
         "start_price": 329.0,
         "start_year": 2018
@@ -9561,7 +9561,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.51,
         "forward_return": 22.37,
         "start_price": 318.0,
         "start_year": 2018
@@ -9570,7 +9570,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 20.42,
+        "pe_ratio": 19.83,
         "forward_return": 21.53,
         "start_price": 328.0,
         "start_year": 2018
@@ -9579,7 +9579,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.6,
         "forward_return": 25.57,
         "start_price": 327.5,
         "start_year": 2018
@@ -9588,7 +9588,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.04,
+        "pe_ratio": 18.65,
         "forward_return": 20.89,
         "start_price": 315.0,
         "start_year": 2018
@@ -9597,7 +9597,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.3,
         "forward_return": 23.53,
         "start_price": 278.0,
         "start_year": 2018
@@ -9606,7 +9606,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.66,
         "forward_return": 26.73,
         "start_price": 269.5,
         "start_year": 2018
@@ -9615,7 +9615,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.32,
+        "pe_ratio": 17.23,
         "forward_return": 21.74,
         "start_price": 299.0,
         "start_year": 2018
@@ -9633,7 +9633,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 17.73,
         "forward_return": 14.96,
         "start_price": 311.0,
         "start_year": 2019
@@ -9642,7 +9642,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.69,
+        "pe_ratio": 17.92,
         "forward_return": 13.17,
         "start_price": 315.0,
         "start_year": 2019
@@ -9651,7 +9651,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.7,
         "forward_return": 6.52,
         "start_price": 364.5,
         "start_year": 2019
@@ -9660,7 +9660,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.69,
+        "pe_ratio": 21.03,
         "forward_return": -0.62,
         "start_price": 374.5,
         "start_year": 2019
@@ -9669,7 +9669,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 20.77,
         "forward_return": -3.26,
         "start_price": 374.0,
         "start_year": 2019
@@ -9678,7 +9678,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 22.82,
+        "pe_ratio": 23.08,
         "forward_return": -4.35,
         "start_price": 420.0,
         "start_year": 2019
@@ -9687,7 +9687,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.54,
         "forward_return": -0.68,
         "start_price": 430.0,
         "start_year": 2019
@@ -9696,7 +9696,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.69,
         "forward_return": 4.43,
         "start_price": 416.0,
         "start_year": 2019
@@ -9705,7 +9705,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 23.36,
+        "pe_ratio": 23.94,
         "forward_return": -0.02,
         "start_price": 440.5,
         "start_year": 2019
@@ -9714,7 +9714,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.38,
         "forward_return": 2.96,
         "start_price": 418.5,
         "start_year": 2019
@@ -9723,7 +9723,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.73,
         "forward_return": 4.77,
         "start_price": 432.0,
         "start_year": 2019
@@ -9741,7 +9741,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 22.31,
+        "pe_ratio": 22.37,
         "forward_return": 9.22,
         "start_price": 435.0,
         "start_year": 2020
@@ -9750,7 +9750,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 24.22,
+        "pe_ratio": 24.35,
         "forward_return": 8.7,
         "start_price": 477.0,
         "start_year": 2020
@@ -9759,7 +9759,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 21.58,
+        "pe_ratio": 21.74,
         "forward_return": 12.88,
         "start_price": 429.0,
         "start_year": 2020
@@ -9768,7 +9768,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.45,
         "forward_return": 7.49,
         "start_price": 500.0,
         "start_year": 2020
@@ -9777,7 +9777,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 28.52,
+        "pe_ratio": 29.56,
         "forward_return": 0.05,
         "start_price": 578.0,
         "start_year": 2020
@@ -9786,7 +9786,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.89,
         "forward_return": 3.15,
         "start_price": 582.0,
         "start_year": 2020
@@ -9795,7 +9795,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 29.74,
+        "pe_ratio": 30.55,
         "forward_return": -2.7,
         "start_price": 614.0,
         "start_year": 2020
@@ -9804,7 +9804,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.6,
+        "pe_ratio": 27.74,
         "forward_return": -2.1,
         "start_price": 575.0,
         "start_year": 2020
@@ -9813,7 +9813,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.3,
+        "pe_ratio": 25.89,
         "forward_return": -1.06,
         "start_price": 553.0,
         "start_year": 2020
@@ -9822,7 +9822,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 29.03,
+        "pe_ratio": 28.73,
         "forward_return": -3.65,
         "start_price": 616.0,
         "start_year": 2020
@@ -9831,7 +9831,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.93,
+        "pe_ratio": 27.79,
         "forward_return": -1.96,
         "start_price": 598.0,
         "start_year": 2020
@@ -9849,7 +9849,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.2,
+        "pe_ratio": 26.4,
         "forward_return": -0.54,
         "start_price": 580.0,
         "start_year": 2021
@@ -9858,7 +9858,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.75,
+        "pe_ratio": 28.01,
         "forward_return": -4.54,
         "start_price": 626.0,
         "start_year": 2021
@@ -9867,7 +9867,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 26.23,
         "forward_return": -2.72,
         "start_price": 596.0,
         "start_year": 2021
@@ -9876,7 +9876,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 27.4,
         "forward_return": -3.29,
         "start_price": 612.0,
         "start_year": 2021
@@ -9885,7 +9885,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.58,
+        "pe_ratio": 24.47,
         "forward_return": 1.44,
         "start_price": 537.0,
         "start_year": 2021
@@ -9894,7 +9894,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.25,
+        "pe_ratio": 25.19,
         "forward_return": 0.16,
         "start_price": 543.0,
         "start_year": 2021
@@ -9903,7 +9903,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 30.39,
+        "pe_ratio": 29.29,
         "forward_return": -1.54,
         "start_price": 597.0,
         "start_year": 2021
@@ -9912,7 +9912,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 26.08,
+        "pe_ratio": 26.3,
         "forward_return": 3.38,
         "start_price": 505.0,
         "start_year": 2021
@@ -9921,7 +9921,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 26.22,
         "forward_return": 7.25,
         "start_price": 472.5,
         "start_year": 2021
@@ -9930,7 +9930,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.42,
+        "pe_ratio": 27.46,
         "forward_return": 3.87,
         "start_price": 497.0,
         "start_year": 2021
@@ -9939,7 +9939,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.34,
+        "pe_ratio": 26.85,
         "forward_return": 3.11,
         "start_price": 488.0,
         "start_year": 2021
@@ -9957,7 +9957,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 22.86,
+        "pe_ratio": 23.5,
         "forward_return": 8.64,
         "start_price": 421.0,
         "start_year": 2022
@@ -9966,7 +9966,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.03,
         "forward_return": 12.38,
         "start_price": 405.0,
         "start_year": 2022
@@ -9975,7 +9975,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 20.74,
+        "pe_ratio": 22.55,
         "forward_return": 11.13,
         "start_price": 389.0,
         "start_year": 2022
@@ -9984,7 +9984,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 16.7,
+        "pe_ratio": 18.33,
         "forward_return": 19.17,
         "start_price": 316.0,
         "start_year": 2022
@@ -9993,7 +9993,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 15.04,
+        "pe_ratio": 16.65,
         "forward_return": 24.87,
         "start_price": 287.0,
         "start_year": 2022
@@ -10002,7 +10002,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 16.41,
+        "pe_ratio": 18.34,
         "forward_return": 20.86,
         "start_price": 316.0,
         "start_year": 2022
@@ -10011,7 +10011,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.92,
         "forward_return": 12.33,
         "start_price": 374.5,
         "start_year": 2022
@@ -10020,7 +10020,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 21.8,
+        "pe_ratio": 22.99,
         "forward_return": 7.8,
         "start_price": 427.0,
         "start_year": 2022
@@ -10029,7 +10029,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 19.92,
+        "pe_ratio": 20.44,
         "forward_return": 10.91,
         "start_price": 393.5,
         "start_year": 2022
@@ -10038,7 +10038,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 20.58,
+        "pe_ratio": 20.93,
         "forward_return": 8.41,
         "start_price": 410.0,
         "start_year": 2022
@@ -10047,7 +10047,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 22.4,
+        "pe_ratio": 22.59,
         "forward_return": 4.05,
         "start_price": 450.0,
         "start_year": 2022
@@ -10065,7 +10065,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 25.24,
+        "pe_ratio": 25.07,
         "forward_return": -3.73,
         "start_price": 520.0,
         "start_year": 2023
@@ -10074,7 +10074,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 28.3,
+        "pe_ratio": 27.94,
         "forward_return": -1.09,
         "start_price": 593.0,
         "start_year": 2023
@@ -10083,7 +10083,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 7.56,
         "forward_return": 7.04,
         "start_price": 27.6,
         "start_year": 2006
@@ -10092,7 +10092,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 7.85,
         "forward_return": 6.64,
         "start_price": 29.1,
         "start_year": 2006
@@ -10101,7 +10101,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 7.37,
         "forward_return": 8.27,
         "start_price": 27.75,
         "start_year": 2006
@@ -10110,7 +10110,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 7.09,
         "forward_return": 9.34,
         "start_price": 27.1,
         "start_year": 2006
@@ -10119,7 +10119,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 7.07,
         "forward_return": 12.19,
         "start_price": 25.15,
         "start_year": 2006
@@ -10128,7 +10128,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.12,
+        "pe_ratio": 6.95,
         "forward_return": 15.92,
         "start_price": 22.9,
         "start_year": 2006
@@ -10137,7 +10137,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 9.32,
+        "pe_ratio": 7.72,
         "forward_return": 11.56,
         "start_price": 23.4,
         "start_year": 2006
@@ -10146,7 +10146,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 8.09,
+        "pe_ratio": 7.11,
         "forward_return": 14.5,
         "start_price": 20.3,
         "start_year": 2006
@@ -10155,7 +10155,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 7.86,
         "forward_return": 12.33,
         "start_price": 21.1,
         "start_year": 2006
@@ -10173,7 +10173,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.97,
         "forward_return": 13.19,
         "start_price": 21.5,
         "start_year": 2007
@@ -10182,7 +10182,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.37,
         "forward_return": 13.13,
         "start_price": 21.4,
         "start_year": 2007
@@ -10191,7 +10191,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 8.61,
+        "pe_ratio": 9.95,
         "forward_return": 13.26,
         "start_price": 21.6,
         "start_year": 2007
@@ -10200,7 +10200,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 10.17,
         "forward_return": 15.52,
         "start_price": 22.35,
         "start_year": 2007
@@ -10209,7 +10209,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 8.94,
+        "pe_ratio": 10.07,
         "forward_return": 15.56,
         "start_price": 22.4,
         "start_year": 2007
@@ -10218,7 +10218,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.38,
+        "pe_ratio": 13.78,
         "forward_return": 8.08,
         "start_price": 31.0,
         "start_year": 2007
@@ -10227,7 +10227,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.46,
+        "pe_ratio": 12.97,
         "forward_return": 16.02,
         "start_price": 28.7,
         "start_year": 2007
@@ -10236,7 +10236,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 11.42,
         "forward_return": 18.04,
         "start_price": 24.85,
         "start_year": 2007
@@ -10245,7 +10245,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 9.75,
+        "pe_ratio": 11.4,
         "forward_return": 14.68,
         "start_price": 24.4,
         "start_year": 2007
@@ -10254,7 +10254,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 11.33,
         "forward_return": 15.08,
         "start_price": 25.6,
         "start_year": 2007
@@ -10263,7 +10263,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.03,
         "forward_return": 17.19,
         "start_price": 21.5,
         "start_year": 2007
@@ -10281,7 +10281,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.3,
+        "pe_ratio": 7.22,
         "forward_return": 24.72,
         "start_price": 18.6,
         "start_year": 2008
@@ -10290,7 +10290,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.82,
+        "pe_ratio": 7.65,
         "forward_return": 24.61,
         "start_price": 20.3,
         "start_year": 2008
@@ -10299,7 +10299,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.05,
+        "pe_ratio": 8.77,
         "forward_return": 21.79,
         "start_price": 23.95,
         "start_year": 2008
@@ -10308,7 +10308,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.78,
+        "pe_ratio": 9.55,
         "forward_return": 20.9,
         "start_price": 26.35,
         "start_year": 2008
@@ -10317,7 +10317,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.77,
         "forward_return": 22.07,
         "start_price": 27.25,
         "start_year": 2008
@@ -10326,7 +10326,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.83,
         "forward_return": 25.36,
         "start_price": 24.9,
         "start_year": 2008
@@ -10335,7 +10335,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 8.46,
+        "pe_ratio": 8.4,
         "forward_return": 30.53,
         "start_price": 24.0,
         "start_year": 2008
@@ -10344,7 +10344,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.55,
         "forward_return": 30.0,
         "start_price": 24.75,
         "start_year": 2008
@@ -10353,7 +10353,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.86,
         "forward_return": 38.18,
         "start_price": 20.1,
         "start_year": 2008
@@ -10389,7 +10389,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-01-16",
-        "pe_ratio": 7.61,
+        "pe_ratio": 7.52,
         "forward_return": 42.02,
         "start_price": 23.2,
         "start_year": 2009
@@ -10398,7 +10398,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 44.87,
         "start_price": 23.45,
         "start_year": 2009
@@ -10407,7 +10407,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.43,
+        "pe_ratio": 8.14,
         "forward_return": 42.46,
         "start_price": 25.15,
         "start_year": 2009
@@ -10416,7 +10416,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-04-15",
-        "pe_ratio": 9.69,
+        "pe_ratio": 9.55,
         "forward_return": 40.64,
         "start_price": 28.6,
         "start_year": 2009
@@ -10425,7 +10425,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.77,
+        "pe_ratio": 9.84,
         "forward_return": 46.67,
         "start_price": 28.5,
         "start_year": 2009
@@ -10434,7 +10434,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.95,
+        "pe_ratio": 10.25,
         "forward_return": 41.6,
         "start_price": 28.7,
         "start_year": 2009
@@ -10443,7 +10443,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-07-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.38,
         "forward_return": 59.68,
         "start_price": 26.1,
         "start_year": 2009
@@ -10452,7 +10452,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 9.58,
         "forward_return": 53.78,
         "start_price": 26.5,
         "start_year": 2009
@@ -10461,7 +10461,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.02,
         "forward_return": 54.18,
         "start_price": 27.55,
         "start_year": 2009
@@ -10470,7 +10470,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.96,
         "forward_return": 56.98,
         "start_price": 27.2,
         "start_year": 2009
@@ -10479,7 +10479,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.02,
         "forward_return": 64.58,
         "start_price": 27.15,
         "start_year": 2009
@@ -10497,7 +10497,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.28,
+        "pe_ratio": 10.04,
         "forward_return": 63.5,
         "start_price": 28.15,
         "start_year": 2010
@@ -10506,7 +10506,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.25,
+        "pe_ratio": 9.79,
         "forward_return": 61.6,
         "start_price": 28.55,
         "start_year": 2010
@@ -10515,7 +10515,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.52,
+        "pe_ratio": 9.83,
         "forward_return": 62.67,
         "start_price": 29.8,
         "start_year": 2010
@@ -10524,7 +10524,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 10.05,
         "forward_return": 58.85,
         "start_price": 31.2,
         "start_year": 2010
@@ -10533,7 +10533,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.83,
+        "pe_ratio": 9.98,
         "forward_return": 58.82,
         "start_price": 31.7,
         "start_year": 2010
@@ -10542,7 +10542,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 9.94,
         "forward_return": 54.74,
         "start_price": 32.3,
         "start_year": 2010
@@ -10551,7 +10551,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.06,
         "forward_return": 53.41,
         "start_price": 34.3,
         "start_year": 2010
@@ -10560,7 +10560,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 12.14,
         "forward_return": 52.17,
         "start_price": 35.8,
         "start_year": 2010
@@ -10569,7 +10569,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.96,
         "forward_return": 60.75,
         "start_price": 30.7,
         "start_year": 2010
@@ -10578,7 +10578,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.27,
+        "pe_ratio": 9.94,
         "forward_return": 65.46,
         "start_price": 29.35,
         "start_year": 2010
@@ -10587,7 +10587,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 9.03,
         "forward_return": 72.52,
         "start_price": 28.05,
         "start_year": 2010
@@ -10605,7 +10605,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 9.01,
+        "pe_ratio": 8.98,
         "forward_return": 75.15,
         "start_price": 29.75,
         "start_year": 2011
@@ -10614,7 +10614,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 8.82,
+        "pe_ratio": 8.76,
         "forward_return": 76.38,
         "start_price": 29.5,
         "start_year": 2011
@@ -10623,7 +10623,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 8.86,
+        "pe_ratio": 8.77,
         "forward_return": 79.72,
         "start_price": 30.0,
         "start_year": 2011
@@ -10632,7 +10632,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.21,
         "forward_return": 77.96,
         "start_price": 34.25,
         "start_year": 2011
@@ -10641,7 +10641,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-05-16",
-        "pe_ratio": 9.92,
+        "pe_ratio": 10.47,
         "forward_return": 85.0,
         "start_price": 34.4,
         "start_year": 2011
@@ -10650,7 +10650,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-06-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.41,
         "forward_return": 74.85,
         "start_price": 36.75,
         "start_year": 2011
@@ -10659,7 +10659,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.85,
         "forward_return": 69.93,
         "start_price": 45.1,
         "start_year": 2011
@@ -10668,7 +10668,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.56,
         "forward_return": 68.66,
         "start_price": 41.35,
         "start_year": 2011
@@ -10677,7 +10677,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-09-15",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.6,
         "forward_return": 77.14,
         "start_price": 35.3,
         "start_year": 2011
@@ -10686,7 +10686,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.94,
         "forward_return": 78.94,
         "start_price": 38.0,
         "start_year": 2011
@@ -10695,7 +10695,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 9.3,
         "forward_return": 79.14,
         "start_price": 33.65,
         "start_year": 2011
@@ -10713,7 +10713,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.78,
         "forward_return": 70.65,
         "start_price": 38.1,
         "start_year": 2012
@@ -10722,7 +10722,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 10.43,
         "forward_return": 70.41,
         "start_price": 42.05,
         "start_year": 2012
@@ -10731,7 +10731,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.98,
         "forward_return": 67.62,
         "start_price": 45.8,
         "start_year": 2012
@@ -10740,7 +10740,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.16,
+        "pe_ratio": 11.41,
         "forward_return": 64.48,
         "start_price": 49.4,
         "start_year": 2012
@@ -10749,7 +10749,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.94,
         "forward_return": 63.88,
         "start_price": 53.6,
         "start_year": 2012
@@ -10758,7 +10758,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.74,
         "forward_return": 62.16,
         "start_price": 54.6,
         "start_year": 2012
@@ -10767,7 +10767,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 12.57,
         "forward_return": 61.65,
         "start_price": 61.3,
         "start_year": 2012
@@ -10776,7 +10776,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 12.21,
         "forward_return": 68.28,
         "start_price": 62.3,
         "start_year": 2012
@@ -10785,7 +10785,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 12.18,
         "forward_return": 65.86,
         "start_price": 64.9,
         "start_year": 2012
@@ -10794,7 +10794,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.42,
         "forward_return": 63.03,
         "start_price": 68.6,
         "start_year": 2012
@@ -10803,7 +10803,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 14.92,
         "forward_return": 55.25,
         "start_price": 73.0,
         "start_year": 2012
@@ -10821,7 +10821,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 17.97,
+        "pe_ratio": 17.86,
         "forward_return": 47.55,
         "start_price": 86.0,
         "start_year": 2013
@@ -10830,7 +10830,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.14,
         "forward_return": 41.61,
         "start_price": 94.9,
         "start_year": 2013
@@ -10839,7 +10839,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 18.67,
         "forward_return": 41.54,
         "start_price": 95.2,
         "start_year": 2013
@@ -10848,7 +10848,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 20.2,
+        "pe_ratio": 19.98,
         "forward_return": 43.35,
         "start_price": 103.5,
         "start_year": 2013
@@ -10857,7 +10857,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 23.58,
+        "pe_ratio": 23.48,
         "forward_return": 37.2,
         "start_price": 123.5,
         "start_year": 2013
@@ -10866,7 +10866,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 20.04,
         "forward_return": 40.0,
         "start_price": 107.0,
         "start_year": 2013
@@ -10875,7 +10875,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 29.23,
         "forward_return": 27.23,
         "start_price": 159.0,
         "start_year": 2013
@@ -10884,7 +10884,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 24.82,
         "forward_return": 32.53,
         "start_price": 137.5,
         "start_year": 2013
@@ -10893,7 +10893,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 25.48,
+        "pe_ratio": 25.71,
         "forward_return": 28.28,
         "start_price": 145.0,
         "start_year": 2013
@@ -10902,7 +10902,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.78,
         "forward_return": 28.27,
         "start_price": 154.5,
         "start_year": 2013
@@ -10911,7 +10911,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 31.86,
+        "pe_ratio": 31.95,
         "forward_return": 20.97,
         "start_price": 188.5,
         "start_year": 2013
@@ -10929,7 +10929,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 30.66,
+        "pe_ratio": 31.61,
         "forward_return": 20.77,
         "start_price": 190.5,
         "start_year": 2014
@@ -10938,7 +10938,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 28.77,
+        "pe_ratio": 30.55,
         "forward_return": 22.12,
         "start_price": 184.0,
         "start_year": 2014
@@ -10947,7 +10947,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 32.89,
         "forward_return": 18.86,
         "start_price": 198.0,
         "start_year": 2014
@@ -10956,7 +10956,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 27.81,
+        "pe_ratio": 30.37,
         "forward_return": 17.69,
         "start_price": 188.0,
         "start_year": 2014
@@ -10965,7 +10965,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 27.51,
+        "pe_ratio": 30.03,
         "forward_return": 16.32,
         "start_price": 191.0,
         "start_year": 2014
@@ -10974,7 +10974,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.49,
+        "pe_ratio": 26.72,
         "forward_return": 19.82,
         "start_price": 174.5,
         "start_year": 2014
@@ -10983,7 +10983,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.95,
+        "pe_ratio": 25.52,
         "forward_return": 20.37,
         "start_price": 175.0,
         "start_year": 2014
@@ -10992,7 +10992,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 23.63,
+        "pe_ratio": 24.64,
         "forward_return": 19.0,
         "start_price": 177.0,
         "start_year": 2014
@@ -11001,7 +11001,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.76,
+        "pe_ratio": 25.3,
         "forward_return": 13.73,
         "start_price": 190.0,
         "start_year": 2014
@@ -11010,7 +11010,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 26.1,
+        "pe_ratio": 26.46,
         "forward_return": 10.84,
         "start_price": 205.0,
         "start_year": 2014
@@ -11019,7 +11019,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 29.05,
+        "pe_ratio": 29.25,
         "forward_return": 9.76,
         "start_price": 233.5,
         "start_year": 2014
@@ -11037,7 +11037,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 31.67,
+        "pe_ratio": 31.34,
         "forward_return": 7.27,
         "start_price": 265.0,
         "start_year": 2015
@@ -11046,7 +11046,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 31.76,
+        "pe_ratio": 31.12,
         "forward_return": 7.02,
         "start_price": 270.5,
         "start_year": 2015
@@ -11055,7 +11055,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 34.39,
+        "pe_ratio": 33.37,
         "forward_return": 7.93,
         "start_price": 298.0,
         "start_year": 2015
@@ -11064,7 +11064,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 37.27,
+        "pe_ratio": 36.17,
         "forward_return": 5.98,
         "start_price": 328.5,
         "start_year": 2015
@@ -11073,7 +11073,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 43.3,
+        "pe_ratio": 42.01,
         "forward_return": 1.63,
         "start_price": 388.0,
         "start_year": 2015
@@ -11082,7 +11082,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 36.06,
+        "pe_ratio": 34.98,
         "forward_return": 8.78,
         "start_price": 328.5,
         "start_year": 2015
@@ -11091,7 +11091,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 38.51,
+        "pe_ratio": 37.55,
         "forward_return": 7.62,
         "start_price": 356.5,
         "start_year": 2015
@@ -11100,7 +11100,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 33.49,
+        "pe_ratio": 32.82,
         "forward_return": 10.18,
         "start_price": 315.0,
         "start_year": 2015
@@ -11109,7 +11109,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 34.33,
+        "pe_ratio": 33.81,
         "forward_return": 10.48,
         "start_price": 328.0,
         "start_year": 2015
@@ -11118,7 +11118,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 38.13,
+        "pe_ratio": 37.76,
         "forward_return": 5.98,
         "start_price": 370.0,
         "start_year": 2015
@@ -11127,7 +11127,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.03,
         "forward_return": 10.09,
         "start_price": 327.0,
         "start_year": 2015
@@ -11145,7 +11145,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 30.25,
         "forward_return": 12.33,
         "start_price": 303.5,
         "start_year": 2016
@@ -11154,7 +11154,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.28,
         "forward_return": 11.9,
         "start_price": 335.0,
         "start_year": 2016
@@ -11163,7 +11163,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.47,
+        "pe_ratio": 33.86,
         "forward_return": 8.69,
         "start_price": 342.0,
         "start_year": 2016
@@ -11172,7 +11172,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 31.93,
+        "pe_ratio": 33.17,
         "forward_return": 12.52,
         "start_price": 342.0,
         "start_year": 2016
@@ -11181,7 +11181,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.89,
         "forward_return": 14.29,
         "start_price": 367.0,
         "start_year": 2016
@@ -11190,7 +11190,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.36,
         "forward_return": 15.19,
         "start_price": 358.0,
         "start_year": 2016
@@ -11199,7 +11199,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 35.0,
+        "pe_ratio": 35.86,
         "forward_return": 14.25,
         "start_price": 393.5,
         "start_year": 2016
@@ -11208,7 +11208,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 41.55,
+        "pe_ratio": 42.3,
         "forward_return": 7.41,
         "start_price": 474.5,
         "start_year": 2016
@@ -11217,7 +11217,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 40.18,
+        "pe_ratio": 40.66,
         "forward_return": 6.94,
         "start_price": 466.0,
         "start_year": 2016
@@ -11226,7 +11226,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 39.02,
+        "pe_ratio": 39.33,
         "forward_return": 9.99,
         "start_price": 459.5,
         "start_year": 2016
@@ -11235,7 +11235,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 33.38,
+        "pe_ratio": 33.51,
         "forward_return": 13.17,
         "start_price": 399.0,
         "start_year": 2016
@@ -11253,7 +11253,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 31.0,
+        "pe_ratio": 30.81,
         "forward_return": 13.58,
         "start_price": 382.5,
         "start_year": 2017
@@ -11262,7 +11262,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 28.41,
+        "pe_ratio": 28.08,
         "forward_return": 17.63,
         "start_price": 356.5,
         "start_year": 2017
@@ -11271,7 +11271,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-03-16",
-        "pe_ratio": 27.99,
+        "pe_ratio": 27.5,
         "forward_return": 16.28,
         "start_price": 357.0,
         "start_year": 2017
@@ -11280,7 +11280,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-04-15",
-        "pe_ratio": 31.78,
+        "pe_ratio": 31.75,
         "forward_return": 12.86,
         "start_price": 412.0,
         "start_year": 2017
@@ -11289,7 +11289,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-05-16",
-        "pe_ratio": 31.32,
+        "pe_ratio": 31.8,
         "forward_return": 9.52,
         "start_price": 412.5,
         "start_year": 2017
@@ -11298,7 +11298,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.85,
+        "pe_ratio": 29.76,
         "forward_return": 11.64,
         "start_price": 386.0,
         "start_year": 2017
@@ -11307,7 +11307,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-07-16",
-        "pe_ratio": 28.33,
+        "pe_ratio": 29.06,
         "forward_return": 14.49,
         "start_price": 385.0,
         "start_year": 2017
@@ -11316,7 +11316,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.02,
         "forward_return": 9.75,
         "start_price": 392.5,
         "start_year": 2017
@@ -11325,7 +11325,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-09-15",
-        "pe_ratio": 25.78,
+        "pe_ratio": 26.16,
         "forward_return": 10.44,
         "start_price": 361.0,
         "start_year": 2017
@@ -11334,7 +11334,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-10-16",
-        "pe_ratio": 27.19,
+        "pe_ratio": 27.46,
         "forward_return": 9.79,
         "start_price": 386.5,
         "start_year": 2017
@@ -11343,7 +11343,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-11-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.92,
         "forward_return": 10.4,
         "start_price": 372.0,
         "start_year": 2017
@@ -11361,7 +11361,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.86,
         "forward_return": 6.78,
         "start_price": 373.5,
         "start_year": 2018
@@ -11370,7 +11370,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.99,
+        "pe_ratio": 24.49,
         "forward_return": 5.61,
         "start_price": 377.5,
         "start_year": 2018
@@ -11379,7 +11379,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 22.99,
         "forward_return": 5.69,
         "start_price": 363.5,
         "start_year": 2018
@@ -11388,7 +11388,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.49,
         "forward_return": 3.71,
         "start_price": 329.0,
         "start_year": 2018
@@ -11397,7 +11397,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.51,
         "forward_return": 2.54,
         "start_price": 318.0,
         "start_year": 2018
@@ -11406,7 +11406,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 20.42,
+        "pe_ratio": 19.83,
         "forward_return": 3.78,
         "start_price": 328.0,
         "start_year": 2018
@@ -11415,7 +11415,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.6,
         "forward_return": 7.48,
         "start_price": 327.5,
         "start_year": 2018
@@ -11424,7 +11424,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.04,
+        "pe_ratio": 18.65,
         "forward_return": 11.65,
         "start_price": 315.0,
         "start_year": 2018
@@ -11433,7 +11433,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.3,
         "forward_return": 13.17,
         "start_price": 278.0,
         "start_year": 2018
@@ -11442,7 +11442,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.66,
         "forward_return": 15.07,
         "start_price": 269.5,
         "start_year": 2018
@@ -11451,7 +11451,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.32,
+        "pe_ratio": 17.23,
         "forward_return": 14.42,
         "start_price": 299.0,
         "start_year": 2018
@@ -11469,7 +11469,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 17.73,
         "forward_return": 16.99,
         "start_price": 311.0,
         "start_year": 2019
@@ -11478,7 +11478,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.69,
+        "pe_ratio": 17.92,
         "forward_return": 20.11,
         "start_price": 315.0,
         "start_year": 2019
@@ -11487,7 +11487,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.7,
         "forward_return": 14.78,
         "start_price": 364.5,
         "start_year": 2019
@@ -11496,7 +11496,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.69,
+        "pe_ratio": 21.03,
         "forward_return": 14.18,
         "start_price": 374.5,
         "start_year": 2019
@@ -11505,7 +11505,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 20.77,
         "forward_return": 12.29,
         "start_price": 374.0,
         "start_year": 2019
@@ -11514,7 +11514,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 22.82,
+        "pe_ratio": 23.08,
         "forward_return": 11.73,
         "start_price": 420.0,
         "start_year": 2019
@@ -11523,7 +11523,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.54,
         "forward_return": 7.89,
         "start_price": 430.0,
         "start_year": 2019
@@ -11532,7 +11532,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.69,
         "forward_return": 7.56,
         "start_price": 416.0,
         "start_year": 2019
@@ -11541,7 +11541,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 23.36,
+        "pe_ratio": 23.94,
         "forward_return": 5.84,
         "start_price": 440.5,
         "start_year": 2019
@@ -11550,7 +11550,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.38,
         "forward_return": 7.94,
         "start_price": 418.5,
         "start_year": 2019
@@ -11559,7 +11559,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.73,
         "forward_return": 7.68,
         "start_price": 432.0,
         "start_year": 2019
@@ -11577,7 +11577,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 22.31,
+        "pe_ratio": 22.37,
         "forward_return": 7.81,
         "start_price": 435.0,
         "start_year": 2020
@@ -11586,7 +11586,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 24.22,
+        "pe_ratio": 24.35,
         "forward_return": 4.17,
         "start_price": 477.0,
         "start_year": 2020
@@ -11595,7 +11595,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 21.58,
+        "pe_ratio": 21.74,
         "forward_return": 7.16,
         "start_price": 429.0,
         "start_year": 2020
@@ -11604,7 +11604,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.45,
         "forward_return": 3.36,
         "start_price": 500.0,
         "start_year": 2020
@@ -11613,7 +11613,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 28.52,
+        "pe_ratio": 29.56,
         "forward_return": -0.01,
         "start_price": 578.0,
         "start_year": 2020
@@ -11622,7 +11622,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.89,
         "forward_return": -0.84,
         "start_price": 582.0,
         "start_year": 2020
@@ -11631,7 +11631,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 29.74,
+        "pe_ratio": 30.55,
         "forward_return": -1.05,
         "start_price": 614.0,
         "start_year": 2020
@@ -11640,7 +11640,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.6,
+        "pe_ratio": 27.74,
         "forward_return": 0.07,
         "start_price": 575.0,
         "start_year": 2020
@@ -11649,7 +11649,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.3,
+        "pe_ratio": 25.89,
         "forward_return": 2.13,
         "start_price": 553.0,
         "start_year": 2020
@@ -11658,7 +11658,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 29.03,
+        "pe_ratio": 28.73,
         "forward_return": -1.68,
         "start_price": 616.0,
         "start_year": 2020
@@ -11667,7 +11667,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.93,
+        "pe_ratio": 27.79,
         "forward_return": -1.91,
         "start_price": 598.0,
         "start_year": 2020
@@ -11685,7 +11685,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.2,
+        "pe_ratio": 26.4,
         "forward_return": -0.94,
         "start_price": 580.0,
         "start_year": 2021
@@ -11694,7 +11694,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.75,
+        "pe_ratio": 28.01,
         "forward_return": -1.32,
         "start_price": 626.0,
         "start_year": 2021
@@ -11703,7 +11703,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 28.71,
+        "pe_ratio": 26.23,
         "forward_return": -1.87,
         "start_price": 596.0,
         "start_year": 2021
@@ -11712,7 +11712,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 29.88,
+        "pe_ratio": 27.4,
         "forward_return": -2.48,
         "start_price": 612.0,
         "start_year": 2021
@@ -11721,7 +11721,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 26.58,
+        "pe_ratio": 24.47,
         "forward_return": 1.84,
         "start_price": 537.0,
         "start_year": 2021
@@ -11730,7 +11730,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 27.25,
+        "pe_ratio": 25.19,
         "forward_return": 1.51,
         "start_price": 543.0,
         "start_year": 2021
@@ -11739,7 +11739,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 30.39,
+        "pe_ratio": 29.29,
         "forward_return": -2.39,
         "start_price": 597.0,
         "start_year": 2021
@@ -11748,7 +11748,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 26.08,
+        "pe_ratio": 26.3,
         "forward_return": 1.97,
         "start_price": 505.0,
         "start_year": 2021
@@ -11757,7 +11757,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 24.75,
+        "pe_ratio": 26.22,
         "forward_return": 3.77,
         "start_price": 472.5,
         "start_year": 2021
@@ -11766,7 +11766,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 26.42,
+        "pe_ratio": 27.46,
         "forward_return": 1.78,
         "start_price": 497.0,
         "start_year": 2021
@@ -11775,7 +11775,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 26.34,
+        "pe_ratio": 26.85,
         "forward_return": 1.5,
         "start_price": 488.0,
         "start_year": 2021
@@ -11793,7 +11793,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 22.86,
+        "pe_ratio": 23.5,
         "forward_return": 3.06,
         "start_price": 421.0,
         "start_year": 2022
@@ -11802,7 +11802,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 21.79,
+        "pe_ratio": 23.03,
         "forward_return": 9.62,
         "start_price": 405.0,
         "start_year": 2022
@@ -11811,7 +11811,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 7.56,
         "forward_return": 6.0,
         "start_price": 27.6,
         "start_year": 2006
@@ -11820,7 +11820,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 7.85,
         "forward_return": 7.19,
         "start_price": 29.1,
         "start_year": 2006
@@ -11829,7 +11829,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 7.37,
         "forward_return": 8.29,
         "start_price": 27.75,
         "start_year": 2006
@@ -11838,7 +11838,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 7.09,
         "forward_return": 10.02,
         "start_price": 27.1,
         "start_year": 2006
@@ -11847,7 +11847,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 7.07,
         "forward_return": 16.27,
         "start_price": 25.15,
         "start_year": 2006
@@ -11856,7 +11856,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.12,
+        "pe_ratio": 6.95,
         "forward_return": 16.76,
         "start_price": 22.9,
         "start_year": 2006
@@ -11865,7 +11865,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 9.32,
+        "pe_ratio": 7.72,
         "forward_return": 13.28,
         "start_price": 23.4,
         "start_year": 2006
@@ -11874,7 +11874,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 8.09,
+        "pe_ratio": 7.11,
         "forward_return": 17.95,
         "start_price": 20.3,
         "start_year": 2006
@@ -11883,7 +11883,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 7.86,
         "forward_return": 14.76,
         "start_price": 21.1,
         "start_year": 2006
@@ -11901,7 +11901,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.97,
         "forward_return": 16.66,
         "start_price": 21.5,
         "start_year": 2007
@@ -11910,7 +11910,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.37,
         "forward_return": 18.69,
         "start_price": 21.4,
         "start_year": 2007
@@ -11919,7 +11919,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 8.61,
+        "pe_ratio": 9.95,
         "forward_return": 20.17,
         "start_price": 21.6,
         "start_year": 2007
@@ -11928,7 +11928,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 10.17,
         "forward_return": 20.9,
         "start_price": 22.35,
         "start_year": 2007
@@ -11937,7 +11937,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 8.94,
+        "pe_ratio": 10.07,
         "forward_return": 22.55,
         "start_price": 22.4,
         "start_year": 2007
@@ -11946,7 +11946,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.38,
+        "pe_ratio": 13.78,
         "forward_return": 15.21,
         "start_price": 31.0,
         "start_year": 2007
@@ -11955,7 +11955,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.46,
+        "pe_ratio": 12.97,
         "forward_return": 20.01,
         "start_price": 28.7,
         "start_year": 2007
@@ -11964,7 +11964,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 11.42,
         "forward_return": 23.86,
         "start_price": 24.85,
         "start_year": 2007
@@ -11973,7 +11973,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 9.75,
+        "pe_ratio": 11.4,
         "forward_return": 25.19,
         "start_price": 24.4,
         "start_year": 2007
@@ -11982,7 +11982,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 11.33,
         "forward_return": 25.2,
         "start_price": 25.6,
         "start_year": 2007
@@ -11991,7 +11991,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.03,
         "forward_return": 31.06,
         "start_price": 21.5,
         "start_year": 2007
@@ -12009,7 +12009,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.3,
+        "pe_ratio": 7.22,
         "forward_return": 38.89,
         "start_price": 18.6,
         "start_year": 2008
@@ -12018,7 +12018,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.82,
+        "pe_ratio": 7.65,
         "forward_return": 38.28,
         "start_price": 20.3,
         "start_year": 2008
@@ -12027,7 +12027,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.05,
+        "pe_ratio": 8.77,
         "forward_return": 34.5,
         "start_price": 23.95,
         "start_year": 2008
@@ -12036,7 +12036,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.78,
+        "pe_ratio": 9.55,
         "forward_return": 33.97,
         "start_price": 26.35,
         "start_year": 2008
@@ -12045,7 +12045,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.77,
         "forward_return": 37.45,
         "start_price": 27.25,
         "start_year": 2008
@@ -12054,7 +12054,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.83,
         "forward_return": 36.32,
         "start_price": 24.9,
         "start_year": 2008
@@ -12063,7 +12063,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 8.46,
+        "pe_ratio": 8.4,
         "forward_return": 48.19,
         "start_price": 24.0,
         "start_year": 2008
@@ -12072,7 +12072,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.55,
         "forward_return": 43.39,
         "start_price": 24.75,
         "start_year": 2008
@@ -12081,7 +12081,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.86,
         "forward_return": 50.95,
         "start_price": 20.1,
         "start_year": 2008
@@ -12117,7 +12117,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-01-16",
-        "pe_ratio": 7.61,
+        "pe_ratio": 7.52,
         "forward_return": 54.32,
         "start_price": 23.2,
         "start_year": 2009
@@ -12126,7 +12126,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 52.99,
         "start_price": 23.45,
         "start_year": 2009
@@ -12135,7 +12135,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.43,
+        "pe_ratio": 8.14,
         "forward_return": 52.95,
         "start_price": 25.15,
         "start_year": 2009
@@ -12144,7 +12144,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-04-15",
-        "pe_ratio": 9.69,
+        "pe_ratio": 9.55,
         "forward_return": 47.63,
         "start_price": 28.6,
         "start_year": 2009
@@ -12153,7 +12153,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.77,
+        "pe_ratio": 9.84,
         "forward_return": 48.17,
         "start_price": 28.5,
         "start_year": 2009
@@ -12162,7 +12162,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.95,
+        "pe_ratio": 10.25,
         "forward_return": 45.48,
         "start_price": 28.7,
         "start_year": 2009
@@ -12171,7 +12171,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-07-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.38,
         "forward_return": 48.82,
         "start_price": 26.1,
         "start_year": 2009
@@ -12180,7 +12180,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 9.58,
         "forward_return": 48.68,
         "start_price": 26.5,
         "start_year": 2009
@@ -12189,7 +12189,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.02,
         "forward_return": 49.47,
         "start_price": 27.55,
         "start_year": 2009
@@ -12198,7 +12198,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.96,
         "forward_return": 51.98,
         "start_price": 27.2,
         "start_year": 2009
@@ -12207,7 +12207,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.02,
         "forward_return": 55.78,
         "start_price": 27.15,
         "start_year": 2009
@@ -12225,7 +12225,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.28,
+        "pe_ratio": 10.04,
         "forward_return": 58.38,
         "start_price": 28.15,
         "start_year": 2010
@@ -12234,7 +12234,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.25,
+        "pe_ratio": 9.79,
         "forward_return": 58.55,
         "start_price": 28.55,
         "start_year": 2010
@@ -12243,7 +12243,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.52,
+        "pe_ratio": 9.83,
         "forward_return": 60.11,
         "start_price": 29.8,
         "start_year": 2010
@@ -12252,7 +12252,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 10.05,
         "forward_return": 61.62,
         "start_price": 31.2,
         "start_year": 2010
@@ -12261,7 +12261,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.83,
+        "pe_ratio": 9.98,
         "forward_return": 66.33,
         "start_price": 31.7,
         "start_year": 2010
@@ -12270,7 +12270,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 9.94,
         "forward_return": 60.51,
         "start_price": 32.3,
         "start_year": 2010
@@ -12279,7 +12279,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.06,
         "forward_return": 61.69,
         "start_price": 34.3,
         "start_year": 2010
@@ -12288,7 +12288,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 12.14,
         "forward_return": 56.63,
         "start_price": 35.8,
         "start_year": 2010
@@ -12297,7 +12297,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.96,
         "forward_return": 62.75,
         "start_price": 30.7,
         "start_year": 2010
@@ -12306,7 +12306,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.27,
+        "pe_ratio": 9.94,
         "forward_return": 67.98,
         "start_price": 29.35,
         "start_year": 2010
@@ -12315,7 +12315,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 9.03,
         "forward_return": 65.62,
         "start_price": 28.05,
         "start_year": 2010
@@ -12333,7 +12333,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 9.01,
+        "pe_ratio": 8.98,
         "forward_return": 61.41,
         "start_price": 29.75,
         "start_year": 2011
@@ -12342,7 +12342,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 8.82,
+        "pe_ratio": 8.76,
         "forward_return": 64.7,
         "start_price": 29.5,
         "start_year": 2011
@@ -12351,7 +12351,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 8.86,
+        "pe_ratio": 8.77,
         "forward_return": 64.74,
         "start_price": 30.0,
         "start_year": 2011
@@ -12360,7 +12360,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.21,
         "forward_return": 60.43,
         "start_price": 34.25,
         "start_year": 2011
@@ -12369,7 +12369,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-05-16",
-        "pe_ratio": 9.92,
+        "pe_ratio": 10.47,
         "forward_return": 62.43,
         "start_price": 34.4,
         "start_year": 2011
@@ -12378,7 +12378,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-06-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.41,
         "forward_return": 59.55,
         "start_price": 36.75,
         "start_year": 2011
@@ -12387,7 +12387,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.85,
         "forward_return": 56.36,
         "start_price": 45.1,
         "start_year": 2011
@@ -12396,7 +12396,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.56,
         "forward_return": 64.78,
         "start_price": 41.35,
         "start_year": 2011
@@ -12405,7 +12405,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-09-15",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.6,
         "forward_return": 69.5,
         "start_price": 35.3,
         "start_year": 2011
@@ -12414,7 +12414,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.94,
         "forward_return": 66.58,
         "start_price": 38.0,
         "start_year": 2011
@@ -12423,7 +12423,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 9.3,
         "forward_return": 66.22,
         "start_price": 33.65,
         "start_year": 2011
@@ -12441,7 +12441,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.78,
         "forward_return": 60.87,
         "start_price": 38.1,
         "start_year": 2012
@@ -12450,7 +12450,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 10.43,
         "forward_return": 54.65,
         "start_price": 42.05,
         "start_year": 2012
@@ -12459,7 +12459,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.98,
         "forward_return": 53.12,
         "start_price": 45.8,
         "start_year": 2012
@@ -12468,7 +12468,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.16,
+        "pe_ratio": 11.41,
         "forward_return": 54.9,
         "start_price": 49.4,
         "start_year": 2012
@@ -12477,7 +12477,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.94,
         "forward_return": 52.42,
         "start_price": 53.6,
         "start_year": 2012
@@ -12486,7 +12486,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.74,
         "forward_return": 49.99,
         "start_price": 54.6,
         "start_year": 2012
@@ -12495,7 +12495,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 12.57,
         "forward_return": 47.01,
         "start_price": 61.3,
         "start_year": 2012
@@ -12504,7 +12504,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 12.21,
         "forward_return": 47.05,
         "start_price": 62.3,
         "start_year": 2012
@@ -12513,7 +12513,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 12.18,
         "forward_return": 43.64,
         "start_price": 64.9,
         "start_year": 2012
@@ -12522,7 +12522,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.42,
         "forward_return": 43.84,
         "start_price": 68.6,
         "start_year": 2012
@@ -12531,7 +12531,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 14.92,
         "forward_return": 41.07,
         "start_price": 73.0,
         "start_year": 2012
@@ -12549,7 +12549,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 17.97,
+        "pe_ratio": 17.86,
         "forward_return": 36.62,
         "start_price": 86.0,
         "start_year": 2013
@@ -12558,7 +12558,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.14,
         "forward_return": 34.22,
         "start_price": 94.9,
         "start_year": 2013
@@ -12567,7 +12567,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 18.67,
         "forward_return": 33.21,
         "start_price": 95.2,
         "start_year": 2013
@@ -12576,7 +12576,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 20.2,
+        "pe_ratio": 19.98,
         "forward_return": 28.66,
         "start_price": 103.5,
         "start_year": 2013
@@ -12585,7 +12585,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 23.58,
+        "pe_ratio": 23.48,
         "forward_return": 23.43,
         "start_price": 123.5,
         "start_year": 2013
@@ -12594,7 +12594,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 20.04,
         "forward_return": 27.74,
         "start_price": 107.0,
         "start_year": 2013
@@ -12603,7 +12603,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 29.23,
         "forward_return": 18.55,
         "start_price": 159.0,
         "start_year": 2013
@@ -12612,7 +12612,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 24.82,
         "forward_return": 21.21,
         "start_price": 137.5,
         "start_year": 2013
@@ -12621,7 +12621,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 25.48,
+        "pe_ratio": 25.71,
         "forward_return": 17.35,
         "start_price": 145.0,
         "start_year": 2013
@@ -12630,7 +12630,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.78,
         "forward_return": 15.26,
         "start_price": 154.5,
         "start_year": 2013
@@ -12639,7 +12639,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 31.86,
+        "pe_ratio": 31.95,
         "forward_return": 12.77,
         "start_price": 188.5,
         "start_year": 2013
@@ -12657,7 +12657,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 30.66,
+        "pe_ratio": 31.61,
         "forward_return": 13.3,
         "start_price": 190.5,
         "start_year": 2014
@@ -12666,7 +12666,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 28.77,
+        "pe_ratio": 30.55,
         "forward_return": 14.35,
         "start_price": 184.0,
         "start_year": 2014
@@ -12675,7 +12675,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 32.89,
         "forward_return": 15.63,
         "start_price": 198.0,
         "start_year": 2014
@@ -12684,7 +12684,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 27.81,
+        "pe_ratio": 30.37,
         "forward_return": 17.4,
         "start_price": 188.0,
         "start_year": 2014
@@ -12693,7 +12693,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 27.51,
+        "pe_ratio": 30.03,
         "forward_return": 17.0,
         "start_price": 191.0,
         "start_year": 2014
@@ -12702,7 +12702,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.49,
+        "pe_ratio": 26.72,
         "forward_return": 21.64,
         "start_price": 174.5,
         "start_year": 2014
@@ -12711,7 +12711,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.95,
+        "pe_ratio": 25.52,
         "forward_return": 22.65,
         "start_price": 175.0,
         "start_year": 2014
@@ -12720,7 +12720,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 23.63,
+        "pe_ratio": 24.64,
         "forward_return": 21.66,
         "start_price": 177.0,
         "start_year": 2014
@@ -12729,7 +12729,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.76,
+        "pe_ratio": 25.3,
         "forward_return": 21.17,
         "start_price": 190.0,
         "start_year": 2014
@@ -12738,7 +12738,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 26.1,
+        "pe_ratio": 26.46,
         "forward_return": 18.26,
         "start_price": 205.0,
         "start_year": 2014
@@ -12747,7 +12747,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 29.05,
+        "pe_ratio": 29.25,
         "forward_return": 15.87,
         "start_price": 233.5,
         "start_year": 2014
@@ -12765,7 +12765,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 31.67,
+        "pe_ratio": 31.34,
         "forward_return": 13.11,
         "start_price": 265.0,
         "start_year": 2015
@@ -12774,7 +12774,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 31.76,
+        "pe_ratio": 31.12,
         "forward_return": 14.52,
         "start_price": 270.5,
         "start_year": 2015
@@ -12783,7 +12783,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 34.39,
+        "pe_ratio": 33.37,
         "forward_return": 10.21,
         "start_price": 298.0,
         "start_year": 2015
@@ -12792,7 +12792,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 37.27,
+        "pe_ratio": 36.17,
         "forward_return": 11.08,
         "start_price": 328.5,
         "start_year": 2015
@@ -12801,7 +12801,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 43.3,
+        "pe_ratio": 42.01,
         "forward_return": 10.3,
         "start_price": 388.0,
         "start_year": 2015
@@ -12810,7 +12810,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 36.06,
+        "pe_ratio": 34.98,
         "forward_return": 14.18,
         "start_price": 328.5,
         "start_year": 2015
@@ -12819,7 +12819,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 38.51,
+        "pe_ratio": 37.55,
         "forward_return": 13.76,
         "start_price": 356.5,
         "start_year": 2015
@@ -12828,7 +12828,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 33.49,
+        "pe_ratio": 32.82,
         "forward_return": 15.24,
         "start_price": 315.0,
         "start_year": 2015
@@ -12837,7 +12837,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 34.33,
+        "pe_ratio": 33.81,
         "forward_return": 13.51,
         "start_price": 328.0,
         "start_year": 2015
@@ -12846,7 +12846,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 38.13,
+        "pe_ratio": 37.76,
         "forward_return": 12.98,
         "start_price": 370.0,
         "start_year": 2015
@@ -12855,7 +12855,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.03,
         "forward_return": 15.19,
         "start_price": 327.0,
         "start_year": 2015
@@ -12873,7 +12873,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 30.25,
         "forward_return": 16.28,
         "start_price": 303.5,
         "start_year": 2016
@@ -12882,7 +12882,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.28,
         "forward_return": 14.32,
         "start_price": 335.0,
         "start_year": 2016
@@ -12891,7 +12891,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.47,
+        "pe_ratio": 33.86,
         "forward_return": 14.1,
         "start_price": 342.0,
         "start_year": 2016
@@ -12900,7 +12900,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 31.93,
+        "pe_ratio": 33.17,
         "forward_return": 14.65,
         "start_price": 342.0,
         "start_year": 2016
@@ -12909,7 +12909,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.89,
         "forward_return": 10.42,
         "start_price": 367.0,
         "start_year": 2016
@@ -12918,7 +12918,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.36,
         "forward_return": 11.19,
         "start_price": 358.0,
         "start_year": 2016
@@ -12927,7 +12927,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 35.0,
+        "pe_ratio": 35.86,
         "forward_return": 11.31,
         "start_price": 393.5,
         "start_year": 2016
@@ -12936,7 +12936,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 41.55,
+        "pe_ratio": 42.3,
         "forward_return": 4.11,
         "start_price": 474.5,
         "start_year": 2016
@@ -12945,7 +12945,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 40.18,
+        "pe_ratio": 40.66,
         "forward_return": 3.29,
         "start_price": 466.0,
         "start_year": 2016
@@ -12954,7 +12954,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 39.02,
+        "pe_ratio": 39.33,
         "forward_return": 4.49,
         "start_price": 459.5,
         "start_year": 2016
@@ -12963,7 +12963,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 33.38,
+        "pe_ratio": 33.51,
         "forward_return": 7.14,
         "start_price": 399.0,
         "start_year": 2016
@@ -12981,7 +12981,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 31.0,
+        "pe_ratio": 30.81,
         "forward_return": 5.35,
         "start_price": 382.5,
         "start_year": 2017
@@ -12990,7 +12990,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 28.41,
+        "pe_ratio": 28.08,
         "forward_return": 6.14,
         "start_price": 356.5,
         "start_year": 2017
@@ -12999,7 +12999,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-03-16",
-        "pe_ratio": 27.99,
+        "pe_ratio": 27.5,
         "forward_return": 5.39,
         "start_price": 357.0,
         "start_year": 2017
@@ -13008,7 +13008,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-04-15",
-        "pe_ratio": 31.78,
+        "pe_ratio": 31.75,
         "forward_return": -1.03,
         "start_price": 412.0,
         "start_year": 2017
@@ -13017,7 +13017,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-05-16",
-        "pe_ratio": 31.32,
+        "pe_ratio": 31.8,
         "forward_return": -2.56,
         "start_price": 412.5,
         "start_year": 2017
@@ -13026,7 +13026,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.85,
+        "pe_ratio": 29.76,
         "forward_return": 0.27,
         "start_price": 386.0,
         "start_year": 2017
@@ -13035,7 +13035,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-07-16",
-        "pe_ratio": 28.33,
+        "pe_ratio": 29.06,
         "forward_return": 3.17,
         "start_price": 385.0,
         "start_year": 2017
@@ -13044,7 +13044,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.02,
         "forward_return": 5.07,
         "start_price": 392.5,
         "start_year": 2017
@@ -13053,7 +13053,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-09-15",
-        "pe_ratio": 25.78,
+        "pe_ratio": 26.16,
         "forward_return": 5.38,
         "start_price": 361.0,
         "start_year": 2017
@@ -13062,7 +13062,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-10-16",
-        "pe_ratio": 27.19,
+        "pe_ratio": 27.46,
         "forward_return": 4.67,
         "start_price": 386.5,
         "start_year": 2017
@@ -13071,7 +13071,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-11-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.92,
         "forward_return": 7.16,
         "start_price": 372.0,
         "start_year": 2017
@@ -13089,7 +13089,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.86,
         "forward_return": 9.78,
         "start_price": 373.5,
         "start_year": 2018
@@ -13098,7 +13098,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.99,
+        "pe_ratio": 24.49,
         "forward_return": 12.11,
         "start_price": 377.5,
         "start_year": 2018
@@ -13107,7 +13107,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 22.99,
         "forward_return": 12.17,
         "start_price": 363.5,
         "start_year": 2018
@@ -13116,7 +13116,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.49,
         "forward_return": 14.58,
         "start_price": 329.0,
         "start_year": 2018
@@ -13125,7 +13125,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.51,
         "forward_return": 13.83,
         "start_price": 318.0,
         "start_year": 2018
@@ -13134,7 +13134,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 20.42,
+        "pe_ratio": 19.83,
         "forward_return": 15.27,
         "start_price": 328.0,
         "start_year": 2018
@@ -13143,7 +13143,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.6,
         "forward_return": 12.82,
         "start_price": 327.5,
         "start_year": 2018
@@ -13152,7 +13152,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.04,
+        "pe_ratio": 18.65,
         "forward_return": 12.69,
         "start_price": 315.0,
         "start_year": 2018
@@ -13161,7 +13161,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.3,
         "forward_return": 15.38,
         "start_price": 278.0,
         "start_year": 2018
@@ -13170,7 +13170,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.66,
         "forward_return": 16.73,
         "start_price": 269.5,
         "start_year": 2018
@@ -13179,7 +13179,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.32,
+        "pe_ratio": 17.23,
         "forward_return": 14.81,
         "start_price": 299.0,
         "start_year": 2018
@@ -13197,7 +13197,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 17.73,
         "forward_return": 14.18,
         "start_price": 311.0,
         "start_year": 2019
@@ -13206,7 +13206,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.69,
+        "pe_ratio": 17.92,
         "forward_return": 12.89,
         "start_price": 315.0,
         "start_year": 2019
@@ -13215,7 +13215,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.7,
         "forward_return": 9.79,
         "start_price": 364.5,
         "start_year": 2019
@@ -13224,7 +13224,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.69,
+        "pe_ratio": 21.03,
         "forward_return": 9.38,
         "start_price": 374.5,
         "start_year": 2019
@@ -13233,7 +13233,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 20.77,
         "forward_return": 9.67,
         "start_price": 374.0,
         "start_year": 2019
@@ -13242,7 +13242,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 22.82,
+        "pe_ratio": 23.08,
         "forward_return": 6.61,
         "start_price": 420.0,
         "start_year": 2019
@@ -13251,7 +13251,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.54,
         "forward_return": 7.09,
         "start_price": 430.0,
         "start_year": 2019
@@ -13260,7 +13260,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.69,
         "forward_return": 7.37,
         "start_price": 416.0,
         "start_year": 2019
@@ -13269,7 +13269,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 23.36,
+        "pe_ratio": 23.94,
         "forward_return": 7.03,
         "start_price": 440.5,
         "start_year": 2019
@@ -13278,7 +13278,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.38,
         "forward_return": 7.21,
         "start_price": 418.5,
         "start_year": 2019
@@ -13287,7 +13287,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.73,
         "forward_return": 5.72,
         "start_price": 432.0,
         "start_year": 2019
@@ -13305,7 +13305,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 22.31,
+        "pe_ratio": 22.37,
         "forward_return": 5.76,
         "start_price": 435.0,
         "start_year": 2020
@@ -13314,7 +13314,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 24.22,
+        "pe_ratio": 24.35,
         "forward_return": 3.56,
         "start_price": 477.0,
         "start_year": 2020
@@ -13323,7 +13323,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 21.58,
+        "pe_ratio": 21.74,
         "forward_return": 5.84,
         "start_price": 429.0,
         "start_year": 2020
@@ -13332,7 +13332,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 24.91,
+        "pe_ratio": 25.45,
         "forward_return": 2.68,
         "start_price": 500.0,
         "start_year": 2020
@@ -13341,7 +13341,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 28.52,
+        "pe_ratio": 29.56,
         "forward_return": 0.57,
         "start_price": 578.0,
         "start_year": 2020
@@ -13350,7 +13350,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.89,
         "forward_return": 0.4,
         "start_price": 582.0,
         "start_year": 2020
@@ -13359,7 +13359,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 29.74,
+        "pe_ratio": 30.55,
         "forward_return": -1.8,
         "start_price": 614.0,
         "start_year": 2020
@@ -13368,7 +13368,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 27.6,
+        "pe_ratio": 27.74,
         "forward_return": -0.36,
         "start_price": 575.0,
         "start_year": 2020
@@ -13377,7 +13377,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 26.3,
+        "pe_ratio": 25.89,
         "forward_return": 0.49,
         "start_price": 553.0,
         "start_year": 2020
@@ -13386,7 +13386,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 29.03,
+        "pe_ratio": 28.73,
         "forward_return": -2.17,
         "start_price": 616.0,
         "start_year": 2020
@@ -13395,7 +13395,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 27.93,
+        "pe_ratio": 27.79,
         "forward_return": -2.14,
         "start_price": 598.0,
         "start_year": 2020
@@ -13413,7 +13413,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 27.2,
+        "pe_ratio": 26.4,
         "forward_return": -3.17,
         "start_price": 580.0,
         "start_year": 2021
@@ -13422,7 +13422,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 29.75,
+        "pe_ratio": 28.01,
         "forward_return": -0.73,
         "start_price": 626.0,
         "start_year": 2021
@@ -13431,7 +13431,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 7.56,
         "forward_return": 12.35,
         "start_price": 27.6,
         "start_year": 2006
@@ -13440,7 +13440,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 7.85,
         "forward_return": 12.54,
         "start_price": 29.1,
         "start_year": 2006
@@ -13449,7 +13449,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 7.37,
         "forward_return": 14.74,
         "start_price": 27.75,
         "start_year": 2006
@@ -13458,7 +13458,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 7.09,
         "forward_return": 15.49,
         "start_price": 27.1,
         "start_year": 2006
@@ -13467,7 +13467,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 7.07,
         "forward_return": 19.41,
         "start_price": 25.15,
         "start_year": 2006
@@ -13476,7 +13476,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.12,
+        "pe_ratio": 6.95,
         "forward_return": 21.57,
         "start_price": 22.9,
         "start_year": 2006
@@ -13485,7 +13485,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 9.32,
+        "pe_ratio": 7.72,
         "forward_return": 21.83,
         "start_price": 23.4,
         "start_year": 2006
@@ -13494,7 +13494,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 8.09,
+        "pe_ratio": 7.11,
         "forward_return": 25.73,
         "start_price": 20.3,
         "start_year": 2006
@@ -13503,7 +13503,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 7.86,
         "forward_return": 26.04,
         "start_price": 21.1,
         "start_year": 2006
@@ -13521,7 +13521,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.97,
         "forward_return": 28.68,
         "start_price": 21.5,
         "start_year": 2007
@@ -13530,7 +13530,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.37,
         "forward_return": 30.66,
         "start_price": 21.4,
         "start_year": 2007
@@ -13539,7 +13539,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 8.61,
+        "pe_ratio": 9.95,
         "forward_return": 30.52,
         "start_price": 21.6,
         "start_year": 2007
@@ -13548,7 +13548,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 10.17,
         "forward_return": 31.41,
         "start_price": 22.35,
         "start_year": 2007
@@ -13557,7 +13557,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 8.94,
+        "pe_ratio": 10.07,
         "forward_return": 34.91,
         "start_price": 22.4,
         "start_year": 2007
@@ -13566,7 +13566,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.38,
+        "pe_ratio": 13.78,
         "forward_return": 25.06,
         "start_price": 31.0,
         "start_year": 2007
@@ -13575,7 +13575,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.46,
+        "pe_ratio": 12.97,
         "forward_return": 34.93,
         "start_price": 28.7,
         "start_year": 2007
@@ -13584,7 +13584,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 11.42,
         "forward_return": 35.19,
         "start_price": 24.85,
         "start_year": 2007
@@ -13593,7 +13593,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 9.75,
+        "pe_ratio": 11.4,
         "forward_return": 36.7,
         "start_price": 24.4,
         "start_year": 2007
@@ -13602,7 +13602,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 11.33,
         "forward_return": 36.92,
         "start_price": 25.6,
         "start_year": 2007
@@ -13611,7 +13611,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.03,
         "forward_return": 45.34,
         "start_price": 21.5,
         "start_year": 2007
@@ -13629,7 +13629,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.3,
+        "pe_ratio": 7.22,
         "forward_return": 49.14,
         "start_price": 18.6,
         "start_year": 2008
@@ -13638,7 +13638,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.82,
+        "pe_ratio": 7.65,
         "forward_return": 47.11,
         "start_price": 20.3,
         "start_year": 2008
@@ -13647,7 +13647,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.05,
+        "pe_ratio": 8.77,
         "forward_return": 43.87,
         "start_price": 23.95,
         "start_year": 2008
@@ -13656,7 +13656,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.78,
+        "pe_ratio": 9.55,
         "forward_return": 40.46,
         "start_price": 26.35,
         "start_year": 2008
@@ -13665,7 +13665,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.77,
         "forward_return": 40.02,
         "start_price": 27.25,
         "start_year": 2008
@@ -13674,7 +13674,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.83,
         "forward_return": 40.17,
         "start_price": 24.9,
         "start_year": 2008
@@ -13683,7 +13683,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 8.46,
+        "pe_ratio": 8.4,
         "forward_return": 41.47,
         "start_price": 24.0,
         "start_year": 2008
@@ -13692,7 +13692,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.55,
         "forward_return": 40.99,
         "start_price": 24.75,
         "start_year": 2008
@@ -13701,7 +13701,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.86,
         "forward_return": 47.55,
         "start_price": 20.1,
         "start_year": 2008
@@ -13737,7 +13737,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-01-16",
-        "pe_ratio": 7.61,
+        "pe_ratio": 7.52,
         "forward_return": 51.67,
         "start_price": 23.2,
         "start_year": 2009
@@ -13746,7 +13746,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 51.89,
         "start_price": 23.45,
         "start_year": 2009
@@ -13755,7 +13755,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.43,
+        "pe_ratio": 8.14,
         "forward_return": 52.43,
         "start_price": 25.15,
         "start_year": 2009
@@ -13764,7 +13764,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-04-15",
-        "pe_ratio": 9.69,
+        "pe_ratio": 9.55,
         "forward_return": 51.51,
         "start_price": 28.6,
         "start_year": 2009
@@ -13773,7 +13773,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.77,
+        "pe_ratio": 9.84,
         "forward_return": 55.67,
         "start_price": 28.5,
         "start_year": 2009
@@ -13782,7 +13782,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.95,
+        "pe_ratio": 10.25,
         "forward_return": 51.42,
         "start_price": 28.7,
         "start_year": 2009
@@ -13791,7 +13791,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-07-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.38,
         "forward_return": 56.24,
         "start_price": 26.1,
         "start_year": 2009
@@ -13800,7 +13800,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 9.58,
         "forward_return": 52.86,
         "start_price": 26.5,
         "start_year": 2009
@@ -13809,7 +13809,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.02,
         "forward_return": 52.83,
         "start_price": 27.55,
         "start_year": 2009
@@ -13818,7 +13818,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.96,
         "forward_return": 56.07,
         "start_price": 27.2,
         "start_year": 2009
@@ -13827,7 +13827,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.02,
         "forward_return": 53.13,
         "start_price": 27.15,
         "start_year": 2009
@@ -13845,7 +13845,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.28,
+        "pe_ratio": 10.04,
         "forward_return": 50.46,
         "start_price": 28.15,
         "start_year": 2010
@@ -13854,7 +13854,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.25,
+        "pe_ratio": 9.79,
         "forward_return": 52.43,
         "start_price": 28.55,
         "start_year": 2010
@@ -13863,7 +13863,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.52,
+        "pe_ratio": 9.83,
         "forward_return": 51.8,
         "start_price": 29.8,
         "start_year": 2010
@@ -13872,7 +13872,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 10.05,
         "forward_return": 50.65,
         "start_price": 31.2,
         "start_year": 2010
@@ -13881,7 +13881,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.83,
+        "pe_ratio": 9.98,
         "forward_return": 51.92,
         "start_price": 31.7,
         "start_year": 2010
@@ -13890,7 +13890,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 9.94,
         "forward_return": 50.85,
         "start_price": 32.3,
         "start_year": 2010
@@ -13899,7 +13899,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.06,
         "forward_return": 52.09,
         "start_price": 34.3,
         "start_year": 2010
@@ -13908,7 +13908,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 12.14,
         "forward_return": 55.46,
         "start_price": 35.8,
         "start_year": 2010
@@ -13917,7 +13917,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.96,
         "forward_return": 59.04,
         "start_price": 30.7,
         "start_year": 2010
@@ -13926,7 +13926,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.27,
+        "pe_ratio": 9.94,
         "forward_return": 59.89,
         "start_price": 29.35,
         "start_year": 2010
@@ -13935,7 +13935,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 9.03,
         "forward_return": 57.61,
         "start_price": 28.05,
         "start_year": 2010
@@ -13953,7 +13953,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 9.01,
+        "pe_ratio": 8.98,
         "forward_return": 55.06,
         "start_price": 29.75,
         "start_year": 2011
@@ -13962,7 +13962,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 8.82,
+        "pe_ratio": 8.76,
         "forward_return": 53.6,
         "start_price": 29.5,
         "start_year": 2011
@@ -13971,7 +13971,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 8.86,
+        "pe_ratio": 8.77,
         "forward_return": 53.21,
         "start_price": 30.0,
         "start_year": 2011
@@ -13980,7 +13980,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.21,
         "forward_return": 53.21,
         "start_price": 34.25,
         "start_year": 2011
@@ -13989,7 +13989,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-05-16",
-        "pe_ratio": 9.92,
+        "pe_ratio": 10.47,
         "forward_return": 53.12,
         "start_price": 34.4,
         "start_year": 2011
@@ -13998,7 +13998,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-06-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.41,
         "forward_return": 49.9,
         "start_price": 36.75,
         "start_year": 2011
@@ -14007,7 +14007,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.85,
         "forward_return": 45.27,
         "start_price": 45.1,
         "start_year": 2011
@@ -14016,7 +14016,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.56,
         "forward_return": 47.82,
         "start_price": 41.35,
         "start_year": 2011
@@ -14025,7 +14025,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-09-15",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.6,
         "forward_return": 49.86,
         "start_price": 35.3,
         "start_year": 2011
@@ -14034,7 +14034,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.94,
         "forward_return": 49.56,
         "start_price": 38.0,
         "start_year": 2011
@@ -14043,7 +14043,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 9.3,
         "forward_return": 51.75,
         "start_price": 33.65,
         "start_year": 2011
@@ -14061,7 +14061,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.78,
         "forward_return": 48.73,
         "start_price": 38.1,
         "start_year": 2012
@@ -14070,7 +14070,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 10.43,
         "forward_return": 44.99,
         "start_price": 42.05,
         "start_year": 2012
@@ -14079,7 +14079,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.98,
         "forward_return": 43.67,
         "start_price": 45.8,
         "start_year": 2012
@@ -14088,7 +14088,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.16,
+        "pe_ratio": 11.41,
         "forward_return": 39.77,
         "start_price": 49.4,
         "start_year": 2012
@@ -14097,7 +14097,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.94,
         "forward_return": 37.18,
         "start_price": 53.6,
         "start_year": 2012
@@ -14106,7 +14106,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.74,
         "forward_return": 37.39,
         "start_price": 54.6,
         "start_year": 2012
@@ -14115,7 +14115,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 12.57,
         "forward_return": 35.32,
         "start_price": 61.3,
         "start_year": 2012
@@ -14124,7 +14124,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 12.21,
         "forward_return": 34.2,
         "start_price": 62.3,
         "start_year": 2012
@@ -14133,7 +14133,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 12.18,
         "forward_return": 30.93,
         "start_price": 64.9,
         "start_year": 2012
@@ -14142,7 +14142,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.42,
         "forward_return": 29.15,
         "start_price": 68.6,
         "start_year": 2012
@@ -14151,7 +14151,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 14.92,
         "forward_return": 29.73,
         "start_price": 73.0,
         "start_year": 2012
@@ -14169,7 +14169,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 17.97,
+        "pe_ratio": 17.86,
         "forward_return": 26.95,
         "start_price": 86.0,
         "start_year": 2013
@@ -14178,7 +14178,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.14,
         "forward_return": 25.11,
         "start_price": 94.9,
         "start_year": 2013
@@ -14187,7 +14187,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 18.67,
         "forward_return": 27.73,
         "start_price": 95.2,
         "start_year": 2013
@@ -14196,7 +14196,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 20.2,
+        "pe_ratio": 19.98,
         "forward_return": 26.47,
         "start_price": 103.5,
         "start_year": 2013
@@ -14205,7 +14205,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 23.58,
+        "pe_ratio": 23.48,
         "forward_return": 22.77,
         "start_price": 123.5,
         "start_year": 2013
@@ -14214,7 +14214,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 20.04,
         "forward_return": 27.93,
         "start_price": 107.0,
         "start_year": 2013
@@ -14223,7 +14223,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 29.23,
         "forward_return": 20.66,
         "start_price": 159.0,
         "start_year": 2013
@@ -14232,7 +14232,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 24.82,
         "forward_return": 23.02,
         "start_price": 137.5,
         "start_year": 2013
@@ -14241,7 +14241,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 25.48,
+        "pe_ratio": 25.71,
         "forward_return": 22.96,
         "start_price": 145.0,
         "start_year": 2013
@@ -14250,7 +14250,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.78,
         "forward_return": 20.76,
         "start_price": 154.5,
         "start_year": 2013
@@ -14259,7 +14259,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 31.86,
+        "pe_ratio": 31.95,
         "forward_return": 17.36,
         "start_price": 188.5,
         "start_year": 2013
@@ -14277,7 +14277,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 30.66,
+        "pe_ratio": 31.61,
         "forward_return": 17.27,
         "start_price": 190.5,
         "start_year": 2014
@@ -14286,7 +14286,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 28.77,
+        "pe_ratio": 30.55,
         "forward_return": 19.57,
         "start_price": 184.0,
         "start_year": 2014
@@ -14295,7 +14295,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 32.89,
         "forward_return": 16.28,
         "start_price": 198.0,
         "start_year": 2014
@@ -14304,7 +14304,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 27.81,
+        "pe_ratio": 30.37,
         "forward_return": 19.96,
         "start_price": 188.0,
         "start_year": 2014
@@ -14313,7 +14313,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 27.51,
+        "pe_ratio": 30.03,
         "forward_return": 22.27,
         "start_price": 191.0,
         "start_year": 2014
@@ -14322,7 +14322,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.49,
+        "pe_ratio": 26.72,
         "forward_return": 24.26,
         "start_price": 174.5,
         "start_year": 2014
@@ -14331,7 +14331,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.95,
+        "pe_ratio": 25.52,
         "forward_return": 25.58,
         "start_price": 175.0,
         "start_year": 2014
@@ -14340,7 +14340,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 23.63,
+        "pe_ratio": 24.64,
         "forward_return": 24.13,
         "start_price": 177.0,
         "start_year": 2014
@@ -14349,7 +14349,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.76,
+        "pe_ratio": 25.3,
         "forward_return": 21.97,
         "start_price": 190.0,
         "start_year": 2014
@@ -14358,7 +14358,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 26.1,
+        "pe_ratio": 26.46,
         "forward_return": 22.38,
         "start_price": 205.0,
         "start_year": 2014
@@ -14367,7 +14367,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 29.05,
+        "pe_ratio": 29.25,
         "forward_return": 19.22,
         "start_price": 233.5,
         "start_year": 2014
@@ -14385,7 +14385,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 31.67,
+        "pe_ratio": 31.34,
         "forward_return": 16.21,
         "start_price": 265.0,
         "start_year": 2015
@@ -14394,7 +14394,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 31.76,
+        "pe_ratio": 31.12,
         "forward_return": 17.13,
         "start_price": 270.5,
         "start_year": 2015
@@ -14403,7 +14403,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 34.39,
+        "pe_ratio": 33.37,
         "forward_return": 14.42,
         "start_price": 298.0,
         "start_year": 2015
@@ -14412,7 +14412,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 37.27,
+        "pe_ratio": 36.17,
         "forward_return": 13.02,
         "start_price": 328.5,
         "start_year": 2015
@@ -14421,7 +14421,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 43.3,
+        "pe_ratio": 42.01,
         "forward_return": 7.82,
         "start_price": 388.0,
         "start_year": 2015
@@ -14430,7 +14430,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 36.06,
+        "pe_ratio": 34.98,
         "forward_return": 11.04,
         "start_price": 328.5,
         "start_year": 2015
@@ -14439,7 +14439,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 38.51,
+        "pe_ratio": 37.55,
         "forward_return": 11.39,
         "start_price": 356.5,
         "start_year": 2015
@@ -14448,7 +14448,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 33.49,
+        "pe_ratio": 32.82,
         "forward_return": 10.99,
         "start_price": 315.0,
         "start_year": 2015
@@ -14457,7 +14457,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 34.33,
+        "pe_ratio": 33.81,
         "forward_return": 9.21,
         "start_price": 328.0,
         "start_year": 2015
@@ -14466,7 +14466,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 38.13,
+        "pe_ratio": 37.76,
         "forward_return": 7.81,
         "start_price": 370.0,
         "start_year": 2015
@@ -14475,7 +14475,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.03,
         "forward_return": 9.77,
         "start_price": 327.0,
         "start_year": 2015
@@ -14493,7 +14493,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 30.25,
         "forward_return": 8.86,
         "start_price": 303.5,
         "start_year": 2016
@@ -14502,7 +14502,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.28,
         "forward_return": 5.84,
         "start_price": 335.0,
         "start_year": 2016
@@ -14511,7 +14511,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.47,
+        "pe_ratio": 33.86,
         "forward_return": 5.56,
         "start_price": 342.0,
         "start_year": 2016
@@ -14520,7 +14520,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 31.93,
+        "pe_ratio": 33.17,
         "forward_return": 2.65,
         "start_price": 342.0,
         "start_year": 2016
@@ -14529,7 +14529,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.89,
         "forward_return": 0.18,
         "start_price": 367.0,
         "start_year": 2016
@@ -14538,7 +14538,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.36,
         "forward_return": 1.87,
         "start_price": 358.0,
         "start_year": 2016
@@ -14547,7 +14547,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 35.0,
+        "pe_ratio": 35.86,
         "forward_return": 2.67,
         "start_price": 393.5,
         "start_year": 2016
@@ -14556,7 +14556,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 41.55,
+        "pe_ratio": 42.3,
         "forward_return": 1.32,
         "start_price": 474.5,
         "start_year": 2016
@@ -14565,7 +14565,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 40.18,
+        "pe_ratio": 40.66,
         "forward_return": 0.49,
         "start_price": 466.0,
         "start_year": 2016
@@ -14574,7 +14574,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 39.02,
+        "pe_ratio": 39.33,
         "forward_return": 1.29,
         "start_price": 459.5,
         "start_year": 2016
@@ -14583,7 +14583,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 33.38,
+        "pe_ratio": 33.51,
         "forward_return": 5.05,
         "start_price": 399.0,
         "start_year": 2016
@@ -14601,7 +14601,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 31.0,
+        "pe_ratio": 30.81,
         "forward_return": 7.98,
         "start_price": 382.5,
         "start_year": 2017
@@ -14610,7 +14610,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 28.41,
+        "pe_ratio": 28.08,
         "forward_return": 11.35,
         "start_price": 356.5,
         "start_year": 2017
@@ -14619,7 +14619,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-03-16",
-        "pe_ratio": 27.99,
+        "pe_ratio": 27.5,
         "forward_return": 10.68,
         "start_price": 357.0,
         "start_year": 2017
@@ -14628,7 +14628,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-04-15",
-        "pe_ratio": 31.78,
+        "pe_ratio": 31.75,
         "forward_return": 8.18,
         "start_price": 412.0,
         "start_year": 2017
@@ -14637,7 +14637,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-05-16",
-        "pe_ratio": 31.32,
+        "pe_ratio": 31.8,
         "forward_return": 6.98,
         "start_price": 412.5,
         "start_year": 2017
@@ -14646,7 +14646,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.85,
+        "pe_ratio": 29.76,
         "forward_return": 9.85,
         "start_price": 386.0,
         "start_year": 2017
@@ -14655,7 +14655,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-07-16",
-        "pe_ratio": 28.33,
+        "pe_ratio": 29.06,
         "forward_return": 8.02,
         "start_price": 385.0,
         "start_year": 2017
@@ -14664,7 +14664,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.02,
         "forward_return": 6.89,
         "start_price": 392.5,
         "start_year": 2017
@@ -14673,7 +14673,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-09-15",
-        "pe_ratio": 25.78,
+        "pe_ratio": 26.16,
         "forward_return": 8.27,
         "start_price": 361.0,
         "start_year": 2017
@@ -14682,7 +14682,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-10-16",
-        "pe_ratio": 27.19,
+        "pe_ratio": 27.46,
         "forward_return": 7.52,
         "start_price": 386.5,
         "start_year": 2017
@@ -14691,7 +14691,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-11-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.92,
         "forward_return": 8.58,
         "start_price": 372.0,
         "start_year": 2017
@@ -14709,7 +14709,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.86,
         "forward_return": 8.71,
         "start_price": 373.5,
         "start_year": 2018
@@ -14718,7 +14718,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.99,
+        "pe_ratio": 24.49,
         "forward_return": 7.74,
         "start_price": 377.5,
         "start_year": 2018
@@ -14727,7 +14727,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 23.68,
+        "pe_ratio": 22.99,
         "forward_return": 8.54,
         "start_price": 363.5,
         "start_year": 2018
@@ -14736,7 +14736,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 21.11,
+        "pe_ratio": 20.49,
         "forward_return": 10.51,
         "start_price": 329.0,
         "start_year": 2018
@@ -14745,7 +14745,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.51,
         "forward_return": 11.36,
         "start_price": 318.0,
         "start_year": 2018
@@ -14754,7 +14754,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 20.42,
+        "pe_ratio": 19.83,
         "forward_return": 10.32,
         "start_price": 328.0,
         "start_year": 2018
@@ -14763,7 +14763,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 20.09,
+        "pe_ratio": 19.6,
         "forward_return": 11.26,
         "start_price": 327.5,
         "start_year": 2018
@@ -14772,7 +14772,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.04,
+        "pe_ratio": 18.65,
         "forward_return": 11.62,
         "start_price": 315.0,
         "start_year": 2018
@@ -14781,7 +14781,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.56,
+        "pe_ratio": 16.3,
         "forward_return": 14.74,
         "start_price": 278.0,
         "start_year": 2018
@@ -14790,7 +14790,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 15.83,
+        "pe_ratio": 15.66,
         "forward_return": 14.53,
         "start_price": 269.5,
         "start_year": 2018
@@ -14799,7 +14799,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 17.32,
+        "pe_ratio": 17.23,
         "forward_return": 11.88,
         "start_price": 299.0,
         "start_year": 2018
@@ -14817,7 +14817,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 17.62,
+        "pe_ratio": 17.73,
         "forward_return": 11.31,
         "start_price": 311.0,
         "start_year": 2019
@@ -14826,7 +14826,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 17.69,
+        "pe_ratio": 17.92,
         "forward_return": 12.14,
         "start_price": 315.0,
         "start_year": 2019
@@ -14835,7 +14835,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 20.3,
+        "pe_ratio": 20.7,
         "forward_return": 8.22,
         "start_price": 364.5,
         "start_year": 2019
@@ -14844,7 +14844,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 20.69,
+        "pe_ratio": 21.03,
         "forward_return": 7.76,
         "start_price": 374.5,
         "start_year": 2019
@@ -14853,7 +14853,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 20.49,
+        "pe_ratio": 20.77,
         "forward_return": 8.51,
         "start_price": 374.0,
         "start_year": 2019
@@ -14862,7 +14862,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 22.82,
+        "pe_ratio": 23.08,
         "forward_return": 6.4,
         "start_price": 420.0,
         "start_year": 2019
@@ -14871,7 +14871,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 23.17,
+        "pe_ratio": 23.54,
         "forward_return": 5.04,
         "start_price": 430.0,
         "start_year": 2019
@@ -14880,7 +14880,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 22.24,
+        "pe_ratio": 22.69,
         "forward_return": 5.75,
         "start_price": 416.0,
         "start_year": 2019
@@ -14889,7 +14889,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 23.36,
+        "pe_ratio": 23.94,
         "forward_return": 4.8,
         "start_price": 440.5,
         "start_year": 2019
@@ -14898,7 +14898,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 22.02,
+        "pe_ratio": 22.38,
         "forward_return": 5.26,
         "start_price": 418.5,
         "start_year": 2019
@@ -14907,7 +14907,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 22.55,
+        "pe_ratio": 22.73,
         "forward_return": 4.22,
         "start_price": 432.0,
         "start_year": 2019
@@ -14925,7 +14925,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 22.31,
+        "pe_ratio": 22.37,
         "forward_return": 2.71,
         "start_price": 435.0,
         "start_year": 2020
@@ -14934,7 +14934,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 7.56,
         "forward_return": 29.26,
         "start_price": 27.6,
         "start_year": 2006
@@ -14943,7 +14943,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 7.85,
         "forward_return": 27.65,
         "start_price": 29.1,
         "start_year": 2006
@@ -14952,7 +14952,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 7.37,
         "forward_return": 28.64,
         "start_price": 27.75,
         "start_year": 2006
@@ -14961,7 +14961,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 7.09,
         "forward_return": 27.7,
         "start_price": 27.1,
         "start_year": 2006
@@ -14970,7 +14970,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 7.07,
         "forward_return": 29.22,
         "start_price": 25.15,
         "start_year": 2006
@@ -14979,7 +14979,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.12,
+        "pe_ratio": 6.95,
         "forward_return": 30.91,
         "start_price": 22.9,
         "start_year": 2006
@@ -14988,7 +14988,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 9.32,
+        "pe_ratio": 7.72,
         "forward_return": 31.6,
         "start_price": 23.4,
         "start_year": 2006
@@ -14997,7 +14997,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 8.09,
+        "pe_ratio": 7.11,
         "forward_return": 35.12,
         "start_price": 20.3,
         "start_year": 2006
@@ -15006,7 +15006,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 7.86,
         "forward_return": 36.48,
         "start_price": 21.1,
         "start_year": 2006
@@ -15024,7 +15024,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.97,
         "forward_return": 38.17,
         "start_price": 21.5,
         "start_year": 2007
@@ -15033,7 +15033,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.37,
         "forward_return": 38.58,
         "start_price": 21.4,
         "start_year": 2007
@@ -15042,7 +15042,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 8.61,
+        "pe_ratio": 9.95,
         "forward_return": 39.99,
         "start_price": 21.6,
         "start_year": 2007
@@ -15051,7 +15051,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 10.17,
         "forward_return": 40.99,
         "start_price": 22.35,
         "start_year": 2007
@@ -15060,7 +15060,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 8.94,
+        "pe_ratio": 10.07,
         "forward_return": 43.75,
         "start_price": 22.4,
         "start_year": 2007
@@ -15069,7 +15069,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.38,
+        "pe_ratio": 13.78,
         "forward_return": 35.34,
         "start_price": 31.0,
         "start_year": 2007
@@ -15078,7 +15078,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.46,
+        "pe_ratio": 12.97,
         "forward_return": 38.25,
         "start_price": 28.7,
         "start_year": 2007
@@ -15087,7 +15087,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 11.42,
         "forward_return": 38.76,
         "start_price": 24.85,
         "start_year": 2007
@@ -15096,7 +15096,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 9.75,
+        "pe_ratio": 11.4,
         "forward_return": 39.73,
         "start_price": 24.4,
         "start_year": 2007
@@ -15105,7 +15105,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 11.33,
         "forward_return": 40.85,
         "start_price": 25.6,
         "start_year": 2007
@@ -15114,7 +15114,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.03,
         "forward_return": 41.9,
         "start_price": 21.5,
         "start_year": 2007
@@ -15132,7 +15132,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.3,
+        "pe_ratio": 7.22,
         "forward_return": 43.26,
         "start_price": 18.6,
         "start_year": 2008
@@ -15141,7 +15141,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.82,
+        "pe_ratio": 7.65,
         "forward_return": 43.33,
         "start_price": 20.3,
         "start_year": 2008
@@ -15150,7 +15150,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.05,
+        "pe_ratio": 8.77,
         "forward_return": 40.73,
         "start_price": 23.95,
         "start_year": 2008
@@ -15159,7 +15159,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.78,
+        "pe_ratio": 9.55,
         "forward_return": 39.06,
         "start_price": 26.35,
         "start_year": 2008
@@ -15168,7 +15168,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.77,
         "forward_return": 39.62,
         "start_price": 27.25,
         "start_year": 2008
@@ -15177,7 +15177,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.83,
         "forward_return": 40.79,
         "start_price": 24.9,
         "start_year": 2008
@@ -15186,7 +15186,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 8.46,
+        "pe_ratio": 8.4,
         "forward_return": 43.31,
         "start_price": 24.0,
         "start_year": 2008
@@ -15195,7 +15195,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.55,
         "forward_return": 45.89,
         "start_price": 24.75,
         "start_year": 2008
@@ -15204,7 +15204,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.86,
         "forward_return": 49.42,
         "start_price": 20.1,
         "start_year": 2008
@@ -15240,7 +15240,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-01-16",
-        "pe_ratio": 7.61,
+        "pe_ratio": 7.52,
         "forward_return": 43.45,
         "start_price": 23.2,
         "start_year": 2009
@@ -15249,7 +15249,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 42.11,
         "start_price": 23.45,
         "start_year": 2009
@@ -15258,7 +15258,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.43,
+        "pe_ratio": 8.14,
         "forward_return": 40.89,
         "start_price": 25.15,
         "start_year": 2009
@@ -15267,7 +15267,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-04-15",
-        "pe_ratio": 9.69,
+        "pe_ratio": 9.55,
         "forward_return": 40.95,
         "start_price": 28.6,
         "start_year": 2009
@@ -15276,7 +15276,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.77,
+        "pe_ratio": 9.84,
         "forward_return": 41.03,
         "start_price": 28.5,
         "start_year": 2009
@@ -15285,7 +15285,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.95,
+        "pe_ratio": 10.25,
         "forward_return": 39.83,
         "start_price": 28.7,
         "start_year": 2009
@@ -15294,7 +15294,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-07-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.38,
         "forward_return": 41.83,
         "start_price": 26.1,
         "start_year": 2009
@@ -15303,7 +15303,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 9.58,
         "forward_return": 41.87,
         "start_price": 26.5,
         "start_year": 2009
@@ -15312,7 +15312,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.02,
         "forward_return": 39.86,
         "start_price": 27.55,
         "start_year": 2009
@@ -15321,7 +15321,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.96,
         "forward_return": 41.16,
         "start_price": 27.2,
         "start_year": 2009
@@ -15330,7 +15330,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.02,
         "forward_return": 40.59,
         "start_price": 27.15,
         "start_year": 2009
@@ -15348,7 +15348,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.28,
+        "pe_ratio": 10.04,
         "forward_return": 40.02,
         "start_price": 28.15,
         "start_year": 2010
@@ -15357,7 +15357,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.25,
+        "pe_ratio": 9.79,
         "forward_return": 39.94,
         "start_price": 28.55,
         "start_year": 2010
@@ -15366,7 +15366,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.52,
+        "pe_ratio": 9.83,
         "forward_return": 38.6,
         "start_price": 29.8,
         "start_year": 2010
@@ -15375,7 +15375,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 10.05,
         "forward_return": 36.29,
         "start_price": 31.2,
         "start_year": 2010
@@ -15384,7 +15384,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.83,
+        "pe_ratio": 9.98,
         "forward_return": 35.51,
         "start_price": 31.7,
         "start_year": 2010
@@ -15393,7 +15393,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 9.94,
         "forward_return": 35.65,
         "start_price": 32.3,
         "start_year": 2010
@@ -15402,7 +15402,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.06,
         "forward_return": 35.18,
         "start_price": 34.3,
         "start_year": 2010
@@ -15411,7 +15411,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 12.14,
         "forward_return": 33.9,
         "start_price": 35.8,
         "start_year": 2010
@@ -15420,7 +15420,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.96,
         "forward_return": 34.71,
         "start_price": 30.7,
         "start_year": 2010
@@ -15429,7 +15429,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.27,
+        "pe_ratio": 9.94,
         "forward_return": 35.03,
         "start_price": 29.35,
         "start_year": 2010
@@ -15438,7 +15438,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 9.03,
         "forward_return": 37.28,
         "start_price": 28.05,
         "start_year": 2010
@@ -15456,7 +15456,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 9.01,
+        "pe_ratio": 8.98,
         "forward_return": 36.85,
         "start_price": 29.75,
         "start_year": 2011
@@ -15465,7 +15465,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 8.82,
+        "pe_ratio": 8.76,
         "forward_return": 37.18,
         "start_price": 29.5,
         "start_year": 2011
@@ -15474,7 +15474,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 8.86,
+        "pe_ratio": 8.77,
         "forward_return": 39.05,
         "start_price": 30.0,
         "start_year": 2011
@@ -15483,7 +15483,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.21,
         "forward_return": 37.17,
         "start_price": 34.25,
         "start_year": 2011
@@ -15492,7 +15492,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-05-16",
-        "pe_ratio": 9.92,
+        "pe_ratio": 10.47,
         "forward_return": 37.08,
         "start_price": 34.4,
         "start_year": 2011
@@ -15501,7 +15501,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-06-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.41,
         "forward_return": 37.69,
         "start_price": 36.75,
         "start_year": 2011
@@ -15510,7 +15510,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.85,
         "forward_return": 35.01,
         "start_price": 45.1,
         "start_year": 2011
@@ -15519,7 +15519,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.56,
         "forward_return": 36.0,
         "start_price": 41.35,
         "start_year": 2011
@@ -15528,7 +15528,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-09-15",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.6,
         "forward_return": 39.57,
         "start_price": 35.3,
         "start_year": 2011
@@ -15537,7 +15537,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.94,
         "forward_return": 37.53,
         "start_price": 38.0,
         "start_year": 2011
@@ -15546,7 +15546,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 9.3,
         "forward_return": 40.11,
         "start_price": 33.65,
         "start_year": 2011
@@ -15564,7 +15564,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.78,
         "forward_return": 38.06,
         "start_price": 38.1,
         "start_year": 2012
@@ -15573,7 +15573,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 10.43,
         "forward_return": 37.74,
         "start_price": 42.05,
         "start_year": 2012
@@ -15582,7 +15582,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.98,
         "forward_return": 34.72,
         "start_price": 45.8,
         "start_year": 2012
@@ -15591,7 +15591,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.16,
+        "pe_ratio": 11.41,
         "forward_return": 35.69,
         "start_price": 49.4,
         "start_year": 2012
@@ -15600,7 +15600,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.94,
         "forward_return": 36.5,
         "start_price": 53.6,
         "start_year": 2012
@@ -15609,7 +15609,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.74,
         "forward_return": 36.29,
         "start_price": 54.6,
         "start_year": 2012
@@ -15618,7 +15618,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 12.57,
         "forward_return": 35.48,
         "start_price": 61.3,
         "start_year": 2012
@@ -15627,7 +15627,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 12.21,
         "forward_return": 34.23,
         "start_price": 62.3,
         "start_year": 2012
@@ -15636,7 +15636,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 12.18,
         "forward_return": 32.98,
         "start_price": 64.9,
         "start_year": 2012
@@ -15645,7 +15645,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.42,
         "forward_return": 33.63,
         "start_price": 68.6,
         "start_year": 2012
@@ -15654,7 +15654,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 14.92,
         "forward_return": 32.17,
         "start_price": 73.0,
         "start_year": 2012
@@ -15672,7 +15672,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 17.97,
+        "pe_ratio": 17.86,
         "forward_return": 29.05,
         "start_price": 86.0,
         "start_year": 2013
@@ -15681,7 +15681,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.14,
         "forward_return": 28.55,
         "start_price": 94.9,
         "start_year": 2013
@@ -15690,7 +15690,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 18.67,
         "forward_return": 27.8,
         "start_price": 95.2,
         "start_year": 2013
@@ -15699,7 +15699,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 20.2,
+        "pe_ratio": 19.98,
         "forward_return": 26.85,
         "start_price": 103.5,
         "start_year": 2013
@@ -15708,7 +15708,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 23.58,
+        "pe_ratio": 23.48,
         "forward_return": 22.31,
         "start_price": 123.5,
         "start_year": 2013
@@ -15717,7 +15717,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 20.04,
         "forward_return": 24.68,
         "start_price": 107.0,
         "start_year": 2013
@@ -15726,7 +15726,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 29.23,
         "forward_return": 20.21,
         "start_price": 159.0,
         "start_year": 2013
@@ -15735,7 +15735,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 24.82,
         "forward_return": 20.25,
         "start_price": 137.5,
         "start_year": 2013
@@ -15744,7 +15744,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 25.48,
+        "pe_ratio": 25.71,
         "forward_return": 18.63,
         "start_price": 145.0,
         "start_year": 2013
@@ -15753,7 +15753,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.78,
         "forward_return": 18.31,
         "start_price": 154.5,
         "start_year": 2013
@@ -15762,7 +15762,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 31.86,
+        "pe_ratio": 31.95,
         "forward_return": 15.19,
         "start_price": 188.5,
         "start_year": 2013
@@ -15780,7 +15780,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 30.66,
+        "pe_ratio": 31.61,
         "forward_return": 13.3,
         "start_price": 190.5,
         "start_year": 2014
@@ -15789,7 +15789,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 28.77,
+        "pe_ratio": 30.55,
         "forward_return": 13.35,
         "start_price": 184.0,
         "start_year": 2014
@@ -15798,7 +15798,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 32.89,
         "forward_return": 11.86,
         "start_price": 198.0,
         "start_year": 2014
@@ -15807,7 +15807,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 27.81,
+        "pe_ratio": 30.37,
         "forward_return": 10.31,
         "start_price": 188.0,
         "start_year": 2014
@@ -15816,7 +15816,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 27.51,
+        "pe_ratio": 30.03,
         "forward_return": 9.1,
         "start_price": 191.0,
         "start_year": 2014
@@ -15825,7 +15825,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.49,
+        "pe_ratio": 26.72,
         "forward_return": 11.34,
         "start_price": 174.5,
         "start_year": 2014
@@ -15834,7 +15834,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.95,
+        "pe_ratio": 25.52,
         "forward_return": 13.35,
         "start_price": 175.0,
         "start_year": 2014
@@ -15843,7 +15843,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 23.63,
+        "pe_ratio": 24.64,
         "forward_return": 14.68,
         "start_price": 177.0,
         "start_year": 2014
@@ -15852,7 +15852,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.76,
+        "pe_ratio": 25.3,
         "forward_return": 12.74,
         "start_price": 190.0,
         "start_year": 2014
@@ -15861,7 +15861,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 26.1,
+        "pe_ratio": 26.46,
         "forward_return": 12.13,
         "start_price": 205.0,
         "start_year": 2014
@@ -15870,7 +15870,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 29.05,
+        "pe_ratio": 29.25,
         "forward_return": 11.37,
         "start_price": 233.5,
         "start_year": 2014
@@ -15888,7 +15888,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 31.67,
+        "pe_ratio": 31.34,
         "forward_return": 11.26,
         "start_price": 265.0,
         "start_year": 2015
@@ -15897,7 +15897,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 31.76,
+        "pe_ratio": 31.12,
         "forward_return": 12.53,
         "start_price": 270.5,
         "start_year": 2015
@@ -15906,7 +15906,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 34.39,
+        "pe_ratio": 33.37,
         "forward_return": 10.71,
         "start_price": 298.0,
         "start_year": 2015
@@ -15915,7 +15915,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 37.27,
+        "pe_ratio": 36.17,
         "forward_return": 9.45,
         "start_price": 328.5,
         "start_year": 2015
@@ -15924,7 +15924,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 43.3,
+        "pe_ratio": 42.01,
         "forward_return": 6.34,
         "start_price": 388.0,
         "start_year": 2015
@@ -15933,7 +15933,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 36.06,
+        "pe_ratio": 34.98,
         "forward_return": 9.81,
         "start_price": 328.5,
         "start_year": 2015
@@ -15942,7 +15942,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 38.51,
+        "pe_ratio": 37.55,
         "forward_return": 7.4,
         "start_price": 356.5,
         "start_year": 2015
@@ -15951,7 +15951,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 33.49,
+        "pe_ratio": 32.82,
         "forward_return": 8.5,
         "start_price": 315.0,
         "start_year": 2015
@@ -15960,7 +15960,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 34.33,
+        "pe_ratio": 33.81,
         "forward_return": 7.86,
         "start_price": 328.0,
         "start_year": 2015
@@ -15969,7 +15969,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 38.13,
+        "pe_ratio": 37.76,
         "forward_return": 6.59,
         "start_price": 370.0,
         "start_year": 2015
@@ -15978,7 +15978,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.03,
         "forward_return": 8.52,
         "start_price": 327.0,
         "start_year": 2015
@@ -15996,7 +15996,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 30.25,
         "forward_return": 9.69,
         "start_price": 303.5,
         "start_year": 2016
@@ -16005,7 +16005,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.28,
         "forward_return": 7.78,
         "start_price": 335.0,
         "start_year": 2016
@@ -16014,7 +16014,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 32.47,
+        "pe_ratio": 33.86,
         "forward_return": 7.59,
         "start_price": 342.0,
         "start_year": 2016
@@ -16023,7 +16023,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 31.93,
+        "pe_ratio": 33.17,
         "forward_return": 7.7,
         "start_price": 342.0,
         "start_year": 2016
@@ -16032,7 +16032,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 33.71,
+        "pe_ratio": 34.89,
         "forward_return": 6.9,
         "start_price": 367.0,
         "start_year": 2016
@@ -16041,7 +16041,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 32.35,
+        "pe_ratio": 33.36,
         "forward_return": 6.91,
         "start_price": 358.0,
         "start_year": 2016
@@ -16050,7 +16050,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 35.0,
+        "pe_ratio": 35.86,
         "forward_return": 6.37,
         "start_price": 393.5,
         "start_year": 2016
@@ -16059,7 +16059,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 41.55,
+        "pe_ratio": 42.3,
         "forward_return": 3.67,
         "start_price": 474.5,
         "start_year": 2016
@@ -16068,7 +16068,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 40.18,
+        "pe_ratio": 40.66,
         "forward_return": 4.41,
         "start_price": 466.0,
         "start_year": 2016
@@ -16077,7 +16077,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 39.02,
+        "pe_ratio": 39.33,
         "forward_return": 4.07,
         "start_price": 459.5,
         "start_year": 2016
@@ -16086,7 +16086,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 33.38,
+        "pe_ratio": 33.51,
         "forward_return": 5.45,
         "start_price": 399.0,
         "start_year": 2016
@@ -16104,7 +16104,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 31.0,
+        "pe_ratio": 30.81,
         "forward_return": 6.12,
         "start_price": 382.5,
         "start_year": 2017
@@ -16113,7 +16113,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 28.41,
+        "pe_ratio": 28.08,
         "forward_return": 7.8,
         "start_price": 356.5,
         "start_year": 2017
@@ -16122,7 +16122,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-03-16",
-        "pe_ratio": 27.99,
+        "pe_ratio": 27.5,
         "forward_return": 6.91,
         "start_price": 357.0,
         "start_year": 2017
@@ -16131,7 +16131,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-04-15",
-        "pe_ratio": 31.78,
+        "pe_ratio": 31.75,
         "forward_return": 5.03,
         "start_price": 412.0,
         "start_year": 2017
@@ -16140,7 +16140,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-05-16",
-        "pe_ratio": 31.32,
+        "pe_ratio": 31.8,
         "forward_return": 5.52,
         "start_price": 412.5,
         "start_year": 2017
@@ -16149,7 +16149,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-06-15",
-        "pe_ratio": 28.85,
+        "pe_ratio": 29.76,
         "forward_return": 6.38,
         "start_price": 386.0,
         "start_year": 2017
@@ -16158,7 +16158,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-07-16",
-        "pe_ratio": 28.33,
+        "pe_ratio": 29.06,
         "forward_return": 5.84,
         "start_price": 385.0,
         "start_year": 2017
@@ -16167,7 +16167,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-08-16",
-        "pe_ratio": 28.45,
+        "pe_ratio": 29.02,
         "forward_return": 5.68,
         "start_price": 392.5,
         "start_year": 2017
@@ -16176,7 +16176,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-09-15",
-        "pe_ratio": 25.78,
+        "pe_ratio": 26.16,
         "forward_return": 6.83,
         "start_price": 361.0,
         "start_year": 2017
@@ -16185,7 +16185,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-10-16",
-        "pe_ratio": 27.19,
+        "pe_ratio": 27.46,
         "forward_return": 5.61,
         "start_price": 386.5,
         "start_year": 2017
@@ -16194,7 +16194,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-11-15",
-        "pe_ratio": 25.79,
+        "pe_ratio": 25.92,
         "forward_return": 5.76,
         "start_price": 372.0,
         "start_year": 2017
@@ -16212,7 +16212,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 25.12,
+        "pe_ratio": 24.86,
         "forward_return": 4.7,
         "start_price": 373.5,
         "start_year": 2018
@@ -16221,7 +16221,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 24.99,
+        "pe_ratio": 24.49,
         "forward_return": 7.02,
         "start_price": 377.5,
         "start_year": 2018
@@ -16230,7 +16230,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 11.0,
+        "pe_ratio": 7.56,
         "forward_return": 29.68,
         "start_price": 27.6,
         "start_year": 2006
@@ -16239,7 +16239,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 11.59,
+        "pe_ratio": 7.85,
         "forward_return": 28.99,
         "start_price": 29.1,
         "start_year": 2006
@@ -16248,7 +16248,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 11.06,
+        "pe_ratio": 7.37,
         "forward_return": 30.46,
         "start_price": 27.75,
         "start_year": 2006
@@ -16257,7 +16257,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 7.09,
         "forward_return": 30.46,
         "start_price": 27.1,
         "start_year": 2006
@@ -16266,7 +16266,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 10.02,
+        "pe_ratio": 7.07,
         "forward_return": 32.83,
         "start_price": 25.15,
         "start_year": 2006
@@ -16275,7 +16275,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 9.12,
+        "pe_ratio": 6.95,
         "forward_return": 36.41,
         "start_price": 22.9,
         "start_year": 2006
@@ -16284,7 +16284,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 9.32,
+        "pe_ratio": 7.72,
         "forward_return": 35.89,
         "start_price": 23.4,
         "start_year": 2006
@@ -16293,7 +16293,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 8.09,
+        "pe_ratio": 7.11,
         "forward_return": 37.66,
         "start_price": 20.3,
         "start_year": 2006
@@ -16302,7 +16302,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 8.41,
+        "pe_ratio": 7.86,
         "forward_return": 35.36,
         "start_price": 21.1,
         "start_year": 2006
@@ -16320,7 +16320,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.97,
         "forward_return": 34.58,
         "start_price": 21.5,
         "start_year": 2007
@@ -16329,7 +16329,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 8.53,
+        "pe_ratio": 9.37,
         "forward_return": 33.78,
         "start_price": 21.4,
         "start_year": 2007
@@ -16338,7 +16338,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 8.61,
+        "pe_ratio": 9.95,
         "forward_return": 33.68,
         "start_price": 21.6,
         "start_year": 2007
@@ -16347,7 +16347,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 10.17,
         "forward_return": 34.97,
         "start_price": 22.35,
         "start_year": 2007
@@ -16356,7 +16356,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 8.94,
+        "pe_ratio": 10.07,
         "forward_return": 34.96,
         "start_price": 22.4,
         "start_year": 2007
@@ -16365,7 +16365,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 12.38,
+        "pe_ratio": 13.78,
         "forward_return": 29.85,
         "start_price": 31.0,
         "start_year": 2007
@@ -16374,7 +16374,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 11.46,
+        "pe_ratio": 12.97,
         "forward_return": 31.11,
         "start_price": 28.7,
         "start_year": 2007
@@ -16383,7 +16383,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 11.42,
         "forward_return": 33.24,
         "start_price": 24.85,
         "start_year": 2007
@@ -16392,7 +16392,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 9.75,
+        "pe_ratio": 11.4,
         "forward_return": 32.5,
         "start_price": 24.4,
         "start_year": 2007
@@ -16401,7 +16401,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 10.23,
+        "pe_ratio": 11.33,
         "forward_return": 32.66,
         "start_price": 25.6,
         "start_year": 2007
@@ -16410,7 +16410,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.03,
         "forward_return": 34.54,
         "start_price": 21.5,
         "start_year": 2007
@@ -16428,7 +16428,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 7.3,
+        "pe_ratio": 7.22,
         "forward_return": 36.55,
         "start_price": 18.6,
         "start_year": 2008
@@ -16437,7 +16437,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 7.82,
+        "pe_ratio": 7.65,
         "forward_return": 34.72,
         "start_price": 20.3,
         "start_year": 2008
@@ -16446,7 +16446,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 9.05,
+        "pe_ratio": 8.77,
         "forward_return": 32.83,
         "start_price": 23.95,
         "start_year": 2008
@@ -16455,7 +16455,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 9.78,
+        "pe_ratio": 9.55,
         "forward_return": 30.42,
         "start_price": 26.35,
         "start_year": 2008
@@ -16464,7 +16464,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 9.77,
         "forward_return": 29.59,
         "start_price": 27.25,
         "start_year": 2008
@@ -16473,7 +16473,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 8.92,
+        "pe_ratio": 8.83,
         "forward_return": 31.12,
         "start_price": 24.9,
         "start_year": 2008
@@ -16482,7 +16482,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 8.46,
+        "pe_ratio": 8.4,
         "forward_return": 31.98,
         "start_price": 24.0,
         "start_year": 2008
@@ -16491,7 +16491,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 8.57,
+        "pe_ratio": 8.55,
         "forward_return": 31.14,
         "start_price": 24.75,
         "start_year": 2008
@@ -16500,7 +16500,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-09-15",
-        "pe_ratio": 6.85,
+        "pe_ratio": 6.86,
         "forward_return": 32.5,
         "start_price": 20.1,
         "start_year": 2008
@@ -16536,7 +16536,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-01-16",
-        "pe_ratio": 7.61,
+        "pe_ratio": 7.52,
         "forward_return": 31.85,
         "start_price": 23.2,
         "start_year": 2009
@@ -16545,7 +16545,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-02-14",
-        "pe_ratio": 7.78,
+        "pe_ratio": 7.6,
         "forward_return": 31.85,
         "start_price": 23.45,
         "start_year": 2009
@@ -16554,7 +16554,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-03-16",
-        "pe_ratio": 8.43,
+        "pe_ratio": 8.14,
         "forward_return": 32.57,
         "start_price": 25.15,
         "start_year": 2009
@@ -16563,7 +16563,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-04-15",
-        "pe_ratio": 9.69,
+        "pe_ratio": 9.55,
         "forward_return": 31.19,
         "start_price": 28.6,
         "start_year": 2009
@@ -16572,7 +16572,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-05-16",
-        "pe_ratio": 9.77,
+        "pe_ratio": 9.84,
         "forward_return": 31.22,
         "start_price": 28.5,
         "start_year": 2009
@@ -16581,7 +16581,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-06-15",
-        "pe_ratio": 9.95,
+        "pe_ratio": 10.25,
         "forward_return": 32.46,
         "start_price": 28.7,
         "start_year": 2009
@@ -16590,7 +16590,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-07-16",
-        "pe_ratio": 9.15,
+        "pe_ratio": 9.38,
         "forward_return": 34.38,
         "start_price": 26.1,
         "start_year": 2009
@@ -16599,7 +16599,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-08-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 9.58,
         "forward_return": 33.8,
         "start_price": 26.5,
         "start_year": 2009
@@ -16608,7 +16608,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-09-15",
-        "pe_ratio": 9.88,
+        "pe_ratio": 10.02,
         "forward_return": 33.94,
         "start_price": 27.55,
         "start_year": 2009
@@ -16617,7 +16617,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-10-16",
-        "pe_ratio": 9.87,
+        "pe_ratio": 9.96,
         "forward_return": 33.52,
         "start_price": 27.2,
         "start_year": 2009
@@ -16626,7 +16626,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2009-11-15",
-        "pe_ratio": 9.97,
+        "pe_ratio": 10.02,
         "forward_return": 33.91,
         "start_price": 27.15,
         "start_year": 2009
@@ -16644,7 +16644,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-01-16",
-        "pe_ratio": 10.28,
+        "pe_ratio": 10.04,
         "forward_return": 33.5,
         "start_price": 28.15,
         "start_year": 2010
@@ -16653,7 +16653,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-02-14",
-        "pe_ratio": 10.25,
+        "pe_ratio": 9.79,
         "forward_return": 34.38,
         "start_price": 28.55,
         "start_year": 2010
@@ -16662,7 +16662,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-03-16",
-        "pe_ratio": 10.52,
+        "pe_ratio": 9.83,
         "forward_return": 32.58,
         "start_price": 29.8,
         "start_year": 2010
@@ -16671,7 +16671,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-04-15",
-        "pe_ratio": 10.83,
+        "pe_ratio": 10.05,
         "forward_return": 33.73,
         "start_price": 31.2,
         "start_year": 2010
@@ -16680,7 +16680,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-05-16",
-        "pe_ratio": 10.83,
+        "pe_ratio": 9.98,
         "forward_return": 35.24,
         "start_price": 31.7,
         "start_year": 2010
@@ -16689,7 +16689,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-06-15",
-        "pe_ratio": 10.86,
+        "pe_ratio": 9.94,
         "forward_return": 35.07,
         "start_price": 32.3,
         "start_year": 2010
@@ -16698,7 +16698,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 11.35,
+        "pe_ratio": 11.06,
         "forward_return": 35.23,
         "start_price": 34.3,
         "start_year": 2010
@@ -16707,7 +16707,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 11.66,
+        "pe_ratio": 12.14,
         "forward_return": 33.88,
         "start_price": 35.8,
         "start_year": 2010
@@ -16716,7 +16716,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 9.85,
+        "pe_ratio": 10.96,
         "forward_return": 35.5,
         "start_price": 30.7,
         "start_year": 2010
@@ -16725,7 +16725,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 9.27,
+        "pe_ratio": 9.94,
         "forward_return": 37.39,
         "start_price": 29.35,
         "start_year": 2010
@@ -16734,7 +16734,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 8.73,
+        "pe_ratio": 9.03,
         "forward_return": 37.66,
         "start_price": 28.05,
         "start_year": 2010
@@ -16752,7 +16752,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 9.01,
+        "pe_ratio": 8.98,
         "forward_return": 36.49,
         "start_price": 29.75,
         "start_year": 2011
@@ -16761,7 +16761,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 8.82,
+        "pe_ratio": 8.76,
         "forward_return": 37.52,
         "start_price": 29.5,
         "start_year": 2011
@@ -16770,7 +16770,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 8.86,
+        "pe_ratio": 8.77,
         "forward_return": 36.7,
         "start_price": 30.0,
         "start_year": 2011
@@ -16779,7 +16779,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 10.0,
+        "pe_ratio": 10.21,
         "forward_return": 35.21,
         "start_price": 34.25,
         "start_year": 2011
@@ -16788,7 +16788,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-05-16",
-        "pe_ratio": 9.92,
+        "pe_ratio": 10.47,
         "forward_return": 33.63,
         "start_price": 34.4,
         "start_year": 2011
@@ -16797,7 +16797,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-06-15",
-        "pe_ratio": 10.47,
+        "pe_ratio": 11.41,
         "forward_return": 32.87,
         "start_price": 36.75,
         "start_year": 2011
@@ -16806,7 +16806,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-07-16",
-        "pe_ratio": 12.7,
+        "pe_ratio": 13.85,
         "forward_return": 31.56,
         "start_price": 45.1,
         "start_year": 2011
@@ -16815,7 +16815,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-08-16",
-        "pe_ratio": 11.51,
+        "pe_ratio": 12.56,
         "forward_return": 30.85,
         "start_price": 41.35,
         "start_year": 2011
@@ -16824,7 +16824,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-09-15",
-        "pe_ratio": 9.71,
+        "pe_ratio": 10.6,
         "forward_return": 32.21,
         "start_price": 35.3,
         "start_year": 2011
@@ -16833,7 +16833,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-10-16",
-        "pe_ratio": 10.34,
+        "pe_ratio": 10.94,
         "forward_return": 31.78,
         "start_price": 38.0,
         "start_year": 2011
@@ -16842,7 +16842,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-11-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 9.3,
         "forward_return": 33.2,
         "start_price": 33.65,
         "start_year": 2011
@@ -16860,7 +16860,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-01-16",
-        "pe_ratio": 9.93,
+        "pe_ratio": 9.78,
         "forward_return": 29.98,
         "start_price": 38.1,
         "start_year": 2012
@@ -16869,7 +16869,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-02-15",
-        "pe_ratio": 10.75,
+        "pe_ratio": 10.43,
         "forward_return": 27.65,
         "start_price": 42.05,
         "start_year": 2012
@@ -16878,7 +16878,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 11.48,
+        "pe_ratio": 10.98,
         "forward_return": 26.82,
         "start_price": 45.8,
         "start_year": 2012
@@ -16887,7 +16887,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 12.16,
+        "pe_ratio": 11.41,
         "forward_return": 23.86,
         "start_price": 49.4,
         "start_year": 2012
@@ -16896,7 +16896,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.94,
         "forward_return": 21.98,
         "start_price": 53.6,
         "start_year": 2012
@@ -16905,7 +16905,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 12.95,
+        "pe_ratio": 11.74,
         "forward_return": 22.63,
         "start_price": 54.6,
         "start_year": 2012
@@ -16914,7 +16914,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 14.28,
+        "pe_ratio": 12.57,
         "forward_return": 23.0,
         "start_price": 61.3,
         "start_year": 2012
@@ -16923,7 +16923,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 14.26,
+        "pe_ratio": 12.21,
         "forward_return": 24.07,
         "start_price": 62.3,
         "start_year": 2012
@@ -16932,7 +16932,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 14.6,
+        "pe_ratio": 12.18,
         "forward_return": 22.77,
         "start_price": 64.9,
         "start_year": 2012
@@ -16941,7 +16941,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 15.18,
+        "pe_ratio": 13.42,
         "forward_return": 22.49,
         "start_price": 68.6,
         "start_year": 2012
@@ -16950,7 +16950,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 15.88,
+        "pe_ratio": 14.92,
         "forward_return": 22.63,
         "start_price": 73.0,
         "start_year": 2012
@@ -16968,7 +16968,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 17.97,
+        "pe_ratio": 17.86,
         "forward_return": 22.06,
         "start_price": 86.0,
         "start_year": 2013
@@ -16977,7 +16977,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 19.37,
+        "pe_ratio": 19.14,
         "forward_return": 22.2,
         "start_price": 94.9,
         "start_year": 2013
@@ -16986,7 +16986,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 19.0,
+        "pe_ratio": 18.67,
         "forward_return": 21.75,
         "start_price": 95.2,
         "start_year": 2013
@@ -16995,7 +16995,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 20.2,
+        "pe_ratio": 19.98,
         "forward_return": 20.81,
         "start_price": 103.5,
         "start_year": 2013
@@ -17004,7 +17004,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 23.58,
+        "pe_ratio": 23.48,
         "forward_return": 17.95,
         "start_price": 123.5,
         "start_year": 2013
@@ -17013,7 +17013,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 20.0,
+        "pe_ratio": 20.04,
         "forward_return": 20.72,
         "start_price": 107.0,
         "start_year": 2013
@@ -17022,7 +17022,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 29.1,
+        "pe_ratio": 29.23,
         "forward_return": 15.0,
         "start_price": 159.0,
         "start_year": 2013
@@ -17031,7 +17031,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 24.65,
+        "pe_ratio": 24.82,
         "forward_return": 16.2,
         "start_price": 137.5,
         "start_year": 2013
@@ -17040,7 +17040,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 25.48,
+        "pe_ratio": 25.71,
         "forward_return": 15.51,
         "start_price": 145.0,
         "start_year": 2013
@@ -17049,7 +17049,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 26.62,
+        "pe_ratio": 26.78,
         "forward_return": 15.07,
         "start_price": 154.5,
         "start_year": 2013
@@ -17058,7 +17058,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 31.86,
+        "pe_ratio": 31.95,
         "forward_return": 13.02,
         "start_price": 188.5,
         "start_year": 2013
@@ -17076,7 +17076,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 30.66,
+        "pe_ratio": 31.61,
         "forward_return": 13.03,
         "start_price": 190.5,
         "start_year": 2014
@@ -17085,7 +17085,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 28.77,
+        "pe_ratio": 30.55,
         "forward_return": 12.96,
         "start_price": 184.0,
         "start_year": 2014
@@ -17094,7 +17094,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 30.1,
+        "pe_ratio": 32.89,
         "forward_return": 12.2,
         "start_price": 198.0,
         "start_year": 2014
@@ -17103,7 +17103,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 27.81,
+        "pe_ratio": 30.37,
         "forward_return": 12.87,
         "start_price": 188.0,
         "start_year": 2014
@@ -17112,7 +17112,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 27.51,
+        "pe_ratio": 30.03,
         "forward_return": 12.82,
         "start_price": 191.0,
         "start_year": 2014
@@ -17121,7 +17121,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 24.49,
+        "pe_ratio": 26.72,
         "forward_return": 13.57,
         "start_price": 174.5,
         "start_year": 2014
@@ -17130,7 +17130,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 23.95,
+        "pe_ratio": 25.52,
         "forward_return": 14.22,
         "start_price": 175.0,
         "start_year": 2014
@@ -17139,7 +17139,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 23.63,
+        "pe_ratio": 24.64,
         "forward_return": 13.88,
         "start_price": 177.0,
         "start_year": 2014
@@ -17148,7 +17148,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 24.76,
+        "pe_ratio": 25.3,
         "forward_return": 13.5,
         "start_price": 190.0,
         "start_year": 2014
@@ -17157,7 +17157,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 26.1,
+        "pe_ratio": 26.46,
         "forward_return": 12.2,
         "start_price": 205.0,
         "start_year": 2014
@@ -17166,7 +17166,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 29.05,
+        "pe_ratio": 29.25,
         "forward_return": 10.37,
         "start_price": 233.5,
         "start_year": 2014
@@ -17184,7 +17184,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 31.67,
+        "pe_ratio": 31.34,
         "forward_return": 9.07,
         "start_price": 265.0,
         "start_year": 2015
@@ -17193,7 +17193,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 31.76,
+        "pe_ratio": 31.12,
         "forward_return": 9.43,
         "start_price": 270.5,
         "start_year": 2015
@@ -17202,7 +17202,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 34.39,
+        "pe_ratio": 33.37,
         "forward_return": 7.69,
         "start_price": 298.0,
         "start_year": 2015
@@ -17211,7 +17211,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 37.27,
+        "pe_ratio": 36.17,
         "forward_return": 6.67,
         "start_price": 328.5,
         "start_year": 2015
@@ -17220,7 +17220,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 43.3,
+        "pe_ratio": 42.01,
         "forward_return": 5.3,
         "start_price": 388.0,
         "start_year": 2015
@@ -17229,7 +17229,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 36.06,
+        "pe_ratio": 34.98,
         "forward_return": 7.05,
         "start_price": 328.5,
         "start_year": 2015
@@ -17238,7 +17238,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 38.51,
+        "pe_ratio": 37.55,
         "forward_return": 5.79,
         "start_price": 356.5,
         "start_year": 2015
@@ -17247,7 +17247,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 33.49,
+        "pe_ratio": 32.82,
         "forward_return": 7.18,
         "start_price": 315.0,
         "start_year": 2015
@@ -17256,7 +17256,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 34.33,
+        "pe_ratio": 33.81,
         "forward_return": 6.78,
         "start_price": 328.0,
         "start_year": 2015
@@ -17265,7 +17265,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 38.13,
+        "pe_ratio": 37.76,
         "forward_return": 5.25,
         "start_price": 370.0,
         "start_year": 2015
@@ -17274,7 +17274,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 33.19,
+        "pe_ratio": 33.03,
         "forward_return": 6.29,
         "start_price": 327.0,
         "start_year": 2015
@@ -17292,7 +17292,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 29.82,
+        "pe_ratio": 30.25,
         "forward_return": 6.3,
         "start_price": 303.5,
         "start_year": 2016
@@ -17499,7 +17499,7 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 8.9倍、10.8倍、20.0倍、26.5倍、31.0倍"
+!!! note "本益比河流帶水位: 8.8倍、10.9倍、19.9倍、26.3倍、31.4倍"
 
 ```vegalite
 {
@@ -17510,2402 +17510,2402 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
       {
         "date": "2006-03-16",
         "price": 27.6,
-        "pe": 11.0,
-        "pe_10": 22.43,
-        "pe_25": 27.15,
-        "pe_50": 50.09,
-        "pe_75": 66.58,
-        "pe_90": 77.86
+        "pe": 7.56,
+        "pe_10": 32.02,
+        "pe_25": 39.68,
+        "pe_50": 72.78,
+        "pe_75": 96.11,
+        "pe_90": 114.51
       },
       {
         "date": "2006-04-15",
         "price": 29.1,
-        "pe": 11.59,
-        "pe_10": 22.44,
-        "pe_25": 27.17,
-        "pe_50": 50.13,
-        "pe_75": 66.62,
-        "pe_90": 77.91
+        "pe": 7.85,
+        "pe_10": 32.51,
+        "pe_25": 40.29,
+        "pe_50": 73.9,
+        "pe_75": 97.59,
+        "pe_90": 116.28
       },
       {
         "date": "2006-05-16",
         "price": 27.75,
-        "pe": 11.06,
-        "pe_10": 22.43,
-        "pe_25": 27.15,
-        "pe_50": 50.09,
-        "pe_75": 66.58,
-        "pe_90": 77.86
+        "pe": 7.37,
+        "pe_10": 33.02,
+        "pe_25": 40.92,
+        "pe_50": 75.06,
+        "pe_75": 99.12,
+        "pe_90": 118.11
       },
       {
         "date": "2006-06-15",
         "price": 27.1,
-        "pe": 10.8,
-        "pe_10": 22.43,
-        "pe_25": 27.16,
-        "pe_50": 50.1,
-        "pe_75": 66.58,
-        "pe_90": 77.87
+        "pe": 7.09,
+        "pe_10": 33.52,
+        "pe_25": 41.54,
+        "pe_50": 76.2,
+        "pe_75": 100.62,
+        "pe_90": 119.89
       },
       {
         "date": "2006-07-16",
         "price": 25.15,
-        "pe": 10.02,
-        "pe_10": 22.43,
-        "pe_25": 27.16,
-        "pe_50": 50.11,
-        "pe_75": 66.6,
-        "pe_90": 77.89
+        "pe": 7.07,
+        "pe_10": 31.2,
+        "pe_25": 38.66,
+        "pe_50": 70.91,
+        "pe_75": 93.65,
+        "pe_90": 111.58
       },
       {
         "date": "2006-08-16",
         "price": 22.9,
-        "pe": 9.12,
-        "pe_10": 22.44,
-        "pe_25": 27.17,
-        "pe_50": 50.13,
-        "pe_75": 66.63,
-        "pe_90": 77.92
+        "pe": 6.95,
+        "pe_10": 28.9,
+        "pe_25": 35.81,
+        "pe_50": 65.69,
+        "pe_75": 86.74,
+        "pe_90": 103.35
       },
       {
         "date": "2006-09-15",
         "price": 23.4,
-        "pe": 9.32,
-        "pe_10": 22.44,
-        "pe_25": 27.17,
-        "pe_50": 50.13,
-        "pe_75": 66.62,
-        "pe_90": 77.91
+        "pe": 7.72,
+        "pe_10": 26.58,
+        "pe_25": 32.94,
+        "pe_50": 60.42,
+        "pe_75": 79.79,
+        "pe_90": 95.08
       },
       {
         "date": "2006-10-16",
         "price": 20.3,
-        "pe": 8.09,
-        "pe_10": 22.43,
-        "pe_25": 27.16,
-        "pe_50": 50.1,
-        "pe_75": 66.58,
-        "pe_90": 77.87
+        "pe": 7.11,
+        "pe_10": 25.04,
+        "pe_25": 31.03,
+        "pe_50": 56.92,
+        "pe_75": 75.16,
+        "pe_90": 89.56
       },
       {
         "date": "2006-11-15",
         "price": 21.1,
-        "pe": 8.41,
-        "pe_10": 22.42,
-        "pe_25": 27.15,
-        "pe_50": 50.09,
-        "pe_75": 66.57,
-        "pe_90": 77.86
+        "pe": 7.86,
+        "pe_10": 23.54,
+        "pe_25": 29.17,
+        "pe_50": 53.52,
+        "pe_75": 70.67,
+        "pe_90": 84.2
       },
       {
         "date": "2006-12-16",
         "price": 21.85,
         "pe": 8.71,
-        "pe_10": 22.42,
-        "pe_25": 27.15,
-        "pe_50": 50.08,
-        "pe_75": 66.57,
-        "pe_90": 77.85
+        "pe_10": 22.0,
+        "pe_25": 27.26,
+        "pe_50": 50.01,
+        "pe_75": 66.04,
+        "pe_90": 78.69
       },
       {
         "date": "2007-01-16",
         "price": 21.5,
-        "pe": 8.57,
-        "pe_10": 22.42,
-        "pe_25": 27.15,
-        "pe_50": 50.09,
-        "pe_75": 66.57,
-        "pe_90": 77.85
+        "pe": 8.97,
+        "pe_10": 21.02,
+        "pe_25": 26.05,
+        "pe_50": 47.78,
+        "pe_75": 63.1,
+        "pe_90": 75.18
       },
       {
         "date": "2007-02-14",
         "price": 21.4,
-        "pe": 8.53,
-        "pe_10": 22.42,
-        "pe_25": 27.15,
-        "pe_50": 50.09,
-        "pe_75": 66.57,
-        "pe_90": 77.85
+        "pe": 9.37,
+        "pe_10": 20.03,
+        "pe_25": 24.82,
+        "pe_50": 45.53,
+        "pe_75": 60.12,
+        "pe_90": 71.64
       },
       {
         "date": "2007-03-16",
         "price": 21.6,
-        "pe": 8.61,
-        "pe_10": 22.42,
-        "pe_25": 27.15,
-        "pe_50": 50.09,
-        "pe_75": 66.57,
-        "pe_90": 77.85
+        "pe": 9.95,
+        "pe_10": 19.04,
+        "pe_25": 23.59,
+        "pe_50": 43.28,
+        "pe_75": 57.15,
+        "pe_90": 68.09
       },
       {
         "date": "2007-04-15",
         "price": 22.35,
-        "pe": 8.92,
-        "pe_10": 22.4,
-        "pe_25": 27.12,
-        "pe_50": 50.02,
-        "pe_75": 66.49,
-        "pe_90": 77.75
+        "pe": 10.17,
+        "pe_10": 19.27,
+        "pe_25": 23.88,
+        "pe_50": 43.81,
+        "pe_75": 57.85,
+        "pe_90": 68.93
       },
       {
         "date": "2007-05-16",
         "price": 22.4,
-        "pe": 8.94,
-        "pe_10": 22.39,
-        "pe_25": 27.12,
-        "pe_50": 50.02,
-        "pe_75": 66.49,
-        "pe_90": 77.75
+        "pe": 10.07,
+        "pe_10": 19.51,
+        "pe_25": 24.17,
+        "pe_50": 44.34,
+        "pe_75": 58.56,
+        "pe_90": 69.77
       },
       {
         "date": "2007-06-15",
         "price": 31.0,
-        "pe": 12.38,
-        "pe_10": 22.38,
-        "pe_25": 27.1,
-        "pe_50": 49.99,
-        "pe_75": 66.44,
-        "pe_90": 77.71
+        "pe": 13.78,
+        "pe_10": 19.73,
+        "pe_25": 24.45,
+        "pe_50": 44.85,
+        "pe_75": 59.22,
+        "pe_90": 70.56
       },
       {
         "date": "2007-07-16",
         "price": 28.7,
-        "pe": 11.46,
-        "pe_10": 22.38,
-        "pe_25": 27.1,
-        "pe_50": 50.0,
-        "pe_75": 66.45,
-        "pe_90": 77.72
+        "pe": 12.97,
+        "pe_10": 19.41,
+        "pe_25": 24.05,
+        "pe_50": 44.11,
+        "pe_75": 58.25,
+        "pe_90": 69.41
       },
       {
         "date": "2007-08-16",
         "price": 24.85,
-        "pe": 9.93,
-        "pe_10": 22.37,
-        "pe_25": 27.08,
-        "pe_50": 49.96,
-        "pe_75": 66.4,
-        "pe_90": 77.66
+        "pe": 11.42,
+        "pe_10": 19.08,
+        "pe_25": 23.65,
+        "pe_50": 43.38,
+        "pe_75": 57.28,
+        "pe_90": 68.25
       },
       {
         "date": "2007-09-15",
         "price": 24.4,
-        "pe": 9.75,
-        "pe_10": 22.37,
-        "pe_25": 27.08,
-        "pe_50": 49.96,
-        "pe_75": 66.41,
-        "pe_90": 77.66
+        "pe": 11.4,
+        "pe_10": 18.77,
+        "pe_25": 23.26,
+        "pe_50": 42.67,
+        "pe_75": 56.34,
+        "pe_90": 67.14
       },
       {
         "date": "2007-10-16",
         "price": 25.6,
-        "pe": 10.23,
-        "pe_10": 22.37,
-        "pe_25": 27.08,
-        "pe_50": 49.96,
-        "pe_75": 66.4,
-        "pe_90": 77.66
+        "pe": 11.33,
+        "pe_10": 19.82,
+        "pe_25": 24.55,
+        "pe_50": 45.04,
+        "pe_75": 59.48,
+        "pe_90": 70.87
       },
       {
         "date": "2007-11-15",
         "price": 21.5,
-        "pe": 8.6,
-        "pe_10": 22.34,
-        "pe_25": 27.06,
-        "pe_50": 49.91,
-        "pe_75": 66.34,
-        "pe_90": 77.58
+        "pe": 9.03,
+        "pe_10": 20.88,
+        "pe_25": 25.88,
+        "pe_50": 47.46,
+        "pe_75": 62.68,
+        "pe_90": 74.68
       },
       {
         "date": "2007-12-16",
         "price": 20.0,
         "pe": 8.0,
-        "pe_10": 22.34,
-        "pe_25": 27.06,
-        "pe_50": 49.91,
-        "pe_75": 66.34,
-        "pe_90": 77.58
+        "pe_10": 21.92,
+        "pe_25": 27.17,
+        "pe_50": 49.84,
+        "pe_75": 65.81,
+        "pe_90": 78.42
       },
       {
         "date": "2008-01-16",
         "price": 18.6,
-        "pe": 7.3,
-        "pe_10": 22.77,
-        "pe_25": 27.58,
-        "pe_50": 50.87,
-        "pe_75": 67.61,
-        "pe_90": 79.07
+        "pe": 7.22,
+        "pe_10": 22.59,
+        "pe_25": 28.0,
+        "pe_50": 51.36,
+        "pe_75": 67.82,
+        "pe_90": 80.81
       },
       {
         "date": "2008-02-15",
         "price": 20.3,
-        "pe": 7.82,
-        "pe_10": 23.2,
-        "pe_25": 28.09,
-        "pe_50": 51.83,
-        "pe_75": 68.88,
-        "pe_90": 80.56
+        "pe": 7.65,
+        "pe_10": 23.27,
+        "pe_25": 28.84,
+        "pe_50": 52.9,
+        "pe_75": 69.86,
+        "pe_90": 83.24
       },
       {
         "date": "2008-03-16",
         "price": 23.95,
-        "pe": 9.05,
-        "pe_10": 23.65,
-        "pe_25": 28.64,
-        "pe_50": 52.84,
-        "pe_75": 70.22,
-        "pe_90": 82.12
+        "pe": 8.77,
+        "pe_10": 23.95,
+        "pe_25": 29.68,
+        "pe_50": 54.44,
+        "pe_75": 71.89,
+        "pe_90": 85.66
       },
       {
         "date": "2008-04-15",
         "price": 26.35,
-        "pe": 9.78,
-        "pe_10": 24.08,
-        "pe_25": 29.16,
-        "pe_50": 53.79,
-        "pe_75": 71.49,
-        "pe_90": 83.61
+        "pe": 9.55,
+        "pe_10": 24.2,
+        "pe_25": 29.99,
+        "pe_50": 55.0,
+        "pe_75": 72.63,
+        "pe_90": 86.55
       },
       {
         "date": "2008-05-16",
         "price": 27.25,
-        "pe": 9.94,
-        "pe_10": 24.5,
-        "pe_25": 29.67,
-        "pe_50": 54.73,
-        "pe_75": 72.74,
-        "pe_90": 85.07
+        "pe": 9.77,
+        "pe_10": 24.46,
+        "pe_25": 30.31,
+        "pe_50": 55.6,
+        "pe_75": 73.42,
+        "pe_90": 87.49
       },
       {
         "date": "2008-06-15",
         "price": 24.9,
-        "pe": 8.92,
-        "pe_10": 24.95,
-        "pe_25": 30.21,
-        "pe_50": 55.73,
-        "pe_75": 74.07,
-        "pe_90": 86.63
+        "pe": 8.83,
+        "pe_10": 24.73,
+        "pe_25": 30.65,
+        "pe_50": 56.22,
+        "pe_75": 74.23,
+        "pe_90": 88.45
       },
       {
         "date": "2008-07-16",
         "price": 24.0,
-        "pe": 8.46,
-        "pe_10": 25.36,
-        "pe_25": 30.7,
-        "pe_50": 56.64,
-        "pe_75": 75.28,
-        "pe_90": 88.03
+        "pe": 8.4,
+        "pe_10": 25.06,
+        "pe_25": 31.05,
+        "pe_50": 56.96,
+        "pe_75": 75.21,
+        "pe_90": 89.62
       },
       {
         "date": "2008-08-16",
         "price": 24.75,
-        "pe": 8.57,
-        "pe_10": 25.81,
-        "pe_25": 31.26,
-        "pe_50": 57.66,
-        "pe_75": 76.63,
-        "pe_90": 89.62
+        "pe": 8.55,
+        "pe_10": 25.39,
+        "pe_25": 31.46,
+        "pe_50": 57.71,
+        "pe_75": 76.2,
+        "pe_90": 90.8
       },
       {
         "date": "2008-09-15",
         "price": 20.1,
-        "pe": 6.85,
-        "pe_10": 26.23,
-        "pe_25": 31.76,
-        "pe_50": 58.58,
-        "pe_75": 77.86,
-        "pe_90": 91.06
+        "pe": 6.86,
+        "pe_10": 25.7,
+        "pe_25": 31.84,
+        "pe_50": 58.41,
+        "pe_75": 77.13,
+        "pe_90": 91.91
       },
       {
         "date": "2008-10-16",
         "price": 18.55,
         "pe": 6.22,
-        "pe_10": 26.66,
-        "pe_25": 32.28,
-        "pe_50": 59.54,
-        "pe_75": 79.14,
-        "pe_90": 92.55
+        "pe_10": 26.15,
+        "pe_25": 32.41,
+        "pe_50": 59.45,
+        "pe_75": 78.51,
+        "pe_90": 93.55
       },
       {
         "date": "2008-11-15",
         "price": 19.0,
         "pe": 6.27,
-        "pe_10": 27.08,
-        "pe_25": 32.8,
-        "pe_50": 60.5,
-        "pe_75": 80.41,
-        "pe_90": 94.04
+        "pe_10": 26.58,
+        "pe_25": 32.93,
+        "pe_50": 60.41,
+        "pe_75": 79.77,
+        "pe_90": 95.05
       },
       {
         "date": "2008-12-16",
         "price": 22.3,
         "pe": 7.24,
-        "pe_10": 27.53,
-        "pe_25": 33.33,
-        "pe_50": 61.49,
-        "pe_75": 81.73,
-        "pe_90": 95.58
+        "pe_10": 27.01,
+        "pe_25": 33.47,
+        "pe_50": 61.4,
+        "pe_75": 81.08,
+        "pe_90": 96.61
       },
       {
         "date": "2009-01-16",
         "price": 23.2,
-        "pe": 7.61,
-        "pe_10": 27.25,
-        "pe_25": 32.99,
-        "pe_50": 60.87,
-        "pe_75": 80.9,
-        "pe_90": 94.6
+        "pe": 7.52,
+        "pe_10": 27.06,
+        "pe_25": 33.53,
+        "pe_50": 61.5,
+        "pe_75": 81.22,
+        "pe_90": 96.77
       },
       {
         "date": "2009-02-14",
         "price": 23.45,
-        "pe": 7.78,
-        "pe_10": 26.94,
-        "pe_25": 32.62,
-        "pe_50": 60.18,
-        "pe_75": 79.98,
-        "pe_90": 93.53
+        "pe": 7.6,
+        "pe_10": 27.06,
+        "pe_25": 33.53,
+        "pe_50": 61.51,
+        "pe_75": 81.23,
+        "pe_90": 96.78
       },
       {
         "date": "2009-03-16",
         "price": 25.15,
-        "pe": 8.43,
-        "pe_10": 26.67,
-        "pe_25": 32.29,
-        "pe_50": 59.56,
-        "pe_75": 79.16,
-        "pe_90": 92.58
+        "pe": 8.14,
+        "pe_10": 27.1,
+        "pe_25": 33.58,
+        "pe_50": 61.59,
+        "pe_75": 81.34,
+        "pe_90": 96.91
       },
       {
         "date": "2009-04-15",
         "price": 28.6,
-        "pe": 9.69,
-        "pe_10": 26.38,
-        "pe_25": 31.94,
-        "pe_50": 58.93,
-        "pe_75": 78.32,
-        "pe_90": 91.59
+        "pe": 9.55,
+        "pe_10": 26.26,
+        "pe_25": 32.55,
+        "pe_50": 59.7,
+        "pe_75": 78.84,
+        "pe_90": 93.94
       },
       {
         "date": "2009-05-16",
         "price": 28.5,
-        "pe": 9.77,
-        "pe_10": 26.07,
-        "pe_25": 31.57,
-        "pe_50": 58.24,
-        "pe_75": 77.41,
-        "pe_90": 90.52
+        "pe": 9.84,
+        "pe_10": 25.4,
+        "pe_25": 31.48,
+        "pe_50": 57.74,
+        "pe_75": 76.25,
+        "pe_90": 90.85
       },
       {
         "date": "2009-06-15",
         "price": 28.7,
-        "pe": 9.95,
-        "pe_10": 25.78,
-        "pe_25": 31.22,
-        "pe_50": 57.59,
-        "pe_75": 76.54,
-        "pe_90": 89.51
+        "pe": 10.25,
+        "pe_10": 24.56,
+        "pe_25": 30.43,
+        "pe_50": 55.82,
+        "pe_75": 73.71,
+        "pe_90": 87.83
       },
       {
         "date": "2009-07-16",
         "price": 26.1,
-        "pe": 9.15,
-        "pe_10": 25.5,
-        "pe_25": 30.87,
-        "pe_50": 56.95,
-        "pe_75": 75.69,
-        "pe_90": 88.52
+        "pe": 9.38,
+        "pe_10": 24.4,
+        "pe_25": 30.24,
+        "pe_50": 55.47,
+        "pe_75": 73.25,
+        "pe_90": 87.28
       },
       {
         "date": "2009-08-16",
         "price": 26.5,
-        "pe": 9.4,
-        "pe_10": 25.2,
-        "pe_25": 30.51,
-        "pe_50": 56.28,
-        "pe_75": 74.81,
-        "pe_90": 87.48
+        "pe": 9.58,
+        "pe_10": 24.26,
+        "pe_25": 30.06,
+        "pe_50": 55.14,
+        "pe_75": 72.82,
+        "pe_90": 86.77
       },
       {
         "date": "2009-09-15",
         "price": 27.55,
-        "pe": 9.88,
-        "pe_10": 24.92,
-        "pe_25": 30.18,
-        "pe_50": 55.67,
-        "pe_75": 73.99,
-        "pe_90": 86.53
+        "pe": 10.02,
+        "pe_10": 24.11,
+        "pe_25": 29.88,
+        "pe_50": 54.81,
+        "pe_75": 72.38,
+        "pe_90": 86.24
       },
       {
         "date": "2009-10-16",
         "price": 27.2,
-        "pe": 9.87,
-        "pe_10": 24.63,
-        "pe_25": 29.82,
-        "pe_50": 55.02,
-        "pe_75": 73.13,
-        "pe_90": 85.52
+        "pe": 9.96,
+        "pe_10": 23.95,
+        "pe_25": 29.68,
+        "pe_50": 54.44,
+        "pe_75": 71.89,
+        "pe_90": 85.66
       },
       {
         "date": "2009-11-15",
         "price": 27.15,
-        "pe": 9.97,
-        "pe_10": 24.34,
-        "pe_25": 29.47,
-        "pe_50": 54.37,
-        "pe_75": 72.26,
-        "pe_90": 84.51
+        "pe": 10.02,
+        "pe_10": 23.76,
+        "pe_25": 29.45,
+        "pe_50": 54.02,
+        "pe_75": 71.33,
+        "pe_90": 84.99
       },
       {
         "date": "2009-12-16",
         "price": 28.65,
         "pe": 10.65,
-        "pe_10": 24.04,
-        "pe_25": 29.11,
-        "pe_50": 53.71,
-        "pe_75": 71.38,
-        "pe_90": 83.48
+        "pe_10": 23.59,
+        "pe_25": 29.24,
+        "pe_50": 53.63,
+        "pe_75": 70.82,
+        "pe_90": 84.38
       },
       {
         "date": "2010-01-16",
         "price": 28.15,
-        "pe": 10.28,
-        "pe_10": 24.48,
-        "pe_25": 29.64,
-        "pe_50": 54.67,
-        "pe_75": 72.66,
-        "pe_90": 84.98
+        "pe": 10.04,
+        "pe_10": 24.59,
+        "pe_25": 30.47,
+        "pe_50": 55.89,
+        "pe_75": 73.81,
+        "pe_90": 87.95
       },
       {
         "date": "2010-02-14",
         "price": 28.55,
-        "pe": 10.25,
-        "pe_10": 24.9,
-        "pe_25": 30.14,
-        "pe_50": 55.61,
-        "pe_75": 73.91,
-        "pe_90": 86.44
+        "pe": 9.79,
+        "pe_10": 25.58,
+        "pe_25": 31.69,
+        "pe_50": 58.14,
+        "pe_75": 76.77,
+        "pe_90": 91.47
       },
       {
         "date": "2010-03-16",
         "price": 29.8,
-        "pe": 10.52,
-        "pe_10": 25.32,
-        "pe_25": 30.66,
-        "pe_50": 56.55,
-        "pe_75": 75.17,
-        "pe_90": 87.9
+        "pe": 9.83,
+        "pe_10": 26.59,
+        "pe_25": 32.95,
+        "pe_50": 60.43,
+        "pe_75": 79.81,
+        "pe_90": 95.09
       },
       {
         "date": "2010-04-15",
         "price": 31.2,
-        "pe": 10.83,
-        "pe_10": 25.75,
-        "pe_25": 31.18,
-        "pe_50": 57.52,
-        "pe_75": 76.44,
-        "pe_90": 89.4
+        "pe": 10.05,
+        "pe_10": 27.23,
+        "pe_25": 33.74,
+        "pe_50": 61.89,
+        "pe_75": 81.73,
+        "pe_90": 97.38
       },
       {
         "date": "2010-05-16",
         "price": 31.7,
-        "pe": 10.83,
-        "pe_10": 26.16,
-        "pe_25": 31.68,
-        "pe_50": 58.44,
-        "pe_75": 77.67,
-        "pe_90": 90.83
+        "pe": 9.98,
+        "pe_10": 27.86,
+        "pe_25": 34.52,
+        "pe_50": 63.32,
+        "pe_75": 83.62,
+        "pe_90": 99.63
       },
       {
         "date": "2010-06-15",
         "price": 32.3,
-        "pe": 10.86,
-        "pe_10": 26.58,
-        "pe_25": 32.19,
-        "pe_50": 59.38,
-        "pe_75": 78.92,
-        "pe_90": 92.3
+        "pe": 9.94,
+        "pe_10": 28.5,
+        "pe_25": 35.31,
+        "pe_50": 64.78,
+        "pe_75": 85.54,
+        "pe_90": 101.93
       },
       {
         "date": "2010-07-16",
         "price": 34.3,
-        "pe": 11.35,
-        "pe_10": 27.01,
-        "pe_25": 32.71,
-        "pe_50": 60.33,
-        "pe_75": 80.19,
-        "pe_90": 93.78
+        "pe": 11.06,
+        "pe_10": 27.2,
+        "pe_25": 33.7,
+        "pe_50": 61.82,
+        "pe_75": 81.64,
+        "pe_90": 97.28
       },
       {
         "date": "2010-08-16",
         "price": 35.8,
-        "pe": 11.66,
-        "pe_10": 27.44,
-        "pe_25": 33.23,
-        "pe_50": 61.3,
-        "pe_75": 81.47,
-        "pe_90": 95.28
+        "pe": 12.14,
+        "pe_10": 25.86,
+        "pe_25": 32.05,
+        "pe_50": 58.79,
+        "pe_75": 77.63,
+        "pe_90": 92.5
       },
       {
         "date": "2010-09-15",
         "price": 30.7,
-        "pe": 9.85,
-        "pe_10": 27.86,
-        "pe_25": 33.73,
-        "pe_50": 62.23,
-        "pe_75": 82.7,
-        "pe_90": 96.72
+        "pe": 10.96,
+        "pe_10": 24.57,
+        "pe_25": 30.44,
+        "pe_50": 55.84,
+        "pe_75": 73.74,
+        "pe_90": 87.86
       },
       {
         "date": "2010-10-16",
         "price": 29.35,
-        "pe": 9.27,
-        "pe_10": 28.3,
-        "pe_25": 34.27,
-        "pe_50": 63.21,
-        "pe_75": 84.01,
-        "pe_90": 98.25
+        "pe": 9.94,
+        "pe_10": 25.9,
+        "pe_25": 32.09,
+        "pe_50": 58.86,
+        "pe_75": 77.73,
+        "pe_90": 92.62
       },
       {
         "date": "2010-11-15",
         "price": 28.05,
-        "pe": 8.73,
-        "pe_10": 28.72,
-        "pe_25": 34.77,
-        "pe_50": 64.15,
-        "pe_75": 85.26,
-        "pe_90": 99.71
+        "pe": 9.03,
+        "pe_10": 27.24,
+        "pe_25": 33.76,
+        "pe_50": 61.92,
+        "pe_75": 81.77,
+        "pe_90": 97.44
       },
       {
         "date": "2010-12-16",
         "price": 30.0,
         "pe": 9.2,
-        "pe_10": 29.15,
-        "pe_25": 35.29,
-        "pe_50": 65.1,
-        "pe_75": 86.53,
-        "pe_90": 101.19
+        "pe_10": 28.6,
+        "pe_25": 35.44,
+        "pe_50": 65.01,
+        "pe_75": 85.84,
+        "pe_90": 102.28
       },
       {
         "date": "2011-01-16",
         "price": 29.75,
-        "pe": 9.01,
-        "pe_10": 29.51,
-        "pe_25": 35.73,
-        "pe_50": 65.92,
-        "pe_75": 87.62,
-        "pe_90": 102.46
+        "pe": 8.98,
+        "pe_10": 29.05,
+        "pe_25": 36.0,
+        "pe_50": 66.04,
+        "pe_75": 87.21,
+        "pe_90": 103.92
       },
       {
         "date": "2011-02-14",
         "price": 29.5,
-        "pe": 8.82,
-        "pe_10": 29.89,
-        "pe_25": 36.2,
-        "pe_50": 66.78,
-        "pe_75": 88.75,
-        "pe_90": 103.79
+        "pe": 8.76,
+        "pe_10": 29.53,
+        "pe_25": 36.6,
+        "pe_50": 67.13,
+        "pe_75": 88.65,
+        "pe_90": 105.63
       },
       {
         "date": "2011-03-16",
         "price": 30.0,
-        "pe": 8.86,
-        "pe_10": 30.26,
-        "pe_25": 36.65,
-        "pe_50": 67.6,
-        "pe_75": 89.85,
-        "pe_90": 105.07
+        "pe": 8.77,
+        "pe_10": 30.0,
+        "pe_25": 37.18,
+        "pe_50": 68.19,
+        "pe_75": 90.05,
+        "pe_90": 107.3
       },
       {
         "date": "2011-04-15",
         "price": 34.25,
-        "pe": 10.0,
-        "pe_10": 30.61,
-        "pe_25": 37.07,
-        "pe_50": 68.38,
-        "pe_75": 90.88,
-        "pe_90": 106.28
+        "pe": 10.21,
+        "pe_10": 29.42,
+        "pe_25": 36.46,
+        "pe_50": 66.87,
+        "pe_75": 88.31,
+        "pe_90": 105.22
       },
       {
         "date": "2011-05-16",
         "price": 34.4,
-        "pe": 9.92,
-        "pe_10": 30.99,
-        "pe_25": 37.53,
-        "pe_50": 69.23,
-        "pe_75": 92.02,
-        "pe_90": 107.61
+        "pe": 10.47,
+        "pe_10": 28.81,
+        "pe_25": 35.71,
+        "pe_50": 65.5,
+        "pe_75": 86.49,
+        "pe_90": 103.06
       },
       {
         "date": "2011-06-15",
         "price": 36.75,
-        "pe": 10.47,
-        "pe_10": 31.37,
-        "pe_25": 37.99,
-        "pe_50": 70.08,
-        "pe_75": 93.14,
-        "pe_90": 108.92
+        "pe": 11.41,
+        "pe_10": 28.25,
+        "pe_25": 35.0,
+        "pe_50": 64.21,
+        "pe_75": 84.79,
+        "pe_90": 101.03
       },
       {
         "date": "2011-07-16",
         "price": 45.1,
-        "pe": 12.7,
-        "pe_10": 31.74,
-        "pe_25": 38.43,
-        "pe_50": 70.9,
-        "pe_75": 94.23,
-        "pe_90": 110.2
+        "pe": 13.85,
+        "pe_10": 28.56,
+        "pe_25": 35.39,
+        "pe_50": 64.91,
+        "pe_75": 85.72,
+        "pe_90": 102.14
       },
       {
         "date": "2011-08-16",
         "price": 41.35,
-        "pe": 11.51,
-        "pe_10": 32.11,
-        "pe_25": 38.88,
-        "pe_50": 71.72,
-        "pe_75": 95.33,
-        "pe_90": 111.48
+        "pe": 12.56,
+        "pe_10": 28.87,
+        "pe_25": 35.78,
+        "pe_50": 65.63,
+        "pe_75": 86.67,
+        "pe_90": 103.27
       },
       {
         "date": "2011-09-15",
         "price": 35.3,
-        "pe": 9.71,
-        "pe_10": 32.49,
-        "pe_25": 39.34,
-        "pe_50": 72.58,
-        "pe_75": 96.47,
-        "pe_90": 112.81
+        "pe": 10.6,
+        "pe_10": 29.21,
+        "pe_25": 36.19,
+        "pe_50": 66.39,
+        "pe_75": 87.67,
+        "pe_90": 104.46
       },
       {
         "date": "2011-10-16",
         "price": 38.0,
-        "pe": 10.34,
-        "pe_10": 32.85,
-        "pe_25": 39.77,
-        "pe_50": 73.37,
-        "pe_75": 97.52,
-        "pe_90": 114.04
+        "pe": 10.94,
+        "pe_10": 30.46,
+        "pe_25": 37.75,
+        "pe_50": 69.24,
+        "pe_75": 91.44,
+        "pe_90": 108.95
       },
       {
         "date": "2011-11-15",
         "price": 33.65,
-        "pe": 9.05,
-        "pe_10": 33.23,
-        "pe_25": 40.24,
-        "pe_50": 74.23,
-        "pe_75": 98.66,
-        "pe_90": 115.38
+        "pe": 9.3,
+        "pe_10": 31.73,
+        "pe_25": 39.32,
+        "pe_50": 72.13,
+        "pe_75": 95.25,
+        "pe_90": 113.49
       },
       {
         "date": "2011-12-16",
         "price": 34.55,
         "pe": 9.19,
-        "pe_10": 33.6,
-        "pe_25": 40.69,
-        "pe_50": 75.06,
-        "pe_75": 99.76,
-        "pe_90": 116.67
+        "pe_10": 32.97,
+        "pe_25": 40.86,
+        "pe_50": 74.95,
+        "pe_75": 98.97,
+        "pe_90": 117.92
       },
       {
         "date": "2012-01-16",
         "price": 38.1,
-        "pe": 9.93,
-        "pe_10": 34.29,
-        "pe_25": 41.52,
-        "pe_50": 76.6,
-        "pe_75": 101.81,
-        "pe_90": 119.07
+        "pe": 9.78,
+        "pe_10": 34.17,
+        "pe_25": 42.34,
+        "pe_50": 77.66,
+        "pe_75": 102.55,
+        "pe_90": 122.2
       },
       {
         "date": "2012-02-15",
         "price": 42.05,
-        "pe": 10.75,
-        "pe_10": 34.96,
-        "pe_25": 42.33,
-        "pe_50": 78.1,
-        "pe_75": 103.8,
-        "pe_90": 121.39
+        "pe": 10.43,
+        "pe_10": 35.36,
+        "pe_25": 43.81,
+        "pe_50": 80.37,
+        "pe_75": 106.13,
+        "pe_90": 126.46
       },
       {
         "date": "2012-03-16",
         "price": 45.8,
-        "pe": 11.48,
-        "pe_10": 35.66,
-        "pe_25": 43.18,
-        "pe_50": 79.65,
-        "pe_75": 105.86,
-        "pe_90": 123.8
+        "pe": 10.98,
+        "pe_10": 36.58,
+        "pe_25": 45.33,
+        "pe_50": 83.15,
+        "pe_75": 109.81,
+        "pe_90": 130.84
       },
       {
         "date": "2012-04-15",
         "price": 49.4,
-        "pe": 12.16,
-        "pe_10": 36.31,
-        "pe_25": 43.97,
-        "pe_50": 81.11,
-        "pe_75": 107.8,
-        "pe_90": 126.07
+        "pe": 11.41,
+        "pe_10": 37.97,
+        "pe_25": 47.05,
+        "pe_50": 86.31,
+        "pe_75": 113.98,
+        "pe_90": 135.8
       },
       {
         "date": "2012-05-16",
         "price": 53.6,
-        "pe": 12.95,
-        "pe_10": 36.99,
-        "pe_25": 44.79,
-        "pe_50": 82.64,
-        "pe_75": 109.83,
-        "pe_90": 128.44
+        "pe": 11.94,
+        "pe_10": 39.37,
+        "pe_25": 48.79,
+        "pe_50": 89.49,
+        "pe_75": 118.18,
+        "pe_90": 140.81
       },
       {
         "date": "2012-06-15",
         "price": 54.6,
-        "pe": 12.95,
-        "pe_10": 37.68,
-        "pe_25": 45.63,
-        "pe_50": 84.18,
-        "pe_75": 111.88,
-        "pe_90": 130.84
+        "pe": 11.74,
+        "pe_10": 40.79,
+        "pe_25": 50.54,
+        "pe_50": 92.71,
+        "pe_75": 122.43,
+        "pe_90": 145.88
       },
       {
         "date": "2012-07-16",
         "price": 61.3,
-        "pe": 14.28,
-        "pe_10": 38.37,
-        "pe_25": 46.46,
-        "pe_50": 85.7,
-        "pe_75": 113.91,
-        "pe_90": 133.21
+        "pe": 12.57,
+        "pe_10": 42.77,
+        "pe_25": 53.0,
+        "pe_50": 97.22,
+        "pe_75": 128.38,
+        "pe_90": 152.97
       },
       {
         "date": "2012-08-16",
         "price": 62.3,
-        "pe": 14.26,
-        "pe_10": 39.05,
-        "pe_25": 47.28,
-        "pe_50": 87.22,
-        "pe_75": 115.93,
-        "pe_90": 135.57
+        "pe": 12.21,
+        "pe_10": 44.75,
+        "pe_25": 55.45,
+        "pe_50": 101.72,
+        "pe_75": 134.32,
+        "pe_90": 160.05
       },
       {
         "date": "2012-09-15",
         "price": 64.9,
-        "pe": 14.6,
-        "pe_10": 39.73,
-        "pe_25": 48.11,
-        "pe_50": 88.75,
-        "pe_75": 117.95,
-        "pe_90": 137.94
+        "pe": 12.18,
+        "pe_10": 46.73,
+        "pe_25": 57.91,
+        "pe_50": 106.22,
+        "pe_75": 140.27,
+        "pe_90": 167.14
       },
       {
         "date": "2012-10-16",
         "price": 68.6,
-        "pe": 15.18,
-        "pe_10": 40.39,
-        "pe_25": 48.91,
-        "pe_50": 90.22,
-        "pe_75": 119.91,
-        "pe_90": 140.24
+        "pe": 13.42,
+        "pe_10": 44.83,
+        "pe_25": 55.55,
+        "pe_50": 101.9,
+        "pe_75": 134.57,
+        "pe_90": 160.34
       },
       {
         "date": "2012-11-15",
         "price": 73.0,
-        "pe": 15.88,
-        "pe_10": 41.09,
-        "pe_25": 49.75,
-        "pe_50": 91.78,
-        "pe_75": 121.98,
-        "pe_90": 142.65
+        "pe": 14.92,
+        "pe_10": 42.91,
+        "pe_25": 53.17,
+        "pe_50": 97.54,
+        "pe_75": 128.8,
+        "pe_90": 153.47
       },
       {
         "date": "2012-12-16",
         "price": 75.5,
         "pe": 16.16,
-        "pe_10": 41.76,
-        "pe_25": 50.56,
-        "pe_50": 93.28,
-        "pe_75": 123.97,
-        "pe_90": 144.98
+        "pe_10": 40.97,
+        "pe_25": 50.77,
+        "pe_50": 93.14,
+        "pe_75": 122.99,
+        "pe_90": 146.55
       },
       {
         "date": "2013-01-16",
         "price": 86.0,
-        "pe": 17.97,
-        "pe_10": 42.78,
-        "pe_25": 51.79,
-        "pe_50": 95.55,
-        "pe_75": 126.99,
-        "pe_90": 148.51
+        "pe": 17.86,
+        "pe_10": 42.23,
+        "pe_25": 52.33,
+        "pe_50": 95.99,
+        "pe_75": 126.76,
+        "pe_90": 151.04
       },
       {
         "date": "2013-02-14",
         "price": 94.9,
-        "pe": 19.37,
-        "pe_10": 43.79,
-        "pe_25": 53.02,
-        "pe_50": 97.82,
-        "pe_75": 130.0,
-        "pe_90": 152.04
+        "pe": 19.14,
+        "pe_10": 43.48,
+        "pe_25": 53.88,
+        "pe_50": 98.84,
+        "pe_75": 130.52,
+        "pe_90": 155.52
       },
       {
         "date": "2013-03-16",
         "price": 95.2,
-        "pe": 19.0,
-        "pe_10": 44.78,
-        "pe_25": 54.23,
-        "pe_50": 100.04,
-        "pe_75": 132.95,
-        "pe_90": 155.49
+        "pe": 18.67,
+        "pe_10": 44.72,
+        "pe_25": 55.41,
+        "pe_50": 101.65,
+        "pe_75": 134.23,
+        "pe_90": 159.94
       },
       {
         "date": "2013-04-15",
         "price": 103.5,
-        "pe": 20.2,
-        "pe_10": 45.8,
-        "pe_25": 55.45,
-        "pe_50": 102.3,
-        "pe_75": 135.96,
-        "pe_90": 159.0
+        "pe": 19.98,
+        "pe_10": 45.43,
+        "pe_25": 56.3,
+        "pe_50": 103.27,
+        "pe_75": 136.37,
+        "pe_90": 162.49
       },
       {
         "date": "2013-05-16",
         "price": 123.5,
-        "pe": 23.58,
-        "pe_10": 46.81,
-        "pe_25": 56.68,
-        "pe_50": 104.57,
-        "pe_75": 138.98,
-        "pe_90": 162.53
+        "pe": 23.48,
+        "pe_10": 46.13,
+        "pe_25": 57.16,
+        "pe_50": 104.85,
+        "pe_75": 138.46,
+        "pe_90": 164.98
       },
       {
         "date": "2013-06-15",
         "price": 107.0,
-        "pe": 20.0,
-        "pe_10": 47.82,
-        "pe_25": 57.9,
-        "pe_50": 106.81,
-        "pe_75": 141.96,
-        "pe_90": 166.02
+        "pe": 20.04,
+        "pe_10": 46.83,
+        "pe_25": 58.03,
+        "pe_50": 106.44,
+        "pe_75": 140.56,
+        "pe_90": 167.48
       },
       {
         "date": "2013-07-16",
         "price": 159.0,
-        "pe": 29.1,
-        "pe_10": 48.84,
-        "pe_25": 59.13,
-        "pe_50": 109.09,
-        "pe_75": 144.99,
-        "pe_90": 169.56
+        "pe": 29.23,
+        "pe_10": 47.71,
+        "pe_25": 59.12,
+        "pe_50": 108.44,
+        "pe_75": 143.2,
+        "pe_90": 170.62
       },
       {
         "date": "2013-08-16",
         "price": 137.5,
-        "pe": 24.65,
-        "pe_10": 49.86,
-        "pe_25": 60.37,
-        "pe_50": 111.37,
-        "pe_75": 148.01,
-        "pe_90": 173.1
+        "pe": 24.82,
+        "pe_10": 48.58,
+        "pe_25": 60.2,
+        "pe_50": 110.44,
+        "pe_75": 145.84,
+        "pe_90": 173.77
       },
       {
         "date": "2013-09-15",
         "price": 145.0,
-        "pe": 25.48,
-        "pe_10": 50.86,
-        "pe_25": 61.59,
-        "pe_50": 113.62,
-        "pe_75": 151.0,
-        "pe_90": 176.59
+        "pe": 25.71,
+        "pe_10": 49.46,
+        "pe_25": 61.29,
+        "pe_50": 112.43,
+        "pe_75": 148.47,
+        "pe_90": 176.9
       },
       {
         "date": "2013-10-16",
         "price": 154.5,
-        "pe": 26.62,
-        "pe_10": 51.88,
-        "pe_25": 62.81,
-        "pe_50": 115.88,
-        "pe_75": 154.01,
-        "pe_90": 180.11
+        "pe": 26.78,
+        "pe_10": 50.6,
+        "pe_25": 62.7,
+        "pe_50": 115.01,
+        "pe_75": 151.88,
+        "pe_90": 180.96
       },
       {
         "date": "2013-11-15",
         "price": 188.5,
-        "pe": 31.86,
-        "pe_10": 52.88,
-        "pe_25": 64.03,
-        "pe_50": 118.12,
-        "pe_75": 156.99,
-        "pe_90": 183.6
+        "pe": 31.95,
+        "pe_10": 51.74,
+        "pe_25": 64.12,
+        "pe_50": 117.61,
+        "pe_75": 155.31,
+        "pe_90": 185.06
       },
       {
         "date": "2013-12-16",
         "price": 186.5,
         "pe": 30.93,
-        "pe_10": 53.89,
-        "pe_25": 65.26,
-        "pe_50": 120.38,
-        "pe_75": 160.0,
-        "pe_90": 187.12
+        "pe_10": 52.88,
+        "pe_25": 65.53,
+        "pe_50": 120.2,
+        "pe_75": 158.73,
+        "pe_90": 189.13
       },
       {
         "date": "2014-01-16",
         "price": 190.5,
-        "pe": 30.66,
-        "pe_10": 55.53,
-        "pe_25": 67.24,
-        "pe_50": 124.05,
-        "pe_75": 164.87,
-        "pe_90": 192.81
+        "pe": 31.61,
+        "pe_10": 52.85,
+        "pe_25": 65.49,
+        "pe_50": 120.14,
+        "pe_75": 158.65,
+        "pe_90": 189.04
       },
       {
         "date": "2014-02-14",
         "price": 184.0,
-        "pe": 28.77,
-        "pe_10": 57.16,
-        "pe_25": 69.22,
-        "pe_50": 127.69,
-        "pe_75": 169.71,
-        "pe_90": 198.47
+        "pe": 30.55,
+        "pe_10": 52.82,
+        "pe_25": 65.45,
+        "pe_50": 120.07,
+        "pe_75": 158.55,
+        "pe_90": 188.92
       },
       {
         "date": "2014-03-16",
         "price": 198.0,
-        "pe": 30.1,
-        "pe_10": 58.79,
-        "pe_25": 71.19,
-        "pe_50": 131.33,
-        "pe_75": 174.55,
-        "pe_90": 204.13
+        "pe": 32.89,
+        "pe_10": 52.8,
+        "pe_25": 65.42,
+        "pe_50": 120.01,
+        "pe_75": 158.48,
+        "pe_90": 188.83
       },
       {
         "date": "2014-04-15",
         "price": 188.0,
-        "pe": 27.81,
-        "pe_10": 60.42,
-        "pe_25": 73.16,
-        "pe_50": 134.97,
-        "pe_75": 179.38,
-        "pe_90": 209.78
+        "pe": 30.37,
+        "pe_10": 54.29,
+        "pe_25": 67.27,
+        "pe_50": 123.4,
+        "pe_75": 162.96,
+        "pe_90": 194.17
       },
       {
         "date": "2014-05-16",
         "price": 191.0,
-        "pe": 27.51,
-        "pe_10": 62.06,
-        "pe_25": 75.14,
-        "pe_50": 138.62,
-        "pe_75": 184.23,
-        "pe_90": 215.45
+        "pe": 30.03,
+        "pe_10": 55.78,
+        "pe_25": 69.12,
+        "pe_50": 126.79,
+        "pe_75": 167.44,
+        "pe_90": 199.5
       },
       {
         "date": "2014-06-15",
         "price": 174.5,
-        "pe": 24.49,
-        "pe_10": 63.69,
-        "pe_25": 77.11,
-        "pe_50": 142.26,
-        "pe_75": 189.07,
-        "pe_90": 221.11
+        "pe": 26.72,
+        "pe_10": 57.27,
+        "pe_25": 70.97,
+        "pe_50": 130.19,
+        "pe_75": 171.92,
+        "pe_90": 204.85
       },
       {
         "date": "2014-07-16",
         "price": 175.0,
-        "pe": 23.95,
-        "pe_10": 65.31,
-        "pe_25": 79.08,
-        "pe_50": 145.88,
-        "pe_75": 193.89,
-        "pe_90": 226.75
+        "pe": 25.52,
+        "pe_10": 60.14,
+        "pe_25": 74.52,
+        "pe_50": 136.7,
+        "pe_75": 180.52,
+        "pe_90": 215.1
       },
       {
         "date": "2014-08-16",
         "price": 177.0,
-        "pe": 23.63,
-        "pe_10": 66.95,
-        "pe_25": 81.07,
-        "pe_50": 149.55,
-        "pe_75": 198.76,
-        "pe_90": 232.44
+        "pe": 24.64,
+        "pe_10": 63.0,
+        "pe_25": 78.07,
+        "pe_50": 143.2,
+        "pe_75": 189.1,
+        "pe_90": 225.32
       },
       {
         "date": "2014-09-15",
         "price": 190.0,
-        "pe": 24.76,
-        "pe_10": 68.59,
-        "pe_25": 83.05,
-        "pe_50": 153.2,
-        "pe_75": 203.62,
-        "pe_90": 238.13
+        "pe": 25.3,
+        "pe_10": 65.86,
+        "pe_25": 81.61,
+        "pe_50": 149.71,
+        "pe_75": 197.7,
+        "pe_90": 235.56
       },
       {
         "date": "2014-10-16",
         "price": 205.0,
-        "pe": 26.1,
-        "pe_10": 70.2,
-        "pe_25": 85.0,
-        "pe_50": 156.81,
-        "pe_75": 208.42,
-        "pe_90": 243.74
+        "pe": 26.46,
+        "pe_10": 67.95,
+        "pe_25": 84.2,
+        "pe_50": 154.45,
+        "pe_75": 203.95,
+        "pe_90": 243.02
       },
       {
         "date": "2014-11-15",
         "price": 233.5,
-        "pe": 29.05,
-        "pe_10": 71.84,
-        "pe_25": 86.99,
-        "pe_50": 160.48,
-        "pe_75": 213.28,
-        "pe_90": 249.43
+        "pe": 29.25,
+        "pe_10": 70.01,
+        "pe_25": 86.75,
+        "pe_50": 159.14,
+        "pe_75": 210.15,
+        "pe_90": 250.4
       },
       {
         "date": "2014-12-16",
         "price": 239.5,
         "pe": 29.14,
-        "pe_10": 73.46,
-        "pe_25": 88.95,
-        "pe_50": 164.09,
-        "pe_75": 218.09,
-        "pe_90": 255.05
+        "pe_10": 72.08,
+        "pe_25": 89.32,
+        "pe_50": 163.84,
+        "pe_75": 216.36,
+        "pe_90": 257.8
       },
       {
         "date": "2015-01-16",
         "price": 265.0,
-        "pe": 31.67,
-        "pe_10": 74.79,
-        "pe_25": 90.56,
-        "pe_50": 167.06,
-        "pe_75": 222.03,
-        "pe_90": 259.66
+        "pe": 31.34,
+        "pe_10": 74.16,
+        "pe_25": 91.89,
+        "pe_50": 168.56,
+        "pe_75": 222.59,
+        "pe_90": 265.23
       },
       {
         "date": "2015-02-14",
         "price": 270.5,
-        "pe": 31.76,
-        "pe_10": 76.12,
-        "pe_25": 92.18,
-        "pe_50": 170.04,
-        "pe_75": 226.0,
-        "pe_90": 264.3
+        "pe": 31.12,
+        "pe_10": 76.23,
+        "pe_25": 94.46,
+        "pe_50": 173.28,
+        "pe_75": 228.82,
+        "pe_90": 272.65
       },
       {
         "date": "2015-03-16",
         "price": 298.0,
-        "pe": 34.39,
-        "pe_10": 77.45,
-        "pe_25": 93.78,
-        "pe_50": 173.0,
-        "pe_75": 229.93,
-        "pe_90": 268.9
+        "pe": 33.37,
+        "pe_10": 78.32,
+        "pe_25": 97.05,
+        "pe_50": 178.02,
+        "pe_75": 235.09,
+        "pe_90": 280.11
       },
       {
         "date": "2015-04-15",
         "price": 328.5,
-        "pe": 37.27,
-        "pe_10": 78.78,
-        "pe_25": 95.39,
-        "pe_50": 175.97,
-        "pe_75": 233.88,
-        "pe_90": 273.52
+        "pe": 36.17,
+        "pe_10": 79.65,
+        "pe_25": 98.7,
+        "pe_50": 181.05,
+        "pe_75": 239.09,
+        "pe_90": 284.88
       },
       {
         "date": "2015-05-16",
         "price": 388.0,
-        "pe": 43.3,
-        "pe_10": 80.09,
-        "pe_25": 96.98,
-        "pe_50": 178.9,
-        "pe_75": 237.77,
-        "pe_90": 278.07
+        "pe": 42.01,
+        "pe_10": 81.0,
+        "pe_25": 100.37,
+        "pe_50": 184.12,
+        "pe_75": 243.13,
+        "pe_90": 289.7
       },
       {
         "date": "2015-06-15",
         "price": 328.5,
-        "pe": 36.06,
-        "pe_10": 81.42,
-        "pe_25": 98.59,
-        "pe_50": 181.88,
-        "pe_75": 241.73,
-        "pe_90": 282.7
+        "pe": 34.98,
+        "pe_10": 82.36,
+        "pe_25": 102.06,
+        "pe_50": 187.21,
+        "pe_75": 247.22,
+        "pe_90": 294.57
       },
       {
         "date": "2015-07-16",
         "price": 356.5,
-        "pe": 38.51,
-        "pe_10": 82.74,
-        "pe_25": 100.19,
-        "pe_50": 184.82,
-        "pe_75": 245.64,
-        "pe_90": 287.27
+        "pe": 37.55,
+        "pe_10": 83.26,
+        "pe_25": 103.18,
+        "pe_50": 189.26,
+        "pe_75": 249.93,
+        "pe_90": 297.8
       },
       {
         "date": "2015-08-16",
         "price": 315.0,
-        "pe": 33.49,
-        "pe_10": 84.07,
-        "pe_25": 101.79,
-        "pe_50": 187.79,
-        "pe_75": 249.58,
-        "pe_90": 291.88
+        "pe": 32.82,
+        "pe_10": 84.17,
+        "pe_25": 104.3,
+        "pe_50": 191.33,
+        "pe_75": 252.66,
+        "pe_90": 301.05
       },
       {
         "date": "2015-09-15",
         "price": 328.0,
-        "pe": 34.33,
-        "pe_10": 85.4,
-        "pe_25": 103.4,
-        "pe_50": 190.75,
-        "pe_75": 253.52,
-        "pe_90": 296.49
+        "pe": 33.81,
+        "pe_10": 85.08,
+        "pe_25": 105.43,
+        "pe_50": 193.39,
+        "pe_75": 255.39,
+        "pe_90": 304.3
       },
       {
         "date": "2015-10-16",
         "price": 370.0,
-        "pe": 38.13,
-        "pe_10": 86.73,
-        "pe_25": 105.02,
-        "pe_50": 193.73,
-        "pe_75": 257.49,
-        "pe_90": 301.12
+        "pe": 37.76,
+        "pe_10": 85.93,
+        "pe_25": 106.49,
+        "pe_50": 195.34,
+        "pe_75": 257.95,
+        "pe_90": 307.36
       },
       {
         "date": "2015-11-15",
         "price": 327.0,
-        "pe": 33.19,
-        "pe_10": 88.06,
-        "pe_25": 106.63,
-        "pe_50": 196.7,
-        "pe_75": 261.43,
-        "pe_90": 305.74
+        "pe": 33.03,
+        "pe_10": 86.82,
+        "pe_25": 107.59,
+        "pe_50": 197.36,
+        "pe_75": 260.62,
+        "pe_90": 310.54
       },
       {
         "date": "2015-12-16",
         "price": 304.0,
         "pe": 30.4,
-        "pe_10": 89.38,
-        "pe_25": 108.22,
-        "pe_50": 199.65,
-        "pe_75": 265.35,
-        "pe_90": 310.32
+        "pe_10": 87.7,
+        "pe_25": 108.67,
+        "pe_50": 199.35,
+        "pe_75": 263.25,
+        "pe_90": 313.67
       },
       {
         "date": "2016-01-16",
         "price": 303.5,
-        "pe": 29.82,
-        "pe_10": 90.97,
-        "pe_25": 110.15,
-        "pe_50": 203.2,
-        "pe_75": 270.07,
-        "pe_90": 315.84
+        "pe": 30.25,
+        "pe_10": 87.99,
+        "pe_25": 109.03,
+        "pe_50": 200.01,
+        "pe_75": 264.12,
+        "pe_90": 314.71
       },
       {
         "date": "2016-02-15",
         "price": 335.0,
-        "pe": 32.35,
-        "pe_10": 92.56,
-        "pe_25": 112.07,
-        "pe_50": 206.75,
-        "pe_75": 274.78,
-        "pe_90": 321.35
+        "pe": 33.28,
+        "pe_10": 88.28,
+        "pe_25": 109.39,
+        "pe_50": 200.67,
+        "pe_75": 264.99,
+        "pe_90": 315.74
       },
       {
         "date": "2016-03-16",
         "price": 342.0,
-        "pe": 32.47,
-        "pe_10": 94.14,
-        "pe_25": 113.99,
-        "pe_50": 210.29,
-        "pe_75": 279.49,
-        "pe_90": 326.85
+        "pe": 33.86,
+        "pe_10": 88.58,
+        "pe_25": 109.77,
+        "pe_50": 201.35,
+        "pe_75": 265.89,
+        "pe_90": 316.82
       },
       {
         "date": "2016-04-15",
         "price": 342.0,
-        "pe": 31.93,
-        "pe_10": 95.73,
-        "pe_25": 115.92,
-        "pe_50": 213.84,
-        "pe_75": 284.21,
-        "pe_90": 332.38
+        "pe": 33.17,
+        "pe_10": 90.42,
+        "pe_25": 112.05,
+        "pe_50": 205.54,
+        "pe_75": 271.42,
+        "pe_90": 323.41
       },
       {
         "date": "2016-05-16",
         "price": 367.0,
-        "pe": 33.71,
-        "pe_10": 97.31,
-        "pe_25": 117.82,
-        "pe_50": 217.36,
-        "pe_75": 288.89,
-        "pe_90": 337.84
+        "pe": 34.89,
+        "pe_10": 92.25,
+        "pe_25": 114.31,
+        "pe_50": 209.69,
+        "pe_75": 276.91,
+        "pe_90": 329.94
       },
       {
         "date": "2016-06-15",
         "price": 358.0,
-        "pe": 32.35,
-        "pe_10": 98.91,
-        "pe_25": 119.77,
-        "pe_50": 220.94,
-        "pe_75": 293.65,
-        "pe_90": 343.41
+        "pe": 33.36,
+        "pe_10": 94.11,
+        "pe_25": 116.62,
+        "pe_50": 213.93,
+        "pe_75": 282.5,
+        "pe_90": 336.61
       },
       {
         "date": "2016-07-16",
         "price": 393.5,
-        "pe": 35.0,
-        "pe_10": 100.49,
-        "pe_25": 121.68,
-        "pe_50": 224.46,
-        "pe_75": 298.33,
-        "pe_90": 348.89
+        "pe": 35.86,
+        "pe_10": 96.24,
+        "pe_25": 119.25,
+        "pe_50": 218.75,
+        "pe_75": 288.87,
+        "pe_90": 344.2
       },
       {
         "date": "2016-08-16",
         "price": 474.5,
-        "pe": 41.55,
-        "pe_10": 102.07,
-        "pe_25": 123.59,
-        "pe_50": 228.0,
-        "pe_75": 303.03,
-        "pe_90": 354.38
+        "pe": 42.3,
+        "pe_10": 98.38,
+        "pe_25": 121.91,
+        "pe_50": 223.62,
+        "pe_75": 295.3,
+        "pe_90": 351.86
       },
       {
         "date": "2016-09-15",
         "price": 466.0,
-        "pe": 40.18,
-        "pe_10": 103.66,
-        "pe_25": 125.52,
-        "pe_50": 231.55,
-        "pe_75": 307.75,
-        "pe_90": 359.9
+        "pe": 40.66,
+        "pe_10": 100.51,
+        "pe_25": 124.55,
+        "pe_50": 228.47,
+        "pe_75": 301.71,
+        "pe_90": 359.49
       },
       {
         "date": "2016-10-16",
         "price": 459.5,
-        "pe": 39.02,
-        "pe_10": 105.25,
-        "pe_25": 127.45,
-        "pe_50": 235.11,
-        "pe_75": 312.48,
-        "pe_90": 365.43
+        "pe": 39.33,
+        "pe_10": 102.46,
+        "pe_25": 126.97,
+        "pe_50": 232.9,
+        "pe_75": 307.56,
+        "pe_90": 366.47
       },
       {
         "date": "2016-11-15",
         "price": 399.0,
-        "pe": 33.38,
-        "pe_10": 106.84,
-        "pe_25": 129.36,
-        "pe_50": 238.65,
-        "pe_75": 317.18,
-        "pe_90": 370.93
+        "pe": 33.51,
+        "pe_10": 104.42,
+        "pe_25": 129.4,
+        "pe_50": 237.36,
+        "pe_75": 313.45,
+        "pe_90": 373.48
       },
       {
         "date": "2016-12-16",
         "price": 373.5,
         "pe": 30.79,
-        "pe_10": 108.42,
-        "pe_25": 131.28,
-        "pe_50": 242.19,
-        "pe_75": 321.88,
-        "pe_90": 376.44
+        "pe_10": 106.39,
+        "pe_25": 131.83,
+        "pe_50": 241.82,
+        "pe_75": 319.34,
+        "pe_90": 380.5
       },
       {
         "date": "2017-01-16",
         "price": 382.5,
-        "pe": 31.0,
-        "pe_10": 110.28,
-        "pe_25": 133.54,
-        "pe_50": 246.34,
-        "pe_75": 327.41,
-        "pe_90": 382.89
+        "pe": 30.81,
+        "pe_10": 108.88,
+        "pe_25": 134.92,
+        "pe_50": 247.49,
+        "pe_75": 326.82,
+        "pe_90": 389.42
       },
       {
         "date": "2017-02-14",
         "price": 356.5,
-        "pe": 28.41,
-        "pe_10": 112.16,
-        "pe_25": 135.81,
-        "pe_50": 250.53,
-        "pe_75": 332.97,
-        "pe_90": 389.4
+        "pe": 28.08,
+        "pe_10": 111.34,
+        "pe_25": 137.97,
+        "pe_50": 253.09,
+        "pe_75": 334.22,
+        "pe_90": 398.23
       },
       {
         "date": "2017-03-16",
         "price": 357.0,
-        "pe": 27.99,
-        "pe_10": 114.0,
-        "pe_25": 138.04,
-        "pe_50": 254.64,
-        "pe_75": 338.44,
-        "pe_90": 395.8
+        "pe": 27.5,
+        "pe_10": 113.85,
+        "pe_25": 141.08,
+        "pe_50": 258.79,
+        "pe_75": 341.75,
+        "pe_90": 407.2
       },
       {
         "date": "2017-04-15",
         "price": 412.0,
-        "pe": 31.78,
-        "pe_10": 115.87,
-        "pe_25": 140.3,
-        "pe_50": 258.83,
-        "pe_75": 344.0,
-        "pe_90": 402.3
+        "pe": 31.75,
+        "pe_10": 113.8,
+        "pe_25": 141.02,
+        "pe_50": 258.68,
+        "pe_75": 341.6,
+        "pe_90": 407.03
       },
       {
         "date": "2017-05-16",
         "price": 412.5,
-        "pe": 31.32,
-        "pe_10": 117.72,
-        "pe_25": 142.54,
-        "pe_50": 262.95,
-        "pe_75": 349.48,
-        "pe_90": 408.71
+        "pe": 31.8,
+        "pe_10": 113.76,
+        "pe_25": 140.97,
+        "pe_50": 258.59,
+        "pe_75": 341.48,
+        "pe_90": 406.88
       },
       {
         "date": "2017-06-15",
         "price": 386.0,
-        "pe": 28.85,
-        "pe_10": 119.59,
-        "pe_25": 144.8,
-        "pe_50": 267.12,
-        "pe_75": 355.03,
-        "pe_90": 415.19
+        "pe": 29.76,
+        "pe_10": 113.75,
+        "pe_25": 140.96,
+        "pe_50": 258.57,
+        "pe_75": 341.45,
+        "pe_90": 406.84
       },
       {
         "date": "2017-07-16",
         "price": 385.0,
-        "pe": 28.33,
-        "pe_10": 121.47,
-        "pe_25": 147.08,
-        "pe_50": 271.32,
-        "pe_75": 360.61,
-        "pe_90": 421.72
+        "pe": 29.06,
+        "pe_10": 116.19,
+        "pe_25": 143.98,
+        "pe_50": 264.11,
+        "pe_75": 348.77,
+        "pe_90": 415.56
       },
       {
         "date": "2017-08-16",
         "price": 392.5,
-        "pe": 28.45,
-        "pe_10": 123.31,
-        "pe_25": 149.31,
-        "pe_50": 275.44,
-        "pe_75": 366.08,
-        "pe_90": 428.12
+        "pe": 29.02,
+        "pe_10": 118.62,
+        "pe_25": 146.98,
+        "pe_50": 269.62,
+        "pe_75": 356.05,
+        "pe_90": 424.24
       },
       {
         "date": "2017-09-15",
         "price": 361.0,
-        "pe": 25.78,
-        "pe_10": 125.16,
-        "pe_25": 151.55,
-        "pe_50": 279.57,
-        "pe_75": 371.57,
-        "pe_90": 434.54
+        "pe": 26.16,
+        "pe_10": 121.02,
+        "pe_25": 149.97,
+        "pe_50": 275.1,
+        "pe_75": 363.28,
+        "pe_90": 432.86
       },
       {
         "date": "2017-10-16",
         "price": 386.5,
-        "pe": 27.19,
-        "pe_10": 127.05,
-        "pe_25": 153.84,
-        "pe_50": 283.8,
-        "pe_75": 377.19,
-        "pe_90": 441.11
+        "pe": 27.46,
+        "pe_10": 123.44,
+        "pe_25": 152.96,
+        "pe_50": 280.59,
+        "pe_75": 370.52,
+        "pe_90": 441.49
       },
       {
         "date": "2017-11-15",
         "price": 372.0,
-        "pe": 25.79,
-        "pe_10": 128.92,
-        "pe_25": 156.11,
-        "pe_50": 287.98,
-        "pe_75": 382.75,
-        "pe_90": 447.61
+        "pe": 25.92,
+        "pe_10": 125.87,
+        "pe_25": 155.97,
+        "pe_50": 286.1,
+        "pe_75": 377.81,
+        "pe_90": 450.17
       },
       {
         "date": "2017-12-16",
         "price": 372.5,
         "pe": 25.46,
-        "pe_10": 130.77,
-        "pe_25": 158.34,
-        "pe_50": 292.1,
-        "pe_75": 388.23,
-        "pe_90": 454.02
+        "pe_10": 128.31,
+        "pe_25": 159.0,
+        "pe_50": 291.66,
+        "pe_75": 385.16,
+        "pe_90": 458.92
       },
       {
         "date": "2018-01-16",
         "price": 373.5,
-        "pe": 25.12,
-        "pe_10": 132.9,
-        "pe_25": 160.92,
-        "pe_50": 296.85,
-        "pe_75": 394.54,
-        "pe_90": 461.4
+        "pe": 24.86,
+        "pe_10": 131.76,
+        "pe_25": 163.27,
+        "pe_50": 299.51,
+        "pe_75": 395.51,
+        "pe_90": 471.26
       },
       {
         "date": "2018-02-14",
         "price": 377.5,
-        "pe": 24.99,
-        "pe_10": 135.02,
-        "pe_25": 163.49,
-        "pe_50": 301.59,
-        "pe_75": 400.84,
-        "pe_90": 468.77
+        "pe": 24.49,
+        "pe_10": 135.18,
+        "pe_25": 167.52,
+        "pe_50": 307.29,
+        "pe_75": 405.79,
+        "pe_90": 483.51
       },
       {
         "date": "2018-03-16",
         "price": 363.5,
-        "pe": 23.68,
-        "pe_10": 137.2,
-        "pe_25": 166.13,
-        "pe_50": 306.47,
-        "pe_75": 407.33,
-        "pe_90": 476.36
+        "pe": 22.99,
+        "pe_10": 138.66,
+        "pe_25": 171.83,
+        "pe_50": 315.2,
+        "pe_75": 416.23,
+        "pe_90": 495.95
       },
       {
         "date": "2018-04-15",
         "price": 329.0,
-        "pe": 21.11,
-        "pe_10": 139.3,
-        "pe_25": 168.67,
-        "pe_50": 311.16,
-        "pe_75": 413.55,
-        "pe_90": 483.63
+        "pe": 20.49,
+        "pe_10": 140.82,
+        "pe_25": 174.5,
+        "pe_50": 320.09,
+        "pe_75": 422.69,
+        "pe_90": 503.65
       },
       {
         "date": "2018-05-16",
         "price": 318.0,
-        "pe": 20.09,
-        "pe_10": 141.48,
-        "pe_25": 171.31,
-        "pe_50": 316.02,
-        "pe_75": 420.02,
-        "pe_90": 491.2
+        "pe": 19.51,
+        "pe_10": 142.95,
+        "pe_25": 177.13,
+        "pe_50": 324.93,
+        "pe_75": 429.08,
+        "pe_90": 511.26
       },
       {
         "date": "2018-06-15",
         "price": 328.0,
-        "pe": 20.42,
-        "pe_10": 143.57,
-        "pe_25": 173.84,
-        "pe_50": 320.69,
-        "pe_75": 426.22,
-        "pe_90": 498.46
+        "pe": 19.83,
+        "pe_10": 145.06,
+        "pe_25": 179.75,
+        "pe_50": 329.74,
+        "pe_75": 435.43,
+        "pe_90": 518.83
       },
       {
         "date": "2018-07-16",
         "price": 327.5,
-        "pe": 20.09,
-        "pe_10": 145.7,
-        "pe_25": 176.42,
-        "pe_50": 325.46,
-        "pe_75": 432.56,
-        "pe_90": 505.87
+        "pe": 19.6,
+        "pe_10": 146.54,
+        "pe_25": 181.59,
+        "pe_50": 333.1,
+        "pe_75": 439.87,
+        "pe_90": 524.12
       },
       {
         "date": "2018-08-16",
         "price": 315.0,
-        "pe": 19.04,
-        "pe_10": 147.87,
-        "pe_25": 179.05,
-        "pe_50": 330.3,
-        "pe_75": 439.0,
-        "pe_90": 513.4
+        "pe": 18.65,
+        "pe_10": 148.13,
+        "pe_25": 183.55,
+        "pe_50": 336.7,
+        "pe_75": 444.63,
+        "pe_90": 529.79
       },
       {
         "date": "2018-09-15",
         "price": 278.0,
-        "pe": 16.56,
-        "pe_10": 150.05,
-        "pe_25": 181.68,
-        "pe_50": 335.16,
-        "pe_75": 445.45,
-        "pe_90": 520.95
+        "pe": 16.3,
+        "pe_10": 149.57,
+        "pe_25": 185.35,
+        "pe_50": 340.0,
+        "pe_75": 448.98,
+        "pe_90": 534.97
       },
       {
         "date": "2018-10-16",
         "price": 269.5,
-        "pe": 15.83,
-        "pe_10": 152.17,
-        "pe_25": 184.25,
-        "pe_50": 339.9,
-        "pe_75": 451.75,
-        "pe_90": 528.31
+        "pe": 15.66,
+        "pe_10": 150.93,
+        "pe_25": 187.02,
+        "pe_50": 343.07,
+        "pe_75": 453.04,
+        "pe_90": 539.81
       },
       {
         "date": "2018-11-15",
         "price": 299.0,
-        "pe": 17.32,
-        "pe_10": 154.3,
-        "pe_25": 186.83,
-        "pe_50": 344.66,
-        "pe_75": 458.08,
-        "pe_90": 535.71
+        "pe": 17.23,
+        "pe_10": 152.19,
+        "pe_25": 188.59,
+        "pe_50": 345.94,
+        "pe_75": 456.83,
+        "pe_90": 544.33
       },
       {
         "date": "2018-12-16",
         "price": 316.5,
         "pe": 18.09,
-        "pe_10": 156.38,
-        "pe_25": 189.35,
-        "pe_50": 349.3,
-        "pe_75": 464.25,
-        "pe_90": 542.93
+        "pe_10": 153.44,
+        "pe_25": 190.14,
+        "pe_50": 348.78,
+        "pe_75": 460.58,
+        "pe_90": 548.79
       },
       {
         "date": "2019-01-16",
         "price": 311.0,
-        "pe": 17.62,
-        "pe_10": 157.76,
-        "pe_25": 191.02,
-        "pe_50": 352.39,
-        "pe_75": 468.35,
-        "pe_90": 547.73
+        "pe": 17.73,
+        "pe_10": 153.83,
+        "pe_25": 190.63,
+        "pe_50": 349.68,
+        "pe_75": 461.76,
+        "pe_90": 550.21
       },
       {
         "date": "2019-02-14",
         "price": 315.0,
-        "pe": 17.69,
-        "pe_10": 159.16,
-        "pe_25": 192.71,
-        "pe_50": 355.51,
-        "pe_75": 472.5,
-        "pe_90": 552.58
+        "pe": 17.92,
+        "pe_10": 154.16,
+        "pe_25": 191.03,
+        "pe_50": 350.42,
+        "pe_75": 462.74,
+        "pe_90": 551.37
       },
       {
         "date": "2019-03-16",
         "price": 364.5,
-        "pe": 20.3,
-        "pe_10": 160.49,
-        "pe_25": 194.33,
-        "pe_50": 358.48,
-        "pe_75": 476.45,
-        "pe_90": 557.2
+        "pe": 20.7,
+        "pe_10": 154.43,
+        "pe_25": 191.36,
+        "pe_50": 351.03,
+        "pe_75": 463.55,
+        "pe_90": 552.33
       },
       {
         "date": "2019-04-15",
         "price": 374.5,
-        "pe": 20.69,
-        "pe_10": 161.78,
-        "pe_25": 195.89,
-        "pe_50": 361.38,
-        "pe_75": 480.3,
-        "pe_90": 561.7
+        "pe": 21.03,
+        "pe_10": 156.18,
+        "pe_25": 193.53,
+        "pe_50": 355.0,
+        "pe_75": 468.79,
+        "pe_90": 558.58
       },
       {
         "date": "2019-05-16",
         "price": 374.0,
-        "pe": 20.49,
-        "pe_10": 163.14,
-        "pe_25": 197.54,
-        "pe_50": 364.42,
-        "pe_75": 484.34,
-        "pe_90": 566.42
+        "pe": 20.77,
+        "pe_10": 157.92,
+        "pe_25": 195.69,
+        "pe_50": 358.96,
+        "pe_75": 474.03,
+        "pe_90": 564.82
       },
       {
         "date": "2019-06-15",
         "price": 420.0,
-        "pe": 22.82,
-        "pe_10": 164.5,
-        "pe_25": 199.19,
-        "pe_50": 367.45,
-        "pe_75": 488.37,
-        "pe_90": 571.14
+        "pe": 23.08,
+        "pe_10": 159.59,
+        "pe_25": 197.76,
+        "pe_50": 362.77,
+        "pe_75": 479.05,
+        "pe_90": 570.8
       },
       {
         "date": "2019-07-16",
         "price": 430.0,
-        "pe": 23.17,
-        "pe_10": 165.88,
-        "pe_25": 200.85,
-        "pe_50": 370.52,
-        "pe_75": 492.45,
-        "pe_90": 575.91
+        "pe": 23.54,
+        "pe_10": 160.2,
+        "pe_25": 198.51,
+        "pe_50": 364.15,
+        "pe_75": 480.87,
+        "pe_90": 572.97
       },
       {
         "date": "2019-08-16",
         "price": 416.0,
-        "pe": 22.24,
-        "pe_10": 167.19,
-        "pe_25": 202.44,
-        "pe_50": 373.45,
-        "pe_75": 496.34,
-        "pe_90": 580.45
+        "pe": 22.69,
+        "pe_10": 160.79,
+        "pe_25": 199.25,
+        "pe_50": 365.49,
+        "pe_75": 482.64,
+        "pe_90": 575.08
       },
       {
         "date": "2019-09-15",
         "price": 440.5,
-        "pe": 23.36,
-        "pe_10": 168.54,
-        "pe_25": 204.08,
-        "pe_50": 376.48,
-        "pe_75": 500.37,
-        "pe_90": 585.17
+        "pe": 23.94,
+        "pe_10": 161.37,
+        "pe_25": 199.96,
+        "pe_50": 366.81,
+        "pe_75": 484.38,
+        "pe_90": 577.16
       },
       {
         "date": "2019-10-16",
         "price": 418.5,
-        "pe": 22.02,
-        "pe_10": 169.87,
-        "pe_25": 205.69,
-        "pe_50": 379.44,
-        "pe_75": 504.31,
-        "pe_90": 589.78
+        "pe": 22.38,
+        "pe_10": 164.0,
+        "pe_25": 203.22,
+        "pe_50": 372.78,
+        "pe_75": 492.27,
+        "pe_90": 586.55
       },
       {
         "date": "2019-11-15",
         "price": 432.0,
-        "pe": 22.55,
-        "pe_10": 171.23,
-        "pe_25": 207.33,
-        "pe_50": 382.48,
-        "pe_75": 508.34,
-        "pe_90": 594.49
+        "pe": 22.73,
+        "pe_10": 166.68,
+        "pe_25": 206.54,
+        "pe_50": 378.88,
+        "pe_75": 500.33,
+        "pe_90": 596.15
       },
       {
         "date": "2019-12-16",
         "price": 421.5,
         "pe": 21.83,
-        "pe_10": 172.58,
-        "pe_25": 208.96,
-        "pe_50": 385.49,
-        "pe_75": 512.35,
-        "pe_90": 599.17
+        "pe_10": 169.33,
+        "pe_25": 209.83,
+        "pe_50": 384.91,
+        "pe_75": 508.29,
+        "pe_90": 605.64
       },
       {
         "date": "2020-01-16",
         "price": 435.0,
-        "pe": 22.31,
-        "pe_10": 174.27,
-        "pe_25": 211.02,
-        "pe_50": 389.28,
-        "pe_75": 517.38,
-        "pe_90": 605.06
+        "pe": 22.37,
+        "pe_10": 170.54,
+        "pe_25": 211.33,
+        "pe_50": 387.65,
+        "pe_75": 511.91,
+        "pe_90": 609.95
       },
       {
         "date": "2020-02-15",
         "price": 477.0,
-        "pe": 24.22,
-        "pe_10": 176.03,
-        "pe_25": 213.14,
-        "pe_50": 393.2,
-        "pe_75": 522.59,
-        "pe_90": 611.16
+        "pe": 24.35,
+        "pe_10": 171.8,
+        "pe_25": 212.89,
+        "pe_50": 390.51,
+        "pe_75": 515.69,
+        "pe_90": 614.46
       },
       {
         "date": "2020-03-16",
         "price": 429.0,
-        "pe": 21.58,
-        "pe_10": 177.68,
-        "pe_25": 215.15,
-        "pe_50": 396.89,
-        "pe_75": 527.5,
-        "pe_90": 616.9
+        "pe": 21.74,
+        "pe_10": 173.06,
+        "pe_25": 214.45,
+        "pe_50": 393.38,
+        "pe_75": 519.48,
+        "pe_90": 618.97
       },
       {
         "date": "2020-04-15",
         "price": 500.0,
-        "pe": 24.91,
-        "pe_10": 179.41,
-        "pe_25": 217.23,
-        "pe_50": 400.74,
-        "pe_75": 532.62,
-        "pe_90": 622.88
+        "pe": 25.45,
+        "pe_10": 172.3,
+        "pe_25": 213.51,
+        "pe_50": 391.65,
+        "pe_75": 517.19,
+        "pe_90": 616.25
       },
       {
         "date": "2020-05-16",
         "price": 578.0,
-        "pe": 28.52,
-        "pe_10": 181.14,
-        "pe_25": 219.33,
-        "pe_50": 404.62,
-        "pe_75": 537.77,
-        "pe_90": 628.91
+        "pe": 29.56,
+        "pe_10": 171.48,
+        "pe_25": 212.5,
+        "pe_50": 389.8,
+        "pe_75": 514.74,
+        "pe_90": 613.33
       },
       {
         "date": "2020-06-15",
         "price": 582.0,
-        "pe": 28.45,
-        "pe_10": 182.84,
-        "pe_25": 221.4,
-        "pe_50": 408.42,
-        "pe_75": 542.82,
-        "pe_90": 634.82
+        "pe": 29.89,
+        "pe_10": 170.76,
+        "pe_25": 211.61,
+        "pe_50": 388.16,
+        "pe_75": 512.58,
+        "pe_90": 610.76
       },
       {
         "date": "2020-07-16",
         "price": 614.0,
-        "pe": 29.74,
-        "pe_10": 184.53,
-        "pe_25": 223.44,
-        "pe_50": 412.19,
-        "pe_75": 547.83,
-        "pe_90": 640.67
+        "pe": 30.55,
+        "pe_10": 176.26,
+        "pe_25": 218.42,
+        "pe_50": 400.66,
+        "pe_75": 529.09,
+        "pe_90": 630.42
       },
       {
         "date": "2020-08-16",
         "price": 575.0,
-        "pe": 27.6,
-        "pe_10": 186.21,
-        "pe_25": 225.47,
-        "pe_50": 415.94,
-        "pe_75": 552.81,
-        "pe_90": 646.5
+        "pe": 27.74,
+        "pe_10": 181.79,
+        "pe_25": 225.26,
+        "pe_50": 413.22,
+        "pe_75": 545.67,
+        "pe_90": 650.18
       },
       {
         "date": "2020-09-15",
         "price": 553.0,
-        "pe": 26.3,
-        "pe_10": 187.94,
-        "pe_25": 227.56,
-        "pe_50": 419.8,
-        "pe_75": 557.94,
-        "pe_90": 652.5
+        "pe": 25.89,
+        "pe_10": 187.32,
+        "pe_25": 232.13,
+        "pe_50": 425.8,
+        "pe_75": 562.29,
+        "pe_90": 669.99
       },
       {
         "date": "2020-10-16",
         "price": 616.0,
-        "pe": 29.03,
-        "pe_10": 189.66,
-        "pe_25": 229.65,
-        "pe_50": 423.65,
-        "pe_75": 563.06,
-        "pe_90": 658.48
+        "pe": 28.73,
+        "pe_10": 188.04,
+        "pe_25": 233.01,
+        "pe_50": 427.43,
+        "pe_75": 564.43,
+        "pe_90": 672.54
       },
       {
         "date": "2020-11-15",
         "price": 598.0,
-        "pe": 27.93,
-        "pe_10": 191.37,
-        "pe_25": 231.72,
-        "pe_50": 427.46,
-        "pe_75": 568.13,
-        "pe_90": 664.42
+        "pe": 27.79,
+        "pe_10": 188.72,
+        "pe_25": 233.85,
+        "pe_50": 428.97,
+        "pe_75": 566.48,
+        "pe_90": 674.97
       },
       {
         "date": "2020-12-16",
         "price": 576.0,
         "pe": 26.67,
-        "pe_10": 193.04,
-        "pe_25": 233.74,
-        "pe_50": 431.19,
-        "pe_75": 573.08,
-        "pe_90": 670.21
+        "pe_10": 189.41,
+        "pe_25": 234.71,
+        "pe_50": 430.54,
+        "pe_75": 568.55,
+        "pe_90": 677.44
       },
       {
         "date": "2021-01-16",
         "price": 580.0,
-        "pe": 27.2,
-        "pe_10": 190.59,
-        "pe_25": 230.77,
-        "pe_50": 425.72,
-        "pe_75": 565.82,
-        "pe_90": 661.71
+        "pe": 26.4,
+        "pe_10": 192.67,
+        "pe_25": 238.76,
+        "pe_50": 437.97,
+        "pe_75": 578.35,
+        "pe_90": 689.12
       },
       {
         "date": "2021-02-14",
         "price": 626.0,
-        "pe": 29.75,
-        "pe_10": 188.07,
-        "pe_25": 227.73,
-        "pe_50": 420.1,
-        "pe_75": 558.35,
-        "pe_90": 652.98
+        "pe": 28.01,
+        "pe_10": 196.0,
+        "pe_25": 242.88,
+        "pe_50": 445.53,
+        "pe_75": 588.34,
+        "pe_90": 701.03
       },
       {
         "date": "2021-03-16",
         "price": 596.0,
-        "pe": 28.71,
-        "pe_10": 185.55,
-        "pe_25": 224.67,
-        "pe_50": 414.46,
-        "pe_75": 550.85,
-        "pe_90": 644.2
+        "pe": 26.23,
+        "pe_10": 199.27,
+        "pe_25": 246.93,
+        "pe_50": 452.96,
+        "pe_75": 598.16,
+        "pe_90": 712.72
       },
       {
         "date": "2021-04-15",
         "price": 612.0,
-        "pe": 29.88,
-        "pe_10": 183.07,
-        "pe_25": 221.67,
-        "pe_50": 408.92,
-        "pe_75": 543.49,
-        "pe_90": 635.6
+        "pe": 27.4,
+        "pe_10": 195.88,
+        "pe_25": 242.73,
+        "pe_50": 445.26,
+        "pe_75": 587.99,
+        "pe_90": 700.61
       },
       {
         "date": "2021-05-16",
         "price": 537.0,
-        "pe": 26.58,
-        "pe_10": 180.58,
-        "pe_25": 218.65,
-        "pe_50": 403.36,
-        "pe_75": 536.09,
-        "pe_90": 626.94
+        "pe": 24.47,
+        "pe_10": 192.46,
+        "pe_25": 238.49,
+        "pe_50": 437.48,
+        "pe_75": 577.71,
+        "pe_90": 688.36
       },
       {
         "date": "2021-06-15",
         "price": 543.0,
-        "pe": 27.25,
-        "pe_10": 178.1,
-        "pe_25": 215.66,
-        "pe_50": 397.83,
-        "pe_75": 528.75,
-        "pe_90": 618.36
+        "pe": 25.19,
+        "pe_10": 189.05,
+        "pe_25": 234.26,
+        "pe_50": 429.72,
+        "pe_75": 567.47,
+        "pe_90": 676.15
       },
       {
         "date": "2021-07-16",
         "price": 597.0,
-        "pe": 30.39,
-        "pe_10": 175.58,
-        "pe_25": 212.6,
-        "pe_50": 392.2,
-        "pe_75": 521.27,
-        "pe_90": 609.61
+        "pe": 29.29,
+        "pe_10": 178.75,
+        "pe_25": 221.51,
+        "pe_50": 406.32,
+        "pe_75": 536.57,
+        "pe_90": 639.33
       },
       {
         "date": "2021-08-16",
         "price": 505.0,
-        "pe": 26.08,
-        "pe_10": 173.07,
-        "pe_25": 209.56,
-        "pe_50": 386.59,
-        "pe_75": 513.81,
-        "pe_90": 600.89
+        "pe": 26.3,
+        "pe_10": 168.4,
+        "pe_25": 208.67,
+        "pe_50": 382.78,
+        "pe_75": 505.48,
+        "pe_90": 602.29
       },
       {
         "date": "2021-09-15",
         "price": 472.5,
-        "pe": 24.75,
-        "pe_10": 170.63,
-        "pe_25": 206.61,
-        "pe_50": 381.15,
-        "pe_75": 506.58,
-        "pe_90": 592.43
+        "pe": 26.22,
+        "pe_10": 158.04,
+        "pe_25": 195.84,
+        "pe_50": 359.24,
+        "pe_75": 474.39,
+        "pe_90": 565.25
       },
       {
         "date": "2021-10-16",
         "price": 497.0,
-        "pe": 26.42,
-        "pe_10": 168.14,
-        "pe_25": 203.59,
-        "pe_50": 375.57,
-        "pe_75": 499.16,
-        "pe_90": 583.76
+        "pe": 27.46,
+        "pe_10": 158.73,
+        "pe_25": 196.69,
+        "pe_50": 360.8,
+        "pe_75": 476.46,
+        "pe_90": 567.71
       },
       {
         "date": "2021-11-15",
         "price": 488.0,
-        "pe": 26.34,
-        "pe_10": 165.59,
-        "pe_25": 200.51,
-        "pe_50": 369.89,
-        "pe_75": 491.61,
-        "pe_90": 574.93
+        "pe": 26.85,
+        "pe_10": 159.4,
+        "pe_25": 197.52,
+        "pe_50": 362.32,
+        "pe_75": 478.46,
+        "pe_90": 570.1
       },
       {
         "date": "2021-12-16",
         "price": 423.5,
         "pe": 23.21,
-        "pe_10": 163.09,
-        "pe_25": 197.47,
-        "pe_50": 364.29,
-        "pe_75": 484.17,
-        "pe_90": 566.22
+        "pe_10": 160.02,
+        "pe_25": 198.29,
+        "pe_50": 363.74,
+        "pe_75": 480.34,
+        "pe_90": 572.34
       },
       {
         "date": "2022-01-16",
         "price": 421.0,
-        "pe": 22.86,
-        "pe_10": 164.61,
-        "pe_25": 199.31,
-        "pe_50": 367.68,
-        "pe_75": 488.68,
-        "pe_90": 571.5
+        "pe": 23.5,
+        "pe_10": 157.11,
+        "pe_25": 194.69,
+        "pe_50": 357.13,
+        "pe_75": 471.61,
+        "pe_90": 561.94
       },
       {
         "date": "2022-02-14",
         "price": 405.0,
-        "pe": 21.79,
-        "pe_10": 166.13,
-        "pe_25": 201.15,
-        "pe_50": 371.08,
-        "pe_75": 493.19,
-        "pe_90": 576.78
+        "pe": 23.03,
+        "pe_10": 154.23,
+        "pe_25": 191.11,
+        "pe_50": 350.57,
+        "pe_75": 462.95,
+        "pe_90": 551.61
       },
       {
         "date": "2022-03-16",
         "price": 389.0,
-        "pe": 20.74,
-        "pe_10": 167.64,
-        "pe_25": 202.99,
-        "pe_50": 374.46,
-        "pe_75": 497.69,
-        "pe_90": 582.04
+        "pe": 22.55,
+        "pe_10": 151.29,
+        "pe_25": 187.47,
+        "pe_50": 343.89,
+        "pe_75": 454.12,
+        "pe_90": 541.1
       },
       {
         "date": "2022-04-15",
         "price": 316.0,
-        "pe": 16.7,
-        "pe_10": 169.13,
-        "pe_25": 204.79,
-        "pe_50": 377.78,
-        "pe_75": 502.1,
-        "pe_90": 587.19
+        "pe": 18.33,
+        "pe_10": 151.19,
+        "pe_25": 187.35,
+        "pe_50": 343.67,
+        "pe_75": 453.83,
+        "pe_90": 540.75
       },
       {
         "date": "2022-05-16",
         "price": 287.0,
-        "pe": 15.04,
-        "pe_10": 170.56,
-        "pe_25": 206.52,
-        "pe_50": 380.98,
-        "pe_75": 506.35,
-        "pe_90": 592.17
+        "pe": 16.65,
+        "pe_10": 151.17,
+        "pe_25": 187.33,
+        "pe_50": 343.62,
+        "pe_75": 453.77,
+        "pe_90": 540.68
       },
       {
         "date": "2022-06-15",
         "price": 316.0,
-        "pe": 16.41,
-        "pe_10": 172.12,
-        "pe_25": 208.4,
-        "pe_50": 384.46,
-        "pe_75": 510.97,
-        "pe_90": 597.57
+        "pe": 18.34,
+        "pe_10": 151.11,
+        "pe_25": 187.25,
+        "pe_50": 343.48,
+        "pe_75": 453.58,
+        "pe_90": 540.46
       },
       {
         "date": "2022-07-16",
         "price": 374.5,
-        "pe": 19.28,
-        "pe_10": 173.61,
-        "pe_25": 210.22,
-        "pe_50": 387.81,
-        "pe_75": 515.42,
-        "pe_90": 602.77
+        "pe": 20.92,
+        "pe_10": 157.0,
+        "pe_25": 194.54,
+        "pe_50": 356.87,
+        "pe_75": 471.26,
+        "pe_90": 561.52
       },
       {
         "date": "2022-08-16",
         "price": 427.0,
-        "pe": 21.8,
-        "pe_10": 175.07,
-        "pe_25": 211.98,
-        "pe_50": 391.06,
-        "pe_75": 519.75,
-        "pe_90": 607.83
+        "pe": 22.99,
+        "pe_10": 162.89,
+        "pe_25": 201.85,
+        "pe_50": 370.26,
+        "pe_75": 488.94,
+        "pe_90": 582.59
       },
       {
         "date": "2022-09-15",
         "price": 393.5,
-        "pe": 19.92,
-        "pe_10": 176.56,
-        "pe_25": 213.79,
-        "pe_50": 394.39,
-        "pe_75": 524.17,
-        "pe_90": 613.01
+        "pe": 20.44,
+        "pe_10": 168.84,
+        "pe_25": 209.22,
+        "pe_50": 383.78,
+        "pe_75": 506.79,
+        "pe_90": 603.86
       },
       {
         "date": "2022-10-16",
         "price": 410.0,
-        "pe": 20.58,
-        "pe_10": 178.07,
-        "pe_25": 215.61,
-        "pe_50": 397.75,
-        "pe_75": 528.64,
-        "pe_90": 618.23
+        "pe": 20.93,
+        "pe_10": 171.8,
+        "pe_25": 212.88,
+        "pe_50": 390.51,
+        "pe_75": 515.68,
+        "pe_90": 614.45
       },
       {
         "date": "2022-11-15",
         "price": 450.0,
-        "pe": 22.4,
-        "pe_10": 179.56,
-        "pe_25": 217.42,
-        "pe_50": 401.08,
-        "pe_75": 533.07,
-        "pe_90": 623.41
+        "pe": 22.59,
+        "pe_10": 174.7,
+        "pe_25": 216.48,
+        "pe_50": 397.11,
+        "pe_75": 524.4,
+        "pe_90": 624.84
       },
       {
         "date": "2022-12-16",
         "price": 497.5,
         "pe": 24.56,
-        "pe_10": 181.05,
-        "pe_25": 219.23,
-        "pe_50": 404.42,
-        "pe_75": 537.51,
-        "pe_90": 628.6
+        "pe_10": 177.65,
+        "pe_25": 220.14,
+        "pe_50": 403.81,
+        "pe_75": 533.25,
+        "pe_90": 635.39
       },
       {
         "date": "2023-01-16",
         "price": 520.0,
-        "pe": 25.24,
-        "pe_10": 184.14,
-        "pe_25": 222.97,
-        "pe_50": 411.32,
-        "pe_75": 546.68,
-        "pe_90": 639.33
+        "pe": 25.07,
+        "pe_10": 181.91,
+        "pe_25": 225.41,
+        "pe_50": 413.49,
+        "pe_75": 546.03,
+        "pe_90": 650.61
       },
       {
         "date": "2023-02-14",
         "price": 593.0,
-        "pe": 28.3,
-        "pe_10": 187.29,
-        "pe_25": 226.78,
-        "pe_50": 418.35,
-        "pe_75": 556.02,
-        "pe_90": 650.25
+        "pe": 27.94,
+        "pe_10": 186.13,
+        "pe_25": 230.65,
+        "pe_50": 423.1,
+        "pe_75": 558.72,
+        "pe_90": 665.73
       },
       {
         "date": "2023-03-16",
         "price": 570.0,
-        "pe": 26.76,
-        "pe_10": 190.38,
-        "pe_25": 230.52,
-        "pe_50": 425.26,
-        "pe_75": 565.21,
-        "pe_90": 661.0
+        "pe": 26.26,
+        "pe_10": 190.36,
+        "pe_25": 235.89,
+        "pe_50": 432.71,
+        "pe_75": 571.41,
+        "pe_90": 680.85
       },
       {
         "date": "2023-04-15",
         "price": 574.0,
-        "pe": 26.52,
-        "pe_10": 193.45,
-        "pe_25": 234.24,
-        "pe_50": 432.12,
-        "pe_75": 574.32,
-        "pe_90": 671.66
+        "pe": 25.81,
+        "pe_10": 195.04,
+        "pe_25": 241.69,
+        "pe_50": 443.34,
+        "pe_75": 585.45,
+        "pe_90": 697.58
       },
       {
         "date": "2023-05-16",
         "price": 532.0,
-        "pe": 24.19,
-        "pe_10": 196.57,
-        "pe_25": 238.01,
-        "pe_50": 439.08,
-        "pe_75": 583.57,
-        "pe_90": 682.47
+        "pe": 23.37,
+        "pe_10": 199.64,
+        "pe_25": 247.39,
+        "pe_50": 453.8,
+        "pe_75": 599.27,
+        "pe_90": 714.05
       },
       {
         "date": "2023-06-15",
         "price": 592.0,
-        "pe": 26.51,
-        "pe_10": 199.6,
-        "pe_25": 241.68,
-        "pe_50": 445.84,
-        "pe_75": 592.56,
-        "pe_90": 692.98
+        "pe": 25.42,
+        "pe_10": 204.24,
+        "pe_25": 253.09,
+        "pe_50": 464.26,
+        "pe_75": 613.08,
+        "pe_90": 730.5
       },
       {
         "date": "2023-07-16",
         "price": 512.0,
-        "pe": 22.57,
-        "pe_10": 202.76,
-        "pe_25": 245.51,
-        "pe_50": 452.91,
-        "pe_75": 601.95,
-        "pe_90": 703.96
+        "pe": 21.71,
+        "pe_10": 206.83,
+        "pe_25": 256.29,
+        "pe_50": 470.14,
+        "pe_75": 620.84,
+        "pe_90": 739.75
       },
       {
         "date": "2023-08-16",
         "price": 486.0,
-        "pe": 21.11,
-        "pe_10": 205.77,
-        "pe_25": 249.16,
-        "pe_50": 459.64,
-        "pe_75": 610.9,
-        "pe_90": 714.43
+        "pe": 20.35,
+        "pe_10": 209.45,
+        "pe_25": 259.54,
+        "pe_50": 476.09,
+        "pe_75": 628.7,
+        "pe_90": 749.11
       },
       {
         "date": "2023-09-15",
         "price": 482.0,
-        "pe": 20.62,
-        "pe_10": 208.93,
-        "pe_25": 252.98,
-        "pe_50": 466.69,
-        "pe_75": 620.27,
-        "pe_90": 725.38
+        "pe": 19.93,
+        "pe_10": 212.1,
+        "pe_25": 262.83,
+        "pe_50": 482.12,
+        "pe_75": 636.66,
+        "pe_90": 758.6
       },
       {
         "date": "2023-10-16",
         "price": 497.5,
-        "pe": 20.98,
-        "pe_10": 211.95,
-        "pe_25": 256.63,
-        "pe_50": 473.43,
-        "pe_75": 629.23,
-        "pe_90": 735.86
+        "pe": 20.51,
+        "pe_10": 212.73,
+        "pe_25": 263.61,
+        "pe_50": 483.55,
+        "pe_75": 638.55,
+        "pe_90": 760.85
       },
       {
         "date": "2023-11-15",
         "price": 510.0,
-        "pe": 21.19,
-        "pe_10": 215.12,
-        "pe_25": 260.48,
-        "pe_50": 480.52,
-        "pe_75": 638.64,
-        "pe_90": 746.88
+        "pe": 20.96,
+        "pe_10": 213.39,
+        "pe_25": 264.43,
+        "pe_50": 485.06,
+        "pe_75": 640.54,
+        "pe_90": 763.22
       },
       {
         "date": "2023-12-16",
         "price": 552.0,
         "pe": 22.61,
-        "pe_10": 218.21,
-        "pe_25": 264.22,
-        "pe_50": 487.43,
-        "pe_75": 647.82,
-        "pe_90": 757.61
+        "pe_10": 214.11,
+        "pe_25": 265.32,
+        "pe_50": 486.69,
+        "pe_75": 642.7,
+        "pe_90": 765.79
       },
       {
         "date": "2024-01-16",
         "price": 517.0,
-        "pe": 21.01,
-        "pe_10": 219.94,
-        "pe_25": 266.31,
-        "pe_50": 491.29,
-        "pe_75": 652.96,
-        "pe_90": 763.61
+        "pe": 21.06,
+        "pe_10": 215.29,
+        "pe_25": 266.79,
+        "pe_50": 489.38,
+        "pe_75": 646.25,
+        "pe_90": 770.03
       },
       {
         "date": "2024-02-15",
         "price": 491.0,
-        "pe": 19.8,
-        "pe_10": 221.64,
-        "pe_25": 268.38,
-        "pe_50": 495.09,
-        "pe_75": 658.01,
-        "pe_90": 769.53
+        "pe": 19.89,
+        "pe_10": 216.49,
+        "pe_25": 268.27,
+        "pe_50": 492.11,
+        "pe_75": 649.85,
+        "pe_90": 774.32
       },
       {
         "date": "2024-03-16",
         "price": 495.0,
-        "pe": 19.81,
-        "pe_10": 223.34,
-        "pe_25": 270.43,
-        "pe_50": 498.87,
-        "pe_75": 663.04,
-        "pe_90": 775.41
+        "pe": 19.94,
+        "pe_10": 217.71,
+        "pe_25": 269.78,
+        "pe_50": 494.88,
+        "pe_75": 653.5,
+        "pe_90": 778.67
       },
       {
         "date": "2024-04-15",
         "price": 500.0,
-        "pe": 19.85,
-        "pe_10": 225.14,
-        "pe_25": 272.61,
-        "pe_50": 502.9,
-        "pe_75": 668.39,
-        "pe_90": 781.66
+        "pe": 19.93,
+        "pe_10": 220.02,
+        "pe_25": 272.64,
+        "pe_50": 500.13,
+        "pe_75": 660.44,
+        "pe_90": 786.93
       },
       {
         "date": "2024-05-16",
         "price": 507.0,
-        "pe": 19.98,
-        "pe_10": 226.81,
-        "pe_25": 274.62,
-        "pe_50": 506.62,
-        "pe_75": 673.34,
-        "pe_90": 787.45
+        "pe": 20.01,
+        "pe_10": 222.21,
+        "pe_25": 275.35,
+        "pe_50": 505.1,
+        "pe_75": 667.01,
+        "pe_90": 794.76
       },
       {
         "date": "2024-06-15",
         "price": 492.0,
-        "pe": 19.24,
-        "pe_10": 228.56,
-        "pe_25": 276.75,
-        "pe_50": 510.54,
-        "pe_75": 678.55,
-        "pe_90": 793.54
+        "pe": 19.23,
+        "pe_10": 224.38,
+        "pe_25": 278.05,
+        "pe_50": 510.04,
+        "pe_75": 673.53,
+        "pe_90": 802.53
       },
       {
         "date": "2024-07-16",
         "price": 514.0,
-        "pe": 19.95,
-        "pe_10": 230.28,
-        "pe_25": 278.84,
-        "pe_50": 514.39,
-        "pe_75": 683.66,
-        "pe_90": 799.52
+        "pe": 19.96,
+        "pe_10": 225.84,
+        "pe_25": 279.85,
+        "pe_50": 513.36,
+        "pe_75": 677.91,
+        "pe_90": 807.75
       },
       {
         "date": "2024-08-16",
         "price": 502.0,
-        "pe": 19.33,
-        "pe_10": 232.12,
-        "pe_25": 281.06,
-        "pe_50": 518.49,
-        "pe_75": 689.11,
-        "pe_90": 805.9
+        "pe": 19.37,
+        "pe_10": 227.29,
+        "pe_25": 281.65,
+        "pe_50": 516.64,
+        "pe_75": 682.25,
+        "pe_90": 812.92
       },
       {
         "date": "2024-09-15",
         "price": 527.0,
-        "pe": 20.15,
-        "pe_10": 233.76,
-        "pe_25": 283.05,
-        "pe_50": 522.16,
-        "pe_75": 693.99,
-        "pe_90": 811.61
+        "pe": 20.21,
+        "pe_10": 228.69,
+        "pe_25": 283.38,
+        "pe_50": 519.83,
+        "pe_75": 686.46,
+        "pe_90": 817.93
       },
       {
         "date": "2024-10-16",
         "price": 501.0,
-        "pe": 19.01,
-        "pe_10": 235.56,
-        "pe_25": 285.22,
-        "pe_50": 526.17,
-        "pe_75": 699.32,
-        "pe_90": 817.83
+        "pe": 19.05,
+        "pe_10": 230.64,
+        "pe_25": 285.81,
+        "pe_50": 524.27,
+        "pe_75": 692.33,
+        "pe_90": 824.93
       },
       {
         "date": "2024-11-15",
         "price": 479.0,
-        "pe": 18.04,
-        "pe_10": 237.32,
-        "pe_25": 287.36,
-        "pe_50": 530.11,
-        "pe_75": 704.56,
-        "pe_90": 823.96
+        "pe": 18.06,
+        "pe_10": 232.6,
+        "pe_25": 288.24,
+        "pe_50": 528.73,
+        "pe_75": 698.21,
+        "pe_90": 831.94
       },
       {
         "date": "2024-12-16",
         "price": 496.5,
         "pe": 18.57,
-        "pe_10": 238.97,
-        "pe_25": 289.36,
-        "pe_50": 533.8,
-        "pe_75": 709.46,
-        "pe_90": 829.69
+        "pe_10": 234.48,
+        "pe_25": 290.56,
+        "pe_50": 533.0,
+        "pe_75": 703.84,
+        "pe_90": 838.65
       },
       {
         "date": "2025-01-16",
         "price": 484.0,
-        "pe": 17.94,
-        "pe_10": 241.14,
-        "pe_25": 291.98,
-        "pe_50": 538.63,
-        "pe_75": 715.88,
-        "pe_90": 837.21
+        "pe": 17.92,
+        "pe_10": 236.87,
+        "pe_25": 293.52,
+        "pe_50": 538.42,
+        "pe_75": 711.01,
+        "pe_90": 847.19
       },
       {
         "date": "2025-02-14",
         "price": 519.0,
-        "pe": 19.08,
-        "pe_10": 243.12,
-        "pe_25": 294.39,
-        "pe_50": 543.07,
-        "pe_75": 721.79,
-        "pe_90": 844.11
+        "pe": 19.03,
+        "pe_10": 239.18,
+        "pe_25": 296.39,
+        "pe_50": 543.68,
+        "pe_75": 717.95,
+        "pe_90": 855.46
       },
       {
         "date": "2025-03-16",
         "price": 478.0,
-        "pe": 17.42,
-        "pe_10": 245.26,
-        "pe_25": 296.97,
-        "pe_50": 547.83,
-        "pe_75": 728.11,
-        "pe_90": 851.51
+        "pe": 17.36,
+        "pe_10": 241.48,
+        "pe_25": 299.23,
+        "pe_50": 548.9,
+        "pe_75": 724.85,
+        "pe_90": 863.68
       },
       {
         "date": "2025-04-15",
         "price": 479.0,
-        "pe": 17.31,
-        "pe_10": 247.33,
-        "pe_25": 299.48,
-        "pe_50": 552.47,
-        "pe_75": 734.27,
-        "pe_90": 858.71
+        "pe": 17.47,
+        "pe_10": 240.46,
+        "pe_25": 297.97,
+        "pe_50": 546.59,
+        "pe_75": 721.79,
+        "pe_90": 860.03
       },
       {
         "date": "2025-05-16",
         "price": 503.0,
-        "pe": 18.02,
-        "pe_10": 249.49,
-        "pe_25": 302.09,
-        "pe_50": 557.29,
-        "pe_75": 740.68,
-        "pe_90": 866.21
+        "pe": 18.41,
+        "pe_10": 239.61,
+        "pe_25": 296.92,
+        "pe_50": 544.67,
+        "pe_75": 719.25,
+        "pe_90": 857.01
       },
       {
         "date": "2025-06-15",
         "price": 502.0,
-        "pe": 17.84,
-        "pe_10": 251.51,
-        "pe_25": 304.53,
-        "pe_50": 561.8,
-        "pe_75": 746.67,
-        "pe_90": 873.21
+        "pe": 18.45,
+        "pe_10": 238.62,
+        "pe_25": 295.69,
+        "pe_50": 542.4,
+        "pe_75": 716.27,
+        "pe_90": 853.45
       },
       {
         "date": "2025-07-16",
         "price": 463.0,
-        "pe": 16.32,
-        "pe_10": 253.57,
-        "pe_25": 307.04,
-        "pe_50": 566.41,
-        "pe_75": 752.8,
-        "pe_90": 880.38
+        "pe": 16.93,
+        "pe_10": 239.84,
+        "pe_25": 297.2,
+        "pe_50": 545.18,
+        "pe_75": 719.93,
+        "pe_90": 857.82
       },
       {
         "date": "2025-08-16",
         "price": 467.0,
-        "pe": 16.32,
-        "pe_10": 255.76,
-        "pe_25": 309.69,
-        "pe_50": 571.3,
-        "pe_75": 759.3,
-        "pe_90": 887.99
+        "pe": 16.99,
+        "pe_10": 241.06,
+        "pe_25": 298.71,
+        "pe_50": 547.95,
+        "pe_75": 723.59,
+        "pe_90": 862.18
       },
       {
         "date": "2025-09-15",
         "price": 469.0,
-        "pe": 16.26,
-        "pe_10": 257.81,
-        "pe_25": 312.16,
-        "pe_50": 575.87,
-        "pe_75": 765.37,
-        "pe_90": 895.08
+        "pe": 16.98,
+        "pe_10": 242.23,
+        "pe_25": 300.17,
+        "pe_50": 550.62,
+        "pe_75": 727.12,
+        "pe_90": 866.38
       },
       {
         "date": "2025-10-16",
         "price": 454.5,
-        "pe": 15.63,
-        "pe_10": 259.91,
-        "pe_25": 314.7,
-        "pe_50": 580.56,
-        "pe_75": 771.6,
-        "pe_90": 902.37
+        "pe": 16.08,
+        "pe_10": 247.88,
+        "pe_25": 307.17,
+        "pe_50": 563.46,
+        "pe_75": 744.07,
+        "pe_90": 886.59
       },
       {
         "date": "2025-11-15",
         "price": 439.0,
-        "pe": 14.98,
-        "pe_10": 261.93,
-        "pe_25": 317.16,
-        "pe_50": 585.09,
-        "pe_75": 777.63,
-        "pe_90": 909.42
+        "pe": 15.19,
+        "pe_10": 253.46,
+        "pe_25": 314.08,
+        "pe_50": 576.13,
+        "pe_75": 760.81,
+        "pe_90": 906.52
       },
       {
         "date": "2025-12-16",
         "price": 439.5,
         "pe": 14.88,
-        "pe_10": 264.0,
-        "pe_25": 319.66,
-        "pe_50": 589.69,
-        "pe_75": 783.75,
-        "pe_90": 916.57
+        "pe_10": 259.03,
+        "pe_25": 320.99,
+        "pe_50": 588.81,
+        "pe_75": 777.54,
+        "pe_90": 926.46
       },
       {
         "date": "2026-01-16",
         "price": 396.0,
         "pe": 13.41,
-        "pe_10": 263.94,
-        "pe_25": 319.59,
-        "pe_50": 589.57,
-        "pe_75": 783.58,
-        "pe_90": 916.38
+        "pe_10": 258.98,
+        "pe_25": 320.92,
+        "pe_50": 588.68,
+        "pe_75": 777.38,
+        "pe_90": 926.27
       },
       {
         "date": "2026-02-14",
         "price": 506.0,
         "pe": 17.13,
-        "pe_10": 264.02,
-        "pe_25": 319.68,
-        "pe_50": 589.74,
-        "pe_75": 783.81,
-        "pe_90": 916.65
+        "pe_10": 259.06,
+        "pe_25": 321.01,
+        "pe_50": 588.86,
+        "pe_75": 777.61,
+        "pe_90": 926.54
       }
     ]
   },
@@ -20038,19 +20038,19 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (8.9倍)",
+            "title": "PE 10% (8.8倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (20.0倍)",
+            "title": "PE 50% (19.9倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (31.0倍)",
+            "title": "PE 90% (31.4倍)",
             "format": ".1f"
           }
         ]
@@ -20770,6 +20770,10 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
       {
         "date": "2026-01-16",
         "revenue_yoy": -1.85
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 22.9
       }
     ]
   },
@@ -20837,16 +20841,16 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 19.9 | +44.8% | 0.020 | 2013-04 (+520.5%) | 2022-02 (-75.3%) |
-| 6個月 | 19.9 | +34.1% | 0.046 | 2012-12 (+277.0%) | 2021-11 (-65.7%) |
-| 1年 | 20.0 | +27.2% | 0.085 | 2012-07 (+166.2%) | 2021-04 (-45.3%) |
-| 2年 | 20.0 | +26.1% | 0.188 | 2011-11 (+141.1%) | 2020-05 (-25.3%) |
-| 3年 | 19.9 | +26.0% | 0.280 | 2012-05 (+95.5%) | 2015-10 (-6.5%) |
-| 4年 | 19.8 | +25.8% | 0.386 | 2011-05 (+85.0%) | 2021-04 (-2.5%) |
-| 5年 | 19.4 | +26.3% | 0.515 | 2011-09 (+69.5%) | 2021-01 (-3.2%) |
-| 6年 | 18.8 | +27.1% | 0.638 | 2010-10 (+59.9%) | 2016-05 (+0.2%) |
-| 8年 | 18.5 | +26.4% | 0.903 | 2008-10 (+50.7%) | 2016-08 (+3.7%) |
-| 10年 | 15.9 | +25.9% | 0.931 | 2010-11 (+37.7%) | 2015-10 (+5.2%) |
+| 3個月 | 19.9 | +44.8% | 0.017 | 2013-04 (+520.5%) | 2022-02 (-75.3%) |
+| 6個月 | 19.9 | +34.1% | 0.039 | 2012-12 (+277.0%) | 2021-11 (-65.7%) |
+| 1年 | 20.0 | +27.2% | 0.076 | 2012-07 (+166.2%) | 2021-04 (-45.3%) |
+| 2年 | 20.0 | +26.1% | 0.178 | 2011-11 (+141.1%) | 2020-05 (-25.3%) |
+| 3年 | 19.9 | +26.0% | 0.273 | 2012-05 (+95.5%) | 2015-10 (-6.5%) |
+| 4年 | 19.8 | +25.8% | 0.372 | 2011-05 (+85.0%) | 2021-04 (-2.5%) |
+| 5年 | 19.4 | +26.3% | 0.496 | 2011-09 (+69.5%) | 2021-01 (-3.2%) |
+| 6年 | 18.8 | +27.1% | 0.607 | 2010-10 (+59.9%) | 2016-05 (+0.2%) |
+| 8年 | 18.5 | +26.4% | 0.889 | 2008-10 (+50.7%) | 2016-08 (+3.7%) |
+| 10年 | 15.8 | +25.9% | 0.912 | 2010-11 (+37.7%) | 2015-10 (+5.2%) |
 
 
 ## 🎯 使用說明
@@ -20865,4 +20869,4 @@ description: "5904 寶雅 (居家生活) 本益比與未來報酬率關係分析
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:35:06 CST*
+*數據更新時間: 2026-03-21 12:41:51 CST*

@@ -2,7 +2,7 @@
 title: "6613 朋億 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
     - **產業別**: 其他電子業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年
-    - **報告生成時間**: 2026-03-07 12:36:13 CST
+    - **報告生成時間**: 2026-03-21 12:43:11 CST
 
 ## 📈 互動式圖表
 
@@ -48,7 +48,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 11.29,
+        "pe_ratio": 12.26,
         "forward_return": 20.83,
         "start_price": 171.5,
         "start_year": 2018
@@ -57,7 +57,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 11.99,
+        "pe_ratio": 14.21,
         "forward_return": -2.19,
         "start_price": 183.5,
         "start_year": 2018
@@ -66,7 +66,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 15.89,
         "forward_return": 30.53,
         "start_price": 188.0,
         "start_year": 2018
@@ -75,7 +75,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.06,
+        "pe_ratio": 15.21,
         "forward_return": 5.04,
         "start_price": 203.0,
         "start_year": 2018
@@ -84,7 +84,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 12.27,
         "forward_return": 22.32,
         "start_price": 182.5,
         "start_year": 2018
@@ -93,7 +93,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.71,
         "forward_return": 11.8,
         "start_price": 175.5,
         "start_year": 2018
@@ -102,7 +102,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.58,
         "forward_return": -67.76,
         "start_price": 195.5,
         "start_year": 2018
@@ -111,7 +111,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 10.47,
         "forward_return": -54.41,
         "start_price": 182.0,
         "start_year": 2018
@@ -120,7 +120,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 9.54,
         "forward_return": -54.66,
         "start_price": 170.5,
         "start_year": 2018
@@ -129,7 +129,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.04,
+        "pe_ratio": 8.44,
         "forward_return": -16.44,
         "start_price": 147.0,
         "start_year": 2018
@@ -138,7 +138,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.05,
         "forward_return": 38.9,
         "start_price": 153.5,
         "start_year": 2018
@@ -156,7 +156,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 8.17,
         "forward_return": 98.51,
         "start_price": 140.5,
         "start_year": 2019
@@ -165,7 +165,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 10.72,
+        "pe_ratio": 9.69,
         "forward_return": 5.98,
         "start_price": 173.5,
         "start_year": 2019
@@ -174,7 +174,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.19,
         "forward_return": -6.84,
         "start_price": 171.0,
         "start_year": 2019
@@ -183,7 +183,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.16,
         "forward_return": -9.06,
         "start_price": 171.0,
         "start_year": 2019
@@ -192,7 +192,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.7,
         "forward_return": -29.79,
         "start_price": 176.0,
         "start_year": 2019
@@ -201,7 +201,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 12.08,
         "forward_return": 11.64,
         "start_price": 160.0,
         "start_year": 2019
@@ -210,7 +210,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 11.27,
         "forward_return": -3.86,
         "start_price": 152.0,
         "start_year": 2019
@@ -219,7 +219,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 9.56,
+        "pe_ratio": 10.64,
         "forward_return": 46.87,
         "start_price": 146.0,
         "start_year": 2019
@@ -228,7 +228,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 9.89,
+        "pe_ratio": 10.72,
         "forward_return": 52.23,
         "start_price": 149.5,
         "start_year": 2019
@@ -237,7 +237,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.61,
         "forward_return": 1.33,
         "start_price": 150.5,
         "start_year": 2019
@@ -246,7 +246,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.79,
         "forward_return": -39.71,
         "start_price": 155.5,
         "start_year": 2019
@@ -264,7 +264,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 10.46,
+        "pe_ratio": 10.77,
         "forward_return": 0.0,
         "start_price": 151.0,
         "start_year": 2020
@@ -273,7 +273,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.39,
         "forward_return": -3.89,
         "start_price": 152.5,
         "start_year": 2020
@@ -282,7 +282,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 10.31,
         "forward_return": 45.36,
         "start_price": 131.5,
         "start_year": 2020
@@ -291,7 +291,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.18,
         "forward_return": -7.69,
         "start_price": 152.0,
         "start_year": 2020
@@ -300,7 +300,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.45,
         "forward_return": 6.74,
         "start_price": 151.0,
         "start_year": 2020
@@ -309,7 +309,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 9.42,
         "forward_return": 11.49,
         "start_price": 144.0,
         "start_year": 2020
@@ -318,7 +318,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 9.5,
         "forward_return": -19.76,
         "start_price": 139.0,
         "start_year": 2020
@@ -327,7 +327,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.27,
         "forward_return": -8.12,
         "start_price": 143.5,
         "start_year": 2020
@@ -336,7 +336,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.36,
         "forward_return": 4.43,
         "start_price": 138.0,
         "start_year": 2020
@@ -345,7 +345,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.21,
         "forward_return": 12.63,
         "start_price": 131.5,
         "start_year": 2020
@@ -354,7 +354,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 11.21,
         "forward_return": 4.43,
         "start_price": 139.5,
         "start_year": 2020
@@ -372,7 +372,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 11.53,
         "forward_return": -7.66,
         "start_price": 135.5,
         "start_year": 2021
@@ -381,7 +381,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 12.14,
         "forward_return": -20.09,
         "start_price": 139.5,
         "start_year": 2021
@@ -390,7 +390,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 12.6,
         "forward_return": 44.46,
         "start_price": 141.5,
         "start_year": 2021
@@ -399,7 +399,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.64,
         "forward_return": 59.19,
         "start_price": 142.5,
         "start_year": 2021
@@ -408,7 +408,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 11.67,
         "forward_return": 86.8,
         "start_price": 132.0,
         "start_year": 2021
@@ -417,7 +417,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 9.42,
+        "pe_ratio": 11.94,
         "forward_return": 51.71,
         "start_price": 135.5,
         "start_year": 2021
@@ -426,7 +426,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.29,
+        "pe_ratio": 12.88,
         "forward_return": -13.61,
         "start_price": 152.0,
         "start_year": 2021
@@ -435,7 +435,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.66,
+        "pe_ratio": 11.95,
         "forward_return": 53.38,
         "start_price": 146.5,
         "start_year": 2021
@@ -444,7 +444,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.16,
+        "pe_ratio": 11.21,
         "forward_return": 98.29,
         "start_price": 142.5,
         "start_year": 2021
@@ -453,7 +453,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 10.42,
         "forward_return": 45.45,
         "start_price": 146.5,
         "start_year": 2021
@@ -462,7 +462,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 9.29,
+        "pe_ratio": 9.87,
         "forward_return": 38.08,
         "start_price": 152.0,
         "start_year": 2021
@@ -480,7 +480,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 9.03,
         "forward_return": 15.91,
         "start_price": 161.0,
         "start_year": 2022
@@ -489,7 +489,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.81,
+        "pe_ratio": 9.09,
         "forward_return": -6.89,
         "start_price": 172.0,
         "start_year": 2022
@@ -498,7 +498,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.9,
+        "pe_ratio": 8.45,
         "forward_return": -10.26,
         "start_price": 169.0,
         "start_year": 2022
@@ -507,7 +507,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 8.16,
         "forward_return": -7.06,
         "start_price": 166.0,
         "start_year": 2022
@@ -516,7 +516,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 11.53,
+        "pe_ratio": 8.17,
         "forward_return": -86.53,
         "start_price": 169.0,
         "start_year": 2022
@@ -525,7 +525,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 6.95,
         "forward_return": -80.03,
         "start_price": 146.0,
         "start_year": 2022
@@ -534,7 +534,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 8.33,
         "forward_return": -91.23,
         "start_price": 151.0,
         "start_year": 2022
@@ -543,7 +543,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 6.71,
+        "pe_ratio": 5.9,
         "forward_return": -4.91,
         "start_price": 90.0,
         "start_year": 2022
@@ -552,7 +552,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 6.57,
+        "pe_ratio": 6.88,
         "forward_return": 15.93,
         "start_price": 85.3,
         "start_year": 2022
@@ -561,7 +561,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 6.5,
+        "pe_ratio": 6.72,
         "forward_return": 41.03,
         "start_price": 81.8,
         "start_year": 2022
@@ -570,7 +570,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 7.02,
+        "pe_ratio": 7.13,
         "forward_return": 82.82,
         "start_price": 85.3,
         "start_year": 2022
@@ -588,7 +588,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.43,
+        "pe_ratio": 7.83,
         "forward_return": 73.99,
         "start_price": 89.2,
         "start_year": 2023
@@ -597,7 +597,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 8.06,
+        "pe_ratio": 8.95,
         "forward_return": 37.64,
         "start_price": 98.9,
         "start_year": 2023
@@ -606,7 +606,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 9.72,
         "forward_return": 42.25,
         "start_price": 104.0,
         "start_year": 2023
@@ -615,7 +615,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 7.81,
+        "pe_ratio": 8.68,
         "forward_return": 87.75,
         "start_price": 100.0,
         "start_year": 2023
@@ -624,7 +624,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 8.18,
+        "pe_ratio": 8.67,
         "forward_return": 133.59,
         "start_price": 107.0,
         "start_year": 2023
@@ -633,7 +633,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 7.57,
+        "pe_ratio": 7.67,
         "forward_return": 230.56,
         "start_price": 101.0,
         "start_year": 2023
@@ -642,7 +642,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 7.97,
+        "pe_ratio": 8.32,
         "forward_return": 69.92,
         "start_price": 108.5,
         "start_year": 2023
@@ -651,7 +651,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 8.93,
+        "pe_ratio": 9.6,
         "forward_return": 45.36,
         "start_price": 124.0,
         "start_year": 2023
@@ -660,7 +660,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 10.02,
         "forward_return": 45.35,
         "start_price": 128.0,
         "start_year": 2023
@@ -669,7 +669,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.18,
         "forward_return": 57.36,
         "start_price": 124.0,
         "start_year": 2023
@@ -678,7 +678,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 9.02,
+        "pe_ratio": 9.31,
         "forward_return": 180.64,
         "start_price": 132.5,
         "start_year": 2023
@@ -696,7 +696,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 9.1,
         "forward_return": 211.36,
         "start_price": 139.0,
         "start_year": 2024
@@ -705,7 +705,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.91,
         "forward_return": 101.81,
         "start_price": 170.0,
         "start_year": 2024
@@ -714,7 +714,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.73,
         "forward_return": -22.35,
         "start_price": 186.5,
         "start_year": 2024
@@ -723,7 +723,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.57,
         "forward_return": -49.81,
         "start_price": 203.5,
         "start_year": 2024
@@ -732,7 +732,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 12.78,
+        "pe_ratio": 14.38,
         "forward_return": -57.34,
         "start_price": 202.5,
         "start_year": 2024
@@ -741,7 +741,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 14.61,
         "forward_return": -41.21,
         "start_price": 192.5,
         "start_year": 2024
@@ -750,7 +750,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 11.42,
         "forward_return": 79.27,
         "start_price": 161.0,
         "start_year": 2024
@@ -759,7 +759,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.2,
         "forward_return": 62.67,
         "start_price": 153.0,
         "start_year": 2024
@@ -768,7 +768,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 9.92,
         "forward_return": 68.75,
         "start_price": 158.0,
         "start_year": 2024
@@ -777,7 +777,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.43,
         "forward_return": 273.99,
         "start_price": 186.5,
         "start_year": 2024
@@ -786,7 +786,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.25,
         "forward_return": -3.2,
         "start_price": 188.0,
         "start_year": 2024
@@ -804,7 +804,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.31,
+        "pe_ratio": 15.44,
         "forward_return": -74.01,
         "start_price": 260.0,
         "start_year": 2025
@@ -813,7 +813,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 13.4,
+        "pe_ratio": 13.63,
         "forward_return": -70.71,
         "start_price": 226.0,
         "start_year": 2025
@@ -822,7 +822,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.39,
         "forward_return": -2.55,
         "start_price": 186.0,
         "start_year": 2025
@@ -831,7 +831,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 10.44,
         "forward_return": 36.97,
         "start_price": 170.5,
         "start_year": 2025
@@ -840,7 +840,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.23,
         "forward_return": 280.96,
         "start_price": 167.0,
         "start_year": 2025
@@ -849,7 +849,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 9.7,
+        "pe_ratio": 9.74,
         "forward_return": 102.4,
         "start_price": 159.0,
         "start_year": 2025
@@ -858,7 +858,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.71,
         "forward_return": -1.15,
         "start_price": 172.5,
         "start_year": 2025
@@ -867,7 +867,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 13.74,
+        "pe_ratio": 13.97,
         "forward_return": -25.18,
         "start_price": 222.0,
         "start_year": 2025
@@ -876,7 +876,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 11.1,
+        "pe_ratio": 11.35,
         "forward_return": 64.5,
         "start_price": 178.0,
         "start_year": 2025
@@ -885,7 +885,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 10.81,
+        "pe_ratio": 11.54,
         "forward_return": 57.99,
         "start_price": 172.0,
         "start_year": 2025
@@ -903,7 +903,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 11.29,
+        "pe_ratio": 12.26,
         "forward_return": 44.05,
         "start_price": 171.5,
         "start_year": 2018
@@ -912,7 +912,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 11.99,
+        "pe_ratio": 14.21,
         "forward_return": 9.51,
         "start_price": 183.5,
         "start_year": 2018
@@ -921,7 +921,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 15.89,
         "forward_return": -26.48,
         "start_price": 188.0,
         "start_year": 2018
@@ -930,7 +930,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.06,
+        "pe_ratio": 15.21,
         "forward_return": -40.12,
         "start_price": 203.0,
         "start_year": 2018
@@ -939,7 +939,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 12.27,
         "forward_return": -28.45,
         "start_price": 182.5,
         "start_year": 2018
@@ -948,7 +948,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.71,
         "forward_return": -26.9,
         "start_price": 175.5,
         "start_year": 2018
@@ -957,7 +957,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.58,
         "forward_return": -48.1,
         "start_price": 195.5,
         "start_year": 2018
@@ -966,7 +966,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 10.47,
         "forward_return": -10.18,
         "start_price": 182.0,
         "start_year": 2018
@@ -975,7 +975,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 9.54,
         "forward_return": 0.59,
         "start_price": 170.5,
         "start_year": 2018
@@ -984,7 +984,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.04,
+        "pe_ratio": 8.44,
         "forward_return": 36.37,
         "start_price": 147.0,
         "start_year": 2018
@@ -993,7 +993,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.05,
         "forward_return": 31.79,
         "start_price": 153.5,
         "start_year": 2018
@@ -1011,7 +1011,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 8.17,
         "forward_return": 41.72,
         "start_price": 140.5,
         "start_year": 2019
@@ -1020,7 +1020,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 10.72,
+        "pe_ratio": 9.69,
         "forward_return": -13.93,
         "start_price": 173.5,
         "start_year": 2019
@@ -1029,7 +1029,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.19,
         "forward_return": -5.43,
         "start_price": 171.0,
         "start_year": 2019
@@ -1038,7 +1038,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.16,
         "forward_return": -6.32,
         "start_price": 171.0,
         "start_year": 2019
@@ -1047,7 +1047,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.7,
         "forward_return": 4.9,
         "start_price": 176.0,
         "start_year": 2019
@@ -1056,7 +1056,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 12.08,
         "forward_return": 27.91,
         "start_price": 160.0,
         "start_year": 2019
@@ -1065,7 +1065,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 11.27,
         "forward_return": -1.3,
         "start_price": 152.0,
         "start_year": 2019
@@ -1074,7 +1074,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 9.56,
+        "pe_ratio": 10.64,
         "forward_return": -16.42,
         "start_price": 146.0,
         "start_year": 2019
@@ -1083,7 +1083,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 9.89,
+        "pe_ratio": 10.72,
         "forward_return": -22.7,
         "start_price": 149.5,
         "start_year": 2019
@@ -1092,7 +1092,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.61,
         "forward_return": 0.57,
         "start_price": 150.5,
         "start_year": 2019
@@ -1101,7 +1101,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.79,
         "forward_return": -5.72,
         "start_price": 155.5,
         "start_year": 2019
@@ -1119,7 +1119,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 10.46,
+        "pe_ratio": 10.77,
         "forward_return": -2.64,
         "start_price": 151.0,
         "start_year": 2020
@@ -1128,7 +1128,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.39,
         "forward_return": 1.31,
         "start_price": 152.5,
         "start_year": 2020
@@ -1137,7 +1137,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 10.31,
         "forward_return": 13.33,
         "start_price": 131.5,
         "start_year": 2020
@@ -1146,7 +1146,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.18,
         "forward_return": -13.31,
         "start_price": 152.0,
         "start_year": 2020
@@ -1155,7 +1155,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.45,
         "forward_return": -1.69,
         "start_price": 151.0,
         "start_year": 2020
@@ -1164,7 +1164,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 9.42,
         "forward_return": 7.77,
         "start_price": 144.0,
         "start_year": 2020
@@ -1173,7 +1173,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 9.5,
         "forward_return": -4.94,
         "start_price": 139.0,
         "start_year": 2020
@@ -1182,7 +1182,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.27,
         "forward_return": -2.39,
         "start_price": 143.5,
         "start_year": 2020
@@ -1191,7 +1191,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.36,
         "forward_return": 5.18,
         "start_price": 138.0,
         "start_year": 2020
@@ -1200,7 +1200,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.21,
         "forward_return": 0.66,
         "start_price": 131.5,
         "start_year": 2020
@@ -1209,7 +1209,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 11.21,
         "forward_return": -10.55,
         "start_price": 139.5,
         "start_year": 2020
@@ -1227,7 +1227,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 11.53,
         "forward_return": 39.85,
         "start_price": 135.5,
         "start_year": 2021
@@ -1236,7 +1236,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 12.14,
         "forward_return": 22.75,
         "start_price": 139.5,
         "start_year": 2021
@@ -1245,7 +1245,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 12.6,
         "forward_return": 16.19,
         "start_price": 141.5,
         "start_year": 2021
@@ -1254,7 +1254,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.64,
         "forward_return": 17.51,
         "start_price": 142.5,
         "start_year": 2021
@@ -1263,7 +1263,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 11.67,
         "forward_return": 64.98,
         "start_price": 132.0,
         "start_year": 2021
@@ -1272,7 +1272,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 9.42,
+        "pe_ratio": 11.94,
         "forward_return": 70.45,
         "start_price": 135.5,
         "start_year": 2021
@@ -1281,7 +1281,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.29,
+        "pe_ratio": 12.88,
         "forward_return": 12.1,
         "start_price": 152.0,
         "start_year": 2021
@@ -1290,7 +1290,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.66,
+        "pe_ratio": 11.95,
         "forward_return": 27.91,
         "start_price": 146.5,
         "start_year": 2021
@@ -1299,7 +1299,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.16,
+        "pe_ratio": 11.21,
         "forward_return": 41.08,
         "start_price": 142.5,
         "start_year": 2021
@@ -1308,7 +1308,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 10.42,
         "forward_return": 27.91,
         "start_price": 146.5,
         "start_year": 2021
@@ -1317,7 +1317,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 9.29,
+        "pe_ratio": 9.87,
         "forward_return": 23.85,
         "start_price": 152.0,
         "start_year": 2021
@@ -1335,7 +1335,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 9.03,
         "forward_return": 2.52,
         "start_price": 161.0,
         "start_year": 2022
@@ -1344,7 +1344,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.81,
+        "pe_ratio": 9.09,
         "forward_return": -64.96,
         "start_price": 172.0,
         "start_year": 2022
@@ -1353,7 +1353,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.9,
+        "pe_ratio": 8.45,
         "forward_return": -63.39,
         "start_price": 169.0,
         "start_year": 2022
@@ -1362,7 +1362,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 8.16,
         "forward_return": -68.0,
         "start_price": 166.0,
         "start_year": 2022
@@ -1371,7 +1371,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 11.53,
+        "pe_ratio": 8.17,
         "forward_return": -58.81,
         "start_price": 169.0,
         "start_year": 2022
@@ -1380,7 +1380,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 6.95,
         "forward_return": -52.54,
         "start_price": 146.0,
         "start_year": 2022
@@ -1389,7 +1389,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 8.33,
         "forward_return": -64.83,
         "start_price": 151.0,
         "start_year": 2022
@@ -1398,7 +1398,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 6.71,
+        "pe_ratio": 5.9,
         "forward_return": 28.29,
         "start_price": 90.0,
         "start_year": 2022
@@ -1407,7 +1407,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 6.57,
+        "pe_ratio": 6.88,
         "forward_return": 49.18,
         "start_price": 85.3,
         "start_year": 2022
@@ -1416,7 +1416,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 6.5,
+        "pe_ratio": 6.72,
         "forward_return": 58.83,
         "start_price": 81.8,
         "start_year": 2022
@@ -1425,7 +1425,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 7.02,
+        "pe_ratio": 7.13,
         "forward_return": 57.99,
         "start_price": 85.3,
         "start_year": 2022
@@ -1443,7 +1443,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.43,
+        "pe_ratio": 7.83,
         "forward_return": 72.86,
         "start_price": 89.2,
         "start_year": 2023
@@ -1452,7 +1452,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 8.06,
+        "pe_ratio": 8.95,
         "forward_return": 79.83,
         "start_price": 98.9,
         "start_year": 2023
@@ -1461,7 +1461,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 9.72,
         "forward_return": 51.18,
         "start_price": 104.0,
         "start_year": 2023
@@ -1470,7 +1470,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 7.81,
+        "pe_ratio": 8.68,
         "forward_return": 75.34,
         "start_price": 100.0,
         "start_year": 2023
@@ -1479,7 +1479,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 8.18,
+        "pe_ratio": 8.67,
         "forward_return": 75.96,
         "start_price": 107.0,
         "start_year": 2023
@@ -1488,7 +1488,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 7.57,
+        "pe_ratio": 7.67,
         "forward_return": 117.27,
         "start_price": 101.0,
         "start_year": 2023
@@ -1497,7 +1497,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 7.97,
+        "pe_ratio": 8.32,
         "forward_return": 63.52,
         "start_price": 108.5,
         "start_year": 2023
@@ -1506,7 +1506,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 8.93,
+        "pe_ratio": 9.6,
         "forward_return": 101.35,
         "start_price": 124.0,
         "start_year": 2023
@@ -1515,7 +1515,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 10.02,
         "forward_return": 112.84,
         "start_price": 128.0,
         "start_year": 2023
@@ -1524,7 +1524,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.18,
         "forward_return": 131.88,
         "start_price": 124.0,
         "start_year": 2023
@@ -1533,7 +1533,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 9.02,
+        "pe_ratio": 9.31,
         "forward_return": 134.25,
         "start_price": 132.5,
         "start_year": 2023
@@ -1551,7 +1551,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 9.1,
         "forward_return": 52.25,
         "start_price": 139.0,
         "start_year": 2024
@@ -1560,7 +1560,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.91,
         "forward_return": -7.61,
         "start_price": 170.0,
         "start_year": 2024
@@ -1569,7 +1569,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.73,
         "forward_return": 9.69,
         "start_price": 186.5,
         "start_year": 2024
@@ -1578,7 +1578,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.57,
         "forward_return": -6.38,
         "start_price": 203.5,
         "start_year": 2024
@@ -1587,7 +1587,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 12.78,
+        "pe_ratio": 14.38,
         "forward_return": -9.99,
         "start_price": 202.5,
         "start_year": 2024
@@ -1596,7 +1596,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 14.61,
         "forward_return": -2.18,
         "start_price": 192.5,
         "start_year": 2024
@@ -1605,7 +1605,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 11.42,
         "forward_return": 158.93,
         "start_price": 161.0,
         "start_year": 2024
@@ -1614,7 +1614,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.2,
         "forward_return": 40.0,
         "start_price": 153.0,
         "start_year": 2024
@@ -1623,7 +1623,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 9.92,
         "forward_return": 38.99,
         "start_price": 158.0,
         "start_year": 2024
@@ -1632,7 +1632,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.43,
         "forward_return": -17.33,
         "start_price": 186.5,
         "start_year": 2024
@@ -1641,7 +1641,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.25,
         "forward_return": -21.26,
         "start_price": 188.0,
         "start_year": 2024
@@ -1659,7 +1659,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.31,
+        "pe_ratio": 15.44,
         "forward_return": -50.01,
         "start_price": 260.0,
         "start_year": 2025
@@ -1668,7 +1668,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 13.4,
+        "pe_ratio": 13.63,
         "forward_return": 7.14,
         "start_price": 226.0,
         "start_year": 2025
@@ -1677,7 +1677,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.39,
         "forward_return": -1.92,
         "start_price": 186.0,
         "start_year": 2025
@@ -1686,7 +1686,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 10.44,
         "forward_return": 16.3,
         "start_price": 170.5,
         "start_year": 2025
@@ -1695,7 +1695,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 10.12,
+        "pe_ratio": 10.23,
         "forward_return": 51.96,
         "start_price": 167.0,
         "start_year": 2025
@@ -1704,7 +1704,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 9.7,
+        "pe_ratio": 9.74,
         "forward_return": 79.92,
         "start_price": 159.0,
         "start_year": 2025
@@ -1713,7 +1713,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 10.71,
         "forward_return": 24.97,
         "start_price": 172.5,
         "start_year": 2025
@@ -1731,7 +1731,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 11.29,
+        "pe_ratio": 12.26,
         "forward_return": -12.25,
         "start_price": 171.5,
         "start_year": 2018
@@ -1740,7 +1740,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 11.99,
+        "pe_ratio": 14.21,
         "forward_return": 0.0,
         "start_price": 183.5,
         "start_year": 2018
@@ -1749,7 +1749,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 15.89,
         "forward_return": -3.73,
         "start_price": 188.0,
         "start_year": 2018
@@ -1758,7 +1758,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.06,
+        "pe_ratio": 15.21,
         "forward_return": -10.84,
         "start_price": 203.0,
         "start_year": 2018
@@ -1767,7 +1767,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 12.27,
         "forward_return": 1.92,
         "start_price": 182.5,
         "start_year": 2018
@@ -1776,7 +1776,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.71,
         "forward_return": -3.14,
         "start_price": 175.5,
         "start_year": 2018
@@ -1785,7 +1785,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.58,
         "forward_return": -14.59,
         "start_price": 195.5,
         "start_year": 2018
@@ -1794,7 +1794,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 10.47,
         "forward_return": -11.55,
         "start_price": 182.0,
         "start_year": 2018
@@ -1803,7 +1803,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 9.54,
         "forward_return": -3.52,
         "start_price": 170.5,
         "start_year": 2018
@@ -1812,7 +1812,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.04,
+        "pe_ratio": 8.44,
         "forward_return": 12.59,
         "start_price": 147.0,
         "start_year": 2018
@@ -1821,7 +1821,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.05,
         "forward_return": 11.08,
         "start_price": 153.5,
         "start_year": 2018
@@ -1839,7 +1839,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 8.17,
         "forward_return": 18.16,
         "start_price": 140.5,
         "start_year": 2019
@@ -1848,7 +1848,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 10.72,
+        "pe_ratio": 9.69,
         "forward_return": -3.46,
         "start_price": 173.5,
         "start_year": 2019
@@ -1857,7 +1857,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.19,
         "forward_return": -14.3,
         "start_price": 171.0,
         "start_year": 2019
@@ -1866,7 +1866,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.16,
         "forward_return": -2.33,
         "start_price": 171.0,
         "start_year": 2019
@@ -1875,7 +1875,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.7,
         "forward_return": -5.67,
         "start_price": 176.0,
         "start_year": 2019
@@ -1884,7 +1884,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 12.08,
         "forward_return": -0.62,
         "start_price": 160.0,
         "start_year": 2019
@@ -1893,7 +1893,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 11.27,
         "forward_return": -1.97,
         "start_price": 152.0,
         "start_year": 2019
@@ -1902,7 +1902,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 9.56,
+        "pe_ratio": 10.64,
         "forward_return": 5.13,
         "start_price": 146.0,
         "start_year": 2019
@@ -1911,7 +1911,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 9.89,
+        "pe_ratio": 10.72,
         "forward_return": -1.0,
         "start_price": 149.5,
         "start_year": 2019
@@ -1920,7 +1920,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.61,
         "forward_return": -5.97,
         "start_price": 150.5,
         "start_year": 2019
@@ -1929,7 +1929,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.79,
         "forward_return": -3.85,
         "start_price": 155.5,
         "start_year": 2019
@@ -1947,7 +1947,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 10.46,
+        "pe_ratio": 10.77,
         "forward_return": -3.64,
         "start_price": 151.0,
         "start_year": 2020
@@ -1956,7 +1956,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.39,
         "forward_return": -0.61,
         "start_price": 152.5,
         "start_year": 2020
@@ -1965,7 +1965,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 10.31,
         "forward_return": 15.22,
         "start_price": 131.5,
         "start_year": 2020
@@ -1974,7 +1974,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.18,
         "forward_return": 0.33,
         "start_price": 152.0,
         "start_year": 2020
@@ -1983,7 +1983,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.45,
         "forward_return": -5.96,
         "start_price": 151.0,
         "start_year": 2020
@@ -1992,7 +1992,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 9.42,
         "forward_return": 1.04,
         "start_price": 144.0,
         "start_year": 2020
@@ -2001,7 +2001,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 9.5,
         "forward_return": 15.12,
         "start_price": 139.0,
         "start_year": 2020
@@ -2010,7 +2010,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.27,
         "forward_return": 7.67,
         "start_price": 143.5,
         "start_year": 2020
@@ -2019,7 +2019,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.36,
         "forward_return": 9.06,
         "start_price": 138.0,
         "start_year": 2020
@@ -2028,7 +2028,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.21,
         "forward_return": 17.5,
         "start_price": 131.5,
         "start_year": 2020
@@ -2037,7 +2037,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 11.21,
         "forward_return": 14.71,
         "start_price": 139.5,
         "start_year": 2020
@@ -2055,7 +2055,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 11.53,
         "forward_return": 24.74,
         "start_price": 135.5,
         "start_year": 2021
@@ -2064,7 +2064,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 12.14,
         "forward_return": 29.05,
         "start_price": 139.5,
         "start_year": 2021
@@ -2073,7 +2073,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 12.6,
         "forward_return": 25.11,
         "start_price": 141.5,
         "start_year": 2021
@@ -2082,7 +2082,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.64,
         "forward_return": 22.12,
         "start_price": 142.5,
         "start_year": 2021
@@ -2091,7 +2091,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 11.67,
         "forward_return": 34.12,
         "start_price": 132.0,
         "start_year": 2021
@@ -2100,7 +2100,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 9.42,
+        "pe_ratio": 11.94,
         "forward_return": 13.66,
         "start_price": 135.5,
         "start_year": 2021
@@ -2109,7 +2109,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.29,
+        "pe_ratio": 12.88,
         "forward_return": 7.24,
         "start_price": 152.0,
         "start_year": 2021
@@ -2118,7 +2118,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.66,
+        "pe_ratio": 11.95,
         "forward_return": -30.39,
         "start_price": 146.5,
         "start_year": 2021
@@ -2127,7 +2127,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.16,
+        "pe_ratio": 11.21,
         "forward_return": -31.74,
         "start_price": 142.5,
         "start_year": 2021
@@ -2136,7 +2136,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 10.42,
         "forward_return": -35.99,
         "start_price": 146.5,
         "start_year": 2021
@@ -2145,7 +2145,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 9.29,
+        "pe_ratio": 9.87,
         "forward_return": -36.01,
         "start_price": 152.0,
         "start_year": 2021
@@ -2163,7 +2163,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 9.03,
         "forward_return": -37.16,
         "start_price": 161.0,
         "start_year": 2022
@@ -2172,7 +2172,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.81,
+        "pe_ratio": 9.09,
         "forward_return": -35.54,
         "start_price": 172.0,
         "start_year": 2022
@@ -2181,7 +2181,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.9,
+        "pe_ratio": 8.45,
         "forward_return": -31.38,
         "start_price": 169.0,
         "start_year": 2022
@@ -2190,7 +2190,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 8.16,
         "forward_return": -32.55,
         "start_price": 166.0,
         "start_year": 2022
@@ -2199,7 +2199,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 11.53,
+        "pe_ratio": 8.17,
         "forward_return": -29.6,
         "start_price": 169.0,
         "start_year": 2022
@@ -2208,7 +2208,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 6.95,
         "forward_return": -22.62,
         "start_price": 146.0,
         "start_year": 2022
@@ -2217,7 +2217,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 8.33,
         "forward_return": -22.53,
         "start_price": 151.0,
         "start_year": 2022
@@ -2226,7 +2226,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 6.71,
+        "pe_ratio": 5.9,
         "forward_return": 47.25,
         "start_price": 90.0,
         "start_year": 2022
@@ -2235,7 +2235,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 6.57,
+        "pe_ratio": 6.88,
         "forward_return": 60.07,
         "start_price": 85.3,
         "start_year": 2022
@@ -2244,7 +2244,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 6.5,
+        "pe_ratio": 6.72,
         "forward_return": 62.03,
         "start_price": 81.8,
         "start_year": 2022
@@ -2253,7 +2253,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 7.02,
+        "pe_ratio": 7.13,
         "forward_return": 65.35,
         "start_price": 85.3,
         "start_year": 2022
@@ -2271,7 +2271,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.43,
+        "pe_ratio": 7.83,
         "forward_return": 65.41,
         "start_price": 89.2,
         "start_year": 2023
@@ -2280,7 +2280,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 8.06,
+        "pe_ratio": 8.95,
         "forward_return": 80.55,
         "start_price": 98.9,
         "start_year": 2023
@@ -2289,7 +2289,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 9.72,
         "forward_return": 87.25,
         "start_price": 104.0,
         "start_year": 2023
@@ -2298,7 +2298,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 7.81,
+        "pe_ratio": 8.68,
         "forward_return": 111.67,
         "start_price": 100.0,
         "start_year": 2023
@@ -2307,7 +2307,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 8.18,
+        "pe_ratio": 8.67,
         "forward_return": 96.92,
         "start_price": 107.0,
         "start_year": 2023
@@ -2316,7 +2316,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 7.57,
+        "pe_ratio": 7.67,
         "forward_return": 98.72,
         "start_price": 101.0,
         "start_year": 2023
@@ -2325,7 +2325,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 7.97,
+        "pe_ratio": 8.32,
         "forward_return": 57.82,
         "start_price": 108.5,
         "start_year": 2023
@@ -2334,7 +2334,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 8.93,
+        "pe_ratio": 9.6,
         "forward_return": 31.69,
         "start_price": 124.0,
         "start_year": 2023
@@ -2343,7 +2343,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 10.02,
         "forward_return": 31.48,
         "start_price": 128.0,
         "start_year": 2023
@@ -2352,7 +2352,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.18,
         "forward_return": 58.63,
         "start_price": 124.0,
         "start_year": 2023
@@ -2361,7 +2361,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 9.02,
+        "pe_ratio": 9.31,
         "forward_return": 49.6,
         "start_price": 132.5,
         "start_year": 2023
@@ -2379,7 +2379,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 9.1,
         "forward_return": 94.26,
         "start_price": 139.0,
         "start_year": 2024
@@ -2388,7 +2388,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 10.91,
         "forward_return": 14.27,
         "start_price": 170.0,
         "start_year": 2024
@@ -2397,7 +2397,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 12.04,
+        "pe_ratio": 11.73,
         "forward_return": 5.31,
         "start_price": 186.5,
         "start_year": 2024
@@ -2406,7 +2406,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 12.99,
+        "pe_ratio": 13.57,
         "forward_return": -11.12,
         "start_price": 203.5,
         "start_year": 2024
@@ -2415,7 +2415,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 12.78,
+        "pe_ratio": 14.38,
         "forward_return": -12.41,
         "start_price": 202.5,
         "start_year": 2024
@@ -2424,7 +2424,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 12.01,
+        "pe_ratio": 14.61,
         "forward_return": -12.01,
         "start_price": 192.5,
         "start_year": 2024
@@ -2433,7 +2433,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 9.94,
+        "pe_ratio": 11.42,
         "forward_return": 14.54,
         "start_price": 161.0,
         "start_year": 2024
@@ -2442,7 +2442,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 9.34,
+        "pe_ratio": 10.2,
         "forward_return": 52.92,
         "start_price": 153.0,
         "start_year": 2024
@@ -2451,7 +2451,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 9.54,
+        "pe_ratio": 9.92,
         "forward_return": 20.21,
         "start_price": 158.0,
         "start_year": 2024
@@ -2460,7 +2460,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 11.43,
         "forward_return": -1.4,
         "start_price": 186.5,
         "start_year": 2024
@@ -2469,7 +2469,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 11.11,
+        "pe_ratio": 11.25,
         "forward_return": 1.01,
         "start_price": 188.0,
         "start_year": 2024
@@ -2487,7 +2487,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 15.31,
+        "pe_ratio": 15.44,
         "forward_return": -21.21,
         "start_price": 260.0,
         "start_year": 2025
@@ -2496,7 +2496,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 13.4,
+        "pe_ratio": 13.63,
         "forward_return": -4.25,
         "start_price": 226.0,
         "start_year": 2025
@@ -2514,7 +2514,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 11.29,
+        "pe_ratio": 12.26,
         "forward_return": 1.3,
         "start_price": 171.5,
         "start_year": 2018
@@ -2523,7 +2523,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 11.99,
+        "pe_ratio": 14.21,
         "forward_return": -1.65,
         "start_price": 183.5,
         "start_year": 2018
@@ -2532,7 +2532,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 15.89,
         "forward_return": -8.76,
         "start_price": 188.0,
         "start_year": 2018
@@ -2541,7 +2541,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.06,
+        "pe_ratio": 15.21,
         "forward_return": -6.62,
         "start_price": 203.0,
         "start_year": 2018
@@ -2550,7 +2550,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 12.27,
         "forward_return": -1.8,
         "start_price": 182.5,
         "start_year": 2018
@@ -2559,7 +2559,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.71,
         "forward_return": -1.87,
         "start_price": 175.5,
         "start_year": 2018
@@ -2568,7 +2568,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.58,
         "forward_return": -8.4,
         "start_price": 195.5,
         "start_year": 2018
@@ -2577,7 +2577,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 10.47,
         "forward_return": -3.78,
         "start_price": 182.0,
         "start_year": 2018
@@ -2586,7 +2586,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 9.54,
         "forward_return": -2.22,
         "start_price": 170.5,
         "start_year": 2018
@@ -2595,7 +2595,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.04,
+        "pe_ratio": 8.44,
         "forward_return": 3.18,
         "start_price": 147.0,
         "start_year": 2018
@@ -2604,7 +2604,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.05,
         "forward_return": 3.52,
         "start_price": 153.5,
         "start_year": 2018
@@ -2622,7 +2622,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 8.17,
         "forward_return": 6.88,
         "start_price": 140.5,
         "start_year": 2019
@@ -2631,7 +2631,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 10.72,
+        "pe_ratio": 9.69,
         "forward_return": -2.63,
         "start_price": 173.5,
         "start_year": 2019
@@ -2640,7 +2640,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.19,
         "forward_return": -1.32,
         "start_price": 171.0,
         "start_year": 2019
@@ -2649,7 +2649,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.16,
         "forward_return": -1.03,
         "start_price": 171.0,
         "start_year": 2019
@@ -2658,7 +2658,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.7,
         "forward_return": -5.55,
         "start_price": 176.0,
         "start_year": 2019
@@ -2667,7 +2667,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 12.08,
         "forward_return": 0.16,
         "start_price": 160.0,
         "start_year": 2019
@@ -2676,7 +2676,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 11.27,
         "forward_return": 5.75,
         "start_price": 152.0,
         "start_year": 2019
@@ -2685,7 +2685,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 9.56,
+        "pe_ratio": 10.64,
         "forward_return": 6.14,
         "start_price": 146.0,
         "start_year": 2019
@@ -2694,7 +2694,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 9.89,
+        "pe_ratio": 10.72,
         "forward_return": 3.61,
         "start_price": 149.5,
         "start_year": 2019
@@ -2703,7 +2703,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.61,
         "forward_return": 4.54,
         "start_price": 150.5,
         "start_year": 2019
@@ -2712,7 +2712,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.79,
         "forward_return": 4.56,
         "start_price": 155.5,
         "start_year": 2019
@@ -2730,7 +2730,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 10.46,
+        "pe_ratio": 10.77,
         "forward_return": 8.87,
         "start_price": 151.0,
         "start_year": 2020
@@ -2739,7 +2739,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.39,
         "forward_return": 10.3,
         "start_price": 152.5,
         "start_year": 2020
@@ -2748,7 +2748,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 10.31,
         "forward_return": 19.26,
         "start_price": 131.5,
         "start_year": 2020
@@ -2757,7 +2757,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.18,
         "forward_return": 10.03,
         "start_price": 152.0,
         "start_year": 2020
@@ -2766,7 +2766,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.45,
         "forward_return": 11.29,
         "start_price": 151.0,
         "start_year": 2020
@@ -2775,7 +2775,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 9.42,
         "forward_return": 6.72,
         "start_price": 144.0,
         "start_year": 2020
@@ -2784,7 +2784,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 9.5,
         "forward_return": 10.92,
         "start_price": 139.0,
         "start_year": 2020
@@ -2793,7 +2793,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.27,
         "forward_return": -12.46,
         "start_price": 143.5,
         "start_year": 2020
@@ -2802,7 +2802,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.36,
         "forward_return": -12.66,
         "start_price": 138.0,
         "start_year": 2020
@@ -2811,7 +2811,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.21,
         "forward_return": -12.02,
         "start_price": 131.5,
         "start_year": 2020
@@ -2820,7 +2820,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 11.21,
         "forward_return": -13.13,
         "start_price": 139.5,
         "start_year": 2020
@@ -2838,7 +2838,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 11.53,
         "forward_return": -10.23,
         "start_price": 135.5,
         "start_year": 2021
@@ -2847,7 +2847,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 12.14,
         "forward_return": -7.68,
         "start_price": 139.5,
         "start_year": 2021
@@ -2856,7 +2856,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 12.6,
         "forward_return": -6.39,
         "start_price": 141.5,
         "start_year": 2021
@@ -2865,7 +2865,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.64,
         "forward_return": -8.24,
         "start_price": 142.5,
         "start_year": 2021
@@ -2874,7 +2874,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 11.67,
         "forward_return": -1.91,
         "start_price": 132.0,
         "start_year": 2021
@@ -2883,7 +2883,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 9.42,
+        "pe_ratio": 11.94,
         "forward_return": -5.51,
         "start_price": 135.5,
         "start_year": 2021
@@ -2892,7 +2892,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.29,
+        "pe_ratio": 12.88,
         "forward_return": -7.88,
         "start_price": 152.0,
         "start_year": 2021
@@ -2901,7 +2901,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.66,
+        "pe_ratio": 11.95,
         "forward_return": -0.69,
         "start_price": 146.5,
         "start_year": 2021
@@ -2910,7 +2910,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.16,
+        "pe_ratio": 11.21,
         "forward_return": 2.08,
         "start_price": 142.5,
         "start_year": 2021
@@ -2919,7 +2919,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 10.42,
         "forward_return": -0.69,
         "start_price": 146.5,
         "start_year": 2021
@@ -2928,7 +2928,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 9.29,
+        "pe_ratio": 9.87,
         "forward_return": 0.33,
         "start_price": 152.0,
         "start_year": 2021
@@ -2946,7 +2946,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 9.03,
         "forward_return": -0.47,
         "start_price": 161.0,
         "start_year": 2022
@@ -2955,7 +2955,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.81,
+        "pe_ratio": 9.09,
         "forward_return": 5.24,
         "start_price": 172.0,
         "start_year": 2022
@@ -2964,7 +2964,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.9,
+        "pe_ratio": 8.45,
         "forward_return": 10.66,
         "start_price": 169.0,
         "start_year": 2022
@@ -2973,7 +2973,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 8.16,
         "forward_return": 16.15,
         "start_price": 166.0,
         "start_year": 2022
@@ -2982,7 +2982,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 11.53,
+        "pe_ratio": 8.17,
         "forward_return": 14.86,
         "start_price": 169.0,
         "start_year": 2022
@@ -2991,7 +2991,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 6.95,
         "forward_return": 20.77,
         "start_price": 146.0,
         "start_year": 2022
@@ -3000,7 +3000,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 8.33,
         "forward_return": 9.14,
         "start_price": 151.0,
         "start_year": 2022
@@ -3009,7 +3009,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 6.71,
+        "pe_ratio": 5.9,
         "forward_return": 38.17,
         "start_price": 90.0,
         "start_year": 2022
@@ -3018,7 +3018,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 6.57,
+        "pe_ratio": 6.88,
         "forward_return": 43.97,
         "start_price": 85.3,
         "start_year": 2022
@@ -3027,7 +3027,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 6.5,
+        "pe_ratio": 6.72,
         "forward_return": 58.4,
         "start_price": 81.8,
         "start_year": 2022
@@ -3036,7 +3036,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 7.02,
+        "pe_ratio": 7.13,
         "forward_return": 55.69,
         "start_price": 85.3,
         "start_year": 2022
@@ -3054,7 +3054,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.43,
+        "pe_ratio": 7.83,
         "forward_return": 76.75,
         "start_price": 89.2,
         "start_year": 2023
@@ -3063,7 +3063,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 8.06,
+        "pe_ratio": 8.95,
         "forward_return": 57.31,
         "start_price": 98.9,
         "start_year": 2023
@@ -3072,7 +3072,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 8.29,
+        "pe_ratio": 9.72,
         "forward_return": 40.33,
         "start_price": 104.0,
         "start_year": 2023
@@ -3081,7 +3081,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 7.81,
+        "pe_ratio": 8.68,
         "forward_return": 37.59,
         "start_price": 100.0,
         "start_year": 2023
@@ -3090,7 +3090,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 8.18,
+        "pe_ratio": 8.67,
         "forward_return": 31.78,
         "start_price": 107.0,
         "start_year": 2023
@@ -3099,7 +3099,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 7.57,
+        "pe_ratio": 7.67,
         "forward_return": 32.69,
         "start_price": 101.0,
         "start_year": 2023
@@ -3108,7 +3108,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 7.97,
+        "pe_ratio": 8.32,
         "forward_return": 33.96,
         "start_price": 108.5,
         "start_year": 2023
@@ -3117,7 +3117,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 8.93,
+        "pe_ratio": 9.6,
         "forward_return": 40.33,
         "start_price": 124.0,
         "start_year": 2023
@@ -3126,7 +3126,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 9.05,
+        "pe_ratio": 10.02,
         "forward_return": 25.07,
         "start_price": 128.0,
         "start_year": 2023
@@ -3135,7 +3135,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 9.18,
         "forward_return": 25.15,
         "start_price": 124.0,
         "start_year": 2023
@@ -3144,7 +3144,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 9.02,
+        "pe_ratio": 9.31,
         "forward_return": 22.93,
         "start_price": 132.5,
         "start_year": 2023
@@ -3162,7 +3162,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 9.19,
+        "pe_ratio": 9.1,
         "forward_return": 24.43,
         "start_price": 139.0,
         "start_year": 2024
@@ -3180,7 +3180,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 11.29,
+        "pe_ratio": 12.26,
         "forward_return": -0.19,
         "start_price": 171.5,
         "start_year": 2018
@@ -3189,7 +3189,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 11.99,
+        "pe_ratio": 14.21,
         "forward_return": -1.66,
         "start_price": 183.5,
         "start_year": 2018
@@ -3198,7 +3198,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 15.89,
         "forward_return": -2.08,
         "start_price": 188.0,
         "start_year": 2018
@@ -3207,7 +3207,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.06,
+        "pe_ratio": 15.21,
         "forward_return": -4.37,
         "start_price": 203.0,
         "start_year": 2018
@@ -3216,7 +3216,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 12.27,
         "forward_return": -2.91,
         "start_price": 182.5,
         "start_year": 2018
@@ -3225,7 +3225,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.71,
         "forward_return": -0.96,
         "start_price": 175.5,
         "start_year": 2018
@@ -3234,7 +3234,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.58,
         "forward_return": -1.82,
         "start_price": 195.5,
         "start_year": 2018
@@ -3243,7 +3243,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 10.47,
         "forward_return": -0.46,
         "start_price": 182.0,
         "start_year": 2018
@@ -3252,7 +3252,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 9.54,
         "forward_return": 0.97,
         "start_price": 170.5,
         "start_year": 2018
@@ -3261,7 +3261,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.04,
+        "pe_ratio": 8.44,
         "forward_return": 6.88,
         "start_price": 147.0,
         "start_year": 2018
@@ -3270,7 +3270,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.05,
         "forward_return": 6.42,
         "start_price": 153.5,
         "start_year": 2018
@@ -3288,7 +3288,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 8.17,
         "forward_return": 11.35,
         "start_price": 140.5,
         "start_year": 2019
@@ -3297,7 +3297,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 10.72,
+        "pe_ratio": 9.69,
         "forward_return": 5.72,
         "start_price": 173.5,
         "start_year": 2019
@@ -3306,7 +3306,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.19,
         "forward_return": 5.71,
         "start_price": 171.0,
         "start_year": 2019
@@ -3315,7 +3315,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.16,
         "forward_return": 5.18,
         "start_price": 171.0,
         "start_year": 2019
@@ -3324,7 +3324,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.7,
         "forward_return": 4.7,
         "start_price": 176.0,
         "start_year": 2019
@@ -3333,7 +3333,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 12.08,
         "forward_return": 3.81,
         "start_price": 160.0,
         "start_year": 2019
@@ -3342,7 +3342,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 11.27,
         "forward_return": 5.99,
         "start_price": 152.0,
         "start_year": 2019
@@ -3351,7 +3351,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 9.56,
+        "pe_ratio": 10.64,
         "forward_return": -6.33,
         "start_price": 146.0,
         "start_year": 2019
@@ -3360,7 +3360,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 9.89,
+        "pe_ratio": 10.72,
         "forward_return": -8.29,
         "start_price": 149.5,
         "start_year": 2019
@@ -3369,7 +3369,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.61,
         "forward_return": -9.43,
         "start_price": 150.5,
         "start_year": 2019
@@ -3378,7 +3378,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.79,
         "forward_return": -9.49,
         "start_price": 155.5,
         "start_year": 2019
@@ -3396,7 +3396,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 10.46,
+        "pe_ratio": 10.77,
         "forward_return": -7.58,
         "start_price": 151.0,
         "start_year": 2020
@@ -3405,7 +3405,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.39,
         "forward_return": -4.11,
         "start_price": 152.5,
         "start_year": 2020
@@ -3414,7 +3414,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 10.31,
         "forward_return": 0.63,
         "start_price": 131.5,
         "start_year": 2020
@@ -3423,7 +3423,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.18,
         "forward_return": -5.08,
         "start_price": 152.0,
         "start_year": 2020
@@ -3432,7 +3432,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.45,
         "forward_return": -3.19,
         "start_price": 151.0,
         "start_year": 2020
@@ -3441,7 +3441,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 9.42,
         "forward_return": -3.11,
         "start_price": 144.0,
         "start_year": 2020
@@ -3450,7 +3450,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 9.5,
         "forward_return": -0.48,
         "start_price": 139.0,
         "start_year": 2020
@@ -3459,7 +3459,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.27,
         "forward_return": 2.05,
         "start_price": 143.5,
         "start_year": 2020
@@ -3468,7 +3468,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.36,
         "forward_return": 4.28,
         "start_price": 138.0,
         "start_year": 2020
@@ -3477,7 +3477,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.21,
         "forward_return": 5.06,
         "start_price": 131.5,
         "start_year": 2020
@@ -3486,7 +3486,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 11.21,
         "forward_return": 4.9,
         "start_price": 139.5,
         "start_year": 2020
@@ -3504,7 +3504,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 11.53,
         "forward_return": 7.33,
         "start_price": 135.5,
         "start_year": 2021
@@ -3513,7 +3513,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 12.14,
         "forward_return": 12.48,
         "start_price": 139.5,
         "start_year": 2021
@@ -3522,7 +3522,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 12.6,
         "forward_return": 14.96,
         "start_price": 141.5,
         "start_year": 2021
@@ -3531,7 +3531,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.64,
         "forward_return": 17.64,
         "start_price": 142.5,
         "start_year": 2021
@@ -3540,7 +3540,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 11.67,
         "forward_return": 20.5,
         "start_price": 132.0,
         "start_year": 2021
@@ -3549,7 +3549,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 9.42,
+        "pe_ratio": 11.94,
         "forward_return": 17.71,
         "start_price": 135.5,
         "start_year": 2021
@@ -3558,7 +3558,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.29,
+        "pe_ratio": 12.88,
         "forward_return": 8.07,
         "start_price": 152.0,
         "start_year": 2021
@@ -3567,7 +3567,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.66,
+        "pe_ratio": 11.95,
         "forward_return": 7.87,
         "start_price": 146.5,
         "start_year": 2021
@@ -3576,7 +3576,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.16,
+        "pe_ratio": 11.21,
         "forward_return": 9.85,
         "start_price": 142.5,
         "start_year": 2021
@@ -3585,7 +3585,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 10.42,
         "forward_return": 14.06,
         "start_price": 146.5,
         "start_year": 2021
@@ -3594,7 +3594,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 9.29,
+        "pe_ratio": 9.87,
         "forward_return": 12.92,
         "start_price": 152.0,
         "start_year": 2021
@@ -3612,7 +3612,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 9.03,
         "forward_return": 21.79,
         "start_price": 161.0,
         "start_year": 2022
@@ -3621,7 +3621,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.81,
+        "pe_ratio": 9.09,
         "forward_return": 14.3,
         "start_price": 172.0,
         "start_year": 2022
@@ -3630,7 +3630,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 10.9,
+        "pe_ratio": 8.45,
         "forward_return": 8.67,
         "start_price": 169.0,
         "start_year": 2022
@@ -3639,7 +3639,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 11.01,
+        "pe_ratio": 8.16,
         "forward_return": 6.65,
         "start_price": 166.0,
         "start_year": 2022
@@ -3648,7 +3648,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 11.53,
+        "pe_ratio": 8.17,
         "forward_return": 5.4,
         "start_price": 169.0,
         "start_year": 2022
@@ -3657,7 +3657,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 10.25,
+        "pe_ratio": 6.95,
         "forward_return": 9.15,
         "start_price": 146.0,
         "start_year": 2022
@@ -3666,7 +3666,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 8.33,
         "forward_return": 10.42,
         "start_price": 151.0,
         "start_year": 2022
@@ -3675,7 +3675,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 6.71,
+        "pe_ratio": 5.9,
         "forward_return": 41.08,
         "start_price": 90.0,
         "start_year": 2022
@@ -3684,7 +3684,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 6.57,
+        "pe_ratio": 6.88,
         "forward_return": 34.76,
         "start_price": 85.3,
         "start_year": 2022
@@ -3693,7 +3693,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 6.5,
+        "pe_ratio": 6.72,
         "forward_return": 35.33,
         "start_price": 81.8,
         "start_year": 2022
@@ -3702,7 +3702,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 7.02,
+        "pe_ratio": 7.13,
         "forward_return": 34.76,
         "start_price": 85.3,
         "start_year": 2022
@@ -3720,7 +3720,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 7.43,
+        "pe_ratio": 7.83,
         "forward_return": 35.87,
         "start_price": 89.2,
         "start_year": 2023
@@ -3729,7 +3729,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 8.06,
+        "pe_ratio": 8.95,
         "forward_return": 33.49,
         "start_price": 98.9,
         "start_year": 2023
@@ -3747,7 +3747,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 11.29,
+        "pe_ratio": 12.26,
         "forward_return": 4.43,
         "start_price": 171.5,
         "start_year": 2018
@@ -3756,7 +3756,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 11.99,
+        "pe_ratio": 14.21,
         "forward_return": 4.04,
         "start_price": 183.5,
         "start_year": 2018
@@ -3765,7 +3765,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 15.89,
         "forward_return": 3.05,
         "start_price": 188.0,
         "start_year": 2018
@@ -3774,7 +3774,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.06,
+        "pe_ratio": 15.21,
         "forward_return": 0.73,
         "start_price": 203.0,
         "start_year": 2018
@@ -3783,7 +3783,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 12.27,
         "forward_return": 3.82,
         "start_price": 182.5,
         "start_year": 2018
@@ -3792,7 +3792,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.71,
         "forward_return": 1.87,
         "start_price": 175.5,
         "start_year": 2018
@@ -3801,7 +3801,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.58,
         "forward_return": 0.06,
         "start_price": 195.5,
         "start_year": 2018
@@ -3810,7 +3810,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 10.47,
         "forward_return": -7.2,
         "start_price": 182.0,
         "start_year": 2018
@@ -3819,7 +3819,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 9.54,
         "forward_return": -6.5,
         "start_price": 170.5,
         "start_year": 2018
@@ -3828,7 +3828,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.04,
+        "pe_ratio": 8.44,
         "forward_return": -3.63,
         "start_price": 147.0,
         "start_year": 2018
@@ -3837,7 +3837,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.05,
         "forward_return": -4.01,
         "start_price": 153.5,
         "start_year": 2018
@@ -3855,7 +3855,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 8.17,
         "forward_return": -1.14,
         "start_price": 140.5,
         "start_year": 2019
@@ -3864,7 +3864,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 10.72,
+        "pe_ratio": 9.69,
         "forward_return": -4.57,
         "start_price": 173.5,
         "start_year": 2019
@@ -3873,7 +3873,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.19,
         "forward_return": -3.38,
         "start_price": 171.0,
         "start_year": 2019
@@ -3882,7 +3882,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.16,
         "forward_return": -4.04,
         "start_price": 171.0,
         "start_year": 2019
@@ -3891,7 +3891,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.7,
         "forward_return": -3.6,
         "start_price": 176.0,
         "start_year": 2019
@@ -3900,7 +3900,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 12.08,
         "forward_return": -2.26,
         "start_price": 160.0,
         "start_year": 2019
@@ -3909,7 +3909,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 11.27,
         "forward_return": -0.83,
         "start_price": 152.0,
         "start_year": 2019
@@ -3918,7 +3918,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 9.56,
+        "pe_ratio": 10.64,
         "forward_return": 2.71,
         "start_price": 146.0,
         "start_year": 2019
@@ -3927,7 +3927,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 9.89,
+        "pe_ratio": 10.72,
         "forward_return": 2.73,
         "start_price": 149.5,
         "start_year": 2019
@@ -3936,7 +3936,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.61,
         "forward_return": 1.94,
         "start_price": 150.5,
         "start_year": 2019
@@ -3945,7 +3945,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.79,
         "forward_return": 2.4,
         "start_price": 155.5,
         "start_year": 2019
@@ -3963,7 +3963,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 10.46,
+        "pe_ratio": 10.77,
         "forward_return": 4.12,
         "start_price": 151.0,
         "start_year": 2020
@@ -3972,7 +3972,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.39,
         "forward_return": 8.13,
         "start_price": 152.5,
         "start_year": 2020
@@ -3981,7 +3981,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 10.31,
         "forward_return": 14.37,
         "start_price": 131.5,
         "start_year": 2020
@@ -3990,7 +3990,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.18,
         "forward_return": 12.33,
         "start_price": 152.0,
         "start_year": 2020
@@ -3999,7 +3999,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.45,
         "forward_return": 12.4,
         "start_price": 151.0,
         "start_year": 2020
@@ -4008,7 +4008,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 9.42,
         "forward_return": 12.54,
         "start_price": 144.0,
         "start_year": 2020
@@ -4017,7 +4017,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 9.5,
         "forward_return": 9.51,
         "start_price": 139.0,
         "start_year": 2020
@@ -4026,7 +4026,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.27,
         "forward_return": 7.53,
         "start_price": 143.5,
         "start_year": 2020
@@ -4035,7 +4035,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.36,
         "forward_return": 9.29,
         "start_price": 138.0,
         "start_year": 2020
@@ -4044,7 +4044,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.21,
         "forward_return": 14.42,
         "start_price": 131.5,
         "start_year": 2020
@@ -4053,7 +4053,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 11.21,
         "forward_return": 12.93,
         "start_price": 139.5,
         "start_year": 2020
@@ -4071,7 +4071,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 11.53,
         "forward_return": 21.87,
         "start_price": 135.5,
         "start_year": 2021
@@ -4080,7 +4080,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 12.14,
         "forward_return": 17.39,
         "start_price": 139.5,
         "start_year": 2021
@@ -4089,7 +4089,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 10.72,
+        "pe_ratio": 12.6,
         "forward_return": 12.28,
         "start_price": 141.5,
         "start_year": 2021
@@ -4098,7 +4098,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 10.49,
+        "pe_ratio": 12.64,
         "forward_return": 10.1,
         "start_price": 142.5,
         "start_year": 2021
@@ -4107,7 +4107,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 9.44,
+        "pe_ratio": 11.67,
         "forward_return": 11.75,
         "start_price": 132.0,
         "start_year": 2021
@@ -4116,7 +4116,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 9.42,
+        "pe_ratio": 11.94,
         "forward_return": 9.93,
         "start_price": 135.5,
         "start_year": 2021
@@ -4125,7 +4125,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 10.29,
+        "pe_ratio": 12.88,
         "forward_return": 9.09,
         "start_price": 152.0,
         "start_year": 2021
@@ -4134,7 +4134,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 9.66,
+        "pe_ratio": 11.95,
         "forward_return": 15.95,
         "start_price": 146.5,
         "start_year": 2021
@@ -4143,7 +4143,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 9.16,
+        "pe_ratio": 11.21,
         "forward_return": 11.57,
         "start_price": 142.5,
         "start_year": 2021
@@ -4152,7 +4152,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 9.18,
+        "pe_ratio": 10.42,
         "forward_return": 10.04,
         "start_price": 146.5,
         "start_year": 2021
@@ -4161,7 +4161,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 9.29,
+        "pe_ratio": 9.87,
         "forward_return": 9.78,
         "start_price": 152.0,
         "start_year": 2021
@@ -4179,7 +4179,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 9.03,
         "forward_return": 10.01,
         "start_price": 161.0,
         "start_year": 2022
@@ -4188,7 +4188,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 10.81,
+        "pe_ratio": 9.09,
         "forward_return": 9.5,
         "start_price": 172.0,
         "start_year": 2022
@@ -4206,7 +4206,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 11.29,
+        "pe_ratio": 12.26,
         "forward_return": -3.41,
         "start_price": 171.5,
         "start_year": 2018
@@ -4215,7 +4215,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 11.99,
+        "pe_ratio": 14.21,
         "forward_return": -3.46,
         "start_price": 183.5,
         "start_year": 2018
@@ -4224,7 +4224,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 15.89,
         "forward_return": -3.3,
         "start_price": 188.0,
         "start_year": 2018
@@ -4233,7 +4233,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.06,
+        "pe_ratio": 15.21,
         "forward_return": -5.25,
         "start_price": 203.0,
         "start_year": 2018
@@ -4242,7 +4242,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 12.27,
         "forward_return": -2.36,
         "start_price": 182.5,
         "start_year": 2018
@@ -4251,7 +4251,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.71,
         "forward_return": -2.33,
         "start_price": 175.5,
         "start_year": 2018
@@ -4260,7 +4260,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.58,
         "forward_return": -3.69,
         "start_price": 195.5,
         "start_year": 2018
@@ -4269,7 +4269,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 10.47,
         "forward_return": -0.5,
         "start_price": 182.0,
         "start_year": 2018
@@ -4278,7 +4278,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 9.54,
         "forward_return": 1.26,
         "start_price": 170.5,
         "start_year": 2018
@@ -4287,7 +4287,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.04,
+        "pe_ratio": 8.44,
         "forward_return": 3.84,
         "start_price": 147.0,
         "start_year": 2018
@@ -4296,7 +4296,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.05,
         "forward_return": 3.92,
         "start_price": 153.5,
         "start_year": 2018
@@ -4314,7 +4314,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 8.17,
         "forward_return": 6.5,
         "start_price": 140.5,
         "start_year": 2019
@@ -4323,7 +4323,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 10.72,
+        "pe_ratio": 9.69,
         "forward_return": 5.2,
         "start_price": 173.5,
         "start_year": 2019
@@ -4332,7 +4332,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.19,
         "forward_return": 7.01,
         "start_price": 171.0,
         "start_year": 2019
@@ -4341,7 +4341,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.16,
         "forward_return": 8.49,
         "start_price": 171.0,
         "start_year": 2019
@@ -4350,7 +4350,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.7,
         "forward_return": 7.78,
         "start_price": 176.0,
         "start_year": 2019
@@ -4359,7 +4359,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 12.08,
         "forward_return": 8.98,
         "start_price": 160.0,
         "start_year": 2019
@@ -4368,7 +4368,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 11.27,
         "forward_return": 6.66,
         "start_price": 152.0,
         "start_year": 2019
@@ -4377,7 +4377,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 9.56,
+        "pe_ratio": 10.64,
         "forward_return": 6.69,
         "start_price": 146.0,
         "start_year": 2019
@@ -4386,7 +4386,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 9.89,
+        "pe_ratio": 10.72,
         "forward_return": 6.71,
         "start_price": 149.5,
         "start_year": 2019
@@ -4395,7 +4395,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.61,
         "forward_return": 9.35,
         "start_price": 150.5,
         "start_year": 2019
@@ -4404,7 +4404,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.79,
         "forward_return": 8.78,
         "start_price": 155.5,
         "start_year": 2019
@@ -4422,7 +4422,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 10.46,
+        "pe_ratio": 10.77,
         "forward_return": 15.38,
         "start_price": 151.0,
         "start_year": 2020
@@ -4431,7 +4431,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 10.73,
+        "pe_ratio": 11.39,
         "forward_return": 8.87,
         "start_price": 152.5,
         "start_year": 2020
@@ -4440,7 +4440,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 9.4,
+        "pe_ratio": 10.31,
         "forward_return": 12.3,
         "start_price": 131.5,
         "start_year": 2020
@@ -4449,7 +4449,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 11.04,
+        "pe_ratio": 11.18,
         "forward_return": 7.62,
         "start_price": 152.0,
         "start_year": 2020
@@ -4458,7 +4458,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 11.14,
+        "pe_ratio": 10.45,
         "forward_return": 7.41,
         "start_price": 151.0,
         "start_year": 2020
@@ -4467,7 +4467,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 10.8,
+        "pe_ratio": 9.42,
         "forward_return": 7.62,
         "start_price": 144.0,
         "start_year": 2020
@@ -4476,7 +4476,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 10.6,
+        "pe_ratio": 9.5,
         "forward_return": 9.94,
         "start_price": 139.0,
         "start_year": 2020
@@ -4485,7 +4485,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 11.13,
+        "pe_ratio": 10.27,
         "forward_return": 13.71,
         "start_price": 143.5,
         "start_year": 2020
@@ -4494,7 +4494,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 10.89,
+        "pe_ratio": 10.36,
         "forward_return": 10.64,
         "start_price": 138.0,
         "start_year": 2020
@@ -4503,7 +4503,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 10.56,
+        "pe_ratio": 10.21,
         "forward_return": 11.12,
         "start_price": 131.5,
         "start_year": 2020
@@ -4512,7 +4512,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.41,
+        "pe_ratio": 11.21,
         "forward_return": 10.4,
         "start_price": 139.5,
         "start_year": 2020
@@ -4530,7 +4530,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.92,
+        "pe_ratio": 11.53,
         "forward_return": 12.47,
         "start_price": 135.5,
         "start_year": 2021
@@ -4539,7 +4539,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 10.9,
+        "pe_ratio": 12.14,
         "forward_return": 12.85,
         "start_price": 139.5,
         "start_year": 2021
@@ -4557,7 +4557,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 11.29,
+        "pe_ratio": 12.26,
         "forward_return": 2.81,
         "start_price": 171.5,
         "start_year": 2018
@@ -4566,7 +4566,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 11.99,
+        "pe_ratio": 14.21,
         "forward_return": 4.1,
         "start_price": 183.5,
         "start_year": 2018
@@ -4575,7 +4575,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 12.19,
+        "pe_ratio": 15.89,
         "forward_return": 4.86,
         "start_price": 188.0,
         "start_year": 2018
@@ -4584,7 +4584,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 13.06,
+        "pe_ratio": 15.21,
         "forward_return": 4.67,
         "start_price": 203.0,
         "start_year": 2018
@@ -4593,7 +4593,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 11.65,
+        "pe_ratio": 12.27,
         "forward_return": 6.48,
         "start_price": 182.5,
         "start_year": 2018
@@ -4602,7 +4602,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 11.12,
+        "pe_ratio": 10.71,
         "forward_return": 6.49,
         "start_price": 175.5,
         "start_year": 2018
@@ -4611,7 +4611,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 12.29,
+        "pe_ratio": 11.58,
         "forward_return": 2.36,
         "start_price": 195.5,
         "start_year": 2018
@@ -4620,7 +4620,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 11.36,
+        "pe_ratio": 10.47,
         "forward_return": 2.96,
         "start_price": 182.0,
         "start_year": 2018
@@ -4629,7 +4629,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 10.56,
+        "pe_ratio": 9.54,
         "forward_return": 4.49,
         "start_price": 170.5,
         "start_year": 2018
@@ -4638,7 +4638,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 9.04,
+        "pe_ratio": 8.44,
         "forward_return": 9.28,
         "start_price": 147.0,
         "start_year": 2018
@@ -4647,7 +4647,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 9.37,
+        "pe_ratio": 9.05,
         "forward_return": 8.6,
         "start_price": 153.5,
         "start_year": 2018
@@ -4665,7 +4665,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 8.6,
+        "pe_ratio": 8.17,
         "forward_return": 14.93,
         "start_price": 140.5,
         "start_year": 2019
@@ -4674,7 +4674,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 10.72,
+        "pe_ratio": 9.69,
         "forward_return": 8.93,
         "start_price": 173.5,
         "start_year": 2019
@@ -4683,7 +4683,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 10.66,
+        "pe_ratio": 9.19,
         "forward_return": 6.52,
         "start_price": 171.0,
         "start_year": 2019
@@ -4692,7 +4692,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 10.77,
+        "pe_ratio": 10.16,
         "forward_return": 5.39,
         "start_price": 171.0,
         "start_year": 2019
@@ -4701,7 +4701,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.7,
         "forward_return": 4.63,
         "start_price": 176.0,
         "start_year": 2019
@@ -4710,7 +4710,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 10.27,
+        "pe_ratio": 12.08,
         "forward_return": 5.68,
         "start_price": 160.0,
         "start_year": 2019
@@ -4719,7 +4719,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 9.86,
+        "pe_ratio": 11.27,
         "forward_return": 7.4,
         "start_price": 152.0,
         "start_year": 2019
@@ -4728,7 +4728,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 9.56,
+        "pe_ratio": 10.64,
         "forward_return": 11.64,
         "start_price": 146.0,
         "start_year": 2019
@@ -4737,7 +4737,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 9.89,
+        "pe_ratio": 10.72,
         "forward_return": 8.12,
         "start_price": 149.5,
         "start_year": 2019
@@ -4746,7 +4746,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 10.06,
+        "pe_ratio": 10.61,
         "forward_return": 7.54,
         "start_price": 150.5,
         "start_year": 2019
@@ -4755,7 +4755,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 10.5,
+        "pe_ratio": 10.79,
         "forward_return": 7.41,
         "start_price": 155.5,
         "start_year": 2019
@@ -4773,7 +4773,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 10.46,
+        "pe_ratio": 10.77,
         "forward_return": 9.04,
         "start_price": 151.0,
         "start_year": 2020
@@ -4791,7 +4791,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 11.29,
+        "pe_ratio": 12.26,
         "forward_return": 6.26,
         "start_price": 171.5,
         "start_year": 2018
@@ -4800,7 +4800,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 11.99,
+        "pe_ratio": 14.21,
         "forward_return": 5.9,
         "start_price": 183.5,
         "start_year": 2018
@@ -5005,7 +5005,7 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 8.2倍、9.4倍、10.6倍、11.1倍、12.2倍"
+!!! note "本益比河流帶水位: 8.2倍、9.2倍、10.5倍、11.7倍、13.7倍"
 
 ```vegalite
 {
@@ -5017,991 +5017,991 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
         "date": "2017-12-16",
         "price": 179.0,
         "pe": 11.88,
-        "pe_10": 122.89,
-        "pe_25": 141.41,
-        "pe_50": 159.11,
-        "pe_75": 167.85,
-        "pe_90": 183.97
+        "pe_10": 123.1,
+        "pe_25": 139.37,
+        "pe_50": 158.66,
+        "pe_75": 176.06,
+        "pe_90": 206.39
       },
       {
         "date": "2018-01-16",
         "price": 171.5,
-        "pe": 11.29,
-        "pe_10": 123.89,
-        "pe_25": 142.56,
-        "pe_50": 160.41,
-        "pe_75": 169.22,
-        "pe_90": 185.48
+        "pe": 12.26,
+        "pe_10": 114.29,
+        "pe_25": 129.39,
+        "pe_50": 147.3,
+        "pe_75": 163.46,
+        "pe_90": 191.62
       },
       {
         "date": "2018-02-14",
         "price": 183.5,
-        "pe": 11.99,
-        "pe_10": 124.82,
-        "pe_25": 143.63,
-        "pe_50": 161.61,
-        "pe_75": 170.49,
-        "pe_90": 186.87
+        "pe": 14.21,
+        "pe_10": 105.5,
+        "pe_25": 119.45,
+        "pe_50": 135.98,
+        "pe_75": 150.89,
+        "pe_90": 176.89
       },
       {
         "date": "2018-03-16",
         "price": 188.0,
-        "pe": 12.19,
-        "pe_10": 125.79,
-        "pe_25": 144.74,
-        "pe_50": 162.86,
-        "pe_75": 171.81,
-        "pe_90": 188.31
+        "pe": 15.89,
+        "pe_10": 96.66,
+        "pe_25": 109.44,
+        "pe_50": 124.58,
+        "pe_75": 138.25,
+        "pe_90": 162.07
       },
       {
         "date": "2018-04-15",
         "price": 203.0,
-        "pe": 13.06,
-        "pe_10": 126.77,
-        "pe_25": 145.88,
-        "pe_50": 164.14,
-        "pe_75": 173.16,
-        "pe_90": 189.79
+        "pe": 15.21,
+        "pe_10": 109.04,
+        "pe_25": 123.45,
+        "pe_50": 140.54,
+        "pe_75": 155.95,
+        "pe_90": 182.82
       },
       {
         "date": "2018-05-16",
         "price": 182.5,
-        "pe": 11.65,
-        "pe_10": 127.77,
-        "pe_25": 147.02,
-        "pe_50": 165.42,
-        "pe_75": 174.51,
-        "pe_90": 191.27
+        "pe": 12.27,
+        "pe_10": 121.52,
+        "pe_25": 137.58,
+        "pe_50": 156.62,
+        "pe_75": 173.8,
+        "pe_90": 203.74
       },
       {
         "date": "2018-06-15",
         "price": 175.5,
-        "pe": 11.12,
-        "pe_10": 128.72,
-        "pe_25": 148.12,
-        "pe_50": 166.66,
-        "pe_75": 175.82,
-        "pe_90": 192.7
+        "pe": 10.71,
+        "pe_10": 133.88,
+        "pe_25": 151.58,
+        "pe_50": 172.55,
+        "pe_75": 191.48,
+        "pe_90": 224.46
       },
       {
         "date": "2018-07-16",
         "price": 195.5,
-        "pe": 12.29,
-        "pe_10": 129.74,
-        "pe_25": 149.29,
-        "pe_50": 167.98,
-        "pe_75": 177.21,
-        "pe_90": 194.23
+        "pe": 11.58,
+        "pe_10": 137.93,
+        "pe_25": 156.16,
+        "pe_50": 177.77,
+        "pe_75": 197.27,
+        "pe_90": 231.26
       },
       {
         "date": "2018-08-16",
         "price": 182.0,
-        "pe": 11.36,
-        "pe_10": 130.67,
-        "pe_25": 150.36,
-        "pe_50": 169.18,
-        "pe_75": 178.48,
-        "pe_90": 195.62
+        "pe": 10.47,
+        "pe_10": 142.02,
+        "pe_25": 160.79,
+        "pe_50": 183.04,
+        "pe_75": 203.12,
+        "pe_90": 238.11
       },
       {
         "date": "2018-09-15",
         "price": 170.5,
-        "pe": 10.56,
-        "pe_10": 131.69,
-        "pe_25": 151.53,
-        "pe_50": 170.5,
-        "pe_75": 179.86,
-        "pe_90": 197.14
+        "pe": 9.54,
+        "pe_10": 146.02,
+        "pe_25": 165.32,
+        "pe_50": 188.19,
+        "pe_75": 208.84,
+        "pe_90": 244.81
       },
       {
         "date": "2018-10-16",
         "price": 147.0,
-        "pe": 9.04,
-        "pe_10": 132.63,
-        "pe_25": 152.61,
-        "pe_50": 171.72,
-        "pe_75": 181.15,
-        "pe_90": 198.55
+        "pe": 8.44,
+        "pe_10": 142.3,
+        "pe_25": 161.11,
+        "pe_50": 183.4,
+        "pe_75": 203.52,
+        "pe_90": 238.58
       },
       {
         "date": "2018-11-15",
         "price": 153.5,
-        "pe": 9.37,
-        "pe_10": 133.61,
-        "pe_25": 153.75,
-        "pe_50": 172.99,
-        "pe_75": 182.5,
-        "pe_90": 200.03
+        "pe": 9.05,
+        "pe_10": 138.57,
+        "pe_25": 156.89,
+        "pe_50": 178.6,
+        "pe_75": 198.19,
+        "pe_90": 232.34
       },
       {
         "date": "2018-12-16",
         "price": 140.0,
         "pe": 8.48,
-        "pe_10": 134.65,
-        "pe_25": 154.94,
-        "pe_50": 174.34,
-        "pe_75": 183.92,
-        "pe_90": 201.58
+        "pe_10": 134.88,
+        "pe_25": 152.71,
+        "pe_50": 173.84,
+        "pe_75": 192.91,
+        "pe_90": 226.15
       },
       {
         "date": "2019-01-16",
         "price": 140.5,
-        "pe": 8.6,
-        "pe_10": 133.25,
-        "pe_25": 153.32,
-        "pe_50": 172.52,
-        "pe_75": 182.0,
-        "pe_90": 199.48
+        "pe": 8.17,
+        "pe_10": 140.5,
+        "pe_25": 159.07,
+        "pe_50": 181.09,
+        "pe_75": 200.95,
+        "pe_90": 235.57
       },
       {
         "date": "2019-02-14",
         "price": 173.5,
-        "pe": 10.72,
-        "pe_10": 132.0,
-        "pe_25": 151.89,
-        "pe_50": 170.91,
-        "pe_75": 180.3,
-        "pe_90": 197.62
+        "pe": 9.69,
+        "pe_10": 146.28,
+        "pe_25": 165.62,
+        "pe_50": 188.54,
+        "pe_75": 209.22,
+        "pe_90": 245.26
       },
       {
         "date": "2019-03-16",
         "price": 171.0,
-        "pe": 10.66,
-        "pe_10": 130.83,
-        "pe_25": 150.55,
-        "pe_50": 169.4,
-        "pe_75": 178.7,
-        "pe_90": 195.86
+        "pe": 9.19,
+        "pe_10": 152.02,
+        "pe_25": 172.12,
+        "pe_50": 195.93,
+        "pe_75": 217.42,
+        "pe_90": 254.88
       },
       {
         "date": "2019-04-15",
         "price": 171.0,
-        "pe": 10.77,
-        "pe_10": 129.5,
-        "pe_25": 149.01,
-        "pe_50": 167.67,
-        "pe_75": 176.87,
-        "pe_90": 193.86
+        "pe": 10.16,
+        "pe_10": 137.51,
+        "pe_25": 155.68,
+        "pe_50": 177.23,
+        "pe_75": 196.67,
+        "pe_90": 230.55
       },
       {
         "date": "2019-05-16",
         "price": 176.0,
-        "pe": 11.19,
-        "pe_10": 128.28,
-        "pe_25": 147.61,
-        "pe_50": 166.09,
-        "pe_75": 175.21,
-        "pe_90": 192.04
+        "pe": 11.7,
+        "pe_10": 122.9,
+        "pe_25": 139.15,
+        "pe_50": 158.4,
+        "pe_75": 175.77,
+        "pe_90": 206.06
       },
       {
         "date": "2019-06-15",
         "price": 160.0,
-        "pe": 10.27,
-        "pe_10": 127.07,
-        "pe_25": 146.21,
-        "pe_50": 164.52,
-        "pe_75": 173.55,
-        "pe_90": 190.22
+        "pe": 12.08,
+        "pe_10": 108.21,
+        "pe_25": 122.52,
+        "pe_50": 139.47,
+        "pe_75": 154.77,
+        "pe_90": 181.43
       },
       {
         "date": "2019-07-16",
         "price": 152.0,
-        "pe": 9.86,
-        "pe_10": 125.73,
-        "pe_25": 144.68,
-        "pe_50": 162.79,
-        "pe_75": 171.73,
-        "pe_90": 188.23
+        "pe": 11.27,
+        "pe_10": 110.19,
+        "pe_25": 124.76,
+        "pe_50": 142.02,
+        "pe_75": 157.6,
+        "pe_90": 184.75
       },
       {
         "date": "2019-08-16",
         "price": 146.0,
-        "pe": 9.56,
-        "pe_10": 124.56,
-        "pe_25": 143.33,
-        "pe_50": 161.27,
-        "pe_75": 170.13,
-        "pe_90": 186.47
+        "pe": 10.64,
+        "pe_10": 112.11,
+        "pe_25": 126.93,
+        "pe_50": 144.49,
+        "pe_75": 160.34,
+        "pe_90": 187.96
       },
       {
         "date": "2019-09-15",
         "price": 149.5,
-        "pe": 9.89,
-        "pe_10": 123.29,
-        "pe_25": 141.87,
-        "pe_50": 159.63,
-        "pe_75": 168.4,
-        "pe_90": 184.57
+        "pe": 10.72,
+        "pe_10": 113.94,
+        "pe_25": 129.0,
+        "pe_50": 146.85,
+        "pe_75": 162.96,
+        "pe_90": 191.03
       },
       {
         "date": "2019-10-16",
         "price": 150.5,
-        "pe": 10.06,
-        "pe_10": 122.02,
-        "pe_25": 140.4,
-        "pe_50": 157.98,
-        "pe_75": 166.66,
-        "pe_90": 182.66
+        "pe": 10.61,
+        "pe_10": 115.89,
+        "pe_25": 131.21,
+        "pe_50": 149.37,
+        "pe_75": 165.75,
+        "pe_90": 194.3
       },
       {
         "date": "2019-11-15",
         "price": 155.5,
-        "pe": 10.5,
-        "pe_10": 120.79,
-        "pe_25": 138.99,
-        "pe_50": 156.39,
-        "pe_75": 164.98,
-        "pe_90": 180.82
+        "pe": 10.79,
+        "pe_10": 117.74,
+        "pe_25": 133.31,
+        "pe_50": 151.75,
+        "pe_75": 168.4,
+        "pe_90": 197.41
       },
       {
         "date": "2019-12-16",
         "price": 166.0,
         "pe": 11.33,
-        "pe_10": 119.5,
-        "pe_25": 137.5,
-        "pe_50": 154.72,
-        "pe_75": 163.22,
-        "pe_90": 178.89
+        "pe_10": 119.7,
+        "pe_25": 135.53,
+        "pe_50": 154.28,
+        "pe_75": 171.2,
+        "pe_90": 200.69
       },
       {
         "date": "2020-01-16",
         "price": 151.0,
-        "pe": 10.46,
-        "pe_10": 117.74,
-        "pe_25": 135.48,
-        "pe_50": 152.44,
-        "pe_75": 160.82,
-        "pe_90": 176.26
+        "pe": 10.77,
+        "pe_10": 114.55,
+        "pe_25": 129.69,
+        "pe_50": 147.64,
+        "pe_75": 163.83,
+        "pe_90": 192.05
       },
       {
         "date": "2020-02-15",
         "price": 152.5,
-        "pe": 10.73,
-        "pe_10": 115.92,
-        "pe_25": 133.38,
-        "pe_50": 150.08,
-        "pe_75": 158.33,
-        "pe_90": 173.53
+        "pe": 11.39,
+        "pe_10": 109.39,
+        "pe_25": 123.85,
+        "pe_50": 140.99,
+        "pe_75": 156.45,
+        "pe_90": 183.4
       },
       {
         "date": "2020-03-16",
         "price": 131.5,
-        "pe": 9.4,
-        "pe_10": 114.1,
-        "pe_25": 131.29,
-        "pe_50": 147.73,
-        "pe_75": 155.84,
-        "pe_90": 170.81
+        "pe": 10.31,
+        "pe_10": 104.21,
+        "pe_25": 117.98,
+        "pe_50": 134.31,
+        "pe_75": 149.04,
+        "pe_90": 174.71
       },
       {
         "date": "2020-04-15",
         "price": 152.0,
-        "pe": 11.04,
-        "pe_10": 112.29,
-        "pe_25": 129.21,
-        "pe_50": 145.39,
-        "pe_75": 153.38,
-        "pe_90": 168.11
+        "pe": 11.18,
+        "pe_10": 111.08,
+        "pe_25": 125.76,
+        "pe_50": 143.16,
+        "pe_75": 158.87,
+        "pe_90": 186.23
       },
       {
         "date": "2020-05-16",
         "price": 151.0,
-        "pe": 11.14,
-        "pe_10": 110.55,
-        "pe_25": 127.21,
-        "pe_50": 143.14,
-        "pe_75": 151.0,
-        "pe_90": 165.5
+        "pe": 10.45,
+        "pe_10": 118.05,
+        "pe_25": 133.66,
+        "pe_50": 152.16,
+        "pe_75": 168.85,
+        "pe_90": 197.93
       },
       {
         "date": "2020-06-15",
         "price": 144.0,
-        "pe": 10.8,
-        "pe_10": 108.75,
-        "pe_25": 125.13,
-        "pe_50": 140.8,
-        "pe_75": 148.53,
-        "pe_90": 162.8
+        "pe": 9.42,
+        "pe_10": 124.89,
+        "pe_25": 141.4,
+        "pe_50": 160.97,
+        "pe_75": 178.62,
+        "pe_90": 209.4
       },
       {
         "date": "2020-07-16",
         "price": 139.0,
-        "pe": 10.6,
-        "pe_10": 106.95,
-        "pe_25": 123.07,
-        "pe_50": 138.48,
-        "pe_75": 146.08,
-        "pe_90": 160.11
+        "pe": 9.5,
+        "pe_10": 119.54,
+        "pe_25": 135.34,
+        "pe_50": 154.07,
+        "pe_75": 170.97,
+        "pe_90": 200.42
       },
       {
         "date": "2020-08-16",
         "price": 143.5,
-        "pe": 11.13,
-        "pe_10": 105.16,
-        "pe_25": 121.0,
-        "pe_50": 136.15,
-        "pe_75": 143.63,
-        "pe_90": 157.42
+        "pe": 10.27,
+        "pe_10": 114.16,
+        "pe_25": 129.25,
+        "pe_50": 147.13,
+        "pe_75": 163.27,
+        "pe_90": 191.4
       },
       {
         "date": "2020-09-15",
         "price": 138.0,
-        "pe": 10.89,
-        "pe_10": 103.35,
-        "pe_25": 118.93,
-        "pe_50": 133.82,
-        "pe_75": 141.17,
-        "pe_90": 154.73
+        "pe": 10.36,
+        "pe_10": 108.83,
+        "pe_25": 123.21,
+        "pe_50": 140.26,
+        "pe_75": 155.65,
+        "pe_90": 182.46
       },
       {
         "date": "2020-10-16",
         "price": 131.5,
-        "pe": 10.56,
-        "pe_10": 101.56,
-        "pe_25": 116.87,
-        "pe_50": 131.5,
-        "pe_75": 138.72,
-        "pe_90": 152.05
+        "pe": 10.21,
+        "pe_10": 105.23,
+        "pe_25": 119.14,
+        "pe_50": 135.62,
+        "pe_75": 150.5,
+        "pe_90": 176.42
       },
       {
         "date": "2020-11-15",
         "price": 139.5,
-        "pe": 11.41,
-        "pe_10": 99.72,
-        "pe_25": 114.74,
-        "pe_50": 129.11,
-        "pe_75": 136.2,
-        "pe_90": 149.28
+        "pe": 11.21,
+        "pe_10": 101.67,
+        "pe_25": 115.11,
+        "pe_50": 131.04,
+        "pe_75": 145.41,
+        "pe_90": 170.46
       },
       {
         "date": "2020-12-16",
         "price": 139.5,
         "pe": 11.62,
-        "pe_10": 97.91,
-        "pe_25": 112.67,
-        "pe_50": 126.77,
-        "pe_75": 133.74,
-        "pe_90": 146.58
+        "pe_10": 98.08,
+        "pe_25": 111.05,
+        "pe_50": 126.41,
+        "pe_75": 140.28,
+        "pe_90": 164.45
       },
       {
         "date": "2021-01-16",
         "price": 135.5,
-        "pe": 10.92,
-        "pe_10": 101.2,
-        "pe_25": 116.45,
-        "pe_50": 131.03,
-        "pe_75": 138.23,
-        "pe_90": 151.51
+        "pe": 11.53,
+        "pe_10": 96.01,
+        "pe_25": 108.71,
+        "pe_50": 123.75,
+        "pe_75": 137.32,
+        "pe_90": 160.98
       },
       {
         "date": "2021-02-14",
         "price": 139.5,
-        "pe": 10.9,
-        "pe_10": 104.38,
-        "pe_25": 120.11,
-        "pe_50": 135.15,
-        "pe_75": 142.57,
-        "pe_90": 156.27
+        "pe": 12.14,
+        "pe_10": 93.88,
+        "pe_25": 106.29,
+        "pe_50": 121.0,
+        "pe_75": 134.27,
+        "pe_90": 157.4
       },
       {
         "date": "2021-03-16",
         "price": 141.5,
-        "pe": 10.72,
-        "pe_10": 107.66,
-        "pe_25": 123.88,
-        "pe_50": 139.39,
-        "pe_75": 147.04,
-        "pe_90": 161.17
+        "pe": 12.6,
+        "pe_10": 91.75,
+        "pe_25": 103.88,
+        "pe_50": 118.25,
+        "pe_75": 131.22,
+        "pe_90": 153.83
       },
       {
         "date": "2021-04-15",
         "price": 142.5,
-        "pe": 10.49,
-        "pe_10": 110.79,
-        "pe_25": 127.49,
-        "pe_50": 143.45,
-        "pe_75": 151.33,
-        "pe_90": 165.87
+        "pe": 12.64,
+        "pe_10": 92.11,
+        "pe_25": 104.28,
+        "pe_50": 118.71,
+        "pe_75": 131.73,
+        "pe_90": 154.43
       },
       {
         "date": "2021-05-16",
         "price": 132.0,
-        "pe": 9.44,
-        "pe_10": 114.05,
-        "pe_25": 131.23,
-        "pe_50": 147.66,
-        "pe_75": 155.77,
-        "pe_90": 170.73
+        "pe": 11.67,
+        "pe_10": 92.41,
+        "pe_25": 104.63,
+        "pe_50": 119.11,
+        "pe_75": 132.17,
+        "pe_90": 154.94
       },
       {
         "date": "2021-06-15",
         "price": 135.5,
-        "pe": 9.42,
-        "pe_10": 117.32,
-        "pe_25": 135.0,
-        "pe_50": 151.9,
-        "pe_75": 160.24,
-        "pe_90": 175.63
+        "pe": 11.94,
+        "pe_10": 92.72,
+        "pe_25": 104.97,
+        "pe_50": 119.5,
+        "pe_75": 132.61,
+        "pe_90": 155.45
       },
       {
         "date": "2021-07-16",
         "price": 152.0,
-        "pe": 10.29,
-        "pe_10": 120.48,
-        "pe_25": 138.63,
-        "pe_50": 155.99,
-        "pe_75": 164.56,
-        "pe_90": 180.36
+        "pe": 12.88,
+        "pe_10": 96.42,
+        "pe_25": 109.16,
+        "pe_50": 124.27,
+        "pe_75": 137.9,
+        "pe_90": 161.65
       },
       {
         "date": "2021-08-16",
         "price": 146.5,
-        "pe": 9.66,
-        "pe_10": 123.69,
-        "pe_25": 142.33,
-        "pe_50": 160.15,
-        "pe_75": 168.95,
-        "pe_90": 185.17
+        "pe": 11.95,
+        "pe_10": 100.16,
+        "pe_25": 113.4,
+        "pe_50": 129.09,
+        "pe_75": 143.25,
+        "pe_90": 167.93
       },
       {
         "date": "2021-09-15",
         "price": 142.5,
-        "pe": 9.16,
-        "pe_10": 126.88,
-        "pe_25": 146.0,
-        "pe_50": 164.28,
-        "pe_75": 173.3,
-        "pe_90": 189.95
+        "pe": 11.21,
+        "pe_10": 103.86,
+        "pe_25": 117.58,
+        "pe_50": 133.86,
+        "pe_75": 148.54,
+        "pe_90": 174.13
       },
       {
         "date": "2021-10-16",
         "price": 146.5,
-        "pe": 9.18,
-        "pe_10": 130.16,
-        "pe_25": 149.77,
-        "pe_50": 168.52,
-        "pe_75": 177.78,
-        "pe_90": 194.85
+        "pe": 10.42,
+        "pe_10": 114.87,
+        "pe_25": 130.05,
+        "pe_50": 148.05,
+        "pe_75": 164.29,
+        "pe_90": 192.59
       },
       {
         "date": "2021-11-15",
         "price": 152.0,
-        "pe": 9.29,
-        "pe_10": 133.45,
-        "pe_25": 153.55,
-        "pe_50": 172.78,
-        "pe_75": 182.27,
-        "pe_90": 199.78
+        "pe": 9.87,
+        "pe_10": 125.82,
+        "pe_25": 142.45,
+        "pe_50": 162.16,
+        "pe_75": 179.95,
+        "pe_90": 210.95
       },
       {
         "date": "2021-12-16",
         "price": 169.0,
         "pe": 10.09,
-        "pe_10": 136.61,
-        "pe_25": 157.19,
-        "pe_50": 176.87,
-        "pe_75": 186.59,
-        "pe_90": 204.51
+        "pe_10": 136.84,
+        "pe_25": 154.93,
+        "pe_50": 176.37,
+        "pe_75": 195.72,
+        "pe_90": 229.43
       },
       {
         "date": "2022-01-16",
         "price": 161.0,
-        "pe": 9.86,
-        "pe_10": 133.18,
-        "pe_25": 153.24,
-        "pe_50": 172.43,
-        "pe_75": 181.9,
-        "pe_90": 199.37
+        "pe": 9.03,
+        "pe_10": 145.67,
+        "pe_25": 164.92,
+        "pe_50": 187.74,
+        "pe_75": 208.34,
+        "pe_90": 244.23
       },
       {
         "date": "2022-02-14",
         "price": 172.0,
-        "pe": 10.81,
-        "pe_10": 129.77,
-        "pe_25": 149.33,
-        "pe_50": 168.02,
-        "pe_75": 177.25,
-        "pe_90": 194.28
+        "pe": 9.09,
+        "pe_10": 154.59,
+        "pe_25": 175.03,
+        "pe_50": 199.25,
+        "pe_75": 221.1,
+        "pe_90": 259.19
       },
       {
         "date": "2022-03-16",
         "price": 169.0,
-        "pe": 10.9,
-        "pe_10": 126.46,
-        "pe_25": 145.51,
-        "pe_50": 163.73,
-        "pe_75": 172.72,
-        "pe_90": 189.31
+        "pe": 8.45,
+        "pe_10": 163.4,
+        "pe_25": 185.0,
+        "pe_50": 210.6,
+        "pe_75": 233.7,
+        "pe_90": 273.96
       },
       {
         "date": "2022-04-15",
         "price": 166.0,
-        "pe": 11.01,
-        "pe_10": 122.97,
-        "pe_25": 141.5,
-        "pe_50": 159.22,
-        "pe_75": 167.96,
-        "pe_90": 184.09
+        "pe": 8.16,
+        "pe_10": 166.2,
+        "pe_25": 188.17,
+        "pe_50": 214.21,
+        "pe_75": 237.71,
+        "pe_90": 278.66
       },
       {
         "date": "2022-05-16",
         "price": 169.0,
-        "pe": 11.53,
-        "pe_10": 119.55,
-        "pe_25": 137.56,
-        "pe_50": 154.78,
-        "pe_75": 163.28,
-        "pe_90": 178.97
+        "pe": 8.17,
+        "pe_10": 169.0,
+        "pe_25": 191.34,
+        "pe_50": 217.82,
+        "pe_75": 241.71,
+        "pe_90": 283.35
       },
       {
         "date": "2022-06-15",
         "price": 146.0,
-        "pe": 10.25,
-        "pe_10": 116.17,
-        "pe_25": 133.68,
-        "pe_50": 150.42,
-        "pe_75": 158.68,
-        "pe_90": 173.92
+        "pe": 6.95,
+        "pe_10": 171.63,
+        "pe_25": 194.32,
+        "pe_50": 221.21,
+        "pe_75": 245.47,
+        "pe_90": 287.76
       },
       {
         "date": "2022-07-16",
         "price": 151.0,
-        "pe": 10.92,
-        "pe_10": 112.78,
-        "pe_25": 129.77,
-        "pe_50": 146.02,
-        "pe_75": 154.04,
-        "pe_90": 168.84
+        "pe": 8.33,
+        "pe_10": 148.1,
+        "pe_25": 167.68,
+        "pe_50": 190.88,
+        "pe_75": 211.82,
+        "pe_90": 248.31
       },
       {
         "date": "2022-08-16",
         "price": 90.0,
-        "pe": 6.71,
-        "pe_10": 109.39,
-        "pe_25": 125.88,
-        "pe_50": 141.64,
-        "pe_75": 149.42,
-        "pe_90": 163.77
+        "pe": 5.9,
+        "pe_10": 124.63,
+        "pe_25": 141.1,
+        "pe_50": 160.63,
+        "pe_75": 178.25,
+        "pe_90": 208.95
       },
       {
         "date": "2022-09-15",
         "price": 85.3,
-        "pe": 6.57,
-        "pe_10": 105.89,
-        "pe_25": 121.85,
-        "pe_50": 137.1,
-        "pe_75": 144.63,
-        "pe_90": 158.53
+        "pe": 6.88,
+        "pe_10": 101.29,
+        "pe_25": 114.68,
+        "pe_50": 130.55,
+        "pe_75": 144.87,
+        "pe_90": 169.83
       },
       {
         "date": "2022-10-16",
         "price": 81.8,
-        "pe": 6.5,
-        "pe_10": 102.64,
-        "pe_25": 118.11,
-        "pe_50": 132.89,
-        "pe_75": 140.19,
-        "pe_90": 153.66
+        "pe": 6.72,
+        "pe_10": 99.45,
+        "pe_25": 112.6,
+        "pe_50": 128.18,
+        "pe_75": 142.24,
+        "pe_90": 166.74
       },
       {
         "date": "2022-11-15",
         "price": 85.3,
-        "pe": 7.02,
-        "pe_10": 99.1,
-        "pe_25": 114.04,
-        "pe_50": 128.31,
-        "pe_75": 135.36,
-        "pe_90": 148.36
+        "pe": 7.13,
+        "pe_10": 97.74,
+        "pe_25": 110.66,
+        "pe_50": 125.98,
+        "pe_75": 139.79,
+        "pe_90": 163.88
       },
       {
         "date": "2022-12-16",
         "price": 88.5,
         "pe": 7.54,
-        "pe_10": 95.73,
-        "pe_25": 110.16,
-        "pe_50": 123.95,
-        "pe_75": 130.75,
-        "pe_90": 143.31
+        "pe_10": 95.89,
+        "pe_25": 108.57,
+        "pe_50": 123.59,
+        "pe_75": 137.15,
+        "pe_90": 160.78
       },
       {
         "date": "2023-01-16",
         "price": 89.2,
-        "pe": 7.43,
-        "pe_10": 97.92,
-        "pe_25": 112.67,
-        "pe_50": 126.78,
-        "pe_75": 133.74,
-        "pe_90": 146.59
+        "pe": 7.83,
+        "pe_10": 93.07,
+        "pe_25": 105.38,
+        "pe_50": 119.96,
+        "pe_75": 133.12,
+        "pe_90": 156.05
       },
       {
         "date": "2023-02-14",
         "price": 98.9,
-        "pe": 8.06,
-        "pe_10": 100.08,
-        "pe_25": 115.16,
-        "pe_50": 129.58,
-        "pe_75": 136.69,
-        "pe_90": 149.82
+        "pe": 8.95,
+        "pe_10": 90.28,
+        "pe_25": 102.22,
+        "pe_50": 116.36,
+        "pe_75": 129.12,
+        "pe_90": 151.37
       },
       {
         "date": "2023-03-16",
         "price": 104.0,
-        "pe": 8.29,
-        "pe_10": 102.32,
-        "pe_25": 117.74,
-        "pe_50": 132.48,
-        "pe_75": 139.75,
-        "pe_90": 153.18
+        "pe": 9.72,
+        "pe_10": 87.42,
+        "pe_25": 98.97,
+        "pe_50": 112.67,
+        "pe_75": 125.02,
+        "pe_90": 146.56
       },
       {
         "date": "2023-04-15",
         "price": 100.0,
-        "pe": 7.81,
-        "pe_10": 104.43,
-        "pe_25": 120.17,
-        "pe_50": 135.21,
-        "pe_75": 142.64,
-        "pe_90": 156.34
+        "pe": 8.68,
+        "pe_10": 94.12,
+        "pe_25": 106.57,
+        "pe_50": 121.31,
+        "pe_75": 134.62,
+        "pe_90": 157.81
       },
       {
         "date": "2023-05-16",
         "price": 107.0,
-        "pe": 8.18,
-        "pe_10": 106.69,
-        "pe_25": 122.76,
-        "pe_50": 138.13,
-        "pe_75": 145.72,
-        "pe_90": 159.72
+        "pe": 8.67,
+        "pe_10": 100.83,
+        "pe_25": 114.16,
+        "pe_50": 129.96,
+        "pe_75": 144.21,
+        "pe_90": 169.05
       },
       {
         "date": "2023-06-15",
         "price": 101.0,
-        "pe": 7.57,
-        "pe_10": 108.82,
-        "pe_25": 125.22,
-        "pe_50": 140.89,
-        "pe_75": 148.63,
-        "pe_90": 162.91
+        "pe": 7.67,
+        "pe_10": 107.58,
+        "pe_25": 121.81,
+        "pe_50": 138.66,
+        "pe_75": 153.87,
+        "pe_90": 180.38
       },
       {
         "date": "2023-07-16",
         "price": 108.5,
-        "pe": 7.97,
-        "pe_10": 111.03,
-        "pe_25": 127.76,
-        "pe_50": 143.76,
-        "pe_75": 151.65,
-        "pe_90": 166.22
+        "pe": 8.32,
+        "pe_10": 106.54,
+        "pe_25": 120.63,
+        "pe_50": 137.32,
+        "pe_75": 152.38,
+        "pe_90": 178.63
       },
       {
         "date": "2023-08-16",
         "price": 124.0,
-        "pe": 8.93,
-        "pe_10": 113.25,
-        "pe_25": 130.32,
-        "pe_50": 146.63,
-        "pe_75": 154.69,
-        "pe_90": 169.55
+        "pe": 9.6,
+        "pe_10": 105.53,
+        "pe_25": 119.48,
+        "pe_50": 136.01,
+        "pe_75": 150.93,
+        "pe_90": 176.93
       },
       {
         "date": "2023-09-15",
         "price": 128.0,
-        "pe": 9.05,
-        "pe_10": 115.36,
-        "pe_25": 132.74,
-        "pe_50": 149.36,
-        "pe_75": 157.56,
-        "pe_90": 172.69
+        "pe": 10.02,
+        "pe_10": 104.37,
+        "pe_25": 118.16,
+        "pe_50": 134.51,
+        "pe_75": 149.27,
+        "pe_90": 174.98
       },
       {
         "date": "2023-10-16",
         "price": 124.0,
-        "pe": 8.6,
-        "pe_10": 117.6,
-        "pe_25": 135.32,
-        "pe_50": 152.26,
-        "pe_75": 160.62,
-        "pe_90": 176.05
+        "pe": 9.18,
+        "pe_10": 110.36,
+        "pe_25": 124.95,
+        "pe_50": 142.24,
+        "pe_75": 157.84,
+        "pe_90": 185.03
       },
       {
         "date": "2023-11-15",
         "price": 132.5,
-        "pe": 9.02,
-        "pe_10": 119.81,
-        "pe_25": 137.86,
-        "pe_50": 155.12,
-        "pe_75": 163.64,
-        "pe_90": 179.36
+        "pe": 9.31,
+        "pe_10": 116.28,
+        "pe_25": 131.65,
+        "pe_50": 149.86,
+        "pe_75": 166.3,
+        "pe_90": 194.95
       },
       {
         "date": "2023-12-16",
         "price": 140.5,
         "pe": 9.4,
-        "pe_10": 121.91,
-        "pe_25": 140.28,
-        "pe_50": 157.84,
-        "pe_75": 166.51,
-        "pe_90": 182.5
+        "pe_10": 122.12,
+        "pe_25": 138.26,
+        "pe_50": 157.39,
+        "pe_75": 174.65,
+        "pe_90": 204.74
       },
       {
         "date": "2024-01-16",
         "price": 139.0,
-        "pe": 9.19,
-        "pe_10": 123.36,
-        "pe_25": 141.95,
-        "pe_50": 159.72,
-        "pe_75": 168.49,
-        "pe_90": 184.68
+        "pe": 9.1,
+        "pe_10": 124.79,
+        "pe_25": 141.29,
+        "pe_50": 160.84,
+        "pe_75": 178.49,
+        "pe_90": 209.23
       },
       {
         "date": "2024-02-15",
         "price": 170.0,
-        "pe": 11.11,
-        "pe_10": 124.8,
-        "pe_25": 143.6,
-        "pe_50": 161.58,
-        "pe_75": 170.46,
-        "pe_90": 186.83
+        "pe": 10.91,
+        "pe_10": 127.31,
+        "pe_25": 144.13,
+        "pe_50": 164.08,
+        "pe_75": 182.08,
+        "pe_90": 213.44
       },
       {
         "date": "2024-03-16",
         "price": 186.5,
-        "pe": 12.04,
-        "pe_10": 126.34,
-        "pe_25": 145.37,
-        "pe_50": 163.57,
-        "pe_75": 172.56,
-        "pe_90": 189.13
+        "pe": 11.73,
+        "pe_10": 129.9,
+        "pe_25": 147.07,
+        "pe_50": 167.42,
+        "pe_75": 185.78,
+        "pe_90": 217.79
       },
       {
         "date": "2024-04-15",
         "price": 203.5,
-        "pe": 12.99,
-        "pe_10": 127.77,
-        "pe_25": 147.02,
-        "pe_50": 165.43,
-        "pe_75": 174.52,
-        "pe_90": 191.28
+        "pe": 13.57,
+        "pe_10": 122.52,
+        "pe_25": 138.72,
+        "pe_50": 157.91,
+        "pe_75": 175.23,
+        "pe_90": 205.42
       },
       {
         "date": "2024-05-16",
         "price": 202.5,
-        "pe": 12.78,
-        "pe_10": 129.23,
-        "pe_25": 148.71,
-        "pe_50": 167.32,
-        "pe_75": 176.51,
-        "pe_90": 193.47
+        "pe": 14.38,
+        "pe_10": 115.05,
+        "pe_25": 130.26,
+        "pe_50": 148.28,
+        "pe_75": 164.55,
+        "pe_90": 192.9
       },
       {
         "date": "2024-06-15",
         "price": 192.5,
-        "pe": 12.01,
-        "pe_10": 130.73,
-        "pe_25": 150.43,
-        "pe_50": 169.26,
-        "pe_75": 178.56,
-        "pe_90": 195.71
+        "pe": 14.61,
+        "pe_10": 107.65,
+        "pe_25": 121.88,
+        "pe_50": 138.74,
+        "pe_75": 153.96,
+        "pe_90": 180.48
       },
       {
         "date": "2024-07-16",
         "price": 161.0,
-        "pe": 9.94,
-        "pe_10": 132.1,
-        "pe_25": 152.01,
-        "pe_50": 171.04,
-        "pe_75": 180.44,
-        "pe_90": 197.77
+        "pe": 11.42,
+        "pe_10": 115.18,
+        "pe_25": 130.41,
+        "pe_50": 148.45,
+        "pe_75": 164.74,
+        "pe_90": 193.12
       },
       {
         "date": "2024-08-16",
         "price": 153.0,
-        "pe": 9.34,
-        "pe_10": 133.6,
-        "pe_25": 153.74,
-        "pe_50": 172.99,
-        "pe_75": 182.49,
-        "pe_90": 200.01
+        "pe": 10.2,
+        "pe_10": 122.55,
+        "pe_25": 138.75,
+        "pe_50": 157.95,
+        "pe_75": 175.28,
+        "pe_90": 205.47
       },
       {
         "date": "2024-09-15",
         "price": 158.0,
-        "pe": 9.54,
-        "pe_10": 135.08,
-        "pe_25": 155.43,
-        "pe_50": 174.89,
-        "pe_75": 184.5,
-        "pe_90": 202.22
+        "pe": 9.92,
+        "pe_10": 130.13,
+        "pe_25": 147.33,
+        "pe_50": 167.72,
+        "pe_75": 186.11,
+        "pe_90": 218.17
       },
       {
         "date": "2024-10-16",
         "price": 186.5,
-        "pe": 11.14,
-        "pe_10": 136.54,
-        "pe_25": 157.12,
-        "pe_50": 176.79,
-        "pe_75": 186.5,
-        "pe_90": 204.41
+        "pe": 11.43,
+        "pe_10": 133.31,
+        "pe_25": 150.93,
+        "pe_50": 171.81,
+        "pe_75": 190.66,
+        "pe_90": 223.51
       },
       {
         "date": "2024-11-15",
         "price": 188.0,
-        "pe": 11.11,
-        "pe_10": 138.01,
-        "pe_25": 158.81,
-        "pe_50": 178.69,
-        "pe_75": 188.51,
-        "pe_90": 206.61
+        "pe": 11.25,
+        "pe_10": 136.53,
+        "pe_25": 154.58,
+        "pe_50": 175.97,
+        "pe_75": 195.27,
+        "pe_90": 228.91
       },
       {
         "date": "2024-12-16",
         "price": 180.0,
         "pe": 10.53,
-        "pe_10": 139.42,
-        "pe_25": 160.43,
-        "pe_50": 180.51,
-        "pe_75": 190.43,
-        "pe_90": 208.72
+        "pe_10": 139.66,
+        "pe_25": 158.12,
+        "pe_50": 180.0,
+        "pe_75": 199.74,
+        "pe_90": 234.15
       },
       {
         "date": "2025-01-16",
         "price": 260.0,
-        "pe": 15.31,
-        "pe_10": 138.51,
-        "pe_25": 159.38,
-        "pe_50": 179.33,
-        "pe_75": 189.18,
-        "pe_90": 207.35
+        "pe": 15.44,
+        "pe_10": 137.58,
+        "pe_25": 155.76,
+        "pe_50": 177.32,
+        "pe_75": 196.77,
+        "pe_90": 230.67
       },
       {
         "date": "2025-02-14",
         "price": 226.0,
-        "pe": 13.4,
-        "pe_10": 137.56,
-        "pe_25": 158.28,
-        "pe_50": 178.1,
-        "pe_75": 187.88,
-        "pe_90": 205.93
+        "pe": 13.63,
+        "pe_10": 135.47,
+        "pe_25": 153.37,
+        "pe_50": 174.6,
+        "pe_75": 193.75,
+        "pe_90": 227.13
       },
       {
         "date": "2025-03-16",
         "price": 186.0,
-        "pe": 11.11,
-        "pe_10": 136.55,
-        "pe_25": 157.12,
-        "pe_50": 176.79,
-        "pe_75": 186.5,
-        "pe_90": 204.42
+        "pe": 11.39,
+        "pe_10": 133.42,
+        "pe_25": 151.05,
+        "pe_50": 171.96,
+        "pe_75": 190.82,
+        "pe_90": 223.69
       },
       {
         "date": "2025-04-15",
         "price": 170.5,
-        "pe": 10.25,
-        "pe_10": 135.67,
-        "pe_25": 156.11,
-        "pe_50": 175.66,
-        "pe_75": 185.3,
-        "pe_90": 203.1
+        "pe": 10.44,
+        "pe_10": 133.43,
+        "pe_25": 151.07,
+        "pe_50": 171.97,
+        "pe_75": 190.83,
+        "pe_90": 223.71
       },
       {
         "date": "2025-05-16",
         "price": 167.0,
-        "pe": 10.12,
-        "pe_10": 134.59,
-        "pe_25": 154.87,
-        "pe_50": 174.26,
-        "pe_75": 183.83,
-        "pe_90": 201.49
+        "pe": 10.23,
+        "pe_10": 133.37,
+        "pe_25": 151.0,
+        "pe_50": 171.9,
+        "pe_75": 190.75,
+        "pe_90": 223.61
       },
       {
         "date": "2025-06-15",
         "price": 159.0,
-        "pe": 9.7,
-        "pe_10": 133.69,
-        "pe_25": 153.84,
-        "pe_50": 173.1,
-        "pe_75": 182.6,
-        "pe_90": 200.14
+        "pe": 9.74,
+        "pe_10": 133.37,
+        "pe_25": 151.0,
+        "pe_50": 171.9,
+        "pe_75": 190.75,
+        "pe_90": 223.61
       },
       {
         "date": "2025-07-16",
         "price": 172.5,
-        "pe": 10.6,
-        "pe_10": 132.73,
-        "pe_25": 152.73,
-        "pe_50": 171.85,
-        "pe_75": 181.29,
-        "pe_90": 198.7
+        "pe": 10.71,
+        "pe_10": 131.59,
+        "pe_25": 148.98,
+        "pe_50": 169.6,
+        "pe_75": 188.2,
+        "pe_90": 220.63
       },
       {
         "date": "2025-08-16",
         "price": 222.0,
-        "pe": 13.74,
-        "pe_10": 131.78,
-        "pe_25": 151.64,
-        "pe_50": 170.62,
-        "pe_75": 179.99,
-        "pe_90": 197.28
+        "pe": 13.97,
+        "pe_10": 129.83,
+        "pe_25": 146.99,
+        "pe_50": 167.33,
+        "pe_75": 185.69,
+        "pe_90": 217.68
       },
       {
         "date": "2025-09-15",
         "price": 178.0,
-        "pe": 11.1,
-        "pe_10": 130.79,
-        "pe_25": 150.5,
-        "pe_50": 169.34,
-        "pe_75": 178.64,
-        "pe_90": 195.8
+        "pe": 11.35,
+        "pe_10": 128.13,
+        "pe_25": 145.07,
+        "pe_50": 165.14,
+        "pe_75": 183.25,
+        "pe_90": 214.82
       },
       {
         "date": "2025-10-16",
         "price": 172.0,
-        "pe": 10.81,
-        "pe_10": 129.77,
-        "pe_25": 149.33,
-        "pe_50": 168.02,
-        "pe_75": 177.25,
-        "pe_90": 194.28
+        "pe": 11.54,
+        "pe_10": 121.77,
+        "pe_25": 137.87,
+        "pe_50": 156.95,
+        "pe_75": 174.16,
+        "pe_90": 204.16
       },
       {
         "date": "2025-11-15",
         "price": 178.0,
-        "pe": 11.27,
-        "pe_10": 128.82,
-        "pe_25": 148.23,
-        "pe_50": 166.79,
-        "pe_75": 175.95,
-        "pe_90": 192.85
+        "pe": 12.59,
+        "pe_10": 115.51,
+        "pe_25": 130.78,
+        "pe_50": 148.88,
+        "pe_75": 165.2,
+        "pe_90": 193.67
       },
       {
         "date": "2025-12-16",
         "price": 201.5,
-        "pe": 12.85,
-        "pe_10": 127.89,
-        "pe_25": 147.17,
-        "pe_50": 165.59,
-        "pe_75": 174.69,
-        "pe_90": 191.46
+        "pe": 15.07,
+        "pe_10": 109.24,
+        "pe_25": 123.68,
+        "pe_50": 140.8,
+        "pe_75": 156.24,
+        "pe_90": 183.16
       },
       {
         "date": "2026-01-16",
         "price": 193.0,
-        "pe": 12.31,
-        "pe_10": 127.87,
-        "pe_25": 147.14,
-        "pe_50": 165.56,
-        "pe_75": 174.66,
-        "pe_90": 191.43
+        "pe": 14.44,
+        "pe_10": 109.2,
+        "pe_25": 123.63,
+        "pe_50": 140.74,
+        "pe_75": 156.18,
+        "pe_90": 183.08
       },
       {
         "date": "2026-02-14",
         "price": 204.5,
-        "pe": 13.04,
-        "pe_10": 127.91,
-        "pe_25": 147.18,
-        "pe_50": 165.61,
-        "pe_75": 174.7,
-        "pe_90": 191.48
+        "pe": 15.3,
+        "pe_10": 109.2,
+        "pe_25": 123.64,
+        "pe_50": 140.74,
+        "pe_75": 156.18,
+        "pe_90": 183.09
       }
     ]
   },
@@ -6140,13 +6140,13 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (10.6倍)",
+            "title": "PE 50% (10.5倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (12.2倍)",
+            "title": "PE 90% (13.7倍)",
             "format": ".1f"
           }
         ]
@@ -6686,6 +6686,10 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
       {
         "date": "2026-01-16",
         "revenue_yoy": -29.6
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": 6.79
       }
     ]
   },
@@ -6753,15 +6757,15 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 10.3 | +29.7% | 0.242 | 2025-05 (+281.0%) | 2022-07 (-91.2%) |
-| 6個月 | 10.2 | +18.2% | 0.405 | 2024-07 (+158.9%) | 2022-04 (-68.0%) |
-| 1年 | 10.2 | +12.5% | 0.431 | 2023-04 (+111.7%) | 2021-12 (-40.5%) |
-| 2年 | 9.9 | +10.5% | 0.618 | 2023-01 (+76.8%) | 2020-11 (-13.1%) |
-| 3年 | 10.2 | +7.8% | 0.612 | 2022-08 (+41.1%) | 2019-12 (-10.6%) |
-| 4年 | 10.5 | +5.7% | 0.001 | 2021-01 (+21.9%) | 2018-08 (-7.2%) |
-| 5年 | 10.8 | +5.9% | 0.196 | 2020-01 (+15.4%) | 2018-04 (-5.2%) |
-| 6年 | 10.7 | +6.7% | 0.613 | 2019-01 (+14.9%) | 2017-12 (+2.2%) |
-| 8年 | 11.7 | +6.1% | 0.840 | 2018-01 (+6.3%) | 2018-02 (+5.9%) |
+| 3個月 | 10.5 | +29.7% | 0.061 | 2025-05 (+281.0%) | 2022-07 (-91.2%) |
+| 6個月 | 10.5 | +18.2% | 0.066 | 2024-07 (+158.9%) | 2022-04 (-68.0%) |
+| 1年 | 10.5 | +12.5% | 0.158 | 2023-04 (+111.7%) | 2021-12 (-40.5%) |
+| 2年 | 10.2 | +10.5% | 0.449 | 2023-01 (+76.8%) | 2020-11 (-13.1%) |
+| 3年 | 10.3 | +7.8% | 0.312 | 2022-08 (+41.1%) | 2019-12 (-10.6%) |
+| 4年 | 11.0 | +5.7% | 0.029 | 2021-01 (+21.9%) | 2018-08 (-7.2%) |
+| 5年 | 10.9 | +5.9% | 0.183 | 2020-01 (+15.4%) | 2018-04 (-5.2%) |
+| 6年 | 11.0 | +6.7% | 0.317 | 2019-01 (+14.9%) | 2017-12 (+2.2%) |
+| 8年 | 12.8 | +6.1% | 0.642 | 2018-01 (+6.3%) | 2018-02 (+5.9%) |
 
 
 ## 🎯 使用說明
@@ -6780,4 +6784,4 @@ description: "6613 朋億 (其他電子業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:36:13 CST*
+*數據更新時間: 2026-03-21 12:43:11 CST*

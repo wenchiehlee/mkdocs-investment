@@ -2,7 +2,7 @@
 title: "6811 宏碁資訊 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
     - **產業別**: 數位雲端
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年
-    - **報告生成時間**: 2026-03-07 12:36:24 CST
+    - **報告生成時間**: 2026-03-21 12:43:23 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 13.35,
+        "pe_ratio": 12.82,
         "forward_return": -27.61,
         "start_price": 151.5,
         "start_year": 2022
@@ -48,7 +48,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.17,
         "forward_return": 12.73,
         "start_price": 132.0,
         "start_year": 2022
@@ -57,7 +57,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.65,
+        "pe_ratio": 9.39,
         "forward_return": 188.55,
         "start_price": 109.5,
         "start_year": 2022
@@ -66,7 +66,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.04,
         "forward_return": 451.1,
         "start_price": 127.0,
         "start_year": 2022
@@ -84,7 +84,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 12.88,
         "forward_return": 444.23,
         "start_price": 143.0,
         "start_year": 2023
@@ -93,7 +93,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 14.68,
+        "pe_ratio": 15.51,
         "forward_return": 391.84,
         "start_price": 168.5,
         "start_year": 2023
@@ -102,7 +102,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.95,
         "forward_return": 386.8,
         "start_price": 222.5,
         "start_year": 2023
@@ -111,7 +111,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 25.69,
+        "pe_ratio": 27.12,
         "forward_return": 158.35,
         "start_price": 298.0,
         "start_year": 2023
@@ -120,7 +120,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.98,
         "forward_return": 90.56,
         "start_price": 249.5,
         "start_year": 2023
@@ -129,7 +129,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 20.22,
         "forward_return": 56.96,
         "start_price": 237.0,
         "start_year": 2023
@@ -138,7 +138,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 31.39,
+        "pe_ratio": 31.44,
         "forward_return": -76.83,
         "start_price": 370.0,
         "start_year": 2023
@@ -147,7 +147,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.14,
+        "pe_ratio": 24.21,
         "forward_return": 9.72,
         "start_price": 286.0,
         "start_year": 2023
@@ -156,7 +156,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 21.66,
+        "pe_ratio": 21.75,
         "forward_return": 71.24,
         "start_price": 258.0,
         "start_year": 2023
@@ -165,7 +165,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 21.38,
+        "pe_ratio": 21.44,
         "forward_return": 58.52,
         "start_price": 256.0,
         "start_year": 2023
@@ -174,7 +174,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 22.18,
+        "pe_ratio": 22.21,
         "forward_return": 20.48,
         "start_price": 267.0,
         "start_year": 2023
@@ -192,7 +192,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 23.4,
         "forward_return": -17.73,
         "start_price": 287.5,
         "start_year": 2024
@@ -201,7 +201,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 28.2,
+        "pe_ratio": 27.7,
         "forward_return": -63.11,
         "start_price": 345.5,
         "start_year": 2024
@@ -210,7 +210,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 23.04,
+        "pe_ratio": 22.43,
         "forward_return": -16.87,
         "start_price": 284.0,
         "start_year": 2024
@@ -219,7 +219,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 21.17,
+        "pe_ratio": 20.53,
         "forward_return": 7.06,
         "start_price": 262.5,
         "start_year": 2024
@@ -228,7 +228,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 21.6,
+        "pe_ratio": 20.88,
         "forward_return": -2.91,
         "start_price": 269.5,
         "start_year": 2024
@@ -237,7 +237,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 22.71,
+        "pe_ratio": 21.87,
         "forward_return": -33.67,
         "start_price": 285.0,
         "start_year": 2024
@@ -246,7 +246,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.79,
         "forward_return": -9.62,
         "start_price": 258.5,
         "start_year": 2024
@@ -255,7 +255,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.39,
+        "pe_ratio": 19.79,
         "forward_return": 36.69,
         "start_price": 259.0,
         "start_year": 2024
@@ -264,7 +264,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 19.45,
+        "pe_ratio": 18.94,
         "forward_return": 79.52,
         "start_price": 248.5,
         "start_year": 2024
@@ -273,7 +273,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 19.61,
+        "pe_ratio": 19.27,
         "forward_return": 17.59,
         "start_price": 252.0,
         "start_year": 2024
@@ -282,7 +282,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 18.68,
+        "pe_ratio": 18.52,
         "forward_return": -14.94,
         "start_price": 241.5,
         "start_year": 2024
@@ -300,7 +300,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 20.1,
+        "pe_ratio": 19.91,
         "forward_return": -24.35,
         "start_price": 262.5,
         "start_year": 2025
@@ -309,7 +309,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 20.96,
+        "pe_ratio": 20.56,
         "forward_return": -42.93,
         "start_price": 275.0,
         "start_year": 2025
@@ -318,7 +318,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 17.37,
+        "pe_ratio": 16.89,
         "forward_return": 20.92,
         "start_price": 229.0,
         "start_year": 2025
@@ -327,7 +327,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 18.0,
+        "pe_ratio": 17.58,
         "forward_return": 9.58,
         "start_price": 238.5,
         "start_year": 2025
@@ -336,7 +336,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 18.0,
+        "pe_ratio": 17.64,
         "forward_return": 66.94,
         "start_price": 239.5,
         "start_year": 2025
@@ -345,7 +345,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.78,
         "forward_return": 20.28,
         "start_price": 241.5,
         "start_year": 2025
@@ -354,7 +354,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 17.46,
+        "pe_ratio": 17.2,
         "forward_return": -7.4,
         "start_price": 234.5,
         "start_year": 2025
@@ -363,7 +363,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 19.49,
+        "pe_ratio": 19.22,
         "forward_return": -47.92,
         "start_price": 263.0,
         "start_year": 2025
@@ -372,7 +372,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 17.96,
+        "pe_ratio": 17.72,
         "forward_return": -43.19,
         "start_price": 243.5,
         "start_year": 2025
@@ -381,7 +381,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 16.89,
+        "pe_ratio": 16.49,
         "forward_return": -36.06,
         "start_price": 230.0,
         "start_year": 2025
@@ -390,7 +390,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 13.35,
+        "pe_ratio": 12.82,
         "forward_return": 93.9,
         "start_price": 151.5,
         "start_year": 2022
@@ -399,7 +399,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.17,
         "forward_return": 186.8,
         "start_price": 132.0,
         "start_year": 2022
@@ -408,7 +408,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.65,
+        "pe_ratio": 9.39,
         "forward_return": 313.24,
         "start_price": 109.5,
         "start_year": 2022
@@ -417,7 +417,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.04,
         "forward_return": 290.66,
         "start_price": 127.0,
         "start_year": 2022
@@ -435,7 +435,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 12.88,
         "forward_return": 609.14,
         "start_price": 143.0,
         "start_year": 2023
@@ -444,7 +444,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 14.68,
+        "pe_ratio": 15.51,
         "forward_return": 204.56,
         "start_price": 168.5,
         "start_year": 2023
@@ -453,7 +453,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.95,
         "forward_return": 33.46,
         "start_price": 222.5,
         "start_year": 2023
@@ -462,7 +462,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 25.69,
+        "pe_ratio": 27.12,
         "forward_return": -21.77,
         "start_price": 298.0,
         "start_year": 2023
@@ -471,7 +471,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.98,
         "forward_return": 38.92,
         "start_price": 249.5,
         "start_year": 2023
@@ -480,7 +480,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 20.22,
         "forward_return": 62.75,
         "start_price": 237.0,
         "start_year": 2023
@@ -489,7 +489,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 31.39,
+        "pe_ratio": 31.44,
         "forward_return": -39.39,
         "start_price": 370.0,
         "start_year": 2023
@@ -498,7 +498,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.14,
+        "pe_ratio": 24.21,
         "forward_return": -1.2,
         "start_price": 286.0,
         "start_year": 2023
@@ -507,7 +507,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 21.66,
+        "pe_ratio": 21.75,
         "forward_return": 21.25,
         "start_price": 258.0,
         "start_year": 2023
@@ -516,7 +516,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 21.38,
+        "pe_ratio": 21.44,
         "forward_return": 9.21,
         "start_price": 256.0,
         "start_year": 2023
@@ -525,7 +525,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 22.18,
+        "pe_ratio": 22.21,
         "forward_return": 1.89,
         "start_price": 267.0,
         "start_year": 2023
@@ -543,7 +543,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 23.4,
         "forward_return": -13.8,
         "start_price": 287.5,
         "start_year": 2024
@@ -552,7 +552,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 28.2,
+        "pe_ratio": 27.7,
         "forward_return": -39.99,
         "start_price": 345.5,
         "start_year": 2024
@@ -561,7 +561,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 23.04,
+        "pe_ratio": 22.43,
         "forward_return": -13.71,
         "start_price": 284.0,
         "start_year": 2024
@@ -570,7 +570,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 21.17,
+        "pe_ratio": 20.53,
         "forward_return": -1.51,
         "start_price": 262.5,
         "start_year": 2024
@@ -579,7 +579,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 21.6,
+        "pe_ratio": 20.88,
         "forward_return": 17.36,
         "start_price": 269.5,
         "start_year": 2024
@@ -588,7 +588,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 22.71,
+        "pe_ratio": 21.87,
         "forward_return": 7.85,
         "start_price": 285.0,
         "start_year": 2024
@@ -597,7 +597,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.79,
         "forward_return": 3.1,
         "start_price": 258.5,
         "start_year": 2024
@@ -606,7 +606,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.39,
+        "pe_ratio": 19.79,
         "forward_return": -19.11,
         "start_price": 259.0,
         "start_year": 2024
@@ -615,7 +615,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 19.45,
+        "pe_ratio": 18.94,
         "forward_return": -15.2,
         "start_price": 248.5,
         "start_year": 2024
@@ -624,7 +624,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 19.61,
+        "pe_ratio": 19.27,
         "forward_return": -8.39,
         "start_price": 252.0,
         "start_year": 2024
@@ -633,7 +633,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 18.68,
+        "pe_ratio": 18.52,
         "forward_return": -1.66,
         "start_price": 241.5,
         "start_year": 2024
@@ -651,7 +651,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 20.1,
+        "pe_ratio": 19.91,
         "forward_return": -13.71,
         "start_price": 262.5,
         "start_year": 2025
@@ -660,7 +660,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 20.96,
+        "pe_ratio": 20.56,
         "forward_return": -1.82,
         "start_price": 275.0,
         "start_year": 2025
@@ -669,7 +669,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 17.37,
+        "pe_ratio": 16.89,
         "forward_return": 7.95,
         "start_price": 229.0,
         "start_year": 2025
@@ -678,7 +678,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 18.0,
+        "pe_ratio": 17.58,
         "forward_return": 0.84,
         "start_price": 238.5,
         "start_year": 2025
@@ -687,7 +687,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 18.0,
+        "pe_ratio": 17.64,
         "forward_return": -12.82,
         "start_price": 239.5,
         "start_year": 2025
@@ -696,7 +696,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 18.06,
+        "pe_ratio": 17.78,
         "forward_return": -16.23,
         "start_price": 241.5,
         "start_year": 2025
@@ -705,7 +705,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 17.46,
+        "pe_ratio": 17.2,
         "forward_return": -23.05,
         "start_price": 234.5,
         "start_year": 2025
@@ -714,7 +714,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 13.35,
+        "pe_ratio": 12.82,
         "forward_return": 93.82,
         "start_price": 151.5,
         "start_year": 2022
@@ -723,7 +723,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.17,
         "forward_return": 101.23,
         "start_price": 132.0,
         "start_year": 2022
@@ -732,7 +732,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.65,
+        "pe_ratio": 9.39,
         "forward_return": 140.78,
         "start_price": 109.5,
         "start_year": 2022
@@ -741,7 +741,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.04,
         "forward_return": 116.26,
         "start_price": 127.0,
         "start_year": 2022
@@ -759,7 +759,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 12.88,
         "forward_return": 106.4,
         "start_price": 143.0,
         "start_year": 2023
@@ -768,7 +768,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 14.68,
+        "pe_ratio": 15.51,
         "forward_return": 109.6,
         "start_price": 168.5,
         "start_year": 2023
@@ -777,7 +777,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.95,
         "forward_return": 30.94,
         "start_price": 222.5,
         "start_year": 2023
@@ -786,7 +786,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 25.69,
+        "pe_ratio": 27.12,
         "forward_return": -9.38,
         "start_price": 298.0,
         "start_year": 2023
@@ -795,7 +795,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.98,
         "forward_return": 11.0,
         "start_price": 249.5,
         "start_year": 2023
@@ -804,7 +804,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 20.22,
         "forward_return": 23.36,
         "start_price": 237.0,
         "start_year": 2023
@@ -813,7 +813,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 31.39,
+        "pe_ratio": 31.44,
         "forward_return": -27.79,
         "start_price": 370.0,
         "start_year": 2023
@@ -822,7 +822,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.14,
+        "pe_ratio": 24.21,
         "forward_return": -6.46,
         "start_price": 286.0,
         "start_year": 2023
@@ -831,7 +831,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 21.66,
+        "pe_ratio": 21.75,
         "forward_return": -0.39,
         "start_price": 258.0,
         "start_year": 2023
@@ -840,7 +840,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 21.38,
+        "pe_ratio": 21.44,
         "forward_return": 1.75,
         "start_price": 256.0,
         "start_year": 2023
@@ -849,7 +849,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 22.18,
+        "pe_ratio": 22.21,
         "forward_return": -6.35,
         "start_price": 267.0,
         "start_year": 2023
@@ -867,7 +867,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 23.4,
         "forward_return": -5.73,
         "start_price": 287.5,
         "start_year": 2024
@@ -876,7 +876,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 28.2,
+        "pe_ratio": 27.7,
         "forward_return": -29.29,
         "start_price": 345.5,
         "start_year": 2024
@@ -885,7 +885,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 23.04,
+        "pe_ratio": 22.43,
         "forward_return": -16.38,
         "start_price": 284.0,
         "start_year": 2024
@@ -894,7 +894,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 21.17,
+        "pe_ratio": 20.53,
         "forward_return": -5.91,
         "start_price": 262.5,
         "start_year": 2024
@@ -903,7 +903,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 21.6,
+        "pe_ratio": 20.88,
         "forward_return": -7.98,
         "start_price": 269.5,
         "start_year": 2024
@@ -912,7 +912,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 22.71,
+        "pe_ratio": 21.87,
         "forward_return": -12.29,
         "start_price": 285.0,
         "start_year": 2024
@@ -921,7 +921,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 20.48,
+        "pe_ratio": 19.79,
         "forward_return": -5.61,
         "start_price": 258.5,
         "start_year": 2024
@@ -930,7 +930,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 20.39,
+        "pe_ratio": 19.79,
         "forward_return": 5.22,
         "start_price": 259.0,
         "start_year": 2024
@@ -939,7 +939,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 19.45,
+        "pe_ratio": 18.94,
         "forward_return": 1.81,
         "start_price": 248.5,
         "start_year": 2024
@@ -948,7 +948,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 19.61,
+        "pe_ratio": 19.27,
         "forward_return": -4.96,
         "start_price": 252.0,
         "start_year": 2024
@@ -957,7 +957,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 18.68,
+        "pe_ratio": 18.52,
         "forward_return": -7.46,
         "start_price": 241.5,
         "start_year": 2024
@@ -975,7 +975,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 20.1,
+        "pe_ratio": 19.91,
         "forward_return": -18.11,
         "start_price": 262.5,
         "start_year": 2025
@@ -984,7 +984,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 20.96,
+        "pe_ratio": 20.56,
         "forward_return": -21.83,
         "start_price": 275.0,
         "start_year": 2025
@@ -993,7 +993,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 13.35,
+        "pe_ratio": 12.82,
         "forward_return": 34.7,
         "start_price": 151.5,
         "start_year": 2022
@@ -1002,7 +1002,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.17,
         "forward_return": 41.52,
         "start_price": 132.0,
         "start_year": 2022
@@ -1011,7 +1011,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.65,
+        "pe_ratio": 9.39,
         "forward_return": 56.4,
         "start_price": 109.5,
         "start_year": 2022
@@ -1020,7 +1020,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.04,
         "forward_return": 42.36,
         "start_price": 127.0,
         "start_year": 2022
@@ -1038,7 +1038,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 12.88,
         "forward_return": 39.52,
         "start_price": 143.0,
         "start_year": 2023
@@ -1047,7 +1047,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 14.68,
+        "pe_ratio": 15.51,
         "forward_return": 31.39,
         "start_price": 168.5,
         "start_year": 2023
@@ -1056,7 +1056,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 19.28,
+        "pe_ratio": 20.95,
         "forward_return": 4.93,
         "start_price": 222.5,
         "start_year": 2023
@@ -1065,7 +1065,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 25.69,
+        "pe_ratio": 27.12,
         "forward_return": -7.58,
         "start_price": 298.0,
         "start_year": 2023
@@ -1074,7 +1074,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.39,
+        "pe_ratio": 21.98,
         "forward_return": 1.19,
         "start_price": 249.5,
         "start_year": 2023
@@ -1083,7 +1083,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 20.21,
+        "pe_ratio": 20.22,
         "forward_return": 4.23,
         "start_price": 237.0,
         "start_year": 2023
@@ -1092,7 +1092,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 31.39,
+        "pe_ratio": 31.44,
         "forward_return": -17.38,
         "start_price": 370.0,
         "start_year": 2023
@@ -1101,7 +1101,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 24.14,
+        "pe_ratio": 24.21,
         "forward_return": -0.88,
         "start_price": 286.0,
         "start_year": 2023
@@ -1110,7 +1110,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 21.66,
+        "pe_ratio": 21.75,
         "forward_return": 0.68,
         "start_price": 258.0,
         "start_year": 2023
@@ -1119,7 +1119,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 21.38,
+        "pe_ratio": 21.44,
         "forward_return": -1.57,
         "start_price": 256.0,
         "start_year": 2023
@@ -1128,7 +1128,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 22.18,
+        "pe_ratio": 22.21,
         "forward_return": -6.78,
         "start_price": 267.0,
         "start_year": 2023
@@ -1146,7 +1146,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.61,
+        "pe_ratio": 23.4,
         "forward_return": -11.82,
         "start_price": 287.5,
         "start_year": 2024
@@ -1155,7 +1155,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 13.35,
+        "pe_ratio": 12.82,
         "forward_return": 23.94,
         "start_price": 151.5,
         "start_year": 2022
@@ -1164,7 +1164,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 11.63,
+        "pe_ratio": 11.17,
         "forward_return": 26.78,
         "start_price": 132.0,
         "start_year": 2022
@@ -1173,7 +1173,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 9.65,
+        "pe_ratio": 9.39,
         "forward_return": 32.63,
         "start_price": 109.5,
         "start_year": 2022
@@ -1182,7 +1182,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 11.19,
+        "pe_ratio": 11.04,
         "forward_return": 23.54,
         "start_price": 127.0,
         "start_year": 2022
@@ -1200,7 +1200,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 12.53,
+        "pe_ratio": 12.88,
         "forward_return": 17.33,
         "start_price": 143.0,
         "start_year": 2023
@@ -1209,7 +1209,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 14.68,
+        "pe_ratio": 15.51,
         "forward_return": 11.09,
         "start_price": 168.5,
         "start_year": 2023
@@ -1406,7 +1406,7 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 12.7倍、16.3倍、19.5倍、21.6倍、24.0倍"
+!!! note "本益比河流帶水位: 12.8倍、16.0倍、19.3倍、21.8倍、24.1倍"
 
 ```vegalite
 {
@@ -1417,432 +1417,432 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
       {
         "date": "2022-08-16",
         "price": 151.5,
-        "pe": 13.35,
-        "pe_10": 144.06,
-        "pe_25": 184.64,
-        "pe_50": 221.18,
-        "pe_75": 245.46,
-        "pe_90": 272.75
+        "pe": 12.82,
+        "pe_10": 151.64,
+        "pe_25": 189.08,
+        "pe_50": 227.72,
+        "pe_75": 257.74,
+        "pe_90": 284.19
       },
       {
         "date": "2022-09-15",
         "price": 132.0,
-        "pe": 11.63,
-        "pe_10": 144.08,
-        "pe_25": 184.66,
-        "pe_50": 221.21,
-        "pe_75": 245.5,
-        "pe_90": 272.78
+        "pe": 11.17,
+        "pe_10": 151.64,
+        "pe_25": 189.08,
+        "pe_50": 227.72,
+        "pe_75": 257.74,
+        "pe_90": 284.18
       },
       {
         "date": "2022-10-16",
         "price": 109.5,
-        "pe": 9.65,
-        "pe_10": 144.04,
-        "pe_25": 184.62,
-        "pe_50": 221.16,
-        "pe_75": 245.44,
-        "pe_90": 272.72
+        "pe": 9.39,
+        "pe_10": 149.64,
+        "pe_25": 186.58,
+        "pe_50": 224.71,
+        "pe_75": 254.33,
+        "pe_90": 280.43
       },
       {
         "date": "2022-11-15",
         "price": 127.0,
-        "pe": 11.19,
-        "pe_10": 144.07,
-        "pe_25": 184.66,
-        "pe_50": 221.2,
-        "pe_75": 245.49,
-        "pe_90": 272.77
+        "pe": 11.04,
+        "pe_10": 147.61,
+        "pe_25": 184.06,
+        "pe_50": 221.67,
+        "pe_75": 250.89,
+        "pe_90": 276.64
       },
       {
         "date": "2022-12-16",
         "price": 136.0,
         "pe": 11.98,
-        "pe_10": 144.11,
-        "pe_25": 184.7,
-        "pe_50": 221.26,
-        "pe_75": 245.55,
-        "pe_90": 272.84
+        "pe_10": 145.67,
+        "pe_25": 181.64,
+        "pe_50": 218.76,
+        "pe_75": 247.59,
+        "pe_90": 273.0
       },
       {
         "date": "2023-01-16",
         "price": 143.0,
-        "pe": 12.53,
-        "pe_10": 144.87,
-        "pe_25": 185.68,
-        "pe_50": 222.43,
-        "pe_75": 246.85,
-        "pe_90": 274.29
+        "pe": 12.88,
+        "pe_10": 142.47,
+        "pe_25": 177.64,
+        "pe_50": 213.94,
+        "pe_75": 242.15,
+        "pe_90": 266.99
       },
       {
         "date": "2023-02-14",
         "price": 168.5,
-        "pe": 14.68,
-        "pe_10": 145.7,
-        "pe_25": 186.75,
-        "pe_50": 223.71,
-        "pe_75": 248.27,
-        "pe_90": 275.87
+        "pe": 15.51,
+        "pe_10": 139.41,
+        "pe_25": 173.82,
+        "pe_50": 209.35,
+        "pe_75": 236.94,
+        "pe_90": 261.26
       },
       {
         "date": "2023-03-16",
         "price": 222.5,
-        "pe": 19.28,
-        "pe_10": 146.49,
-        "pe_25": 187.76,
-        "pe_50": 224.92,
-        "pe_75": 249.62,
-        "pe_90": 277.36
+        "pe": 20.95,
+        "pe_10": 136.28,
+        "pe_25": 169.93,
+        "pe_50": 204.66,
+        "pe_75": 231.63,
+        "pe_90": 255.4
       },
       {
         "date": "2023-04-15",
         "price": 298.0,
-        "pe": 25.69,
-        "pe_10": 147.25,
-        "pe_25": 188.73,
-        "pe_50": 226.08,
-        "pe_75": 250.9,
-        "pe_90": 278.79
+        "pe": 27.12,
+        "pe_10": 141.0,
+        "pe_25": 175.81,
+        "pe_50": 211.74,
+        "pe_75": 239.65,
+        "pe_90": 264.24
       },
       {
         "date": "2023-05-16",
         "price": 249.5,
-        "pe": 21.39,
-        "pe_10": 148.07,
-        "pe_25": 189.78,
-        "pe_50": 227.34,
-        "pe_75": 252.3,
-        "pe_90": 280.34
+        "pe": 21.98,
+        "pe_10": 145.66,
+        "pe_25": 181.62,
+        "pe_50": 218.74,
+        "pe_75": 247.57,
+        "pe_90": 272.97
       },
       {
         "date": "2023-06-15",
         "price": 237.0,
-        "pe": 20.21,
-        "pe_10": 148.86,
-        "pe_25": 190.8,
-        "pe_50": 228.56,
-        "pe_75": 253.65,
-        "pe_90": 281.84
+        "pe": 20.22,
+        "pe_10": 150.4,
+        "pe_25": 187.54,
+        "pe_50": 225.86,
+        "pe_75": 255.64,
+        "pe_90": 281.87
       },
       {
         "date": "2023-07-16",
         "price": 370.0,
-        "pe": 31.39,
-        "pe_10": 149.63,
-        "pe_25": 191.78,
-        "pe_50": 229.73,
-        "pe_75": 254.96,
-        "pe_90": 283.29
+        "pe": 31.44,
+        "pe_10": 151.01,
+        "pe_25": 188.3,
+        "pe_50": 226.78,
+        "pe_75": 256.67,
+        "pe_90": 283.01
       },
       {
         "date": "2023-08-16",
         "price": 286.0,
-        "pe": 24.14,
-        "pe_10": 150.39,
-        "pe_25": 192.76,
-        "pe_50": 230.91,
-        "pe_75": 256.26,
-        "pe_90": 284.74
+        "pe": 24.21,
+        "pe_10": 151.59,
+        "pe_25": 189.01,
+        "pe_50": 227.64,
+        "pe_75": 257.65,
+        "pe_90": 284.09
       },
       {
         "date": "2023-09-15",
         "price": 258.0,
-        "pe": 21.66,
-        "pe_10": 151.2,
-        "pe_25": 193.8,
-        "pe_50": 232.15,
-        "pe_75": 257.64,
-        "pe_90": 286.28
+        "pe": 21.75,
+        "pe_10": 152.21,
+        "pe_25": 189.79,
+        "pe_50": 228.58,
+        "pe_75": 258.71,
+        "pe_90": 285.26
       },
       {
         "date": "2023-10-16",
         "price": 256.0,
-        "pe": 21.38,
-        "pe_10": 152.0,
-        "pe_25": 194.81,
-        "pe_50": 233.37,
-        "pe_75": 258.99,
-        "pe_90": 287.78
+        "pe": 21.44,
+        "pe_10": 153.22,
+        "pe_25": 191.04,
+        "pe_50": 230.09,
+        "pe_75": 260.42,
+        "pe_90": 287.14
       },
       {
         "date": "2023-11-15",
         "price": 267.0,
-        "pe": 22.18,
-        "pe_10": 152.81,
-        "pe_25": 195.86,
-        "pe_50": 234.62,
-        "pe_75": 260.38,
-        "pe_90": 289.32
+        "pe": 22.21,
+        "pe_10": 154.26,
+        "pe_25": 192.35,
+        "pe_50": 231.66,
+        "pe_75": 262.19,
+        "pe_90": 289.1
       },
       {
         "date": "2023-12-16",
         "price": 295.0,
         "pe": 24.38,
-        "pe_10": 153.6,
-        "pe_25": 196.87,
-        "pe_50": 235.83,
-        "pe_75": 261.72,
-        "pe_90": 290.81
+        "pe_10": 155.27,
+        "pe_25": 193.6,
+        "pe_50": 233.17,
+        "pe_75": 263.9,
+        "pe_90": 290.98
       },
       {
         "date": "2024-01-16",
         "price": 287.5,
-        "pe": 23.61,
-        "pe_10": 154.58,
-        "pe_25": 198.12,
-        "pe_50": 237.33,
-        "pe_75": 263.39,
-        "pe_90": 292.66
+        "pe": 23.4,
+        "pe_10": 157.66,
+        "pe_25": 196.58,
+        "pe_50": 236.76,
+        "pe_75": 267.96,
+        "pe_90": 295.46
       },
       {
         "date": "2024-02-15",
         "price": 345.5,
-        "pe": 28.2,
-        "pe_10": 155.52,
-        "pe_25": 199.34,
-        "pe_50": 238.79,
-        "pe_75": 265.01,
-        "pe_90": 294.46
+        "pe": 27.7,
+        "pe_10": 160.05,
+        "pe_25": 199.57,
+        "pe_50": 240.35,
+        "pe_75": 272.03,
+        "pe_90": 299.95
       },
       {
         "date": "2024-03-16",
         "price": 284.0,
-        "pe": 23.04,
-        "pe_10": 156.47,
-        "pe_25": 200.55,
-        "pe_50": 240.24,
-        "pe_75": 266.62,
-        "pe_90": 296.25
+        "pe": 22.43,
+        "pe_10": 162.47,
+        "pe_25": 202.59,
+        "pe_50": 243.99,
+        "pe_75": 276.15,
+        "pe_90": 304.49
       },
       {
         "date": "2024-04-15",
         "price": 262.5,
-        "pe": 21.17,
-        "pe_10": 157.4,
-        "pe_25": 201.74,
-        "pe_50": 241.67,
-        "pe_75": 268.2,
-        "pe_90": 298.01
+        "pe": 20.53,
+        "pe_10": 164.07,
+        "pe_25": 204.58,
+        "pe_50": 246.39,
+        "pe_75": 278.87,
+        "pe_90": 307.48
       },
       {
         "date": "2024-05-16",
         "price": 269.5,
-        "pe": 21.6,
-        "pe_10": 158.38,
-        "pe_25": 203.0,
-        "pe_50": 243.17,
-        "pe_75": 269.87,
-        "pe_90": 299.87
+        "pe": 20.88,
+        "pe_10": 165.62,
+        "pe_25": 206.51,
+        "pe_50": 248.72,
+        "pe_75": 281.5,
+        "pe_90": 310.39
       },
       {
         "date": "2024-06-15",
         "price": 285.0,
-        "pe": 22.71,
-        "pe_10": 159.3,
-        "pe_25": 204.18,
-        "pe_50": 244.59,
-        "pe_75": 271.45,
-        "pe_90": 301.62
+        "pe": 21.87,
+        "pe_10": 167.22,
+        "pe_25": 208.5,
+        "pe_50": 251.12,
+        "pe_75": 284.22,
+        "pe_90": 313.38
       },
       {
         "date": "2024-07-16",
         "price": 258.5,
-        "pe": 20.48,
-        "pe_10": 160.22,
-        "pe_25": 205.36,
-        "pe_50": 246.0,
-        "pe_75": 273.02,
-        "pe_90": 303.36
+        "pe": 19.79,
+        "pe_10": 167.61,
+        "pe_25": 208.99,
+        "pe_50": 251.71,
+        "pe_75": 284.89,
+        "pe_90": 314.12
       },
       {
         "date": "2024-08-16",
         "price": 259.0,
-        "pe": 20.39,
-        "pe_10": 161.24,
-        "pe_25": 206.67,
-        "pe_50": 247.57,
-        "pe_75": 274.75,
-        "pe_90": 305.29
+        "pe": 19.79,
+        "pe_10": 167.94,
+        "pe_25": 209.4,
+        "pe_50": 252.19,
+        "pe_75": 285.44,
+        "pe_90": 314.73
       },
       {
         "date": "2024-09-15",
         "price": 248.5,
-        "pe": 19.45,
-        "pe_10": 162.18,
-        "pe_25": 207.87,
-        "pe_50": 249.01,
-        "pe_75": 276.35,
-        "pe_90": 307.07
+        "pe": 18.94,
+        "pe_10": 168.36,
+        "pe_25": 209.93,
+        "pe_50": 252.83,
+        "pe_75": 286.16,
+        "pe_90": 315.52
       },
       {
         "date": "2024-10-16",
         "price": 252.0,
-        "pe": 19.61,
-        "pe_10": 163.13,
-        "pe_25": 209.08,
-        "pe_50": 250.46,
-        "pe_75": 277.96,
-        "pe_90": 308.85
+        "pe": 19.27,
+        "pe_10": 167.81,
+        "pe_25": 209.24,
+        "pe_50": 252.0,
+        "pe_75": 285.22,
+        "pe_90": 314.48
       },
       {
         "date": "2024-11-15",
         "price": 241.5,
-        "pe": 18.68,
-        "pe_10": 164.11,
-        "pe_25": 210.34,
-        "pe_50": 251.97,
-        "pe_75": 279.64,
-        "pe_90": 310.72
+        "pe": 18.52,
+        "pe_10": 167.33,
+        "pe_25": 208.64,
+        "pe_50": 251.28,
+        "pe_75": 284.4,
+        "pe_90": 313.58
       },
       {
         "date": "2024-12-16",
         "price": 287.5,
         "pe": 22.12,
-        "pe_10": 164.99,
-        "pe_25": 211.47,
-        "pe_50": 253.32,
-        "pe_75": 281.13,
-        "pe_90": 312.38
+        "pe_10": 166.78,
+        "pe_25": 207.96,
+        "pe_50": 250.46,
+        "pe_75": 283.47,
+        "pe_90": 312.56
       },
       {
         "date": "2025-01-16",
         "price": 262.5,
-        "pe": 20.1,
-        "pe_10": 165.78,
-        "pe_25": 212.48,
-        "pe_50": 254.53,
-        "pe_75": 282.48,
-        "pe_90": 313.88
+        "pe": 19.91,
+        "pe_10": 169.18,
+        "pe_25": 210.95,
+        "pe_50": 254.06,
+        "pe_75": 287.55,
+        "pe_90": 317.06
       },
       {
         "date": "2025-02-14",
         "price": 275.0,
-        "pe": 20.96,
-        "pe_10": 166.55,
-        "pe_25": 213.47,
-        "pe_50": 255.71,
-        "pe_75": 283.79,
-        "pe_90": 315.33
+        "pe": 20.56,
+        "pe_10": 171.63,
+        "pe_25": 214.01,
+        "pe_50": 257.75,
+        "pe_75": 291.72,
+        "pe_90": 321.65
       },
       {
         "date": "2025-03-16",
         "price": 229.0,
-        "pe": 17.37,
-        "pe_10": 167.35,
-        "pe_25": 214.5,
-        "pe_50": 256.95,
-        "pe_75": 285.16,
-        "pe_90": 316.86
+        "pe": 16.89,
+        "pe_10": 173.98,
+        "pe_25": 216.93,
+        "pe_50": 261.27,
+        "pe_75": 295.71,
+        "pe_90": 326.05
       },
       {
         "date": "2025-04-15",
         "price": 238.5,
-        "pe": 18.0,
-        "pe_10": 168.2,
-        "pe_25": 215.58,
-        "pe_50": 258.24,
-        "pe_75": 286.6,
-        "pe_90": 318.45
+        "pe": 17.58,
+        "pe_10": 174.09,
+        "pe_25": 217.06,
+        "pe_50": 261.43,
+        "pe_75": 295.89,
+        "pe_90": 326.25
       },
       {
         "date": "2025-05-16",
         "price": 239.5,
-        "pe": 18.0,
-        "pe_10": 168.9,
-        "pe_25": 216.48,
-        "pe_50": 259.33,
-        "pe_75": 287.8,
-        "pe_90": 319.79
+        "pe": 17.64,
+        "pe_10": 174.22,
+        "pe_25": 217.23,
+        "pe_50": 261.63,
+        "pe_75": 296.12,
+        "pe_90": 326.5
       },
       {
         "date": "2025-06-15",
         "price": 241.5,
-        "pe": 18.06,
-        "pe_10": 169.75,
-        "pe_25": 217.56,
-        "pe_50": 260.62,
-        "pe_75": 289.24,
-        "pe_90": 321.38
+        "pe": 17.78,
+        "pe_10": 174.29,
+        "pe_25": 217.32,
+        "pe_50": 261.74,
+        "pe_75": 296.24,
+        "pe_90": 326.64
       },
       {
         "date": "2025-07-16",
         "price": 234.5,
-        "pe": 17.46,
-        "pe_10": 170.49,
-        "pe_25": 218.52,
-        "pe_50": 261.76,
-        "pe_75": 290.51,
-        "pe_90": 322.79
+        "pe": 17.2,
+        "pe_10": 174.95,
+        "pe_25": 218.14,
+        "pe_50": 262.72,
+        "pe_75": 297.35,
+        "pe_90": 327.86
       },
       {
         "date": "2025-08-16",
         "price": 263.0,
-        "pe": 19.49,
-        "pe_10": 171.29,
-        "pe_25": 219.55,
-        "pe_50": 263.0,
-        "pe_75": 291.88,
-        "pe_90": 324.32
+        "pe": 19.22,
+        "pe_10": 175.59,
+        "pe_25": 218.94,
+        "pe_50": 263.68,
+        "pe_75": 298.44,
+        "pe_90": 329.06
       },
       {
         "date": "2025-09-15",
         "price": 243.5,
-        "pe": 17.96,
-        "pe_10": 172.1,
-        "pe_25": 220.59,
-        "pe_50": 264.24,
-        "pe_75": 293.26,
-        "pe_90": 325.85
+        "pe": 17.72,
+        "pe_10": 176.33,
+        "pe_25": 219.86,
+        "pe_50": 264.8,
+        "pe_75": 299.7,
+        "pe_90": 330.46
       },
       {
         "date": "2025-10-16",
         "price": 230.0,
-        "pe": 16.89,
-        "pe_10": 172.86,
-        "pe_25": 221.56,
-        "pe_50": 265.41,
-        "pe_75": 294.55,
-        "pe_90": 327.28
+        "pe": 16.49,
+        "pe_10": 178.98,
+        "pe_25": 223.17,
+        "pe_50": 268.78,
+        "pe_75": 304.2,
+        "pe_90": 335.42
       },
       {
         "date": "2025-11-15",
         "price": 214.0,
-        "pe": 15.65,
-        "pe_10": 173.58,
-        "pe_25": 222.48,
-        "pe_50": 266.51,
-        "pe_75": 295.77,
-        "pe_90": 328.64
+        "pe": 15.12,
+        "pe_10": 181.62,
+        "pe_25": 226.46,
+        "pe_50": 272.74,
+        "pe_75": 308.69,
+        "pe_90": 340.36
       },
       {
         "date": "2025-12-16",
         "price": 211.5,
-        "pe": 15.39,
-        "pe_10": 174.45,
-        "pe_25": 223.59,
-        "pe_50": 267.85,
-        "pe_75": 297.25,
-        "pe_90": 330.29
+        "pe": 14.73,
+        "pe_10": 184.25,
+        "pe_25": 229.74,
+        "pe_50": 276.69,
+        "pe_75": 313.16,
+        "pe_90": 345.29
       },
       {
         "date": "2026-01-16",
         "price": 205.5,
-        "pe": 14.96,
-        "pe_10": 174.37,
-        "pe_25": 223.49,
-        "pe_50": 267.73,
-        "pe_75": 297.12,
-        "pe_90": 330.15
+        "pe": 14.31,
+        "pe_10": 184.28,
+        "pe_25": 229.77,
+        "pe_50": 276.73,
+        "pe_75": 313.2,
+        "pe_90": 345.34
       },
       {
         "date": "2026-02-14",
         "price": 205.5,
-        "pe": 14.96,
-        "pe_10": 174.37,
-        "pe_25": 223.49,
-        "pe_50": 267.73,
-        "pe_75": 297.12,
-        "pe_90": 330.15
+        "pe": 14.31,
+        "pe_10": 184.28,
+        "pe_25": 229.77,
+        "pe_50": 276.73,
+        "pe_75": 313.2,
+        "pe_90": 345.34
       }
     ]
   },
@@ -1975,19 +1975,19 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (12.7倍)",
+            "title": "PE 10% (12.8倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (19.5倍)",
+            "title": "PE 50% (19.3倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (24.0倍)",
+            "title": "PE 90% (24.1倍)",
             "format": ".1f"
           }
         ]
@@ -2406,11 +2406,11 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 19.5 | +69.2% | 0.305 | 2022-12 (+637.3%) | 2023-07 (-76.8%) |
-| 6個月 | 19.7 | +58.3% | 0.519 | 2023-01 (+609.1%) | 2024-02 (-40.0%) |
-| 1年 | 20.0 | +21.2% | 0.804 | 2022-10 (+140.8%) | 2024-02 (-29.3%) |
-| 2年 | 18.9 | +13.8% | 0.928 | 2022-10 (+56.4%) | 2023-07 (-17.4%) |
-| 3年 | 12.1 | +22.2% | 0.745 | 2022-10 (+32.6%) | 2023-02 (+11.1%) |
+| 3個月 | 19.4 | +69.2% | 0.237 | 2022-12 (+637.3%) | 2023-07 (-76.8%) |
+| 6個月 | 19.5 | +58.3% | 0.479 | 2023-01 (+609.1%) | 2024-02 (-40.0%) |
+| 1年 | 19.9 | +21.2% | 0.760 | 2022-10 (+140.8%) | 2024-02 (-29.3%) |
+| 2年 | 19.1 | +13.8% | 0.925 | 2022-10 (+56.4%) | 2023-07 (-17.4%) |
+| 3年 | 12.1 | +22.2% | 0.872 | 2022-10 (+32.6%) | 2023-02 (+11.1%) |
 
 
 ## 🎯 使用說明
@@ -2429,4 +2429,4 @@ description: "6811 宏碁資訊 (數位雲端) 本益比與未來報酬率關係
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:36:24 CST*
+*數據更新時間: 2026-03-21 12:43:23 CST*

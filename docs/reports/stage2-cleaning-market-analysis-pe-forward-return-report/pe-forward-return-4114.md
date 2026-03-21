@@ -2,7 +2,7 @@
 title: "4114 健喬 - 本益比與未來報酬率分析 (互動式)"
 authors:
   - Stock Analysis System
-date: "2026-03-07"
+date: "2026-03-21"
 categories:
   - 市場分析
   - 估值分析
@@ -23,7 +23,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
     - **產業別**: 生技醫療業
     - **報告類型**: 互動式多期間分析
     - **可選期間**: 3個月, 6個月, 1年, 2年, 3年, 4年, 5年, 6年, 8年, 10年
-    - **報告生成時間**: 2026-03-07 12:34:20 CST
+    - **報告生成時間**: 2026-03-21 12:40:58 CST
 
 ## 📈 互動式圖表
 
@@ -39,7 +39,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 36.05,
+        "pe_ratio": 24.04,
         "forward_return": -20.3,
         "start_price": 13.7,
         "start_year": 2006
@@ -48,7 +48,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 35.53,
+        "pe_ratio": 25.16,
         "forward_return": -21.74,
         "start_price": 13.5,
         "start_year": 2006
@@ -57,7 +57,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 34.74,
+        "pe_ratio": 26.23,
         "forward_return": -4.44,
         "start_price": 13.2,
         "start_year": 2006
@@ -66,7 +66,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 35.0,
+        "pe_ratio": 28.3,
         "forward_return": -19.32,
         "start_price": 13.3,
         "start_year": 2006
@@ -75,7 +75,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 32.37,
+        "pe_ratio": 30.0,
         "forward_return": -9.34,
         "start_price": 12.3,
         "start_year": 2006
@@ -84,7 +84,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 33.29,
+        "pe_ratio": 36.14,
         "forward_return": 3.59,
         "start_price": 12.65,
         "start_year": 2006
@@ -93,7 +93,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 32.11,
+        "pe_ratio": 42.07,
         "forward_return": 21.25,
         "start_price": 12.2,
         "start_year": 2006
@@ -102,7 +102,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 31.58,
+        "pe_ratio": 37.5,
         "forward_return": 6.78,
         "start_price": 12.0,
         "start_year": 2006
@@ -111,7 +111,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.57,
         "forward_return": 66.27,
         "start_price": 12.1,
         "start_year": 2006
@@ -129,7 +129,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 30.06,
+        "pe_ratio": 30.76,
         "forward_return": 240.69,
         "start_price": 12.2,
         "start_year": 2007
@@ -138,7 +138,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 30.12,
+        "pe_ratio": 31.45,
         "forward_return": 296.16,
         "start_price": 13.0,
         "start_year": 2007
@@ -147,7 +147,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 33.26,
         "forward_return": 6132.77,
         "start_price": 14.3,
         "start_year": 2007
@@ -156,7 +156,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 31.66,
+        "pe_ratio": 27.49,
         "forward_return": 19319.21,
         "start_price": 15.3,
         "start_year": 2007
@@ -165,7 +165,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 35.84,
+        "pe_ratio": 26.71,
         "forward_return": 957.65,
         "start_price": 18.25,
         "start_year": 2007
@@ -174,7 +174,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 64.02,
+        "pe_ratio": 42.28,
         "forward_return": 197.09,
         "start_price": 34.25,
         "start_year": 2007
@@ -183,7 +183,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 101.1,
+        "pe_ratio": 72.08,
         "forward_return": -75.83,
         "start_price": 56.7,
         "start_year": 2007
@@ -192,7 +192,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 56.08,
+        "pe_ratio": 43.1,
         "forward_return": -8.83,
         "start_price": 32.9,
         "start_year": 2007
@@ -201,7 +201,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 73.31,
+        "pe_ratio": 60.68,
         "forward_return": -74.64,
         "start_price": 44.9,
         "start_year": 2007
@@ -210,7 +210,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 62.11,
+        "pe_ratio": 54.82,
         "forward_return": -94.02,
         "start_price": 39.65,
         "start_year": 2007
@@ -219,7 +219,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 51.42,
+        "pe_ratio": 48.33,
         "forward_return": -19.36,
         "start_price": 34.15,
         "start_year": 2007
@@ -237,7 +237,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 32.05,
+        "pe_ratio": 30.15,
         "forward_return": 325.31,
         "start_price": 19.5,
         "start_year": 2008
@@ -246,7 +246,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 56.96,
+        "pe_ratio": 49.72,
         "forward_return": 21.63,
         "start_price": 30.0,
         "start_year": 2008
@@ -255,7 +255,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 71.46,
+        "pe_ratio": 56.79,
         "forward_return": -54.19,
         "start_price": 31.8,
         "start_year": 2008
@@ -264,7 +264,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 105.0,
+        "pe_ratio": 91.56,
         "forward_return": -83.09,
         "start_price": 38.15,
         "start_year": 2008
@@ -273,7 +273,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 111.8,
+        "pe_ratio": 115.2,
         "forward_return": -71.31,
         "start_price": 31.5,
         "start_year": 2008
@@ -282,7 +282,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 114.5,
+        "pe_ratio": 176.2,
         "forward_return": -77.66,
         "start_price": 22.9,
         "start_year": 2008
@@ -291,7 +291,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 205.4,
+        "pe_ratio": 202.5,
         "forward_return": -67.56,
         "start_price": 24.3,
         "start_year": 2008
@@ -300,7 +300,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 621.8,
+        "pe_ratio": 207.3,
         "forward_return": -13.76,
         "start_price": 22.8,
         "start_year": 2008
@@ -308,8 +308,35 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
+        "start_date": "2008-09-15",
+        "pe_ratio": 155.0,
+        "forward_return": 285.94,
+        "start_price": 15.5,
+        "start_year": 2008
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2010-05-16",
+        "pe_ratio": 136.2,
+        "forward_return": -45.73,
+        "start_price": 39.95,
+        "start_year": 2010
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
+        "start_date": "2010-06-15",
+        "pe_ratio": 67.0,
+        "forward_return": -28.83,
+        "start_price": 40.2,
+        "start_year": 2010
+      },
+      {
+        "horizon": "0.25y",
+        "horizon_label": "3個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 3200.0,
+        "pe_ratio": 68.57,
         "forward_return": -27.79,
         "start_price": 40.0,
         "start_year": 2010
@@ -318,7 +345,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 380.6,
+        "pe_ratio": 60.44,
         "forward_return": 3.54,
         "start_price": 34.25,
         "start_year": 2010
@@ -327,7 +354,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 220.3,
+        "pe_ratio": 67.09,
         "forward_return": -22.32,
         "start_price": 36.9,
         "start_year": 2010
@@ -336,7 +363,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 150.4,
+        "pe_ratio": 73.7,
         "forward_return": 11.8,
         "start_price": 36.85,
         "start_year": 2010
@@ -345,7 +372,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 107.0,
+        "pe_ratio": 76.67,
         "forward_return": -6.89,
         "start_price": 34.5,
         "start_year": 2010
@@ -363,7 +390,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 110.1,
+        "pe_ratio": 133.8,
         "forward_return": -30.69,
         "start_price": 37.9,
         "start_year": 2011
@@ -372,7 +399,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 120.7,
+        "pe_ratio": 208.8,
         "forward_return": -13.27,
         "start_price": 34.8,
         "start_year": 2011
@@ -381,7 +408,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 674.0,
         "forward_return": -0.4,
         "start_price": 33.7,
         "start_year": 2011
@@ -390,7 +417,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 195.3,
+        "pe_ratio": 10350.0,
         "forward_return": -9.47,
         "start_price": 34.5,
         "start_year": 2011
@@ -398,35 +425,26 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2011-05-16",
-        "pe_ratio": 278.1,
-        "forward_return": -60.42,
-        "start_price": 33.6,
-        "start_year": 2011
+        "start_date": "2012-01-16",
+        "pe_ratio": 200.8,
+        "forward_return": 51.49,
+        "start_price": 26.1,
+        "start_year": 2012
       },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
-        "start_date": "2011-06-15",
-        "pe_ratio": 538.5,
-        "forward_return": -70.18,
-        "start_price": 35.0,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2011-07-16",
-        "pe_ratio": 3660.0,
-        "forward_return": -58.4,
-        "start_price": 33.55,
-        "start_year": 2011
+        "start_date": "2012-02-15",
+        "pe_ratio": 57.08,
+        "forward_return": -3.92,
+        "start_price": 30.25,
+        "start_year": 2012
       },
       {
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 368.0,
+        "pe_ratio": 33.12,
         "forward_return": -16.07,
         "start_price": 30.8,
         "start_year": 2012
@@ -435,7 +453,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 155.0,
+        "pe_ratio": 39.06,
         "forward_return": -25.4,
         "start_price": 31.25,
         "start_year": 2012
@@ -444,7 +462,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 93.74,
+        "pe_ratio": 44.7,
         "forward_return": 1.33,
         "start_price": 29.95,
         "start_year": 2012
@@ -453,7 +471,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 66.19,
+        "pe_ratio": 53.61,
         "forward_return": 32.9,
         "start_price": 28.95,
         "start_year": 2012
@@ -462,7 +480,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 52.14,
+        "pe_ratio": 43.0,
         "forward_return": 7.76,
         "start_price": 28.95,
         "start_year": 2012
@@ -471,7 +489,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 44.49,
+        "pe_ratio": 37.13,
         "forward_return": 122.14,
         "start_price": 29.95,
         "start_year": 2012
@@ -480,7 +498,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 39.19,
+        "pe_ratio": 32.98,
         "forward_return": 153.89,
         "start_price": 31.0,
         "start_year": 2012
@@ -489,7 +507,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 32.45,
+        "pe_ratio": 29.26,
         "forward_return": 262.36,
         "start_price": 29.5,
         "start_year": 2012
@@ -498,7 +516,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 29.99,
+        "pe_ratio": 28.61,
         "forward_return": 153.33,
         "start_price": 30.8,
         "start_year": 2012
@@ -516,7 +534,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 36.97,
+        "pe_ratio": 50.59,
         "forward_return": -37.29,
         "start_price": 40.8,
         "start_year": 2013
@@ -525,7 +543,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 42.74,
+        "pe_ratio": 96.95,
         "forward_return": -65.21,
         "start_price": 45.4,
         "start_year": 2013
@@ -534,7 +552,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 321.5,
         "forward_return": -9.01,
         "start_price": 41.8,
         "start_year": 2013
@@ -543,7 +561,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 35.31,
+        "pe_ratio": 122.1,
         "forward_return": 88.17,
         "start_price": 34.6,
         "start_year": 2013
@@ -552,7 +570,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 37.29,
+        "pe_ratio": 80.15,
         "forward_return": 79.42,
         "start_price": 35.0,
         "start_year": 2013
@@ -561,7 +579,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 38.78,
+        "pe_ratio": 58.98,
         "forward_return": 137.07,
         "start_price": 34.8,
         "start_year": 2013
@@ -570,7 +588,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 47.07,
+        "pe_ratio": 70.7,
         "forward_return": 34.21,
         "start_price": 40.3,
         "start_year": 2013
@@ -579,7 +597,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 49.51,
+        "pe_ratio": 73.36,
         "forward_return": -11.75,
         "start_price": 40.35,
         "start_year": 2013
@@ -588,7 +606,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 55.64,
+        "pe_ratio": 81.23,
         "forward_return": -34.79,
         "start_price": 43.05,
         "start_year": 2013
@@ -597,7 +615,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 59.25,
+        "pe_ratio": 76.14,
         "forward_return": -31.88,
         "start_price": 43.4,
         "start_year": 2013
@@ -606,7 +624,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 56.57,
+        "pe_ratio": 64.1,
         "forward_return": 3.94,
         "start_price": 39.1,
         "start_year": 2013
@@ -624,7 +642,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 58.37,
+        "pe_ratio": 54.47,
         "forward_return": 39.95,
         "start_price": 39.4,
         "start_year": 2014
@@ -633,7 +651,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 61.93,
+        "pe_ratio": 54.41,
         "forward_return": 6.23,
         "start_price": 43.35,
         "start_year": 2014
@@ -642,7 +660,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 54.62,
+        "pe_ratio": 45.52,
         "forward_return": 125.92,
         "start_price": 39.6,
         "start_year": 2014
@@ -651,7 +669,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 52.93,
+        "pe_ratio": 43.15,
         "forward_return": 195.21,
         "start_price": 39.7,
         "start_year": 2014
@@ -660,7 +678,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 56.77,
+        "pe_ratio": 45.36,
         "forward_return": 14.14,
         "start_price": 44.0,
         "start_year": 2014
@@ -669,7 +687,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 68.12,
+        "pe_ratio": 53.43,
         "forward_return": -44.26,
         "start_price": 54.5,
         "start_year": 2014
@@ -678,7 +696,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 62.79,
+        "pe_ratio": 49.97,
         "forward_return": -62.36,
         "start_price": 51.8,
         "start_year": 2014
@@ -687,7 +705,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 53.29,
+        "pe_ratio": 43.01,
         "forward_return": -25.0,
         "start_price": 45.3,
         "start_year": 2014
@@ -696,7 +714,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 53.54,
+        "pe_ratio": 43.79,
         "forward_return": -40.59,
         "start_price": 46.85,
         "start_year": 2014
@@ -705,7 +723,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 45.0,
+        "pe_ratio": 39.32,
         "forward_return": -1.95,
         "start_price": 40.5,
         "start_year": 2014
@@ -714,7 +732,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 40.76,
+        "pe_ratio": 38.08,
         "forward_return": 36.92,
         "start_price": 37.7,
         "start_year": 2014
@@ -732,7 +750,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 44.78,
         "forward_return": -20.33,
         "start_price": 40.3,
         "start_year": 2015
@@ -741,7 +759,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 49.56,
+        "pe_ratio": 48.59,
         "forward_return": -33.14,
         "start_price": 41.3,
         "start_year": 2015
@@ -750,7 +768,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 52.25,
         "forward_return": -51.39,
         "start_price": 41.8,
         "start_year": 2015
@@ -759,7 +777,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 55.81,
+        "pe_ratio": 54.79,
         "forward_return": -54.63,
         "start_price": 40.0,
         "start_year": 2015
@@ -768,7 +786,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 56.81,
+        "pe_ratio": 56.67,
         "forward_return": -72.57,
         "start_price": 37.4,
         "start_year": 2015
@@ -777,7 +795,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 54.42,
+        "pe_ratio": 55.34,
         "forward_return": -17.56,
         "start_price": 32.65,
         "start_year": 2015
@@ -786,7 +804,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 60.46,
         "forward_return": 34.79,
         "start_price": 32.65,
         "start_year": 2015
@@ -795,7 +813,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 55.45,
+        "pe_ratio": 54.69,
         "forward_return": 149.05,
         "start_price": 26.8,
         "start_year": 2015
@@ -804,7 +822,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 72.71,
+        "pe_ratio": 70.23,
         "forward_return": 91.93,
         "start_price": 30.9,
         "start_year": 2015
@@ -813,7 +831,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 96.0,
+        "pe_ratio": 93.45,
         "forward_return": -23.07,
         "start_price": 35.2,
         "start_year": 2015
@@ -822,7 +840,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 116.0,
+        "pe_ratio": 114.1,
         "forward_return": -9.4,
         "start_price": 35.75,
         "start_year": 2015
@@ -840,7 +858,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 102.7,
+        "pe_ratio": 51.48,
         "forward_return": 33.95,
         "start_price": 32.95,
         "start_year": 2016
@@ -849,7 +867,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 83.96,
+        "pe_ratio": 31.94,
         "forward_return": 48.4,
         "start_price": 32.9,
         "start_year": 2016
@@ -858,7 +876,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 74.76,
+        "pe_ratio": 24.37,
         "forward_return": 2.82,
         "start_price": 34.6,
         "start_year": 2016
@@ -867,7 +885,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 67.83,
+        "pe_ratio": 25.55,
         "forward_return": -13.42,
         "start_price": 36.2,
         "start_year": 2016
@@ -876,7 +894,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 60.03,
+        "pe_ratio": 25.68,
         "forward_return": -39.21,
         "start_price": 36.3,
         "start_year": 2016
@@ -885,7 +903,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 23.76,
         "forward_return": -22.93,
         "start_price": 33.5,
         "start_year": 2016
@@ -894,7 +912,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 46.55,
+        "pe_ratio": 26.06,
         "forward_return": -41.2,
         "start_price": 34.75,
         "start_year": 2016
@@ -903,7 +921,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 38.96,
+        "pe_ratio": 25.34,
         "forward_return": -15.57,
         "start_price": 31.85,
         "start_year": 2016
@@ -912,7 +930,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 35.12,
+        "pe_ratio": 26.44,
         "forward_return": -13.42,
         "start_price": 31.2,
         "start_year": 2016
@@ -921,7 +939,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 31.69,
+        "pe_ratio": 26.35,
         "forward_return": -3.86,
         "start_price": 30.4,
         "start_year": 2016
@@ -930,7 +948,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.63,
+        "pe_ratio": 26.17,
         "forward_return": 45.26,
         "start_price": 29.5,
         "start_year": 2016
@@ -948,7 +966,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.75,
+        "pe_ratio": 41.0,
         "forward_return": -3.99,
         "start_price": 30.1,
         "start_year": 2017
@@ -957,90 +975,9 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 34.85,
+        "pe_ratio": 87.59,
         "forward_return": -27.51,
         "start_price": 32.15,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-03-16",
-        "pe_ratio": 40.02,
-        "forward_return": -21.19,
-        "start_price": 33.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-04-15",
-        "pe_ratio": 42.06,
-        "forward_return": -6.26,
-        "start_price": 31.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-05-16",
-        "pe_ratio": 45.35,
-        "forward_return": -23.08,
-        "start_price": 29.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-06-15",
-        "pe_ratio": 51.36,
-        "forward_return": -26.31,
-        "start_price": 29.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-07-16",
-        "pe_ratio": 64.24,
-        "forward_return": -44.77,
-        "start_price": 30.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-08-16",
-        "pe_ratio": 71.31,
-        "forward_return": -17.81,
-        "start_price": 27.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-09-15",
-        "pe_ratio": 89.66,
-        "forward_return": -12.18,
-        "start_price": 26.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-10-16",
-        "pe_ratio": 126.4,
-        "forward_return": 8.55,
-        "start_price": 26.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.25y",
-        "horizon_label": "3個月",
-        "start_date": "2017-11-15",
-        "pe_ratio": 220.1,
-        "forward_return": 50.91,
-        "start_price": 26.25,
         "start_year": 2017
       },
       {
@@ -1056,7 +993,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 36.85,
         "forward_return": 85.42,
         "start_price": 26.9,
         "start_year": 2018
@@ -1065,7 +1002,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 69.53,
+        "pe_ratio": 19.13,
         "forward_return": 112.97,
         "start_price": 27.35,
         "start_year": 2018
@@ -1074,7 +1011,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 52.26,
+        "pe_ratio": 14.11,
         "forward_return": 42.2,
         "start_price": 30.05,
         "start_year": 2018
@@ -1083,7 +1020,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 39.71,
+        "pe_ratio": 13.76,
         "forward_return": 60.32,
         "start_price": 30.05,
         "start_year": 2018
@@ -1092,7 +1029,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.12,
+        "pe_ratio": 14.73,
         "forward_return": -42.2,
         "start_price": 32.95,
         "start_year": 2018
@@ -1101,7 +1038,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 14.1,
         "forward_return": -44.88,
         "start_price": 32.3,
         "start_year": 2018
@@ -1110,7 +1047,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 25.81,
+        "pe_ratio": 14.85,
         "forward_return": -69.32,
         "start_price": 33.6,
         "start_year": 2018
@@ -1119,7 +1056,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 12.74,
         "forward_return": -11.12,
         "start_price": 28.5,
         "start_year": 2018
@@ -1128,7 +1065,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.58,
+        "pe_ratio": 12.49,
         "forward_return": -2.88,
         "start_price": 27.6,
         "start_year": 2018
@@ -1137,7 +1074,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 11.29,
         "forward_return": 49.29,
         "start_price": 24.95,
         "start_year": 2018
@@ -1146,7 +1083,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.26,
         "forward_return": 21.62,
         "start_price": 27.1,
         "start_year": 2018
@@ -1164,7 +1101,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 17.21,
         "forward_return": 22.46,
         "start_price": 27.6,
         "start_year": 2019
@@ -1173,7 +1110,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.27,
+        "pe_ratio": 28.75,
         "forward_return": 12.6,
         "start_price": 28.65,
         "start_year": 2019
@@ -1182,7 +1119,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 74.1,
         "forward_return": -31.26,
         "start_price": 28.9,
         "start_year": 2019
@@ -1191,7 +1128,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.11,
+        "pe_ratio": 81.19,
         "forward_return": -44.29,
         "start_price": 29.5,
         "start_year": 2019
@@ -1200,7 +1137,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 21.43,
+        "pe_ratio": 87.62,
         "forward_return": -45.23,
         "start_price": 29.5,
         "start_year": 2019
@@ -1209,7 +1146,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 97.42,
         "forward_return": -46.9,
         "start_price": 30.2,
         "start_year": 2019
@@ -1218,7 +1155,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.25,
+        "pe_ratio": 93.7,
         "forward_return": -16.18,
         "start_price": 25.3,
         "start_year": 2019
@@ -1227,7 +1164,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 28.69,
+        "pe_ratio": 109.3,
         "forward_return": -9.78,
         "start_price": 25.15,
         "start_year": 2019
@@ -1236,7 +1173,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 35.99,
+        "pe_ratio": 134.5,
         "forward_return": -18.24,
         "start_price": 25.55,
         "start_year": 2019
@@ -1245,7 +1182,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 44.54,
+        "pe_ratio": 123.1,
         "forward_return": 10.21,
         "start_price": 24.2,
         "start_year": 2019
@@ -1254,7 +1191,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 65.84,
+        "pe_ratio": 122.0,
         "forward_return": -57.35,
         "start_price": 24.8,
         "start_year": 2019
@@ -1272,7 +1209,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 62.39,
+        "pe_ratio": 89.64,
         "forward_return": -9.99,
         "start_price": 24.8,
         "start_year": 2020
@@ -1281,7 +1218,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 38.89,
+        "pe_ratio": 66.26,
         "forward_return": 22.91,
         "start_price": 22.75,
         "start_year": 2020
@@ -1290,7 +1227,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.21,
+        "pe_ratio": 45.61,
         "forward_return": 113.3,
         "start_price": 18.7,
         "start_year": 2020
@@ -1299,7 +1236,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 23.8,
+        "pe_ratio": 23.72,
         "forward_return": 23.5,
         "start_price": 22.85,
         "start_year": 2020
@@ -1308,7 +1245,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 20.87,
+        "pe_ratio": 15.79,
         "forward_return": 58.22,
         "start_price": 23.95,
         "start_year": 2020
@@ -1317,7 +1254,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 13.0,
         "forward_return": -21.19,
         "start_price": 26.9,
         "start_year": 2020
@@ -1326,7 +1263,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.7,
+        "pe_ratio": 11.19,
         "forward_return": 5.94,
         "start_price": 23.9,
         "start_year": 2020
@@ -1335,7 +1272,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.61,
+        "pe_ratio": 12.12,
         "forward_return": -12.86,
         "start_price": 26.7,
         "start_year": 2020
@@ -1344,7 +1281,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 13.25,
+        "pe_ratio": 11.08,
         "forward_return": 5.7,
         "start_price": 25.15,
         "start_year": 2020
@@ -1353,7 +1290,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.39,
         "forward_return": -5.61,
         "start_price": 24.25,
         "start_year": 2020
@@ -1362,7 +1299,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.24,
+        "pe_ratio": 10.66,
         "forward_return": 9.84,
         "start_price": 25.55,
         "start_year": 2020
@@ -1380,7 +1317,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.21,
+        "pe_ratio": 9.81,
         "forward_return": 16.08,
         "start_price": 23.9,
         "start_year": 2021
@@ -1389,7 +1326,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.55,
+        "pe_ratio": 10.63,
         "forward_return": -8.42,
         "start_price": 25.65,
         "start_year": 2021
@@ -1398,7 +1335,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 11.03,
         "forward_return": -8.26,
         "start_price": 26.35,
         "start_year": 2021
@@ -1407,7 +1344,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.46,
+        "pe_ratio": 13.57,
         "forward_return": -14.87,
         "start_price": 26.65,
         "start_year": 2021
@@ -1416,7 +1353,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 16.33,
         "forward_return": 7.34,
         "start_price": 25.1,
         "start_year": 2021
@@ -1425,7 +1362,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 14.91,
+        "pe_ratio": 23.38,
         "forward_return": -25.42,
         "start_price": 25.95,
         "start_year": 2021
@@ -1434,7 +1371,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 23.79,
         "forward_return": -31.5,
         "start_price": 25.3,
         "start_year": 2021
@@ -1443,7 +1380,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 16.83,
+        "pe_ratio": 24.84,
         "forward_return": -18.32,
         "start_price": 25.25,
         "start_year": 2021
@@ -1452,7 +1389,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.25,
+        "pe_ratio": 24.54,
         "forward_return": -3.33,
         "start_price": 23.8,
         "start_year": 2021
@@ -1461,7 +1398,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 23.31,
         "forward_return": 5.28,
         "start_price": 23.0,
         "start_year": 2021
@@ -1470,7 +1407,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.74,
+        "pe_ratio": 22.43,
         "forward_return": 39.49,
         "start_price": 22.5,
         "start_year": 2021
@@ -1488,7 +1425,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.44,
+        "pe_ratio": 21.31,
         "forward_return": 44.58,
         "start_price": 23.3,
         "start_year": 2022
@@ -1497,7 +1434,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 19.6,
+        "pe_ratio": 21.17,
         "forward_return": 29.01,
         "start_price": 24.7,
         "start_year": 2022
@@ -1506,7 +1443,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 20.24,
         "forward_return": 101.29,
         "start_price": 25.1,
         "start_year": 2022
@@ -1515,7 +1452,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.27,
+        "pe_ratio": 17.87,
         "forward_return": 79.68,
         "start_price": 27.4,
         "start_year": 2022
@@ -1524,7 +1461,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 14.4,
         "forward_return": 410.65,
         "start_price": 26.3,
         "start_year": 2022
@@ -1533,7 +1470,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 18.99,
+        "pe_ratio": 15.59,
         "forward_return": 42.86,
         "start_price": 33.05,
         "start_year": 2022
@@ -1542,7 +1479,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 14.4,
         "forward_return": 18.31,
         "start_price": 31.2,
         "start_year": 2022
@@ -1551,7 +1488,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 19.77,
+        "pe_ratio": 17.69,
         "forward_return": 92.22,
         "start_price": 39.15,
         "start_year": 2022
@@ -1560,7 +1497,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 16.98,
+        "pe_ratio": 15.77,
         "forward_return": 249.73,
         "start_price": 35.65,
         "start_year": 2022
@@ -1569,7 +1506,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 14.66,
+        "pe_ratio": 13.99,
         "forward_return": 191.03,
         "start_price": 32.55,
         "start_year": 2022
@@ -1578,7 +1515,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 15.0,
         "forward_return": 109.17,
         "start_price": 35.9,
         "start_year": 2022
@@ -1596,7 +1533,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 17.29,
         "forward_return": 13.81,
         "start_price": 42.6,
         "start_year": 2023
@@ -1605,7 +1542,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 19.36,
         "forward_return": -25.22,
         "start_price": 47.75,
         "start_year": 2023
@@ -1614,7 +1551,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 20.36,
+        "pe_ratio": 18.52,
         "forward_return": -11.88,
         "start_price": 45.75,
         "start_year": 2023
@@ -1623,7 +1560,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 21.96,
+        "pe_ratio": 21.5,
         "forward_return": -29.22,
         "start_price": 47.8,
         "start_year": 2023
@@ -1632,7 +1569,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.11,
+        "pe_ratio": 22.49,
         "forward_return": -50.65,
         "start_price": 44.45,
         "start_year": 2023
@@ -1641,7 +1578,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 21.6,
+        "pe_ratio": 25.4,
         "forward_return": -40.84,
         "start_price": 43.95,
         "start_year": 2023
@@ -1650,7 +1587,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 22.04,
+        "pe_ratio": 25.67,
         "forward_return": -43.2,
         "start_price": 43.3,
         "start_year": 2023
@@ -1659,7 +1596,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 19.36,
+        "pe_ratio": 22.3,
         "forward_return": 17.24,
         "start_price": 36.65,
         "start_year": 2023
@@ -1668,7 +1605,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 20.82,
+        "pe_ratio": 23.72,
         "forward_return": 7.61,
         "start_price": 37.95,
         "start_year": 2023
@@ -1677,7 +1614,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 21.44,
+        "pe_ratio": 23.42,
         "forward_return": 0.0,
         "start_price": 37.55,
         "start_year": 2023
@@ -1686,7 +1623,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 23.92,
+        "pe_ratio": 25.02,
         "forward_return": -6.96,
         "start_price": 40.2,
         "start_year": 2023
@@ -1704,7 +1641,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.3,
+        "pe_ratio": 22.8,
         "forward_return": 20.56,
         "start_price": 37.55,
         "start_year": 2024
@@ -1713,7 +1650,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 24.17,
+        "pe_ratio": 23.17,
         "forward_return": 10.14,
         "start_price": 39.0,
         "start_year": 2024
@@ -1722,7 +1659,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 24.3,
+        "pe_ratio": 22.82,
         "forward_return": 18.16,
         "start_price": 39.25,
         "start_year": 2024
@@ -1731,7 +1668,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 23.85,
+        "pe_ratio": 22.11,
         "forward_return": 34.44,
         "start_price": 38.55,
         "start_year": 2024
@@ -1740,7 +1677,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 24.69,
+        "pe_ratio": 22.61,
         "forward_return": -10.49,
         "start_price": 39.95,
         "start_year": 2024
@@ -1749,7 +1686,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 25.4,
+        "pe_ratio": 22.99,
         "forward_return": -26.34,
         "start_price": 41.15,
         "start_year": 2024
@@ -1758,7 +1695,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 25.22,
+        "pe_ratio": 23.19,
         "forward_return": -38.41,
         "start_price": 40.9,
         "start_year": 2024
@@ -1767,7 +1704,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 23.56,
+        "pe_ratio": 22.02,
         "forward_return": -26.58,
         "start_price": 38.25,
         "start_year": 2024
@@ -1776,7 +1713,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 23.08,
+        "pe_ratio": 21.93,
         "forward_return": -28.44,
         "start_price": 37.5,
         "start_year": 2024
@@ -1785,7 +1722,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 22.25,
+        "pe_ratio": 21.5,
         "forward_return": -27.36,
         "start_price": 36.2,
         "start_year": 2024
@@ -1794,7 +1731,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 21.06,
+        "pe_ratio": 20.7,
         "forward_return": -8.19,
         "start_price": 34.3,
         "start_year": 2024
@@ -1812,7 +1749,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.41,
         "forward_return": 6.99,
         "start_price": 33.4,
         "start_year": 2025
@@ -1821,7 +1758,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.9,
         "forward_return": 19.25,
         "start_price": 32.7,
         "start_year": 2025
@@ -1830,7 +1767,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 20.68,
+        "pe_ratio": 20.21,
         "forward_return": 42.62,
         "start_price": 33.35,
         "start_year": 2025
@@ -1839,7 +1776,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 20.2,
         "forward_return": 84.15,
         "start_price": 32.25,
         "start_year": 2025
@@ -1848,7 +1785,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 21.33,
+        "pe_ratio": 22.13,
         "forward_return": 14.68,
         "start_price": 34.15,
         "start_year": 2025
@@ -1857,7 +1794,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 24.56,
         "forward_return": -17.69,
         "start_price": 36.6,
         "start_year": 2025
@@ -1866,7 +1803,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 24.42,
         "forward_return": -31.83,
         "start_price": 36.95,
         "start_year": 2025
@@ -1875,7 +1812,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-08-16",
-        "pe_ratio": 21.95,
+        "pe_ratio": 22.61,
         "forward_return": -18.91,
         "start_price": 34.75,
         "start_year": 2025
@@ -1884,7 +1821,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-09-15",
-        "pe_ratio": 21.71,
+        "pe_ratio": 21.96,
         "forward_return": -19.98,
         "start_price": 34.25,
         "start_year": 2025
@@ -1893,7 +1830,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.25y",
         "horizon_label": "3個月",
         "start_date": "2025-10-16",
-        "pe_ratio": 21.35,
+        "pe_ratio": 21.51,
         "forward_return": -12.93,
         "start_price": 33.55,
         "start_year": 2025
@@ -1902,7 +1839,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-03-16",
-        "pe_ratio": 36.05,
+        "pe_ratio": 24.04,
         "forward_return": -15.65,
         "start_price": 13.7,
         "start_year": 2006
@@ -1911,7 +1848,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-04-15",
-        "pe_ratio": 35.53,
+        "pe_ratio": 25.16,
         "forward_return": -15.6,
         "start_price": 13.5,
         "start_year": 2006
@@ -1920,7 +1857,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-05-16",
-        "pe_ratio": 34.74,
+        "pe_ratio": 26.23,
         "forward_return": 0.0,
         "start_price": 13.2,
         "start_year": 2006
@@ -1929,7 +1866,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-06-15",
-        "pe_ratio": 35.0,
+        "pe_ratio": 28.3,
         "forward_return": -1.5,
         "start_price": 13.3,
         "start_year": 2006
@@ -1938,7 +1875,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-07-16",
-        "pe_ratio": 32.37,
+        "pe_ratio": 30.0,
         "forward_return": -1.61,
         "start_price": 12.3,
         "start_year": 2006
@@ -1947,7 +1884,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-08-16",
-        "pe_ratio": 33.29,
+        "pe_ratio": 36.14,
         "forward_return": 23.52,
         "start_price": 12.65,
         "start_year": 2006
@@ -1956,7 +1893,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-09-15",
-        "pe_ratio": 32.11,
+        "pe_ratio": 42.07,
         "forward_return": 37.78,
         "start_price": 12.2,
         "start_year": 2006
@@ -1965,7 +1902,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-10-16",
-        "pe_ratio": 31.58,
+        "pe_ratio": 37.5,
         "forward_return": 105.92,
         "start_price": 12.0,
         "start_year": 2006
@@ -1974,7 +1911,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2006-11-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.57,
         "forward_return": 129.17,
         "start_price": 12.1,
         "start_year": 2006
@@ -1992,7 +1929,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-01-16",
-        "pe_ratio": 30.06,
+        "pe_ratio": 30.76,
         "forward_return": 2132.88,
         "start_price": 12.2,
         "start_year": 2007
@@ -2001,7 +1938,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-02-14",
-        "pe_ratio": 30.12,
+        "pe_ratio": 31.45,
         "forward_return": 550.8,
         "start_price": 13.0,
         "start_year": 2007
@@ -2010,7 +1947,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-03-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 33.26,
         "forward_return": 473.97,
         "start_price": 14.3,
         "start_year": 2007
@@ -2019,7 +1956,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-04-15",
-        "pe_ratio": 31.66,
+        "pe_ratio": 27.49,
         "forward_return": 574.3,
         "start_price": 15.3,
         "start_year": 2007
@@ -2028,7 +1965,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-05-16",
-        "pe_ratio": 35.84,
+        "pe_ratio": 26.71,
         "forward_return": 161.58,
         "start_price": 18.25,
         "start_year": 2007
@@ -2037,7 +1974,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-06-15",
-        "pe_ratio": 64.02,
+        "pe_ratio": 42.28,
         "forward_return": -12.37,
         "start_price": 34.25,
         "start_year": 2007
@@ -2046,7 +1983,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-07-16",
-        "pe_ratio": 101.1,
+        "pe_ratio": 72.08,
         "forward_return": -87.98,
         "start_price": 56.7,
         "start_year": 2007
@@ -2055,7 +1992,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-08-16",
-        "pe_ratio": 56.08,
+        "pe_ratio": 43.1,
         "forward_return": -5.66,
         "start_price": 32.9,
         "start_year": 2007
@@ -2064,7 +2001,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-09-15",
-        "pe_ratio": 73.31,
+        "pe_ratio": 60.68,
         "forward_return": -49.96,
         "start_price": 44.9,
         "start_year": 2007
@@ -2073,7 +2010,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-10-16",
-        "pe_ratio": 62.11,
+        "pe_ratio": 54.82,
         "forward_return": -32.6,
         "start_price": 39.65,
         "start_year": 2007
@@ -2082,7 +2019,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2007-11-15",
-        "pe_ratio": 51.42,
+        "pe_ratio": 48.33,
         "forward_return": -14.96,
         "start_price": 34.15,
         "start_year": 2007
@@ -2100,7 +2037,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-01-16",
-        "pe_ratio": 32.05,
+        "pe_ratio": 30.15,
         "forward_return": 58.1,
         "start_price": 19.5,
         "start_year": 2008
@@ -2109,7 +2046,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-02-15",
-        "pe_ratio": 56.96,
+        "pe_ratio": 49.72,
         "forward_return": -41.16,
         "start_price": 30.0,
         "start_year": 2008
@@ -2118,7 +2055,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-03-16",
-        "pe_ratio": 71.46,
+        "pe_ratio": 56.79,
         "forward_return": -60.33,
         "start_price": 31.8,
         "start_year": 2008
@@ -2127,7 +2064,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-04-15",
-        "pe_ratio": 105.0,
+        "pe_ratio": 91.56,
         "forward_return": -76.41,
         "start_price": 38.15,
         "start_year": 2008
@@ -2136,7 +2073,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-05-16",
-        "pe_ratio": 111.8,
+        "pe_ratio": 115.2,
         "forward_return": -46.23,
         "start_price": 31.5,
         "start_year": 2008
@@ -2145,7 +2082,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-06-15",
-        "pe_ratio": 114.5,
+        "pe_ratio": 176.2,
         "forward_return": -8.53,
         "start_price": 22.9,
         "start_year": 2008
@@ -2154,7 +2091,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-07-16",
-        "pe_ratio": 205.4,
+        "pe_ratio": 202.5,
         "forward_return": -44.27,
         "start_price": 24.3,
         "start_year": 2008
@@ -2163,7 +2100,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2008-08-16",
-        "pe_ratio": 621.8,
+        "pe_ratio": 207.3,
         "forward_return": 46.88,
         "start_price": 22.8,
         "start_year": 2008
@@ -2171,8 +2108,35 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
+        "start_date": "2008-09-15",
+        "pe_ratio": 155.0,
+        "forward_return": 241.8,
+        "start_price": 15.5,
+        "start_year": 2008
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2010-05-16",
+        "pe_ratio": 136.2,
+        "forward_return": -21.57,
+        "start_price": 39.95,
+        "start_year": 2010
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
+        "start_date": "2010-06-15",
+        "pe_ratio": 67.0,
+        "forward_return": -25.66,
+        "start_price": 40.2,
+        "start_year": 2010
+      },
+      {
+        "horizon": "0.5y",
+        "horizon_label": "6個月",
         "start_date": "2010-07-16",
-        "pe_ratio": 3200.0,
+        "pe_ratio": 68.57,
         "forward_return": -10.15,
         "start_price": 40.0,
         "start_year": 2010
@@ -2181,7 +2145,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-08-16",
-        "pe_ratio": 380.6,
+        "pe_ratio": 60.44,
         "forward_return": -2.75,
         "start_price": 34.25,
         "start_year": 2010
@@ -2190,7 +2154,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-09-15",
-        "pe_ratio": 220.3,
+        "pe_ratio": 67.09,
         "forward_return": -16.73,
         "start_price": 36.9,
         "start_year": 2010
@@ -2199,7 +2163,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-10-16",
-        "pe_ratio": 150.4,
+        "pe_ratio": 73.7,
         "forward_return": -14.71,
         "start_price": 36.85,
         "start_year": 2010
@@ -2208,7 +2172,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2010-11-15",
-        "pe_ratio": 107.0,
+        "pe_ratio": 76.67,
         "forward_return": -5.19,
         "start_price": 34.5,
         "start_year": 2010
@@ -2226,7 +2190,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-01-16",
-        "pe_ratio": 110.1,
+        "pe_ratio": 133.8,
         "forward_return": -21.31,
         "start_price": 37.9,
         "start_year": 2011
@@ -2235,7 +2199,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-02-14",
-        "pe_ratio": 120.7,
+        "pe_ratio": 208.8,
         "forward_return": -41.66,
         "start_price": 34.8,
         "start_year": 2011
@@ -2244,7 +2208,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 674.0,
         "forward_return": -31.48,
         "start_price": 33.7,
         "start_year": 2011
@@ -2253,7 +2217,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2011-04-15",
-        "pe_ratio": 195.3,
+        "pe_ratio": 10350.0,
         "forward_return": -38.67,
         "start_price": 34.5,
         "start_year": 2011
@@ -2261,35 +2225,26 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2011-05-16",
-        "pe_ratio": 278.1,
-        "forward_return": -36.48,
-        "start_price": 33.6,
-        "start_year": 2011
+        "start_date": "2012-01-16",
+        "pe_ratio": 200.8,
+        "forward_return": 23.97,
+        "start_price": 26.1,
+        "start_year": 2012
       },
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
-        "start_date": "2011-06-15",
-        "pe_ratio": 538.5,
-        "forward_return": -45.78,
-        "start_price": 35.0,
-        "start_year": 2011
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2011-07-16",
-        "pe_ratio": 3660.0,
-        "forward_return": -39.25,
-        "start_price": 33.55,
-        "start_year": 2011
+        "start_date": "2012-02-15",
+        "pe_ratio": 57.08,
+        "forward_return": -1.32,
+        "start_price": 30.25,
+        "start_year": 2012
       },
       {
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-03-16",
-        "pe_ratio": 368.0,
+        "pe_ratio": 33.12,
         "forward_return": -6.56,
         "start_price": 30.8,
         "start_year": 2012
@@ -2298,7 +2253,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-04-15",
-        "pe_ratio": 155.0,
+        "pe_ratio": 39.06,
         "forward_return": -10.26,
         "start_price": 31.25,
         "start_year": 2012
@@ -2307,7 +2262,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-05-16",
-        "pe_ratio": 93.74,
+        "pe_ratio": 44.7,
         "forward_return": 58.31,
         "start_price": 29.95,
         "start_year": 2012
@@ -2316,7 +2271,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-06-15",
-        "pe_ratio": 66.19,
+        "pe_ratio": 53.61,
         "forward_return": 83.12,
         "start_price": 28.95,
         "start_year": 2012
@@ -2325,7 +2280,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-07-16",
-        "pe_ratio": 52.14,
+        "pe_ratio": 43.0,
         "forward_return": 97.6,
         "start_price": 28.95,
         "start_year": 2012
@@ -2334,7 +2289,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-08-16",
-        "pe_ratio": 44.49,
+        "pe_ratio": 37.13,
         "forward_return": 77.6,
         "start_price": 29.95,
         "start_year": 2012
@@ -2343,7 +2298,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-09-15",
-        "pe_ratio": 39.19,
+        "pe_ratio": 32.98,
         "forward_return": 82.79,
         "start_price": 31.0,
         "start_year": 2012
@@ -2352,7 +2307,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-10-16",
-        "pe_ratio": 32.45,
+        "pe_ratio": 29.26,
         "forward_return": 34.25,
         "start_price": 29.5,
         "start_year": 2012
@@ -2361,7 +2316,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2012-11-15",
-        "pe_ratio": 29.99,
+        "pe_ratio": 28.61,
         "forward_return": 29.43,
         "start_price": 30.8,
         "start_year": 2012
@@ -2379,7 +2334,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-01-16",
-        "pe_ratio": 36.97,
+        "pe_ratio": 50.59,
         "forward_return": -1.47,
         "start_price": 40.8,
         "start_year": 2013
@@ -2388,7 +2343,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-02-14",
-        "pe_ratio": 42.74,
+        "pe_ratio": 96.95,
         "forward_return": -20.28,
         "start_price": 45.4,
         "start_year": 2013
@@ -2397,7 +2352,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-03-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 321.5,
         "forward_return": 7.47,
         "start_price": 41.8,
         "start_year": 2013
@@ -2406,7 +2361,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-04-15",
-        "pe_ratio": 35.31,
+        "pe_ratio": 122.1,
         "forward_return": 58.65,
         "start_price": 34.6,
         "start_year": 2013
@@ -2415,7 +2370,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-05-16",
-        "pe_ratio": 37.29,
+        "pe_ratio": 80.15,
         "forward_return": 19.77,
         "start_price": 35.0,
         "start_year": 2013
@@ -2424,7 +2379,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-06-15",
-        "pe_ratio": 38.78,
+        "pe_ratio": 58.98,
         "forward_return": 24.91,
         "start_price": 34.8,
         "start_year": 2013
@@ -2433,7 +2388,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-07-16",
-        "pe_ratio": 47.07,
+        "pe_ratio": 70.7,
         "forward_return": -4.38,
         "start_price": 40.3,
         "start_year": 2013
@@ -2442,7 +2397,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-08-16",
-        "pe_ratio": 49.51,
+        "pe_ratio": 73.36,
         "forward_return": -3.18,
         "start_price": 40.35,
         "start_year": 2013
@@ -2451,7 +2406,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-09-15",
-        "pe_ratio": 55.64,
+        "pe_ratio": 81.23,
         "forward_return": -15.51,
         "start_price": 43.05,
         "start_year": 2013
@@ -2460,7 +2415,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-10-16",
-        "pe_ratio": 59.25,
+        "pe_ratio": 76.14,
         "forward_return": 2.39,
         "start_price": 43.4,
         "start_year": 2013
@@ -2469,7 +2424,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2013-11-15",
-        "pe_ratio": 56.57,
+        "pe_ratio": 64.1,
         "forward_return": 26.9,
         "start_price": 39.1,
         "start_year": 2013
@@ -2487,7 +2442,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-01-16",
-        "pe_ratio": 58.37,
+        "pe_ratio": 54.47,
         "forward_return": 74.99,
         "start_price": 39.4,
         "start_year": 2014
@@ -2496,7 +2451,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-02-14",
-        "pe_ratio": 61.93,
+        "pe_ratio": 54.41,
         "forward_return": 10.15,
         "start_price": 43.35,
         "start_year": 2014
@@ -2505,7 +2460,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-03-16",
-        "pe_ratio": 54.62,
+        "pe_ratio": 45.52,
         "forward_return": 4.74,
         "start_price": 39.6,
         "start_year": 2014
@@ -2514,7 +2469,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-04-15",
-        "pe_ratio": 52.93,
+        "pe_ratio": 43.15,
         "forward_return": 5.04,
         "start_price": 39.7,
         "start_year": 2014
@@ -2523,7 +2478,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-05-16",
-        "pe_ratio": 56.77,
+        "pe_ratio": 45.36,
         "forward_return": -10.1,
         "start_price": 44.0,
         "start_year": 2014
@@ -2532,7 +2487,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-06-15",
-        "pe_ratio": 68.12,
+        "pe_ratio": 53.43,
         "forward_return": -42.4,
         "start_price": 54.5,
         "start_year": 2014
@@ -2541,7 +2496,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-07-16",
-        "pe_ratio": 62.79,
+        "pe_ratio": 49.97,
         "forward_return": -39.25,
         "start_price": 51.8,
         "start_year": 2014
@@ -2550,7 +2505,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-08-16",
-        "pe_ratio": 53.29,
+        "pe_ratio": 43.01,
         "forward_return": -12.94,
         "start_price": 45.3,
         "start_year": 2014
@@ -2559,7 +2514,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-09-15",
-        "pe_ratio": 53.54,
+        "pe_ratio": 43.79,
         "forward_return": -20.56,
         "start_price": 46.85,
         "start_year": 2014
@@ -2568,7 +2523,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-10-16",
-        "pe_ratio": 45.0,
+        "pe_ratio": 39.32,
         "forward_return": -12.82,
         "start_price": 40.5,
         "start_year": 2014
@@ -2577,7 +2532,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2014-11-15",
-        "pe_ratio": 40.76,
+        "pe_ratio": 38.08,
         "forward_return": -1.6,
         "start_price": 37.7,
         "start_year": 2014
@@ -2595,7 +2550,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-01-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 44.78,
         "forward_return": -33.8,
         "start_price": 40.3,
         "start_year": 2015
@@ -2604,7 +2559,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-02-14",
-        "pe_ratio": 49.56,
+        "pe_ratio": 48.59,
         "forward_return": -57.39,
         "start_price": 41.3,
         "start_year": 2015
@@ -2613,7 +2568,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 52.25,
         "forward_return": -24.7,
         "start_price": 41.8,
         "start_year": 2015
@@ -2622,7 +2577,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-04-15",
-        "pe_ratio": 55.81,
+        "pe_ratio": 54.79,
         "forward_return": -21.64,
         "start_price": 40.0,
         "start_year": 2015
@@ -2631,7 +2586,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-05-16",
-        "pe_ratio": 56.81,
+        "pe_ratio": 56.67,
         "forward_return": -3.85,
         "start_price": 37.4,
         "start_year": 2015
@@ -2640,7 +2595,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-06-15",
-        "pe_ratio": 54.42,
+        "pe_ratio": 55.34,
         "forward_return": 25.26,
         "start_price": 32.65,
         "start_year": 2015
@@ -2649,7 +2604,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-07-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 60.46,
         "forward_return": 1.83,
         "start_price": 32.65,
         "start_year": 2015
@@ -2658,7 +2613,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-08-16",
-        "pe_ratio": 55.45,
+        "pe_ratio": 54.69,
         "forward_return": 54.97,
         "start_price": 26.8,
         "start_year": 2015
@@ -2667,7 +2622,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-09-15",
-        "pe_ratio": 72.71,
+        "pe_ratio": 70.23,
         "forward_return": 25.48,
         "start_price": 30.9,
         "start_year": 2015
@@ -2676,7 +2631,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-10-16",
-        "pe_ratio": 96.0,
+        "pe_ratio": 93.45,
         "forward_return": 5.42,
         "start_price": 35.2,
         "start_year": 2015
@@ -2685,7 +2640,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2015-11-15",
-        "pe_ratio": 116.0,
+        "pe_ratio": 114.1,
         "forward_return": 3.11,
         "start_price": 35.75,
         "start_year": 2015
@@ -2703,7 +2658,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-01-16",
-        "pe_ratio": 102.7,
+        "pe_ratio": 51.48,
         "forward_return": 12.38,
         "start_price": 32.95,
         "start_year": 2016
@@ -2712,7 +2667,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-02-15",
-        "pe_ratio": 83.96,
+        "pe_ratio": 31.94,
         "forward_return": -5.25,
         "start_price": 32.9,
         "start_year": 2016
@@ -2721,7 +2676,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-03-16",
-        "pe_ratio": 74.76,
+        "pe_ratio": 24.37,
         "forward_return": -19.04,
         "start_price": 34.6,
         "start_year": 2016
@@ -2730,7 +2685,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-04-15",
-        "pe_ratio": 67.83,
+        "pe_ratio": 25.55,
         "forward_return": -28.62,
         "start_price": 36.2,
         "start_year": 2016
@@ -2739,7 +2694,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-05-16",
-        "pe_ratio": 60.03,
+        "pe_ratio": 25.68,
         "forward_return": -26.65,
         "start_price": 36.3,
         "start_year": 2016
@@ -2748,7 +2703,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-06-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 23.76,
         "forward_return": -18.3,
         "start_price": 33.5,
         "start_year": 2016
@@ -2757,7 +2712,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-07-16",
-        "pe_ratio": 46.55,
+        "pe_ratio": 26.06,
         "forward_return": -24.81,
         "start_price": 34.75,
         "start_year": 2016
@@ -2766,7 +2721,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-08-16",
-        "pe_ratio": 38.96,
+        "pe_ratio": 25.34,
         "forward_return": 8.25,
         "start_price": 31.85,
         "start_year": 2016
@@ -2775,7 +2730,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-09-15",
-        "pe_ratio": 35.12,
+        "pe_ratio": 26.44,
         "forward_return": 14.39,
         "start_price": 31.2,
         "start_year": 2016
@@ -2784,7 +2739,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-10-16",
-        "pe_ratio": 31.69,
+        "pe_ratio": 26.35,
         "forward_return": -3.93,
         "start_price": 30.4,
         "start_year": 2016
@@ -2793,7 +2748,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.63,
+        "pe_ratio": 26.17,
         "forward_return": 1.37,
         "start_price": 29.5,
         "start_year": 2016
@@ -2811,7 +2766,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.75,
+        "pe_ratio": 41.0,
         "forward_return": 4.75,
         "start_price": 30.1,
         "start_year": 2017
@@ -2820,90 +2775,9 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2017-02-14",
-        "pe_ratio": 34.85,
+        "pe_ratio": 87.59,
         "forward_return": -25.3,
         "start_price": 32.15,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-03-16",
-        "pe_ratio": 40.02,
-        "forward_return": -32.24,
-        "start_price": 33.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-04-15",
-        "pe_ratio": 42.06,
-        "forward_return": -28.0,
-        "start_price": 31.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-05-16",
-        "pe_ratio": 45.35,
-        "forward_return": -20.05,
-        "start_price": 29.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-06-15",
-        "pe_ratio": 51.36,
-        "forward_return": -19.55,
-        "start_price": 29.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-07-16",
-        "pe_ratio": 64.24,
-        "forward_return": -22.57,
-        "start_price": 30.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-08-16",
-        "pe_ratio": 71.31,
-        "forward_return": 15.78,
-        "start_price": 27.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-09-15",
-        "pe_ratio": 89.66,
-        "forward_return": 26.94,
-        "start_price": 26.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-10-16",
-        "pe_ratio": 126.4,
-        "forward_return": 46.98,
-        "start_price": 26.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "0.5y",
-        "horizon_label": "6個月",
-        "start_date": "2017-11-15",
-        "pe_ratio": 220.1,
-        "forward_return": 58.21,
-        "start_price": 26.25,
         "start_year": 2017
       },
       {
@@ -2919,7 +2793,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 36.85,
         "forward_return": 58.53,
         "start_price": 26.9,
         "start_year": 2018
@@ -2928,7 +2802,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-02-14",
-        "pe_ratio": 69.53,
+        "pe_ratio": 19.13,
         "forward_return": 10.15,
         "start_price": 27.35,
         "start_year": 2018
@@ -2937,7 +2811,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-03-16",
-        "pe_ratio": 52.26,
+        "pe_ratio": 14.11,
         "forward_return": -26.2,
         "start_price": 30.05,
         "start_year": 2018
@@ -2946,7 +2820,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-04-15",
-        "pe_ratio": 39.71,
+        "pe_ratio": 13.76,
         "forward_return": -29.9,
         "start_price": 30.05,
         "start_year": 2018
@@ -2955,7 +2829,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.12,
+        "pe_ratio": 14.73,
         "forward_return": -26.1,
         "start_price": 32.95,
         "start_year": 2018
@@ -2964,7 +2838,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-06-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 14.1,
         "forward_return": -26.94,
         "start_price": 32.3,
         "start_year": 2018
@@ -2973,7 +2847,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-07-16",
-        "pe_ratio": 25.81,
+        "pe_ratio": 14.85,
         "forward_return": -32.33,
         "start_price": 33.6,
         "start_year": 2018
@@ -2982,7 +2856,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 12.74,
         "forward_return": 2.43,
         "start_price": 28.5,
         "start_year": 2018
@@ -2991,7 +2865,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.58,
+        "pe_ratio": 12.49,
         "forward_return": 9.73,
         "start_price": 27.6,
         "start_year": 2018
@@ -3000,7 +2874,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 11.29,
         "forward_return": 33.46,
         "start_price": 24.95,
         "start_year": 2018
@@ -3009,7 +2883,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2018-11-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.26,
         "forward_return": 18.68,
         "start_price": 27.1,
         "start_year": 2018
@@ -3027,7 +2901,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 17.21,
         "forward_return": -14.77,
         "start_price": 27.6,
         "start_year": 2019
@@ -3036,7 +2910,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.27,
+        "pe_ratio": 28.75,
         "forward_return": -21.78,
         "start_price": 28.65,
         "start_year": 2019
@@ -3045,7 +2919,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-03-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 74.1,
         "forward_return": -25.1,
         "start_price": 28.9,
         "start_year": 2019
@@ -3054,7 +2928,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.11,
+        "pe_ratio": 81.19,
         "forward_return": -31.54,
         "start_price": 29.5,
         "start_year": 2019
@@ -3063,7 +2937,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-05-16",
-        "pe_ratio": 21.43,
+        "pe_ratio": 87.62,
         "forward_return": -27.17,
         "start_price": 29.5,
         "start_year": 2019
@@ -3072,7 +2946,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-06-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 97.42,
         "forward_return": -34.13,
         "start_price": 30.2,
         "start_year": 2019
@@ -3081,7 +2955,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.25,
+        "pe_ratio": 93.7,
         "forward_return": -3.88,
         "start_price": 25.3,
         "start_year": 2019
@@ -3090,7 +2964,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-08-16",
-        "pe_ratio": 28.69,
+        "pe_ratio": 109.3,
         "forward_return": -39.84,
         "start_price": 25.15,
         "start_year": 2019
@@ -3099,7 +2973,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-09-15",
-        "pe_ratio": 35.99,
+        "pe_ratio": 134.5,
         "forward_return": -46.55,
         "start_price": 25.55,
         "start_year": 2019
@@ -3108,7 +2982,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-10-16",
-        "pe_ratio": 44.54,
+        "pe_ratio": 123.1,
         "forward_return": -1.76,
         "start_price": 24.2,
         "start_year": 2019
@@ -3117,7 +2991,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2019-11-15",
-        "pe_ratio": 65.84,
+        "pe_ratio": 122.0,
         "forward_return": -6.76,
         "start_price": 24.8,
         "start_year": 2019
@@ -3135,7 +3009,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-01-16",
-        "pe_ratio": 62.39,
+        "pe_ratio": 89.64,
         "forward_return": -5.71,
         "start_price": 24.8,
         "start_year": 2020
@@ -3144,7 +3018,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-02-15",
-        "pe_ratio": 38.89,
+        "pe_ratio": 66.26,
         "forward_return": 39.55,
         "start_price": 22.75,
         "start_year": 2020
@@ -3153,7 +3027,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.21,
+        "pe_ratio": 45.61,
         "forward_return": 57.85,
         "start_price": 18.7,
         "start_year": 2020
@@ -3162,7 +3036,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-04-15",
-        "pe_ratio": 23.8,
+        "pe_ratio": 23.72,
         "forward_return": 14.31,
         "start_price": 22.85,
         "start_year": 2020
@@ -3171,7 +3045,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-05-16",
-        "pe_ratio": 20.87,
+        "pe_ratio": 15.79,
         "forward_return": 12.67,
         "start_price": 23.95,
         "start_year": 2020
@@ -3180,7 +3054,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-06-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 13.0,
         "forward_return": -8.82,
         "start_price": 26.9,
         "start_year": 2020
@@ -3189,7 +3063,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.7,
+        "pe_ratio": 11.19,
         "forward_return": 0.0,
         "start_price": 23.9,
         "start_year": 2020
@@ -3198,7 +3072,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.61,
+        "pe_ratio": 12.12,
         "forward_return": -2.25,
         "start_price": 26.7,
         "start_year": 2020
@@ -3207,7 +3081,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-09-15",
-        "pe_ratio": 13.25,
+        "pe_ratio": 11.08,
         "forward_return": 9.86,
         "start_price": 25.15,
         "start_year": 2020
@@ -3216,7 +3090,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.39,
         "forward_return": 6.12,
         "start_price": 24.25,
         "start_year": 2020
@@ -3225,7 +3099,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.24,
+        "pe_ratio": 10.66,
         "forward_return": -3.52,
         "start_price": 25.55,
         "start_year": 2020
@@ -3243,7 +3117,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.21,
+        "pe_ratio": 9.81,
         "forward_return": 14.89,
         "start_price": 23.9,
         "start_year": 2021
@@ -3252,7 +3126,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.55,
+        "pe_ratio": 10.63,
         "forward_return": -0.77,
         "start_price": 25.65,
         "start_year": 2021
@@ -3261,7 +3135,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 11.03,
         "forward_return": -18.93,
         "start_price": 26.35,
         "start_year": 2021
@@ -3270,7 +3144,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.46,
+        "pe_ratio": 13.57,
         "forward_return": -23.51,
         "start_price": 26.65,
         "start_year": 2021
@@ -3279,7 +3153,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-05-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 16.33,
         "forward_return": -8.01,
         "start_price": 25.1,
         "start_year": 2021
@@ -3288,7 +3162,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-06-15",
-        "pe_ratio": 14.91,
+        "pe_ratio": 23.38,
         "forward_return": -15.13,
         "start_price": 25.95,
         "start_year": 2021
@@ -3297,7 +3171,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-07-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 23.79,
         "forward_return": -15.08,
         "start_price": 25.3,
         "start_year": 2021
@@ -3306,7 +3180,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-08-16",
-        "pe_ratio": 16.83,
+        "pe_ratio": 24.84,
         "forward_return": -1.02,
         "start_price": 25.25,
         "start_year": 2021
@@ -3315,7 +3189,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.25,
+        "pe_ratio": 24.54,
         "forward_return": 11.33,
         "start_price": 23.8,
         "start_year": 2021
@@ -3324,7 +3198,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-10-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 23.31,
         "forward_return": 25.99,
         "start_price": 23.0,
         "start_year": 2021
@@ -3333,7 +3207,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.74,
+        "pe_ratio": 22.43,
         "forward_return": 37.01,
         "start_price": 22.5,
         "start_year": 2021
@@ -3351,7 +3225,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.44,
+        "pe_ratio": 21.31,
         "forward_return": 86.21,
         "start_price": 23.3,
         "start_year": 2022
@@ -3360,7 +3234,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-02-14",
-        "pe_ratio": 19.6,
+        "pe_ratio": 21.17,
         "forward_return": 158.62,
         "start_price": 24.7,
         "start_year": 2022
@@ -3369,7 +3243,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-03-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 20.24,
         "forward_return": 60.0,
         "start_price": 25.1,
         "start_year": 2022
@@ -3378,7 +3252,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.27,
+        "pe_ratio": 17.87,
         "forward_return": 45.44,
         "start_price": 27.4,
         "start_year": 2022
@@ -3387,7 +3261,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-05-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 14.4,
         "forward_return": 191.32,
         "start_price": 26.3,
         "start_year": 2022
@@ -3396,7 +3270,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-06-15",
-        "pe_ratio": 18.99,
+        "pe_ratio": 15.59,
         "forward_return": 121.31,
         "start_price": 33.05,
         "start_year": 2022
@@ -3405,7 +3279,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-07-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 14.4,
         "forward_return": 85.56,
         "start_price": 31.2,
         "start_year": 2022
@@ -3414,7 +3288,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-08-16",
-        "pe_ratio": 19.77,
+        "pe_ratio": 17.69,
         "forward_return": 30.79,
         "start_price": 39.15,
         "start_year": 2022
@@ -3423,7 +3297,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-09-15",
-        "pe_ratio": 16.98,
+        "pe_ratio": 15.77,
         "forward_return": 65.43,
         "start_price": 35.65,
         "start_year": 2022
@@ -3432,7 +3306,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-10-16",
-        "pe_ratio": 14.66,
+        "pe_ratio": 13.99,
         "forward_return": 71.06,
         "start_price": 32.55,
         "start_year": 2022
@@ -3441,7 +3315,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2022-11-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 15.0,
         "forward_return": 53.89,
         "start_price": 35.9,
         "start_year": 2022
@@ -3459,7 +3333,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 17.29,
         "forward_return": 6.04,
         "start_price": 42.6,
         "start_year": 2023
@@ -3468,7 +3342,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 19.36,
         "forward_return": -39.39,
         "start_price": 47.75,
         "start_year": 2023
@@ -3477,7 +3351,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-03-16",
-        "pe_ratio": 20.36,
+        "pe_ratio": 18.52,
         "forward_return": -26.8,
         "start_price": 45.75,
         "start_year": 2023
@@ -3486,7 +3360,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-04-15",
-        "pe_ratio": 21.96,
+        "pe_ratio": 21.5,
         "forward_return": -36.39,
         "start_price": 47.8,
         "start_year": 2023
@@ -3495,7 +3369,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.11,
+        "pe_ratio": 22.49,
         "forward_return": -19.28,
         "start_price": 44.45,
         "start_year": 2023
@@ -3504,7 +3378,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-06-15",
-        "pe_ratio": 21.6,
+        "pe_ratio": 25.4,
         "forward_return": -20.38,
         "start_price": 43.95,
         "start_year": 2023
@@ -3513,7 +3387,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-07-16",
-        "pe_ratio": 22.04,
+        "pe_ratio": 25.67,
         "forward_return": -24.64,
         "start_price": 43.3,
         "start_year": 2023
@@ -3522,7 +3396,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-08-16",
-        "pe_ratio": 19.36,
+        "pe_ratio": 22.3,
         "forward_return": 12.47,
         "start_price": 36.65,
         "start_year": 2023
@@ -3531,7 +3405,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-09-15",
-        "pe_ratio": 20.82,
+        "pe_ratio": 23.72,
         "forward_return": 6.99,
         "start_price": 37.95,
         "start_year": 2023
@@ -3540,7 +3414,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-10-16",
-        "pe_ratio": 21.44,
+        "pe_ratio": 23.42,
         "forward_return": 11.21,
         "start_price": 37.55,
         "start_year": 2023
@@ -3549,7 +3423,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2023-11-15",
-        "pe_ratio": 23.92,
+        "pe_ratio": 25.02,
         "forward_return": -1.24,
         "start_price": 40.2,
         "start_year": 2023
@@ -3567,7 +3441,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.3,
+        "pe_ratio": 22.8,
         "forward_return": 22.23,
         "start_price": 37.55,
         "start_year": 2024
@@ -3576,7 +3450,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-02-15",
-        "pe_ratio": 24.17,
+        "pe_ratio": 23.17,
         "forward_return": -0.77,
         "start_price": 39.0,
         "start_year": 2024
@@ -3585,7 +3459,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-03-16",
-        "pe_ratio": 24.3,
+        "pe_ratio": 22.82,
         "forward_return": -10.42,
         "start_price": 39.25,
         "start_year": 2024
@@ -3594,7 +3468,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-04-15",
-        "pe_ratio": 23.85,
+        "pe_ratio": 22.11,
         "forward_return": -8.86,
         "start_price": 38.55,
         "start_year": 2024
@@ -3603,7 +3477,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-05-16",
-        "pe_ratio": 24.69,
+        "pe_ratio": 22.61,
         "forward_return": -19.82,
         "start_price": 39.95,
         "start_year": 2024
@@ -3612,7 +3486,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-06-15",
-        "pe_ratio": 25.4,
+        "pe_ratio": 22.99,
         "forward_return": -27.2,
         "start_price": 41.15,
         "start_year": 2024
@@ -3621,7 +3495,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-07-16",
-        "pe_ratio": 25.22,
+        "pe_ratio": 23.19,
         "forward_return": -33.11,
         "start_price": 40.9,
         "start_year": 2024
@@ -3630,7 +3504,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-08-16",
-        "pe_ratio": 23.56,
+        "pe_ratio": 22.02,
         "forward_return": -21.04,
         "start_price": 38.25,
         "start_year": 2024
@@ -3639,7 +3513,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-09-15",
-        "pe_ratio": 23.08,
+        "pe_ratio": 21.93,
         "forward_return": -21.08,
         "start_price": 37.5,
         "start_year": 2024
@@ -3648,7 +3522,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-10-16",
-        "pe_ratio": 22.25,
+        "pe_ratio": 21.5,
         "forward_return": -9.56,
         "start_price": 36.2,
         "start_year": 2024
@@ -3657,7 +3531,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2024-11-15",
-        "pe_ratio": 21.06,
+        "pe_ratio": 20.7,
         "forward_return": -0.88,
         "start_price": 34.3,
         "start_year": 2024
@@ -3675,7 +3549,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-01-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.41,
         "forward_return": 26.65,
         "start_price": 33.4,
         "start_year": 2025
@@ -3684,7 +3558,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-02-14",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.9,
         "forward_return": 16.92,
         "start_price": 32.7,
         "start_year": 2025
@@ -3693,7 +3567,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-03-16",
-        "pe_ratio": 20.68,
+        "pe_ratio": 20.21,
         "forward_return": 4.12,
         "start_price": 33.35,
         "start_year": 2025
@@ -3702,7 +3576,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-04-15",
-        "pe_ratio": 20.07,
+        "pe_ratio": 20.2,
         "forward_return": 12.1,
         "start_price": 32.25,
         "start_year": 2025
@@ -3711,7 +3585,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-05-16",
-        "pe_ratio": 21.33,
+        "pe_ratio": 22.13,
         "forward_return": -5.68,
         "start_price": 34.15,
         "start_year": 2025
@@ -3720,7 +3594,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-06-15",
-        "pe_ratio": 22.95,
+        "pe_ratio": 24.56,
         "forward_return": -18.68,
         "start_price": 36.6,
         "start_year": 2025
@@ -3729,7 +3603,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "0.5y",
         "horizon_label": "6個月",
         "start_date": "2025-07-16",
-        "pe_ratio": 23.25,
+        "pe_ratio": 24.42,
         "forward_return": -22.96,
         "start_price": 36.95,
         "start_year": 2025
@@ -3738,7 +3612,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-03-16",
-        "pe_ratio": 36.05,
+        "pe_ratio": 24.04,
         "forward_return": 7.3,
         "start_price": 13.7,
         "start_year": 2006
@@ -3747,7 +3621,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-04-15",
-        "pe_ratio": 35.53,
+        "pe_ratio": 25.16,
         "forward_return": 16.31,
         "start_price": 13.5,
         "start_year": 2006
@@ -3756,7 +3630,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-05-16",
-        "pe_ratio": 34.74,
+        "pe_ratio": 26.23,
         "forward_return": 41.32,
         "start_price": 13.2,
         "start_year": 2006
@@ -3765,7 +3639,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-06-15",
-        "pe_ratio": 35.0,
+        "pe_ratio": 28.3,
         "forward_return": 160.7,
         "start_price": 13.3,
         "start_year": 2006
@@ -3774,7 +3648,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-07-16",
-        "pe_ratio": 32.37,
+        "pe_ratio": 30.0,
         "forward_return": 362.75,
         "start_price": 12.3,
         "start_year": 2006
@@ -3783,7 +3657,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-08-16",
-        "pe_ratio": 33.29,
+        "pe_ratio": 36.14,
         "forward_return": 161.5,
         "start_price": 12.65,
         "start_year": 2006
@@ -3792,7 +3666,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-09-15",
-        "pe_ratio": 32.11,
+        "pe_ratio": 42.07,
         "forward_return": 269.66,
         "start_price": 12.2,
         "start_year": 2006
@@ -3801,7 +3675,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-10-16",
-        "pe_ratio": 31.58,
+        "pe_ratio": 37.5,
         "forward_return": 232.01,
         "start_price": 12.0,
         "start_year": 2006
@@ -3810,7 +3684,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2006-11-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.57,
         "forward_return": 183.74,
         "start_price": 12.1,
         "start_year": 2006
@@ -3828,7 +3702,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-01-16",
-        "pe_ratio": 30.06,
+        "pe_ratio": 30.76,
         "forward_return": 61.18,
         "start_price": 12.2,
         "start_year": 2007
@@ -3837,7 +3711,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-02-14",
-        "pe_ratio": 30.12,
+        "pe_ratio": 31.45,
         "forward_return": 132.12,
         "start_price": 13.0,
         "start_year": 2007
@@ -3846,7 +3720,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-03-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 33.26,
         "forward_return": 123.11,
         "start_price": 14.3,
         "start_year": 2007
@@ -3855,7 +3729,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-04-15",
-        "pe_ratio": 31.66,
+        "pe_ratio": 27.49,
         "forward_return": 149.91,
         "start_price": 15.3,
         "start_year": 2007
@@ -3864,7 +3738,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-05-16",
-        "pe_ratio": 35.84,
+        "pe_ratio": 26.71,
         "forward_return": 73.27,
         "start_price": 18.25,
         "start_year": 2007
@@ -3873,7 +3747,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-06-15",
-        "pe_ratio": 64.02,
+        "pe_ratio": 42.28,
         "forward_return": -32.62,
         "start_price": 34.25,
         "start_year": 2007
@@ -3882,7 +3756,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-07-16",
-        "pe_ratio": 101.1,
+        "pe_ratio": 72.08,
         "forward_return": -56.72,
         "start_price": 56.7,
         "start_year": 2007
@@ -3891,7 +3765,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-08-16",
-        "pe_ratio": 56.08,
+        "pe_ratio": 43.1,
         "forward_return": -30.04,
         "start_price": 32.9,
         "start_year": 2007
@@ -3900,7 +3774,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-09-15",
-        "pe_ratio": 73.31,
+        "pe_ratio": 60.68,
         "forward_return": -64.96,
         "start_price": 44.9,
         "start_year": 2007
@@ -3909,7 +3783,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-10-16",
-        "pe_ratio": 62.11,
+        "pe_ratio": 54.82,
         "forward_return": -53.27,
         "start_price": 39.65,
         "start_year": 2007
@@ -3918,7 +3792,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2007-11-15",
-        "pe_ratio": 51.42,
+        "pe_ratio": 48.33,
         "forward_return": -49.71,
         "start_price": 34.15,
         "start_year": 2007
@@ -3936,7 +3810,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-01-16",
-        "pe_ratio": 32.05,
+        "pe_ratio": 30.15,
         "forward_return": -6.14,
         "start_price": 19.5,
         "start_year": 2008
@@ -3945,7 +3819,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-02-15",
-        "pe_ratio": 56.96,
+        "pe_ratio": 49.72,
         "forward_return": -4.01,
         "start_price": 30.0,
         "start_year": 2008
@@ -3954,7 +3828,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-03-16",
-        "pe_ratio": 71.46,
+        "pe_ratio": 56.79,
         "forward_return": -9.75,
         "start_price": 31.8,
         "start_year": 2008
@@ -3963,7 +3837,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-04-15",
-        "pe_ratio": 105.0,
+        "pe_ratio": 91.56,
         "forward_return": 1.57,
         "start_price": 38.15,
         "start_year": 2008
@@ -3972,7 +3846,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-05-16",
-        "pe_ratio": 111.8,
+        "pe_ratio": 115.2,
         "forward_return": 15.25,
         "start_price": 31.5,
         "start_year": 2008
@@ -3981,7 +3855,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-06-15",
-        "pe_ratio": 114.5,
+        "pe_ratio": 176.2,
         "forward_return": 65.56,
         "start_price": 22.9,
         "start_year": 2008
@@ -3990,7 +3864,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-07-16",
-        "pe_ratio": 205.4,
+        "pe_ratio": 202.5,
         "forward_return": 68.78,
         "start_price": 24.3,
         "start_year": 2008
@@ -3999,7 +3873,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2008-08-16",
-        "pe_ratio": 621.8,
+        "pe_ratio": 207.3,
         "forward_return": 50.04,
         "start_price": 22.8,
         "start_year": 2008
@@ -4007,8 +3881,35 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "1y",
         "horizon_label": "1年",
+        "start_date": "2008-09-15",
+        "pe_ratio": 155.0,
+        "forward_return": 113.98,
+        "start_price": 15.5,
+        "start_year": 2008
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2010-05-16",
+        "pe_ratio": 136.2,
+        "forward_return": -15.9,
+        "start_price": 39.95,
+        "start_year": 2010
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
+        "start_date": "2010-06-15",
+        "pe_ratio": 67.0,
+        "forward_return": -12.94,
+        "start_price": 40.2,
+        "start_year": 2010
+      },
+      {
+        "horizon": "1y",
+        "horizon_label": "1年",
         "start_date": "2010-07-16",
-        "pe_ratio": 3200.0,
+        "pe_ratio": 68.57,
         "forward_return": -15.87,
         "start_price": 40.0,
         "start_year": 2010
@@ -4017,7 +3918,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-08-16",
-        "pe_ratio": 380.6,
+        "pe_ratio": 60.44,
         "forward_return": -22.33,
         "start_price": 34.25,
         "start_year": 2010
@@ -4026,7 +3927,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-09-15",
-        "pe_ratio": 220.3,
+        "pe_ratio": 67.09,
         "forward_return": -30.08,
         "start_price": 36.9,
         "start_year": 2010
@@ -4035,7 +3936,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-10-16",
-        "pe_ratio": 150.4,
+        "pe_ratio": 73.7,
         "forward_return": -26.73,
         "start_price": 36.85,
         "start_year": 2010
@@ -4044,7 +3945,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2010-11-15",
-        "pe_ratio": 107.0,
+        "pe_ratio": 76.67,
         "forward_return": -28.99,
         "start_price": 34.5,
         "start_year": 2010
@@ -4062,7 +3963,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-01-16",
-        "pe_ratio": 110.1,
+        "pe_ratio": 133.8,
         "forward_return": -30.87,
         "start_price": 37.9,
         "start_year": 2011
@@ -4071,7 +3972,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-02-14",
-        "pe_ratio": 120.7,
+        "pe_ratio": 208.8,
         "forward_return": -12.78,
         "start_price": 34.8,
         "start_year": 2011
@@ -4080,7 +3981,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 674.0,
         "forward_return": -8.28,
         "start_price": 33.7,
         "start_year": 2011
@@ -4089,7 +3990,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2011-04-15",
-        "pe_ratio": 195.3,
+        "pe_ratio": 10350.0,
         "forward_return": -9.1,
         "start_price": 34.5,
         "start_year": 2011
@@ -4097,35 +3998,26 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2011-05-16",
-        "pe_ratio": 278.1,
-        "forward_return": -10.53,
-        "start_price": 33.6,
-        "start_year": 2011
+        "start_date": "2012-01-16",
+        "pe_ratio": 200.8,
+        "forward_return": 56.56,
+        "start_price": 26.1,
+        "start_year": 2012
       },
       {
         "horizon": "1y",
         "horizon_label": "1年",
-        "start_date": "2011-06-15",
-        "pe_ratio": 538.5,
-        "forward_return": -16.95,
-        "start_price": 35.0,
-        "start_year": 2011
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2011-07-16",
-        "pe_ratio": 3660.0,
-        "forward_return": -13.39,
-        "start_price": 33.55,
-        "start_year": 2011
+        "start_date": "2012-02-15",
+        "pe_ratio": 57.08,
+        "forward_return": 35.16,
+        "start_price": 30.25,
+        "start_year": 2012
       },
       {
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-03-16",
-        "pe_ratio": 368.0,
+        "pe_ratio": 33.12,
         "forward_return": 36.07,
         "start_price": 30.8,
         "start_year": 2012
@@ -4134,7 +4026,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-04-15",
-        "pe_ratio": 155.0,
+        "pe_ratio": 39.06,
         "forward_return": 11.05,
         "start_price": 31.25,
         "start_year": 2012
@@ -4143,7 +4035,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-05-16",
-        "pe_ratio": 93.74,
+        "pe_ratio": 44.7,
         "forward_return": 17.21,
         "start_price": 29.95,
         "start_year": 2012
@@ -4152,7 +4044,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-06-15",
-        "pe_ratio": 66.19,
+        "pe_ratio": 53.61,
         "forward_return": 20.57,
         "start_price": 28.95,
         "start_year": 2012
@@ -4161,7 +4053,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-07-16",
-        "pe_ratio": 52.14,
+        "pe_ratio": 43.0,
         "forward_return": 39.94,
         "start_price": 28.95,
         "start_year": 2012
@@ -4170,7 +4062,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-08-16",
-        "pe_ratio": 44.49,
+        "pe_ratio": 37.13,
         "forward_return": 35.43,
         "start_price": 29.95,
         "start_year": 2012
@@ -4179,7 +4071,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-09-15",
-        "pe_ratio": 39.19,
+        "pe_ratio": 32.98,
         "forward_return": 39.55,
         "start_price": 31.0,
         "start_year": 2012
@@ -4188,7 +4080,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-10-16",
-        "pe_ratio": 32.45,
+        "pe_ratio": 29.26,
         "forward_return": 47.84,
         "start_price": 29.5,
         "start_year": 2012
@@ -4197,7 +4089,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2012-11-15",
-        "pe_ratio": 29.99,
+        "pe_ratio": 28.61,
         "forward_return": 27.63,
         "start_price": 30.8,
         "start_year": 2012
@@ -4215,7 +4107,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-01-16",
-        "pe_ratio": 36.97,
+        "pe_ratio": 50.59,
         "forward_return": -2.94,
         "start_price": 40.8,
         "start_year": 2013
@@ -4224,7 +4116,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-02-14",
-        "pe_ratio": 42.74,
+        "pe_ratio": 96.95,
         "forward_return": -4.07,
         "start_price": 45.4,
         "start_year": 2013
@@ -4233,7 +4125,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-03-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 321.5,
         "forward_return": -4.78,
         "start_price": 41.8,
         "start_year": 2013
@@ -4242,7 +4134,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-04-15",
-        "pe_ratio": 35.31,
+        "pe_ratio": 122.1,
         "forward_return": 15.33,
         "start_price": 34.6,
         "start_year": 2013
@@ -4251,7 +4143,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-05-16",
-        "pe_ratio": 37.29,
+        "pe_ratio": 80.15,
         "forward_return": 26.31,
         "start_price": 35.0,
         "start_year": 2013
@@ -4260,7 +4152,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-06-15",
-        "pe_ratio": 38.78,
+        "pe_ratio": 58.98,
         "forward_return": 57.24,
         "start_price": 34.8,
         "start_year": 2013
@@ -4269,7 +4161,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-07-16",
-        "pe_ratio": 47.07,
+        "pe_ratio": 70.7,
         "forward_return": 29.03,
         "start_price": 40.3,
         "start_year": 2013
@@ -4278,7 +4170,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-08-16",
-        "pe_ratio": 49.51,
+        "pe_ratio": 73.36,
         "forward_return": 12.75,
         "start_price": 40.35,
         "start_year": 2013
@@ -4287,7 +4179,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-09-15",
-        "pe_ratio": 55.64,
+        "pe_ratio": 81.23,
         "forward_return": 9.27,
         "start_price": 43.05,
         "start_year": 2013
@@ -4296,7 +4188,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-10-16",
-        "pe_ratio": 59.25,
+        "pe_ratio": 76.14,
         "forward_return": -6.25,
         "start_price": 43.4,
         "start_year": 2013
@@ -4305,7 +4197,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2013-11-15",
-        "pe_ratio": 56.57,
+        "pe_ratio": 64.1,
         "forward_return": -3.1,
         "start_price": 39.1,
         "start_year": 2013
@@ -4323,7 +4215,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-01-16",
-        "pe_ratio": 58.37,
+        "pe_ratio": 54.47,
         "forward_return": 2.77,
         "start_price": 39.4,
         "start_year": 2014
@@ -4332,7 +4224,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-02-14",
-        "pe_ratio": 61.93,
+        "pe_ratio": 54.41,
         "forward_return": -4.29,
         "start_price": 43.35,
         "start_year": 2014
@@ -4341,7 +4233,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-03-16",
-        "pe_ratio": 54.62,
+        "pe_ratio": 45.52,
         "forward_return": 6.04,
         "start_price": 39.6,
         "start_year": 2014
@@ -4350,7 +4242,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-04-15",
-        "pe_ratio": 52.93,
+        "pe_ratio": 43.15,
         "forward_return": 1.24,
         "start_price": 39.7,
         "start_year": 2014
@@ -4359,7 +4251,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-05-16",
-        "pe_ratio": 56.77,
+        "pe_ratio": 45.36,
         "forward_return": -14.58,
         "start_price": 44.0,
         "start_year": 2014
@@ -4368,7 +4260,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-06-15",
-        "pe_ratio": 68.12,
+        "pe_ratio": 53.43,
         "forward_return": -39.76,
         "start_price": 54.5,
         "start_year": 2014
@@ -4377,7 +4269,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-07-16",
-        "pe_ratio": 62.79,
+        "pe_ratio": 49.97,
         "forward_return": -36.6,
         "start_price": 51.8,
         "start_year": 2014
@@ -4386,7 +4278,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-08-16",
-        "pe_ratio": 53.29,
+        "pe_ratio": 43.01,
         "forward_return": -40.42,
         "start_price": 45.3,
         "start_year": 2014
@@ -4395,7 +4287,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-09-15",
-        "pe_ratio": 53.54,
+        "pe_ratio": 43.79,
         "forward_return": -33.64,
         "start_price": 46.85,
         "start_year": 2014
@@ -4404,7 +4296,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-10-16",
-        "pe_ratio": 45.0,
+        "pe_ratio": 39.32,
         "forward_return": -12.6,
         "start_price": 40.5,
         "start_year": 2014
@@ -4413,7 +4305,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2014-11-15",
-        "pe_ratio": 40.76,
+        "pe_ratio": 38.08,
         "forward_return": -4.65,
         "start_price": 37.7,
         "start_year": 2014
@@ -4431,7 +4323,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-01-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 44.78,
         "forward_return": -17.75,
         "start_price": 40.3,
         "start_year": 2015
@@ -4440,7 +4332,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-02-14",
-        "pe_ratio": 49.56,
+        "pe_ratio": 48.59,
         "forward_return": -19.87,
         "start_price": 41.3,
         "start_year": 2015
@@ -4449,7 +4341,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 52.25,
         "forward_return": -16.72,
         "start_price": 41.8,
         "start_year": 2015
@@ -4458,7 +4350,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-04-15",
-        "pe_ratio": 55.81,
+        "pe_ratio": 54.79,
         "forward_return": -8.98,
         "start_price": 40.0,
         "start_year": 2015
@@ -4467,7 +4359,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-05-16",
-        "pe_ratio": 56.81,
+        "pe_ratio": 56.67,
         "forward_return": -2.4,
         "start_price": 37.4,
         "start_year": 2015
@@ -4476,7 +4368,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-06-15",
-        "pe_ratio": 54.42,
+        "pe_ratio": 55.34,
         "forward_return": 3.21,
         "start_price": 32.65,
         "start_year": 2015
@@ -4485,7 +4377,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-07-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 60.46,
         "forward_return": 6.95,
         "start_price": 32.65,
         "start_year": 2015
@@ -4494,7 +4386,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-08-16",
-        "pe_ratio": 55.45,
+        "pe_ratio": 54.69,
         "forward_return": 19.45,
         "start_price": 26.8,
         "start_year": 2015
@@ -4503,7 +4395,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-09-15",
-        "pe_ratio": 72.71,
+        "pe_ratio": 70.23,
         "forward_return": 1.53,
         "start_price": 30.9,
         "start_year": 2015
@@ -4512,7 +4404,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-10-16",
-        "pe_ratio": 96.0,
+        "pe_ratio": 93.45,
         "forward_return": -13.12,
         "start_price": 35.2,
         "start_year": 2015
@@ -4521,7 +4413,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2015-11-15",
-        "pe_ratio": 116.0,
+        "pe_ratio": 114.1,
         "forward_return": -16.97,
         "start_price": 35.75,
         "start_year": 2015
@@ -4539,7 +4431,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-01-16",
-        "pe_ratio": 102.7,
+        "pe_ratio": 51.48,
         "forward_return": -8.11,
         "start_price": 32.95,
         "start_year": 2016
@@ -4548,7 +4440,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-02-15",
-        "pe_ratio": 83.96,
+        "pe_ratio": 31.94,
         "forward_return": 1.75,
         "start_price": 32.9,
         "start_year": 2016
@@ -4557,7 +4449,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-03-16",
-        "pe_ratio": 74.76,
+        "pe_ratio": 24.37,
         "forward_return": -3.11,
         "start_price": 34.6,
         "start_year": 2016
@@ -4566,7 +4458,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-04-15",
-        "pe_ratio": 67.83,
+        "pe_ratio": 25.55,
         "forward_return": -13.07,
         "start_price": 36.2,
         "start_year": 2016
@@ -4575,7 +4467,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-05-16",
-        "pe_ratio": 60.03,
+        "pe_ratio": 25.68,
         "forward_return": -17.72,
         "start_price": 36.3,
         "start_year": 2016
@@ -4584,7 +4476,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-06-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 23.76,
         "forward_return": -12.78,
         "start_price": 33.5,
         "start_year": 2016
@@ -4593,7 +4485,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-07-16",
-        "pe_ratio": 46.55,
+        "pe_ratio": 26.06,
         "forward_return": -11.37,
         "start_price": 34.75,
         "start_year": 2016
@@ -4602,7 +4494,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-08-16",
-        "pe_ratio": 38.96,
+        "pe_ratio": 25.34,
         "forward_return": -12.72,
         "start_price": 31.85,
         "start_year": 2016
@@ -4611,7 +4503,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-09-15",
-        "pe_ratio": 35.12,
+        "pe_ratio": 26.44,
         "forward_return": -13.79,
         "start_price": 31.2,
         "start_year": 2016
@@ -4620,7 +4512,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-10-16",
-        "pe_ratio": 31.69,
+        "pe_ratio": 26.35,
         "forward_return": -12.67,
         "start_price": 30.4,
         "start_year": 2016
@@ -4629,7 +4521,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.63,
+        "pe_ratio": 26.17,
         "forward_return": -10.35,
         "start_price": 29.5,
         "start_year": 2016
@@ -4647,7 +4539,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.75,
+        "pe_ratio": 41.0,
         "forward_return": -9.97,
         "start_price": 30.1,
         "start_year": 2017
@@ -4656,90 +4548,9 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2017-02-14",
-        "pe_ratio": 34.85,
+        "pe_ratio": 87.59,
         "forward_return": -14.32,
         "start_price": 32.15,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-03-16",
-        "pe_ratio": 40.02,
-        "forward_return": -9.3,
-        "start_price": 33.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-04-15",
-        "pe_ratio": 42.06,
-        "forward_return": -3.36,
-        "start_price": 31.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-05-16",
-        "pe_ratio": 45.35,
-        "forward_return": 11.62,
-        "start_price": 29.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-06-15",
-        "pe_ratio": 51.36,
-        "forward_return": 11.88,
-        "start_price": 29.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-07-16",
-        "pe_ratio": 64.24,
-        "forward_return": 10.47,
-        "start_price": 30.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-08-16",
-        "pe_ratio": 71.31,
-        "forward_return": 3.99,
-        "start_price": 27.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-09-15",
-        "pe_ratio": 89.66,
-        "forward_return": 4.12,
-        "start_price": 26.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-10-16",
-        "pe_ratio": 126.4,
-        "forward_return": -4.56,
-        "start_price": 26.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "1y",
-        "horizon_label": "1年",
-        "start_date": "2017-11-15",
-        "pe_ratio": 220.1,
-        "forward_return": 4.0,
-        "start_price": 26.25,
         "start_year": 2017
       },
       {
@@ -4755,7 +4566,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 36.85,
         "forward_return": 3.35,
         "start_price": 26.9,
         "start_year": 2018
@@ -4764,7 +4575,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-02-14",
-        "pe_ratio": 69.53,
+        "pe_ratio": 19.13,
         "forward_return": 5.49,
         "start_price": 27.35,
         "start_year": 2018
@@ -4773,7 +4584,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-03-16",
-        "pe_ratio": 52.26,
+        "pe_ratio": 14.11,
         "forward_return": -3.16,
         "start_price": 30.05,
         "start_year": 2018
@@ -4782,7 +4593,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-04-15",
-        "pe_ratio": 39.71,
+        "pe_ratio": 13.76,
         "forward_return": -1.17,
         "start_price": 30.05,
         "start_year": 2018
@@ -4791,7 +4602,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.12,
+        "pe_ratio": 14.73,
         "forward_return": -9.87,
         "start_price": 32.95,
         "start_year": 2018
@@ -4800,7 +4611,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-06-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 14.1,
         "forward_return": -5.89,
         "start_price": 32.3,
         "start_year": 2018
@@ -4809,7 +4620,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-07-16",
-        "pe_ratio": 25.81,
+        "pe_ratio": 14.85,
         "forward_return": -24.12,
         "start_price": 33.6,
         "start_year": 2018
@@ -4818,7 +4629,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 12.74,
         "forward_return": -11.06,
         "start_price": 28.5,
         "start_year": 2018
@@ -4827,7 +4638,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.58,
+        "pe_ratio": 12.49,
         "forward_return": -6.71,
         "start_price": 27.6,
         "start_year": 2018
@@ -4836,7 +4647,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 11.29,
         "forward_return": -2.21,
         "start_price": 24.95,
         "start_year": 2018
@@ -4845,7 +4656,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2018-11-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.26,
         "forward_return": -7.76,
         "start_price": 27.1,
         "start_year": 2018
@@ -4863,7 +4674,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 17.21,
         "forward_return": -9.43,
         "start_price": 27.6,
         "start_year": 2019
@@ -4872,7 +4683,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.27,
+        "pe_ratio": 28.75,
         "forward_return": -19.91,
         "start_price": 28.65,
         "start_year": 2019
@@ -4881,7 +4692,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-03-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 74.1,
         "forward_return": -34.55,
         "start_price": 28.9,
         "start_year": 2019
@@ -4890,7 +4701,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.11,
+        "pe_ratio": 81.19,
         "forward_return": -21.83,
         "start_price": 29.5,
         "start_year": 2019
@@ -4899,7 +4710,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-05-16",
-        "pe_ratio": 21.43,
+        "pe_ratio": 87.62,
         "forward_return": -18.11,
         "start_price": 29.5,
         "start_year": 2019
@@ -4908,7 +4719,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-06-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 97.42,
         "forward_return": -10.25,
         "start_price": 30.2,
         "start_year": 2019
@@ -4917,7 +4728,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.25,
+        "pe_ratio": 93.7,
         "forward_return": -4.8,
         "start_price": 25.3,
         "start_year": 2019
@@ -4926,7 +4737,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-08-16",
-        "pe_ratio": 28.69,
+        "pe_ratio": 109.3,
         "forward_return": 6.88,
         "start_price": 25.15,
         "start_year": 2019
@@ -4935,7 +4746,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-09-15",
-        "pe_ratio": 35.99,
+        "pe_ratio": 134.5,
         "forward_return": -0.84,
         "start_price": 25.55,
         "start_year": 2019
@@ -4944,7 +4755,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-10-16",
-        "pe_ratio": 44.54,
+        "pe_ratio": 123.1,
         "forward_return": 0.96,
         "start_price": 24.2,
         "start_year": 2019
@@ -4953,7 +4764,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2019-11-15",
-        "pe_ratio": 65.84,
+        "pe_ratio": 122.0,
         "forward_return": 3.76,
         "start_price": 24.8,
         "start_year": 2019
@@ -4971,7 +4782,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-01-16",
-        "pe_ratio": 62.39,
+        "pe_ratio": 89.64,
         "forward_return": -2.88,
         "start_price": 24.8,
         "start_year": 2020
@@ -4980,7 +4791,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-02-15",
-        "pe_ratio": 38.89,
+        "pe_ratio": 66.26,
         "forward_return": 15.29,
         "start_price": 22.75,
         "start_year": 2020
@@ -4989,7 +4800,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.21,
+        "pe_ratio": 45.61,
         "forward_return": 41.93,
         "start_price": 18.7,
         "start_year": 2020
@@ -4998,7 +4809,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-04-15",
-        "pe_ratio": 23.8,
+        "pe_ratio": 23.72,
         "forward_return": 17.45,
         "start_price": 22.85,
         "start_year": 2020
@@ -5007,7 +4818,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-05-16",
-        "pe_ratio": 20.87,
+        "pe_ratio": 15.79,
         "forward_return": 5.57,
         "start_price": 23.95,
         "start_year": 2020
@@ -5016,7 +4827,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-06-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 13.0,
         "forward_return": -2.85,
         "start_price": 26.9,
         "start_year": 2020
@@ -5025,7 +4836,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.7,
+        "pe_ratio": 11.19,
         "forward_return": 7.13,
         "start_price": 23.9,
         "start_year": 2020
@@ -5034,7 +4845,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.61,
+        "pe_ratio": 12.12,
         "forward_return": -4.3,
         "start_price": 26.7,
         "start_year": 2020
@@ -5043,7 +4854,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-09-15",
-        "pe_ratio": 13.25,
+        "pe_ratio": 11.08,
         "forward_return": -4.17,
         "start_price": 25.15,
         "start_year": 2020
@@ -5052,7 +4863,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.39,
         "forward_return": -3.91,
         "start_price": 24.25,
         "start_year": 2020
@@ -5061,7 +4872,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.24,
+        "pe_ratio": 10.66,
         "forward_return": -10.76,
         "start_price": 25.55,
         "start_year": 2020
@@ -5079,7 +4890,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.21,
+        "pe_ratio": 9.81,
         "forward_return": -1.25,
         "start_price": 23.9,
         "start_year": 2021
@@ -5088,7 +4899,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.55,
+        "pe_ratio": 10.63,
         "forward_return": -2.53,
         "start_price": 25.65,
         "start_year": 2021
@@ -5097,7 +4908,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 11.03,
         "forward_return": -3.6,
         "start_price": 26.35,
         "start_year": 2021
@@ -5106,7 +4917,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.46,
+        "pe_ratio": 13.57,
         "forward_return": 3.95,
         "start_price": 26.65,
         "start_year": 2021
@@ -5115,7 +4926,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-05-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 16.33,
         "forward_return": 5.99,
         "start_price": 25.1,
         "start_year": 2021
@@ -5124,7 +4935,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-06-15",
-        "pe_ratio": 14.91,
+        "pe_ratio": 23.38,
         "forward_return": 28.55,
         "start_price": 25.95,
         "start_year": 2021
@@ -5133,7 +4944,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-07-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 23.79,
         "forward_return": 25.34,
         "start_price": 25.3,
         "start_year": 2021
@@ -5142,7 +4953,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-08-16",
-        "pe_ratio": 16.83,
+        "pe_ratio": 24.84,
         "forward_return": 57.11,
         "start_price": 25.25,
         "start_year": 2021
@@ -5151,7 +4962,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.25,
+        "pe_ratio": 24.54,
         "forward_return": 51.96,
         "start_price": 23.8,
         "start_year": 2021
@@ -5160,7 +4971,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-10-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 23.31,
         "forward_return": 43.76,
         "start_price": 23.0,
         "start_year": 2021
@@ -5169,7 +4980,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.74,
+        "pe_ratio": 22.43,
         "forward_return": 61.86,
         "start_price": 22.5,
         "start_year": 2021
@@ -5187,7 +4998,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.44,
+        "pe_ratio": 21.31,
         "forward_return": 85.09,
         "start_price": 23.3,
         "start_year": 2022
@@ -5196,7 +5007,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-02-14",
-        "pe_ratio": 19.6,
+        "pe_ratio": 21.17,
         "forward_return": 95.46,
         "start_price": 24.7,
         "start_year": 2022
@@ -5205,7 +5016,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-03-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 20.24,
         "forward_return": 84.37,
         "start_price": 25.1,
         "start_year": 2022
@@ -5214,7 +5025,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.27,
+        "pe_ratio": 17.87,
         "forward_return": 76.37,
         "start_price": 27.4,
         "start_year": 2022
@@ -5223,7 +5034,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-05-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 14.4,
         "forward_return": 71.0,
         "start_price": 26.3,
         "start_year": 2022
@@ -5232,7 +5043,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-06-15",
-        "pe_ratio": 18.99,
+        "pe_ratio": 15.59,
         "forward_return": 34.54,
         "start_price": 33.05,
         "start_year": 2022
@@ -5241,7 +5052,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-07-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 14.4,
         "forward_return": 40.6,
         "start_price": 31.2,
         "start_year": 2022
@@ -5250,7 +5061,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-08-16",
-        "pe_ratio": 19.77,
+        "pe_ratio": 17.69,
         "forward_return": -4.97,
         "start_price": 39.15,
         "start_year": 2022
@@ -5259,7 +5070,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-09-15",
-        "pe_ratio": 16.98,
+        "pe_ratio": 15.77,
         "forward_return": 8.02,
         "start_price": 35.65,
         "start_year": 2022
@@ -5268,7 +5079,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-10-16",
-        "pe_ratio": 14.66,
+        "pe_ratio": 13.99,
         "forward_return": 17.08,
         "start_price": 32.55,
         "start_year": 2022
@@ -5277,7 +5088,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2022-11-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 15.0,
         "forward_return": 13.54,
         "start_price": 35.9,
         "start_year": 2022
@@ -5295,7 +5106,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 17.29,
         "forward_return": -10.55,
         "start_price": 42.6,
         "start_year": 2023
@@ -5304,7 +5115,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 19.36,
         "forward_return": -17.17,
         "start_price": 47.75,
         "start_year": 2023
@@ -5313,7 +5124,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-03-16",
-        "pe_ratio": 20.36,
+        "pe_ratio": 18.52,
         "forward_return": -12.97,
         "start_price": 45.75,
         "start_year": 2023
@@ -5322,7 +5133,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-04-15",
-        "pe_ratio": 21.96,
+        "pe_ratio": 21.5,
         "forward_return": -18.15,
         "start_price": 47.8,
         "start_year": 2023
@@ -5331,7 +5142,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.11,
+        "pe_ratio": 22.49,
         "forward_return": -8.85,
         "start_price": 44.45,
         "start_year": 2023
@@ -5340,7 +5151,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-06-15",
-        "pe_ratio": 21.6,
+        "pe_ratio": 25.4,
         "forward_return": -5.09,
         "start_price": 43.95,
         "start_year": 2023
@@ -5349,7 +5160,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-07-16",
-        "pe_ratio": 22.04,
+        "pe_ratio": 25.67,
         "forward_return": -4.15,
         "start_price": 43.3,
         "start_year": 2023
@@ -5358,7 +5169,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-08-16",
-        "pe_ratio": 19.36,
+        "pe_ratio": 22.3,
         "forward_return": 5.99,
         "start_price": 36.65,
         "start_year": 2023
@@ -5367,7 +5178,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-09-15",
-        "pe_ratio": 20.82,
+        "pe_ratio": 23.72,
         "forward_return": 0.39,
         "start_price": 37.95,
         "start_year": 2023
@@ -5376,7 +5187,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-10-16",
-        "pe_ratio": 21.44,
+        "pe_ratio": 23.42,
         "forward_return": -1.99,
         "start_price": 37.55,
         "start_year": 2023
@@ -5385,7 +5196,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2023-11-15",
-        "pe_ratio": 23.92,
+        "pe_ratio": 25.02,
         "forward_return": -13.16,
         "start_price": 40.2,
         "start_year": 2023
@@ -5403,7 +5214,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.3,
+        "pe_ratio": 22.8,
         "forward_return": -9.44,
         "start_price": 37.55,
         "start_year": 2024
@@ -5412,7 +5223,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-02-15",
-        "pe_ratio": 24.17,
+        "pe_ratio": 23.17,
         "forward_return": -12.03,
         "start_price": 39.0,
         "start_year": 2024
@@ -5421,7 +5232,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-03-16",
-        "pe_ratio": 24.3,
+        "pe_ratio": 22.82,
         "forward_return": -13.51,
         "start_price": 39.25,
         "start_year": 2024
@@ -5430,7 +5241,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-04-15",
-        "pe_ratio": 23.85,
+        "pe_ratio": 22.11,
         "forward_return": -14.8,
         "start_price": 38.55,
         "start_year": 2024
@@ -5439,7 +5250,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-05-16",
-        "pe_ratio": 24.69,
+        "pe_ratio": 22.61,
         "forward_return": -13.02,
         "start_price": 39.95,
         "start_year": 2024
@@ -5448,7 +5259,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-06-15",
-        "pe_ratio": 25.4,
+        "pe_ratio": 22.99,
         "forward_return": -9.61,
         "start_price": 41.15,
         "start_year": 2024
@@ -5457,7 +5268,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-07-16",
-        "pe_ratio": 25.22,
+        "pe_ratio": 23.19,
         "forward_return": -8.2,
         "start_price": 40.9,
         "start_year": 2024
@@ -5466,7 +5277,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-08-16",
-        "pe_ratio": 23.56,
+        "pe_ratio": 22.02,
         "forward_return": -7.59,
         "start_price": 38.25,
         "start_year": 2024
@@ -5475,7 +5286,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-09-15",
-        "pe_ratio": 23.08,
+        "pe_ratio": 21.93,
         "forward_return": -7.07,
         "start_price": 37.5,
         "start_year": 2024
@@ -5484,7 +5295,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-10-16",
-        "pe_ratio": 22.25,
+        "pe_ratio": 21.5,
         "forward_return": -5.67,
         "start_price": 36.2,
         "start_year": 2024
@@ -5493,7 +5304,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2024-11-15",
-        "pe_ratio": 21.06,
+        "pe_ratio": 20.7,
         "forward_return": -4.52,
         "start_price": 34.3,
         "start_year": 2024
@@ -5511,7 +5322,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-01-16",
-        "pe_ratio": 20.56,
+        "pe_ratio": 20.41,
         "forward_return": -1.2,
         "start_price": 33.4,
         "start_year": 2025
@@ -5520,7 +5331,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "1y",
         "horizon_label": "1年",
         "start_date": "2025-02-14",
-        "pe_ratio": 20.21,
+        "pe_ratio": 19.9,
         "forward_return": 0.76,
         "start_price": 32.7,
         "start_year": 2025
@@ -5529,7 +5340,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-03-16",
-        "pe_ratio": 36.05,
+        "pe_ratio": 24.04,
         "forward_return": 53.64,
         "start_price": 13.7,
         "start_year": 2006
@@ -5538,7 +5349,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-04-15",
-        "pe_ratio": 35.53,
+        "pe_ratio": 25.16,
         "forward_return": 69.27,
         "start_price": 13.5,
         "start_year": 2006
@@ -5547,7 +5358,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-05-16",
-        "pe_ratio": 34.74,
+        "pe_ratio": 26.23,
         "forward_return": 55.79,
         "start_price": 13.2,
         "start_year": 2006
@@ -5556,7 +5367,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-06-15",
-        "pe_ratio": 35.0,
+        "pe_ratio": 28.3,
         "forward_return": 32.78,
         "start_price": 13.3,
         "start_year": 2006
@@ -5565,7 +5376,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-07-16",
-        "pe_ratio": 32.37,
+        "pe_ratio": 30.0,
         "forward_return": 41.55,
         "start_price": 12.3,
         "start_year": 2006
@@ -5574,7 +5385,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-08-16",
-        "pe_ratio": 33.29,
+        "pe_ratio": 36.14,
         "forward_return": 35.27,
         "start_price": 12.65,
         "start_year": 2006
@@ -5583,7 +5394,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-09-15",
-        "pe_ratio": 32.11,
+        "pe_ratio": 42.07,
         "forward_return": 14.0,
         "start_price": 12.2,
         "start_year": 2006
@@ -5592,7 +5403,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-10-16",
-        "pe_ratio": 31.58,
+        "pe_ratio": 37.5,
         "forward_return": 24.67,
         "start_price": 12.0,
         "start_year": 2006
@@ -5601,7 +5412,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2006-11-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.57,
         "forward_return": 19.59,
         "start_price": 12.1,
         "start_year": 2006
@@ -5619,7 +5430,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-01-16",
-        "pe_ratio": 30.06,
+        "pe_ratio": 30.76,
         "forward_return": 22.98,
         "start_price": 12.2,
         "start_year": 2007
@@ -5628,7 +5439,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-02-14",
-        "pe_ratio": 30.12,
+        "pe_ratio": 31.45,
         "forward_return": 23.89,
         "start_price": 13.0,
         "start_year": 2007
@@ -5637,7 +5448,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-03-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 33.26,
         "forward_return": 42.02,
         "start_price": 14.3,
         "start_year": 2007
@@ -5646,7 +5457,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-04-15",
-        "pe_ratio": 31.66,
+        "pe_ratio": 27.49,
         "forward_return": 59.42,
         "start_price": 15.3,
         "start_year": 2007
@@ -5655,7 +5466,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-05-16",
-        "pe_ratio": 35.84,
+        "pe_ratio": 26.71,
         "forward_return": 41.31,
         "start_price": 18.25,
         "start_year": 2007
@@ -5664,7 +5475,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-06-15",
-        "pe_ratio": 64.02,
+        "pe_ratio": 42.28,
         "forward_return": 5.41,
         "start_price": 34.25,
         "start_year": 2007
@@ -5673,7 +5484,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-07-16",
-        "pe_ratio": 101.1,
+        "pe_ratio": 72.08,
         "forward_return": -14.75,
         "start_price": 56.7,
         "start_year": 2007
@@ -5682,7 +5493,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-08-16",
-        "pe_ratio": 56.08,
+        "pe_ratio": 43.1,
         "forward_return": 2.25,
         "start_price": 32.9,
         "start_year": 2007
@@ -5691,7 +5502,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-09-15",
-        "pe_ratio": 73.31,
+        "pe_ratio": 60.68,
         "forward_return": -13.81,
         "start_price": 44.9,
         "start_year": 2007
@@ -5700,7 +5511,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-10-16",
-        "pe_ratio": 62.11,
+        "pe_ratio": 54.82,
         "forward_return": -11.86,
         "start_price": 39.65,
         "start_year": 2007
@@ -5709,7 +5520,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2007-11-15",
-        "pe_ratio": 51.42,
+        "pe_ratio": 48.33,
         "forward_return": -2.52,
         "start_price": 34.15,
         "start_year": 2007
@@ -5727,7 +5538,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-01-16",
-        "pe_ratio": 32.05,
+        "pe_ratio": 30.15,
         "forward_return": 22.35,
         "start_price": 19.5,
         "start_year": 2008
@@ -5736,7 +5547,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-02-15",
-        "pe_ratio": 56.96,
+        "pe_ratio": 49.72,
         "forward_return": 3.92,
         "start_price": 30.0,
         "start_year": 2008
@@ -5745,7 +5556,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-03-16",
-        "pe_ratio": 71.46,
+        "pe_ratio": 56.79,
         "forward_return": 1.1,
         "start_price": 31.8,
         "start_year": 2008
@@ -5754,7 +5565,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-04-15",
-        "pe_ratio": 105.0,
+        "pe_ratio": 91.56,
         "forward_return": -3.4,
         "start_price": 38.15,
         "start_year": 2008
@@ -5763,7 +5574,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-05-16",
-        "pe_ratio": 111.8,
+        "pe_ratio": 115.2,
         "forward_return": 12.91,
         "start_price": 31.5,
         "start_year": 2008
@@ -5772,7 +5583,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-06-15",
-        "pe_ratio": 114.5,
+        "pe_ratio": 176.2,
         "forward_return": 32.85,
         "start_price": 22.9,
         "start_year": 2008
@@ -5781,7 +5592,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-07-16",
-        "pe_ratio": 205.4,
+        "pe_ratio": 202.5,
         "forward_return": 28.32,
         "start_price": 24.3,
         "start_year": 2008
@@ -5790,7 +5601,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2008-08-16",
-        "pe_ratio": 621.8,
+        "pe_ratio": 207.3,
         "forward_return": 22.58,
         "start_price": 22.8,
         "start_year": 2008
@@ -5798,8 +5609,35 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "2y",
         "horizon_label": "2年",
+        "start_date": "2008-09-15",
+        "pe_ratio": 155.0,
+        "forward_return": 54.34,
+        "start_price": 15.5,
+        "start_year": 2008
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2010-05-16",
+        "pe_ratio": 136.2,
+        "forward_return": -13.26,
+        "start_price": 39.95,
+        "start_year": 2010
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
+        "start_date": "2010-06-15",
+        "pe_ratio": 67.0,
+        "forward_return": -14.98,
+        "start_price": 40.2,
+        "start_year": 2010
+      },
+      {
+        "horizon": "2y",
+        "horizon_label": "2年",
         "start_date": "2010-07-16",
-        "pe_ratio": 3200.0,
+        "pe_ratio": 68.57,
         "forward_return": -14.62,
         "start_price": 40.0,
         "start_year": 2010
@@ -5808,7 +5646,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-08-16",
-        "pe_ratio": 380.6,
+        "pe_ratio": 60.44,
         "forward_return": -6.16,
         "start_price": 34.25,
         "start_year": 2010
@@ -5817,7 +5655,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-09-15",
-        "pe_ratio": 220.3,
+        "pe_ratio": 67.09,
         "forward_return": -8.03,
         "start_price": 36.9,
         "start_year": 2010
@@ -5826,7 +5664,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-10-16",
-        "pe_ratio": 150.4,
+        "pe_ratio": 73.7,
         "forward_return": -10.21,
         "start_price": 36.85,
         "start_year": 2010
@@ -5835,7 +5673,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2010-11-15",
-        "pe_ratio": 107.0,
+        "pe_ratio": 76.67,
         "forward_return": -5.2,
         "start_price": 34.5,
         "start_year": 2010
@@ -5853,7 +5691,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-01-16",
-        "pe_ratio": 110.1,
+        "pe_ratio": 133.8,
         "forward_return": 4.01,
         "start_price": 37.9,
         "start_year": 2011
@@ -5862,7 +5700,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-02-14",
-        "pe_ratio": 120.7,
+        "pe_ratio": 208.8,
         "forward_return": 14.47,
         "start_price": 34.8,
         "start_year": 2011
@@ -5871,7 +5709,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 674.0,
         "forward_return": 11.64,
         "start_price": 33.7,
         "start_year": 2011
@@ -5880,7 +5718,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2011-04-15",
-        "pe_ratio": 195.3,
+        "pe_ratio": 10350.0,
         "forward_return": 0.44,
         "start_price": 34.5,
         "start_year": 2011
@@ -5888,35 +5726,26 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2011-05-16",
-        "pe_ratio": 278.1,
-        "forward_return": 2.36,
-        "start_price": 33.6,
-        "start_year": 2011
+        "start_date": "2012-01-16",
+        "pe_ratio": 200.8,
+        "forward_return": 23.32,
+        "start_price": 26.1,
+        "start_year": 2012
       },
       {
         "horizon": "2y",
         "horizon_label": "2年",
-        "start_date": "2011-06-15",
-        "pe_ratio": 538.5,
-        "forward_return": 0.01,
-        "start_price": 35.0,
-        "start_year": 2011
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2011-07-16",
-        "pe_ratio": 3660.0,
-        "forward_return": 10.0,
-        "start_price": 33.55,
-        "start_year": 2011
+        "start_date": "2012-02-15",
+        "pe_ratio": 57.08,
+        "forward_return": 14.24,
+        "start_price": 30.25,
+        "start_year": 2012
       },
       {
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-03-16",
-        "pe_ratio": 368.0,
+        "pe_ratio": 33.12,
         "forward_return": 13.83,
         "start_price": 30.8,
         "start_year": 2012
@@ -5925,7 +5754,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-04-15",
-        "pe_ratio": 155.0,
+        "pe_ratio": 39.06,
         "forward_return": 13.15,
         "start_price": 31.25,
         "start_year": 2012
@@ -5934,7 +5763,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-05-16",
-        "pe_ratio": 93.74,
+        "pe_ratio": 44.7,
         "forward_return": 21.64,
         "start_price": 29.95,
         "start_year": 2012
@@ -5943,7 +5772,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-06-15",
-        "pe_ratio": 66.19,
+        "pe_ratio": 53.61,
         "forward_return": 37.62,
         "start_price": 28.95,
         "start_year": 2012
@@ -5952,7 +5781,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-07-16",
-        "pe_ratio": 52.14,
+        "pe_ratio": 43.0,
         "forward_return": 34.3,
         "start_price": 28.95,
         "start_year": 2012
@@ -5961,7 +5790,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-08-16",
-        "pe_ratio": 44.49,
+        "pe_ratio": 37.13,
         "forward_return": 23.53,
         "start_price": 29.95,
         "start_year": 2012
@@ -5970,7 +5799,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-09-15",
-        "pe_ratio": 39.19,
+        "pe_ratio": 32.98,
         "forward_return": 23.47,
         "start_price": 31.0,
         "start_year": 2012
@@ -5979,7 +5808,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-10-16",
-        "pe_ratio": 32.45,
+        "pe_ratio": 29.26,
         "forward_return": 17.75,
         "start_price": 29.5,
         "start_year": 2012
@@ -5988,7 +5817,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2012-11-15",
-        "pe_ratio": 29.99,
+        "pe_ratio": 28.61,
         "forward_return": 11.22,
         "start_price": 30.8,
         "start_year": 2012
@@ -6006,7 +5835,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-01-16",
-        "pe_ratio": 36.97,
+        "pe_ratio": 50.59,
         "forward_return": -0.13,
         "start_price": 40.8,
         "start_year": 2013
@@ -6015,7 +5844,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-02-14",
-        "pe_ratio": 42.74,
+        "pe_ratio": 96.95,
         "forward_return": -4.17,
         "start_price": 45.4,
         "start_year": 2013
@@ -6024,7 +5853,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-03-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 321.5,
         "forward_return": 0.47,
         "start_price": 41.8,
         "start_year": 2013
@@ -6033,7 +5862,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-04-15",
-        "pe_ratio": 35.31,
+        "pe_ratio": 122.1,
         "forward_return": 8.05,
         "start_price": 34.6,
         "start_year": 2013
@@ -6042,7 +5871,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-05-16",
-        "pe_ratio": 37.29,
+        "pe_ratio": 80.15,
         "forward_return": 3.91,
         "start_price": 35.0,
         "start_year": 2013
@@ -6051,7 +5880,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-06-15",
-        "pe_ratio": 38.78,
+        "pe_ratio": 58.98,
         "forward_return": -2.56,
         "start_price": 34.8,
         "start_year": 2013
@@ -6060,7 +5889,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-07-16",
-        "pe_ratio": 47.07,
+        "pe_ratio": 70.7,
         "forward_return": -9.46,
         "start_price": 40.3,
         "start_year": 2013
@@ -6069,7 +5898,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-08-16",
-        "pe_ratio": 49.51,
+        "pe_ratio": 73.36,
         "forward_return": -17.92,
         "start_price": 40.35,
         "start_year": 2013
@@ -6078,7 +5907,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-09-15",
-        "pe_ratio": 55.64,
+        "pe_ratio": 81.23,
         "forward_return": -14.76,
         "start_price": 43.05,
         "start_year": 2013
@@ -6087,7 +5916,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-10-16",
-        "pe_ratio": 59.25,
+        "pe_ratio": 76.14,
         "forward_return": -9.45,
         "start_price": 43.4,
         "start_year": 2013
@@ -6096,7 +5925,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2013-11-15",
-        "pe_ratio": 56.57,
+        "pe_ratio": 64.1,
         "forward_return": -3.86,
         "start_price": 39.1,
         "start_year": 2013
@@ -6114,7 +5943,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-01-16",
-        "pe_ratio": 58.37,
+        "pe_ratio": 54.47,
         "forward_return": -8.02,
         "start_price": 39.4,
         "start_year": 2014
@@ -6123,7 +5952,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-02-14",
-        "pe_ratio": 61.93,
+        "pe_ratio": 54.41,
         "forward_return": -12.38,
         "start_price": 43.35,
         "start_year": 2014
@@ -6132,7 +5961,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-03-16",
-        "pe_ratio": 54.62,
+        "pe_ratio": 45.52,
         "forward_return": -6.0,
         "start_price": 39.6,
         "start_year": 2014
@@ -6141,7 +5970,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-04-15",
-        "pe_ratio": 52.93,
+        "pe_ratio": 43.15,
         "forward_return": -3.99,
         "start_price": 39.7,
         "start_year": 2014
@@ -6150,7 +5979,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-05-16",
-        "pe_ratio": 56.77,
+        "pe_ratio": 45.36,
         "forward_return": -8.68,
         "start_price": 44.0,
         "start_year": 2014
@@ -6159,7 +5988,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-06-15",
-        "pe_ratio": 68.12,
+        "pe_ratio": 53.43,
         "forward_return": -21.13,
         "start_price": 54.5,
         "start_year": 2014
@@ -6168,7 +5997,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-07-16",
-        "pe_ratio": 62.79,
+        "pe_ratio": 49.97,
         "forward_return": -17.65,
         "start_price": 51.8,
         "start_year": 2014
@@ -6177,7 +6006,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-08-16",
-        "pe_ratio": 53.29,
+        "pe_ratio": 43.01,
         "forward_return": -15.65,
         "start_price": 45.3,
         "start_year": 2014
@@ -6186,7 +6015,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-09-15",
-        "pe_ratio": 53.54,
+        "pe_ratio": 43.79,
         "forward_return": -17.9,
         "start_price": 46.85,
         "start_year": 2014
@@ -6195,7 +6024,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-10-16",
-        "pe_ratio": 45.0,
+        "pe_ratio": 39.32,
         "forward_return": -12.82,
         "start_price": 40.5,
         "start_year": 2014
@@ -6204,7 +6033,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2014-11-15",
-        "pe_ratio": 40.76,
+        "pe_ratio": 38.08,
         "forward_return": -10.98,
         "start_price": 37.7,
         "start_year": 2014
@@ -6222,7 +6051,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-01-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 44.78,
         "forward_return": -13.03,
         "start_price": 40.3,
         "start_year": 2015
@@ -6231,7 +6060,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-02-14",
-        "pe_ratio": 49.56,
+        "pe_ratio": 48.59,
         "forward_return": -11.25,
         "start_price": 41.3,
         "start_year": 2015
@@ -6240,7 +6069,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 52.25,
         "forward_return": -10.17,
         "start_price": 41.8,
         "start_year": 2015
@@ -6249,7 +6078,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-04-15",
-        "pe_ratio": 55.81,
+        "pe_ratio": 54.79,
         "forward_return": -11.01,
         "start_price": 40.0,
         "start_year": 2015
@@ -6258,7 +6087,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-05-16",
-        "pe_ratio": 56.81,
+        "pe_ratio": 56.67,
         "forward_return": -10.32,
         "start_price": 37.4,
         "start_year": 2015
@@ -6267,7 +6096,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-06-15",
-        "pe_ratio": 54.42,
+        "pe_ratio": 55.34,
         "forward_return": -5.07,
         "start_price": 32.65,
         "start_year": 2015
@@ -6276,7 +6105,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-07-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 60.46,
         "forward_return": -2.6,
         "start_price": 32.65,
         "start_year": 2015
@@ -6285,7 +6114,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-08-16",
-        "pe_ratio": 55.45,
+        "pe_ratio": 54.69,
         "forward_return": 2.16,
         "start_price": 26.8,
         "start_year": 2015
@@ -6294,7 +6123,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-09-15",
-        "pe_ratio": 72.71,
+        "pe_ratio": 70.23,
         "forward_return": -6.39,
         "start_price": 30.9,
         "start_year": 2015
@@ -6303,7 +6132,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-10-16",
-        "pe_ratio": 96.0,
+        "pe_ratio": 93.45,
         "forward_return": -12.86,
         "start_price": 35.2,
         "start_year": 2015
@@ -6312,7 +6141,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2015-11-15",
-        "pe_ratio": 116.0,
+        "pe_ratio": 114.1,
         "forward_return": -13.7,
         "start_price": 35.75,
         "start_year": 2015
@@ -6330,7 +6159,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-01-16",
-        "pe_ratio": 102.7,
+        "pe_ratio": 51.48,
         "forward_return": -9.02,
         "start_price": 32.95,
         "start_year": 2016
@@ -6339,7 +6168,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-02-15",
-        "pe_ratio": 83.96,
+        "pe_ratio": 31.94,
         "forward_return": -3.69,
         "start_price": 32.9,
         "start_year": 2016
@@ -6348,7 +6177,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-03-16",
-        "pe_ratio": 74.76,
+        "pe_ratio": 24.37,
         "forward_return": -6.23,
         "start_price": 34.6,
         "start_year": 2016
@@ -6357,7 +6186,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-04-15",
-        "pe_ratio": 67.83,
+        "pe_ratio": 25.55,
         "forward_return": -8.33,
         "start_price": 36.2,
         "start_year": 2016
@@ -6366,7 +6195,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-05-16",
-        "pe_ratio": 60.03,
+        "pe_ratio": 25.68,
         "forward_return": -4.19,
         "start_price": 36.3,
         "start_year": 2016
@@ -6375,7 +6204,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-06-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 23.76,
         "forward_return": -1.24,
         "start_price": 33.5,
         "start_year": 2016
@@ -6384,7 +6213,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-07-16",
-        "pe_ratio": 46.55,
+        "pe_ratio": 26.06,
         "forward_return": -1.09,
         "start_price": 34.75,
         "start_year": 2016
@@ -6393,7 +6222,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-08-16",
-        "pe_ratio": 38.96,
+        "pe_ratio": 25.34,
         "forward_return": -4.75,
         "start_price": 31.85,
         "start_year": 2016
@@ -6402,7 +6231,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-09-15",
-        "pe_ratio": 35.12,
+        "pe_ratio": 26.44,
         "forward_return": -5.27,
         "start_price": 31.2,
         "start_year": 2016
@@ -6411,7 +6240,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-10-16",
-        "pe_ratio": 31.69,
+        "pe_ratio": 26.35,
         "forward_return": -8.69,
         "start_price": 30.4,
         "start_year": 2016
@@ -6420,7 +6249,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.63,
+        "pe_ratio": 26.17,
         "forward_return": -3.45,
         "start_price": 29.5,
         "start_year": 2016
@@ -6438,7 +6267,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.75,
+        "pe_ratio": 41.0,
         "forward_return": -3.55,
         "start_price": 30.1,
         "start_year": 2017
@@ -6447,90 +6276,9 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2017-02-14",
-        "pe_ratio": 34.85,
+        "pe_ratio": 87.59,
         "forward_return": -4.95,
         "start_price": 32.15,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-03-16",
-        "pe_ratio": 40.02,
-        "forward_return": -6.27,
-        "start_price": 33.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-04-15",
-        "pe_ratio": 42.06,
-        "forward_return": -2.26,
-        "start_price": 31.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-05-16",
-        "pe_ratio": 45.35,
-        "forward_return": 0.34,
-        "start_price": 29.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-06-15",
-        "pe_ratio": 51.36,
-        "forward_return": 2.63,
-        "start_price": 29.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-07-16",
-        "pe_ratio": 64.24,
-        "forward_return": -8.36,
-        "start_price": 30.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-08-16",
-        "pe_ratio": 71.31,
-        "forward_return": -3.79,
-        "start_price": 27.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-09-15",
-        "pe_ratio": 89.66,
-        "forward_return": -1.42,
-        "start_price": 26.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-10-16",
-        "pe_ratio": 126.4,
-        "forward_return": -3.38,
-        "start_price": 26.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "2y",
-        "horizon_label": "2年",
-        "start_date": "2017-11-15",
-        "pe_ratio": 220.1,
-        "forward_return": -2.02,
-        "start_price": 26.25,
         "start_year": 2017
       },
       {
@@ -6546,7 +6294,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 36.85,
         "forward_return": -3.22,
         "start_price": 26.9,
         "start_year": 2018
@@ -6555,7 +6303,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-02-14",
-        "pe_ratio": 69.53,
+        "pe_ratio": 19.13,
         "forward_return": -8.01,
         "start_price": 27.35,
         "start_year": 2018
@@ -6564,7 +6312,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-03-16",
-        "pe_ratio": 52.26,
+        "pe_ratio": 14.11,
         "forward_return": -20.26,
         "start_price": 30.05,
         "start_year": 2018
@@ -6573,7 +6321,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-04-15",
-        "pe_ratio": 39.71,
+        "pe_ratio": 13.76,
         "forward_return": -12.03,
         "start_price": 30.05,
         "start_year": 2018
@@ -6582,7 +6330,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.12,
+        "pe_ratio": 14.73,
         "forward_return": -14.03,
         "start_price": 32.95,
         "start_year": 2018
@@ -6591,7 +6339,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-06-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 14.1,
         "forward_return": -8.06,
         "start_price": 32.3,
         "start_year": 2018
@@ -6600,7 +6348,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-07-16",
-        "pe_ratio": 25.81,
+        "pe_ratio": 14.85,
         "forward_return": -14.98,
         "start_price": 33.6,
         "start_year": 2018
@@ -6609,7 +6357,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 12.74,
         "forward_return": -2.52,
         "start_price": 28.5,
         "start_year": 2018
@@ -6618,7 +6366,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.58,
+        "pe_ratio": 12.49,
         "forward_return": -3.81,
         "start_price": 27.6,
         "start_year": 2018
@@ -6627,7 +6375,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 11.29,
         "forward_return": -0.64,
         "start_price": 24.95,
         "start_year": 2018
@@ -6636,7 +6384,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2018-11-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.26,
         "forward_return": -2.18,
         "start_price": 27.1,
         "start_year": 2018
@@ -6654,7 +6402,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 17.21,
         "forward_return": -6.2,
         "start_price": 27.6,
         "start_year": 2019
@@ -6663,7 +6411,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.27,
+        "pe_ratio": 28.75,
         "forward_return": -4.67,
         "start_price": 28.65,
         "start_year": 2019
@@ -6672,7 +6420,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-03-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 74.1,
         "forward_return": -3.82,
         "start_price": 28.9,
         "start_year": 2019
@@ -6681,7 +6429,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.11,
+        "pe_ratio": 81.19,
         "forward_return": -4.27,
         "start_price": 29.5,
         "start_year": 2019
@@ -6690,7 +6438,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-05-16",
-        "pe_ratio": 21.43,
+        "pe_ratio": 87.62,
         "forward_return": -7.05,
         "start_price": 29.5,
         "start_year": 2019
@@ -6699,7 +6447,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-06-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 97.42,
         "forward_return": -6.62,
         "start_price": 30.2,
         "start_year": 2019
@@ -6708,7 +6456,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.25,
+        "pe_ratio": 93.7,
         "forward_return": 0.96,
         "start_price": 25.3,
         "start_year": 2019
@@ -6717,7 +6465,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-08-16",
-        "pe_ratio": 28.69,
+        "pe_ratio": 109.3,
         "forward_return": 1.16,
         "start_price": 25.15,
         "start_year": 2019
@@ -6726,7 +6474,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-09-15",
-        "pe_ratio": 35.99,
+        "pe_ratio": 134.5,
         "forward_return": -2.5,
         "start_price": 25.55,
         "start_year": 2019
@@ -6735,7 +6483,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-10-16",
-        "pe_ratio": 44.54,
+        "pe_ratio": 123.1,
         "forward_return": -1.49,
         "start_price": 24.2,
         "start_year": 2019
@@ -6744,7 +6492,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2019-11-15",
-        "pe_ratio": 65.84,
+        "pe_ratio": 122.0,
         "forward_return": -3.72,
         "start_price": 24.8,
         "start_year": 2019
@@ -6762,7 +6510,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-01-16",
-        "pe_ratio": 62.39,
+        "pe_ratio": 89.64,
         "forward_return": -2.06,
         "start_price": 24.8,
         "start_year": 2020
@@ -6771,7 +6519,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-02-15",
-        "pe_ratio": 38.89,
+        "pe_ratio": 66.26,
         "forward_return": 5.81,
         "start_price": 22.75,
         "start_year": 2020
@@ -6780,7 +6528,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.21,
+        "pe_ratio": 45.61,
         "forward_return": 16.98,
         "start_price": 18.7,
         "start_year": 2020
@@ -6789,7 +6537,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-04-15",
-        "pe_ratio": 23.8,
+        "pe_ratio": 23.72,
         "forward_return": 10.48,
         "start_price": 22.85,
         "start_year": 2020
@@ -6798,7 +6546,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-05-16",
-        "pe_ratio": 20.87,
+        "pe_ratio": 15.79,
         "forward_return": 5.76,
         "start_price": 23.95,
         "start_year": 2020
@@ -6807,7 +6555,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-06-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 13.0,
         "forward_return": 11.66,
         "start_price": 26.9,
         "start_year": 2020
@@ -6816,7 +6564,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.7,
+        "pe_ratio": 11.19,
         "forward_return": 15.74,
         "start_price": 23.9,
         "start_year": 2020
@@ -6825,7 +6573,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.61,
+        "pe_ratio": 12.12,
         "forward_return": 22.35,
         "start_price": 26.7,
         "start_year": 2020
@@ -6834,7 +6582,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-09-15",
-        "pe_ratio": 13.25,
+        "pe_ratio": 11.08,
         "forward_return": 20.42,
         "start_price": 25.15,
         "start_year": 2020
@@ -6843,7 +6591,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.39,
         "forward_return": 17.3,
         "start_price": 24.25,
         "start_year": 2020
@@ -6852,7 +6600,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.24,
+        "pe_ratio": 10.66,
         "forward_return": 19.88,
         "start_price": 25.55,
         "start_year": 2020
@@ -6870,7 +6618,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.21,
+        "pe_ratio": 9.81,
         "forward_return": 34.8,
         "start_price": 23.9,
         "start_year": 2021
@@ -6879,7 +6627,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.55,
+        "pe_ratio": 10.63,
         "forward_return": 37.62,
         "start_price": 25.65,
         "start_year": 2021
@@ -6888,7 +6636,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 11.03,
         "forward_return": 32.95,
         "start_price": 26.35,
         "start_year": 2021
@@ -6897,7 +6645,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.46,
+        "pe_ratio": 13.57,
         "forward_return": 35.08,
         "start_price": 26.65,
         "start_year": 2021
@@ -6906,7 +6654,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-05-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 16.33,
         "forward_return": 34.31,
         "start_price": 25.1,
         "start_year": 2021
@@ -6915,7 +6663,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-06-15",
-        "pe_ratio": 14.91,
+        "pe_ratio": 23.38,
         "forward_return": 31.36,
         "start_price": 25.95,
         "start_year": 2021
@@ -6924,7 +6672,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-07-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 23.79,
         "forward_return": 32.45,
         "start_price": 25.3,
         "start_year": 2021
@@ -6933,7 +6681,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-08-16",
-        "pe_ratio": 16.83,
+        "pe_ratio": 24.84,
         "forward_return": 22.23,
         "start_price": 25.25,
         "start_year": 2021
@@ -6942,7 +6690,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.25,
+        "pe_ratio": 24.54,
         "forward_return": 28.05,
         "start_price": 23.8,
         "start_year": 2021
@@ -6951,7 +6699,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-10-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 23.31,
         "forward_return": 29.59,
         "start_price": 23.0,
         "start_year": 2021
@@ -6960,7 +6708,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.74,
+        "pe_ratio": 22.43,
         "forward_return": 35.45,
         "start_price": 22.5,
         "start_year": 2021
@@ -6978,7 +6726,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.44,
+        "pe_ratio": 21.31,
         "forward_return": 28.76,
         "start_price": 23.3,
         "start_year": 2022
@@ -6987,7 +6735,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-02-14",
-        "pe_ratio": 19.6,
+        "pe_ratio": 21.17,
         "forward_return": 27.38,
         "start_price": 24.7,
         "start_year": 2022
@@ -6996,7 +6744,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-03-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 20.24,
         "forward_return": 26.71,
         "start_price": 25.1,
         "start_year": 2022
@@ -7005,7 +6753,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.27,
+        "pe_ratio": 17.87,
         "forward_return": 20.22,
         "start_price": 27.4,
         "start_year": 2022
@@ -7014,7 +6762,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-05-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 14.4,
         "forward_return": 24.86,
         "start_price": 26.3,
         "start_year": 2022
@@ -7023,7 +6771,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-06-15",
-        "pe_ratio": 18.99,
+        "pe_ratio": 15.59,
         "forward_return": 13.01,
         "start_price": 33.05,
         "start_year": 2022
@@ -7032,7 +6780,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-07-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 14.4,
         "forward_return": 16.09,
         "start_price": 31.2,
         "start_year": 2022
@@ -7041,7 +6789,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-08-16",
-        "pe_ratio": 19.77,
+        "pe_ratio": 17.69,
         "forward_return": 0.33,
         "start_price": 39.15,
         "start_year": 2022
@@ -7050,7 +6798,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-09-15",
-        "pe_ratio": 16.98,
+        "pe_ratio": 15.77,
         "forward_return": 4.13,
         "start_price": 35.65,
         "start_year": 2022
@@ -7059,7 +6807,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-10-16",
-        "pe_ratio": 14.66,
+        "pe_ratio": 13.99,
         "forward_return": 7.12,
         "start_price": 32.55,
         "start_year": 2022
@@ -7068,7 +6816,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2022-11-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 15.0,
         "forward_return": -0.62,
         "start_price": 35.9,
         "start_year": 2022
@@ -7086,7 +6834,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 17.29,
         "forward_return": -9.93,
         "start_price": 42.6,
         "start_year": 2023
@@ -7095,7 +6843,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 19.36,
         "forward_return": -15.79,
         "start_price": 47.75,
         "start_year": 2023
@@ -7104,7 +6852,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-03-16",
-        "pe_ratio": 20.36,
+        "pe_ratio": 18.52,
         "forward_return": -13.14,
         "start_price": 45.75,
         "start_year": 2023
@@ -7113,7 +6861,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-04-15",
-        "pe_ratio": 21.96,
+        "pe_ratio": 21.5,
         "forward_return": -16.39,
         "start_price": 47.8,
         "start_year": 2023
@@ -7122,7 +6870,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-05-16",
-        "pe_ratio": 21.11,
+        "pe_ratio": 22.49,
         "forward_return": -10.87,
         "start_price": 44.45,
         "start_year": 2023
@@ -7131,7 +6879,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-06-15",
-        "pe_ratio": 21.6,
+        "pe_ratio": 25.4,
         "forward_return": -7.31,
         "start_price": 43.95,
         "start_year": 2023
@@ -7140,7 +6888,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-07-16",
-        "pe_ratio": 22.04,
+        "pe_ratio": 25.67,
         "forward_return": -6.13,
         "start_price": 43.3,
         "start_year": 2023
@@ -7149,7 +6897,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-08-16",
-        "pe_ratio": 19.36,
+        "pe_ratio": 22.3,
         "forward_return": -0.96,
         "start_price": 36.65,
         "start_year": 2023
@@ -7158,7 +6906,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-09-15",
-        "pe_ratio": 20.82,
+        "pe_ratio": 23.72,
         "forward_return": -3.35,
         "start_price": 37.95,
         "start_year": 2023
@@ -7167,7 +6915,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-10-16",
-        "pe_ratio": 21.44,
+        "pe_ratio": 23.42,
         "forward_return": -3.8,
         "start_price": 37.55,
         "start_year": 2023
@@ -7176,7 +6924,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2023-11-15",
-        "pe_ratio": 23.92,
+        "pe_ratio": 25.02,
         "forward_return": -8.91,
         "start_price": 40.2,
         "start_year": 2023
@@ -7194,7 +6942,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "2y",
         "horizon_label": "2年",
         "start_date": "2024-01-16",
-        "pe_ratio": 23.3,
+        "pe_ratio": 22.8,
         "forward_return": -5.4,
         "start_price": 37.55,
         "start_year": 2024
@@ -7203,7 +6951,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-03-16",
-        "pe_ratio": 36.05,
+        "pe_ratio": 24.04,
         "forward_return": 28.77,
         "start_price": 13.7,
         "start_year": 2006
@@ -7212,7 +6960,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-04-15",
-        "pe_ratio": 35.53,
+        "pe_ratio": 25.16,
         "forward_return": 42.78,
         "start_price": 13.5,
         "start_year": 2006
@@ -7221,7 +6969,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-05-16",
-        "pe_ratio": 34.74,
+        "pe_ratio": 26.23,
         "forward_return": 40.81,
         "start_price": 13.2,
         "start_year": 2006
@@ -7230,7 +6978,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-06-15",
-        "pe_ratio": 35.0,
+        "pe_ratio": 28.3,
         "forward_return": 42.45,
         "start_price": 13.3,
         "start_year": 2006
@@ -7239,7 +6987,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-07-16",
-        "pe_ratio": 32.37,
+        "pe_ratio": 30.0,
         "forward_return": 49.8,
         "start_price": 12.3,
         "start_year": 2006
@@ -7248,7 +6996,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-08-16",
-        "pe_ratio": 33.29,
+        "pe_ratio": 36.14,
         "forward_return": 39.78,
         "start_price": 12.65,
         "start_year": 2006
@@ -7257,7 +7005,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-09-15",
-        "pe_ratio": 32.11,
+        "pe_ratio": 42.07,
         "forward_return": 40.03,
         "start_price": 12.2,
         "start_year": 2006
@@ -7266,7 +7014,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-10-16",
-        "pe_ratio": 31.58,
+        "pe_ratio": 37.5,
         "forward_return": 37.14,
         "start_price": 12.0,
         "start_year": 2006
@@ -7275,7 +7023,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2006-11-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.57,
         "forward_return": 39.15,
         "start_price": 12.1,
         "start_year": 2006
@@ -7293,7 +7041,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-01-16",
-        "pe_ratio": 30.06,
+        "pe_ratio": 30.76,
         "forward_return": 34.0,
         "start_price": 12.2,
         "start_year": 2007
@@ -7302,7 +7050,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-02-14",
-        "pe_ratio": 30.12,
+        "pe_ratio": 31.45,
         "forward_return": 32.15,
         "start_price": 13.0,
         "start_year": 2007
@@ -7311,7 +7059,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-03-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 33.26,
         "forward_return": 31.68,
         "start_price": 14.3,
         "start_year": 2007
@@ -7320,7 +7068,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-04-15",
-        "pe_ratio": 31.66,
+        "pe_ratio": 27.49,
         "forward_return": 32.7,
         "start_price": 15.3,
         "start_year": 2007
@@ -7329,7 +7077,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-05-16",
-        "pe_ratio": 35.84,
+        "pe_ratio": 26.71,
         "forward_return": 30.22,
         "start_price": 18.25,
         "start_year": 2007
@@ -7338,7 +7086,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-06-15",
-        "pe_ratio": 64.02,
+        "pe_ratio": 42.28,
         "forward_return": 5.8,
         "start_price": 34.25,
         "start_year": 2007
@@ -7347,7 +7095,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-07-16",
-        "pe_ratio": 101.1,
+        "pe_ratio": 72.08,
         "forward_return": -10.83,
         "start_price": 56.7,
         "start_year": 2007
@@ -7356,7 +7104,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-08-16",
-        "pe_ratio": 56.08,
+        "pe_ratio": 43.1,
         "forward_return": 1.55,
         "start_price": 32.9,
         "start_year": 2007
@@ -7365,7 +7113,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-09-15",
-        "pe_ratio": 73.31,
+        "pe_ratio": 60.68,
         "forward_return": -6.16,
         "start_price": 44.9,
         "start_year": 2007
@@ -7374,7 +7122,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-10-16",
-        "pe_ratio": 62.11,
+        "pe_ratio": 54.82,
         "forward_return": -2.23,
         "start_price": 39.65,
         "start_year": 2007
@@ -7383,7 +7131,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2007-11-15",
-        "pe_ratio": 51.42,
+        "pe_ratio": 48.33,
         "forward_return": 0.53,
         "start_price": 34.15,
         "start_year": 2007
@@ -7401,7 +7149,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-01-16",
-        "pe_ratio": 32.05,
+        "pe_ratio": 30.15,
         "forward_return": 25.01,
         "start_price": 19.5,
         "start_year": 2008
@@ -7410,7 +7158,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-02-15",
-        "pe_ratio": 56.96,
+        "pe_ratio": 49.72,
         "forward_return": 4.05,
         "start_price": 30.0,
         "start_year": 2008
@@ -7419,7 +7167,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-03-16",
-        "pe_ratio": 71.46,
+        "pe_ratio": 56.79,
         "forward_return": 2.16,
         "start_price": 31.8,
         "start_year": 2008
@@ -7428,7 +7176,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-04-15",
-        "pe_ratio": 105.0,
+        "pe_ratio": 91.56,
         "forward_return": -3.11,
         "start_price": 38.15,
         "start_year": 2008
@@ -7437,7 +7185,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-05-16",
-        "pe_ratio": 111.8,
+        "pe_ratio": 115.2,
         "forward_return": 2.38,
         "start_price": 31.5,
         "start_year": 2008
@@ -7446,7 +7194,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-06-15",
-        "pe_ratio": 114.5,
+        "pe_ratio": 176.2,
         "forward_return": 15.42,
         "start_price": 22.9,
         "start_year": 2008
@@ -7455,7 +7203,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-07-16",
-        "pe_ratio": 205.4,
+        "pe_ratio": 202.5,
         "forward_return": 11.48,
         "start_price": 24.3,
         "start_year": 2008
@@ -7464,7 +7212,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2008-08-16",
-        "pe_ratio": 621.8,
+        "pe_ratio": 207.3,
         "forward_return": 5.28,
         "start_price": 22.8,
         "start_year": 2008
@@ -7472,8 +7220,35 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "3y",
         "horizon_label": "3年",
+        "start_date": "2008-09-15",
+        "pe_ratio": 155.0,
+        "forward_return": 18.53,
+        "start_price": 15.5,
+        "start_year": 2008
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2010-05-16",
+        "pe_ratio": 136.2,
+        "forward_return": -4.13,
+        "start_price": 39.95,
+        "start_year": 2010
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
+        "start_date": "2010-06-15",
+        "pe_ratio": 67.0,
+        "forward_return": -4.51,
+        "start_price": 40.2,
+        "start_year": 2010
+      },
+      {
+        "horizon": "3y",
+        "horizon_label": "3年",
         "start_date": "2010-07-16",
-        "pe_ratio": 3200.0,
+        "pe_ratio": 68.57,
         "forward_return": 0.59,
         "start_price": 40.0,
         "start_year": 2010
@@ -7482,7 +7257,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-08-16",
-        "pe_ratio": 380.6,
+        "pe_ratio": 60.44,
         "forward_return": 5.97,
         "start_price": 34.25,
         "start_year": 2010
@@ -7491,7 +7266,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-09-15",
-        "pe_ratio": 220.3,
+        "pe_ratio": 67.09,
         "forward_return": 5.6,
         "start_price": 36.9,
         "start_year": 2010
@@ -7500,7 +7275,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-10-16",
-        "pe_ratio": 150.4,
+        "pe_ratio": 73.7,
         "forward_return": 5.93,
         "start_price": 36.85,
         "start_year": 2010
@@ -7509,7 +7284,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2010-11-15",
-        "pe_ratio": 107.0,
+        "pe_ratio": 76.67,
         "forward_return": 4.62,
         "start_price": 34.5,
         "start_year": 2010
@@ -7527,7 +7302,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-01-16",
-        "pe_ratio": 110.1,
+        "pe_ratio": 133.8,
         "forward_return": 1.65,
         "start_price": 37.9,
         "start_year": 2011
@@ -7536,7 +7311,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-02-14",
-        "pe_ratio": 120.7,
+        "pe_ratio": 208.8,
         "forward_return": 7.93,
         "start_price": 34.8,
         "start_year": 2011
@@ -7545,7 +7320,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 674.0,
         "forward_return": 5.88,
         "start_price": 33.7,
         "start_year": 2011
@@ -7554,7 +7329,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2011-04-15",
-        "pe_ratio": 195.3,
+        "pe_ratio": 10350.0,
         "forward_return": 5.15,
         "start_price": 34.5,
         "start_year": 2011
@@ -7562,35 +7337,26 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2011-05-16",
-        "pe_ratio": 278.1,
-        "forward_return": 9.74,
-        "start_price": 33.6,
-        "start_year": 2011
+        "start_date": "2012-01-16",
+        "pe_ratio": 200.8,
+        "forward_return": 16.05,
+        "start_price": 26.1,
+        "start_year": 2012
       },
       {
         "horizon": "3y",
         "horizon_label": "3年",
-        "start_date": "2011-06-15",
-        "pe_ratio": 538.5,
-        "forward_return": 16.19,
-        "start_price": 35.0,
-        "start_year": 2011
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2011-07-16",
-        "pe_ratio": 3660.0,
-        "forward_return": 15.94,
-        "start_price": 33.55,
-        "start_year": 2011
+        "start_date": "2012-02-15",
+        "pe_ratio": 57.08,
+        "forward_return": 11.49,
+        "start_price": 30.25,
+        "start_year": 2012
       },
       {
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-03-16",
-        "pe_ratio": 368.0,
+        "pe_ratio": 33.12,
         "forward_return": 11.16,
         "start_price": 30.8,
         "start_year": 2012
@@ -7599,7 +7365,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-04-15",
-        "pe_ratio": 155.0,
+        "pe_ratio": 39.06,
         "forward_return": 9.03,
         "start_price": 31.25,
         "start_year": 2012
@@ -7608,7 +7374,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-05-16",
-        "pe_ratio": 93.74,
+        "pe_ratio": 44.7,
         "forward_return": 8.16,
         "start_price": 29.95,
         "start_year": 2012
@@ -7617,7 +7383,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-06-15",
-        "pe_ratio": 66.19,
+        "pe_ratio": 53.61,
         "forward_return": 4.61,
         "start_price": 28.95,
         "start_year": 2012
@@ -7626,7 +7392,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-07-16",
-        "pe_ratio": 52.14,
+        "pe_ratio": 43.0,
         "forward_return": 4.72,
         "start_price": 28.95,
         "start_year": 2012
@@ -7635,7 +7401,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-08-16",
-        "pe_ratio": 44.49,
+        "pe_ratio": 37.13,
         "forward_return": -2.93,
         "start_price": 29.95,
         "start_year": 2012
@@ -7644,7 +7410,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-09-15",
-        "pe_ratio": 39.19,
+        "pe_ratio": 32.98,
         "forward_return": 0.53,
         "start_price": 31.0,
         "start_year": 2012
@@ -7653,7 +7419,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-10-16",
-        "pe_ratio": 32.45,
+        "pe_ratio": 29.26,
         "forward_return": 6.66,
         "start_price": 29.5,
         "start_year": 2012
@@ -7662,7 +7428,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2012-11-15",
-        "pe_ratio": 29.99,
+        "pe_ratio": 28.61,
         "forward_return": 5.67,
         "start_price": 30.8,
         "start_year": 2012
@@ -7680,7 +7446,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-01-16",
-        "pe_ratio": 36.97,
+        "pe_ratio": 50.59,
         "forward_return": -6.33,
         "start_price": 40.8,
         "start_year": 2013
@@ -7689,7 +7455,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-02-14",
-        "pe_ratio": 42.74,
+        "pe_ratio": 96.95,
         "forward_return": -9.65,
         "start_price": 45.4,
         "start_year": 2013
@@ -7698,7 +7464,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-03-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 321.5,
         "forward_return": -5.57,
         "start_price": 41.8,
         "start_year": 2013
@@ -7707,7 +7473,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-04-15",
-        "pe_ratio": 35.31,
+        "pe_ratio": 122.1,
         "forward_return": 2.07,
         "start_price": 34.6,
         "start_year": 2013
@@ -7716,7 +7482,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-05-16",
-        "pe_ratio": 37.29,
+        "pe_ratio": 80.15,
         "forward_return": 1.77,
         "start_price": 35.0,
         "start_year": 2013
@@ -7725,7 +7491,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-06-15",
-        "pe_ratio": 38.78,
+        "pe_ratio": 58.98,
         "forward_return": -0.68,
         "start_price": 34.8,
         "start_year": 2013
@@ -7734,7 +7500,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-07-16",
-        "pe_ratio": 47.07,
+        "pe_ratio": 70.7,
         "forward_return": -4.31,
         "start_price": 40.3,
         "start_year": 2013
@@ -7743,7 +7509,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-08-16",
-        "pe_ratio": 49.51,
+        "pe_ratio": 73.36,
         "forward_return": -7.04,
         "start_price": 40.35,
         "start_year": 2013
@@ -7752,7 +7518,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-09-15",
-        "pe_ratio": 55.64,
+        "pe_ratio": 81.23,
         "forward_return": -9.64,
         "start_price": 43.05,
         "start_year": 2013
@@ -7761,7 +7527,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-10-16",
-        "pe_ratio": 59.25,
+        "pe_ratio": 76.14,
         "forward_return": -10.64,
         "start_price": 43.4,
         "start_year": 2013
@@ -7770,7 +7536,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2013-11-15",
-        "pe_ratio": 56.57,
+        "pe_ratio": 64.1,
         "forward_return": -8.39,
         "start_price": 39.1,
         "start_year": 2013
@@ -7788,7 +7554,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-01-16",
-        "pe_ratio": 58.37,
+        "pe_ratio": 54.47,
         "forward_return": -8.02,
         "start_price": 39.4,
         "start_year": 2014
@@ -7797,7 +7563,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-02-14",
-        "pe_ratio": 61.93,
+        "pe_ratio": 54.41,
         "forward_return": -8.96,
         "start_price": 43.35,
         "start_year": 2014
@@ -7806,7 +7572,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-03-16",
-        "pe_ratio": 54.62,
+        "pe_ratio": 45.52,
         "forward_return": -5.04,
         "start_price": 39.6,
         "start_year": 2014
@@ -7815,7 +7581,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-04-15",
-        "pe_ratio": 52.93,
+        "pe_ratio": 43.15,
         "forward_return": -7.07,
         "start_price": 39.7,
         "start_year": 2014
@@ -7824,7 +7590,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-05-16",
-        "pe_ratio": 56.77,
+        "pe_ratio": 45.36,
         "forward_return": -11.73,
         "start_price": 44.0,
         "start_year": 2014
@@ -7833,7 +7599,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-06-15",
-        "pe_ratio": 68.12,
+        "pe_ratio": 53.43,
         "forward_return": -18.4,
         "start_price": 54.5,
         "start_year": 2014
@@ -7842,7 +7608,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-07-16",
-        "pe_ratio": 62.79,
+        "pe_ratio": 49.97,
         "forward_return": -15.57,
         "start_price": 51.8,
         "start_year": 2014
@@ -7851,7 +7617,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-08-16",
-        "pe_ratio": 53.29,
+        "pe_ratio": 43.01,
         "forward_return": -14.64,
         "start_price": 45.3,
         "start_year": 2014
@@ -7860,7 +7626,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-09-15",
-        "pe_ratio": 53.54,
+        "pe_ratio": 43.79,
         "forward_return": -16.5,
         "start_price": 46.85,
         "start_year": 2014
@@ -7869,7 +7635,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-10-16",
-        "pe_ratio": 45.0,
+        "pe_ratio": 39.32,
         "forward_return": -12.72,
         "start_price": 40.5,
         "start_year": 2014
@@ -7878,7 +7644,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2014-11-15",
-        "pe_ratio": 40.76,
+        "pe_ratio": 38.08,
         "forward_return": -10.72,
         "start_price": 37.7,
         "start_year": 2014
@@ -7896,7 +7662,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-01-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 44.78,
         "forward_return": -11.99,
         "start_price": 40.3,
         "start_year": 2015
@@ -7905,7 +7671,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-02-14",
-        "pe_ratio": 49.56,
+        "pe_ratio": 48.59,
         "forward_return": -12.23,
         "start_price": 41.3,
         "start_year": 2015
@@ -7914,7 +7680,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 52.25,
         "forward_return": -9.85,
         "start_price": 41.8,
         "start_year": 2015
@@ -7923,7 +7689,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-04-15",
-        "pe_ratio": 55.81,
+        "pe_ratio": 54.79,
         "forward_return": -8.52,
         "start_price": 40.0,
         "start_year": 2015
@@ -7932,7 +7698,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-05-16",
-        "pe_ratio": 56.81,
+        "pe_ratio": 56.67,
         "forward_return": -3.58,
         "start_price": 37.4,
         "start_year": 2015
@@ -7941,7 +7707,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-06-15",
-        "pe_ratio": 54.42,
+        "pe_ratio": 55.34,
         "forward_return": 0.23,
         "start_price": 32.65,
         "start_year": 2015
@@ -7950,7 +7716,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-07-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 60.46,
         "forward_return": 1.53,
         "start_price": 32.65,
         "start_year": 2015
@@ -7959,7 +7725,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-08-16",
-        "pe_ratio": 55.45,
+        "pe_ratio": 54.69,
         "forward_return": 2.75,
         "start_price": 26.8,
         "start_year": 2015
@@ -7968,7 +7734,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-09-15",
-        "pe_ratio": 72.71,
+        "pe_ratio": 70.23,
         "forward_return": -3.03,
         "start_price": 30.9,
         "start_year": 2015
@@ -7977,7 +7743,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-10-16",
-        "pe_ratio": 96.0,
+        "pe_ratio": 93.45,
         "forward_return": -10.16,
         "start_price": 35.2,
         "start_year": 2015
@@ -7986,7 +7752,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2015-11-15",
-        "pe_ratio": 116.0,
+        "pe_ratio": 114.1,
         "forward_return": -8.18,
         "start_price": 35.75,
         "start_year": 2015
@@ -8004,7 +7770,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-01-16",
-        "pe_ratio": 102.7,
+        "pe_ratio": 51.48,
         "forward_return": -5.09,
         "start_price": 32.95,
         "start_year": 2016
@@ -8013,7 +7779,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-02-15",
-        "pe_ratio": 83.96,
+        "pe_ratio": 31.94,
         "forward_return": -3.51,
         "start_price": 32.9,
         "start_year": 2016
@@ -8022,7 +7788,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-03-16",
-        "pe_ratio": 74.76,
+        "pe_ratio": 24.37,
         "forward_return": -5.21,
         "start_price": 34.6,
         "start_year": 2016
@@ -8031,7 +7797,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-04-15",
-        "pe_ratio": 67.83,
+        "pe_ratio": 25.55,
         "forward_return": -6.0,
         "start_price": 36.2,
         "start_year": 2016
@@ -8040,7 +7806,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-05-16",
-        "pe_ratio": 60.03,
+        "pe_ratio": 25.68,
         "forward_return": -6.08,
         "start_price": 36.3,
         "start_year": 2016
@@ -8049,7 +7815,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-06-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 23.76,
         "forward_return": -2.79,
         "start_price": 33.5,
         "start_year": 2016
@@ -8058,7 +7824,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-07-16",
-        "pe_ratio": 46.55,
+        "pe_ratio": 26.06,
         "forward_return": -9.34,
         "start_price": 34.75,
         "start_year": 2016
@@ -8067,7 +7833,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-08-16",
-        "pe_ratio": 38.96,
+        "pe_ratio": 25.34,
         "forward_return": -6.85,
         "start_price": 31.85,
         "start_year": 2016
@@ -8076,7 +7842,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-09-15",
-        "pe_ratio": 35.12,
+        "pe_ratio": 26.44,
         "forward_return": -5.72,
         "start_price": 31.2,
         "start_year": 2016
@@ -8085,7 +7851,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-10-16",
-        "pe_ratio": 31.69,
+        "pe_ratio": 26.35,
         "forward_return": -6.57,
         "start_price": 30.4,
         "start_year": 2016
@@ -8094,7 +7860,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.63,
+        "pe_ratio": 26.17,
         "forward_return": -4.87,
         "start_price": 29.5,
         "start_year": 2016
@@ -8112,7 +7878,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.75,
+        "pe_ratio": 41.0,
         "forward_return": -5.51,
         "start_price": 30.1,
         "start_year": 2017
@@ -8121,90 +7887,9 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2017-02-14",
-        "pe_ratio": 34.85,
+        "pe_ratio": 87.59,
         "forward_return": -10.12,
         "start_price": 32.15,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-03-16",
-        "pe_ratio": 40.02,
-        "forward_return": -16.66,
-        "start_price": 33.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-04-15",
-        "pe_ratio": 42.06,
-        "forward_return": -9.18,
-        "start_price": 31.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-05-16",
-        "pe_ratio": 45.35,
-        "forward_return": -6.15,
-        "start_price": 29.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-06-15",
-        "pe_ratio": 51.36,
-        "forward_return": -1.81,
-        "start_price": 29.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-07-16",
-        "pe_ratio": 64.24,
-        "forward_return": -7.16,
-        "start_price": 30.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-08-16",
-        "pe_ratio": 71.31,
-        "forward_return": -0.38,
-        "start_price": 27.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-09-15",
-        "pe_ratio": 89.66,
-        "forward_return": -1.22,
-        "start_price": 26.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-10-16",
-        "pe_ratio": 126.4,
-        "forward_return": -1.96,
-        "start_price": 26.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "3y",
-        "horizon_label": "3年",
-        "start_date": "2017-11-15",
-        "pe_ratio": 220.1,
-        "forward_return": -0.15,
-        "start_price": 26.25,
         "start_year": 2017
       },
       {
@@ -8220,7 +7905,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 36.85,
         "forward_return": -3.09,
         "start_price": 26.9,
         "start_year": 2018
@@ -8229,7 +7914,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-02-14",
-        "pe_ratio": 69.53,
+        "pe_ratio": 19.13,
         "forward_return": -1.38,
         "start_price": 27.35,
         "start_year": 2018
@@ -8238,7 +7923,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-03-16",
-        "pe_ratio": 52.26,
+        "pe_ratio": 14.11,
         "forward_return": -3.58,
         "start_price": 30.05,
         "start_year": 2018
@@ -8247,7 +7932,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-04-15",
-        "pe_ratio": 39.71,
+        "pe_ratio": 13.76,
         "forward_return": -3.23,
         "start_price": 30.05,
         "start_year": 2018
@@ -8256,7 +7941,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.12,
+        "pe_ratio": 14.73,
         "forward_return": -7.97,
         "start_price": 32.95,
         "start_year": 2018
@@ -8265,7 +7950,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-06-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 14.1,
         "forward_return": -6.34,
         "start_price": 32.3,
         "start_year": 2018
@@ -8274,7 +7959,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-07-16",
-        "pe_ratio": 25.81,
+        "pe_ratio": 14.85,
         "forward_return": -8.21,
         "start_price": 33.6,
         "start_year": 2018
@@ -8283,7 +7968,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 12.74,
         "forward_return": -3.09,
         "start_price": 28.5,
         "start_year": 2018
@@ -8292,7 +7977,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.58,
+        "pe_ratio": 12.49,
         "forward_return": -3.91,
         "start_price": 27.6,
         "start_year": 2018
@@ -8301,7 +7986,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 11.29,
         "forward_return": -1.72,
         "start_price": 24.95,
         "start_year": 2018
@@ -8310,7 +7995,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2018-11-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.26,
         "forward_return": -5.07,
         "start_price": 27.1,
         "start_year": 2018
@@ -8328,7 +8013,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 17.21,
         "forward_return": -4.57,
         "start_price": 27.6,
         "start_year": 2019
@@ -8337,7 +8022,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.27,
+        "pe_ratio": 28.75,
         "forward_return": -3.95,
         "start_price": 28.65,
         "start_year": 2019
@@ -8346,7 +8031,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-03-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 74.1,
         "forward_return": -3.73,
         "start_price": 28.9,
         "start_year": 2019
@@ -8355,7 +8040,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.11,
+        "pe_ratio": 81.19,
         "forward_return": -1.62,
         "start_price": 29.5,
         "start_year": 2019
@@ -8364,7 +8049,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-05-16",
-        "pe_ratio": 21.43,
+        "pe_ratio": 87.62,
         "forward_return": -2.93,
         "start_price": 29.5,
         "start_year": 2019
@@ -8373,7 +8058,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-06-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 97.42,
         "forward_return": 3.76,
         "start_price": 30.2,
         "start_year": 2019
@@ -8382,7 +8067,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.25,
+        "pe_ratio": 93.7,
         "forward_return": 8.36,
         "start_price": 25.3,
         "start_year": 2019
@@ -8391,7 +8076,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-08-16",
-        "pe_ratio": 28.69,
+        "pe_ratio": 109.3,
         "forward_return": 16.86,
         "start_price": 25.15,
         "start_year": 2019
@@ -8400,7 +8085,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-09-15",
-        "pe_ratio": 35.99,
+        "pe_ratio": 134.5,
         "forward_return": 12.77,
         "start_price": 25.55,
         "start_year": 2019
@@ -8409,7 +8094,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-10-16",
-        "pe_ratio": 44.54,
+        "pe_ratio": 123.1,
         "forward_return": 11.49,
         "start_price": 24.2,
         "start_year": 2019
@@ -8418,7 +8103,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2019-11-15",
-        "pe_ratio": 65.84,
+        "pe_ratio": 122.0,
         "forward_return": 14.15,
         "start_price": 24.8,
         "start_year": 2019
@@ -8436,7 +8121,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-01-16",
-        "pe_ratio": 62.39,
+        "pe_ratio": 89.64,
         "forward_return": 20.68,
         "start_price": 24.8,
         "start_year": 2020
@@ -8445,7 +8130,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-02-15",
-        "pe_ratio": 38.89,
+        "pe_ratio": 66.26,
         "forward_return": 26.34,
         "start_price": 22.75,
         "start_year": 2020
@@ -8454,7 +8139,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.21,
+        "pe_ratio": 45.61,
         "forward_return": 35.74,
         "start_price": 18.7,
         "start_year": 2020
@@ -8463,7 +8148,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-04-15",
-        "pe_ratio": 23.8,
+        "pe_ratio": 23.72,
         "forward_return": 28.79,
         "start_price": 22.85,
         "start_year": 2020
@@ -8472,7 +8157,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-05-16",
-        "pe_ratio": 20.87,
+        "pe_ratio": 15.79,
         "forward_return": 23.82,
         "start_price": 23.95,
         "start_year": 2020
@@ -8481,7 +8166,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-06-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 13.0,
         "forward_return": 18.67,
         "start_price": 26.9,
         "start_year": 2020
@@ -8490,7 +8175,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.7,
+        "pe_ratio": 11.19,
         "forward_return": 23.19,
         "start_price": 23.9,
         "start_year": 2020
@@ -8499,7 +8184,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.61,
+        "pe_ratio": 12.12,
         "forward_return": 12.51,
         "start_price": 26.7,
         "start_year": 2020
@@ -8508,7 +8193,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-09-15",
-        "pe_ratio": 13.25,
+        "pe_ratio": 11.08,
         "forward_return": 16.07,
         "start_price": 25.15,
         "start_year": 2020
@@ -8517,7 +8202,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.39,
         "forward_return": 17.09,
         "start_price": 24.25,
         "start_year": 2020
@@ -8526,7 +8211,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.24,
+        "pe_ratio": 10.66,
         "forward_return": 17.62,
         "start_price": 25.55,
         "start_year": 2020
@@ -8544,7 +8229,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.21,
+        "pe_ratio": 9.81,
         "forward_return": 17.66,
         "start_price": 23.9,
         "start_year": 2021
@@ -8553,7 +8238,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.55,
+        "pe_ratio": 10.63,
         "forward_return": 16.33,
         "start_price": 25.65,
         "start_year": 2021
@@ -8562,7 +8247,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 11.03,
         "forward_return": 15.51,
         "start_price": 26.35,
         "start_year": 2021
@@ -8571,7 +8256,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.46,
+        "pe_ratio": 13.57,
         "forward_return": 14.41,
         "start_price": 26.65,
         "start_year": 2021
@@ -8580,7 +8265,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-05-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 16.33,
         "forward_return": 18.07,
         "start_price": 25.1,
         "start_year": 2021
@@ -8589,7 +8274,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-06-15",
-        "pe_ratio": 14.91,
+        "pe_ratio": 23.38,
         "forward_return": 17.88,
         "start_price": 25.95,
         "start_year": 2021
@@ -8598,7 +8283,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-07-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 23.79,
         "forward_return": 18.93,
         "start_price": 25.3,
         "start_year": 2021
@@ -8607,7 +8292,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-08-16",
-        "pe_ratio": 16.83,
+        "pe_ratio": 24.84,
         "forward_return": 16.49,
         "start_price": 25.25,
         "start_year": 2021
@@ -8616,7 +8301,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.25,
+        "pe_ratio": 24.54,
         "forward_return": 18.06,
         "start_price": 23.8,
         "start_year": 2021
@@ -8625,7 +8310,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-10-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 23.31,
         "forward_return": 18.07,
         "start_price": 23.0,
         "start_year": 2021
@@ -8634,7 +8319,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.74,
+        "pe_ratio": 22.43,
         "forward_return": 16.92,
         "start_price": 22.5,
         "start_year": 2021
@@ -8652,7 +8337,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.44,
+        "pe_ratio": 21.31,
         "forward_return": 14.59,
         "start_price": 23.3,
         "start_year": 2022
@@ -8661,7 +8346,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-02-14",
-        "pe_ratio": 19.6,
+        "pe_ratio": 21.17,
         "forward_return": 11.63,
         "start_price": 24.7,
         "start_year": 2022
@@ -8670,7 +8355,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-03-16",
-        "pe_ratio": 18.19,
+        "pe_ratio": 20.24,
         "forward_return": 11.73,
         "start_price": 25.1,
         "start_year": 2022
@@ -8679,7 +8364,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-04-15",
-        "pe_ratio": 18.27,
+        "pe_ratio": 17.87,
         "forward_return": 7.37,
         "start_price": 27.4,
         "start_year": 2022
@@ -8688,7 +8373,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-05-16",
-        "pe_ratio": 16.23,
+        "pe_ratio": 14.4,
         "forward_return": 10.84,
         "start_price": 26.3,
         "start_year": 2022
@@ -8697,7 +8382,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-06-15",
-        "pe_ratio": 18.99,
+        "pe_ratio": 15.59,
         "forward_return": 5.0,
         "start_price": 33.05,
         "start_year": 2022
@@ -8706,7 +8391,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-07-16",
-        "pe_ratio": 16.77,
+        "pe_ratio": 14.4,
         "forward_return": 7.45,
         "start_price": 31.2,
         "start_year": 2022
@@ -8715,7 +8400,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-08-16",
-        "pe_ratio": 19.77,
+        "pe_ratio": 17.69,
         "forward_return": -2.3,
         "start_price": 39.15,
         "start_year": 2022
@@ -8724,7 +8409,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-09-15",
-        "pe_ratio": 16.98,
+        "pe_ratio": 15.77,
         "forward_return": 0.33,
         "start_price": 35.65,
         "start_year": 2022
@@ -8733,7 +8418,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-10-16",
-        "pe_ratio": 14.66,
+        "pe_ratio": 13.99,
         "forward_return": 2.75,
         "start_price": 32.55,
         "start_year": 2022
@@ -8742,7 +8427,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2022-11-15",
-        "pe_ratio": 15.34,
+        "pe_ratio": 15.0,
         "forward_return": -1.89,
         "start_price": 35.9,
         "start_year": 2022
@@ -8760,7 +8445,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-01-16",
-        "pe_ratio": 17.83,
+        "pe_ratio": 17.29,
         "forward_return": -7.1,
         "start_price": 42.6,
         "start_year": 2023
@@ -8769,7 +8454,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "3y",
         "horizon_label": "3年",
         "start_date": "2023-02-14",
-        "pe_ratio": 20.6,
+        "pe_ratio": 19.36,
         "forward_return": -10.61,
         "start_price": 47.75,
         "start_year": 2023
@@ -8778,7 +8463,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-03-16",
-        "pe_ratio": 36.05,
+        "pe_ratio": 24.04,
         "forward_return": 24.63,
         "start_price": 13.7,
         "start_year": 2006
@@ -8787,7 +8472,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-04-15",
-        "pe_ratio": 35.53,
+        "pe_ratio": 25.16,
         "forward_return": 27.93,
         "start_price": 13.5,
         "start_year": 2006
@@ -8796,7 +8481,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-05-16",
-        "pe_ratio": 34.74,
+        "pe_ratio": 26.23,
         "forward_return": 32.52,
         "start_price": 13.2,
         "start_year": 2006
@@ -8805,7 +8490,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-06-15",
-        "pe_ratio": 35.0,
+        "pe_ratio": 28.3,
         "forward_return": 32.47,
         "start_price": 13.3,
         "start_year": 2006
@@ -8814,7 +8499,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-07-16",
-        "pe_ratio": 32.37,
+        "pe_ratio": 30.0,
         "forward_return": 34.59,
         "start_price": 12.3,
         "start_year": 2006
@@ -8823,7 +8508,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-08-16",
-        "pe_ratio": 33.29,
+        "pe_ratio": 36.14,
         "forward_return": 28.61,
         "start_price": 12.65,
         "start_year": 2006
@@ -8832,7 +8517,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-09-15",
-        "pe_ratio": 32.11,
+        "pe_ratio": 42.07,
         "forward_return": 32.19,
         "start_price": 12.2,
         "start_year": 2006
@@ -8841,7 +8526,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-10-16",
-        "pe_ratio": 31.58,
+        "pe_ratio": 37.5,
         "forward_return": 32.7,
         "start_price": 12.0,
         "start_year": 2006
@@ -8850,7 +8535,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2006-11-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.57,
         "forward_return": 30.28,
         "start_price": 12.1,
         "start_year": 2006
@@ -8868,7 +8553,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-01-16",
-        "pe_ratio": 30.06,
+        "pe_ratio": 30.76,
         "forward_return": 33.07,
         "start_price": 12.2,
         "start_year": 2007
@@ -8877,7 +8562,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-02-14",
-        "pe_ratio": 30.12,
+        "pe_ratio": 31.45,
         "forward_return": 28.24,
         "start_price": 13.0,
         "start_year": 2007
@@ -8886,7 +8571,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-03-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 33.26,
         "forward_return": 24.23,
         "start_price": 14.3,
         "start_year": 2007
@@ -8895,7 +8580,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-04-15",
-        "pe_ratio": 31.66,
+        "pe_ratio": 27.49,
         "forward_return": 22.86,
         "start_price": 15.3,
         "start_year": 2007
@@ -8904,7 +8589,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-05-16",
-        "pe_ratio": 35.84,
+        "pe_ratio": 26.71,
         "forward_return": 16.79,
         "start_price": 18.25,
         "start_year": 2007
@@ -8913,7 +8598,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-06-15",
-        "pe_ratio": 64.02,
+        "pe_ratio": 42.28,
         "forward_return": 0.8,
         "start_price": 34.25,
         "start_year": 2007
@@ -8922,7 +8607,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-07-16",
-        "pe_ratio": 101.1,
+        "pe_ratio": 72.08,
         "forward_return": -12.1,
         "start_price": 56.7,
         "start_year": 2007
@@ -8931,7 +8616,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-08-16",
-        "pe_ratio": 56.08,
+        "pe_ratio": 43.1,
         "forward_return": -4.99,
         "start_price": 32.9,
         "start_year": 2007
@@ -8940,7 +8625,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-09-15",
-        "pe_ratio": 73.31,
+        "pe_ratio": 60.68,
         "forward_return": -12.76,
         "start_price": 44.9,
         "start_year": 2007
@@ -8949,7 +8634,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-10-16",
-        "pe_ratio": 62.11,
+        "pe_ratio": 54.82,
         "forward_return": -8.99,
         "start_price": 39.65,
         "start_year": 2007
@@ -8958,7 +8643,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2007-11-15",
-        "pe_ratio": 51.42,
+        "pe_ratio": 48.33,
         "forward_return": -7.78,
         "start_price": 34.15,
         "start_year": 2007
@@ -8976,7 +8661,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-01-16",
-        "pe_ratio": 32.05,
+        "pe_ratio": 30.15,
         "forward_return": 7.87,
         "start_price": 19.5,
         "start_year": 2008
@@ -8985,7 +8670,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-02-15",
-        "pe_ratio": 56.96,
+        "pe_ratio": 49.72,
         "forward_return": 0.46,
         "start_price": 30.0,
         "start_year": 2008
@@ -8994,7 +8679,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-03-16",
-        "pe_ratio": 71.46,
+        "pe_ratio": 56.79,
         "forward_return": -0.55,
         "start_price": 31.8,
         "start_year": 2008
@@ -9003,7 +8688,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-04-15",
-        "pe_ratio": 105.0,
+        "pe_ratio": 91.56,
         "forward_return": -4.63,
         "start_price": 38.15,
         "start_year": 2008
@@ -9012,7 +8697,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-05-16",
-        "pe_ratio": 111.8,
+        "pe_ratio": 115.2,
         "forward_return": -1.0,
         "start_price": 31.5,
         "start_year": 2008
@@ -9021,7 +8706,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-06-15",
-        "pe_ratio": 114.5,
+        "pe_ratio": 176.2,
         "forward_return": 6.31,
         "start_price": 22.9,
         "start_year": 2008
@@ -9030,7 +8715,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-07-16",
-        "pe_ratio": 205.4,
+        "pe_ratio": 202.5,
         "forward_return": 4.66,
         "start_price": 24.3,
         "start_year": 2008
@@ -9039,7 +8724,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2008-08-16",
-        "pe_ratio": 621.8,
+        "pe_ratio": 207.3,
         "forward_return": 7.24,
         "start_price": 22.8,
         "start_year": 2008
@@ -9047,8 +8732,35 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "4y",
         "horizon_label": "4年",
+        "start_date": "2008-09-15",
+        "pe_ratio": 155.0,
+        "forward_return": 19.12,
+        "start_price": 15.5,
+        "start_year": 2008
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2010-05-16",
+        "pe_ratio": 136.2,
+        "forward_return": 2.68,
+        "start_price": 39.95,
+        "start_year": 2010
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
+        "start_date": "2010-06-15",
+        "pe_ratio": 67.0,
+        "forward_return": 8.11,
+        "start_price": 40.2,
+        "start_year": 2010
+      },
+      {
+        "horizon": "4y",
+        "horizon_label": "4年",
         "start_date": "2010-07-16",
-        "pe_ratio": 3200.0,
+        "pe_ratio": 68.57,
         "forward_return": 6.98,
         "start_price": 40.0,
         "start_year": 2010
@@ -9057,7 +8769,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-08-16",
-        "pe_ratio": 380.6,
+        "pe_ratio": 60.44,
         "forward_return": 7.59,
         "start_price": 34.25,
         "start_year": 2010
@@ -9066,7 +8778,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-09-15",
-        "pe_ratio": 220.3,
+        "pe_ratio": 67.09,
         "forward_return": 6.49,
         "start_price": 36.9,
         "start_year": 2010
@@ -9075,7 +8787,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-10-16",
-        "pe_ratio": 150.4,
+        "pe_ratio": 73.7,
         "forward_return": 2.76,
         "start_price": 36.85,
         "start_year": 2010
@@ -9084,7 +8796,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2010-11-15",
-        "pe_ratio": 107.0,
+        "pe_ratio": 76.67,
         "forward_return": 2.64,
         "start_price": 34.5,
         "start_year": 2010
@@ -9102,7 +8814,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-01-16",
-        "pe_ratio": 110.1,
+        "pe_ratio": 133.8,
         "forward_return": 1.92,
         "start_price": 37.9,
         "start_year": 2011
@@ -9111,7 +8823,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-02-14",
-        "pe_ratio": 120.7,
+        "pe_ratio": 208.8,
         "forward_return": 4.75,
         "start_price": 34.8,
         "start_year": 2011
@@ -9120,7 +8832,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 674.0,
         "forward_return": 5.91,
         "start_price": 33.7,
         "start_year": 2011
@@ -9129,7 +8841,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2011-04-15",
-        "pe_ratio": 195.3,
+        "pe_ratio": 10350.0,
         "forward_return": 4.15,
         "start_price": 34.5,
         "start_year": 2011
@@ -9137,35 +8849,26 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2011-05-16",
-        "pe_ratio": 278.1,
-        "forward_return": 3.12,
-        "start_price": 33.6,
-        "start_year": 2011
+        "start_date": "2012-01-16",
+        "pe_ratio": 200.8,
+        "forward_return": 6.55,
+        "start_price": 26.1,
+        "start_year": 2012
       },
       {
         "horizon": "4y",
         "horizon_label": "4年",
-        "start_date": "2011-06-15",
-        "pe_ratio": 538.5,
-        "forward_return": -1.28,
-        "start_price": 35.0,
-        "start_year": 2011
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2011-07-16",
-        "pe_ratio": 3660.0,
-        "forward_return": -0.16,
-        "start_price": 33.55,
-        "start_year": 2011
+        "start_date": "2012-02-15",
+        "pe_ratio": 57.08,
+        "forward_return": 2.65,
+        "start_price": 30.25,
+        "start_year": 2012
       },
       {
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-03-16",
-        "pe_ratio": 368.0,
+        "pe_ratio": 33.12,
         "forward_return": 3.46,
         "start_price": 30.8,
         "start_year": 2012
@@ -9174,7 +8877,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-04-15",
-        "pe_ratio": 155.0,
+        "pe_ratio": 39.06,
         "forward_return": 4.24,
         "start_price": 31.25,
         "start_year": 2012
@@ -9183,7 +8886,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-05-16",
-        "pe_ratio": 93.74,
+        "pe_ratio": 44.7,
         "forward_return": 5.42,
         "start_price": 29.95,
         "start_year": 2012
@@ -9192,7 +8895,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-06-15",
-        "pe_ratio": 66.19,
+        "pe_ratio": 53.61,
         "forward_return": 4.25,
         "start_price": 28.95,
         "start_year": 2012
@@ -9201,7 +8904,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-07-16",
-        "pe_ratio": 52.14,
+        "pe_ratio": 43.0,
         "forward_return": 5.24,
         "start_price": 28.95,
         "start_year": 2012
@@ -9210,7 +8913,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-08-16",
-        "pe_ratio": 44.49,
+        "pe_ratio": 37.13,
         "forward_return": 2.15,
         "start_price": 29.95,
         "start_year": 2012
@@ -9219,7 +8922,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-09-15",
-        "pe_ratio": 39.19,
+        "pe_ratio": 32.98,
         "forward_return": 0.77,
         "start_price": 31.0,
         "start_year": 2012
@@ -9228,7 +8931,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-10-16",
-        "pe_ratio": 32.45,
+        "pe_ratio": 29.26,
         "forward_return": 1.38,
         "start_price": 29.5,
         "start_year": 2012
@@ -9237,7 +8940,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2012-11-15",
-        "pe_ratio": 29.99,
+        "pe_ratio": 28.61,
         "forward_return": -0.44,
         "start_price": 30.8,
         "start_year": 2012
@@ -9255,7 +8958,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-01-16",
-        "pe_ratio": 36.97,
+        "pe_ratio": 50.59,
         "forward_return": -6.74,
         "start_price": 40.8,
         "start_year": 2013
@@ -9264,7 +8967,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-02-14",
-        "pe_ratio": 42.74,
+        "pe_ratio": 96.95,
         "forward_return": -7.72,
         "start_price": 45.4,
         "start_year": 2013
@@ -9273,7 +8976,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-03-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 321.5,
         "forward_return": -4.95,
         "start_price": 41.8,
         "start_year": 2013
@@ -9282,7 +8985,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-04-15",
-        "pe_ratio": 35.31,
+        "pe_ratio": 122.1,
         "forward_return": -1.88,
         "start_price": 34.6,
         "start_year": 2013
@@ -9291,7 +8994,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-05-16",
-        "pe_ratio": 37.29,
+        "pe_ratio": 80.15,
         "forward_return": -3.41,
         "start_price": 35.0,
         "start_year": 2013
@@ -9300,7 +9003,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-06-15",
-        "pe_ratio": 38.78,
+        "pe_ratio": 58.98,
         "forward_return": -3.79,
         "start_price": 34.8,
         "start_year": 2013
@@ -9309,7 +9012,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-07-16",
-        "pe_ratio": 47.07,
+        "pe_ratio": 70.7,
         "forward_return": -6.08,
         "start_price": 40.3,
         "start_year": 2013
@@ -9318,7 +9021,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-08-16",
-        "pe_ratio": 49.51,
+        "pe_ratio": 73.36,
         "forward_return": -8.44,
         "start_price": 40.35,
         "start_year": 2013
@@ -9327,7 +9030,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-09-15",
-        "pe_ratio": 55.64,
+        "pe_ratio": 81.23,
         "forward_return": -10.63,
         "start_price": 43.05,
         "start_year": 2013
@@ -9336,7 +9039,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-10-16",
-        "pe_ratio": 59.25,
+        "pe_ratio": 76.14,
         "forward_return": -11.1,
         "start_price": 43.4,
         "start_year": 2013
@@ -9345,7 +9048,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2013-11-15",
-        "pe_ratio": 56.57,
+        "pe_ratio": 64.1,
         "forward_return": -8.83,
         "start_price": 39.1,
         "start_year": 2013
@@ -9363,7 +9066,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-01-16",
-        "pe_ratio": 58.37,
+        "pe_ratio": 54.47,
         "forward_return": -8.46,
         "start_price": 39.4,
         "start_year": 2014
@@ -9372,7 +9075,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-02-14",
-        "pe_ratio": 61.93,
+        "pe_ratio": 54.41,
         "forward_return": -10.26,
         "start_price": 43.35,
         "start_year": 2014
@@ -9381,7 +9084,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-03-16",
-        "pe_ratio": 54.62,
+        "pe_ratio": 45.52,
         "forward_return": -6.08,
         "start_price": 39.6,
         "start_year": 2014
@@ -9390,7 +9093,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-04-15",
-        "pe_ratio": 52.93,
+        "pe_ratio": 43.15,
         "forward_return": -6.14,
         "start_price": 39.7,
         "start_year": 2014
@@ -9399,7 +9102,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-05-16",
-        "pe_ratio": 56.77,
+        "pe_ratio": 45.36,
         "forward_return": -6.44,
         "start_price": 44.0,
         "start_year": 2014
@@ -9408,7 +9111,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-06-15",
-        "pe_ratio": 68.12,
+        "pe_ratio": 53.43,
         "forward_return": -11.75,
         "start_price": 54.5,
         "start_year": 2014
@@ -9417,7 +9120,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-07-16",
-        "pe_ratio": 62.79,
+        "pe_ratio": 49.97,
         "forward_return": -9.74,
         "start_price": 51.8,
         "start_year": 2014
@@ -9426,7 +9129,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-08-16",
-        "pe_ratio": 53.29,
+        "pe_ratio": 43.01,
         "forward_return": -10.34,
         "start_price": 45.3,
         "start_year": 2014
@@ -9435,7 +9138,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-09-15",
-        "pe_ratio": 53.54,
+        "pe_ratio": 43.79,
         "forward_return": -11.78,
         "start_price": 46.85,
         "start_year": 2014
@@ -9444,7 +9147,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-10-16",
-        "pe_ratio": 45.0,
+        "pe_ratio": 39.32,
         "forward_return": -10.73,
         "start_price": 40.5,
         "start_year": 2014
@@ -9453,7 +9156,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2014-11-15",
-        "pe_ratio": 40.76,
+        "pe_ratio": 38.08,
         "forward_return": -7.27,
         "start_price": 37.7,
         "start_year": 2014
@@ -9471,7 +9174,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-01-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 44.78,
         "forward_return": -8.4,
         "start_price": 40.3,
         "start_year": 2015
@@ -9480,7 +9183,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-02-14",
-        "pe_ratio": 49.56,
+        "pe_ratio": 48.59,
         "forward_return": -8.13,
         "start_price": 41.3,
         "start_year": 2015
@@ -9489,7 +9192,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 52.25,
         "forward_return": -8.21,
         "start_price": 41.8,
         "start_year": 2015
@@ -9498,7 +9201,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-04-15",
-        "pe_ratio": 55.81,
+        "pe_ratio": 54.79,
         "forward_return": -6.73,
         "start_price": 40.0,
         "start_year": 2015
@@ -9507,7 +9210,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-05-16",
-        "pe_ratio": 56.81,
+        "pe_ratio": 56.67,
         "forward_return": -5.15,
         "start_price": 37.4,
         "start_year": 2015
@@ -9516,7 +9219,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-06-15",
-        "pe_ratio": 54.42,
+        "pe_ratio": 55.34,
         "forward_return": -1.31,
         "start_price": 32.65,
         "start_year": 2015
@@ -9525,7 +9228,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-07-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 60.46,
         "forward_return": -5.47,
         "start_price": 32.65,
         "start_year": 2015
@@ -9534,7 +9237,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-08-16",
-        "pe_ratio": 55.45,
+        "pe_ratio": 54.69,
         "forward_return": -0.83,
         "start_price": 26.8,
         "start_year": 2015
@@ -9543,7 +9246,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-09-15",
-        "pe_ratio": 72.71,
+        "pe_ratio": 70.23,
         "forward_return": -3.93,
         "start_price": 30.9,
         "start_year": 2015
@@ -9552,7 +9255,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-10-16",
-        "pe_ratio": 96.0,
+        "pe_ratio": 93.45,
         "forward_return": -8.22,
         "start_price": 35.2,
         "start_year": 2015
@@ -9561,7 +9264,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2015-11-15",
-        "pe_ratio": 116.0,
+        "pe_ratio": 114.1,
         "forward_return": -8.04,
         "start_price": 35.75,
         "start_year": 2015
@@ -9579,7 +9282,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-01-16",
-        "pe_ratio": 102.7,
+        "pe_ratio": 51.48,
         "forward_return": -6.14,
         "start_price": 32.95,
         "start_year": 2016
@@ -9588,7 +9291,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-02-15",
-        "pe_ratio": 83.96,
+        "pe_ratio": 31.94,
         "forward_return": -8.05,
         "start_price": 32.9,
         "start_year": 2016
@@ -9597,7 +9300,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-03-16",
-        "pe_ratio": 74.76,
+        "pe_ratio": 24.37,
         "forward_return": -13.39,
         "start_price": 34.6,
         "start_year": 2016
@@ -9606,7 +9309,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-04-15",
-        "pe_ratio": 67.83,
+        "pe_ratio": 25.55,
         "forward_return": -10.12,
         "start_price": 36.2,
         "start_year": 2016
@@ -9615,7 +9318,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-05-16",
-        "pe_ratio": 60.03,
+        "pe_ratio": 25.68,
         "forward_return": -9.16,
         "start_price": 36.3,
         "start_year": 2016
@@ -9624,7 +9327,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-06-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 23.76,
         "forward_return": -4.67,
         "start_price": 33.5,
         "start_year": 2016
@@ -9633,7 +9336,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-07-16",
-        "pe_ratio": 46.55,
+        "pe_ratio": 26.06,
         "forward_return": -8.2,
         "start_price": 34.75,
         "start_year": 2016
@@ -9642,7 +9345,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-08-16",
-        "pe_ratio": 38.96,
+        "pe_ratio": 25.34,
         "forward_return": -3.62,
         "start_price": 31.85,
         "start_year": 2016
@@ -9651,7 +9354,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-09-15",
-        "pe_ratio": 35.12,
+        "pe_ratio": 26.44,
         "forward_return": -4.52,
         "start_price": 31.2,
         "start_year": 2016
@@ -9660,7 +9363,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-10-16",
-        "pe_ratio": 31.69,
+        "pe_ratio": 26.35,
         "forward_return": -4.74,
         "start_price": 30.4,
         "start_year": 2016
@@ -9669,7 +9372,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.63,
+        "pe_ratio": 26.17,
         "forward_return": -2.8,
         "start_price": 29.5,
         "start_year": 2016
@@ -9687,7 +9390,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.75,
+        "pe_ratio": 41.0,
         "forward_return": -4.84,
         "start_price": 30.1,
         "start_year": 2017
@@ -9696,90 +9399,9 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2017-02-14",
-        "pe_ratio": 34.85,
+        "pe_ratio": 87.59,
         "forward_return": -4.78,
         "start_price": 32.15,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-03-16",
-        "pe_ratio": 40.02,
-        "forward_return": -5.03,
-        "start_price": 33.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-04-15",
-        "pe_ratio": 42.06,
-        "forward_return": -3.24,
-        "start_price": 31.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-05-16",
-        "pe_ratio": 45.35,
-        "forward_return": -3.38,
-        "start_price": 29.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-06-15",
-        "pe_ratio": 51.36,
-        "forward_return": -2.06,
-        "start_price": 29.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-07-16",
-        "pe_ratio": 64.24,
-        "forward_return": -3.82,
-        "start_price": 30.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-08-16",
-        "pe_ratio": 71.31,
-        "forward_return": -1.35,
-        "start_price": 27.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-09-15",
-        "pe_ratio": 89.66,
-        "forward_return": -1.94,
-        "start_price": 26.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-10-16",
-        "pe_ratio": 126.4,
-        "forward_return": -2.43,
-        "start_price": 26.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "4y",
-        "horizon_label": "4年",
-        "start_date": "2017-11-15",
-        "pe_ratio": 220.1,
-        "forward_return": -2.85,
-        "start_price": 26.25,
         "start_year": 2017
       },
       {
@@ -9795,7 +9417,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 36.85,
         "forward_return": -2.62,
         "start_price": 26.9,
         "start_year": 2018
@@ -9804,7 +9426,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-02-14",
-        "pe_ratio": 69.53,
+        "pe_ratio": 19.13,
         "forward_return": -1.65,
         "start_price": 27.35,
         "start_year": 2018
@@ -9813,7 +9435,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-03-16",
-        "pe_ratio": 52.26,
+        "pe_ratio": 14.11,
         "forward_return": -3.57,
         "start_price": 30.05,
         "start_year": 2018
@@ -9822,7 +9444,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-04-15",
-        "pe_ratio": 39.71,
+        "pe_ratio": 13.76,
         "forward_return": -1.5,
         "start_price": 30.05,
         "start_year": 2018
@@ -9831,7 +9453,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.12,
+        "pe_ratio": 14.73,
         "forward_return": -4.69,
         "start_price": 32.95,
         "start_year": 2018
@@ -9840,7 +9462,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-06-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 14.1,
         "forward_return": 1.24,
         "start_price": 32.3,
         "start_year": 2018
@@ -9849,7 +9471,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-07-16",
-        "pe_ratio": 25.81,
+        "pe_ratio": 14.85,
         "forward_return": -0.91,
         "start_price": 33.6,
         "start_year": 2018
@@ -9858,7 +9480,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 12.74,
         "forward_return": 9.08,
         "start_price": 28.5,
         "start_year": 2018
@@ -9867,7 +9489,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.58,
+        "pe_ratio": 12.49,
         "forward_return": 7.49,
         "start_price": 27.6,
         "start_year": 2018
@@ -9876,7 +9498,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 11.29,
         "forward_return": 7.84,
         "start_price": 24.95,
         "start_year": 2018
@@ -9885,7 +9507,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2018-11-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.26,
         "forward_return": 8.16,
         "start_price": 27.1,
         "start_year": 2018
@@ -9903,7 +9525,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 17.21,
         "forward_return": 12.23,
         "start_price": 27.6,
         "start_year": 2019
@@ -9912,7 +9534,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.27,
+        "pe_ratio": 28.75,
         "forward_return": 14.32,
         "start_price": 28.65,
         "start_year": 2019
@@ -9921,7 +9543,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-03-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 74.1,
         "forward_return": 12.89,
         "start_price": 28.9,
         "start_year": 2019
@@ -9930,7 +9552,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.11,
+        "pe_ratio": 81.19,
         "forward_return": 13.52,
         "start_price": 29.5,
         "start_year": 2019
@@ -9939,7 +9561,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-05-16",
-        "pe_ratio": 21.43,
+        "pe_ratio": 87.62,
         "forward_return": 11.53,
         "start_price": 29.5,
         "start_year": 2019
@@ -9948,7 +9570,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-06-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 97.42,
         "forward_return": 10.57,
         "start_price": 30.2,
         "start_year": 2019
@@ -9957,7 +9579,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.25,
+        "pe_ratio": 93.7,
         "forward_return": 15.39,
         "start_price": 25.3,
         "start_year": 2019
@@ -9966,7 +9588,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-08-16",
-        "pe_ratio": 28.69,
+        "pe_ratio": 109.3,
         "forward_return": 11.01,
         "start_price": 25.15,
         "start_year": 2019
@@ -9975,7 +9597,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-09-15",
-        "pe_ratio": 35.99,
+        "pe_ratio": 134.5,
         "forward_return": 11.51,
         "start_price": 25.55,
         "start_year": 2019
@@ -9984,7 +9606,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-10-16",
-        "pe_ratio": 44.54,
+        "pe_ratio": 123.1,
         "forward_return": 12.74,
         "start_price": 24.2,
         "start_year": 2019
@@ -9993,7 +9615,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2019-11-15",
-        "pe_ratio": 65.84,
+        "pe_ratio": 122.0,
         "forward_return": 13.91,
         "start_price": 24.8,
         "start_year": 2019
@@ -10011,7 +9633,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-01-16",
-        "pe_ratio": 62.39,
+        "pe_ratio": 89.64,
         "forward_return": 12.06,
         "start_price": 24.8,
         "start_year": 2020
@@ -10020,7 +9642,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-02-15",
-        "pe_ratio": 38.89,
+        "pe_ratio": 66.26,
         "forward_return": 15.55,
         "start_price": 22.75,
         "start_year": 2020
@@ -10029,7 +9651,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.21,
+        "pe_ratio": 45.61,
         "forward_return": 21.54,
         "start_price": 18.7,
         "start_year": 2020
@@ -10038,7 +9660,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-04-15",
-        "pe_ratio": 23.8,
+        "pe_ratio": 23.72,
         "forward_return": 15.1,
         "start_price": 22.85,
         "start_year": 2020
@@ -10047,7 +9669,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-05-16",
-        "pe_ratio": 20.87,
+        "pe_ratio": 15.79,
         "forward_return": 14.73,
         "start_price": 23.95,
         "start_year": 2020
@@ -10056,7 +9678,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-06-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 13.0,
         "forward_return": 12.25,
         "start_price": 26.9,
         "start_year": 2020
@@ -10065,7 +9687,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.7,
+        "pe_ratio": 11.19,
         "forward_return": 15.73,
         "start_price": 23.9,
         "start_year": 2020
@@ -10074,7 +9696,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.61,
+        "pe_ratio": 12.12,
         "forward_return": 10.78,
         "start_price": 26.7,
         "start_year": 2020
@@ -10083,7 +9705,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-09-15",
-        "pe_ratio": 13.25,
+        "pe_ratio": 11.08,
         "forward_return": 11.92,
         "start_price": 25.15,
         "start_year": 2020
@@ -10092,7 +9714,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.39,
         "forward_return": 12.01,
         "start_price": 24.25,
         "start_year": 2020
@@ -10101,7 +9723,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.24,
+        "pe_ratio": 10.66,
         "forward_return": 9.15,
         "start_price": 25.55,
         "start_year": 2020
@@ -10119,7 +9741,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.21,
+        "pe_ratio": 9.81,
         "forward_return": 10.29,
         "start_price": 23.9,
         "start_year": 2021
@@ -10128,7 +9750,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.55,
+        "pe_ratio": 10.63,
         "forward_return": 7.82,
         "start_price": 25.65,
         "start_year": 2021
@@ -10137,7 +9759,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-03-16",
-        "pe_ratio": 12.55,
+        "pe_ratio": 11.03,
         "forward_return": 7.6,
         "start_price": 26.35,
         "start_year": 2021
@@ -10146,7 +9768,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-04-15",
-        "pe_ratio": 13.46,
+        "pe_ratio": 13.57,
         "forward_return": 6.45,
         "start_price": 26.65,
         "start_year": 2021
@@ -10155,7 +9777,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-05-16",
-        "pe_ratio": 13.49,
+        "pe_ratio": 16.33,
         "forward_return": 9.52,
         "start_price": 25.1,
         "start_year": 2021
@@ -10164,7 +9786,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-06-15",
-        "pe_ratio": 14.91,
+        "pe_ratio": 23.38,
         "forward_return": 10.41,
         "start_price": 25.95,
         "start_year": 2021
@@ -10173,7 +9795,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-07-16",
-        "pe_ratio": 15.62,
+        "pe_ratio": 23.79,
         "forward_return": 11.58,
         "start_price": 25.3,
         "start_year": 2021
@@ -10182,7 +9804,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-08-16",
-        "pe_ratio": 16.83,
+        "pe_ratio": 24.84,
         "forward_return": 10.03,
         "start_price": 25.25,
         "start_year": 2021
@@ -10191,7 +9813,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-09-15",
-        "pe_ratio": 17.25,
+        "pe_ratio": 24.54,
         "forward_return": 11.29,
         "start_price": 23.8,
         "start_year": 2021
@@ -10200,7 +9822,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-10-16",
-        "pe_ratio": 18.25,
+        "pe_ratio": 23.31,
         "forward_return": 11.71,
         "start_price": 23.0,
         "start_year": 2021
@@ -10209,7 +9831,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2021-11-15",
-        "pe_ratio": 19.74,
+        "pe_ratio": 22.43,
         "forward_return": 11.21,
         "start_price": 22.5,
         "start_year": 2021
@@ -10227,7 +9849,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-01-16",
-        "pe_ratio": 20.44,
+        "pe_ratio": 21.31,
         "forward_return": 10.44,
         "start_price": 23.3,
         "start_year": 2022
@@ -10236,7 +9858,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "4y",
         "horizon_label": "4年",
         "start_date": "2022-02-14",
-        "pe_ratio": 19.6,
+        "pe_ratio": 21.17,
         "forward_return": 8.8,
         "start_price": 24.7,
         "start_year": 2022
@@ -10245,7 +9867,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-03-16",
-        "pe_ratio": 36.05,
+        "pe_ratio": 24.04,
         "forward_return": 20.26,
         "start_price": 13.7,
         "start_year": 2006
@@ -10254,7 +9876,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-04-15",
-        "pe_ratio": 35.53,
+        "pe_ratio": 25.16,
         "forward_return": 21.17,
         "start_price": 13.5,
         "start_year": 2006
@@ -10263,7 +9885,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-05-16",
-        "pe_ratio": 34.74,
+        "pe_ratio": 26.23,
         "forward_return": 21.09,
         "start_price": 13.2,
         "start_year": 2006
@@ -10272,7 +9894,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-06-15",
-        "pe_ratio": 35.0,
+        "pe_ratio": 28.3,
         "forward_return": 21.88,
         "start_price": 13.3,
         "start_year": 2006
@@ -10281,7 +9903,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-07-16",
-        "pe_ratio": 32.37,
+        "pe_ratio": 30.0,
         "forward_return": 22.56,
         "start_price": 12.3,
         "start_year": 2006
@@ -10290,7 +9912,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-08-16",
-        "pe_ratio": 33.29,
+        "pe_ratio": 36.14,
         "forward_return": 16.34,
         "start_price": 12.65,
         "start_year": 2006
@@ -10299,7 +9921,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-09-15",
-        "pe_ratio": 32.11,
+        "pe_ratio": 42.07,
         "forward_return": 16.49,
         "start_price": 12.2,
         "start_year": 2006
@@ -10308,7 +9930,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-10-16",
-        "pe_ratio": 31.58,
+        "pe_ratio": 37.5,
         "forward_return": 17.93,
         "start_price": 12.0,
         "start_year": 2006
@@ -10317,7 +9939,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2006-11-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.57,
         "forward_return": 15.49,
         "start_price": 12.1,
         "start_year": 2006
@@ -10335,7 +9957,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-01-16",
-        "pe_ratio": 30.06,
+        "pe_ratio": 30.76,
         "forward_return": 16.84,
         "start_price": 12.2,
         "start_year": 2007
@@ -10344,7 +9966,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-02-14",
-        "pe_ratio": 30.12,
+        "pe_ratio": 31.45,
         "forward_return": 18.76,
         "start_price": 13.0,
         "start_year": 2007
@@ -10353,7 +9975,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-03-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 33.26,
         "forward_return": 16.93,
         "start_price": 14.3,
         "start_year": 2007
@@ -10362,7 +9984,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-04-15",
-        "pe_ratio": 31.66,
+        "pe_ratio": 27.49,
         "forward_return": 15.69,
         "start_price": 15.3,
         "start_year": 2007
@@ -10371,7 +9993,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-05-16",
-        "pe_ratio": 35.84,
+        "pe_ratio": 26.71,
         "forward_return": 10.75,
         "start_price": 18.25,
         "start_year": 2007
@@ -10380,7 +10002,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-06-15",
-        "pe_ratio": 64.02,
+        "pe_ratio": 42.28,
         "forward_return": -3.0,
         "start_price": 34.25,
         "start_year": 2007
@@ -10389,7 +10011,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-07-16",
-        "pe_ratio": 101.1,
+        "pe_ratio": 72.08,
         "forward_return": -12.33,
         "start_price": 56.7,
         "start_year": 2007
@@ -10398,7 +10020,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-08-16",
-        "pe_ratio": 56.08,
+        "pe_ratio": 43.1,
         "forward_return": -1.6,
         "start_price": 32.9,
         "start_year": 2007
@@ -10407,7 +10029,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-09-15",
-        "pe_ratio": 73.31,
+        "pe_ratio": 60.68,
         "forward_return": -6.9,
         "start_price": 44.9,
         "start_year": 2007
@@ -10416,7 +10038,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-10-16",
-        "pe_ratio": 62.11,
+        "pe_ratio": 54.82,
         "forward_return": -5.48,
         "start_price": 39.65,
         "start_year": 2007
@@ -10425,7 +10047,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2007-11-15",
-        "pe_ratio": 51.42,
+        "pe_ratio": 48.33,
         "forward_return": -1.79,
         "start_price": 34.15,
         "start_year": 2007
@@ -10443,7 +10065,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-01-16",
-        "pe_ratio": 32.05,
+        "pe_ratio": 30.15,
         "forward_return": 16.13,
         "start_price": 19.5,
         "start_year": 2008
@@ -10452,7 +10074,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-02-15",
-        "pe_ratio": 56.96,
+        "pe_ratio": 49.72,
         "forward_return": 6.95,
         "start_price": 30.0,
         "start_year": 2008
@@ -10461,7 +10083,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-03-16",
-        "pe_ratio": 71.46,
+        "pe_ratio": 56.79,
         "forward_return": 5.83,
         "start_price": 31.8,
         "start_year": 2008
@@ -10470,7 +10092,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-04-15",
-        "pe_ratio": 105.0,
+        "pe_ratio": 91.56,
         "forward_return": -1.71,
         "start_price": 38.15,
         "start_year": 2008
@@ -10479,7 +10101,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-05-16",
-        "pe_ratio": 111.8,
+        "pe_ratio": 115.2,
         "forward_return": 2.37,
         "start_price": 31.5,
         "start_year": 2008
@@ -10488,7 +10110,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-06-15",
-        "pe_ratio": 114.5,
+        "pe_ratio": 176.2,
         "forward_return": 8.98,
         "start_price": 22.9,
         "start_year": 2008
@@ -10497,7 +10119,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-07-16",
-        "pe_ratio": 205.4,
+        "pe_ratio": 202.5,
         "forward_return": 10.87,
         "start_price": 24.3,
         "start_year": 2008
@@ -10506,7 +10128,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2008-08-16",
-        "pe_ratio": 621.8,
+        "pe_ratio": 207.3,
         "forward_return": 12.32,
         "start_price": 22.8,
         "start_year": 2008
@@ -10514,8 +10136,35 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "5y",
         "horizon_label": "5年",
+        "start_date": "2008-09-15",
+        "pe_ratio": 155.0,
+        "forward_return": 22.9,
+        "start_price": 15.5,
+        "start_year": 2008
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2010-05-16",
+        "pe_ratio": 136.2,
+        "forward_return": -1.0,
+        "start_price": 39.95,
+        "start_year": 2010
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
+        "start_date": "2010-06-15",
+        "pe_ratio": 67.0,
+        "forward_return": -3.73,
+        "start_price": 40.2,
+        "start_year": 2010
+      },
+      {
+        "horizon": "5y",
+        "horizon_label": "5年",
         "start_date": "2010-07-16",
-        "pe_ratio": 3200.0,
+        "pe_ratio": 68.57,
         "forward_return": -3.52,
         "start_price": 40.0,
         "start_year": 2010
@@ -10524,7 +10173,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-08-16",
-        "pe_ratio": 380.6,
+        "pe_ratio": 60.44,
         "forward_return": -4.23,
         "start_price": 34.25,
         "start_year": 2010
@@ -10533,7 +10182,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-09-15",
-        "pe_ratio": 220.3,
+        "pe_ratio": 67.09,
         "forward_return": -2.99,
         "start_price": 36.9,
         "start_year": 2010
@@ -10542,7 +10191,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-10-16",
-        "pe_ratio": 150.4,
+        "pe_ratio": 73.7,
         "forward_return": -0.47,
         "start_price": 36.85,
         "start_year": 2010
@@ -10551,7 +10200,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2010-11-15",
-        "pe_ratio": 107.0,
+        "pe_ratio": 76.67,
         "forward_return": 1.16,
         "start_price": 34.5,
         "start_year": 2010
@@ -10569,7 +10218,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-01-16",
-        "pe_ratio": 110.1,
+        "pe_ratio": 133.8,
         "forward_return": -2.29,
         "start_price": 37.9,
         "start_year": 2011
@@ -10578,7 +10227,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-02-14",
-        "pe_ratio": 120.7,
+        "pe_ratio": 208.8,
         "forward_return": -0.64,
         "start_price": 34.8,
         "start_year": 2011
@@ -10587,7 +10236,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 674.0,
         "forward_return": 0.99,
         "start_price": 33.7,
         "start_year": 2011
@@ -10596,7 +10245,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2011-04-15",
-        "pe_ratio": 195.3,
+        "pe_ratio": 10350.0,
         "forward_return": 1.41,
         "start_price": 34.5,
         "start_year": 2011
@@ -10604,35 +10253,26 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2011-05-16",
-        "pe_ratio": 278.1,
-        "forward_return": 2.0,
-        "start_price": 33.6,
-        "start_year": 2011
+        "start_date": "2012-01-16",
+        "pe_ratio": 200.8,
+        "forward_return": 3.48,
+        "start_price": 26.1,
+        "start_year": 2012
       },
       {
         "horizon": "5y",
         "horizon_label": "5年",
-        "start_date": "2011-06-15",
-        "pe_ratio": 538.5,
-        "forward_return": -0.4,
-        "start_price": 35.0,
-        "start_year": 2011
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2011-07-16",
-        "pe_ratio": 3660.0,
-        "forward_return": 1.2,
-        "start_price": 33.55,
-        "start_year": 2011
+        "start_date": "2012-02-15",
+        "pe_ratio": 57.08,
+        "forward_return": 2.45,
+        "start_price": 30.25,
+        "start_year": 2012
       },
       {
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-03-16",
-        "pe_ratio": 368.0,
+        "pe_ratio": 33.12,
         "forward_return": 2.13,
         "start_price": 30.8,
         "start_year": 2012
@@ -10641,7 +10281,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-04-15",
-        "pe_ratio": 155.0,
+        "pe_ratio": 39.06,
         "forward_return": 0.58,
         "start_price": 31.25,
         "start_year": 2012
@@ -10650,7 +10290,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-05-16",
-        "pe_ratio": 93.74,
+        "pe_ratio": 44.7,
         "forward_return": 0.41,
         "start_price": 29.95,
         "start_year": 2012
@@ -10659,7 +10299,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-06-15",
-        "pe_ratio": 66.19,
+        "pe_ratio": 53.61,
         "forward_return": 0.66,
         "start_price": 28.95,
         "start_year": 2012
@@ -10668,7 +10308,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-07-16",
-        "pe_ratio": 52.14,
+        "pe_ratio": 43.0,
         "forward_return": 1.74,
         "start_price": 28.95,
         "start_year": 2012
@@ -10677,7 +10317,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-08-16",
-        "pe_ratio": 44.49,
+        "pe_ratio": 37.13,
         "forward_return": -0.94,
         "start_price": 29.95,
         "start_year": 2012
@@ -10686,7 +10326,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-09-15",
-        "pe_ratio": 39.19,
+        "pe_ratio": 32.98,
         "forward_return": -2.25,
         "start_price": 31.0,
         "start_year": 2012
@@ -10695,7 +10335,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-10-16",
-        "pe_ratio": 32.45,
+        "pe_ratio": 29.26,
         "forward_return": -1.53,
         "start_price": 29.5,
         "start_year": 2012
@@ -10704,7 +10344,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2012-11-15",
-        "pe_ratio": 29.99,
+        "pe_ratio": 28.61,
         "forward_return": -2.44,
         "start_price": 30.8,
         "start_year": 2012
@@ -10722,7 +10362,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-01-16",
-        "pe_ratio": 36.97,
+        "pe_ratio": 50.59,
         "forward_return": -7.34,
         "start_price": 40.8,
         "start_year": 2013
@@ -10731,7 +10371,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-02-14",
-        "pe_ratio": 42.74,
+        "pe_ratio": 96.95,
         "forward_return": -9.01,
         "start_price": 45.4,
         "start_year": 2013
@@ -10740,7 +10380,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-03-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 321.5,
         "forward_return": -5.79,
         "start_price": 41.8,
         "start_year": 2013
@@ -10749,7 +10389,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-04-15",
-        "pe_ratio": 35.31,
+        "pe_ratio": 122.1,
         "forward_return": -2.16,
         "start_price": 34.6,
         "start_year": 2013
@@ -10758,7 +10398,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-05-16",
-        "pe_ratio": 37.29,
+        "pe_ratio": 80.15,
         "forward_return": -0.63,
         "start_price": 35.0,
         "start_year": 2013
@@ -10767,7 +10407,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-06-15",
-        "pe_ratio": 38.78,
+        "pe_ratio": 58.98,
         "forward_return": -0.9,
         "start_price": 34.8,
         "start_year": 2013
@@ -10776,7 +10416,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-07-16",
-        "pe_ratio": 47.07,
+        "pe_ratio": 70.7,
         "forward_return": -3.03,
         "start_price": 40.3,
         "start_year": 2013
@@ -10785,7 +10425,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-08-16",
-        "pe_ratio": 49.51,
+        "pe_ratio": 73.36,
         "forward_return": -6.1,
         "start_price": 40.35,
         "start_year": 2013
@@ -10794,7 +10434,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-09-15",
-        "pe_ratio": 55.64,
+        "pe_ratio": 81.23,
         "forward_return": -7.88,
         "start_price": 43.05,
         "start_year": 2013
@@ -10803,7 +10443,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-10-16",
-        "pe_ratio": 59.25,
+        "pe_ratio": 76.14,
         "forward_return": -9.8,
         "start_price": 43.4,
         "start_year": 2013
@@ -10812,7 +10452,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2013-11-15",
-        "pe_ratio": 56.57,
+        "pe_ratio": 64.1,
         "forward_return": -6.42,
         "start_price": 39.1,
         "start_year": 2013
@@ -10830,7 +10470,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-01-16",
-        "pe_ratio": 58.37,
+        "pe_ratio": 54.47,
         "forward_return": -6.23,
         "start_price": 39.4,
         "start_year": 2014
@@ -10839,7 +10479,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-02-14",
-        "pe_ratio": 61.93,
+        "pe_ratio": 54.41,
         "forward_return": -7.34,
         "start_price": 43.35,
         "start_year": 2014
@@ -10848,7 +10488,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-03-16",
-        "pe_ratio": 54.62,
+        "pe_ratio": 45.52,
         "forward_return": -5.49,
         "start_price": 39.6,
         "start_year": 2014
@@ -10857,7 +10497,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-04-15",
-        "pe_ratio": 52.93,
+        "pe_ratio": 43.15,
         "forward_return": -5.16,
         "start_price": 39.7,
         "start_year": 2014
@@ -10866,7 +10506,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-05-16",
-        "pe_ratio": 56.77,
+        "pe_ratio": 45.36,
         "forward_return": -7.09,
         "start_price": 44.0,
         "start_year": 2014
@@ -10875,7 +10515,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-06-15",
-        "pe_ratio": 68.12,
+        "pe_ratio": 53.43,
         "forward_return": -10.58,
         "start_price": 54.5,
         "start_year": 2014
@@ -10884,7 +10524,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-07-16",
-        "pe_ratio": 62.79,
+        "pe_ratio": 49.97,
         "forward_return": -12.7,
         "start_price": 51.8,
         "start_year": 2014
@@ -10893,7 +10533,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-08-16",
-        "pe_ratio": 53.29,
+        "pe_ratio": 43.01,
         "forward_return": -10.43,
         "start_price": 45.3,
         "start_year": 2014
@@ -10902,7 +10542,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-09-15",
-        "pe_ratio": 53.54,
+        "pe_ratio": 43.79,
         "forward_return": -10.76,
         "start_price": 46.85,
         "start_year": 2014
@@ -10911,7 +10551,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-10-16",
-        "pe_ratio": 45.0,
+        "pe_ratio": 39.32,
         "forward_return": -9.07,
         "start_price": 40.5,
         "start_year": 2014
@@ -10920,7 +10560,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2014-11-15",
-        "pe_ratio": 40.76,
+        "pe_ratio": 38.08,
         "forward_return": -7.33,
         "start_price": 37.7,
         "start_year": 2014
@@ -10938,7 +10578,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-01-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 44.78,
         "forward_return": -8.55,
         "start_price": 40.3,
         "start_year": 2015
@@ -10947,7 +10587,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-02-14",
-        "pe_ratio": 49.56,
+        "pe_ratio": 48.59,
         "forward_return": -10.5,
         "start_price": 41.3,
         "start_year": 2015
@@ -10956,7 +10596,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 52.25,
         "forward_return": -13.99,
         "start_price": 41.8,
         "start_year": 2015
@@ -10965,7 +10605,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-04-15",
-        "pe_ratio": 55.81,
+        "pe_ratio": 54.79,
         "forward_return": -9.84,
         "start_price": 40.0,
         "start_year": 2015
@@ -10974,7 +10614,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-05-16",
-        "pe_ratio": 56.81,
+        "pe_ratio": 56.67,
         "forward_return": -7.79,
         "start_price": 37.4,
         "start_year": 2015
@@ -10983,7 +10623,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-06-15",
-        "pe_ratio": 54.42,
+        "pe_ratio": 55.34,
         "forward_return": -3.11,
         "start_price": 32.65,
         "start_year": 2015
@@ -10992,7 +10632,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-07-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 60.46,
         "forward_return": -5.31,
         "start_price": 32.65,
         "start_year": 2015
@@ -11001,7 +10641,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-08-16",
-        "pe_ratio": 55.45,
+        "pe_ratio": 54.69,
         "forward_return": 0.63,
         "start_price": 26.8,
         "start_year": 2015
@@ -11010,7 +10650,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-09-15",
-        "pe_ratio": 72.71,
+        "pe_ratio": 70.23,
         "forward_return": -3.31,
         "start_price": 30.9,
         "start_year": 2015
@@ -11019,7 +10659,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-10-16",
-        "pe_ratio": 96.0,
+        "pe_ratio": 93.45,
         "forward_return": -6.46,
         "start_price": 35.2,
         "start_year": 2015
@@ -11028,7 +10668,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2015-11-15",
-        "pe_ratio": 116.0,
+        "pe_ratio": 114.1,
         "forward_return": -5.81,
         "start_price": 35.75,
         "start_year": 2015
@@ -11046,7 +10686,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-01-16",
-        "pe_ratio": 102.7,
+        "pe_ratio": 51.48,
         "forward_return": -5.48,
         "start_price": 32.95,
         "start_year": 2016
@@ -11055,7 +10695,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-02-15",
-        "pe_ratio": 83.96,
+        "pe_ratio": 31.94,
         "forward_return": -3.6,
         "start_price": 32.9,
         "start_year": 2016
@@ -11064,7 +10704,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-03-16",
-        "pe_ratio": 74.76,
+        "pe_ratio": 24.37,
         "forward_return": -4.63,
         "start_price": 34.6,
         "start_year": 2016
@@ -11073,7 +10713,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-04-15",
-        "pe_ratio": 67.83,
+        "pe_ratio": 25.55,
         "forward_return": -5.28,
         "start_price": 36.2,
         "start_year": 2016
@@ -11082,7 +10722,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-05-16",
-        "pe_ratio": 60.03,
+        "pe_ratio": 25.68,
         "forward_return": -6.42,
         "start_price": 36.3,
         "start_year": 2016
@@ -11091,7 +10731,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-06-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 23.76,
         "forward_return": -4.29,
         "start_price": 33.5,
         "start_year": 2016
@@ -11100,7 +10740,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-07-16",
-        "pe_ratio": 46.55,
+        "pe_ratio": 26.06,
         "forward_return": -5.36,
         "start_price": 34.75,
         "start_year": 2016
@@ -11109,7 +10749,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-08-16",
-        "pe_ratio": 38.96,
+        "pe_ratio": 25.34,
         "forward_return": -3.73,
         "start_price": 31.85,
         "start_year": 2016
@@ -11118,7 +10758,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-09-15",
-        "pe_ratio": 35.12,
+        "pe_ratio": 26.44,
         "forward_return": -4.42,
         "start_price": 31.2,
         "start_year": 2016
@@ -11127,7 +10767,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-10-16",
-        "pe_ratio": 31.69,
+        "pe_ratio": 26.35,
         "forward_return": -4.55,
         "start_price": 30.4,
         "start_year": 2016
@@ -11136,7 +10776,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.63,
+        "pe_ratio": 26.17,
         "forward_return": -4.38,
         "start_price": 29.5,
         "start_year": 2016
@@ -11154,7 +10794,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.75,
+        "pe_ratio": 41.0,
         "forward_return": -4.12,
         "start_price": 30.1,
         "start_year": 2017
@@ -11163,90 +10803,9 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2017-02-14",
-        "pe_ratio": 34.85,
+        "pe_ratio": 87.59,
         "forward_return": -4.32,
         "start_price": 32.15,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-03-16",
-        "pe_ratio": 40.02,
-        "forward_return": -4.72,
-        "start_price": 33.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-04-15",
-        "pe_ratio": 42.06,
-        "forward_return": -1.87,
-        "start_price": 31.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-05-16",
-        "pe_ratio": 45.35,
-        "forward_return": -1.61,
-        "start_price": 29.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-06-15",
-        "pe_ratio": 51.36,
-        "forward_return": 3.28,
-        "start_price": 29.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-07-16",
-        "pe_ratio": 64.24,
-        "forward_return": 1.27,
-        "start_price": 30.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-08-16",
-        "pe_ratio": 71.31,
-        "forward_return": 8.0,
-        "start_price": 27.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-09-15",
-        "pe_ratio": 89.66,
-        "forward_return": 6.77,
-        "start_price": 26.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-10-16",
-        "pe_ratio": 126.4,
-        "forward_return": 5.19,
-        "start_price": 26.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "5y",
-        "horizon_label": "5年",
-        "start_date": "2017-11-15",
-        "pe_ratio": 220.1,
-        "forward_return": 7.28,
-        "start_price": 26.25,
         "start_year": 2017
       },
       {
@@ -11262,7 +10821,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 36.85,
         "forward_return": 10.34,
         "start_price": 26.9,
         "start_year": 2018
@@ -11271,7 +10830,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-02-14",
-        "pe_ratio": 69.53,
+        "pe_ratio": 19.13,
         "forward_return": 12.44,
         "start_price": 27.35,
         "start_year": 2018
@@ -11280,7 +10839,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-03-16",
-        "pe_ratio": 52.26,
+        "pe_ratio": 14.11,
         "forward_return": 9.43,
         "start_price": 30.05,
         "start_year": 2018
@@ -11289,7 +10848,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-04-15",
-        "pe_ratio": 39.71,
+        "pe_ratio": 13.76,
         "forward_return": 10.36,
         "start_price": 30.05,
         "start_year": 2018
@@ -11298,7 +10857,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.12,
+        "pe_ratio": 14.73,
         "forward_return": 6.83,
         "start_price": 32.95,
         "start_year": 2018
@@ -11307,7 +10866,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-06-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 14.1,
         "forward_return": 7.02,
         "start_price": 32.3,
         "start_year": 2018
@@ -11316,7 +10875,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-07-16",
-        "pe_ratio": 25.81,
+        "pe_ratio": 14.85,
         "forward_return": 6.04,
         "start_price": 33.6,
         "start_year": 2018
@@ -11325,7 +10884,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 12.74,
         "forward_return": 6.14,
         "start_price": 28.5,
         "start_year": 2018
@@ -11334,7 +10893,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.58,
+        "pe_ratio": 12.49,
         "forward_return": 7.54,
         "start_price": 27.6,
         "start_year": 2018
@@ -11343,7 +10902,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 11.29,
         "forward_return": 9.51,
         "start_price": 24.95,
         "start_year": 2018
@@ -11352,7 +10911,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2018-11-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.26,
         "forward_return": 9.13,
         "start_price": 27.1,
         "start_year": 2018
@@ -11370,7 +10929,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 17.21,
         "forward_return": 7.32,
         "start_price": 27.6,
         "start_year": 2019
@@ -11379,7 +10938,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.27,
+        "pe_ratio": 28.75,
         "forward_return": 7.3,
         "start_price": 28.65,
         "start_year": 2019
@@ -11388,7 +10947,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-03-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 74.1,
         "forward_return": 7.24,
         "start_price": 28.9,
         "start_year": 2019
@@ -11397,7 +10956,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.11,
+        "pe_ratio": 81.19,
         "forward_return": 6.43,
         "start_price": 29.5,
         "start_year": 2019
@@ -11406,7 +10965,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-05-16",
-        "pe_ratio": 21.43,
+        "pe_ratio": 87.62,
         "forward_return": 7.16,
         "start_price": 29.5,
         "start_year": 2019
@@ -11415,7 +10974,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-06-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 97.42,
         "forward_return": 7.27,
         "start_price": 30.2,
         "start_year": 2019
@@ -11424,7 +10983,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.25,
+        "pe_ratio": 93.7,
         "forward_return": 11.21,
         "start_price": 25.3,
         "start_year": 2019
@@ -11433,7 +10992,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-08-16",
-        "pe_ratio": 28.69,
+        "pe_ratio": 109.3,
         "forward_return": 9.94,
         "start_price": 25.15,
         "start_year": 2019
@@ -11442,7 +11001,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-09-15",
-        "pe_ratio": 35.99,
+        "pe_ratio": 134.5,
         "forward_return": 9.18,
         "start_price": 25.55,
         "start_year": 2019
@@ -11451,7 +11010,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-10-16",
-        "pe_ratio": 44.54,
+        "pe_ratio": 123.1,
         "forward_return": 9.64,
         "start_price": 24.2,
         "start_year": 2019
@@ -11460,7 +11019,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2019-11-15",
-        "pe_ratio": 65.84,
+        "pe_ratio": 122.0,
         "forward_return": 8.0,
         "start_price": 24.8,
         "start_year": 2019
@@ -11478,7 +11037,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-01-16",
-        "pe_ratio": 62.39,
+        "pe_ratio": 89.64,
         "forward_return": 7.46,
         "start_price": 24.8,
         "start_year": 2020
@@ -11487,7 +11046,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-02-15",
-        "pe_ratio": 38.89,
+        "pe_ratio": 66.26,
         "forward_return": 9.15,
         "start_price": 22.75,
         "start_year": 2020
@@ -11496,7 +11055,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-03-16",
-        "pe_ratio": 24.21,
+        "pe_ratio": 45.61,
         "forward_return": 13.68,
         "start_price": 18.7,
         "start_year": 2020
@@ -11505,7 +11064,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-04-15",
-        "pe_ratio": 23.8,
+        "pe_ratio": 23.72,
         "forward_return": 8.53,
         "start_price": 22.85,
         "start_year": 2020
@@ -11514,7 +11073,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-05-16",
-        "pe_ratio": 20.87,
+        "pe_ratio": 15.79,
         "forward_return": 8.67,
         "start_price": 23.95,
         "start_year": 2020
@@ -11523,7 +11082,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-06-15",
-        "pe_ratio": 20.15,
+        "pe_ratio": 13.0,
         "forward_return": 7.57,
         "start_price": 26.9,
         "start_year": 2020
@@ -11532,7 +11091,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-07-16",
-        "pe_ratio": 15.7,
+        "pe_ratio": 11.19,
         "forward_return": 10.58,
         "start_price": 23.9,
         "start_year": 2020
@@ -11541,7 +11100,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-08-16",
-        "pe_ratio": 15.61,
+        "pe_ratio": 12.12,
         "forward_return": 6.92,
         "start_price": 26.7,
         "start_year": 2020
@@ -11550,7 +11109,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-09-15",
-        "pe_ratio": 13.25,
+        "pe_ratio": 11.08,
         "forward_return": 7.92,
         "start_price": 25.15,
         "start_year": 2020
@@ -11559,7 +11118,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-10-16",
-        "pe_ratio": 11.63,
+        "pe_ratio": 10.39,
         "forward_return": 8.29,
         "start_price": 24.25,
         "start_year": 2020
@@ -11568,7 +11127,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2020-11-15",
-        "pe_ratio": 11.24,
+        "pe_ratio": 10.66,
         "forward_return": 6.32,
         "start_price": 25.55,
         "start_year": 2020
@@ -11586,7 +11145,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-01-16",
-        "pe_ratio": 10.21,
+        "pe_ratio": 9.81,
         "forward_return": 7.91,
         "start_price": 23.9,
         "start_year": 2021
@@ -11595,7 +11154,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "5y",
         "horizon_label": "5年",
         "start_date": "2021-02-14",
-        "pe_ratio": 11.55,
+        "pe_ratio": 10.63,
         "forward_return": 6.36,
         "start_price": 25.65,
         "start_year": 2021
@@ -11604,7 +11163,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-03-16",
-        "pe_ratio": 36.05,
+        "pe_ratio": 24.04,
         "forward_return": 14.98,
         "start_price": 13.7,
         "start_year": 2006
@@ -11613,7 +11172,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-04-15",
-        "pe_ratio": 35.53,
+        "pe_ratio": 25.16,
         "forward_return": 15.53,
         "start_price": 13.5,
         "start_year": 2006
@@ -11622,7 +11181,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-05-16",
-        "pe_ratio": 34.74,
+        "pe_ratio": 26.23,
         "forward_return": 15.17,
         "start_price": 13.2,
         "start_year": 2006
@@ -11631,7 +11190,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-06-15",
-        "pe_ratio": 35.0,
+        "pe_ratio": 28.3,
         "forward_return": 14.4,
         "start_price": 13.3,
         "start_year": 2006
@@ -11640,7 +11199,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-07-16",
-        "pe_ratio": 32.37,
+        "pe_ratio": 30.0,
         "forward_return": 15.7,
         "start_price": 12.3,
         "start_year": 2006
@@ -11649,7 +11208,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-08-16",
-        "pe_ratio": 33.29,
+        "pe_ratio": 36.14,
         "forward_return": 15.8,
         "start_price": 12.65,
         "start_year": 2006
@@ -11658,7 +11217,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-09-15",
-        "pe_ratio": 32.11,
+        "pe_ratio": 42.07,
         "forward_return": 17.16,
         "start_price": 12.2,
         "start_year": 2006
@@ -11667,7 +11226,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-10-16",
-        "pe_ratio": 31.58,
+        "pe_ratio": 37.5,
         "forward_return": 16.54,
         "start_price": 12.0,
         "start_year": 2006
@@ -11676,7 +11235,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2006-11-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.57,
         "forward_return": 17.2,
         "start_price": 12.1,
         "start_year": 2006
@@ -11694,7 +11253,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-01-16",
-        "pe_ratio": 30.06,
+        "pe_ratio": 30.76,
         "forward_return": 22.56,
         "start_price": 12.2,
         "start_year": 2007
@@ -11703,7 +11262,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-02-14",
-        "pe_ratio": 30.12,
+        "pe_ratio": 31.45,
         "forward_return": 23.42,
         "start_price": 13.0,
         "start_year": 2007
@@ -11712,7 +11271,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-03-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 33.26,
         "forward_return": 19.84,
         "start_price": 14.3,
         "start_year": 2007
@@ -11721,7 +11280,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-04-15",
-        "pe_ratio": 31.66,
+        "pe_ratio": 27.49,
         "forward_return": 14.87,
         "start_price": 15.3,
         "start_year": 2007
@@ -11730,7 +11289,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-05-16",
-        "pe_ratio": 35.84,
+        "pe_ratio": 26.71,
         "forward_return": 11.76,
         "start_price": 18.25,
         "start_year": 2007
@@ -11739,7 +11298,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-06-15",
-        "pe_ratio": 64.02,
+        "pe_ratio": 42.28,
         "forward_return": 0.53,
         "start_price": 34.25,
         "start_year": 2007
@@ -11748,7 +11307,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-07-16",
-        "pe_ratio": 101.1,
+        "pe_ratio": 72.08,
         "forward_return": -5.29,
         "start_price": 56.7,
         "start_year": 2007
@@ -11757,7 +11316,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-08-16",
-        "pe_ratio": 56.08,
+        "pe_ratio": 43.1,
         "forward_return": 3.72,
         "start_price": 32.9,
         "start_year": 2007
@@ -11766,7 +11325,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-09-15",
-        "pe_ratio": 73.31,
+        "pe_ratio": 60.68,
         "forward_return": -0.47,
         "start_price": 44.9,
         "start_year": 2007
@@ -11775,7 +11334,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-10-16",
-        "pe_ratio": 62.11,
+        "pe_ratio": 54.82,
         "forward_return": 1.75,
         "start_price": 39.65,
         "start_year": 2007
@@ -11784,7 +11343,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2007-11-15",
-        "pe_ratio": 51.42,
+        "pe_ratio": 48.33,
         "forward_return": 2.54,
         "start_price": 34.15,
         "start_year": 2007
@@ -11802,7 +11361,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-01-16",
-        "pe_ratio": 32.05,
+        "pe_ratio": 30.15,
         "forward_return": 12.72,
         "start_price": 19.5,
         "start_year": 2008
@@ -11811,7 +11370,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-02-15",
-        "pe_ratio": 56.96,
+        "pe_ratio": 49.72,
         "forward_return": 4.93,
         "start_price": 30.0,
         "start_year": 2008
@@ -11820,7 +11379,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-03-16",
-        "pe_ratio": 71.46,
+        "pe_ratio": 56.79,
         "forward_return": 3.99,
         "start_price": 31.8,
         "start_year": 2008
@@ -11829,7 +11388,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-04-15",
-        "pe_ratio": 105.0,
+        "pe_ratio": 91.56,
         "forward_return": 0.92,
         "start_price": 38.15,
         "start_year": 2008
@@ -11838,7 +11397,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-05-16",
-        "pe_ratio": 111.8,
+        "pe_ratio": 115.2,
         "forward_return": 5.97,
         "start_price": 31.5,
         "start_year": 2008
@@ -11847,7 +11406,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-06-15",
-        "pe_ratio": 114.5,
+        "pe_ratio": 176.2,
         "forward_return": 15.76,
         "start_price": 22.9,
         "start_year": 2008
@@ -11856,7 +11415,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-07-16",
-        "pe_ratio": 205.4,
+        "pe_ratio": 202.5,
         "forward_return": 13.67,
         "start_price": 24.3,
         "start_year": 2008
@@ -11865,7 +11424,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2008-08-16",
-        "pe_ratio": 621.8,
+        "pe_ratio": 207.3,
         "forward_return": 12.37,
         "start_price": 22.8,
         "start_year": 2008
@@ -11873,8 +11432,35 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "6y",
         "horizon_label": "6年",
+        "start_date": "2008-09-15",
+        "pe_ratio": 155.0,
+        "forward_return": 20.5,
+        "start_price": 15.5,
+        "start_year": 2008
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2010-05-16",
+        "pe_ratio": 136.2,
+        "forward_return": -1.23,
+        "start_price": 39.95,
+        "start_year": 2010
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
+        "start_date": "2010-06-15",
+        "pe_ratio": 67.0,
+        "forward_return": -2.61,
+        "start_price": 40.2,
+        "start_year": 2010
+      },
+      {
+        "horizon": "6y",
+        "horizon_label": "6年",
         "start_date": "2010-07-16",
-        "pe_ratio": 3200.0,
+        "pe_ratio": 68.57,
         "forward_return": -1.87,
         "start_price": 40.0,
         "start_year": 2010
@@ -11883,7 +11469,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-08-16",
-        "pe_ratio": 380.6,
+        "pe_ratio": 60.44,
         "forward_return": -0.71,
         "start_price": 34.25,
         "start_year": 2010
@@ -11892,7 +11478,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-09-15",
-        "pe_ratio": 220.3,
+        "pe_ratio": 67.09,
         "forward_return": -2.26,
         "start_price": 36.9,
         "start_year": 2010
@@ -11901,7 +11487,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-10-16",
-        "pe_ratio": 150.4,
+        "pe_ratio": 73.7,
         "forward_return": -2.65,
         "start_price": 36.85,
         "start_year": 2010
@@ -11910,7 +11496,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2010-11-15",
-        "pe_ratio": 107.0,
+        "pe_ratio": 76.67,
         "forward_return": -2.05,
         "start_price": 34.5,
         "start_year": 2010
@@ -11928,7 +11514,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-01-16",
-        "pe_ratio": 110.1,
+        "pe_ratio": 133.8,
         "forward_return": -3.26,
         "start_price": 37.9,
         "start_year": 2011
@@ -11937,7 +11523,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-02-14",
-        "pe_ratio": 120.7,
+        "pe_ratio": 208.8,
         "forward_return": -0.82,
         "start_price": 34.8,
         "start_year": 2011
@@ -11946,7 +11532,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 674.0,
         "forward_return": 0.3,
         "start_price": 33.7,
         "start_year": 2011
@@ -11955,7 +11541,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2011-04-15",
-        "pe_ratio": 195.3,
+        "pe_ratio": 10350.0,
         "forward_return": -1.11,
         "start_price": 34.5,
         "start_year": 2011
@@ -11963,35 +11549,26 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2011-05-16",
-        "pe_ratio": 278.1,
-        "forward_return": -1.51,
-        "start_price": 33.6,
-        "start_year": 2011
+        "start_date": "2012-01-16",
+        "pe_ratio": 200.8,
+        "forward_return": 1.16,
+        "start_price": 26.1,
+        "start_year": 2012
       },
       {
         "horizon": "6y",
         "horizon_label": "6年",
-        "start_date": "2011-06-15",
-        "pe_ratio": 538.5,
-        "forward_return": -2.53,
-        "start_price": 35.0,
-        "start_year": 2011
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2011-07-16",
-        "pe_ratio": 3660.0,
-        "forward_return": -0.96,
-        "start_price": 33.55,
-        "start_year": 2011
+        "start_date": "2012-02-15",
+        "pe_ratio": 57.08,
+        "forward_return": 0.46,
+        "start_price": 30.25,
+        "start_year": 2012
       },
       {
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-03-16",
-        "pe_ratio": 368.0,
+        "pe_ratio": 33.12,
         "forward_return": 0.17,
         "start_price": 30.8,
         "start_year": 2012
@@ -12000,7 +11577,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-04-15",
-        "pe_ratio": 155.0,
+        "pe_ratio": 39.06,
         "forward_return": -0.07,
         "start_price": 31.25,
         "start_year": 2012
@@ -12009,7 +11586,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-05-16",
-        "pe_ratio": 93.74,
+        "pe_ratio": 44.7,
         "forward_return": 2.14,
         "start_price": 29.95,
         "start_year": 2012
@@ -12018,7 +11595,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-06-15",
-        "pe_ratio": 66.19,
+        "pe_ratio": 53.61,
         "forward_return": 2.39,
         "start_price": 28.95,
         "start_year": 2012
@@ -12027,7 +11604,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-07-16",
-        "pe_ratio": 52.14,
+        "pe_ratio": 43.0,
         "forward_return": 3.1,
         "start_price": 28.95,
         "start_year": 2012
@@ -12036,7 +11613,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-08-16",
-        "pe_ratio": 44.49,
+        "pe_ratio": 37.13,
         "forward_return": -0.16,
         "start_price": 29.95,
         "start_year": 2012
@@ -12045,7 +11622,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-09-15",
-        "pe_ratio": 39.19,
+        "pe_ratio": 32.98,
         "forward_return": -1.24,
         "start_price": 31.0,
         "start_year": 2012
@@ -12054,7 +11631,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-10-16",
-        "pe_ratio": 32.45,
+        "pe_ratio": 29.26,
         "forward_return": -2.01,
         "start_price": 29.5,
         "start_year": 2012
@@ -12063,7 +11640,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2012-11-15",
-        "pe_ratio": 29.99,
+        "pe_ratio": 28.61,
         "forward_return": -1.42,
         "start_price": 30.8,
         "start_year": 2012
@@ -12081,7 +11658,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-01-16",
-        "pe_ratio": 36.97,
+        "pe_ratio": 50.59,
         "forward_return": -5.66,
         "start_price": 40.8,
         "start_year": 2013
@@ -12090,7 +11667,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-02-14",
-        "pe_ratio": 42.74,
+        "pe_ratio": 96.95,
         "forward_return": -6.77,
         "start_price": 45.4,
         "start_year": 2013
@@ -12099,7 +11676,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-03-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 321.5,
         "forward_return": -5.35,
         "start_price": 41.8,
         "start_year": 2013
@@ -12108,7 +11685,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-04-15",
-        "pe_ratio": 35.31,
+        "pe_ratio": 122.1,
         "forward_return": -1.99,
         "start_price": 34.6,
         "start_year": 2013
@@ -12117,7 +11694,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-05-16",
-        "pe_ratio": 37.29,
+        "pe_ratio": 80.15,
         "forward_return": -2.18,
         "start_price": 35.0,
         "start_year": 2013
@@ -12126,7 +11703,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-06-15",
-        "pe_ratio": 38.78,
+        "pe_ratio": 58.98,
         "forward_return": -1.72,
         "start_price": 34.8,
         "start_year": 2013
@@ -12135,7 +11712,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-07-16",
-        "pe_ratio": 47.07,
+        "pe_ratio": 70.7,
         "forward_return": -6.77,
         "start_price": 40.3,
         "start_year": 2013
@@ -12144,7 +11721,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-08-16",
-        "pe_ratio": 49.51,
+        "pe_ratio": 73.36,
         "forward_return": -6.88,
         "start_price": 40.35,
         "start_year": 2013
@@ -12153,7 +11730,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-09-15",
-        "pe_ratio": 55.64,
+        "pe_ratio": 81.23,
         "forward_return": -7.65,
         "start_price": 43.05,
         "start_year": 2013
@@ -12162,7 +11739,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-10-16",
-        "pe_ratio": 59.25,
+        "pe_ratio": 76.14,
         "forward_return": -8.57,
         "start_price": 43.4,
         "start_year": 2013
@@ -12171,7 +11748,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2013-11-15",
-        "pe_ratio": 56.57,
+        "pe_ratio": 64.1,
         "forward_return": -6.6,
         "start_price": 39.1,
         "start_year": 2013
@@ -12189,7 +11766,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-01-16",
-        "pe_ratio": 58.37,
+        "pe_ratio": 54.47,
         "forward_return": -6.72,
         "start_price": 39.4,
         "start_year": 2014
@@ -12198,7 +11775,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-02-14",
-        "pe_ratio": 61.93,
+        "pe_ratio": 54.41,
         "forward_return": -9.44,
         "start_price": 43.35,
         "start_year": 2014
@@ -12207,7 +11784,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-03-16",
-        "pe_ratio": 54.62,
+        "pe_ratio": 45.52,
         "forward_return": -10.86,
         "start_price": 39.6,
         "start_year": 2014
@@ -12216,7 +11793,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-04-15",
-        "pe_ratio": 52.93,
+        "pe_ratio": 43.15,
         "forward_return": -8.04,
         "start_price": 39.7,
         "start_year": 2014
@@ -12225,7 +11802,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-05-16",
-        "pe_ratio": 56.77,
+        "pe_ratio": 45.36,
         "forward_return": -8.92,
         "start_price": 44.0,
         "start_year": 2014
@@ -12234,7 +11811,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-06-15",
-        "pe_ratio": 68.12,
+        "pe_ratio": 53.43,
         "forward_return": -10.47,
         "start_price": 54.5,
         "start_year": 2014
@@ -12243,7 +11820,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-07-16",
-        "pe_ratio": 62.79,
+        "pe_ratio": 49.97,
         "forward_return": -11.4,
         "start_price": 51.8,
         "start_year": 2014
@@ -12252,7 +11829,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-08-16",
-        "pe_ratio": 53.29,
+        "pe_ratio": 43.01,
         "forward_return": -7.78,
         "start_price": 45.3,
         "start_year": 2014
@@ -12261,7 +11838,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-09-15",
-        "pe_ratio": 53.54,
+        "pe_ratio": 43.79,
         "forward_return": -9.17,
         "start_price": 46.85,
         "start_year": 2014
@@ -12270,7 +11847,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-10-16",
-        "pe_ratio": 45.0,
+        "pe_ratio": 39.32,
         "forward_return": -7.48,
         "start_price": 40.5,
         "start_year": 2014
@@ -12279,7 +11856,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2014-11-15",
-        "pe_ratio": 40.76,
+        "pe_ratio": 38.08,
         "forward_return": -5.58,
         "start_price": 37.7,
         "start_year": 2014
@@ -12297,7 +11874,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-01-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 44.78,
         "forward_return": -7.61,
         "start_price": 40.3,
         "start_year": 2015
@@ -12306,7 +11883,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-02-14",
-        "pe_ratio": 49.56,
+        "pe_ratio": 48.59,
         "forward_return": -6.95,
         "start_price": 41.3,
         "start_year": 2015
@@ -12315,7 +11892,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 52.25,
         "forward_return": -6.74,
         "start_price": 41.8,
         "start_year": 2015
@@ -12324,7 +11901,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-04-15",
-        "pe_ratio": 55.81,
+        "pe_ratio": 54.79,
         "forward_return": -5.88,
         "start_price": 40.0,
         "start_year": 2015
@@ -12333,7 +11910,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-05-16",
-        "pe_ratio": 56.81,
+        "pe_ratio": 56.67,
         "forward_return": -5.72,
         "start_price": 37.4,
         "start_year": 2015
@@ -12342,7 +11919,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-06-15",
-        "pe_ratio": 54.42,
+        "pe_ratio": 55.34,
         "forward_return": -3.05,
         "start_price": 32.65,
         "start_year": 2015
@@ -12351,7 +11928,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-07-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 60.46,
         "forward_return": -3.38,
         "start_price": 32.65,
         "start_year": 2015
@@ -12360,7 +11937,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-08-16",
-        "pe_ratio": 55.45,
+        "pe_ratio": 54.69,
         "forward_return": -0.18,
         "start_price": 26.8,
         "start_year": 2015
@@ -12369,7 +11946,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-09-15",
-        "pe_ratio": 72.71,
+        "pe_ratio": 70.23,
         "forward_return": -3.43,
         "start_price": 30.9,
         "start_year": 2015
@@ -12378,7 +11955,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-10-16",
-        "pe_ratio": 96.0,
+        "pe_ratio": 93.45,
         "forward_return": -6.02,
         "start_price": 35.2,
         "start_year": 2015
@@ -12387,7 +11964,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2015-11-15",
-        "pe_ratio": 116.0,
+        "pe_ratio": 114.1,
         "forward_return": -6.58,
         "start_price": 35.75,
         "start_year": 2015
@@ -12405,7 +11982,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-01-16",
-        "pe_ratio": 102.7,
+        "pe_ratio": 51.48,
         "forward_return": -4.78,
         "start_price": 32.95,
         "start_year": 2016
@@ -12414,7 +11991,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-02-15",
-        "pe_ratio": 83.96,
+        "pe_ratio": 31.94,
         "forward_return": -3.58,
         "start_price": 32.9,
         "start_year": 2016
@@ -12423,7 +12000,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-03-16",
-        "pe_ratio": 74.76,
+        "pe_ratio": 24.37,
         "forward_return": -4.43,
         "start_price": 34.6,
         "start_year": 2016
@@ -12432,7 +12009,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-04-15",
-        "pe_ratio": 67.83,
+        "pe_ratio": 25.55,
         "forward_return": -3.82,
         "start_price": 36.2,
         "start_year": 2016
@@ -12441,7 +12018,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-05-16",
-        "pe_ratio": 60.03,
+        "pe_ratio": 25.68,
         "forward_return": -4.49,
         "start_price": 36.3,
         "start_year": 2016
@@ -12450,7 +12027,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-06-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 23.76,
         "forward_return": 0.4,
         "start_price": 33.5,
         "start_year": 2016
@@ -12459,7 +12036,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-07-16",
-        "pe_ratio": 46.55,
+        "pe_ratio": 26.06,
         "forward_return": -0.96,
         "start_price": 34.75,
         "start_year": 2016
@@ -12468,7 +12045,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-08-16",
-        "pe_ratio": 38.96,
+        "pe_ratio": 25.34,
         "forward_return": 4.19,
         "start_price": 31.85,
         "start_year": 2016
@@ -12477,7 +12054,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-09-15",
-        "pe_ratio": 35.12,
+        "pe_ratio": 26.44,
         "forward_return": 2.99,
         "start_price": 31.2,
         "start_year": 2016
@@ -12486,7 +12063,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-10-16",
-        "pe_ratio": 31.69,
+        "pe_ratio": 26.35,
         "forward_return": 1.95,
         "start_price": 30.4,
         "start_year": 2016
@@ -12495,7 +12072,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.63,
+        "pe_ratio": 26.17,
         "forward_return": 4.08,
         "start_price": 29.5,
         "start_year": 2016
@@ -12513,7 +12090,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.75,
+        "pe_ratio": 41.0,
         "forward_return": 6.61,
         "start_price": 30.1,
         "start_year": 2017
@@ -12522,90 +12099,9 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2017-02-14",
-        "pe_ratio": 34.85,
+        "pe_ratio": 87.59,
         "forward_return": 7.4,
         "start_price": 32.15,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-03-16",
-        "pe_ratio": 40.02,
-        "forward_return": 6.01,
-        "start_price": 33.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-04-15",
-        "pe_ratio": 42.06,
-        "forward_return": 7.9,
-        "start_price": 31.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-05-16",
-        "pe_ratio": 45.35,
-        "forward_return": 7.58,
-        "start_price": 29.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-06-15",
-        "pe_ratio": 51.36,
-        "forward_return": 7.78,
-        "start_price": 29.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-07-16",
-        "pe_ratio": 64.24,
-        "forward_return": 6.74,
-        "start_price": 30.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-08-16",
-        "pe_ratio": 71.31,
-        "forward_return": 5.75,
-        "start_price": 27.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-09-15",
-        "pe_ratio": 89.66,
-        "forward_return": 6.93,
-        "start_price": 26.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-10-16",
-        "pe_ratio": 126.4,
-        "forward_return": 6.98,
-        "start_price": 26.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "6y",
-        "horizon_label": "6年",
-        "start_date": "2017-11-15",
-        "pe_ratio": 220.1,
-        "forward_return": 8.21,
-        "start_price": 26.25,
         "start_year": 2017
       },
       {
@@ -12621,7 +12117,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 36.85,
         "forward_return": 6.61,
         "start_price": 26.9,
         "start_year": 2018
@@ -12630,7 +12126,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-02-14",
-        "pe_ratio": 69.53,
+        "pe_ratio": 19.13,
         "forward_return": 6.96,
         "start_price": 27.35,
         "start_year": 2018
@@ -12639,7 +12135,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-03-16",
-        "pe_ratio": 52.26,
+        "pe_ratio": 14.11,
         "forward_return": 5.4,
         "start_price": 30.05,
         "start_year": 2018
@@ -12648,7 +12144,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-04-15",
-        "pe_ratio": 39.71,
+        "pe_ratio": 13.76,
         "forward_return": 5.1,
         "start_price": 30.05,
         "start_year": 2018
@@ -12657,7 +12153,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-05-16",
-        "pe_ratio": 35.12,
+        "pe_ratio": 14.73,
         "forward_return": 4.08,
         "start_price": 32.95,
         "start_year": 2018
@@ -12666,7 +12162,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-06-15",
-        "pe_ratio": 28.84,
+        "pe_ratio": 14.1,
         "forward_return": 4.92,
         "start_price": 32.3,
         "start_year": 2018
@@ -12675,7 +12171,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-07-16",
-        "pe_ratio": 25.81,
+        "pe_ratio": 14.85,
         "forward_return": 4.3,
         "start_price": 33.6,
         "start_year": 2018
@@ -12684,7 +12180,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-08-16",
-        "pe_ratio": 19.21,
+        "pe_ratio": 12.74,
         "forward_return": 6.07,
         "start_price": 28.5,
         "start_year": 2018
@@ -12693,7 +12189,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-09-15",
-        "pe_ratio": 16.58,
+        "pe_ratio": 12.49,
         "forward_return": 6.31,
         "start_price": 27.6,
         "start_year": 2018
@@ -12702,7 +12198,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-10-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 11.29,
         "forward_return": 7.52,
         "start_price": 24.95,
         "start_year": 2018
@@ -12711,7 +12207,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2018-11-15",
-        "pe_ratio": 13.36,
+        "pe_ratio": 12.26,
         "forward_return": 5.16,
         "start_price": 27.1,
         "start_year": 2018
@@ -12729,7 +12225,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-01-16",
-        "pe_ratio": 13.51,
+        "pe_ratio": 17.21,
         "forward_return": 4.41,
         "start_price": 27.6,
         "start_year": 2019
@@ -12738,7 +12234,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-02-14",
-        "pe_ratio": 15.27,
+        "pe_ratio": 28.75,
         "forward_return": 3.42,
         "start_price": 28.65,
         "start_year": 2019
@@ -12747,7 +12243,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-03-16",
-        "pe_ratio": 16.9,
+        "pe_ratio": 74.1,
         "forward_return": 3.58,
         "start_price": 28.9,
         "start_year": 2019
@@ -12756,7 +12252,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-04-15",
-        "pe_ratio": 19.11,
+        "pe_ratio": 81.19,
         "forward_return": 2.69,
         "start_price": 29.5,
         "start_year": 2019
@@ -12765,7 +12261,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-05-16",
-        "pe_ratio": 21.43,
+        "pe_ratio": 87.62,
         "forward_return": 3.61,
         "start_price": 29.5,
         "start_year": 2019
@@ -12774,7 +12270,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-06-15",
-        "pe_ratio": 24.96,
+        "pe_ratio": 97.42,
         "forward_return": 4.33,
         "start_price": 30.2,
         "start_year": 2019
@@ -12783,7 +12279,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-07-16",
-        "pe_ratio": 24.25,
+        "pe_ratio": 93.7,
         "forward_return": 7.8,
         "start_price": 25.3,
         "start_year": 2019
@@ -12792,7 +12288,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-08-16",
-        "pe_ratio": 28.69,
+        "pe_ratio": 109.3,
         "forward_return": 6.88,
         "start_price": 25.15,
         "start_year": 2019
@@ -12801,7 +12297,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-09-15",
-        "pe_ratio": 35.99,
+        "pe_ratio": 134.5,
         "forward_return": 6.36,
         "start_price": 25.55,
         "start_year": 2019
@@ -12810,7 +12306,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-10-16",
-        "pe_ratio": 44.54,
+        "pe_ratio": 123.1,
         "forward_return": 6.99,
         "start_price": 24.2,
         "start_year": 2019
@@ -12819,7 +12315,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2019-11-15",
-        "pe_ratio": 65.84,
+        "pe_ratio": 122.0,
         "forward_return": 5.86,
         "start_price": 24.8,
         "start_year": 2019
@@ -12837,7 +12333,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "6y",
         "horizon_label": "6年",
         "start_date": "2020-01-16",
-        "pe_ratio": 62.39,
+        "pe_ratio": 89.64,
         "forward_return": 5.98,
         "start_price": 24.8,
         "start_year": 2020
@@ -12846,7 +12342,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-03-16",
-        "pe_ratio": 36.05,
+        "pe_ratio": 24.04,
         "forward_return": 14.6,
         "start_price": 13.7,
         "start_year": 2006
@@ -12855,7 +12351,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-04-15",
-        "pe_ratio": 35.53,
+        "pe_ratio": 25.16,
         "forward_return": 14.85,
         "start_price": 13.5,
         "start_year": 2006
@@ -12864,7 +12360,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-05-16",
-        "pe_ratio": 34.74,
+        "pe_ratio": 26.23,
         "forward_return": 16.62,
         "start_price": 13.2,
         "start_year": 2006
@@ -12873,7 +12369,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-06-15",
-        "pe_ratio": 35.0,
+        "pe_ratio": 28.3,
         "forward_return": 19.6,
         "start_price": 13.3,
         "start_year": 2006
@@ -12882,7 +12378,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-07-16",
-        "pe_ratio": 32.37,
+        "pe_ratio": 30.0,
         "forward_return": 19.96,
         "start_price": 12.3,
         "start_year": 2006
@@ -12891,7 +12387,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-08-16",
-        "pe_ratio": 33.29,
+        "pe_ratio": 36.14,
         "forward_return": 17.59,
         "start_price": 12.65,
         "start_year": 2006
@@ -12900,7 +12396,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-09-15",
-        "pe_ratio": 32.11,
+        "pe_ratio": 42.07,
         "forward_return": 18.61,
         "start_price": 12.2,
         "start_year": 2006
@@ -12909,7 +12405,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-10-16",
-        "pe_ratio": 31.58,
+        "pe_ratio": 37.5,
         "forward_return": 16.76,
         "start_price": 12.0,
         "start_year": 2006
@@ -12918,7 +12414,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2006-11-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.57,
         "forward_return": 15.63,
         "start_price": 12.1,
         "start_year": 2006
@@ -12936,7 +12432,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-01-16",
-        "pe_ratio": 30.06,
+        "pe_ratio": 30.76,
         "forward_return": 16.45,
         "start_price": 12.2,
         "start_year": 2007
@@ -12945,7 +12441,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-02-14",
-        "pe_ratio": 30.12,
+        "pe_ratio": 31.45,
         "forward_return": 15.88,
         "start_price": 13.0,
         "start_year": 2007
@@ -12954,7 +12450,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-03-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 33.26,
         "forward_return": 14.67,
         "start_price": 14.3,
         "start_year": 2007
@@ -12963,7 +12459,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-04-15",
-        "pe_ratio": 31.66,
+        "pe_ratio": 27.49,
         "forward_return": 13.1,
         "start_price": 15.3,
         "start_year": 2007
@@ -12972,7 +12468,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-05-16",
-        "pe_ratio": 35.84,
+        "pe_ratio": 26.71,
         "forward_return": 9.73,
         "start_price": 18.25,
         "start_year": 2007
@@ -12981,7 +12477,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-06-15",
-        "pe_ratio": 64.02,
+        "pe_ratio": 42.28,
         "forward_return": -0.24,
         "start_price": 34.25,
         "start_year": 2007
@@ -12990,7 +12486,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-07-16",
-        "pe_ratio": 101.1,
+        "pe_ratio": 72.08,
         "forward_return": -6.31,
         "start_price": 56.7,
         "start_year": 2007
@@ -12999,7 +12495,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-08-16",
-        "pe_ratio": 56.08,
+        "pe_ratio": 43.1,
         "forward_return": -2.08,
         "start_price": 32.9,
         "start_year": 2007
@@ -13008,7 +12504,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-09-15",
-        "pe_ratio": 73.31,
+        "pe_ratio": 60.68,
         "forward_return": -4.18,
         "start_price": 44.9,
         "start_year": 2007
@@ -13017,7 +12513,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-10-16",
-        "pe_ratio": 62.11,
+        "pe_ratio": 54.82,
         "forward_return": -1.13,
         "start_price": 39.65,
         "start_year": 2007
@@ -13026,7 +12522,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2007-11-15",
-        "pe_ratio": 51.42,
+        "pe_ratio": 48.33,
         "forward_return": 0.92,
         "start_price": 34.15,
         "start_year": 2007
@@ -13044,7 +12540,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-01-16",
-        "pe_ratio": 32.05,
+        "pe_ratio": 30.15,
         "forward_return": 7.18,
         "start_price": 19.5,
         "start_year": 2008
@@ -13053,7 +12549,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-02-15",
-        "pe_ratio": 56.96,
+        "pe_ratio": 49.72,
         "forward_return": 1.54,
         "start_price": 30.0,
         "start_year": 2008
@@ -13062,7 +12558,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-03-16",
-        "pe_ratio": 71.46,
+        "pe_ratio": 56.79,
         "forward_return": 1.42,
         "start_price": 31.8,
         "start_year": 2008
@@ -13071,7 +12567,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-04-15",
-        "pe_ratio": 105.0,
+        "pe_ratio": 91.56,
         "forward_return": -0.32,
         "start_price": 38.15,
         "start_year": 2008
@@ -13080,7 +12576,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-05-16",
-        "pe_ratio": 111.8,
+        "pe_ratio": 115.2,
         "forward_return": 2.13,
         "start_price": 31.5,
         "start_year": 2008
@@ -13089,7 +12585,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-06-15",
-        "pe_ratio": 114.5,
+        "pe_ratio": 176.2,
         "forward_return": 5.26,
         "start_price": 22.9,
         "start_year": 2008
@@ -13098,7 +12594,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-07-16",
-        "pe_ratio": 205.4,
+        "pe_ratio": 202.5,
         "forward_return": 4.93,
         "start_price": 24.3,
         "start_year": 2008
@@ -13107,7 +12603,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2008-08-16",
-        "pe_ratio": 621.8,
+        "pe_ratio": 207.3,
         "forward_return": 4.66,
         "start_price": 22.8,
         "start_year": 2008
@@ -13115,8 +12611,35 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "8y",
         "horizon_label": "8年",
+        "start_date": "2008-09-15",
+        "pe_ratio": 155.0,
+        "forward_return": 9.56,
+        "start_price": 15.5,
+        "start_year": 2008
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2010-05-16",
+        "pe_ratio": 136.2,
+        "forward_return": -1.95,
+        "start_price": 39.95,
+        "start_year": 2010
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
+        "start_date": "2010-06-15",
+        "pe_ratio": 67.0,
+        "forward_return": -2.26,
+        "start_price": 40.2,
+        "start_year": 2010
+      },
+      {
+        "horizon": "8y",
+        "horizon_label": "8年",
         "start_date": "2010-07-16",
-        "pe_ratio": 3200.0,
+        "pe_ratio": 68.57,
         "forward_return": -1.67,
         "start_price": 40.0,
         "start_year": 2010
@@ -13125,7 +12648,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-08-16",
-        "pe_ratio": 380.6,
+        "pe_ratio": 60.44,
         "forward_return": -1.7,
         "start_price": 34.25,
         "start_year": 2010
@@ -13134,7 +12657,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-09-15",
-        "pe_ratio": 220.3,
+        "pe_ratio": 67.09,
         "forward_return": -2.98,
         "start_price": 36.9,
         "start_year": 2010
@@ -13143,7 +12666,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-10-16",
-        "pe_ratio": 150.4,
+        "pe_ratio": 73.7,
         "forward_return": -4.12,
         "start_price": 36.85,
         "start_year": 2010
@@ -13152,7 +12675,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2010-11-15",
-        "pe_ratio": 107.0,
+        "pe_ratio": 76.67,
         "forward_return": -2.37,
         "start_price": 34.5,
         "start_year": 2010
@@ -13170,7 +12693,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-01-16",
-        "pe_ratio": 110.1,
+        "pe_ratio": 133.8,
         "forward_return": -3.3,
         "start_price": 37.9,
         "start_year": 2011
@@ -13179,7 +12702,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-02-14",
-        "pe_ratio": 120.7,
+        "pe_ratio": 208.8,
         "forward_return": -1.83,
         "start_price": 34.8,
         "start_year": 2011
@@ -13188,7 +12711,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 674.0,
         "forward_return": -1.33,
         "start_price": 33.7,
         "start_year": 2011
@@ -13197,7 +12720,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2011-04-15",
-        "pe_ratio": 195.3,
+        "pe_ratio": 10350.0,
         "forward_return": -1.38,
         "start_price": 34.5,
         "start_year": 2011
@@ -13205,35 +12728,26 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2011-05-16",
-        "pe_ratio": 278.1,
-        "forward_return": -1.05,
-        "start_price": 33.6,
-        "start_year": 2011
+        "start_date": "2012-01-16",
+        "pe_ratio": 200.8,
+        "forward_return": 0.08,
+        "start_price": 26.1,
+        "start_year": 2012
       },
       {
         "horizon": "8y",
         "horizon_label": "8年",
-        "start_date": "2011-06-15",
-        "pe_ratio": 538.5,
-        "forward_return": -1.28,
-        "start_price": 35.0,
-        "start_year": 2011
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2011-07-16",
-        "pe_ratio": 3660.0,
-        "forward_return": -2.79,
-        "start_price": 33.55,
-        "start_year": 2011
+        "start_date": "2012-02-15",
+        "pe_ratio": 57.08,
+        "forward_return": -2.74,
+        "start_price": 30.25,
+        "start_year": 2012
       },
       {
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-03-16",
-        "pe_ratio": 368.0,
+        "pe_ratio": 33.12,
         "forward_return": -5.16,
         "start_price": 30.8,
         "start_year": 2012
@@ -13242,7 +12756,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-04-15",
-        "pe_ratio": 155.0,
+        "pe_ratio": 39.06,
         "forward_return": -3.09,
         "start_price": 31.25,
         "start_year": 2012
@@ -13251,7 +12765,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-05-16",
-        "pe_ratio": 93.74,
+        "pe_ratio": 44.7,
         "forward_return": -2.03,
         "start_price": 29.95,
         "start_year": 2012
@@ -13260,7 +12774,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-06-15",
-        "pe_ratio": 66.19,
+        "pe_ratio": 53.61,
         "forward_return": -0.26,
         "start_price": 28.95,
         "start_year": 2012
@@ -13269,7 +12783,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-07-16",
-        "pe_ratio": 52.14,
+        "pe_ratio": 43.0,
         "forward_return": -1.6,
         "start_price": 28.95,
         "start_year": 2012
@@ -13278,7 +12792,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-08-16",
-        "pe_ratio": 44.49,
+        "pe_ratio": 37.13,
         "forward_return": -0.73,
         "start_price": 29.95,
         "start_year": 2012
@@ -13287,7 +12801,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-09-15",
-        "pe_ratio": 39.19,
+        "pe_ratio": 32.98,
         "forward_return": -1.85,
         "start_price": 31.0,
         "start_year": 2012
@@ -13296,7 +12810,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-10-16",
-        "pe_ratio": 32.45,
+        "pe_ratio": 29.26,
         "forward_return": -1.66,
         "start_price": 29.5,
         "start_year": 2012
@@ -13305,7 +12819,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2012-11-15",
-        "pe_ratio": 29.99,
+        "pe_ratio": 28.61,
         "forward_return": -1.59,
         "start_price": 30.8,
         "start_year": 2012
@@ -13323,7 +12837,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-01-16",
-        "pe_ratio": 36.97,
+        "pe_ratio": 50.59,
         "forward_return": -5.73,
         "start_price": 40.8,
         "start_year": 2013
@@ -13332,7 +12846,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-02-14",
-        "pe_ratio": 42.74,
+        "pe_ratio": 96.95,
         "forward_return": -6.2,
         "start_price": 45.4,
         "start_year": 2013
@@ -13341,7 +12855,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-03-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 321.5,
         "forward_return": -4.93,
         "start_price": 41.8,
         "start_year": 2013
@@ -13350,7 +12864,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-04-15",
-        "pe_ratio": 35.31,
+        "pe_ratio": 122.1,
         "forward_return": -2.53,
         "start_price": 34.6,
         "start_year": 2013
@@ -13359,7 +12873,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-05-16",
-        "pe_ratio": 37.29,
+        "pe_ratio": 80.15,
         "forward_return": -3.35,
         "start_price": 35.0,
         "start_year": 2013
@@ -13368,7 +12882,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-06-15",
-        "pe_ratio": 38.78,
+        "pe_ratio": 58.98,
         "forward_return": -2.9,
         "start_price": 34.8,
         "start_year": 2013
@@ -13377,7 +12891,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-07-16",
-        "pe_ratio": 47.07,
+        "pe_ratio": 70.7,
         "forward_return": -4.91,
         "start_price": 40.3,
         "start_year": 2013
@@ -13386,7 +12900,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-08-16",
-        "pe_ratio": 49.51,
+        "pe_ratio": 73.36,
         "forward_return": -4.94,
         "start_price": 40.35,
         "start_year": 2013
@@ -13395,7 +12909,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-09-15",
-        "pe_ratio": 55.64,
+        "pe_ratio": 81.23,
         "forward_return": -6.36,
         "start_price": 43.05,
         "start_year": 2013
@@ -13404,7 +12918,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-10-16",
-        "pe_ratio": 59.25,
+        "pe_ratio": 76.14,
         "forward_return": -6.83,
         "start_price": 43.4,
         "start_year": 2013
@@ -13413,7 +12927,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2013-11-15",
-        "pe_ratio": 56.57,
+        "pe_ratio": 64.1,
         "forward_return": -5.85,
         "start_price": 39.1,
         "start_year": 2013
@@ -13431,7 +12945,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-01-16",
-        "pe_ratio": 58.37,
+        "pe_ratio": 54.47,
         "forward_return": -5.55,
         "start_price": 39.4,
         "start_year": 2014
@@ -13440,7 +12954,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-02-14",
-        "pe_ratio": 61.93,
+        "pe_ratio": 54.41,
         "forward_return": -6.03,
         "start_price": 43.35,
         "start_year": 2014
@@ -13449,7 +12963,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-03-16",
-        "pe_ratio": 54.62,
+        "pe_ratio": 45.52,
         "forward_return": -4.79,
         "start_price": 39.6,
         "start_year": 2014
@@ -13458,7 +12972,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-04-15",
-        "pe_ratio": 52.93,
+        "pe_ratio": 43.15,
         "forward_return": -3.83,
         "start_price": 39.7,
         "start_year": 2014
@@ -13467,7 +12981,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-05-16",
-        "pe_ratio": 56.77,
+        "pe_ratio": 45.36,
         "forward_return": -5.52,
         "start_price": 44.0,
         "start_year": 2014
@@ -13476,7 +12990,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-06-15",
-        "pe_ratio": 68.12,
+        "pe_ratio": 53.43,
         "forward_return": -5.49,
         "start_price": 54.5,
         "start_year": 2014
@@ -13485,7 +12999,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-07-16",
-        "pe_ratio": 62.79,
+        "pe_ratio": 49.97,
         "forward_return": -5.42,
         "start_price": 51.8,
         "start_year": 2014
@@ -13494,7 +13008,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-08-16",
-        "pe_ratio": 53.29,
+        "pe_ratio": 43.01,
         "forward_return": -1.2,
         "start_price": 45.3,
         "start_year": 2014
@@ -13503,7 +13017,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-09-15",
-        "pe_ratio": 53.54,
+        "pe_ratio": 43.79,
         "forward_return": -2.71,
         "start_price": 46.85,
         "start_year": 2014
@@ -13512,7 +13026,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-10-16",
-        "pe_ratio": 45.0,
+        "pe_ratio": 39.32,
         "forward_return": -1.98,
         "start_price": 40.5,
         "start_year": 2014
@@ -13521,7 +13035,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2014-11-15",
-        "pe_ratio": 40.76,
+        "pe_ratio": 38.08,
         "forward_return": 0.05,
         "start_price": 37.7,
         "start_year": 2014
@@ -13539,7 +13053,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-01-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 44.78,
         "forward_return": 1.27,
         "start_price": 40.3,
         "start_year": 2015
@@ -13548,7 +13062,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-02-14",
-        "pe_ratio": 49.56,
+        "pe_ratio": 48.59,
         "forward_return": 2.35,
         "start_price": 41.3,
         "start_year": 2015
@@ -13557,7 +13071,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 52.25,
         "forward_return": 1.67,
         "start_price": 41.8,
         "start_year": 2015
@@ -13566,7 +13080,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-04-15",
-        "pe_ratio": 55.81,
+        "pe_ratio": 54.79,
         "forward_return": 2.77,
         "start_price": 40.0,
         "start_year": 2015
@@ -13575,7 +13089,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-05-16",
-        "pe_ratio": 56.81,
+        "pe_ratio": 56.67,
         "forward_return": 2.74,
         "start_price": 37.4,
         "start_year": 2015
@@ -13584,7 +13098,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-06-15",
-        "pe_ratio": 54.42,
+        "pe_ratio": 55.34,
         "forward_return": 4.35,
         "start_price": 32.65,
         "start_year": 2015
@@ -13593,7 +13107,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-07-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 60.46,
         "forward_return": 4.27,
         "start_price": 32.65,
         "start_year": 2015
@@ -13602,7 +13116,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-08-16",
-        "pe_ratio": 55.45,
+        "pe_ratio": 54.69,
         "forward_return": 4.79,
         "start_price": 26.8,
         "start_year": 2015
@@ -13611,7 +13125,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-09-15",
-        "pe_ratio": 72.71,
+        "pe_ratio": 70.23,
         "forward_return": 3.37,
         "start_price": 30.9,
         "start_year": 2015
@@ -13620,7 +13134,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-10-16",
-        "pe_ratio": 96.0,
+        "pe_ratio": 93.45,
         "forward_return": 1.57,
         "start_price": 35.2,
         "start_year": 2015
@@ -13629,7 +13143,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2015-11-15",
-        "pe_ratio": 116.0,
+        "pe_ratio": 114.1,
         "forward_return": 2.19,
         "start_price": 35.75,
         "start_year": 2015
@@ -13647,7 +13161,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-01-16",
-        "pe_ratio": 102.7,
+        "pe_ratio": 51.48,
         "forward_return": 2.41,
         "start_price": 32.95,
         "start_year": 2016
@@ -13656,7 +13170,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-02-15",
-        "pe_ratio": 83.96,
+        "pe_ratio": 31.94,
         "forward_return": 2.89,
         "start_price": 32.9,
         "start_year": 2016
@@ -13665,7 +13179,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-03-16",
-        "pe_ratio": 74.76,
+        "pe_ratio": 24.37,
         "forward_return": 2.32,
         "start_price": 34.6,
         "start_year": 2016
@@ -13674,7 +13188,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-04-15",
-        "pe_ratio": 67.83,
+        "pe_ratio": 25.55,
         "forward_return": 1.53,
         "start_price": 36.2,
         "start_year": 2016
@@ -13683,7 +13197,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-05-16",
-        "pe_ratio": 60.03,
+        "pe_ratio": 25.68,
         "forward_return": 1.92,
         "start_price": 36.3,
         "start_year": 2016
@@ -13692,7 +13206,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-06-15",
-        "pe_ratio": 49.59,
+        "pe_ratio": 23.76,
         "forward_return": 3.31,
         "start_price": 33.5,
         "start_year": 2016
@@ -13701,7 +13215,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-07-16",
-        "pe_ratio": 46.55,
+        "pe_ratio": 26.06,
         "forward_return": 2.89,
         "start_price": 34.75,
         "start_year": 2016
@@ -13710,7 +13224,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-08-16",
-        "pe_ratio": 38.96,
+        "pe_ratio": 25.34,
         "forward_return": 3.21,
         "start_price": 31.85,
         "start_year": 2016
@@ -13719,7 +13233,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-09-15",
-        "pe_ratio": 35.12,
+        "pe_ratio": 26.44,
         "forward_return": 3.23,
         "start_price": 31.2,
         "start_year": 2016
@@ -13728,7 +13242,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-10-16",
-        "pe_ratio": 31.69,
+        "pe_ratio": 26.35,
         "forward_return": 3.15,
         "start_price": 30.4,
         "start_year": 2016
@@ -13737,7 +13251,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2016-11-15",
-        "pe_ratio": 28.63,
+        "pe_ratio": 26.17,
         "forward_return": 2.89,
         "start_price": 29.5,
         "start_year": 2016
@@ -13755,7 +13269,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-01-16",
-        "pe_ratio": 29.75,
+        "pe_ratio": 41.0,
         "forward_return": 2.32,
         "start_price": 30.1,
         "start_year": 2017
@@ -13764,90 +13278,9 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2017-02-14",
-        "pe_ratio": 34.85,
+        "pe_ratio": 87.59,
         "forward_return": 1.23,
         "start_price": 32.15,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-03-16",
-        "pe_ratio": 40.02,
-        "forward_return": 1.0,
-        "start_price": 33.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-04-15",
-        "pe_ratio": 42.06,
-        "forward_return": 1.41,
-        "start_price": 31.3,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-05-16",
-        "pe_ratio": 45.35,
-        "forward_return": 2.75,
-        "start_price": 29.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-06-15",
-        "pe_ratio": 51.36,
-        "forward_return": 3.87,
-        "start_price": 29.05,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-07-16",
-        "pe_ratio": 64.24,
-        "forward_return": 3.44,
-        "start_price": 30.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-08-16",
-        "pe_ratio": 71.31,
-        "forward_return": 4.04,
-        "start_price": 27.6,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-09-15",
-        "pe_ratio": 89.66,
-        "forward_return": 4.3,
-        "start_price": 26.7,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-10-16",
-        "pe_ratio": 126.4,
-        "forward_return": 4.23,
-        "start_price": 26.35,
-        "start_year": 2017
-      },
-      {
-        "horizon": "8y",
-        "horizon_label": "8年",
-        "start_date": "2017-11-15",
-        "pe_ratio": 220.1,
-        "forward_return": 3.77,
-        "start_price": 26.25,
         "start_year": 2017
       },
       {
@@ -13863,7 +13296,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-01-16",
-        "pe_ratio": 127.1,
+        "pe_ratio": 36.85,
         "forward_return": 3.55,
         "start_price": 26.9,
         "start_year": 2018
@@ -13872,7 +13305,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "8y",
         "horizon_label": "8年",
         "start_date": "2018-02-14",
-        "pe_ratio": 69.53,
+        "pe_ratio": 19.13,
         "forward_return": 3.31,
         "start_price": 27.35,
         "start_year": 2018
@@ -13881,7 +13314,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-03-16",
-        "pe_ratio": 36.05,
+        "pe_ratio": 24.04,
         "forward_return": 10.19,
         "start_price": 13.7,
         "start_year": 2006
@@ -13890,7 +13323,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-04-15",
-        "pe_ratio": 35.53,
+        "pe_ratio": 25.16,
         "forward_return": 10.83,
         "start_price": 13.5,
         "start_year": 2006
@@ -13899,7 +13332,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-05-16",
-        "pe_ratio": 34.74,
+        "pe_ratio": 26.23,
         "forward_return": 11.11,
         "start_price": 13.2,
         "start_year": 2006
@@ -13908,7 +13341,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-06-15",
-        "pe_ratio": 35.0,
+        "pe_ratio": 28.3,
         "forward_return": 10.18,
         "start_price": 13.3,
         "start_year": 2006
@@ -13917,7 +13350,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-07-16",
-        "pe_ratio": 32.37,
+        "pe_ratio": 30.0,
         "forward_return": 11.36,
         "start_price": 12.3,
         "start_year": 2006
@@ -13926,7 +13359,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-08-16",
-        "pe_ratio": 33.29,
+        "pe_ratio": 36.14,
         "forward_return": 10.12,
         "start_price": 12.65,
         "start_year": 2006
@@ -13935,7 +13368,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-09-15",
-        "pe_ratio": 32.11,
+        "pe_ratio": 42.07,
         "forward_return": 10.3,
         "start_price": 12.2,
         "start_year": 2006
@@ -13944,7 +13377,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-10-16",
-        "pe_ratio": 31.58,
+        "pe_ratio": 37.5,
         "forward_return": 10.21,
         "start_price": 12.0,
         "start_year": 2006
@@ -13953,7 +13386,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2006-11-15",
-        "pe_ratio": 31.84,
+        "pe_ratio": 34.57,
         "forward_return": 9.8,
         "start_price": 12.1,
         "start_year": 2006
@@ -13971,7 +13404,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-01-16",
-        "pe_ratio": 30.06,
+        "pe_ratio": 30.76,
         "forward_return": 9.92,
         "start_price": 12.2,
         "start_year": 2007
@@ -13980,7 +13413,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-02-14",
-        "pe_ratio": 30.12,
+        "pe_ratio": 31.45,
         "forward_return": 9.92,
         "start_price": 13.0,
         "start_year": 2007
@@ -13989,7 +13422,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-03-16",
-        "pe_ratio": 31.26,
+        "pe_ratio": 33.26,
         "forward_return": 9.26,
         "start_price": 14.3,
         "start_year": 2007
@@ -13998,7 +13431,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-04-15",
-        "pe_ratio": 31.66,
+        "pe_ratio": 27.49,
         "forward_return": 7.87,
         "start_price": 15.3,
         "start_year": 2007
@@ -14007,7 +13440,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-05-16",
-        "pe_ratio": 35.84,
+        "pe_ratio": 26.71,
         "forward_return": 5.45,
         "start_price": 18.25,
         "start_year": 2007
@@ -14016,7 +13449,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-06-15",
-        "pe_ratio": 64.02,
+        "pe_ratio": 42.28,
         "forward_return": -1.19,
         "start_price": 34.25,
         "start_year": 2007
@@ -14025,7 +13458,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-07-16",
-        "pe_ratio": 101.1,
+        "pe_ratio": 72.08,
         "forward_return": -5.57,
         "start_price": 56.7,
         "start_year": 2007
@@ -14034,7 +13467,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-08-16",
-        "pe_ratio": 56.08,
+        "pe_ratio": 43.1,
         "forward_return": -1.26,
         "start_price": 32.9,
         "start_year": 2007
@@ -14043,7 +13476,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-09-15",
-        "pe_ratio": 73.31,
+        "pe_ratio": 60.68,
         "forward_return": -4.59,
         "start_price": 44.9,
         "start_year": 2007
@@ -14052,7 +13485,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-10-16",
-        "pe_ratio": 62.11,
+        "pe_ratio": 54.82,
         "forward_return": -3.52,
         "start_price": 39.65,
         "start_year": 2007
@@ -14061,7 +13494,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2007-11-15",
-        "pe_ratio": 51.42,
+        "pe_ratio": 48.33,
         "forward_return": -2.1,
         "start_price": 34.15,
         "start_year": 2007
@@ -14079,7 +13512,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-01-16",
-        "pe_ratio": 32.05,
+        "pe_ratio": 30.15,
         "forward_return": 3.78,
         "start_price": 19.5,
         "start_year": 2008
@@ -14088,7 +13521,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-02-15",
-        "pe_ratio": 56.96,
+        "pe_ratio": 49.72,
         "forward_return": 0.46,
         "start_price": 30.0,
         "start_year": 2008
@@ -14097,7 +13530,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-03-16",
-        "pe_ratio": 71.46,
+        "pe_ratio": 56.79,
         "forward_return": -0.12,
         "start_price": 31.8,
         "start_year": 2008
@@ -14106,7 +13539,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-04-15",
-        "pe_ratio": 105.0,
+        "pe_ratio": 91.56,
         "forward_return": -1.92,
         "start_price": 38.15,
         "start_year": 2008
@@ -14115,7 +13548,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-05-16",
-        "pe_ratio": 111.8,
+        "pe_ratio": 115.2,
         "forward_return": 0.86,
         "start_price": 31.5,
         "start_year": 2008
@@ -14124,7 +13557,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-06-15",
-        "pe_ratio": 114.5,
+        "pe_ratio": 176.2,
         "forward_return": 3.93,
         "start_price": 22.9,
         "start_year": 2008
@@ -14133,7 +13566,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-07-16",
-        "pe_ratio": 205.4,
+        "pe_ratio": 202.5,
         "forward_return": 3.71,
         "start_price": 24.3,
         "start_year": 2008
@@ -14142,7 +13575,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2008-08-16",
-        "pe_ratio": 621.8,
+        "pe_ratio": 207.3,
         "forward_return": 2.74,
         "start_price": 22.8,
         "start_year": 2008
@@ -14150,8 +13583,35 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "10y",
         "horizon_label": "10年",
+        "start_date": "2008-09-15",
+        "pe_ratio": 155.0,
+        "forward_return": 6.45,
+        "start_price": 15.5,
+        "start_year": 2008
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2010-05-16",
+        "pe_ratio": 136.2,
+        "forward_return": -4.38,
+        "start_price": 39.95,
+        "start_year": 2010
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
+        "start_date": "2010-06-15",
+        "pe_ratio": 67.0,
+        "forward_return": -3.39,
+        "start_price": 40.2,
+        "start_year": 2010
+      },
+      {
+        "horizon": "10y",
+        "horizon_label": "10年",
         "start_date": "2010-07-16",
-        "pe_ratio": 3200.0,
+        "pe_ratio": 68.57,
         "forward_return": -4.34,
         "start_price": 40.0,
         "start_year": 2010
@@ -14160,7 +13620,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-08-16",
-        "pe_ratio": 380.6,
+        "pe_ratio": 60.44,
         "forward_return": -1.84,
         "start_price": 34.25,
         "start_year": 2010
@@ -14169,7 +13629,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-09-15",
-        "pe_ratio": 220.3,
+        "pe_ratio": 67.09,
         "forward_return": -3.11,
         "start_price": 36.9,
         "start_year": 2010
@@ -14178,7 +13638,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-10-16",
-        "pe_ratio": 150.4,
+        "pe_ratio": 73.7,
         "forward_return": -3.43,
         "start_price": 36.85,
         "start_year": 2010
@@ -14187,7 +13647,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2010-11-15",
-        "pe_ratio": 107.0,
+        "pe_ratio": 76.67,
         "forward_return": -2.31,
         "start_price": 34.5,
         "start_year": 2010
@@ -14205,7 +13665,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-01-16",
-        "pe_ratio": 110.1,
+        "pe_ratio": 133.8,
         "forward_return": -3.83,
         "start_price": 37.9,
         "start_year": 2011
@@ -14214,7 +13674,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-02-14",
-        "pe_ratio": 120.7,
+        "pe_ratio": 208.8,
         "forward_return": -2.36,
         "start_price": 34.8,
         "start_year": 2011
@@ -14223,7 +13683,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-03-16",
-        "pe_ratio": 145.0,
+        "pe_ratio": 674.0,
         "forward_return": -1.8,
         "start_price": 33.7,
         "start_year": 2011
@@ -14232,7 +13692,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2011-04-15",
-        "pe_ratio": 195.3,
+        "pe_ratio": 10350.0,
         "forward_return": -1.93,
         "start_price": 34.5,
         "start_year": 2011
@@ -14240,35 +13700,26 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2011-05-16",
-        "pe_ratio": 278.1,
-        "forward_return": -2.22,
-        "start_price": 33.6,
-        "start_year": 2011
+        "start_date": "2012-01-16",
+        "pe_ratio": 200.8,
+        "forward_return": -0.33,
+        "start_price": 26.1,
+        "start_year": 2012
       },
       {
         "horizon": "10y",
         "horizon_label": "10年",
-        "start_date": "2011-06-15",
-        "pe_ratio": 538.5,
-        "forward_return": -2.31,
-        "start_price": 35.0,
-        "start_year": 2011
-      },
-      {
-        "horizon": "10y",
-        "horizon_label": "10年",
-        "start_date": "2011-07-16",
-        "pe_ratio": 3660.0,
-        "forward_return": -2.06,
-        "start_price": 33.55,
-        "start_year": 2011
+        "start_date": "2012-02-15",
+        "pe_ratio": 57.08,
+        "forward_return": -1.1,
+        "start_price": 30.25,
+        "start_year": 2012
       },
       {
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-03-16",
-        "pe_ratio": 368.0,
+        "pe_ratio": 33.12,
         "forward_return": -1.29,
         "start_price": 30.8,
         "start_year": 2012
@@ -14277,7 +13728,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-04-15",
-        "pe_ratio": 155.0,
+        "pe_ratio": 39.06,
         "forward_return": -0.63,
         "start_price": 31.25,
         "start_year": 2012
@@ -14286,7 +13737,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-05-16",
-        "pe_ratio": 93.74,
+        "pe_ratio": 44.7,
         "forward_return": -0.58,
         "start_price": 29.95,
         "start_year": 2012
@@ -14295,7 +13746,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-06-15",
-        "pe_ratio": 66.19,
+        "pe_ratio": 53.61,
         "forward_return": 1.92,
         "start_price": 28.95,
         "start_year": 2012
@@ -14304,7 +13755,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-07-16",
-        "pe_ratio": 52.14,
+        "pe_ratio": 43.0,
         "forward_return": 1.49,
         "start_price": 28.95,
         "start_year": 2012
@@ -14313,7 +13764,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-08-16",
-        "pe_ratio": 44.49,
+        "pe_ratio": 37.13,
         "forward_return": 3.32,
         "start_price": 29.95,
         "start_year": 2012
@@ -14322,7 +13773,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-09-15",
-        "pe_ratio": 39.19,
+        "pe_ratio": 32.98,
         "forward_return": 2.06,
         "start_price": 31.0,
         "start_year": 2012
@@ -14331,7 +13782,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-10-16",
-        "pe_ratio": 32.45,
+        "pe_ratio": 29.26,
         "forward_return": 1.7,
         "start_price": 29.5,
         "start_year": 2012
@@ -14340,7 +13791,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2012-11-15",
-        "pe_ratio": 29.99,
+        "pe_ratio": 28.61,
         "forward_return": 2.19,
         "start_price": 30.8,
         "start_year": 2012
@@ -14358,7 +13809,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-01-16",
-        "pe_ratio": 36.97,
+        "pe_ratio": 50.59,
         "forward_return": 0.98,
         "start_price": 40.8,
         "start_year": 2013
@@ -14367,7 +13818,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-02-14",
-        "pe_ratio": 42.74,
+        "pe_ratio": 96.95,
         "forward_return": 0.99,
         "start_price": 45.4,
         "start_year": 2013
@@ -14376,7 +13827,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-03-16",
-        "pe_ratio": 40.94,
+        "pe_ratio": 321.5,
         "forward_return": 1.42,
         "start_price": 41.8,
         "start_year": 2013
@@ -14385,7 +13836,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-04-15",
-        "pe_ratio": 35.31,
+        "pe_ratio": 122.1,
         "forward_return": 3.78,
         "start_price": 34.6,
         "start_year": 2013
@@ -14394,7 +13845,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-05-16",
-        "pe_ratio": 37.29,
+        "pe_ratio": 80.15,
         "forward_return": 2.95,
         "start_price": 35.0,
         "start_year": 2013
@@ -14403,7 +13854,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-06-15",
-        "pe_ratio": 38.78,
+        "pe_ratio": 58.98,
         "forward_return": 2.9,
         "start_price": 34.8,
         "start_year": 2013
@@ -14412,7 +13863,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-07-16",
-        "pe_ratio": 47.07,
+        "pe_ratio": 70.7,
         "forward_return": 1.33,
         "start_price": 40.3,
         "start_year": 2013
@@ -14421,7 +13872,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-08-16",
-        "pe_ratio": 49.51,
+        "pe_ratio": 73.36,
         "forward_return": -0.25,
         "start_price": 40.35,
         "start_year": 2013
@@ -14430,7 +13881,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-09-15",
-        "pe_ratio": 55.64,
+        "pe_ratio": 81.23,
         "forward_return": -0.57,
         "start_price": 43.05,
         "start_year": 2013
@@ -14439,7 +13890,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-10-16",
-        "pe_ratio": 59.25,
+        "pe_ratio": 76.14,
         "forward_return": -0.75,
         "start_price": 43.4,
         "start_year": 2013
@@ -14448,7 +13899,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2013-11-15",
-        "pe_ratio": 56.57,
+        "pe_ratio": 64.1,
         "forward_return": 0.93,
         "start_price": 39.1,
         "start_year": 2013
@@ -14466,7 +13917,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-01-16",
-        "pe_ratio": 58.37,
+        "pe_ratio": 54.47,
         "forward_return": 0.22,
         "start_price": 39.4,
         "start_year": 2014
@@ -14475,7 +13926,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-02-14",
-        "pe_ratio": 61.93,
+        "pe_ratio": 54.41,
         "forward_return": -0.38,
         "start_price": 43.35,
         "start_year": 2014
@@ -14484,7 +13935,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-03-16",
-        "pe_ratio": 54.62,
+        "pe_ratio": 45.52,
         "forward_return": 0.58,
         "start_price": 39.6,
         "start_year": 2014
@@ -14493,7 +13944,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-04-15",
-        "pe_ratio": 52.93,
+        "pe_ratio": 43.15,
         "forward_return": 0.39,
         "start_price": 39.7,
         "start_year": 2014
@@ -14502,7 +13953,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-05-16",
-        "pe_ratio": 56.77,
+        "pe_ratio": 45.36,
         "forward_return": -0.31,
         "start_price": 44.0,
         "start_year": 2014
@@ -14511,7 +13962,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-06-15",
-        "pe_ratio": 68.12,
+        "pe_ratio": 53.43,
         "forward_return": -2.15,
         "start_price": 54.5,
         "start_year": 2014
@@ -14520,7 +13971,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-07-16",
-        "pe_ratio": 62.79,
+        "pe_ratio": 49.97,
         "forward_return": -1.61,
         "start_price": 51.8,
         "start_year": 2014
@@ -14529,7 +13980,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-08-16",
-        "pe_ratio": 53.29,
+        "pe_ratio": 43.01,
         "forward_return": -0.9,
         "start_price": 45.3,
         "start_year": 2014
@@ -14538,7 +13989,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-09-15",
-        "pe_ratio": 53.54,
+        "pe_ratio": 43.79,
         "forward_return": -1.42,
         "start_price": 46.85,
         "start_year": 2014
@@ -14547,7 +13998,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-10-16",
-        "pe_ratio": 45.0,
+        "pe_ratio": 39.32,
         "forward_return": -0.29,
         "start_price": 40.5,
         "start_year": 2014
@@ -14556,7 +14007,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2014-11-15",
-        "pe_ratio": 40.76,
+        "pe_ratio": 38.08,
         "forward_return": -0.07,
         "start_price": 37.7,
         "start_year": 2014
@@ -14574,7 +14025,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-01-16",
-        "pe_ratio": 45.2,
+        "pe_ratio": 44.78,
         "forward_return": -0.98,
         "start_price": 40.3,
         "start_year": 2015
@@ -14583,7 +14034,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-02-14",
-        "pe_ratio": 49.56,
+        "pe_ratio": 48.59,
         "forward_return": -1.41,
         "start_price": 41.3,
         "start_year": 2015
@@ -14592,7 +14043,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-03-16",
-        "pe_ratio": 53.94,
+        "pe_ratio": 52.25,
         "forward_return": -1.35,
         "start_price": 41.8,
         "start_year": 2015
@@ -14601,7 +14052,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-04-15",
-        "pe_ratio": 55.81,
+        "pe_ratio": 54.79,
         "forward_return": -1.22,
         "start_price": 40.0,
         "start_year": 2015
@@ -14610,7 +14061,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-05-16",
-        "pe_ratio": 56.81,
+        "pe_ratio": 56.67,
         "forward_return": -0.03,
         "start_price": 37.4,
         "start_year": 2015
@@ -14619,7 +14070,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-06-15",
-        "pe_ratio": 54.42,
+        "pe_ratio": 55.34,
         "forward_return": 1.98,
         "start_price": 32.65,
         "start_year": 2015
@@ -14628,7 +14079,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-07-16",
-        "pe_ratio": 60.28,
+        "pe_ratio": 60.46,
         "forward_return": 2.17,
         "start_price": 32.65,
         "start_year": 2015
@@ -14637,7 +14088,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-08-16",
-        "pe_ratio": 55.45,
+        "pe_ratio": 54.69,
         "forward_return": 3.63,
         "start_price": 26.8,
         "start_year": 2015
@@ -14646,7 +14097,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-09-15",
-        "pe_ratio": 72.71,
+        "pe_ratio": 70.23,
         "forward_return": 2.03,
         "start_price": 30.9,
         "start_year": 2015
@@ -14655,7 +14106,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-10-16",
-        "pe_ratio": 96.0,
+        "pe_ratio": 93.45,
         "forward_return": 0.52,
         "start_price": 35.2,
         "start_year": 2015
@@ -14664,7 +14115,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2015-11-15",
-        "pe_ratio": 116.0,
+        "pe_ratio": 114.1,
         "forward_return": -0.02,
         "start_price": 35.75,
         "start_year": 2015
@@ -14682,7 +14133,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
         "horizon": "10y",
         "horizon_label": "10年",
         "start_date": "2016-01-16",
-        "pe_ratio": 102.7,
+        "pe_ratio": 51.48,
         "forward_return": 0.87,
         "start_price": 32.95,
         "start_year": 2016
@@ -14889,7 +14340,7 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
 
 股價與歷史本益比百分位（10%、25%、50%、75%、90%）對應的價位區間。綠色區域為低估值區，黃色為合理區，紅色為高估值區。
 
-!!! note "本益比河流帶水位: 16.6倍、21.0倍、34.7倍、58.8倍、114.5倍"
+!!! note "本益比河流帶水位: 14.4倍、21.5倍、29.6倍、57.5倍、105.7倍"
 
 ```vegalite
 {
@@ -14900,2112 +14351,2042 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "date": "2006-03-16",
         "price": 13.7,
-        "pe": 36.05,
-        "pe_10": 6.3,
-        "pe_25": 7.97,
-        "pe_50": 13.2,
-        "pe_75": 22.35,
-        "pe_90": 43.51
+        "pe": 24.04,
+        "pe_10": 8.21,
+        "pe_25": 12.25,
+        "pe_50": 16.89,
+        "pe_75": 32.8,
+        "pe_90": 60.26
       },
       {
         "date": "2006-04-15",
         "price": 13.5,
-        "pe": 35.53,
-        "pe_10": 6.3,
-        "pe_25": 7.97,
-        "pe_50": 13.2,
-        "pe_75": 22.35,
-        "pe_90": 43.51
+        "pe": 25.16,
+        "pe_10": 7.73,
+        "pe_25": 11.54,
+        "pe_50": 15.9,
+        "pe_75": 30.88,
+        "pe_90": 56.73
       },
       {
         "date": "2006-05-16",
         "price": 13.2,
-        "pe": 34.74,
-        "pe_10": 6.3,
-        "pe_25": 7.97,
-        "pe_50": 13.2,
-        "pe_75": 22.35,
-        "pe_90": 43.51
+        "pe": 26.23,
+        "pe_10": 7.25,
+        "pe_25": 10.82,
+        "pe_50": 14.91,
+        "pe_75": 28.96,
+        "pe_90": 53.21
       },
       {
         "date": "2006-06-15",
         "price": 13.3,
-        "pe": 35.0,
-        "pe_10": 6.3,
-        "pe_25": 7.97,
-        "pe_50": 13.2,
-        "pe_75": 22.35,
-        "pe_90": 43.51
+        "pe": 28.3,
+        "pe_10": 6.77,
+        "pe_25": 10.1,
+        "pe_50": 13.93,
+        "pe_75": 27.05,
+        "pe_90": 49.69
       },
       {
         "date": "2006-07-16",
         "price": 12.3,
-        "pe": 32.37,
-        "pe_10": 6.3,
-        "pe_25": 7.97,
-        "pe_50": 13.2,
-        "pe_75": 22.35,
-        "pe_90": 43.51
+        "pe": 30.0,
+        "pe_10": 5.9,
+        "pe_25": 8.82,
+        "pe_50": 12.15,
+        "pe_75": 23.6,
+        "pe_90": 43.35
       },
       {
         "date": "2006-08-16",
         "price": 12.65,
-        "pe": 33.29,
-        "pe_10": 6.3,
-        "pe_25": 7.97,
-        "pe_50": 13.2,
-        "pe_75": 22.35,
-        "pe_90": 43.51
+        "pe": 36.14,
+        "pe_10": 5.04,
+        "pe_25": 7.53,
+        "pe_50": 10.37,
+        "pe_75": 20.15,
+        "pe_90": 37.01
       },
       {
         "date": "2006-09-15",
         "price": 12.2,
-        "pe": 32.11,
-        "pe_10": 6.3,
-        "pe_25": 7.97,
-        "pe_50": 13.2,
-        "pe_75": 22.34,
-        "pe_90": 43.5
+        "pe": 42.07,
+        "pe_10": 4.18,
+        "pe_25": 6.23,
+        "pe_50": 8.59,
+        "pe_75": 16.69,
+        "pe_90": 30.66
       },
       {
         "date": "2006-10-16",
         "price": 12.0,
-        "pe": 31.58,
-        "pe_10": 6.3,
-        "pe_25": 7.97,
-        "pe_50": 13.2,
-        "pe_75": 22.35,
-        "pe_90": 43.51
+        "pe": 37.5,
+        "pe_10": 4.61,
+        "pe_25": 6.88,
+        "pe_50": 9.48,
+        "pe_75": 18.42,
+        "pe_90": 33.84
       },
       {
         "date": "2006-11-15",
         "price": 12.1,
-        "pe": 31.84,
-        "pe_10": 6.3,
-        "pe_25": 7.97,
-        "pe_50": 13.2,
-        "pe_75": 22.35,
-        "pe_90": 43.51
+        "pe": 34.57,
+        "pe_10": 5.04,
+        "pe_25": 7.53,
+        "pe_50": 10.37,
+        "pe_75": 20.15,
+        "pe_90": 37.01
       },
       {
         "date": "2006-12-16",
         "price": 12.8,
         "pe": 33.68,
-        "pe_10": 6.3,
-        "pe_25": 7.97,
-        "pe_50": 13.2,
-        "pe_75": 22.35,
-        "pe_90": 43.52
+        "pe_10": 5.47,
+        "pe_25": 8.17,
+        "pe_50": 11.26,
+        "pe_75": 21.87,
+        "pe_90": 40.18
       },
       {
         "date": "2007-01-16",
         "price": 12.2,
-        "pe": 30.06,
-        "pe_10": 6.73,
-        "pe_25": 8.51,
-        "pe_50": 14.1,
-        "pe_75": 23.87,
-        "pe_90": 46.47
+        "pe": 30.76,
+        "pe_10": 5.71,
+        "pe_25": 8.53,
+        "pe_50": 11.75,
+        "pe_75": 22.83,
+        "pe_90": 41.94
       },
       {
         "date": "2007-02-14",
         "price": 13.0,
-        "pe": 30.12,
-        "pe_10": 7.16,
-        "pe_25": 9.05,
-        "pe_50": 14.99,
-        "pe_75": 25.38,
-        "pe_90": 49.42
+        "pe": 31.45,
+        "pe_10": 5.95,
+        "pe_25": 8.89,
+        "pe_50": 12.25,
+        "pe_75": 23.79,
+        "pe_90": 43.71
       },
       {
         "date": "2007-03-16",
         "price": 14.3,
-        "pe": 31.26,
-        "pe_10": 7.58,
-        "pe_25": 9.59,
-        "pe_50": 15.89,
-        "pe_75": 26.9,
-        "pe_90": 52.38
+        "pe": 33.26,
+        "pe_10": 6.19,
+        "pe_25": 9.24,
+        "pe_50": 12.74,
+        "pe_75": 24.75,
+        "pe_90": 45.46
       },
       {
         "date": "2007-04-15",
         "price": 15.3,
-        "pe": 31.66,
+        "pe": 27.49,
         "pe_10": 8.01,
-        "pe_25": 10.13,
-        "pe_50": 16.79,
-        "pe_75": 28.42,
-        "pe_90": 55.33
+        "pe_25": 11.97,
+        "pe_50": 16.49,
+        "pe_75": 32.03,
+        "pe_90": 58.85
       },
       {
         "date": "2007-05-16",
         "price": 18.25,
-        "pe": 35.84,
-        "pe_10": 8.44,
-        "pe_25": 10.68,
-        "pe_50": 17.69,
-        "pe_75": 29.95,
-        "pe_90": 58.3
+        "pe": 26.71,
+        "pe_10": 9.84,
+        "pe_25": 14.69,
+        "pe_50": 20.25,
+        "pe_75": 39.33,
+        "pe_90": 72.25
       },
       {
         "date": "2007-06-15",
         "price": 34.25,
-        "pe": 64.02,
-        "pe_10": 8.87,
-        "pe_25": 11.22,
-        "pe_50": 18.59,
-        "pe_75": 31.46,
-        "pe_90": 61.26
+        "pe": 42.28,
+        "pe_10": 11.67,
+        "pe_25": 17.42,
+        "pe_50": 24.0,
+        "pe_75": 46.62,
+        "pe_90": 85.65
       },
       {
         "date": "2007-07-16",
         "price": 56.7,
-        "pe": 101.1,
-        "pe_10": 9.3,
-        "pe_25": 11.76,
-        "pe_50": 19.48,
-        "pe_75": 32.98,
-        "pe_90": 64.22
+        "pe": 72.08,
+        "pe_10": 11.33,
+        "pe_25": 16.91,
+        "pe_50": 23.31,
+        "pe_75": 45.27,
+        "pe_90": 83.17
       },
       {
         "date": "2007-08-16",
         "price": 32.9,
-        "pe": 56.08,
-        "pe_10": 9.73,
-        "pe_25": 12.3,
-        "pe_50": 20.38,
-        "pe_75": 34.5,
-        "pe_90": 67.17
+        "pe": 43.1,
+        "pe_10": 10.99,
+        "pe_25": 16.41,
+        "pe_50": 22.62,
+        "pe_75": 43.93,
+        "pe_90": 80.71
       },
       {
         "date": "2007-09-15",
         "price": 44.9,
-        "pe": 73.31,
-        "pe_10": 10.15,
-        "pe_25": 12.84,
-        "pe_50": 21.28,
-        "pe_75": 36.02,
-        "pe_90": 70.13
+        "pe": 60.68,
+        "pe_10": 10.66,
+        "pe_25": 15.91,
+        "pe_50": 21.92,
+        "pe_75": 42.59,
+        "pe_90": 78.24
       },
       {
         "date": "2007-10-16",
         "price": 39.65,
-        "pe": 62.11,
-        "pe_10": 10.58,
-        "pe_25": 13.38,
-        "pe_50": 22.18,
-        "pe_75": 37.54,
-        "pe_90": 73.09
+        "pe": 54.82,
+        "pe_10": 10.42,
+        "pe_25": 15.55,
+        "pe_50": 21.43,
+        "pe_75": 41.63,
+        "pe_90": 76.48
       },
       {
         "date": "2007-11-15",
         "price": 34.15,
-        "pe": 51.42,
-        "pe_10": 11.01,
-        "pe_25": 13.92,
-        "pe_50": 23.07,
-        "pe_75": 39.06,
-        "pe_90": 76.04
+        "pe": 48.33,
+        "pe_10": 10.18,
+        "pe_25": 15.19,
+        "pe_50": 20.94,
+        "pe_75": 40.67,
+        "pe_90": 74.71
       },
       {
         "date": "2007-12-16",
         "price": 31.9,
         "pe": 46.23,
-        "pe_10": 11.44,
-        "pe_25": 14.47,
-        "pe_50": 23.97,
-        "pe_75": 40.58,
-        "pe_90": 79.01
+        "pe_10": 9.94,
+        "pe_25": 14.84,
+        "pe_50": 20.45,
+        "pe_75": 39.71,
+        "pe_90": 72.96
       },
       {
         "date": "2008-01-16",
         "price": 19.5,
-        "pe": 32.05,
-        "pe_10": 10.09,
-        "pe_25": 12.76,
-        "pe_50": 21.14,
-        "pe_75": 35.78,
-        "pe_90": 69.66
+        "pe": 30.15,
+        "pe_10": 9.31,
+        "pe_25": 13.91,
+        "pe_50": 19.16,
+        "pe_75": 37.22,
+        "pe_90": 68.39
       },
       {
         "date": "2008-02-15",
         "price": 30.0,
-        "pe": 56.96,
-        "pe_10": 8.73,
-        "pe_25": 11.04,
-        "pe_50": 18.3,
-        "pe_75": 30.97,
-        "pe_90": 60.31
+        "pe": 49.72,
+        "pe_10": 8.69,
+        "pe_25": 12.97,
+        "pe_50": 17.88,
+        "pe_75": 34.73,
+        "pe_90": 63.8
       },
       {
         "date": "2008-03-16",
         "price": 31.8,
-        "pe": 71.46,
-        "pe_10": 7.38,
-        "pe_25": 9.33,
-        "pe_50": 15.46,
-        "pe_75": 26.17,
-        "pe_90": 50.95
+        "pe": 56.79,
+        "pe_10": 8.06,
+        "pe_25": 12.04,
+        "pe_50": 16.59,
+        "pe_75": 32.23,
+        "pe_90": 59.21
       },
       {
         "date": "2008-04-15",
         "price": 38.15,
-        "pe": 105.0,
-        "pe_10": 6.02,
-        "pe_25": 7.62,
-        "pe_50": 12.62,
-        "pe_75": 21.37,
-        "pe_90": 41.6
+        "pe": 91.56,
+        "pe_10": 6.0,
+        "pe_25": 8.96,
+        "pe_50": 12.35,
+        "pe_75": 23.98,
+        "pe_90": 44.06
       },
       {
         "date": "2008-05-16",
         "price": 31.5,
-        "pe": 111.8,
-        "pe_10": 4.67,
-        "pe_25": 5.91,
-        "pe_50": 9.79,
-        "pe_75": 16.57,
-        "pe_90": 32.26
+        "pe": 115.2,
+        "pe_10": 3.94,
+        "pe_25": 5.88,
+        "pe_50": 8.1,
+        "pe_75": 15.74,
+        "pe_90": 28.91
       },
       {
         "date": "2008-06-15",
         "price": 22.9,
-        "pe": 114.5,
-        "pe_10": 3.32,
-        "pe_25": 4.19,
-        "pe_50": 6.95,
-        "pe_75": 11.76,
-        "pe_90": 22.9
+        "pe": 176.2,
+        "pe_10": 1.87,
+        "pe_25": 2.79,
+        "pe_50": 3.85,
+        "pe_75": 7.48,
+        "pe_90": 13.74
       },
       {
         "date": "2008-07-16",
         "price": 24.3,
-        "pe": 205.4,
-        "pe_10": 1.96,
-        "pe_25": 2.48,
-        "pe_50": 4.11,
-        "pe_75": 6.96,
-        "pe_90": 13.55
+        "pe": 202.5,
+        "pe_10": 1.73,
+        "pe_25": 2.58,
+        "pe_50": 3.56,
+        "pe_75": 6.91,
+        "pe_90": 12.69
       },
       {
         "date": "2008-08-16",
         "price": 22.8,
-        "pe": 621.8,
-        "pe_10": 0.61,
-        "pe_25": 0.77,
-        "pe_50": 1.27,
-        "pe_75": 2.16,
-        "pe_90": 4.2
+        "pe": 207.3,
+        "pe_10": 1.58,
+        "pe_25": 2.36,
+        "pe_50": 3.26,
+        "pe_75": 6.33,
+        "pe_90": 11.63
+      },
+      {
+        "date": "2008-09-15",
+        "price": 15.5,
+        "pe": 155.0,
+        "pe_10": 1.44,
+        "pe_25": 2.15,
+        "pe_50": 2.96,
+        "pe_75": 5.76,
+        "pe_90": 10.57
+      },
+      {
+        "date": "2010-05-16",
+        "price": 39.95,
+        "pe": 136.2,
+        "pe_10": 4.22,
+        "pe_25": 6.31,
+        "pe_50": 8.69,
+        "pe_75": 16.88,
+        "pe_90": 31.01
+      },
+      {
+        "date": "2010-06-15",
+        "price": 40.2,
+        "pe": 67.0,
+        "pe_10": 8.64,
+        "pe_25": 12.9,
+        "pe_50": 17.78,
+        "pe_75": 34.53,
+        "pe_90": 63.44
       },
       {
         "date": "2010-07-16",
         "price": 40.0,
-        "pe": 3200.0,
-        "pe_10": 0.21,
-        "pe_25": 0.26,
-        "pe_50": 0.43,
-        "pe_75": 0.74,
-        "pe_90": 1.43
+        "pe": 68.57,
+        "pe_10": 8.4,
+        "pe_25": 12.54,
+        "pe_50": 17.28,
+        "pe_75": 33.57,
+        "pe_90": 61.68
       },
       {
         "date": "2010-08-16",
         "price": 34.25,
-        "pe": 380.6,
-        "pe_10": 1.49,
-        "pe_25": 1.89,
-        "pe_50": 3.13,
-        "pe_75": 5.29,
-        "pe_90": 10.3
+        "pe": 60.44,
+        "pe_10": 8.16,
+        "pe_25": 12.18,
+        "pe_50": 16.79,
+        "pe_75": 32.62,
+        "pe_90": 59.92
       },
       {
         "date": "2010-09-15",
         "price": 36.9,
-        "pe": 220.3,
-        "pe_10": 2.78,
-        "pe_25": 3.51,
-        "pe_50": 5.82,
-        "pe_75": 9.85,
-        "pe_90": 19.18
+        "pe": 67.09,
+        "pe_10": 7.92,
+        "pe_25": 11.83,
+        "pe_50": 16.3,
+        "pe_75": 31.66,
+        "pe_90": 58.16
       },
       {
         "date": "2010-10-16",
         "price": 36.85,
-        "pe": 150.4,
-        "pe_10": 4.06,
-        "pe_25": 5.14,
-        "pe_50": 8.51,
-        "pe_75": 14.41,
-        "pe_90": 28.05
+        "pe": 73.7,
+        "pe_10": 7.2,
+        "pe_25": 10.75,
+        "pe_50": 14.82,
+        "pe_75": 28.78,
+        "pe_90": 52.87
       },
       {
         "date": "2010-11-15",
         "price": 34.5,
-        "pe": 107.0,
-        "pe_10": 5.35,
-        "pe_25": 6.76,
-        "pe_50": 11.2,
-        "pe_75": 18.96,
-        "pe_90": 36.92
+        "pe": 76.67,
+        "pe_10": 6.48,
+        "pe_25": 9.67,
+        "pe_50": 13.33,
+        "pe_75": 25.9,
+        "pe_90": 47.58
       },
       {
         "date": "2010-12-16",
         "price": 34.65,
         "pe": 86.62,
-        "pe_10": 6.63,
-        "pe_25": 8.39,
-        "pe_50": 13.9,
-        "pe_75": 23.53,
-        "pe_90": 45.8
+        "pe_10": 5.76,
+        "pe_25": 8.6,
+        "pe_50": 11.85,
+        "pe_75": 23.02,
+        "pe_90": 42.3
       },
       {
         "date": "2011-01-16",
         "price": 37.9,
-        "pe": 110.1,
-        "pe_10": 5.71,
-        "pe_25": 7.22,
-        "pe_50": 11.96,
-        "pe_75": 20.24,
-        "pe_90": 39.41
+        "pe": 133.8,
+        "pe_10": 4.08,
+        "pe_25": 6.09,
+        "pe_50": 8.39,
+        "pe_75": 16.3,
+        "pe_90": 29.95
       },
       {
         "date": "2011-02-14",
         "price": 34.8,
-        "pe": 120.7,
-        "pe_10": 4.78,
-        "pe_25": 6.04,
-        "pe_50": 10.02,
-        "pe_75": 16.96,
-        "pe_90": 33.01
+        "pe": 208.8,
+        "pe_10": 2.4,
+        "pe_25": 3.58,
+        "pe_50": 4.94,
+        "pe_75": 9.59,
+        "pe_90": 17.62
       },
       {
         "date": "2011-03-16",
         "price": 33.7,
-        "pe": 145.0,
-        "pe_10": 3.85,
-        "pe_25": 4.87,
-        "pe_50": 8.07,
-        "pe_75": 13.67,
-        "pe_90": 26.61
+        "pe": 674.0,
+        "pe_10": 0.72,
+        "pe_25": 1.07,
+        "pe_50": 1.48,
+        "pe_75": 2.88,
+        "pe_90": 5.29
       },
       {
         "date": "2011-04-15",
         "price": 34.5,
-        "pe": 195.3,
-        "pe_10": 2.93,
-        "pe_25": 3.7,
-        "pe_50": 6.14,
-        "pe_75": 10.39,
-        "pe_90": 20.23
+        "pe": 10350.0,
+        "pe_10": 0.05,
+        "pe_25": 0.07,
+        "pe_50": 0.1,
+        "pe_75": 0.19,
+        "pe_90": 0.35
       },
       {
-        "date": "2011-05-16",
-        "price": 33.6,
-        "pe": 278.1,
-        "pe_10": 2.0,
-        "pe_25": 2.53,
-        "pe_50": 4.2,
-        "pe_75": 7.11,
-        "pe_90": 13.83
+        "date": "2012-01-16",
+        "price": 26.1,
+        "pe": 200.8,
+        "pe_10": 1.87,
+        "pe_25": 2.79,
+        "pe_50": 3.85,
+        "pe_75": 7.48,
+        "pe_90": 13.74
       },
       {
-        "date": "2011-06-15",
-        "price": 35.0,
-        "pe": 538.5,
-        "pe_10": 1.08,
-        "pe_25": 1.36,
-        "pe_50": 2.26,
-        "pe_75": 3.82,
-        "pe_90": 7.44
-      },
-      {
-        "date": "2011-07-16",
-        "price": 33.55,
-        "pe": 3660.0,
-        "pe_10": 0.15,
-        "pe_25": 0.19,
-        "pe_50": 0.32,
-        "pe_75": 0.54,
-        "pe_90": 1.05
+        "date": "2012-02-15",
+        "price": 30.25,
+        "pe": 57.08,
+        "pe_10": 7.63,
+        "pe_25": 11.39,
+        "pe_50": 15.7,
+        "pe_75": 30.5,
+        "pe_90": 56.04
       },
       {
         "date": "2012-03-16",
         "price": 30.8,
-        "pe": 368.0,
-        "pe_10": 1.39,
-        "pe_25": 1.75,
-        "pe_50": 2.91,
-        "pe_75": 4.92,
-        "pe_90": 9.58
+        "pe": 33.12,
+        "pe_10": 13.39,
+        "pe_25": 19.99,
+        "pe_50": 27.55,
+        "pe_75": 53.52,
+        "pe_90": 98.33
       },
       {
         "date": "2012-04-15",
         "price": 31.25,
-        "pe": 155.0,
-        "pe_10": 3.34,
-        "pe_25": 4.23,
-        "pe_50": 7.0,
-        "pe_75": 11.86,
-        "pe_90": 23.08
+        "pe": 39.06,
+        "pe_10": 11.52,
+        "pe_25": 17.2,
+        "pe_50": 23.71,
+        "pe_75": 46.05,
+        "pe_90": 84.59
       },
       {
         "date": "2012-05-16",
         "price": 29.95,
-        "pe": 93.74,
-        "pe_10": 5.3,
-        "pe_25": 6.7,
-        "pe_50": 11.1,
-        "pe_75": 18.79,
-        "pe_90": 36.58
+        "pe": 44.7,
+        "pe_10": 9.65,
+        "pe_25": 14.41,
+        "pe_50": 19.85,
+        "pe_75": 38.56,
+        "pe_90": 70.85
       },
       {
         "date": "2012-06-15",
         "price": 28.95,
-        "pe": 66.19,
-        "pe_10": 7.25,
-        "pe_25": 9.17,
-        "pe_50": 15.19,
-        "pe_75": 25.72,
-        "pe_90": 50.08
+        "pe": 53.61,
+        "pe_10": 7.78,
+        "pe_25": 11.61,
+        "pe_50": 16.0,
+        "pe_75": 31.08,
+        "pe_90": 57.1
       },
       {
         "date": "2012-07-16",
         "price": 28.95,
-        "pe": 52.14,
-        "pe_10": 9.21,
-        "pe_25": 11.64,
-        "pe_50": 19.29,
-        "pe_75": 32.65,
-        "pe_90": 63.57
+        "pe": 43.0,
+        "pe_10": 9.69,
+        "pe_25": 14.47,
+        "pe_50": 19.95,
+        "pe_75": 38.75,
+        "pe_90": 71.19
       },
       {
         "date": "2012-08-16",
         "price": 29.95,
-        "pe": 44.49,
-        "pe_10": 11.16,
-        "pe_25": 14.11,
-        "pe_50": 23.39,
-        "pe_75": 39.59,
-        "pe_90": 77.08
+        "pe": 37.13,
+        "pe_10": 11.62,
+        "pe_25": 17.34,
+        "pe_50": 23.9,
+        "pe_75": 46.43,
+        "pe_90": 85.29
       },
       {
         "date": "2012-09-15",
         "price": 31.0,
-        "pe": 39.19,
-        "pe_10": 13.12,
-        "pe_25": 16.58,
-        "pe_50": 27.48,
-        "pe_75": 46.52,
-        "pe_90": 90.57
+        "pe": 32.98,
+        "pe_10": 13.54,
+        "pe_25": 20.21,
+        "pe_50": 27.85,
+        "pe_75": 54.1,
+        "pe_90": 99.39
       },
       {
         "date": "2012-10-16",
         "price": 29.5,
-        "pe": 32.45,
-        "pe_10": 15.07,
-        "pe_25": 19.06,
-        "pe_50": 31.58,
-        "pe_75": 53.46,
-        "pe_90": 104.09
+        "pe": 29.26,
+        "pe_10": 14.52,
+        "pe_25": 21.68,
+        "pe_50": 29.87,
+        "pe_75": 58.03,
+        "pe_90": 106.6
       },
       {
         "date": "2012-11-15",
         "price": 30.8,
-        "pe": 29.99,
-        "pe_10": 17.03,
-        "pe_25": 21.53,
-        "pe_50": 35.68,
-        "pe_75": 60.4,
-        "pe_90": 117.59
+        "pe": 28.61,
+        "pe_10": 15.5,
+        "pe_25": 23.15,
+        "pe_50": 31.9,
+        "pe_75": 61.96,
+        "pe_90": 113.83
       },
       {
         "date": "2012-12-16",
         "price": 39.1,
         "pe": 34.16,
-        "pe_10": 18.98,
-        "pe_25": 24.0,
-        "pe_50": 39.76,
-        "pe_75": 67.31,
-        "pe_90": 131.06
+        "pe_10": 16.48,
+        "pe_25": 24.61,
+        "pe_50": 33.91,
+        "pe_75": 65.88,
+        "pe_90": 121.03
       },
       {
         "date": "2013-01-16",
         "price": 40.8,
-        "pe": 36.97,
-        "pe_10": 18.3,
-        "pe_25": 23.14,
-        "pe_50": 38.34,
-        "pe_75": 64.9,
-        "pe_90": 126.36
+        "pe": 50.59,
+        "pe_10": 11.61,
+        "pe_25": 17.34,
+        "pe_50": 23.9,
+        "pe_75": 46.42,
+        "pe_90": 85.27
       },
       {
         "date": "2013-02-14",
         "price": 45.4,
-        "pe": 42.74,
-        "pe_10": 17.61,
-        "pe_25": 22.27,
-        "pe_50": 36.9,
-        "pe_75": 62.47,
-        "pe_90": 121.63
+        "pe": 96.95,
+        "pe_10": 6.74,
+        "pe_25": 10.07,
+        "pe_50": 13.88,
+        "pe_75": 26.95,
+        "pe_90": 49.51
       },
       {
         "date": "2013-03-16",
         "price": 41.8,
-        "pe": 40.94,
-        "pe_10": 16.93,
-        "pe_25": 21.41,
-        "pe_50": 35.47,
-        "pe_75": 60.05,
-        "pe_90": 116.91
+        "pe": 321.5,
+        "pe_10": 1.87,
+        "pe_25": 2.8,
+        "pe_50": 3.85,
+        "pe_75": 7.48,
+        "pe_90": 13.75
       },
       {
         "date": "2013-04-15",
         "price": 34.6,
-        "pe": 35.31,
-        "pe_10": 16.25,
-        "pe_25": 20.54,
-        "pe_50": 34.04,
-        "pe_75": 57.63,
-        "pe_90": 112.2
+        "pe": 122.1,
+        "pe_10": 4.08,
+        "pe_25": 6.09,
+        "pe_50": 8.4,
+        "pe_75": 16.31,
+        "pe_90": 29.96
       },
       {
         "date": "2013-05-16",
         "price": 35.0,
-        "pe": 37.29,
-        "pe_10": 15.56,
-        "pe_25": 19.68,
-        "pe_50": 32.61,
-        "pe_75": 55.2,
-        "pe_90": 107.47
+        "pe": 80.15,
+        "pe_10": 6.29,
+        "pe_25": 9.39,
+        "pe_50": 12.94,
+        "pe_75": 25.13,
+        "pe_90": 46.17
       },
       {
         "date": "2013-06-15",
         "price": 34.8,
-        "pe": 38.78,
-        "pe_10": 14.88,
-        "pe_25": 18.81,
-        "pe_50": 31.17,
-        "pe_75": 52.77,
-        "pe_90": 102.75
+        "pe": 58.98,
+        "pe_10": 8.5,
+        "pe_25": 12.69,
+        "pe_50": 17.48,
+        "pe_75": 33.96,
+        "pe_90": 62.39
       },
       {
         "date": "2013-07-16",
         "price": 40.3,
-        "pe": 47.07,
-        "pe_10": 14.2,
-        "pe_25": 17.95,
-        "pe_50": 29.74,
-        "pe_75": 50.35,
-        "pe_90": 98.03
+        "pe": 70.7,
+        "pe_10": 8.21,
+        "pe_25": 12.26,
+        "pe_50": 16.89,
+        "pe_75": 32.81,
+        "pe_90": 60.27
       },
       {
         "date": "2013-08-16",
         "price": 40.35,
-        "pe": 49.51,
-        "pe_10": 13.51,
-        "pe_25": 17.09,
-        "pe_50": 28.31,
-        "pe_75": 47.93,
-        "pe_90": 93.32
+        "pe": 73.36,
+        "pe_10": 7.92,
+        "pe_25": 11.83,
+        "pe_50": 16.3,
+        "pe_75": 31.66,
+        "pe_90": 58.16
       },
       {
         "date": "2013-09-15",
         "price": 43.05,
-        "pe": 55.64,
-        "pe_10": 12.83,
-        "pe_25": 16.22,
-        "pe_50": 26.88,
-        "pe_75": 45.5,
-        "pe_90": 88.59
+        "pe": 81.23,
+        "pe_10": 7.63,
+        "pe_25": 11.39,
+        "pe_50": 15.7,
+        "pe_75": 30.5,
+        "pe_90": 56.04
       },
       {
         "date": "2013-10-16",
         "price": 43.4,
-        "pe": 59.25,
-        "pe_10": 12.14,
-        "pe_25": 15.36,
-        "pe_50": 25.45,
-        "pe_75": 43.08,
-        "pe_90": 83.87
+        "pe": 76.14,
+        "pe_10": 8.21,
+        "pe_25": 12.26,
+        "pe_50": 16.89,
+        "pe_75": 32.81,
+        "pe_90": 60.27
       },
       {
         "date": "2013-11-15",
         "price": 39.1,
-        "pe": 56.57,
-        "pe_10": 11.46,
-        "pe_25": 14.49,
-        "pe_50": 24.01,
-        "pe_75": 40.65,
-        "pe_90": 79.14
+        "pe": 64.1,
+        "pe_10": 8.78,
+        "pe_25": 13.11,
+        "pe_50": 18.07,
+        "pe_75": 35.11,
+        "pe_90": 64.5
       },
       {
         "date": "2013-12-16",
         "price": 38.7,
         "pe": 59.54,
-        "pe_10": 10.78,
-        "pe_25": 13.63,
-        "pe_50": 22.58,
-        "pe_75": 38.23,
-        "pe_90": 74.42
+        "pe_10": 9.36,
+        "pe_25": 13.97,
+        "pe_50": 19.26,
+        "pe_75": 37.41,
+        "pe_90": 68.73
       },
       {
         "date": "2014-01-16",
         "price": 39.4,
-        "pe": 58.37,
-        "pe_10": 11.19,
-        "pe_25": 14.15,
-        "pe_50": 23.45,
-        "pe_75": 39.7,
-        "pe_90": 77.29
+        "pe": 54.47,
+        "pe_10": 10.42,
+        "pe_25": 15.55,
+        "pe_50": 21.43,
+        "pe_75": 41.63,
+        "pe_90": 76.48
       },
       {
         "date": "2014-02-14",
         "price": 43.35,
-        "pe": 61.93,
-        "pe_10": 11.61,
-        "pe_25": 14.68,
-        "pe_50": 24.32,
-        "pe_75": 41.17,
-        "pe_90": 80.15
+        "pe": 54.41,
+        "pe_10": 11.47,
+        "pe_25": 17.13,
+        "pe_50": 23.61,
+        "pe_75": 45.86,
+        "pe_90": 84.24
       },
       {
         "date": "2014-03-16",
         "price": 39.6,
-        "pe": 54.62,
-        "pe_10": 12.02,
-        "pe_25": 15.2,
-        "pe_50": 25.19,
-        "pe_75": 42.64,
-        "pe_90": 83.01
+        "pe": 45.52,
+        "pe_10": 12.53,
+        "pe_25": 18.7,
+        "pe_50": 25.78,
+        "pe_75": 50.07,
+        "pe_90": 91.98
       },
       {
         "date": "2014-04-15",
         "price": 39.7,
-        "pe": 52.93,
-        "pe_10": 12.44,
-        "pe_25": 15.72,
-        "pe_50": 26.06,
-        "pe_75": 44.11,
-        "pe_90": 85.88
+        "pe": 43.15,
+        "pe_10": 13.25,
+        "pe_25": 19.78,
+        "pe_50": 27.26,
+        "pe_75": 52.95,
+        "pe_90": 97.28
       },
       {
         "date": "2014-05-16",
         "price": 44.0,
-        "pe": 56.77,
-        "pe_10": 12.85,
-        "pe_25": 16.25,
-        "pe_50": 26.93,
-        "pe_75": 45.58,
-        "pe_90": 88.74
+        "pe": 45.36,
+        "pe_10": 13.97,
+        "pe_25": 20.86,
+        "pe_50": 28.74,
+        "pe_75": 55.83,
+        "pe_90": 102.57
       },
       {
         "date": "2014-06-15",
         "price": 54.5,
-        "pe": 68.12,
-        "pe_10": 13.26,
-        "pe_25": 16.77,
-        "pe_50": 27.79,
-        "pe_75": 47.05,
-        "pe_90": 91.61
+        "pe": 53.43,
+        "pe_10": 14.69,
+        "pe_25": 21.93,
+        "pe_50": 30.22,
+        "pe_75": 58.71,
+        "pe_90": 107.85
       },
       {
         "date": "2014-07-16",
         "price": 51.8,
-        "pe": 62.79,
-        "pe_10": 13.68,
-        "pe_25": 17.3,
-        "pe_50": 28.66,
-        "pe_75": 48.52,
-        "pe_90": 94.46
+        "pe": 49.97,
+        "pe_10": 14.93,
+        "pe_25": 22.29,
+        "pe_50": 30.72,
+        "pe_75": 59.66,
+        "pe_90": 109.61
       },
       {
         "date": "2014-08-16",
         "price": 45.3,
-        "pe": 53.29,
-        "pe_10": 14.09,
-        "pe_25": 17.82,
-        "pe_50": 29.53,
-        "pe_75": 49.99,
-        "pe_90": 97.33
+        "pe": 43.01,
+        "pe_10": 15.17,
+        "pe_25": 22.64,
+        "pe_50": 31.21,
+        "pe_75": 60.62,
+        "pe_90": 111.37
       },
       {
         "date": "2014-09-15",
         "price": 46.85,
-        "pe": 53.54,
-        "pe_10": 14.51,
-        "pe_25": 18.35,
-        "pe_50": 30.4,
-        "pe_75": 51.46,
-        "pe_90": 100.19
+        "pe": 43.79,
+        "pe_10": 15.41,
+        "pe_25": 23.0,
+        "pe_50": 31.7,
+        "pe_75": 61.58,
+        "pe_90": 113.12
       },
       {
         "date": "2014-10-16",
         "price": 40.5,
-        "pe": 45.0,
-        "pe_10": 14.92,
-        "pe_25": 18.87,
-        "pe_50": 31.27,
-        "pe_75": 52.93,
-        "pe_90": 103.05
+        "pe": 39.32,
+        "pe_10": 14.83,
+        "pe_25": 22.15,
+        "pe_50": 30.52,
+        "pe_75": 59.28,
+        "pe_90": 108.91
       },
       {
         "date": "2014-11-15",
         "price": 37.7,
-        "pe": 40.76,
-        "pe_10": 15.34,
-        "pe_25": 19.39,
-        "pe_50": 32.13,
-        "pe_75": 54.39,
-        "pe_90": 105.9
+        "pe": 38.08,
+        "pe_10": 14.26,
+        "pe_25": 21.29,
+        "pe_50": 29.33,
+        "pe_75": 56.98,
+        "pe_90": 104.68
       },
       {
         "date": "2014-12-16",
         "price": 41.15,
         "pe": 43.32,
-        "pe_10": 15.75,
-        "pe_25": 19.91,
-        "pe_50": 33.0,
-        "pe_75": 55.86,
-        "pe_90": 108.76
+        "pe_10": 13.68,
+        "pe_25": 20.42,
+        "pe_50": 28.15,
+        "pe_75": 54.67,
+        "pe_90": 100.44
       },
       {
         "date": "2015-01-16",
         "price": 40.3,
-        "pe": 45.2,
-        "pe_10": 14.78,
-        "pe_25": 18.69,
-        "pe_50": 30.97,
-        "pe_75": 52.43,
-        "pe_90": 102.09
+        "pe": 44.78,
+        "pe_10": 12.96,
+        "pe_25": 19.35,
+        "pe_50": 26.67,
+        "pe_75": 51.8,
+        "pe_90": 95.16
       },
       {
         "date": "2015-02-14",
         "price": 41.3,
-        "pe": 49.56,
-        "pe_10": 13.82,
-        "pe_25": 17.47,
-        "pe_50": 28.95,
-        "pe_75": 49.01,
-        "pe_90": 95.42
+        "pe": 48.59,
+        "pe_10": 12.24,
+        "pe_25": 18.27,
+        "pe_50": 25.18,
+        "pe_75": 48.92,
+        "pe_90": 89.87
       },
       {
         "date": "2015-03-16",
         "price": 41.8,
-        "pe": 53.94,
-        "pe_10": 12.85,
-        "pe_25": 16.25,
-        "pe_50": 26.92,
-        "pe_75": 45.57,
-        "pe_90": 88.73
+        "pe": 52.25,
+        "pe_10": 11.52,
+        "pe_25": 17.2,
+        "pe_50": 23.7,
+        "pe_75": 46.04,
+        "pe_90": 84.59
       },
       {
         "date": "2015-04-15",
         "price": 40.0,
-        "pe": 55.81,
-        "pe_10": 11.88,
-        "pe_25": 15.03,
-        "pe_50": 24.9,
-        "pe_75": 42.15,
-        "pe_90": 82.06
+        "pe": 54.79,
+        "pe_10": 10.51,
+        "pe_25": 15.7,
+        "pe_50": 21.63,
+        "pe_75": 42.02,
+        "pe_90": 77.19
       },
       {
         "date": "2015-05-16",
         "price": 37.4,
-        "pe": 56.81,
-        "pe_10": 10.92,
-        "pe_25": 13.8,
-        "pe_50": 22.87,
-        "pe_75": 38.72,
-        "pe_90": 75.38
+        "pe": 56.67,
+        "pe_10": 9.5,
+        "pe_25": 14.19,
+        "pe_50": 19.55,
+        "pe_75": 37.98,
+        "pe_90": 69.78
       },
       {
         "date": "2015-06-15",
         "price": 32.65,
-        "pe": 54.42,
-        "pe_10": 9.95,
-        "pe_25": 12.58,
-        "pe_50": 20.84,
-        "pe_75": 35.28,
-        "pe_90": 68.7
+        "pe": 55.34,
+        "pe_10": 8.5,
+        "pe_25": 12.68,
+        "pe_50": 17.48,
+        "pe_75": 33.96,
+        "pe_90": 62.38
       },
       {
         "date": "2015-07-16",
         "price": 32.65,
-        "pe": 60.28,
-        "pe_10": 8.98,
-        "pe_25": 11.36,
-        "pe_50": 18.82,
-        "pe_75": 31.85,
-        "pe_90": 62.02
+        "pe": 60.46,
+        "pe_10": 7.78,
+        "pe_25": 11.61,
+        "pe_50": 16.0,
+        "pe_75": 31.08,
+        "pe_90": 57.1
       },
       {
         "date": "2015-08-16",
         "price": 26.8,
-        "pe": 55.45,
-        "pe_10": 8.01,
-        "pe_25": 10.13,
-        "pe_50": 16.79,
-        "pe_75": 28.42,
-        "pe_90": 55.34
+        "pe": 54.69,
+        "pe_10": 7.06,
+        "pe_25": 10.54,
+        "pe_50": 14.52,
+        "pe_75": 28.2,
+        "pe_90": 51.81
       },
       {
         "date": "2015-09-15",
         "price": 30.9,
-        "pe": 72.71,
-        "pe_10": 7.05,
-        "pe_25": 8.91,
-        "pe_50": 14.76,
-        "pe_75": 24.99,
-        "pe_90": 48.66
+        "pe": 70.23,
+        "pe_10": 6.34,
+        "pe_25": 9.46,
+        "pe_50": 13.04,
+        "pe_75": 25.32,
+        "pe_90": 46.52
       },
       {
         "date": "2015-10-16",
         "price": 35.2,
-        "pe": 96.0,
-        "pe_10": 6.08,
-        "pe_25": 7.69,
-        "pe_50": 12.74,
-        "pe_75": 21.56,
-        "pe_90": 41.98
+        "pe": 93.45,
+        "pe_10": 5.42,
+        "pe_25": 8.1,
+        "pe_50": 11.16,
+        "pe_75": 21.68,
+        "pe_90": 39.83
       },
       {
         "date": "2015-11-15",
         "price": 35.75,
-        "pe": 116.0,
-        "pe_10": 5.11,
-        "pe_25": 6.46,
-        "pe_50": 10.71,
-        "pe_75": 18.12,
-        "pe_90": 35.29
+        "pe": 114.1,
+        "pe_10": 4.51,
+        "pe_25": 6.74,
+        "pe_50": 9.28,
+        "pe_75": 18.03,
+        "pe_90": 33.13
       },
       {
         "date": "2015-12-16",
         "price": 36.35,
         "pe": 145.4,
-        "pe_10": 4.14,
-        "pe_25": 5.24,
-        "pe_50": 8.69,
-        "pe_75": 14.7,
-        "pe_90": 28.62
+        "pe_10": 3.6,
+        "pe_25": 5.38,
+        "pe_50": 7.41,
+        "pe_75": 14.39,
+        "pe_90": 26.43
       },
       {
         "date": "2016-01-16",
         "price": 32.95,
-        "pe": 102.7,
-        "pe_10": 5.32,
-        "pe_25": 6.73,
-        "pe_50": 11.15,
-        "pe_75": 18.87,
-        "pe_90": 36.74
+        "pe": 51.48,
+        "pe_10": 9.22,
+        "pe_25": 13.76,
+        "pe_50": 18.96,
+        "pe_75": 36.84,
+        "pe_90": 67.68
       },
       {
         "date": "2016-02-15",
         "price": 32.9,
-        "pe": 83.96,
-        "pe_10": 6.5,
-        "pe_25": 8.22,
-        "pe_50": 13.61,
-        "pe_75": 23.04,
-        "pe_90": 44.87
+        "pe": 31.94,
+        "pe_10": 14.83,
+        "pe_25": 22.15,
+        "pe_50": 30.52,
+        "pe_75": 59.28,
+        "pe_90": 108.91
       },
       {
         "date": "2016-03-16",
         "price": 34.6,
-        "pe": 74.76,
-        "pe_10": 7.67,
-        "pe_25": 9.7,
-        "pe_50": 16.08,
-        "pe_75": 27.22,
-        "pe_90": 52.99
+        "pe": 24.37,
+        "pe_10": 20.44,
+        "pe_25": 30.53,
+        "pe_50": 42.07,
+        "pe_75": 81.72,
+        "pe_90": 150.12
       },
       {
         "date": "2016-04-15",
         "price": 36.2,
-        "pe": 67.83,
-        "pe_10": 8.85,
-        "pe_25": 11.19,
-        "pe_50": 18.54,
-        "pe_75": 31.39,
-        "pe_90": 61.11
+        "pe": 25.55,
+        "pe_10": 20.4,
+        "pe_25": 30.46,
+        "pe_50": 41.98,
+        "pe_75": 81.55,
+        "pe_90": 149.81
       },
       {
         "date": "2016-05-16",
         "price": 36.3,
-        "pe": 60.03,
-        "pe_10": 10.03,
-        "pe_25": 12.68,
-        "pe_50": 21.01,
-        "pe_75": 35.56,
-        "pe_90": 69.24
+        "pe": 25.68,
+        "pe_10": 20.36,
+        "pe_25": 30.39,
+        "pe_50": 41.88,
+        "pe_75": 81.36,
+        "pe_90": 149.46
       },
       {
         "date": "2016-06-15",
         "price": 33.5,
-        "pe": 49.59,
-        "pe_10": 11.2,
-        "pe_25": 14.16,
-        "pe_50": 23.47,
-        "pe_75": 39.73,
-        "pe_90": 77.35
+        "pe": 23.76,
+        "pe_10": 20.3,
+        "pe_25": 30.31,
+        "pe_50": 41.78,
+        "pe_75": 81.15,
+        "pe_90": 149.08
       },
       {
         "date": "2016-07-16",
         "price": 34.75,
-        "pe": 46.55,
-        "pe_10": 12.38,
-        "pe_25": 15.65,
-        "pe_50": 25.93,
-        "pe_75": 43.9,
-        "pe_90": 85.48
+        "pe": 26.06,
+        "pe_10": 19.2,
+        "pe_25": 28.67,
+        "pe_50": 39.51,
+        "pe_75": 76.75,
+        "pe_90": 140.99
       },
       {
         "date": "2016-08-16",
         "price": 31.85,
-        "pe": 38.96,
-        "pe_10": 13.55,
-        "pe_25": 17.14,
-        "pe_50": 28.4,
-        "pe_75": 48.08,
-        "pe_90": 93.6
+        "pe": 25.34,
+        "pe_10": 18.1,
+        "pe_25": 27.02,
+        "pe_50": 37.24,
+        "pe_75": 72.34,
+        "pe_90": 132.9
       },
       {
         "date": "2016-09-15",
         "price": 31.2,
-        "pe": 35.12,
-        "pe_10": 14.73,
-        "pe_25": 18.62,
-        "pe_50": 30.86,
-        "pe_75": 52.25,
-        "pe_90": 101.72
+        "pe": 26.44,
+        "pe_10": 16.99,
+        "pe_25": 25.37,
+        "pe_50": 34.96,
+        "pe_75": 67.92,
+        "pe_90": 124.77
       },
       {
         "date": "2016-10-16",
         "price": 30.4,
-        "pe": 31.69,
-        "pe_10": 15.91,
-        "pe_25": 20.11,
-        "pe_50": 33.33,
-        "pe_75": 56.42,
-        "pe_90": 109.84
+        "pe": 26.35,
+        "pe_10": 16.61,
+        "pe_25": 24.8,
+        "pe_50": 34.18,
+        "pe_75": 66.4,
+        "pe_90": 121.99
       },
       {
         "date": "2016-11-15",
         "price": 29.5,
-        "pe": 28.63,
-        "pe_10": 17.08,
-        "pe_25": 21.6,
-        "pe_50": 35.8,
-        "pe_75": 60.6,
-        "pe_90": 117.98
+        "pe": 26.17,
+        "pe_10": 16.23,
+        "pe_25": 24.24,
+        "pe_50": 33.4,
+        "pe_75": 64.88,
+        "pe_90": 119.19
       },
       {
         "date": "2016-12-16",
         "price": 30.1,
         "pe": 27.33,
-        "pe_10": 18.26,
-        "pe_25": 23.09,
-        "pe_50": 38.26,
-        "pe_75": 64.77,
-        "pe_90": 126.11
+        "pe_10": 15.86,
+        "pe_25": 23.68,
+        "pe_50": 32.63,
+        "pe_75": 63.39,
+        "pe_90": 116.45
       },
       {
         "date": "2017-01-16",
         "price": 30.1,
-        "pe": 29.75,
-        "pe_10": 16.78,
-        "pe_25": 21.21,
-        "pe_50": 35.15,
-        "pe_75": 59.5,
-        "pe_90": 115.85
+        "pe": 41.0,
+        "pe_10": 10.57,
+        "pe_25": 15.78,
+        "pe_50": 21.75,
+        "pe_75": 42.25,
+        "pe_90": 77.63
       },
       {
         "date": "2017-02-14",
         "price": 32.15,
-        "pe": 34.85,
-        "pe_10": 15.3,
-        "pe_25": 19.34,
-        "pe_50": 32.05,
-        "pe_75": 54.25,
-        "pe_90": 105.63
-      },
-      {
-        "date": "2017-03-16",
-        "price": 33.35,
-        "pe": 40.02,
-        "pe_10": 13.82,
-        "pe_25": 17.47,
-        "pe_50": 28.95,
-        "pe_75": 49.01,
-        "pe_90": 95.42
-      },
-      {
-        "date": "2017-04-15",
-        "price": 31.3,
-        "pe": 42.06,
-        "pe_10": 12.34,
-        "pe_25": 15.6,
-        "pe_50": 25.85,
-        "pe_75": 43.76,
-        "pe_90": 85.21
-      },
-      {
-        "date": "2017-05-16",
-        "price": 29.7,
-        "pe": 45.35,
-        "pe_10": 10.86,
-        "pe_25": 13.73,
-        "pe_50": 22.75,
-        "pe_75": 38.52,
-        "pe_90": 74.99
-      },
-      {
-        "date": "2017-06-15",
-        "price": 29.05,
-        "pe": 51.36,
-        "pe_10": 9.38,
-        "pe_25": 11.86,
-        "pe_50": 19.65,
-        "pe_75": 33.26,
-        "pe_90": 64.76
-      },
-      {
-        "date": "2017-07-16",
-        "price": 30.6,
-        "pe": 64.24,
-        "pe_10": 7.9,
-        "pe_25": 9.99,
-        "pe_50": 16.55,
-        "pe_75": 28.01,
-        "pe_90": 54.54
-      },
-      {
-        "date": "2017-08-16",
-        "price": 27.6,
-        "pe": 71.31,
-        "pe_10": 6.42,
-        "pe_25": 8.11,
-        "pe_50": 13.45,
-        "pe_75": 22.76,
-        "pe_90": 44.32
-      },
-      {
-        "date": "2017-09-15",
-        "price": 26.7,
-        "pe": 89.66,
-        "pe_10": 4.94,
-        "pe_25": 6.24,
-        "pe_50": 10.35,
-        "pe_75": 17.51,
-        "pe_90": 34.1
-      },
-      {
-        "date": "2017-10-16",
-        "price": 26.35,
-        "pe": 126.4,
-        "pe_10": 3.46,
-        "pe_25": 4.37,
-        "pe_50": 7.24,
-        "pe_75": 12.26,
-        "pe_90": 23.87
-      },
-      {
-        "date": "2017-11-15",
-        "price": 26.25,
-        "pe": 220.1,
-        "pe_10": 1.98,
-        "pe_25": 2.5,
-        "pe_50": 4.14,
-        "pe_75": 7.01,
-        "pe_90": 13.66
+        "pe": 87.59,
+        "pe_10": 5.29,
+        "pe_25": 7.89,
+        "pe_50": 10.88,
+        "pe_75": 21.13,
+        "pe_90": 38.81
       },
       {
         "date": "2017-12-16",
         "price": 25.85,
         "pe": 861.7,
-        "pe_10": 0.5,
-        "pe_25": 0.63,
-        "pe_50": 1.04,
-        "pe_75": 1.76,
-        "pe_90": 3.43
+        "pe_10": 0.43,
+        "pe_25": 0.64,
+        "pe_50": 0.89,
+        "pe_75": 1.73,
+        "pe_90": 3.17
       },
       {
         "date": "2018-01-16",
         "price": 26.9,
-        "pe": 127.1,
-        "pe_10": 3.51,
-        "pe_25": 4.44,
-        "pe_50": 7.35,
-        "pe_75": 12.45,
-        "pe_90": 24.23
+        "pe": 36.85,
+        "pe_10": 10.51,
+        "pe_25": 15.69,
+        "pe_50": 21.63,
+        "pe_75": 42.01,
+        "pe_90": 77.19
       },
       {
         "date": "2018-02-14",
         "price": 27.35,
-        "pe": 69.53,
-        "pe_10": 6.52,
-        "pe_25": 8.25,
-        "pe_50": 13.67,
-        "pe_75": 23.13,
-        "pe_90": 45.04
+        "pe": 19.13,
+        "pe_10": 20.59,
+        "pe_25": 30.74,
+        "pe_50": 42.36,
+        "pe_75": 82.29,
+        "pe_90": 151.17
       },
       {
         "date": "2018-03-16",
         "price": 30.05,
-        "pe": 52.26,
-        "pe_10": 9.53,
-        "pe_25": 12.06,
-        "pe_50": 19.98,
-        "pe_75": 33.82,
-        "pe_90": 65.84
+        "pe": 14.11,
+        "pe_10": 30.67,
+        "pe_25": 45.79,
+        "pe_50": 63.1,
+        "pe_75": 122.57,
+        "pe_90": 225.19
       },
       {
         "date": "2018-04-15",
         "price": 30.05,
-        "pe": 39.71,
-        "pe_10": 12.55,
-        "pe_25": 15.86,
-        "pe_50": 26.29,
-        "pe_75": 44.5,
-        "pe_90": 86.65
+        "pe": 13.76,
+        "pe_10": 31.45,
+        "pe_25": 46.95,
+        "pe_50": 64.71,
+        "pe_75": 125.69,
+        "pe_90": 230.91
       },
       {
         "date": "2018-05-16",
         "price": 32.95,
-        "pe": 35.12,
-        "pe_10": 15.56,
-        "pe_25": 19.67,
-        "pe_50": 32.59,
-        "pe_75": 55.18,
-        "pe_90": 107.43
+        "pe": 14.73,
+        "pe_10": 32.21,
+        "pe_25": 48.09,
+        "pe_50": 66.28,
+        "pe_75": 128.75,
+        "pe_90": 236.52
       },
       {
         "date": "2018-06-15",
         "price": 32.3,
-        "pe": 28.84,
-        "pe_10": 18.57,
-        "pe_25": 23.48,
-        "pe_50": 38.91,
-        "pe_75": 65.87,
-        "pe_90": 128.24
+        "pe": 14.1,
+        "pe_10": 32.99,
+        "pe_25": 49.25,
+        "pe_50": 67.88,
+        "pe_75": 131.85,
+        "pe_90": 242.22
       },
       {
         "date": "2018-07-16",
         "price": 33.6,
-        "pe": 25.81,
-        "pe_10": 21.58,
-        "pe_25": 27.29,
-        "pe_50": 45.23,
-        "pe_75": 76.56,
-        "pe_90": 149.06
+        "pe": 14.85,
+        "pe_10": 32.58,
+        "pe_25": 48.65,
+        "pe_50": 67.04,
+        "pe_75": 130.23,
+        "pe_90": 239.24
       },
       {
         "date": "2018-08-16",
         "price": 28.5,
-        "pe": 19.21,
-        "pe_10": 24.6,
-        "pe_25": 31.1,
-        "pe_50": 51.54,
-        "pe_75": 87.25,
-        "pe_90": 169.87
+        "pe": 12.74,
+        "pe_10": 32.21,
+        "pe_25": 48.1,
+        "pe_50": 66.28,
+        "pe_75": 128.75,
+        "pe_90": 236.54
       },
       {
         "date": "2018-09-15",
         "price": 27.6,
-        "pe": 16.58,
-        "pe_10": 27.6,
-        "pe_25": 34.9,
-        "pe_50": 57.83,
-        "pe_75": 97.9,
-        "pe_90": 190.6
+        "pe": 12.49,
+        "pe_10": 31.82,
+        "pe_25": 47.51,
+        "pe_50": 65.48,
+        "pe_75": 127.18,
+        "pe_90": 233.65
       },
       {
         "date": "2018-10-16",
         "price": 24.95,
-        "pe": 13.51,
-        "pe_10": 30.62,
-        "pe_25": 38.72,
-        "pe_50": 64.16,
-        "pe_75": 108.61,
-        "pe_90": 211.46
+        "pe": 11.29,
+        "pe_10": 31.82,
+        "pe_25": 47.51,
+        "pe_50": 65.48,
+        "pe_75": 127.19,
+        "pe_90": 233.67
       },
       {
         "date": "2018-11-15",
         "price": 27.1,
-        "pe": 13.36,
-        "pe_10": 33.63,
-        "pe_25": 42.53,
-        "pe_50": 70.47,
-        "pe_75": 119.29,
-        "pe_90": 232.26
+        "pe": 12.26,
+        "pe_10": 31.83,
+        "pe_25": 47.52,
+        "pe_50": 65.5,
+        "pe_75": 127.22,
+        "pe_90": 233.72
       },
       {
         "date": "2018-12-16",
         "price": 27.4,
         "pe": 12.4,
-        "pe_10": 36.64,
-        "pe_25": 46.33,
-        "pe_50": 76.76,
-        "pe_75": 129.95,
-        "pe_90": 253.01
+        "pe_10": 31.82,
+        "pe_25": 47.51,
+        "pe_50": 65.47,
+        "pe_75": 127.18,
+        "pe_90": 233.64
       },
       {
         "date": "2019-01-16",
         "price": 27.6,
-        "pe": 13.51,
-        "pe_10": 33.87,
-        "pe_25": 42.83,
-        "pe_50": 70.97,
-        "pe_75": 120.14,
-        "pe_90": 233.92
+        "pe": 17.21,
+        "pe_10": 23.09,
+        "pe_25": 34.48,
+        "pe_50": 47.52,
+        "pe_75": 92.3,
+        "pe_90": 169.57
       },
       {
         "date": "2019-02-14",
         "price": 28.65,
-        "pe": 15.27,
-        "pe_10": 31.11,
-        "pe_25": 39.34,
-        "pe_50": 65.18,
-        "pe_75": 110.34,
-        "pe_90": 214.83
+        "pe": 28.75,
+        "pe_10": 14.35,
+        "pe_25": 21.43,
+        "pe_50": 29.53,
+        "pe_75": 57.35,
+        "pe_90": 105.37
       },
       {
         "date": "2019-03-16",
         "price": 28.9,
-        "pe": 16.9,
-        "pe_10": 28.35,
-        "pe_25": 35.85,
-        "pe_50": 59.41,
-        "pe_75": 100.57,
-        "pe_90": 195.8
+        "pe": 74.1,
+        "pe_10": 5.62,
+        "pe_25": 8.39,
+        "pe_50": 11.56,
+        "pe_75": 22.45,
+        "pe_90": 41.24
       },
       {
         "date": "2019-04-15",
         "price": 29.5,
-        "pe": 19.11,
-        "pe_10": 25.59,
-        "pe_25": 32.36,
-        "pe_50": 53.63,
-        "pe_75": 90.78,
-        "pe_90": 176.75
+        "pe": 81.19,
+        "pe_10": 5.23,
+        "pe_25": 7.81,
+        "pe_50": 10.77,
+        "pe_75": 20.91,
+        "pe_90": 38.42
       },
       {
         "date": "2019-05-16",
         "price": 29.5,
-        "pe": 21.43,
-        "pe_10": 22.82,
-        "pe_25": 28.86,
-        "pe_50": 47.82,
-        "pe_75": 80.96,
-        "pe_90": 157.62
+        "pe": 87.62,
+        "pe_10": 4.85,
+        "pe_25": 7.24,
+        "pe_50": 9.98,
+        "pe_75": 19.38,
+        "pe_90": 35.6
       },
       {
         "date": "2019-06-15",
         "price": 30.2,
-        "pe": 24.96,
-        "pe_10": 20.06,
-        "pe_25": 25.37,
-        "pe_50": 42.03,
-        "pe_75": 71.16,
-        "pe_90": 138.54
+        "pe": 97.42,
+        "pe_10": 4.46,
+        "pe_25": 6.66,
+        "pe_50": 9.19,
+        "pe_75": 17.84,
+        "pe_90": 32.78
       },
       {
         "date": "2019-07-16",
         "price": 25.3,
-        "pe": 24.25,
-        "pe_10": 17.3,
-        "pe_25": 21.87,
-        "pe_50": 36.24,
-        "pe_75": 61.36,
-        "pe_90": 119.46
+        "pe": 93.7,
+        "pe_10": 3.89,
+        "pe_25": 5.81,
+        "pe_50": 8.0,
+        "pe_75": 15.54,
+        "pe_90": 28.55
       },
       {
         "date": "2019-08-16",
         "price": 25.15,
-        "pe": 28.69,
-        "pe_10": 14.53,
-        "pe_25": 18.38,
-        "pe_50": 30.45,
-        "pe_75": 51.55,
-        "pe_90": 100.37
+        "pe": 109.3,
+        "pe_10": 3.31,
+        "pe_25": 4.95,
+        "pe_50": 6.82,
+        "pe_75": 13.24,
+        "pe_90": 24.33
       },
       {
         "date": "2019-09-15",
         "price": 25.55,
-        "pe": 35.99,
-        "pe_10": 11.77,
-        "pe_25": 14.88,
-        "pe_50": 24.66,
-        "pe_75": 41.75,
-        "pe_90": 81.29
+        "pe": 134.5,
+        "pe_10": 2.74,
+        "pe_25": 4.08,
+        "pe_50": 5.63,
+        "pe_75": 10.93,
+        "pe_90": 20.09
       },
       {
         "date": "2019-10-16",
         "price": 24.2,
-        "pe": 44.54,
-        "pe_10": 9.01,
-        "pe_25": 11.39,
-        "pe_50": 18.88,
-        "pe_75": 31.95,
-        "pe_90": 62.21
+        "pe": 123.1,
+        "pe_10": 2.83,
+        "pe_25": 4.23,
+        "pe_50": 5.82,
+        "pe_75": 11.31,
+        "pe_90": 20.79
       },
       {
         "date": "2019-11-15",
         "price": 24.8,
-        "pe": 65.84,
-        "pe_10": 6.25,
-        "pe_25": 7.9,
-        "pe_50": 13.09,
-        "pe_75": 22.15,
-        "pe_90": 43.13
+        "pe": 122.0,
+        "pe_10": 2.93,
+        "pe_25": 4.37,
+        "pe_50": 6.02,
+        "pe_75": 11.7,
+        "pe_90": 21.49
       },
       {
         "date": "2019-12-16",
         "price": 24.3,
         "pe": 115.7,
-        "pe_10": 3.48,
-        "pe_25": 4.4,
-        "pe_50": 7.3,
-        "pe_75": 12.35,
-        "pe_90": 24.05
+        "pe_10": 3.02,
+        "pe_25": 4.52,
+        "pe_50": 6.22,
+        "pe_75": 12.09,
+        "pe_90": 22.21
       },
       {
         "date": "2020-01-16",
         "price": 24.8,
-        "pe": 62.39,
-        "pe_10": 6.59,
-        "pe_25": 8.33,
-        "pe_50": 13.81,
-        "pe_75": 23.38,
-        "pe_90": 45.51
+        "pe": 89.64,
+        "pe_10": 3.98,
+        "pe_25": 5.95,
+        "pe_50": 8.2,
+        "pe_75": 15.92,
+        "pe_90": 29.25
       },
       {
         "date": "2020-02-15",
         "price": 22.75,
-        "pe": 38.89,
-        "pe_10": 9.7,
-        "pe_25": 12.26,
-        "pe_50": 20.32,
-        "pe_75": 34.4,
-        "pe_90": 66.98
+        "pe": 66.26,
+        "pe_10": 4.94,
+        "pe_25": 7.38,
+        "pe_50": 10.17,
+        "pe_75": 19.76,
+        "pe_90": 36.3
       },
       {
         "date": "2020-03-16",
         "price": 18.7,
-        "pe": 24.21,
-        "pe_10": 12.81,
-        "pe_25": 16.19,
-        "pe_50": 26.83,
-        "pe_75": 45.43,
-        "pe_90": 88.44
+        "pe": 45.61,
+        "pe_10": 5.9,
+        "pe_25": 8.81,
+        "pe_50": 12.15,
+        "pe_75": 23.6,
+        "pe_90": 43.35
       },
       {
         "date": "2020-04-15",
         "price": 22.85,
-        "pe": 23.8,
-        "pe_10": 15.92,
-        "pe_25": 20.13,
-        "pe_50": 33.35,
-        "pe_75": 56.46,
-        "pe_90": 109.93
+        "pe": 23.72,
+        "pe_10": 13.87,
+        "pe_25": 20.71,
+        "pe_50": 28.54,
+        "pe_75": 55.44,
+        "pe_90": 101.86
       },
       {
         "date": "2020-05-16",
         "price": 23.95,
-        "pe": 20.87,
-        "pe_10": 19.03,
-        "pe_25": 24.06,
-        "pe_50": 39.87,
-        "pe_75": 67.49,
-        "pe_90": 131.4
+        "pe": 15.79,
+        "pe_10": 21.84,
+        "pe_25": 32.61,
+        "pe_50": 44.94,
+        "pe_75": 87.3,
+        "pe_90": 160.38
       },
       {
         "date": "2020-06-15",
         "price": 26.9,
-        "pe": 20.15,
-        "pe_10": 22.13,
-        "pe_25": 27.99,
-        "pe_50": 46.38,
-        "pe_75": 78.51,
-        "pe_90": 152.86
+        "pe": 13.0,
+        "pe_10": 29.8,
+        "pe_25": 44.49,
+        "pe_50": 61.31,
+        "pe_75": 119.09,
+        "pe_90": 218.79
       },
       {
         "date": "2020-07-16",
         "price": 23.9,
-        "pe": 15.7,
-        "pe_10": 25.24,
-        "pe_25": 31.91,
-        "pe_50": 52.88,
-        "pe_75": 89.53,
-        "pe_90": 174.3
+        "pe": 11.19,
+        "pe_10": 30.76,
+        "pe_25": 45.92,
+        "pe_50": 63.28,
+        "pe_75": 122.93,
+        "pe_90": 225.83
       },
       {
         "date": "2020-08-16",
         "price": 26.7,
-        "pe": 15.61,
-        "pe_10": 28.36,
-        "pe_25": 35.86,
-        "pe_50": 59.42,
-        "pe_75": 100.59,
-        "pe_90": 195.85
+        "pe": 12.12,
+        "pe_10": 31.72,
+        "pe_25": 47.36,
+        "pe_50": 65.27,
+        "pe_75": 126.79,
+        "pe_90": 232.93
       },
       {
         "date": "2020-09-15",
         "price": 25.15,
-        "pe": 13.25,
-        "pe_10": 31.47,
-        "pe_25": 39.79,
-        "pe_50": 65.94,
-        "pe_75": 111.63,
-        "pe_90": 217.33
+        "pe": 11.08,
+        "pe_10": 32.69,
+        "pe_25": 48.8,
+        "pe_50": 67.26,
+        "pe_75": 130.64,
+        "pe_90": 240.01
       },
       {
         "date": "2020-10-16",
         "price": 24.25,
-        "pe": 11.63,
-        "pe_10": 34.57,
-        "pe_25": 43.71,
-        "pe_50": 72.44,
-        "pe_75": 122.63,
-        "pe_90": 238.75
+        "pe": 10.39,
+        "pe_10": 33.61,
+        "pe_25": 50.18,
+        "pe_50": 69.16,
+        "pe_75": 134.33,
+        "pe_90": 246.79
       },
       {
         "date": "2020-11-15",
         "price": 25.55,
-        "pe": 11.24,
-        "pe_10": 37.69,
-        "pe_25": 47.66,
-        "pe_50": 78.97,
-        "pe_75": 133.68,
-        "pe_90": 260.27
+        "pe": 10.66,
+        "pe_10": 34.51,
+        "pe_25": 51.53,
+        "pe_50": 71.02,
+        "pe_75": 137.95,
+        "pe_90": 253.43
       },
       {
         "date": "2020-12-16",
         "price": 25.5,
         "pe": 10.37,
-        "pe_10": 40.77,
-        "pe_25": 51.55,
-        "pe_50": 85.43,
-        "pe_75": 144.61,
-        "pe_90": 281.56
+        "pe_10": 35.41,
+        "pe_25": 52.87,
+        "pe_50": 72.86,
+        "pe_75": 141.53,
+        "pe_90": 260.01
       },
       {
         "date": "2021-01-16",
         "price": 23.9,
-        "pe": 10.21,
-        "pe_10": 38.81,
-        "pe_25": 49.08,
-        "pe_50": 81.32,
-        "pe_75": 137.66,
-        "pe_90": 268.03
+        "pe": 9.81,
+        "pe_10": 35.08,
+        "pe_25": 52.38,
+        "pe_50": 72.19,
+        "pe_75": 140.22,
+        "pe_90": 257.6
       },
       {
         "date": "2021-02-14",
         "price": 25.65,
-        "pe": 11.55,
-        "pe_10": 36.82,
-        "pe_25": 46.56,
-        "pe_50": 77.15,
-        "pe_75": 130.6,
-        "pe_90": 254.28
+        "pe": 10.63,
+        "pe_10": 34.75,
+        "pe_25": 51.88,
+        "pe_50": 71.5,
+        "pe_75": 138.88,
+        "pe_90": 255.14
       },
       {
         "date": "2021-03-16",
         "price": 26.35,
-        "pe": 12.55,
-        "pe_10": 34.81,
-        "pe_25": 44.02,
-        "pe_50": 72.94,
-        "pe_75": 123.48,
-        "pe_90": 240.4
+        "pe": 11.03,
+        "pe_10": 34.4,
+        "pe_25": 51.36,
+        "pe_50": 70.78,
+        "pe_75": 137.5,
+        "pe_90": 252.6
       },
       {
         "date": "2021-04-15",
         "price": 26.65,
-        "pe": 13.46,
-        "pe_10": 32.83,
-        "pe_25": 41.51,
-        "pe_50": 68.78,
-        "pe_75": 116.44,
-        "pe_90": 226.7
+        "pe": 13.57,
+        "pe_10": 28.28,
+        "pe_25": 42.22,
+        "pe_50": 58.19,
+        "pe_75": 113.03,
+        "pe_90": 207.65
       },
       {
         "date": "2021-05-16",
         "price": 25.1,
-        "pe": 13.49,
-        "pe_10": 30.85,
-        "pe_25": 39.01,
-        "pe_50": 64.64,
-        "pe_75": 109.42,
-        "pe_90": 213.04
+        "pe": 16.33,
+        "pe_10": 22.13,
+        "pe_25": 33.05,
+        "pe_50": 45.54,
+        "pe_75": 88.46,
+        "pe_90": 162.52
       },
       {
         "date": "2021-06-15",
         "price": 25.95,
-        "pe": 14.91,
-        "pe_10": 28.86,
-        "pe_25": 36.49,
-        "pe_50": 60.46,
-        "pe_75": 102.36,
-        "pe_90": 199.28
+        "pe": 23.38,
+        "pe_10": 15.98,
+        "pe_25": 23.86,
+        "pe_50": 32.89,
+        "pe_75": 63.88,
+        "pe_90": 117.36
       },
       {
         "date": "2021-07-16",
         "price": 25.3,
-        "pe": 15.62,
-        "pe_10": 26.85,
-        "pe_25": 33.96,
-        "pe_50": 56.27,
-        "pe_75": 95.26,
-        "pe_90": 185.46
+        "pe": 23.79,
+        "pe_10": 15.31,
+        "pe_25": 22.86,
+        "pe_50": 31.51,
+        "pe_75": 61.21,
+        "pe_90": 112.45
       },
       {
         "date": "2021-08-16",
         "price": 25.25,
-        "pe": 16.83,
-        "pe_10": 24.87,
-        "pe_25": 31.45,
-        "pe_50": 52.12,
-        "pe_75": 88.23,
-        "pe_90": 171.78
+        "pe": 24.84,
+        "pe_10": 14.64,
+        "pe_25": 21.85,
+        "pe_50": 30.12,
+        "pe_75": 58.5,
+        "pe_90": 107.48
       },
       {
         "date": "2021-09-15",
         "price": 23.8,
-        "pe": 17.25,
-        "pe_10": 22.88,
-        "pe_25": 28.93,
-        "pe_50": 47.93,
-        "pe_75": 81.14,
-        "pe_90": 157.98
+        "pe": 24.54,
+        "pe_10": 13.97,
+        "pe_25": 20.85,
+        "pe_50": 28.74,
+        "pe_75": 55.82,
+        "pe_90": 102.55
       },
       {
         "date": "2021-10-16",
         "price": 23.0,
-        "pe": 18.25,
-        "pe_10": 20.9,
-        "pe_25": 26.42,
-        "pe_50": 43.78,
-        "pe_75": 74.12,
-        "pe_90": 144.3
+        "pe": 23.31,
+        "pe_10": 14.21,
+        "pe_25": 21.21,
+        "pe_50": 29.24,
+        "pe_75": 56.79,
+        "pe_90": 104.33
       },
       {
         "date": "2021-11-15",
         "price": 22.5,
-        "pe": 19.74,
-        "pe_10": 18.9,
-        "pe_25": 23.9,
-        "pe_50": 39.6,
-        "pe_75": 67.03,
-        "pe_90": 130.51
+        "pe": 22.43,
+        "pe_10": 14.44,
+        "pe_25": 21.57,
+        "pe_50": 29.72,
+        "pe_75": 57.73,
+        "pe_90": 106.07
       },
       {
         "date": "2021-12-16",
         "price": 23.6,
         "pe": 23.14,
-        "pe_10": 16.91,
-        "pe_25": 21.38,
-        "pe_50": 35.43,
-        "pe_75": 59.98,
-        "pe_90": 116.78
+        "pe_10": 14.69,
+        "pe_25": 21.93,
+        "pe_50": 30.22,
+        "pe_75": 58.7,
+        "pe_90": 107.84
       },
       {
         "date": "2022-01-16",
         "price": 23.3,
-        "pe": 20.44,
-        "pe_10": 18.9,
-        "pe_25": 23.9,
-        "pe_50": 39.6,
-        "pe_75": 67.04,
-        "pe_90": 130.52
+        "pe": 21.31,
+        "pe_10": 15.74,
+        "pe_25": 23.51,
+        "pe_50": 32.4,
+        "pe_75": 62.93,
+        "pe_90": 115.61
       },
       {
         "date": "2022-02-14",
         "price": 24.7,
-        "pe": 19.6,
-        "pe_10": 20.89,
-        "pe_25": 26.42,
-        "pe_50": 43.78,
-        "pe_75": 74.11,
-        "pe_90": 144.29
+        "pe": 21.17,
+        "pe_10": 16.8,
+        "pe_25": 25.09,
+        "pe_50": 34.57,
+        "pe_75": 67.15,
+        "pe_90": 123.37
       },
       {
         "date": "2022-03-16",
         "price": 25.1,
-        "pe": 18.19,
-        "pe_10": 22.88,
-        "pe_25": 28.93,
-        "pe_50": 47.94,
-        "pe_75": 81.15,
-        "pe_90": 158.0
+        "pe": 20.24,
+        "pe_10": 17.86,
+        "pe_25": 26.66,
+        "pe_50": 36.74,
+        "pe_75": 71.38,
+        "pe_90": 131.13
       },
       {
         "date": "2022-04-15",
         "price": 27.4,
-        "pe": 18.27,
-        "pe_10": 24.87,
-        "pe_25": 31.44,
-        "pe_50": 52.1,
-        "pe_75": 88.2,
-        "pe_90": 171.72
+        "pe": 17.87,
+        "pe_10": 22.08,
+        "pe_25": 32.97,
+        "pe_50": 45.43,
+        "pe_75": 88.25,
+        "pe_90": 162.12
       },
       {
         "date": "2022-05-16",
         "price": 26.3,
-        "pe": 16.23,
-        "pe_10": 26.87,
-        "pe_25": 33.97,
-        "pe_50": 56.29,
-        "pe_75": 95.3,
-        "pe_90": 185.54
+        "pe": 14.4,
+        "pe_10": 26.3,
+        "pe_25": 39.27,
+        "pe_50": 54.12,
+        "pe_75": 105.12,
+        "pe_90": 193.12
       },
       {
         "date": "2022-06-15",
         "price": 33.05,
-        "pe": 18.99,
-        "pe_10": 28.86,
-        "pe_25": 36.49,
-        "pe_50": 60.46,
-        "pe_75": 102.35,
-        "pe_90": 199.27
+        "pe": 15.59,
+        "pe_10": 30.53,
+        "pe_25": 45.58,
+        "pe_50": 62.81,
+        "pe_75": 122.01,
+        "pe_90": 224.15
       },
       {
         "date": "2022-07-16",
         "price": 31.2,
-        "pe": 16.77,
-        "pe_10": 30.85,
-        "pe_25": 39.0,
-        "pe_50": 64.63,
-        "pe_75": 109.41,
-        "pe_90": 213.02
+        "pe": 14.4,
+        "pe_10": 31.2,
+        "pe_25": 46.58,
+        "pe_50": 64.2,
+        "pe_75": 124.7,
+        "pe_90": 229.09
       },
       {
         "date": "2022-08-16",
         "price": 39.15,
-        "pe": 19.77,
-        "pe_10": 32.83,
-        "pe_25": 41.52,
-        "pe_50": 68.79,
-        "pe_75": 116.46,
-        "pe_90": 226.74
+        "pe": 17.69,
+        "pe_10": 31.87,
+        "pe_25": 47.58,
+        "pe_50": 65.57,
+        "pe_75": 127.38,
+        "pe_90": 234.01
       },
       {
         "date": "2022-09-15",
         "price": 35.65,
-        "pe": 16.98,
-        "pe_10": 34.81,
-        "pe_25": 44.02,
-        "pe_50": 72.94,
-        "pe_75": 123.47,
-        "pe_90": 240.4
+        "pe": 15.77,
+        "pe_10": 32.55,
+        "pe_25": 48.6,
+        "pe_50": 66.98,
+        "pe_75": 130.11,
+        "pe_90": 239.03
       },
       {
         "date": "2022-10-16",
         "price": 32.55,
-        "pe": 14.66,
-        "pe_10": 36.81,
-        "pe_25": 46.55,
-        "pe_50": 77.13,
-        "pe_75": 130.58,
-        "pe_90": 254.23
+        "pe": 13.99,
+        "pe_10": 33.5,
+        "pe_25": 50.02,
+        "pe_50": 68.94,
+        "pe_75": 133.91,
+        "pe_90": 246.01
       },
       {
         "date": "2022-11-15",
         "price": 35.9,
-        "pe": 15.34,
-        "pe_10": 38.8,
-        "pe_25": 49.06,
-        "pe_50": 81.3,
-        "pe_75": 137.63,
-        "pe_90": 267.96
+        "pe": 15.0,
+        "pe_10": 34.46,
+        "pe_25": 51.46,
+        "pe_50": 70.91,
+        "pe_75": 137.75,
+        "pe_90": 253.06
       },
       {
         "date": "2022-12-16",
         "price": 48.7,
         "pe": 19.8,
-        "pe_10": 40.78,
-        "pe_25": 51.57,
-        "pe_50": 85.45,
-        "pe_75": 144.65,
-        "pe_90": 281.62
+        "pe_10": 35.42,
+        "pe_25": 52.88,
+        "pe_50": 72.88,
+        "pe_75": 141.56,
+        "pe_90": 260.07
       },
       {
         "date": "2023-01-16",
         "price": 42.6,
-        "pe": 17.83,
-        "pe_10": 39.61,
-        "pe_25": 50.09,
-        "pe_50": 83.0,
-        "pe_75": 140.51,
-        "pe_90": 273.57
+        "pe": 17.29,
+        "pe_10": 35.48,
+        "pe_25": 52.97,
+        "pe_50": 73.0,
+        "pe_75": 141.81,
+        "pe_90": 260.52
       },
       {
         "date": "2023-02-14",
         "price": 47.75,
-        "pe": 20.6,
-        "pe_10": 38.43,
-        "pe_25": 48.6,
-        "pe_50": 80.53,
-        "pe_75": 136.32,
-        "pe_90": 265.41
+        "pe": 19.36,
+        "pe_10": 35.52,
+        "pe_25": 53.03,
+        "pe_50": 73.08,
+        "pe_75": 141.96,
+        "pe_90": 260.79
       },
       {
         "date": "2023-03-16",
         "price": 45.75,
-        "pe": 20.36,
-        "pe_10": 37.26,
-        "pe_25": 47.11,
-        "pe_50": 78.06,
-        "pe_75": 132.15,
-        "pe_90": 257.29
+        "pe": 18.52,
+        "pe_10": 35.57,
+        "pe_25": 53.11,
+        "pe_50": 73.2,
+        "pe_75": 142.18,
+        "pe_90": 261.2
       },
       {
         "date": "2023-04-15",
         "price": 47.8,
-        "pe": 21.96,
-        "pe_10": 36.09,
-        "pe_25": 45.63,
-        "pe_50": 75.62,
-        "pe_75": 128.01,
-        "pe_90": 249.23
+        "pe": 21.5,
+        "pe_10": 32.01,
+        "pe_25": 47.8,
+        "pe_50": 65.88,
+        "pe_75": 127.96,
+        "pe_90": 235.08
       },
       {
         "date": "2023-05-16",
         "price": 44.45,
-        "pe": 21.11,
-        "pe_10": 34.91,
-        "pe_25": 44.14,
-        "pe_50": 73.15,
-        "pe_75": 123.83,
-        "pe_90": 241.1
+        "pe": 22.49,
+        "pe_10": 28.46,
+        "pe_25": 42.49,
+        "pe_50": 58.56,
+        "pe_75": 113.75,
+        "pe_90": 208.98
       },
       {
         "date": "2023-06-15",
         "price": 43.95,
-        "pe": 21.6,
-        "pe_10": 33.74,
-        "pe_25": 42.66,
-        "pe_50": 70.69,
-        "pe_75": 119.66,
-        "pe_90": 232.98
+        "pe": 25.4,
+        "pe_10": 24.92,
+        "pe_25": 37.2,
+        "pe_50": 51.27,
+        "pe_75": 99.59,
+        "pe_90": 182.96
       },
       {
         "date": "2023-07-16",
         "price": 43.3,
-        "pe": 22.04,
-        "pe_10": 32.57,
-        "pe_25": 41.19,
-        "pe_50": 68.25,
-        "pe_75": 115.54,
-        "pe_90": 224.95
+        "pe": 25.67,
+        "pe_10": 24.29,
+        "pe_25": 36.27,
+        "pe_50": 49.98,
+        "pe_75": 97.08,
+        "pe_90": 178.35
       },
       {
         "date": "2023-08-16",
         "price": 36.65,
-        "pe": 19.36,
-        "pe_10": 31.39,
-        "pe_25": 39.69,
-        "pe_50": 65.77,
-        "pe_75": 111.33,
-        "pe_90": 216.76
+        "pe": 22.3,
+        "pe_10": 23.67,
+        "pe_25": 35.34,
+        "pe_50": 48.7,
+        "pe_75": 94.59,
+        "pe_90": 173.78
       },
       {
         "date": "2023-09-15",
         "price": 37.95,
-        "pe": 20.82,
-        "pe_10": 30.22,
-        "pe_25": 38.21,
-        "pe_50": 63.32,
-        "pe_75": 107.2,
-        "pe_90": 208.71
+        "pe": 23.72,
+        "pe_10": 23.04,
+        "pe_25": 34.4,
+        "pe_50": 47.41,
+        "pe_75": 92.08,
+        "pe_90": 169.17
       },
       {
         "date": "2023-10-16",
         "price": 37.55,
-        "pe": 21.44,
-        "pe_10": 29.04,
-        "pe_25": 36.72,
-        "pe_50": 60.84,
-        "pe_75": 103.0,
-        "pe_90": 200.54
+        "pe": 23.42,
+        "pe_10": 23.09,
+        "pe_25": 34.47,
+        "pe_50": 47.51,
+        "pe_75": 92.28,
+        "pe_90": 169.53
       },
       {
         "date": "2023-11-15",
         "price": 40.2,
-        "pe": 23.92,
-        "pe_10": 27.86,
-        "pe_25": 35.23,
-        "pe_50": 58.38,
-        "pe_75": 98.84,
-        "pe_90": 192.43
+        "pe": 25.02,
+        "pe_10": 23.14,
+        "pe_25": 34.54,
+        "pe_50": 47.61,
+        "pe_75": 92.47,
+        "pe_90": 169.89
       },
       {
         "date": "2023-12-16",
         "price": 38.65,
         "pe": 24.01,
-        "pe_10": 26.69,
-        "pe_25": 33.75,
-        "pe_50": 55.92,
-        "pe_75": 94.67,
-        "pe_90": 184.32
+        "pe_10": 23.18,
+        "pe_25": 34.61,
+        "pe_50": 47.7,
+        "pe_75": 92.65,
+        "pe_90": 170.21
       },
       {
         "date": "2024-01-16",
         "price": 37.55,
-        "pe": 23.3,
-        "pe_10": 26.72,
-        "pe_25": 33.79,
-        "pe_50": 55.99,
-        "pe_75": 94.78,
-        "pe_90": 184.53
+        "pe": 22.8,
+        "pe_10": 23.72,
+        "pe_25": 35.41,
+        "pe_50": 48.8,
+        "pe_75": 94.79,
+        "pe_90": 174.14
       },
       {
         "date": "2024-02-15",
         "price": 39.0,
-        "pe": 24.17,
-        "pe_10": 26.75,
-        "pe_25": 33.83,
-        "pe_50": 56.06,
-        "pe_75": 94.89,
-        "pe_90": 184.75
+        "pe": 23.17,
+        "pe_10": 24.24,
+        "pe_25": 36.19,
+        "pe_50": 49.87,
+        "pe_75": 96.88,
+        "pe_90": 177.98
       },
       {
         "date": "2024-03-16",
         "price": 39.25,
-        "pe": 24.3,
-        "pe_10": 26.78,
-        "pe_25": 33.86,
-        "pe_50": 56.11,
-        "pe_75": 94.99,
-        "pe_90": 184.94
+        "pe": 22.82,
+        "pe_10": 24.77,
+        "pe_25": 36.98,
+        "pe_50": 50.96,
+        "pe_75": 98.99,
+        "pe_90": 181.86
       },
       {
         "date": "2024-04-15",
         "price": 38.55,
-        "pe": 23.85,
-        "pe_10": 26.8,
-        "pe_25": 33.89,
-        "pe_50": 56.15,
-        "pe_75": 95.06,
-        "pe_90": 185.07
+        "pe": 22.11,
+        "pe_10": 25.11,
+        "pe_25": 37.49,
+        "pe_50": 51.66,
+        "pe_75": 100.35,
+        "pe_90": 184.36
       },
       {
         "date": "2024-05-16",
         "price": 39.95,
-        "pe": 24.69,
-        "pe_10": 26.83,
-        "pe_25": 33.92,
-        "pe_50": 56.21,
-        "pe_75": 95.16,
-        "pe_90": 185.27
+        "pe": 22.61,
+        "pe_10": 25.44,
+        "pe_25": 37.99,
+        "pe_50": 52.35,
+        "pe_75": 101.69,
+        "pe_90": 186.83
       },
       {
         "date": "2024-06-15",
         "price": 41.15,
-        "pe": 25.4,
-        "pe_10": 26.86,
-        "pe_25": 33.96,
-        "pe_50": 56.28,
-        "pe_75": 95.28,
-        "pe_90": 185.5
+        "pe": 22.99,
+        "pe_10": 25.77,
+        "pe_25": 38.48,
+        "pe_50": 53.03,
+        "pe_75": 103.02,
+        "pe_90": 189.26
       },
       {
         "date": "2024-07-16",
         "price": 40.9,
-        "pe": 25.22,
-        "pe_10": 26.89,
-        "pe_25": 34.0,
-        "pe_50": 56.34,
-        "pe_75": 95.37,
-        "pe_90": 185.69
+        "pe": 23.19,
+        "pe_10": 25.4,
+        "pe_25": 37.92,
+        "pe_50": 52.26,
+        "pe_75": 101.51,
+        "pe_90": 186.49
       },
       {
         "date": "2024-08-16",
         "price": 38.25,
-        "pe": 23.56,
-        "pe_10": 26.92,
-        "pe_25": 34.04,
-        "pe_50": 56.4,
-        "pe_75": 95.48,
-        "pe_90": 185.89
+        "pe": 22.02,
+        "pe_10": 25.01,
+        "pe_25": 37.35,
+        "pe_50": 51.47,
+        "pe_75": 99.98,
+        "pe_90": 183.67
       },
       {
         "date": "2024-09-15",
         "price": 37.5,
-        "pe": 23.08,
-        "pe_10": 26.94,
-        "pe_25": 34.06,
-        "pe_50": 56.44,
-        "pe_75": 95.55,
-        "pe_90": 186.04
+        "pe": 21.93,
+        "pe_10": 24.62,
+        "pe_25": 36.76,
+        "pe_50": 50.67,
+        "pe_75": 98.42,
+        "pe_90": 180.81
       },
       {
         "date": "2024-10-16",
         "price": 36.2,
-        "pe": 22.25,
-        "pe_10": 26.98,
-        "pe_25": 34.11,
-        "pe_50": 56.52,
-        "pe_75": 95.68,
-        "pe_90": 186.29
+        "pe": 21.5,
+        "pe_10": 24.25,
+        "pe_25": 36.2,
+        "pe_50": 49.89,
+        "pe_75": 96.91,
+        "pe_90": 178.03
       },
       {
         "date": "2024-11-15",
         "price": 34.3,
-        "pe": 21.06,
-        "pe_10": 27.0,
-        "pe_25": 34.15,
-        "pe_50": 56.58,
-        "pe_75": 95.78,
-        "pe_90": 186.48
+        "pe": 20.7,
+        "pe_10": 23.86,
+        "pe_25": 35.63,
+        "pe_50": 49.1,
+        "pe_75": 95.37,
+        "pe_90": 175.21
       },
       {
         "date": "2024-12-16",
         "price": 34.5,
         "pe": 21.17,
-        "pe_10": 27.02,
-        "pe_25": 34.17,
-        "pe_50": 56.61,
-        "pe_75": 95.84,
-        "pe_90": 186.6
+        "pe_10": 23.47,
+        "pe_25": 35.04,
+        "pe_50": 48.29,
+        "pe_75": 93.8,
+        "pe_90": 172.31
       },
       {
         "date": "2025-01-16",
         "price": 33.4,
-        "pe": 20.56,
-        "pe_10": 26.93,
-        "pe_25": 34.06,
-        "pe_50": 56.44,
-        "pe_75": 95.54,
-        "pe_90": 186.01
+        "pe": 20.41,
+        "pe_10": 23.56,
+        "pe_25": 35.18,
+        "pe_50": 48.49,
+        "pe_75": 94.19,
+        "pe_90": 173.03
       },
       {
         "date": "2025-02-14",
         "price": 32.7,
-        "pe": 20.21,
-        "pe_10": 26.83,
-        "pe_25": 33.92,
-        "pe_50": 56.21,
-        "pe_75": 95.16,
-        "pe_90": 185.26
+        "pe": 19.9,
+        "pe_10": 23.66,
+        "pe_25": 35.33,
+        "pe_50": 48.69,
+        "pe_75": 94.58,
+        "pe_90": 173.75
       },
       {
         "date": "2025-03-16",
         "price": 33.35,
-        "pe": 20.68,
-        "pe_10": 26.74,
-        "pe_25": 33.81,
-        "pe_50": 56.02,
-        "pe_75": 94.84,
-        "pe_90": 184.65
+        "pe": 20.21,
+        "pe_10": 23.76,
+        "pe_25": 35.48,
+        "pe_50": 48.89,
+        "pe_75": 94.98,
+        "pe_90": 174.48
       },
       {
         "date": "2025-04-15",
         "price": 32.25,
-        "pe": 20.07,
-        "pe_10": 26.64,
-        "pe_25": 33.69,
-        "pe_50": 55.82,
-        "pe_75": 94.5,
-        "pe_90": 183.99
+        "pe": 20.2,
+        "pe_10": 22.99,
+        "pe_25": 34.33,
+        "pe_50": 47.31,
+        "pe_75": 91.89,
+        "pe_90": 168.81
       },
       {
         "date": "2025-05-16",
         "price": 34.15,
-        "pe": 21.33,
-        "pe_10": 26.55,
-        "pe_25": 33.57,
-        "pe_50": 55.62,
-        "pe_75": 94.16,
-        "pe_90": 183.32
+        "pe": 22.13,
+        "pe_10": 22.22,
+        "pe_25": 33.18,
+        "pe_50": 45.72,
+        "pe_75": 88.82,
+        "pe_90": 163.17
       },
       {
         "date": "2025-06-15",
         "price": 36.6,
-        "pe": 22.95,
-        "pe_10": 26.44,
-        "pe_25": 33.43,
-        "pe_50": 55.4,
-        "pe_75": 93.79,
-        "pe_90": 182.6
+        "pe": 24.56,
+        "pe_10": 21.46,
+        "pe_25": 32.04,
+        "pe_50": 44.16,
+        "pe_75": 85.77,
+        "pe_90": 157.57
       },
       {
         "date": "2025-07-16",
         "price": 36.95,
-        "pe": 23.25,
-        "pe_10": 26.35,
-        "pe_25": 33.32,
-        "pe_50": 55.21,
-        "pe_75": 93.46,
-        "pe_90": 181.97
+        "pe": 24.42,
+        "pe_10": 21.79,
+        "pe_25": 32.53,
+        "pe_50": 44.83,
+        "pe_75": 87.09,
+        "pe_90": 159.99
       },
       {
         "date": "2025-08-16",
         "price": 34.75,
-        "pe": 21.95,
-        "pe_10": 26.25,
-        "pe_25": 33.19,
-        "pe_50": 55.0,
-        "pe_75": 93.1,
-        "pe_90": 181.27
+        "pe": 22.61,
+        "pe_10": 22.13,
+        "pe_25": 33.04,
+        "pe_50": 45.54,
+        "pe_75": 88.46,
+        "pe_90": 162.51
       },
       {
         "date": "2025-09-15",
         "price": 34.25,
-        "pe": 21.71,
-        "pe_10": 26.16,
-        "pe_25": 33.07,
-        "pe_50": 54.81,
-        "pe_75": 92.78,
-        "pe_90": 180.64
+        "pe": 21.96,
+        "pe_10": 22.46,
+        "pe_25": 33.53,
+        "pe_50": 46.21,
+        "pe_75": 89.77,
+        "pe_90": 164.91
       },
       {
         "date": "2025-10-16",
         "price": 33.55,
-        "pe": 21.35,
-        "pe_10": 26.05,
-        "pe_25": 32.94,
-        "pe_50": 54.59,
-        "pe_75": 92.42,
-        "pe_90": 179.93
+        "pe": 21.51,
+        "pe_10": 22.46,
+        "pe_25": 33.53,
+        "pe_50": 46.22,
+        "pe_75": 89.77,
+        "pe_90": 164.92
       },
       {
         "date": "2025-11-15",
         "price": 32.15,
-        "pe": 20.53,
-        "pe_10": 25.96,
-        "pe_25": 32.83,
-        "pe_50": 54.4,
-        "pe_75": 92.1,
-        "pe_90": 179.31
+        "pe": 20.61,
+        "pe_10": 22.46,
+        "pe_25": 33.54,
+        "pe_50": 46.22,
+        "pe_75": 89.78,
+        "pe_90": 164.94
       },
       {
         "date": "2025-12-16",
         "price": 32.4,
         "pe": 20.77,
-        "pe_10": 25.86,
-        "pe_25": 32.7,
-        "pe_50": 54.19,
-        "pe_75": 91.74,
-        "pe_90": 178.61
+        "pe_10": 22.46,
+        "pe_25": 33.54,
+        "pe_50": 46.22,
+        "pe_75": 89.78,
+        "pe_90": 164.94
       },
       {
         "date": "2026-01-16",
         "price": 32.4,
         "pe": 20.77,
-        "pe_10": 25.86,
-        "pe_25": 32.7,
-        "pe_50": 54.19,
-        "pe_75": 91.74,
-        "pe_90": 178.61
+        "pe_10": 22.46,
+        "pe_25": 33.54,
+        "pe_50": 46.22,
+        "pe_75": 89.78,
+        "pe_90": 164.94
       },
       {
         "date": "2026-02-14",
         "price": 32.35,
         "pe": 20.74,
-        "pe_10": 25.86,
-        "pe_25": 32.7,
-        "pe_50": 54.19,
-        "pe_75": 91.73,
-        "pe_90": 178.6
+        "pe_10": 22.46,
+        "pe_25": 33.54,
+        "pe_50": 46.22,
+        "pe_75": 89.77,
+        "pe_90": 164.93
       }
     ]
   },
@@ -17138,19 +16519,19 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
           {
             "field": "pe_10",
             "type": "quantitative",
-            "title": "PE 10% (16.6倍)",
+            "title": "PE 10% (14.4倍)",
             "format": ".1f"
           },
           {
             "field": "pe_50",
             "type": "quantitative",
-            "title": "PE 50% (34.7倍)",
+            "title": "PE 50% (29.6倍)",
             "format": ".1f"
           },
           {
             "field": "pe_90",
             "type": "quantitative",
-            "title": "PE 90% (114.5倍)",
+            "title": "PE 90% (105.7倍)",
             "format": ".1f"
           }
         ]
@@ -17870,6 +17251,10 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
       {
         "date": "2026-01-16",
         "revenue_yoy": 25.4
+      },
+      {
+        "date": "2026-02-14",
+        "revenue_yoy": -7.8
       }
     ]
   },
@@ -17937,16 +17322,16 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
 
 | 期間 | 平均PE | 平均報酬 | R² | 最佳買點 | 最差買點 |
 |:---:|:---:|:---:|:---:|:---|:---|
-| 3個月 | 92.1 | +137.9% | 0.000 | 2007-04 (+19319.2%) | 2007-10 (-94.0%) |
-| 6個月 | 93.2 | +33.3% | 0.002 | 2007-01 (+2132.9%) | 2007-07 (-88.0%) |
-| 1年 | 95.0 | +13.4% | 0.004 | 2006-07 (+362.8%) | 2007-09 (-65.0%) |
-| 2年 | 100.0 | +5.8% | 0.004 | 2006-04 (+69.3%) | 2014-06 (-21.1%) |
-| 3年 | 104.9 | +5.2% | 0.000 | 2006-07 (+49.8%) | 2014-06 (-18.4%) |
-| 4年 | 111.3 | +4.2% | 0.002 | 2006-07 (+34.6%) | 2016-03 (-13.4%) |
-| 5年 | 118.8 | +3.0% | 0.002 | 2008-09 (+22.9%) | 2015-03 (-14.0%) |
-| 6年 | 128.4 | +2.4% | 0.003 | 2007-02 (+23.4%) | 2014-07 (-11.4%) |
-| 8年 | 147.6 | +1.6% | 0.012 | 2006-07 (+20.0%) | 2013-10 (-6.8%) |
-| 10年 | 161.7 | +1.0% | 0.047 | 2006-07 (+11.4%) | 2007-07 (-5.6%) |
+| 3個月 | 106.1 | +137.9% | 0.000 | 2007-04 (+19319.2%) | 2007-10 (-94.0%) |
+| 6個月 | 107.4 | +33.3% | 0.001 | 2007-01 (+2132.9%) | 2007-07 (-88.0%) |
+| 1年 | 109.6 | +13.4% | 0.001 | 2006-07 (+362.8%) | 2007-09 (-65.0%) |
+| 2年 | 116.0 | +5.8% | 0.001 | 2006-04 (+69.3%) | 2014-06 (-21.1%) |
+| 3年 | 122.1 | +5.2% | 0.000 | 2006-07 (+49.8%) | 2014-06 (-18.4%) |
+| 4年 | 130.2 | +4.2% | 0.000 | 2006-07 (+34.6%) | 2016-03 (-13.4%) |
+| 5年 | 139.3 | +3.0% | 0.000 | 2008-09 (+22.9%) | 2015-03 (-14.0%) |
+| 6年 | 151.2 | +2.4% | 0.001 | 2007-02 (+23.4%) | 2014-07 (-11.4%) |
+| 8年 | 171.3 | +1.6% | 0.003 | 2006-07 (+20.0%) | 2013-10 (-6.8%) |
+| 10年 | 186.6 | +1.0% | 0.010 | 2006-07 (+11.4%) | 2007-07 (-5.6%) |
 
 
 ## 🎯 使用說明
@@ -17965,4 +17350,4 @@ description: "4114 健喬 (生技醫療業) 本益比與未來報酬率關係分
 ---
 
 *本報告由 Stock Analysis System v1.9.0 自動生成*
-*數據更新時間: 2026-03-07 12:34:20 CST*
+*數據更新時間: 2026-03-21 12:40:58 CST*
